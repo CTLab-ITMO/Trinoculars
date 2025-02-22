@@ -6,9 +6,15 @@ import datetime
 import argparse
 
 def main():
+    data_dir = "./data"
+    available_datasets = [os.path.splitext(f)[0] for f in os.listdir(data_dir) if f.endswith('.json')]
+    
     parser = argparse.ArgumentParser(description='Run model testing on selected dataset')
     parser.add_argument('--dataset', type=str, choices=['ru', 'eng', 'all'], 
-                       default='all', help='Choose dataset for testing (ru/eng/all)')
+                       default='all', help='Choose dataset language (ru/eng/all)')
+    parser.add_argument('--ru_datasets', nargs='+', 
+                       default=['all'],
+                       help='Specify keywords for Russian datasets (e.g., 4o mini) or "all"')
     args = parser.parse_args()
 
     model_pairs = [
@@ -66,7 +72,22 @@ def main():
 
         if args.dataset in ['ru', 'all']:
             data_dir = "./data"
-            json_files = [f for f in os.listdir(data_dir) if f.endswith('.json')]
+            if 'all' in args.ru_datasets:
+                json_files = [f for f in os.listdir(data_dir) if f.endswith('.json')]
+            else:
+                json_files = []
+                for keyword in args.ru_datasets:
+                    matching_files = [f for f in os.listdir(data_dir) 
+                                   if f.endswith('.json') and keyword.lower() in f.lower()]
+                    json_files.extend(matching_files)
+                json_files = list(set(json_files))
+                
+                if not json_files:
+                    print(f"Warning: No datasets found matching keywords: {args.ru_datasets}")
+                    print(f"Available datasets: {available_datasets}")
+                    #return
+                
+                print(f"Selected datasets: {json_files}")
             
             for json_file in json_files:
                 print(f"\nProcessing file: {json_file}")
