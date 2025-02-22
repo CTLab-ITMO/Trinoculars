@@ -108,10 +108,12 @@ class Binoculars(object):
         binoculars_scores = binoculars_scores.tolist()
         return binoculars_scores[0] if isinstance(input_text, str) else binoculars_scores
 
-    def predict(self, input_text: Union[list[str], str]) -> Union[list[str], str]:
+    def predict(self, input_text: Union[list[str], str]) -> Union[tuple[list[str], list[float]], tuple[str, float]]:
         binoculars_scores = np.array(self.compute_score(input_text))
         pred = np.where(binoculars_scores < self.threshold,
                         "Most likely AI-generated",
                         "Most likely human-generated"
                         ).tolist()
-        return pred
+        if isinstance(input_text, str):
+            return pred[0], binoculars_scores[0]
+        return pred, binoculars_scores.tolist()

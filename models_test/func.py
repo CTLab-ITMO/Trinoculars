@@ -144,7 +144,7 @@ def run_ru_dataset(bino, sample_rate, data, max_samples=2000):
     false_negatives = []
     error_count = 0
     check_counter = 0
-    predictions_sum = 0
+    scores_sum = 0
 
     dataset_results = {}
 
@@ -154,12 +154,12 @@ def run_ru_dataset(bino, sample_rate, data, max_samples=2000):
             
         if random.random() < sample_rate:
             try:
-                prediction = bino.predict(row["text"])
+                prediction, score = bino.predict(row["text"])
                 if isinstance(prediction, (int, float)) and prediction > 1:
                     error_count += 1
                     continue
                 predicted_ai = (prediction == "Most likely AI-generated")
-                predictions_sum += 1 if predicted_ai else 0
+                scores_sum += score
             except Exception as e:
                 print(f"\nError predicting for text: {row['text']}, Error: {e}")
                 error_count += 1
@@ -233,7 +233,7 @@ def run_ru_dataset(bino, sample_rate, data, max_samples=2000):
         metrics_dict['fpr'] = fpr_value
         metrics_dict['tnr'] = tnr_value
         metrics_dict['fnr'] = fnr_value
-        metrics_dict['avg_prediction'] = predictions_sum / check_counter if check_counter > 0 else 0
+        metrics_dict['avg_prediction'] = scores_sum / check_counter if check_counter > 0 else 0
 
         return metrics_dict
 
