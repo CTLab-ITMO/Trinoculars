@@ -17,6 +17,7 @@ def run_eng_dataset(bino, sample_rate, max_samples=2000):
     false_negatives = []
     error_count = 0
     check_counter = 0
+    predictions_sum = 0
 
     data_dir = "./data"
     os.makedirs(data_dir, exist_ok=True)
@@ -67,6 +68,7 @@ def run_eng_dataset(bino, sample_rate, max_samples=2000):
                             error_count += 1
                             continue
                         predicted_ai = (prediction == "Most likely AI-generated")
+                        predictions_sum += 1 if predicted_ai else 0
                     except Exception as e:
                         print(f"\nError predicting for text: {row.text}, Error: {e}")
                         error_count += 1
@@ -120,7 +122,8 @@ def run_eng_dataset(bino, sample_rate, max_samples=2000):
             'tpr': tpr_value,
             'fpr': fpr_value,
             'tnr': tnr_value,
-            'fnr': fnr_value
+            'fnr': fnr_value,
+            'avg_prediction': predictions_sum / check_counter if check_counter > 0 else 0
         },
         'data': {
             'true_positives': true_positives,
@@ -141,6 +144,7 @@ def run_ru_dataset(bino, sample_rate, data, max_samples=2000):
     false_negatives = []
     error_count = 0
     check_counter = 0
+    predictions_sum = 0
 
     dataset_results = {}
 
@@ -155,6 +159,7 @@ def run_ru_dataset(bino, sample_rate, data, max_samples=2000):
                     error_count += 1
                     continue
                 predicted_ai = (prediction == "Most likely AI-generated")
+                predictions_sum += 1 if predicted_ai else 0
             except Exception as e:
                 print(f"\nError predicting for text: {row['text']}, Error: {e}")
                 error_count += 1
@@ -228,6 +233,7 @@ def run_ru_dataset(bino, sample_rate, data, max_samples=2000):
         metrics_dict['fpr'] = fpr_value
         metrics_dict['tnr'] = tnr_value
         metrics_dict['fnr'] = fnr_value
+        metrics_dict['avg_prediction'] = predictions_sum / check_counter if check_counter > 0 else 0
 
         return metrics_dict
 
