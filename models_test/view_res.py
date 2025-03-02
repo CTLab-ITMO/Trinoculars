@@ -13,14 +13,9 @@ def main():
 
     model_pairs = [
         {
-            "observer": "deepseek-ai/deepseek-llm-7b-base",
-            "performer": "deepseek-ai/deepseek-coder-7b-instruct-v1.5",
-            "name": "Pair 1 - deepseek-llm-7b-base and deepseek-coder-7b-instruct-v1.5"
-        },
-        {
-            "observer": "deepseek-ai/deepseek-llm-7b-base",
-            "performer": "deepseek-ai/deepseek-llm-7b-chat",
-            "name": "Pair 1 - deepseek-llm-7b-base and deepseek-ai/deepseek-llm-7b-chat"
+            "observer": "yandex/YandexGPT-5-Lite-8B-pretrain",
+            "performer": "Vikhrmodels/Vikhr-YandexGPT-5-Lite-8B-it",
+            "name": "Pair 1 - yandex/YandexGPT-5-Lite-8B-pretrain and Vikhrmodels/Vikhr-YandexGPT-5-Lite-8B-it"
         }
     ]
     output_dir = "./results"
@@ -77,7 +72,7 @@ def main():
                 
                 dataset_name = os.path.splitext(json_file)[0]
                 
-                results_ru = run_ru_dataset(bino, sample_rate=0.75, data=dataset, max_samples=4000)
+                results_ru = run_ru_dataset(bino, sample_rate=0.7, data=dataset, max_samples=6000)
                 results_ru['model_pair'] = {
                     'observer': pair['observer'],
                     'performer': pair['performer'],
