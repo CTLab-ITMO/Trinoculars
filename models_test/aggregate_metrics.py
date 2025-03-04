@@ -28,8 +28,8 @@ def extract_language(file_path):
 def extract_dataset(file_path):
     base = os.path.basename(file_path)
     parts = base.split("___")[0].split("_")
-    if len(parts) >= 6:  # results_ru_chatGPT_4o_Pair_1
-        return "_".join(parts[2:5])  # вернет "chatGPT_4o_Pair"
+    if len(parts) >= 3:  # results_ru_gemini-2.0-pro-exp-02-05
+        return "_".join(parts[2:])  # вернет "gemini-2.0-pro-exp-02-05"
     return "unknown"
 
 def recalc_f1_if_needed(rows):
@@ -49,12 +49,12 @@ def recalc_f1_if_needed(rows):
         except Exception as e:
             pass
 
-files = glob.glob("metr/*.json")
+files = glob.glob("models_test/res/with_score/*.json")
 
 rows = []
 
 metric_keys = [
-    "f1_score", "roc_auc", "tpr_at_fpr_0_01", "tpr", "fpr", "tnr", "fnr"
+    "f1_score", "avg_prediction", "roc_auc", "tpr_at_fpr_0_01", "tpr", "fpr", "tnr", "fnr"
 ]
 
 for file_path in files:
@@ -97,6 +97,6 @@ df = pd.DataFrame(rows)
 
 print(df.to_string(index=False))
 
-output_filename = "metrics_new.xlsx"
+output_filename = "metrics_new_2.xlsx"
 df.to_excel(output_filename, index=False)
 print(f"Data saved to Excel file: {output_filename}")

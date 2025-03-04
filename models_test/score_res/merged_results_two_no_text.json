@@ -1,0 +1,5429 @@
+{
+  "data": [
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP deepseek-r1",
+      "score1": 0.9407894611358643,
+      "score2": 1.0077519416809082,
+      "id": 1
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP deepseek-r1",
+      "score1": 0.8805969953536987,
+      "score2": 0.9955357313156128,
+      "id": 2
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP deepseek-r1",
+      "score1": 0.8837209343910217,
+      "score2": 0.9954954981803894,
+      "id": 3
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP deepseek-r1",
+      "score1": 0.9028339982032776,
+      "score2": 0.9433962106704712,
+      "id": 4
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP deepseek-r1",
+      "score1": 0.7607142925262451,
+      "score2": 0.8702929019927979,
+      "id": 5
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP deepseek-r1",
+      "score1": 0.8502024412155151,
+      "score2": 0.9663461446762085,
+      "id": 6
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP deepseek-r1",
+      "score1": 0.7510204315185547,
+      "score2": 0.8899521827697754,
+      "id": 7
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP deepseek-r1",
+      "score1": 0.8831169009208679,
+      "score2": 0.9881889820098877,
+      "id": 8
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP deepseek-r1",
+      "score1": 0.7857142686843872,
+      "score2": 0.8917748928070068,
+      "id": 9
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP deepseek-r1",
+      "score1": 0.8597122430801392,
+      "score2": 0.949367105960846,
+      "id": 10
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP deepseek-r1",
+      "score1": 0.9176470637321472,
+      "score2": 1.0092592239379883,
+      "id": 11
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP deepseek-r1",
+      "score1": 0.8436213731765747,
+      "score2": 0.9227052927017212,
+      "id": 12
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP deepseek-r1",
+      "score1": 0.7807692289352417,
+      "score2": 0.8363636136054993,
+      "id": 13
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP deepseek-r1",
+      "score1": 0.8708333373069763,
+      "score2": 1.024154543876648,
+      "id": 14
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP deepseek-r1",
+      "score1": 0.9328063130378723,
+      "score2": 1.0047392845153809,
+      "id": 15
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP deepseek-r1",
+      "score1": 0.8560000061988831,
+      "score2": 0.9528301954269409,
+      "id": 16
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP deepseek-r1",
+      "score1": 0.8576388955116272,
+      "score2": 0.9567099809646606,
+      "id": 17
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP deepseek-r1",
+      "score1": 0.8571428656578064,
+      "score2": 1.0094786882400513,
+      "id": 18
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP deepseek-r1",
+      "score1": 0.8776371479034424,
+      "score2": 0.949999988079071,
+      "id": 19
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP deepseek-r1",
+      "score1": 0.8313725590705872,
+      "score2": 0.9321267008781433,
+      "id": 20
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8731343150138855,
+      "score2": 0.9779735803604126,
+      "id": 21
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9280303120613098,
+      "score2": 1.076576590538025,
+      "id": 22
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.936170220375061,
+      "score2": 1.0357142686843872,
+      "id": 23
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9173553586006165,
+      "score2": 1.0386472940444946,
+      "id": 24
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8428571224212646,
+      "score2": 1.0557940006256104,
+      "id": 25
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8716813921928406,
+      "score2": 0.9494949579238892,
+      "id": 26
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8401639461517334,
+      "score2": 0.9711538553237915,
+      "id": 27
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8535714149475098,
+      "score2": 0.9307359457015991,
+      "id": 28
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9095022678375244,
+      "score2": 1.0569947957992554,
+      "id": 29
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.84765625,
+      "score2": 1.0285714864730835,
+      "id": 30
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9090909361839294,
+      "score2": 1.0,
+      "id": 31
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.875,
+      "score2": 0.9458128213882446,
+      "id": 32
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9245283007621765,
+      "score2": 1.060109257698059,
+      "id": 33
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.919847309589386,
+      "score2": 1.0555555820465088,
+      "id": 34
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8784313797950745,
+      "score2": 0.9530516266822815,
+      "id": 35
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8461538553237915,
+      "score2": 0.9539170265197754,
+      "id": 36
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.951127827167511,
+      "score2": 1.1127450466156006,
+      "id": 37
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.951127827167511,
+      "score2": 1.0316742658615112,
+      "id": 38
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9068825840950012,
+      "score2": 0.9710144996643066,
+      "id": 39
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8216783404350281,
+      "score2": 1.0130435228347778,
+      "id": 40
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8999999761581421,
+      "score2": 1.0441176891326904,
+      "id": 41
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8705882430076599,
+      "score2": 0.9906976819038391,
+      "id": 42
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8526785969734192,
+      "score2": 0.9468085169792175,
+      "id": 43
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8686131238937378,
+      "score2": 0.949367105960846,
+      "id": 44
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9153845906257629,
+      "score2": 1.0267857313156128,
+      "id": 45
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.949999988079071,
+      "score2": 1.0442477464675903,
+      "id": 46
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9039999842643738,
+      "score2": 1.0594059228897095,
+      "id": 47
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8283261656761169,
+      "score2": 0.9797979593276978,
+      "id": 48
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8333333134651184,
+      "score2": 0.9690265655517578,
+      "id": 49
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7698744535446167,
+      "score2": 1.0050761699676514,
+      "id": 50
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8565573692321777,
+      "score2": 0.9764150977134705,
+      "id": 51
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7890295386314392,
+      "score2": 0.9323671460151672,
+      "id": 52
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9861751198768616,
+      "score2": 1.1270718574523926,
+      "id": 53
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8478260636329651,
+      "score2": 1.0307692289352417,
+      "id": 54
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8209607005119324,
+      "score2": 0.925000011920929,
+      "id": 55
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8228346705436707,
+      "score2": 1.0138249397277832,
+      "id": 56
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8165137767791748,
+      "score2": 0.957446813583374,
+      "id": 57
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8166666626930237,
+      "score2": 1.0292682647705078,
+      "id": 58
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8106995820999146,
+      "score2": 0.931034505367279,
+      "id": 59
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.949999988079071,
+      "score2": 1.0641025304794312,
+      "id": 60
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8767123222351074,
+      "score2": 1.0108696222305298,
+      "id": 61
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8157894611358643,
+      "score2": 1.0,
+      "id": 62
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8549618124961853,
+      "score2": 1.0357142686843872,
+      "id": 63
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8690476417541504,
+      "score2": 1.09359610080719,
+      "id": 64
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.902953565120697,
+      "score2": 0.9356435537338257,
+      "id": 65
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8425197005271912,
+      "score2": 0.9722222089767456,
+      "id": 66
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8165938854217529,
+      "score2": 0.9145728349685669,
+      "id": 67
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9538461565971375,
+      "score2": 1.069124460220337,
+      "id": 68
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8295964002609253,
+      "score2": 0.9845361113548279,
+      "id": 69
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8660714030265808,
+      "score2": 0.9629629850387573,
+      "id": 70
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9113923907279968,
+      "score2": 1.0507614612579346,
+      "id": 71
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8155737519264221,
+      "score2": 0.9953051805496216,
+      "id": 72
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9324894547462463,
+      "score2": 1.0485436916351318,
+      "id": 73
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7531914710998535,
+      "score2": 0.8975609540939331,
+      "id": 74
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7792207598686218,
+      "score2": 0.9141414165496826,
+      "id": 75
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9102563858032227,
+      "score2": 1.0150753259658813,
+      "id": 76
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.857740581035614,
+      "score2": 0.9708737730979919,
+      "id": 77
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9170124530792236,
+      "score2": 1.0,
+      "id": 78
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7456896305084229,
+      "score2": 0.8860103487968445,
+      "id": 79
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7801724076271057,
+      "score2": 0.9356435537338257,
+      "id": 80
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8584070801734924,
+      "score2": 0.9145728349685669,
+      "id": 81
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8515284061431885,
+      "score2": 0.9554455280303955,
+      "id": 82
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8228346705436707,
+      "score2": 0.9466666579246521,
+      "id": 83
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8991228342056274,
+      "score2": 0.9896907210350037,
+      "id": 84
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8619047403335571,
+      "score2": 0.8864864706993103,
+      "id": 85
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9042553305625916,
+      "score2": 1.0338983535766602,
+      "id": 86
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8372092843055725,
+      "score2": 1.0091323852539062,
+      "id": 87
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9253731369972229,
+      "score2": 1.0,
+      "id": 88
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7652173638343811,
+      "score2": 0.8894472122192383,
+      "id": 89
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9020408391952515,
+      "score2": 0.9490740895271301,
+      "id": 90
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.91015625,
+      "score2": 0.9406392574310303,
+      "id": 91
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8083333373069763,
+      "score2": 0.9095237851142883,
+      "id": 92
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 1.0092592239379883,
+      "score2": 1.1141303777694702,
+      "id": 93
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8938775658607483,
+      "score2": 1.0093457698822021,
+      "id": 94
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.783687949180603,
+      "score2": 0.9279999732971191,
+      "id": 95
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8595744967460632,
+      "score2": 1.0333333015441895,
+      "id": 96
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8825910687446594,
+      "score2": 0.9624413251876831,
+      "id": 97
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8916666507720947,
+      "score2": 0.9767441749572754,
+      "id": 98
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8253275156021118,
+      "score2": 1.0329670906066895,
+      "id": 99
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9126637578010559,
+      "score2": 1.0297030210494995,
+      "id": 100
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9444444179534912,
+      "score2": 1.0130435228347778,
+      "id": 101
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8782608509063721,
+      "score2": 0.9842932224273682,
+      "id": 102
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9012345671653748,
+      "score2": 1.0141509771347046,
+      "id": 103
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8816326260566711,
+      "score2": 1.0424528121948242,
+      "id": 104
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8995633125305176,
+      "score2": 0.9599999785423279,
+      "id": 105
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8089430928230286,
+      "score2": 1.0184332132339478,
+      "id": 106
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8864628672599792,
+      "score2": 0.946601927280426,
+      "id": 107
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8951612710952759,
+      "score2": 0.9954338073730469,
+      "id": 108
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9135802388191223,
+      "score2": 0.9663461446762085,
+      "id": 109
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9108527302742004,
+      "score2": 1.0,
+      "id": 110
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8647540807723999,
+      "score2": 1.0,
+      "id": 111
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8553191423416138,
+      "score2": 0.9458128213882446,
+      "id": 112
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9292452931404114,
+      "score2": 1.0268816947937012,
+      "id": 113
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8538461327552795,
+      "score2": 1.0506912469863892,
+      "id": 114
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8258928656578064,
+      "score2": 0.90625,
+      "id": 115
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8879310488700867,
+      "score2": 1.0295566320419312,
+      "id": 116
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8522727489471436,
+      "score2": 0.948387086391449,
+      "id": 117
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8516949415206909,
+      "score2": 0.9758453965187073,
+      "id": 118
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8536585569381714,
+      "score2": 1.033707857131958,
+      "id": 119
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8653846383094788,
+      "score2": 1.0409090518951416,
+      "id": 120
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9372197389602661,
+      "score2": 1.0,
+      "id": 121
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9329608678817749,
+      "score2": 1.0466666221618652,
+      "id": 122
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8851063847541809,
+      "score2": 0.9320388436317444,
+      "id": 123
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8536585569381714,
+      "score2": 0.9363636374473572,
+      "id": 124
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8647342920303345,
+      "score2": 0.9884393215179443,
+      "id": 125
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9196428656578064,
+      "score2": 1.0,
+      "id": 126
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8733031749725342,
+      "score2": 0.9948717951774597,
+      "id": 127
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8220338821411133,
+      "score2": 0.8599033951759338,
+      "id": 128
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9057376980781555,
+      "score2": 1.057416319847107,
+      "id": 129
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8385826945304871,
+      "score2": 0.9894737005233765,
+      "id": 130
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8536585569381714,
+      "score2": 0.9720930457115173,
+      "id": 131
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.874476969242096,
+      "score2": 0.9895833134651184,
+      "id": 132
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8999999761581421,
+      "score2": 1.0120482444763184,
+      "id": 133
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8941176533699036,
+      "score2": 1.0174672603607178,
+      "id": 134
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.893203854560852,
+      "score2": 1.0161290168762207,
+      "id": 135
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8357487916946411,
+      "score2": 0.9548022747039795,
+      "id": 136
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9242424368858337,
+      "score2": 1.0267857313156128,
+      "id": 137
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8730769157409668,
+      "score2": 0.9561403393745422,
+      "id": 138
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9246031641960144,
+      "score2": 1.031531572341919,
+      "id": 139
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9327354431152344,
+      "score2": 1.0101009607315063,
+      "id": 140
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.904347836971283,
+      "score2": 1.0,
+      "id": 141
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9055793881416321,
+      "score2": 0.9792746305465698,
+      "id": 142
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9880478382110596,
+      "score2": 1.014634132385254,
+      "id": 143
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9007936716079712,
+      "score2": 1.028037428855896,
+      "id": 144
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9100719690322876,
+      "score2": 0.9775784611701965,
+      "id": 145
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8576388955116272,
+      "score2": 0.9113923907279968,
+      "id": 146
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9037036895751953,
+      "score2": 1.0,
+      "id": 147
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9241071343421936,
+      "score2": 1.011173129081726,
+      "id": 148
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9919999837875366,
+      "score2": 1.0194175243377686,
+      "id": 149
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9444444179534912,
+      "score2": 1.0,
+      "id": 150
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8934426307678223,
+      "score2": 1.029411792755127,
+      "id": 151
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9533898234367371,
+      "score2": 1.067039132118225,
+      "id": 152
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9577465057373047,
+      "score2": 0.9940828680992126,
+      "id": 153
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9197080135345459,
+      "score2": 1.0089685916900635,
+      "id": 154
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8686440587043762,
+      "score2": 1.0,
+      "id": 155
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9495798349380493,
+      "score2": 1.0196079015731812,
+      "id": 156
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9079999923706055,
+      "score2": 1.0147783756256104,
+      "id": 157
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9455782175064087,
+      "score2": 0.9754098653793335,
+      "id": 158
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9386792182922363,
+      "score2": 1.0393258333206177,
+      "id": 159
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8920863270759583,
+      "score2": 0.9714285731315613,
+      "id": 160
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8692307472229004,
+      "score2": 0.9646017551422119,
+      "id": 161
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8814814686775208,
+      "score2": 0.9523809552192688,
+      "id": 162
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9137930870056152,
+      "score2": 0.9157894849777222,
+      "id": 163
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8939393758773804,
+      "score2": 0.9860464930534363,
+      "id": 164
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 1.0,
+      "score2": 1.0627802610397339,
+      "id": 165
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9330543875694275,
+      "score2": 1.0640393495559692,
+      "id": 166
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9586777091026306,
+      "score2": 1.0153061151504517,
+      "id": 167
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9704641103744507,
+      "score2": 1.0054644346237183,
+      "id": 168
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9672130942344666,
+      "score2": 0.9739583134651184,
+      "id": 169
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 1.0,
+      "score2": 1.0861244201660156,
+      "id": 170
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9154929518699646,
+      "score2": 1.0041494369506836,
+      "id": 171
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9007633328437805,
+      "score2": 1.017699122428894,
+      "id": 172
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9411764740943909,
+      "score2": 1.004807710647583,
+      "id": 173
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9203187227249146,
+      "score2": 0.9759615659713745,
+      "id": 174
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8893442749977112,
+      "score2": 0.9760765433311462,
+      "id": 175
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8758864998817444,
+      "score2": 0.9739130139350891,
+      "id": 176
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9045801758766174,
+      "score2": 0.9953917264938354,
+      "id": 177
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9656488299369812,
+      "score2": 1.0545454025268555,
+      "id": 178
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9847328066825867,
+      "score2": 1.04020094871521,
+      "id": 179
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8423236608505249,
+      "score2": 0.9660193920135498,
+      "id": 180
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8804348111152649,
+      "score2": 0.9508196711540222,
+      "id": 181
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9685039520263672,
+      "score2": 1.0140844583511353,
+      "id": 182
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9635627269744873,
+      "score2": 1.0047619342803955,
+      "id": 183
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.94140625,
+      "score2": 1.0,
+      "id": 184
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9179104566574097,
+      "score2": 0.9911110997200012,
+      "id": 185
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9869565367698669,
+      "score2": 0.9946236610412598,
+      "id": 186
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8708333373069763,
+      "score2": 0.9753694534301758,
+      "id": 187
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9790209531784058,
+      "score2": 1.0509259700775146,
+      "id": 188
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8840000033378601,
+      "score2": 0.9414634108543396,
+      "id": 189
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9402390718460083,
+      "score2": 1.048076868057251,
+      "id": 190
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8368200659751892,
+      "score2": 1.0094339847564697,
+      "id": 191
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9618320465087891,
+      "score2": 1.0176211595535278,
+      "id": 192
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9031007885932922,
+      "score2": 0.98591548204422,
+      "id": 193
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9214285612106323,
+      "score2": 0.9316239356994629,
+      "id": 194
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9696969985961914,
+      "score2": 1.058823585510254,
+      "id": 195
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9303278923034668,
+      "score2": 1.0197044610977173,
+      "id": 196
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8697478771209717,
+      "score2": 0.9854369163513184,
+      "id": 197
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8915094137191772,
+      "score2": 0.9397590160369873,
+      "id": 198
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 1.0359711647033691,
+      "score2": 1.0940171480178833,
+      "id": 199
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9558823704719543,
+      "score2": 1.0049505233764648,
+      "id": 200
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8595744967460632,
+      "score2": 1.0341463088989258,
+      "id": 201
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7982456088066101,
+      "score2": 0.9896907210350037,
+      "id": 202
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.6965811848640442,
+      "score2": 0.8877550959587097,
+      "id": 203
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.918552041053772,
+      "score2": 1.0137615203857422,
+      "id": 204
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7931034564971924,
+      "score2": 0.9583333134651184,
+      "id": 205
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8137651681900024,
+      "score2": 1.0191388130187988,
+      "id": 206
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8410852551460266,
+      "score2": 1.0410958528518677,
+      "id": 207
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8284518718719482,
+      "score2": 1.004807710647583,
+      "id": 208
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7557252049446106,
+      "score2": 0.9912663698196411,
+      "id": 209
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8358209133148193,
+      "score2": 1.0470085144042969,
+      "id": 210
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7918367385864258,
+      "score2": 0.9665071964263916,
+      "id": 211
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8799999952316284,
+      "score2": 0.979899525642395,
+      "id": 212
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8931297659873962,
+      "score2": 1.0,
+      "id": 213
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8590308427810669,
+      "score2": 0.9791666865348816,
+      "id": 214
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7614678740501404,
+      "score2": 1.0053476095199585,
+      "id": 215
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8769230842590332,
+      "score2": 1.0401785373687744,
+      "id": 216
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.6917808055877686,
+      "score2": 0.9669421315193176,
+      "id": 217
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7918552160263062,
+      "score2": 0.9794871807098389,
+      "id": 218
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8097345232963562,
+      "score2": 0.9492385983467102,
+      "id": 219
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7942386865615845,
+      "score2": 0.9234449863433838,
+      "id": 220
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7846715450286865,
+      "score2": 0.9700854420661926,
+      "id": 221
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7834645509719849,
+      "score2": 0.9951691031455994,
+      "id": 222
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8934426307678223,
+      "score2": 1.0283018350601196,
+      "id": 223
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7892857193946838,
+      "score2": 1.0543932914733887,
+      "id": 224
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8389830589294434,
+      "score2": 0.979899525642395,
+      "id": 225
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.6710526347160339,
+      "score2": 0.9130434989929199,
+      "id": 226
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7405660152435303,
+      "score2": 0.8972973227500916,
+      "id": 227
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7822580933570862,
+      "score2": 0.9803921580314636,
+      "id": 228
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8452380895614624,
+      "score2": 0.9150943160057068,
+      "id": 229
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8615384697914124,
+      "score2": 1.0446428060531616,
+      "id": 230
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7949790954589844,
+      "score2": 1.0098521709442139,
+      "id": 231
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8450704216957092,
+      "score2": 1.0688259601593018,
+      "id": 232
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9267241358757019,
+      "score2": 1.0585365295410156,
+      "id": 233
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8679999709129333,
+      "score2": 1.0265486240386963,
+      "id": 234
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7488986849784851,
+      "score2": 0.938144326210022,
+      "id": 235
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9141631126403809,
+      "score2": 0.9949238300323486,
+      "id": 236
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.779411792755127,
+      "score2": 0.9537814855575562,
+      "id": 237
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8227272629737854,
+      "score2": 1.03108811378479,
+      "id": 238
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8389830589294434,
+      "score2": 1.0195121765136719,
+      "id": 239
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8099173307418823,
+      "score2": 1.0,
+      "id": 240
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7960000038146973,
+      "score2": 0.9668246507644653,
+      "id": 241
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9147982001304626,
+      "score2": 1.010695219039917,
+      "id": 242
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8258928656578064,
+      "score2": 0.9946523904800415,
+      "id": 243
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8794642686843872,
+      "score2": 1.0666667222976685,
+      "id": 244
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8298755288124084,
+      "score2": 0.9712918400764465,
+      "id": 245
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8849557638168335,
+      "score2": 1.0257731676101685,
+      "id": 246
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7882353067398071,
+      "score2": 0.9681817889213562,
+      "id": 247
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8875501751899719,
+      "score2": 1.041284441947937,
+      "id": 248
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7058823704719543,
+      "score2": 0.8526315689086914,
+      "id": 249
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8647540807723999,
+      "score2": 1.0283018350601196,
+      "id": 250
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8101266026496887,
+      "score2": 0.942307710647583,
+      "id": 251
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8432203531265259,
+      "score2": 0.9704433679580688,
+      "id": 252
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7747747898101807,
+      "score2": 0.9405405521392822,
+      "id": 253
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7649572491645813,
+      "score2": 0.9024389982223511,
+      "id": 254
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9402984976768494,
+      "score2": 1.0328638553619385,
+      "id": 255
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7692307829856873,
+      "score2": 0.9819819927215576,
+      "id": 256
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8340249061584473,
+      "score2": 0.9669811129570007,
+      "id": 257
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.672340452671051,
+      "score2": 0.8963730335235596,
+      "id": 258
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7824074029922485,
+      "score2": 0.9840425252914429,
+      "id": 259
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7772727012634277,
+      "score2": 0.9947090148925781,
+      "id": 260
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8999999761581421,
+      "score2": 1.0189573764801025,
+      "id": 261
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8875969052314758,
+      "score2": 0.9779735803604126,
+      "id": 262
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9426229596138,
+      "score2": 1.013953447341919,
+      "id": 263
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8964285850524902,
+      "score2": 1.0409835577011108,
+      "id": 264
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9675324559211731,
+      "score2": 0.9846153855323792,
+      "id": 265
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.970802903175354,
+      "score2": 1.0256410837173462,
+      "id": 266
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8686440587043762,
+      "score2": 1.0392156839370728,
+      "id": 267
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8549019694328308,
+      "score2": 0.9255813956260681,
+      "id": 268
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9652777910232544,
+      "score2": 1.0732758045196533,
+      "id": 269
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8509804010391235,
+      "score2": 0.9422222375869751,
+      "id": 270
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9032257795333862,
+      "score2": 0.9720930457115173,
+      "id": 271
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9254902005195618,
+      "score2": 0.9813953638076782,
+      "id": 272
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9191176295280457,
+      "score2": 0.97826087474823,
+      "id": 273
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8645418286323547,
+      "score2": 1.0,
+      "id": 274
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9858155846595764,
+      "score2": 1.1139240264892578,
+      "id": 275
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8918918967247009,
+      "score2": 0.9725490212440491,
+      "id": 276
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8787878751754761,
+      "score2": 1.0,
+      "id": 277
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9230769276618958,
+      "score2": 1.0040816068649292,
+      "id": 278
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9469696879386902,
+      "score2": 1.0094339847564697,
+      "id": 279
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 1.0144927501678467,
+      "score2": 1.072649598121643,
+      "id": 280
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9455782175064087,
+      "score2": 1.0281124114990234,
+      "id": 281
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9347826242446899,
+      "score2": 1.042016863822937,
+      "id": 282
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9233576655387878,
+      "score2": 1.0299144983291626,
+      "id": 283
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8828125,
+      "score2": 1.0336538553237915,
+      "id": 284
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9343065619468689,
+      "score2": 0.9919354915618896,
+      "id": 285
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8961538672447205,
+      "score2": 1.008583664894104,
+      "id": 286
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9253112077713013,
+      "score2": 1.0436893701553345,
+      "id": 287
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9330708384513855,
+      "score2": 1.0226244926452637,
+      "id": 288
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8645418286323547,
+      "score2": 1.0046511888504028,
+      "id": 289
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 1.0065789222717285,
+      "score2": 1.0916030406951904,
+      "id": 290
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9314516186714172,
+      "score2": 1.0798121690750122,
+      "id": 291
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8666666746139526,
+      "score2": 0.9446808695793152,
+      "id": 292
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8684210777282715,
+      "score2": 0.9702127575874329,
+      "id": 293
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9732824563980103,
+      "score2": 1.0555555820465088,
+      "id": 294
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9626865386962891,
+      "score2": 1.0,
+      "id": 295
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9047619104385376,
+      "score2": 0.9696969985961914,
+      "id": 296
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.5680751204490662,
+      "score2": 0.6432432532310486,
+      "id": 297
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8893805146217346,
+      "score2": 0.9387755393981934,
+      "id": 298
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.875,
+      "score2": 0.9741379022598267,
+      "id": 299
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8693877458572388,
+      "score2": 1.0093023777008057,
+      "id": 300
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9631147384643555,
+      "score2": 1.0469483137130737,
+      "id": 301
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9027777910232544,
+      "score2": 1.0,
+      "id": 302
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8122448921203613,
+      "score2": 0.985981285572052,
+      "id": 303
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8347457647323608,
+      "score2": 0.9485981464385986,
+      "id": 304
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.914814829826355,
+      "score2": 1.0088105201721191,
+      "id": 305
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.931034505367279,
+      "score2": 1.0,
+      "id": 306
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8333333134651184,
+      "score2": 0.931034505367279,
+      "id": 307
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9224806427955627,
+      "score2": 1.0044842958450317,
+      "id": 308
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8695651888847351,
+      "score2": 1.005128264427185,
+      "id": 309
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9747899174690247,
+      "score2": 1.0205128192901611,
+      "id": 310
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8984962701797485,
+      "score2": 0.96875,
+      "id": 311
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9375,
+      "score2": 1.0118577480316162,
+      "id": 312
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8795620203018188,
+      "score2": 0.9873949289321899,
+      "id": 313
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9301470518112183,
+      "score2": 1.0663716793060303,
+      "id": 314
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.85537189245224,
+      "score2": 0.9577465057373047,
+      "id": 315
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9387755393981934,
+      "score2": 1.0460251569747925,
+      "id": 316
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9288537502288818,
+      "score2": 0.9556650519371033,
+      "id": 317
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9159663915634155,
+      "score2": 0.9700000286102295,
+      "id": 318
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9497717022895813,
+      "score2": 1.0209424495697021,
+      "id": 319
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9057971239089966,
+      "score2": 0.9957447052001953,
+      "id": 320
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8587786555290222,
+      "score2": 0.9954128265380859,
+      "id": 321
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9586465954780579,
+      "score2": 1.0732758045196533,
+      "id": 322
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9806763529777527,
+      "score2": 1.0306748151779175,
+      "id": 323
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8992537260055542,
+      "score2": 1.0,
+      "id": 324
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9552845358848572,
+      "score2": 0.9723502397537231,
+      "id": 325
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8634146451950073,
+      "score2": 0.9176470637321472,
+      "id": 326
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8733624219894409,
+      "score2": 0.9701492786407471,
+      "id": 327
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8199052214622498,
+      "score2": 0.9714285731315613,
+      "id": 328
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9155555367469788,
+      "score2": 1.01578950881958,
+      "id": 329
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8553191423416138,
+      "score2": 1.0687830448150635,
+      "id": 330
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9141631126403809,
+      "score2": 1.0404040813446045,
+      "id": 331
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8755980730056763,
+      "score2": 1.0164835453033447,
+      "id": 332
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9308755993843079,
+      "score2": 0.9548386931419373,
+      "id": 333
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8935185074806213,
+      "score2": 1.0160428285598755,
+      "id": 334
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9528796076774597,
+      "score2": 1.1455695629119873,
+      "id": 335
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8232558369636536,
+      "score2": 0.9465240836143494,
+      "id": 336
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 1.017241358757019,
+      "score2": 1.1028571128845215,
+      "id": 337
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8979591727256775,
+      "score2": 1.0,
+      "id": 338
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9196428656578064,
+      "score2": 0.9637305736541748,
+      "id": 339
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9419642686843872,
+      "score2": 1.0101523399353027,
+      "id": 340
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9406392574310303,
+      "score2": 1.0765026807785034,
+      "id": 341
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8348624110221863,
+      "score2": 0.9891892075538635,
+      "id": 342
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8769230842590332,
+      "score2": 1.008547067642212,
+      "id": 343
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9872881174087524,
+      "score2": 1.0252525806427002,
+      "id": 344
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8731343150138855,
+      "score2": 0.9957982897758484,
+      "id": 345
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9203540086746216,
+      "score2": 1.0677083730697632,
+      "id": 346
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.95703125,
+      "score2": 1.051162838935852,
+      "id": 347
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8452380895614624,
+      "score2": 0.9545454382896423,
+      "id": 348
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9301310181617737,
+      "score2": 1.0710382461547852,
+      "id": 349
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8859649300575256,
+      "score2": 1.0333333015441895,
+      "id": 350
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9038461446762085,
+      "score2": 1.0056496858596802,
+      "id": 351
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8515625,
+      "score2": 0.9457013607025146,
+      "id": 352
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.970802903175354,
+      "score2": 1.0607287883758545,
+      "id": 353
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8866396546363831,
+      "score2": 0.949999988079071,
+      "id": 354
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9409449100494385,
+      "score2": 1.09333336353302,
+      "id": 355
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9111111164093018,
+      "score2": 1.0549999475479126,
+      "id": 356
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9209486246109009,
+      "score2": 0.9638009071350098,
+      "id": 357
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8547717928886414,
+      "score2": 1.0048309564590454,
+      "id": 358
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7956204414367676,
+      "score2": 0.9624999761581421,
+      "id": 359
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9142857193946838,
+      "score2": 1.0142179727554321,
+      "id": 360
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8730158805847168,
+      "score2": 0.9953488111495972,
+      "id": 361
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9745762944221497,
+      "score2": 0.9948186278343201,
+      "id": 362
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9478672742843628,
+      "score2": 1.101694941520691,
+      "id": 363
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9145299196243286,
+      "score2": 1.0248756408691406,
+      "id": 364
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9071428775787354,
+      "score2": 1.0210083723068237,
+      "id": 365
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8472222089767456,
+      "score2": 0.9399999976158142,
+      "id": 366
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8817734122276306,
+      "score2": 0.9776536226272583,
+      "id": 367
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9028339982032776,
+      "score2": 0.982300877571106,
+      "id": 368
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9694322943687439,
+      "score2": 1.1020407676696777,
+      "id": 369
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8333333134651184,
+      "score2": 1.0116958618164062,
+      "id": 370
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9115044474601746,
+      "score2": 0.9738219976425171,
+      "id": 371
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9700854420661926,
+      "score2": 0.9898989796638489,
+      "id": 372
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9003984332084656,
+      "score2": 0.9814814925193787,
+      "id": 373
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9419087171554565,
+      "score2": 1.0149999856948853,
+      "id": 374
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9460580945014954,
+      "score2": 1.099056601524353,
+      "id": 375
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8427947759628296,
+      "score2": 0.9572192430496216,
+      "id": 376
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9626865386962891,
+      "score2": 1.0871559381484985,
+      "id": 377
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9090909361839294,
+      "score2": 0.9909909963607788,
+      "id": 378
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8772727251052856,
+      "score2": 0.9491525292396545,
+      "id": 379
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9280303120613098,
+      "score2": 1.0316742658615112,
+      "id": 380
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9375,
+      "score2": 1.04347825050354,
+      "id": 381
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9083665609359741,
+      "score2": 0.9953051805496216,
+      "id": 382
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.943965494632721,
+      "score2": 0.995192289352417,
+      "id": 383
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8980891704559326,
+      "score2": 0.9427480697631836,
+      "id": 384
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9149797558784485,
+      "score2": 1.0,
+      "id": 385
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8814229369163513,
+      "score2": 0.9773755669593811,
+      "id": 386
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9060150384902954,
+      "score2": 1.042553186416626,
+      "id": 387
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9155555367469788,
+      "score2": 0.9846938848495483,
+      "id": 388
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9375,
+      "score2": 1.0580912828445435,
+      "id": 389
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9586206674575806,
+      "score2": 0.9909502267837524,
+      "id": 390
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.942307710647583,
+      "score2": 1.0232558250427246,
+      "id": 391
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9934210777282715,
+      "score2": 0.9783549904823303,
+      "id": 392
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.7882353067398071,
+      "score2": 0.9241071343421936,
+      "id": 393
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9055117964744568,
+      "score2": 0.9772727489471436,
+      "id": 394
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.935251772403717,
+      "score2": 1.0526316165924072,
+      "id": 395
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9716598987579346,
+      "score2": 1.0372092723846436,
+      "id": 396
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9094203114509583,
+      "score2": 0.9915611743927002,
+      "id": 397
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8932806253433228,
+      "score2": 0.9668246507644653,
+      "id": 398
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8448275923728943,
+      "score2": 1.0040984153747559,
+      "id": 399
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9016393423080444,
+      "score2": 0.995121955871582,
+      "id": 400
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.940397322177887,
+      "score2": 1.0160000324249268,
+      "id": 401
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9589040875434875,
+      "score2": 1.004273533821106,
+      "id": 402
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9253112077713013,
+      "score2": 1.0097087621688843,
+      "id": 403
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9586206674575806,
+      "score2": 1.0714285373687744,
+      "id": 404
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9375,
+      "score2": 1.0339806079864502,
+      "id": 405
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9370629191398621,
+      "score2": 1.0625,
+      "id": 406
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9431818127632141,
+      "score2": 1.0086207389831543,
+      "id": 407
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9155844449996948,
+      "score2": 0.970370352268219,
+      "id": 408
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8962963223457336,
+      "score2": 0.9395349025726318,
+      "id": 409
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9556962251663208,
+      "score2": 0.9730769395828247,
+      "id": 410
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9467213153839111,
+      "score2": 0.9720670580863953,
+      "id": 411
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8471074104309082,
+      "score2": 0.9708737730979919,
+      "id": 412
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8999999761581421,
+      "score2": 1.0552995204925537,
+      "id": 413
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9015151262283325,
+      "score2": 0.9269406199455261,
+      "id": 414
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9263566136360168,
+      "score2": 1.0859729051589966,
+      "id": 415
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9208633303642273,
+      "score2": 1.0378150939941406,
+      "id": 416
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.8345864415168762,
+      "score2": 0.9347826242446899,
+      "id": 417
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9939758777618408,
+      "score2": 1.0708661079406738,
+      "id": 418
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.9281045794487,
+      "score2": 1.0,
+      "id": 419
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP gemini-2.0-flash",
+      "score1": 0.882758617401123,
+      "score2": 0.9576271176338196,
+      "id": 420
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8372092843055725,
+      "score2": 0.9135135412216187,
+      "id": 421
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.7857142686843872,
+      "score2": 0.8552631735801697,
+      "id": 422
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8504273295402527,
+      "score2": 0.9130434989929199,
+      "id": 423
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.78515625,
+      "score2": 0.9295774698257446,
+      "id": 424
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8442211151123047,
+      "score2": 0.9529411792755127,
+      "id": 425
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.7695852518081665,
+      "score2": 0.8172042965888977,
+      "id": 426
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.7857142686843872,
+      "score2": 0.8592965006828308,
+      "id": 427
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8616071343421936,
+      "score2": 0.9064039587974548,
+      "id": 428
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.835616409778595,
+      "score2": 0.9263157844543457,
+      "id": 429
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8200836777687073,
+      "score2": 0.9234972596168518,
+      "id": 430
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.829959511756897,
+      "score2": 0.8970588445663452,
+      "id": 431
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8620689511299133,
+      "score2": 0.8866994976997375,
+      "id": 432
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8140703439712524,
+      "score2": 0.9181286692619324,
+      "id": 433
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8253968358039856,
+      "score2": 0.9295154213905334,
+      "id": 434
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.7295918464660645,
+      "score2": 0.7921348214149475,
+      "id": 435
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.7772727012634277,
+      "score2": 0.9312169551849365,
+      "id": 436
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8489795923233032,
+      "score2": 0.9583333134651184,
+      "id": 437
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8158996105194092,
+      "score2": 0.921658992767334,
+      "id": 438
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.7920354008674622,
+      "score2": 0.9187816977500916,
+      "id": 439
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.875,
+      "score2": 0.8989899158477783,
+      "id": 440
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8766520023345947,
+      "score2": 0.9399999976158142,
+      "id": 441
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8387096524238586,
+      "score2": 0.8956043720245361,
+      "id": 442
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8884615302085876,
+      "score2": 0.9056603908538818,
+      "id": 443
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8528138399124146,
+      "score2": 0.9278350472450256,
+      "id": 444
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.9049586653709412,
+      "score2": 0.9113300442695618,
+      "id": 445
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8120300769805908,
+      "score2": 0.8899082541465759,
+      "id": 446
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8671875,
+      "score2": 0.9579439163208008,
+      "id": 447
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8401826620101929,
+      "score2": 0.8620689511299133,
+      "id": 448
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.9170305728912354,
+      "score2": 0.9432989954948425,
+      "id": 449
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8722466826438904,
+      "score2": 0.945652186870575,
+      "id": 450
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.9126983880996704,
+      "score2": 0.9629629850387573,
+      "id": 451
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8973214030265808,
+      "score2": 0.90055251121521,
+      "id": 452
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.9696969985961914,
+      "score2": 0.9695122241973877,
+      "id": 453
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.9960474371910095,
+      "score2": 1.0439023971557617,
+      "id": 454
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8382978439331055,
+      "score2": 0.8994709253311157,
+      "id": 455
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8658008575439453,
+      "score2": 0.9211822748184204,
+      "id": 456
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.892241358757019,
+      "score2": 0.9226804375648499,
+      "id": 457
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.5885416865348816,
+      "score2": 0.7626582384109497,
+      "id": 458
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.9308755993843079,
+      "score2": 1.01694917678833,
+      "id": 459
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8527131676673889,
+      "score2": 0.926086962223053,
+      "id": 460
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8073770403862,
+      "score2": 0.8504672646522522,
+      "id": 461
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8333333134651184,
+      "score2": 0.877828061580658,
+      "id": 462
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8847926259040833,
+      "score2": 0.8950276374816895,
+      "id": 463
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8473895788192749,
+      "score2": 0.9646464586257935,
+      "id": 464
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.9837398529052734,
+      "score2": 1.034313678741455,
+      "id": 465
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8294573426246643,
+      "score2": 0.9285714030265808,
+      "id": 466
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.9227272868156433,
+      "score2": 0.9289617538452148,
+      "id": 467
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.9327731132507324,
+      "score2": 0.9479166865348816,
+      "id": 468
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.850806474685669,
+      "score2": 0.8793969750404358,
+      "id": 469
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.9196786880493164,
+      "score2": 1.020304560661316,
+      "id": 470
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.9135338068008423,
+      "score2": 0.9776785969734192,
+      "id": 471
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8409090638160706,
+      "score2": 0.9336283206939697,
+      "id": 472
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8969465494155884,
+      "score2": 0.9396985173225403,
+      "id": 473
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.9128630757331848,
+      "score2": 0.9497487545013428,
+      "id": 474
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8644067645072937,
+      "score2": 0.9268292784690857,
+      "id": 475
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.875,
+      "score2": 0.9773755669593811,
+      "id": 476
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8979591727256775,
+      "score2": 0.9595959782600403,
+      "id": 477
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.935742974281311,
+      "score2": 1.0,
+      "id": 478
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8999999761581421,
+      "score2": 0.9599999785423279,
+      "id": 479
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8097345232963562,
+      "score2": 0.9459459185600281,
+      "id": 480
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8936170339584351,
+      "score2": 0.9099525809288025,
+      "id": 481
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8893805146217346,
+      "score2": 0.9685863852500916,
+      "id": 482
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.9285714030265808,
+      "score2": 0.9951456189155579,
+      "id": 483
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8497853875160217,
+      "score2": 0.8989899158477783,
+      "id": 484
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.875,
+      "score2": 0.9241706132888794,
+      "id": 485
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.9783549904823303,
+      "score2": 0.9526315927505493,
+      "id": 486
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8607594966888428,
+      "score2": 0.9547738432884216,
+      "id": 487
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.9503546357154846,
+      "score2": 1.0094339847564697,
+      "id": 488
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8759999871253967,
+      "score2": 0.8651162981987,
+      "id": 489
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.9220778942108154,
+      "score2": 1.0263158082962036,
+      "id": 490
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8546255230903625,
+      "score2": 0.9752475023269653,
+      "id": 491
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8697478771209717,
+      "score2": 0.9425837397575378,
+      "id": 492
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8939393758773804,
+      "score2": 1.023364543914795,
+      "id": 493
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.939393937587738,
+      "score2": 0.9674418568611145,
+      "id": 494
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.9559999704360962,
+      "score2": 0.9850000143051147,
+      "id": 495
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8849557638168335,
+      "score2": 0.9145728349685669,
+      "id": 496
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8340611457824707,
+      "score2": 0.9489796161651611,
+      "id": 497
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.908108115196228,
+      "score2": 0.9041095972061157,
+      "id": 498
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.9208633303642273,
+      "score2": 0.9508928656578064,
+      "id": 499
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.9398496150970459,
+      "score2": 0.9543147087097168,
+      "id": 500
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.7396694421768188,
+      "score2": 0.9375,
+      "id": 501
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.7434782385826111,
+      "score2": 0.9076923131942749,
+      "id": 502
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.6726457476615906,
+      "score2": 0.820652186870575,
+      "id": 503
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8520179390907288,
+      "score2": 0.9073171019554138,
+      "id": 504
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.7753304243087769,
+      "score2": 0.9487179517745972,
+      "id": 505
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.7086614370346069,
+      "score2": 0.9285714030265808,
+      "id": 506
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.7325102686882019,
+      "score2": 0.9436619877815247,
+      "id": 507
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8304347991943359,
+      "score2": 0.9545454382896423,
+      "id": 508
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.7388059496879578,
+      "score2": 0.9471365809440613,
+      "id": 509
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8219696879386902,
+      "score2": 0.9647576808929443,
+      "id": 510
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8093220591545105,
+      "score2": 0.9278846383094788,
+      "id": 511
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.7533039450645447,
+      "score2": 0.8622449040412903,
+      "id": 512
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.85317462682724,
+      "score2": 0.9594594836235046,
+      "id": 513
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.7803738117218018,
+      "score2": 0.908108115196228,
+      "id": 514
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.6981981992721558,
+      "score2": 0.8894736766815186,
+      "id": 515
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.7715517282485962,
+      "score2": 0.9753694534301758,
+      "id": 516
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.6824817657470703,
+      "score2": 0.9012875556945801,
+      "id": 517
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.7679324746131897,
+      "score2": 0.9509803652763367,
+      "id": 518
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8303571343421936,
+      "score2": 1.0108696222305298,
+      "id": 519
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM DP chatGPT o1-mini",
+      "score1": 0.8214285969734192,
+      "score2": 0.9816513657569885,
+      "id": 520
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8639705777168274,
+      "score2": 0.9557521939277649,
+      "id": 521
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8622047305107117,
+      "score2": 0.9855769276618958,
+      "id": 522
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.9230769276618958,
+      "score2": 1.0714285373687744,
+      "id": 523
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8836206793785095,
+      "score2": 0.9846153855323792,
+      "id": 524
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8219696879386902,
+      "score2": 1.0717703104019165,
+      "id": 525
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8508771657943726,
+      "score2": 0.9430052042007446,
+      "id": 526
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8663793206214905,
+      "score2": 1.0,
+      "id": 527
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8835616707801819,
+      "score2": 0.939130425453186,
+      "id": 528
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8530805706977844,
+      "score2": 0.9789473414421082,
+      "id": 529
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8502024412155151,
+      "score2": 1.0,
+      "id": 530
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8923766613006592,
+      "score2": 0.9947916865348816,
+      "id": 531
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8590308427810669,
+      "score2": 0.938144326210022,
+      "id": 532
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8465116024017334,
+      "score2": 0.939226508140564,
+      "id": 533
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8653061389923096,
+      "score2": 0.9853658676147461,
+      "id": 534
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8720930218696594,
+      "score2": 1.0184332132339478,
+      "id": 535
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8421052694320679,
+      "score2": 0.9395349025726318,
+      "id": 536
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.9090909361839294,
+      "score2": 1.0198019742965698,
+      "id": 537
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8821138143539429,
+      "score2": 0.9904761910438538,
+      "id": 538
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.9160000085830688,
+      "score2": 0.9952606558799744,
+      "id": 539
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8870967626571655,
+      "score2": 1.0796020030975342,
+      "id": 540
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8936170339584351,
+      "score2": 1.0569947957992554,
+      "id": 541
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.90234375,
+      "score2": 1.009523868560791,
+      "id": 542
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8962264060974121,
+      "score2": 0.9613259434700012,
+      "id": 543
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8604651093482971,
+      "score2": 0.9573459625244141,
+      "id": 544
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8148148059844971,
+      "score2": 0.9425837397575378,
+      "id": 545
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.922535240650177,
+      "score2": 1.0088105201721191,
+      "id": 546
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8776371479034424,
+      "score2": 1.04020094871521,
+      "id": 547
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.7631579041481018,
+      "score2": 0.9591836929321289,
+      "id": 548
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8185185194015503,
+      "score2": 0.9598214030265808,
+      "id": 549
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.7887930870056152,
+      "score2": 1.0473684072494507,
+      "id": 550
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8143460154533386,
+      "score2": 0.9375,
+      "id": 551
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8211008906364441,
+      "score2": 0.9479166865348816,
+      "id": 552
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.9247787594795227,
+      "score2": 1.0268816947937012,
+      "id": 553
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.815315306186676,
+      "score2": 0.9032257795333862,
+      "id": 554
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8348624110221863,
+      "score2": 0.8770053386688232,
+      "id": 555
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.7704917788505554,
+      "score2": 0.9371980428695679,
+      "id": 556
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.7863247990608215,
+      "score2": 0.8693467378616333,
+      "id": 557
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.7773109078407288,
+      "score2": 1.0099010467529297,
+      "id": 558
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8056679964065552,
+      "score2": 0.9609755873680115,
+      "id": 559
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8802816867828369,
+      "score2": 1.017543911933899,
+      "id": 560
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8672566413879395,
+      "score2": 1.0430107116699219,
+      "id": 561
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.753731369972229,
+      "score2": 0.9419642686843872,
+      "id": 562
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8536585569381714,
+      "score2": 0.9712918400764465,
+      "id": 563
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8764940500259399,
+      "score2": 1.0735293626785278,
+      "id": 564
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8325991034507751,
+      "score2": 0.9371727705001831,
+      "id": 565
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.7939913868904114,
+      "score2": 0.9648241400718689,
+      "id": 566
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8526785969734192,
+      "score2": 1.0205128192901611,
+      "id": 567
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.9370078444480896,
+      "score2": 1.038277506828308,
+      "id": 568
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.7633928656578064,
+      "score2": 0.9315789341926575,
+      "id": 569
+    },
+    {
+      "source": "ai+rew",
+      "dataset": "SM LP chatGPT o1-mini",
+      "score1": 0.8571428656578064,
+      "score2": 0.9460784196853638,
+      "id": 570
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.8090277910232544,
+      "score2": 1.018264889717102,
+      "id": 571
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.6762589812278748,
+      "score2": 0.9502487778663635,
+      "id": 572
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.5869565010070801,
+      "score2": 0.8938547372817993,
+      "id": 573
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.7801418304443359,
+      "score2": 0.9017857313156128,
+      "id": 574
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.7234848737716675,
+      "score2": 0.9707317352294922,
+      "id": 575
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.7572463750839233,
+      "score2": 0.9589040875434875,
+      "id": 576
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.871921181678772,
+      "score2": 0.9941520690917969,
+      "id": 577
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.6533864736557007,
+      "score2": 0.8737373948097229,
+      "id": 578
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.7089552283287048,
+      "score2": 0.9906542301177979,
+      "id": 579
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.8805309534072876,
+      "score2": 0.9304812550544739,
+      "id": 580
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.9013453125953674,
+      "score2": 1.0271738767623901,
+      "id": 581
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.7129629850387573,
+      "score2": 1.0583332777023315,
+      "id": 582
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.6800000071525574,
+      "score2": 0.8761904835700989,
+      "id": 583
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.8684210777282715,
+      "score2": 0.9272727370262146,
+      "id": 584
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.7362204790115356,
+      "score2": 0.7953488230705261,
+      "id": 585
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.91015625,
+      "score2": 0.9573459625244141,
+      "id": 586
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.6067073345184326,
+      "score2": 0.8577075004577637,
+      "id": 587
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.7564102411270142,
+      "score2": 0.9329608678817749,
+      "id": 588
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.5496183037757874,
+      "score2": 0.813725471496582,
+      "id": 589
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.7080925107002258,
+      "score2": 0.7993197441101074,
+      "id": 590
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.7588932514190674,
+      "score2": 0.9714285731315613,
+      "id": 591
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.8177570104598999,
+      "score2": 0.9726775884628296,
+      "id": 592
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.6240310072898865,
+      "score2": 0.896039605140686,
+      "id": 593
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.75,
+      "score2": 0.8461538553237915,
+      "id": 594
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.8192771077156067,
+      "score2": 0.9507575631141663,
+      "id": 595
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.7155172228813171,
+      "score2": 0.820105791091919,
+      "id": 596
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.5795454382896423,
+      "score2": 0.8009708523750305,
+      "id": 597
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.7306122183799744,
+      "score2": 0.9545454382896423,
+      "id": 598
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.6357142925262451,
+      "score2": 0.8425925970077515,
+      "id": 599
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.8497853875160217,
+      "score2": 0.9897959232330322,
+      "id": 600
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.7222222089767456,
+      "score2": 0.8884297609329224,
+      "id": 601
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.5614035129547119,
+      "score2": 0.8823529481887817,
+      "id": 602
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.8491379022598267,
+      "score2": 0.8609625697135925,
+      "id": 603
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.7666666507720947,
+      "score2": 0.9330543875694275,
+      "id": 604
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.7605041861534119,
+      "score2": 0.8799999952316284,
+      "id": 605
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.6610878705978394,
+      "score2": 0.8477157354354858,
+      "id": 606
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.5555555820465088,
+      "score2": 0.9447004795074463,
+      "id": 607
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.7798742055892944,
+      "score2": 0.9004524946212769,
+      "id": 608
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.8933333158493042,
+      "score2": 1.0097087621688843,
+      "id": 609
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.8022388219833374,
+      "score2": 0.8908296823501587,
+      "id": 610
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.5894039869308472,
+      "score2": 0.8436213731765747,
+      "id": 611
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.8584474921226501,
+      "score2": 0.795918345451355,
+      "id": 612
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.4829545319080353,
+      "score2": 0.9169960618019104,
+      "id": 613
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.5964285731315613,
+      "score2": 0.9090909361839294,
+      "id": 614
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.8726114630699158,
+      "score2": 0.9408866763114929,
+      "id": 615
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.722449004650116,
+      "score2": 0.9471153616905212,
+      "id": 616
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.7816593647003174,
+      "score2": 0.8636363744735718,
+      "id": 617
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.5877862572669983,
+      "score2": 0.7871286869049072,
+      "id": 618
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-r1",
+      "score1": 0.7120000123977661,
+      "score2": 0.8640776872634888,
+      "id": 619
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.698630154132843,
+      "score2": 0.7650273442268372,
+      "id": 620
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6060606241226196,
+      "score2": 0.7526316046714783,
+      "id": 621
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5919811129570007,
+      "score2": 0.6977401375770569,
+      "id": 622
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6538461446762085,
+      "score2": 0.8376623392105103,
+      "id": 623
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6652360558509827,
+      "score2": 0.7486910820007324,
+      "id": 624
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5340909361839294,
+      "score2": 0.8083832263946533,
+      "id": 625
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.7407407164573669,
+      "score2": 0.7398843765258789,
+      "id": 626
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.264598548412323,
+      "score2": 0.7080745100975037,
+      "id": 627
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.4803921580314636,
+      "score2": 0.7759740352630615,
+      "id": 628
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.8127853870391846,
+      "score2": 0.8518518805503845,
+      "id": 629
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6710526347160339,
+      "score2": 0.8299319744110107,
+      "id": 630
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.7254902124404907,
+      "score2": 0.802395224571228,
+      "id": 631
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6040816307067871,
+      "score2": 0.866310179233551,
+      "id": 632
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6168224215507507,
+      "score2": 0.8176470398902893,
+      "id": 633
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.45769229531288147,
+      "score2": 0.7446808218955994,
+      "id": 634
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.7194570302963257,
+      "score2": 0.8888888955116272,
+      "id": 635
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6470588445663452,
+      "score2": 0.7966101765632629,
+      "id": 636
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.44758063554763794,
+      "score2": 0.8474576473236084,
+      "id": 637
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5126050710678101,
+      "score2": 0.9272727370262146,
+      "id": 638
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6407407522201538,
+      "score2": 0.8034934401512146,
+      "id": 639
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6456310749053955,
+      "score2": 0.7894737124443054,
+      "id": 640
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5575539469718933,
+      "score2": 0.7598039507865906,
+      "id": 641
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6286764740943909,
+      "score2": 0.8198198080062866,
+      "id": 642
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6561264991760254,
+      "score2": 0.8376963138580322,
+      "id": 643
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.4918367266654968,
+      "score2": 0.8181818127632141,
+      "id": 644
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.7418032884597778,
+      "score2": 0.9512194991111755,
+      "id": 645
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.4155251085758209,
+      "score2": 0.7405063509941101,
+      "id": 646
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5414746403694153,
+      "score2": 0.7440476417541504,
+      "id": 647
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.4606986939907074,
+      "score2": 0.8363636136054993,
+      "id": 648
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.4402390420436859,
+      "score2": 0.8774193525314331,
+      "id": 649
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.7372549176216125,
+      "score2": 0.9153439402580261,
+      "id": 650
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.4683794379234314,
+      "score2": 0.7823529243469238,
+      "id": 651
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.4769230782985687,
+      "score2": 0.715753436088562,
+      "id": 652
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.37689393758773804,
+      "score2": 0.7732919454574585,
+      "id": 653
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5357142686843872,
+      "score2": 0.7788461446762085,
+      "id": 654
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5916666388511658,
+      "score2": 0.8362573385238647,
+      "id": 655
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.4304511249065399,
+      "score2": 0.8177083134651184,
+      "id": 656
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.732824444770813,
+      "score2": 0.8780487775802612,
+      "id": 657
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5399060845375061,
+      "score2": 0.8159722089767456,
+      "id": 658
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.45512819290161133,
+      "score2": 0.7823529243469238,
+      "id": 659
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5344129800796509,
+      "score2": 0.8633540272712708,
+      "id": 660
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6666666865348816,
+      "score2": 0.8271604776382446,
+      "id": 661
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6090534925460815,
+      "score2": 0.7885714173316956,
+      "id": 662
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6589861512184143,
+      "score2": 0.7765362858772278,
+      "id": 663
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.7285068035125732,
+      "score2": 0.83152174949646,
+      "id": 664
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5344827771186829,
+      "score2": 0.8430232405662537,
+      "id": 665
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5059760808944702,
+      "score2": 0.7027778029441833,
+      "id": 666
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6153846383094788,
+      "score2": 0.7748690843582153,
+      "id": 667
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6083743572235107,
+      "score2": 0.831250011920929,
+      "id": 668
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.3611111044883728,
+      "score2": 0.8066298365592957,
+      "id": 669
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6824034452438354,
+      "score2": 0.9052631855010986,
+      "id": 670
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5991902947425842,
+      "score2": 0.8148148059844971,
+      "id": 671
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.7209302186965942,
+      "score2": 0.7816091775894165,
+      "id": 672
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6410256624221802,
+      "score2": 0.8181818127632141,
+      "id": 673
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6837944388389587,
+      "score2": 0.8381502628326416,
+      "id": 674
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.4548611044883728,
+      "score2": 0.8860103487968445,
+      "id": 675
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6717948913574219,
+      "score2": 0.7935484051704407,
+      "id": 676
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.40416666865348816,
+      "score2": 0.8787878751754761,
+      "id": 677
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5381526350975037,
+      "score2": 0.7303370833396912,
+      "id": 678
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6439024209976196,
+      "score2": 0.7403846383094788,
+      "id": 679
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.732876718044281,
+      "score2": 0.8995434045791626,
+      "id": 680
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6698113083839417,
+      "score2": 0.8033707737922668,
+      "id": 681
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6371307969093323,
+      "score2": 0.7528089880943298,
+      "id": 682
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5973451137542725,
+      "score2": 0.8333333134651184,
+      "id": 683
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5074626803398132,
+      "score2": 0.8285714387893677,
+      "id": 684
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5226130485534668,
+      "score2": 0.6678571701049805,
+      "id": 685
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6283186078071594,
+      "score2": 0.790123462677002,
+      "id": 686
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.4415322542190552,
+      "score2": 0.7683615684509277,
+      "id": 687
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5441176295280457,
+      "score2": 0.8776595592498779,
+      "id": 688
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6533864736557007,
+      "score2": 0.9245283007621765,
+      "id": 689
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.7486910820007324,
+      "score2": 0.8933823704719543,
+      "id": 690
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5096774101257324,
+      "score2": 0.8537735939025879,
+      "id": 691
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.682539701461792,
+      "score2": 0.9049999713897705,
+      "id": 692
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.7090908885002136,
+      "score2": 0.8415300250053406,
+      "id": 693
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.4372549057006836,
+      "score2": 0.8288770318031311,
+      "id": 694
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6111111044883728,
+      "score2": 0.7212121486663818,
+      "id": 695
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.56611567735672,
+      "score2": 0.7733989953994751,
+      "id": 696
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6287128925323486,
+      "score2": 0.808917224407196,
+      "id": 697
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.7040358781814575,
+      "score2": 0.7696629166603088,
+      "id": 698
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6911764740943909,
+      "score2": 0.803680956363678,
+      "id": 699
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.4576271176338196,
+      "score2": 0.7788461446762085,
+      "id": 700
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5574468374252319,
+      "score2": 0.7837837934494019,
+      "id": 701
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5034246444702148,
+      "score2": 0.7572815418243408,
+      "id": 702
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.7253885865211487,
+      "score2": 0.6832298040390015,
+      "id": 703
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6064814925193787,
+      "score2": 0.7988826632499695,
+      "id": 704
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.32618024945259094,
+      "score2": 0.765625,
+      "id": 705
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6556603908538818,
+      "score2": 0.8072289228439331,
+      "id": 706
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5256410241127014,
+      "score2": 0.8895348906517029,
+      "id": 707
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6144067645072937,
+      "score2": 0.8284313678741455,
+      "id": 708
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.7398374080657959,
+      "score2": 0.928205132484436,
+      "id": 709
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5846994519233704,
+      "score2": 0.7951388955116272,
+      "id": 710
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.7560975551605225,
+      "score2": 0.8653846383094788,
+      "id": 711
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.708737850189209,
+      "score2": 0.7906976938247681,
+      "id": 712
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.716738224029541,
+      "score2": 0.8223350048065186,
+      "id": 713
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.679425835609436,
+      "score2": 0.8271604776382446,
+      "id": 714
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6847290396690369,
+      "score2": 0.7471264600753784,
+      "id": 715
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.7735849022865295,
+      "score2": 0.8333333134651184,
+      "id": 716
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6793103218078613,
+      "score2": 0.8954545259475708,
+      "id": 717
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.4465811848640442,
+      "score2": 0.8404908180236816,
+      "id": 718
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.4852216839790344,
+      "score2": 0.7586206793785095,
+      "id": 719
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.3902953565120697,
+      "score2": 0.7696969509124756,
+      "id": 720
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.467803031206131,
+      "score2": 0.8297872543334961,
+      "id": 721
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.4631783068180084,
+      "score2": 0.85326087474823,
+      "id": 722
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6633663177490234,
+      "score2": 0.800000011920929,
+      "id": 723
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.46330276131629944,
+      "score2": 0.8026315569877625,
+      "id": 724
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5976190567016602,
+      "score2": 0.8176470398902893,
+      "id": 725
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6009389758110046,
+      "score2": 0.7790697813034058,
+      "id": 726
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6794871687889099,
+      "score2": 0.7388888597488403,
+      "id": 727
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5060975551605225,
+      "score2": 0.75,
+      "id": 728
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.4848484992980957,
+      "score2": 0.7374301552772522,
+      "id": 729
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5869565010070801,
+      "score2": 0.7903226017951965,
+      "id": 730
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6984732747077942,
+      "score2": 0.7401960492134094,
+      "id": 731
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5218977928161621,
+      "score2": 0.9004974961280823,
+      "id": 732
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.39772728085517883,
+      "score2": 0.7633135914802551,
+      "id": 733
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.747706413269043,
+      "score2": 0.9604519605636597,
+      "id": 734
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5232067704200745,
+      "score2": 0.8547486066818237,
+      "id": 735
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6787709593772888,
+      "score2": 0.7986111044883728,
+      "id": 736
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.4455782175064087,
+      "score2": 0.7989130616188049,
+      "id": 737
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5982532501220703,
+      "score2": 0.8241758346557617,
+      "id": 738
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.75,
+      "score2": 0.8956043720245361,
+      "id": 739
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.4653061330318451,
+      "score2": 0.7771739363670349,
+      "id": 740
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5256410241127014,
+      "score2": 0.790960431098938,
+      "id": 741
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.3995901644229889,
+      "score2": 0.8265895843505859,
+      "id": 742
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.3935742974281311,
+      "score2": 0.6971428394317627,
+      "id": 743
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.7669491767883301,
+      "score2": 0.950276255607605,
+      "id": 744
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.4301310181617737,
+      "score2": 0.7236024737358093,
+      "id": 745
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.48820754885673523,
+      "score2": 0.75,
+      "id": 746
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.48349055647850037,
+      "score2": 0.7643312215805054,
+      "id": 747
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.713567852973938,
+      "score2": 0.8074533939361572,
+      "id": 748
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5115740895271301,
+      "score2": 0.8098159432411194,
+      "id": 749
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5241228342056274,
+      "score2": 0.7398843765258789,
+      "id": 750
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6356784105300903,
+      "score2": 0.75,
+      "id": 751
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6929824352264404,
+      "score2": 0.7431694269180298,
+      "id": 752
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6850393414497375,
+      "score2": 0.7789473533630371,
+      "id": 753
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5024999976158142,
+      "score2": 0.7566666603088379,
+      "id": 754
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6428571343421936,
+      "score2": 0.8270270228385925,
+      "id": 755
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5558139681816101,
+      "score2": 0.8072289228439331,
+      "id": 756
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.41360294818878174,
+      "score2": 0.7434554696083069,
+      "id": 757
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.3507462739944458,
+      "score2": 0.7428571581840515,
+      "id": 758
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.75527423620224,
+      "score2": 0.8670212626457214,
+      "id": 759
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.8272727131843567,
+      "score2": 0.8666666746139526,
+      "id": 760
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.46653541922569275,
+      "score2": 0.8128342032432556,
+      "id": 761
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6617646813392639,
+      "score2": 0.7679738402366638,
+      "id": 762
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6650485396385193,
+      "score2": 0.8245614171028137,
+      "id": 763
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5760869383811951,
+      "score2": 0.8776223659515381,
+      "id": 764
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.4821428656578064,
+      "score2": 0.7209302186965942,
+      "id": 765
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.4272300601005554,
+      "score2": 0.8103448152542114,
+      "id": 766
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.52173912525177,
+      "score2": 0.850931704044342,
+      "id": 767
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.46382978558540344,
+      "score2": 0.8224852085113525,
+      "id": 768
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.679425835609436,
+      "score2": 0.8081395626068115,
+      "id": 769
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.7276995182037354,
+      "score2": 0.931034505367279,
+      "id": 770
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6191709637641907,
+      "score2": 0.7672955989837646,
+      "id": 771
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.7511520981788635,
+      "score2": 0.8160919547080994,
+      "id": 772
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.4449339210987091,
+      "score2": 0.7349397540092468,
+      "id": 773
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.5232558250427246,
+      "score2": 0.842391312122345,
+      "id": 774
+    },
+    {
+      "source": "ai",
+      "dataset": "deepseek-chat",
+      "score1": 0.6238532066345215,
+      "score2": 0.7543859481811523,
+      "id": 775
+    }
+  ]
+}

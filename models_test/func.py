@@ -134,121 +134,72 @@ def run_eng_dataset(bino, sample_rate, max_samples=2000):
 
 
 
-def run_ru_dataset(bino, sample_rate, data, max_samples=2000):
-    true_positives = []
-    false_positives = []
-    true_negatives = []
-    false_negatives = []
+def run_ru_dataset(bino, data):
+    results = []
     error_count = 0
     check_counter = 0
-
+    
     dataset_results = {}
 
     for row in data:
-        if check_counter >= max_samples:
-            break
+        try:
+            score = bino.compute_score(row["text"])
+                    
+        except Exception as e:
+            print(f"\nError computing score for text: {row['text']}, Error: {e}")
+            error_count += 1
+            continue
+
+        dataset_name = row.get("dataset", "unknown")
+        
+        example_data = {
+            "text": row["text"],
+            "source": row["source"],
+            "dataset": dataset_name,
+            "score": score
+        }
+        
+        results.append(example_data)
+        
+        if dataset_name not in dataset_results:
+            dataset_results[dataset_name] = []
             
-        if random.random() < sample_rate:
-            try:
-                prediction = bino.predict(row["text"])
-                if isinstance(prediction, (int, float)) and prediction > 1:
-                    error_count += 1
-                    continue
-                predicted_ai = (prediction == "Most likely AI-generated")
-            except Exception as e:
-                print(f"\nError predicting for text: {row['text']}, Error: {e}")
-                error_count += 1
-                continue
+        dataset_results[dataset_name].append(example_data)
+        check_counter += 1
+        if check_counter % 10 == 0:
+            sys.stdout.write(f"\rProcessed: {check_counter} items")
+            sys.stdout.flush()
+    
+    dataset_stats = {}
+    for dataset_name, examples in dataset_results.items():
+        ai_examples = [ex for ex in examples if ex["source"] == "ai"]
+        human_examples = [ex for ex in examples if ex["source"] != "ai"]
+        
+        dataset_stats[dataset_name] = {
+            "total_examples": len(examples),
+            "ai_examples": len(ai_examples),
+            "human_examples": len(human_examples),
+            "avg_score": sum(ex["score"] for ex in examples) / len(examples) if examples else 0,
+            "avg_ai_score": sum(ex["score"] for ex in ai_examples) / len(ai_examples) if ai_examples else 0,
+            "avg_human_score": sum(ex["score"] for ex in human_examples) / len(human_examples) if human_examples else 0
+        }
 
-            actually_ai = (row["source"] == "ai")
-            dataset_name = row.get("dataset", "unknown")
-            example_data = {
-                "text": row["text"],
-                "dataset": dataset_name,
-                "pred": 1 if predicted_ai else 0,
-                "class": 1 if actually_ai else 0
-            }
-
-            if dataset_name not in dataset_results:
-                dataset_results[dataset_name] = {
-                    'true_positives': [], 'false_positives': [],
-                    'true_negatives': [], 'false_negatives': []
-                }
-
-            if predicted_ai and actually_ai:
-                true_positives.append(example_data)
-                dataset_results[dataset_name]['true_positives'].append(example_data)
-            elif predicted_ai and not actually_ai:
-                false_positives.append(example_data)
-                dataset_results[dataset_name]['false_positives'].append(example_data)
-            elif not predicted_ai and actually_ai:
-                false_negatives.append(example_data)
-                dataset_results[dataset_name]['false_negatives'].append(example_data)
-            elif not predicted_ai and not actually_ai:
-                true_negatives.append(example_data)
-                dataset_results[dataset_name]['true_negatives'].append(example_data)
-
-            check_counter += 1
-            if check_counter % 10 == 0:
-                sys.stdout.write(f"\rProcessed: {check_counter} items")
-                sys.stdout.flush()
-
-    def calculate_metrics(tp, fp, tn, fn):
-        tp_count = len([x['text'] for x in tp])
-        fp_count = len([x['text'] for x in fp])
-        tn_count = len([x['text'] for x in tn])
-        fn_count = len([x['text'] for x in fn])
-
-        y_true = [1] * tp_count + [0] * fp_count + [0] * tn_count + [1] * fn_count
-        y_pred = [1] * tp_count + [1] * fp_count + [0] * tn_count + [0] * fn_count
-
-        metrics_dict = {}
-
-        if len(set(y_true)) < 2:
-            unique_class = list(set(y_true))[0]
-            f1 = metrics.f1_score(y_true, y_pred, pos_label=unique_class, zero_division=0)
-            metrics_dict['f1_score'] = f1
-            metrics_dict['roc_auc'] = None
-            metrics_dict['tpr_at_fpr_0_01'] = None
-        else:
-            f1 = metrics.f1_score(y_true, y_pred)
-            fpr_values, tpr_values, _ = metrics.roc_curve(y_true, y_pred, pos_label=1)
-            roc_auc = metrics.auc(fpr_values, tpr_values)
-            tpr_at_fpr = np.interp(0.01 / 100, fpr_values, tpr_values)
-            metrics_dict['f1_score'] = f1
-            metrics_dict['roc_auc'] = roc_auc
-            metrics_dict['tpr_at_fpr_0_01'] = tpr_at_fpr
-
-        tpr_value = tp_count / (tp_count + fn_count) if (tp_count + fn_count) > 0 else 0
-        fpr_value = fp_count / (fp_count + tn_count) if (fp_count + tn_count) > 0 else 0
-        tnr_value = tn_count / (tn_count + fp_count) if (tn_count + fp_count) > 0 else 0
-        fnr_value = fn_count / (fn_count + tp_count) if (fn_count + tp_count) > 0 else 0
-
-        metrics_dict['tpr'] = tpr_value
-        metrics_dict['fpr'] = fpr_value
-        metrics_dict['tnr'] = tnr_value
-        metrics_dict['fnr'] = fnr_value
-
-        return metrics_dict
-
-    overall_metrics = calculate_metrics(true_positives, false_positives, true_negatives, false_negatives)
-
-    dataset_metrics = {}
-    for dataset_name, results in dataset_results.items():
-        dataset_metrics[dataset_name] = calculate_metrics(
-            results['true_positives'], results['false_positives'],
-            results['true_negatives'], results['false_negatives']
-        )
+    all_ai_examples = [ex for ex in results if ex["source"] == "ai"]
+    all_human_examples = [ex for ex in results if ex["source"] != "ai"]
+    
+    overall_stats = {
+        "total_examples": len(results),
+        "ai_examples": len(all_ai_examples),
+        "human_examples": len(all_human_examples),
+        "avg_score": sum(ex["score"] for ex in results) / len(results) if results else 0,
+        "avg_ai_score": sum(ex["score"] for ex in all_ai_examples) / len(all_ai_examples) if all_ai_examples else 0,
+        "avg_human_score": sum(ex["score"] for ex in all_human_examples) / len(all_human_examples) if all_human_examples else 0
+    }
 
     return {
-        'overall_metrics': overall_metrics,
-        'dataset_metrics': dataset_metrics,
-        'data': {
-            'true_positives': true_positives,
-            'false_positives': false_positives,
-            'true_negatives': true_negatives,
-            'false_negatives': false_negatives,
-            'error_count': error_count,
-            'check_counter': check_counter
-        }
+        'overall_stats': overall_stats,
+        'dataset_stats': dataset_stats,
+        'data': results,
+        'error_count': error_count,
+        'check_counter': check_counter
     }

@@ -38,7 +38,7 @@ def print_statistics(dataset_counts, ai_human_ratio):
         print(f"{source}: {count} records ({percentage:.1f}%)")
 
 def main():
-    filename = 'ru_detection_dataset.json'
+    filename = r'E:\diplom\Trinoculars\datasets\ru_detection_dataset_two.json'
     data = load_json(filename)
     dataset_counts, ai_human_ratio = summarize_datasets_and_sources(data)
     print_statistics(dataset_counts, ai_human_ratio)

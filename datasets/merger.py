@@ -1,19 +1,23 @@
 import json
 
-with open('ru_detection_dataset.json', 'r', encoding='utf-8') as file:
-    dataset1 = json.load(file)
+# Список путей к файлам, которые нужно объединить
+file_paths = [
 
-with open('small_dataset.json', 'r', encoding='utf-8') as file:
-    dataset2 = json.load(file)
+]
 
-max_id = max(item['id'] for item in dataset1)
+merged_dataset = []
+max_id = 0
 
-for item in dataset2:
-    item['id'] += max_id
+for file_path in file_paths:
+    with open(file_path, 'r', encoding='utf-8') as file:
+        dataset = json.load(file)
+        # Обновляем идентификаторы
+        for item in dataset:
+            item['id'] += max_id
+        max_id = max(item['id'] for item in dataset) + 1
+        merged_dataset.extend(dataset)
 
-merged_dataset = dataset1 + dataset2
-
-with open('ru_detection_dataset_2.json', 'w', encoding='utf-8') as file:
+with open(r'ex.json', 'w', encoding='utf-8') as file:
     json.dump(merged_dataset, file, ensure_ascii=False, indent=4)
 
-print(f"Merged dataset saved to 'merged_dataset.json'.")
+print("Merged dataset saved to 'ex.json'.")
