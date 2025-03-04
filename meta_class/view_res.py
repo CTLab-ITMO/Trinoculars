@@ -77,7 +77,8 @@ def main():
                 
                 dataset_name = os.path.splitext(json_file)[0]
                 
-                results_ru = run_ru_dataset(bino, sample_rate=0.75, data=dataset, max_samples=4000)
+                results_ru = run_ru_dataset(bino, data=dataset)
+
                 results_ru['model_pair'] = {
                     'observer': pair['observer'],
                     'performer': pair['performer'],
@@ -86,17 +87,16 @@ def main():
                 results_ru['dataset_name'] = dataset_name
                 
                 print(f"\nResults for dataset: {dataset_name}")
-                print("\nOverall Metrics:")
-                print(f"F1 Score: {results_ru['overall_metrics']['f1_score']:.4f}")
-                print(f"ROC AUC: {results_ru['overall_metrics']['roc_auc']:.4f}")
-                print(f"TPR at 0.01% FPR: {results_ru['overall_metrics']['tpr_at_fpr_0_01']:.4f}")
-
-                print("\nCounts:")
-                print(f"True Positives: {len(results_ru['data']['true_positives'])}")
-                print(f"False Positives: {len(results_ru['data']['false_positives'])}")
-                print(f"True Negatives: {len(results_ru['data']['true_negatives'])}")
-                print(f"False Negatives: {len(results_ru['data']['false_negatives'])}")
-                print(f"Errors: {results_ru['data']['error_count']}")
+                print("\nStatistics:")
+                print(f"Total examples: {results_ru['overall_stats']['total_examples']}")
+                print(f"AI examples: {results_ru['overall_stats']['ai_examples']}")
+                print(f"Human examples: {results_ru['overall_stats']['human_examples']}")
+                print(f"Average score: {results_ru['overall_stats']['avg_score']:.4f}")
+                print(f"Average AI score: {results_ru['overall_stats']['avg_ai_score']:.4f}")
+                print(f"Average Human score: {results_ru['overall_stats']['avg_human_score']:.4f}")
+                
+                print(f"\nProcessed: {results_ru['check_counter']} examples")
+                print(f"Errors: {results_ru['error_count']}")
 
                 model_name = pair['name'].replace(' ', '_').replace('-', '_').replace('/', '_')
                 timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
