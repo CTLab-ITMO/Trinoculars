@@ -160,7 +160,7 @@ def visualize_data_distribution(X, y):
     plt.grid(True, linestyle='--', alpha=0.7)
     plt.legend(title='Class')
 
-def save_model(model, scaler, output_dir='models'):
+def save_model(model, scaler, output_dir='models/multiclass'):
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
     

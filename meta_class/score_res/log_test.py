@@ -1,8 +1,8 @@
 import joblib
 import numpy as np
 
-model = joblib.load('models/logreg_model.joblib')
-scaler = joblib.load('models/scaler.joblib')
+model = joblib.load('models/multiclass/logreg_model.joblib')
+scaler = joblib.load('models/multiclass/scaler.joblib')
 
 score1 = 0.91
 score2 = 1.02
