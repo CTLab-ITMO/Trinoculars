@@ -2,7 +2,7 @@ import json
 import os
 from collections import Counter
 
-file_path = "models_test/score_res/mer.json"
+file_path = "meta_class\score_res\mer_balanced.json"
 
 if not os.path.exists(file_path):
     print(f"File {file_path} not found. Please provide the correct file path.")

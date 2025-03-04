@@ -11,7 +11,7 @@ import json
 import joblib
 import os
 
-def load_data_from_json(json_path='models_test/score_res/mer.json'):
+def load_data_from_json(json_path='meta_class\score_res\mer_balanced.json'):
     with open(json_path, 'r') as f:
         data_dict = json.load(f)
     
@@ -252,7 +252,7 @@ def main():
         print(f"  Class probabilities: {dict(zip(model.classes_, probs))}")
         print()
     
-    test_model_manually(model, scaler)
+    #test_model_manually(model, scaler)
     
     print("Logistic regression training and analysis completed.")
     plt.show()
