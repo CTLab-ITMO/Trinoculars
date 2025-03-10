@@ -13,8 +13,6 @@ def run_ru_dataset(bino_chat, bino_coder, data):
     results = []
     error_count = 0
     check_counter = 0
-    
-    dataset_results = {}
 
     for row in data:
         try:
@@ -25,22 +23,17 @@ def run_ru_dataset(bino_chat, bino_coder, data):
             print(f"\nError computing score for text: {row['text']}, Error: {e}")
             error_count += 1
             continue
-
-        dataset_name = row.get("dataset", "unknown")
         
         example_data = {
             "text": row["text"],
             "source": row["source"],
-            "dataset": dataset_name,
-            "score": score
+            "dataset": row.get("dataset", "unknown"),
+            "score_chat": score_chat,
+            "score_coder": score_coder
         }
         
         results.append(example_data)
-        
-        if dataset_name not in dataset_results:
-            dataset_results[dataset_name] = []
-            
-        dataset_results[dataset_name].append(example_data)
+
         check_counter += 1
         if check_counter % 10 == 0:
             sys.stdout.write(f"\rProcessed: {check_counter} items")
