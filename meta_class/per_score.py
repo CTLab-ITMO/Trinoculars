@@ -30,15 +30,15 @@ def main():
     
     bino_chat = Binoculars(
         mode="accuracy", 
-        observer_name_or_path=chat_model_pairs["observer"],
-        performer_name_or_path=chat_model_pairs["performer"],
+        observer_name_or_path=chat_model_pairs[0]["observer"],
+        performer_name_or_path=chat_model_pairs[0]["performer"],
         max_token_observed=512
     )
 
     bino_coder = Binoculars(
         mode="accuracy", 
-        observer_name_or_path=coder_model_pairs["observer"],
-        performer_name_or_path=coder_model_pairs["performer"],
+        observer_name_or_path=coder_model_pairs[0]["observer"],
+        performer_name_or_path=coder_model_pairs[0]["performer"],
         max_token_observed=512
     )
 
