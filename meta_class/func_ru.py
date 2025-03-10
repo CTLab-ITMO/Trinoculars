@@ -10,7 +10,7 @@ from sklearn import metrics
 import numpy as np
 from meta_class.analyzer import analyze_text
 
-def run_ru_dataset(bino_chat, bino_coder, data):
+def run_dataset(bino_chat, bino_coder, data):
     results = []
     error_count = 0
     check_counter = 0

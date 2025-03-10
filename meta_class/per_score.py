@@ -1,4 +1,4 @@
-from meta_class.func_ru import run_ru_dataset
+from meta_class.func_ru import run_dataset
 from binoculars import Binoculars
 import os
 import json
@@ -11,7 +11,7 @@ def main():
         {
             "observer": "deepseek-ai/deepseek-llm-7b-base",
             "performer": "deepseek-ai/deepseek-llm-7b-chat",
-            "name": "Pair 2 - deepseek-llm-7b-base and deepseek-llm-7b-chat"
+            "name": "Pair 1 - deepseek-llm-7b-base and deepseek-llm-7b-chat"
         }
     ]
 
@@ -19,7 +19,7 @@ def main():
         {
             "observer": "deepseek-ai/deepseek-llm-7b-base",
             "performer": "deepseek-ai/deepseek-coder-7b-instruct-v1.5",
-            "name": "Pair 1 - deepseek-llm-7b-base and deepseek-coder-7b-instruct-v1.5"
+            "name": "Pair 2 - deepseek-llm-7b-base and deepseek-coder-7b-instruct-v1.5"
         }
     ]
     output_dir = "./results_two_scores"
@@ -58,16 +58,16 @@ def main():
         
         dataset_name = os.path.splitext(os.path.basename(json_file))[0]
         
-        results_ru = run_ru_dataset(bino_chat, bino_coder, data=dataset)
+        results = run_dataset(bino_chat, bino_coder, data=dataset)
         
         timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-        output_file_ru = os.path.join(output_dir, f"per_score_{dataset_name}_{timestamp}.json")
-        with open(output_file_ru, 'w', encoding='utf-8') as f:
-            json.dump(results_ru, f, ensure_ascii=False, indent=2)
-        print(f"\nResults saved to: {output_file_ru}")
+        output_file = os.path.join(output_dir, f"per_score_{dataset_name}_{timestamp}.json")
+        with open(output_file, 'w', encoding='utf-8') as f:
+            json.dump(results, f, ensure_ascii=False, indent=2)
+        print(f"\nResults saved to: {output_file}")
 
-        bino_chat.free_memory()
-        bino_coder.free_memory()
+    bino_chat.free_memory()
+    bino_coder.free_memory()
 
 if __name__ == "__main__":
     main()
