@@ -160,7 +160,7 @@ def run_ru_dataset(bino, sample_rate, data, max_samples=2000):
                 error_count += 1
                 continue
 
-            actually_ai = (row["source"] == "ai")
+            actually_ai = (row["source"] == "ai" or row["source"] == "ai+rew")
             dataset_name = row.get("dataset", "unknown")
             example_data = {
                 "text": row["text"],

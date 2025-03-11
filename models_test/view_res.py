@@ -77,7 +77,7 @@ def main():
                 
                 dataset_name = os.path.splitext(json_file)[0]
                 
-                results_ru = run_ru_dataset(bino, sample_rate=0.75, data=dataset, max_samples=4000)
+                results_ru = run_ru_dataset(bino, sample_rate=1, data=dataset, max_samples=10000)
                 results_ru['model_pair'] = {
                     'observer': pair['observer'],
                     'performer': pair['performer'],
