@@ -47,8 +47,14 @@ def main():
             print("\nEnglish dataset results:")
             print("\nMetrics:")
             print(f"F1 Score: {results_eng['metrics']['f1_score']:.4f}")
-            print(f"ROC AUC: {results_eng['metrics']['roc_auc']:.4f}")
-            print(f"TPR at 0.01% FPR: {results_eng['metrics']['tpr_at_fpr_0_01']:.4f}")
+            if results_eng['metrics']['roc_auc'] is not None:
+                print(f"ROC AUC: {results_eng['metrics']['roc_auc']:.4f}")
+            else:
+                print("ROC AUC: None")
+            if results_eng['metrics']['tpr_at_fpr_0_01'] is not None:
+                print(f"TPR at 0.01% FPR: {results_eng['metrics']['tpr_at_fpr_0_01']:.4f}")
+            else:
+                print("TPR at 0.01% FPR: None")
 
             print("\nCounts:")
             print(f"True Positives: {len(results_eng['data']['true_positives'])}")
@@ -88,8 +94,14 @@ def main():
                 print(f"\nResults for dataset: {dataset_name}")
                 print("\nOverall Metrics:")
                 print(f"F1 Score: {results_ru['overall_metrics']['f1_score']:.4f}")
-                print(f"ROC AUC: {results_ru['overall_metrics']['roc_auc']:.4f}")
-                print(f"TPR at 0.01% FPR: {results_ru['overall_metrics']['tpr_at_fpr_0_01']:.4f}")
+                if results_ru['overall_metrics']['roc_auc'] is not None:
+                    print(f"ROC AUC: {results_ru['overall_metrics']['roc_auc']:.4f}")
+                else:
+                    print("ROC AUC: None")
+                if results_ru['overall_metrics']['tpr_at_fpr_0_01'] is not None:
+                    print(f"TPR at 0.01% FPR: {results_ru['overall_metrics']['tpr_at_fpr_0_01']:.4f}")
+                else:
+                    print("TPR at 0.01% FPR: None")
 
                 print("\nCounts:")
                 print(f"True Positives: {len(results_ru['data']['true_positives'])}")
