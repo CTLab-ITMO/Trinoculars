@@ -170,14 +170,6 @@ data/train-00004-of-00007-b269dc49374a2c0b.parquet
 data/train-00005-of-00007-3dce5e05ddbad789.parquet
 data/train-00006-of-00007-3d8a471ba0cf1c8d.parquet
 
-models/binary/binary_logreg_model.joblib
-models/binary/binary_scaler.joblib
-models/multiclass/logreg_model.joblib
-models/multiclass/scaler.joblib
-models/neural_network/best_model.keras
-models/neural_network/label_encoder.joblib
-models/neural_network/nn_model.h5
-models/neural_network/nn_model.keras
-models/neural_network/scaler.joblib
-models/rf_model/rf_model.joblib
-models/rf_model/scaler.joblib
+logs/
+models/
+plots/
