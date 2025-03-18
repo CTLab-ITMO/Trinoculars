@@ -6,7 +6,6 @@ import numpy as np
 nlp = spacy.load("ru_core_news_lg")
 
 def analyze_text(text):
-    """Анализирует текст и выводит расширенную статистику и лингвистический анализ"""
     doc = nlp(text)
 
     # === БАЗОВЫЙ АНАЛИЗ ТОКЕНОВ ===
