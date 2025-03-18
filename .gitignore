@@ -169,10 +169,7 @@ data/train-00003-of-00007-529931154b42b51d.parquet
 data/train-00004-of-00007-b269dc49374a2c0b.parquet
 data/train-00005-of-00007-3dce5e05ddbad789.parquet
 data/train-00006-of-00007-3d8a471ba0cf1c8d.parquet
-models/logreg_model.joblib
-models/scaler.joblib
-models/nn_model.joblib
-models/scaler_logreg.joblib
-models/scaler_nn.joblib
-models/binary/binary_logreg_model.joblib
-models/binary/binary_scaler.joblib
+
+logs/
+models/
+plots/
