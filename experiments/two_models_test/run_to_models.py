@@ -23,7 +23,7 @@ def main():
             "name": "Pair 2 - deepseek-llm-7b-base and deepseek-llm-7b-chat"
         }
     ]
-    output_dir = "./results"
+    output_dir = "./temp_results"
     os.makedirs(output_dir, exist_ok=True)
 
     for pair in model_pairs:
