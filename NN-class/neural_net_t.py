@@ -216,7 +216,7 @@ def select_features(df, feature_config):
     print(f"Generated {len(features_df.columns)} features")
     return features_df
 
-def train_neural_network(directory_path="two_scores_with_long_text_analyze_2048T", 
+def train_neural_network(directory_path="experiments/results/two_scores_with_long_text_analyze_2048T", 
                           model_config=None, 
                           feature_config=None):
     if model_config is None:
@@ -410,7 +410,7 @@ def main():
     }
     
     model, scaler, label_encoder, accuracy = train_neural_network(
-        directory_path="two_scores_with_long_text_analyze_2048T",
+        directory_path="experiments/results/two_scores_with_long_text_analyze_2048T",
         model_config=model_config,
         feature_config=feature_config
     )
