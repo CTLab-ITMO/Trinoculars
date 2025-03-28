@@ -12,6 +12,11 @@ import matplotlib.pyplot as plt
 import json
 import joblib
 import os
+import seaborn as sns
+from sklearn.model_selection import StratifiedKFold
+from scipy import stats
+import time
+import argparse
 
 def setup_gpu():
     if torch.cuda.is_available():
@@ -218,7 +223,8 @@ def select_features(df, feature_config):
 
 def train_neural_network(directory_path="experiments/results/two_scores_with_long_text_analyze_2048T", 
                           model_config=None, 
-                          feature_config=None):
+                          feature_config=None,
+                          random_state=42):
     if model_config is None:
         model_config = {
             'hidden_layers': [128, 96, 64, 32],
@@ -255,11 +261,11 @@ def train_neural_network(directory_path="experiments/results/two_scores_with_lon
     y_encoded = label_encoder.fit_transform(y)
     
     X_train, X_test, y_train, y_test = train_test_split(
-        X, y_encoded, test_size=0.2, random_state=42
+        X, y_encoded, test_size=0.2, random_state=random_state
     )
     
     X_train, X_val, y_train, y_val = train_test_split(
-        X_train, y_train, test_size=0.2, random_state=42
+        X_train, y_train, test_size=0.2, random_state=random_state
     )
     
     scaler = StandardScaler()
@@ -362,7 +368,7 @@ def train_neural_network(directory_path="experiments/results/two_scores_with_lon
     
     return model, scaler, label_encoder, accuracy
 
-def save_model(model, scaler, label_encoder, output_dir='models/neural_network'):
+def save_model(model, scaler, label_encoder, imputer, output_dir='models/neural_network'):
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
     
@@ -375,47 +381,247 @@ def save_model(model, scaler, label_encoder, output_dir='models/neural_network')
     encoder_path = os.path.join(output_dir, 'label_encoder.joblib')
     joblib.dump(label_encoder, encoder_path)
     
+    imputer_path = os.path.join(output_dir, 'imputer.joblib')
+    joblib.dump(imputer, imputer_path)
+    
     print(f"Model saved to {model_path}")
     print(f"Scaler saved to {scaler_path}")
     print(f"Label encoder saved to {encoder_path}")
+    print(f"Imputer saved to {imputer_path}")
     
-    return model_path, scaler_path, encoder_path
+    return model_path, scaler_path, encoder_path, imputer_path 
 
-def main():
-    seed = 42
-    np.random.seed(seed)
-    torch.manual_seed(seed)
-    if GPU_AVAILABLE:
-        torch.cuda.manual_seed_all(seed)
-        torch.backends.cudnn.deterministic = True
-        torch.backends.cudnn.benchmark = False
+def evaluate_statistical_significance(X, y, model_config, scaler, label_encoder, cv=5, random_state=42, cv_epochs=15):
+    print("Starting statistical significance evaluation...")
     
-    plt.switch_backend('agg')
+    skf = StratifiedKFold(n_splits=cv, shuffle=True, random_state=random_state)
+    cv_scores = []
+    all_y_true = []
+    all_y_pred = []
     
-    model_config = {
-        'hidden_layers': [128, 96, 64, 32],
-        'dropout_rate': 0.1
+    class_counts = np.bincount(y)
+    baseline_accuracy = np.max(class_counts) / len(y)
+    most_frequent_class = np.argmax(class_counts)
+    
+    print(f"Baseline (most frequent class) accuracy: {baseline_accuracy:.4f}")
+    print(f"Most frequent class: {label_encoder.inverse_transform([most_frequent_class])[0]}")
+    
+    fold = 1
+    for train_idx, test_idx in skf.split(X, y):
+        print(f"\nTraining fold {fold}/{cv}...")
+        
+        X_train_fold, X_test_fold = X[train_idx], X[test_idx]
+        y_train_fold, y_test_fold = y[train_idx], y[test_idx]
+        
+        X_train_scaled = scaler.transform(X_train_fold)
+        X_test_scaled = scaler.transform(X_test_fold)
+        
+        X_train_tensor = torch.FloatTensor(X_train_scaled).to(DEVICE)
+        y_train_tensor = torch.LongTensor(y_train_fold).to(DEVICE)
+        X_test_tensor = torch.FloatTensor(X_test_scaled).to(DEVICE)
+        
+        input_size = X_train_scaled.shape[1]
+        num_classes = len(np.unique(y))
+        model = build_neural_network(input_size, num_classes, hidden_layers=model_config['hidden_layers'])
+        
+        criterion = nn.CrossEntropyLoss()
+        optimizer = optim.Adam(model.parameters(), lr=0.001)
+        
+        train_dataset = TensorDataset(X_train_tensor, y_train_tensor)
+        train_loader = DataLoader(train_dataset, batch_size=32, shuffle=True)
+        
+        model.train()
+        for epoch in range(cv_epochs):
+            for inputs, labels in train_loader:
+                optimizer.zero_grad()
+                outputs = model(inputs)
+                loss = criterion(outputs, labels)
+                loss.backward()
+                optimizer.step()
+        
+        model.eval()
+        with torch.no_grad():
+            outputs = model(X_test_tensor)
+            _, predicted = torch.max(outputs.data, 1)
+            predicted_np = predicted.cpu().numpy()
+            
+            fold_accuracy = (predicted_np == y_test_fold).mean()
+            cv_scores.append(fold_accuracy)
+            
+            all_y_true.extend(y_test_fold)
+            all_y_pred.extend(predicted_np)
+            
+            print(f"Fold {fold} accuracy: {fold_accuracy:.4f}")
+        
+        fold += 1
+    
+    cv_scores = np.array(cv_scores)
+    mean_accuracy = cv_scores.mean()
+    std_accuracy = cv_scores.std()
+    
+    ci_lower = mean_accuracy - 1.96 * std_accuracy / np.sqrt(cv)
+    ci_upper = mean_accuracy + 1.96 * std_accuracy / np.sqrt(cv)
+    
+    t_stat, p_value = stats.ttest_1samp(cv_scores, baseline_accuracy)
+    
+    results = {
+        'cv_scores': [float(score) for score in cv_scores.tolist()],
+        'mean_accuracy': float(mean_accuracy),
+        'std_accuracy': float(std_accuracy),
+        'confidence_interval_95': [float(ci_lower), float(ci_upper)],
+        'baseline_accuracy': float(baseline_accuracy),
+        't_statistic': float(t_stat),
+        'p_value': float(p_value),
+        'statistically_significant': "yes" if p_value < 0.05 else "no"
     }
     
-    feature_config = {
-        'basic_scores': True, 
-        'basic_text_stats': ['total_tokens', 'total_words', 'unique_words', 'stop_words', 'avg_word_length'],
-        'morphological': ['pos_distribution', 'unique_lemmas', 'lemma_word_ratio'],
-        'syntactic': ['dependencies', 'noun_chunks'],
-        'entities': ['total_entities', 'entity_types'],
-        'diversity': ['ttr', 'mtld'],
-        'structure': ['sentence_count', 'avg_sentence_length', 'question_sentences', 'exclamation_sentences'],
-        'readability': ['words_per_sentence', 'syllables_per_word', 'flesh_kincaid_score', 'long_words_percent'],
-        'semantic': True
-    }
+    print("\nStatistical Significance Results:")
+    print(f"Cross-validation accuracy: {mean_accuracy:.4f} ± {std_accuracy:.4f}")
+    print(f"95% confidence interval: [{ci_lower:.4f}, {ci_upper:.4f}]")
+    print(f"Baseline accuracy (most frequent class): {baseline_accuracy:.4f}")
+    print(f"t-statistic: {t_stat:.4f}, p-value: {p_value:.6f}")
     
-    model, scaler, label_encoder, accuracy = train_neural_network(
-        directory_path="experiments/results/two_scores_with_long_text_analyze_2048T",
-        model_config=model_config,
-        feature_config=feature_config
+    if p_value < 0.05:
+        print("The model is significantly better than the baseline (p < 0.05)")
+    else:
+        print("The model is NOT significantly better than the baseline (p >= 0.05)")
+    
+    class_names = label_encoder.classes_
+    cm = pd.crosstab(
+        pd.Series(all_y_true, name='Actual'), 
+        pd.Series(all_y_pred, name='Predicted'),
+        normalize='index'
     )
     
-    save_model(model, scaler, label_encoder)
+    cm.index = [class_names[i] for i in range(len(class_names))]
+    cm.columns = [class_names[i] for i in range(len(class_names))]
+    
+    plt.figure(figsize=(10, 8))
+    sns.heatmap(cm, annot=True, fmt='.2f', cmap='Blues')
+    plt.title('Normalized Confusion Matrix (Cross-Validation)')
+    plt.ylabel('True Label')
+    plt.xlabel('Predicted Label')
+    
+    os.makedirs('plots', exist_ok=True)
+    plt.savefig('plots/confusion_matrix_cv.png')
+    plt.close()
+    print("Confusion matrix saved to plots/confusion_matrix_cv.png")
+    
+    return results
+
+def parse_args():
+    parser = argparse.ArgumentParser(description='Neural Network Classifier with Statistical Significance Testing')
+    parser.add_argument('--random_seed', type=int, default=None, 
+                        help='Random seed for reproducibility. If not provided, a random seed will be generated.')
+    parser.add_argument('--multiple_runs', type=int, default=1,
+                        help='Number of runs with different random seeds')
+    return parser.parse_args()
+
+def main():
+    args = parse_args()
+    
+    if args.random_seed is None:
+        seed = int(time.time() * 1000) % 10000
+        print(f"Using random seed: {seed}")
+    else:
+        seed = args.random_seed
+        print(f"Using provided seed: {seed}")
+    
+    all_run_results = []
+    
+    for run in range(args.multiple_runs):
+        if args.multiple_runs > 1:
+            current_seed = seed + run
+            print(f"\n\nRun {run+1}/{args.multiple_runs} with seed {current_seed}\n")
+        else:
+            current_seed = seed
+        
+        np.random.seed(current_seed)
+        torch.manual_seed(current_seed)
+        if GPU_AVAILABLE:
+            torch.cuda.manual_seed_all(current_seed)
+            torch.backends.cudnn.deterministic = True
+            torch.backends.cudnn.benchmark = False
+        
+        plt.switch_backend('agg')
+        
+        model_config = {
+            'hidden_layers': [128, 96, 64, 32],
+            'dropout_rate': 0.1
+        }
+        
+        feature_config = {
+            'basic_scores': True, 
+            'basic_text_stats': ['total_tokens', 'total_words', 'unique_words', 'stop_words', 'avg_word_length'],
+            'morphological': ['pos_distribution', 'unique_lemmas', 'lemma_word_ratio'],
+            'syntactic': ['dependencies', 'noun_chunks'],
+            'entities': ['total_entities', 'entity_types'],
+            'diversity': ['ttr', 'mtld'],
+            'structure': ['sentence_count', 'avg_sentence_length', 'question_sentences', 'exclamation_sentences'],
+            'readability': ['words_per_sentence', 'syllables_per_word', 'flesh_kincaid_score', 'long_words_percent'],
+            'semantic': True
+        }
+        
+        model, scaler, label_encoder, accuracy = train_neural_network(
+            directory_path="experiments/results/two_scores_with_long_text_analyze_2048T",
+            model_config=model_config,
+            feature_config=feature_config,
+            random_state=current_seed
+        )
+        
+        print("\nPerforming statistical significance testing...")
+        df = load_data_from_json("experiments/results/two_scores_with_long_text_analyze_2048T")
+        features_df = select_features(df, feature_config)
+        
+        imputer = SimpleImputer(strategy='mean')
+        X = imputer.fit_transform(features_df)
+        y = df['label'].values
+        y_encoded = label_encoder.transform(y)
+        
+        significance_results = evaluate_statistical_significance(
+            X, y_encoded, model_config, scaler, label_encoder, cv=5, random_state=current_seed
+        )
+        
+        run_info = {
+            'run_id': run + 1,
+            'seed': current_seed,
+            'accuracy': float(accuracy),
+            'statistical_significance': significance_results
+        }
+        all_run_results.append(run_info)
+        
+        output_dir = f'models/neural_network/run_{run+1}_seed_{current_seed}'
+        os.makedirs(output_dir, exist_ok=True)
+        
+        with open(f'{output_dir}/statistical_results.json', 'w') as f:
+            json.dump(significance_results, f, indent=4)
+        
+        save_model(model, scaler, label_encoder, imputer, output_dir='models/neural_network')
+    
+    if args.multiple_runs > 1:
+        accuracy_values = [run['accuracy'] for run in all_run_results]
+        mean_accuracy = np.mean(accuracy_values)
+        std_accuracy = np.std(accuracy_values)
+        
+        print("\n" + "="*60)
+        print(f"SUMMARY OF {args.multiple_runs} RUNS")
+        print("="*60)
+        print(f"Mean accuracy: {mean_accuracy:.4f} ± {std_accuracy:.4f}")
+        print(f"Min accuracy: {min(accuracy_values):.4f}, Max accuracy: {max(accuracy_values):.4f}")
+        
+        summary = {
+            'num_runs': args.multiple_runs,
+            'base_seed': seed,
+            'accuracy_mean': float(mean_accuracy),
+            'accuracy_std': float(std_accuracy),
+            'accuracy_min': float(min(accuracy_values)),
+            'accuracy_max': float(max(accuracy_values)),
+            'all_runs': all_run_results
+        }
+        
+        with open('models/neural_network/multiple_runs_summary.json', 'w') as f:
+            json.dump(summary, f, indent=4)
+        print("Summary saved to models/neural_network/multiple_runs_summary.json")
 
 if __name__ == "__main__":
     main()

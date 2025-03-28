@@ -1,14 +1,64 @@
-from binoculars import Binoculars
+import argparse
+import pandas as pd
 
-bino = Binoculars()
+from text_analysis import show_text_analysis
+from binoculars_utils import initialize_binoculars, compute_scores
+from model_utils import load_model, classify_text
 
-# ChatGPT (GPT-4) output when prompted with “Can you write a few sentences about a capybara that is an astrophysicist?"
-sample_string = '''Dr. Capy Cosmos, a capybara unlike any other, astounded the scientific community with his 
-groundbreaking research in astrophysics. With his keen sense of observation and unparalleled ability to interpret 
-cosmic data, he uncovered new insights into the mysteries of black holes and the origins of the universe. As he 
-peered through telescopes with his large, round eyes, fellow researchers often remarked that it seemed as if the 
-stars themselves whispered their secrets directly to him. Dr. Cosmos not only became a beacon of inspiration to 
-aspiring scientists but also proved that intellect and innovation can be found in the most unexpected of creatures.'''
+def main():
+    parser = argparse.ArgumentParser(description='Text classifier demonstration')
+    parser.add_argument('--text', type=str, help='Text for classification')
+    parser.add_argument('--file', type=str, help='Path to file with text')
+    parser.add_argument('--analysis', action='store_true', help='Show detailed text analysis')
+    parser.add_argument('--compute-scores', action='store_true', help='Compute score_chat and score_coder')
+    args = parser.parse_args()
+    
+    bino_chat = None
+    bino_coder = None
+    if args.compute_scores:
+        bino_chat, bino_coder = initialize_binoculars()
+    
+    print("Loading model...")
+    model, scaler, label_encoder, imputer = load_model()
+    
+    if args.text:
+        text = args.text
+    elif args.file:
+        with open(args.file, 'r', encoding='utf-8') as f:
+            text = f.read()
+    else:
+        text = input("Enter text for classification: ")
+    
+    scores = None
+    if args.compute_scores:
+        scores = compute_scores(text, bino_chat, bino_coder)
+    
+    print(f"\nAnalyzing text...")
+    result = classify_text(text, model, scaler, label_encoder, imputer=imputer, scores=scores)
+    
+    print("\nClassification results:")
+    print(f"Predicted class: {result['predicted_class']}")
+    print("Class probabilities:")
+    for cls, prob in result['probabilities'].items():
+        print(f"  - {cls}: {prob:.4f}")
+    
+    if scores:
+        print("\nComputed scores:")
+        if 'score_chat' in scores:
+            print(f"- Score Chat: {scores['score_chat']:.4f}")
+        if 'score_coder' in scores:
+            print(f"- Score Coder: {scores['score_coder']:.4f}")
+    
+    if args.analysis:
+        show_text_analysis(result['text_analysis'])
+        
+    if args.compute_scores:
+        if bino_chat:
+            bino_chat.free_memory()
+        if bino_coder:
+            bino_coder.free_memory()
 
-print(bino.compute_score(sample_string))  # 0.75661373
-print(bino.predict(sample_string))  # 'Most likely AI-Generated'
+if __name__ == "__main__":
+    main()
+
+
