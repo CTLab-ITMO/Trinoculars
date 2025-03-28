@@ -8,6 +8,7 @@ import seaborn as sns
 import os   
 import argparse
 from model_utils import load_model, classify_text
+from binoculars_utils import initialize_binoculars, compute_scores
 
 def map_source_to_label(source):
     label_mapping = {
@@ -17,7 +18,7 @@ def map_source_to_label(source):
     }
     return label_mapping.get(source, source)
 
-def validate_on_dataset(dataset_path, limit=None):
+def validate_on_dataset(dataset_path, limit=None, compute_binoculars=False):
     print(f"Loading dataset from {dataset_path}")
     with open(dataset_path, 'r', encoding='utf-8') as f:
         dataset = json.load(f)
@@ -28,6 +29,12 @@ def validate_on_dataset(dataset_path, limit=None):
         dataset = dataset[:limit]
         print(f"Limited to {limit} texts for testing")
     
+    bino_chat = None
+    bino_coder = None
+    if compute_binoculars:
+        print("Initializing Binoculars models...")
+        bino_chat, bino_coder = initialize_binoculars()
+    
     print("Loading model...")
     model, scaler, label_encoder, imputer = load_model()
     
@@ -35,6 +42,8 @@ def validate_on_dataset(dataset_path, limit=None):
     true_labels = []
     predicted_labels = []
     confidence_scores = []
+    chat_scores = []
+    coder_scores = []
     
     print("Processing texts...")
     for item in tqdm(dataset):
@@ -43,13 +52,17 @@ def validate_on_dataset(dataset_path, limit=None):
         true_label = map_source_to_label(true_source)
         
         try:
-            classification = classify_text(text, model, scaler, label_encoder, imputer=imputer)
+            scores = None
+            if compute_binoculars:
+                scores = compute_scores(text, bino_chat, bino_coder)
+            
+            classification = classify_text(text, model, scaler, label_encoder, imputer=imputer, scores=scores)
             
             predicted_class = classification['predicted_class']
             probabilities = classification['probabilities']
             confidence = probabilities[predicted_class]
             
-            results.append({
+            result_item = {
                 'id': item.get('id', ''),
                 'text_preview': text[:100] + '...',
                 'true_source': true_source,
@@ -57,7 +70,18 @@ def validate_on_dataset(dataset_path, limit=None):
                 'predicted_label': predicted_class,
                 'confidence': confidence,
                 'correct': predicted_class == true_label
-            })
+            }
+            
+            if scores:
+                if 'score_chat' in scores:
+                    result_item['score_chat'] = scores['score_chat']
+                    chat_scores.append(scores['score_chat'])
+                
+                if 'score_coder' in scores:
+                    result_item['score_coder'] = scores['score_coder']
+                    coder_scores.append(scores['score_coder'])
+            
+            results.append(result_item)
             
             true_labels.append(true_label)
             predicted_labels.append(predicted_class)
@@ -78,7 +102,7 @@ def validate_on_dataset(dataset_path, limit=None):
         'correct_predictions': sum(1 for r in results if r['correct']),
         'avg_confidence': np.mean(confidence_scores)
     }
-    
+
     report = classification_report(true_labels, predicted_labels, output_dict=True)
     
     cm = confusion_matrix(true_labels, predicted_labels)
@@ -101,6 +125,12 @@ def validate_on_dataset(dataset_path, limit=None):
             'overall': metrics,
             'class_report': report
         }, f, indent=4)
+    
+    if compute_binoculars:
+        if bino_chat:
+            bino_chat.free_memory()
+        if bino_coder:
+            bino_coder.free_memory()
     
     return metrics, df_results
 
@@ -131,6 +161,12 @@ def display_results(metrics, df_results):
         print("\nTop 5 most confident incorrect predictions:")
         for _, row in high_conf_errors.iterrows():
             print(f"  ID: {row['id']}, True: {row['true_label']}, Predicted: {row['predicted_label']}, Confidence: {row['confidence']:.4f}")
+            
+            if 'score_chat' in row:
+                print(f"  score_chat: {row['score_chat']:.4f}")
+            if 'score_coder' in row:
+                print(f"  score_coder: {row['score_coder']:.4f}")
+                
             print(f"  Text preview: {row['text_preview']}")
             print()
     
@@ -144,9 +180,15 @@ def main():
                         help='Path to the dataset JSON file')
     parser.add_argument('--limit', type=int, default=None, 
                         help='Limit the number of texts to process (for testing)')
+    parser.add_argument('--compute-binoculars', action='store_true',
+                        help='Compute Binoculars metrics (score_chat and score_coder)')
     args = parser.parse_args()
     
-    metrics, df_results = validate_on_dataset(args.dataset, args.limit)
+    metrics, df_results = validate_on_dataset(
+        args.dataset, 
+        args.limit,
+        compute_binoculars=args.compute_binoculars
+    )
     display_results(metrics, df_results)
 
 if __name__ == "__main__":
