@@ -18,16 +18,69 @@ def map_source_to_label(source):
     }
     return label_mapping.get(source, source)
 
-def validate_on_dataset(dataset_path, limit=None, compute_binoculars=False):
+def validate_on_dataset(dataset_path, limit=None, compute_binoculars=False, random_seed=42):
     print(f"Loading dataset from {dataset_path}")
     with open(dataset_path, 'r', encoding='utf-8') as f:
         dataset = json.load(f)
     
     print(f"Found {len(dataset)} texts in dataset")
     
-    if limit:
-        dataset = dataset[:limit]
-        print(f"Limited to {limit} texts for testing")
+    if limit and limit < len(dataset):
+        np.random.seed(random_seed)
+        
+        class_examples = {}
+        for i, item in enumerate(dataset):
+            source = item['source']
+            if source not in class_examples:
+                class_examples[source] = []
+            class_examples[source].append(i)
+        
+        total_samples = len(dataset)
+        samples_per_class = {}
+        for cls, examples in class_examples.items():
+            class_proportion = len(examples) / total_samples
+            samples_per_class[cls] = max(1, int(limit * class_proportion))
+        
+        total_selected = sum(samples_per_class.values())
+        if total_selected < limit:
+            remaining = limit - total_selected
+            for cls in sorted(class_examples.keys(), 
+                              key=lambda c: len(class_examples[c]) / total_samples,
+                              reverse=True):
+                if remaining <= 0:
+                    break
+                samples_per_class[cls] += 1
+                remaining -= 1
+        elif total_selected > limit:
+            excess = total_selected - limit
+            for cls in sorted(class_examples.keys(), 
+                              key=lambda c: len(class_examples[c]),
+                              reverse=True):
+                if excess <= 0:
+                    break
+                reduction = min(excess, samples_per_class[cls] - 1)
+                samples_per_class[cls] -= reduction
+                excess -= reduction
+        
+        selected_indices = []
+        for cls, count in samples_per_class.items():
+            if len(class_examples[cls]) <= count:
+                selected_indices.extend(class_examples[cls])
+            else:
+                selected = np.random.choice(class_examples[cls], size=count, replace=False)
+                selected_indices.extend(selected)
+        
+        dataset = [dataset[i] for i in selected_indices]
+        print(f"Selected {len(dataset)} examples with stratified sampling")
+        
+        class_distribution = {}
+        for item in dataset:
+            cls = item['source']
+            class_distribution[cls] = class_distribution.get(cls, 0) + 1
+        
+        print("Class distribution in sample:")
+        for cls, count in class_distribution.items():
+            print(f"  - {cls}: {count} examples ({count/len(dataset)*100:.1f}%)")
     
     bino_chat = None
     bino_coder = None
@@ -182,12 +235,15 @@ def main():
                         help='Limit the number of texts to process (for testing)')
     parser.add_argument('--compute-binoculars', action='store_true',
                         help='Compute Binoculars metrics (score_chat and score_coder)')
+    parser.add_argument('--seed', type=int, default=42,
+                        help='Random seed for sampling examples')
     args = parser.parse_args()
     
     metrics, df_results = validate_on_dataset(
         args.dataset, 
         args.limit,
-        compute_binoculars=args.compute_binoculars
+        compute_binoculars=args.compute_binoculars,
+        random_seed=args.seed
     )
     display_results(metrics, df_results)
 
