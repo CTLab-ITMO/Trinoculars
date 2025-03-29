@@ -14,7 +14,7 @@ def map_source_to_label(source):
     label_mapping = {
         'ai': 'Raw AI',
         'human': 'Human',
-        'ai+rew': 'Rephrased AI'
+        'ai+par': 'Rephrased AI'
     }
     return label_mapping.get(source, source)
 
