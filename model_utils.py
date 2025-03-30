@@ -46,7 +46,7 @@ def load_model(model_dir='models/neural_network'):
     return model, scaler, label_encoder, imputer
 
 def classify_text(text, model, scaler, label_encoder, imputer=None, scores=None):
-    print("Extracting features...")
+    #print("Extracting features...")
     features_df, text_analysis = extract_features(text, scores=scores)
     
     if imputer is not None:

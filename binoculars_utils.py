@@ -33,11 +33,11 @@ def compute_scores(text, bino_chat=None, bino_coder=None):
     scores = {}
     
     if bino_chat:
-        print("Computing score_chat...")
+        #print("Computing score_chat...")
         scores['score_chat'] = bino_chat.compute_score(text)
     
     if bino_coder:
-        print("Computing score_coder...")
+        #print("Computing score_coder...")
         scores['score_coder'] = bino_coder.compute_score(text)
     
     return scores 
