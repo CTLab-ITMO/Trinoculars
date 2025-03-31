@@ -603,7 +603,7 @@ def parse_args():
 
 def main():
     print("\n" + "="*50)
-    print("BINARY CLASSIFIER WITHOUT SCORE FEATURES")
+    print("BINARY CLASSIFIER FEATURES")
     print("="*50 + "\n")
     
     args = parse_args()
@@ -624,7 +624,7 @@ def main():
     }
     
     feature_config = {
-        'basic_scores': False,
+        'basic_scores': True,
         'basic_text_stats': ['total_tokens', 'total_words', 'unique_words', 'stop_words', 'avg_word_length'],
         'morphological': ['pos_distribution', 'unique_lemmas', 'lemma_word_ratio'],
         'syntactic': ['dependencies', 'noun_chunks'],
@@ -635,7 +635,7 @@ def main():
         'semantic': True
     }
     
-    output_dir = 'models/binary_classifier_no_scores'
+    output_dir = 'models/binary_classifier'
     
     best_model_data, results = cross_validate_binary_classifier(
         directory_path="experiments/results/two_scores_with_long_text_analyze_2048T",
@@ -650,7 +650,7 @@ def main():
     save_paths = save_binary_model(best_model_data, results, output_dir=output_dir)
     
     print("\nTraining and evaluation completed.")
-    print(f"Best model (without score features) saved to {save_paths['model_path']}")
+    print(f"Best model saved to {save_paths['model_path']}")
 
 if __name__ == "__main__":
     main() 
