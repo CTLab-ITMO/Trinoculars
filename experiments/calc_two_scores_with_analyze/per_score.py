@@ -87,7 +87,24 @@ def main():
                         "dataset": "CoAT"
                     })
     
-    results = run_dataset(bino_chat, bino_coder, data=data_to_process)
+    total_samples = len(data_to_process)
+    print(f"Total samples in dataset: {total_samples}")
+    
+    if total_samples > 10000:
+        step = total_samples / 10000
+        indices = [int(i * step) for i in range(10000)]
+        indices = [min(i, total_samples - 1) for i in indices]
+        
+        sampled_data = [data_to_process[i] for i in indices]
+        print(f"Sampled 10000 examples from dataset")
+    else:
+        sampled_data = data_to_process
+        print(f"Using all {total_samples} examples (less than 10000)")
+    
+    results = run_dataset(bino_chat, bino_coder, data=sampled_data)
+    
+    results["total_dataset_size"] = total_samples
+    results["sampled_size"] = len(sampled_data)
     
     timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
     output_file = os.path.join(output_dir, f"coat_results_{timestamp}.json")
