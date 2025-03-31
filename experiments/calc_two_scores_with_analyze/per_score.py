@@ -4,10 +4,54 @@ import os
 import json
 import datetime
 import argparse
-from datasets import load_dataset
+import pandas as pd
+import subprocess
+
+def read_coat_data(sample_limit=None):
+    csv_path = "./CoAT/datasets/binary/val.csv"
+    
+    if not os.path.exists(csv_path):
+        if not os.path.exists("./CoAT"):
+            print("CoAT repository not found. Cloning...")
+            try:
+                subprocess.run(["git", "clone", "https://github.com/RussianNLP/CoAT.git"], check=True)
+                subprocess.run(["git", "lfs", "pull"], cwd="./CoAT", check=True)
+            except subprocess.CalledProcessError as e:
+                print(f"Error cloning repository: {str(e)}")
+                return None
+            except FileNotFoundError:
+                print("Git is not installed or not in PATH. Please install Git and Git LFS.")
+                return None
+    
+    if not os.path.exists(csv_path):
+        print(f"File {csv_path} not found even after cloning the repository.")
+        return None
+    
+    try:
+        print(f"Reading file {csv_path}...")
+        df = pd.read_csv(csv_path)
+        
+        print(f"Total number of rows: {len(df)}")
+        print(f"Columns in dataset: {', '.join(df.columns)}")
+        
+        if sample_limit and sample_limit < len(df):
+            df = df.head(sample_limit)
+            print(f"Taking first {sample_limit} samples")
+        
+        data_list = []
+        for _, row in df.iterrows():
+            data_list.append({
+                "text": row["text"],
+                "is_artificial": row["label"] == 1
+            })
+        
+        return data_list
+    
+    except Exception as e:
+        print(f"Error reading file: {str(e)}")
+        return None
 
 def main():
-
     chat_model_pairs = [
         {
             "observer": "deepseek-ai/deepseek-llm-7b-base",
@@ -43,68 +87,23 @@ def main():
         max_token_observed=2048
     )
 
-    try:
-        dataset = load_dataset("RussianNLP/CoAT")
-        print("Successfully loaded CoAT dataset from Hugging Face")
-    except:
-        print("Could not load from Hugging Face, trying local files...")
-        import glob
-        
-        dataset_files = glob.glob("./CoAT/datasets/**/*.json", recursive=True)
-        if not dataset_files:
-            import subprocess
-            print("Cloning CoAT repository...")
-            subprocess.run(["git", "clone", "https://github.com/RussianNLP/CoAT.git"])
-            dataset_files = glob.glob("./CoAT/datasets/**/*.json", recursive=True)
-        
-        if not dataset_files:
-            raise Exception("Failed to find CoAT dataset files")
-            
-        print(f"Found {len(dataset_files)} dataset files")
-        dataset = {"data": []}
-        
-        for file_path in dataset_files:
-            with open(file_path, "r", encoding="utf-8") as f:
-                file_data = json.load(f)
-                dataset["data"].extend(file_data)
+    sample_limit = 10000
+    data_to_process = read_coat_data(sample_limit)
+    
+    if data_to_process is None:
+        print("Failed to load CoAT data. Exiting program.")
+        return
+    
+    total_samples = len(data_to_process)
+    print(f"Loaded {total_samples} samples for processing")
     
     output_dir = "./results_coat"
     os.makedirs(output_dir, exist_ok=True)
     
-    print(f"Processing CoAT dataset with {len(dataset['data'] if isinstance(dataset, dict) else dataset)} samples")
-    
-    processed_data = []
-    if isinstance(dataset, dict) and "data" in dataset:
-        data_to_process = dataset["data"]
-    else:
-        data_to_process = []
-        for split in dataset:
-            for item in dataset[split]:
-                if "text" in item:
-                    data_to_process.append({
-                        "text": item["text"],
-                        "source": item.get("source", "unknown"),
-                        "dataset": "CoAT"
-                    })
-    
-    total_samples = len(data_to_process)
-    print(f"Total samples in dataset: {total_samples}")
-    
-    if total_samples > 10000:
-        step = total_samples / 10000
-        indices = [int(i * step) for i in range(10000)]
-        indices = [min(i, total_samples - 1) for i in indices]
-        
-        sampled_data = [data_to_process[i] for i in indices]
-        print(f"Sampled 10000 examples from dataset")
-    else:
-        sampled_data = data_to_process
-        print(f"Using all {total_samples} examples (less than 10000)")
-    
-    results = run_dataset(bino_chat, bino_coder, data=sampled_data)
+    results = run_dataset(bino_chat, bino_coder, data=data_to_process)
     
     results["total_dataset_size"] = total_samples
-    results["sampled_size"] = len(sampled_data)
+    results["sampled_size"] = total_samples
     
     timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
     output_file = os.path.join(output_dir, f"coat_results_{timestamp}.json")

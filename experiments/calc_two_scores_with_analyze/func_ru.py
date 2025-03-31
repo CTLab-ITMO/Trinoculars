@@ -32,12 +32,12 @@ def run_dataset(bino_chat, bino_coder, data):
             error_count += 1
             continue
         
+        is_artificial = row.get("is_artificial", False)
+        source_type = "ai" if is_artificial else "human"
+        
         example_data = {
             "text": text,
-            "source": row.get("source", "unknown"),
-            "dataset": row.get("dataset", "CoAT"),
-            "is_artificial": row.get("is_artificial", None),
-            "author": row.get("author", None),
+            "source": source_type,
             "score_chat": score_chat,
             "score_coder": score_coder,
         }
