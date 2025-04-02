@@ -157,20 +157,26 @@ def update_json_files(directory):
                 print(f"Skipping file {file_path}: structure does not contain 'data' field")
                 continue
             
-            for item in data['data']:
+            modified_data = json.loads(json.dumps(data))
+            
+            for item in modified_data['data']:
                 if 'text' in item:
                     text = item['text']
                     analysis_results = analyze_text_for_json(text)
                     item['text_analysis'] = analysis_results
-                    
-            with open(file_path, 'w', encoding='utf-8') as f:
-                json.dump(data, f, ensure_ascii=False, indent=2)
+            
+            base_name, ext = os.path.splitext(file_path)
+            new_file_path = f"{base_name}_analyzed{ext}"
+
+            with open(new_file_path, 'w', encoding='utf-8') as f:
+                json.dump(modified_data, f, ensure_ascii=False, indent=2)
                 
-            print(f"File {file_path} successfully updated")
+            print(f"Original file kept at: {file_path}")
+            print(f"Analysis saved to: {new_file_path}")
             
         except Exception as e:
             print(f"Error processing file {file_path}: {str(e)}")
 
 if __name__ == "__main__":
-    directory = "res_full_text_tests"
+    directory = "experiments/results/coat"
     update_json_files(directory)
