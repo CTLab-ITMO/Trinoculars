@@ -3,11 +3,13 @@ import torch
 import joblib
 import numpy as np
 from sklearn.impute import SimpleImputer
-from NN_classifier.neural_net_t import Neural_Network, DEVICE
+from NN_classifier.simple_binary_classifier import Medium_Binary_Network
 from feature_extraction import extract_features
 import pandas as pd
 
-def load_model(model_dir='models/neural_network'):
+DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+
+def load_model(model_dir='models/medium_binary_classifier'):
     model_path = os.path.join(model_dir, 'nn_model.pt')
     scaler_path = os.path.join(model_dir, 'scaler.joblib')
     encoder_path = os.path.join(model_dir, 'label_encoder.joblib')
@@ -26,10 +28,8 @@ def load_model(model_dir='models/neural_network'):
         print("Warning: Imputer not found, will create a new one during classification")
     
     input_size = scaler.n_features_in_
-    hidden_layers = [128, 96, 64, 32]
-    num_classes = len(label_encoder.classes_)
     
-    model = Neural_Network(input_size, hidden_layers, num_classes).to(DEVICE)
+    model = Medium_Binary_Network(input_size, hidden_sizes=[256, 192, 128, 64], dropout=0.3).to(DEVICE)
     model.load_state_dict(torch.load(model_path, map_location=DEVICE))
     model.eval()
     
@@ -46,7 +46,6 @@ def load_model(model_dir='models/neural_network'):
     return model, scaler, label_encoder, imputer
 
 def classify_text(text, model, scaler, label_encoder, imputer=None, scores=None):
-    #print("Extracting features...")
     features_df, text_analysis = extract_features(text, scores=scores)
     
     if imputer is not None:
