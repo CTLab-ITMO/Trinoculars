@@ -97,34 +97,188 @@ def run_binary_classifier(text, show_analysis=False):
         features = result['features']
         text_analysis = result['text_analysis']
         
+        basic_stats_dict = {
+            'total_tokens': 'Количество токенов',
+            'total_words': 'Количество слов',
+            'unique_words': 'Количество уникальных слов',
+            'stop_words': 'Количество стоп-слов',
+            'avg_word_length': 'Средняя длина слова (символов)'
+        }
+        
+        morph_dict = {
+            'pos_distribution': 'Распределение частей речи',
+            'unique_lemmas': 'Количество уникальных лемм',
+            'lemma_word_ratio': 'Отношение лемм к словам'
+        }
+        
+        synt_dict = {
+            'dependencies': 'Зависимости между словами',
+            'noun_chunks': 'Количество именных групп'
+        }
+        
+        entities_dict = {
+            'total_entities': 'Общее количество именованных сущностей',
+            'entity_types': 'Типы именованных сущностей'
+        }
+        
+        diversity_dict = {
+            'ttr': 'TTR (отношение типов к токенам)',
+            'mtld': 'MTLD (мера лексического разнообразия)'
+        }
+        
+        structure_dict = {
+            'sentence_count': 'Количество предложений',
+            'avg_sentence_length': 'Средняя длина предложения (токенов)',
+            'question_sentences': 'Количество вопросительных предложений',
+            'exclamation_sentences': 'Количество восклицательных предложений'
+        }
+        
+        readability_dict = {
+            'words_per_sentence': 'Слов на предложение',
+            'syllables_per_word': 'Слогов на слово',
+            'flesh_kincaid_score': 'Индекс читабельности Флеша-Кинкейда',
+            'long_words_percent': 'Процент длинных слов'
+        }
+        
+        semantic_dict = {
+            'avg_coherence_score': 'Средняя связность между предложениями'
+        }
+        
         analysis_md = "## Анализ текста\n\n"
         
         # Basic statistics
         analysis_md += "### Основная статистика\n"
-        analysis_md += f"- Всего токенов: {text_analysis['basic_stats']['total_tokens']}\n"
-        analysis_md += f"- Всего слов: {text_analysis['basic_stats']['total_words']}\n"
-        analysis_md += f"- Уникальных слов: {text_analysis['basic_stats']['unique_words']}\n"
-        analysis_md += f"- Стоп-слов: {text_analysis['basic_stats']['stop_words']}\n"
-        analysis_md += f"- Средняя длина слова: {text_analysis['basic_stats']['avg_word_length']:.2f} символов\n\n"
+        for key, value in text_analysis.get('basic_stats', {}).items():
+            label = basic_stats_dict.get(key, key)
+            if isinstance(value, float):
+                analysis_md += f"- {label}: {value:.2f}\n"
+            else:
+                analysis_md += f"- {label}: {value}\n"
+        analysis_md += "\n"
+        
+        # Morphological analysis
+        analysis_md += "### Морфологический анализ\n"
+        morph_analysis = text_analysis.get('morphological_analysis', {})
+        for key, value in morph_analysis.items():
+            label = morph_dict.get(key, key)
+            if key == 'pos_distribution':
+                analysis_md += f"- {label}:\n"
+                for pos, count in value.items():
+                    pos_name = pos
+                    if pos == 'NOUN': pos_name = 'Существительные'
+                    elif pos == 'VERB': pos_name = 'Глаголы'
+                    elif pos == 'ADJ': pos_name = 'Прилагательные'
+                    elif pos == 'ADV': pos_name = 'Наречия'
+                    elif pos == 'PROPN': pos_name = 'Имена собственные'
+                    elif pos == 'DET': pos_name = 'Определители'
+                    elif pos == 'ADP': pos_name = 'Предлоги'
+                    elif pos == 'PRON': pos_name = 'Местоимения'
+                    elif pos == 'CCONJ': pos_name = 'Сочинительные союзы'
+                    elif pos == 'SCONJ': pos_name = 'Подчинительные союзы'
+                    elif pos == 'NUM': pos_name = 'Числительные'
+                    elif pos == 'PART': pos_name = 'Частицы'
+                    elif pos == 'PUNCT': pos_name = 'Знаки препинания'
+                    elif pos == 'AUX': pos_name = 'Вспомогательные глаголы'
+                    elif pos == 'SYM': pos_name = 'Символы'
+                    elif pos == 'INTJ': pos_name = 'Междометия'
+                    elif pos == 'X': pos_name = 'Другое (X)'
+                    analysis_md += f"  - {pos_name}: {count}\n"
+            elif isinstance(value, float):
+                analysis_md += f"- {label}: {value:.3f}\n"
+            else:
+                analysis_md += f"- {label}: {value}\n"
+        analysis_md += "\n"
+        
+        # Syntactic analysis
+        analysis_md += "### Синтаксический анализ\n"
+        synt_analysis = text_analysis.get('syntactic_analysis', {})
+        for key, value in synt_analysis.items():
+            label = synt_dict.get(key, key)
+            if key == 'dependencies':
+                analysis_md += f"- {label}:\n"
+                for dep, count in value.items():
+                    dep_name = dep
+                    if dep == 'nsubj': dep_name = 'Подлежащие'
+                    elif dep == 'obj': dep_name = 'Дополнения'
+                    elif dep == 'amod': dep_name = 'Определения'
+                    elif dep == 'nmod': dep_name = 'Именные модификаторы'
+                    elif dep == 'ROOT': dep_name = 'Корневые узлы'
+                    elif dep == 'punct': dep_name = 'Пунктуация'
+                    elif dep == 'case': dep_name = 'Падежные маркеры'
+                    elif dep == 'dep': dep_name = 'Общие зависимости'
+                    elif dep == 'appos': dep_name = 'Приложения'
+                    elif dep == 'flat:foreign': dep_name = 'Иностранные выражения'
+                    elif dep == 'conj': dep_name = 'Сочинительные конструкции'
+                    elif dep == 'obl': dep_name = 'Косвенные дополнения'
+                    analysis_md += f"  - {dep_name}: {count}\n"
+            elif key == 'noun_chunks':
+                if isinstance(value, bool):
+                    analysis_md += f"- {label}: {0 if value is False else value}\n"
+                else:
+                    analysis_md += f"- {label}: {value}\n"
+            elif isinstance(value, float):
+                analysis_md += f"- {label}: {value:.3f}\n"
+            else:
+                analysis_md += f"- {label}: {value}\n"
+        analysis_md += "\n"
+        
+        # Named entities
+        analysis_md += "### Именованные сущности\n"
+        entities = text_analysis.get('named_entities', {})
+        for key, value in entities.items():
+            label = entities_dict.get(key, key)
+            if key == 'entity_types':
+                analysis_md += f"- {label}:\n"
+                for ent, count in value.items():
+                    ent_name = ent
+                    if ent == 'PER': ent_name = 'Люди'
+                    elif ent == 'LOC': ent_name = 'Локации'
+                    elif ent == 'ORG': ent_name = 'Организации'
+                    analysis_md += f"  - {ent_name}: {count}\n"
+            elif isinstance(value, float):
+                analysis_md += f"- {label}: {value:.3f}\n"
+            else:
+                analysis_md += f"- {label}: {value}\n"
+        analysis_md += "\n"
         
         # Lexical diversity
         analysis_md += "### Лексическое разнообразие\n"
-        analysis_md += f"- TTR (Type-Token Ratio): {text_analysis['lexical_diversity']['ttr']:.3f}\n"
-        analysis_md += f"- MTLD (упрощенный): {text_analysis['lexical_diversity']['mtld']:.2f}\n\n"
+        for key, value in text_analysis.get('lexical_diversity', {}).items():
+            label = diversity_dict.get(key, key)
+            if isinstance(value, float):
+                analysis_md += f"- {label}: {value:.3f}\n"
+            else:
+                analysis_md += f"- {label}: {value}\n"
+        analysis_md += "\n"
         
         # Text structure
         analysis_md += "### Структура текста\n"
-        analysis_md += f"- Количество предложений: {text_analysis['text_structure']['sentence_count']}\n"
-        analysis_md += f"- Средняя длина предложения: {text_analysis['text_structure']['avg_sentence_length']:.2f} токенов\n\n"
+        for key, value in text_analysis.get('text_structure', {}).items():
+            label = structure_dict.get(key, key)
+            if isinstance(value, float):
+                analysis_md += f"- {label}: {value:.2f}\n"
+            else:
+                analysis_md += f"- {label}: {value}\n"
+        analysis_md += "\n"
         
         # Readability
         analysis_md += "### Читабельность\n"
-        analysis_md += f"- Flesch-Kincaid score: {text_analysis['readability']['flesh_kincaid_score']:.2f}\n"
-        analysis_md += f"- Процент длинных слов: {text_analysis['readability']['long_words_percent']:.2f}%\n\n"
+        for key, value in text_analysis.get('readability', {}).items():
+            label = readability_dict.get(key, key)
+            if isinstance(value, float):
+                analysis_md += f"- {label}: {value:.2f}\n"
+            else:
+                analysis_md += f"- {label}: {value}\n"
+        analysis_md += "\n"
         
         # Semantic coherence
         analysis_md += "### Семантическая связность\n"
-        analysis_md += f"- Средняя связность между предложениями: {text_analysis['semantic_coherence']['avg_coherence_score']:.3f}\n"
+        for key, value in text_analysis.get('semantic_coherence', {}).items():
+            label = semantic_dict.get(key, key)
+            if isinstance(value, float):
+                analysis_md += f"- {label}: {value:.3f}\n"
+            else:
+                analysis_md += f"- {label}: {value}\n"
     
     return gr.Markdown(result_md), gr.Markdown(analysis_md) if analysis_md else None, text
 
