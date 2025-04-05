@@ -1,0 +1,1138 @@
+﻿Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 210–226. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 210–226. 
+
+ 
+ГИДРОТЕХНИЧЕСКОЕ СТРОИТЕЛЬСТВО 
+
+Научная статья 
+УДК 626.823.91 
+doi: 10.31774/2712-9357-2022-12-3-210-226 
+
+Противофильтрационные облицовки каналов 
+с использованием геосинтетических материалов 
+
+Александр Васильевич Колганов1, Юрий Михайлович Косиченко2,  
+Елена Олеговна Скляренко3 
+1, 2Российский научно-исследовательский институт проблем мелиорации, Новочеркасск, 
+Российская Федерация 
+3Новочеркасский инженерно-мелиоративный институт имени А. К. Кортунова –  
+филиал Донского государственного аграрного университета, Новочеркасск,  
+Российская Федерация 
+1Kolganov49@mail.ru 
+2Kosichenko-11@mail.ru, https://orcid.org/0000-0002-9648-6441 
+3SklyarenkoElen@yandex.ru 
+
+Аннотация. Цель: обоснование применения противофильтрационных облицо-
+вок оросительных каналов с использованием новых материалов и методов их расчета. 
+Материалы и методы. Материалами к исследованию послужили предложенные усо-
+вершенствованные и новые конструкции противофильтрационных облицовок ороси-
+тельных каналов мелиоративных систем. Для определения удельного фильтрационного 
+расхода применялись методы расчета свободной и подпертой фильтрации для бето-
+нопленочных облицовок оросительных каналов при наличии повреждений в полимер-
+ной геомембране с учетом контуров увлажнения и неполного насыщения водой грунта 
+в основании канала. Результаты. Среди рассмотренных конструкций облицовок каналов 
+лучшие показатели получены для облицовок с бентонитовыми матами и защитным по-
+крытием из каменной наброски и геотекстиля. Бентомат отличается способностью к ре-
+генерации (самозалечиванию), что обеспечивает создание надежной облицовки с высо-
+кой герметичностью. Проведенные расчеты свободной фильтрации для БСК-III с не-
+полным насыщением грунта основания водой позволили определить потери на филь-
+трацию, которые составили 9,72 кв. м/сут, при отклонении полученных результатов 
+от опытных значений 7,0 %. Выводы. Представлено шесть усовершенствованных и но-
+вых конструкций облицовок каналов с геомембраной и защитными покрытиями из бе-
+тона и каменной наброски, а также методы расчета свободной и подпертой фильтрации 
+через облицовку канала. Анализ расчетных данных показал, что для двух каналов – 
+БСК-III и Главного Каховского имеет место свободная фильтрация, это подтверждается 
+значительной глубиной залегания грунтовых вод (более 15–30 м); на остальных объек-
+тах будет наблюдаться подпертая фильтрация с глубиной залегания уровня грунтовых 
+вод от 2 до 7 м. 
+
+Ключевые слова: противофильтрационные облицовки, полимерные геомембра-
+ны, бентоматы, защитные покрытия, расчеты фильтрации, неполное насыщение грунта 
+
+Для цитирования: Колганов А. В., Косиченко Ю. М., Скляренко Е. О. Противо-
+фильтрационные облицовки каналов с использованием геосинтетических материалов // 
+Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 210–226. https://doi.org/10.31774/2712-
+9357-2022-12-3-210-226. 
+
+________________________________ 
+© Колганов А. В., Косиченко Ю. М.,  
+Скляренко Е. О., 2022 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 210–226. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 210–226. 
+
+ 
+HYDRAULIC ENGINEERING 
+
+Original article 
+
+Impervious canal linings using geosynthetic materials 
+
+Aleksandr V. Kolganov1, Yury M. Коsichenko2, Еlena О. Sklyarenko3 
+1, 2Russian Scientific Research Institute of Land Improvement Problems, Novocherkassk, 
+Russian Federation 
+3Novocherkassk Engineering and Land Reclamation Institute – branch of the Don State 
+Agrarian University, Novocherkassk, Russian Federation 
+1Kolganov49@mail.ru 
+2Kosichenko-11@mail.ru, https://orcid.org/0000-0002-9648-6441 
+3SklyarenkoElen@yandex.ru 
+
+Abstract. Purpose: justification of irrigation canal impervious linings use with new 
+materials and methods for their calculation. Materials and methods. The proposed improved 
+and new designs of impervious linings for irrigation canals were the materials for research. To 
+determine the specific filtration flow, the calculation methods of free and backed filtration for 
+concrete-film linings of irrigation canals with damage in the polymer geomembrane, taking 
+into account moisture contours and partial soil saturation with water at the canal base were 
+used. Results. Among the considered designs of canal linings, the best indicators were ob-
+tained for linings with bentonite mats and a protective coating of rockfill and geotextile. The 
+bentomat is distinguished by its ability to regenerate (self-healing), which ensures the creation 
+of a reliable lining with high impermeability. The calculations of free filtration for BSK-III 
+with partial soil saturation with water at the canal base made it possible to determine the loss-
+es for filtration, which amounted to 9.72 sq. m/day, with a deviation of the results obtained 
+from the experimental values of 7.0 %. Conclusions. Six improved and new designs of canal 
+linings with a geomembrane and protective coatings made of concrete and rockfill are pre-
+sented, as well as calculation methods for free and backed filtration through the canal lining. 
+An analysis of the calculated data showed that free filtration takes place in two channels - 
+BSK-III and the Main Kakhovskiy, this is confirmed by a significant depth of groundwater 
+(more than 15–30 m); on other objects, backed filtration with a groundwater depth from 2 to 
+7 m is observed. 
+
+Keywords: impervious linings, polymeric geomembranes, bentonite mats, protective 
+coatings, filtration calculations, partial soil saturation 
+
+For citation: Коlganov А. V., Коsichenko Yu. М., Sklyarenko Е. О. Impervious canal 
+linings using geosynthetic materials. Land Reclamation and Hydraulic Engineering. 
+2022;12(3):210–226. (In Russ.). https://doi.org/10.31774/2712-9357-2022-12-3-210-226. 
+
+Введение. На оросительных каналах в земляном русле происходят 
+
+большие фильтрационные потери, достигающие 40–50 % от головного во-
+
+дозабора [1–4]. 
+
+В связи с этим для борьбы с фильтрационными потерями используют 
+
+различные типы противофильтрационных покрытий (бетонных, бетонопле-
+
+ночных, грунтопленочных, с бентонитовыми матами, а также с геокомпо-
+
+зитными покрытиями) [5, 6]. 
+
+2 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 210–226. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 210–226. 
+
+ 
+Ранее для борьбы с фильтрацией использовали простейшие мероприя-
+
+тия, к которым можно отнести кольматацию, битумизацию, рыхление грун-
+
+та с заглаживанием, уплотнение грунта, солонцевание, оглеение, нефтева-
+
+ние, силикатизацию [7–9]. Однако перечисленные мероприятия дают малый 
+
+эффект (в 3–4 раза), а долговечность их составляет от 1 до 5 лет. 
+
+Поэтому в настоящее время простейшие противофильтрационные ме-
+
+роприятия практически не применяются. Вместо них используются новые 
+
+эффективные материалы, которые получили название геосинтетических или 
+
+геокомпозитных материалов, эффективность которых достигает трех поряд-
+
+ков, а срок их службы может составлять 50–75 лет и более [10–14]. 
+
+Таким образом, современные противофильтрационные облицовки 
+
+каналов ввиду их высокой эффективности могут применяться для сниже-
+
+ния потерь на фильтрацию из каналов и повышения соответственно их 
+
+КПД до значений 0,95–0,97, что обеспечит значительную экономию вод-
+
+ных ресурсов [6, 8, 9]. 
+
+Целью данных исследований являлось обоснование применения про-
+
+тивофильтрационных облицовок каналов с использованием новых матери-
+
+алов и методов их расчета. 
+
+Материалы и методы. Материалами к исследованию послужили 
+
+современные конструкции противофильтрационных облицовок на каналах 
+
+с использованием геомембран и новых геокомпозитных материалов. Рас-
+
+смотрим их более подробно. 
+
+На рисунке 1 представлены бетонопленочные облицовки с геомем-
+
+браной. Так, на рисунке 1а дается конструкция облицовки, включающая за-
+
+щитное покрытие из бетона с геомембраной толщиной 1,5–2,0 мм, что обес-
+
+печивает снижение повреждаемости геомембраны за счет более высокой 
+
+прочности и значительного относительного удлинения до 600–700 %. Кроме 
+
+того, сверху геомембраны уложено защитное покрытие в виде геотекстиля 
+
+с плотностью от 350 до 670 г/м2. В этом случае обеспечивается противопро-
+
+3 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 210–226. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 210–226. 
+
+ 
+кольное действие всей конструкции облицовки. В то же время на рисунке 1b 
+
+кроме геотекстиля, уложенного сверху геомембраны, предусмотрен допол-
+
+нительный слой геотекстиля такой же плотности 350–600 г/м2, что увеличи-
+
+вает сопротивление образованию проколов в геомембране в 1,5–2,0 раза. 
+
+Таким образом, вторая конструкция облицовки (на рисунке 1b) имеет боль-
+
+ший запас надежности против проколов геомембраны и ее прочности [3, 6]. 
+
+а) b) 
+
+ 
+а – с защитным покрытием из бетона; b – с защитным покрытием из бетона и 
+
+геомембраны; НУВ – нормальный уровень воды в каналах; 
+1 – бетонное покрытие; 2 – геотекстиль в один слой; 3 – геомембрана  
+
+толщиной 1,5–2,0 мм; 4 – геотекстиль в два слоя 
+
+a – with a protective concrete coating; b – with a protective coating of concrete and 
+geomembranes; FSL – full supply level in canals; 1 – concrete coating; 2 – geotextile 
+
+in one layer; 3 – geomembrane 1.5–2.0 mm thick; 4 – geotextile in two layers 
+
+Рисунок 1 – Каналы с бетонопленочными  
+облицовками и геомембраной 
+
+Figure 1 – Canals with concrete-film lining and geomembrane 
+
+Конструкции грунтопленочных облицовок с геомембраной приведе-
+
+ны на рисунке 2. Конструкция, которая дана на рисунке 2а, включает за-
+
+щитное покрытие из каменной наброски диаметром 7–15 см толщиной  
+
+20–25 см, затем песчаный слой из крупнозернистого песка толщиной 
+
+20 см, следующий слой выполняется из полимерной геомембраны (поли-
+
+этилена высокой плотности HDРE) толщиной 1,5–2,0 мм, на нее укладыва-
+
+ется геотекстиль марки «Дорнит» плотностью 350–600 г/м2. Геотекстиль 
+
+здесь служит защитным покрытием для геомембраны. На рисунке 2b дает-
+
+ся аналогичная конструкция грунтопленочной облицовки, где защитным 
+
+покрытием служит каменная наброска в один слой диаметром 10 см тол-
+
+щиной до 20 см. Так же, как в первой конструкции грунтопленочной обли-
+
+цовки, для защиты геомембраны предусмотрен геотекстиль в два слоя 
+
+4 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 210–226. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 210–226. 
+
+ 
+сверху и снизу плотностью 350–500 г/м2. В качестве герметизирующей 
+
+геомембраны может использоваться полиэтилен рулонный толщиной 
+
+до 2,0–2,5 мм, марки низкой плотности LDPE прочностью при разрыве по-
+
+перек 20,0 МПа, вдоль 17,5 МПа, с относительным удлинением вдоль 
+
+600 %, поперек – 620 % [8, 9]. 
+
+а) b) 
+
+ 
+
+а – с защитным покрытием из каменной наброски; b – с защитным покрытием 
+из каменной наброски в один слой; 1 – каменная наброска; 2 – слой песка; 
+
+3 – геотекстиль; 4 – геомембрана толщиной 1,5–2,0 мм; 5 – геотекстиль в два слоя 
+
+a – with a protective coating of rockfill; b – with a protective coating from rockfill in one 
+layer; 1 – rockfill; 2 – layer of sand; 3 – geotextile; 4 – geomembrane 1.5–2.0 mm thick; 
+
+5 – geotextile in two layers 
+
+Рисунок 2 – Каналы с грунтопленочными  
+облицовками и геомембраной 
+
+Figure 2 – Canals with ground-film lining and geomembrane 
+
+Конструкции облицовок из бентонитовых матов приведены на рисун-
+
+ке 3. Первая конструкция облицовки из бентонитовых матов на рисунке 3а 
+
+состоит из защитного покрытия – каменной наброски толщиной 25–30 см, 
+
+затем укладывается песчаный слой толщиной 20 см. Следующим элемен-
+
+том в конструкции облицовки приведен геотекстиль марки «Дорнит» 
+
+плотностью до 500 г/м2. Он служит защитным слоем бентонитового мата. 
+
+Сам бентонитовый мат является основным элементом конструкции обли-
+
+цовки. Особенность бентонитового мата – его способность к регенерации 
+
+(самозалечиванию) повреждения. Конструкция облицовки из бентонито-
+
+вых матов на рисунке 3b выполнена аналогично первой, за исключением 
+
+последнего элемента 5 из геомембраны. Данный элемент крепится к бен-
+
+томату термоскреплением, что обеспечивает практически полную герме-
+
+тичность всей конструкции. Таким образом, последняя конструкция обли-
+
+5 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 210–226. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 210–226. 
+
+ 
+цовки из бентонитовых матов (см. рисунок 3b) имеет наибольшую надеж-
+
+ность и долговечность [6, 11, 12]. 
+
+а) b) 
+
+ 
+а – с защитным покрытием из каменной наброски в один слой;  
+b – с защитным покрытием из каменной наброски в два слоя;  
+
+1 – каменная наброска; 2 – слой песка; 3 – геотекстиль;  
+4 – бентонитовый мат; 5 – геомембрана 
+
+a – with a protective coating of rockfill in one layer; b – with a protective  
+coating of rockfill in two layers; 1 – rockfill; 2 – layer of sand; 3 – geotextile;  
+
+4 – bentonite mat; 5 – geomembrane 
+
+Рисунок 3 – Каналы с облицовкой  
+из бентонитовых матов и геомембраной 
+
+Figure 3 – Canals with linings from bentonite mats and geomembrane 
+
+Результаты и обсуждение. Расчеты фильтрации через облицовку ка-
+
+нала. Рассмотрим далее расчет фильтрации через облицовку канала с при-
+
+менением геомембраны при наличии микроповреждений с учетом непол-
+
+ного насыщения водой подэкранового основания в местах образования 
+
+контуров увлажнения (рисунок 4). 
+
+Предполагается, что фильтрация из канала с облицовкой будет удо-
+
+влетворять условию, когда в подэкрановом основании происходит непол-
+
+ное заполнение пор грунта водой (так называемая капельная фильтрация, 
+
+рисунок 5) [10, 11]: 
+
+kф h0  о  H
+ к , 
+
+kобл о
+
+где kф  – коэффициент фильтрации грунта основания, м/сут; 
+
+kобл  – коэффициент фильтрации облицовки канала, м/сут; 
+
+h0  – глубина воды в канале, м; 
+
+о  – толщина облицовки, м; 
+
+6 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 210–226. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 210–226. 
+
+ 
+Hк  – высота капиллярного вакуума грунта, принимаемая равной Hк  =  
+
+= 0,5...0,7·hк , где hк  – полная высота капиллярного поднятия воды в грун-
+
+те, м, hк  = h0 . 
+
+ 
+1 – облицовка из бетона; 2 – геомембрана с повреждениями; 3 – контуры увлажнения; 
+
+m  – коэффициент заложения откоса; Qотк  – удельный расход через откос 
+неполн.
+
+канала, м2/сут; Qдн  – удельный расход по дну, м2/сут; kо  коэффициент 
+неполн. бл  –
+
+фильтрации облицовки канала, м/сут; kф  – коэффициент фильтрации грунта основания, 
+
+м/сут; h0  – глубина воды в канале, м; b  – ширина канала по дну, м; о  – толщина 
+
+облицовки, м; х  – ширина канала по откосу, м; у  – глубина канала по откосу, м;  
+
+о  – протяженность облицовки по откосу, м; dx  – дифференцированная ширина 
+
+канала; dlo  – дифференцированная длина откоса, м; dh  – дифференцированная  
+
+глубина воды в канале, м;   – угол наклона облицовки 
+
+1 – concrete lining; 2 – damaged geomembrane; 3 – moisture contours; m  – ratio of slope; 
+Qотк  – specific flow rate through canal slope, m2/day; Q ischarge 
+
+неполн. дн  – specific d
+неполн.
+
+along the bottom, m2/day; kобл  – filtration coefficient of the canal lining, m/day; kф  – base 
+
+soil permeability, m/day; h0  – water depth in canal, m; b  – canal width along the bottom, m; 
+
+о  – lining thickness, m; х  – canal width along the slope, m; у  – canal depth along the 
+
+slope, m; о  – the length of lining along the slope, m; dx  – differential canal width;  
+
+dlo  – differential slope length, m; dh  – differential water depth in canal, m;  
+
+  – the angle of gradient of lining 
+
+Рисунок 4 – Схема к выводу зависимости для расхода фильтрации 
+из канала с облицовкой и водопроницаемости геомембраны 
+
+Figure 4 – Scheme for the derivation of dependence for the filtration flow 
+rate from the canal with lining and geomembrane permeability 
+
+7 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 210–226. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 210–226. 
+
+ 
+
+ 
+m  – коэффициент заложения откоса; h0  – глубина воды в канале, м; b  – ширина 
+
+канала по дну, м; В  – ширина канала по урезу воды, м; о  – толщина облицовки, м; 
+
+kф  – коэффициент фильтрации грунта, м/сут; УГВ – уровень грунтовых вод, м 
+
+m  – ratio of slope; h0  – water depth in the canal, m; b  – canal width along the bottom, m; 
+
+В  – canal width along the water's edge, m; о  – lining thickness, m; kф  – soil  
+
+permeability, m/day; GWL – water table, m 
+
+Рисунок 5 – Капельная фильтрация из облицованного канала 
+
+Figure 5 – Drip filtration from a lined canal 
+
+В соответствии с расчетной схемой на рисунке 4 фильтрационный 
+
+расход из канала (Q , м2/сут) представим как сумму двух расходов: 
+фнеполн.
+
+ Q Q  2 Q , (1) 
+фнеполн. дннеполн. откнеполн.
+
+где Qдн  – удельный расход фильтрации по дну канала, м2/сут; 
+неполн.
+
+Qотк  – удельный расход фильтрации через откосы канала, м2/сут. 
+неполн.
+
+Удельный расход фильтрации по дну канала с учетом неполного  
+
+влагонасыщения (Qдн , м2/сут) определим по следующей зависимости 
+неполн.
+
+[12, 15, 16]: 
+
+bh
+ 0  о  Hк Q  2  
+
+дн  k , ( )
+неполн. срнеполн. о
+
+где kср  – средний коэффициент фильтрации облицовки с учетом не-
+неполн.
+
+полного насыщения водой в основании, м/сут; 
+
+8 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 210–226. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 210–226. 
+
+ 
+b  – ширина канала по дну, м; 
+
+h  – глубина воды в канале, м; 
+0
+
+о  – толщина облицовки, м. 
+
+Удельный расход фильтрации через облицовку по откосам канала 
+
+с учетом неполного насыщения (Qотк ) основания найдем по зависимости: 
+неполн.
+
+m
+h h  
+
+0 0 о
+
+Q 1 m 2
+к  k 
+
+от 
+неполн. ср 1  m dh
+
+неполн. 0 , 
+0 о
+
+где о  – протяженность облицовки по откосу, м; 
+
+h  – глубина воды в канале, м; 
+0
+
+m  – коэффициент заложения откоса; 
+
+dh  – дифференцированная глубина воды в канале, м. 
+0
+
+После интегрирования из данной формулы получим: 
+
+kс  2
+р h 2 
+
+Q  неполн.
+
+
+0
+отк 1 m  mh
+
+неполн. о 0 . 
+ 
+
+о  2 
+
+Отсюда общий удельный расход при свободной фильтрации с учетом 
+
+неполного насыщения (Qф ) найдем по следующей зависимости [12, 15]: 
+неполн.
+
+bh0   о  Hк  h2 
+Qф  k 0 2
+
+неполн срнеполн.
+ 2mh0  1  m . (3) 
+
+. 
+ о о 
+
+При наличии в основании связных (глинистых) грунтов с капилляр-
+
+ными свойствами расчет выполняется по формуле С. Г. Хлебникова, учи-
+
+тывающей разрежение под облицовкой: 
+
+ h0  о  hp bh    
+2 0 
+
+ о hp
+Qф  k
+
+непо срнеполн. 
+mh0  h0 1  m  , 
+
+лн. 
+ о о 
+
+где hp  – отрицательное давление, м, принимаемое равным hp  = 0,5hк . 
+
+Свободная фильтрация будет наблюдаться до тех пор, пока уровень 
+
+грунтовых вод будет ниже подошвы облицовки при условии неравенства: 
+
+9 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 210–226. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 210–226. 
+
+ 
+ hк  hк  h0  о , (4) 
+
+где hк  – максимальная ордината уровня грунтовых вод, м. 
+
+При наличии подпертой фильтрации с облицовкой (при отсутствии 
+
+приканального дренажа) расчетная формула удельного расхода qк , м2/сут, 
+
+будет иметь вид [16, 17]: 
+
+T  H
+qк  , 
+
+TZ
+Ф  Ф 0
+
+к обл 
+п
+
+где T  – средняя проводимость водоносной толщи, м2/сут, определяемая 
+
+по зависимости: 
+
+ h
+Т к  h 
+ k 0
+
+1h0    k2m , 
+2
+
+ 2 
+
+где k , k  – коэффициенты фильтрации слоев грунта, м/сут; 
+1 2
+
+h0  – глубина залегания уровня грунтовых вод, м; 
+
+h  – уровень капиллярного поднятия воды в грунте, м; 
+к
+
+m  – мощность второго слоя грунта, м; 
+2
+
+Н – разность уровней капиллярного поднятия воды в грунте и уровня 
+
+грунтовых вод, м ( H  h h ); 
+к 0
+
+Фк  – фильтрационное сопротивление, обусловленное гидродинамиче-
+
+ским несовершенством канала, м; 
+
+Фобл  – дополнительное фильтрационное сопротивление облицовки ка-
+
+нала, м; 
+
+Z0  – критическая глубина залегания уровня грунтовых вод, м; 
+
+п  – интенсивность испарения на поверхности почвы, %. 
+
+Подъем уровня грунтовых вод под каналом (h , м) вычисляем из со-
+
+отношения: 
+
+h0   H Z
+  о  к B
+
+h T k 0
+ср  , 
+
+о 2 п
+
+10 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 210–226. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 210–226. 
+
+ 
+где kср  – средний коэффициент фильтрации облицовки, м/сут; 
+
+В  – ширина канала по урезу воды, м. 
+
+Теперь рассмотрим пример расчета при следующих исходных дан-
+
+ных: b  = 5,0 м, bотк  = 3,0 м, hк  = h0  = 3,0 м, о  = 0,5 м, m  = 2, k   
+ср
+
+= 0,916 м/сут, k  = 0,0951 м/сут. 
+срнеполн.
+
+Удельный расход фильтрации по дну канала найдем по формуле (2): 
+
+5  3  0,5  0,5  3
+Qдн  0,0951  4,76  м2/сут. 
+
+неполн. 0,5
+
+Далее определим удельный расход фильтрации на откосах канала: 
+
+2bотк  h0  о  H
+Q к   
+
+отк k
+неполн. ср 
+
+неполн. о
+
+2  3,0  3  0,5  0,5  3
+ 0,0951  5,71 м2/сут, 
+
+0,5
+
+где bотк  – ширина откоса канала, м. 
+
+Суммарный удельный расход фильтрации рассчитываем по форму-
+
+ле (1): 
+
+Q  = 4,76 + 5,71 = 10,47 м3/сут. 
+ф
+
+Для сравнения проведем расчеты удельного расхода фильтрации 
+
+при условии полного насыщения грунта основания водой по формуле: 
+
+b  h0  о  Hк  5,0  3,0  0,5  0,5  3
+Q 0,916 45,8 /сут. 
+
+дн  k    м2
+
+полн. ср
+о 0,5
+
+Таким образом, при полном насыщении водой грунта удельный рас-
+
+ход значительно увеличивается по сравнению с неполным насыщением 
+
+(более чем в 4 раза) [18]. 
+
+При подпертой фильтрации условие (4) будет записываться в виде 
+
+неравенства: 
+
+hк  hк  h0  о . 
+
+Далее рассмотрим пример расчета крупного канала – Большого 
+
+11 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 210–226. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 210–226. 
+
+ 
+Ставропольского канала (III очереди). Примем следующие исходные дан-
+
+ные: k  = 0,53·10–3 м/сут, hк  = 27,5 м, h0  = 5,0 м, h0  = 2,87 м, В = 18 м, 
+ср
+
+о  = 0,105 м, Z0  = 2,5 м, п  = 0,0033, k  = 2,0 м/сут. Тогда удельный рас-
+1
+
+ход фильтрации из канала составит 0,27 м2/сут. 
+
+В первом приближении примем глубину от подошвы слоя до уровня 
+
+воды в канале hк  hк = 27,5 м, тогда средняя проводимость водоносной 
+
+толщи Т  = 34,64 м2/сут, а окончательная ордината уровня грунтовых вод 
+
+h  5,66  м. 
+коконч.
+
+Во втором приближении задаемся hк  = 5,60 м, тогда получим hк.оконч. = 
+
+= 5,68 м. 
+
+В третьем приближении hк  = 5,70 м, тогда получим hк.оконч. = 5,69 м. 
+
+Отсюда, так как hк  hк  h0  о , получим 5,69 < 27,5 – (2,87 + 0,105), 
+
+или окончательно 5,69 < 24,52 м, в этом случае получим свободную филь-
+
+трацию, что подтверждается натурными данными. 
+
+Выполним расчеты для других каналов, сводные данные результатов 
+
+расчета приведем в таблице 1. 
+
+Таблица 1 – Сводные результаты расчета облицованных каналов и их 
+КПД 
+
+Table 1 – Summary results of the calculation of lined canals and their 
+efficiency 
+
+Канал 
+Большой Распреде- Главный Северо- Кулундин-
+
+Характеристика Ставрополь- литель- Каховский Крымский  ский маги-
+ский  ный  маги- (головной стральный  
+
+(III очередь) Бг-Р-7 стральный участок) (I очередь) 
+1 2 3 4 5 6 
+
+Показатели ка-
+нала: 
+- расход, м3/с 55,0 6,4 530,0 300,0 22,0 
+- КПД 0,984 0,979 0,990 – 0,976 
+
+бето-
+бетонопле- грунтоп- бетонопле- грунтопле-
+
+Тип облицовки нопле-
+ночная леночная ночная ночная 
+
+ночная 
+
+12 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 210–226. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 210–226. 
+
+ 
+Продолжение таблицы 1  
+
+Table 1 continued 
+1 2 3 4 5 6 
+
+Коэффициент 
+фильтрации об-
+лицовки, 10–6 см/с 0,61 2,62 0,56 0,42 3,18 
+Глубина залега-
+ния грунтовых 
+вод, м 15–30 3 20 3–7 2–7 
+Характер филь-
+
+свободная подпертая свободная подпертая подпертая 
+трации из канала 
+Потери на филь-
+трацию из канала, 
+л/(сут·м2): 
+- расчетные 9,7 30,6 4,2 10,3 8,8 
+- опытные 11,3 36,4 3,4 11,4 9,3 
+Отклонение рас-
+четных от опыт-
+ных данных, % 7,0 –15,9 24,7 –9,6 –5,4 
+
+Примечание – Опытные данные получены по результатам исследований Севкав-
+гипроводхоза с использованием метода фильтромеров [19]. 
+
+Удельный расход фильтрации по формуле (3) с учетом неполного 
+
+насыщения грунта водой составит Q   9,72 м2/сут. Отклонение полу-
+фнеполн.
+
+ченного результата от опытных значений составило 7,0 %. 
+
+Выводы 
+
+1 Разработаны шесть усовершенствованных и новых конструкций 
+
+противофильтрационных облицовок оросительных каналов с использова-
+
+нием полимерных геомембран и бентонитовых материалов с различными 
+
+защитными покрытиями из бетона и каменной наброски. 
+
+2 Рассмотрены методы расчета свободной и подпертой фильтрации 
+
+для бетонопленочных облицовок оросительных каналов при наличии по-
+
+вреждений в геомембране с учетом контуров увлажнения и неполного 
+
+насыщения водой грунта в основании. 
+
+3 Анализ результатов расчета в таблице 1 показывает, что для двух 
+
+каналов (БСК-III и Главного Каховского) имеет место свободная фильтра-
+
+ция, это подтверждается значительной глубиной залегания грунтовых вод 
+
+13 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 210–226. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 210–226. 
+
+ 
+(более 15–30 м). В то же время для каналов Бг-Р-7, Северо-Крымского и 
+
+Кулундинского будет наблюдаться подпертая фильтрация с глубиной зале-
+
+гания уровня грунтовых вод от 2 до 7 м. 
+
+Список источников 
+
+1. Косиченко Ю. М., Баев О. А. Гидравлическая эффективность оросительных 
+каналов при эксплуатации // Вестник МГСУ. 2020. Т. 15, № 8. С. 1147–1162. DOI: 
+10.22227/1997-0935.2020.8.1147-1162. 
+
+2. Косиченко Ю. М. Обобщение данных по шероховатости русел каналов в зем-
+ляном русле и облицовке // Экология и водное хозяйство [Электронный ресурс]. 2020. 
+№ 2(5). С. 155–168. URL: http:www.rosniipm-sm1.ru/article?n=69 (дата обращения: 
+19.05.2022). https:doi.org/10.31774/2658-7890-2020-2-155-168. 
+
+3. Косиченко Ю. М., Баев О. А. Рекомендации по применению геосинтетических 
+материалов для противофильтрационных экранов каналов, водоемов и накопителей / 
+ФГБНУ «РосНИИПМ». Новочеркасск, 2015. 65 с. Деп. в ВИНИТИ РАН 12.01.15, 
+№ 1-В-2015. 
+
+4. Косиченко Ю. М., Баев О. А. Обоснование эффективности Пролетарского ма-
+гистрального канала при реконструкции // Природообустройство. 2021. № 2. С. 78–84. 
+DOI: 10.26897/1997-6011-2021-2-77-84. 
+
+5. Ищенко А. В., Баев О. А. Анализ существующих методик испытаний физико-
+механических свойств бентонитовых матов // Научный журнал Российского НИИ про-
+блем мелиорации [Электронный ресурс]. 2013. № 2(10). С. 175–185. URL: http:www.ros- 
+niipm-sm.ru/article?n=648 (дата обращения: 19.05.2022). 
+
+6. Гарбуз А. Ю. Экспериментальные исследования водопроницаемости локальных 
+повреждений бетонных облицовок каналов // Экология и водное хозяйство [Электрон-
+ный ресурс]. 2020. № 1(4). С. 76–88. URL: http:www.rosniipm-sm1.ru.rosniipm.ru/artic- 
+le?n=54 (дата обращения: 19.05.2022). https:doi.org/10.31774/2658-7890-2020-1-76-88. 
+
+7. Результаты исследований эффективности применения геосинтетических мате-
+риалов в конструкциях грунтовых гидротехнических сооружений на опытном полигоне / 
+С. В. Сольский, Е. Е. Легина, С. А. Быковская, П. В. Кондратенко, П. Н. Белоусов // Из-
+вестия ВНИИГ им. Б. Е. Веденеева. 2021. Т. 301. С. 13–30. 
+
+8. Алимов А. Г. Противофильтрационная защита канала и водоемов // Гидротех-
+ническое строительство. 2008. № 4. С. 36–41. 
+
+9. Алимов А. Г. Методика обоснования и выбора конструкций противофильтра-
+ционных облицовок каналов // Вестник РАСХН. 2009. № 3. С. 42–44. 
+
+10. Проблемы применения геосинтетических материалов (геомембран) в конструк-
+ции противофильтрационных элементов гидротехнических сооружений / С. В. Сольский, 
+М. Г. Лопатина, С. А. Быковская, В. А. Клушенцев // Известия ВНИИГ им. Б. Е. Веде-
+неева. 2020. Т. 276. С. 22–42. 
+
+11. Сольский С. В., Быковская С. А. Анализ основных причин нарушений про-
+тивофильтрационных элементов из геомембран на гидротехнических сооружениях // 
+Гидротехническое строительство. 2021. № 2. С. 33–40. http:dx.doi.org/10.34831/EP.2021. 
+50.18.003. 
+
+12. Ищенко А. В., Баев О. А. Оценка эффективности противофильтрационного 
+экрана на Донском магистральном канале // Градостроительство и архитектура. 2017. 
+Т. 7, № 4. С. 67–72. https:doi.org/10.17673/Vestnik.2017.04.11. 
+
+14 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 210–226. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 210–226. 
+
+ 
+13. Abdel-Razek A. Y., Rowe R. K. Interface transmissivity of conventional and mul-
+
+ticomponent GCLs for three permeants // Geotextiles and Geomembranes. 2019. Vol. 47. 
+P. 60–74. https:doi.org/10.1016/j.geotexmem.2018.10.001. 
+
+14. Prabakaran P. A., Sathyamoorty G. L., Adhimayan M. An experimental and com-
+parative study on canal lining exploitation geosynthetic material, cement mortar and material 
+lining // International Journal of Recent Technology and Engineering. 2019. Vol. 7, № 4. 
+P. 81–83. 
+
+15. Алимов А. Г. Современные противофильтрационные конструкции защитных 
+облицовок каналов и водоемов // Гидротехническое строительство. 2008. № 7. С. 26–36. 
+
+16. Чернов М. А. Обоснование противофильтрационной эффективности облицо-
+вок каналов с применением полимерных материалов // Известия вузов. Северо-
+Кавказский регион. Технические науки. 2011. № 2. С. 108–113. 
+
+17. Баев О. А. Противофильтрационные покрытия с применением бентонитовых 
+матов для накопителей жидких отходов // Научный журнал Российского НИИ проблем 
+мелиорации [Электронный ресурс]. 2013. № 3(11). С. 115–124. URL: http:rosniipm-
+sm.ru/article?n=681 (дата обращения: 19.05.2022). 
+
+18. Баев О. А. Моделирование процесса водопроницаемости противофильтраци-
+онных экранов из геомембран // Инженерный вестник Дона [Электронный ресурс]. 
+2015. № 1, ч. 2. С. 1–13. URL: ivdon.ru/ru/magazine/archive/n1p2y2015/2818 (дата обра-
+щения: 19.05.2022). 
+
+19. Косиченко Ю. М. Каналы переброски стока России. Новочеркасск: НГМА, 
+2004. 470 с. 
+
+References 
+
+1. Kosichenko Yu.M., Baev O.A., 2020. Gidravlicheskaya effektivnostʹ orositelʹnykh 
+kanalov pri ekspluatatsii [Hydraulic efficiency of irrigation canals in the course of operation]. 
+Vestnik MGSU [News of MGSU], vol. 15, no. 8, pp. 1147-1162, DOI: 10.22227/1997-
+0935.2020.8.1147-1162. (In Russian). 
+
+2. Kosichenko Yu.M., 2020. [Integrating data on canal bed roughness in earthen chan-
+nel and lining]. Ekologiya i vodnoe khozyaystvo, no. 2(5), pp. 155-168, available: 
+http:www.rosniipm-sm1.ru/article?n=69 [accessed 19.05.2022], https:doi.org/10.31774/2658-
+7890-2020-2-155-168. (In Russian). 
+
+3. Kosichenko Yu.M., Baev O.A., 2015. Rekomendatsii po primeneniyu geosintetich-
+eskikh materialov dlya protivofil'tratsionnykh ekranov kanalov, vodoemov i nakopiteley [Rec-
+ommendations on the Use of Geosynthetic Materials for Impervious Screens of Canals, Res-
+ervoirs and Waste Ponds]. RosNIIPM, Novocherkassk, 65 p., deposited in VINITI RAS on 
+12.01.15, no. 1-B-2015. (In Russian). 
+
+4. Kosichenko Yu.M., Baev O.A., 2021. Obosnovanie effektivnosti Proletarskogo mag-
+istralʹnogo kanala pri rekonstruktsii [Substantiation of the effectiveness of the Proletarsky main 
+canal during reconstruction]. Prirodoobustroystvo [Environmental Engineering], no. 2, 
+pp. 78-84, DOI: 10.26897/1997-6011-2021-2-77-84. (In Russian). 
+
+5. Ishchenko A.V., Baev O.A., 2013. [Analysis of existing test methods for physical 
+and mechanical properties of bentonite mats]. Nauchnyy Zhurnal Rossiyskogo NII Problem 
+Melioratsii, no. 2(10), pp. 175-185, available: http:www.ros-niipm-sm.ru/article?n=648  
+[accessed 19.05.2022]. (In Russian). 
+
+6. Garbuz A.Yu., 2020. [Experimental research of water permeability of local damage 
+of canal concrete lining]. Ekologiya i vodnoe khozyaystvo, no. 1(4), pp. 76-88, available: 
+http:www.rosniipm-sm1.ru.rosniipm.ru/article?n=54 [accessed 19.05.2022], https:doi.org/10.31 
+774/2658-7890-2020-1-76-88. (In Russian). 
+
+7. Solsky S.V., Legina E.E., Bykovskaya S.A., Kondratenko P.V., Belousov P.N., 
+
+15 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 210–226. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 210–226. 
+
+ 
+2021. Rezulʹtaty issledovaniy effektivnosti primeneniya geosinteticheskikh materialov v kon-
+struktsiyakh gruntovykh gidrotekhnicheskikh sooruzheniy na opytnom poligone [Investigation 
+of the effectiveness in the applying of geosynthetic materials in the soil hydraulic construction 
+at the test site]. Izvestiya VNIIG im. B. E. Vedeneeva [Proceeding of the VNIIG], vol. 301, 
+pp. 13-30. (In Russian). 
+
+8. Alimov A.G., 2008. Protivofilʹtratsionnaya zashchita kanala i vodoemov [Anti-
+filtration protection of canals and water bodies]. Gidrotekhnicheskoe stroitelʹstvo [Hydrotech-
+nical Construction], no. 4, pp. 36-41. (In Russian). 
+
+9. Alimov A.G., 2009. Metodika obosnovaniya i vybora konstruktsiy protivofilʹtrat- 
+sionnykh oblitsovok kanalov [Rationale for the construction of impervious linings of canals]. 
+Vestnik RASKHN [Bulletin of RAAS], no. 3, pp. 42-44. (In Russian). 
+
+10. Solsky S.V., Lopatina M.G., Bykovskaya S.A., Klushentsev V.A., 2020. Problemy 
+primeneniya geosinteticheskikh materialov (geomembran) v konstruktsii protivofilʹtratsion- 
+nykh elementov gidrotekhnicheskikh sooruzheniy [Issues of geosynthetic materials (geomem-
+branes) application in structure of hydraulic structures watertight elements]. Izvestiya VNIIG 
+im. B. E. Vedeneeva [Proceeding of the VNIIG], vol. 276, pp. 22-42. (In Russian). 
+
+11. Solsky S.V., Bykovskaya S.A., 2021. Analiz osnovnykh prichin narusheniy pro-
+tivofilʹtratsionnykh elementov iz geomembran na gidrotekhnicheskikh sooruzheniyakh [Analysis 
+of the main causes of violations of anti-filtration elements from geomembranes at hydraulic 
+structures]. Gidrotekhnicheskoe stroitelʹstvo [Hydrotechnical Construction], no. 2, pp. 33-40, 
+http:dx.doi.org/10.34831/EP.2021.50.18.003. (In Russian). 
+
+12. Ishchenko A.V., Baev O.A., 2017. Otsenka effektivnosti protivofilʹtratsionnogo 
+ekrana na Donskom magistralʹnom kanale [Estimation of efficiency of the impervious screen 
+at the Donskoy main canal]. Gradostroitelʹstvo i arkhitektura [Urban Construction and Archi-
+tecture], vol. 7, no. 4, pp. 67-72, https:doi.org/10.17673/Vestnik.2017.04.11. (In Russian). 
+
+13. Abdel-Razek A.Y., Rowe R.K., 2019. Interface transmissivity of conventional and 
+multicomponent GCLs for three permeants. Geotextiles and Geomembranes, vol. 47, pp. 60-74, 
+https:doi.org/10.1016/j.geotexmem.2018.10.001. 
+
+14. Prabakaran P.A., Sathyamoorty G.L., Adhimayan M., 2019. An experimental and 
+comparative study on canal lining exploitation geosynthetic material, cement mortar and ma-
+terial lining. International Journal of Recent Technology and Engineering, vol. 7, no. 4, 
+pp. 81-83. 
+
+15. Alimov A.G., 2008. Sovremennye protivofilʹtratsionnye konstruktsii zashchitnykh 
+oblitsovok kanalov i vodoemov [Modern anti-filtration designs for protective lining and water 
+bodies]. Gidrotekhnicheskoe stroitelʹstvo [Hydrotechnical Construction], no. 7, pp. 26-36. 
+(In Russian). 
+
+16. Chernov M.A., 2011. Obosnovanie protivofilʹtratsionnoy effektivnosti oblitsovok 
+kanalov s primeneniem polimernykh materialov [Justification of the impervious efficiency of 
+canal lining using polymeric materials]. Izvestiya vuzov. Severo-Kavkazskiy region. Tekhnich-
+eskie nauki [Bulletin of Higher Educational Institutions. North Caucasus Region. Technical 
+Sciences], no. 2, pp. 108-113. (In Russian). 
+
+17. Baev O.A., 2013. [Anti-filtration coatings with the use of bentonite mats for liquid 
+waste accumulators]. Nauchnyy Zhurnal Rossiyskogo NII Problem Melioratsii, no. 3(11), 
+pp. 115-124, available: http:rosniipm-sm.ru/article?n=681 [accessed 19.05.2022]. (In Russian). 
+
+18. Baev O.A., 2015. Modelirovanie protsessa vodopronitsayemosti protivofilʹtrat- 
+sionnykh ekranov iz geomembran [Simulation of the process of water permeability of imper-
+vious coating of geomembranes]. Inzhenernyy vestnik Dona [Engineering journal of Don], 
+no. 1, pt. 2, pp. 1-13, available: ivdon.ru/ru/magazine/archive/n1p2y2015/2818 [accessed 
+19.05.2022]. (In Russian). 
+
+16 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 210–226. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 210–226. 
+
+ 
+19. Kosichenko Yu.M., 2004. Kanaly perebroski stoka Rossii [Runoff Transfer Canals 
+
+in Russia]. Novocherkassk, NGMA, 470 p. (In Russian). 
+
+Информация об авторах 
+А. В. Колганов – главный научный сотрудник, доктор технических наук, профессор; 
+Ю. М. Косиченко – главный научный сотрудник, доктор технических наук, профессор; 
+Е. О. Скляренко – доцент, кандидат технических наук, доцент. 
+
+Information about the authors 
+А. V. Коlganov – Chief Researcher, Doctor of Technical Sciences, Professor; 
+Yu. М. Коsichenko – Chief Researcher, Doctor of Technical Sciences, Professor; 
+Е. О. Sklyarenko – Associate Professor, Candidate of Technical Sciences, Associate Professor. 
+
+Вклад авторов: все авторы сделали эквивалентный вклад в подготовку публикации. 
+Все авторы в равной степени несут ответственность при обнаружении плагиата, 
+самоплагиата и других нарушений в сфере этики научных публикаций. 
+
+Contribution of the authors: the authors contributed equally to this article.  
+All authors are equally responsible for detecting plagiarism, self-plagiarism and other ethical 
+violations in scientific publications. 
+
+Авторы заявляют об отсутствии конфликта интересов.  
+
+The authors declare no conflicts of interests. 
+
+Статья поступила в редакцию 03.06.2022; одобрена после рецензирования 14.07.2022; 
+принята к публикации 09.08.2022. 
+
+The article was submitted 03.06.2022; approved after reviewing 14.07.2022; accepted for 
+publication 09.08.2022. 
+
+17

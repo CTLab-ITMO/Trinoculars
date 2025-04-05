@@ -1,0 +1,990 @@
+﻿96
+УДК 656 .071 .8 ЭКОНОМИКА
+
+Определение оптимальной 
+периодичности технического 
+
+обслуживания автобусов 
+Сергей ПЕСТРИКОВ
+Sergey A. PESTRIKOV
+
+Мальцев Дмитрий Викторович –  кандидат 
+технических наук, доцент кафедры 
+автомобилей и технологических машин 
+Пермского национального исследовательского 
+политехнического университета (ПНИПУ), 
+Пермь, Россия.
+Пестриков Сергей Анатольевич –  кандидат 
+экономических наук, доцент кафедры автомобилей 
+и технологических машин ПНИПУ, Пермь, Россия.
+
+Дмитрий МАЛЬЦЕВ
+Dmitry V. MALTSEV В рыночных условиях конкуренто-
+
+способность любого автотранс-
+портного предприятия зависит от 
+
+Determining Optimal Frequency of Technical 
+Maintenance of Buses коэффициента технической готовности 
+
+(текст статьи на англ. яз. – парка и затрат на техническое обслужива-
+English text of the article – p . 102) ние (ТО) и текущий ремонт (ТР) . Кроме 
+
+В статье на примере «АТП Кама» того, нельзя забывать о росте стоимости 
+анализируется состояние парка автомобилей, запасных частей, о достаточ-
+
+автотранспортного предприятия, а также но высоком среднем возрасте подвижного 
+существующей системы обеспечения состава, особенно грузовых автомобилей 
+его работоспособности. В частности, 
+показана нормативная и фактическая и автобусов .
+
+техническая готовность автобусов В настоящее время наблюдается тенден-
+с учётом сроков их эксплуатации, ция к разукрупнению автотранспортных 
+
+среднесуточного пробега, суммарного 
+количества дней пребывания на организаций, среднестатистическое пред-
+
+техническом обслуживании и ремонте приятие насчитывает ныне не более 30 
+в течение года. Выбрана методика единиц техники [1] . Система поддержания 
+
+корректирования нормативов, 
+определена оптимальная периодичность работоспособности подвижного состава на 
+
+технического обслуживания парка таких предприятиях неэффективна и в луч-
+машин. Проведена оценка интенсивности шем случае заключается в выполнении ТО 
+отказов, затрат предприятия на планово-
+
+предупредительные и ремонтные с периодичностью, указанной в техниче-
+работы, сделан расчёт экономической ской документации, при этом большинст-
+
+эффективности предлагаемых решений. во предприятий не располагает собствен-
+ной производственно-технической базой, 
+
+Ключевые слова: автопредприятие, 
+экономика, снижение затрат, оптимальная не имеет возможности соблюдать техноло-
+
+периодичность технического обслуживания, гическую дисциплину по ТО и ТР .
+эксплуатация автобусов, экономико- Основным документом, регламентирую-
+
+вероятностный метод, экспоненциальный 
+закон распределения. щим корректирование нормативов в зависи-
+
+мости от условий эксплуатации, климатиче-
+
+• МИР ТРАНСПОРТА, том 16, № 2, С. 96–105 (2018)
+
+ECONOMICS
+
+
+
+Кроме того, в настоящее время периодичность обслуживания, трудоёмкость 
+обслуживания и ремонта определяется заводом-изготовителем, и многие 
+предприятия придерживаются именно этих рекомендаций. Не является 
+исключением и предприятие ООО «АТП Кама» в г. Пермь, на базе которого 
+проводились исследования. Парк предприятия обслуживается с 
+периодичностью, указанной в технической документации заводом-
+изготовителем, при этом не учитываются ни условия эксплуатации, ни прочие 
+факторы, ни специфика предприятия – пассажироперевозки. Всё это приводит к 
+продолжительным простоям техники и высоким удельным затратам на 
+эксплуатацию [3−5].
+
+Указанное предприятие занимается пассажирскими перевозками, парк 
+состоит из автобусов «МАЗ» и «ЛИАЗ». При этом были выделены три
+возрастных группы подвижного состава: до 3 лет, от 3 до 5 лет, свыше 5 лет 
+(рис. 1). И судя по демонстрируемым данным, большую часть автобусного 
+парка можно считать отнюдь «не молодой»..
+
+Нормативная периодичность обслуживания автобусов МАЗ составляет 
+10000 км (ТО-1) и 30000 км (ТО-2) [6], ЛиАЗ – 10000 км (ТО-1) и 20000 км (ТО-
+2) [7].
+
+до 3 лет
+20 %
+
+свыше 5 
+лет
+47 % от 3 до 5 
+
+лет
+33 %
+
+Рис. 1. Возрастные группы подвижного состава на АТП «Кама».
+
+Рис.с1ки.хВ усолозврийа,с сртендныегео  пгрробуегпа павытом побоидлевйи, жднанонгыом , сбоолсьштауюв ача снтаь а АвтоТбуПсн о«гКо паамркаа ».
+качества выполнения ТО и ТР и других можно считать отнюдь «не молодой» .
+факторов, является «Положение о техниче- Нормативная периодичность обслужи-
+ском обслуживании и ремонте подвижного вания автобусов МАЗ составляет 10000 км 
+состава автомобильного транспорта» [2] . (ТО-1) и 30000 км (ТО-2) [6], ЛиАЗ – 
+
+ВыполДноекнум еаннт арлазиразб ортанб боотлеые  3п0 рлетд нпазраид,я т1и00я0,0 окмп (рТОед-1е) ли е20н0ы00 комс (нТОо-в2н) [ы7] .е показатели 
+подвижной состав, а также нормативы, ко- Выполнен анализ работы предприятия, 
+
+по каждой вотозррыае св тннемо уйка згарныу,п усптаер,елоин . Киропмре етодгос, таовплрееднелыен ыв  отсанобвлныиец пео к1аз.атели по каж-
+в данный момент периодичность техобслу- дой возрастной группе, они представлены 
+
+Таблицжаив 1ан ия, трудоёмкость обслуживания и ре- в таблице 1 .
+монта определяются заводом-изготовителем, Из таблицы 1 следует, что коэффициент 
+и многие предприятия придерживаются технической готовности группы от 3 до 5 
+именно эОтисхн роеквонмыенеда цпиойк . Назе аятвлеялетис яр албеот нтиыж еп, чоедм вгриужппныо сго оср сокоосмт эаквспалуа-
+исключением и  ООО «АТП Кама» в Перми, тации свыше 5 лет, это можно объяснить 
+на базе которого проводились наши иссле- случайными факторами из-за небольшой 
+дования . Парк предприятия обслуживается выборки, поскольку исследования прово-
+с периодичностью, указанной в технической дились на базе лишь одного предприятия . 
+документации заводом-изготовителем, при Также видно, что автобусы со сроком экс-
+этом не учитываются ни условия эксплуата- плуатации до 3 лет выполняют большую 
+ции, ни прочие факторы, ни специфика часть транспортной работы по перевозке 
+предприятия – п ассажироперевозки . Всё это пассажиров, однако эта же группа наиболь-
+приводит к продолжительным простоям шее количество времени находится в об-
+техники и высоким удельным затратам на служивании и ремонте, что свидетельствует 
+эксплуатацию [3–5] . о неоптимальной периодичности ТО . 
+
+Указанное предприятие занимается Кроме того, существует проблема низкой 
+пассажирскими перевозками, парк состоит технической готовности автобусов со сро-
+из автобусов МАЗ и ЛиАЗ . При этом были ком эксплуатации свыше 3 лет . Коэффи-
+выделены три возрастных группы подвиж- циент технической готовности для второй 
+ного состава: до 3 лет, от 3 до 5 лет, свыше и третьей групп значительно ниже средне-
+5 лет (рис . 1) . И судя по демонстрируемым отраслевого .
+
+Таблица	1
+Основные	показатели	работы	подвижного	состава
+
+№ Срок Коэффициент технической Коэффициент Среднесуточ- Среднее количество 
+эксплуатации готовности использования ный пробег, дней в обслужива-
+
+фактический нормативный парка км нии и ремонте в год 
+(на ед .) 97
+
+1 До 3 лет 0,89 0,85 0,77 153 43
+2 От 3 до 5 лет 0,63 0,85 0,58 66 20
+3 Свыше 5 лет 0,70 0,85 0,63 85 27
+
+• МИР ТРАНСПОРТА, том 16, № 2, С. 96–105 (2018)
+
+Мальцев Д. В., Пестриков С. А. Определение оптимальной периодичности технического 
+обслуживания автобусов
+
+
+
+Таблица	2
+98 Затраты	предприятия	на	ТО	и	ТР
+
+№ Срок эксплуатации Периодичность Периодичность Удельные затраты Суммарные годо-
+ТО-1, км ТО-2, км на ТО и ТР, руб ./км вые затраты на ТО 
+
+и ТР, тыс . руб .
+1 До 3 лет 10000 40000 1,40 234,11
+2 От 3 до 5 лет 8000 32000 2,70 328,16
+3 Свыше 5 лет 6000 24000 3,78 825,76
+
+Итого 1387,92
+
+Известно несколько методов определе- где d –стоимость операции технического 
+ния оптимальной периодичности обслужи- обслуживания, руб .;
+вания транспортных средств: метод по R –  вероятность безотказной работы;
+допустимому уровню безотказной работы, F – в ероятность отказа при выполнении 
+метод по допустимому значению и законо- технического обслуживания с периодич-
+мерности изменения параметра техниче- ностью l  и вероятность выполнения ре-
+
+р
+ского состояния, технико-экономический монтной операции (устранение отказа);
+метод, экономико-вероятностный и т . д . c –  стоимость операции устранения 
+[8–9] . отказа, руб .;
+
+Поиску оптимальной периодичности l’  –  средняя наработка отказавших 
+p
+
+технического обслуживания посвящено с вероятностью F элементов, км;
+большое количество научных публикаций l  – п ериодичность технического обслу-
+
+p
+[10–17] . Как правило, их авторы под опти- живания, км .
+мальной периодичностью понимают такой Вероятность безотказной работы при 
+срок эксплуатации, при котором затраты экспоненциальном законе выражается 
+на ТО и ТР, отнесённые к единице работы, формулой [8]:
+минимальны [10] . Для нашего исследова- R (x ) = exp−λx ,  (2)
+ния наибольший интерес представляет 
+экономико-вероятностный метод, ибо он где λ –  интенсивность отказа .
+
+позволяет оценить не только затраты, но Использование экспоненциального 
+
+и безотказность работы при заданном ри- закона при расчётах обусловлено большей 
+
+ске и разумном количестве исходных дан- точностью в сравнении с нормальным за-
+
+ных и трудоёмкости вычислений . коном распределения . Экспоненциальный 
+
+Спецификой предприятия являются закон описывает надёжность работы изде-
+
+пассажироперевозки, поэтому для поддер- лия в промежуток его нормальной эксплуа-
+
+жания парка автобусов в работоспособном тации, когда постепенные отказы ещё не 
+
+состоянии используется планово-преду- проявляются и надёжность характеризует-
+
+предительная система . Периодичность ся только внезапными отказами .
+
+обслуживания и затраты предприятия на Интенсивность отказов является посто-
+
+ТО и ТР за 2016 год представлены в табли- янной величиной и определяется по фор-
+
+це 2 . муле [8]:
+
+Одним из критериев оптимизации яв- 1
+λ = ,   (3)
+
+ляется снижение затрат на эксплуатацию, T0
+
+поэтому при расчётах определялись удель- где T  –  средняя наработка на отказ, км .
+0
+
+ные затраты на километр пробега . Вероятность отказа при проведении 
+Удельные затраты при применении технического обслуживания [8]:
+
+предупредительной стратегии можно трак- F = 1 –  R .   (4)
+товать как отношение средневзвешенной Результаты расчётов представлены на 
+стоимости одной операции к средневзве- рис . 2–4 .
+шенной наработке с учётом отказа части Вид графиков объясняется следующим 
+конструктивных элементов автобуса по образом: затраты на техническое обслужи-
+формуле [8]: вание от пробега зависят мало и можно 
+
+cF + dR
+U = C = ,   (1) принять допущение, что они выступают 
+
+1 1 l'
+pF + lpR фиксированной величиной . Чем чаще про-
+
+• МИР ТРАНСПОРТА, том 16, № 2, С. 96–105 (2018)
+
+Мальцев Д. В., Пестриков С. А. Определение оптимальной периодичности технического 
+обслуживания автобусов
+
+
+
+1,6 0,7
+
+1,4 0,6
+
+1,21,6 0,7
+0,5
+
+11,4 0,6
+0,4
+
+0,81,2
+0,5
+
+0,3
+0,6 1
+
+0,4
+0,2 удельные 
+
+0,40,8 затраты
+
+0,3 вероятность 
+отказа
+
+0,20,6 0,1
+
+0,2 удельные 
+00,4 0 затраты
+
+0 2000 4000 6000 8000 10000 12000 14000 вероятность 
+
+0,2 Периодичность ТО, тыс. км 0,1 отказа
+
+Рис. 20. 0
+0Удельн20ы00е затр4а00т0ы на 6Т0О00 и ре8м00о0нт и 1в0е0р00оятн1о2с00т0ь отк14а0з0а0 автобусов с 
+
+возрастом эксплуатацПиеир идооди 3чн-охс тль еТтО п, трыис.  ркмазличной периодичности ТО.
+Рис. 2. Удельные затраты на ТО и ремонт и вероятность отказа автобусов 
+с возрастом эксплуатации до 3-х лет при различной периодичности ТО.
+
+Рис. 2. Удельные затраты на ТО и ремонт и вероятность отказа автобусов с 
+0,9
+
+3,5возрастом эксплуатации до 3-х лет при различной периодичности ТО.
+0,8
+
+3
+0,70,9
+
+3,5
+2,5
+
+0,60,8
+3
+
+2 0,50,7
+
+2,5 0,4
+1,5 0,6
+
+2 0,30,5
+1 удельные 
+
+затраты
+0,20,4 вероятность
+
+1,5
+0,5  отказа
+
+0,10,3
+1 удельные 
+
+0 0 затраты
+0,2
+
+0 2000 4000 6000 8000 10000 12000 14000 вероятность
+0,5  отказа
+
+Периодичность ТО, тыс. км
+0,1
+
+Рис. 3. Удельные затраты на ТО и ремонт и вероятность отказа автобусов 
+0 с возрастом эксплуатации от 3-х до 5 лет при различной периодичности0 ТО.
+
+0 2000 4000 6000 8000 10000 12000 14000
+водят ТО, тем дороже удельнПыеер изоадтирчантоыст ьн ТаО , ттыос .в комзрастают удельные затраты на ремонт . 99
+обслуживание и меньше затраты на ремонт, Все полученные графики имеют ми-
+поскольку вероятность возникновения от- нимумы, которые соответствуют опти-
+каза снижается . Если ТО проводить редко, мальным значениям периодичности ТО, 
+
+• МИР ТРАНСПОРТА, том 16, № 2, С. 96–105 (2018)
+
+Мальцев Д. В., Пестриков С. А. Определение оптимальной периодичности технического 
+обслуживания автобусов
+
+Удельные затраты, руб./км
+Удельные затраты, руб./км Удельные затраты, руб./км
+
+Удельные затраты, руб./км
+
+Вероятность отказа
+Вероятность отказа Вероятность отказа
+
+Вероятность отказа
+
+
+
+Рис. 3. Удельные затраты на ТО и ремонт и вероятность отказа автобусов с 
+возрастом эксплуатации от 3-х до 5 лет при различной периодичности ТО.
+
+5,5 1
+100
+
+5 0,9
+
+4,5 0,8
+
+4
+0,7
+
+3,5
+0,6
+
+3
+0,5
+
+2,5
+0,4
+
+2
+0,3
+
+1,5 удельные 
+затраты
+
+1 0,2
+вероятность 
+отказа
+
+0,5 0,1
+
+0 0
+0 2000 4000 6000 8000 10000 12000 14000
+
+Периодичность ТО, тыс. км
+Рис. 4. Удельные затраты на ТО и ремонт и вероятность отказа автобусов 
+
+Рис. 4. Ус двоезлрьансытоем  зэактсрплаутаыта нцаи иТ сОвы иш ер е5м леотн птр ии  рваезрлоичянтонйо псетрьи оодтикчанзоас таив ТтОоб. усов с 
+Таблица	3
+
+возЗраатсртаотмы 	эпкрсепдлпураитяатциияи	н сав	ТыОш	ие 	Т5 Рл	ептр пир	оип триамзлаилчьнноойй	 ппееррииооддииччннооссттии	Т ТОО.
+№ Срок эксплуа- Оптимальная Оптимальная Удельные затраты Суммарные годовые 
+
+тации периодичность периодичность на ТО и ТР, руб ./км затраты на ТО и ТР, 
+Таким обрТаОз-о1м, к, мдля трансТпОо-р2т, ак мсо сроком эксплуатации тдыос .  р3убл . ет при 
+
+1 прДоов е3д леетнии ТО8-010 0 с периодич3н2о0с0т0ью 8000 1к,2м65 удельные з2а3т4р,1а1ты будут 
+2 От 3 до 5 лет 6000 24000 2,143 328,16
+3 миСнвиымшаел 5ь лнеыт ми 40и0 0составят 1,171600 0р0уб./км, пр3и, 00в2ероятности о8т2к5,а7з6а – 0,45.
+
+УчИиттоыговая специфику предприятия – пассажироперевозки, оптим11а2л8ь,3н4ой будет 
+однпаекрои эотди чзноасчтеьн иняе  ссу щмеиснтвиемнанлоьн мыемниь -затяртантоамстиь, вао зсн имкенноьвшеенйи яв еортокяатзнао сснтьиюзи тся 
+ше,в очзенми кзнноавчеенниияя  ноотркамзаотви внпроий  преарцииоо-налдьон ы0,х2 3 изалтир аптоачхт. и вП 2о эртаозмау .  разумно
+дичности обслуживания автобусов МАЗ Для группы со сроком эксплуатации от 
+и ЛипАроЗв,о пдриитвье доёбнснлуыжеи ввыашниее . Пс оплеурчиеондниычен ос3ть дюо 55 л0е0т0  мкимн, измаатлрьанты еу зваетлриачтаыт сбяу ддуот при 
+опт1и,м26а5л ьрнуыб.е/к мзн, атч.ее. нниая 8 п%е,р пироид иэтчонмо свтеир оятпнеорситоь двиочзнниокснтоив еонбисял оутжкиавзаа нсниияз и6т0с0я0  км 
+ТО целесообразно корректировать для и составят 1,754 руб ./км, при вероятности 
+сниджое 0н,2и3я  ивлеир опяочтнтио свт 2и  рваозаз.н икновения отказа –  0,53 . Однако если проводить об-
+отказов . служивание с периодичностью 4000 км, то 
+
+Таким образом, для транспорта со затраты увеличатся до 2,143 руб ./км, т . е . на 
+сроком эксплуатации до 3 лет при прове- 22 %, при этом вероятность возникновения 
+дении ТО-1 с периодичностью 8000 км отказа снизится до 0,30 или на 43,4 % .
+удельные затраты будут минимальными Для группы со сроком эксплуатации 
+и составят 1,170 руб ./км, при вероятности свыше 5 лет минимальные затраты будут 
+отказа – 0 ,45 . Учитывая специфику пред- при периодичности обслуживания 4000 км 
+приятия –  пассажироперевозки, опти- и составят 2,898 руб ./км, при вероятности 
+мальной будет периодичность не с мини- отказа –  0,49 . Однако если проводить об-
+мальными затратами, а с меньшей веро- служивание с периодичностью 3000 км, то 
+ятностью возникновения отказов при затраты увеличатся до 3,002 руб ./км, т . е . на 
+рациональных затратах . Поэтому разумно 3,5 %, при этом вероятность возникнове-
+проводить обслуживание с периодично- ния отказа снизится до 0,39 или на 25,6 % .
+стью 5000 км, затраты увеличатся до Корректирование нормативов перио-
+1,265 руб ./км, т . е . на 8 %, при этом веро- дичности обслуживания в сторону их 
+
+• МИР ТРАНСПОРТА, том 16, № 2, С. 96–105 (2018)
+
+Мальцев Д. В., Пестриков С. А. Определение оптимальной периодичности технического 
+обслуживания автобусов
+
+Удельные затраты, руб/км
+
+Вероятность отказа
+
+
+
+уменьшения приведёт к увеличению 2 . Положение о техническом обслуживании и ре-
+
+удельных затрат на ТО, но при этом зна- монте подвижного состава автомобильного транс-
+порта . – М  .: Транспорт, 1988 . – 115 с .
+
+чительно уменьшится вероятность наступ- 3 . Пестриков С . А . К вопросу о рентабельности 
+ления отказов и, как следствие, снизятся предприятий автотранспортной отрасли // Модерни-
+
+удельные затраты на ремонт, за счёт чего зация и научные исследования в транспортном комп-
+лексе: Материалы международной научно-практ . 
+
+и будет достигнут экономический эффект . конференции . –  Пермь: Изд-во Перм . НИПУ, 2014 . – 
+Конечно, принятые вероятности наступ- С . 173–176 .
+
+ления отказов от 0,23 до 0,39 сложно на- 4 . Пестриков С . А . Финансово-экономическая 
+состоятельность организаций автотранспортной 
+
+звать удовлетворительными, тем не менее сферы // Транспорт . Транспортные сооружения . Эко-
+поддержание вероятности отказов на логия . – 2014 . – № 1 . – С  . 141–150 .
+
+уровне 0,1–0,15 (что соответствует коэф- 5 . Пестриков С . А ., Пугин К . Г . Актуальные воп-
+росы инновационной активности транспортной от-
+
+фициенту технической готовности на расли // Транспорт России: проблемы и перспекти-
+уровне среднеотраслевого) приведёт к ро- вы-2014: Материалы международной научно-практ . 
+
+сту удельных затрат примерно в 2 раза, конференции . – С Пб ., 2014 . – С  . 93–97 .
+6 . Руководство по эксплуатации 103003–0000020 
+
+а оптимальная периодичность составит РЭ . Автобусы МАЗ-103, МАЗ-107 . –  Минск, 2016 . – 
+2000–2500 км . 164 с .
+
+В таблице 3 приведены результаты рас- 7 . Руководство по эксплуатации и техническому 
+обслуживанию автобуса ЛиАЗ-529222 . –  М .: Транс-
+
+чётов при новых оптимальных значениях порт, 2011 . – 130 с .
+периодичности технического обслужива- 8 . Дмитренко В . М ., Горбунов А . А . Основы рабо-
+
+ния . Суммарные годовые затраты пред- тоспособности технических систем: Учеб . пособие . – 
+Пермь: Изд-во Перм . нац . исслед . политехн . ун-та, 
+
+приятия на ТО и ТР снизятся в этом случае 2015 . – 142 с .
+на 259,58 тыс . руб . или на 18,7 % . 9 . Кузьмин Н . А . Техническая эксплуатация авто-
+
+мобилей: нормирование и управление: Учеб . посо-
+бие . – М  .: Форум, 2011 . – 224 с .
+
+ВЫВОДЫ 10 . Юшков А . Н ., Еремеева Л . Э . Математическое 
+1 . Задача нахождения оптимального моделирование процессов технической эксплуатации 
+
+значения периодичности проведения ТО гидравлических систем // Вестник КрасГАУ . – 2009 . – 
+№ 10 . – С  . 11–15 .
+
+и ТР подвижного состава является актуаль- 11 . Юшков А . Н . Повышение эффективности 
+ной и многофакторной . работы гидропривода лесных машин . –  Сыктывкар: 
+
+2 . Определена оптимальная периодич- СЛИ, 2011 . – 108 с .
+12 . Дац Ф . А . Выбор оптимальной периодичности 
+
+ность ТО для парка автотранспортного технического обслуживания и ремонта лесозаготови-
+предприятия . Для автобусов первой группы тельных машин фирмы Джон Дир в условиях Воло-
+она составит 8000 км, для второй группы – годской области // Лесной вестник . – 2010 . – № 6 . – 
+
+С . 124–129 .
+6000 км, для третьей –  4000 км . Получен- 13 . Малкин В . С . Определение оптимальной пе-
+ные значения периодичности позволяют риодичности диагностирования // Вектор науки 
+значительно снизить вероятность возник- ТГУ . – 2012 . – № 4 . – С  . 181–183 .
+
+14 . Бурмистров В . А . Корректирование режимов 
+новения отказов, что очень важно при технического обслуживания грузовых автомобилей 
+перевозке пассажиров, при незначитель- // Современные проблемы науки и образования . – 
+ном увеличении удельных затрат на ТО 2014 . – № 1 . – С  . 184 .
+
+15 . Борисов Г . В ., Ерофеева Л . Н . Уточнение тех-
+и ТР . нико-экономического метода определения оптималь-
+
+3 . Использование предложенной мето- ной периодичности технического обслуживания ав-
+дики позволит повысить коэффициент томобилей // Труды НГТУ им . Р . Е . Алексеева . – 
+
+2013 . – № 4 . – С  . 37–43 .
+технической готовности на предприятии 16 . Кириллов Г . А ., Кашин Я . М ., Руденко В . Г . Вы-
+и снизить суммарные годовые затраты на бор оптимальной периодичности технического об-
+ТО и ТР . служивания и ремонта из условия минимальной 
+
+стоимости работ // Сборник научных статей IV меж-
+дународной научно-практической конференции . – 
+
+ЛИТЕРАТУРА Краснодар: Издательский дом – « Юг», 2014 . – С  . 215–
+1 . Верёвкин Н . И ., Черняев И . О ., Лавренть- 218 .
+
+ев Е . В . Технологическое проектирование автотранс- 17 . Дьяков И . Ф . Нейронная технология как ин-
+портных предприятий как средство повышения без- струмент выбора оптимальной периодичности обслу-
+опасности дорожного движения // Транспорт РФ . – живания АТС // Автомобильная промышленность . – 
+2015 . –№ 1 . –  С . 52–55 . 2014 . – № 11 . – С  . 26–30 . •
+
+101
+Координаты авторов: Мальцев Д. В. –  mdv@pstu.ru, Пестриков С. А. – +7(342)2–391–026.
+
+Статья поступила в редакцию 15.02.2018, актуализирована 10.04.2018, принята к публикации 
+11.04.2018.
+
+• МИР ТРАНСПОРТА, том 16, № 2, С. 96–105 (2018)
+
+Мальцев Д. В., Пестриков С. А. Определение оптимальной периодичности технического 
+обслуживания автобусов
+
+
+
+DETERMINING OPTIMAL FREQUENCY OF TECHNICAL MAINTENANCE 
+102 OF BUSES
+
+Maltsev, Dmitry V., Perm National Research Polytechnic University, Perm, Russia.
+Pestrikov, Sergey A., Perm National Research Polytechnic University, Perm, Russia.
+
+ABSTRACT maintenance and repair during the year. The method 
+The article, using the example of LLC ATP Kama of adjustment of standards was chosen. Optimal 
+
+analyzes the condition of fleet of the motor transport periodicity of maintenance of vehicles was 
+enterprise, as well as the existing system for determined. An assessment of intensity of failures, 
+ensuring its operability. In particular, normative and costs for the enterprise of preventive maintenance 
+actual technical readiness of buses is shown taking and repair work, and calculation of economic 
+into account the terms of their operation, average effectiveness of the proposed solutions are 
+daily mileage, total number of days of stay for suggested.
+
+Keywords: motor transport enterprise, economy, cost reduction, optimal periodicity of maintenance, bus 
+operation, economic-probabilistic method, exponential distribution law. 
+
+Background. In market conditions, competitive- enterprise – passenger transportation, are taken into 
+ness of any motor transport enterprise depends on account, all this leads to long downtime of equipment 
+the coefficient of technical readiness of the fleet and high specific costs of operation [3–5].
+and the costs for maintenance (TM) and current Objective. The objective of the authors is to 
+repairs (CR). In addition, we should not forget about consider the issue of determining rational frequency 
+the increase in the cost of cars, spare parts, of technical maintenance of buses.
+relatively high average age of the fleet, especially Methods. The authors use general scientific 
+trucks and buses. methods, comparative analysis, evaluation approach, 
+
+Currently there is a tendency for disaggregation scientific description method.
+of motor transport organizations, an average Results. The said enterprise is engaged in 
+enterprise now has no more than 30 units of passenger transportation, the fleet consists of MAZ 
+equipment [1]. The system for maintaining working and LiAZ buses. Three age groups of rolling stock are 
+capacity of the fleet at such enterprises is ineffective distinguished: up to 3 years, from 3 to 5 years, over 5 
+and at best consists of performing maintenance with years (Pic. 1). And judging by the data shown, most 
+t h e  f r e q u e n c y  s p e c i f i e d  i n  t h e  t e c h n i c a l of the bus fleet cannot be considered «young».
+documentation, while most enterprises do not have The normative frequency of maintenance of MAZ 
+their own production and technical base, they cannot buses is 10 000 km (TM-1) and 30 000 km (TM-2) [6], 
+keep technological discipline for maintenance and LiAZ-10 000 km (TM-1) and 20 000 km (TM-2) [7].
+current repairs. The work of the enterprise is analyzed, the main 
+
+The main document regulating adjustment of indicators for each age group are determined, they 
+standards depending on operating conditions, are presented in Table 1.
+climatic conditions, average mileage of cars, quality From Table 1 it follows that the coefficient of 
+of maintenance and current repair performance and technical readiness of the group of buses aged from 3 
+other factors is «Regulation on technical maintenance to 5 years is lower than those with a service life of more 
+and repair of the fleet of automobile transport» [2]. than 5 years, this can be explained by random factors 
+The document was developed more than 30 years due to a small sample, since the studies were 
+ago, cars, as well as the standards, which it indicated conducted on the basis of only one enterprise. It can 
+are outdated. In addition, at present periodicity of also be seen that buses with a service life of up to 3 
+maintenance, labor-intensive maintenance and repair years carry out most of the transport work for 
+are determined by the manufacturer and many transportation of passengers, however the same group 
+enterprises adhere to these recommendations. LLC has the greatest amount of time lost for maintenance 
+ATP Kama in Perm on the basis of which studies were and repair, which indicates non-optimal periodicity of 
+conducted is not an exception. The maintenance of maintenance. In addition, there is a problem of low 
+the enterprise fleet is carried out with the frequency technical readiness of buses with a service life of more 
+specified in the technical documentation by the than 3 years. The coefficient of technical readiness for 
+manufacturer, and neither the operating conditions, the second and third groups is much lower than the 
+nor other factors, nor the specific nature of the industry average.
+
+There are several methods for determining the 
+up to 3 optimal periodicity for maintenance of vehicles: 
+years method based on permissible level of failure-free 
+
+over 5 20 % operation, method based on permissible value and 
+years 47 % regularity of the change in the technical condition 
+
+from 3 to 5 parameter, technical and economic method, 
+
+years economic-probabilistic, etc. [8–9].
+
+33 % A large number of scientific publications have 
+been devoted to the search for optimal periodicity of 
+maintenance [10–17]. As a rule, their authors 
+understand under optimum periodicity such a service 
+life at which the costs for maintenance and current 
+
+Pic. repair, referred to the unit of work, are minimal [10]. 
+P1i.c A. 1g. eA ger oguropusp os fo fr orollliing  ssttoocckk a ta Lt LAC TATPP “ Kamama.a”. For our study, the most interesting is the economic-
+
+The work of the e•nte rWpOriRsLeD i sO Fa nTRalAyNzSePdO, RthTe A NmDa TinR AiNnSdPicOaRtoTArsT IOfoNr,  eVaocl.h 1 6a,g Iess g. r2o, uppp.  96–105 (2018)
+
+are determined, they are pMraelstesenvt,e Ddm init rTy aV.b,l Pee 1s.trikov, Sergey A. Determining Optimal Frequency of Technical Maintenance 
+
+Table 1 of Buses
+
+Main performance indicators of rolling stock
+№ Coefficient of technical Average
+
+Service readiness Fleet utilization Average daily number of days
+life coefficient mileage, km in maintenance 
+
+actual normative and repair per 
+year (per unit)
+
+1 Up to 3
+years 0,89 0,85 0,77 153 43
+
+2 From 3
+to 5 0,63 0,85 0,58 66 20
+years
+
+3 Over 5
+years 0,70 0,85 0,63 85 27
+
+From table 1 it follows that the coefficient of technical readiness of the group
+from 3 to 5 years is lower than those with a service life of more than 5 years, this can 
+be explained by random factors due to a small sample, since the studies were 
+conducted on the basis of only one enterprise. It can also be seen that buses with a 
+service life of up to 3 years carry out most of the transport work for transportation of 
+passengers, however the same group has the greatest amount of time in maintenance
+and repair, which indicates non-optimal periodicity of maintenance. In addition, there 
+is a problem of low technical readiness of buses with a service life of more than 3 
+years. The coefficient of technical readiness for the second and third groups is much
+lower than the industry average.
+
+
+
+Table	1
+Main	performance	indicators	of	rolling	stock
+
+No . Service life Coefficient of technical readiness Fleet Average daily Average 
+actual normative utilization mileage, km number 
+
+coefficient of days in 
+maintenance 
+and repair per 
+year (per unit)
+
+1 Up to 3 years 0,89 0,85 0,77 153 43
+2 From 3 to 5 years 0,63 0,85 0,58 66 20
+3 Over 5 years 0,70 0,85 0,63 85 27
+
+Table	2
+Costs	of	the	enterprise	for	maintenance	and	current	repair
+
+No . Service life Periodicity of Periodicity of Specific costs for Total annual costs 
+TM-1, km TM-2, km TM and CR, rub ./ for TM and CR, 
+
+km thous . rub .
+1 Up to 3 years 10000 40000 1,40 234,11
+2 From 3 to 5 years 8000 32000 2,70 328,16
+3 Over 5 years 6000 24000 3,78 825,76
+
+Total 1387,92
+
+probabilistic method, because it allows us to estimate 
+not only costs, but also failure-free operation at a λ 1
+
+= ,   (3)
+given risk and a reasonable amount of input data and T0
+
+laborious calculations. where T  – average service hours to a failure, km.
+0
+
+Specifics of the enterprise is passenger Probability of a failure during maintenance [8]:
+transportation, therefore, in order to maintain the fleet F = 1 – R.  (4)
+of buses in working condition, a preventive The results of the calculations are shown in 
+maintenance system is used. Periodicity of Pic. 2–4.
+maintenance and costs of the enterprise for The type of graphs can be explained as follows: 
+maintenance and current repair for 2016 are maintenance costs depend little on the mileage and 
+presented in Table 2. it can be assumed that they are a fixed value. The 
+
+One of the optimization criteria is reduction of more frequent is maintenance, the higher is the unit 
+operating costs, therefore, the specific costs per cost of maintenance and the less are repair costs, 
+kilometer of mileage were determined in the since the probability of failure is reduced. If 
+calculations. maintenance is carried out rarely, then the unit costs 
+
+Specific costs when applying a preventive for repairs increase.
+strategy can be interpreted as a ratio of weighted All the obtained graphs have minima that 
+average cost of one operation to weighted average correspond to the optimum values of TM periodicity, 
+service hours, taking into account failure of a part of but these values are substantially less than the values 
+the structural elements of a bus according to the of the normative periodicity of maintenance of MAZ 
+formula [8]: and LiAZ buses given above. It is advisable to adjust 
+
+cF + dR the obtained optimum values of the periodicity of TM 
+U1 = C1 = ,
+
+'   (1)
+lpF + l to reduce the probability of failures.
+
+pR Thus, for transport with a service life of up to 
+where d – cost of maintenance operation, rub.; 3 years it is recommended to carry out TM-1 with a 
+
+R – probability of failure-free operation; periodicity of 8 000 km, the specific costs will be 
+F – probability of a failure during performance of minimal and amount to 1 170 rub./km, with the 
+
+maintenance with periodicity l  and probability of 
+р probability of failure – 0,45. Given the specifics of the 
+
+performing a repair operation (elimination of a failure); enterprise – passenger transportation, the periodicity 
+c – cost of a failure elimination operation, rub.; will be optimal not with minimal costs, but with a lower 
+l’  – average service hours of a failed element with 
+
+p probability of failures at rational costs. Therefore it is 
+probability F, km; reasonable to carry out maintenance with a frequency 
+
+l  – periodicity of technical maintenance, km.
+p of 5000 km, the costs will increase to 1,265 rub./km, 
+The probability of failure-free operation under the i. е. by 8 %, while the probability of a failure will 
+
+exponential law is expressed by the formula [8]: decrease to 0,23 or almost by 2 times.
+R (x ) = exp−λx,   (2) For a group with a service life from 3 to 5 years, 
+
+the minimum costs will be at a maintenance period of 
+where λ – failure intensity. 6000 km and will be 1,754 rub./km, with a probability 
+
+The use of the exponential law in calculations is of failure – 0,53. However, if the maintenance is 
+due to greater accuracy in comparison with the normal carried out at a frequency of 4 000 km, the costs will 
+distribution law. The exponential law describes increase to 2,143 rub./km, i. е. by 22 %, while the 
+reliability of a product in the period of its normal probability of a failure will decrease to 0,30 or 43,4 %. 103
+operation, when gradual failures are not yet manifested For a group with a service life of more than 5 years, 
+and reliability is characterized only by sudden failures. the minimum costs will be at a maintenance period of 
+
+The failure intensity is a constant value and is 4 000 km and will be 2,898 rub./km, with a probability 
+determined by the formula [8]: of a failure – 0,49. However, if the maintenance is 
+
+• WORLD OF TRANSPORT AND TRANSPORTATION, Vol. 16, Iss. 2, pp. 96–105 (2018)
+
+Maltsev, Dmitry V., Pestrikov, Sergey A. Determining Optimal Frequency of Technical Maintenance 
+of Buses
+
+
+
+All the obtained graphs have minima that correspond to the optimum values of 
+TM periodicity, but these values are substantially less than the values of the 
+normative periodicity of maintenance of MAZ and LIAZ buses given above. It is 
+advisable to adjust the obtained optimum values of the periodicity of TM to reduce 
+the probability of failures.
+
+104
+
+Pic. 2. Specific costs for 
+maintenance and repair and 
+the probability of failure of 
+
+buses with the service life of up 
+to 3 years at different intervals specific 
+
+of maintenance. costs
+
+failure 
+probability
+y
+
+TM periodicity, thous. km
+
+Pic. 2. Specific costs for maintenance and repair and the probability of failure of 
+buses with the service life of up to 3 years at different intervals of maintenance.
+
+specific 
+costs
+
+Pic. 3. Specific costs failure 
+for maintenance and repair probability
+
+and the probability of failure 
+of buses with the service life from specific 
+
+ 
+3 to 5 years at different intervals costs
+
+of maintenance. failure 
+TM periodicity, thous. km probability
+
+ 
+ 
+
+Pic. 3. Specific costs for maintenance and repair and the probability of failure of
+buses with the serTvMic epe lriiofdei cfirtyo, mtho 3us .t okm 5 years at different intervals of maintenance.
+
+ 
+Pic. 3. Specific costs for maintenance and repair and the probability of failure of
+buses with the service life from 3 to 5 years at different intervals of maintenance.
+
+Pic. 4. Specific costs for 
+maintenance and repair and the 
+
+probability of failure of buses specific 
+with the service life of more costs
+
+than 5 years at different 
+intervals of maintenance. failure 
+
+probability
+
+ specific 
+costs
+
+TM periodicity, thous. km  
+failure 
+
+ probability
+carried out at a frequency of 3 000 km, the costs will by approximately 2 t imes, and the optimal 
+increase to 3,002 rub./km, i. е. by 3,5 %, while the frequency will be 2000–2500 km.  
+
+probability of a failure will decrease to 0,39 or 25,6 %. TMT paebrioldeic i3ty , sthhouos. wkms the results of calculations  at the 
+Adjustment of standards for maintenance new optimum values  of maintenance intervals. The 
+
+intervals focusing on their reduction will lead to an tot al annual costs of the enterprise for maintenance 
+increase in specific costs for maintenance, but at and current repair will decrease in this case by 259,58 
+the same time, the probability of a failure will thousand rubles or by 18,7 %.
+significantly decrease, and as a consequence, the Conclusions.
+specific costs for repair will decrease, thereby 1. The task of finding an optimal value of periodicity 
+achieving economic benefits. Of course, it is of carrying out maintenance and current repair of 
+difficult to call the accepted probability of failures rolling stock is topical and multifactorial.
+from 0,23 to 0,39 satisfactory, nevertheless 2. The optimal periodicity of maintenance for the 
+maintaining the probability of a failure at the level fleet of the motor transport enterprise was determined. 
+of 0,1–0,15 (which corresponds to the coefficient For buses of the first group it will be 8000 km, for the 
+of technical readiness at the level of the industry second group – 6000 km, for the third one – 4000 km. 
+average) will lead to an increase in specific costs The obtained values  of periodicity can significantly 
+
+• WORLD OF TRANSPORT AND TRANSPORTATION, Vol. 16, Iss. 2, pp. 96–105 (2018)
+
+Maltsev, Dmitry V., Pestrikov, Sergey A. Determining Optimal Frequency of Technical Maintenance 
+of Buses
+
+Specific costs, rub./km
+Specific costs, rub./km Specific costs, rub./km
+
+Specific costs, rub./km Specific costs, rub./km
+ 
+
+  
+ 
+
+  
+
+Failure probability Failure probabilFitayilure probability Failure probabilityFailure probability
+   
+
+ 
+
+  
+
+
+
+Table	3
+Costs	of	the	enterprise	for	maintenance	and	current	repair	
+
+at	the	optimum	periodicity	of	maintenance
+No . Service life Optimal Optimal Specific costs for Total annual costs for 
+
+periodicity of periodicity of TM and CR, rub ./ TM and CR, thous . 
+TM-1, km TM-2, km km rub .
+
+1 Up to 3 years 8000 32000 1,265 234,11
+2 From 3 to 5 years 6000 24000 2,143 328,16
+3 Over 5 years 4000 16000 3,002 825,76
+
+Total 1128,34
+reduce the probability of failure, which is very rabotosposobnosti tehnicheskih system: Uchebnoe posobie] .
+important for transportation of passengers, with a Perm: Publishing house of Perm National Research 
+slight increase in specific costs for maintenance and Polytechnical University, 2015, 142 p .
+current repair. 9 . Kuzmin, N . A . Technical exploitation of cars: 
+
+3. Using the proposed methodology will increase rationing and management: study guide [Tehnicheskaya 
+the coefficient of technical readiness at the enterprise ekspuatatsiya avtomobilei: normirovanie i upravlenie: 
+and reduce the total annual costs for maintenance and Uchebnoe posobie] . Moscow, Forum, 2011 publ ., 224 p .
+current repair by 259,58 thousand rubles or by 18,7 %. 10 . Yushkov, A . N ., Eremeeva, L . E . Mathematical 
+
+modeling of the processes of technical operation of 
+hydraulic systems [Matematicheskoe modelirovanie 
+
+REFERENCES protsessov tehnicheskoi ekspuatatsii gidravlicheskih system] . 
+1 . Verevkin, N . I ., Chernyaev, I . O ., Lavrentiev, E . V . Vestnik KrasGAU, 2009, Iss . 10, pp .11–15 .
+
+Technological design of motor transport enterprises as a 11 . Yushkov, A . N . Increase of efficiency of hydraulic 
+means of improving road safety [Tekhnologicheskoe drive of forest machines [Povyshenie effektivnosti raboty 
+proektirovanie avtotransportnyh predpriyatij kak sredstvo gidroprivoda lesnyh mashin] . Syktyvkar, SLI publ ., 2011, 
+povysheniya bezopasnosti dorozhnogo dvizheniya] . Transport 108 p .
+RF, 2015, Iss . 1, pp . 52–55 . 12 . Dats, F . A . Choice of the optimal periodicity of 
+
+2 . Regulation on technical maintenance and repair of maintenance and repair of logging machines of John Deere 
+the fleet of motor transport [Polozhenie o tekhnicheskom in the conditions of Vologda region [Vybor optimalnoi 
+obsluzhivanii i remonte podvizhnogo sostava avtomobilnogo periodichnosti tehnicheskogo obsluzhivaniya i remonata 
+transporta] . Moscow, Transport publ ., 1988, 115 p . lesozagotovitelnyh mashin firmy John Deere v usloviyah 
+
+3 . Pestrikov, S . A . On the issue of profitability of Vologodskoi oblasti] . Lesnoy Vestnik, 2010, Iss . 6, 
+enterprises of the motor transport industry [K voprosu pp . 124–129 .
+o rentabelnosti predpriyatii avtotransportnoi otrasli] . 13 . Malkin, V . S . Determination of the optimal 
+Modernization and scientific research in the transport periodicity of diagnostics [Opredelenie optimalnoi 
+sector: Proceedings of the international scientific- periodichnosti diagnostirovaniya] . Vektor nauki TGU, 2012, 
+practical conference . Perm, Publishing house of Perm Iss . 4, pp . 181–183 .
+National Research Polytechnical University, 2014, 14 . Burmistrov, V . A . Adjustment of maintenance 
+pp . 173–176 . modes of trucks [Korrektirovanie rezhimov tehnicheskogo 
+
+4 . Pestrikov, S . A . Financial and economic consistency obsluzhivaniya gruzovyh avtomoilei] . Sovremennie problem 
+of organizations of the motor transport sphere [Finansovo- nauki i obrazovaniya, 2014, Iss . 1, p . 184 .
+ekonomicheskaya sostoyatelnost organizacii avtotransportnoi 15 . Borisov, G . V ., Erofeeva, L . N . Refinement of 
+sfery] .Transport. Transportnye sooruzheniya. Ekologiya, technical and economic method for determining the 
+2014, Iss . 1, pp .141–150 . optimum periodicity of vehicle maintenance [Utochnenie 
+
+5 . Pestrikov, S . A ., Pugin, K . G . Actual issues of tehniko-ekonomicheskogo metoda opredeleniya optimalnoi 
+innovative activity of the transport industry [Aktualnye periodichnosti tehnicheskogo obsluzivaniya avtomobilei] . 
+voprosy innovacionnoi aktivnosti transportnoi otrasli] . Trudy NGTU im. R. E. Alekseeva, 2013, Iss . 4, pp . 37–43 .
+Transport of Russia: problems and prospects-2014: 16 . Kirillov, G . A ., Kashin, Ya . M ., Rudenko, V . G . 
+Proceedings of the international scientific and practical Choice of the optimal periodicity of maintenance and 
+conference . St . Petersburg, 2014, pp . 93–97 . repair from the minimum cost of works [Vybor optimalnoi 
+
+6 . Operating manual 103003–0000020 RE . Buses periodichnosti tehnicheskogo obsluzhivaniya i remonta iz 
+MAZ-103, MAZ-107 [Rukovodstvo po ekspluatatsii usloviya minimalnoi stoimosti rabot] . Collection of scientific 
+103003–0000020 RE. Avtobusy MAZ-103, MAZ-107] . articles of 4th International Scientific and Practical 
+Minsk, 2016, 164 p . Conference . Krasnodar, Publishing House – South, 2014, 
+
+7 . Manual for operation and maintenance of pp . 215–218 .
+LiAZ-529222 bus [Rukovodstvo po ekspuatatsi i 17 . Dyakov, I . F . Neural technology as a tool for 
+i tehnicheskomu obsluzhivaniyu avtobusa LiAZ-529222] . choosing the optimal periodicity of ATS maintenance 
+Moscow, Transport publ ., 2011, 130 p . [Neironnaya tehnologiya kak instrument vybora optimalnoi 
+
+8 . Dmitrenko, V . M ., Gorbunov, A . A . Foundations of periodichnosti obsluzhivaniya ATS] . Avtomobilnaya 
+working capacity of technical systems: study guide [Osnovy promyshlennost, 2014, Iss . 11, pp . 26–30 . •
+Information about the authors:
+Maltsev, Dmitry V. – Ph.D. (Eng), associate professor of the department of Cars and Technological 
+Machines of Perm National Research Polytechnic University, Perm, Russia, mdv@pstu.ru. 105
+Pestrikov, Sergey A. – Ph.D. (Economics), associate professor of the department of Cars 
+and Technological Machines of Perm National Research Polytechnic University, Perm, 
+Russia, +7(342)2–391–026.
+
+Article received 15.02.2018, revised 10.04.2018, accepted 11.04.2018.
+
+• WORLD OF TRANSPORT AND TRANSPORTATION, Vol. 16, Iss. 2, pp. 96–105 (2018)
+
+Maltsev, Dmitry V., Pestrikov, Sergey A. Determining Optimal Frequency of Technical Maintenance 
+of Buses

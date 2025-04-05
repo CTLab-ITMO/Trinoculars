@@ -1,0 +1,907 @@
+﻿ВЕСТНИК ТОМСКОГО ГОСУДАРСТВЕННОГО УНИВЕРСИТЕТА 
+2023                                                 Математика и механика                                                 № 81 
+
+Tomsk State University Journal of Mathematics and Mechanics 
+
+ 
+ 
+Научная статья 
+УДК 523.682 
+doi: 10.17223/19988621/81/10 
+
+ 
+Абляция мелких метеорных тел: сравнение модели 
+
+сплошного и пористого тела 
+ 
+
+1 2
+Владимир Владимирович Ефремов , Ольга Петровна Попова ,  
+
+3 4
+Дмитрий Олегович Глазачев , Анастасиос Маргонис ,  
+
+5 6
+Юрген Оберст , Анна Петровна Карташова  
+
+ 
+1, 2, 3 Институт динамики геосфер им. академика М.А. Садовского  
+
+Российской академии наук, Москва, Россия 
+4, 5 Берлинский технический университет, Берлин, Германия 
+
+6 Институт астрономии Российской академии наук, Москва, Россия 
+1 efremov.vv@phystech.edu 
+
+2 olga@idg.chph.ras.ru 
+3 glazachevd@gmail.com 
+
+4 anastasios.margonis@tu-berlin.de 
+5 juergen.oberst@tu-berlin.de 
+
+6 akartashova@inasan.ru 
+
+ 
+Аннотация. Модель абляции для мелких метеороидов используется для оценки 
+физических параметров метеоров в разных предположениях. Метеороид рассмат-
+ривается в двух модификациях: сплошное и пористое тело. Использован автомати-
+зированный метод оценки параметров по кривым блеска. Обсуждаются ограничения 
+и особенности модели. 
+Ключевые слова: метеоры, метеороиды, модель абляции, метеорный поток  
+Персеид 
+ 
+Благодарности: В.В. Ефремов и О.П. Попова благодарят за финансовую поддерж-
+ку госзадание 1021052706222-8-1.5.4 «Разработка комплексной модели воздей-
+ствия на внутренние и внешние геосферы внедряющихся космических тел и оценка 
+последствий таких падений (FMWN-2022-0011)»; А. Маргонис и Ю. Оберст благо-
+дарят за финансовую поддержку фонд Deutsch Forschungsgemeinschaft (DFG – 
+German Research Foundation), грант № OB 124/20-1. 
+ 
+Для цитирования: Ефремов В.В., Попова О.П., Глазачев Д.О., Маргонис А., 
+Оберст Ю., Карташова А.П. Абляция мелких метеорных тел: сравнение модели 
+сплошного и пористого тела // Вестник Томского государственного университета. 
+Математика и механика. 2023. № 81. С. 110–122. doi: 10.17223/19988621/81/10 
+
+  
+
+© В.В. Ефремов, О.П. Попова, Д.О. Глазачев и др., 2023 
+
+
+
+Ефремов В.В., Попова О.П., Глазачев Д.О. и др. Абляция мелких метеорных тел 
+
+Original article 
+ 
+
+Ablation of small meteor bodies: comparison of solid  
+and porous body models 
+
+ 
+1 2 3
+
+Vladimir V. Efremov , Olga P. Popova , Dmitry O. Glazachev ,  
+4 5 6
+
+Anastasios Margonis , Jurgen Oberst , Anna P. Kartashova  
+ 
+
+1, 2, 3 Sadovsky Institute of Geosphere Dynamics of Russian Academy of Sciences,  
+Moscow, Russian Federation 
+
+4, 5 Technical University Berlin, Berlin, Germany 
+6 Institute of Astronomy of Russian Academy of Sciences, Moscow, Russian Federation 
+
+1 efremov.vv@phystech.edu 
+2 olga@idg.chph.ras.ru 
+
+3 glazachevd@gmail.com 
+4 anastasios.margonis@tu-berlin.de 
+
+5 juergen.oberst@tu-berlin.de 
+6 akartashova@inasan.ru 
+
+ 
+Abstract. An ablation model is used to describe the interaction of small meteoroids with 
+the Earth’s atmosphere. In this model, the mass loss of a meteoroid is determined using 
+the saturated vapor pressure of the assumed meteoroid substance. The meteoroid is con-
+sidered in two modifications as a solid and a porous object. An automated method for  
+estimating the parameters of meteoroids (mass, size, and density) from light curves is  
+developed based on the model of small meteor body ablation, which has been used to es-
+timate the parameters of the Perseid meteors with a brightness of -2m to +2m. The effect 
+of the dependence for saturated vapor pressure and the residual on the parameters of the 
+meteoric body is analyzed. It is shown that for the same meteor, the use of different de-
+pendences for pressure or different residuals leads to the dispersion of the meteor mass 
+estimate of not more than 10–15% of the average value, and for the meteor size not more 
+than 35–40%. The difference between the maximum and minimum density estimates can 
+be up to five times. The selected dependence for the saturation vapor pressure strongly 
+affects the shape of the light curve, the quality of its approximation, and the density estimate. 
+The average porosity for all meteoroids is 86±5%, which is close to the values for IDP. 
+The density of meteoroids is determined with a large error. The selected model better de-
+scribes meteoroids with the degree of skewness of the light curve in the range of 0.4 − 0.5. 
+The use of the porous body model has little effect on the mass estimate, while the density 
+estimates increase by up to 2 times. 
+Keywords: meteors, meteoroids, ablation model, Perseids 
+ 
+Acknowledgments: V.V. Efremov and O.P. Popova were funded by the program  
+“Development of an complex model of the entering cosmic objects action on the  
+internal and external geospheres and assessment of the consequences of these  
+impacts” (1021052706222-8-1.5.4); A. Margonis and J. Oberst were funded by the 
+Deutsch Forschungsgemeinschaft (DFG – German Research Foundation) (project  
+No. OB 124/20-1). 
+ 
+For citation: Efremov, V.V., Popova, O.P., Glazachev, D.O., Margonis, A., Oberst, J., 
+Kartashova, A.P. (2023) Ablation of small meteor bodies: comparison of solid and  
+porous body models. Vestnik Tomskogo gosudarstvennogo universiteta. Matematika  
+i mekhanika – Tomsk State University Journal of Mathematics and Mechanics. 81.  
+pp. 110–122. doi: 10.17223/19988621/81/10 
+
+111 
+
+
+
+Механика / Mechanics 
+
+Введение 
+ 
+
+Большинство метеорных тел не достигает поверхности Земли, поэтому их 
+свойства приходится определять по косвенным признакам. Основной способ по-
+лучения информации о свойствах метеорных тел – изучение их взаимодействия  
+с атмосферой. Несмотря на длительную историю изучения метеорных явлений, 
+проблема точного определения массы, плотности и свойств вещества метеороида 
+по наблюдательным данным остается до конца не решенной [1]. Детали взаимо-
+действия метеорных частиц с атмосферой известны плохо, поэтому их характе-
+ристики определяются с большими погрешностями. 
+
+Для оценки параметров метеорных тел (массы, плотности и т.д.) по данным 
+наблюдений используются различные модели абляции (см. обзор [2]). Существует 
+два основных варианта модели абляции, которые модифицируются различными 
+авторами тем или иным способом [2]. Основное различие между этими вариан-
+тами моделей состоит в записи уравнения баланса энергии. В одном из вариантов 
+набегающий поток расходуется только на испарение метеорного тела [3], в дру-
+гом – на излучение, нагрев и испарение метеорного тела [4–6]. Все эти модели 
+позволяют оценить параметры метеорного тела. 
+
+В работе [7] к ряду метеоров были применены две различные модели абляции, 
+принадлежащие к разным вариантам, и результаты показали значительную раз-
+ницу в оценках параметров. Оценки массы мелких метеороидов по тем или иным 
+моделям сильно зависят от предположений используемой модели. Целью данной 
+работы является применение модели абляции (с различными модификациями) 
+для воссоздания наблюдаемых кривых блеска ряда метеороидов потока Персеид, 
+что позволит оценить параметры этих метеороидов. 
+ 
+
+Используемая модель абляции 
+ 
+В качестве модели абляции была выбрана модель, в которой энергия набегаю-
+
+щего потока расходуется на излучение, нагрев и испарение метеорного тела [4–6]. 
+В рассматриваемой модели абляции потеря массы определяется через давление 
+насыщенного пара вещества метеороида.  
+
+Выбранная модель абляции широко используется в исследованиях, касаю-
+щихся притока микрометеоритов, внеземного вещества и космической пыли,  
+а также воздействия этого материала на атмосферу [9–11]. Для оценки парамет-
+ров метеороидов данная модель используется не так часто. Наиболее прорабо-
+танная модель пылевого шара [12] дополняет эту модель абляции фрагментацией 
+и предполагает, что метеороиды распадаются на фундаментальные зерна при до-
+стижении пороговой температуры. В работе [13] были оценены параметры ме-
+теороидов разных потоков на основе этой модели пылевого шара. В нашей работе 
+фрагментация не рассматривается, модель абляции применяется к наблюдениям 
+метеоров потока Персеид в качестве первого подхода для более детального рас-
+смотрения ограничений модели. В период с 2010 по 2016 г. во время активности 
+метеорного потока Персеид была проведена серия наблюдательных кампаний на 
+юге Греции [8]. Диапазон яркостей зарегистрированных метеоров составил от –6m 
+до +2m. Поскольку используемая модель описывает процесс абляции небольших 
+метеорных тел, были выбраны метеоры потока Персеид слабее –2m. 
+
+112 
+
+
+
+Ефремов В.В., Попова О.П., Глазачев Д.О. и др. Абляция мелких метеорных тел 
+
+Для определения параметров метеорных тел требуется подобрать такие началь-
+ные данные, которые позволят воссоздать кривую светимости путем решения 
+системы дифференциальных уравнений, описывающих высоту, скорость, массу  
+и светимость в зависимости от времени. 
+
+Кроме баланса энергии модель абляции включает в себя уравнение потери 
+массы, уравнения торможения и изменения высоты полета, соотношения для 
+определения кривой блеска [5]. Применяемая система уравнений использует раз-
+личные предположения: коэффициент теплопередачи постоянен по траектории и 
+равен значению для сферы в свободно молекулярном режиме ch = 1; эффектив-
+ность высвета τ также постоянна и составляет от 1 до 5% [1]. Теплота абляции  
+и атомная масса определяются веществом, которое выбирается при задании зави-
+симости давления насыщенного пара. 
+
+В описываемой модели предполагается, что метеороид имеет сферическую 
+форму. Обычно все рассматривают метеороид как сплошное тело, но известно, 
+что частицы космической пыли (IDP) и кометная пыль имеют высокую пори-
+стость [14]. В рамках данной работы метеороид рассматривается в двух модифи-
+кациях: сплошное тело и пористое тело. Пористое тело представляется как сло-
+женное частицами шарообразной формы при квадратной или ромбической 
+укладке (модель П1) [15]. Сами частицы представляют собой минеральное веще-
+ство плотностью 3 000 кг/м3. Другая модификация пористого тела представлена 
+шарообразными кластерами, которые состоят из частиц минерального вещества 
+(модель П2). Такие кластеры схожи по структуре c частицами IDP, их плотность 
+и пористоть неизвестны. Сами кластеры сложены квадратной или ромбической 
+укладкой и занимают половину объема метеороида (макропористость 50%). Микро-
+пористоть самих кластеров неизвестна. В случае пористого тела испарение проис-
+ходит с поверхности минеральных частиц (модель П1) или шарообразных класте-
+ров (П2), которые составляют метеорное тело. Набегающий поток, излучение и тор-
+можение рассчитываются с учетом поперечного сечения метеороида как целого. 
+
+Поскольку в рассматриваемой модели абляции потеря массы определяется 
+через давление насыщенного пара вещества метеороида, следует определить ве-
+щество, из которого может состоять метеороид. Одним из основных компонентов 
+метеорного вещества являются силикаты, в том числе оливин. Присутствие оли-
+вина подтверждено в материале комет [16, 17] и в космической пыли [14, 18].  
+В спектрах Персеид [19] присутствуют химические элементы, входящие в состав 
+оливина. Поэтому в данной работе иcпользовалась зависимоcть давления насы-
+щенного пара для оливина. Следует отметить, что разные авторы предлагают 
+заметно различающиеся зависимости для одного и того же вещества, что влияет 
+на определение параметров метеороидов, как это было показано в работе В. Еф-
+ремова и соавт. [20]. В этой публикации также отмечалось, что зависимость для 
+давления насыщенного пара из работы [21] занимает среднее положение относи-
+тельно других зависимостей в интересующем нас диапазоне температур, поэтому 
+она была выбрана для дальнейшего использования. 
+
+Для построения автоматизированного метода оценки параметров метеорного 
+тела необходимо сформулировать задачу минимизации функции отклонения  
+модельного решения от наблюдаемых данных, т.е. определить невязку. Были рас-
+смотрены четыре функции невязки [20], и проанализировано их влияние на опре-
+деляемые параметры метеороидов. Невязки рассчитывались как среднеквадра-
+
+113 
+
+
+
+Механика / Mechanics 
+
+тичное отклонение рассчитанной звездной величины или интенсивности от 
+наблюдаемой. Рассматривались как размерные величины, так и приведенные. 
+Для поиcка наилучшего решения использовался генетический алгоритм, реализо-
+ванный в Wolfram Mathematica. В случае модели сплошного тела и пористого (П2), 
+варьировали размер и плотность, а при применении модели пористого тела П1 
+варьировали размер и пористость. 
+
+  
+Оценка параметров метеорных тел  
+
+ 
+Описанная модель абляции использовалась для моделирования 11 метеоров, 
+
+скорость входа в атмосферу (V), угол входа от горизонтали (γ) и абсолютная 
+звездная величина (Mv) которых приведены в табл. 1.  
+
+Для определения параметров метеороидов использовались только кривые блес-
+ка; кривые торможения детально не регистрировались, но контролировалось отсут-
+ствие значительного торможения (потеря не больше 10% от начальной скорости). 
+Также следует отметить, что мы не учитывали в нашей модели фрагментацию, 
+хотя ее роль может быть заметной. 
+
+Т а б л и ц а  1  
+
+Скорость, угол входа, абсолютная звездная величина для рассматриваемых метеороидов. 
+Оценки массы по эмпирическим зависимостям (по формулам из работ [22] и [23]) 
+
+Масса, 10–5 кг 
+Метеор  V, км/с γ, ◦ Mv 
+
+По формуле [22] По формуле [23] 
+20160811_184336 60.7 12.8 –1.14 60.30 11.30 
+20160811_221139 58.3 32.1 –1.30 86.71 8.29 
+20160811_200532 61.3 17.0 –0.91 47.33 7.56 
+20160811_202351 60.7 21.4 –0.73 42.13 5.92 
+20160811_190504 66.2 14.8 –0.78 30.92 5.57 
+20160811_205252 59.4 21.5 –0.18 27.65 4.22 
+20160811_190233 66.8 13.3 0.55 8.74 2.10 
+20160811_205351 59.4 22 –0.18 27.65 4.22 
+20160811_202522 60.4 19 –0.05 22.84 3.83 
+20160811_205505 60.5 22 0.12 19.55 3.06 
+20160811_205716 63.5 24 0.64 10.08 1.62 
+
+ 
+Сравнение модельных (при применении модели сплошного тела) и наблюдае-
+
+мой кривых блеска для метеора 20160811_200532 приведено на рис. 1 при ис-
+пользовании разных невязок. Разные невязки лучше описывают разные части 
+кривой блеска. Оценка разброса решений при применении различных функций 
+невязок показывает, что выбор функции практически не влияет на массу (откло-
+нение от среднего не более 15%) и на радиус (отклонение от среднего не более 
+20%), но влияет на плотность (минимальное и максимальное значения плотности 
+могут различаться в два раза). Плотность определяется как отношение массы  
+к объему. Для моделей пористого тела эти закономерности сохраняются. 
+
+Для модели сплошного тела выбранное давление насыщенных паров незначи-
+тельно влияет на оценку массы (отклонение от среднего значения составляет не 
+более 10%); более выраженный эффект наблюдается при оценке радиуса (откло-
+нение составляет не более 35%). Различие между максимальным и минимальным 
+
+114 
+
+
+
+Ефремов В.В., Попова О.П., Глазачев Д.О. и др. Абляция мелких метеорных тел 
+
+значением оценки плотности может достигать пяти раз. Зависимость давления 
+паров существенно влияет на форму кривой блеска (рис. 2), качество ее подгонки 
+и оценку плотности. 
+
+ 
+–1 
+
+ 
+
+ 
+ 
+
+0 
+1 
+
+  
+
+2 
+  
+
+1 3 
+ 
+
+ 4 
+ 
+
+ 5 
+2 
+
+ 
+
+ 
+3  
+
+100                       105                       110                       115          H, км  
+
+Рис. 1. Кривая блеска метеора 20160811_200532 (1) и модельные кривые  
+(модель сплошного тела), полученные при использовании разных невязок (2–5). 
+
+Использовалось давление насыщенных паров (оливин, пары Fe/Mg) [21] 
+Fig. 1. (1) Light curve of meteor 20160811_ 200532 and (2) – (5) the model curves  
+(a solid body model) obtained with different residuals. The saturated vapor pressure  
+
+is from [21] (olivine and Fe/Mg vapors)  
+ 
+
+–1 
+ 
+
+ 
+ 1 
+
+ 
+
+0 2 
+
+  
+
+3 
+  
+
+1 4 
+ 
+
+ 5 
+ 
+
+ 6 
+2  
+
+ 7 
+
+ 
+3  
+
+100                       105                       110                       115          H, км  
+
+Рис. 2. Кривая блеска метеора 20160811_200532 (1) и модельные кривые (модель  
+сплошного тела), полученные при использовании разных зависимостей для давлений 
+
+насыщенных паров: 2 – оливин, пары Fe/Mg [21], 3 – оливин [21], 4 – форстерит [24],  
+5 – фаялит [24], 6 – кварц [25], 7 – силикаты [25] 
+
+Fig. 2. (1) Light curve of meteor 20160811_ 200532 and (2)–(7) the model curves (a solid body 
+model) obtained at different dependencies for saturated vapor pressures: (2) olivine and Fe/Mg 
+
+vapors [21], (3) olivine [21], (4) forsterite [24], (5) fayalite [24], (6) quartz [25], and (7) silicates [25] 
+
+115 
+
+Абсолютная звездная величина 
+Абсолютная звездная величина 
+
+
+
+Механика / Mechanics 
+
+Масса мелких метеороидов (примерно 1 см) часто оценивается на основе эм-
+пирических соотношений, использующих максимальную яркость метеора, ско-
+рость и угол входа [22, 23, 26, 27]. Оценки массы, основанные на эмпирических 
+соотношениях, приведены в табл. 1, результаты моделирования рассматриваемых 
+метеоров приведены в табл. 2. Эти оценки демонстрируют большую неопреде-
+ленность при вычислении массы – более чем на порядок, что является давней 
+проблемой метеорных исследований. Полученные нами оценки массы наиболее 
+близки к оценкам по соотношению из [23] (разница до 10 раз при эффективности 
+высвета 5% и до 2 раз при эффективности высвета 1%). Оценки массы для моде-
+лей сплошного и пористого тела (при эффективности высвета 5%) практически 
+не отличаются (отклонение не больше 20%). Для моделей пористого тела (П1 и 
+П2) оценки массы различаются не более чем на 5%. 
+
+Т а б л и ц а  2  
+
+Оценки массы для рассматриваемых метеороидов, полученные по четырем невязкам 
+с давлением насыщенных паров из работы [21] (оливин, пары Fe/Mg),  
+
+при разных эффективностях высвета τ 
+
+Масса, 10–5 кг 
+Моделирова- Моделирова- Моделирование Моделирование 
+
+Метеор  
+ние (сплошное ние (сплошное (пористое тело П1), (пористое тело П2), 
+тело), τ = 5% тело), τ = 1% τ = 5% τ = 5% 
+
+20160811_184336 1.73 ± 0.17 8.76 ± 0.95 1.94 ± 0.24 1.83 ± 0.28 
+20160811_221139 1.14 ± 0.13 5.40 ± 0.62 0.99 ± 0.34 0.98 ± 0.30 
+20160811_200532 0.97 ± 0.12 4.82 ± 0.67 1.06 ± 0.11 1.09 ± 0.09 
+20160811_202351 0.99 ± 0.08 4.93 ± 0.51 1.17 ± 0.06 1.19 ± 0.05 
+20160811_190504 0.93 ± 0.10 4.72 ± 0.57 1.14 ± 0.08 1.16 ± 0.07 
+20160811_205252 0.51 ± 0.03 2.56 ± 0.17 0.62 ± 0.02 0.60 ± 0.04 
+20160811_190233 0.19 ± 0.03 0.97 ± 0.16 0.24 ± 0.03 0.24 ± 0.04 
+20160811_205351 0.46 ± 0.04 2.31 ± 0.25 0.53 ± 0.06 0.56 ± 0.04 
+20160811_202522 0.42 ± 0.03 2.10 ± 0.15 0.49 ± 0.02 0.50 ± 0.03 
+20160811_205505 0.39 ± 0.02 1.78 ± 0.39 0.44 ± 0.01 0.40 ± 0.07 
+20160811_205716 0.15 ± 0.05 0.80 ± 0.09 0.19 ± 0.02 0.20 ± 0.02 
+ 
+
+Все рассмотренные метеороиды являются метеорами потока Персеид, их ско-
+рости близки друг к другу. Оценка массы по модели абляции согласуется с из-
+вестной корреляцией между яркостью метеора и массой метеороида: чем меньше 
+максимальная яркость, тем меньше полученная масса метеороида. 
+
+Использование модели пористого тела мало влияет на оценку массы, оценки 
+плотности увеличиваются (до 2 раз), заметно отличаются формы модельных кри-
+вых блеска (рис. 3). 
+
+Как уже упоминалось выше, фрагментация не включена в нашу модель, хотя 
+может влиять на кривую блеска и оценки параметров метеороидов. Для грубой 
+оценки влияния фрагментации на кривую блеска ранее был предложен F-пара-
+метр [28], параметр симметрии кривой блеска, который определяется как отно-
+шение односторонней ширины кривой блеска на 1m ниже пика к общей ширине 
+на этом уровне. Считается, что метеороид не испытывает фрагментации (ведет 
+себя как единое тело) при значениях F > 0.5–0.7. 
+
+Сопоставление результатов с параметром F для рассматриваемых метеоров 
+показывает, что выбранная модель лучше описывает метеороиды, для которых  
+
+116 
+
+
+
+Ефремов В.В., Попова О.П., Глазачев Д.О. и др. Абляция мелких метеорных тел 
+
+F превышает величину ~ 0.4–0.5. Для метеороидов с высокоим значением F вли-
+яние фрагментации минимально, оценка параметров метеороида слабо зависит  
+от выбранной функции невязки. Для метеоров с меньшими значениями F, по-
+видимому, требуется учитывать фрагментацию.  
+
+ 
+
+–1 
+ 
+ 
+ 
+
+1 
+0  
+
+2 
+
+  
+
+3 
+ 
+
+1 
+
+ 
+ 
+
+2 
+100                         105                           110                           115          H, км 
+  
+
+Рис.  3. Кривая блеска метеора 20160811_184336 (1) и модельные кривые, полученные  
+в рамках модели пористого (П1) (2) и сплошного тела (3). Использовалось давление 
+
+насыщенных паров – оливин, пары Fe/Mg [21] 
+Fig. 3. (1) Light curve of meteor 20160811_184336 and the model curves obtained within the 
+framework of (2) porous (П1) and (3) solid models. The saturated vapor pressure is from [21] 
+
+(olivine and Fe/Mg vapors) 
+ 
+
+Плотность метеороидов в рамках нашей модели определяется с большой по-
+грешностью, ошибка ее определения может достигать нескольких раз для одного 
+и того же метеора при использовании разных невязок и разных давлений паров. 
+Средняя плотность по всем метеороидам (в рамках модели сплошного тела) со-
+ставляет 362 ± 237 кг/м3, для отдельных метеоров разброс средних плотностей 
+составляет от 114 ± 99 до 640 ± 500 кг/м3. В рамках модели пористого тела (П1) 
+средняя плотность метеороидов составляет 429 ± 153 кг/м3, для отдельных метео-
+ров разброс средних плотностей составляет от 153 ± 81 до 644 ± 50 кг/м3. В рам-
+ках модели пористого тела (П2) средняя плотность метеороидов составляет  
+473 ± 156 кг/м3, для отдельных метеоров разброс средних плотностей составляет 
+от 208 ± 75 до 770 ± 231 кг/м3. 
+
+Оценка плотности в случае моделей пористого тела оказывается выше, чем 
+для модели сплошного тела. Оценки плотности метеороидов для моделей П1 и 
+П2 практически не отличаются. 
+
+Метеороиды оказались высокопористыми телами. Средняя пористость по 
+всем метеороидам в модели П1 составила 86 ± 5%, в модели П2 значение полной 
+пористости также составляет около 85%. Полученные пористости характерны 
+для IDP [14]. 
+
+В ряде работ были получены оценки плотности метеоров Персеид на основе 
+наблюдательных данных. В работе [29] проанализировано 413 фотографических 
+метеоров с яркостью от –5m до +2.5m в рамках двух моделей: единого тела и тела, 
+
+117 
+
+Абсолютная звездная величина 
+
+
+
+Механика / Mechanics 
+
+которое испытывает фрагментацию. Плотности, найденные в рамках модели од-
+ного тела, всегда ниже, чем в модели с фрагментацией. Для пяти метеоров Пер-
+сеид плотность была оценена в 600 ± 100 кг/м3 [29]. П.Б. Бабаджанов и Г.И. Ко-
+хирова оценили плотность для 44 Персеид (более ярких, чем наша выборка),  
+в рамках модели, которая учитывает фрагментацию, и получили плотность  
+1 300 ± 200 кг/м3 [30]. J.-B. Kikwaya и соавт. [13] оценили плотность в рамках мо-
+дели теплового разрушения (фрагментации) для 107 Персеид как 420–820 кг/м3. 
+
+Наши оценки плотности метеороидов потока Персеид оказываются ниже или 
+сравнимы с оценками других авторов, полученными в результате анализа наблю-
+дательных данных в рамках различных моделей, и попадают в диапазон извест-
+ных плотностей комет. Так, плотность частиц пыли, собранных специальным 
+прибором COSIMA в рамках космической миссии Rosetta к комете Чурюмова–
+Герасименко, составила от 100 до 400 кг/м3 [31]. Средняя плотность кометы Чу-
+рюмова–Герасименко, полученная миссией Rosetta, – 537 кг/м3 [16]. 
+ 
+
+Заключение  
+ 
+
+Применение автоматизированного метода оценки параметров метеороидов 
+(массы, размера и плотности) по кривым блеска на основе модели абляции с раз-
+ными предположениями для оценки параметров метеоров потока Персеид ярко-
+стью от –2 до +2 звездной величины показало, что для одного и того же метеора 
+применение разных зависимостей для давления или различных невязок приводит 
+к разбросу значений массы метеора не более 10–15% от среднего значения,  
+а размера – не более 35–40%. Различие между максимальным и минимальным 
+значениями оценки плотности может достигать пяти раз. Выбор зависимости для 
+давления насыщенного пара сильно влияет на форму кривой блеска, качество ее 
+приближения и оценку плотности.  
+
+В даннои исследовании была разработана и применена модель пористого тела. 
+Средняя пористость по всем метеороидам (в модели П1) составила 86 ± 5%, что 
+близко к значениям для IDP. Плотность метеороидов определяется с большой 
+погрешностью. Выбранная модель лучше описывает метеороиды, для которых  
+F ≥ 0.4−0.5. 
+
+ 
+
+Список источников 
+ 
+1. Subasinghe D., Campbell-Brown M., Stokan E. Luminous efficiency estimates of meteors-I. 
+
+Uncertainty analysis // Planetary and Space Science. 2017. V. 143. P. 71–77. doi: 
+10.1016/j.pss.2016.12.009 
+
+2. Popova O., Borovicka J., Campbell-Brown M. Modelling the entry of meteoroids // Meteo-
+roids: Sources of Meteors on the Earth and Beyond / ed. G.O. Ryabova, D.J. Asher,  
+M.D. Campbell-Brown. Cambridge : Cambridge University Press, 2019. P. 9–36. doi: 
+10.1080/00107514.2020.1736170. 
+
+3. Bronshten V.A. Physics of meteoric phenomena. Dordrecht : Reidel Publishing Co, 1983. 356 р. 
+4. Лебединец В. Пыль в верхней атмосфере и в космосе. Метеоры. Л. : Гидрометеоиздат, 
+
+1980. 248 с. 
+5. Lebedinec V.N., Šuškova V.B. Evaporation and deceleration of small meteoroids // Symposium-
+
+International Astronomical Union. 1968. V. 33. P. 193–204. 
+6. Jones J., Kaiser T.R. The effects of thermal radiation, conduction and metoriod heat capacity 
+
+on meteoric ablation // Mon. Not. R. Astron. Soc. 1966. V. 133. Р. 411–420. 
+
+118 
+
+
+
+Ефремов В.В., Попова О.П., Глазачев Д.О. и др. Абляция мелких метеорных тел 
+
+7. Ефремов В.В., Попова О.П., Глазачев Д.О., Карташова А.П. Определение параметров 
+мелких метеорных тел по наблюдательным данным // Динамические процессы в гео-
+сферах : сб. науч. тр. ИДГ РАН. М. : ГЕОС, 2018. Вып. 10. С. 150–157. doi: 
+10.26006/IDG.2018.10.20190 
+
+8. Margonis A., Christou A., Oberst J., Observations of meteors in the Earth’s atmosphere:  
+Reducing data from dedicated double-station wide-angle cameras // Astronomy and Astro-
+physics. 2018. V. 618 (99). P. 1–11. doi: 10.1051/0004-6361/201832927 
+
+9. Plane J.M.C. Cosmic dust in the earth’s atmosphere // Chemical Society Reviews. 2012.  
+V. 41 (19). P. 6507–6518. doi: 10.1039/C2CS35132C 
+
+10. Carrillo-Sanchez J., Nesvorny` D., Pokorny` P., Janches D., Plane J., Sources of cosmic dust 
+in the Earth’s atmosphere // Geophysical Research Letters. 2016. V. 43. P. 11–19. doi: 
+10.1002/2016GL071697 
+
+11. Genge M.J., Larse J., Van Ginneken M., Suttle M.D. An urban collection of modern-day 
+large micrometeorites: Evidence for variations in the extraterrestrial dust flux through the 
+Quaternary // Geology. 2017. V. 45. P. 119–122. doi: 10.1130/G38352.1 
+
+12. Campbell-Brown M., Koschny D. Model of the ablation of faint meteors // Astronomy & 
+Astrophysics. 2004. V. 418. P. 751–758. doi: 10.1051/0004-6361:20041001-1 
+
+13. Kikwaya J.-B., Campbell-Brown M., Brown P. Bulk density of small meteoroids // Astrono-
+my & Astrophysics. 2011. V. 530 (113). P. 1–17. doi: 10.1051/0004-6361/201116431 
+
+14. Borovicka J., Macke R.J., Campbell-Brown M.D. Physical and chemical properties of meteo-
+roids // Meteoroids: : Sources of Meteors on the Earth and Beyond / ed. G.O. Ryabova,  
+D.J. Asher, M.D. Campbell-Brown. Cambridge : Cambridge University Press, 2019. P. 37–
+62. doi: 10.1080/00107514.2020.1736170 
+
+15. Лейбензон Л.С. Собрание трудов. М. : Изд-во АН СССР, 1953. Т. 2: Подземная газо-
+гидродинамика. 544 с. 
+
+16. Zolensky M., Nakamura-Messenger K., Rietmeijer F. Comparing Wild 2 particles to  
+chondrites and IDPs // Meteoritics & Planetary Science. 2008. V. 43 P. 261–272. doi: 
+10.1111/j.1945-5100.2008.tb00621.x 
+
+17. Patzold M., Ander T.P., Hahn M. The Nucleus of comet 67P/Churyumov–Gerasimenko. Part 
+I: The global view–nucleus mass, mass-loss, porosity, and implications // Monthly Notices of 
+the Royal Astronomical Society. 2019. V. 483. P. 2337–2346. doi: 10.1093/mnras/sty3171 
+
+18. Rietmeijer F.J. Dynamic pyrometamorphism during atmospheric entry of large (10 micron) 
+pyrrhotite fragments from cluster IDPs // Meteoritics & Planetary Science. 2004. V. 39.  
+P. 1869–1887. doi: org/10.1111/j.1945-5100.2004.tb00082.x 
+
+19. Matlovič P., Tóth J., Kornoš L., Loehle S. On the sodium enhancement in spectra of slow 
+meteors and the origin of Na-rich meteoroids // Icarus. 2020. V. 347. Art. 113817. doi: 
+10.1016/j.icarus.2020.113817 
+
+20. Efremov V., Popova O., Glazachev D., Margonis A., Oberst J., Kartashova A. Small Meteor 
+Ablation Model: Applying to Perseid Observations // Contributions of the Astronomical  
+Observatory Skalnate Pleso. 2021. V. 51. P. 186–206. doi: 10.31577/caosp.2021.51.3.186 
+
+21. Costa G.C.C., Jacobson N.S., Fegley Jr B. Vaporization and thermodynamics of forsterite-
+rich olivine and some implications for silicate atmospheres of hot rocky exoplanets // Icarus. 
+2017. V. 289. P. 42–55. doi: j.icarus.2017.02.006 
+
+22. Jenniskens P. Meteor showers and their parent comets. Cambridge : Cambridge University 
+Press, 2006. 790 р. doi: 10.1017/CBO9781316257104 
+
+23. Vida D., Brown P.G., Campbell-Brown M. Modelling the measurement accuracy of preat-
+mosphere velocities of meteoroids // Monthly Notices of the Royal Astronomical Society. 
+2018. V. 479 (4). P. 4307–4319. doi: 10.1093/mnras/sty1841 
+
+24. Sekanina Z., Chodas P.W. Comet C/2011 W3 (Lovejoy): Orbit determination, outbursts, 
+disintegration of nucleus, dust-tail morphology, and relationship to new cluster of bright sun-
+grazers // The Astrophysical Journal. 2012. V. 757. P. 127–160. doi: 10.1088/0004-
+637X/757/2/127 
+
+119 
+
+
+
+Механика / Mechanics 
+
+25. Kimura H., Ishimoto H., Mukai T. A study on solar dust ring formation based on fractal dust 
+models // Astronomy and Astrophysics. 1997. V. 326. Р. 263–270.  
+
+26. Jacchia L., Verniani F., Briggs R.E. An analysis of the atmospheric trajectories of 413  
+precisely reduced photographic meteors // Smithsonian Contributions to Astrophysics. 1967. 
+V. 10. P. 1–139. 
+
+27. Verniani F. On the luminous efficiency of meteors // Smithsonian Contributions to Astro-
+physics. 1965. V. 8 (5). P. 141–171.  
+
+28. Fleming D., Hawkes R., Jones J. Light curves of faint television meteors // Meteoroids and 
+their Parent Bodies / ed. J. Stohl, I. Williams. Bratislava : Astronomical Institute SAS, 1993. 
+P. 261–264. 
+
+29. Bellot Rubio L., Gonza ĺez M.M., Herrer L.R, Modeling the photometric and dynamical  
+behavior of Super-Schmidt meteors in the Earth’s atmosphere // Astronomy & Astrophysics. 
+2002. V. 389. P. 680–691. doi: 10.1051/0004-6361:20020672 
+
+30. Babadzhano P., Kokhirova G. Densities and porosities of meteoroids // Astronomy & Astro-
+physics. 2009. V. 495. P. 353–358. doi: 10.1051/0004-6361:200810460 
+
+31. Hornung K., Merouane S., Hilchenbac M. A first assessment of the strength of cometary 
+particles collected in-situ by the COSIMA instrument onboard ROSETTA // Planetary and 
+Space Science. 2016. V. 133. P. 63–75. doi: 10.1016/j.pss.2016.07.003 
+
+ 
+References 
+
+ 
+1. Subasinghe D., Campbell-Brown M., Stokan E. (2017) Luminous efficiency estimates of  
+
+meteors-I. Uncertainty analysis. Planetary and Space Science. 143. pp. 71–77. doi: 
+10.1016/j.pss.2016.12.009 
+
+2. Popova O., Borovicka J., Campbell-Brown M. (2019) Modelling the Entry of Meteoroids.  
+In: Meteoroids: Sources of Meteors on the Earth and Beyond. Cambridge: Cambridge Uni-
+versity Press. pp. 9–36. doi: 10.1080/00107514.2020.1736170 
+
+3. Bronshten V.A. (1983) Physics of Meteoric Phenomena. Dordrecht: Reidel Publishing Company. 
+4. Lebedinets V.N. (1980) Pyl' v verkhney atmosfere i kosmicheskom prostranstve. Meteory 
+
+[Dust in the upper atmosphere and in space. Meteors]. Leningrad: Gidrometeoizdat. 
+5. Lebedinec V.N., Šuškova V.B. (1968) Evaporation and deceleration of small meteoroids.  
+
+In Symposium-International Astronomical Union. 33. pp. 193–204. 
+6. Jones J., Kaiser T.R. (1966) The effects of thermal radiation, conduction and metoriod heat 
+
+capacity on meteoric ablation. Monthly Notices of the Royal Astronomical Society. 133(4). 
+pp. 411–420. doi: 10.1093/mnras/133.4.411 
+
+7. Efremov V.V., Popova O.P., Glazachev D.O., Kartashova A.P. (2018) Determination of the 
+meteor particles properties from observational. Dynamic Processes in Geospheres. Collec-
+tion of Scientific Papers of the IDG RAS. Moscow, GEOS. 10. pp. 150–157. doi: 
+10.26006/IDG.2018.10.20190 
+
+8. Margonis A., Christou A., Oberst J. (2018) Observations of meteors in the Earth’s atmos-
+phere: Reducing data from dedicated double-station wide-angle cameras. Astronomy and  
+Astrophysics. 618(99). pp. 1–11. doi: 10.1051/0004-6361/201832927 
+
+9. Plane J.M.C. (2012) Cosmic dust in the Earth’s atmosphere. Chemical Society Reviews. 
+41(19). pp. 6507–6518. doi: 10.1039/C2CS35132C 
+
+10. Carrillo-Sanchez J., Nesvorny` D., Pokorny` P., Janches D., Plane J. (2016) Sources of  
+cosmic dust in the Earth’s atmosphere. Geophysical Research Letters. 43. pp. 11–19. doi: 
+10.1002/2016GL071697 
+
+11. Genge M.J., Larsen J., Van Ginneken M., Suttle M.D. (2017) An urban collection of modern-
+day large micrometeorites: Evidence for variations in the extraterrestrial dust flux through 
+the Quaternary. Geology. 45. pp. 119–122. doi: 10.1130/G38352.1 
+
+12. Campbell-Brown M., Koschny D. (2004) Model of the ablation of faint meteors. Astronomy 
+& Astrophysics. 418. pp. 751–758. doi: 10.1051/0004-6361:20041001-1 
+
+120 
+
+
+
+Ефремов В.В., Попова О.П., Глазачев Д.О. и др. Абляция мелких метеорных тел 
+
+13. Kikwaya J.-B., Campbell-Brown M., Brown P. (2011) Bulk density of small meteoroids. 
+Astronomy & Astrophysics. 530(113). pp. 1–17. doi: 10.1051/0004-6361/201116431 
+
+14. Borovicka J., Macke R.J., Campbell-Brown M.D. (2019) Physical and chemical properties  
+of meteoroids. In: Meteoroids: Sources of Meteors on the Earth and Beyond. Cambridge: 
+Cambridge University Press. pp. 37–62. doi: 10.1080/00107514.2020.1736170 
+
+15. Leybenzon L.S. (1953) Sobranie trudov. Tom 2. Podzemnaya gidrogazodinamika [Collected 
+papers. Volume 2. Underground gas- and hydrodynamics]. Moscow: Izdatel’stvo ANSSR. 
+
+16. Zolensky M., Nakamura-Messenger K., Rietmeijer F. (2008) Comparing Wild 2 particles  
+to chondrites and IDPs. Meteoritics & Planetary Science. 43 pp. 261–272. doi: 10.1111/j.1945-
+5100.2008.tb00621.x 
+
+17. Patzold M., Andert T.P., Hahn M. (2019) The nucleus of comet 67P/Churyumov– Gerasi-
+menko. Part I: The global view–nucleus mass, mass-loss, porosity, and implications. Monthly 
+Notices of the Royal Astronomical Society. 483. pp. 2337–2346. doi: 10.1093/mnras/sty3171 
+
+18. Rietmeijer F.J. (2004) Dynamic pyrometamorphism during atmospheric entry of large  
+(10 micron) pyrrhotite fragments from cluster IDPs. Meteoritics & Planetary Science. 39.  
+pp. 1869–1887. doi: 10.1111/j.1945-5100.2004.tb00082.x 
+
+19. Matlovič P., Tóth J., Kornoš L., Loehle S. (2020) On the sodium enhancement in spectra of 
+slow meteors and the origin of Na-rich meteoroids. Icarus. 347. Article 113817. pp. 1–17. 
+doi: 10.1016/j.icarus.2020.113817 
+
+20. Efremov V., Popova O., Glazachev D., Margonis A., Oberst J., Kartashova A. (2021) Small 
+meteor ablation model: applying to Perseid observations. Contributions of the Astronomical 
+Observatory Skalnate Pleso. 51. pp. 186–206. doi: 10.31577/caosp.2021.51.3.186 
+
+21. Costa G.C.C., Jacobson N.S., Fegley Jr.B. (2017) Vaporization and thermodynamics of  
+forsterite-rich olivine and some implications for silicate atmospheres of hot rocky exoplanets. 
+Icarus. 289. pp. 42–55. doi: 10.1016/j.icarus.2017.02.006 
+
+22. Jenniskens P. (2006) Meteor Showers and Their Parent Comets. Cambridge: Cambridge 
+University Press. doi: 10.1017/CBO9781316257104 
+
+23. Vida D., Brown P.G., Campbell-Brown M. (2018) Modelling the measurement accuracy of 
+preatmosphere velocities of meteoroids. Monthly Notices of the Royal Astronomical Society. 
+479(4). pp. 4307–4319. doi: 10.1093/mnras/sty1841 
+
+24. Sekanina Z., Chodas P.W. (2012) Comet C/2011 W3 (Lovejoy): Orbit determination,  
+outbursts, disintegration of nucleus, dust-tail morphology, and relationship to new cluster  
+of bright sungrazers. The Astrophysical Journal. 757. pp. 127–160. doi: 10.1088/0004-
+637X/757/2/127 
+
+25. Kimura H., Ishimoto H., Mukai T. (1997) A study on solar dust ring formation based on 
+fractal dust models. Astronomy and Astrophysics. 326(1). pp. 263–270. 
+
+26. Jacchia L., Verniani F., Briggs R.E. (1967) An analysis of the atmospheric trajectories of  
+413 precisely reduced photographic meteors. Smithsonian Contributions to Astrophysics. 
+10(1). pp. 1–139. doi: 10.5479/si.00810231.10-1.1 
+
+27. Verniani F. (1965) On the luminous efficiency of meteors. Smithsonian Contributions  
+to Astrophysics. 8(5). pp. 141–171. doi: 10.5479/si.00810231.8-5.141 
+
+28. Fleming D., Hawkes R., Jones J. (1993) Light Curves of Faint Television Meteors. In: Mete-
+oroids and their Parent Bodies. Bratislava: Astronomical Institute SAS. pp. 261–264.  
+
+29. Bellot Rubio L.R., Martínez González M.J., Ruiz Herrera L., Licandro J., Martínez-Delgado D., 
+Rodríguez-Gil P., Serra-Ricart M. (2002) Modeling the photometric and dynamical behavior 
+of Super-Schmidt meteors in the Earth’s atmosphere. Astronomy & Astrophysics. 389.  
+pp. 680–691. doi: 10.1051/0004-6361:20020672 
+
+30. Babadzhanov P., Kokhirova G. (2009) Densities and porosities of meteoroids. Astronomy & 
+Astrophysics. 495. pp. 353–358. doi: 10.1051/0004-6361:200810460 
+
+31. Hornung K., Merouane S., Hilchenbach M. (2016) A first assessment of the strength of come-
+tary particles collected in-situ by the COSIMA instrument onboard ROSETTA. Planetary 
+and Space Science. 133. pp. 63–75. doi: 10.1016/j.pss.2016.07.003 
+
+121 
+
+
+
+Механика / Mechanics 
+
+Сведения об авторах: 
+Ефремов Владимир Владимирович – младший научный сотрудник Института динамики 
+геосфер им. академика М.А. Садовского Российской академии наук, Москва, Россия. E-mail: 
+efremov.vv@phystech.edu 
+Попова Ольга Петровна – кандидат физико-математических наук, старший научный 
+сотрудник Института динамики геосфер им. академика М.А. Садовского Российской ака-
+демии наук, Москва, Россия. E-mail: olga@idg.chph.ras.ru 
+Глазачев Дмитрий Олегович – научный сотрудник Института динамики геосфер  
+им. академика М.А. Садовского Российской академии наук, Москва, Россия. E-mail:  
+glazachevd@gmail.com 
+Маргонис Анастасиос – Кандидат наук, Берлинский технический университет, Институт 
+геодезии и геоинформатики, Берлин, Германия. E-mail: anastasios.margonis@tu-berlin.de 
+Оберст Юрген – Профессор, Берлинский технический университет, Институт геодезии  
+и геоинформатики, Берлин, Германия. E-mail: juergen.oberst@tu-berlin.de 
+Карташова Анна Петровна – кандидат физико-математических наук, старший научный 
+сотрудник Института астрономии Российской академии наук, Москва, Россия. E-mail: 
+akartashova@inasan.ru 
+ 
+Information about the authors: 
+Efremov Vladimir V. (Junior Researcher, Sadovsky Institute of Geosphere Dynamics of Rus-
+sian Academy of Sciences, Moscow, Russian Federation). E-mail: efremov.vv@phystech.edu 
+Popova Olga P. (Candidate of Physics and Mathematics, Sadovsky Institute of Geosphere Dynamics 
+of Russian Academy of Sciences, Moscow, Russian Federation). E-mail: olga@idg.chph.ras.ru 
+Glazachev Dmitry O. (Researcher, Sadovsky Institute of Geosphere Dynamics of Russian 
+Academy of Sciences, Moscow, Russian Federation). E-mail: glazachevd@gmail.com 
+Margonis Anastasios (Doctor of Engineering, Technical University Berlin, Institute of Geodesy 
+and Geoinformation Science, Berlin, Germany. E -mail: anastasios.margonis@tu-berlin.de 
+Oberst Jurgen (Professor., Doctor of Natural Sciences, Chair of Planetary Geodesy, Technical 
+University Berlin, Institute of Geodesy and Geoinformation Science, Berlin, Germany). E -mail: 
+juergen.oberst@tu-berlin.de 
+Kartashova Anna P. (Candidate of Physics and Mathematics, Institute of Astronomy of Russian 
+Academy of Sciences, Moscow, Russian Federation). E -mail: akartashova@inasan.ru 
+ 
+
+Статья поступила в редакцию 14.06.2022; принята к публикации 03.02.2023 
+ 
+
+The article was submitted 14.06.2022; accepted for publication 03.02.2023 
+ 
+
+ 
+
+122

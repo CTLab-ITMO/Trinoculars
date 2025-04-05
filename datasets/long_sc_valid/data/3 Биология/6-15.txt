@@ -1,0 +1,760 @@
+﻿ВОПРОСЫ ВИРУСОЛОГИИ. 2020; 65(1)
+DOI: https://doi.org/10.36233/0507-4088-2020-65-1-6-15
+ОБЗОРЫ
+
+ОБЗОРЫ
+
+© КОЛЛЕКТИВ АВТОРОВ, 2020
+
+Этиология эпидемической вспышки COVID-19 в г. Ухань 
+(провинция Хубэй, Китайская Народная Республика), 
+ассоциированной с вирусом 2019-nCoV (Nidovirales,  
+Coronaviridae, Coronavirinae, Betacoronavirus,  
+подрод Sarbecovirus): уроки эпидемии SARS-CoV
+Львов Д.К., Альховский С.В., Колобухина Л.В., Бурцева Е.И.
+Институт вирусологии им. Д.И. Ивановского ФГБУ «Национальный центр эпидемиологии и микробиологии  
+им. почётного академика Н.Ф. Гамалеи» Минздрава России, 123098, г. Москва, Россия
+
+Результаты сравнительного филогенетического, вирусологического, эпидемиологического, экологического 
+и клинического изучения тяжёлого острого респираторного синдрома (ТОРС) (SARS-2002), ближневосточ-
+ного респираторного синдрома (БВРС) (MERS-2012) и эпидемической вспышки острого респираторного 
+заболевания (COVID-19) в 2019–2020 гг. в г. Ухань (Хубэй, Китайская Народная Республика, КНР) позволили 
+сделать следующие выводы: 
+– этиологическим агентом COVID-19 является коронавирус (вирус 2019-CoV), филогенетически близкий к 
+
+возбудителю ТОРС (вирус SARS-related human CoV) и родственным ему коронавирусам, изолированным 
+от летучих мышей (вирусы SARS-related bat CoV). Эти вирусы относятся к подроду Sarbecovirus рода Be-
+tacoronavirus, подсемейства Orthocoronavirinae, семейства Coronaviridae (Cornidovirinea: Nidovirales). Сле-
+довательно, эпидемическая вспышка острого респираторного заболевания COVID-19 является вариантом 
+ТОРС (КНР, 2002) и отличается от БВРС (Саудовская Аравия, 2012), вызванного другим коронавирусом, 
+относящимся к подроду Merbecovirus того же рода;
+
+– cогласно результатам филогенетического анализа 35 различных бетакоронавирусов (Betacoronavirus), 
+изолированных в 2002–2019 гг. от людей и из природных источников, природным резервуаром коронави-
+руса 2019-nCoV, также как и вируса SARS-related human CoV, являются летучие мыши рода Rhinolophus 
+(Rhinolophidae), но, возможно, и представители других родов. Дополнительным резервуаром вируса мо-
+гут служить употребляемые в пищу промежуточные виды животных (змеи, циветты, ежи, барсуки и т.д.), 
+заражение которых происходит при поедании инфицированных летучих мышей. SARS-подобные вирусы 
+циркулировали среди летучих мышей в межэпидемическом периоде (2003–2019 гг.);
+
+– сезонные коронавирусы (подрод Duvinacovirus, род Alphacoronavirus) циркулируют в настоящее время (но-
+ябрь 2019 г. – январь 2020 г.) в Европейской части, на Урале, в Сибири и на Дальнем Востоке России, 
+наряду с вирусами гриппа А (H1N1)pdm09, A (H3N2) и В, а также другими шестью вирусами, вызывающи-
+ми острые респираторные вирусные инфекции (вирус парагриппа, респираторно-синцитиальный вирус, 
+адено-, рино-, бока-, и метапневмовирусы).
+
+Ключевые слова: обзор; коронавирус; Betacoronavirus; ТОРС, БВРС, SARS-CoV; MERS-CoV; 2019-nCoV;  
+COVID-19, летучие мыши; экология; секвенирование; филогенетика.
+
+Для цитирования: Львов Д.К., Альховский С.В., Колобухина Л.В., Бурцева Е.И. Этиология эпидемической вспыш-
+ки COVID-19 в г. Ухань (провинция Хубэй, Китайская Народная Республика), ассоциированной с вирусом 2019-
+CoV (Nidovirales, Coronaviridae, Coronavirinae, Betacoronavirus, подрод Sarbecovirus): уроки эпидемии SARS-CoV.  
+Вопросы вирусологии. 2020; 65(1): 6-15. 
+DOI: https://doi.org/10.36233/0507-4088-2020-65-1–6-15    
+Для корреспонденции: Львов Дмитрий Константинович, д-р мед. наук, проф., академик РАН, руководитель от-
+дела экологии вирусов с научно-практическим центром по экологии и эпидемиологии гриппа, Институт вирусоло-
+гии им. Д.И. Ивановского ФГБУ «Национальный центр эпидемиологии и микробиологии им. почётного академика  
+Н.Ф. Гамалеи» Минздрава России, 123098, г. Москва. E-mail: dk_lvov@mail.ru
+Финансирование. Исследование не имело спонсорской поддержки.
+Конфликт интересов. Авторы заявляют об отсутствии конфликта интересов.
+Поступила 20.01.20
+Принята в печать 29.01.20
+
+6
+
+
+
+PROBLEMS OF VIROLOGY. 2020; 65(1)
+DOI: https://doi.org/10.36233/0507-4088-2020-65-1-6-15
+
+REVIEWS
+
+Etiology of epidemic outbreaks COVID-19 in Wuhan, Hubei province, Chinese 
+People Republic associated with 2019-nCoV (Nidovirales, Coronaviridae, 
+Coronavirinae, Betacoronavirus, Subgenus Sarbecovirus): lessons of SARS-CoV 
+outbreak 
+Lvov D.K., Alkhovsky S.V., Kolobukhina L.V., Burtseva E.I.
+D.I. Ivanovsky Institute of Virology of  National Research Centre for Epidemiology and Microbiology named after the 
+honorary academician N.F. Gamaleya, Moscow, 123098, Russia
+Results of analysis of phylogenetic, virological, epidemiological, ecological, clinical data of COVID-19 outbreaks in 
+Wuhan, China (PRC) in comparison with SARS-2002 and MERS-2012 outbreaks allow to conclude: 
+– the etiological agent of COVID-19 is coronavirus (2019-CoV), phylogenetically close to the SARS-CoV, isolated 
+
+from human, and SARS-related viruses isolated from bats (SARS-related bat CoV viruses). These viruses 
+belong to the Sarbecovirus subgenus, Betacoronavirus genus, Orthocoronavirinae subfamily, Coronaviridae 
+family (Cornidovirinea: Nidovirales). COVID-19 is a variant of SARS-2002 and is different from MERS-2012 
+outbreak, which were caused by coronavirus belonged to the subgenus Merbecovirus of the same genus;
+
+– according to the results of phylogenetic analysis of 35 different betacoronaviruses, isolated from human and 
+from wild animals in 2002-2019, the natural source of COVID-19 and SARS-CoV (2002) is bats of Rhinolophus 
+genus (Rhinolophidae) and, probably, some species of other genera. An additional reservoir of the virus could be 
+an intermediate animal species (snakes, civet, hedgehogs, badgers, etc.) that are infected by eating of infected 
+bats. SARS-like coronaviruses circulated in bats in the interepidemic period (2003-2019);
+
+– seasonal coronaviruses (subgenus Duvinacovirus, Alphacoronavirus) are currently circulating (November 2019 
+– January 2020) in the European part of Russia, Urals, Siberia and the Far East of Russia, along with the in-
+fluenza viruses A(H1N1)pdm09, A(H3N2), and В, as well as six other respiratory viruses (HPIV, HAdV, HRSV, 
+HRV, HBoV, and HMPV)
+
+Keywords: review; Coronaviridae; Betacoronavirus; SARS-CoV; MERS-CoV; 2019-nCoV; COVID-19, bats; ecology;  
+sequencing; phylogenetic.
+
+For citation: Lvov D.K., Alkhovsky S.V., Kolobukhina L.V., Burtseva E.I. Etiology of epidemic outbreaks COVID-19 on 
+Wuhan, Hubei province, Chinese People Republic associated with 2019-nCoV (Nidovirales, Coronaviridae, Corona-
+virinae, Betacoronavirus, Subgenus Sarbecovirus): lessons of SARS-CoV outbreak. Voprosy Virusologii (Problems of 
+Virology, Russian journal). 2020; 65(1): 6-15.
+DOI: https://doi.org/10.36233/0507-4088-2020-65-1-6-15
+For correspondence: Dmitry K. Lvov, Doctor of Medical Sciences, Professor, Academician of RAS, Head of the Depart-
+ment of Ecology of Viruses, Head of Ecology and Epidemiology of Influenza Center, D.I. Ivanovsky Institute of Virology 
+of National Research Centre for Epidemiology and Microbiology named after the honorary academician N.F. Gamaleya, 
+Moscow, 123098, Russia. E-mail: dk_lvov@mail.ru. 
+Information about authors:
+Lvov D.K., https://orcid.org/0000-0001-8176-6582
+Alkhovsky S.V., https://orcid.org/0000-0001-6913-5841
+Kolobukhina L.V., https://orcid.org/0000-0001-5775-3343
+Burtseva E.I., https://orcid.org/0000-0003-2518-6801
+Acknowledgments. The study had no sponsorship. 
+Conflict of interest. The authors declare no conflict of interest.
+Received 20 January 2020
+Accepted 29 January 2020
+
+Введение дируют структурные белки вириона и вспомогатель-
+Коронавирусы (CoV; семейство Coronaviridae) ные неструктурные белки. В настоящее время к отря-
+
+принадлежат к отряду Nidovirales, который объеди- ду Nidovirales относятся три семейства. Современная 
+няет крупные оболочечные РНК-содержащие виру- таксономия семейства Coronaviridae включает два 
+сы. На фотографиях, полученных с использованием подсемейства и 8 родов [1–5]. Коронавирусы рас-
+криогенной электронной микроскопии, вирион коро- пространены повсеместно и инфицируют млекопита-
+навирусов имеет практически сферическую форму ющих (включая человека), птиц, рыб, ракообразных 
+(120–160 нм) с характерными выростами – пепломе- и насекомых (табл. 1, см. рис. 1). Природным резерву-
+рами (15–20 нм), формирующими зубчатое обрамле- аром ряда коронавирусов из родов Alpha- и Betacoro-
+ние вокруг вирионов (отсюда название: коронавиру- navirus являются летучие мыши (отряд рукокрылые, 
+сы, от лат. Corona). Геном коронавирусов представлен Chiroptera) родов Chaerophon, Eptesicus, Glossophaga, 
+одноцепочечной РНК позитивной полярности длиной Myotis, Miniopterus, Nyctalus, Pipistrellus, Rhinolophus, 
+около 30 тыс. н.о., что является максимальным разме- Rousettus, Tylonycteris.
+ром среди всех известных РНК-содержащих вирусов. Коронавирусы человека (штамм HCoV229E, Al-
+Геном коронавирусов имеет сложную генную органи- phacoronavirus) впервые были выделены D. Tyrrell 
+зацию (рис. 1). Бόльшую часть генома с 5’-стороны и M. Bynoe в 1965 г. от больных острыми респиратор-
+занимают гены 1а и 1b, которые транслируются в ви- ными вирусными инфекциями (ОРВИ). Ряд вирусов 
+де одного полипротеина pp1a1b (ORF1ab) и кодируют родов Alpha- и Betacoronavirus вызывают тяжёлые 
+белки репликазного комплекса. Многочисленные ге- инфекции животных: свиней (трансмиссивный га-
+ны, расположенные в оставшейся 3’-части генома, ко- строэнтерит, эпизоотическая диарея, торовирусная 
+
+7
+
+
+
+ВОПРОСЫ ВИРУСОЛОГИИ. 2020; 65(1)
+DOI: https://doi.org/10.36233/0507-4088-2020-65-1-6-15
+ОБЗОРЫ
+
+Таблица 1. Таксономическая структура подсемейства Orthocoronavirinae семейства Coronaviridae (подотряд Cornidovirineae, отряд Nido-
+virales) 
+Table 1. Taxonomy of the subfamily Orthocoronavirinae (Coronaviridae family,suborder Cornidovirineae, order Nidovirales)
+
+Род Подрод Вид Вирусы Хозяева
+Genus Subgenus Species Viruses Hosts
+
+Alphacoronavirus Colacovirus Bat coronavirus CDPHE15 Bat coronavirus CDPHE15/USA/200 Млекопитаю-
+Myotis lucifugus coronavirus щие (человек, 
+
+Decacovirus Bat coronavirus HKU10 Hipposideros bat coronavirus HKU10 летучие мыши, 
+Rousettus bat coronavirus HKU10  свиньи, собаки, 
+
+Rhinolophus ferrumequinum BtMs-AlphaCoV/GS2013 кошки, лошади, 
+alphacoronavirus HuB-2013 BtRf-AlphaCoV/HuB2013 мыши)
+
+Mammals 
+Duvinaco- Human coronavirus 229E Alfa CoV1 (human, bats, 
+virus HCoV229E-human coronavirus 229E pigs, dogs, cats, 
+Luchacovirus Lucheng Rn rat coronavirus Lucheng Rn rat coronavirus horses, mice)
+Minacovirus Ferret coronavirus Ferret enteric coronavirus 
+
+Mink coronavirus 1
+Minunaco- Miniopterus bat coronavirus 1 Mi-BatCoV1 (Minipterus bat coronavirus 1)
+virus Miniopterus bat coronavirus HKU8 Miniopterus bat coronavirus HKU8
+Myotacovirus Myotis ricketti alphacoronavirus Nyctalus velutinus alphacoronavirus SC-2013
+
+Sax-2011
+Nyctacovirus Nyctalus velutinus alphacoronavirus Nyctalus velutinus alphacoronavirus SC-2013
+
+SC-2013
+Pedacovirus Porcine epidemic diarrhea virus PEDV (porcine epidemic diarrhea virus) и др.
+
+Scotophilus bat coronavirus 512 Bat coronavirus (BtCoV/512/2005)
+Rhinacovirus Rhinolophus bat coronavirus HKU2 Bat coronavirus HKU2
+Setracovirus Human coronavirus NL63 Human coronavirus 1196/2001/NL  
+
+NL63-related bat coronavirus strain NL63-related bat coronavirus
+BtKYNL63-9b
+
+Tegacovirus Alphacoronavirus 1 Canine coronavirus 
+Feline coronavirus
+Swine enteric coronavirus
+Transmissible gastroenteritis virus 
+
+Betacoronavirus Embecovirus China Rattus coronavirus HKU24 Rat coronavirus HKU24 Млекопита-
+Human coronavirus HKU Human coronavirus OC 43, ющие (чело-
+Murine coronavirus Murine coronavirus век, крупный 
+
+рогатый скот, 
+Hibecovirus Bat Hp-betacoronavirus Zheji- Bat Hp-betacoronavirus Zhejiang2013 верблюды, 
+
+ang2013 лошади, сви-
+Merbecovirus Hedgehog coronavirus 1 Betacoronavirus Erinaceus/VMC/DEU/2012 ньи, барсуки, 
+
+Middle East respiratory syndrome- MERS-CoV циветты, мыши, 
+related coronavirus MERS-CoV-related bat Pipistrellus kuhlii летучие мыши)
+
+Italy 2011, Mammals (hu-
+MERS-CoV-related Bat Hypsigo savii Italy 2011, man, cattle, cam-
+MERS-CoV-related Camelus dromedaries els, horses, pigs, 
+Saudi Arabia 2013 и др. badgers, civets, 
+
+mice, bats)
+Pipistrellus bat coronavirus HKU5 Bat coronavirus HKU5-1
+Tylonycteris bat coronavirus HKU4 Bat coronavirus HKU4-1 
+
+Nobecovirus Rousettus bat coronavirus GCCDC1 Rousettus bat coronavirus   
+Rousettus bat coronavirus HKU9 Bat coronavirus HKU9-1 
+
+Sarbecovirus Severe acute respiratory syndrome- Wuhan seafood market coronavirus 
+related coronavirus 2019-nCoV
+
+SARS-related human coronavirus Urbani,
+SARS-related Rhinolophus bat coronavirus 
+Rp3/2004,
+SARS-related Rhinolophus bat coronavirus 
+RF1/2007,
+SARS-related Rhinolophus bat coronavirus 
+Rm1/2005,
+SARS-related Rhinolophus bat coronavirus 
+HKU3/24/2005,
+SARS-related palm civet coronavirus 
+SZ/2003,
+SARS-related Chinese ferret badger corona-
+virus, CFB/Sz/94/03 и др.
+
+Продолжение табл. 1 см. на стр. 9
+
+8
+
+
+
+PROBLEMS OF VIROLOGY. 2020; 65(1)
+DOI: https://doi.org/10.36233/0507-4088-2020-65-1-6-15
+
+REVIEWS
+
+Род Подрод Вид Вирусы Хозяева
+Genus Subgenus Species Viruses Hosts
+
+Deltacoronavirus Andecovirus Wigeon coronavirus HKU20 Infectious bronchitis virus Beaudette Птицы
+Buldecovirus Bulbul coronavirus HKU11 BuCoV HKU11 (bulbul coronavirus) Birds
+
+Coronavirus HKU15 Porcine coronavirus HKU15 
+Munia coronavirus HKU13 Munia coronavirus HKU13
+White-eye coronavirus HKU16 White-eye coronavirus HKU16
+
+Herdecovirus Night heron coronavirus HKU19 Night-heron coronavirus HKU19
+Moordeco- Common moorhen coronavirus Common-moorhen coronavirus HKU21
+virus HKU21
+
+Gammacorona- Cegacovirus Beluga whale coronavirus SW1 Beluga whale coronavirus SW1 Киты
+virus Whales
+
+Igacovirus Avian coronavirus ACoV (avian coronavirus) Птицы
+Birds
+
+Рис. 1. Структура генома коронавируса 2019-nCoV. Геном представлен одноцепоченой РНК позитивной полярности. Большую 
+часть генома с 5’-стороны занимают гены 1а и 1b, которые транслируются в виде одного полипротеина (ORF1ab) и кодируют белки 
+репликазного комплекса (РНК-зависимая РНК-полимераза, протеаза, хеликаза, праймаза и др.). Многочисленные гены, расположен-
+
+ные в оставшейся 3’-части генома, кодируют структурные белки вириона (S, E, M, N) и вспомогательные неструктурные белки.
+Fig. 1. Genome organization of new 209-nCoV virus. The genome of the virus is ss(+)RNA. The majority of the genome at the 5’ part is 
+occupied by 1a and 1b ORF, which are translated as a single polyprotein (ORF1ab) and encode proteins of the replicase complex (RNA-
+dependent RNA polymerase, protease, helicase, primase, etc.). The genes located in the 3’ part of the genome encode structural proteins  
+
+of the virion (S, E, M, N) and non-structural auxiliary proteins. 
+
+диарея), крупного рогатого скота (диарея, пораже- navirus (см. табл. 1). Заболевание, впервые возникшее 
+ние респираторного тракта ), лошадей (торовирусная в ноябре 2002 г. в китайской провинции Гуандун, было 
+инфекция Берне), собак (энтерит), кошек (инфекци- описано итальянским врачом C. Urbani, заразившим-
+онный перитонит), мышей и крыс (инфекционный ся и погибшим в процессе лечения пациентов. Прото-
+гепатит, сиалодакриоаденит), птиц (инфекционный типный штамм выделенного вируса получил название 
+бронхит кур) [1–8]. Неклассифицированный коронапо- в его честь [12]. Источником заражения людей, вероят-
+добный вирус Рунде (RNDV) был изолирован в 1977 г. но, стали употребляемые в пищу гималайские цивет-
+из клещей Ixodes uriae, собранных в гнездовых коло- ты Paguma  larrata [13], а также енотовидные собаки 
+ниях морских птиц на о. Рунде (север Норвегии) [9]. Nyctereutes procyonoides, бирманские хорьковые барсу-
+
+Сезонная коронавирусная инфекция у людей реги- ки Melogale  personata и др. [1, 14, 15]. Однако даль-
+стрируется в течение года, преимущественно среди нейшие исследования показали, что природные очаги 
+детей младшего возраста, с эпидемическим подъёмом вируса SARS-CoV, как и многих других коронавиру-
+зимой и ранней весной. Коронавирусная инфекция сов, связаны с представителями отряда рукокрылых 
+ассоциирована с несколькими вирусами (HCoV229E, (Chiroptera), в первую очередь с летучими мышами. 
+HCoV–HKU1, HCoV-NL63, HCoV-OC43) рода Al- От летучих мышей SARS-CoV-подобные вирусы изо-
+phacoronavirus (см. табл. 1) [2]. Среди других возбу- лировали, в основном от подковоносов Rhinolophus, 
+дителей ОРВИ коронавирусная инфекция составляет а также от видов, принадлежащих к другим родам, 
+до 10% и часто является причиной внутригоспиталь- в Азии (прежде всего в Китае), Африке, Австралии, 
+ных вспышек в детских клиниках. Как правило, се- Европе, Америке [1, 2, 14, 16–23]. Популяционный 
+зонные коронавирусы поражают эпителий верхних транзит SARS-CoV-подобных коронавирусов проис-
+дыхательных путей и желудочно-кишечного тракта, ходит от летучих мышей (природные очаги) к мелким 
+обладая также нейротропностью. Инкубационный млекопитающим, употребляющим их в пищу (эколо-
+период – 2–3 сут; начало острое, с сухим кашлем, пер- гически связанным с ними) с дальнейшим распростра-
+шением в горле, лихорадкой, ринитом, иногда с диа- нением среди людей, главным образом респираторным 
+реей с благоприятным исходом [10, 11]. путём, реже – алиментарным.
+
+По данным Всемирной организации здравоох-
+Тяжёлый острый респираторный синдром 
+
+(ТОРС, SARS) ранения (ВОЗ), к августу 2003 г. было зарегистри-
+ровано 8098 случаев ТОРС с 4–11% летальностью 
+
+Возбудитель ТОРС (вирус SARS-related human coro- [24]. Наибольшее количество заболевших выявлено 
+navirus Urbani – SARS-CoV) относится к роду Betacoro- в Китайской Народной Республике (КНР), Сингапу-
+
+9
+
+
+
+ВОПРОСЫ ВИРУСОЛОГИИ. 2020; 65(1)
+DOI: https://doi.org/10.36233/0507-4088-2020-65-1-6-15
+ОБЗОРЫ
+
+ре и Канаде. Распространение вируса происходило ским работникам, тесно контактирующим с больны-
+из Юго-Восточной Азии по международным авиали- ми. Клиническая картина при БВРС принципиально 
+ниям в связи с коротким инкубационным периодом не отличается от ТОРС. Возбудитель БВРС (вирус 
+(2–3 сут) [24–27]. Распространение заболевания про- MERS-CoV) также относится к роду Betacoronavirus, 
+исходило в основном в госпитальных условиях. Один подроду Merbecovirus (см. табл. 1).
+больной в среднем заражал трёх-четырёх контакт- Следует иметь в виду, что ряд видов отряда руко-
+ных лиц [28]. 60% всех летальных случаев пришлось крылых (Chiroptera), подобно птицам, осуществляют 
+на медицинских работников. При тяжёлых формах ежегодные сезонные миграции, зимуя в том числе 
+с пневмонией развивается диффузное поражение аль- в пределах ареала природных очагов вируса БВРС 
+веол за счёт нарушения целостности их стенок, повы- [36]. Таким образом, вирус, помимо экспорта с инфи-
+шения проницаемости капиллярной мембраны с по- цированными людьми, может попасть на территорию 
+следующим отёком лёгких, развиваются гипоксия, РФ и с летучими мышами. Не случайно все эпидеми-
+артериальная гипоксемия, респираторный ацидоз ческие вспышки возникали осенью, в период мигра-
+и алкалоз [26, 29, 30]. В основе патогенеза острого по- ции летучих мышей. Такая же ситуация характерна 
+вреждения лёгких лежит пропотевание плазмы и фор- для вспышек новых вариантов гриппа птиц, которые 
+менных элементов крови в альвеолы и интерстиций происходят во время или после массовой миграции, 
+лёгких. когда наблюдаются высокая концентрация животных 
+
+Начало болезни острое: озноб, температура те- в местах зимовок и перемешивание популяций. 
+ла 38–39 °С, головная боль, слабость, мышечные бо-
+ли, кашель, боли в горле, ринит [29]. На 3-й – 7-й день Новый коронавирус 2019-nCoV (COVID-19)
+болезни развивается респираторная фаза с признака- Вспышка заболевания зарегистрирована в дека-
+ми поражения нижних дыхательных путей, с усиле- бре 2019 г. в г. Ухань (провинция Хубэй, КНР) [37], 
+нием кашля, появлением одышки, чувства нехватки хотя первые случаи были зафиксированы ещё в ноя-
+воздуха. При аускультации на фоне ослабленного бре 2019 г. Вспышка имеет тенденцию к распростра-
+дыхания прослушивают влажные хрипы. Нарастают нению на другие 30 городов КНР, включая Пекин 
+гипоксия и гипоксемия. На рентгенограмме выявля- и Шанхай [38]. Инфицированные пациенты выявле-
+ются мультифокальные, имеющие тенденцию к слия- ны не менее чем в 40 странах Азии, Америки, Европы 
+нию инфильтраты. В 1/3 случаев появляются признаки и Австралии; в Российской Федерации выявлены два 
+поражения желудочно-кишечного тракта: тошнота, случая. В КНР и ряде других стран к 01.03.2020 заре-
+рвота, диарея. В 10% случаев развивается синдром гистрировано более 80 тыс. случаев с 2,0% летально-
+острого повреждения лёгких с сухим кашлем, одыш- стью. В Ухане и ещё в 17 городах объявлен карантин, 
+кой, тахипноэ и тахикардией, высокой температурой, туда направлено дополнительно порядка 4000 меди-
+снижением артериального давления, угнетённым ды- цинского персонала, включая 450 военных врачей, 
+ханием, сменой алкалоза на ацидоз, нарастанием отё- за 2 нед построены две современные боксированные 
+ка лёгких, острой дыхательной недостаточностью больницы, каждая на 1000 коек. В КНР предприняты 
+с неблагоприятным исходом. Хотя специфических быстрые и жёсткие меры, направленные на ограни-
+антивирусных препаратов в настоящее время не раз- чение распространения инфекции и минимизацию 
+работано, в нескольких исследованиях показано, что последствий. Между тем Минсельхоз КНР объявил 
+коронавирусы чувствительны к высоким дозам ин- о новой вспышке гриппа А (H5N1) среди домаш-
+терферона (препараты Вэллферон, Бетаферон, интер- них птиц в провинции Хунань, пограничной с Хубэй 
+ферон альфа-2b  и др.) и рибавирина [31, 32]. (случаев заболевания людей пока не выявлено). ВОЗ 
+
+на 30.01.2020 объявила чрезвычайную медицинскую 
+Ближневосточный респираторный синдром ситуацию на международном уровне.
+
+(БВРС, MERS-CoV) Первичным источником инфекции на первом эта-
+Первые случаи заболевания БВРС у людей бы- пе исследований считали морепродукты на пищевом 
+
+ли зарегистрированы в восточной части Саудовской рынке, где продают много других продуктов живот-
+Аравии в сентябре 2012 г. Завозные случаи выявлены ного происхождения, в частности змей (вторая гипо-
+в других странах Ближнего Востока (Иордания, Ка- теза о первичном источнике). Однако, как показывает 
+тар, Объединённые Арабские Эмираты), в Северной анализ данных по филогенетике выделенных штам-
+Африке (Тунис), в Европе (Франция, Германия, Ве- мов, первичным природным резервуаром, подобно 
+ликобритания, Италия) и в Америке (США, Канада) вирусам SARS-CoV и MERS-CoV, являются тяготею-
+[33]. Эпизодические случаи отмечены и в Саудовской щие к жилью человека виды летучих мышей (рис. 2). 
+Аравии. На декабрь 2019 г. подтверждены 2484 слу- Основное значение имеют подковоносы (Rhinilophi-
+чая, из которых 857 (34,5%) закончились летальным dae, Rhinolophus), в том числе большой подковонос 
+исходом. R. ferrumequinum (Schreber, 1775). Ареал большого 
+
+Заражение происходит через продукты жизнедея- подковоноса включает Европу, Крым, Кавказ, Сред-
+тельности летучих мышей, являющихся природным нюю Азию, Северную Африку, Северную Индию, Ки-
+резервуаром вируса, а также, возможно, через проме- тай, Корею и Японию [36]. В Российской Федерации 
+жуточных хозяев – верблюдов [34, 35]. Среди людей он распространён вплоть до 44°с.ш., образует коло-
+установлена прямая передача, особенно медицин- нии до 500 особей, обычно с трёхцветной ночницей 
+
+10
+
+
+
+PROBLEMS OF VIROLOGY. 2020; 65(1)
+DOI: https://doi.org/10.36233/0507-4088-2020-65-1-6-15
+
+REVIEWS
+
+Рис. 2. Филогенетическая структура рода Betacoronavirus (Coronaviridae: Nidovirales) с указанием положения нового коронавируса 
+2019-nCoV.
+
+Fig. 2. Phylogenetic tree of the Betacoronavirus genus. The strains of new coronavirus 2019-nCov are marked with dots.
+
+(Myotis emarginatus, E. Geoffroy, 1806), тяготеет к жи- му ведению тяжёлых больных, стандартному набору 
+лью человека, совершает сезонные миграции. В ме- документации и медицинских изделий для противо-
+стах зимовок скапливается до 500 особей, половину действия болезни [40, 41]; руководство по снижению 
+из них составляет молодняк, не имеющий иммуните- риска передачи инфекции от животных к человеку на 
+та к инфекциям. Вирусы выделены от летучих мышей рынках живых животных [39], по диагностическим 
+в 2011 г. (1), в 2012 г. (4), в 2013 г. (4), в 2015 г. (1), процедурам [40–43]. Использование лабораторных 
+в 2016 г. (2) и в 2017 г. (1). Это значит, что вирус про- методов (ОТ-ПЦР в реальном времени) абсолютно 
+должал циркулировать в КНР среди летучих мышей, необходимо, поскольку выявлены случаи инаппа-
+главным образом среди видов рода Rhinilophus в меж- рантного течения болезни [44]. 
+эпидемический период при отсутствии заболеваемо- В Российской Федерации на 4-й неделе 2020 г. 
+сти среди людей. В 2006–2014 гг. в КНР изолировали (с 20 по 26 января) активно циркулировали вирусы 
+три штамма Betacoronavirus от летучих мышей рода гриппа А (H1N1)pdm09, H3N2 и В с единичными 
+Rousettus (см. рис. 2). летальными исходами, а также другие возбудители 
+
+Европейское региональное бюро ВОЗ разработало ОРВИ: респираторно-синцитиальный вирус, ринови-
+ряд документов для обеспечения готовности стран русы, аденовирусы, вирус парагриппа, бокавирусы, 
+региона к противодействию новой опасности в случае метапневмовирусная и микоплазменная инфекции. 
+дальнейшего распространения вируса. Подготовлены Выявлены единичные находки сезонного представи-
+оценка экспресс-рисков по состоянию на 22.01.2020; теля коронавирусов (Alphacoronavirus) (данные Цен-
+рекомендации по определению случаев заболевания тра экологии и эпидемиологии гриппа Национально-
+для эпидемиологического надзора [39], клиническо- го центра по гриппу, сотрудничающего с ВОЗ, Ин-
+
+11
+
+
+
+ВОПРОСЫ ВИРУСОЛОГИИ. 2020; 65(1)
+DOI: https://doi.org/10.36233/0507-4088-2020-65-1-6-15
+ОБЗОРЫ
+
+12
+
+Таблица 2. ПЦР-диагностика в базовых лабораториях с 1 ноября 2019 г. по 31 января 2020 г. 
+Table 2. PCR-diagnostic of influenza and ARVI in Collaborative Centers (01.11.2019-31.01.2020) 
+Регион Федеральный Сотруднича- Грипп Острые респираторные вирусные инфекции
+Region округ ющий центр Influenza ARVI
+
+Federal district Сollaborative обсле- А H1N1 H3N2 В всего об- корона- пара- адено- респиратор- ри- бока- метапнев- всего 
+Center довано Pdm2009 положи- следо- вирусы* грипп вирусы но-синци- нови- вирусы мовирусы положи-
+
+(in- тельных вано (Alpha- (paraflu, (Adeno, тиальный русы (boca, (meta- тельных 
+vesti- (total (in- coronavi- HPIV) HAdV) вирус (Resp. (Rhino, HBoV) pneumo, (total 
+gated) positive) vesti- ruses) Syn., HRSV) HRV) HMPV) positive)
+
+gated) 
+Европей- Северо-Запад- Великий 299 - 2 - 3 5 86 - - - 5 - 5
+ская часть ный Новгород - -
+РФ Northwestern Viliky 
+European Novgorod
+part Центральный ЦЭЭГ 469 10 113 4 127 254 56 3 1 2 6 9 5 - 26
+
+Central Липецк 773 - 3 - 3 6 773 - 17 19 3 8 10 - 57
+Lipetsk
+Владимир 303 - 7 1 19 27 138- - 10 4 - 12 7 - 33
+Vladimir
+Ярославль 285 - 7 2 8 17 250 6 9 23 31 20 16 - 105
+Yaroslavl
+
+Приволжский Пенза 271 - 41 - 7 48 114 5 - 1 1 11 - - 18
+Volga Penza
+
+Чебоксары 374 - 17 - 16 33 0 - - - - - - - 0
+Cheboksary
+
+Урал Уральский Оренбург 1181 15 100 - 28 143 1181 25 13 4 45 76 13 4 180
+Ural Ural Orenburg
+Сибирь Западно- Томск        174 - 3 - 6 9 180 16 19 10 11 29 6 3
+Siberia Сибирский         Tomsk 94
+
+Siberian
+Дальний Дальневос- Владивосток 1420 - 24 39 363 426 1420 1 21 11 13 69 3 22 140
+Восток точный Vladivostok
+Far East Far Eastern Биробиджан 614 - 5 6 3 14 614 3 55 5 6 94 26 11 200
+
+Birobidzhan
+И т о г о : из числа обследованных, абс 6163 25 322 52 583 982 4872 59 145 79 121 334 86 40
+T o t a l : Total investigated 864
+
+из числа положительных, % 2,5 32,8 5,3 59,4 100 6,8 16,8 9,1 14,0 38,7 10,0 4,6 100
+Positive , %
+
+Примечание. *все случаи коронавирусной инфекции связаны с сезонными вирусами рода Alphacoronavirus. 
+Note. * All cases of coronavirus infection are associated with seasonal viruses of the genus Alphacoronavirus.
+
+
+
+PROBLEMS OF VIROLOGY. 2020; 65(1)
+DOI: https://doi.org/10.36233/0507-4088-2020-65-1-6-15
+
+REVIEWS
+
+Таблица 3. Сравнительные показатели заболеваемости и смертности людей от зоонозных вирусов, принадлежащих семействам  
+Coronaviridae (Betacoronavirus) и Orthomyxoviridae (Influenza A virus), в 2002–2019 гг.
+Table 3. Morbidity and mortality of humans associated with zoonotic viruses (Coronaviridae (Betacoronavirus), and Orthomyxoviridae  
+(Influenza A virus)) in 2002–2019
+
+Семейство Род Подрод Вирус Период,  Число  Летальность, Район возникно- Природный резервуар
+Family Genus Subgenus Virus годы заболевших % вения Natural source
+
+Period Number of Mortality, % Place of origin
+infected
+
+Coronaviri- Betacorona- Merbeco- MERS-CoV 2012–2019 2,5 тыс. 35 Саудовская Летучие мыши (Pip-
+dae virus virus 2,5 ths Аравия +  istrellus и др.)
+
+26 стран Bats (Pipistrellus and 
+Saudi Arabia + other)
+
+26 countries
+Sarbeco- SARS-relat- 2002–2003 8,5 тыс. 11 КНР + 20 стран Летучие мыши (Rhino-
+
+virus ed CoV 8,5 ths PRC + 20 coun- lophus и др.)
+tries Bats (Rhinolophus and 
+
+other)
+COVID-19 2019–... Более 90 тыс. 3 КНР+  Летучие мыши            
+
+More than  70 стран Bats (Rhinolophus and 
+90 ths PRC + 70 coun- other)
+
+tries
+Orthomyxo- Influenza H5N1 2003–2019 861 53 КНР + 17 стран Птицы  
+viridae virus A PRC + 17 coun- (водного комплекса)
+
+tries Water complex birds
+H5N6 2014–2019 24 29 КНР Птицы
+
+ PRC Birds
+H7N9 2013–2019 1568 39 КНР Птицы (водного ком-
+
+PRC плекса)
+Water complex birds
+
+H9N2 2015–2019 28 0 КНР Птицы (водного ком-
+PRC плекса)
+
+Water complex birds
+
+ститут вирусологии им. Д.И. Ивановского, НИЦЭМ Обсуждение
+им. Н.Ф. Гамалеи Минздрава России (ЦЭЭГ)) (табл. 2). Анализ данных по филогенетике возбудителей 
+
+Блестящая работа китайских вирусологов в крат- ТОРС (SARS), БВРС (MERS) и COVID-19 позволя-
+чайшие сроки обеспечила изоляцию возбудителя и его ет расценивать возникшую в декабре 2019 г. в Уха-
+молекулярно-генетическую характеристику после сек- не коронавирусную инфекцию как вариант ТОРС со 
+венирования полного генома (MN908947.3). Свобод- сравнимыми показателями вирулентности, развития 
+ный доступ к этим результатам позволил немедленно эпидемической ситуации и особенностями клиниче-
+разработать диагностические тест-системы, на основе ских проявлений. Генетическая близость вируса CO-
+ОТ-ПЦР в режиме реального времени. К концу янва- VID-19 с SARS-подобными вирусами летучих мышей 
+ря 2020 г. эти тест-системы, разработанные в вирусо- (SARS-related human coronavirus и SARS-related Rhi-
+логическом центре «Вектор» Роспотребнадзора, уже nolophus bat coronavirus RF1), изолированными от не-
+широко использовались для скрининга подозритель- скольких видов рода Rhinolophus, позволяет предпо-
+ных на 2019-nCoV больных. На конец января 2020 г. ложить их основную роль в сохранении вирусных 
+в Российской Федерации выявлено по одному заболев- популяций в природных очагах. Другие позвоночные, 
+шему в Забайкалье и в Тюменской области. Решением имеющие непосредственные экологические связи 
+Президента РФ В.В. Путина создан штаб по профилак- с летучими мышами (циветты, змеи и др., поедающие 
+тике завоза 2019-CoV в Россию во главе с вице-премье- летучих мышей), служат  в качестве промежуточных 
+ром Т.А. Голиковой. В него вошли руководитель Роспо- хозяев. В случае их использования в пищевых целях 
+требнадзора, главный государственный санитарный они могут стать источниками заражения людей.
+врач РФ А.Ю. Попова, министр здравоохранения РФ С представителями отряда рукокрылых (Chirop-
+М.А. Мурашко и др. Утверждены временные методиче- tera; подотряд летучих мышей Microchiroptera) тесно 
+ские рекомендации по профилактике, диагностике и ле- связаны коронавирусы рода Betacoronavirus (SARS-
+чению новой коронавирусной инфекции (2019-nCoV). CoV, COVID-19 из подрода Sarbecovirus, MERS-CoV 
+Анализ филогенетических данных позволил отнести из подрода Merbecovirus), а также ряд представите-
+новый вирус 2019-nCoV к роду Betacoronavirus, подро- лей рода Alphacoronavirus (подрода Colacovirus, De-
+ду Sarbecovirus в группу SARS-related human coronavi- cacovirus, Minunacovirus, Myotacovirus, Nyctacovirus, 
+rus, куда входят и многочисленные штаммы, изолиро- Rhinacovirus) (см. табл. 1). Наряду с отсутствием 
+ванные от летучих мышей (SARS related Rhinolophus острых клинических проявлений инфекции это сви-
+bat coronavirus RF1 и др.) (см. табл. 1, рис. 2). детельствует о древних (возможно, с эпох палеоцена – 
+
+13
+
+
+
+ВОПРОСЫ ВИРУСОЛОГИИ. 2020; 65(1)
+DOI: https://doi.org/10.36233/0507-4088-2020-65-1-6-15
+ОБЗОРЫ
+
+эоцена, 60–70 млн лет назад) тесных экологических R E F E R E N C E S
+связях летучих мышей и вирусов подсемейства Or- 1. de Groot R.J., Baker S.C., Baric R., Enjuanes L., Gorbalenya 
+thocoronavirinae. Такая связь установлена с нетопы- A.E., Holmes K.V., et al. Family Coronaviridae. In: King A.M., 
+рями (Pipistrellus) у MERS-rеlated вирусов (Merbeco- Adams M.J., Carstens E.B., Lefkowitz E.J., eds. Virus Taxonomy: 
+virus), а у SARS-related и COVID-19 – с подковоноса- Classification and Nomenclature of Viruses. Ninth Report of the 
+ми (Rhinolophidae, Rhinolophus). International Committee on Taxonomy of Viruses. London: Elsevier; 
+
+2012: 806-28.
+Принятые в Российской Федерации меры по про- 2. L’vov D.K., Shchelkanov M.Yu. Koronavirusy (Coronaviridae). In: 
+
+филактике завоза вируса, безусловно, важны. Вместе L’vov D.K., ed. Virology Guide. Viruses and Viral Infections of Humans 
+с тем они не могут полностью предотвратить случаи and Animals [Rukovodstvo po virusologii. Virusy i virusnye infektsii 
+заноса вируса инфицированными людьми, во время cheloveka i zhivotnykh]. Moscow: MIA; 2013: 211-8. (in Russian)
+
+3. Perlman S., Gallagher T., Snijder E.J. Nidoviruses. Washington: 
+инкубационного периода, или имеющими стёртые ASM press; 2008.
+и инаппарантные формы заболевания. Задача ослож- 4. Woo P.C., Lau S.K., Huang Y., Yuen K.Y. Coronavirus diversity, 
+няется и тем, что события разворачиваются на фоне phylogeny and interspecies jumping. Exp. Biol. Med. (Maywood). 
+сезонной эпидемии гриппа с одновременной цирку- 2009; 234(10): 1117-27. 
+
+DOI: http://doi.org/10.3181/0903-MR-94
+ляцией вирусов гриппа А (H1N1)pdm09, H3N2) и В, 5. Cowley J.A., Dimmock C.M., Spann K.M., Walker P.J. Gill-associ-
+вызывающих в том числе и тяжёлые формы заболе- ated virus of Penaeus monodon prawns: an invertebrate virus with 
+вания с летальным исходом, а также 8 других респи- ORF1a and ORF1b genes related to arteri– and coronaviruses. J. 
+раторных вирусов, включая сезонный коронавирус Gen. Virol. 2000; 81(Pt. 6): 1473-84. 
+
+DOI: http://doi.org/10.1099/0022-1317-81-6-1473
+(Alphacoronavirus) (см. табл. 2). 6. Decaro N., Buonavoglia C. An update on canine coronaviruses: viral 
+
+В 2002–2019 гг. в мире зарегистрировано по край- evolution and pathobiology. Vet. Microbiol. 2008; 132(3-4): 221-34. 
+ней мере 7 эпидемических ситуаций (в основном DOI: http://doi.org/10.1016/j.vetmic.2008.06.007
+в КНР), связанных с зоонозными коронавирусами 7. Cavanagh D. Coronaviruses in poultry and other birds. Avian 
+
+Pathol. 2005; 34(6): 439-48. 
+(Coronaviridae, Betacoronavirus) и вирусами гриппа DOI: http://doi.org/10.1080/03079450500367682
+(Orthomyxoviridae, Influenza A virus). Число заболев- 8. Chu D.K., Leung C.Y., Gilbert M., Joyner P.H., Ng E.M., Tse T.M., et al. 
+ших превысило 100 тыс., летальность варьировала Avian coronavirus in wild aquatic birds. J. Virol. 2011; 85(23): 12815-20. 
+от 2 до 50% (табл. 3), отмечена угроза возникновения DOI: http://doi.org/10.1128/JVI.05838-11
+
+9. Traavik T., Mehl R., Kjeldsberg E. “Runde” viurs, a coronavirus-
+пандемий [45]. Очевидно, что подобные ситуации бу- like agent associated with seabirds and ticks. Arch. Virol. 1977; 
+дут возникать и в обозримом будущем [46–49]. Это 55(1-2): 25-38. 
+требует объединения международных действий для DOI: http://doi.org/10.1007/bf01314476
+комплексной разработки специалистами (эпидемио- 10. Gagneur A., Vallet S., Talbot P.J., Legrand-Quillien M.C., Picard B., 
+
+Payan C., et al. Outbreaks of human coronavirus in a pediatric and 
+логами, экологами, вирусологами, клиницистами, ор- neonatal intensive care unit. Eur. J. Pediatr. 2008; 167(12): 1427-
+ганизаторами здравоохранения) планов в целях мини- 34. DOI: http://doi.org/10.1007/s00431-008-0687-0
+мизации последствий возникновения новых и вновь 11. Kolobukhina L.V., L’vov D.K. Koronavirusnaya infektsiya, ty-
+возвращающихся (emerging-reemerging) инфекций. azhelyy ostryy respiratornyy sindrom. In: L’vov D.K., ed. Virol-
+
+ogy Guide. Viruses and Viral Infections of Humans and Animals 
+[Rukovodstvo po virusologii. Virusy i virusnye infektsii cheloveka i 
+
+Л И Т Е РАТ У РА  (п.п. 1, 3-10, 12-24, 27-31, 33-35, 37-45, 48, 49  zhivotnykh]. Moscow: MIA; 2013: 588-92. (in Russian)
+см. R E F E R E N C E S ) 12. Xu J., Hu J., Wang J., Han Y., Hu Y., Wen J., et al. Genome orga-
+
+2. Львов Д.К., Щелканов М.Ю. Коронавирусы (Coronaviridae). nization of the SARS-CoV. Genomics Proteomics Bioinformatics. 
+В кн.: Львов Д.К., ред. Руководство по вирусологии. Вирусы 2003; 1(3): 226-35. 
+и вирусные инфекции человека и животных. М.: МИА; 2013: DOI: http://doi.org/10.1016/s1672-0229(03)01028-3
+211-8. 13. Li W., Shi Z., Yu M., Ren W., Smith C., Epstein J.H., et al. Bats 
+
+11. Колобухина Л.В., Львов Д.К. Коронавирусная инфекция, тяже- are natural reservoirs of SARS-like coronaviruses. Science. 2005; 
+лый острый респираторный синдром. В кн.: Львов Д.К., ред. 310(5748): 676-9. 
+Руководство по вирусологии. Вирусы и вирусные инфекции че- DOI: http://doi.org/10.1126/science.1118391
+ловека и животных. М.: МИА; 2013: 588-92. 14. Woo P.C., Lau S.K., Lam C.S., Lau C.C., Tsang A.K., Lau J.H., 
+
+25. Покровский В.И., Малеев В.В., Киселев О.И. Коронавирус et al. Discovery of seven novel Mammalian and avian coronavi-
+SARS – возбудитель атипичной пневмонии. Временые методи- ruses in the genus deltacoronavirus supports bat coronaviruses as 
+ческие рекомендации. М.; 2003. the gene source of alphacoronavirus and betacoronavirus and avian 
+
+26. Чучалин А.Г. Синдром острого повреждения легких. РМЖ. coronaviruses as the gene source of gammacoronavirus and delta-
+2006; 14(22): 1582. coronavirus. J. Virol. 2012; 86(7): 3995-4008. 
+
+32. Дерябин П.Г., Зарубаев В.В. К вопросу о коронавирусной ин- DOI: http://doi.org/10.1128/JVI.06540-11
+фекции и перспективах профилактики и лечения препаратами 15. Guan Y., Zheng B.J., He Y.Q., Liu X.L., Zhuang Z.X., Cheung 
+интерферона альфа-2в человеческого рекомбинантного. Ин- C.L., et al. Isolation and characterization of viruses related to the 
+фекционные болезни. 2014; 12(3): 32-4. SARS coronavirus from animals in southern China. Science. 2003; 
+
+36. Стрелков П.П. Отряд Chiroptera, Blumenbach, 1779 – Рукокры- 302(5643): 276-8. 
+лые. В кн.: Громов И.М., Баранова Г.И., ред. Каталог млекопи- DOI: http://doi.org/10.1126/science.1087139
+тающих СССР. Плиоцен – современность. Ленинград: Наука; 16. Annan A., Baldwin H.J., Corman V.M., Klose S.M., Owusu M., 
+1981: 31-53. Nkrumah E.E., et al. Human betacoronavirus 2c EMC/2012-related 
+
+46. Львов Д.К. Грипп и другие новые и возвращающиеся инфекции viruses in bats, Ghana and Europe. Emerg. Infect. Dis. 2013; 19(3): 
+Северной Евразии: глобальные последствия. В кн.: Федеральный 456-9. DOI: http://doi.org/10.3201/eid1903.121503
+справочник здравоохранения России. Том 11. М.; 2010: 209-19. 17. Balboni A., Battilani M., Prosperi S. The SARS-like coronaviruses: 
+
+47. Львов Д.К., Борисевич С.В., Альховский С.В., Бурцева Е.И. the role of bats and evolutionary relationships with SARS coronavi-
+Актуальные подходы анализа вирусных геномов в интересах rus. New Microbiol. 2012; 35(1): 1-16. 
+биобезопасности. Инфекционные болезни: новости, мнения, 18. Wang L.F., Shi Z., Zhang S., Field H., Daszak P., Eaton B.T. Review 
+обучение. 2019; 8(2): 96-101. of bats and SARS. Emerg. Infect. Dis. 2006; 12(12): 1834-40. 
+
+ DOI: http://doi.org/10.24411/2305-3496-2019-12012 DOI: http://doi.org/10.3201/eid1212.060401
+
+14
+
+
+
+PROBLEMS OF VIROLOGY. 2020; 65(1)
+DOI: https://doi.org/10.36233/0507-4088-2020-65-1-6-15
+
+REVIEWS
+
+19. Dominguez S.R., O’Shea T.J., Oko L.M., Holmes K.V. Detection of 34. Reusken C.B., Haagmans B.L., Muller M.A., Gutierrez C., 
+group 1 coronaviruses in bats in North America. Emerg. Infect. Dis. Godeke G.J., Meyer B., et al. Middle East respiratory syndrome 
+2007; 13(9): 1295-300. coronavirus neutralising serum antibodies in dromedary camels: a 
+DOI: http://doi.org/10.3201/eid1309.070491 comparative serological study. Lancet Infect. Dis. 2013; 13(10): 
+
+20. Gloza-Rausch F., Ipsen A., Seebens A., Gottsche M., Panning M., 859-66. 
+Drexler J.F., et al. Detection and prevalence patterns of group I DOI: http://doi.org/10.1016/S1473-3099(13)70164-6
+coronaviruses in bats, northern Germany. Emerg. Infect. Dis. 2008; 35. Perera R.A., Wang P., Gomaa M.R., El-Shesheny R., Kandeil A., 
+14(4): 626-31. Bagato O., et al. Seroepidemiology for MERS coronavirus using 
+DOI: http://doi.org/10.3201/eid1404.071439 microneutralisation and pseudoparticle virus neutralisation assays 
+
+21. Lau S.K., Woo P.C., Li K.S., Huang Y., Tsoi H.W., Wong B.H., et al. reveal a high prevalence of antibody in dromedary camels in Egypt, 
+Severe acute respiratory syndrome coronavirus-like virus in Chinese June 2013. Euro Surveill. 2013; 18(36): pii20574. 
+horseshoe bats. Proc. Natl. Acad. Sci. USA. 2005; 102(39): 14040-5. DOI: http://doi.org/10.2807/1560-7917.es2013.18.36.20574
+DOI: http://doi.org/10.1073/pnas.0506735102 36. Strelkov P.P. Otryad Chiroptera, Blumenbach, 1779 – Rukokrylye. 
+
+22. Tong S., Conrardy C., Ruone S., Kuzmin I.V., Guo X., Tao Y., et al. In: Gromov I.M., Baranova G.I., eds. Catalog of Mammals of the 
+Detection of novel SARS-like and other coronaviruses in bats from USSR. Pliocene – the Present. Leningrad: Nauka; 1981: 31-53. (in 
+Kenya. Emerg. Infect. Dis. 2009; 15(3): 482-5. Russian)
+DOI: http://doi.org/10.3201/eid1503.081013 37. Surveillance case definitions for human infection with novel coro-
+
+23. Zhou P., Li H., Wang H., Wang L.F., Shi Z. Bat severe acute respira- navirus (nCoV). Available at: https://www.who.int/internal-publi-
+tory syndrome-like coronavirus ORF3b homologues display different cations-detail/surveillance-case-definitions-for-human-infection-
+interferon antagonist activities. J. Gen. Virol. 2012; 93(Pt. 2): 275-81. withnovel-coronavirus-(ncov)
+DOI: http://doi.org/10.1099/vir.0.033589-0 38. Disease commodity package – Novel Coronavirus (nCoV). Avail-
+
+24. Summary table of SARS cases by country, 1 November 2002 – 7 able at: https://www.who.int/publications-detail/disease-commodi-
+August 2003. Available at: https://www.who.int/csr/sars/coun- ty-package---novel-coronavirus-(ncov)
+try/2003_08_15/en/ 39. WHO recommendations to reduce risk of transmission of emerging 
+
+25. Pokrovskiy V.I., Maleev V.V., Kisilev O.I. Coronavirus SARS is pathogens from animals to humans in live animal markets. Avail-
+the Causative Agent of SARS. Temporary Guidelines [Koronavirus able at: https://www.who.int/health-topics/coronavirus/who-rec-
+SARS – vozbuditel’ atipichnoy pnevmonii. Vremenye metodicheskie ommendations-to-reduce-risk-of-transmission-of-emerging-patho-
+rekomendatsii]. Moscow; 2003. (in Russian) gens-from-animals-to-humans-in-live-animal-markets
+
+26. Chuchalin A.G. Syndrome of acute lung injury. RMZh. 2006; 40. Laboratory testing for 2019 novel coronavirus (2019-nCoV) in 
+14(22): 1582. (in Russian) suspected human cases. Available at: https://www.who.int/publi-
+
+27. Riley S., Fraser C., Donnelly C.A., Ghani A.C., Abu-Raddad L.J., cations-detail/laboratory-testing-for-2019-novel-coronavirus-in-
+Hedley A.J., et al. Transmission dynamics of the etiological agent suspected-human-cases-20200117
+of SARS in Hong Kong: impact of public health interventions. Sci- 41. European surveillance for human infection with novel coronavirus 
+ence. 2003; 300(5627): 1961-6. (2019-nCoV). Available at: https://www.ecdc.europa.eu/en/europe-
+DOI: http://doi.org/10.1126/science.1086478 an-surveillance-human-infection-novel-coronavirus-2019-ncov
+
+28. Lipsitch M., Cohen T., Cooper B., Robins J.M., Ma S., James L., et 42. European Virus Archive – GLOBAL. Available at: https://www.
+al. Transmission dynamics and control of severe acute respiratory european-virus-archive.com/
+syndrome. Science. 2003; 300(5627): 1966-70. 43. Diagnostic detection of Wuhan coronavirus 2019 by real-
+DOI: http://doi.org/10.1126/science.1086616 time RTPCR. Available at: https://www.who.int/docs/default-
+
+29. Wang J.T., Sheng W.H., Fang C.T., Chen Y.C., Wang J.L., Yu C.J., et source/coronaviruse/wuhan-virus-assay-v1991527e5122341d-
+al. Clinical manifestations, laboratory findings, and treatment out- 99287a1b17c111902.pdf?sfvrsn=d381fc88_2
+comes of SARS patients. Emerg. Infect. Dis. 2004; 10(5): 818-24. 44. Novel Coronavirus (2019-nCoV) situation reports (WHO). Avail-
+DOI: http://doi.org/10.3201/eid1005.030640 able at: https://www.who.int/emergencies/diseases/novel-coronavi-
+
+30. Drosten C., Gunther S., Preiser W., van der Werf S., Brodt H.R., Becker rus-2019/situation-reports
+S., et al. Identification of a novel coronavirus in patients with severe 45. WHO, Western Pacific Region. Avian Influenza Weekly Update 
+acute respiratory syndrome. N. Engl. J. Med. 2003; 348(20): 1967-76. 2019. Available at: https://iris.wpro.who.int/handle/10665.1/ 
+DOI: http://doi.org/10.1056/NEJMoa030747 14328
+
+31. Tan E.L., Ooi E.E., Lin C.Y., Tan H.C., Ling A.E., Lim B., et al. 46. L’vov D.K. Influenza and other new and recurring infections of 
+Inhibition of SARS coronavirus infection in vitro with clinically Northern Eurasia: global implications. In: Federal Health Directory 
+approved antiviral drugs. Emerg. Infect. Dis. 2004; 10(4): 581-6. of Russia. Volume 11 [Federal’nyy spravochnik zdravookhraneniya 
+DOI: http://doi.org/10.3201/eid1004.030458 Rossii. Tom 11]. Moscow; 2010: 209-19. (in Russian)
+
+32. Deryabin P.G., Zarubaev V.V. Regarding the Coronavirus infection 47. L’vov D.K., Borisevich S.V., Al’khovskiy S.V., Burtseva E.I.  Actual 
+and prospects for prevention and treatment by recombinant hu- approaches to the analysis of viral genomes for biosafety. Infektsionnye 
+man interferon alpha-2b medications. Infektsionnye bolezni. 2014; bolezni: novosti, mneniya, obuchenie. 2019; 8(2): 96-101. 
+12(3): 32-4. (in Russian) DOI: http://doi.org/10.24411/2305-3496-2019-12012 (in Russian)
+
+33. de Groot R.J., Baker S.C., Baric R.S., Brown C.S., Drosten C., 48. Lvov D.K., Shchelkanov M.Y., Alkhovsky S.V., Deryabin P.G. Zoo-
+Enjuanes L., et al. Middle East respiratory syndrome coronavirus notic Viruses of Northern Eurasia. Taxonomy and Ecology. London: 
+(MERS-CoV): announcement of the Coronavirus Study Group. J. Academic Press, Elsevier; 2015.
+Virol. 2013; 87(14): 7790-2. 49. WHO. Coronavirus disease 2019 (COVID-19). Sitation report - 40 
+DOI: http://doi.org/10.1128/JVI.01244-13 (29 February 2020).
+
+15

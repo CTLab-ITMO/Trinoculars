@@ -1,0 +1,528 @@
+﻿ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+УДК 620.18
+
+ФОРМИРОВАНИЕ НЕОДНОРОДНОЙ СТРУКТУРЫ 
+ЖЕЛЕЗОУГЛЕРОДИСТЫХ СПЛАВОВ СПЕКАНИЕМ ЧАСТИЦ 
+
+РАЗНОРОДНЫХ СТАЛЕЙ*
+А.А. НИКУЛИНА, канд. техн. наук, доцент
+(НГТУ, г. Новосибирск)
+
+Поступила 1 июля 2016
+Рецензирование 18 июля 2016
+Принята к печати 15 августа 2016
+
+Никулина А.А. – 630073, г. Новосибирск, пр. К. Маркса, 20,
+Новосибирский государственный технический университет,
+
+e-mail: a.nikulina@corp.nstu.ru
+
+С использованием метода искрового плазменного спекания сформированы гетерофазные железоуглеро-
+дистые сплавы на основе частиц разнородных сталей У8 и 12Х18Н10Т соответственно в перлитном и аусте-
+нитном состоянии. Результаты структурных исследований, выполненных с использованием методов световой 
+и растровой электронной микроскопии, показали, что основными структурными составляющими в полу-
+ченных композициях являются аустенит, перлит, феррит, мартенсит и карбид хрома. В зонах взаимодей-
+ствия исходных частиц формируются области переходного химического состава, приобретающие после 
+охлаждения аустенитно-мартенситную структуру. Микротвердость данных областей находится на уровне 
+6000…9000 МПа.
+
+Ключевые слова: искровое плазменное спекание, структура, перлит, мартенсит, аустенит, разнородные 
+стали, структурные исследования.
+
+DOI: 10.17212/1994-6309-2016-3-52-61
+
+Введение (или бейнита). Особенность гетерофазных ста-
+лей заключается в том, что резко отличающиеся 
+
+Железоуглеродистые сплавы являются важ- по свойствам фазы, входящие в их состав, обе-
+нейшими материалами в современном маши- спечивают в некоторых случаях уникальный 
+ностроении. Чаще всего они характеризуются комплекс механических свойств [16–19].
+гетерофазным строением [1]. Анализ литерату- Основные методы получения гетерофазных 
+ры показывает, что исследователи в настоящее сталей основаны на пластической деформации 
+время активно занимаются изучением структу- и/или термической обработке [8–19]. Однако ин-
+ры и свойств двухфазных [2–7] и многофазных тересные результаты отмечаются и при примене-
+[8–13] сталей. Для первой группы основными нии методов спекания порошков [20–24], среди 
+структурными составляющими являются либо которых можно выделить искровое плазменное 
+обе фазы железа (g и a), либо матрицей является спекание. Данный метод отличается кратковре-
+одна из фаз железа, а в ней присутствует мета- менностью воздействия на материал, что от-
+стабильная фаза (a’- или e-мартенсит) [14, 15]. крывает большие возможности в формировании 
+Многофазные стали характеризуются наличием конечной структуры спекаемого материала. Суть 
+аустенита, феррита (или перлита) и мартенсита метода заключается в пропускании импульсов 
+_______________
+
+* Работа выполнена в рамках программы стратегического развития НГТУ (проект С-14).
+
+52 № 3 (72) 2016
+
+
+
+МАТЕРИАЛОВЕДЕНИЕ ОБРАБОТКА  МЕТАЛЛОВ
+
+постоянного тока и одновременным приложени- дет к появлению после охлаждения структур, от-
+ем одноосного давления к порошковой компози- личных от исходных. Объектами исследования 
+ции. За счет протекания тока контактирующие в работе являлись образцы, сформированные 
+частицы локально плавятся, при этом основная искровым плазменным спеканием (SPS) частиц 
+часть материала остается в твердом состоянии. данных разнородных сталей, полученных пу-
+Спекание материала происходит равномерно по тем обработки резанием. Формирование равно-
+всему объему. Приложение давления обеспечи- мерной смеси обеспечивали перемешиванием 
+вает высокую плотность получаемых компактов. частиц сталей в планетарной шаровой мельни-
+Высокая скорость процесса позволяет фиксиро- це Fritsch Pulverisette 6 при частоте вращения 
+вать исходную структуру спекаемых материалов 100 об/мин в течение 20 мин. Микрофотографии 
+[25, 26]. Работ, посвященных получению гетеро- смеси частиц сталей представлены на рис. 1, в. 
+фазных железоуглеродистых сплавов методом Более крупные вытянутые (за счет пластической 
+искрового плазменного спекания, немного, хотя деформации) частицы в данной смеси – части-
+применение данной технологии может позво- цы стали 12Х18Н10Т. Их максимальный раз-
+лить сформировать уникальные материалы на мер достигает 1000 мкм. Наибольший размер 
+основе железа. частиц стали У8 составляет 500 мкм, при этом 
+
+Цель данной работы заключается в формиро- они имеют осколочную форму. Результаты энер-
+вании многофазного материала на основе железа годисперсионного анализа частиц представлены 
+с использованием метода искрового плазменно- в табл. 1.
+го спекания и исследовании его структуры. Спекание осуществляли на установке SPS10-4 
+
+Advanced Technology в токопроводящей гра-
+Методика проведения исследований фитовой пресс-форме с внутренним диамет- 
+В качестве исходных материалов были вы- ром 30 мм. Форма и порошок отделялись графи-
+
+браны стали с перлитной (У8) и аустенитной товым слоем для исключения взаимодействия. 
+(12Х18Н10Т) структурами (рис. 1, а, б). Пред- Контроль температуры осуществляли термопа-
+полагалось, что на участках взаимодействия рой, расположенной в отверстии в верхнем пу-
+частиц разнородных сталей в ходе спекания за ансоне. Режимы спекания образцов представле-
+счет активизации диффузионных процессов бу- ны в табл. 2. На рис. 2 изображен общий график 
+дут сформированы переходные области, облада- процесса спекания.
+ющие промежуточным химическим составом по Образцы для структурных исследований 
+сравнению со спекаемыми сталями, что приве- подготавливали с использованием стандартных 
+
+                           а                                                             б                                                                в
+Рис. 1. Структура исходных сталей 12Х18Н10Т (а) и У8 (б) и общий вид полученной смеси частиц (в)
+
+Т а б л и ц а  1
+Результаты энергодисперсионного анализа стружки сталей
+
+Хим. элемент, % вес. С Cr Ni Si Mn Fe
+Сталь 12Х18Н10Т 0,11 18,82 8,59 0,58 1,53 Осн.
+Сталь У8 0,76 0,36 – 0,38 0,97 Осн.
+
+№ 3 (72) 2016 53
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+Т а б л и ц а  2 на рис. 3. Видно, что светлые области 
+Режимы спекания образцов соответствуют исходным частицам 
+
+легированной стали, более темные 
+Параметр Значение области – исходным частицам угле-
+
+Средняя скорость нагрева, °C/мин 100 родистой стали. Соотношение объ-
+Давление прессования, МПа 60 емных долей разнородных областей 
+Давление первоначальной подпрессовки, МПа 5 примерно равно. В поперечном сече-
+Температура спекания 1000, 1100 °С нии структуру полученных образцов 
+Время спекания, мин 5…25 можно представить в виде схемы, 
+Сила тока, А 910 изображенной на рис. 4, а. Централь-
+Рабочая среда Вакуум ные слои образцов характеризуются 
+
+аустенитно-ферритным строением 
+(рис. 4, б). При удалении от центра 
+структура постепенно изменяется 
+и области, соответствующие части-
+цам углеродистой стали, приобре-
+тают сначала ферритно-перлитное 
+(рис. 4, в), а затем полностью перлит-
+ное (рис. 4, г) строение. Формирова-
+ние ферритной структуры объясня-
+ется активной диффузией углерода 
+в процессе спекания, в результате 
+
+Рис. 2. Изменение температуры и давления в процессе искрового  чего частицы стали У8 обезуглеро-
+плазменного спекания: живаются. Обратный процесс про-
+
+1 – нагрев до 1000 °С; 2 – нагрев до 1100 °С исходит на периферии образцов, где 
+поверхностные слои контактировали 
+
+технологий шлифования и полирования на ал- с графитовым слоем. За счет насы-
+мазных пастах. Финишную механическую по- щения углеродом в областях, соответствующих 
+лировку проводили на суспензии оксида хрома. исходным частицам стали У8, происходит об-
+Выявление структуры полученных композиций разование видманштеттова цементита. На рис. 5 
+осуществляли 5%-м раствором азотной кислоты видно, что увеличение времени спекания приво-
+в спирте. Анализ структуры проводили на све- дит к увеличению объемной доли данной фазы. 
+товом микроскопе Carl Zeiss Axio Observer A1m Граничные слои, где происходило взаимодей-
+и растровом электронном микроскопе Carl Zeiss ствие разнородных микрообъемов, приобретают 
+EVO 50 XVP. Распределение химических эле- промежуточное химическое строение между 
+ментов изучали с использованием энергодиспер- двумя спекаемыми сталями и при охлаждении в 
+сионного анализатора INCA.
+
+Микротвердость фаз оценивали на микро-
+твердомере для испытаний по Виккерсу 402MVD 
+Wolpert Group.
+
+Результаты исследований  
+и обсуждение
+
+Материал, сформированный с использова-
+нием метода искрового плазменного спекания 
+частиц разнородных сталей характеризуется 
+незначительным количеством пор. Распределе-
+ние легирующих элементов в спеченном компо- Рис. 3. Распределение легирующих  
+зите при сканировании по линии представлено элементов в спеченном материале
+
+54 № 3 (72) 2016
+
+
+
+МАТЕРИАЛОВЕДЕНИЕ ОБРАБОТКА  МЕТАЛЛОВ
+
+                               а                                                             б
+
+                               в                                                             г
+Рис. 4. Схема строения полученных композиций по толщине (а), структура в обла-
+сти 1 (б), в области 2 (в) и в области 3 (г). А – аустенит; П – перлит; Ф – феррит
+
+                               а                                                             б
+Рис. 5. Строение поверхностных насыщенных углеродом слоев образцов, полу-
+
+ченных при температуре 1100 °С и времени 5 (а) и 25 (б) мин
+
+них формируется аустенитно-мартенситная струк- терно наличие карбидов и существенно более 
+тура (рис. 6, а). Микрорентгеноспектральный ана- мелких аустенитных зерен по сравнению с исход-
+лиз показал, что в данных областях концентрация ной сталью, что связано со сдерживанием роста 
+хрома достигает 6…8 % вес., никеля – 2…3 % вес. зерна после рекристаллизации за счет карбид-
+Такое количество легирующих элементов недо- ных выделений по границам. В общем структуру 
+статочно для стабилизации аустенита и при ох- на участке взаимодействия разнородных микро-
+лаждении происходит мартенситное превраще- объемов можно описать схемой, изображенной 
+ние. Для участков, располагающихся на месте на рис. 6, б. Ширина промежуточных областей 
+исходных частиц хромоникелевой стали, харак- увеличивается по мере увеличения времени и 
+
+№ 3 (72) 2016 55
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+                            а                                                            б
+Рис. 6. Мартенситно-аустенитные области на границе взаимодействия разнород-
+ных микрообъемов (а) и общая схема строения таких областей (б). Аост – остаточ-
+ный аустенит, А – аустенит; К – карбиды; П – перлит; М – мартенсит; Ф – феррит
+
+температуры спекания (рис. 7). Ширина пере- полученные при температуре 1100 °С, характе-
+ходной зоны для материалов, полученных при ризуются широкой переходной зоной уже при не-
+температуре 1000 °С, не превышает в среднем значительном времени спекания, а при выдерж-
+10 мкм. В то же время при увеличении времени ке 15…25 мин ее ширина может достигать более 
+спекания на некоторых участках наблюдаются 20 мкм. В центральных слоях образцов, где на 
+достаточно широкие переходные зоны с аусте- месте частиц углеродистой стали зафиксирована 
+нитно-мартенситным строением. Композиции, структура феррита, также наблюдается переход-
+
+                              а                                                                    б 
+
+                              в                                                                       г 
+Рис. 7. Переходная зона, сформированная при спекании стружки сталей У8  
+
+и 12Х18Н10Т при режимах: 
+а – 1000 °С, 5 мин; б – 1000 °С, 25 мин; в – 1100 °С, 5 мин; г – 1100 °С, 25 мин
+
+56 № 3 (72) 2016
+
+
+
+МАТЕРИАЛОВЕДЕНИЕ ОБРАБОТКА  МЕТАЛЛОВ
+
+ная область на участке взаимодействия разно- Микротвердость разнородных микрообъе-
+родных микрообъемов, которая характеризуется мов существенно отличается. Так, для участков, 
+мартенситным строением (рис. 8). сформированных на месте частиц углероди-
+
+стой стали, характерно минимальное значение 
+микротвердости в случае образования ферри-
+та (1500…1700 МПа), перлитные же области 
+характеризуются уровнем микротвердости 
+3000…3500 МПа. Максимальный уровень ми-
+кротвердости отмечен в переходных областях 
+(6000…9000 МПа). Также достаточно высо-
+кий уровень микротвердости характерен для 
+участков, сформированных на месте частиц 
+хромоникелевой стали (5000…6500 МПа), что 
+объясняется выделением большого количества 
+карбидов.  
+
+Рис. 8. Переходная зона (показана стрелками) Выводы
+между разнородными микрообъемами в цен-
+тральной части образца. Ф – феррит; А – аусте- Проведены структурные исследования ма-
+нит; стрелкой указана переходная область, об- териалов, полученных искровым плазменным 
+
+ладающая структурой мартенсита спеканием частиц разнородных сталей У8 и 
+12Х18Н10Т, имеющих соответственно перлит-
+
+Рентгенофазовый анализ подтвердил резуль- ное и аустенитное строение.
+таты структурных исследований. Спеченные 1. Использование метода искрового плазмен-
+материалы незначительно отличаются по соста- ного спекания позволяет получить железоугле-
+ву от исходной смеси. Единственным отличием родистые материалы, обладающие гетерофазной 
+является присутствие почти во всех спеченных структурой. Основными структурными состав-
+образцах карбидной фазы Cr7C3 (рис. 9). ляющими полученных материалов являются 
+
+Рис. 9. Рентгенограммы исходной смеси и полученных материалов
+№ 3 (72) 2016 57
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+аустенит, перлит, феррит, мартенсит, а также chi, D. Ponge, D. Raabe // Acta Materialia. – 2011. – 
+карбиды хрома. Vol. 59. – P. 658–670. – doi: http://dx.doi.org/10.1016/j.
+
+2. В области взаимодействия разнородных msea.2015.08.073.
+микрообъемов наблюдается образование пере- 8. Maresca F., Kouznetsova V.G., Geers M.G.D. De-
+ходных областей. Максимальная толщина таких formation behaviour of lath martensite in multi-phase 
+областей при температуре спекания 1000 °С не steels // Scripta Materialia. – 2016. – Vol. 110. – P. 74–77. – 
+
+doi: http://dx.doi.org/10.1016/j.scriptamat.2015.08.004.
+превышает 10 мкм, а при 1100 °С ее ширина до- 9. Radwański K. Structural characterization of low-
+стигает 20 мкм. carbon multiphase steels merging advanced research 
+
+3. Максимальный уровень микротвердости в methods with light optical microscopy // Archives of 
+спеченных материалах характерен для переход- Civil and Mechanical Engineering. – 2016. – Vol. 16. – 
+ных областей и составляет 6000...9000 МПа. P. 282–293. – doi: 10.1016/j.acme.2015.12.001.
+
+10. Super strong and highly ductile low alloy 
+Автор выражает благодарность доценту На- multiphase steels consisting of bainite, ferrite and re-
+
+ционального исследовательского Томского по- tained austenite / A. Varshney, S. Sangal, S. Kundu, 
+литехнического университета А.С. Ивашутенко K. Mondal // Materials & Design. – 2016. – Vol. 95. – 
+за подготовку образцов на установке искрового P. 75–88. – doi: 10.1016/j.matdes.2016.01.078.
+плазменного спекания. 11. Hudgins A.W., Matlock D.K. The effects of prop-
+
+erty differences in multiphase sheet steels on local form-
+Список литературы ability // Materials Science & Engineering: A. – 2016. – 
+
+Vol. 654. – P. 169–176. – doi: http://dx.doi.org/10.1016/j.
+1. Гуляев А.П. Металловедение. – М.: Металлур- msea.2015.12.035.
+
+гия, 1986. – 544 с. 12. Role of microstructure in the low cycle fatigue of 
+2. Rosenberg G., Sinaiová I., Juhar Ľ. Effect of multi-phase steels / T. Hilditch, H. Beladi, P. Hodgson, 
+
+microstructure on mechanical properties of dual phase N. Stanford // Materials Science and Engineering: A. – 
+steels in the presence of stress concentrators // Materials 2012. – Vol. 534. – P. 288–296. – doi: 10.1016/j.
+Science & Engineering: A. – 2013. – Vol. 582. – P. 347– msea.2011.11.071.
+358. – doi: http://dx.doi.org/10.1016/j.msea.2013.06.035. 13. Wiewiórowska S., Muskalski Z. The applica-
+
+3. Ultrahigh strength martensite–austenite dual- tion of low and medium carbon steel with multiphase 
+phase steels with ultrafine structure: the response to in- TRIP structure in drawing industry // Procedia Manufac-
+dentation experiments / R.D.K. Misra, P. Venkatsurya, turing. – 2015. – Vol. 2. – P. 181–185.
+K.M. Wu, L.P. Karjalainen // Materials Science & Engi- 14. Голованенко С.А., Фонштейн Н.М. Конструк-
+neering: A. – 2013. – Vol. 560. – P. 693–699. – doi: http:// ционные двухфазные стали // Итоги науки и техники. 
+dx.doi.org/10.1016/j.msea.2012.10.015. Металловедение и термическая обработка. – 1983. – 
+
+4. Damage and fracture of dual-phase steels: influ- Т. 17. – С. 64–120.
+ence of martensite volume fraction / Q. Lai, O. Bouaziz, 15. Батаева З.Б. Повышение конструктивной 
+M. Gouné, L. Brassart, M. Verdier, G. Parry, A. Perlade, прочности низкоуглеродистых сталей путем фор-
+Y. Bréchet, T. Pardoen // Materials Science & Engineer- мирования анизотропной гетерофазной структуры 
+ing: A. – 2015. – Vol. 646. – P. 322–331. – doi: http:// в условиях горячей и холодной пластической де-
+dx.doi.org/10.1016/j.msea.2015.08.073. формации: дис. … канд. техн. наук. – Новосибирск, 
+
+5. Paul S.K., Stanford N., Hilditch T. Effect of mar- 2003. – 206 с.
+tensite morphology on low cycle fatigue behaviour of 16. Microstructures and mechanical properties 
+dual phase steels: experimental and microstructural of dual phase steel produced by laboratory simulated 
+investigation // Materials Science & Engineering: A. – strip casting / Z.P. Xiong, A.G. Kostryzhev, N.E. Stan-
+2015. – Vol. 644. – P. 53–60. – doi: http://dx.doi. ford, E.V. Pereloma // Materials and Design. – 2015. – 
+org/10.1016/j.msea.2015.07.044. Vol. 88. – P. 537–549. – doi: http://dx.doi.org/10.1016/j.
+
+6. Abid N.H., Abu Al-Rub R.K., Palazotto A.N. matdes.2015.09.031.
+Computational modeling of the effect of equiaxed 17. Microstructure and mechanical properties of 
+heterogeneous microstructures on strength and duc- dual phase strip steel in the overaging process of con-
+tility of dual phase steels // Computational Materials tinuous annealing / C.Sh. Li, Z.X. Li, Y.M. Cen, B. Ma, 
+Science. – 2015. – Vol. 103. – P. 20–37. – doi: 10.1016/j. G. Huo // Materials Science & Engineering: A. – 2015. – 
+commatsci.2015.02.051. Vol. 627. – P. 281–289. – doi: http://dx.doi.org/10.1016/j.
+
+7. Deformation and fracture mechanisms in fine- msea.2014.12.109.
+and ultrafine-grained ferrite/martensite dual-phase 18. Microstructure and mechanical properties of 
+steels and the effect of aging / M. Calcagnotto, Y. Ada- high strength and high toughness micro-laminated dual 
+
+58 № 3 (72) 2016
+
+
+
+МАТЕРИАЛОВЕДЕНИЕ ОБРАБОТКА  МЕТАЛЛОВ
+
+phase steels / M.D. Zhang, J. Hu, W.Q. Cao, H. Dong // 22. Mariappan R., Kumaran S., Srinivasa Rao T. Ef-
+Materials Science & Engineering: A. – 2014. – fect of sintering atmosphere on structure and properties 
+Vol. 618. – P. 168–175. – doi: http://dx.doi.org/10.1016/j. of austeno-ferritic stainless steels // Materials Science 
+msea.2014.08.073. and Engineering: A. – 2009. – Vol. 517. – P. 328–333.
+
+19. Goto S., Kami C., Kawamura S. Effect of alloy- 23. Activated sintering of P/M duplex stainless steel 
+ing elements and hot-rolling conditions on microstruc- powders / J. Kaziora, M. Nykiel, T. Pieczonka, T. Mar-
+ture of bainitic-ferrite/martensite dual phase steel with cu Puscas, A. Molinari // Journal of Materials Process-
+high toughness // Materials Science & Engineering: A. – ing Technology. – 2004. – Vol. 157–158. – P. 712–717. – 
+2015. – Vol. 648. – P. 436–442. – doi: 10.1016/j. doi: 10.1016/j.jmatprotec.2004.07.140.
+msea.2015.09.093. 24. Simchi A., Rota A., Imgrund P. An investigation 
+
+20. Nanostructured/ultrafine multiphase steel with on the sintering behavior of 316L and 17-4PH stainless 
+enhanced ductility obtained by mechanical alloying steel powders for graded composites // Materials Science 
+and spark plasma sintering of powders / C. Menapace, and Engineering: A. – 2006. – Vol. 424. – P. 282–289. – 
+I. Lonardelli, M. Tait, A. Molinari // Materials Science doi: 10.1016/j.msea.2006.03.032.
+and Engineering: A. – 2009. – Vol. 517. – P. 1–7. – 25. Райченко А.И. Основы процесса спекания 
+doi: 10.1016/j.msea.2009.03.021. порошков пропусканием электрического тока. – М.: 
+
+21. Munir Z.A., Anselmi-Tamburini U. The effect of Металлургия, 1987. – 128 с.
+electric field and pressure on the synthesis and consoli- 26. Omori M. Sintering, consolidation, reaction and 
+dation of materials: a review of the spark plasma sinter- crystal growth by the spark plasma system (SPS) // Ma-
+ing method // Journal of Materials Science. – 2006. – terials Science and Engineering: A. – 2000. – Vol. 287. – 
+Vol. 41. – P. 763–777. – doi: 10.1007/s10853-006-6555-2. P. 183–188. – doi: 10.1016/S0921-5093(00)00773-5.
+
+OBRABOTKA METALLOV
+(METAL WORKING AND MATERIAL SCIENCE)
+
+N 3 (72), July – September 2016, Pages 52–61
+
+Formation of heterogeneous iron-carbon alloys structure by sintering  
+of dissimilar steels particles
+
+Nikulina A.A., Ph.D. (Engineering), Associate Professor, e-mail: a.nikulina@corp.nstu.ru
+
+Novosibirsk State Technical University, 20 Prospect K. Marksa, Novosibirsk, 630073, Russian Federation 
+
+Abstract
+
+The objective of the study was to investigate the relationship between the microstructure of the compositions and 
+the sintering conditions. Spark plasma sintering of dissimilar steels particles (Fe-0.8C and Fe-0.12C-18Cr-10Ni-1Ti 
+with pearlite and austenite structures, respectively) is implemented to form heterophase iron-carbon alloys. Several 
+sintering conditions with different temperature (1000 and 1100 °C) and sintering time (5 to 25 minutes) are used. All 
+obtained compositions are characterized by the absence of pores. Correlation of the heterogeneous microvolumes 
+is close to 1:1. The main methods of structural research in the work are light microscopy and scanning electron 
+microscopy. Microhardness testing is also carried out. The experimental results presented in the study clearly show 
+that basic structural components in the obtained compositions are austenite, pearlite, ferrite, martensite, as well 
+as chromium carbides. It is found that in the zones of interaction between heterogeneous particles the transitional 
+chemical composition areas are formed. The chromium content reaches 6…8 % wt. and nickel – 2…3 % wt. in these 
+areas. The maximum thickness of such areas at the sintering temperature of 1000 °C is less than 10 microns and at 
+1100 °C its width reaches 20 micron. This chemical composition of the intermediate areas leads to the appearance of 
+austenitic-martensitic structure after cooling with microhardness level about 600…900 HV.
+Keywords
+
+spark plasma sintering, microstructure, pearlite, martensite, austenite, dissimilar steels, structural research.
+DOI: 10.17212/1994-6309-2016-3-52-61
+
+№ 3 (72) 2016 59
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+References
+
+1. Gulyaev A.P. Metallovedenie [Metal science]. Moscow, Metallurgiya Publ., 1986. 544 p.
+2. Rosenberg G., Sinaiová I., Juhar Ľ. Effect of microstructure on mechanical properties of dual phase steels in 
+
+the presence of stress concentrators. Materials Science and Engineering: A, 2013, vol. 582, pp. 347–358. doi: http://
+dx.doi.org/10.1016/j.msea.2013.06.035
+
+3. Misra R.D.K., Venkatsurya P., Wu K.M., Karjalainen L.P. Ultrahigh strength martensite–austenite dual-phase 
+steels with ultrafine structure: the response to indentation experiments. Materials Science & Engineering: A, 2013, 
+vol. 560, pp. 693–699. doi: http://dx.doi.org/10.1016/j.msea.2012.10.015
+
+4. Lai Q., Bouaziz O., Gouné M., Brassart L., Verdier M., Parry G., Perlade A., Bréchet Y., Pardoen T. Damage 
+and fracture of dual-phase steels: influence of martensite volume fraction. Materials Science & Engineering: A, 2015, 
+vol. 646, pp. 322–331. doi: http://dx.doi.org/10.1016/j.msea.2015.08.073
+
+5. Paul S.K., Stanford N., Hilditch T. Effect of martensite morphology on low cycle fatigue behaviour of dual 
+phase steels: experimental and microstructural investigation. Materials Science & Engineering: A, 2015, vol. 644, 
+pp. 53–60. doi: http://dx.doi.org/10.1016/j.msea.2015.07.044
+
+6. Abid N.H., Abu Al-Rub R.K., Palazotto A.N. Computational modeling of the effect of equiaxed heterogeneous 
+microstructures on strength and ductility of dual phase steels. Computational Materials Science, 2015, vol. 103, 
+pp. 20–37. doi: 10.1016/j.commatsci.2015.02.051
+
+7. Calcagnotto M., Adachi Y., Ponge D., Raabe D. Deformation and fracture mechanisms in fine- and ultrafine-
+grained ferrite/martensite dual-phase steels and the effect of aging. Acta Materialia, 2011, vol. 59, pp. 658–670. 
+doi: http://dx.doi.org/10.1016/j.msea.2015.08.073
+
+8. Maresca F., Kouznetsova V.G., Geers M.G.D. Deformation behaviour of lath martensite in multi-phase steels. 
+Scripta Materialia, 2016, vol. 110, pp. 74–77. doi: http://dx.doi.org/10.1016/j.scriptamat.2015.08.004
+
+9. Radwański K. Structural characterization of low-carbon multiphase steels merging advanced research meth-
+ods with light optical microscopy. Archives of Civil and Mechanical Engineering, 2016, vol. 16, pp. 282–293. 
+doi: 10.1016/j.acme.2015.12.001
+
+10. Varshney A., Sangal S., Kundu S., Mondal K. Super strong and highly ductile low alloy multiphase steels 
+consisting of bainite, ferrite and retained austenite. Materials & Design, 2016, vol. 95, pp. 75–88. doi: 10.1016/j.
+matdes.2016.01.078
+
+11. Hudgins A.W., Matlock D.K. The effects of property differences in multiphase sheet steels on local formability. 
+Materials Science & Engineering: A, 2016, vol. 654, pp. 169–176. doi: http://dx.doi.org/10.1016/j.msea.2015.12.035
+
+12. Hilditch T., Beladi H., Hodgson P., Stanford N. Role of microstructure in the low cycle fatigue of multi-phase 
+steels. Materials Science and Engineering: A, 2012, vol. 534, pp. 288–296. doi: 10.1016/j.msea.2011.11.071
+
+13. Wiewiórowska S., Muskalski Z. The application of low and medium carbon steel with multiphase TRIP struc-
+ture in drawing industry. Procedia Manufacturing, 2015, vol. 2, pp. 181–185.
+
+14. Golovanenko S.A., Fonshtein N.M. Konstruktsionnye dvukhfaznye stali [Structural duplex steels]. Itogi nau-
+ki i tekhniki. Metallovedenie i termicheskaya obrabotka – The results of science and technology. Metallurgy and heat 
+treatment, 1983, vol. 17, pp. 64–120.
+
+15. Bataeva Z.B. Povyshenie konstruktivnoi prochnosti nizkouglerodistykh stalei putem formirovaniya anizotrop-
+noi geterofaznoi struktury v usloviyakh goryachei i kholodnoi plasticheskoi deformatsii. Diss. kand. tekhn. nauk 
+[Increased structural strength of low carbon steels by forming anisotropic heterophase structure under hot and cold 
+plastic deformation. PhD eng. sci. diss.]. Novosibirsk, 2003. 206 p.
+
+16. Xiong Z.P., Kostryzhev A.G., Stanford N.E., Pereloma E.V. Microstructures and mechanical properties of 
+dual phase steel produced by laboratory simulated strip casting. Materials and Design, 2015, vol. 88, pp. 537–549. 
+doi: http://dx.doi.org/10.1016/j.matdes.2015.09.031
+
+17. Li C.Sh., Li Z.X., Cen Y.M., Ma B., Huo G. Microstructure and mechanical properties of dual phase strip steel 
+in the overaging process of continuous annealing. Materials Science & Engineering: A, 2015, vol. 627, pp. 281–289. 
+doi: http://dx.doi.org/10.1016/j.msea.2014.12.109
+
+18. Zhang M.D. Hu J., Cao W.Q., Dong H. Microstructure and mechanical properties of high strength and high 
+toughness micro-laminated dual phase steels. Materials Science & Engineering: A, 2014, vol. 618, pp. 168–175. 
+doi: http://dx.doi.org/10.1016/j.msea.2014.08.073
+
+19. Goto S., Kami C., Kawamura S. Effect of alloying elements and hot-rolling conditions on microstructure of 
+bainitic-ferrite/martensite dual phase steel with high toughness. Materials Science & Engineering: A, 2015, vol. 648, 
+pp. 436–442. doi: 10.1016/j.msea.2015.09.093
+
+60 № 3 (72) 2016
+
+
+
+МАТЕРИАЛОВЕДЕНИЕ ОБРАБОТКА  МЕТАЛЛОВ
+
+20. Menapace C., Lonardelli I., Tait M., Molinari A. Nanostructured/ultrafine multiphase steel with enhanced 
+ductility obtained by mechanical alloying and spark plasma sintering of powders. Materials Science and Engineer-
+ing: A, 2009, vol. 517, pp. 1–7. doi: 10.1016/j.msea.2009.03.021
+
+21. Munir Z.A., Anselmi-Tamburini U. The effect of electric field and pressure on the synthesis and consolidation 
+of materials: a review of the spark plasma sintering method. Journal of Materials Science, 2006, vol. 41, pp. 763–
+777. doi: 10.1007/s10853-006-6555-2
+
+22. Mariappan R., Kumaran S., Srinivasa Rao T. Effect of sintering atmosphere on structure and properties of 
+austeno-ferritic stainless steels. Materials Science and Engineering: A, 2009, vol. 517, pp. 328–333. doi: 10.1016/j.
+msea.2009.04.011
+
+23. Kaziora J., Nykiel M., Pieczonka T., Marcu Puscas T., Molinari A. Activated sintering of P/M duplex stain-
+less steel powders. Journal of Materials Processing Technology, 2004, vol. 157–158, pp. 712–717. doi: 10.1016/j.
+jmatprotec.2004.07.140
+
+24. Simchi A., Rota A., Imgrund P. An investigation on the sintering behavior of 316L and 17-4PH stainless steel 
+powders for graded composites. Materials Science and Engineering: A, 2006, vol. 424, pp. 282–289. doi: 10.1016/j.
+msea.2006.03.032
+
+25. Raichenko A.I. Osnovy protsessa spekaniya poroshkov propuskaniem elektricheskogo toka [Fundamentals of 
+the powders sintering by passing an electric current]. Moscow, Metallurgiya Publ., 1987. 128 p.
+
+26. Omori M. Sintering, consolidation, reaction and crystal growth by the spark plasma system (SPS). Materials 
+Science & Engineering: A, 2000, vol. 287, pp. 183–188. doi: 10.1016/S0921-5093(00)00773-5
+
+Acknowledgements
+The author expresses sincere appreciation to Associate Professor A.S. Ivashutenko for help with sintering 
+
+experiment.
+
+Funding
+The work was performed under the strategic development program of Novosibirsk State Technical University 
+(project C-14).
+
+Article history
+Received 1 July 2016
+Revised 18 July 2016
+Accepted 15 August 2016
+
+№ 3 (72) 2016 61

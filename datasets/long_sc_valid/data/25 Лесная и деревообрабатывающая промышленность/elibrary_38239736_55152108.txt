@@ -1,0 +1,573 @@
+﻿ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 3                       143  
+
+УДК 676.16.022.6.034 
+DOI: 10.17238/issn0536-1036.2019.3.143 
+ 
+ЗАКОНОМЕРНОСТИ ПРОЦЕССА  
+ПЕРОКСИДНО-АЦЕТАТНОЙ ДЕЛИГНИФИКАЦИИ  
+НЕДРЕВЕСНОГО ЦЕЛЛЮЛОЗОСОДЕРЖАЩЕГО СЫРЬЯ  
+В ПРИСУТСТВИИ СЕРНОКИСЛОТНОГО КАТАЛИЗАТОРА  
+
+ 
+Д.Ю. Арсеньева, аспирант; ORCID: 0000-0002-7816-6727 
+Я.В. Казаков, д-р техн. наук, доц.; ResearcherID: J-4634-2012, ORCID: 0000-0001-8505-5841 
+Е.О. Окулова, аспирант 
+А.Ю. Лагунов, канд. пед. наук, доц.; ResearcherID: I-3668-2015, ORCID: 0000-0002-2914-0045 
+Северный (Арктический) федеральный университет им. М.В. Ломоносова, наб. Се-
+верной Двины, д. 17, г. Архангельск, Россия; 163002, e-mail: darsenieva@mail.ru, 
+j.kazakov@narfu.ru, e.okulova@narfu.ru 
+ 
+Рассмотрены свойства целлюлозы, полученной из отходов льняного производства 
+(костры) пероксидно-ацетатным методом с использованием в качестве катализатора 
+концентрированной серной кислоты. Лабораторные варки костры с содержанием цел-
+люлозы 38,5 %, лигнина 15,0 % и зольностью 4,1 % проводили при гидромодуле 1:10. 
+Расход катализатора составлял 1,0; 0,5 и 0,25 % от объема варочного раствора. Опре-
+делены химические и структурно-морфологические свойства образцов по стандарт-
+ным методикам. Установлено, что пероксидно-ацетатный способ варки целлюлозы из 
+костры льна с использованием серной кислоты в качестве катализатора позволяет в 
+одну ступень получить полуфабрикат с белизной более 79 % и числом микро-Каппа 
+на уровне 3 единиц. Найдено оптимальное количество катализатора в варочном рас-
+творе – 0,5 % от объема, которое способствует улучшению качественных показателей 
+льняной целлюлозы – уменьшению содержания лигнина, повышению белизны, сни-
+жению зольности и сохранению средней длины волокна. Показано, что снижение рас-
+хода катализатора до 0,25 % (об.) приводит к получению продукта с повышенным 
+выходом (40 %), пониженными белизной и содержанием α-целлюлозы, что свидетель-
+ствует о сохранении углеводного комплекса в процессе варки, уменьшении доли ко-
+ротковолокнистых фракций и увеличении доли длинноволокнистых фракций за счет 
+меньшего повреждения волокна в технологическом процессе. 
+Для цитирования: Арсеньева Д.Ю., Казаков Я.В., Окулова Е.О. Лагунов А.Ю. Зако-
+номерности процесса пероксидно-ацетатной делигнификации недревесного целлюло-
+зосодержащего сырья в присутствии сернокислотного катализатора // Лесн. журн. 
+2019. № 3. С. 143–151. (Изв. высш. учеб. заведений). DOI: 10.17238/issn0536-
+1036.2019.3.143 
+ 
+Ключевые слова: льняная целлюлоза, пероксидно-ацетатная делигнификация, надук-
+сусная кислота, костра, переработка отходов. 
+
+ 
+Введение 
+
+ 
+Основным сырьевым источником целлюлозы в настоящее время являет-
+
+ся древесина [9, 10]. Среди известных альтернативных источников получения 
+целлюлозы наиболее перспективным считается недревесное растительное  
+сырье.  
+
+Недревесное растительное сырье, в частности отходы сельскохозяй-
+ственных культур, не находит применения, так как большая его часть остается 
+на полях и обычно сжигается, причиняя экологический ущерб окружающей 
+
+ 
+
+
+
+144                       ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 3 
+
+среде. Особо остро проблема переработки отходов сельского хозяйства стоит 
+в тех российских регионах, где производство злаков является основной отрас-
+лью, получившей дополнительный импульс развития. 
+
+Главные достоинства подобного вида сырья – его ежегодная воспроиз-
+водимость (например, костры льна образуется до 46 тыс. т/год) и невысокая 
+стоимость. Однолетние растения содержат ряд ценных соединений, в том 
+числе и целлюлозу.  
+
+Наибольшее содержание целлюлозы имеют отходы льняного производ-
+ства (костра, солома). Развитие льняного комплекса на территории Россий-
+ской Федерации – одно из приоритетных направлений, имеющих государ-
+ственную поддержку, которая отражена в федеральной целевой программе 
+«Развитие льняного комплекса России на период до 2020 года».  
+
+Целлюлозу из недревесного растительного сырья можно выделять как 
+традиционными щелочными способами делигнификации, так и окислительно-
+органосольвентными. Органосольвентные способы делигнификации, являясь 
+экологически малоопасными, позволяют получать техническую целлюлозу с 
+высоким выходом и уникальными свойствами в одну стадию без применения 
+хлорсодержащих реагентов. Разрабатываются технологии и проводятся ис-
+следования, нацеленные на получение различных видов целлюлозы из недре-
+весного растительного сырья [12–16]. 
+
+В качестве способа варки в данной работе был применен пероксидно-
+ацетатный метод, в основе которого лежит варка с использованием надуксус-
+ной кислоты (НУК) – CH3COОOH. Составляющие отработанных рабочих рас-
+творов легко разлагаются на воду, кислород и уксусную кислоту и являются 
+малоопасными [8].  
+
+Пионером внедрения надкислот в промышленное производство целлю-
+лозы стало предприятие «Kemira» (г. Оулу, Финляндия) [17–23]. Там был раз-
+работан и запущен пилотный трехступенчатый процесс с применением надук-
+сусной, муравьиной, уксусной и пероксимуравьиной кислот, получивший 
+название «Milox». В настоящее время «Kemira» применяет НУК как дополни-
+тельный делигнифицирующий агент, а также для TCF-отбелки (отбелки цел-
+люлозы без использования химикатов, содержащих соединения хлора) при 
+производстве технической целлюлозы, механической массы и бумаги из вто-
+ричного волокна. 
+
+В работе [4] была рассмотрена технология получения целлюлозы и ваты 
+из льняного волокна в промышленных условиях и на промышленном обору-
+довании, предназначенном для производства хлопковой целлюлозы. Установ-
+лено, что льняная целлюлоза и льняная вата лабораторного и промышленного 
+изготовления по показателям физико-химических свойств соответствуют тре-
+бованиям ГОСТ 595–79 [5] на хлопковую целлюлозу и ГОСТ 5556–81 [7] на 
+вату гигроскопическую.  
+
+М.С. Вершининым. М.Р. Гараевой, В.К. Мингазовой [3] был проведен 
+сравнительный анализ образцов целлюлозы из льна, конопли, люцерны и ама-
+ранта методом термогравиметрии и дифференциально-сканирующей калори-
+метрии. Установлено, что целлюлоза из льна-долгунца обладает наиболее вы-
+сокими термостойкими свойствами и по этим показателям приближена к 
+хлопковой целлюлозе. 
+
+В работах [1, 2] установлено, что пероксидно-ацетатным способом вар-
+ки целлюлозы из соломы льна можно получить волокнистый полуфабрикат с 
+
+
+
+                          ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 3                       145  
+
+высокой белизной. Использование данного способа для переработки костры и 
+соломы льна позволит расширить сырьевую базу, но потребует изменения 
+технологических режимов. 
+
+Объекты и методы исследования 
+
+Объектом исследования являлась костра льна предприятия ООО «Твер-
+ская АПК» (рис. 1, а). Результаты анализа компонентного состава исходного 
+сырья представлены в табл. 1. 
+
+ 
+ 
+
+  
+а б 
+
+  
+в г 
+
+ 
+Рис. 1. Микрофотографии образцов из костры льна: а – исходное сырье; б–г – образцы 
+
+целлюлозы 1–3 соответственно 
+
+Fig. 1. Micrographs of flax shive samples: а – raw material; б–г – pulp samples 
+(б – 1; в – 2; г – 3) 
+
+ 
+Таблица 1  
+
+Компонентный состав костры льна  
+
+Показатель Значение показателя, % 
+
+Зольность 4,16 
+Влажность 0,92 
+Экстрактивные вещества 4,29 
+Лигнин 15,0 
+Целлюлоза 38,5 
+
+ 
+
+ 
+
+
+
+146                       ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 3 
+
+Для варки применяли НУК производства «Криодез» (Группа компаний 
+«Технология чистоты») концентрацией (15,0±1,5) %.  
+
+Лабораторные варки проводили в стеклянной термостатированной трех-
+горлой колбе, снабженной обратным холодильником и мешалкой, на масля-
+ной бане. Параметры варок: общий объем варочного раствора – 400 мл, в том 
+числе НУК – 300 мл, вода – 100 мл, навеска сырья (костра) – 40 г абс. сухого 
+сырья; продолжительность варки – 60 мин; температура варки –  
+90…100 °С. Расход катализатора – серной кислоты H2SO4 (конц.) для образцов 
+1, 2 и 3 составлял 4; 2 и 1 мл соответственно, или 1,00; 0,50 и 0,25 % от объема 
+варочного раствора, или 18,4; 9,2 и 4,6 % (мас.) от навески сырья. 
+
+По окончании варки целлюлозу промывали дистиллированной водой на 
+воронке Бюхнера.  
+
+Химические и структурно-морфологические свойства полученных об-
+разцов целлюлозы определяли по стандартным методикам, степень делигни-
+фикации – по методу микро-Каппа [11], содержание лигнина – по ГОСТ 
+11960–79 [6]. 
+
+Результаты исследования и их обсуждение 
+
+Результаты определения химических и структурно-морфологических 
+свойств образцов 1–3 целлюлозы из костры льна представлены в табл. 2.  
+
+ 
+Таблица 2  
+
+Химические и структурно-морфологические свойства образцов целлюлозы  
+из костры льна 
+
+Образец 
+Показатель 
+
+1 2 3 
+
+Расход катализатора, % (об.) 1,00 0,50 0,25 
+Выход, % 26,2 36,8 40,0 
+Число микро-Каппа, ед. 9,6 3,0 5,5 
+Содержание лигнина, % 0,135 0,042 0,077 
+Зольность, % 1,52 0,84 1,30 
+Белизна, % 76,3 79,4 74,7 
+Содержание α-целлюлозы, % 87,4 82,0 80,9 
+Средняя длина волокна, мм 0,24 0,31 0,36 
+Средняя ширина волокна, мкм 23,0 20,7 21,1 
+Грубость, дг 64,3 48,7 58,1 
+
+ 
+Используемая в качестве катализатора серная кислота вызывает актива-
+
+цию целлюлозы в результате ее набухания, чем способствует деструкции лиг-
+нина из сырья. Получаемый полуфабрикат обладает достаточно высокой бе-
+лизной и низким содержанием лигнина, поэтому содержание лигнина опреде-
+ляли по методу микро-Каппа.  
+
+Установлено, что расход катализатора существенно влияет на результа-
+ты варки. Для образца 1 количество вводимой серной кислоты явно избыточ-
+но, поскольку полуфабрикат обладает пониженным выходом (26,2 %) и са-
+мым высоким содержанием лигнина (из исследованных образцов). Процесс 
+делигнификации проходит с низкой избирательностью, кроме лигнина значи-
+тельная часть гемицеллюлоз и легкогидролизуемых фракций целлюлозы пе-
+
+
+
+                          ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 3                       147  
+
+реходят в раствор, что повышает содержание α-целлюлозы (87,4 %). Гидролиз 
+полисахаридов отражается на прочности волокон. Перемешивание массы в 
+процессе варки приводит к повреждению волокон и их рубке, в результате 
+полуфабрикат имеет самую низкую среднюю длину волокна – 0,24 мм. 
+
+При малом расходе катализатора (образец 3) получается продукт с по-
+вышенным выходом (40 %), пониженными белизной и содержанием  
+α-целлюлозы, что свидетельствует о сохранении углеводного комплекса в 
+процессе варки. 
+
+Эксперимент показал, что наиболее оптимальным расходом катализато-
+ра является 0,5 % от общего объема раствора (образец 2). На выходе эта цел-
+люлоза имеет достаточно низкие числа микро-Каппа (3 ед.) и содержание 
+лигнина (0,042 %). По сравнению с исходным сырьем зольность снижена по-
+чти в 5 раз и составляет 0,84 %. 
+
+Для оценки возможности использования в композиции бумаги и карто-
+на полученного волокна были определены его структурно-морфологические 
+свойства на автоматизированном анализаторе волокна L&W FiberTester, 
+Средняя длина волокна – 0,24…0,36 мм; при снижении объема катализатора 
+наблюдалось небольшое возрастание этого показателя. Средняя ширина во-
+локна – 20,7…23,0 мкм.  
+
+Фракционный состав образцов целлюлозы из костры льна по длине во-
+локна приведен на рис. 2. 
+
+ 
+Рис. 2. Фракционный состав по длине волокна образцов цел-
+
+люлозы, полученной из костры льна 
+
+Fig. 2. Fiber length distribution of pulp samples obtained from flax 
+shive 
+
+ 
+Бóльшую часть составляют короткие волокна длиной менее 0,2 мм. Та-
+
+кая длина волокон характерна для растительного сырья, но она слишком мала 
+для самостоятельного использования в производстве бумаги. Однако эти во-
+локна могут выступать и в качестве добавки в композицию макулатурных ви-
+дов бумаги и картона. Уменьшение расхода катализатора приводит к сниже-
+нию доли коротковолокнистых фракций и росту доли длинноволокнистых за 
+счет меньшего повреждения волокна в технологическом процессе.  
+
+ 
+
+
+
+148                       ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 3 
+
+Для проведения микроскопических исследований образцов целлюлозы 
+применяли моторизованный микроскоп высокого разрешения «Imager Z2m 
+Carl Zeiss». 
+
+Установлено, что анатомические элементы целлюлозы из льняной кост-
+ры представляют собой короткие волокна с низким соотношением «дли-
+на : ширина». Микрофотографии (см. рис. 1, б–г) наглядно демонстрируют, 
+что волокна такой целлюлозы имеют ряд отличий от волокон из древесины и 
+даже в неразмолотом состоянии содержат обрывки волокон, образовавшиеся, 
+по всей видимости, при перемешивании волокнистой массы мешалкой в про-
+цессе варки. 
+
+Выводы  
+
+1. Использование пероксидно-ацетатного способа варки целлюлозы из 
+костры льна с использованием серной кислоты в качестве катализатора позво-
+ляет в одну ступень получить полуфабрикат с белизной более 79 % и числом 
+Каппа 3 ед. 
+
+2. Оптимальный расход катализатора составляет 0,5 % от объема вароч-
+ного раствора, что способствует улучшению качественных показателей льня-
+ной целлюлозы – уменьшению содержания лигнина, повышению белизны, 
+снижению зольности и сохранению средней длины волокна. 
+
+3. Снижение расхода катализатора до 0,25 % (об.) приводит к получе-
+нию продукта с повышенным выходом (40 %), пониженными белизной и со-
+держанием α-целлюлозы, что свидетельствует о сохранении углеводного ком-
+плекса в процессе варки, приводит к уменьшению доли коротковолокнистых 
+фракций и увеличению доли длинноволокнистых за счет меньшего поврежде-
+ния волокна в технологическом процессе. 
+
+ 
+СПИСОК ЛИТЕРАТУРЫ 
+
+ 
+1. Арсеньева Д.Ю., Захарова А.А., Артемов А.В. Особенности пероксидно-
+
+ацетатного метода получения целлюлозы из растительного материала // Естественные 
+и технические науки. 2016. № 8(98). С. 30–32. 
+
+2. Арсеньева Д.Ю., Казаков Я.В. Бумагообразующие свойства волокна, полу-
+ченного из соломы льна пероксидно-ацетатным методом // Проблемы механики цел-
+люлозно-бумажных материалов: материалы IV Междунар. науч.-техн. конф. (Архан-
+гельск, 14–16 сент. 2017 г.) Архангельск: САФУ, 2017. С. 303–307. 
+
+3. Вершинин М.С., Гараева М.Р., Мингазова В.К. Исследование термических 
+характеристик целлюлоз, полученных из растительного сырья // Приволж. науч. 
+вестн. 2017. № 3(67). C. 10–13. 
+
+4. Волкова Н.Н., Обрезкова М.В., Куничан В.А. Получение льняной целлюлозы 
+на технологической линии производства хлопковой целлюлозы // Ползунов. вестн. 
+2007. № 3. С. 25–27. 
+
+5. ГОСТ 595–79. Целлюлоза хлопковая. Технические условия. Введ. 1980–07–
+01. М.: Изд-во стандартов, 2002. 14 с. 
+
+6. ГОСТ 11960–79. Полуфабрикаты волокнистые и сырье из однолетних расте-
+ний для целлюлозно-бумажного производства. Метод определения лигнина. Введ. 
+1981–01–01. М.: Изд-во стандартов, 1985. 4 с. 
+
+7. ГОСТ 5556–81. Вата медицинская гигроскопическая. Технические условия. 
+Введ. 1982–07–01. М: Изд-во стандартов, 1993. 13 с. 
+
+8. Глазова Н.В., Сатина О.И. НУК: экологически безопасная альтернатива хло-
+ру // Птица и птицепродукты. 2010. № 1. С. 58–60. 
+
+
+
+                          ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 3                       149  
+
+9. Коваленко М.В., Сибаева А.Р. Сопоставительный анализ сорбционной спо-
+собности образцов целлюлозы из древесины лиственницы и образцов целлюлозы из 
+древесины сосны // Theoretical & Applied Science. 2013. № 12(8). С. 31–34. DOI: 
+10.15863/TAS.2013.12.8.7 
+
+10. Кузнецов Б.Н., Кузнецова С.А., Данилов В.Г., Яценкова О.В. Каталитические 
+методы переработки древесины в целлюлозу с низким содержанием лигнина // Цел-
+люлоза. Бумага. Картон. 2007. № 12. С. 27–30. 
+
+11. Миловидова Л.А., Холмова М.А., Комарова Г.В. Отбелка целлюлозы:  
+метод. указания к выполнению лаб. работ. Архангельск: САФУ, 2011. С. 20–22. 
+
+12. Минакова А.Р. Получение целлюлозы окислительно-органо-сольвентным 
+способом при переработке недревесного растительного сырья: дис. … канд. техн. 
+наук. Архангельск, 2008. 151 с. 
+
+13. Barbash V., Poyda V., Deykun I. Peracetic Acid Pulp from Annual Plants // Cel-
+lulose Chemistry and Technology. 2011. Vol. 45, iss. 9–10. Pp. 613–618. 
+
+14. Biswas A., Saha B.C., Lawton J.W., Shogren R.L., Willett J.L. Process for Obtain-
+ing Cellulose Acetate from Agricultural By-Products // Carbohydrate Polymers. 2006.  
+Vol. 64, iss. 1. Pp. 134–137. DОI: 10.1016/j.carbpol.2005.11.002 
+
+15. Coletti A., Valerio A., Vismara E. Posidonia oceanica as a Renewable Lignocel-
+lulosic Biomass for the Synthesis of Cellulose Acetate and Glycidyl Methacrylate Grafted 
+Cellulose // Materials. 2013. Vol. 6(5). Pp. 2043–2058. DOI: 10.3390/ma6052043 
+
+16. Jackson M., Lewis K.S., Lewis M.S., McKean W.T., Pan W.L. Final Report on 
+Washington State Department of Ecology AG-Burning Permit Project Contract no. C030085 
+for Lewis Engineering Consultants. 2003. 70 p. 
+
+17. Laamanen L.A., Sundquist J.J., Wartiovaara Y.P. Menetelma valkaistun sellu-
+loosamassan valmistamiseksi ligniimpitoisesta raaka-ameesta. Pat. Finland no. 74750. 1988. 
+
+18. Pohjanvesi S., Saan K., Poopius-Levlin K., Sundquist J. Technical and Economi-
+cal Feasibility Study of the Milox Process // Proceedings of the 8th International Symposi-
+um on Wood and Pulping Chemistry June 6–9, 1995, Helsinki, Finland. Helsinki, 1995.  
+Vol. 2. Pp. 231–236. 
+
+19. Poppius K., Laamanen L., Sundquist J., Wartiovaara I., Kaulimakis A. Bleached 
+Рulp by Peroxyacid-Alkaline Delignification // Paperi Ja Puu. 1986. Vol. 68, no. 2.  
+Pp. 87–88, 90–92. 
+
+20. Poppius-Levlin K., Mustonen R., Muovila Т., Sundquist J. Milox Pulping with 
+Acetic Acid-Peroxyacetic Acid // Paperi Ja Puu. 1991. Vol. 73, no. 2. Pp. 154–158. 
+
+21. Sundquist J. From Test Tube to Pilot Plant: The First Miles on the Roach of the 
+Milox Pulping and Bleaching Method. Finn. Chem. Congr., Helsinki, November 12–14, 
+1991 // Kemia-kemi. 1991. No. 108. 
+
+22. Sundquist J. Chemical Pulping Based on Formic Acid: Summary of Milox Re-
+search // Paperi Ja Puu. 1996. Vol. 78, no. 3. Pp. 92–95. 
+
+23. Sundquist J., Laamanen L., Poppius K. Problems of Nonconventional Pulping 
+Process in the Light of Peroxyformic Acid Cooking Experiments // Paperi Ja Puu. 1988. 
+Vol. 70, no. 2. Pp. 143, 145–148. 
+
+ 
+Поступила 07.09.18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+150                       ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 3 
+
+UDC 676.16.022.6.034 
+DOI: 10.17238/issn0536-1036.2019.3.143 
+ 
+Peroxide-Acetate Delignification Patterns of Non-Wood Raw Material Containing  
+Cellulose in the Presence of Sulfuric Catalyst 
+ 
+D.Yu. Arsenyeva, Postgraduate Student; ORCID: 0000-0002-7816-6727 
+Ya.V. Kazakov, Doctor of Engineering, Assoc. Prof.; ResearcherID: J-4634-2012,  
+ORCID: 0000-0001-8505-5841 
+E.O. Okulova, Postgraduate Student 
+A.Yu. Lagunov, Candidate of Pedagog., Assoc. Prof.; ResearcherID: I-3668-2015,  
+ORCID: 0000-0002-2914-0045 
+ 
+Northern (Arctic) Federal University named after M.V. Lomonosov, Naberezhnaya 
+Severnoy Dviny, 17, Arkhangelsk, 163002, Russian Federation; e-mail: darsenieva@ 
+mail.ru, j.kazakov@narfu.ru, e.okulova@narfu.ru 
+ 
+The paper considers the properties of cellulose obtained from flax production wastes (shive) 
+by peroxide-acetate method using concentrated sulfuric acid as a catalyst. Pulping of flax 
+shive with 38.5 % of cellulose, 15 % of lignin, and 4.1 % of ash were carried out under the 
+laboratory conditions with 1:10 hydromodulus. The catalyst consumption was 1.0, 0.5 and 
+0.25 % of the pulping solution volume. Chemical and structural-morphological properties of 
+obtained samples were determined by standard methods. It has been found that the use of 
+peroxide-acetate method of flax shive pulping using sulfuric catalyst allows to obtain a 
+semi-finished product with more than 79 % of whiteness and Kappa of 3 units in one step. 
+The most optimal ratio of the catalyst in the pulping solution is 0.5 % by the volume to the 
+pulping solution, which contributes to the quality improvement of flax cellulose: lignin con-
+tent reducing, whiteness increasing, ash content decreasing, and mean fiber length maintain-
+ing. It is shown that reduction in catalyst consumption to 0.25 % (vol.) leads to manufactur-
+ing a product with an increased yield (40 %), reduced whiteness and -cellulose content, 
+which indicates the preservation of the carbohydrate complex during pulping, decrease in 
+the short fiber fractions proportion, and increase in the long fiber proportion due to the re-
+duced fiber damage in the process. 
+For citation: Arsenyeva D.Yu., Kazakov Ya.V., Okulova E.O., Lagunov A.Yu.  Peroxide-
+Acetate Delignification Patterns of Non-Wood Raw Material Containing Cellulose in the 
+Presence of Sulfuric Catalyst. Lesnoy Zhurnal [Forestry Journal], 2019, no. 3, pp. 143–151. 
+DOI: 10.17238/issn0536-1036.2019.3.143 
+ 
+Keywords: flax cellulose fiber, peroxide acetate method, peracetic acid, flax shive, waste 
+recycling. 
+ 
+
+REFERENCES 
+ 
+
+1. Arsenyeva D.Yu., Zakharova AA, Artemov A.V. Features of the Peroxide Acetate 
+Method of Obtaining Pulp from Plant Material. Estestvennyye i tekhnicheskiye nauki [Natu-
+ral and Technical Sciences], 2016, no. 8, pp. 30–33. 
+
+2. Arsenyeva D.Yu., Kazakov Ya.V. Paper-Forming Properties of Fibers Obtained 
+from Flax Straw by Peroxide Acetate Method. The Issues in Mechanics of Pulp and Paper 
+Materials: Proc. of the IV Int. Sci.-Tech. Conf. (Arkhangelsk, September 14–16, 2017). Ar-
+khangelsk, NArFU Publ., 2017, pp. 303–307. 
+
+3. Vershinin M.S., Garaeva M.R., Mingazova V.K. Research of Celluloses Thermal 
+Characteristics which Was Produced from Plant Raw Materials. Privolzhskij nauchnyj vest-
+nik, 2017, no. 3(67), pp. 10–13. 
+
+
+
+                          ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 3                       151  
+
+4. Volkova N.N., Obrezkova M.V., Kunichan V.A. Flax Pulp Production on the Cot-
+ton Cellulose Production Line. Polzunovskiy vestnik [Polzunovsky Vestnik], 2007, no. 3, 
+pp. 25–27. 
+
+5. GOST 595–79. Cotton cellulose. Technical Specifications. Moscow, Standards 
+Publ., 2002. 14 p. 
+
+6. GOST 11960–79. Fibre Semi-Products and Raw Materials of Annuals for and Pa-
+per Industry. Method for Determination of Lignin. Moscow, Standards Publ., 1985. 4 p. 
+
+7. GOST 5556–81. Absorbent Medical Cotton Wool. Technical Specifications. Mos-
+cow, Standards Publ., 1993. 13 p. 
+
+8. Glazova N.V., Satina O.I. Peracetic Acid (PAA): An Environmentally Friendly Al-
+ternative to Chlorine. Ptitsa i рtitseprodukty, 2010, no. 1, pp. 58–60. 
+
+9. Kovalenko M.V, Sibaeva A.R. Comparative Analysis of the Sorption Capacity of 
+Larch and Pine Wood Pulp Samples. ISJ Theoretical & Applied Science, 2013, no. 12(8), 
+pp. 31–34. DOI: 10.15863/TAS.2013.12.8.7 
+
+10. Kuznetsov B.N., Kuznetsova S.A., Danilov V.G., Yatsenkova O.V. Catalytic 
+Methods of Processing of Wood into Pulp with Low Contents of Lignin. Tsellyuloza. Bum-
+aga. Karton, 2007, no. 12, pp. 27–30. 
+
+11. Milovidova L.A., Kholmova M.A., Komarova G.V. Pulp Bleaching: Laboratory 
+Operations Manual. Arkhangelsk, NArFU Publ., 2011, pp. 20–22. 
+
+12. Minakova A.R. Cellulose Production by an Oxidation and Organo-Solvent 
+Method in the Processing of Non-Wood Plant Raw Materials: Cand. Eng. Sci. Diss. 
+Arkhangelsk, 2008. 151 p. 
+
+13. Barbash V., Poyda V., Deykun I. Peracetic Acid Pulp from Annual Plants. Cellu-
+lose Chemistry and Technology, 2011, vol. 45, iss. 9–10, pp. 613–618. 
+
+14. Biswas A., Saha B.C., Lawton J.W., Shogren R.L., Willett J.L. Process for Ob-
+taining Cellulose Acetate from Agricultural By-Products. Carbohydrate Polymers, 2006, 
+vol. 64, iss. 1, pp. 134–137. DОI: 10.1016/j.carbpol.2005.11.002 
+
+15. Coletti A., Valerio A., Vismara E. Posidonia oceanica as a Renewable Lignocel-
+lulosic Biomass for the Synthesis of Cellulose Acetate and Glycidyl Methacrylate Grafted 
+Cellulose. Materials, 2013, vol. 6(5), pp. 2043–2058. DOI: 10.3390/ma6052043 
+
+16. Jackson M., Lewis K.S., Lewis M.S., McKean W.T., Pan W.L. Final Report on 
+Washington State Department of Ecology AG-Burning Permit Project Contract no. 
+C030085 for Lewis Engineering Consultants. 2003. 70 p. 
+
+17. Laamanen L.A., Sundquist J.J., Wartiovaara Y.P. Menetelma valkaistun sellu-
+loosamassan valmistamiseksi ligniimpitoisesta raaka-ameesta. Pat. Finland no. 74750, 1988. 
+
+18. Pohjanvesi S., Saan K., Poopius-Levlin K., Sundquist J. Technical and Economi-
+cal Feasibility Study of the Milox Process. Proceedings of the 8th International Symposium 
+on Wood and Pulping Chemistry June 6–9, 1995, Helsinki, Finland. Helsinki, 1995, vol. 2, 
+pp. 231–236. 
+
+19. Poppius K., Laamanen L., Sundquist J., Wartiovaara I., Kaulimakis A. Bleached 
+Pulp by Peroxyacid-Alkaline Delignification. Paperi Ja Puu, 1986, vol. 68, no. 2, pp. 87–
+88, 90–92. 
+
+20. Poppius-Levlin K., Mustonen R., Muovila Т., Sundquist J. Milox Pulping with 
+Acetic Acid-Peroxyacetic Acid. Paperi Ja Puu, 1991, vol. 73, no. 2, pp. 154–158. 
+
+21. Sundquist J. From Test Tube to Pilot Plant: The First Miles on the Roach of the 
+Milox Pulping and Bleaching Method. Finn. Chem. Congr., Helsinki, November 12–14, 
+1991. Kemia-kemi, 1991, no. 108. 
+
+22. Sundquist J. Chemical Pulping Based on Formic Acid: Summary of Milox Re-
+search. Paperi Ja Puu, 1996, vol. 78, no. 3, pp. 92–95. 
+
+23. Sundquist J., Laamanen L., Poppius K. Problems of Nonconventional Pulping 
+Process in the Light of Peroxyformic Acid Cooking Experiments. Paperi Ja Puu, 1988,  
+vol. 70, no. 2, pp. 143–148. 
+
+Received on September 07, 2018

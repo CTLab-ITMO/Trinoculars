@@ -1,0 +1,619 @@
+﻿УДК 669.3:539.25:6 
+doi: 10.18323/2782-4039-2022-1-73-81 
+ 
+
+Формирование острой кубической текстуры в лентах-подложках  
+из сплавов (Cu+Ni)–Me (Me=Mo, Mn, Nb)  
+
+для высокотемпературных сверхпроводников второго поколения 
+© 2022 
+
+1
+Суаридзе Теона Романиевна* , младший научный сотрудник 
+
+2
+Хлебникова Юлия Валентиновна , кандидат технических наук, ведущий научный сотрудник 
+
+3
+Егорова Лада Юрьевна , кандидат технических наук, старший научный сотрудник 
+
+Институт физики металлов им. М.Н. Михеева Уральского отделения Российской академии наук,  
+Екатеринбург (Россия) 
+ 
+
+1
+*E-mail: t.suaridze@yandex.ru ORCID: https://orcid.org/0000-0003-4845-1102 
+
+2ORCID: https://orcid.org/0000-0003-2196-1647 
+3ORCID: https://orcid.org/0000-0002-1951-2976 
+
+ 
+Поступила в редакцию 16.08.2021          Принята к публикации 16.02.2022 
+
+ 
+Аннотация: После холодной прокатки со степенями обжатия более 97 % и рекристаллизационного отжига  
+
+в ряде металлов с гранецентрированной кубической решеткой, обладающих высоким или средним значением 
+энергии дефектов упаковки, таких как Ni, Cu, Al, Pt и некоторых сплавов на их основе, формируется острая куби-
+ческая текстура. Протяженные ленты из этих металлов и сплавов с гранецентрированной кубической решеткой 
+могут быть использованы для нанесения многослойных функциональных композиций. Проведено исследование 
+структуры и кристаллографической текстуры в лентах из тройных сплавов на медно-никелевой основе. Показана 
+принципиальная возможность создания многокомпонентных сплавов на базе бинарного сплава Cu+40% Ni, 
+дополнительно легированного такими элементами, как Мо или Nb. Рассмотрено формирование острой кубической 
+текстуры в лентах из сплавов Cu–Ni–Mn, Cu–Ni–Nb и Cu–Ni–Мо, полученных путем холодной деформации про-
+каткой и рекристаллизационного отжига, проведенного при различных температурах. Установлено, что оптималь-
+ным режимом рекристаллизационного отжига, при котором на поверхности деформированных на ~99 % лент из 
+сплавов (Cu+40% Ni)–Me (где Ме=Mn, Мо, Nb) реализуется наиболее совершенная кубическая текстура, является 
+отжиг в течение 1 ч при 1050 °С. Согласно полученным данным, после такого режима отжига в сплавах Cu–
+40% Ni–1,3% Mn, Cu–40% Ni–0,8% Mo и Cu–40% Ni–0,5% Nb сформировалось от 94 до 98 % зерен с ориентацией 
+{001}<100>, что открывает перспективу использования данных сплавов в качестве эпитаксиальных подложек  
+в технологии высокотемпературных сверхпроводников второго поколения. Оценка механических характеристик 
+показала, что легирование способствовало повышению величины предела текучести сплавов Cu–40% Ni–1,3% Mn, 
+Cu–40% Ni–0,8% Mo и Cu–40% Ni–0,5% Nb в 3–4 раза по сравнению с величиной предела текучести текстурован-
+ной медной ленты. 
+
+Ключевые слова: текстурованные ленты; сплавы на медно-никелевой основе; деформация; рекристаллизаци-
+онный отжиг; кубическая текстура; предел текучести.  
+
+Благодарности: Работа выполнена в рамках государственного задания по теме «Структура» (№ г.р. АААА-
+А18-118020190116-6) при частичной финансовой поддержке РФФИ и Свердловской области в рамках научного 
+проекта № 20-43-660034. 
+
+Исследования структуры и текстуры образцов были проведены в отделе электронной микроскопии ЦКП «Ис-
+пытательный центр нанотехнологий и перспективных материалов» Института физики металлов имени М.Н. Ми-
+хеева УрО РАН. 
+
+Статья подготовлена по материалам докладов участников X Международной школы «Физическое материало-
+ведение» (ШФМ-2021), Тольятти, 13–17 сентября 2021 года. 
+
+Для цитирования: Суаридзе Т.Р., Хлебникова Ю.В., Егорова Л.Ю. Формирование острой кубической тексту-
+ры в лентах-подложках из сплавов (Cu+Ni)–Me (Me=Mo, Mn, Nb) для высокотемпературных сверхпроводников вто-
+рого поколения // Frontier Materials and Technologies. 2022. № 1. С. 73–81. DOI: 10.18323/2782-4039-2022-1-73-81. 
+
+ 
+Assisted-Biaxially-Textured-Substrates) – это одна из тех-
+
+ВВЕДЕНИЕ нологий создания ВТСП материалов 2-го поколения, 
+Как известно, биаксиально текстурированная лента при которой подложки с биаксиальной текстурой полу-
+
+из ГЦК-сплавов на никелевой или медной основе мо- чают посредством прокатки и рекристаллизационного 
+жет быть использована в качестве подложки для эпи- отжига. Ленты-подложки из медных сплавов, изготов-
+таксиального нанесения на нее функциональных слоев ленные по технологии RABiTS, ввиду их относительно 
+при создании высокотемпературных сверхпроводящих невысокой стоимости и немагнитности представляют-
+материалов второго поколения (ВТСП материалов  ся весьма перспективными, как альтернатива исполь-
+2-го поколения) (2G HTS – second-generation high- зуемым на сегодняшний день в производстве лентам 
+temperature superconductors) [1]. RABiTS (Rolling- из сплавов на основе никеля, обладающим острой 
+
+F rontier Materials & Technologies. 2022. № 1 73
+
+
+
+Суаридзе Т.Р., Хлебникова Ю.В., Егорова Л.Ю.   «Формирование острой кубической текстуры в лентах-подложках…»  
+
+кубической текстурой. Среди обилия разработанных  ры в тройном сплаве на медно-никелевой основе с до-
+и запатентованных составов сплавов на никелевой и мед- бавкой такого тугоплавкого элемента, как вольфрам.  
+ной основах наиболее широко применяемым в техноло- В настоящей работе предложено рассмотреть возмож-
+гии производства кабелей 2G HTS по-прежнему остает- ность получения совершенной биаксиальной текстуры 
+ся ферромагнитный сплав Ni–4,8 at. % W [2–4]. Разные в тройных сплавах на медно-никелевой основе с добав-
+группы исследователей предпринимают попытки соз- ками ниобия, молибдена и марганца. Согласно [18] 
+дать немагнитные сплавы системы Ni–W посредством сплав Cu–Ni–Mn (или промышленный константан) яв-
+увеличения содержания вольфрама [5–7]. Например,  ляется одним из наиболее перспективных и привлека-
+в работе [5] смешивали сплавы на основе никеля с со- тельных сплавов при создании лент-подложек с совер-
+держанием 8 и 12 at. % W. В полученной подложке шенной кубической текстурой, близкой к монокри-
+сформировалось около 98 % зерен с ориентацией стальной. Исходя из данных работ [19–21], можно ожи-
+{001}<100>, однако она обладала незначительным маг- дать, что легирование сплавов приведет к увеличению 
+нетизмом. Кроме того, создание сплавов методом по- прочностных и антикоррозионных свойств лент. 
+рошковой металлургии существенно дороже, чем тра- Цель работы – исследование структуры, кристалло-
+диционная выплавка, особенно в случае если речь идет графической текстуры и механических свойств тонких 
+о перспективе производства многокилометрового кабе- протяженных лент из сплавов (Cu+Ni)–Me (где Ме=Mn, 
+ля. В работе [7] авторам не удалось получить в ленте из Мо, Nb), имеющих перспективу использования в каче-
+сплава Ni–9,3 at. % W текстуру, аналогичную по степе- стве эпитаксиальных подложек при производстве высо-
+ни совершенства текстуре сплава Ni–4,8 at. % W, став- котемпературных сверхпроводящих материалов второ-
+шего классическим. В связи с этим актуальной является го поколения.  
+задача разработки лент-подложек из немагнитных при  
+77 K ГЦК-сплавов на медной основе, не уступающих по 
+степени совершенства и прочностным характеристикам МЕТОДИКА ПРОВЕДЕНИЯ ИССЛЕДОВАНИЯ  
+
+сплавам на основе никеля. В качестве материалов для исследований были вы-
+В меди после холодной деформации прокаткой браны следующие сплавы (at. %): Cu–40% Ni–1,3% Mn, 
+
+формируется текстура деформации такого компонент- Cu–40% Ni–0,8% Mo и Cu–40% Ni–0,5% Nb. Выплавка 
+ного состава, который позволяет при последующем тройных сплавов на медно-никелевой основе была 
+рекристаллизационном отжиге формировать острую произведена в вакуумной индукционной печи в атмо-
+биаксиальную текстуру. Однако значение энергии де- сфере аргона с использованием меди марки М0 (чис-
+фектов упаковки (ЭДУ) меди согласно [8] существенно тота 99,95 wt. %), никеля (чистота 99,99 wt. %), а так-
+ниже, чем у никеля, что ограничивает возможности же ниобия, марганца и молибдена (чистота не ниже 
+легирования при создании медных сплавов, поскольку 99,94 wt. %). Полученные слитки (вес ~500 г) после 
+легирование всегда снижает ЭДУ. Это, в свою очередь, удаления усадочной раковины ковали на прутки 
+приводит к увеличению объемной доли компоненты 10×10 мм в интервале температур 900–1100 °С. После 
+{110}<112> за счет снижения объемной доли суммы шлифовки заготовки отжигались в течение 1,5 ч при 
+компонент {123}<634> и {112}<111>. Подобное изме- 650 °С. 
+нение компонентного состава текстуры деформации Далее заготовки аналогично [10; 20] были подверг-
+приводит к формированию на поверхности сплавов нуты холодной деформации прокаткой в 2 этапа с не 
+текстуры типа латуни, которая не позволяет в дальней- менее чем 70 проходами, до толщины 90–100 мкм. 
+шем формировать острую биаксиальную текстуру [9; Общая степень обжатия протяженных лент-подложек 
+10]. Из всех химических элементов, ввиду неограни- составляла 98,6–99,1 %. 
+ченной растворимости, только никель можно вводить  Температура начала рекристаллизации холоднока-
+в медную матрицу без ограничений, не снижая при таных лент из тройных сплавов на медно-никелевой 
+этом ЭДУ сплава. Однако по оценке [11], в сплавах ме- основе определена на кварцевом дилатометре ULVAC-
+ди с содержанием ~46–47 at. % Ni точка Кюри ниже SINKU RIKO по изменению коэффициента термиче-
+77 К. Это обстоятельство количественно ограничивает ского расширения сплава. Съемка кривых проводилась 
+легирование меди никелем. Наиболее эффективными  в интервале температур от 20 до 850 С со скоростью 
+с точки зрения упрочнения являются тугоплавкие эле- нагрева 2 K/мин. 
+менты, такие как вольфрам, молибден и ниобий, но Рекристаллизационные отжиги с целью получения 
+медь не образует с ними твердого раствора. Процесс кубической текстуры ленточных образцов из сплавов 
+получения, например, бинарных сплавов Cu-Me (Mo, (Cu+Ni)–Me, помещенных в вакуумный контейнер, бы-
+Nb) технологически невозможен из-за существенной ли проведены посадкой в печь при следующих темпе-
+разницы в температурах плавления этих металлов. ратурах: 950, 1000, 1050 и 1100 °С. Время выдержки 
+
+Технология получения протяженных лент из бинар- составляло 1 ч, охлаждение образцов происходило при 
+ных сплавов системы Cu–Ni, обладающих острой биак- комнатной температуре. 
+сиальной текстурой, была рассмотрена в ряде работ Исследование структуры лент-подложек было выпол-
+12–14]. Выбор медно-никелевой базы для создания нено с помощью оптического микроскопа Neophot-30. 
+лент-подложек из тройных сплавов (Cu+40 % Ni)–Me Для этого образцы травили в смеси концентрированных 
+связан с тем, что в данных сплавах с увеличением со- кислот НNO3, HCl и H3PO4 в равных долях с добавле-
+держания никеля расширяется область ГЦК-твердого нием 30–40 % Н2О2. 
+раствора [15; 16]. Авторами [17] была рассмотрена воз- Величина среднего размера зерен в образцах вы-
+можность формирования острой биаксиальной тексту- числялась по структуре отожженных лент с помощью   
+
+7 4 Frontier Materials & Technologies. 2022. № 1
+
+
+
+Суаридзе Т.Р., Хлебникова Ю.В., Егорова Л.Ю.   «Формирование острой кубической текстуры в лентах-подложках…»  
+
+метода секущих, как среднее арифметическое ~80 из- с тем, что введение даже малого количества тугоплав-
+мерений. Подсчет производился по изображениям кого элемента в медно-никелевую основу заметно по-
+структуры, полученным на оптическом микроскопе.  вышает температуру начала рекристаллизации сплава 
+
+Качество текстуры, сформировавшейся на поверх- (таблица 1). 
+ности лент после рекристаллизационных отжигов, было Металлографические исследования показали, что  
+проанализировано с помощью сканирующего электрон- с повышением температуры рекристаллизационного 
+ного микроскопа FEI Quanta 200 с использованием мето- отжига до 1050 °С структура исследованных образцов 
+да дифракции обратно рассеянных электронов (EBSD). из сплавов Cu–40% Ni–1,3% Mn, Cu–40% Ni–0,8% Mo  
+Сканирование ориентационных данных осуществля- и Cu–40% Ni–0,5% Nb становится более однородной по 
+лось с поверхности площадью 3×3,2 мм с шагом 2 мкм.  размеру зерна. В качестве примера на рис. 3 a, 3 b при-
+
+Анализ механических характеристик проводился  ведена структура тонкой ленты из сплава Cu–40% Ni–
+с использованием текстурованных лент (отжиг 1050 °С, 0,8% Mo после отжигов при 1000 и 1050 °С. На рис. 3 a 
+1 ч). Данные о величине 0,2 получены в результате ис- стрелками показаны зерна с двойниковой ориентацией, 
+пытаний на растяжение образцов толщиной 100 мкм, на рис. 3 b ввиду формирования более совершенной 
+длиной 120 мм и шириной 5 мм. Исследования были текстуры двойниковой составляющей не наблюдалось. 
+выполнены при комнатной температуре.  Следует отметить, что для каждого сплава в ходе рабо-
+
+ ты было проанализировано несколько различных уча-
+стков по длине текстурованной ленты. 
+
+РЕЗУЛЬТАТЫ ИССЛЕДОВАНИЯ 
+Механические свойства текстурованных лент  
+
+Текстура и структура лент-подложек из тройных из тройных сплавов на медно-никелевой основе 
+сплавов на медно-никелевой основе Анализ механических характеристик, а именно ве-
+
+По результатам проведенных электронно-микро- личины предела текучести, показал, что легирование 
+скопических исследований было определено, что после сплавов привело к повышению прочности лент. Дан-
+всех примененных режимов рекристаллизационного ные, полученные в результате испытаний на растяже-
+отжига (от 950 до 1100 °С в течение 1 ч) в тонких лен- ние, для лент-подложек из сплавов Cu–40% Ni–
+тах-подложках из тройных сплавов формируется острая 1,3% Mn, Cu–40% Ni–0,8% Mo и Cu–40% Ni–0,5% Nb 
+биаксиальная текстура. Однако по мере увеличения приведены в таблице 1. Согласно им, величина предела 
+температуры отжига до 1050 °С степень совершенства текучести лент-подложек из тройных сплавов составля-
+полученной текстуры существенно возрастала. Доля ла от 85 до 108 МПа. Для изученных ранее лент из чис-
+кубических зерен после отжигов при 950–1050 °С варь- той меди и базового сплава Cu–40% Ni величина 0,2 
+ировалась от 78 до 97 % для сплавов разных составов. составляла 25 и 80 МПа соответственно [10; 20]. 
+Например, в текстурованной ленте из сплава Cu–  
+40% Ni–0,8% Mo после отжига 1000 °С, 1 ч сформиро-
+валось 88 % зерен с ориентацией {001}<100>, а после ОБСУЖДЕНИЕ РЕЗУЛЬТАТОВ 
+
+отжига при 1050 °С в течение 1 ч их доля за счет резко- Основной характеристикой ленточных многослой-
+го снижения количества двойниковой составляющей ных ВТСП является величина критического тока, кото-
+увеличилась до 97 %. На рис. 1 приведены данные рая в значительной степени определяется остротой кри-
+EBSD-анализа, характеризующие качество сформиро- сталлографической текстуры в материале сверхпровод-
+вавшейся текстуры в лентах-подложках из сплава ника, наследуемой от кубической текстуры металличе-
+(Cu+40% Ni)–0,8% Mo после отжига при 1050 °С, 1 ч. ской подложки. Существующие межзеренные границы 
+На гистограмме распределения углов разориентировки в сверхпроводящем слое создают препятствие протека-
+границ зерен (рис. 1 c) слабый пик в области углов 60° нию тока сверхпроводимости, но эти препятствия 
+соответствует зернам с двойниковой ориентацией. уменьшаются с увеличением степени текстурованности 
+
+Повышение температуры рекристаллизационного [20]. Электронно-микроскопические исследования по-
+отжига до 1100 °С привело к уменьшению степени со- казали, что рассмотренные в настоящей работе ленты-
+вершенства текстуры во всех исследованных сплавах. На подложки из сплавов Cu–40% Ni–1,3% Mn, Cu–40% Ni–
+рис. 2 приведены данные для ленты-подложки из сплава 0,8% Mo и Cu–40% Ni–0,5% Nb не уступают по степени 
+Cu–40% Ni–1,3% Mn. В результате отжига при 1050 °С  совершенства текстуры лентам-подложкам из сплавов 
+в течение 1 ч доля зерен с ориентацией {001}<100> на на никелевой и медной основах, в которых доля кубиче-
+поверхности сплава составляла 94 % (рис. 2 a, 2 b). Од- ских зерен составляла от 93 до 99–100 % [2; 7; 17; 18].  
+нако последующее увеличение температуры отжига на Кроме того, для производства протяженных лент  
+50 °С (режим отжига 1100 °С, 1 ч), согласно полученным в промышленности необходимо иметь достаточно вы-
+данным, привело к росту отдельных зерен и развитию  сокие прочностные характеристики несущей металли-
+в структуре сплава процесса вторичной рекристаллиза- ческой основы. Испытания на растяжение показали, что 
+ции (рис. 2 c, 2 d). дополнительное легирование медно-никелевой базы 
+
+Вследствие этого, оптимальным режимом рекри- 0,8 % W и 0,5 % Nb способствовало увеличению меха-
+сталлизационного отжига для сплавов всех составов, нических свойств лент-подложек до 25 %, а введение 
+при котором на поверхности лент-подложек формирует- 1,3% Mn практически не привело к изменению величи-
+ся текстура максимальной степени совершенства (близ- ны предела текучести. Отметим, что рассмотренные 
+кая к монокристальной), является отжиг при 1050 °С, прочностные характеристики сплавов Cu–40% Ni–
+1 ч. Высокое значение температуры отжига связано  0,8% Mo и Cu–40% Ni–0,5% Nb не уступают изученным 
+
+ 
+
+F rontier Materials & Technologies. 2022. № 1 75
+
+
+
+Суаридзе Т.Р., Хлебникова Ю.В., Егорова Л.Ю.   «Формирование острой кубической текстуры в лентах-подложках…»  
+
+ 
+ 
+ 
+ 
+
+300 мкм 
+               
+
+ a  b 
+
+Угол разориентировки, град 
+ 
+
+c 
+
+Рис. 1. Микрокарта ориентировок зерен (a), компонентный состав текстуры рекристаллизации (b)  
+и гистограмма разориентировки границ зерен (c) для ленты из сплава Cu–40% Ni–0,8% Мо  
+
+после отжига при 1050 °С в течение 1 ч 
+Fig. 1. Micromaps of grains’ orientations (a), component composition of a recrystallization texture (b),  
+and a misorientation bar chart of grain boundaries (c) for a band made of Cu–40% Ni–0.8% Мо alloy  
+
+after annealing at 1050 °С during 1 h 
+ 
+ 
+ 
+ 
+
+ 
+
+7 6 Frontier Materials & Technologies. 2022. № 1
+
+Относительная частота 
+
+
+
+Суаридзе Т.Р., Хлебникова Ю.В., Егорова Л.Ю.   «Формирование острой кубической текстуры в лентах-подложках…»  
+
+ 
+
+300 мкм Угол разориентировки, град. 
+
+       
+ a b 
+
+ 
+
+300 мкм Угол разориентировки, град. 
+  
+
+ c d 
+
+Рис. 2. Микрокарты ориентировок зерен (a, c), полюсные фигуры {001} и гистограммы разориентировки границ зерен (b, d) 
+для ленты из сплава Cu–40% Ni–1,3% Mn  
+
+после рекристаллизационных отжигов в течение 1 ч при 1050 °C (a, b) и 1100 °C (c, d) 
+Fig. 2. Micromaps of grains’ orientations (a, c), pole figures {001}, and a misorientation bar charts of grain boundaries (b, d)  
+
+for a band made of Cu–40% Ni–1.3% Mn alloy  
+after recrystallization annealing at 1050 °С (a, b) and 1100 °C (c, d) during 1 h 
+
+ 
+
+F rontier Materials & Technologies. 2022. № 1 77
+
+Относительная частота 
+
+Относительная частота 
+
+
+
+Суаридзе Т.Р., Хлебникова Ю.В., Егорова Л.Ю.   «Формирование острой кубической текстуры в лентах-подложках…»  
+
+Таблица 1. Химический состав, температура начала привычной рекристаллизации, предел текучести при 20 °С  
+и параметры текстуры отожженных лент-подложек 
+
+Table 1. Chemical composition, temperature of regular recrystallization start, yield strength at 20 °С,  
+and texture parameters of the annealed bands-substrates 
+
+ 
+ 
+
+Количество Средний размер  Предел  
+Температура начала  Температура 
+
+Состав сплава, at. % кубических рекристаллизованного текучести σ
+рекристаллизации, °С отжига, °С 0,2, 
+
+зерен, % зерна dср, мкм МПа* 
+
+Cu (99,95 wt. %) 200 600 95 30±2 25 
+
+Cu–40 Ni 535 1050 96 35±5 80 
+
+Cu–40 Ni–1,3 Mn 575 1050 94 50±5 85 
+
+Cu–40 Ni–0,5 Nb 640 1050 98 38±2 102 
+
+Cu–40 Ni–0,8 Mo 630 1050 97 38±2 108 
+
+* Приведено среднее значение по результатам измерений не менее трех образцов. 
+* An average value according to the results of measuring at least three specimens is indicated. 
+
+ 
+ 
+ 
+
+200 мкм 200 мкм 
+
+     
+ a b 
+
+Рис. 3. Структура поверхности текстурованных лент из сплава Cu–40% Ni–0,8% Мо  
+после отжига в течение 1 ч при 1000 °С (a) и 1050 °С (b) 
+
+Fig. 3. Surface structure of textured bands made of Cu–40% Ni–0.8% Мо alloy  
+after annealing during 1 hour at 1000 °С (a) and 1050 °С (b) 
+
+ 
+ 
+ 
+
+ранее тройным сплавам Cu–40% Ni–1,1% V, Cu–40% Ni– ний размер рекристаллизованного зерна будет меньше, 
+1,2% Cr и Cu–40% Ni–1,4% Fe, для которых величина а прочностные свойства выше. 
+0,2 составляла 96–100 МПа [20]. Рассмотренные в работе тройные сплавы на медно-
+
+Следует отметить, что при испытаниях на растяже- никелевой основе парамагнитны при рабочей темпера-
+ние текстурованных образцов из лент-подложек необ- туре высокотемпературного сверхпроводника и обла-
+ходимо учитывать, что в ГЦК-кристаллах в направле- дают меньшей стоимостью по сравнению с никелевыми 
+нии <001> механические свойства наименьшие, т. е. сплавами. В связи с этим текстурованные ленты из 
+чем совершеннее текстура, тем ниже 0,2. Известно, что сплавов Cu–Ni–Mn, Cu–Ni–Nb и Cu–Ni–Мо могут быть 
+помимо степени совершенства кубической текстуры на использованы в качестве подложек, как альтернатива 
+уровень прочностных свойств оказывают влияние и тех- используемому в технологии производства 2G HTS 
+нологические параметры изготовления ленты, в частно- сплаву Ni–4,8 at. % W. 
+сти степень чистоты металлов основы и легирующих  
+элементов. Например, если при выплавке сплава исполь-
+зовать никель чистотой 99,93 вес. % вместо 99,99 вес. %, ВЫВОДЫ 
+
+то примеси, даже в таком малом количестве, будут Получены опытные образцы лент-подложек из 
+сдерживать рост зерна при отжиге, и в результате сред- тройных сплавов на медно-никелевой основе с Mo, Nb 
+
+7 8 Frontier Materials & Technologies. 2022. № 1
+
+
+
+Суаридзе Т.Р., Хлебникова Ю.В., Егорова Л.Ю.   «Формирование острой кубической текстуры в лентах-подложках…»  
+
+и Mn. В результате EBSD-анализа установлено, что на основе меди как условие получения острой куби-
+ленты из сплавов Cu–40% Ni–1,3% Mn, Cu–40% Ni– ческой текстуры при рекристаллизации // Физика 
+0,8% Mo и Cu–40% Ni–0,5% Nb, обладающие совер- металлов и металловедение. 2015. Т. 116. № 7.  
+шенной кубической текстурой, могут быть использованы С. 729–736. DOI: 10.7868/S0015323015070074. 
+в качестве эпитаксиальных подложек при производстве 10. Хлебникова Ю.В., Родионов Д.П., Гервасьева И.В., 
+высокотемпературных сверхпроводящих кабелей вто- Суаридзе Т.Р., Акшенцев Ю.Н., Казанцев В.А. Вы-
+рого поколения. Оптимальным режимом рекристалли- бор сплавов на основе меди для создания лент-
+зационного отжига для формирования высокотекстуро- подложек с острой кубической текстурой // Физика 
+ванного состояния в сплавах является отжиг в течение металлов и металловедение. 2014. Т. 115. № 12.  
+1 ч при температуре 1050 °С. Металлографические ис- С. 1299–1308. DOI: 10.7868/S0015323014120031. 
+следования показали, что в лентах из сплавов Cu–Ni– 11. Soubeyroux J.L., Bruzek C.E., Girard A., Jorda J.L. 
+Nb, Cu–Ni–Mn и Cu–Ni–Мо после холодной деформа- Thermal Treatments for Biaxially Textured Cu-Ni Al-
+ции и рекристаллизационного отжига формируется од- loys for YBCO Coated Conductors // IEEE Transactions 
+нородная структура. on applied superconductivity. 2005. Vol. 15. № 2.  
+
+Произведена оценка механических характеристик Р. 2687–2690. DOI: 10.1109/TASC.2005.847783. 
+лент-подложек. Установлено, что величина предела 12. Girard A., Bruzek C.E., Jorda J.L., Ortega L., 
+текучести сплавов Cu–40% Ni–1,3% Mn, Cu–40% Ni– Soubeyrouxet J.L. Industrial Cu-Ni alloys for HTS 
+0,8% Mo и Cu–40% Ni–0,5% Nb в 3–4 раза выше coated conductor tape // Journal of Physics: Conference 
+предела текучести текстурованной ленты из чистой Series. 2006. Vol. 43. № 1. P. 341–343. DOI: 10.1088/ 
+меди. 1742-6596/43/1/085. 
+
+ 13. Cui J., Suo H.-L., Wang J.-H., Grivel J.-C., Ma L.,  
+Li C.-Y., Ji Y.-T., Kausar S., Liu M., Wang Y. Effect of 
+
+СПИСОК ЛИТЕРАТУРЫ different deformation and annealing procedures on non-
+1. Токонесущие ленты второго поколения на основе magnetic textured Cu60Ni40 alloy substrates // Interna-
+
+высокотемпературных сверхпроводников / под ред. tional Journal of Minerals, Metallurgy and Materials. 
+А. Гояла. М.: ЛКИ, 2010. 432 с. 2018. Vol. 25. № 8. P. 930–936. DOI: 10.1007/s12613-
+
+2. Subramanya Sarma V., Eickemeyer J., Schultz L., 018-1642-3. 
+Holzapfel B. Recrystallization texture and magnetiza- 14. Chen X., Chen D., Sun H., Wang L. Effects of Cold 
+tion behaviour of some FCC Ni-W alloys // Scripta Rolling Reduction and Annealing Temperature on Micro-
+Materialia. 2004. Vol. 50. № 7. P. 953–957. DOI: 10. structure and Texture Evolution of Cu-44% Ni Alloy // Ra-
+1016/j.scriptamat.2004.01.004. re Metal Materials and Engineering. 2018. Vol. 47. № 7. 
+
+3. Strickland N.M., Wimbush S.C., Rupich M.W., Long N.J. P. 1958–1964. DOI: 10.1016/S1875-5372(18)30165-6. 
+Asymmetries in the field and angle dependences of  15. Prasad Rao P., Agrawal B.K., Rao A.M. Studies on 
+the critical current in HTS tapes // IEEE Transactions on spinodal decomposition in Cu-27Ni-2Cr alloy // Journal 
+Applied Superconductivity. 2019. Vol. 29. № 5. Article of Materials Science. 1986. Vol. 21. P. 3759–3766. 
+number 8620293. DOI: 10.1109/TASC.2019.2894278. DOI: 10.1007/BF00553427. 
+
+4. Gao M.M., Zhang F.Y., Liang S., Li H.B., Ma L.,  16. Raghavendra Bhat R., Prasad Rao P. Effect of ther-
+Liu M., Kausar S., Suo H.L. Influence of cube texture momechanical treatment on the phase transformation in 
+development on magnetic properties of Ni–5 at.%W al- Cu-44Ni-5Cr alloy // Journal of Materials Science. 
+loy substrates // Journal Magnetism and Magnetic Mate- 1994. Vol. 29. № 18. P. 4808–4818. DOI: 10.1007/ 
+rials. 2019. Vol. 469. Р. 515–521. DOI: 10.1016/j. BF00356527. 
+jmmm.2018.09.029. 17. Liu Z., Liu P., Fan R., Li W., Zhang F. Effect of hot 
+
+5. Ji Y., Suo H., Zhang Z., Ma L., Wu X., Zhang C.,  deformation of cube texture in annealed Cu-Ni-W sub-
+Wu X., Zhang C., Li J., Cui J., Li C., Kausar S., Liu M., strate // Physica C: Superconductivity and its applica-
+Wang Y., Wang Q. Strong cube texture of super-high tions. 2019. Vol. 563. P. 63–66. DOI: 10.1016/j.physc. 
+tungsten Ni-W alloy substrates used in REBCO coated 2019.04.014. 
+conductors // Journal of Alloys and Compounds. 2020. 18. Varanasi C.V., Brunke L., Burke J., Maartense I., Pad-
+Vol. 820. Article number 153430. DOI: 10.1016/j. maja N., Efstathiadis H., Chaney A., Barnes P.N. 
+jallcom.2019.153430. Biaxially textured constantan alloy (Cu 55 wt%, Ni 44 
+
+6. Ji Y., Suo H., Meng Y., Wu X., Shaheen K., Ma L.,  wt%, Mn 1 wt%) substrates for YBa2Cu3O7−x coated 
+Liu M., Wang L., Zang Z. A Study about Ni–8 at. % W conductors // Superconductor Science and Technology. 
+Alloy Substrates Used for REBCO Coated Conductors // 2006. Vol. 19. № 9. P. 896–901. DOI: 10.1088/0953-
+Physics of Metals and Metallography. 2021. Vol. 122. 2048/19/9/002. 
+P. 1473–1481. DOI: 10.1134/S0031918X21140118. 19. Хлебникова Ю.В., Суаридзе Т.Р., Родионов Д.П., 
+
+7. Jia Y.T., Suo H.L., Ma L., Wang Z., Yua D., Shaheena K., Егорова Л.Ю., Гервасьева И.В., Гуляева Р.И. Анти-
+Cuia J., Liu J., Gao M.M. Formation of Recrystalliza- коррозионные свойства текстурованных лент-подло-
+tion Cube Texture in Highly Rolled Ni–9.3 at. % W // жек из тройных сплавов на медно-никелевой основе // 
+Physics of Metals and Metallography. 2020. Vol. 121. Физика металлов и металловедение. 2017. Т. 118.  
+№ 3. P. 248–253. DOI: 10.1134/S0031918X20020180. № 11. С. 1214–1222. DOI: 10.7868/S001532301711 
+
+8. Вишняков Я.Д. Дефекты упаковки в кристалличе- 0043. 
+ской структуре. М.: Металлургия, 1970. 216 с. 20. Родионов Д.П., Акшенцев Ю.Н., Гервасьева И.В.,  
+
+9. Гервасьева И.В., Родионов Д.П., Хлебникова Ю.В. Хлебникова Ю.В., Суаридзе Т.Р. Способ изготовления 
+Текстура деформации прокатанных лент из сплавов биаксиально текстурированной подложки из трой-
+
+F rontier Materials & Technologies. 2022. № 1 79
+
+
+
+Суаридзе Т.Р., Хлебникова Ю.В., Егорова Л.Ю.   «Формирование острой кубической текстуры в лентах-подложках…»  
+
+ного сплава на медно-никелевой основе: патент РФ 11. Soubeyroux J.L., Bruzek C.E., Girard A., Jorda J.L. 
+№ 2624564, 2017. 9 с. Thermal Treatments for Biaxially Textured Cu-Ni Al-
+
+21. Vannozzi A., Thalmaier Gy., Armenio A.A., Augieri A., loys for YBCO Coated Conductors. IEEE Transactions 
+Galluzzi V., Mancini A., Rufoloni A., Petrisor T., on applied superconductivity, 2005, vol. 15, no. 2,  
+Celentano G. Development and characterization of cu- pp. 2687–2690. DOI: 10.1109/TASC.2005.847783. 
+be-textured Ni-Cu-Co substrates for YBCO-coated con- 12. Girard A., Bruzek C.E., Jorda J.L., Ortega L., 
+ductors // Acta Materialia. 2010. Vol. 58. № 3. Р. 910– Soubeyrouxet J.L. Industrial Cu-Ni alloys for HTS 
+918. DOI: 10.1016/j.actamat.2009.10.006. coated conductor tape. Journal of Physics: Conference 
+ Series, 2006, vol. 43, no. 1, pp. 341–343. DOI: 10.1088/ 
+
+1742-6596/43/1/085. 
+REFERENCES 13. Cui J., Suo H.-L., Wang J.-H., Grivel J.-C., Ma L.,  
+
+1. Goyal A., ed. Tokonesushchie lenty vtorogo pokoleniya Li C.-Y., Ji Y.-T., Kausar S., Liu M., Wang Y. Effect of 
+na osnove vysokotemperaturnykh sverkhprovodnikov different deformation and annealing procedures on non-
+[Second-Generation HTS Conductors]. Moscow, LKI magnetic textured Cu60Ni40 alloy substrates. Interna-
+Publ., 2010. 432 p. tional Journal of Minerals, Metallurgy and Materials, 
+
+2. Subramanya Sarma V., Eickemeyer J., Schultz L., 2018, vol. 25, no. 8, pp. 930–936. DOI: 10.1007/ 
+Holzapfel B. Recrystallization texture and magnetiza- s12613-018-1642-3. 
+tion behaviour of some FCC Ni-W alloys. Scripta 14. Chen X., Chen D., Sun H., Wang L. Effects of Cold 
+Materialia, 2004, vol. 50, no. 7, pp. 953–957. DOI: 10. Rolling Reduction and Annealing Temperature on Mi-
+1016/j.scriptamat.2004.01.004. crostructure and Texture Evolution of Cu-44% Ni Al-
+
+3. Strickland N.M., Wimbush S.C., Rupich M.W., Long loy. Rare Metal Materials and Engineering, 2018,  
+N.J. Asymmetries in the field and angle dependences of vol. 47, no. 7, pp. 1958–1964. DOI: 10.1016/S1875-
+the critical current in HTS tapes. IEEE Transactions on 5372(18)30165-6. 
+Applied Superconductivity, 2019, vol. 29, no. 5, article 15. Prasad Rao P., Agrawal B.K., Rao A.M. Studies on 
+number 8620293. DOI: 10.1109/TASC.2019.2894278. spinodal decomposition in Cu-27Ni-2Cr alloy. Journal 
+
+4. Gao M.M., Zhang F.Y., Liang S., Li H.B., Ma L., Liu M., of Materials Science, 1986, vol. 21, pp. 3759–3766. 
+Kausar S., Suo H.L. Influence of cube texture develop- DOI: 10.1007/BF00553427. 
+ment on magnetic properties of Ni–5 at.%W alloy sub- 16. Raghavendra Bhat R., Prasad Rao P. Effect of 
+strates. Journal Magnetism and Magnetic Materials, thermomechanical treatment on the phase transfor-
+2019, vol. 469, pp. 515–521. DOI: 10.1016/j.jmmm. mation in Cu-44Ni-5Cr alloy. Journal of Materials Sci-
+2018.09.029. ence, 1994, vol. 29, no. 18, pp. 4808–4818. DOI: 10. 
+
+5. Ji Y., Suo H., Zhang Z., Ma L., Wu X., Zhang C.,  1007/BF00356527. 
+Wu X., Zhang C., Li J., Cui J., Li C., Kausar S., Liu M., 17. Liu Z., Liu P., Fan R., Li W., Zhang F. Effect of hot 
+Wang Y., Wang Q. Strong cube texture of super-high deformation of cube texture in annealed Cu-Ni-W sub-
+tungsten Ni-W alloy substrates used in REBCO coated strate. Physica C: Superconductivity and its applica-
+conductors. Journal of Alloys and Compounds, 2020, tions, 2019, vol. 563, pp. 63–66. DOI: 10.1016/ 
+vol. 820, article number 153430. DOI: 10.1016/j. j.physc.2019.04.014. 
+jallcom.2019.153430. 18. Varanasi C.V., Brunke L., Burke J., Maartense I., 
+
+6. Ji Y., Suo H., Meng Y., Wu X., Shaheen K., Ma L.,  Padmaja N., Efstathiadis H., Chaney A., Barnes P.N. 
+Liu M., Wang L., Zang Z. A Study about Ni–8 at. % W Biaxially textured constantan alloy (Cu 55 wt%, Ni 44 
+Alloy Substrates Used for REBCO Coated Conductors. wt%, Mn 1 wt%) substrates for YBa2Cu3O7−x coated 
+Physics of Metals and Metallography, 2021, vol. 122, conductors. Superconductor Science and Technology, 
+pp. 1473–1481. DOI: 10.1134/S0031918X21140118. 2006, vol. 19, no. 9, pp. 896–901. DOI: 10.1088/0953-
+
+7. Jia Y.T., Suo H.L., Ma L., Wang Z., Yua D., Shahe- 2048/19/9/002. 
+ena K., Cuia J., Liu J., Gao M.M. Formation of Recrystal- 19. Khlebnikova Y.V., Suaridze T.R., Rodionov D.P., 
+lization Cube Texture in Highly Rolled Ni–9.3 at. % W. Egorova L.Y., Gervas’eva I.V., Gulyaeva R.I. Anticor-
+Physics of Metals and Metallography, 2020, vol. 121,  rosion properties of textured substrates made of copper–
+no. 3, pp. 248–253. DOI: 10.1134/S0031918X20020180. nickel-based ternary alloys. The Physics of Metals and 
+
+8. Vishnyakov Ya.D. Defekty upakovki v kristallicheskoy Metallography, 2017, vol. 118, no. 11, pp. 1147–1154. 
+structure [Stacking faults in crystal structure]. Moscow, DOI: 10.7868/S0015323017110043. 
+Metallurgiya Publ., 1970. 216 p. 20. Rodionov D.P., Akshentsev Yu.N., Gervaseva I.V., 
+
+9. Gervas’eva I.V., Rodionov D.P., Khlebnikova Y.V.  Khlebnikova Yu.V., Suaridze T.R. Sposob izgotovleniya 
+The deformation texture of rolled ribbons of copper- biaksialno teksturirovannoy podlozhki iz troynogo 
+based alloys as a condition of producing a sharp cubic splava na medno-nikelevoy osnove [The technique of 
+texture upon recrystallization. The Physics of Metals production of a biaxial textured substrate made of a ter-
+and Metallography, 2015, vol. 116, no. 7, pp. 690–697. nary copper-nickel-base alloy], patent RF no. 2624564, 
+DOI: 10.7868/S0015323015070074. 2017. 9 p. 
+
+10. Khlebnikova Y.V., Rodionov D.P., Gervas’eva I.V., 21. Vannozzi A., Thalmaier Gy., Armenio A.A., Augieri A., 
+Suaridze T.R., Akshentsev Y.N., Kazantsev V.A. Galluzzi V., Mancini A., Rufoloni A., Petrisor T., 
+Choice of copper-based alloys for ribbon substrates with Celentano G. Development and characterization of cube-
+a sharp cube texture. The Physics of Metals and Metal- textured Ni-Cu-Co substrates for YBCO-coated conduc-
+lography, 2014, vol. 115, no. 12, pp. 1231–1240.  tors. Acta Materialia, 2010, vol. 58, no. 3, pp. 910–918. 
+DOI: 10.7868/S0015323014120031. DOI: 10.1016/j.actamat.2009.10.006. 
+
+8 0 Frontier Materials & Technologies. 2022. № 1
+
+
+
+Суаридзе Т.Р., Хлебникова Ю.В., Егорова Л.Ю.   «Формирование острой кубической текстуры в лентах-подложках…»  
+
+Forming an edged cubic texture in band substrates made 
+of (Cu+Ni)–Me (Me=Mo, Mn, Nb) alloys 
+
+for high-temperature second-generation superconductors 
+© 2022 
+
+1
+Teona R. Suaridze* , junior researcher 
+
+2
+Yuliya V. Khlebnikova , PhD (Engineering), leading researcher 
+
+3
+Lada Yu. Egorova , PhD (Engineering), senior researcher 
+
+M.N. Mikheev Institute of Metal Physics of Ural Branch of Russian Academy of Sciences, Ekaterinburg (Russia) 
+ 
+
+1
+*E-mail: t.suaridze@yandex.ru ORCID: https://orcid.org/0000-0003-4845-1102 
+
+2ORCID: https://orcid.org/0000-0003-2196-1647 
+3ORCID: https://orcid.org/0000-0002-1951-2976 
+
+ 
+Received 16.08.2021                     Accepted 16.02.2022 
+
+ 
+Abstract: After cold-rolling reduction with the shrinkage of more than 97 % and recrystallization annealing, the edged 
+
+cubic texture develops in some fcc lattice metals with the high and medium values of stacking fault energy such as Ni, Cu, 
+Al, Pt, and some alloys on their base. The extended bands of metals and fcc lattice alloys can be used to apply multilayer 
+functional compositions. The authors studied the structure and crystallographic texture in bands of three-component cop-
+per-nickel-based alloys. The study showed the crucial possibility of creating multi-component alloys based on  
+the Cu+40% Ni binary alloy doped with such elements as Mo or Nb. The paper considers the formation of an edged cubic 
+texture in bands of Cu–Ni–Mn, Cu–Ni–Nb, and Cu–Ni–Мо alloys produced through cold deformation with rolling and 
+recrystallization annealing performed at different temperatures. The study identified that annealing during one hour at 
+1050 °С was an optimal recrystallization annealing mode when on the surface of bands made of (Cu+40 % Ni)–Me alloys 
+(where Me=Mn, Mo, Nb) deformed at ~99 %, the most perfect cubic texture was realized. According to the data obtained, 
+after such annealing mode, from 94% to 98% of grains with orientation {001}<100> developed in the Cu–40% Ni–1.3% 
+Mn, Cu–40% Ni–0.8% Mo, and Cu–40% Ni–0.5% Nb alloys. It opens the prospect of using these alloys as epitaxial sub-
+strates in the technology of high-temperature second-generation superconductors. The evaluation of mechanical character-
+istics showed that alloying contributed to an increase in the yield strength of Cu–40% Ni–1.3% Mn, Cu–40% Ni–0.8% 
+Mo, and Cu–40% Ni–0.5% Nb alloys by 3–4 times compared with the yield strength value of a textured copper band. 
+
+Keywords: textured tapes; copper-nickel-based alloys; deformation; recrystallization annealing; cubic texture; yield 
+strength. 
+
+Acknowledgements: The work was carried out within the state assignment on the topic “Structure” (No. АААА-А18-
+118020190116-6) under the partial financial support of the Russian Foundation for Basic Research and the Sverdlovsk 
+Region within the scientific project No. 20-43-660034. 
+
+The research of the structure and texture of samples was conducted at the Electron Microscopy Center of the Collabo-
+rative Access Center “Testing Center of Nanotechnology and Advanced Materials” of M.N. Mikheev Institute of Metal 
+Physics, UB RAS. 
+
+The paper was written on the reports of the participants of the X International School of Physical Materials Science 
+(SPM-2021), Togliatti, September 13–17, 2021. 
+
+For citation: Suaridze T.R., Khlebnikova Yu.V., Egorova L.Yu. Forming an edged cubic texture in band substrates 
+made of (Cu+Ni)–Me (Me=Mo, Mn, Nb) alloys for high-temperature second-generation superconductors. Frontier Mate-
+rials and Technologies, 2022, no. 1, pp. 73–81. DOI: 10.18323/2782-4039-2022-1-73-81. 
+
+F rontier Materials & Technologies. 2022. № 1 81

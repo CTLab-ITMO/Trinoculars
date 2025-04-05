@@ -1,0 +1,351 @@
+﻿М и к р о б и о л о г и я
+DOI: 10.20953/2500-1027-2017-1-61-65 Бактериология, 2017, том 2, №1, с. 61–65
+
+Bacteriology, 2017, volume 2, No 1, p. 61–65
+
+Антимикробная активность ниосомального 
+геля с доксорубицином в комплексном 
+лечении меланомы челюстно-лицевой 
+области
+И.А.Базиков, А.Н.Мальцев, В.А.Зеленский, В.И.Королькова, Н.И.Калинкина, Е.А.Гоптарева
+
+ФГБОУ ВО «Ставропольский государственный медицинский университет»,  
+Ставрополь, Российская Федерация
+
+Изучена антимикробная активность ниосомального геля c доксорубицином. Исследованы микроорганизмы с поверх-
+ности кожи контрольной группы и кожи больных базалиомой. Определяли чувствительность выделенной микрофлоры 
+к доксорубицину, серебренным ниосомам и ниосомальному гелю с доксорубицином. Исследование было направлено 
+на выделение и идентификацию потенциальных патогенов (S. aures, S. albus, M. lysodeicticus). Установлено, что опыт-
+ный образец разработанного геля обладал высокой антимикробной активностью ко всем видам изученных микроор-
+ганизмов, причем антимикробная активность серебра усиливала действие препарата.
+Ключевые слова: доксорубицин, ниосомы, антимикробная активность
+
+Для цитирования: Базиков И.А., Мальцев А.Н., Зеленский В.А., Королькова В.И., Калинкина Н.И., Гоптарева Е.А. Антимикробная активность 
+ниосомального геля с доксорубицином в комплексном лечении меланомы челюстно-лицевой области. Бактериология. 2017; 2(1): 61–65. 
+DOI: 10.20953/2500-1027-2017-1-61-65
+
+Antimicrobial activity of niosomal gel with doxorubicin 
+in complex treatment of melanoma 
+I.A.Bazikov, A.N.Maltsev, V.A.Zelensky, V.I.Korol'kova, N.I.Kalinkina, E.A.Goptareva
+
+Stavropol State Medical University, Stavropol, Russian Federation
+
+Antimicrobial activity of niosomal gel with doxorubicin have been studied. Microorganisms from the skin surface of control group 
+and of patients with basalioma have been studied. Sensitivity of selected microflora for doxorubicin, niosomes with silver and 
+niosomal gel with doxorubicin has been investigated. The study was aimed to select and identify of potential pathogens 
+(S. aures, S. albus, M. lysodeicticus). It was established that the prototype of the developed gel had high antimicrobial activity 
+to all types of microorganisms studied, and the antimicrobial activity of silver enhanced the effect of the preparation.
+Keywords: doxorubicin, niosomes, antimicrobial activity
+
+For citation: Bazikov I.A., Maltsev A.N., Zelensky V.A., Korol'kova V.I., Kalinkina N.I., Goptareva E.A. Antimicrobial activity of niosomal gel with doxorubicin 
+in complex treatment of melanoma. Bacteriology. 2017; 2(1): 61–65. (In Russian). DOI: 10.20953/2500-1027-2017-1-61-65
+
+П ротивоопухолевая терапия обладает иммуносупрес- тельством того, что данные препараты хорошо проникают не 
+сивным действием. В связи с этим, существенной про- только через цитоплазматическую мембрану эукариот, но и 
+
+блемой в терапии злокачественных новообразований про- через клеточную стенку бактерий [6]. Об их антимикробной 
+должает оставаться развитие инфекционных осложнений. активности свидетельствуют также данные некоторых авто-
+По данным РОНЦ им. Н.Н.Блохина (2001 г.), эти осложнения ров о развитии диарей и колитов, обусловленных Clostridium 
+являются причиной летальных исходов у 1/3 онкологических difficile, при применении ряда противоопухолевых препара-
+больных. Инфекции представляют одну из существенных тов, в том числе и доксорубицина [7–9].
+проблем в ведении онкологических больных, связанную Для оптимизации фармакологических параметров, вклю-
+с целым рядом способствующих этому факторов [1–5]. чающих пролонгированность и снижение токсичности, ранее 
+
+Экспериментально доказано наличие антимикробной ак- нами была разработана ниосомальная форма доксорубици-
+тивности у антрациклинов, что является косвенным свиде- на [10–12]. В связи с этим целью работы явилось изучение 
+
+Для корреспонденции: For correspondence:
+Базиков Игорь Александрович, доктор медицинских наук, Igor' A. Bazikov, Sc.D., Professor, head of Department of Microbiology, 
+профессор, заведующий кафедрой микробиологии ФГБОУ ВО Stavropol State Medical University
+«Ставропольский государственный медицинский университет»  
+Адрес: 355017, Ставрополь, ул. Мира, 310 Address: 310 Mira Str., Stavropol', 355017, Russian Federation
+Телефон: (8652) 35-2475 Phone: (8652) 35-2475
+E-mail: bazikov@list.ru E-mail: bazikov@list.ru
+Статья поступила  16.01.2017 г., принята к печати 15.03.2017 г. The article was received 16.01.2017, accepted for publication 15.03.2017 
+
+61
+
+
+
+И.А.Базиков и др. / Бактериология, 2017, т. 2, №1, с. 61–65
+
+антимикробной активности модифицированного атомами тельности микроба к препарату. Измерение лизиса произ-
+серебра ниосомального геля с доксорубицином. водили с помощью миллиметровой бумаги с точностью 
+
+до 0,1 мм. Степень чувствительности микроба к препарату 
+Материалы и методы ранжировали в зависимости от размера зоны угнетения 
+
+роста: менее 10 мм – слабая чувствительность; 10 мм – уме-
+Работа выполнялась в течение 2013–2016 гг. на кафедре ренная чувствительность; более 10 мм – высокая чувстви-
+
+микробиологии, в лаборатории нанотехнологий лекарст- тельность. Полученные данные обрабатывались общепри-
+венных веществ и кафедре онкологии с курсом ПДО Став- нятыми статистическими методами: рассчитывали значения 
+ропольского государственного медицинского универ ситета. средней арифметической (Х) и стандартного отклонения 
+
+Было проведено качественное и количественное исследо- среднего (Sx). При оценке достоверности различий между 
+вание микрофлоры кожи, ее бактерицидной активности сравниваемыми величинами применялся непараметриче-
+(БАК) и кислотности у 30 больных базалиомой в возрасте ский критерий Манна-Уитни. Уровень достоверности разли-
+36–59 лет, проходящих курс химиотерапии. Исследования чий принимался при Р ≤ 0,05.
+проводили до начала курса химиотерапии, после первого и 
+второго курсов. В качестве контрольной группы выступали Результаты и обсуждение
+25 здоровых добровольцев того же возраста. 
+
+Бактериологические исследования заключались в выде- По данным электронной и атомно-силовой микроскопии 
+лении микроорганизмов с поверхности кожи контрольной размер частиц ниосом с доксорубицином был преимуще-
+группы и кожи больных базалиомой до лечения и в процессе ственно 100–140 нм и с незначительным присутствием нио-
+лечения. Определяли чувствительность выделенной микро- сом меньших размеров – 80–100 нм (рис. 1).
+флоры к доксорубицину, серебренным ниосомам и ниосо- Результаты анализа размерных характеристик сереб-
+мальному гелю с доксорубицином. Исследование было на- ренных ниосом с доксорубицином показали, что обработ-
+правлено на выделение и идентификацию потенциальных ка серебром приводила к уменьшению размеров ниосом. 
+патогенов (S. aures, S. albus, M. lysodeicticus). Методика по- Боль шинство ниосом имели размер до 110–120 нм (рис. 2), 
+становки и интерпретация полученных результатов опреде- что улучшало трансдермальный перенос лекарственных 
+ления чувствительности выделенной микрофлоры произво- средств. Кремнийорганические ниосомы являлись эффек-
+дились при помощи диско-диффузионного метода согласно тивным сорбентом атомов серебра. Так, в нейтральной 
+стандартам Национального комитета по клиническим лабо- среде (рН = 7) около 80% участвовавшего в реакции вос-
+раторным стандартам (NCCLS 2000). становленного серебра переходило в ниосомы. Количество 
+
+При конструировании антимикробного ниосомального серебра в ниосомах составило 0,864 ± 0,054 мг/л. Высо-
+геля отрабатывалась технология получения ниосом и инкап- кая сорбционная способность кремнийорганических нио-
+сулирование доксорубицина. Оболочка полученных ниосом сом объяснялась наличием функционально активных 
+создавалась из ПЭГ-12 диметикона по оригинальной техно- групп Si-O-Si молекулы диметикона в гидрофильной части 
+логии [13]. оболочки ниосом. Наличие на поверхности ниосом атомов 
+
+Для серебрения ниосом использовали 1 мМ раствор серебра способствовало формированию электрического 
+AgNO3. Серебро восстанавливали в реакции Cu+2AgNO3 → потенциала. В результате этого формировались ниосомы 
+2Ag+Cu(NO3)2 в химически чистой медной посуде. Таким об- с атомами серебра на их поверхности меньших размеров 
+разом, из реакционной смеси удалялись нитраты и обеспе- по сравнению с чистыми ниосомами.
+чивалось осаждение на ниосомы чистого серебра. Сорбция Изучение антимикробной активности ниосомального геля 
+серебра в ниосомы проходила при ультразвуковой обработ- c доксорубицином показало, что препарат подавляет рост 
+ке реакционной смеси. Режим озвучивания: частота – 20 кГц, микроорганизмов. Так, в отношении Staphylococcus aureus 
+мощность – 200 Вт, экспозиция – 10–15 минут. зона задержки роста для ниосом, на поверхности которых 
+
+Исследование антимикробной активности доксорубици- находилось 50 мкМ серебра, составила 16,8 ± 0,14 мм. 
+на, посеребренных ниосом и ниосомального геля с доксору- Антимикробная активность препарата вдвое превышала ак-
+бицином в отношении микроорганизмов, выделенных с по- тивность ниосом: зона задержки роста была 35,1 ± 0,16 мм 
+верхности кожи здоровых и больных базалиомой пациентов, (таблица, рис. 3). Для Staphylococcus albus зоны задержки 
+осуществляли диско-диффузионным методом (ДДМ). Бу маж- роста составили 15,2 ± 0,11 мм для серебренных ниосом и 
+ные диски пропитывали доксорубицином, посеребренными 37,1 ± 0,17 мм для препарата. Зоны задержки роста Sta phy­
+ниосомами и ниосомальным гелем с доксорубицином. Затем lococcus epidermidis составили 12,9 ± 0,21 мм и 38,7 ± 0,29 мм 
+их накладывали на газоны микроорганизмов, выделенных для ниосом и препарата соответственно. Ниосомы, на по-
+с поверхности кожи, в 3 чашки Петри с питательным агаром. верхности которых адсорбированы атомы серебра и проти-
+Засеянные чашки оставляли при комнатной температуре на воопухолевый гель с доксорубицином и атомами серебра, 
+1–2 ч, а затем на 16–18 ч помещали в термостат при 36 ± 1°С достоверно подавляли рост Micrococcus lysodeicticus: зоны 
+вверх дном, чтобы избежать попадания конденсационной задержки роста были 13,7 ± 0,12 и 36,6 ± 0,18 соответствен-
+воды на поверхность посевов. Исследуемые антимикроб- но. Аналогичная ситуация наблюдалась и по отношению 
+ные препараты диффундировали в агар, формируя вокруг к Propionibacterium acne (таблица, рис. 3). 
+диска зону угнетения роста чувствительных к нему бакте- Таким образом, установлено, что опытный образец раз-
+рий, четко выделяющуюся на фоне сплошного микробного работанного геля обладал высокой антимикробной актив-
+роста. Величина зоны лизиса определяла степень чувстви- ностью ко всем видам изученных микроорганизмов. Причем 
+
+62
+
+
+
+Антимикробная активность ниосомального геля с доксорубицином в комплексном лечении меланомы челюстно-лицевой области
+
+Рис. 1. Электронная и атомно-силовая микроскопия ниосом и гистограмма зависимости среднего размера ниосом к их количеству.
+
+Рис. 2. Электронная и атомно-силовая микроскопия серебренных ниосом с доксорубицином и гистограмма зависимости среднего 
+размера ниосом к их количеству.
+
+Staphylococcus aureus Staphylococcus albus Staphylococcus epidermidis
+
+Micrococcus lysodeicticus Propionibacterium acne
+
+Рис. 3. Зоны задержки роста исследуемых микроорганизмов вокруг дисков, пропитанных посеребренными ниосомами и ниосо-
+мальным гелем с доксорубицином.
+
+63
+
+
+
+И.А.Базиков и др. / Бактериология, 2017, т. 2, №1, с. 61–65
+
+Таблица. Исследование чувствительности представителей 4.  Севостьянова НВ, Исаева ТМ, Уразова ЛН. Особенности иммунологических 
+семейства Micrococcaceae к опытному образцу ниосомально- показателей у онкобольных. Вопросы онкологии. 2001;47(4):446-8.
+го геля с доксорубицином диско-диффузным методом 5.  Blijlevens N, Schwenkglenks M, Bacon P, D'Addio A, Einsele H, Maertens J, et al. 
+Виды микроорганизма Диаметр зоны задержки роста микроорганизма Prospective oral mucositis audit: oral mucositis in patients receiving high-dose 
+
+(мм) (D ± d)* melphalan or BEAM conditioning chemotherapy – European Blood and Marrow 
+Контроль ниосомы cеребренные 
+
+с доксоруби- ниосомы Transplantation Mucositis Advisory Group. J Clin Oncol. 2008 Mar 20;26(9):1519-
+цином с доксоруби- 25. doi: 10.1200/JCO.2007.13.6028
+
+цином 6.  Федорова ГБ, Голова ТП, Архангельская НМ, и др. Рубомицин Q1 – антраци-
+Staphylococcus aureus – 16,8 ± 0,14 * 35,1 ± 0,16*,**
+Staphylococcus albus – 15,2 ± 0,11* 37,1 ± 0,17*,** клиновый метаболит из рубомицин С-продуцирующего штамма Streptomyces 
+Staphylococcus epidermidis – 12,9 ± 0,21* 38,7 ± 0,29*,** coeruleorubidus 2679. Антибиотики и химиотерапия. 1996;41(3):3-8.
+Micrococcus lysodeicticus – 13, 7± 0,12* 36,6 ± 0,18**,** 7.  Anand A, Glatt AE. Clostridium difficile infection associated with antineoplastic 
+Propionibacterium acne – 15, 7± 0,12* 37,6 ± 0,28*,** chemotherapy: a review. Clin Infect Dis. 1993 Jul;17(1):109-13.
+*p < 0,05 – в сравнении с контрольной группой; 8.  Emoto M, Kawarabayashi T, Hachisuga MD, Eguchi F, Shirakawa K Clostridium 
+**p < 0,05 – в сравнении с серебренными ниосомами.
+
+difficile colitis associated with cisplatinbased chemotherapy in ovarian cancer 
+patients. Gynecol Oncol. 1996 Jun;61(3):369-72
+
+присутствие серебра усиливало действие препарата, что 9.  Thielman NM. Antibiotics-associated colitis. Principles and practice of infectious 
+подтверждается литературными данными, полученными при diseases. Mandell GL, Bennet IE, Dolin R. (ed.). Philadelphia: Churchill Liwingstone, 
+изучении антимикробной активности доксорубицина. Ранее 2000, pp. 1111-26.
+было показано, что уровень антимикробной активности до- 10.  Базиков ИА. Новый антимикробный гель с ниосомами кремнийорганической 
+статочно высок для опытных штаммов S. aureus (МИК природы. Проблемы медицинской микологии. 2015;17(2):41. 
+7,08 мкг/мл при диапазоне значений от 25 до 1,5 мкг/мл) [14]. 11.  Базиков ИА, Бейер ЭВ, Лукинова ВВ, Мальцев АН. Сравнительная оценка 
+Согласно другим данным, значения МИК различных препа- острой токсичности доксорубицина и его ниосомальной формы. 
+ратов антрациклиновой группы для стандартных штаммов Медицинский вестник Северного Кавказа. 2015;10(4):403-6. DOI: 10.14300/
+S. aureus составляют от 2,5 до 60 мкг/мл [6, 15]. Одним из mnnc.2015.10098
+механизмов антимикробного действия доксорубицина явля- 12.  Bazikov IA, Chekrygina EV, Klimanovich IV, Maltcev AN. Development of a 
+ется способность индуцировать процессы свободно- pharmacetical anticancer gel basedon doxorubicin and silicone nanotechnology. 
+радикального окисления. В литературе имеется информа- Medical news of North Caucasus. 2015;10(2):163-6.
+ция об изменении физико-химических параметров клеточ- 13.  Базиков ИА. Способ трансдермального переноса активных субстанций с 
+ной поверхности у резистентных к антибиотикам микроор- использованием ниосом на основе ПЭГ-12 диметикона. Патент на изобрете-
+ганизмов. Так, у стафилококков и эшерихий, резистентных ние RUS 2539396 02.12.2014.
+к пенициллинам, клеточная стенка становится менее гидро- 14.  Шаповал ОГ. Влияние доксорубицина и антибиотиков на динамику развития 
+фильной, у микроорганизмов, резистентных к стрептомици- популяций Staphylococcus aureus и Еscherichia coli. Саратовский научно-
+ну – более гидрофильной [16]. Согласно нашим данным, при медицинский журнал. 2010;6(1):40-2.
+взаимодействии ниосомальной формы доксорубицина про- 15.  Шорин ВА, Авербух JIA. Изучение перекрестной устойчивости у опухолевых 
+ницаемость плазматической мембраны повышалась, что клеток и стафилококков в отношении противоопухолевых антибиотиков из 
+способствовало увеличению поступления антибиотика группы антрациклинов. Антибиотики. 1976;21(10):914-9.
+внутрь микробной клетки [17]. 16.  Попова HA. Физико-химические параметры поверхности бактерий и способ-
+
+Фармакокинетические параметры антрациклинов могут ность связывать пенициллин в связи с чувствительностью к пенициллинам и 
+предполагать реализацию их антимикробного эффекта в стрептомицину. Антибиотики. 1976;21(10):897-902.
+зоне локального воспаления, поскольку накопление их в ко- 17.  Базиков ИА, Лукинова ВВ, Мальцев АН, Дискаева ЕИ, Айтекова СР. Взаимо-
+личествах, близких к опытным, происходит в тканях [18]. действие ниосомального доксорубицина с мембранами клеток. Медицинский 
+Таким образом, введение в практику ниосомальных форм вестник Северного Кавказа. 2016;1(11):108-10. DOI: 10.14300/mnnc.2016.11011 
+цитостатиков, способствующих сохранению препарата в 18.  Птушкин ВВ. Лечение и профилактика инфекций у больных с нейтропенией. 
+крови в более высоких концентрациях и преимущественно- Материалы III ежегодной Российской онкологической конференции 29 ноя-
+му проникновению в опухолевый и воспалительный очаги, бря–1 декабря 1999 г., Санкт-Петербург.
+имеет несомненную перспективу [10–13, 17, 19, 20]. 19.  Пивник AB, Строяковский ДЛ, Медведев ПВ, Моисеева ТН, Шкловский- 
+
+Корди НЕ, Скороход АА. Липосомальный даунорубицин (даунозом) в лечении 
+Литература рецидива острого промиелобластного лейкоза. Терапевтический архив. 1999; 
+
+71(7):24-7.
+1.  Волкова ЗВ. Причины развития инфекции у онкологических больных. XI 20.  Каплун АП, Ле Банг Шон, Краснопольский ЮМ, Швец ВИ. Липосомы и другие 
+
+Российский онкологический конгресс, 2007. наночастицы как средство доставки лекарственных веществ. Вопросы меди-
+2.  Кузьмина ЕГ, Неприна ГС, Ватин OE, Сироткина НП, Рогова НМ, Крикунова ЛИ. цинской химии. 1999;45(1):3-12.
+
+Коррекция вторичных иммунодефицитных состояний, индуцированных 
+химиолучевой терапией у онкологических больных. Российский онкологиче- References
+ский журнал. 2003;2:32-6.
+
+3.  Особенности течения инфекционных процессов у детей с онкологической 1.  Volkova ZV. The reasons for the development of infection in cancer patients. XI 
+патологией. Цикл лекций по детской онкологии. Российский биомедицин- Russian oncologic Congress, 2007. (In Russian).
+ский журнал. 2001;2(38):176-8. (Online). Доступно по: http://www.medline.ru/ 2.  Kuzmina EG, Neprina GS, Vatin OE, Sirotkina NP, Rogova NM, Krikunova LI. 
+public/art/tom2/art38_4.phtml Correction of secondary immunodeficiency induced by chemoradiotherapy in 
+
+64
+
+
+
+Антимикробная активность ниосомального геля с доксорубицином в комплексном лечении меланомы челюстно-лицевой области
+
+cancer patients. Rossiiskii onkologicheskii zhurnal (Russian Journal of Oncology). 18.  Ptushkin VV. Treatment and prevention of infections in patients with neutropenia. 
+2003;2:32-6. (In Russian). Proceedings of the III annual Russian Oncology conference, 29 Nov–1 Dec 1999, 
+
+3.  Osobennosti techeniya infektsionnykh protsessov u detei s onkologicheskoi Saint Petersburg. (In Russian).
+patologiei. Tsikl lektsii po detskoi onkologii. Rossiiskii biomeditsinskii zhurnal. 19.  Pivnik AB, Stroyakovskii DL, Medvedev PV, Moiseeva TN, Shklovskii-Kordi NE, 
+2001;2(38):176-8. (Online). Available at: http://www.medline.ru/public/art/tom2/ Skorokhod AA. Liposomal'nyi daunorubitsin (daunozom) v lechenii retsidiva 
+art38_4.phtml (In Russian). http://www.medline.ru/public/art/tom2/art38_4.phtml ostrogo promieloblastnogo leikoza. Terapevticheskiy arkhiv (Therapeutic Archive). 
+
+4.  Sevostyanova NV, Isaeva TM, Urazova LN. Features of immunologic and 1999;71(7):24-7. (In Russian).
+virusologic indicators in oncology patients. Voprosy oncologii (Problems in 20.  Kaplun AP, Le Bang Son, Krasnopolsky YuM, Shvets VI. Liposomes and others 
+Oncology). 2001;47(4):446-8. (In Russian). nanoparticles as the drug delivery systems. Voprosy meditsinskoi khimii. 
+
+5.  Blijlevens N, Schwenkglenks M, Bacon P, D'Addio A, Einsele H, Maertens J, et al. 1999;45(1):3-12. (In Russian).
+Prospective oral mucositis audit: oral mucositis in patients receiving high-dose 
+melphalan or BEAM conditioning chemotherapy – European Blood and Marrow 
+Transplantation Mucositis Advisory Group. J Clin Oncol. 2008 Mar 20;26(9):1519- Информация о авторах:
+
+Мальцев Александр Николаевич, кандидат биологических наук,  
+25. DOI: 10.1200/JCO.2007.13.6028 заведующий лабораторией биологически активных веществ  
+
+6.  Fedorova GB, Golova TP, Arkhangelskaya NM, Lazhko EI, Abramova EA, Bychkova ФГБОУ ВО «Ставропольский государственный медицинский  
+университет»
+
+OP, et al. Rubomycin Q1, an anthracycline metabolite synthesized by Streptomyces Адрес: 355017, Ставрополь, ул. Мира, 310
+coeruleorubidus 2679, a strain producing rubomycin C. Antibiotics and Телефон: (8652) 35-2475
+
+E-mail: Maltsev7@rambler.ru
+Chemotherapy. 1996;41(3):3-8. (In Russian).
+
+Зеленский Владимир Александрович, доктор медицинских наук,  
+7.  Anand A, Glatt AE. Clostridium difficile infection associated with antineoplastic профессор, заведующий кафедрой общей практики и детской  
+
+chemotherapy: a review. Clin Infect Dis. 1993 Jul;17(1):109-13. стоматологии ФГБОУ ВО «Ставропольский государственный  
+медицинский университет»
+
+8.  Emoto M, Kawarabayashi T, Hachisuga MD, Eguchi F, Shirakawa K Clostridium Адрес: 355017, Ставрополь, ул. Мира, 310
+difficile colitis associated with cisplatinbased chemotherapy in ovarian cancer Телефон: (8652) 35-2475
+
+patients. Gynecol Oncol. 1996 Jun;61(3):369-72 Королькова Виолетта Игоревна, заочный аспирант кафедры  
+стоматологии детского возраста ФГБОУ ВО «Ставропольский 
+
+9.  Thielman NM. Antibiotics-associated colitis. Principles and practice of infectious государственный медицинский университет»
+diseases. Mandell GL, Bennet IE, Dolin R. (ed.). Philadelphia: Churchill Liwingstone, Адрес: 355017, Ставрополь, ул. Мира, 310
+
+Телефон: (8652) 35-2475
+2000, pp. 1111-26. Калинкина Наталья Ивановна, заочный аспирант кафедры  
+
+10.  Bazikov IA. Novyi antimikrobnyi gel' s niosomami kremniiorganicheskoi prirody. микробиологии ФГБОУ ВО «Ставропольский государственный  
+
+Problems in Medical Mycology. 2015;17(2):41. (In Russian). медицинский университет»
+Адрес: 355017, Ставрополь, ул. Мира, 310
+
+11.  Bazikov I, Beyer E, Maltsev A, Goptareva E, Malinina N, Botasheva V, Dushko S. Телефон: (8652) 35-2475
+
+Study of hepatotoxicity of niosomal form of doxorubicin. Medical news of the North Гоптарева Екатерина Алексеевна, заочный аспирант кафедры 
+микробиологии ФГБОУ ВО «Ставропольский государственный  
+
+Caucasus. 2015;10(4):403-6. DOI: 10.14300/mnnc.2015.10098 (In Russian). медицинский университет»
+12.  Bazikov IA, Chekrygina EV, Klimanovich IV, Maltcev AN. Development of a Адрес: 355017, Ставрополь, ул. Мира, 310
+
+Телефон: (8652) 35-2475
+pharmacetical anticancer gel basedon doxorubicin and silicone nanotechnology. 
+Medical news of North Caucasus. 2015;10(2):163-6. Information about authors:
+
+13.  Bazikov IA. Method of transdermal transfer of active substances with the use of Aleksandr N. Mal'tsev, PhD, Head of laboratory of biologically active  
+substances, Stavropol State Medical University
+
+the NRENs based on PEG-12 Dimethicone. The patent for the invention RUS Address: 310 Mira Str., Stavropol', 355017, Russian Federation
+2539396 02.12.2014. (In Russian). Phone: (8652) 35-2475
+
+E-mail: Maltsev7@rambler.ru
+14.  Shapoval OG. Doxorubicine and antibiotics influence on dynamics of population Vladimir A. Zelensky, Sc.D., Head of the Department of general practice 
+
+development of Staphylococcus aureus and Escherichia coli. Saratov Journal of and pediatric dentistry Stavropol State Medical University
+Medical Scientific Research. 2010;6(1):40-2. (In Russian). Address: 310 Mira Str., Stavropol', 355017, Russian Federation
+
+Phone: (8652) 35-2475
+15.  Shorin VA, Averbukh JIA. Izuchenie perekrestnoi ustoichivosti u opukholevykh Violetta I. Korol'kova, postgraduate student of the Department  
+
+kletok i stafilokokkov v otnoshenii protivoopukholevykh antibiotikov iz gruppy of pediatric dentistry, Stavropol State Medical University 
+Address: 310 Mira Str., Stavropol', 355017, Russian Federation
+
+antratsiklinov. Antibiotiki. 1976;21(10):914-9. (In Russian). Phone: (8652) 35-2475
+16.  Popova HA. Fiziko-khimicheskie parametry poverkhnosti bakterii i sposobnost' Natal'ya I. Kalinkina, postgraduate student of the Department  
+
+svyazyvat' penitsillin v svyazi s chuvstvitel'nost'yu k penitsillinam i streptomitsinu. of Microbiology, Stavropol State Medical University
+Address: 310 Mira Str., Stavropol', 355017, Russian Federation
+
+Antibiotiki. 1976;21(10):897-902. (In Russian). Phone: (8652) 35-2475
+17.  Bazikov I, Maltsev A, Diskaeva E, Lukinova V, Aytekov S. Interaction niosomal Ekaterina A. Goptareva, postgraduate student of the Department  
+
+doxorubicin cell membranes. Medical news of the North Caucasus. 2016;1(11): of Microbiology, Stavropol State Medical University
+Address: 310 Mira Str., Stavropol', 355017, Russian Federation
+
+108-10. DOI: 10.14300/mnnc.2016.11011  (In Russian). Phone: (8652) 35-2475
+
+К О Н Ф Е Р Е Н Ц И И  2 0 1 7
+
+July 09–13, 2017 FEMS 7th Congress of European Microbiologists
+Valencia, Spain 
+FEMS Congress. Congress of European Microbiologists. FEMS 2017 will feature symposia and workshops led by prominent 
+
+scientists in their respective fields. The goal of this international gathering is to provide a comprehensive forum for the exploration and 
+discussion of various topics in microbiology.
+
+http://www.fems-microbiology2017.kenes.com/landing/Pages/default.aspx
+
+65

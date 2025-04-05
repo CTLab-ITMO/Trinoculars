@@ -1,0 +1,660 @@
+﻿MINING SCIENCE AND TECHNOLOGY (RUSSIA) eISSN 2500-0632
+
+ГОРНЫЕ НАУКИ И ТЕХНОЛОГИИ https://mst.misis.ru/
+2021;6(2):65–72 Voznesensky A. S., Kidima-Mbombi L. K. Formation of synthetic structures and textures of rocks...
+
+СВОЙСТВА ГОРНЫХ ПОРОД. ГЕОМЕХАНИКА И ГЕОФИЗИКА
+Научная статья
+https://doi.org/10.17073/2500-0632-2021-2-65-72
+
+Формирование синтетических структур и текстур горных пород 
+при их моделировании в среде COMSOL Multiphysics
+
+А. С. Вознесенский , Л. К. Кидима Мбомби
+НИТУ «МИСиС», г. Москва, Россия 
+
+ al48@mail.ru
+Аннотация
+Текстура и структура горных пород играют существенную роль в формировании их физических 
+свойств, а также несут информацию о генезисе. В статье рассматривается моделирование методом ко-
+нечных элементов (МКЭ) геометрических форм различных структур и текстур горных пород. Оно осу-
+ществляется путем программной детализации свойств элементов и их пространственного расположе-
+ния в моделируемом объекте. При программировании структур возможно также задание физических 
+свойств различных частей модели, сеток, начальных и граничных условий, которые могут изменяться 
+в соответствии со сценариями проведения численных экспериментов. В работе на основе МКЭ реали-
+зуется моделирование в COMSOL Multiphysics в связке с Matlab различных структур и текстур горных 
+пород с включениями и нарушениями. Такие структуры используются для проведения компьютерных 
+экспериментов по определению физических свойств геоматериалов и исследованию влияния на них 
+воздействий различной физической природы. Рассмотрены построения нескольких моделей: образца 
+горной породы с включениями в форме эллипсов равных размеров с различной ориентацией; образ-
+ца песчаника, содержащего включения с высоким модулем упругости в цементирующей матрице при 
+его деформировании; образца известняка при определении его удельного электрического сопротив-
+ления с трещинами, заполненными нефтью и минерализованной водой. В качестве примера анализа 
+трещиноватой структуры рассмотрено влияние заполнителя на электросопротивление образца из-
+вестняка, содержащего систему тонких эллиптических трещин с преимущественно горизонтальным 
+расположением. Наглядно показано изменение линий протекания тока при разных соотношениях 
+между проводимостью матрицы и заполнителем трещин и их влияние на эффективную (усредненную) 
+проводимость образца породы. Меньшая проводимость заполнителя трещин приводит к увеличению 
+длины и уменьшению сечения линий протекания тока, что в свою очередь приводит к существенному 
+снижению проводимости трещиноватого образца породы. Большая проводимость заполнителя имеет 
+своим результатом незначительное увеличение проводимости трещиноватого образца по сравнению 
+с однородным изотропным образцом. Полученные структуры могут быть использованы для проведе-
+ния численных экспериментов по исследованию физических свойств пород.
+Ключевые слова
+горные породы, геоматериалы, физические свойства, трещины, включения, численное моделирование, 
+синтетические структуры, текстура, акустические свойства, электрические свойства
+Финансирование
+Работа выполнена при финансовой поддержке гранта РФФИ (проект № 20-05-00341)
+Для цитирования
+Voznesensky A. S., Kidima-Mbombi L. K. Formation of synthetic structures and textures of rocks when 
+simulating in COMSOL Multiphysics. Mining Science and Technology (Russia). 2021;6(2):65–72. https://doi.
+org/10.17073/2500-0632-2021-2-65-72
+
+MINING ROCK PROPERTIES. ROCK MECHANICS AND GEOPHYSICS
+Research article
+
+Formation of synthetic structures and textures of rocks 
+when simulating in COMSOL Multiphysics
+
+A. S. Voznesensky , L. K. Kidima-Mbombi 
+NUST “MISIS”, Moscow, Russian Federation
+
+ al48@mail.ru
+Abstract
+Rock texture and structure play an important role in the formation of the rock physical properties, and also 
+carry information about their genesis. The paper deals with the simulation of geometric shapes of various 
+structures and textures of rocks by the finite-element method (FEM). It is carried out by programmed detailing 
+
+© Вознесенский А. С., Кидима Мбомби Л. К., 2021
+65
+
+
+
+MINING SCIENCE AND TECHNOLOGY (RUSSIA) eISSN 2500-0632
+
+ГОРНЫЕ НАУКИ И ТЕХНОЛОГИИ https://mst.misis.ru/
+2021;6(2):65–72 Вознесенский А. С., Кидима Мбомби Л. К. Формирование синтетических структур и текстур горных пород...
+
+of the element properties and their spatial location in the simulated object. When programming structures, 
+it is also possible to set the physical properties of various parts of the model, grids, initial and boundary 
+conditions, which can be changed in accordance with the scenarios for numerical experiments. In this study, 
+on the basis of FEM, simulation of various structures and textures of rocks with inclusions and disruptions 
+was implemented in COMSOL Multiphysics in conjunction with Matlab. Such structures are used to conduct 
+computer generated simulations to determine physical properties of geomaterials and study the effect on 
+them of agents of various physical nature. The building of several models was considered: a rock specimen 
+with inclusions in the form of ellipses of equal dimensions with different orientations; a sandstone specimen 
+containing inclusions with high modulus of elasticity in cement matrix when deforming; a limestone 
+specimen with fractures filled with oil and saline water when determining its specific electrical resistance. 
+As an example of a fractured structure analysis, the influence of the filler on the electrical resistance of 
+the limestone specimen containing a system of thin elliptical predominantly horizontal fractures was 
+considered. The change in the lines of current flow at different ratios between the matrix and the fracture 
+filler conductivities and their effect on the effective (averaged) conductivity of the rock specimen was clearly 
+demonstrated. The lower conductivity of the fracture filler leads to increasing the length and decreasing the 
+cross-section of the current flow lines that, in turn, leads to significant decrease in the conductivity of the 
+fractured rock specimen. The higher filler conductivity results in a slight increase in the conductivity of the 
+fractured specimen compared to that of the homogeneous isotropic specimen. The resulting structures can 
+be used for numerical experiments to study physical properties of rocks.
+Key words
+rocks, geomaterials, physical properties, fractures, inclusions, numerical simulation, synthetic structures, 
+texture, acoustic properties, electrical properties
+Acknowledgments
+The study was carried out with financial support of the Russian Foundation of Fundamental Research (RFFR) 
+(scientific project No 20-05-00341).
+For citation
+Voznesensky A. S., Kidima-Mbombi L. K. Formation of synthetic structures and textures of rocks when 
+simulating in COMSOL Multiphysics. Mining Science and Technology (Russia). 2021;6(2):65–72. https://doi.
+org/10.17073/2500-0632-2021-2-65-72
+
+Введение низмов и стадий деформации и условий активности 
+Текстура и структура горных пород играют су- разломов. Заменить модели со сложной текстурой 
+
+щественную роль в формировании их физических большинства зернистых осадочных пород на модели 
+свойств, а также несут информацию о генезисе. Поэ- гранулированной эффективной среды, основанные 
+тому понятен интерес ученых разных направлений, на физике случайной упаковки сфер, предложено 
+изучающих эти характеристики горных пород. в [8]. Физические свойства пород-коллекторов, содер-
+
+История эволюции текстурного анализа (ТА) жащих нефть, газ или воду, зависят от минерального 
+показана в фундаментальном труде [1]. Приведены состава и текстуры породы, отмечается в [9]. Текстура 
+примеры моделирования упругих свойств текстури- и остаточные напряжения в геологических образцах 
+рованных материалов вплоть до многофазных образ- исследованы в работе [10]. Теория и моделирование 
+цов, содержащих поры и трещины. Петрографический образования новых структур в результате контраста 
+анализ для определения структуры, текстуры, состава реологических свойств между слоями разных текстур 
+и присутствия минералов в образцах пляжной поро- рассматриваются в [11].
+ды с островов Японии и Индонезии описан в [2].Для Ряд работ посвящен количественной оценке тек-
+оптимизации параметров гидроразрыва пласта на стур с помощью коэффициентов, а также установ-
+двух- и трехмерных численных моделях учитывались лению их связи с физическими и технологическими 
+структура матрицы, неоднородности минералов со свойствами горных пород.
+сложной геометрией межзеренных контактов между Коэффициент текстуры предложен двумя австра-
+ними [3]. Важность исследования текстуры как одного лийскими исследователями, Ховартом и Роулендсом 
+из ключевых элементов, определяющих морфологи- в 1986 г. [12, 13] для количественной оценки текстуры, 
+ческие особенности разрушения, отмечается в [4]. Ис- учитывающей форму, размеры и расположение мине-
+следования мелкомасштабных вариаций минерало- ральных зерен, составляющих горные породы, отме-
+гического состава и текстуры, связанных с разломами чается в [14]. Связь между инженерными свойствами 
+пород в глубинной обсерватории Сан-Андреас, опи- и текстурой горных пород была исследована на кар-
+саны в [5]. Кристаллографические текстуры образцов бонатных породах [15]. Форма зерен, удлинение, ори-
+гранулита, амфиболита, сланца и гнейса измерены, ентация, округлость, плотность упаковки, пористость 
+классифицированы и сопоставлены с аналогичными и содержание матрицы оценивались коэффициентом 
+текстурами мономинеральных пород в [6]. Анализ текстуры. Образцы карбонатов мелового периода, 
+кристаллической структуры, текстуры и химического включая размер и процентное содержание зерна, тип 
+состава синкинематических филлосиликатов в зонах матрицы, процент доломитизации и процент карбо-
+разломов использовался в [7] для определения меха- ната, во взаимосвязи с прочностью при сжатии и мо-
+
+66
+
+
+
+MINING SCIENCE AND TECHNOLOGY (RUSSIA) eISSN 2500-0632
+
+ГОРНЫЕ НАУКИ И ТЕХНОЛОГИИ https://mst.misis.ru/
+2021;6(2):65–72 Voznesensky A. S., Kidima-Mbombi L. K. Formation of synthetic structures and textures of rocks...
+
+дулем Юнга исследовались в [16]. Количественные с размягчением» и «многослойного» для моделирова-
+петрографические исследования влияния распреде- ния подземных сооружений и образцов горных пород 
+ления минералов и их размеров на прочность и другие в слоистом слюдяном сланце с перекрывающими по-
+геоинженерные свойства низкопористых вулканиче- родами сложной текстуры, приводится в  [30]. Тексту-
+ских пород обсуждались в [17]. Взаимосвязь между ры трех различных фаций изменения диабаза были 
+коэффициентом текстуры и извилистостью скелета изучены с помощью микроскопии и рентгеновской 
+породы, содержащей поры, с одной стороны, и моду- микротомографии для расчета проницаемости пород 
+лем Юнга, пределом прочности, пределом текучести путем численного моделирования [31].
+и модулем сдвига при одноосном сжатии, с другой, При численном моделировании методом конеч-
+устанавливалась в [18]. Экспериментальное числен- ных элементов в среде COMSOL Multiphysics различ-
+ное моделирование методом дискретных элементов ных структур и текстур горных пород с включениями 
+и лабораторные испытания образцов гранита при и нарушениями полезным может оказаться функция 
+одноосном сжатии, а также растяжении по бразиль- использования этого программного обеспечения 
+ской схеме были выполнены в [19] для изучения вли- в связке с Matlab, на основе которого эта система была 
+яния размера и распределения минеральных зерен создана. Полученные таким образом структуры затем 
+на прочность и  характер микротрещин в  гранитных могут использоваться для проведения компьютерных 
+породах. На блочной модели дискретных элементов экспериментов по определению физических свойств 
+изучалось влияние ранее существовавшей текстуры геоматериалов и исследованию влияния на них воз-
+естественных трещин на форму коллектора при его действий различной физической природы. Сложность 
+гидрорасчленении [20]. Влияние минерального соста- и трудоемкость ручной отрисовки таких текстур при 
+ва и текстуры породы на индекс эрозиоустойчивости большом количестве элементов структуры, а также 
+(Slake Durability, SDI), а также зависимость между SDI при постоянных изменениях во время проведения 
+некоторых горных пород и их инженерными свой- серий экспериментов делают эту операцию практиче-
+ствами исследованы в [21]. Взаимосвязь между тек- ски неосуществимой.
+стурными и механическими свойствами различных Целью работы являлась разработка технологии 
+горных пород исследована в [22]. Особенности тексту- автоматизированного синтеза структур и текстур 
+ры породы были оценены количественно с помощью горных пород со случайными вариациями заданных 
+коэффициента текстуры. Разработанная модель была параметров текстуры, характерными для природ-
+применена для определения рейтинга неповрежден- ных геоматериалов, для использования в численных 
+ного горного материала в классификации горных экспериментах по определению физических свойств 
+массивов (RMR). в условиях различных воздействий.
+
+Особое место занимают методы обработки изо-
+бражений и синтез структур для установления взаи- 1. Методы исследования
+мосвязей с физическими свойствами горных пород. Моделирование методом конечных элементов 
+
+Автоматической идентификации горных пород геометрических форм различных структур и текстур 
+в шлифах с использованием текстурного анализа по- горных пород осуществляется путем программной 
+священа работа [23]. Созданию петрографических прорисовки элементов и размещения их в пределах 
+изображений из шлифов и количественному опреде- моделируемого объекта. При таком подходе возмож-
+лению пространственного расположения выбранных но также задание физических свойств различных ча-
+компонентов горных пород с помощью двумерного стей модели, сеток, начальных и граничных условий, 
+(2D) преобразования Фурье посвящена публикация которые могут изменяться в соответствии со сценари-
+[24]. Обсуждается, что алгоритм текстурной сегмента- ями проведения численных экспериментов.
+ции цифровых изображений стенок скважины, осно- Как пример формирования структуры в COMSOL 
+ванный на показателе «энергии текстуры», позволяет Multiphysics, созданной с помощью программы, на-
+автоматически разделять записанную последователь- писанной в кодах Matlab, рассмотрим фрагмент отри-
+ность на напластования [25]. Использование стати- совки образца горной породы с включениями в форме 
+стической модели текстуры, предложенной С. Д. Ма эллипсов [32]. Введение генератора случайных чисел 
+и А.  Гагаловичем, для создания синтетического изо- позволяет получить уникальность каждой комбинации 
+бражения, сопоставимого с исходным, описывается геометрических параметров и исследовать влияние 
+в  [26]. Автоматической идентификации горных по- случайных факторов на результаты экспериментов.
+род в шлифах с использованием текстурного анализа Фрагмент кода
+посвящена работа [27]. Кривые напряжение–дефор- clc Начальные операции
+мация и процессы эволюции повреждений в горных clear all
+породах на основе синтетических цифровых моделей clear fem
+при одноосном сжатии, позволяющих моделировать fem.shape = 2;
+различные структурные детали и неоднородное разно- fem.sshape = 2;
+образие изучаемых пород, исследуются в [28]. Модель 
+поровой сети используется в [29] для имитации диа- AT = 0.001; Большая полуось эллипса
+
+генетического цикла осадочных пород-коллекторов. BT = 0.0002; Малая полуось эллипса
+Пример использования двух расширенных критериев phi = 45; Наклон эллипса
+разрушения – «нелокального критерия Кулона–Мора LX = 0.032; Ширина образца
+
+67
+
+
+
+MINING SCIENCE AND TECHNOLOGY (RUSSIA) eISSN 2500-0632
+
+ГОРНЫЕ НАУКИ И ТЕХНОЛОГИИ https://mst.misis.ru/
+2021;6(2):65–72 Вознесенский А. С., Кидима Мбомби Л. К. Формирование синтетических структур и текстур горных пород...
+
+LY = 0.064; Высота образца изменения их размеров, угла наклона, положения, 
+NX = 15; Количество по горизон- можно получать структуры, соответствующие различ-
+
+тали ным типам горных пород.
+NY = 18; Количество по вертикали
+YMIN=BT/3; Поля по Y
+XMIN=AT/3; Поля по X
+DX = (LX-2*XMIN)/(NX+1); Расстояние между вклю-
+
+чениями по X
+DY = (LY-2*YMIN)/(NY+1); Расстояние между вклю-
+
+чениями по X
+r1 = rect2(LX,LY,’base’,’cor- Формирование образца
+ner’,’pos’,[-LX/2 -LY/2]);
+for j=1:NX
+ display=j
+ CX = -LX/2+XMIN+DX*(j);
+ for i=1:NY
+ CY = -LY/2+YMIN+DY*(i);
+ k = (i-1)*NX+j;
+ A=pi/2*random(‘Uni- Угол наклона эллипсов от 
+form’,-1,1,1,1) –90о до +90о
+
+ r{k} = ellip2(AT,BT,’pos’,[CX Формирование эллипсов 
+CY],’rot’,A); включений
+ r1 = r1 – r{k}; Формирование структуры
+ r1 = r1 + r{k};
+ end;
+
+Рис. 1. Результат работы программного кода
+end;
+fem.geom =r1; Построение структуры Полученные структуры могут быть использова-
+display=’femgeom’ ны для проведения численных экспериментов по ис-
+fem.mesh = meshinit(fem); Формирование сетки следованию физических свойств пород. Рассмотрим 
+display=’femmesh’ примеры таких исследований.
+fem.mesh = meshrefine(fem);
+display=’meshrefine’ 2.2. Построение структуры образца  
+figure, geomplot(fem) Формирование сетки песчаника и моделирование его испытания 
+fem.mesh = при одноосном сжатии
+meshinit(fem,’report’,’off’); Рассмотрим моделирование образца песчаника 
+fem.appl.mode = ‘FlPlaneStrain’; Выбор раздела COMSOL размером 32×32×64 мм в виде прямоугольной при-
+
+Multiphysics змы с квадратным основанием. Образец включает 
+fem.appl.equ.f = {0 0 1}; высокомодульные зерна-включения со структурой 
+fem.appl.equ.c = 1; 6×18 зерен, размещенные в цементирующей матри-
+fem.appl.bnd.h = 1; це. Полуоси зерен имеют размеры: большая от 1.8 
+fem = multiphysics(fem); до 2.9  мм и  меньшая от 1.3 до 2.1 мм. Углы ориен-
+fem.xmesh = meshextend(fem); тации главной оси эллипсов ±90о от горизонтального 
+
+направления. Модельные упругие свойства, модуль 
+fem.sol = femlin(fem,’re-
+port’,’off’); упругости E и  коэффициент Пуассона ν, приведены 
+figure в табл. 1.
+postplot(fem,’tridata’,’u’) Построение сетки Таблица 1
+
+Упругие свойства элементов модели
+Приведенный код соответствует построению Элементы структуры E, ГПа ν
+
+структуры в пространстве 2D, аналогично могут быть Цемент 1 0.2
+осуществлены построения и в пространстве 3D.
+
+Зерна 100 0.25
+2. Результаты и их обсуждение При моделировании задавались граничные 
+2.1. Демонстрационный пример условия, при которых вертикальные перемещения 
+
+Результат построения структуры в соответствии нижнего торца были запрещены, а перемещение 
+с приведенным выше кодом представлен на рис. 1. верхнего торца составило 0,1 мм вниз и соответство-
+В данном случае случайным образом задавались на- вало сжатию образца в вертикальном направлении.
+клоны эллипсов, а их размеры и положение не меня- Результаты расчетов напряжений в образце пред-
+лись. Задавая различное количество эллипсов, границ ставлены на рис. 2, а, а на рис. 2, б представлена кри-
+
+68
+
+
+
+MINING SCIENCE AND TECHNOLOGY (RUSSIA) eISSN 2500-0632
+
+ГОРНЫЕ НАУКИ И ТЕХНОЛОГИИ https://mst.misis.ru/
+2021;6(2):65–72 Voznesensky A. S., Kidima-Mbombi L. K. Formation of synthetic structures and textures of rocks...
+
+вая вертикальных нормальных напряжений в сечении ные цепи. Максимальное значение нормальных 
+y = 0. При этом принято, что напряжениям сжатия со- вертикальных напряжений в сечении y = 0 по аб-
+ответствуют отрицательные значения. солютной величине доходит до 223.8 МПа, а  сред-
+
+Surface: sy normal stress global sys. нее напряжение в этом сечении имеет величину 
+Max: 3.195e7
+
+Deformation: Displacement 77.0 МПа, отношение максимального напряжения 
+0.035 ×108 к среднему равно 2.91. Большие значения локальных 
+
+напряжений могут вызвать разрушение внутренней 
+0.030 0 структуры образца. Если бы он имел однородную по 
+
+модулю упругости структуру, усредненные по сече-
+0.025
+
+–0.5 нию напряжения сжатия не вызывали бы такого раз-
+0.020 рушения.
+
+0.015 –1.0 2.3. Моделирование 
+горизонтальной трещиноватости 
+
+0.010
+–1.5 в образце известняка
+
+0.005 Из эллипсов может быть сформирована также 
+и другая структура, имитирующая систему трещин го-
+
+0 –2.0
+ризонтальной, вертикальной или наклонной ориен-
+
+–0.005 тации с разбросом углов в заданном диапазоне. Ниже 
+–2.5 рассмотрена система эллиптических трещин с преи-
+
+–0.010 мущественно горизонтальным расположением в дву-
+–3.0 мерной постановке задачи.
+
+–0.015 Структура содержит сетку эллиптических тре-
+–0.020 –3.5 щин в количестве 15 горизонтальных и 10 верти-
+
+кальных рядов с наклоном ±40о относительно го-
+–0.025 ризонтальной оси, большой полуосью от 6 · 10–4 
+
+–4.0 до 10.4 · 10–3 мм и малой полуосью от 1.2 · 10–4 до 
+–0.030 2.8 · 10–4 мм. Отклонения центров трещин от равно-
+–0.035 –4.5 мерной сетки ±4.9 мм по горизонтали и ± 8 · 10–2 мм 
+
+–0.02 –0.01 0 0.01 0.02 по вертикали. Трещины размещены в образце по-
+Min: –4.669e8 роды размером 32×32×64 мм. При формировании 
+
+а размеров, наклона и положения центров эллипсов 
+использовался генератор случайных чисел с равно-
+
+0 мерным распределением.
+Для образца меловых отложений проводимость 
+
+породы взята равной проводимости известняка 
+σп = 10–4 См/м, проводимость воды σв = 10 См/м; про-
+водимость нефти 1 · 10–9 См/м. Проводимости сред 
+
+−1×108 и образцов приведены в табл. 2.
+На верхней грани образца задавалось напряжение 
+
+100 В относительно нижней грани, граничное условие 
+нижней грани соответствовало заземлению (Ground). 
+В результате расчета получались распределения ло-
+
+−2×108
+кального тока на верхней грани образца. Кроме того, 
+при моделировании строились линии плотности элек-
+трического тока, а также определялась эффективная 
+(усредненная) удельная электрическая проводимость 
+
+−3×108 (УЭП) образца.
+−0.02 −0.01 0 0.01 0.02 При моделировании рассмотрены три случая:
+
+x, м 1) однородный изотропный образец без трещин;
+б  2) образец с трещинами, заполненными нефтью 
+
+Рис. 2. Модельная структура образца песчаника или воздухом с низкой проводимостью, меньшей, чем 
+и распределение вертикальных сжимающих проводимость цементирующей матрицы;
+
+напряжений по объему (а) и в сечении y = 0 (б) образца 3) образец с трещинами, заполненными минера-
+лизованной водой с высокой проводимостью, боль-
+
+На рис. 2, а красным цветом отмечены области шей, чем проводимость матрицы.
+с  минимальными по абсолютной величине напря- Результаты расчетов представлены на рис. 3 
+жениями сжатия. Желтым, зеленым и синим цвета- и в табл. 2.
+ми отмечены напряжения сжатия, возникающие на Исходные и полученные в результате модели-
+контактах зерен. Желтым цветом отмечены области рования проводимости сред и образцов приведены 
+повышенных напряжений, образующих вертикаль- в табл. 2.
+
+69
+
+σв, М Па
+
+
+
+MINING SCIENCE AND TECHNOLOGY (RUSSIA) eISSN 2500-0632
+
+ГОРНЫЕ НАУКИ И ТЕХНОЛОГИИ https://mst.misis.ru/
+2021;6(2):65–72 Вознесенский А. С., Кидима Мбомби Л. К. Формирование синтетических структур и текстур горных пород...
+
+Surface: Electric potential [V] Max: 100 Surface: Electric potential Max: 100 Surface: Electric potential Max: 100
+Streamline: Total current density Streamline: Total current density Streamline: Total current density 
+
+0.035 100 0.035 100 0.035 100
+0.030 90 0.030 0.030
+
+90 90
+0.025 0.025 0.025
+
+80
+0.020 0.020 80 0.020 80
+
+0.015 70 0.015 0.015
+70 70
+
+0.010 0.010 0.010
+60
+
+0.005 0.005 60 0.005 60
+
+0 50 0 50 0 50
+–0.005 –0.005 –0.005
+
+40 40 40
+–0.010 –0.010 –0.010
+
+–0.015 30 –0.015 30 –0.015 30
+–0.020 –0.020 –0.020
+
+20 20 20
+–0.025 –0.025 –0.025
+
+–0.030 10 –0.030 10 –0.030 10
+
+–0.035 –0.035 –0.035
+–0.02 –0.015 –0.01 –0.005 0 0.005 0.01 0.015 0.02 0 –0.02 –0.015 –0.01 –0.005 0 0.005 0.01 0.015 0.02 0 –0.02 –0.015 –0.01 –0.005 0 0.005 0.01 0.015 0.02 0
+
+Min: 0 Min: 0 Min: 0
+
+ а б в
+Рис. 3. Линии тока для образцов однородного изотропного (а),  
+
+с трещинами, заполненными нефтью или воздухом (б) и проводящей минерализованной водой (в)
+
+Таблица 2 в связке с COMSOL Multiphysics, где производится мо-
+Проводимости сред, входящих в модель, а также делирование методом конечных элементов, является 
+
+усредненные проводимости образца однородного достаточно эффективным.
+и с трещинами, заполненными нефтью и 2. Продемонстрированы возможности модели-
+
+минерализованной водой рования песчаников, содержащих высокомодульные 
+зерна-включения, размещенные в цементирующей 
+
+Среда Однородный Трещины, Трещины, 
+образец нефть минерализованная матрице. Рассмотрено решение задачи определения 
+
+вода локальных напряжений в образце с такой структу-
+Известняк 1 · 104 рой при его одноосном деформировании в направ-
+Заполнение – 1 · 10–9 1 · 101 лении стороны наибольшего размера. Показано су-
+трещин щественное превышение локальными напряжениями 
+Образец 1 · 10–4 4.304 · 10–6 1.376 · 10–4 значений, усредненных по ширине сечения образца, 
+
+а  также наличие вытянутых областей повышенных 
+Для однородного изотропного образца из извест- напряжений, ориентированных вдоль направления 
+
+няка на рис. 3, а линии тока имеют линейную форму деформирования.
+и  направлены вертикально. Как следует из данных 3. В качестве примера трещиноватой структуры 
+табл. 2, для этого образца получено точно такое же рассмотрено влияние заполнителя на электросо-
+значение электропроводности породы, какое и закла- противление образца известняка, содержащего си-
+дывалось при формировании модели. стему тонких эллиптических трещин с преимуще-
+
+Для образца с трещинами, заполненными низ- ственно горизонтальным расположением. Наглядно 
+копроводящей жидкостью или воздухом, на рис. 3, б показано изменение линий протекания тока при 
+линии тока изгибаются, увеличивая путь протекания разных соотношениях между проводимостью ма-
+и уменьшая сечение, что приводит к уменьшению эф- трицы и заполнителем трещин и их влияние на 
+фективной проводимости образца более чем в 10 раз. эффективную (усредненную) проводимость образ-
+
+Для образца с трещинами, заполненными прово- ца породы. Меньшая проводимость заполнителя 
+дящей минерализованной водой, проводимость воз- трещин приводит к увеличению длины и уменьше-
+растает почти на 40% за счет частичного протекания нию сечения линий протекания тока, что приводит 
+тока по жидкости. к  существенному снижению проводимости трещи-
+
+новатого образца породы. Большая проводимость 
+Выводы заполнителя имеет своим результатом незначи-
+
+1. Подход к численному моделированию неодно- тельное увеличение проводимости трещиноватого 
+родных структур, содержащих эллиптические вклю- образца по сравнению с однородным изотропным 
+чения, формируемые программным путем из Matlab образцом.
+
+70
+
+
+
+MINING SCIENCE AND TECHNOLOGY (RUSSIA) eISSN 2500-0632
+
+ГОРНЫЕ НАУКИ И ТЕХНОЛОГИИ https://mst.misis.ru/
+2021;6(2):65–72 Voznesensky A. S., Kidima-Mbombi L. K. Formation of synthetic structures and textures of rocks...
+
+Список литературы / References
+1. Ivankina T. I., Matthies S. On the development of the quantitative texture analysis and its application 
+
+in solving problems of the Earth sciences. Physics of Particles and Nuclei. 2015;46:366–423. https://doi.
+org/10.1134/S1063779615030077
+
+2. Daryono L. R., Titisari A. D., Warmada I. W., Kawasaki S. Comparative characteristics of cement 
+materials in natural and artificial beachrocks using a petrographic method. Bulletin of Engineering Geology and 
+the Environment. 2019;78:3943–3958. https://doi.org/10.1007/s10064-018-1355-x
+
+3. Nachev V. A., Kazak A. V., Turuntaev S. B. 3D digital mineral-mechanical modeling of complex 
+reservoirs rocks for understanding fracture propagation at microscale. In: Society of Petroleum Engineers – SPE 
+Russian Petroleum Technology Conference 2020, RPTC 2020. Society of Petroleum Engineers; 2020. https://doi.
+org/10.2118/201979-MS
+
+4. Sangirardi M., Malena M., de Felice G. Settlement induced crack pattern prediction through the jointed 
+masonry model. In: Carcaterra A., Paolone A., Graziani G. (eds.) Proceedings of XXIV AIMETA Conference 2019. 
+AIMETA 2019. Lecture Notes in Mechanical Engineering. Springer, Cham. 2020. https://doi.org/10.1007/978-3-
+030-41057-5_158
+
+5. Bradbury K. K., Davis C. R., Shervais J. W., Janecke S. U., Evans J. P. Composition, Alteration, and Texture 
+of Fault-Related Rocks from Safod Core and Surface Outcrop Analogs: Evidence for Deformation Processes and 
+Fluid-Rock Interactions. Pure and Applied Geophysics. 2015;172:1053–1078. https://doi.org/10.1007/s00024-
+014-0896-6 
+
+6. Nikitin A. N., Ivankina T. I., Ullemeyer K., Vasin R. N. Similar quartz crystallographic textures in rocks of 
+continental earth’s crust (by neutron diffraction data): II. Quartz textures in monophase rocks. Crystallography 
+Reports. 2008;53:819–827. https://doi.org/10.1134/S1063774508050167
+
+7. Abd Elmola A., Charpentier D., Buatier M., Lanari P., Monié P. Textural-chemical changes and 
+deformation conditions registered by phyllosilicates in a fault zone (Pic de Port Vieux thrust, Pyrenees). 
+Applied Clay Science. 2017;144:88–103. https://doi.org/10.1016/j.clay.2017.05.008
+
+8. Allo F. Consolidating rock-physics classics: A practical take on granular effective medium models. The 
+Leading Edge. 2019;38(5):334–40. https://doi.org/10.1190/tle38050334.1
+
+9. Hu X., Huang S. Physical Properties of Reservoir Rocks. In: Hu X., Hu S., Jin F., Huang S. (eds) Physics 
+of Petroleum Reservoirs. Springer Geophysics. Springer, Berlin, Heidelberg. 2017. https://doi.org/10.1007/978-
+3-662-55026-7_2
+
+10. Frischbutter A., Janssen C., Scheffzük C., Walther K., Ullemeyer K., Behrmann J. H., et al. Strain 
+and texture measurements on geological samples using neutron diffraction at IBR-2, Joint Institute for 
+Nuclear Research, Dubna (Russia). Physics of Particles and Nuclei. 2006;37:S45–S68. https://doi.org/10.1134/
+S1063779606070033
+
+11. Hudleston PJ, Lan L. Rheological information from geological structures. Pure and Applied Geophysics. 
+1995;145:605–620. https://doi.org/10.1007/BF00879591
+
+12. Howarth D. F., Rowlands J. C. Development of an index to quantify rock texture for qualitative 
+assessment of intact rock properties. Geotechnical Testing Journal. 1986;9(4):169–179. https://doi.
+org/10.1520/GTJ10627J
+
+13. Howarth D. F., Rowlands J. C. Quantitative assessment of rock texture and correlation with drillability 
+and strength properties. Rock Mechanics and Rock Engineering. 1987;20:57–85. https://doi.org/10.1007/
+BF01019511
+
+14. Azzoni A., Bailo F., Rondena E., Zaninetti A. Assessment of texture coefficient for different rock types 
+and correlation with uniaxial compressive strength and rock weathering. Rock Mechanics and Rock Engineering. 
+1996;29:39–46. https://doi.org/10.1007/BF01019938
+
+15. Kamani M., Ajalloeian R. Evaluation of Engineering Properties of Some Carbonate Rocks Trough 
+Corrected Texture Coefficient. Geotechnical and Geological Engineering. 2019 Apr 15;37:599–614. https://doi.
+org/10.1007/s10706-018-0630-8
+
+16. Ajalloeian R, Mansouri H, Baradaran E. Some carbonate rock texture effects on mechanical behavior, 
+based on Koohrang tunnel data, Iran. Bulletin of Engineering Geology and the Environment. 2017;76:295–307. 
+https://doi.org/10.1007/s10064-016-0861-y
+
+17. Ömer Ü., Florian A. Influence of micro-texture on the geo-engineering properties of low porosity 
+volcanic rocks. In: Engineering Geology for Society and Territory – Volume 6: Applied Geology for Major Engineering 
+Projects. Springer International Publishing; 2015. P. 69–72. https://doi.org/10.1007/978-3-319-09060-3_12 
+
+18. Song R., Zheng L., Wang Y., Liu J. Effects of Pore Structure on Sandstone Mechanical Properties 
+Based on Micro-CT Reconstruction Model. Advances in Civil Engineering. 2020;2020: 9085045. https://doi.
+org/10.1155/2020/9085045
+
+19. Zhou J., Zhang L., Yang D., Braun A., Han Z. Investigation of the quasi-brittle failure of alashan 
+granite viewed from laboratory experiments and grain-based discrete element modeling. Materials (Basel). 
+2017;10(7):835. https://doi.org/10.3390/ma10070835
+
+71
+
+
+
+MINING SCIENCE AND TECHNOLOGY (RUSSIA) eISSN 2500-0632
+
+ГОРНЫЕ НАУКИ И ТЕХНОЛОГИИ https://mst.misis.ru/
+2021;6(2):65–72 Вознесенский А. С., Кидима Мбомби Л. К. Формирование синтетических структур и текстур горных пород...
+
+20. Zhao X., Wang T., Elsworth D., He Y., Zhou W., Zhuang L., et al. Controls of natural fractures on 
+the texture of hydraulic fractures in rock. Journal of Petroleum Science and Engineering. 2018;165:616–626.  
+https://doi.org/10.1016/j.petrol.2018.02.047
+
+21. Rahimi M. R., Mohammadi S. D., Beydokhti A. T. Effects of Mineral Composition and Texture 
+on Durability of Sulfate Rocks in Gachsaran Formation, Iran. Geotechnical and Geological Engineering. 
+2020;38:2619–2637. https://doi.org/10.1007/s10706-019-01173-9
+
+22. Ozturk C. A., Nasuf E. Strength classification of rock material based on textural properties. Tunnelling 
+and Underground Space Technology. 2013;37:45–54. https://doi.org/10.1016/j.tust.2013.03.005
+
+23. Wang L. Automatic identification of rocks in thin sections using texture analysis. Mathematical 
+Geology. 1995;27:847–865. https://doi.org/10.1007/BF02087099
+
+24. Prince C. M., Ehrlich R. Analysis of spatial order in sandstones. I. Basic principles. Mathematical 
+Geology. 1990;22:333–359. https://doi.org/10.1007/BF00889892
+
+25. Luthi S. M. Textural segmentation of digital rock images into bedding units using texture energy 
+and cluster labels. Mathematical Geology. 1994;26(2):181–196. https://doi.org/10.1007/BF02082762 
+
+26. Ye S. J., Rabiller P., Keskes N. Automatic high resolution texture analysis on borehole imagery. In: 
+SPWLA 39th Annual Logging Symposium 1998. Society of Petrophysicists and Well-Log Analysts (SPWLA); 1998. 
+
+27. Wang L. Automatic identification of rocks in thin sections using texture analysis. Mathematical Geology. 
+1995;27:847–865. https://doi.org/10.1007/BF02087099
+
+28. Xiao H, He L, Li X, Zhang Q, Li W. Texture synthesis: A novel method for generating digital models 
+with heterogeneous diversity of rock materials and its CGM verification. Computers and Geotechnics. 
+2021;130:103895. https://doi.org/10.1016/j.compgeo.2020.103895
+
+29. Algive L, Bekri S, Lerat O, Nader F, Vizika O. Reactive pore network modeling technology to evaluate the 
+impact of diagenesis on the petrophysical properties of a rock. In: Society of Petroleum Engineers – International 
+Petroleum Technology Conference 2009, IPTC 2009. 2009, pp. 3452–3461. https://doi.org/10.3997/2214-4609-
+pdb.151.iptc14049
+
+30. Kazerani T, Nilipour N, Garin E, Seingre G. Application of numerical modelling for large-scale 
+underground excavation in foliated rock mass. In: ISRM Regional Symposium, EUROCK 2015. International 
+Society for Rock Mechanics; 2015, pp. 931–936. 
+
+31. Coelho G., Branquet Y., Sizaret S., Arbaret L., Champallier R., Rozenbaum O. Permeability of sheeted 
+dykes beneath oceanic ridges: Strain experiments coupled with 3D numerical modeling of the Troodos 
+Ophiolite, Cyprus. Tectonophysics. 2015;644:138–150. https://doi.org/10.1016/j.tecto.2015.01.004
+
+Информация об авторах
+Александр Сергеевич Вознесенский – доктор технических наук, профессор, кафедра физических 
+процессов горного производства и геоконтроля, Национальный исследовательский технологический 
+университет «МИСиС» (НИТУ «МИСиС»), г. Москва, Российская Федерация; SPIN 5976-3030; ORCID 
+0000-0003-0926-1808; e-mail al48@mail.ru
+Лемюэль Кетюра Кидима-Мбомби – аспирантка кафедры физических процессов горного производ-
+ства и геоконтроля, Национальный исследовательский технологический университет «МИСиС» (НИТУ 
+«МИСиС»), г. Москва, Российская Федерация. Гражданство Республика Конго
+
+Information about the authors
+Aleksandr S. Voznesensky – Doctor of Sciences (Engineering), Professor of the Department of Physical 
+Processes of Mining and of Geocontrol, National University of Science and Technology “MISiS” (NUST 
+“MISiS”), Moscow, Russian Federation; SPIN 5976-3030; ORCID 0000-0003-0926-1808; e-mail al48@mail.ru
+Lemuel Ketura Kidima-Mbombi – PhD student, Department of Physical Processes of Mining and of 
+Geocontrol, National University of Science and Technology “MISiS” (NUST “MISiS”), Moscow, Russian 
+Federation
+
+Поступила в редакцию 11.05.2021   Received 11.05.2021
+Поступила после рецензирования 29.05.2021  Revised 29.05.2021
+Принята к публикации 15.06.2021   Accepted 15.06.2021
+
+72

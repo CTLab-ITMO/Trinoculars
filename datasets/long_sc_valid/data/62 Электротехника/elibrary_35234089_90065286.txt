@@ -1,0 +1,916 @@
+﻿Электромеханические системы 
+ 
+УДК 621.313.322 DOI: 10.14529/power180209
+  
+МАГНИТНЫЕ ПРОВОДИМОСТИ ДВУХПОЛЮСНОЙ  
+РЕАКТИВНОЙ МАШИНЫ С АНИЗОТРОПНОЙ  
+МАГНИТНОЙ ПРОВОДИМОСТЬЮ РОТОРА 
+ 
+Ф.А. Гельвер1, 2, В.Ф. Самосейко1, 2 
+1 Филиал «Центральный научно-исследовательский институт судовой  
+электротехники и технологии» ФГУП «Крыловский государственный научный 
+центр», г. Санкт-Петербург, Россия 
+2 Государственный университет морского и речного флота им. адмирала  
+С.О. Макарова, г. Санкт-Петербург, Россия 
+ 
+ 
+
+На основе предложенной схемы замещения магнитной цепи реактивной электрической машины с 
+анизотропной магнитной проводимостью ротора получены аналитические зависимости, позволяющие 
+определить продольную и поперечную магнитные проводимости двухполюсной реактивной машины с 
+анизотропной магнитной проводимостью ротора с учетом крепежной выемки и межполюсного немаг-
+нитного промежутка. Представлены результаты сравнения двух вариантов изготовления ротора реак-
+тивной машины с использованием продольной шихтовки ротора (ALA) и поперечной шихтовки ротора 
+(TLA) по коэффициенту поперечной магнитной проводимости. Представленное математическое описа-
+ние может быть использовано для построения методики проектирования реактивной электрической ма-
+шины с анизотропной магнитной проводимостью ротора с продольной шихтовкой пакетов полюса ро-
+тора (ALA). Из полученных результатов следует, что крепежная выемка и межполюсный воздушный 
+промежуток существенно уменьшают поперечную магнитную проводимость машины, а следовательно, 
+улучшают ее эффективность. 
+
+Ключевые слова: анизотропная магнитная проводимость, продольная шихтовка полюса ротора, 
+магнитный потенциал, магнитное напряжение, коэффициент поперечной магнитной проводимости. 
+
+ 
+ 
+
+Введение более технологична в изготовлении [5, 22, 23, 33]. 
+В настоящее время реактивным электриче- В частности, фирма АВВ уже несколько лет про-
+
+ским машинам с анизотропной магнитной прово- мышленно выпускает реактивные электрические 
+димостью ротора уделяется большое внимание, о машины с поперечной шихтовки пакета ротора 
+чем свидетельствует множество статей в ино- (TLA) [34, 35]. На данный момент времени прак-
+странных [1–27] и отечественных [28–33] журна- тически все исследования [1–27] посвящены имен-
+лах, сборниках и монографиях. Данный класс но реактивной машине с анизотропной магнитной 
+электрических машин отличает высокий показа- проводимостью ротора с поперечной шихтовкой 
+тель энергетической эффективности [1] и лучшие пакета ротора (TLA). Ряд статей посвящен опти-
+эксплуатационные характеристики [1, 3–5, 7, 10, мизации конструкции и геометрических размеров 
+15, 19, 22, 23, 28–33] по сравнению с другими ти- ротора реактивной машины с анизотропной маг-
+пами электрических машин, включая самую рас- нитной проводимостью ротора с поперечной ших-
+пространенную электрическую машину – асин- товкой пакета ротора (TLA) [5, 8–17, 20, 23–27].  
+хронный электродвигатель с короткозамкнутым В представленных статьях приводятся в основном 
+ротором. Сравнению этих двух классов электриче- результаты численного реже физического моде-
+ских машин по энергетическим и эксплуатацион- лирования магнитных полей с использованием 
+ным характеристикам также посвящено много ста- специализированных программ, основанных на 
+тей [3, 18, 19, 28–30, 32–35]. Следует отметить, что методах конечных элементов, таких как ELCUT, 
+существуют две технологии изготовления ротора ANSYS Maxwell, Femlab. Несмотря на множество 
+такой электрической машины: с использованием статей и работ, выполненных в последнее время 
+продольной шихтовки пакетов полюса ротора [36–38], посвященных описанию магнитных полей 
+(ALA – Axially Laminated Anisotropic) и попереч- различных типов электрических машин, проведен-
+ной шихтовки пакета ротора со специальными ный анализ показал, что аналитическое описание 
+вырезами (TLA – Transversally Laminated Aniso- магнитных проводимостей реактивной машины  
+tropic). Считается что реактивная машина с попе- с анизотропной магнитной проводимостью рото-
+речной шихтовкой пакета полюса ротора (TLA) ра с продольной шихтовкой пакета ротора  (АLA)  
+
+Вестник ЮУрГУ. Серия «Энергетика».  
+2018. Т. 18, № 2. С. 71–81 71 
+
+
+
+Электромеханические системы 
+отсутствует. Однако по энергетической эффективности реактивная машина с анизотропной магнитной 
+проводимостью ротора с поперечной шихтовкой пакета ротора (TLA) проигрывает реактивной машине с 
+продольной шихтовкой пакетов полюса ротора (ALA) [28, 29, 32]. Далее будем рассматривать только реак-
+тивную электрическую машину с продольной шихтовкой пакетов полюса ротора. 
+
+ 
+
+ 
+Рис. 1. Магнитная система машины  
+
+с крепежной выемкой на роторе 
+ 
+Магнитная система реактивной двухполюсной машины с анизотропной магнитной проводимостью 
+
+ротора изображена на рис. 1. Полагается, что ротор имеет крепежную выемку V и немагнитный промежу-
+ток между двумя его половинами U. 
+
+ 
+Продольная магнитная проводимость двухполюсной машины 
+При определении продольной магнитной проводимости полагаем, что воздушный зазор в зоне кре-
+
+пежной выемки достаточно велик, и величина крепежной выемки существенно влияет на продольную маг-
+нитную проводимость ротора машины. Величина же немагнитного промежутка U на роторе машины дос-
+таточно мала и не оказывает на продольную магнитную проводимость ротора существенного влияния. 
+
+Пусть магнитная проницаемость ротора машины в продольном направлении равна бесконечности, 
+а поперечном направлении – нулю. Тогда функция магнитного потенциала ротора запишется в виде: 
+
+1/2 при [0,1] и [1,
+U A ];
+
+R (,A )    
+0 при [A , / 2],
+
+где  – текущий угол, отсчитываемый от оси q; A – угол, характеризующий положение магнитной оси ка-
+тушки A; 1 – половина углового размера крепежной выемки. 
+
+В этом случае катушка с током двухполюсной машины будет порождать в воздушном зазоре продоль-
+ное магнитное напряжение 
+
+0 при [0,1] и [1, ];
+F ( , ) A
+d  A                    (1) 
+
+1/2 при 1,A     / 2,
+где , A  [0, /2]. 
+
+Продольное магнитное напряжение в воздушном зазоре (1) может быть представлено двойным рядом 
+Фурье 
+
+ 
+Fd (,A ) Fd (u,v) cos(u A ) sin(v ) , (2) 
+
+i1 j1                 
+где 
+
+8 /2 /2
+Fd (u,v)  2  cos(v ) dsin(u ) d
+
+   (3) 
+0 A                  
+
+  
+72 Bulletin of the South Ural State University. Ser. Power Engineering. 
+
+2018, vol. 18, no. 2, pp. 71–81 
+
+
+
+Гельвер Ф.А., Самосейко В.Ф.       Магнитные проводимости двухполюсной реактивной машины 
+                 с анизотропной магнитной проводимостью ротора 
+
+– амплитуда гармоники порядка u  2  i 1 , v  2  j 1  продольного магнитного напряжения в воздушном 
+зазоре. 
+
+После интегрирования выражения (3), амплитуда гармоники порядка u, v продольного магнитного на-
+пряжения запишется в виде: 
+
+F 2  sin(x kv )  sin(x) sin(y kv )  sin(y) 
+d (u,v)   ,
+
+y  x  
+x                 (4) 
+
+ y 
+где x = (v – u)·/2; y = (v + u)·/2; kv = 2·1/ – доля, занимаемая крепежной выемкой на угловом полюсном 
+делении. 
+
+Взаимная относительная продольная магнитная проводимость катушек A и B, в соответствии с 
+формулой 
+
+
+*  B 
+
+ (A ,B )  *(B ,A )    F (, )   ,    
+4 A d             (5) 
+
+B
+определится выражением: 
+
+ 
+* ( , ) *( , )  B  
+ *
+
+dd A B   B A    Fd (,A ) d  dd (u,v) cos((2 u 1) A ) cos((2 v1)  ),
+4 B  (6) 
+
+B u1 v1
+
+где 
+* 2  sin(x  kv )  sin(x) sin(y  kv )  sin(y) 
+
+dd (u,v)                    
+ x  (x2  y2 ) y  (x2  y2 )   (7) 
+
+
+– относительная продольная магнитная проводимость. 
+
+Так как при x = 0 в выражении (7) имеет место неопределенность, то взаимную относительную про-
+дольную магнитную проводимость катушек A и B удобнее вычислять по формуле 
+
+  v1
+* * * 
+
+ dd (A ,B )  dd (v,v) cos(v A ) cos(v B )  2 dd (u,v)  cos(u A ) cos(v B )  
+  ,
+
+i 
+1  j1 
+
+где 
+* 1 
+
+( , k sin(v    kv / 2)
+dd v v)  2  1  
+
+v v                   (8) 
+ v   
+
+
+– амплитуда гармоники порядка v, v относительной продольной магнитной проводимости. 
+
+При круглом основании цилиндрического ротора (kv = 0) продольное магнитное напряжение в воз-
+душном зазоре (2) может быть представлено простым рядом Фурье 
+
+
+Fd (,A ) Fd (v) cos(v A ) sin(v ) ,                 (9) 
+
+j1
+где 
+
+F 2
+d (v)                        (10) 
+
+v
+– амплитуда гармоники продольного магнитного напряжения в воздушном зазоре порядка v. График функ-
+ции продольного магнитного напряжения в воздушном зазоре приведен на рис. 2, б. 
+
+Взаимная относительная продольная магнитная проводимость катушек A и B у машины c круглым ос-
+нованием цилиндрического ротора может быть также представлена простым рядом Фурье. 
+
+
+* *
+
+dd (A ,B )  dd (v) cos(v A ) cos(v B ),               (11) 
+j1
+
+где 
+* * 1
+
+ dd (v)   dd (v,v)                      (12) 
+v2
+
+– амплитуда гармоники порядка v относительной продольной магнитной проводимости. 
+Амплитуда гармоники порядка u, v = 1 продольной магнитной проводимости совпадает с базовой маг-
+
+нитной проводимостью dd(1,1) и называется основной продольной магнитной проводимостью 
+4 0  l  dd  dd (1,1)  б  ,                   (13) 
+2  *
+
+где *  /R – относительный расчетный воздушный зазор между статором и ротором;  = /р – угловое 
+полюсное деление; р – число пар полюсов; l – длина магнитопровода. 
+  
+Вестник ЮУрГУ. Серия «Энергетика».  
+2018. Т. 18, № 2. С. 71–81 73 
+
+
+
+Электромеханические системы 
+
+ 
+Рис. 2. Графики функций магнитного напряжения в воздушном 
+зазоре при круглом основании цилиндра ротора: а – суммарного;  
+                           б – продольного; в – поперечного 
+
+ 
+Основная удельная продольная магнитная проводимость c круглым основанием цилиндрического ро-
+
+тора 
+o 
+
+ dd 4
+dd   * .                    (14) 
+
+0  l р   
+Для оценки влияния крепежной выемки на продольную маг-
+
+нитную проводимость катушки введем понятие коэффициента ва-
+риации продольной магнитной проводимости, обусловленной 
+крепежной выемкой
+
+*  sin(k  )
+k 1 v
+
+d dd  kv  ,                (15) 
+
+
+где kv = 2·1/ – доля, занимаемая крепежной выемкой на угловом 
+полюсном делении ; 1 – половина геометрического углового раз-
+мера крепежной выемки. Коэффициент вариации продольной маг-
+нитной проводимости показывает, насколько крепежная выемка 
+уменьшает продольную магнитную проводимость 
+
+ dd  б  (1kd ) , 
+Рис. 3. Зависимость коэффициента 
+вариации продольной магнитной где б – базовая магнитная проводимость (13). Зависимость коэф-
+проводимости от ее доли на угловом  фициента вариации продольной магнитной проводимости от ее доли 
+                 полюсном делении на угловом полюсном делении приведена на рис. 3. 
+
+  
+74 Bulletin of the South Ural State University. Ser. Power Engineering. 
+
+2018, vol. 18, no. 2, pp. 71–81 
+
+
+
+Гельвер Ф.А., Самосейко В.Ф.       Магнитные проводимости двухполюсной реактивной машины 
+                 с анизотропной магнитной проводимостью ротора 
+
+Поперечная магнитная проводимость двухполюсной машины 
+Поперечное магнитное напряжение в воздушном зазоре можно записать в виде составной функции: 
+
+0 при [0,1];
+F ( ,A )  F (,A )  Fd (,A ) 
+q   1/ 2URq () при [1,A ];           (16) 
+
+
+URd () при [A , / 2],
+
+где 
+URd ()  C1d cosh(c ) C2d sinh(c );
+
+              (17) 
+URq () 1  
+
+ C1q cosh(c )C2q sinh(c ),
+2
+
+где URd() и URq() – функции магнитного потенциала ротора в зоне продольной и поперечной проводимо-
+сти. 
+
+С учетом соотношений (17) поперечное магнитное напряжение в воздушном зазоре 
+0 при [0,1];
+
+F 
+q (,A )  C1q cosh(c ) C2q sinh(c ) при [1,A ];            (18) 
+
+
+C1d cosh(c ) C2d sinh(c ) при [A , / 2],
+
+где с – коэффициент затухания магнитного потенциала многополюсной машины, характеризующий ско-
+рость уменьшения функций поперечного потока и магнитного потенциала ротора в зоне поперечной маг-
+нитной проводимости по мере удаления от паза с проводниками катушки, определяемый как с  1 *  *
+
+q ; 
+ *
+
+q  – относительная поперечная магнитная проницаемость полюса ротора; * – относительная величина 
+расчетного воздушного зазора. График функции поперечного магнитного напряжения в воздушном зазоре 
+при 1 = 0 приведен на рис. 2, в. 
+
+Поперечное магнитное напряжение в воздушном зазоре (18) может быть представлено двойным рядом 
+Фурье 
+
+ 
+Fq (,A ) Fq(u ,v) sin(v A ) cos(u ) ,               (19) 
+
+i1 j1
+где 
+
+16 /2 /2
+Fq(u,v)  2    Fq (,A ) cos(u ) dsin(v ) d  (20) 
+
+             
+0 A
+
+– амплитуда гармоники порядка u, v поперечного магнитного напряжения в воздушном зазоре. 
+Амплитуда гармоники порядка u = v = 1 поперечного магнитного напряжения в воздушном зазоре за-
+
+пишется в следующем виде: 
+2 1 kv sin(k  ) 2
+
+F v c 1 4 c
+q(1,1)   2      
+
+ 
+ c 1  (c2 1)2  (c2 1)2
+
+ U  k      
+  2 sin  v  U C S  k  
+
+sin2 v C ,            (21) 
+ U S C    
+
+  2     
+     U S C 2 
+
+kv – доля, занимаемая крепежной выемкой на угловом полюсном делении; U  2  *
+q / * / о
+
+U  – коэффи-
+циент магнитного сопротивления между полюсами ротора; 
+
+S c  (1 kv )
+sinh C c  (1 k )
+
+   
+ 2  ;   cosh 
+
+  v 
+ .              (22) 
+
+   2 
+
+
+Взаимная относительная поперечная магнитная проводимость катушек A и B, в соответствии с 
+формулой (5), определяется выражением 
+
+B 
+* ( , )   
+
+ qq A B    Fq (,  *
+A ) d   qq(u,v) sin((u A ) sin((v B ),         (23) 
+
+4 B i1 j1
+
+где Fq(,A) – поперечное магнитное напряжение в воздушном зазоре (18). 
+Амплитуды гармоники порядков u, v относительной поперечной магнитной проводимости катушек 
+
+при u  v могут быть вычислены по приближенным формулам: 
+ 
+
+Вестн ик ЮУрГУ. Серия «Энергетика».  
+2018. Т. 18, № 2. С. 71–81 75 
+
+
+
+Электромеханические системы 
+* 1 kv sin(2 v 1)  (v2  c2 ) 4 c  
+
+) U 
+qq(v,v)  ;         (24) 
+
+v2  c2  v    (v2  c2 )2 
+ (v2  c2 )2 sin2 (v 1 
+
+ 1  
+U 
+
+2  2 sin(2 v  ) sin(2 u  ) (u v  c2 ) sin((u  v) 1) (u v  c2
+* 1 1 ) sin((u  v) 1) 
+
+qq(u,v)   2 2 2 2     (25) 
+ 
+
+ u  c  v  c ) (u  v)  (u2  c2 )  (v2  c2 ) (u  v)  (u2  c2 )  (v2  c2 .
+( ) ( ) 
+
+Приближение получено путем предельного перехода при exp(·c)  . Погрешность формулы при 
+c > 1,3 и u, v > 3 не превышает 5 %. 
+
+Взаимную относительную поперечную магнитную проводимость катушек A и B удобнее вычислять по 
+формуле 
+
+  v1
+* 
+
+ qq (A ,B ) * *
+qq(v,v) sin(v A ) sin(v B )  2 qq(u,v) sin(u A ) sin(v B ) .  
+
+j1 i1 
+Основная относительная поперечная магнитная проводимость (амплитуда гармоники порядка u, v = 1) 
+
+* * 
+qq   qq(1,1)  F ,                   (26) 
+
+2 q(1,1)
+
+где Fq(1,1) – амплитуда гармоники порядка  u = v = 1 поперечного магнитного напряжения в воздушном 
+зазоре. 
+
+При круглом основании цилиндрического ротора (kv = 0; U = 0) поперечное магнитное напряжение в 
+воздушном зазоре может быть представлено простым рядом Фурье 
+
+
+Fq (,A ) Fq(v) sin(v A ) cos(v ) ,               (27) 
+
+j1
+где  
+
+F 2
+ ( )   v
+
+q v  (28) 
+ v2  c2
+
+                    
+– амплитуда гармоники поперечного магнитного напряжения в воздушном зазоре. График функции попе-
+речного магнитного напряжения в воздушном зазоре приведен на рис. 2, в. 
+
+Взаимная относительная поперечная магнитная проводимость катушек A и B у машины c круглым ос-
+нованием цилиндрического ротора может быть представлена простым рядом Фурье 
+
+
+*
+
+qq (A ,B ) *
+qq(v) sin(v A ) sin(v B ),               (29) 
+
+k1
+где 
+
+* * 1
+qq(v)   qq(v,v)                     (30) 
+
+v2  c2
+
+– амплитуда гармоники порядка v поперечной относительной магнитной проводимости. Амплитуда гармо-
+ники порядка v поперечной магнитной проводимости 
+
+* 
+ б
+
+qq(v)  б   qq(v)  . 
+v2  c2
+
+Коэффициент поперечной магнитной проводимости с учетом крепежной выемки и межполюсного
+немагнитного промежутка является важным показателем характеризующим эффективность работы реак-
+тивной электрической машины. Он определится выражением 
+
+ F
+k  k (k ,U )  qq  q(1,1)
+
+q q v .                  (31) 
+dd Fd (1,1)
+
+Для оценки влияния крепежной выемки и межполюсного немагнитного промежутка на основную по-
+перечную магнитную проводимость катушки введем понятие коэффициента вариации поперечной магнит-
+ной проводимости, обусловленной крепежной выемкой и межполюсным немагнитным промежутком 
+
+2 * k (k , )
+k  1 (1 c )   1 q v U
+
+q qq .                (32) 
+kq (0,0)
+
+Поперечная магнитная проводимость основной гармоники с учетом крепежной выемки и межполюс-
+ного немагнитного промежутка между полюсами ротора 
+
+1 k
+    q
+
+qq б .                    (33) 
+1 c2
+
+  
+76 Bulletin of the South Ural State University. Ser. Power Engineering. 
+
+2018, vol. 18, no. 2, pp. 71–81 
+
+
+
+Гельвер Ф.А., Самосейко В.Ф.       Магнитные проводимости двухполюсной реактивной машины 
+                 с анизотропной магнитной проводимостью ротора 
+
+Положим, что межполюсный немагнитный промежуток отсутствует (U = 0). Тогда коэффициент ва-
+риации поперечной магнитной проводимости, обусловленной влиянием крепежной выемки, определится 
+выражением 
+
+kq (kv ,0) sin(k  
+k v ) c2 1 4 c 2 k (1 ) )
+
+1  2 2 sin  v   c  k
+qV  k       
+
+        tanh v
+  ,       (34) 
+
+k (0,0) v
+q  c 1   (c 1)  2   2 
+
+где kv = 2·1/ – доля, занимаемая крепежной выемкой на угловом полюсном делении; c – коэффициент 
+затухания. Зависимость коэффициента вариации поперечной магнитной проводимости, обусловленной 
+крепежной выемкой, от ее доли на угловом полюсном делении приведена на рис. 4, а. 
+ 
+
+ 
+Рис. 4. Зависимости коэффициента вариации поперечной магнитной 
+проводимости двухполюсной машины: а – обусловленной крепежной 
+выемкой, от её доли на угловом полюсном делении; б – обусловленной 
+межполюсным воздушным промежутком, от коэффициента магнитного  
+                             сопротивления между полюсами ротора 
+
+ 
+Из приведенных графиков рис. 4 следует, что крепежная выемка и межполюсный немагнитный про-
+
+межуток уменьшают поперечную магнитную проводимость катушки и коэффициент поперечной магнит-
+ной проводимости. 
+
+Положим, что крепежная выемка отсутствует (kv = 0). Тогда коэффициент вариации поперечной маг-
+нитной проводимости, обусловленный влиянием межполюсного немагнитного промежутка: 
+
+k (0, ) 4
+k 1 q U c 
+
+ U
+qU    2 .             (35) 
+
+kq (0,0)   (1 c )  (1 U  tanh(c   / 2))
+Зависимость коэффициента вариации поперечной магнитной проводимости, обусловленной межпо-
+
+люсным воздушным промежутком, от коэффициента магнитного сопротивления между полюсами ротора 
+представлена на рис. 4, б. 
+
+Используя полученные выражения, можно определить величину коэффициента поперечной магнитной 
+проводимости для реактивной электрической машины с продольной шихтовкой ротора (АLA) и сравнить 
+полученное значение с значением коэффициента поперечной магнитной проводимости для реактивной 
+электрической машины с поперечной шихтовкой ротора (ТLA). Такое сравнение позволяет оценить энер-
+гетическую эффективность различных технологий изготовления ротора таких электрических машин. Ре-
+зультаты сравнения приведены в таблице. 
+ 
+
+Результаты сравнения реактивной электрической машины с продольной шихтовкой ротора (АLA)  
+и с поперечной шихтовкой ротора (TLA) 
+
+Тип реактивной электрической машины kq 
+
+С продольной шихтовкой ротора (АLA) 0,03…0,05 
+
+ 
+
+С поперечной шихтовкой ротора (TLA) 0,08…0,14 
+
+ 
+ 
+Вестн ик ЮУрГУ. Серия «Энергетика».  
+2018. Т. 18, № 2. С. 71–81 77 
+
+
+
+Электромеханические системы 
+Заключение 
+Полученные аналитические зависимости являются новыми, нигде ранее не встречавшимися в научной 
+
+литературе, и позволяют определить магнитные проводимости двухполюсной реактивной электрической 
+машины с продольной шихтовкой ротора (АLA). Из представленных зависимостей и графиков следует, что 
+крепежная выемка и межполюсный воздушный промежуток существенно уменьшают поперечную магнит-
+ную проводимость машины, а следовательно, улучшают ее эффективность. Показано, что по энергетиче-
+ским характеристикам реактивная машина с анизотропной магнитной проводимостью ротора с продольной 
+шихтовкой пакетов полюса ротора (ALA) выигрывает у реактивной машины с поперечной шихтовкой па-
+кета ротора (TLA). Полное математическое описание и результаты исследования, приведенные в данной 
+статье, использованы при написании методики проектирования синхронной электрической машины с ани-
+зотропной магнитной проводимостью ротора [31]. Предложенное математическое описание магнитных 
+проводимостей может быть полезно при проектировании и оптимизации конструкции реактивной электри-
+ческой машины с анизотропной магнитной проводимостью ротора. Представленные результаты будут по-
+лезны широкому кругу специалистов, а также проектантам электроприводов на основе реактивных элек-
+трических машин с анизотропной магнитной проводимостью ротора с продольной шихтовкой пакетов по-
+люса ротора (ALA). 
+ 
+ 
+
+Литература/References 
+1. Tammi A., Termini P., Kansakangas T. Magnet-Free Motor Technology for Field Speed Applications Reach-
+
+ing “IE5” Efficiency Level. Emends 15, Helsinki 15–17 September 2015. Available at: http://www.eemods15.info/ 
+midcom-serveattachmentguid-1e55dfbb33f02fc5dfb11e5ac6fc777b4bb692d692d/motors6_ari_tammi.pdf (accessed 
+20.01.2018). 
+
+2. Bianchi N., Bolognani S., Bon D., Dai Pre M. Rotor Flux-Barrier Design for Torque Ripple Reduction 
+in Synchronous Reluctance and PM-Assisted Synchronous Reluctance Motors. IEEE Trans. on Ind. Appl., 2009, 
+vol. 45, no. 3, pp. 921–928. DOI: 10.1109/TIA.2009.2018960 
+
+3. Boglietti A., Cavagnino A., Pastorelli M., Vagati A. Experimental Comparison of Induction and synchro-
+nous reluctance motors performance. Conference Record of the 2005 Industry Applications Conference, Fortieth 
+IAS Annual Meeting, 2005, vol. 1, pp. 474–479. DOI: 10.1109/IAS.2005.1518350 
+
+4. Bomela X.B., Kamper M.J. Effect of Stator Chording and Rotor Skewing on Performance of Reluctance 
+Synchronous Machine. IEEE trans. on Ind. Appl., 2002, no. 1, pp. 91–100. DOI: 10.1109/28.980362 
+
+5. Oprea C., Dziechciarz A, Martis C. Comparative Analysis of Different Synchronous Reluctance Motor Topolo-
+gies. International Conference on Environment and Electrical Engineering, 2015. DOI: 10.1109/EEEIC.2015.7165463 
+
+6. Fratta А., Troglia G.P., Vagati A., Villata F. Torque Ripple Evaluation of High-Performance Synchronous 
+Reluctance Machines. IEEE Trans. Ind. Appl. Mag., 1995, vol. 1, no. 4, pp. 14–22. DOI: 10.1109/2943.392459 
+
+7. Haataja J.A. Comparative Performance Study of Four Pole Induction Motors and Synchronous Reluctance 
+Motor in Variable Speed Drives. Lappeenranta University of Technology, 2003. 138 р. 
+
+8. Ho Lee J., Lee K., Hyun Cho Y., Won Yun T. Characteristics Analysis and Optimum Design of Anisotropy 
+Rotor Synchronous Reluctance Motor Using Coupled Finite Element Method and Response Surface Methodology. 
+IEEE Transactions on Magnetics, 2009, vol. 45, pp. 4696–4699. DOI: 10.1109/TMAG.2009.2024877 
+
+9. Ho Lee J. Optimum Design Criteria for Maximum Torque Density and Minimum Torque Ripple of SynRM 
+According to the Rated Wattage Using Response Surface Methodology. IEEE Transactions on Magnetics, 2009, 
+vol. 45, pp. 1578– 1581. DOI: 10.1109/TMAG.2009.2012747 
+
+10. Hofmann H., Sanders S.R. High-Speed Synchronous Reluctance Machine with Minimized Rotor Loss. 
+IEEE Transactions on Industry Applications, 2000, vol. 36, no. 2, pp. 531–539. DOI: 10.1109/28.833771 
+
+11. Hortman M.B. Implementation and Evaluation of a Full-Order Observer for a Synchronous Reluctance 
+Motor. Thesis, School of Electrical and Computer Engineering Georgia Institute of Technology, 2004. 63 р. 
+
+12. Hossein A., Abolfazl V. Rotor Geometry Parameter Optimization of Synchronous Reluctance Motor 
+Using Taguchi Method. Przegląd Elektrotechniczny, 2013, pp. 197–201. 
+
+13. Hudak P., Hrabovcova V., Rafajdus P. Geometrical Dimension Induence of Multi-Barrier Rotor on Reluc-
+tance Synchronous Motor Performances. International Symposium on Power Electronics, Electrical Drives, Auto-
+mation and Motion SPEEDAM, 2006, pp. 346–351. DOI: 10.1109/SPEEDAM.2006.1649796 
+
+14. Kolehmainen J. Synchronous Reluctance Motor with Form Blocked Rotor. IEEE Transactions on Energy 
+Conversion, 2010, pp. 450–456. DOI: 10.1109/TEC.2009.2038579 
+
+15. Haataja J. A Comparative Performance Study of Four-Pole Induction Motors and Synchronous Reluc-
+tance Motors in Variable Speed Drives. Lappeenranta, 2003. 
+
+16. Kamper M.J., Van der Merwe F.S., Williamson S. Directnite Element Design Optimization of the Cage-
+less Reluctance Synchronous Machine. IEEE Transactions on Energy Conversion, 1996, vol. 11, no. 3, pp. 547–555.
+DOI: 10.1109/60.537006 
+
+  
+78 Bulletin of the South Ural State University. Ser. Power Engineering. 
+
+2018, vol. 18, no. 2, pp. 71–81 
+
+
+
+Гельвер Ф.А., Самосейко В.Ф.       Магнитные проводимости двухполюсной реактивной машины 
+                 с анизотропной магнитной проводимостью ротора 
+
+17. Kim K.-C., Ahn J.S., Won S.H., Hong J.-P., Lee J. A Study on the Optimal Design of SynRM for the High 
+Torque and Power Factor. IEEE Transactions on Magnetics, 2007, vol. 43, no. 6, pp. 2543–2545. DOI: 
+10.1109/TMAG.2007.893302 
+
+18. Lipo T.A. Synchronous Reluctance Machine, a Viable Alternative for AC Drives. E.M.P.S., 1991, vol. 19, 
+pp. 659–671.  
+
+19. Lipo T.A., Vagati A., Malesani L., Fukao T. Synchronous Reluctance Motors and Drives. A New Alterna-
+tive. IEEE IAS Annual Meeting, Tutorial Course, Electric Machines Committee, 1992, pp. 29–33. DOI: 
+10.1109/IAS.1992.244463 
+
+20. Moghaddam R.R. Synchronous Reluctance Machine (SynRM) Design. Thesis in Power Electrical Engi-
+neering, Royal Institute of Technology, 2007. 103 p. 
+
+21. Moghaddam R.R., Magnussen F., Sadarangani Ch. Theoretical and Experimental Reevaluation of Syn-
+chronous Reluctance Machine. IEEE Transactions on Industrial Electronics, 2010, vol. 57, no. 1, pp. 6–13. DOI: 
+10.1109/TIE.2009.2025286 
+
+22. Moghaddam R.R. Synchronous Reluctance Machine (SynRM) Design. KTH Electrical Engineering, 
+Stockholm, 2007. 
+
+23. Saxena R., Banerji G. K., Srivastava A., Rawat H. S. Performance Analysis of Axially Laminated Aniso-
+tropic Synchronous Reluctance Motor. 7th WSEAS International Conference on Electric Power Systems, High 
+Voltages, Electric Machine, Venice, 2007. 
+
+24. Staton D.A., Wood S.E., Miller T. J. E. Maximizing the Saliency Ratio of the Synchronous Reluctance 
+Motor. IEE Proceeding, 1993, pp. 49–59. DOI: 10.1049/ip-b.1993.0031 
+
+25. Matsuo T., Lipo T.A. Rotor Design Optimization of Synchronous Reluctance Machine. IEEE Transac-
+tions on Energy Conversion, 1994, pp. 359–365. 
+
+26. Tahi S., Ibtiouen R., Bounekhla M. Design Optimization of Two Synchronous Reluctance Machine Struc-
+tures with Maximized Torque and Power Factor. Progress in Electromagnetics Research B, 2011, vol. 35, 
+pp. 369–387. 
+
+27. Luo Y.-J., Hwang G.-J., Liu K.-T. Design of Synchronous Reluctance Motor. Electrical Electronics Insu-
+lation Conference, and Electrical Manufacturing & Coil Winding Conference, Rosemont, IL, 1995. DOI: 
+10.1109/EEIC.1995.482390 
+
+28. Гельвер Ф.А. Реактивная электрическая машина с анизотропной магнитной проводимостью рото-
+ра. Конференция молодых ученых и специалистов. Спб.: ФГУП «Крыловский государственный научный 
+центр», 2014. С. 25–34. [Gelver F.A. [Reactive Electric Machine with Anisotropic Magnetic Conductivity of 
+the Rotor]. Konferentsiya molodykh uchenykh i spetsialistov [Conference of Young Scientists and Specialists]. 
+St. Petersburg, FGUP Krylovskiy gosudarstvennyy nauchnyy tsentr Publ., 2014, pp. 25–34. (in Russ.)] 
+
+29. Гельвер Ф.А., Белоусова Н.В., Самосейко В.Ф. Реактивный электромеханический преобразователь 
+с анизотропной магнитной проводимостью ротора. Труды VIII международной (XIX всероссийской) кон-
+ференции по автоматизированному электроприводу АЭП-2014. Саранск: Издательство Мордовского уни-
+верситета, 2014. С. 394–398. [Gel'ver F.A., Belousova N.V., Samoseyko V.F. [Reactive Electromechanical Con-
+verter with Anisotropic Magnetic Conductivity of the Rotor]. Trudy VIII mezhdunarodnoy (XIX vserossiyskoy) 
+konferentsii po avtomatizirovannomu elektroprivodu AEP [Proceedings of the Institute of International (XIX All-
+Russian) Conference on Automated Electric Drive AED], 2014, Saransk, Mordovian University Publ., 2014, 
+pp. 394–398. (in Russ.)] 
+
+30. Дмитриевский В.А., Прахт В.А., Казакбаев В.М. и др. Экспериментальное сравнение асинхронного 
+и синхронного реактивного электродвигателей. XVI науч.-техн. конф. «Электроприводы переменного то-
+ка» – ЭППТ. 2015. Екатеринбург. С. 19–22. [Dmitriyevskiy V.A., Prakht V.A., Kazakbayev V.M. et al. [Expe-
+rimental Comparison of Asynchronous and Synchronous Jet Motors]. XVI Nauch.-tekhn. konf. “Elektroprivody 
+peremennogo toka” EPPT [XVI Scientific and Technical Conference “Electric Drives of an Alternating Current”], 
+2015, Ekaterinburg, pp. 19–22. (in Russ.)] 
+
+31. Самосейко В.Ф., Гельвер Ф.А., Хомяк В.А., Хайров Д.А. Синхронные машины с анизотропной 
+магнитной проводимостью ротора. Методика проектирования. Алгоритмы управления. СПб.: ФГУП “Кры-
+ловский государственный научный центр”, 2016. 174 с. [Samoseyko V.F., Gel’ver F.A., Khomyak V.A., 
+Khayrov D.A. Sinkhronnyye mashiny s anizotropnoy magnitnoy provodimost’yu rotora. Metodika proyektirova-
+niya. Algoritmy upravleniya [Synchronous Machines with Anisotropic Magnetic Conductivity of the Rotor. Design 
+Methodology. Algorithms of Management. Monograph]. Saint Petersburg, FGUP “Krylovskiy gosudarstvennyy 
+nauchnyy tsentr” Publ., 2016. 174 p.] 
+
+32. Самосейко В.Ф., Гельвер Ф.А. Сравнение различных типов реактивных электрических машин по 
+энергетическим показателям. Труды Крыловского государственного научного центра. 2015. Вып. 89 (373). 
+С. 201–208. [Samoseyko V.F., Gelver F.A. [Comparison of Different Types of Reactive Electric Machines by 
+Energy Performance]. Trudy Krylovskogo gosudarstvennogo nauchnogo tsentra [Proceedings of the Krylov State 
+Research Center], 2015, vol. 89 (373), pp. 201–208. (in Russ.)] 
+
+ 
+Вестн ик ЮУрГУ. Серия «Энергетика».  
+2018. Т. 18, № 2. С. 71–81 79 
+
+
+
+Электромеханические системы 
+33. Захаров А.В. Перспективы технического применения синхронных электродвигателей с анизотроп-
+
+ной магнитной проводимостью ротора. Тезисы докладов Международной научно-технической конферен-
+ции «Состояние и перспективы развития электротехнологии (XVIII Бернадосовские чтения)». Иваново, 
+2015. С. 124–127. [Zakharov A.V. [Prospects of the Technical Application of Synchronous Electric Motors with 
+Anisotropic Magnetic Conductivity of the Rotor]. Tezisy dokladov Mezhdunarodnoy nauchno-tekhnicheskoy 
+konferentsii “Sostoyaniye i perspektivy razvitiya elektrotekhnologii (XVIII Bernadosovskiye chteniya)” [Abstracts 
+of the International Scientific and Technical Conference “State and Prospects for the Development of 
+Electrotechnology (XVIII Bernados Readings)”], Ivanovo, 2015, pp. 124–127. (in Russ.)] 
+
+34. Low Voltage IE4 Synchronous Reluctance Motor and Drive Package for Pump and Fan Applications, 
+Catalog ABB, 2013. Available at: https://library.e.abb.com/public/21ee11b9fddfa677c1257bd500219300/ 
+Catalog_IE4_SynR M_EN_06-2013_9AKK105828_lowres.pdf (accessed 20.01.2018). 
+
+35. Low Voltage IE4 Synchronous Reluctance Motor and Drive Package for Pump and Fan Applications, 
+Katalog ABB, June, 2013. Available at: http://www.abb.com/motors&generators (accessed 20.01.2018). 
+
+36. Суворкова Е.Е., Дементьев Ю.Н., Бурулько Л.К. Расчет магнитных полей и индуктивных парамет-
+ров синхронных реактивных двигателей. Фундаментальные исследования. 2016. № 6. С. 112–116. 
+[Suvorkova E.E., Dement’yev Yu.N., Burul’ko L.K [Calculation of Magnetic Fields and Inductive Parameters of 
+Synchronous jet Engines]. Fundamental’nyye issledovaniya [Fundamental Research], 2016, no. 6, pp. 112–116. 
+(in Russ.)] 
+
+37. Милых В.И., Данько В.Г., Полякова Н.В. Методология поверочного электромагнитного расчета
+сверх-переходного криотурбогенератора на основе решения полевых задач. Электротехника и электроме-
+ханика. 2002. № 2. C. 47–52. [Milykh V.I., Dan'ko V.G., Polyakova N.V. [Methodology of Verification Electro-
+magnetic Calculation of Super-Transient Cryoturbogenerator Based on Solving Field Problems]. Elektrotekhnika i 
+elektromekhanika [Electrical Engineering and Electromechanics], 2002, no. 2, pp. 47–52.] 
+
+38. Пашковский А.В. Численно-аналитические методы стандартных элементов для моделирования
+стационарных физических полей в линейных кусочно-однородных и нелинейных средах: дис. … д-ра техн. 
+наук. Новочеркасск, 2014. [Pashkovskiy A.V. Chislenno-analiticheskie metody standartnykh elementov dlya
+modelirovaniya statsionarnykh fizicheskikh poley v lineynykh kusochno-odnorodnykh i nelineynykh sredakh: dis. 
+d-ra tekhn. nauk [Numerical-Analytical Methods of Standard Elements for Modeling Stationary Physical Fields in
+Linear Piecewise-homogeneous and Nonlinear Media. Doct. diss.]. Novocherkassk, 2014.] 
+ 
+ 
+ 
+ 
+
+Гельвер Фёдор Андреевич, канд. техн. наук, начальник лаборатории, Филиал «Центральный научно-
+исследовательский институт судовой электротехники и технологии» ФГУП «Крыловский государственный 
+научный центр»; доцент кафедры «Электропривод и электрооборудование береговых установок», Государ-
+ственный университет морского и речного флота им. адмирала С.О. Макарова, г. Санкт-Петербург; 
+gelver@bk.ru. 
+
+Самосейко Вениамин Францевич, д-р техн. наук, ведущий инженер, Филиал «Центральный научно-
+исследовательский институт судовой электротехники и технологии» ФГУП «Крыловский государственный 
+научный центр»; профессор кафедры «Электропривод и электрооборудование береговых установок», Го-
+сударственный университет морского и речного флота им. адмирала С.О. Макарова, г. Санкт-Петербург; 
+samoseyko@mail.ru. 
+
+ 
+Поступила в редакцию 24 января 2018 г.
+
+ 
+80 Bulletin of the South Ural State University. Ser. Power Engineering. 
+
+2018, vol. 18, no. 2, pp. 71–81 
+
+
+
+Гельвер Ф.А., Самосейко В.Ф.       Магнитные проводимости двухполюсной реактивной машины 
+                 с анизотропной магнитной проводимостью ротора 
+
+DOI: 10.14529/power180209 
+ 
+MAGNETIC CONDUCTIVITY OF A TWO-POLE REACTIVE MACHINE 
+WITH ANISOTROPIC MAGNETIC CONDUCTIVITY OF A ROTOR 
+ 
+F.A. Gelver1, 2, gelver@bk.ru, 
+V.F. Samoseyko1, 2, samoseyko@mail.ru 
+1 Branch “Central Scientific Research Institute Maritime Electrical Engineering and Technology”  
+of FSUE “Krylov State Research Centre”, St. Petersburg, Russian Federation, 
+2 Admiral Makarov State University of Maritime and Inland Shipping, St. Petersburg,  
+Russian Federation 
+ 
+ 
+
+The paper suggests a circuit for replacing the magnetic circuit of a reactive electric machine with  
+an anisotropic magnetic conductivity of a rotor, which serves as a basis for the obtained analytical dependences 
+that allow determining the longitudinal and transverse magnetic conductivities of a two-pole reactive machine 
+with anisotropic magnetic conductivity of the rotor with account for the fixing recess and the non-magnetic in-
+ter-pole gap. It also presents the results of comparison of two types of a reactive machine rotor production using 
+longitudinal rotor lashing (ALA) and transverse rotor blending (TLA) by the coefficient of transverse magnetic 
+conductivity. The presented mathematical description can be used to construct a technique to desig  
+a reactive electric machine with an anisotropic magnetic rotor conductivity with longitudinal batch packing of 
+rotor pole packs (ALA). The outcomes of the study prove that the mounting notch and the inter-pole air gap 
+significantly reduce the transverse magnetic conductivity of the machine and, therefore, improve its efficiency. 
+
+Keywords: anisotropic magnetic conductivity, longitudinal batching of the rotor pole, magnetic potential, 
+magnetic stress, coefficient of transverse magnetic conductivity. 
+
+ 
+Received 24 January 2018 
+
+ 
+ 
+
+ОБРАЗЕЦ ЦИТИРОВАНИЯ  FOR CITATION 
+Гельвер, Ф.А. Магнитные проводимости двухпо-  Gelver F.A., Samoseyko V.F. Magnetic Conductivity 
+
+люсной реактивной машины с анизотропной магнит- of a Two-Pole Reactive Machine with Anisotropic Mag-
+ной проводимостью ротора / Ф.А. Гельвер, В.Ф. Са- netic Conductivity of a Rotor. Bulletin of the South Ural 
+мосейко // Вестник ЮУрГУ. Серия «Энергетика». – State University. Ser. Power Engineering, 2018, vol. 18, 
+2018. – Т. 18, № 2. – С. 71–81. DOI: 10.14529/power180209 no. 2, pp. 71–81. (in Russ.) DOI: 10.14529/power180209 
+
+  
+ 
+
+ 
+ 
+
+Вестн ик ЮУрГУ. Серия «Энергетика».  
+2018. Т. 18, № 2. С. 71–81 81

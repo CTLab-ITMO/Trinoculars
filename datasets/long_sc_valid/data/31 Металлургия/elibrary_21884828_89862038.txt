@@ -1,0 +1,447 @@
+﻿МАТЕРИАЛОВЕДЕНИЕ ОБРАБОТКА  МЕТАЛЛОВ
+
+УДК 621.762:669.2
+
+СТРУКТУРА И МЕХАНИЧЕСКИЕ СВОЙСТВА  
+ИНТЕРМЕТАЛЛИДА Ni3Al, ПОЛУЧЕННОГО ПО ТЕХНОЛОГИИ 
+
+ИСКРОВОГО ПЛАЗМЕННОГО СПЕКАНИЯ  
+МЕХАНИЧЕСКИ АКТИВИРОВАННОЙ ПОРОШКОВОЙ СМЕСИ «Ni–Al»*
+
+Л.И. ШЕВЦОВА, аспирант
+(НГТУ, г. Новосибирск)
+
+Поступила 12 мая 2014
+Рецензирование 24 июня 2014
+Принята к печати 26 июня 2014
+
+Шевцова Л.И. – 630073, г. Новосибирск, пр. К. Маркса, 20,
+Новосибирский государственный технический университет,
+
+e-mail:edeliya2010@mail.ru
+
+Проведены исследования структуры и механических свойств интерметаллида Ni3Al, полученного по раз-
+личным схемам, сочетающим процессы предварительной механоактивации исходных порошков никеля и 
+алюминия, самораспространяющегося высокотемпературного синтеза и искрового плазменного спекания. 
+Установлено, что относительная плотность всех спеченных материалов составляет ~ 97 %. Микротвердость 
+полученных образцов находится в диапазоне 6100...6300 МПа. Предел прочности при изгибе спеченных ма-
+териалов составляет 785…800 МПа. Максимальный уровень предела прочности при растяжении (400 МПа) 
+достигнут в процессе спекания при 1100 °С механически активированной в течение трех минут порошковой 
+смеси Ni + 13,29 масс. % Al. Этот технологический процесс является наиболее рациональным. При его реа-
+лизации стадия химического взаимодействия реагентов совмещается с процессом спекания.
+
+Ключевые слова: интерметаллид, алюминид никеля, искровое плазменное спекание, механическая ак-
+тивация.
+
+Введение ла для химического машиностроения, авиации и 
+космоса [1, 2].
+
+Одной из актуальных задач современного ма- Однако широкому применению в промыш-
+териаловедения является получение новых мате- ленности препятствует ряд особенностей алю-
+риалов, обладающих повышенным комплексом минидов никеля, в первую очередь – низкий 
+физико-химических и механических свойств. уровень пластичности и трещиностойкости. 
+Особое внимание уделяется изучению алюмини- Эта особенность объясняет плохую обрабаты-
+дов никеля, что обусловлено их высокими меха- ваемость материалов резанием. При комнатной 
+ническими свойствами, высокой коррозионной температуре образцы из поликристаллического 
+стойкостью и стойкостью к окислению при по- интерметаллида Ni3Al являются хрупкими. При 
+вышенных температурах [1–3]. Для алюминида высоких температурах эксплуатации для это-
+Ni3Al помимо указанных свойств характерна го материала характерно низкое сопротивление 
+аномальная зависимость предела текучести от ползучести [2–5].
+температуры нагрева [2, 3]. Такое явление особо Одним из эффективных методов получения 
+благоприятно с позиции применения интерме- бездефектных заготовок из интерметаллидов 
+таллида в качестве конструкционного материа- является искровое плазменное спекание (SPS) 
+_______________
+
+* Работа выполнена в рамках Программы стратегического развития НГТУ в 2014 году, проект С-37
+
+№ 3 (64) 2014 21
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+[6–10]. В сравнении с горячим прессованием и мовой спиралью, нагреваемой электрическим 
+горячей экструзией при искровом плазменном током.
+спекании пребывание материала в высокотем- Искровое плазменное спекание образцов 
+пературном состоянии резко сокращается [7, 8, проводили на установке Labox-1575. Порошко-
+11]. Благодаря этому удается сохранить исход- вую смесь засыпали в графитовую пресс-форму 
+ную мелкозернистую структуру, что способству- с внутренним диаметром 30 мм. Пресс-форму 
+ет повышению комплекса механических свойств помещали в вакуумную камеру установки. На-
+спеченного материала [5, 8]. Более подробно грев порошковой смеси осуществляли со скоро-
+особенности процесса SPS были рассмотрены стью 100 °С/мин. Давление прессования состав-
+в работе [9]. В отмеченной работе были опреде- ляло 40 МПа, температура спекания – 1100 °С, 
+лены также оптимальные режимы спекания по- время выдержки – 5 мин. Плотность компактов 
+рошка ПН85Ю15 (основная фаза Ni3Al). рассчитывали, определяя их массу и линейные 
+
+В последние годы возрастает интерес к изу- размеры.
+чению свойств материалов, получаемых путем Обработку материалов проводили при реали-
+совмещения процессов механической активации зации трех технологических маршрутов.
+порошковых смесей и их последующего искро- Маршрут № 1: механоактивация порошковой 
+вого плазменного спекания [12–17]. Цель данной смеси Ni + 13,29 % (масс.) Al в течение 3 мин 
+работы заключается в изучении структуры и ме- с последующим самораспространяющимся вы-
+ханических свойств объемных компактов из ин- сокотемпературным синтезом и искровым плаз-
+терметаллида Ni3Al, полученных по различным менным спеканием.
+схемам, основанным на комбинации процессов Маршрут № 2: механоактивация порошковой 
+предварительной механоактивации исходных смеси Ni + 13,29 % Al в течение 3 мин с последу-
+порошков никеля и алюминия, самораспро- ющим искровым плазменным спеканием. 
+страняющегося высокотемпературного синтеза Маршрут № 3: операции, выполненные по 
+(СВС) и искрового плазменного спекания. маршруту № 1 с дополнительной двухминутной 
+
+механоактивацией полученного материала.
+Материалы и методы исследования Структуру исследуемых материалов изучали 
+
+с использованием методов оптической микро-
+В качестве исходных материалов использова- скопии, растровой и просвечивающей электрон-
+
+ли порошки карбонильного никеля марки ПНК- ной микроскопии. Металлографические иссле-
+1Л5 (99,85 % Ni) и алюминия марки ПА-4 (98 % дования выполняли на оптическом микроскопе 
+Al) со средним размером частиц 10 мкм и 60 мкм Carl Zeiss Axio Observer Z1m с использованием 
+соответственно. Порошки были взяты в соотно- режимов светлого и темного поля. Электронно-
+шении, обеспечивающем получение соединения микроскопические исследования выполняли на 
+Ni75Al25 (ат. %). Предварительную активацию приборах Carl Zeiss EVO 50 XVP и FEI Tecnai 
+реакционных смесей состава проводили в пла- G2 20 TWIN. Для определения фазового состава 
+нетарной шаровой мельнице АГО-2 с водяным исходных порошков и спеченных образцов ис-
+охлаждением в атмосфере аргона. Центробеж- пользовали рентгеновский дифрактометр ARL 
+ное ускорение шаров составляло 40 g. Объем X`TRA. Источником рентгеновского излучения 
+каждого из двух барабанов мельницы составлял являлась медная трубка. Дифракционные карти-
+160 см3, диаметр мелющих шаров – 8 мм, масса ны регистрировали с шагом Δ2θ и временем на-
+шаров – 200 г. Масса засыпаемой порошковой копления 10 с на одну точку.
+смеси была равна 10 г. Микротвердость спеченных материалов оце-
+
+Процесс самораспространяющегося высоко- нивали на приборе Wolpert Group 402MVD. На-
+температурного синтеза осуществляли в про- грузка на алмазный индентор составляла 0,49 Н. 
+точном реакторе объемом 6 л. Относительная Для определения среднего значения твердости на 
+плотность образцов составляла 0,3...0,4. Перед один образец наносили не менее 15 отпечатков.
+инициированием СВС реактор с образцом про- В качестве основных показателей прочност-
+дували аргоном. Во время СВС и до полного ных свойств материалов использовали значения 
+остывания продуктов горения в реактор посто- предела прочности при изгибе и растяжении. 
+янно подавали аргон со скоростью 9,5 л/мин. Образцы прямоугольной формы с размерами 
+Инициирование горения осуществляли нихро- 3×4×20 мм для испытаний на трехточечный из-
+
+22 № 3 (64) 2014
+
+
+
+МАТЕРИАЛОВЕДЕНИЕ ОБРАБОТКА  МЕТАЛЛОВ
+
+гиб вырезали из спеченных компактов на уста- В образцах, полученных при реализации всех 
+новке электроэрозионной резки Sodick AG400L. трех технологических маршрутов, зафиксирова-
+Образцы для испытаний на растяжение имели на только одна фаза – Ni3Al. На рис. 2 в качестве 
+гантелеобразную форму. Механические испыта- примера приведена рентгенограмма материала, 
+ния на трехточечный изгиб и одноосное растя- полученного по маршруту № 1 (механоактива-
+жение выполняли при комнатной температуре на ция порошковой смеси Ni + 13,29 масс. % Al с 
+установке Instron 3369. Скорость перемещения последующим СВС и SPS).
+подвижной траверсы составляла 0,5 мм/мин.
+
+Результаты исследований  
+и их обсуждение
+
+Рентгенограмма смеси исходных порошков 
+представлена на рис. 1, а. После 3 мин механо-
+активации (без стадии SPS) на рентгенограмме 
+присутствуют только пики никеля и алюминия 
+(рис. 1, б). Увеличение ширины пиков свиде-
+тельствует о том, что при механической акти-
+вации в результате интенсивной пластической 
+деформации происходит измельчение зерна по-
+рошков исходных реагентов, создается высокая 
+концентрация неравновесных дефектов, возрас- Рис. 2. Рентгенограмма образца, полученного  
+тает уровень внутренних напряжений [13–15]. по технологическому маршруту № 1
+Рентгенофазовый анализ материалов после ста- По данным просвечивающей электронной 
+дий механоактивации и СВС свидетельствует микроскопии размер зерна материала, получен-
+об образовании монофазного интерметаллида ного по маршруту № 2, составляет 0,1…0,4 мкм 
+Ni3Al. Пики никеля и алюминия на рентгено- (рис. 3). Учитывая, что после трехминутной 
+грамме отсутствуют (рис. 1, в). Дифрактограмма механоактивации в порошковой смеси присут-
+материала после дополнительной двухминутной ствовали фазы лишь алюминия и никеля (рис. 1, б), 
+механоактивации представлена на рис. 1, д. Ее можно сделать вывод о том, что при реализации 
+анализ также свидетельствует о присутствии данного маршрута химическое взаимодействие 
+лишь интерметаллида Ni3Al. реагентов и образование соединения Ni3Al про-
+
+изошло в процессе искрового плазменного спе-
+кания. Таким образом, по сравнению с маршру-
+том № 1 была исключена одна технологическая 
+операция – СВС. Самораспространяющаяся 
+
+Рис. 1. Рентгенограммы исходной порошковой 
+смеси Ni + 13,29 % Al (а); после 3 мин механоакти-
+вации (б); после механоактивации и СВС (в); после Рис. 3. Тонкая структура интер-
+механоактивации, СВС и дополнительной механо- металлида Ni3Al, полученного 
+
+активации (г) по маршруту № 2
+№ 3 (64) 2014 23
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+реакция в этом случае реализована в режиме Экспериментальные данные, характеризу-
+теплового взрыва [17]. ющие прочностные свойства образцов, полу-
+
+Структура материалов, полученных по всем ченных по трем маршрутам, существенно не 
+трем маршрутам, однородна как в продольном, отличаются. Однако микротвердость спеченных 
+так и в поперечном сечениях. Особенностью материалов значительно превосходит значения, 
+спеченных образцов является отсутствие макро- характерные для массивных интерметалличе-
+трещин. В то же время для всех материалов ха- ских образцов, полученных традиционными 
+рактерно присутствие небольшого числа дефек- методами (2900…3600 МПа) [17]. Следует под-
+тов в виде мелких пор. В табл. 1 представлены черкнуть, что в работе [18] при получении Ni3Al 
+значения плотности, относительной плотности и по технологии SPS из нанопорошков исходных 
+микротвердости полученных материалов. Отно- реагентов были зафиксированы аналогичные 
+сительная плотность всех образцов составляет значения плотности и микротвердости. Одна-
+97 %. В качестве теоретической плотности спе- ко авторы отмеченной работы предполагали, 
+ченного материала использовали значение, соот- что микротвердость спеченных образцов уве-
+ветствующее соединению Ni3Al (7,5 г/см3) [2]. личивается за счет образования частиц оксида 
+
+Т а б л и ц а  1
+Значения плотности, относительной плотности и микротвердости спеченных  
+
+материалов
+Номер 
+
+технологического Плотность спеченного Относительная Микротвердость,  
+маршрута материала, г/см3 плотность, % МПа
+
+№ 1 7,27 96,9 6100
+№ 2 7,29 97,2 6100
+№ 3 7,28 97,1 6300
+
+алюминия в процессе спекания. В данной работе тературными данными показывает, что уровень 
+методами рентгенофазового анализа и просвечи- предела прочности этого материала почти в два 
+вающей электронной микроскопии в исследуе- раза превосходит предел прочности аналогично-
+мых материалах фаза Al2O3 не обнаружена. го по составу литого материала (190…215 МПа) 
+
+Механические свойства материалов, полу- [19, 20].
+ченных при реализации трех технологических Характер разрушения всех спеченных образ-
+маршрутов, представлены в табл. 2. Анализ ре- цов одинаков. Типичный вид излома представ-
+
+лен на рис. 4. Особенности данной фрак-
+Т а б л и ц а  2 тограммы свидетельствуют о хрупком 
+
+Механические свойства интерметаллида Ni3Al, полученно- разрушении полученных материалов.
+го по различным технологическим маршрутам
+
+Номер Предел Предел прочности Выводы
+технологического прочности  при растяжении, 
+
+маршрута при изгибе, МПа МПа В результате использования трех тех-
+№ 1 800 265 нологических маршрутов, основанных 
+№ 2 785 398 на комбинации процессов предваритель-
+№ 3 788 205 ной механоактивации исходных порош-
+
+ков никеля и алюминия, самораспро-
+зультатов свидетельствует о том, что значения страняющегося высокотемпературного синт еза 
+предела прочности при изгибе спеченных об- и искрового плазменного спекания получены 
+разцов существенно не отличаются и состав- заготовки со структурой интерметаллида Ni3Al. 
+ляют ~ 800 МПа. При проведении испытаний Спеченные материалы обладают относительной 
+на растяжение максимальное значение предела плотностью 97 % и повышенными значениями 
+прочности (~ 400 МПа) наблюдается в образцах, механических свойств по сравнению с аналогич-
+полученных по маршруту № 2. Сравнение с ли- ными материалами, полученными традицион-
+
+24 № 3 (64) 2014
+
+
+
+МАТЕРИАЛОВЕДЕНИЕ ОБРАБОТКА  МЕТАЛЛОВ
+
+Рис. 4. Фрактограммы образцов, полученных по технологическому маршруту № 2, после 
+испытания на растяжение
+
+ными методами литья и порошковой металлур- 8. Spark Plasma Sintering of Metals and Metal Ma-
+гии. Наиболее высокие характеристики предела trix Nanocomposites: A Review / N. Saheb, Z. Iqbal, 
+прочности при растяжении (~ 400 МПа) зафик- A. Khalil, A. Hakeem, N. Aqeeli, T. Laoui, A. Al-Qu-
+сированы на образцах, полученных по маршруту tub, R. Kirchner // Journal of Nanomaterials. – 2012. – 
+№ 2 (предварительная кратковременная механи- Vol. 2012. – P. 1–13.
+ческая активация исходной порошковой смеси 9. Влияние температуры нагрева на структуру и 
+реагентов и последующее SPS спекание). Этот механические свойства материала, полученного ис-
+технологический процесс является наиболее ра- кровым плазменным спеканием порошка ПН85Ю15 / 
+циональным. При его реализации стадия хими- Л.И. Шевцова, И.А. Батаев, В.И. Мали, А.Г. Аниси-
+ческого взаимодействия реагентов совмещается мов, Д.В. Лазуренко, Т.С. Самейщева // Обработка 
+с процессом спекания. металлов (технология, оборудование, инструменты). – 
+
+2013. – № 4 (61). – С. 35–42.
+Список литературы 10. Structure and properties of composite materials 
+
+“aluminum-nickel aluminide” produced by the SPS 
+1. Taub A.I., Fleischer R.L. Intermetallic Compounds method / L.I. Shevtsova, V.I. Mali, A.A. Bataev, 
+
+for High Temperature Structural Use // Science. – 1989. – I.A. Bataev, D.S. Terent’ev, V.S. Lozhkin // The 8 
+Vol. 243, № 4891. – P. 616–621. international forum on strategic technologies (IFOST 
+
+2. Deevi S.C., Sikka V.K. Nickel and iron aluminides: 2013). – Mongolia, Ulaanbaatar, 2013. – Vol. 1. – 
+an overview on properties, processing, and applications // P. 187–189.
+Intermetallics. – 1996. – Vol. 4, № 5. – P. 357–375. 11. Microstructure and mechanical properties of Ni-
+
+3. Гринберг Б.А., Иванов М.А. Интерметаллиды 
+Ni3Al и TiAl: микроструктура, деформационное по- 3Al fabricated by thermal explosion and hot extrusion / 
+
+L.Y. Sheng, W. Zhang, J.T. Guo, Z.S. Wang, V.E. Ovcha-
+ведение. – Екатеринбург: УрО РАН, 2002. – 359 c. renko, L.Z. Zhou, H.Q. Ye // Intermetallics. – 2009. – 
+
+4. Toshio M., Toshiyuki H. Effects of unidirectional Vol. 17, № 7. – P. 572–577.
+solidification conditions on the microstructure and ten-
+sile properties of Ni3Al // Intermetallics. – 1995. – Vol. 3, 12. Корчагин М.А., Дудина Д.В. Использование 
+iss. 1. – P. 23–33. самораспространяющегося высокотемпературного 
+
+5. Овчаренко В.Е., Перевалова О.Б. Эволюция синтеза и механической активации для получения на-
+зеренной структуры при экструзии интерметалли- нокомпозитов // Физика горения и взрыва. – 2007. – 
+ческого соединения Ni3Al в процессе высокотем- Т. 43, № 2. – С. 58–71.
+пературного синтеза под давлением. II. Экспери- 13. Твердофазный режим горения в механиче-
+ментальные данные // Физика и химия обработки ски активированных СВС-системах I. Влияние про-
+материалов. – 2007. – № 4. – С. 78–82. должительности механической активации на харак-
+
+6. Tokita M. Trends in Advanced SPS (Spark Plasma теристики процесса и состав продуктов горения / 
+Sintering) Systems and Technology // Journal of the So- М.А. Корчагин, Т.Ф. Григорьева, Б.Б. Бохонов, 
+ciety of Powder Technology Japan. – 1993. – Vol. 30, – М.Р. Шарафутдинов, А.П. Баринова, Н.З. Ляхов // Фи-
+№ 11. – P. 790–804. зика горения и взрыва. – 2003. – Т. 39, № 1. – С. 51–59.
+
+7. Groza J.R., Zavaliangos A. Nanostructures bulk 14. Твердофазный режим горения в механически 
+solids by field activated sintering // Reviews on Ad- активированных СВС-системах II. Влияние режимов 
+vanced Materials Science. – 2003. – Vol. 5, iss. 1. – механической активации на характеристики про-
+P. 24–33. цесса и состав продуктов горения / М.А. Корчагин, 
+
+№ 3 (64) 2014 25
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+Т.Ф. Григорьева, Б.Б. Бохонов, М.Р. Шарафутдинов, Ni3Al // Journal of Alloys and Compounds. – 1998. – 
+А.П. Баринова, Н.З. Ляхов // Физика горения и взры- Vol. 265, № 1-2. – P. 249–256.
+ва. – 2003. – Т. 39, № 1. – С. 60–68. 18. Spark Plasma Sintering of nanoscale (Ni+Al) 
+
+15. Filimonov V.Yu., Korchagin M.A., Lyakhov N.Z. powder mixture / J.S. Kim, H.S. Choi, D. Dudina, 
+Kinetics of mechanically activated high temperature syn- J.K. Lee, Y.S. Kwon // Solid State Phenomena. – 2007. – 
+thesis of Ni3Al in the thermal explosion mode // Interme- Vol. 119. – P. 35–38.
+tallics. – 2011. – Vol. 19, iss. 7. – P. 833–840. 19. Колачёв Б.А., Елагин В.И., Ливанов В.А. Ме-
+
+16. Рогачев А.С., Myкасьян А.С. Горение для син- талловедение и термическая обработка цветных ме-
+теза материалов: введение в структурную макроки- таллов и сплавов. – М.: МИСИС, 1999. – 416 с.
+нетику. – М.: Физматлит, 2012. – 400 с. 20. Morsi K. Review: reaction synthesis processing 
+
+17. Shee S.K., Pradhan S.K., De M. Effect of alloy- of Ni-Al intermetallic materials // Materials Science and 
+ing on the microstructure and mechanical properties of Engineering A. – 2001. – Vol. 299, № 1-2. – P. 1–15.
+
+OBRABOTKA METALLOV
+(METAL WORKING AND MATERIAL SCIENCE)
+
+N 3(64), July – September 2014, Pages 21–27
+
+Structure and mechanical properties of Ni3Al intermetallic, fabricated by spark plasma 
+sintering of mechanically activated «Ni - Al» powder mixtures
+
+Shevtsova L.I., Post-graduate Student
+
+Novosibirsk State Technical University, 20 Prospect K. Marksa, Novosibirsk, 630073, Russian Federation
+
+Abstract
+
+The structure and mechanical properties of Ni3Al intermetallic are studied. The materials are fabricated according 
+to different schemes, which combined mechanical activation of Ni and Al powders, self-propagating high temperature 
+synthesis (SHS) and spark plasma sintering (SPS). It is found that Ni3Al intermetallics, fabricated by SPS using three 
+different routes, have relative density of about 97 % and high values of mechanical properties compared to similar 
+materials, obtained by conventional methods. Microhardness of the sintered samples range from 6100 to 6300 MPa. 
+The value of flexural strength of all sintered samples is equal to 800 MPa. Spark plasma sintering of 86.71 % wt. Ni 
+and 13.29 % wt. Al powders at 1100 °C leads to the formation of the material with the highest level of tensile strength 
+equal to 400 MPa. This process was the most fast and efficient. It combines the chemical interaction of reagents with 
+the sintering process.
+
+Keywords:
+intermetallic, nickel aluminide, spark plasma sintering, mechanical activation.
+
+References
+
+1. Taub A.I., Fleischer R.L. Intermetallic Compounds for High Temperature Structural Use. Science, 1989, vol. 
+243, no. 4891, pp. 616-621.
+
+2. Deevi S.C., Sikka V.K. Nickel and iron aluminides: an overview on properties, processing, and applications. 
+Intermetallics, 1996, vol. 4, no. 5, pp. 357-375. doi: 10.1016/0966-9795(95)00056-9
+
+3. Grinberg B.A., Ivanov M.A. Intermetallidy Ni3Al i TiAl: mikrostruktura, deformatsionnoe povedenie 
+[Intermetallic Ni3Al and TiAl: microstructure, deformation behavior]. Yekaterinburg, Russian Academy of Sciences 
+(Ural Branch), 2002. 360 p.
+
+4. Toshio Mawari, Toshiyuki Hirano. Effects of unidirectional solidification conditions on the microstructure and 
+tensile properties of Ni3Al. Intermetallics, 1995, vol. 3, iss. 1, pp. 23-33. doi: 10.1016/0966-9795(94)P3683-F
+
+5. Ovcharenko V.E., Perevalova O.B. Evolyutsiya zerennoi struktury pri ekstruzii intermetallicheskogo soedineniya 
+Ni3Al v protsesse vysokotemperaturnogo sinteza pod davleniem. II. Eksperimental’nye dannye [The evolution of grain 
+structure during extrusion Ni3Al intermetallic compound during high-pressure synthesis. II. Experimental data]. Fizika 
+i khimiya obrabotki materialov – Inorganic Materials: Applied Research, 2007, no. 4, pp. 78-82.
+
+26 № 3 (64) 2014
+
+
+
+МАТЕРИАЛОВЕДЕНИЕ ОБРАБОТКА  МЕТАЛЛОВ
+
+6. Tokita M. Trends in Advanced SPS (Spark Plasma Sintering) Systems and Technology. Journal of the Society 
+of Powder Technology Japan, 1993, vol. 30, no. 11, pp. 790-804.
+
+7. Groza J.R., Zavaliangos A. Nanostructures bulk solids by field activated sintering. Reviews on Advanced 
+Materials Science, 2003, vol. 5, iss. 1, pp. 24-33.
+
+8. Saheb N., Iqbal Z., Khalil A., Hakeem A., Aqeeli N., Laoui T., Al-Qutub A., R. Kirchner. Spark Plasma 
+Sintering of Metals and Metal Matrix Nanocomposites: A Review. Journal of Nanomaterials, 2012, vol. 2012, 
+pp. 1-13. doi:10.1155/2012/983470
+
+9. Shevtsova L.I., Bataev I.A., Mali V.I., Anisimov A.G., Lazurenko D.V., Sameyshcheva T.S. Vliyanie temperatury 
+nagreva na strukturu i mekhanicheskie svoistva materiala, poluchennogo iskrovym plazmennym spekaniem poroshka 
+PN85U15 [Influence of heat temperature on the structure and mechanical properties of the material fabricated by 
+spark plasma sintering of the PN85U15 powder]. Obrabotka metallov (tekhnologiya, oborudovanie, instrumenty) – 
+Metal Working and Material Science, 2013, no. 4 (61), pp. 35-42.
+
+10. Shevtsova L.I., Mali V.I., Bataev A.A., Bataev I.A., Terent’ev D.S., Lozhkin V.S. Structure and properties 
+of composite materials “aluminum-nickel aluminide” produced by the SPS method. The 8 international forum on 
+strategic technologies (IFOST 2013). Mongolia, Ulaanbaatar, 2013, vol. 1, pp. 187-189.
+
+11. Sheng L.Y., Zhang W., J Guo.T., Wang Z.S., Ovcharenko V.E., Zhou L.Z., Ye H.Q. Microstructure and 
+mechanical properties of Ni3Al fabricated by thermal explosion and hot extrusion. Intermetallics, 2009, vol. 17, 
+no. 7, pp. 572-577. doi: 10.1016/j.intermet.2009.01.004
+
+12. Korchagin M.A., Dudina D.V. Ispol’zovanie samorasprostranyayushchegosya vysokotemperaturnogo sinteza 
+i mekhanicheskoi aktivatsii dlya polucheniya nanokompozitov [Application of self-propagating high-temperature 
+synthesis and mechanical activation for obtaining nanocomposites]. Fizika goreniya i vzryva – Combustion, Explosion, 
+and Shock Waves, 2007, vol. 43, no. 2, pp. 58-71 (in Russian).
+
+13. Korchagin M.A., Grigor’eva T.F., Bokhonov B.B., Sharafutdinov M.R., Barinova A.P., Lyakhov N.Z. 
+Tverdofaznyi rezhim goreniya v mekhanicheski aktivirovannykh SVS-sistemakh I. Vliyanie prodolzhitel’nosti 
+mekhanicheskoi aktivatsii na kharakteristiki protsessa i sostav produktov goreniya [Solid‐State Combustion in 
+Mechanically Activated SHS Systems. I. Effect of Activation Time on Process Parameters and Combustion Product 
+Composition]. Fizika goreniya i vzryva – Combustion, Explosion, and Shock Waves, 2003, vol. 39, no. 1, pp. 43-50 
+(in Russian).
+
+14. Korchagin M.A., Grigor’eva T.F., Bokhonov B.B., Sharafutdinov M.R., Barinova A.P., Lyakhov 
+N.Z. Tverdofaznyi rezhim goreniya v mekhanicheski aktivirovannykh SVS-sistemakh II. Vliyanie rezhimov 
+mekhanicheskoi aktivatsii na kharakteristiki protsessa i sostav produktov goreniya [Solid‐State Combustion in 
+Mechanically Activated SHS Systems. II. Effect of Mechanical Activation Conditions on Process Parameters and 
+Combustion Product Composition]. Fizika goreniya i vzryva – Combustion, Explosion, and Shock Waves, 2003, 
+vol. 39, no 1, pp. 60-68 (in Russian).
+
+15. Filimonov V.Yu., Korchagin M.A., Lyakhov N.Z. Kinetics of mechanically activated high temperature 
+synthesis of Ni3Al in the thermal explosion mode. Intermetallics, 2011, vol. 19, iss. 7, pp. 833-840. doi: 10.1016/j.
+intermet.2010.11.028
+
+16. Rogachev A.S., Mukasyan A.S. Gorenie dlya sinteza materialov: vvedenie v strukturnuyu makrokinetiku 
+[Combustion for synthesis of materials: introduction to the structural macrokinetics]. Moscow, Fizmatlit Publ., 2012. 
+400 p. ISBN: 978-5-9221-1441-7.
+
+17. Shee S.K., Pradhan S.K., De M. Effect of alloying on the microstructure and mechanical properties of Ni3Al. 
+Journal of Alloys and Compounds, 1998, vol. 265, no. 1-2, pp. 249-256.
+
+18. Kim J.S., Choi H.S., Dudina D., Lee J.K., Kwon Y.S. Spark Plasma Sintering of nanoscale (Ni+Al) powder 
+mixture. Solid State Phenomena, 2007, vol. 119, pp. 35-38. doi: 10.4028/www.scientific.net/SSP.119.35
+
+19. Kolachev B.A., Elagin V.I., Livanov V.A. Metallovedenie i termicheskaya obrabotka tsvetnykh metallov 
+i splavov [Metallurgy and heat treatment of non-ferrous metals and alloys]. Moscow, MISIS Publ., 1999. 416 p. 
+ISBN: 5-87623-027-8.
+
+20. Morsi K. Review: reaction synthesis processing of Ni-Al intermetallic materials. Materials Science and 
+Engineering: A, 2001, vol. 299, no. 1-2, pp. 1-15. doi: 10.1016/S0921-5093(00)01407-6
+
+Funding
+This work performed under the Strategic Development Program NSTU in 2014 (project No. С-37).
+
+Received 12 May 2014
+Revised 24 June 2014
+Accepted 26 June 2014
+
+№ 3 (64) 2014 27

@@ -1,0 +1,1750 @@
+﻿ТЕОРИЯ ЖУРНАЛИСТИКИ 
+THEORY OF JOURNALISM
+
+УДК 070.11
+DOI 10.17150/2308-6203.2017.6(2).143-169
+
+Alexander P. Sukhodolov 
+DPhil. in Economics, Professor, Rector, 
+Baikal State University, 
+11 Lenin St., 664003, Irkutsk, Russian Federation,
+e-mail: rector@bgu.ru
+
+Суходолов Александр Петрович 
+доктор экономических наук, профессор, ректор, 
+Байкальский государственный университет, 
+664003, Российская Федерация, г. Иркутск, ул. Ленина, 11, 
+e-mail: rector@bgu.ru 
+
+Anna M. Bychkova 
+Expert of the Federal Service for Supervision of 
+Communications, Information Technology and Mass 
+Communications, PhD in Law, Associate Professor, Department 
+of Legal Support of National Security, Institute of National 
+and Economic Security, Baikal State University, 11 Lenin St., 
+664003, Irkutsk, Russian Federation, e-mail: amb-38@mail.ru
+
+Бычкова Анна Михайловна 
+эксперт Федеральной службы РФ по надзору в сфере 
+связи, информационных технологий и массовых 
+коммуникаций, кандидат юридических наук, доцент, 
+кафедра правового обеспечения национальной 
+безопасности Института национальной и экономической 
+безопасности, Байкальский государственный университет, 
+664003, Российская Федерация, г. Иркутск, ул. Ленина, 11, 
+e-mail: amb-38@mail.ru 
+
+I will be looking for honest journalists.
+Donald Trump,
+
+ the President of the United States of America
+
+FAKE NEWS AS A MODERN MEDIA PHENOMENON: 
+DEFINITION, TYPES, ROLE OF FAKE NEWS AND WAYS 
+
+OF COUNTERACTING IT
+Abstract. The article attempts to conceptualize the phenomenon of creat-
+
+ing and disseminating fake news in the modern media. Some aspects of the 
+consequences of fake news widely disseminated during the US presidential 
+election campaign in 2016 are studied in the article, findings of sociological 
+surveys as well as President Donald Trump’s reaction to these events are 
+given. The general meaning of the concept fake is articulated. Fake news is 
+defined as a piece of news, which is stylistically written as real news but which 
+is completely or partially false. A point is raised whether false news published 
+
+© А. П. Суходолов, А. М. Бычкова, 2017 143
+
+
+
+Theoretical and Practical Issues of Journalism, 2017, vol. 6, no. 2, pp. 143–169
+
+because of the journalist’s being unaware of some facts or their being careless 
+can be considered fake news. On analyzing a considerable amount of fake 
+news the authors have worked out a fake news classification based on such 
+classifying criteria as ratio of true and false information, authenticity of the place 
+and time characteristics of an event, persons mentioned in the news, aims fol-
+lowed by the news creators and publishers, how authentic this news seems to 
+the audience. Examples of fake news from Russian and foreign print and online 
+media are given to illustrate the types of fake news described above. Ways 
+of counteracting fake news used by Google and Facebook are analyzed in 
+the article. The basics of Act On News Aggregators aimed at preventing fake 
+news from being published are described. The need to improve the Russian 
+Federation Information Security Doctrine is stated.
+
+Keywords. Fake news, fake, Donald Trump, fake news classification, fact 
+checking, news aggregators.
+
+Article info. Received December 15, 2016; accepted January 30, 2017; 
+available online February 07, 2017.
+
+Аннотация. В статье предпринята попытка теоретического осмыс-
+ления феномена создания и распространения «фейковых новостей» в 
+современном медиапространстве. Рассмотрены некоторые аспекты 
+последствий широкого распространения фейковых новостей в ходе изби-
+рательной кампании по выборам президента США в 2016 г., приведены 
+данные социологических исследований, представлена реакция на эти со-
+бытия избранного президента США Дональда Трампа. Раскрывается со-
+держание понятия «фейк» в широком смысле слова. Понятие «фейковая 
+новость» определяется как «сообщение, стилистически созданное как 
+настоящая новость, но ложное полностью или частично». Поднимается 
+вопрос о возможности отнесения к «фейковой новости» ложной инфор-
+мации, возникшей в результате небрежности журналиста или его добро-
+совестного заблуждения в отношении некоторых фактов. Анализ значи-
+тельного массива фейковой информации позволил авторам разработать 
+классификацию «фейковых новостей», в основание которой заложены 
+такие классификационные критерии, как соотношение достоверной и не-
+достоверной информации; достоверность обстоятельств времени и ме-
+ста произошедшего события; состав лиц, упоминаемых в «новости»; цели 
+создания и распространения «новости»; уровень восприятия достоверно-
+сти «новости». Разновидности «фейковых новостей» проиллюстрированы 
+конкретными примерами из российских и зарубежных СМИ и интернет-
+ресурсов. Представлена информация о мерах, предпринимаемых ад-
+министрацией Google и социальной сети Facebook в целях нейтрализа-
+ции воздействия «фейковых новостей». Изложены основные положения 
+Закона «О новостных агрегаторах», направленные на предотвращение 
+появления и распространения недостоверной информации в новостях, 
+указывается на необходимость совершенствования Доктрины информа-
+ционной безопасности Российской Федерации.
+
+Ключевые слова. Фейковые новости, фейк, Дональд Трамп, класси-
+фикация фейковых новостей, фактчекинг, новостные агрегаторы.
+
+Информация о статье. Дата поступления 15 декабря 2016 г.; дата 
+принятия к печати 30 января 2017 г.; дата онлайн-размещения 07 февраля 
+2017 г.
+
+144 ISSN 2308-6203
+
+
+
+Вопросы теории и практики журналистики. 2017. T. 6. № 2. С. 143–169
+
+FAKE NEWS — A TOTAL POLITI- Too much fake news has become a 
+CAL WITCH HUNT! — The US Pre si- notorious feature of the latest American 
+dent-elect Donald Trump wrote in election campaign. If we consider news 
+his microblog on Twitter on 11 Janu- journalism as a genre of journalism [1, 
+ary 20171. On the same day at his first p. 138; 2, p. 133; 3, p. 6], we can claim 
+press-conference as President-elect nowadays for sure that para-journalism 
+Donald Trump explained to the journal- of fake news also exists. The amount of 
+ists what he meant by this tweet. Trump fake news being presented as authentic 
+claimed, «I think it’s a disgrace that in- news has increased dramatically in the 
+formation that was false and fake and recent years, that is why this phenom-
+never happened got released to the enon needs to be subjected to serious 
+public» commenting on the information scientific analysis. Both Russian [4–7] 
+his ties with Russia «…that’s something and foreign [8–14] authors are now try-
+that Nazi Germany would have done … ing to theorize about fake news4.
+the intelligence agencies allowed any The word fake is now used in many 
+information that turned out to be so languages. The synonyms to the noun 
+false and fake out». The US President- fake are forgery, fabrication, fraud. 
+elect called BuzzFeed which published The synonyms to the adjective fake are 
+a thirty-five-page report on Russian forged, false, fictitious, mock, pho-
+intelligence services having damaging ney, sham. The verb fake corresponds 
+information on Trump «a failing pile of to the verbs forge, pretend, imitate, 
+garbage». Moreover, Trump refused to simulate, fabricate.
+give an interview to the CNN reporter The concept FAKE includes several 
+Jim Acosta, saying: «Your organization different media phenomena, i. e.
+is terrible… I’m not going to give you a – fake texts, photos, video- and 
+question. You are fake news»2. audio-files;
+
+Answering the question what kind – fake pages and blogs in social 
+of reforms he would recommend to networks which can be created on be-
+the news industry Trump said, «Well, half of real people, fictional characters, 
+I don’t recommend reforms. I recom- historical or belles-lettres characters;
+mend people that are — that have – fake pages of popular websites 
+some moral compass… I guess the ad- (going to such pages the user thinks 
+vantage I have is that I can speak back. that they get information from a reli-
+When it happens to somebody that able, trustworthy source of information: 
+doesn’t have this — doesn’t have that such webpages are created by hackers 
+kind of a megaphone, they can’t speak to make the user type in their login and 
+back. It’s a very sad thing. I’ve seen password on a fake webpage, so the 
+people destroyed. I’ve seen people hacker will get to know them and use 
+absolutely destroyed. And I think it’s them for their own purposes);
+very unfair. So, all I can ask for is honest – created on the ordering party in-
+reporters»3. struction fake popularity of a person, a 
+
+piece of work, a project when the Inter-
+1 Trump, Donald (realDonaldTrump). «FA- net bots keep liking the page and post 
+
+KE NEWS — A TOTAL POLITICAL WITCH favourable commentaries [16];
+HUNT!» Jan. 11, 2017, 9:19 p.m. Tweet.
+
+2 The first press conference of the US 
+President-elect Donald J. Trump. YouTube. 11 4 Another interesting angle is to look at 
+January 2017. (https://www.youtube.com/ fake news through mediaconsumption, i. e. 
+watch?v=bOXfLB_GIC0&t=2556s). creation of a certain market demand for fake 
+
+3 Ibid. news (see [15, p. 10]).
+
+ISSN 2308-6203 145
+
+
+
+Theoretical and Practical Issues of Journalism, 2017, vol. 6, no. 2, pp. 143–169
+
+– completely fake or partly distort- or publisher to the type of the news 
+ed information about facts and events. they create and publish;
+
+On condition that news is a report c) subjective factors such as the 
+on current events which are of politi- emo tional attitude of the fake news au-
+cal, economic or social interest to the dience to the fake information content 
+audience because of them being recent they receive.
+[17, p. 31–32], fake news is a piece of The analysis of a considerable 
+news which is stylistically written as real amount of fake news allows the athours 
+news but which is completely or partial- to distinguish between the following 
+ly false. A question arises here whether types of fake news:
+a piece of news is fake in advance on 
+condition its reporter is fully aware of I. In terms of the true and false in-
+the news being untrue. If the reporter formation ratio:
+does not check the facts reported5, if 1. The news can be a complete lie, 
+they are really unaware of some facts for example: «The Icelandic govern-
+they report, or they simply copy the ment has decided to pay 5,000 euros 
+news from some other media should to each immigrant who marries an Ice-
+one consider this news fake? Or does landic woman»6. Very often such fake 
+the news become fake when another news focuses on celebrities’ deaths. 
+reporter on seeing their colleague’s Recently, a Ukrainian website, called 
+mistake begins disseminating this news Ukrainian Information Portal, regis-
+on purpose, does this mean that a piece tered in Hong Kong at the end of 2013 
+of news becomes fake the moment at has been notorious for disseminating 
+least one person realizes it is fake? We such news7. On this website (ipukr.
+believe that fake news is fake from the com) one can read fake news on Val-
+moment it is created.  The news being eria’s, a famous Russian singer’s, death 
+fake does not depend on the fact how it as well as the leading singer of the mu-
+comes to be fake, i. e. whether it is fake sical band Lyube Nikolay Rastorguev’s 
+and defective because of the reporter’s death, the deaths of Joseph Kobzon, 
+intent, negligence or unawareness. The Nikita Mikhalkov, Alexander Ma- 
+above calls for a more thorough analy- slyakov, etc.
+sis of the following as a whole: Often fake news put in a person’s 
+
+a) initially fake information; mouth the words they have never said. 
+b) subjective factors such as the For example, in 2012 one of comic 
+
+emotional attitude of the news creator news websites posted that Vitaliy Fi-
+lonov, a Russian MP, submitted to the 
+
+5 Fact checking is the act of checking of parliament of Saint Petersburg the bill 
+statistics and other facts in documents, texts on compulsory military service for all 
+of public speeches and publications in order 
+to determine the veracity and correctness of childfree women over the age of twen-
+the factual statements in the text. In the USA, 
+some countries of Europe and Latin America, 6 his fake news can be found on the Rus-
+there are special organizations and web por- sian-language website dictat.net (http://
+tals that check statements made by politicians dictat.net/8652), the English-language web-
+and public people.  The most popular are site thespiritwhispers.com (http://www.
+Factcheck.org, Politifact.com, FactCheckEU. thespiritwhispers.com). The disclaimer: 
+org, Fact Checker by The Washington Post. Fontaine, P. No, The Government Will Not Pay 
+Some of these web portals control not only You To Marry An Icelander (http://grapevine.
+the government but also mass media (http:// is/news/2016/07/01/no-the-government-
+www.slideshare.net/jonesapollo/watchdog- will-not-pay-you-to-marry-an-icelander).
+journalism). 7 URL : http://sitegur.com/ipukr.com.
+
+146 ISSN 2308-6203
+
+
+
+Вопросы теории и практики журналистики. 2017. T. 6. № 2. С. 143–169
+
+ty-three. The MP was claimed to have that Donetsk People’s Republic fighters 
+said the following: «Female domain is were looting the things, which could 
+motherhood. If the woman willfully re- be important to investigate the crash 
+jects this gift from God why should not [19]. However, to answer this ques-
+she go to the army instead?»8 Before tion one could simply watch the video 
+Vitaliy Milonov was able to rebut this file, which this photo was a screenshot 
+information [18], it was widely distrib- from. One can clearly see there that the 
+uted through the Internet as the Inter- fighter put the ring in the box where all 
+net users were not surprised at this idea the other small items were put to se- 
+having heard about other scandalous cure them12.
+initiatives proposed by this MP. 3. Fake news based on a real event, 
+
+2. A piece of news contains a lie some details of this event are mispre-
+while all the other information in this sented. This type of fake news can be 
+piece of news is authentic but pre- exemplified by audio and video files 
+sented selectively. A bright example and photos edited in the way the faker 
+of such fake news is Oleg Aliev’s tweet wants them to be edited. Another ex-
+posted on 21 July 2014. It depicts a Do- ample is citations taken from their initial 
+netsk People’s Republic fighter hold- contexts and presented to the audi-
+ing a crashed Malaysian Boeing-777 ence, for instance, in a specific order. 
+victim’s ring9. The Ukrainian website In terms of this, it is still a debating point 
+ipress.ua gave this tweet the headline whether the intercepted radio commu-
+A Russian Terrorist Caught Stealing a nication of Donetsk People’s Repub-
+Crashed Malaysian Boeing-777 Vic- lic fighters’ discussing the Boeing-777 
+tim’s Ring10. However, they make sure crash is authentic13. In his speech to the 
+to post no photo. The Ukrainian Na- Security Council of the United Nations 
+tional Anti-Corruption Portal published Vitaly I. Churkin, Permanent Represen-
+Aliev’s tweet as a photo fact11. On 22 tative of the Russian Federation to the 
+July this photo was published by The United Nations, claimed that the above 
+Daily Mail. The newspaper raised the radio communication was made from 
+question whether this was the evidence other recorded negotiations which took 
+
+place before 17 July [20]. The audio 
+8 An odious member of the United Rus- message is subtitled and there are pho-
+
+sia party from Saint Petersburg pursues tos of the interlocutors, who, accord-
+Alexei Navalny in court because of the fake ing to the Security Service of Ukraine, 
+news about childfree women [Электронный are Igor Bezler (Bes) and his supervisor, 
+ресурс]. URL : https://www.newsru.com/ the Main Intelligence Directorate of the 
+russia/21aug2013/milonov.html. Russian General Staff colonel Vasily 
+
+9 Aliev, Oleg ‏(OlegAliyev). ««My pre- Geranin. However, the photo, in fact, 
+cious»» #Russia Russian terrorist have been 
+caught stealing a ring from the victim’s finger depicts a different person, i.e. PhD in 
+#MH17» Jule. 21, 20147, 0:40 p.m. Tweet. Military Science Musa M. Khamzatov, 
+
+10 URL : http://ipress.ua/ru/news/ and this very photo can be easily found 
+rossyyskogo_terrorysta_poymaly_na_kra- on the Internet [21].
+zhe_koltsa_s_paltsa_zhertvi_razbytogo_
+boyng777_75724.html.
+
+11 URL : http://antikor.com.ua/ 12 Somebody else’s precious: militiaman 
+articles/9761-rossijskij_terrorist_voruet_ was wrongly accused of stealing a ring from 
+k o l j t s o _ s _ p a l j t s a _ h e r t v y _ b o i n g a . _ the crash site of Boeing 777 [Online Resource]. 
+f o t o f a k t ? s e a r c h = % E 2 % E E % F 2 % 2 0 URL : https://russian.rt.com/article/42013.
+% E E % E D % E 0 % 2 0 % E C % E E % F F % 2 0 13 URL : https://www.youtube.com/
+%EF%F0%E5%EB%E5%F1%F2%FC. watch?v=btFLSoAwG_E.
+
+ISSN 2308-6203 147
+
+
+
+Theoretical and Practical Issues of Journalism, 2017, vol. 6, no. 2, pp. 143–169
+
+II. In terms of authenticity of time official social networks profiles are listed 
+and place details of the event: on the Ministry official website14.
+
+1. An event happened in the past 2. A piece of news where a periph-
+is published as a piece of up-to-date eral character is presented as the main 
+news. This type of fake news can be participant of an event. For example, a 
+illustrated by a piece of news about a post headlined Saving Children from 
+famous Russian TV presenter Leonid Cyber Crimes was published on the Ir-
+Yakubovich’s vehicle accident pub- kutsk Region Investigation Committee 
+lished in April 2016. In fact the accident website at the end of 2016. This post 
+took place in 2011 [22]. was guidelines to help parents identify 
+
+2. A piece of news about an event the signs of their children being involved 
+happened at a particular place is pre- in suicidal social network groups. The 
+sented as an event happened at a dif- guidelines were elaborated by the 
+ferent place. For example, Viber and members of the social organization Sav-
+WhatsApp users in Irkutsk get now and ing Children from Cyber Crimes from 
+then sent a worrying message about a the city of Ryazan and contained such 
+wearing a kind of white hat with a pom- strange from the unprepared reader’s 
+pon little girl who is being searched for viewpoint signs of being involved in sui-
+with no luck by her grandmother and cidal groups as citations from Yesenin 
+a policeman near 43 Postyshev Boule- and Brodsky, saving photos of whales 
+vard. However, it is well-known that and cats. Ironical materials on posting 
+there is no 43 Postyshev Boulevard in these guidelines on the Irkutsk Region 
+Irkutsk, and the girl really got missing Investigation Committee website ap-
+near this address but this was in Khaba- peared on such media websites as Me-
+
+duza15
+rovsk [23]. , Snob, etc [24]. And only some 
+
+of them referred to the initial authors of 
+III. In terms of persons mentioned in the guidelines, most websites attrib-
+
+the news: uted the authorship of the guidelines to 
+1. A piece of news refers to an of- the Irkutsk Region Investigation Com-
+
+ficial’s statement published on a fake mittee.
+identity webpage. For example, as the 3. A piece of news based on the 
+official reaction of the Russian Federa- unchecked evidence of those claiming 
+tion to the regional council of the Ital- to be witnesses of particular events. A 
+ian region of Veneto adoption of the bright example of such fake news can 
+resolution calling for recognizing the be a story about a crucified boy which 
+Crimea current status and abolish sanc- was told to Channel One by a refu-
+tions against Russia the English website 
+of the TV channel Euronews posted a 14 The Ministry of Foreign Affairs has 
+screenshot of the Russian Foreign Minis- again accused Euronews of misleading pre-
+ter Sergey Lavrov’s Twitter profile. The sentation of information [Online Resource]. 
+Foreign Ministry Spokesperson Maria URL : http://www.vedomosti.ru/politics/
+Zakharova explained that Sergey Lav- news/2016/05/24/642163-mid-vnov.
+rov has no Twitter account. The Russian 15 Irkutsk Investigating Committee pub-
+website of the TV channel Euronews lished an instruction on how to safe children 
+didn’t post this fake news. Assuming from the Internet. It says that Death is riding Uni-
+
+that this was not just propaganda or corn to hell [Online Resource]. URL : https://
+meduza.io/news/2016/12/24/irkutskiy-sk-
+
+disinformation but, probably, the fake opublikoval-instruktsiyu-po-spaseniyu-detey-
+website promotion, Maria Zakharova ot-interneta-tam-govoritsya-chto-smert-edet-
+pointed out that all the Foreign Ministry na-edinoroge-v-ad.
+
+148 ISSN 2308-6203
+
+
+
+Вопросы теории и практики журналистики. 2017. T. 6. № 2. С. 143–169
+
+gee from Slavyansk16. Further Channel is the media project called The Onion18. 
+One emphasized that this was a story Starting the project as a farcical news-
+of a woman who managed to escape paper in a student residence of the 
+the line of fire carrying her children in University of Wisconsin in Madison in 
+her arms. «She is not trying to hide her 2001 the editing group moved to New 
+face, she tells us her real name, Galina York and focused on promoting their 
+Pyshiak, she admits that her husband is project on the Internet. The paper ver-
+a Donetsk People’s Republic fighter… sion was closed in 2013 and nowadays 
+The reporters still have no evidence that The Onion also broadcasts video news 
+this tragedy really took place, but this on YouTube. The farcical Internet TV 
+is a real story from a real woman who channel is called ONN (Onion News 
+was fleeing from the hell of Slavyansk. Network) – by analogy to CNN. Apart 
+The things she was telling about were from fake news the channel broadcasts 
+put in the chain of numerous evidence fake talk shows, fake investigations and 
+on dozens of children who got killed by the latest movies reviews in the way 
+the missiles which hit Slavyansk, who which is peculiar to ONN [25]. In Russia 
+were shot while trying to run away, the information resources specializing 
+who got killed during air attacks and in creating fake news are FOGNEWS19, 
+in artillery firing». Despite the fact that HOBOSTI20, FIBSTER21, etc.
+Channel One admitted that the un- 2. Fake news created and dissemi-
+happy crying refugee’s story can be a nated to gain political advantages, i. e. 
+sick fantasy which turned out to be still to discredit political opponents (which 
+less terrifying than real life, depicted includes discrediting them during elec-
+in the war chronicles17, the opposition tion campaigns), to provoke a riot or 
+media received an opportunity to use a coup, etc. During the presidential 
+the expression «crucified boy» for dis- election campaign in the USA, for ex-
+crediting the idea of civilians dying in ample, they published fake news about 
+the «anti-terrorist operation». Hillary Clinton and Bill Clinton running a 
+
+criminal business involving child sexual 
+IV. In terms of the objectives cre- abuse via Comet Ping Pong pizza res-
+
+ators and publishers of fake news pur- taurant because of the restaurant own-
+sue: ers’ failure to endeavor to prevent 
+
+1. A piece of news created to en- the crime. As a result, the restaurant 
+tertain the audience. The modern me- started receiving thousands of threats, 
+dia environment includes a separate new scandalous stories were spread 
+niche of information resources created for weeks, and in the restaurant yard 
+for publishing fake news. One of the they discovered women looking for se-
+most widely known US information re- cret tunnels build to transfer children to 
+sources which creates satiric fake news be engaged in prostitution and magi-
+
+cal rituals. In December 2016 in one 
+16 URL : https://www.1tv.ru/ of the Comet Ping Pong restaurants in 
+
+news/2014/07/12/37175-bezhenka_ Washington a 28-year-old man started 
+i z _ s l a v y a n s k a _ v s p o m i n a e t _ k a k _ p r i _ shooting. Witnesses said that he was 
+ney_kaznil i_malenkogo_syna_i_zhenu_ shooting, claiming he was willing to in-
+opolchentsa.
+
+17 URL : https://www.1tv.ru/
+news/2014/12/21/31502-zhurnalisty_ 18 URL : http://www.theonion.com.
+pervogo_otvechayut_na_obvineniya_vo_ 19 URL : http://fognews.ru.
+lzhi_v_svyazi_s_syuzhetom_pro_ubiystvo_ 20 URL : http://hobosti.ru.
+rebenka_v_slavyanske. 21 URL : http://fibster.ru.
+
+ISSN 2308-6203 149
+
+
+
+Theoretical and Practical Issues of Journalism, 2017, vol. 6, no. 2, pp. 143–169
+
+vestigate the so-called Pizzagate22. It introduced himself as Paul-Alexis and 
+needs to be noted that Donald Trump confirmed the news. Then on the same 
+who became prone to fake news him- website the wrongdoers published par-
+self several times dismissed one of the tial disproving of this news which led to 
+members of his transition team, Michael even more confusion among the market 
+Flynn Jr., because he was posting ap- players. After the close of trading the 
+proving tweets on Pizzagate23. media received an anonymous letter, 
+
+3. Fake news created to discrimi- whose author called the media attack 
+nate people because of their gender, on Vinci revenge for Vinci’s activities 
+race, nationality, language, social sta- which caused environmental damage in 
+tus, place of residence, attitude to Russia and France.
+religion, views, belonging to a non- 5. Fake news created and dissemi-
+governmental organization, etc. An il- nated to increase the Internet data traf-
+lustrative example of this can be media fic. A lot of fake news of this kind get 
+wars conducted alongside with real sent to social networks users and such 
+wars in troubled areas of the world. messengers as Viber, WhatsApp, etc. 
+
+4. Fake news created and dissemi- Information about missing children and 
+nated to manipulate the market to gain pets, a rare type of blood necessary 
+economic advantages. In November to save someone’s life, etc. spreads in 
+2016 the shares of the French build- social networks like a virus multiplying 
+ing company Vinci SA went down by mobile providers profit via increased 
+twenty per cent with the company los- traffic. On New Year’s Eve in all Russian 
+ing about seven billion euros of share social networks there was the follow-
+capital. This happened after several ing fake news: «Here is news from our 
+financial media published fake news infectious diseases hospital. Ten chil-
+about the financial company director’s dren are in the intensive care unit, two 
+being dismissed. The fake press release children died. The reason is eating Chi-
+said that the top manager was fired nese tangerines with fruit stems!» This 
+because of the mistakes he had made fake news was repeatedly disproved 
+in his reports as those mistakes could by medical people working in infectious 
+cause the overestimation of the com- diseases hospitals in different Russian 
+pany results by 3,5 billion euros. The cities and towns.24
+
+press release contained a reference 6. Fake news created to seize 
+to a website imitating the real website money and property. Such fake news 
+of the building company. It also con- can be exemplified by made up posts 
+tained a fake phone number allegedly about raising money for terminally ill 
+belonging to Vinci press secretary Paul- children25.
+Alexis Bouquet. The man answering 
+Dow Jones Newswires journalists’ call 24 Victoria Fedoseenko ‘Did citizens of Ir-
+
+kutsk have a food poisoning having eaten ‘tan-
+22 A man who wanted to investigate Clin- gerines with fruit stems’? The Ministry of Health 
+
+ton’s ‘Pizzagate’ started shooting in a piz- denies that. [Online Resource]. URL : http://
+zeria in Washington, DC [Online Resource]. newsbabr.com/irk/?IDE=153827 ;
+URL : http://www.vedomosti.ru/politics/ Rumours about tangerine food poison-
+news/2016/12/05/668159-pitstsa-geit. ing have reached the town of Tumen [Online 
+
+23 A member of Donald Trump’s transi- Resource]. URL : http://www.naurfo.ru/
+tion team was fired for retweeting rumours news/38194.
+about Clinton and pizzeria [Online Resource]. 25 See, e.g., Swindlers raised record 
+URL : https://lenta.ru/news/2016/12/07/ amount of charity funds appealing to real 
+pizzagate. stories of illnesses of children who badly need 
+
+150 ISSN 2308-6203
+
+
+
+Вопросы теории и практики журналистики. 2017. T. 6. № 2. С. 143–169
+
+7. Fake news created to destroy the fake news phenomenon can be if 
+the information stored on someone’s one takes into account the level of IT 
+computer. For instance, the fake news development in the modern society. 
+about Brad Pitt’s death allegedly pub- Metaphorically saying uncontrolled 
+lished by the American TV channel Fox fake news coverage can provoke in-
+News turned out to be a computer virus formation terrorist attacks which can 
+which got activated by the user’s click- be terribly destructive. Realizing the 
+ing the news26. negative aspects of this phenomenon 
+
+8. Fake news created to draw the makes social and government institu-
+audience attention to a particular per- tions search for instruments to counter-
+son, company, project or movement. act fake news.
+For example, at the turn of the year For example, during the latest US 
+2015 a new idol was being promoted in presidential election campaign Face-
+the Russian media, it was a girl named book, Twitter and Google were criti-
+Rina, known by the Internet mem «Nia. cized for spreading fake news about 
+Bye» [27]. On 23 November 2015 the Donald Trump and Hillary Clinton. This 
+16-year-old Rina placed her head on news got covered much more com-
+the rails while a freight train was ap- pared to authentic news by The New 
+proaching. The girl’s photo with her York Times, The Washington Post, 
+head cut off was posted on the Inter- The Huffington Post, etc.27 Accord-
+net immediately. After the media craze ing to Craig Silverman’s study twenty 
+caused by Rina’s death in the Russian most popular pieces of fake news got 
+social network VKontakte there started reposted and liked and commented on 
+circulating a rumour that the girl was a 8,7 million times from February through 
+member of a group, which was playing November 2016 while top twenty au-
+the so-called suicidal quest game with thentic pieces of news were posted, 
+its users. As a result triggered by this liked and commented on only 7,4 mil-
+news interest to such games which had lion times [31]. The western media were 
+tragic outcomes increased a lot [28]. also writing about a group of teenag-
+
+ers from Macedonia who were earning 
+V. In terms of the degree of authen- thousands of dollars creating fake news 
+
+ticity of the news: on American politics [32–33].
+1. Obviously fake news. Findings of a study carried out by 
+2. Fake news which does not seem Pew Research Center showed that 
+
+obviously fake and the reader feels the Americans consider fake news a real 
+need to check the information pub- problem. Most respondents think that 
+lished. dissemination of fake news prevents 
+
+3. Fake news written so convincing- them from having an opinion on the 
+ly that the reader has no doubt about events happening. One third of the 
+its being authentic news. respondents claim to have seen fake 
+
+The fake news classification given 
+by the authors of the article brings into 27 As a matter of fact, the phenomenon of 
+sharp focus the fact how dangerous fake news has even been reflected in the ironic 
+
+naming of the social network Facebook. For 
+treatment [Online Resource]. URL : http:// example, the publishing house Sourcebook 
+pravo.ru/news/view/103023. published the book «Fakebook: A True Story. 
+
+26 Brad Pitt died. Why you shouldn’t read Based on Actual Lies» by Dave Cicirelli [29], 
+such news on the Internet. [Online Resource]. and the newspaper ‘Vedomosti’ published 
+URL : http://thejizn.com/2016/09/28/ an article entitled ‘Social network Fakebook’ 
+brad-pitt-death-hoax-facebook. [30].
+
+ISSN 2308-6203 151
+
+
+
+Theoretical and Practical Issues of Journalism, 2017, vol. 6, no. 2, pp. 143–169
+
+news on social media. 71 per cent of campaign aimed at teaching users how 
+the respondents believe that social to tell real news from fake one [37].
+media and search systems are obliged Thomas Oppermann, head of a fac-
+to stop fake news from spreading and tion of the Social Democratic Party of 
+also politicians and members of the Germany considers that the above mea-
+public should counteract fake news. 25 sures are not sufficient and proposes to 
+per cent of the respondents admitted make Facebook and other social media 
+spreading fake news and 14 per cent of pay fines of up to 500,000 euros if they 
+the respondents added that they were do not delete fake news quickly. In De-
+doing this in spite of being aware that cember 2016 the German government 
+the news was fake [34]. claimed to start drafting a bill which if 
+
+The Facebook founder Mark Zu- passed would enable to fine Facebook 
+cker berg, who was first denying that for spreading fake news. The German 
+fake news might influence the outcome Federal Minister of Justice Heiko Maas 
+of the US presidential election cam- claimed that fake news is a threat to 
+paign28, had to admit the fake news communication standards in Germany 
+problem later on and proposed several and warned that people spreading fake 
+ways of counteracting fake news. Face- news may face five-year imprisonment, 
+book as well as Google29 will not share however, at the same time social media 
+their profits from advertising with web- should also be responsible for allowing 
+sites which post fake news [35]. Do- such people to spread fake news31.
+zens of Facebook staff members were Germany was the first country fol-
+reassigned to work out a quick decision lowing in the steps of the USA where 
+for the fake news problem. The possibi- Facebook will launch in the test mode 
+lity of using artificial intelligence to spot a system which will spot and mark fake 
+fake news and scenes of violence in news. This is to control fake news dis-
+video streams is being discussed [36]. semination as Germany is approach-
+Moreover, Facebook has decided to ing the Bundestag election campaign 
+engage journalists for solving this pro- scheduled for September 2017. Ger-
+blem. Facebook is planning to work man users will be able to report the 
+with the news editors30 and organize a news which looks fake. The complaint 
+
+will be sent to the independent fact 
+28 Mark Zuckerberg called accusa- checker Correctiv. If Correctiv confirms 
+
+tions against Facebook of helping Trump that the news is fake it will be marked 
+absurd [Online Resource]. — URL : as doubtful and it will be accompanied 
+http://www.vedomost i . ru/pol i t ics/ by an explanatory comment. In users’ 
+news/2016/11/11/664541-tsukerberg- news feeds such news will get a low 
+bezumnimi.
+
+29 priority and appear less frequently and 
+ Google announced that it would prohi-
+
+bit to advertise on Google AdSense websites at the bottom of the news list. Try-
+that publish misleading information and conceal ing to repost this news users will get 
+the names of its owners. a warning.
+
+30 At the same time, the Rights have al- Facebook menu will have an option 
+ready started complaining that Facebook ar- allowing the user to report a piece of 
+ranged for fact checking with left-wing orga- news they believe fake. Taking into ac-
+nizations. For example, the Editor-in-Chief of count such reports Facebook will send 
+the Daily Wire Ben Shapiro said that Politifact, 
+Factcheck.org, Snopes, ABC news and Тhe 
+Washington Post had become factcheckers, all 31 Facebook can be fined in Germany 
+of them are left-wing, and that it was a calamity [Onl ine Resource]. URL : https://ria.ru/
+for the news industry [33]. world/20161216/1483846152.html.
+
+152 ISSN 2308-6203
+
+
+
+Вопросы теории и практики журналистики. 2017. T. 6. № 2. С. 143–169
+
+this piece of news to independent fact 1) to check authenticity of informa-
+checkers. If the news proves to be fake tion before posting and publishing it 
+it will be marked as doubtful and it will and stop posting and publishing it im-
+get a link to an explanatory comment mediately on receiving an order from an 
+stating why the checking party consid- authorized authority; 
+ers it fake [38]. 2) not to allow to use the news ag-
+
+In 2017 in Russia in the framework gregator for hiding or faking information 
+of counteracting fake information Fed- of public importance, spreading fake 
+eral Law number 208-FZ On News Ag- information of public importance under 
+gregators has come into force32. This the image of authentic information;
+regulatory act added Article 10.4 (Pe- 3) to respect legal rights and inter-
+culiarities of Information Dissemination ests of citizens and organizations which 
+by an Information Aggregator) to the includes their honour, dignity and repu-
+Federal Law On Information, Informa- tation;
+tion Technology and Data Protection. 4) to keep for six months all the 
+This article defines a news aggregator published information as well as the in-
+as a computer program, a website or formation about its sources and publish-
+a webpage which is used for editing ing timescales.
+and spreading the news in the state The news aggregator owner is not 
+language of the Russian Federation, responsible for disseminating news if 
+in the state languages of the republics this news is the exact copying of mes-
+constituting the Russian Federation or sages and materials or fragments of ma-
+in other languages which can be used terials, published by a different media 
+for advertising products and services to resource and this media resource can 
+customers located in the Russian Feder- be identified and held responsible for 
+ation and accessible every day to more breaking the media law of the Russian 
+than one million Internet users. Informa- Federation.
+tion resources which are registered as Once fake information of public im-
+online media under The Mass Media portance under the image of authentic 
+Act number 2124-1 of 27 December information is found on a news aggre-
+1991 are not considered to be news gator, or information is published with 
+aggregators. violation of the existing media law au-
+
+The news is defined as generally ac- thorized authorities have the right to 
+cessible information which one learns apply to the Federal Service for Super-
+from the media registered under The vision of Communications, Information 
+Mass Media Act as well as from other Technology and Mass Media attach-
+media. ing a court decision or an authorized 
+
+Only a Russian company or a Rus- authority decision to take measures to 
+sian citizen can own such a news aggre- stop such information from being pub-
+gator. lished. In the next 24 hours the Federal 
+
+On this Law coming into force news Service for Supervision of Communi-
+aggregators owners are obliged among cations, Information Technology and 
+other things: Mass Media considers this decision and 
+
+sends the news aggregator owner an 
+32 On the Federal Law on Information, In- order to immediately stop publishing 
+
+formation Technology and Data Protection the information which is under a publi- 
+change and Russian Federation Administra-
+tive Offence Code change : Federal Law of 23 cation ban.
+June 2016 № 208-FZ // Rossiyskaya Gazeta. The Law On News Aggregators 
+2016. 28 June. first of all concerns such social media as 
+
+ISSN 2308-6203 153
+
+
+
+Theoretical and Practical Issues of Journalism, 2017, vol. 6, no. 2, pp. 143–169
+
+YandexNews33 and GoogleNews which In terms of this let us mark the obvious 
+accumulate the news of the day from need for the current Information Securi-
+selected online media publications. De- ty Doctrine of the Russian Federation to 
+spite the criticism expressed by some be finalized35. The Doctrine states that 
+representatives of online entrepreneur- realization of the national interests of 
+ship which induced the Federal Service the Russian Federation in the informa-
+for Supervision of Communications, In- tion space is directed at creating a se-
+formation Technology and Mass Media cure information space where one can 
+to issue clarifying notes to the Law un- find authentic information, however, 
+der consideration34, the authors of this there are no finalized theses on pro-
+article think that this Law is an adequate tecting this authentic information from 
+preventive measure against fake news fake information. Meanwhile journalism 
+dissemination outside social media based on checked facts should defi-
+where the problem of fake news still re- nitely speak out against para-journalism 
+mains unsolved. of fake news, and for this journalists 
+
+In conclusion, let us state the long- need not only an adequate approach to 
+felt need to work out a set of measures broadcasting news adopted by social 
+aimed at preventing fake news from media but also a discerning audience 
+spreading and neutralizing conse- who have acquired basic media literacy 
+quences of dissemination of fake news. skills. Honest journalists are asked for 
+
+not only by the US President but also by 
+33 According to TNS Web Index, as of Sep- the whole mankind.
+
+tember 2016 more than 25 mln people were 
+reading YandexNews. (http://pravo.ru/
+news/view/134866). 35 On signing the Information Security 
+
+34 Explanations regarding dissemination Doctrine of the Russian Federation into law: 
+of information by news aggregators that was the Russian Federation Presidential Decree 
+published on websites that are not news media of 5 December 2016 № 646// The Russian 
+[Online resource]. URL : https://rkn.gov.ru/ Federation legislation. 2016. № 50. Article 
+news/rsoc/news41987.htm. 7074.
+
+Я буду искать честных журналистов.
+Президент Соединенных Штатов Америки 
+
+Дональд Трамп
+
+«ФЕЙКОВЫЕ НОВОСТИ» КАК ФЕНОМЕН 
+СОВРЕМЕННОГО МЕДИАПРОСТРАНСТВА: 
+ПОНЯТИЕ, ВИДЫ, НАЗНАЧЕНИЕ, МЕРЫ 
+
+ПРОТИВОДЕЙСТВИЯ
+
+«ФЕЙКОВЫЕ НОВОСТИ — ТО- В тот же день на своей первой пресс-
+ТАЛЬНАЯ ПОЛИТИЧЕСКАЯ ОХОТА конференции в качестве президента 
+НА ВЕДЬМ!» — написал в своем ми- Дональд Трамп объяснил журна-
+кроблоге в Twitter президент США листам, что он имел в виду в этом 
+Дональд Трамп 11 января 2017 г.1 высказывании. Трамп заявил, что 
+
+1 считает позором публикацию «на-
+ Trump, Donald (realDonaldTrump). 
+
+«FAKE NEWS — A TOTAL POLITICAL WITCH столько недостоверной и сфальси-
+HUNT!» Jan. 11, 2017, 9:19 p.m. Tweet. фицированной информации» насчет 
+
+154 ISSN 2308-6203
+
+
+
+Вопросы теории и практики журналистики. 2017. T. 6. № 2. С. 143–169
+
+его связей с Россией. «Такого рода о существовании «паражурналистики 
+вещи могли происходить в нацист- фейковых новостей». Обилие фаль-
+ской Германии… Ложная фальшивая шивых сообщений, маскирующихся 
+информация была издана, опубли- под новости, в последние годы до-
+кована разведывательным сообще- стигло критической отметки, и это 
+ством и представлена обществу». явление заслуживает серьезного на-
+Американский президент назвал учного анализа. К теоретическому 
+«информационной помойкой» из- осмыслению феномена «фейковых 
+дание Buzzfeed, опубликовавшее новостей» уже обращаются как оте-
+35-страничный доклад о якобы имею- чественные [4–7], так и зарубежные 
+щем место компромате на Трампа, авторы [8–14]4.
+собранном российскими спецслуж- Иностранное слово «фейк» орга-
+бами. Более того, Трамп отказался нично влилось в лексикон множества 
+от диалога с корреспондентом CNN языков. В переводе с английского 
+Джимом Акостой: «Ваша организа- термин «фейк» (fake) обозначает 
+ция ужасна… Я не дам вам возмож- «подделку», «фальшивку», «об-
+ность задать вопрос. Вы занимаетесь ман». «Фейковый» является синони-
+информационными фейками»2. мом таких слов как «поддельный», 
+
+На вопрос о том, какие реформы «фальшивый», «ложный», «фиктив-
+мог бы порекомендовать избран- ный», «под ставной», «искусствен-
+ный президент США «с точки зрения ный», «не на стоящий», «липовый», 
+улучшения работы СМИ», Трамп от- «бу тафорский». Глагол to fake пере-
+ветил: «Я не рекомендую реформы. водится как «фальсифицировать», 
+Я рекомендую людей, у которых есть «притворяться», «имитировать», «ин-
+определенные моральные устои… сце нировать», «фабриковать».
+У меня есть такое преимущество, Понятие «фейк» включает в себя 
+что я могу отвечать на обвинения. ряд самых разнообразных явлений 
+Когда они лгут в адрес кого-то, кто медиасреды. Так, фейками могут 
+не может ответить, кто не обладает называться:
+такой трибуной, как есть у меня, это – поддельные тексты, а также 
+может сломать человека, и я видел фото-, видео- или аудиозаписи; 
+людей, которых это сломало. Это – страницы или блоги, которые 
+очень нечестно. И я буду искать чест- ведутся от чьего-либо имени в со-
+ных журналистов»3. циальных сетях (от имени реально 
+
+Переизбыток фейковых ново- существующих либо вымышленных 
+стей действительно стал яркой отли- личностей, исторических или худо-
+чительной особенностью последней жественных персонажей); 
+американской предвыборной гон- – поддельные страницы попу-
+ки. Если рассматривать «журнали- лярных сайтов (при переходе на эти 
+стику новостей» как разновидность страницы пользователь ошибочно 
+журналистского жанра [1, с. 138; думает, что получает информацию от 
+2, с. 133; 3, с. 6], то в настоящее вре- ресурса, которому можно доверять; 
+мя можно с уверенностью заявить и такие страницы также создаются 
+
+2 Первая пресс-конференция избран- 4 Интересным может быть ракурс рас-
+ного президента США Дональда Трам- смотрения «фейковых новостей» с точки 
+па. YouTube. 11 января 2017 г. (https:// зрения медиапотребления, то есть форми-
+www.youtube.com/watch?v=bOXfLB_ рования определенного рыночного спро-
+GIC0&t=2556s). са на «фейковые новости» (cм.: Вартано-
+
+3 Там же. ва Е. Л. [15, с. 10]).
+
+ISSN 2308-6203 155
+
+
+
+Theoretical and Practical Issues of Journalism, 2017, vol. 6, no. 2, pp. 143–169
+
+злоумышленниками, чтобы заманить это, что произведенную им новость 
+пользователя и побудить его ввести на можно считать фейком? Или если 
+фальшивой странице свой настоящий другой журналист, понимая оплош-
+логин или пароль в целях дальнейшего ность коллеги, умышленно распро-
+использования в своих интересах); странил эту недостоверную новость 
+
+– искусственно созданная по за- далее, означает ли это, что новость 
+данию заказчика популярность лич- стала фейком с момента осознания 
+ности, произведения, проекта (как ее недостоверности хотя бы одним 
+правило, при помощи интернет-ботов человеком? Полагаем, что недосто-
+и (или) тех же фальшивых аккаунтов, верная новость является фейковой с 
+выставляющих «лайки» и постящих момента ее создания независимо от 
+одобрительные комментарии) [16]; того, умышленно, по причине халат-
+
+– полностью ложная либо ча- ного отношения или в силу добросо-
+стично искаженная информация о вестного заблуждения возникла ее 
+фактах, событиях и явлениях. дефектность. Это предполагает бо-
+
+Если исходить из того, что но- лее глубокий анализ совокупности:
+вость — это оперативное инфор- а) объективно существующей 
+мационное сообщение о событиях, информации, не соответствующей 
+произошедших недавно или проис- действительности; 
+ходящих в текущий момент, пред- б) субъективных факторов в виде 
+ставляющее политический, эконо- психического отношения создателя и 
+мический или общественный интерес (или) распространителя новости к ее 
+для аудитории в своей свежести [17, истинному содержанию;
+c. 31–32], то «фейковая новость» — в) субъективных факторов в виде 
+это сообщение, стилистически соз- психического отношения потреби-
+данное как настоящая новость, но телей недостоверной информации 
+ложное полностью или частично. к воспринимаемому ими контенту. 
+Возникает вопрос, имеет ли значе- Анализ значительного масси-
+ние для отнесения новости к фей- ва «фейковых новостей» позволяет 
+кам заведомое знание создателя выделить следующие их разновид-
+новости о ее недостоверности. Так, ности:
+если журналист не утруждал себя 
+фактчекингом5, добросовестно за- I. В зависимости от соотношения 
+блуждался в отношении некоторых достоверной и недостоверной ин-
+фактов, автоматически скопировал формации:
+новость из других СМИ, значит ли 1. «Новость» представляет собой 
+
+ложь от начала до конца, например: 
+5 Фактчекинг — это проверка статисти- «Правительство Исландии приняло 
+
+ки и других фактов в документах, текстах 
+выступлений и публикаций на соответствие решение выплачивать по 5000 евро 
+действительности. В США, странах Европы каждому иммигранту, который 
+
+возьмет в жены местную девушку»6
+и Латинской Америки действует ряд орга- . 
+низаций и порталов, занимающихся про-
+веркой фактов, озвученных политиками и 6 Данный фейк можно обнаружить, на-
+общественными деятелями. Среди них — пример, на русскоязычном сайте dictat.net 
+Factcheck.org, Politifact.com, FactCheckEU. (http://dictat.net/8652), на англоязычном 
+org, Fact Checket газеты The Washington ресурсе thespiritwhispers.com (http://
+post и т. д. Некоторые из этих порталов осу- www.thespiritwhispers.com). Опроверже-
+ществляют контроль не только за правитель- ние: Fontaine, P. No, The Government Will 
+ством, но и за СМИ (http://www.slideshare. Not Pay You To Marry An Icelander (http://
+net/jonesapollo/watchdog-journalism). grapevine.is/news/2016/07/01/no-the-
+
+156 ISSN 2308-6203
+
+
+
+Вопросы теории и практики журналистики. 2017. T. 6. № 2. С. 143–169
+
+Часто такие «фейковые новости» со- ДНР, который держит в руке кольцо 
+общают о «смертях» знаменитостей жертвы разбившегося малайзийско-
+(в последнее время этим «славится» го «Боинга-777»9. Украинский сайт 
+среди прочих сайт «Информацион- ipress.ua сообщил об этом твите под 
+ный портал Украины», зарегистриро- заголовком «Российского террори-
+ванный в конце 2013 г. в Гонконге7). ста поймали на краже кольца с паль-
+На страницах этого сайта по адресу ца жертвы разбитого «Боинг-777», 
+ipukr.com можно найти «новости» о однако фото предусмотрительно не 
+«гибели» певицы Валерии и солиста выложил10. Национальный антикор-
+группы «Любэ» Николая Расторгуе- рупционный портал Украины разме-
+ва, «кончине» Иосифа Кобзона, Ни- стил твит Алиева как «ФОТОФАКТ»11. 
+киты Михалкова, Александра Мас- 22 июля фото появилось в английской 
+лякова и др. Нередки случаи «ново- газете The Daily Mail, поставившей 
+стей», приписывающих какому-либо вопрос, не является ли это фото 
+лицу высказывания, которых на са- «свидетельством мародерства» со 
+мом деле не было. Так, в 2012 г. на стороны ополченцев, «забирающих 
+одном из сайтов шуточных новостей с места катастрофы вещи, которые 
+появилась информация о том, что могут быть крайне важными для рас-
+депутат Виталий Милонов предста- следования» [19]. Между тем для 
+вил на рассмотрение парламента решения данного вопроса достаточ-
+Санкт-Петербурга законопроект о но было посмотреть видеозапись, 
+воинской повинности для всех неро- с которой был сделан скриншот. На 
+жавших женщин старше 23 лет. Де- видеокадрах отчетливо видно, что 
+путату приписали цитату: «Удел жен- ополченец не забрал кольцо себе, 
+щины — материнство. Если она со- а положил его в коробку с другими 
+знательно пренебрегает тем даром, мелкими предметами для обеспече-
+который ей дан Господом, то почему ния их сохранности12. 
+она не должна идти служить?»8 Пре- 3. В основе «новости» лежит ре-
+жде чем В. Милонов опроверг эту альное событие, отдельные фраг-
+информацию [18], она широко рас- менты которого искажены. Это могут 
+пространилась в Интернете, так как быть, к примеру, измененные в нуж-
+после действительно имевших место 
+не менее скандальных инициатив де- 9 Aliev, Oleg (OlegAliyev). ««Вот она 
+путата пользователи уже не удиви- моя прелесть»» #Россия российского тер-
+лись такой идее. рориста поймали на краже кольца с пальца 
+
+2. «Новость» содержит ложь на жертвы #MH17» Jule. 21, 20147, 0:40 p.m. 
+
+фоне в целом достоверной инфор- Tweet.
+10
+
+мации, представленной выборочно.  URL : http://ipress.ua/ru/news/
+rossyyskogo_terrorysta_poymaly_na_
+
+Ярким примером такого фейка яв- krazhe_koltsa_s_paltsa_zhertvi_razbytogo_
+ляется твит Олега Алиева от 21 июля boyng777_75724.html.
+2014 г. с изображением ополченца 11 URL : http://antikor.com.ua/
+
+articles/9761-rossijskij_terrorist_voruet_
+government-will-not-pay-you-to-marry-an- k o l j t s o _ s _ p a l j t s a _ h e r t v y _ b o i n g a . _
+icelander). f o t o f a k t ? s e a r c h = % E 2 % E E % F 2 % 2 0
+
+7 URL : http://sitegur.com/ipukr.com. % E E % E D % E 0 % 2 0 % E C % E E % F F % 2 0
+8 Скандальный петербургский едино- %EF%F0%E5%EB%E5%F1%F2%FC.
+
+росс судится с Навальным из-за «фейка» о 12 Чужая прелесть: ополченца необо-
+нерожавших женщинах [Электронный ре- снованно обвинили в краже кольца с места 
+сурс]. URL : https://www.newsru.com/ падения Boeing 777 [Электронный ресурс]. 
+russia/21aug2013/milonov.html. URL : https://russian.rt.com/article/42013.
+
+ISSN 2308-6203 157
+
+
+
+Theoretical and Practical Issues of Journalism, 2017, vol. 6, no. 2, pp. 143–169
+
+ном для фальсификаторов русле ау- 2. «Новость» о событии, которое 
+дио- и видеозаписи, отредактирован- реально произошло в одном месте, 
+ные фотографии; цитаты, вырванные преподносится как событие, произо-
+из контекста или представленные в шедшее в другом. Так, пользова-
+определенной последовательности телям социальных сетей и мессен-
+и т. п. Так, остается дискуссионным джеров Viber, WatsApp в Иркутске 
+вопрос о подлинности аудиозаписи периодически рассылают тревожное 
+перехвата радиопереговоров опол- сообщение о девочке «вроде как 
+ченцев ДНР, якобы обсуждавших ле- в белой шапке с бумбоном», кото-
+том 2014 г. падение «Боинга-777»13. рую безуспешно ищет бабушка вме-
+Постпред РФ при ООН Виталий Чур- сте с полицейским в районе дома 
+кин во время своего выступления № 43 на бульваре Постышева. Вме-
+перед членами Совета Безопасно- сте с тем известно, что в Иркутске 
+сти ООН утверждал, что эта запись такого дома нет, а ребенок вблизи 
+«была смонтирована из других пере- указанного адреса действительно те-
+говоров, часть из которых велась до рялся, но в городе Хабаровске [23].
+17 июля» [20]. Аудиозапись сопро- III. В зависимости от состава лиц, 
+вождают субтитры с фото «участ- упоминаемых в «новости»:
+ников диалога», которыми, по вер-
+сии Службы безопасности Украины, 1. «Новость» содержит ссылку 
+являются «сепаратист Игорь Безлер на якобы имевшее место высказыва-
+(Бес)» и «его куратор полковник ГРУ ние публичного лица, размещенное 
+Генерального штаба России Василий от имени фейкового аккаунта. Так, 
+Геранин». При этом на фото изобра- в качестве официальной российской 
+жен не В. Геранин, а полковник в от- реакции на принятие региональным 
+ставке, кандидат военных наук Муса советом итальянской области Венето 
+Магомедович Хамзатов. Оригинал резолюции, призывающей признать 
+использованного фото М. М. Хамза- фактический статус Крыма и отме-
+това легко обнаруживается в Интер- нить санкции против России, англоя-
+нете [21]. зычный сайт телеканала Euronews 
+
+продемонстрировал скриншот «акка-
+II. В зависимости от достоверно- унта министра иностранных дел Рос-
+
+сти обстоятельств времени и места сии Сергея Лаврова в Twitter». Как 
+произошедшего события: пояснила официальный представи-
+
+1. «Новость» преподносит как тель Министерства иностранных дел 
+новость правдивую информацию, России Мария Захарова, у Лаврова 
+имевшую место в прошлом. Таким нет аккаунта в Twitter. При этом рус-
+образом, например, в апреле 2016 г. скоязычный сайт телеканала фейк не 
+«воскресла» новость о дорожно- разместил. «Это даже не пропаган-
+транспортном происшествии с уча- да, это дезинформация. Возможная 
+стием автомобиля знаменитого те- цель — раскрутка фейкового ресур-
+леведущего Леонида Якубовича. Ин- са», — предположила М. Захарова, 
+формация об этом событии, которое указав, что на сайте МИД России 
+на самом деле произошло в 2011 г., размещен полный перечень офици-
+распространялась в качестве «ново- альных аккаунтов его загранучреж-
+сти» [22]. дений и руководства14.
+
+14 МИД вновь упрекнул Euronews в не-
+13 URL : https://www.youtube.com/ верной подаче информации [Электронный 
+
+watch?v=btFLSoAwG_E. ресурс]. URL : http://www.vedomosti.ru/
+
+158 ISSN 2308-6203
+
+
+
+Вопросы теории и практики журналистики. 2017. T. 6. № 2. С. 143–169
+
+2. «Новость» выставляет вто- Славянска16. В дальнейшем Первый 
+ростепенного участника события канал подчеркнул, что это был «рас-
+в качестве главного действующего сказ женщины, которой с детьми 
+лица. Например, на сайте управле- на руках удалось вырваться из-под 
+ния Следственного комитета России обстрелов»: «Она не прячет лицо, 
+по Иркутской области в конце 2016 г. называется настоящим именем — 
+появился текст под названием «Спа- Галина Пышняк, признается, что ее 
+сение детей от киберпреступлений», муж — ополченец… У журналистов 
+представляющий собой памятку для не было и нет доказательств этой 
+родителей по распознаванию призна- трагедии, но это реальный рассказ 
+ков вовлеченности ребенка в группы, реально существующей женщины, 
+склоняющие к суицидам, в социаль- бежавшей из ада в Славянске. То, о 
+ных сетях. Текст памятки был разра- чем она говорила, встало в один ряд, 
+ботан сотрудниками общественной звено в уже бесконечной цепочке 
+организации «Спасение детей от ки- свидетельств. О судьбах десятков 
+берпреступлений» (г. Рязань) и со- детей, разорванных снарядами, рас-
+держал странные для неподготовлен- стрелянных при попытке бежать, по-
+ного читателя признаки «вовлеченно- гибших при авианалетах и артобстре-
+сти» (цитирование стихов Есенина и лах». Несмотря на допущение канала, 
+Бродского, сохранение фотографий что «рассказ несчастной плачущей 
+с китами, котиками и т. п.). Иронич- беженки» мог быть «болезненной 
+ные материалы о размещении это- фантазией, страшнее которой ока-
+го текста на сайте Следственного залась реальная жизнь», отражен-
+управления СК РФ по Иркутской об- ная в кадрах хроники этой войны17, 
+ласти появились на сайтах Meduza15, оппозиционные СМИ получили воз-
+Snob [24] и многих других. При этом можность использовать выражение 
+лишь некоторые из них потрудились «распятый мальчик» для дискредита-
+указать источник происхождения па- ции темы о гибели мирного населе-
+мятки, остальные спокойно приписа- ния в ходе «антитеррористической 
+ли авторство Следственному управ- операции». 
+лению СК РФ по Иркутской области. 
+
+3. «Новость», основанная на не- IV. В зависимости от целей соз-
+проверенных показаниях лиц, якобы дания и распространения:
+являвшихся свидетелями каких-либо 1. «Новости», создаваемые и 
+событий. Одним из ярких примеров распространяемые с целью раз-
+подобной «новости» стала история влечения потребителя. Современ-
+о «распятом мальчике», рассказан- ная медиасреда включает в себя 
+ная Первому каналу беженкой из отдельную нишу информационных 
+
+ресурсов, созданных для производ-
+
+politics/news/2016/05/24/642163-mid- 16 URL : https://www.1tv.ru/
+vnov. news/ 2014/07/12/37175-bezhenka_
+
+15 Иркутский СК опубликовал инструк- i z _ s l a v y a n s k a _ v s p o m i n a e t _ k a k _ p r i _
+цию по спасению детей от интернета. Там ney_kaznil i_malenkogo_syna_i_zhenu_
+говорится, что смерть едет на единороге opolchentsa.
+в ад [Электронный ресурс]. URL : https:// 17 URL : https://www.1tv.ru/news/ 
+meduza.io/news/2016/12/24/irkutskiy-sk- 2014/12/21/31502-zhurnalisty_pervogo_
+opublikoval-instruktsiyu-po-spaseniyu-detey- otvechayut_na_obvineniya_vo_lzhi_v_
+ot-interneta-tam-govoritsya-chto-smert-edet- s v y a z i _ s _ s y u z h e t o m _ p r o _ u b i y s t v o _
+na-edinoroge-v-ad. rebenka_v_slavyanske.
+
+ISSN 2308-6203 159
+
+
+
+Theoretical and Practical Issues of Journalism, 2017, vol. 6, no. 2, pp. 143–169
+
+ства фейковых новостей. Одним из клеветнические истории, а во дво-
+самых популярных производителей рике Comet Ping Pong обнаружили 
+сатирических фейковых новостей женщин, которые искали секретные 
+в Америке является медиапроект The туннели по доставке детей для заня-
+Onion18. Запустив издание в качестве тий проституцией и проведения маги-
+пародийной газеты в студенческом ческих ритуалов. В декабре 2016 г. в 
+общежитии Висконсинского универ- Вашингтоне в одной из пиццерий этой 
+ситета в Медисоне, в 2001 г. редак- сети начал стрельбу 28-летний муж-
+ция The Onion переехала в Нью-Йорк чина. По словам очевидцев, он стре-
+и сосредоточила свои усилия в Ин- лял, утверждая, что хочет расследо-
+тернете. Печатное издание было вать так называемый Пицца-гейт22. 
+закрыто в 2013 г., и сегодня, кроме Примечательно, что после этого 
+сайта, The Onion выпускает видео- скандала Дональд Трамп, который и 
+новости, представленные на канале сам неоднократно становился объ-
+YouTube. Пародирующая телевиде- ектом фейковых новостей, уволил 
+ние интернет-сеть называется ONN одного из сотрудников своей пере-
+(Onion News Network) – по анало- ходной команды, Майкла Флинна — 
+гии с CNN. Помимо фейковых ново- младшего, позволявшего себе пи-
+стей, канал производит фейковые сать одобрительные твиты о «Пицца-
+ток-шоу, фейковые расследования и гейте»23.
+представляет обзоры новинок кино- 3. «Новости», создаваемые в це-
+индустрии, выполненные в характер- лях дискриминации лиц по признаку 
+ном для издания стиле [25]. В России пола, расы, национальности, языка, 
+на создании юмористических фей- происхождения, имущественного 
+ковых новостей специализируются и должностного положения, места 
+ресурсы FOGNEWS19, HOBOSTI20, жительства, отношения к религии, 
+FIBSTER21 и др. убеждений, принадлежности к об-
+
+2. «Новости», создаваемые и щественным объединениям, а также 
+распространяемые в целях дости- других обстоятельств. Наглядным 
+жения политических преимуществ: примером служат «новости инфор-
+дискредитации политических конку- мационных войн», которые ведутся 
+рентов (в том числе в ходе предвы- параллельно с реальными боевыми 
+борной борьбы), провоцирования действиями в горячих точках нашей 
+уличных беспорядков, насильствен- планеты.
+ной смены власти и т. д. Во время 4. «Новости», создаваемые и рас-
+предвыборной президентской гонки пространяемые в целях манипуляции 
+в США появились фейковые новости рынком или получения определен-
+о том, что Хиллари Клинтон и ее муж ных преимуществ в экономической 
+Билл через пиццерию Comet Ping деятельности. В ноябре 2016 г. на 
+Pong при попустительстве ее вла- 20 % (с потерей порядка 7 млрд евро 
+дельцев управляли преступным биз-
+несом по сексуальной эксплуатации 22 Желающий расследовать «Пицца-
+детей. В результате заведение стало гейт» вокруг Клинтон открыл огонь в пиц-
+получать тысячи угроз, в его адрес церии в Вашинтоне [Электронный ресурс]. 
+неделями распространялись новые URL : http://www.vedomosti.ru/politics/
+
+news/2016/12/05/668159-pitstsa-geit.
+18 URL : http://www.theonion.com. 23 Член переходной команды Трампа 
+19 URL : http://fognews.ru. уволен из-за ретвита слухов о Клинтон и пиц-
+20 URL : http://hobosti.ru. церии [Электронный ресурс]. URL : https://
+21 URL : http://fibster.ru. lenta.ru/news/2016/12/07/pizzagate.
+
+160 ISSN 2308-6203
+
+
+
+Вопросы теории и практики журналистики. 2017. T. 6. № 2. С. 143–169
+
+капитализации) рухнули акции фран- в реанимации, 2 погибли. Причина 
+цузской строительной компании Vinci того — китайские мандарины с веточ-
+SA. Это произошло после того, как ками!» «Информацию» непрерывно 
+сразу несколько финансовых СМИ опровергали медики инфекционных 
+опубликовали ложную новость об больниц в различных населенных 
+увольнении финансового директора пунктах24.
+фирмы. В поддельном пресс-релизе 6. «Новости», создаваемые и 
+сообщалось, что топ-менеджер уво- распространяемые с целью мошен-
+лен за ошибки в отчетности, которые нического завладения денежными 
+могли привести к завышению резуль- средствами и прочим имуществом 
+татов в 3,5 млрд евро. Релиз содер- потребителей. К разряду таких но-
+жал ссылку на сайт, имитирующий востей нередко относятся новости о 
+настоящий сайт компании. Также в сборе денег на лечение тяжелоболь-
+письме был поддельный номер теле- ных детей, которые на поверку ока-
+фона, принадлежащий якобы пресс- зываются недостоверными25. 
+секретарю Vinci Полю-Алексису 7. «Новости», создаваемые в це-
+Буке. На звонок журналистов Dow лях нанесения ущерба информации, 
+Jones Newswires ответил человек, хранящейся в компьютере пользова-
+представившийся Полем-Алексисом, теля. Так, под «новостью» о смерти 
+и подтвердил эту новость. Затем зло- знаменитого актера Бреда Питта, 
+умышленники опубликовали с того якобы исходящей от американского 
+же адреса частичное опровержение телеканала Fox News, был замаски-
+новости, что еще больше запутало рован вредоносный компьютерный 
+участников рынка. После закрытия вирус, который активировался при 
+торгов СМИ получили анонимное нажатии на это сообщение26. 
+письмо, автор которого назвал ме- 8. «Новости», создаваемые и рас-
+диаатаку местью за действия Vinci пространяемые с целью привлечения 
+в России и Франции, вызвавшие раз- внимания к отдельной личности, ком-
+рушение окружающей среды [26]. пании, проекту или движению. К при-
+
+5. «Новости», создаваемые и меру, среди российских подростков 
+распространяемые в целях повы- так в конце 2015 г. был «раскручен» 
+шения интернет-трафика. С много- образ нового «кумира» — девочки, 
+численными примерами подобных известной под интернет-мемом Рины 
+«новостей» постоянно сталкивают-
+ся пользователи социальных сетей, 24 Федосеенко В. Иркутяне отравились 
+а также мессенджеров типа Viber, «мандаринами с веточками»? Минздрав от-
+
+WatsApp и др. Информация о по- рицает [Электронный ресурс]. URL : http://
+
+терявшихся детях, домашних живот- newsbabr.com/irk/?IDE=153827 ; Слухи об 
+отравлении детей мандаринами добрались 
+
+ных, срочно необходимой для спасе- до Тюмени [Электронный ресурс]. URL : 
+ния жизни редкой группы крови и т. п. http://www.naurfo.ru/news/38194.
+распространяется по социальным 25 См., напр.: Мошенники собрали ре-
+сетям подобно вирусу, многократно кордные пожертвования под реальные исто-
+умножая доходы мобильных опера- рии болезни нуждающихся в лечении детей 
+торов за счет увеличения интернет- [Электронный ресурс]. URL : http://pravo.
+трафика. В преддверии Нового года ru/news/view/103023.
+
+26
+в социальных сетях по всей стране  Бред Питт умер. Почему не сто-
+
+ит смотреть такую новость в интернете 
+появилась новость следующего со- [Электронный ресурс]. URL : http://thejizn.
+держания: «Информация из нашей com/2016/09/28/brad-pitt-death-hoax-
+инфекционной больницы. 10 детей facebook.
+
+ISSN 2308-6203 161
+
+
+
+Theoretical and Practical Issues of Journalism, 2017, vol. 6, no. 2, pp. 143–169
+
+«Ня.Пока» [27]. 23 ноября 2015 г. кой критике за активное распростра-
+16-летняя Рина легла на железнодо- нение фейковых новостей о канди-
+рожное полотно в нескольких ме- датах Дональде Трампе и Хиллари 
+трах от движущегося в ее направле- Клинтон. Такие новости получали в 
+нии грузового поезда. Фото девочки Facebook больший охват, чем реаль-
+с отрезанной головой почти мгновен- ные новости The New York Times, The 
+но было выложено в Интернет. По- Washington Post, The Huffington Post 
+сле ажиотажа, вызванного смертью и др.27 Согласно исследованию Крей-
+Рины, в социальной сети «ВКонтакте» га Сильвермана (Craig Silverman), 
+был запущен слух, что девочка со- 20 самых популярных фейковых но-
+стояла в одной из групп, проводящих востей собрали в феврале — ноябре 
+с пользователями игру в так называе- 2016 г. около 8,7 млн перепостов, 
+мый суицидальный квест. В резуль- лайков и комментариев, а топ-20 
+тате многократно возрос спровоци- реальных новостей — 7,4 млн [31]. 
+рованный такой «новостью» интерес В числе прочего западные СМИ пи-
+к «игре» с трагическими последстви- сали о группах подростков из Ма-
+ями [28]. кедонии, зарабатывавших сотни ты-
+
+сяч долларов на создании фейковых 
+V. В зависимости от уровня вос- новостей об американской поли- 
+
+приятия достоверности: тике [32–33]. 
+1. «Новости», носящие явно фей- Результаты исследования Pew 
+
+ковый характер. Research Center показали, что аме-
+2. «Новости», способные вызвать риканцы признали фейковые новости 
+
+сомнение относительно их «фейко- реальной проблемой. Большинство 
+вости» и побудить потребителей про- опрошенных считают, что распро-
+верить полученную информацию. странение фейков сбивало людей с 
+
+3. «Новости», сфальсифициро- толку и мешало составлять представ-
+ванные столь убедительно, что со- ление о происходящем. Треть опро-
+мнений в их «фейковости» практиче- шенных заявили, что они лично виде-
+ски не возникает. ли онлайн фейковые новости. 71 % 
+
+Приведенный нами анализ воз- респондентов считают, что соцсети 
+можных классификаций фейковых и поисковые системы обязаны пре-
+новостей наглядно демонстрирует секать распространение фейков, а 
+опасность, которую представляет также что бороться с ними должны 
+собой этот медиафеномен в совре- и политики, и представители обще-
+менных условиях развития информа- ственности. Около 25 % опрошенных 
+ционных технологий. Образно гово- признались, что сами распространя-
+ря, неконтролируемое распростра- ли фейковые новости, а 14 % сказа-
+нение фейковых новостей способно ли, что делали это, хотя точно знали, 
+провоцировать своего рода «инфор- что это фейк [34]. 
+мационные теракты» огромной раз-
+рушительной силы. Осознание не- 27 Попутно отметим, что феномен фей-
+гативных аспектов этого явления по- ковых новостей нашел отражение даже в 
+буждает социальные и государствен- ироничном изменении наименования со-
+ные институты к поиску механизмов циальной сети Facebook. Так, издательство 
+
+фильтрации фейковых вбросов. Sourcebooks выпускает книгу Дейва Чичи-
+релли «ФЕЙКБУК. Реальная история, осно-
+
+Так, во время последней прези- ванная на настоящей лжи» [29], а газета 
+дентской кампании в США Facebook, «Ведомости» публикует материал под заго-
+Twitter и Google подверглись жест- ловком «Социальная сеть Fakebook» [30].
+
+162 ISSN 2308-6203
+
+
+
+Вопросы теории и практики журналистики. 2017. T. 6. № 2. С. 143–169
+
+Основатель Facebook Марк Цу- не будут своевременно удалять фей-
+керберг, изначально отрицавший ковые новости. В декабре правитель-
+возможность влияния фейковых но- ство Германии заявило, что начало 
+востей на исход американских выбо- разрабатывать законопроект, в слу-
+ров28, тем не менее, вынужден был чае принятия которого Facebook бу-
+признать наличие проблемы и пред- дут грозить такие штрафы за распро-
+ложил ряд мер по борьбе с фейко- странение фейковых новостей. Ми-
+выми новостями. Эта соцсеть, как и нистр юстиции Германии Хайко Маас 
+Google29, больше не будет делиться заявил, что фейковые новости несут 
+рекламными доходами с сайтами, угрозу культуре дискуссии в стране, 
+которые распространяют фейковые и предупредил, что в наиболее во-
+новости [35]. Десятки сотрудников пиющих случаях их распространите-
+Facebook были переведены из дру- лям будет грозить до пяти лет тюрь-
+гих проектов для срочного решения мы, но и сами соцсети должны нести 
+этой проблемы, решается вопрос об часть ответственности. Министр счи-
+использовании искусственного ин- тает, что лживые и возбуждающие 
+теллекта (artificial intelligence, AI) для ненависть новости должны удаляться 
+выявления фейковых новостей и сцен немедленно после поступления жа-
+насилия в прямых видеотрансляциях лобы31.
+[34]. Кроме того, Facebook решил Германия стала первой страной 
+привлечь к решению проблемы жур- после США, где Facebook запустит 
+налистов. Компания будет работать с в тестовом режиме систему выяв-
+новостными редакциями30 и органи- ления и маркировки фейковых ново-
+зует целую кампанию по обучению стей. Компания попытается взять под 
+пользователей тому, как отличить контроль возможный вброс новост-
+настоящие новости от фейков [37]. ных фальшивок в преддверии выбо-
+
+Глава фракции Социал-де мо кра- ров в бундестаг, которые намечены 
+ти ческой партии Германии Томас на сентябрь 2017 г. Германские поль-
+Опперманн счел эти меры недо- зователи смогут пожаловаться на 
+статочными и предложил штрафо- новость, которая им кажется сфаль-
+вать Facebook и другие платформы сифицированной. Жалоба будет на-
+на сумму до 500 тыс. евро, если они правлена независимому фактчеке-
+
+ру — Correctiv. Если там подтвердят, 
+28 Цукерберг назвал безумными обвине- что новость — фальшивка, она будет 
+
+ния Facebook в помощи Трампу [Электрон- маркирована как «спорная» и к ней 
+ный ресурс]. – URL : http://www.vedomosti. будет прилагаться разъяснение. В но-
+ru/politics/news/2016/11/11/664541- востных лентах пользователей такие 
+tsukerberg-bezumnimi.
+
+29 новости будут получать пониженный 
+ Google сообщил, что запретит рекла-
+
+мировать в своей системе Google AdSense приоритет, будут появляться ниже и 
+сайты, размещающие искаженную инфор- реже, чем обычно, а при попытке их 
+мацию и скрывающие имена своих вла- распространить пользователи будут 
+дельцев. получать предупреждение. 
+
+30 При этом правые уже начали жало- В меню Facebook появится воз-
+ваться, что Facebook договорился о фак- можность пожаловаться на предпо-
+тчекинге с левыми организациями. В част- ложительно фейковую новость. По 
+ности, главный редактор Daily Wire Бен 
+Шапиро заявил, что фактчекерами стали 31 В Германии могут начать штрафо-
+Politifact, Factcheck.org, Snopes, ABC news и вать Facebook [Электронный ресурс]. 
+Тhe Washington Post, все они имеют левый URL : https://ria.ru/world/20161216/ 
+уклон, и это бедствие для новостей [33]. 1483846152.html.
+
+ISSN 2308-6203 163
+
+
+
+Theoretical and Practical Issues of Journalism, 2017, vol. 6, no. 2, pp. 143–169
+
+таким сигналам соцсеть будет пере- ции» от 27 декабря 1991 г. № 2124-1 
+давать отмеченные новости на про- в качестве сетевых изданий, новост-
+верку в сторонние организации. Если ными агрегаторами не являются. 
+те подтвердят, что это фальшивка, Под новостной информацией по-
+новость получит отметку «спорная», нимается общедоступная информа-
+а также у нее появится линк на объяс- ция, полученная из средств массовой 
+нение, почему проверяющие пришли информации, зарегистрированных в 
+к такому выводу [38]. соответствии с Законом РФ «О сред-
+
+В России в рамках борьбы с не- ствах массовой информации», а так-
+достоверной информацией с 2017 г. же иных источников.
+вступил в силу Закон № 208-ФЗ, из- Владельцем новостного агрега-
+вестный в прессе как Закон «О но- тора может быть только российское 
+востных агрегаторах»32. Этим нор- юридическое лицо или гражданин 
+мативным актом в Закон «Об ин- Российской Федерации.
+формации, информационных тех- С принятием данного Закона вла-
+нологиях и о защите информации» дельцы новостных агрегаторов обя-
+включена статья 10.4. («Особенно- заны среди прочего:
+сти распространения информации 1) проверять достоверность рас-
+новостным агрегатором»). Данная пространяемых общественно значи-
+статья определяет новостной агрега- мых сведений до их распространения 
+тор как «программу для электронных и незамедлительно прекратить их 
+вычислительных машин, сайт и (или) распространение на основании пред-
+страницу сайта в сети «Интернет», писания уполномоченного органа;
+которые используются для обра- 2) не допускать использование но-
+ботки и распространения новостной востного агрегатора в целях сокры-
+информации в сети «Интернет» на тия или фальсификации обществен-
+государственном языке Российской но значимых сведений, распростра-
+Федерации, государственных язы- нения недостоверной общественно 
+ках республик в составе Российской значимой новостной информации 
+Федерации или иных языках народов под видом достоверных сообщений;
+Российской Федерации, на которых 3) соблюдать права и законные 
+может распространяться реклама, интересы граждан и организаций, в 
+направленная на привлечение внима- том числе честь, достоинство и де-
+ния потребителей, находящихся на ловую репутацию граждан, деловую 
+территории Российской Федерации, репутацию организаций;
+и доступ к которым в течение суток 4) хранить в течение шести меся-
+составляет более одного миллиона цев распространенную ими новост-
+пользователей сети «Интернет»». ную информацию, сведения об ис-
+Информационные ресурсы, которые точнике ее получения, а также све-
+зарегистрированы в соответствии дения о сроках ее распространения.
+с Законом Российской Федерации Владелец новостного агрегатора 
+«О средствах массовой информа- не несет ответственность за распро-
+
+странение им новостной информации 
+32 О внесении изменений в Федеральный в случае, если она является дослов-
+
+закон «Об информации, информационных ным воспроизведением сообщений 
+технологиях и о защите информации» и Ко- и материалов или их фрагментов, 
+декс Российской Федерации об администра-
+тивных правонарушениях : федер. закон от распространенных средством мас-
+23 июня 2016 г. № 208-ФЗ // Российская совой информации, которое может 
+газета. 2016. 28 июня. быть установлено и привлечено к от-
+
+164 ISSN 2308-6203
+
+
+
+Вопросы теории и практики журналистики. 2017. T. 6. № 2. С. 143–169
+
+ветственности за нарушение законо- что данный Закон является адекват-
+дательства Российской Федерации о ной предупредительной мерой на 
+средствах массовой информации. пути вбросов фейковых новостей за 
+
+В случае обнаружения на но- пределами социальных сетей, где 
+востном агрегаторе фактов фаль- эта проблема пока все еще остается 
+сификации общественно значимых нерешенной.
+сведений, распространения недо- Подводя итог, обозначим назрев-
+стоверной общественно значимой шую необходимость в разработке 
+новостной информации под видом комплекса мер, направленных на 
+достоверных сообщений, а также предупреждение распространения 
+распространения новостной инфор- фейковых новостей и нейтрализацию 
+мации с нарушением законодатель- последствий такого распростране-
+ства Российской Федерации уполно- ния. В этой связи отметим очевидную 
+моченные государственные органы необходимость доработки действую-
+вправе обратиться в Роскомнадзор с щей Доктрины информационной без-
+приложением решения суда или ре- опасности Российской Федерации35. 
+шения указанного государственного Доктрина содержит утверждение о 
+органа с требованием принять меры том, что «реализация национальных 
+по прекращению распространения интересов в информационной сфере 
+такой информации. Роскомнадзор направлена на формирование безо-
+в течение 24 часов с момента по- пасной среды оборота достоверной 
+лучения такого требования рассма- информации», но ни в одном поло-
+тривает его и направляет владельцу жении не развивает тезис о необхо-
+новостного агрегатора предписание димости защиты этой достоверной 
+о незамедлительном прекращении информации от информации фейко-
+запрещенной для распространения вой. Между тем «журналистика фак-
+информации. та» должна решительно выступить 
+
+Закон «О новостных агрегато- против «паражурналистики фейка», 
+рах» прежде всего затрагивает такие а для этого журналистскому сооб-
+ресурсы, как «Яндекс.Новости»33 ществу требуется не только адекват-
+и «Новости Google», которые ав- ный подход к трансляции новостей со 
+томатически собирают новостную стороны социальных сетей, но и взы-
+картину дня из публикаций избран- скательная читательская аудитория, 
+ных электронных изданий. Несмотря овладевшая хотя бы азами медиагра-
+на резкую критику представителей мотности. Честные журналисты нуж-
+интернет-бизнеса, уже побудившую ны не только президенту Америки — 
+Роскомнадзор выпустить «успокаи- в них нуждается все человечество.
+вающие» разъяснения34, полагаем, 
+
+ции, размещенной на сайтах, не являющихся 
+33 По данным TNS Web Index, на сен- СМИ [Электронный ресурс]. URL : https://
+
+тябрь 2016 г. аудитория «Яндекс.Ново- rkn.gov.ru/news/rsoc/news41987.htm.
+стей» насчитывала порядка 25 млн человек 35 Об утверждении Доктрины информа-
+(http://pravo.ru/news/view/134866). ционной безопасности Российской Федера-
+
+34 Разъяснения по вопросу распростра- ции : указ Президента РФ от 5 дек. 2016 г. 
+нения новостными агрегаторами информа- № 646 // СЗ РФ. 2016. № 50. Ст. 7074.
+
+REFERENCES
+1. Korkonosenko S. G. (ed.) Osnovy tvorcheskoi deyatel’nosti zhurnalista [Basics of Cre-
+
+ative Journalism]. St. Petersburg, Znanie Publ., Saint Petersburg Institute of Foreign Economic 
+Relations, Economics and Law Publ., 2000. 272 p.
+
+ISSN 2308-6203 165
+
+
+
+Theoretical and Practical Issues of Journalism, 2017, vol. 6, no. 2, pp. 143–169
+
+2. Repkova T. Novoe vremya: kak izdavat’ professional’nuyu gazetu v demokraticheskom 
+obshchestve [Modern Age: How To Publish A Professional Newspaper in a Democratic Society]. 
+Moscow, GIPP Publ., 2001. 468 p.
+
+3. Kolesnichenko A. V. Prakticheskaya zhurnalistika [Practical Journalism]. Moscow State 
+University, 2008. 180 p.
+
+4. Issers O. S. Mediafake: between truth and hoax. Kommunikativnye issledovaniya = Com-
+municative Studies, 2014, no. 2,  pp. 112–123. (In Russian).
+
+5. Ilchenko S. N. Fake journalism as an element of the contemporary show-civilization. Izvesti-
+ya Ural’skogo federal’nogo universiteta. Ser. 1, Problemy obrazovaniya, nauki i kul’tury = 
+Ural Federal University Journal. V.1, Issues in Education, Science and Culture, 2016, vol. 153, 
+no. 22-3, pp. 14–18. (In Russian).
+
+6. Nigmatullina K. R. The value of information as a subject of axiology of journalism. Vek infor-
+matsii = Information Age, 2016, no. 2, pp. 154. (In Russian).
+
+7. Dzhazoyan A. E. The fifth estate illusion: how social networks influence on journalism prac-
+tice. Uchenye zapiski Zabaikal’skogo gosudarstvennogo universiteta. Ser.: Filologiya, isto-
+riya, vostokovedenie = Transbaikal State University Journal. V. Philology, History, Oriental 
+Studies, 2014, no. 2, pp. 93–100. (In Russian).
+
+8. Amarasingam A. (ed.). The Stewart/Colbert effect: Essays on the real impacts of fake 
+news. McFarland, 2011. 197 p.
+
+9. Borden S. L., Tew C. The role of journalist and the performance of journalism: Ethical lessons 
+from «fake» news (seriously). Journal of Mass Media Ethics, 2007, vol. 22, no. 4, pp. 300–314.
+
+10. McBeth M. K., Clemons R. S. Is the Fake News the Real News? The Significance of Stew-
+art and Colbert on Democratic Discourse, Politics, and Policy, 2011. Available at: https://
+works.bepress.com/mark_mcbeth/37/
+
+11. Marchi R. With Facebook, blogs, and fake news, teens reject journalistic «objectivity». 
+Journal of Communication Inquiry, 2012, vol. 36, no. 3, pp. 246–262.
+
+12. Willingham E.  A Scientific Approach To Distinguishing Real From Fake News. Forbes 
+magazine, 2016, November 28.
+
+13. McEvers K. Stanford Study Finds Most Students Vulnerable To Fake News. Available at: 
+http://www.npr.org/2016/11/22/503052574/stanford-study-finds-most-students-vulnera-
+ble-to-fake-news. 
+
+14. Jaramillo С. How to break it to your friends and family that they’re sharing fake news. The 
+Dallas Morning News, 2016, November 15. 
+
+15. Vartanova E. L. On the Problem of Updating the Theory of Journalism and the Theory 
+of the Mass Media. Voprosy teorii i praktiki zhurnalistiki = Theoretical and Practical Issues of 
+Journalism, 2017, vol. 6, no. 1, pp. 5–13. DOI: 10.17150/2308-6203.2017.6(1).5-13. (In Rus-
+sian).
+
+16. Klishin I. Most Retweeted News: a New Level of Fake Propaganda. Vedomosti, 2014, 
+February 12. (In Russian).
+
+17. Randall D. The Universal Journalist: Expanded and Updated. Pluto Press, 2016. 292 p.
+18. Stekol’shchikova E. Will Women Be Made to Give Birth to Children or Go to the Army? 
+
+Komsomol’skaya pravda, 2012, August 22. (In Russian).
+19. Steere Т., Marsden S. Is this the moment a rebel stole plane victim’s ring? Outrage 
+
+as picture emerges showing militiaman rifling through MH17 wreckage. Available at: http://
+www.dailymail.co.uk/news/article-2700645/Is-moment-rebel-stole-plane-victims-ring-Out-
+rage-picture-emerges-militia-rifling-MH17-wreckage.html.
+
+20. Pyatnitskaya S., Novikova A. Churkin accused the Ukraine of Faking Facts on the Boeing 
+Crash. Komsomol’skaya pravda, 2014, July 22. 
+
+21. Pankin A. Journalists Go Marauding on the Boeing Wreckage. Komsomol’skaya pravda, 
+2014, July 22.
+
+22. Evtushenko A. Kazalos’ by, pri chem tut Yakubovich [What Does it Have to Do with 
+Yakubovich?]. Available at: https://www.gazeta.ru/tech/2016/04/19/8184167/shok-con-
+tent.shtml.
+
+23. Lisina Ya. Pol’zovatelyam «vaibera» v Irkutske rassylayut lozhnuyu informatsiya o pot-
+eryavsheisya na Postysheva devochke [Viber Users Get Sent Fake News on a Girl Lost on Posti-
+shev Street in Irkutsk]. Available at: http://www.irk.kp.ru/online/news/2280182.
+
+166 ISSN 2308-6203
+
+
+
+Вопросы теории и практики журналистики. 2017. T. 6. № 2. С. 143–169
+
+24. Vladimirova V. Instruktsiya irkutskogo SK o detskikh suitsidakh: vinovaty Brodskii, 
+Nike i kity [Irkutsk Investigation Committee Instruction on Children’s Suicide: Brodsky, Nike 
+and Whales are to Blame]. Available at: https://snob.ru/selected/entry/118603?utm_
+source=Viber&utm_medium=Chat&utm_campaign=Private.
+
+25. Karpov M. Sochnye lukovki. Kak glavnyi sait feikovykh novostei obmanyvaet ves’ mir 
+[Juicy Onions. How the Main Fake News Site Deceives the Whole World]. Available at: https://
+lenta.ru/articles/2016/09/17/theonion.
+
+26. Smirnov S. Kotirovki Vinci rukhnuli iz-za khorosho organizovannogo feika [Vinci Prices 
+Collapsed because of a Well-Organized Fake]. Available at: http://www.vedomosti.ru/busi-
+ness/articles/2016/11/23/666587-kotirovki-vinci.
+
+27. Kochegarov P. Nya. Ikona suitsida [Nia. A Suicide Icon]. Available at: https://life.ru/t
+/%D1%80%D0%B0%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0
+%D0%BD%D0%B8%D1%8F/412546/nia_ikona_suitsida.
+
+28. Mursalieva G. Suicidal Groups. Novaya gazeta, 2016, May 16. (In Russian).
+29. Chichirelli D. FEIKBUK. Real’naya istoriya, osnovannaya na nastoyashchei lzhi [Fake-
+
+book: a Real Story Based on a True Lie]. Moscow, AST Publ., 2013. 326 p.
+30. Boletskaya K. Fakebook, a Social Network. Vedomosti, 2016, December 2. Vedomosti, 
+
+2016, December 2.
+31. Silverman С. This Analysis Shows How Viral Fake Election News Stories Out-
+
+performed Real News On Facebook. Available at: https://www.buzzfeed.com/craig-
+silverman/viral-fake-election-news-outperformed-real-news-on-facebook?utm_term=.
+rczAw5q3q&utm_source=Quartz+Morning+Brief&utm_campaign=205085af14-EMAIL_
+CAMPAIGN_2016_11_19&utm_medium=email#.sxlBZnxvx].
+
+32. Tynan D. How Facebook powers money machines for obscure political ‘news’ sites — 
+From Macedonia to the San Francisco Bay, clickbait political sites are cashing in on Trumpmania — 
+and they’re getting a big boost from Facebook. The Guardian, 2016, August 24.
+
+33. Birn E. From Macedonia with a Fake. Vedomosti, 2016, December 19.
+34. Barthel M., Mitchell A., Holcomb J. Many Americans Believe Fake News Is Sowing Confu-
+
+sion. Pew Research Center, December, 2016.
+35. Raibman N. Facebook nachal bor’bu s feikovymi novostyami [Facebook Starts Tak-
+
+ing Measures Against Fake News]. Available at: http://www.vedomosti.ru/technology/
+articles/2016/12/16/669946-facebook-borbu.
+
+36. Condliffe J. Facebook’s Fake-News Ad Ban Is Not Enough. MIT Technology Review, 
+2016, November 15. 
+
+37. Golitsyna A. Zhurnalisty pomogut Facebook borot’sya s feikami [Journalists Will Help 
+Facebook Take Measures Against Fake News]. Available at: http://www.vedomosti.ru/tech-
+nology/articles/2017/01/11/672608-zhurnalisti-pomogut-facebook.
+
+38. Facebook rolls out fake-news filtering service to Germany. Financial Times, 2017, 
+January 15.
+
+СПИСОК ИСПОЛЬЗОВАННОЙ ЛИТЕРАТУРЫ
+1. Основы творческой деятельности журналиста : учебник для студентов вузов по спец. 
+
+«Журналистика» / ред.-сост. С. Г. Корконосенко. — СПб. : Знание, СПбИВЭСЭП, 2000. — 
+272 с.
+
+2. Репкова Т. Новое время: как издавать профессиональную газету в демократическом 
+обществе / Т. Репкова. — М. : ГИПП, 2001. — 468 c.
+
+3. Колесниченко А. В. Практическая журналистика : учеб. пособие / А. В. Колесничен-
+ко. — М. : Изд-во Моск. ун-та, 2008. — 180 c.
+
+4. Иссерс О. С. Медиафейки: между правдой и мистификацией / О. С. Иссерс // 
+Коммуникативные исследования. — 2014. — № 2.  — C. 112–123.
+
+5. Ильченко С. Н. Фейковая журналистика как элемент современной шоу-цивилизации / 
+С. Н. Ильченко // Известия Уральского федерального университета. Сер. 1 : Проблемы 
+образования, науки и культуры. — 2016. — Т. 153, № 22-3. — С. 14–18.
+
+6. Нигматуллина К. Р. Ценность информации как предмет аксиологии журналистики / 
+К. Р. Нигматуллина // Век информации. — 2016. — № 2. — С. 154–156.
+
+ISSN 2308-6203 167
+
+
+
+Theoretical and Practical Issues of Journalism, 2017, vol. 6, no. 2, pp. 143–169
+
+7. Джазоян А. Е. Иллюзия «пятой власти»: как социальные сети модернизируют журна-
+листику / А. Е. Джазоян // Ученые записки Забайкальского государственного университе-
+та. Сер.: Филология, история, востоковедение. — 2014. — № 2. — C. 93–100.
+
+8. Amarasingam A. (ed.). The Stewart/Colbert effect: Essays on the real impacts of fake 
+news. — McFarland, 2011. — 197 p.
+
+9. Borden S. L. The role of journalist and the performance of journalism: Ethical lessons from 
+«fake» news (seriously) / S. L. Borden, C. Tew // Journal of Mass Media Ethics. — 2007. — Vol. 
+22, no. 4. — Pp. 300–314.
+
+10. McBeth M. K. Is the Fake News the Real News? The Significance of Stewart and Colbert on 
+Democratic Discourse, Politics, and Policy [Electronic resource] / M. K. McBeth, R. S. Clemons. — 
+2011. — Mode of access: https://works.bepress.com/mark_mcbeth/37/
+
+11. Marchi R. With Facebook, blogs, and fake news, teens reject journalistic «objectivity» / 
+R. Marchi // Journal of Communication Inquiry. — 2012. — Vol. 36, № 3. — Pp. 246–262.
+
+12. Willingham E.  A Scientific Approach To Distinguishing Real From Fake News / 
+E. Willingham // Forbes magazine. — 2016. — November 28.
+
+13. McEvers K. Stanford Study Finds Most Students Vulnerable To Fake News [Electronic 
+resource] / K. McEvers. — Mode of access : http://www.npr.org/2016/11/22/503052574/
+stanford-study-finds-most-students-vulnerable-to-fake-news. 
+
+14. Jaramillo С. How to break it to your friends and family that they’re sharing fake news / 
+С. Jaramillo // The Dallas Morning News. — 2016. — November 15. 
+
+15. Вартанова Е. Л. К вопросу об актуализации теории журналистики и теории СМИ 
+/ Е. Л. Вартанова // Вопросы теории и практики журналистики. — 2017. — Т. 6, № 1. — 
+С. 5–13. — DOI: 10.17150/2308-6203.2017.6(1).5-13.
+
+16. Клишин И. Максимальный ретвит: Фейк-пропаганда на новом уровне / И. Кли-
+шин // Ведомости. — 2014. — 12 февр. 
+
+17. Randall D. The Universal Journalist: Expanded and Updated / D. Randall. — Pluto Press, 
+2016. — 292 p.
+
+18. Стекольщикова Е. Женщин заставят рожать или отправят в армию? / Е. Стекольщи-
+кова // Комсомольская правда. — 2012. — 22 авг.
+
+19. Steere Т. Is this the moment a rebel stole plane victim’s ring? Outrage as picture emerges 
+showing militiaman rifling through MH17 wreckage [Electronic resource] / Т. Steere, S. Marsden. — 
+Mode of access : http://www.dailymail.co.uk/news/article-2700645/Is-moment-rebel-stole-
+plane-victims-ring-Outrage-picture-emerges-militia-rifling-MH17-wreckage.html.
+
+20. Пятницкая С. Чуркин обвинил Украину в фальсификации данных о падении «Боин-
+га» / С. Пятницкая, А. Новикова // Комсомольская правда. — 2014. — 22 июля. 
+
+21. Панкин А. Журналисты мародерствуют на обломках «Боинга» / А. Панкин // Ком-
+сомольская правда. — 2014. — 22 июля.
+
+22. Евтушенко А. Казалось бы, при чем тут Якубович [Электронный ресурс] / А. Ев-
+тушенко. — Режим доступа : https://www.gazeta.ru/tech/2016/04/19/8184167/shok-
+content.shtml.
+
+23. Лисина Я. Пользователям «вайбера» в Иркутске рассылают ложную информация о 
+потерявшейся на Постышева девочке [Электронный ресурс] / Я. Лисина. — Режим досту-
+па : http://www.irk.kp.ru/online/news/2280182.
+
+24. Владимирова В. Инструкция иркутского СК о детских суицидах: виноваты Бродский, 
+Nike и киты [Электронный ресурс] / В. Владимирова. — Режим доступа : https://snob.ru/
+selected/entry/118603?utm_source=Viber&utm_medium=Chat&utm_campaign=Private.
+
+25. Карпов М. Сочные луковки. Как главный сайт фейковых новостей обманывает 
+весь мир [Электронный ресурс] / Михаил Карпов. — Режим доступа : https://lenta.ru/
+articles/2016/09/17/theonion.
+
+26. Смирнов С. Котировки Vinci рухнули из-за хорошо организованного фейка [Элек-
+тронный ресурс] / С. Смирнов. — Режим доступа : http://www.vedomosti.ru/business/
+articles/2016/11/23/666587-kotirovki-vinci.
+
+27. Кочегаров П. Ня. Икона суицида [Электронный ресурс]  / П. Кочегаров. — Режим 
+доступа : https://life.ru/t/%D1%80%D0%B0%D1%81%D1%81%D0%BB%D0%B5%D0%B4
+%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/412546/nia_ikona_suitsida.
+
+168 ISSN 2308-6203
+
+
+
+Вопросы теории и практики журналистики. 2017. T. 6. № 2. С. 143–169
+
+28. Мурсалиева Г. Группы смерти / Г. Мурсалиева // Новая газета. — 2016. — 
+16 мая.
+
+29. Чичирелли Д. ФЕЙКБУК. Реальная история, основанная на настоящей лжи / Д. Чичи-
+релли. — М. : АСТ, 2013. — 326 с.
+
+30. Болецкая К. Социальная сеть Fakebook / К. Болецкая // Ведомости. — 2016. — 
+2 дек.
+
+31. Silverman С. This Analysis Shows How Viral Fake Election News Stories Outperformed 
+Real News On Facebook [Electronic resource] / C. Silverman. — Mode of access : https://
+www.buzzfeed.com/craigsilverman/viral-fake-election-news-outperformed-real-news-
+on-facebook?utm_term=.rczAw5q3q&utm_source=Quartz+Morning+Brief&utm_
+campaign=205085af14-EMAIL_CAMPAIGN_2016_11_19&utm_medium=email#.sxlBZnxvx].
+
+32. Tynan D. How Facebook powers money machines for obscure political ‘news’ sites — 
+From Macedonia to the San Francisco Bay, clickbait political sites are cashing in on Trumpmania — 
+and they’re getting a big boost from Facebook / D. Tynan // The Guardian. — 2016. — 
+
+August 24.
+33. Бирн Э. Из Македонии — с фейком / Э. Бирн // Ведомости. — 2016. — 19 дек.
+34. Barthel M. Many Americans Believe Fake News Is Sowing Confusion / M. Barthel, 
+
+A. Mitchell, J. Holcomb. — Pew Research Center, December, 2016.
+35. Райбман Н. Facebook начал борьбу с фейковыми новостями / Н. Райбман 
+
+[Электронный ресурс]. — Режим доступа : http://www.vedomosti.ru/technology/
+articles/2016/12/16/669946-facebook-borbu.
+
+36. Condliffe J. Facebook’s Fake-News Ad Ban Is Not Enough / J. Condliffe // MIT 
+Technology Review. — 2016. — November, 15. 
+
+37. Голицына А. Журналисты помогут Facebook бороться с фейками [Электронный ре-
+сурс] / Анастасия Голицына. — Режим доступа : http://www.vedomosti.ru/technology/
+articles/2017/01/11/672608-zhurnalisti-pomogut-facebook.
+
+38. Facebook rolls out fake-news filtering service to Germany // Financial Times. — 2017. — 
+January, 15.
+
+REFERENCE TO ARTICLE
+Sukhodolov A. P., Bychkova A. M. Fake news as a modern media phenomenon: definition, 
+
+types, role of fake news and ways of taking measures against it. Voprosy teorii i praktiki zhur-
+nalistiki = Theoretical and Practical Issues of Journalism, 2017, vol. 6, no. 2, pp. 143–169. DOI: 
+10.17150/2308-6203.2017.6(2).143-169.
+
+БИБЛИОГРАФИЧЕСКОЕ ОПИСАНИЕ СТАТЬИ
+Суходолов А. П., Бычкова А. М. «Фейковые новости» как феномен современного 
+
+медиапространства: понятие, виды, назначение, меры противодействия / А. П. Суходолов, 
+А. М. Бычкова // Вопросы теории и практики журналистики. — 2017. — Т. 6, № 2. — 
+С. 143–169. DOI: 10.17150/2308-6203.2017.6(2).143-169.
+
+ISSN 2308-6203 169

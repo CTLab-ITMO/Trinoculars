@@ -1,0 +1,670 @@
+﻿МАТЕРИАЛОВЕДЕНИЕ ОБРАБОТКА  МЕТАЛЛОВ
+
+УДК 621.785.53:621.787.4
+
+ВЛИЯНИЕ НЕПРЕРЫВНОГО И ГАЗОЦИКЛИЧЕСКОГО ПЛАЗМЕННОГО 
+АЗОТИРОВАНИЯ НА КАЧЕСТВО НАНОСТРУКТУРИРОВАННОЙ 
+
+ПОВЕРХНОСТИ АУСТЕНИТНОЙ НЕРЖАВЕЮЩЕЙ СТАЛИ*
+А.В. МАКАРОВ1,2, доктор техн. наук, ст. науч. сотрудник,
+
+зав. отделом и лабораторией 
+Н.В. ГАВРИЛОВ3, член-корр. РАН, доктор техн. наук, 
+
+зав. лабораторией 
+Г.В. САМОЙЛОВА1, аспирант 
+А.С. МАМАЕВ3, канд. техн. наук, науч. сотрудник
+А.Л. ОСИНЦЕВА2, канд. техн. наук, ст. науч. сотрудник
+Р.А. САВРАЙ2, канд. техн. наук, зав. лабораторией
+(1ИФМ УрО РАН, г. Екатеринбург,
+2ИМАШ УрО РАН, г. Екатеринбург,
+3ИЭФ УрО РАН, г. Екатеринбург)
+
+Поступила 10 марта 2017
+Рецензирование 10 апреля 2017
+Принята к печати 10 мая 2017
+
+Макаров А.В. – 620990, г. Екатеринбург, ул. С. Ковалевской, 18,
+Институт физики металлов имени М.Н. Михеева УрО РАН, 
+
+e-mail: av-mak@yandex.ru
+
+Изучено влияние комбинированной обработки, включающей наноструктурирующую фрикционную об-
+работку скользящим индентором и последующее непрерывное и газоциклическое азотирование в плазме низ-
+коэнергетического электронного пучка при температурах 450 и 500 °С, на состояние поверхностного слоя 
+аустенитной стали AISI 321 (04Х17Н8Т). Особенностью непрерывного азотирования при высокой плотности 
+потока ионов азота на поверхность и температуре 500 °С диффузионно-активной наноструктурированной 
+поверхности со структурой a’ мартенсита деформации является интенсивное образование пор и блистеров. 
+Улучшение качества (уменьшение блистеринга, порообразования и шероховатости) азотированной поверх-
+ности стали, предварительно упрочненной фрикционной обработкой, достигается проведением азотирова-
+ния в газоциклическом режиме и снижением температуры азотирования от 500 до 450 °С. Однако газоцикли-
+ческое азотирование обеспечивает меньший уровень упрочнения наноструктурированной поверхности стали 
+по сравнению с непрерывным азотированием. 
+
+Ключевые слова: аустенитная нержавеющая сталь, фрикционная обработка, электронный пучок, плаз-
+ма, газоциклическое азотирование, мартенсит деформации, микротвердость, шероховатость, поры. 
+
+DOI: 10.17212/1994-6309-2017-2-55–66
+
+_______________
+* Работа выполнена по теме «Структура» № 01201463331 (проект № 15-9-12-45) при поддержке РФФИ 
+
+(проект № 15-08-07947). Электронная сканирующая микроскопия, профилометрия и микродюрометрия вы-
+полнены в ЦКП «Пластометрия» ИМАШ УрО РАН.
+
+№ 2 (75) 2017 55
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+Введение фологии поверхности, на которой наблюдается 
+большое количество дефектов, образованных 
+
+Азотирование позволяет эффективно повы- вследствие пластической деформации сдвига [5, 
+шать твердость, износостойкость, усталостную 6]. Величина параметра шероховатости Ra воз-
+прочность и коррозионную стойкость термиче- растает с увеличением температуры обработки и 
+ски неупрочняемых аустенитных хромоникеле- может превышать 0,7 мкм [5], что неприемлемо 
+вых сталей [1], которые находят широкое при- в случае применения азотирования на финиш-
+менение в нефтегазовой, химической и других ном этапе обработки. 
+отраслях промышленности. Уменьшение исходного размера зерен спо-
+
+Скорость роста упрочненных слоев опреде- собствует формированию поверхности с мень-
+ляется не только плотностью потока активных шей шероховатостью. Кардинальное снижение 
+частиц (молекул и атомов азота в возбужденном размера зерна нержавеющей стали (c 5…50 мкм 
+и ионизованном состоянии), поступающих на до 100 нм) обеспечивается наноструктурирую-
+поверхность азотируемых изделий, но и скоро- щей деформационной обработкой (НДО) поверх-
+стью диффузии атомарного азота в объем мате- ности методом SMAT (surface mechanical attrition 
+риала, зависящей от температуры, элементного treatment) [7]. Кроме того, нанокристаллические 
+и фазового состава материала, а также от спосо- материалы с большой протяженностью межзе-
+ба предварительной обработки поверхности [2]. ренных границ обладают повышенными коэф-
+
+Высокие концентрации активных частиц азо- фициентами диффузии азота [8, 9]. Это позво-
+та могут быть достигнуты в результате повыше- ляет увеличить скорость роста азотированного 
+ния интенсивности плазмохимических процес- слоя на предварительно наноструктурированной 
+сов при генерации плазмы с высокой плотностью поверхности [10, 11]. В метастабильных сталях 
+заряженных частиц. Одним из способов генера- НДО приводит также к образованию мартенсит-
+ции плазмы с плотностью 109…1012 см–3 являет- ной фазы с более высоким коэффициентом диф-
+ся применение низкоэнергетического (до 1 кэВ) фузии азота, чем у плотно упакованной γ-фазы 
+электронного пучка, который характеризуется [12]. При этом НДО снижает коэффициент тре-
+меньшим уровнем потерь энергии на нагрев ния и повышает износостойкость азотированной 
+электронов и на возбуждение нейтралов по срав- поверхности железа [13]. 
+нению с газовым разрядом [3]. Наряду с эффек- Практически значимыми способами НДО 
+тивной генерацией плазмы электронный пучок являются наноструктурирующие фрикционные 
+может одновременно производить нагрев изде- обработки, обеспечивающие одновременно эф-
+лий, причем регулированием параметров пучка фективное деформационное упрочнение, повы-
+и отрицательного потенциала погруженных в шение трибологических свойств аустенитных 
+плазму изделий можно изменять температуру хромоникелевых сталей и формирование каче-
+изделий без использования дополнительного ственных поверхностей с низкой шероховато-
+внешнего нагрева. Так, применение широкого стью [14–18]. Таким образом, сочетание НДО 
+(80 см2) пучка электронов с энергией до 500 эВ методом фрикционной обработки с последую-
+обеспечило высокую (до 6 мА/см2) плотность щим ионно-плазменным азотированием может 
+ионного тока на поверхности аустенитной не- создать условия для ускоренного формирования 
+ржавеющей стали и формирование упрочнен- упрочненных слоев с большей чем при азотиро-
+ных слоев толщиной до 33 мкм за один час при вании без НДО толщиной и твердостью, однако 
+давлении газовой смеси 3 Па (Ar:N2 = 1:1) и тем- шероховатость поверхности при этом будет за-
+пературе обработки 500 °С [4]. висеть от режимов плазменного азотирования. 
+
+К недостаткам ионно-плазменного азотиро- В частности, известно, что снижение шерохова-
+вания можно отнести рост средней величины тости азотированной поверхности аустенитной 
+микронеоднородностей на поверхности нержа- стали, не подвергавшейся НДО, достигается 
+веющей стали, который обусловлен высокой применением метода газоциклического азотиро-
+концентрацией внедренного азота и появлением вания в плазме электронного пучка [19].
+фаз с увеличенным параметром решетки. Это Цель настоящей работы – исследование вли-
+приводит к формированию своеобразной мор- яния комбинированной обработки, включающей 
+
+56 № 2 (75) 2017
+
+
+
+МАТЕРИАЛОВЕДЕНИЕ ОБРАБОТКА  МЕТАЛЛОВ
+
+наноструктурирующую фрикционную обработ- Схема лабораторной установки для азо-
+ку скользящим индентором и последующее не- тирования представлена на рис. 2. Источник 
+прерывное и газоциклическое азотирование в электронов с плазменным катодом на основе 
+плазме электронного пучка при температурах тлеющего разряда низкого давления, аналогич-
+450 и 500 °С, на упрочнение и качество поверх- ный описанному в [20], электродная система 
+ности аустенитной стали AISI 321 (04Х17Н8Т). которого состоит из полого катода 1 и полого 
+
+анода 2, применяли для генерации плазмы в объ-
+Методика экспериментального  еме вакуумной камеры. Ускоряющее напряжение 
+
+исследования Uа = 120 В прикладывали между сеткой 3 и за-
+земленными стенками рабочей камеры 4. Пу-
+
+Исследовали коррозионностойкую аустенит- чок электронов 5 круглого сечения площадью 
+ную сталь 04Х17Н8Т (аналог AISI 321) состава в 80 см2 формировался в двойном слое простран-
+масс. %: 0,04С; 16,77Cr; 8,44Ni; 1,15Mn; 0,67Si; ственного заряда, образующемся вблизи сет-
+0,32Ti; 0,31Cu; 0,26Mo; 0,12Co; 0,12V; 0,04P; ки. Держатель образцов 6, к которому прикла-
+0,03Nb; 0,005S. Образцы размером 40×20×10 мм дывали отрицательное напряжение смещения 
+вырезали из листовой стали методом электро- Ub = 120…200 В, был установлен на расстоянии 
+искровой резки и подвергали закалке от 1100 °С с 150 мм от сетки. Температуру образцов 7 изме-
+охлаждением в воде, механическому шлифо- ряли термопарой. Камера откачивалась турбо-
+ванию, электролитическому полированию и молекулярным насосом nEXT240 (Edwards) до 
+фрикционной обработке. Фрикционную обра- давления 2×10−2 Па. Двухканальная система на-
+ботку проводили скользящим индентором из пуска газа (Bronkhorst) обеспечивала регулиру-
+синтетического алмаза с радиусом полусферы емую подачу газов в камеру через электродную 
+R = 3 мм в безокислительной среде аргона систему электронного источника. Давление сме-
+(рис. 1) при технологических условиях, ис- си аргона с азотом (Ar/N2 = 1/1) составляло 3 Па. 
+ключающих значительный фрикционный на- Использовали азот особой чистоты (99,999 %) и 
+грев обрабатываемой поверхности: нагрузка аргон высокой чистоты (99,998 %).
+на индентор Р = 294 Н, одиночное сканирова- На начальном этапе образцы подвергали 
+ние индентором при смещении на 0,02 мм на ионному распылению в течение 30 мин в арго-
+каждый двойной ход возвратно-поступатель- новой плазме потоком ионов с плотностью тока 
+ного движения. Далее образцы подвергали 1…2 мА/см2 и энергией 200…500 эВ, для того 
+химической очистке в ультразвуковой ванне в чтобы удалить с поверхности нержавеющей 
+ацетоне в течение 10 мин и помещали в ваку- стали оксидные пленки, которые препятству-
+умную камеру для последующей ионно-плаз-
+менной обработки. 
+
+Рис. 1. Схема фрикционной обработки 
+образца полусферическим индентором Рис. 2. Схема установки  
+
+в среде аргона для азотирования
+
+№ 2 (75) 2017 57
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+ют диффузии азота в объем материала, а также ческом профилометре Wyko NT-1100. Микро-
+обеспечить нагрев образцов до температуры твердость поверхности образцов измеряли на 
+450…500 °С. приборе SHIMADZU HMV-G21DT при нагруз-
+
+Азотирование проводили в двух режимах: не- ке 0,245 Н. Фазовый состав образов определяли 
+прерывном и газоциклическом. В непрерывном на рентгеновском дифрактометре SHIMADZU 
+режиме азотирования в течение всей длительно- XRD-7000 в Crka-излучении. 
+сти процесса (4 ч) в камеру подавалась смесь ар-
+гона и азота. При газоциклическом азотировании Результаты и обсуждение
+процесс состоял из восьми чередующихся полу-
+циклов азотирования и деазотирования длитель- Исследования на электронном сканирующем 
+ностью по 30 мин каждый. В первом полуцикле микроскопе показывают, что в результате непре-
+в камеру подавали смесь аргона и азота (ана- рывного азотирования при ТА = 500 ºС на поверх-
+логично непрерывному режиму азотирования), ности закаленной стали происходит деформация 
+а во втором полуцикле подача азота прекраща- («вспучивание», развороты) крупных зерен и 
+лась. Деазотирование проводили в среде аргона субзерен (рис. 3, а) вследствие образования пре-
+при давлении 1,5 Па. Поддержание постоянной имущественно по их границам большого коли-
+температуры образцов на уровне 450 или 500 °С чества нитридных фаз. Согласно данным опти-
+и удаление постоянно образующихся на поверх- ческой профилометрии азотирование повышает 
+ности стали оксидных слоев обеспечивалось шероховатость поверхности крупнокристалли-
+бомбардировкой поверхности ионами, ускорен- ческих образцов. Если после электролитическо-
+ными до энергии 120 эВ (во время азотирования) го полирования среднеарифметическое отклоне-
+или 200 эВ (во время деазотирования), при токе ние профиля Ra составляло 0,08 мкм, то после 
+электронного пучка 3…4 А и плотности ионного азотирования при ТА = 500 ºС параметр Ra воз-
+тока на поверхности образцов 2…4 мА/см2 соот- растает на порядок – до 0,80 мкм (рис. 3, б). Одна-
+ветственно. ко на азотированной поверхности не появляются 
+
+Исследование поверхностей осуществля- дефекты сплошности в виде надрывов металла, 
+ли на электронном сканирующем микроскопе трещин или пор (см. рис. 3).
+Tescan VEGA II XMU. Расчет площадей, за- Фрикционная обработка скользящими ин-
+нимаемых порами и блистерами, видимыми на денторами формирует в поверхностном слое 
+SEM-изображениях, производили с помощью аустенитных хромоникелевых сталей нанокри-
+программного комплекса ImageJ 1.50i. Шерохо- сталллические и субмикрокристаллические 
+ватость поверхности образцов изучали на опти- структуры [14–18]. По данным рентгенострук-
+
+Рис. 3. Изображение на электронном сканирующем микроскопе (а) и трехмерная профилограмма (б) 
+поверхности закаленной крупнокристаллической стали 04Х17Н8Т после электрополировки и непре-
+
+рывного азотирования в плазме электронного пучка при ТА = 500 ºС
+
+58 № 2 (75) 2017
+
+
+
+МАТЕРИАЛОВЕДЕНИЕ ОБРАБОТКА  МЕТАЛЛОВ
+
+турного анализа (рис. 4, а) фрикционная обра-
+ботка аустенитной стали 04Х17Н8Т приводит к 
+возникновению на поверхности 95 об. % a’ мар-
+тенсита деформации и росту микротвердости до 
+780 HV0,025 (при исходной твердости закален-
+ной электрополированной стали 190 HV0,025). 
+После фрикционной обработки и непрерывного 
+азотирования при ТА = 500 и 450 ºС основными 
+фазами поверхностных слоев стали являются ε–
+фаза Fe2-3N, γ’ − фаза, соответствующая твердо-
+му раствору на базе нитрида Fe4N, а также вклю-
+чения нитрида хрома CrN (рис. 4, б, в).
+
+Рис. 5. Блистеры и поры на поверхно-
+сти стали 04Х17Н8Т после фрикци-
+онной обработки с последующим не-
+прерывным азотированием в плазме 
+электронного пучка при температуре 
+ТА = 500 ºС (электронная сканирующая 
+
+микроскопия)
+
+рованную поверхность. Различия в коэффици-
+енте диффузии азота в наноструктурированном 
+слое и в объеме металла приводят к накопле-
+нию азота в приповерхностном слое небольшой 
+толщины. Этому способствует также наличие в 
+слое структуры a’ мартенсита деформации с ме-
+нее плотно упакованной ОЦК-кристаллической 
+решеткой по сравнению в ГЦК-решеткой аусте-
+нита [12]. Высокие концентрации азота, превы-
+шающие предел растворимости азота в метал-
+ле, приводят к формированию в поверхностном 
+слое стали повышенного количества ɛ-фазы и 
+
+Рис. 4. Рентгеновские дифрактограммы по- большой концентрации газообразного азота, 
+верхности стали 04Х17Н8Т после закалки, скопления которого приводят к образованию 
+фрикционной обработки (а) и последую- пор, крупных блистеров и разрывам металла 
+щего непрерывного азотирования в плаз- приповерхностного слоя (на рис. 5 стрелкой 
+ме электронного пучка при ТА = 500 ºС (б) указана обусловленная блистерингом микро-
+
+и 450 ºС (в) трещина). 
+Подобный эффект образования в приповерх-
+
+На рис. 5 и 6, а, б показано, что после непре- ностном слое газовых полостей отмечается и при 
+рывного азотирования при температуре 500 °С имплантации больших доз ионов инертного газа 
+на поверхности деформированной фрикцион- (гелия или аргона), обладающих высокой энер-
+ной обработкой стали возникают многочислен- гией (десятки-сотни килоэлектронвольт) в метал-
+ные поры и блистеры. Выраженный блистеринг лические поверхности. В частности, блистеринг 
+проявляется в образовании на поверхности наблюдался в нержавеющей аустенитной стали 
+вспучиваний металла. Возникновение наблюда- 12Х18Н10Т, предварительно облученной низко-
+емых дефектов поверхности можно объяснить энергетическими альфа-частицами (Е = 40 кэВ) 
+ускоренной диффузией азота в наноструктури- до высоких (2·1018 см–2) флюенсов [21].
+
+№ 2 (75) 2017 59
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+                                   а                                                                                                    б 
+
+                                   в                                                                                                    г 
+
+Рис. 6. Изображения на электронном сканирующем микроскопе (а, в) и трехмерные профилограммы (б, г) 
+поверхности стали 04Х17Н8Т после фрикционной обработки с последующим непрерывным азотировани-
+
+ем в плазме электронного пучка при температурах ТА = 500 ºС (а, б) и ТА = 450 ºС (в, г)
+
+Схожий механизм образования блистеров не только повышает шероховатость нанострукту-
+был обнаружен в работе [22], где в результате рированной поверхности до Ra = 0,64 мкм после 
+высокотемпературного окисления на поверхно- азотирования при ТА = 500 ºС (см. рис. 6, б), но 
+сти азотированного слоя формировалась оксид- и ослабляет металл поверхностного слоя, вносит 
+ная пленка, которая препятствовала выходу азота в него значительную поврежденность. Поэтому 
+из объема металла в атмосферу. Таким образом, поиск путей устранения блистеринга и порообра-
+под поверхностью растущей оксидной пленки зования при азотировании в плазме электронного 
+формировались пузыри из газообразного азо- пучка диффузионно активных наноструктуриро-
+та. Согласно [23] вспучивание слоя, вызванное ванных поверхностей является первоочередной 
+большой концентрацией азота и образованием по- задачей.
+вышенного количества ε-фазы, обусловливает его Для решения проблемы блистеринга при 
+выкрашивание при последующей механической азотировании поверхности аустенитной стали 
+обработке, что должно негативно сказаться на из- 04Х17Н8Т, подвергнутой фрикционной обра-
+носостойкости упрочненного слоя. Блистеринг ботке, применялись два способа. Первый – это 
+
+60 № 2 (75) 2017
+
+
+
+МАТЕРИАЛОВЕДЕНИЕ ОБРАБОТКА  МЕТАЛЛОВ
+
+снижение температуры обработки. Результаты, тированном слое в результате диффузии азота в 
+представленные на рис. 6 и в табл. 1, показы- объем металла и выхода азота на поверхность на 
+вают, что при уменьшении температуры азоти- этапе деазотирования [24]. В работе [19] было 
+рования от 500 до 450 °С размер и количество исследовано влияние газоциклического азотиро-
+блистеров и открытых пор заметно снижается. вания на изменение рельефа поверхности неде-
+Уменьшается также параметр шероховатости азо- формированной крупнокристаллической аусте-
+тированной поверхности до Ra = 0,36 мкм для нитной стали и показано, что периодическое 
+ТА = 450 °С (табл. 2). Однако, как известно, сниже- снижение насыщающей способности среды, ко-
+ние температуры обработки существенно умень- торое достигается за счет прекращения подачи 
+шает скорость роста упрочненных слоев [5]. азота в рабочую камеру, позволяет существенно 
+
+Другой способ устранения блистеринга и снизить величину Ra. Однако в сравнении с не-
+порообразования состоял в применении газо- прерывным режимом азотирования (НА) при 
+циклического азотирования (ГЦА), обеспечи- одинаковых значениях температуры и времени 
+вающего снижение концентрации азота в азо- обработки режим ГЦА обеспечивает формиро-
+
+вание упрочненных слоев с меньшей толщиной 
+и микротвердостью [19].
+
+Т а б л и ц а  1 Результаты, представленные на 
+Характеристики блистеров и пор на поверхности стали рис. 7 и в табл. 1 и 2, свидетельству-
+04Х17Н8Т после фрикционной обработки (ФО) с последую- ют, что режим газоциклического азо-
+щим непрерывным азотированием (НА) и газоциклическим тирования наноструктурированной 
+
+азотированием (ГЦА) фрикционной обработкой поверхно-
+Обработка ТА, оС S сти обеспечивает по сравнению с ре-
+
+b, мкм2 Sba, % Sp, мкм2 Spа, % жимом непрерывного азотирования 
+ФО + НА 500 80 7,2 3 3,7 снижение параметра шероховато-
+ФО + НА 450 15 5,3 1 0,3 сти Ra (в 1,35 раза для температуры 
+ФО + ГЦА 500 0 0 2 1,3 азотирования ТА = 500 °С), при этом 
+ФО + ГЦА 450 0 0 1 0,03 блистеры исчезают полностью, а ко-
+
+Обозначения: личество пор снижается в 3…10 раз. 
+Т Анализ полученных электронной 
+
+А – температура азотирования;
+Sb – средняя площадь поверхности, занимаемая одним блистером; сканирующей микроскопией изобра-
+Sba – площадь поверхности, занимаемая блистерами; жений поверхности с помощью про-
+Sp – средняя площадь поверхности, занимаемая одной порой; граммного комплекса ImageJ 1.50i 
+Spa – площадь поверхности, занимаемая порами. показал, что площадь поверхности, 
+
+занимаемая порами, снизилась с 3,7 
+до 1,3 % для ТА = 500 °С и с 0,3 до 0,03 % для 
+
+Т а б л и ц а  2 ТА = 450°С (см. табл. 1). 
+Влияние фрикционной обработки (ФО) и по- Согласно данным табл. 2 после газоци-
+следующего непрерывного азотирования (НА) клического азотирования на наноструктури-
+и газоциклического азотирования (ГЦА) рованной фрикционной обработкой поверх-
+при температурах ТА на параметр шероховато- ности стали достигается меньший уровень 
+сти Ra и микротвердость HV0,025 поверхности микротвердости (1160…1200 HV0,025), чем 
+
+стали 04Х17Н8Т после непрерывного азотирования (1370… 
+1450 HV0,025). Это указывает на более низкую 
+
+Обработка TА, oC Ra, мкм HV0,025 концентрацию азота в приповерхностном слое 
+ФО – 0,10 780 после газоциклического азотирования. Тем не 
+ФО + НА 500 0,64 1370 менее полученный в режиме ГЦА «понижен-
+ФО + НА 450 0,36 1450 ный» уровень микротвердости превосходит 
+
+твердость исходной закаленной стали в 6 раз, а 
+ФО + ГЦА 500 0,46 1160 стали, подвергнутой только фрикционной об-
+ФО + ГЦА 450 0,32 1200 работке, в 1,5 раза.
+
+№ 2 (75) 2017 61
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+                              а                                                                               б
+
+                              в                                                                               г
+
+Рис. 7. Изображения на электронном сканирующем микроскопе (а, в) и трехмерные профило-
+граммы (б, г) поверхности стали 04Х17Н8Т после фрикционной обработки с последующим га-
+зоциклическим азотированием в плазме электронного пучка при температурах ТА = 500 ºС (а, б) 
+
+и ТА = 450 ºС (в, г)
+
+Выводы 2. Улучшение качества поверхности азотиро-
+ванной стали, упрочненной фрикционной обра-
+
+1. После непрерывного азотирования в плаз- боткой (уменьшение блистеринга, порообразова-
+ме низкоэнергетического электронного пучка ния и шероховатости), достигается проведением 
+при температуре 500 °С на поверхности мета- газоциклического азотирования, включающего 
+стабильной аустенитной стали 04Х17Н8Т, под- чередующиеся полуциклы азотирования в смеси 
+вергнутой наноструктурирующей фрикционной аргона и азота и деазотирования (без подачи азо-
+обработке, наблюдается порообразование и вы- та), а также снижением температуры азотирова-
+раженный блистеринг, который проявляется ния от 500 до 450°С.
+в возникновении многочисленных вспучива- 3. Микротвердость стали с наноструктуриро-
+ний на поверхности металла. Это является, по- ванной поверхностью после газоциклического 
+видимому, следствием ускоренной диффузии азотирования составляет (1160…1200 HV0,025), 
+азота в наноструктурированную поверхность со что ниже, чем после непрерывного азотирования 
+структурой a’ мартенсита деформации. При азо- (1370…1450 HV0,025).
+тировании крупнокристаллической стали такой 
+эффект отсутствует.
+
+62 № 2 (75) 2017
+
+
+
+МАТЕРИАЛОВЕДЕНИЕ ОБРАБОТКА  МЕТАЛЛОВ
+
+Список литературы 12. Plasma nitriding of AISI 304 stainless steel: 
+role of surface mechanical attrition treatment / T. Bal-
+
+1. Rolinski E. Plasma-assisted nitriding and nitrocar- usamy, T.S.N.S. Narayanan, K. Ravichandran, I.S. Park, 
+burizing of steel and other ferrous alloys // Thermochem- M.H. Lee // Materials Characterization. – 2013. – 
+ical Surface Engineering of Steels: Improving Materials Vol. 85. – P. 38–47. – doi: 10.1016/j.matchar.2013.08.009.
+Performance. – 2015. – P. 413–457. 13. Study on wear and friction resistance of nano-
+
+2. Role of surface mechanical attrition treatment and crystalline Fe nitrided at low temperature / W.P. Tong, 
+chemical etching on plasma nitriding behavior of AISI J. Sun, L. Zuo, J.C. He, J. Lu // Wear. – 2011. – Vol. 271, 
+304L steel / A.M. Gatey, S.S. Hosmani, C.A. Figueroa, iss. 5–6. – P. 653–657. – doi: 10.1016/j.wear.2010.11.024.
+S.B. Arya, R.P. Singh // Surface and Coatings Technol- 14. Baraz V.R., Kartak B.R., Mineeva O.N. Special 
+ogy. – 2016. – Vol. 304. – P. 413–424. features of friction hardening of austenitic steel with 
+
+3. Leonhardt D., Walton S.G., Fernsler R.F. Fun- unstable γ-phase // Metal science and Heat Treatment. – 
+damentals and applications of a plasma-processing 2011. – Vol. 52, iss. 9. – P. 473–475. – doi: 10.1007/
+system based on electron-beam ionization // Phys- s11041-010-9302-x.
+ics of Plasmas. – 2007. – Vol. 14. – P. 057103. – doi: 15. Повышение трибологических свойств аусте-
+10.1063/1.2712424. нитной стали 12Х18Н10Т наноструктурирующей 
+
+4. Gavrilov N.V., Menshakov A.I. Effect of the elec- фрикционной обработкой / А.В. Макаров, П.А. Ско-
+tron beam and ion flux parameters on the rate of plasma рынина, А.Л. Осинцева, А.С. Юровских, Р.А. Сав-
+nitriding of an austenitic stainless steel // Technical Phys- рай // Обработка металлов (технология, оборудова-
+ics. – 2012. – Vol. 57, iss. 3. – P. 399–404. – doi: 10.1134/ ние, инструменты). – 2015. – № 4 (69). – С. 80–92.  
+S1063784212030073. doi: 10.17212/1994-6309-2015-4-80-92.
+
+5. Glow-discharge nitriding of AISI 316L austen- 16. Baraz V.R., Fedorenko O.N. Special features of 
+itic stainless steel: influence of treatment temperature / friction treatment of steels of the spring class // Metal 
+F. Borgioli, A. Fossati, E. Galvanetto, T. Bacci // Surface Science and Heat Treatment. – 2016. – Vol. 57, iss. 11. – 
+and Coatings Technology. – 2005. – Vol. 200, iss. 7. – P. 652–655. – doi: 10.1007/s11041-016-9937-3.
+P. 2474–2480. – doi: 10.1016/j.surfcoat.2004.07.110. 17. Eddy-current control of the phase composition 
+
+6. Plasma nitriding of 316L austenitic stainless steel: and hardness of metastable austenitic steel after dif-
+Experimental investigation of fatigue life and surface ferent regimes of nanostructuring frictional treatment / 
+evolution / J.C. Stinville, P. Villechaise, C. Templier, A.V. Makarov, E.S. Gorkunov, P.A. Skorynina, L.Kh. Ko-
+J.P. Riviere, M. Drouet // Surface and Coatings Technol- gan, A.S. Yurovskikh, A.L. Osintseva // Russian Journal 
+ogy. – 2010. – Vol. 204, iss. 12–13. – P. 1947–1951. – of Nondestructive Testing. – 2016. – Vol. 52, iss. 11. – 
+doi: 10.1016/j.surfcoat.2009.09.052. P. 627–637. – doi: 10.1134/S1061830916110048.
+
+7. Surface nanocrystallization by surface mechanical 18. Наноструктурирующие комбинированные 
+attrition treatment and its effect on structure and proper- фрикционно-термические обработки аустенитной 
+ties of plasma nitrided AISI 321 stainless steel / Y. Lin, стали 12Х18Н10Т / А.В. Макаров, П.А. Скорынина, 
+J. Lu, L. Wang, T. Xu, Q. Xue // Acta Materialia. – Е.Г. Волкова, А.Л. Осинцева // Вектор науки Тольят-
+2006. – Vol. 54, iss. 20. – P. 5599–5605. – doi: 10.1016/j. тинского государственного университета. – 2016. – 
+actamat.2006.08.014. № 4 (38). – С. 30–37. – doi: 10.18323/2073-5073-2016-
+
+8. Gleiter H. Nanocrystalline materials // Progress 4-30-37.
+in Materials Science. – 1989. – Vol. 33, iss. 4. – P. 223– 19. Мамаев А.С., Чукин А.В. Газоциклическое плаз-
+315. – doi: 10.1016/0079-6425(89)90001-7. менное азотирование нержавеющей стали // Известия 
+
+9. Lu K. Nanocrystalline metals crystallized from вузов. Физика. – 2016. – Т. 59, № 9-2. – С. 244–249.
+amorphous solids: nanocrystallization, structure, and 20. Gavrilov N.V., Mamaev A.S. Low-temperature 
+properties // Materials Science and Engineering R- nitriding of titanium in low-energy electron beam excit-
+Reports. – 1996. – Vol. 16, iss. 4. – P. 161–221. – ed plasma // Technical Physics Letters. – 2009. – Vol. 35, 
+doi: 10.1016/0927-796X(95)00187-5. iss. 8. – P. 713–716. – doi: 10.1134/S1063785009080082.
+
+10. Nitriding iron at lower temperatures / W.P. Tong, 21. Блистеринг и α↔γ-превращения при отжиге 
+N.R. Tao, Z.B. Wang, J. Lu, K. Lu // Science. – 2003. – стали 12Х18Н10Т, облученной низкоэнергетически-
+Vol. 299, iss. 5607. – P. 686–688. – doi: 10.1126/sci- ми альфа-частицами / С.Б. Кислицин, М.Ф. Вере-
+ence.1080216. щак, И.А. Манакова, А.Н. Озерной, Д.А. Сатпаев, 
+
+11. Gaseous nitriding of iron with a nanostructured Ю.Ж. Тулеушев // Вопросы атомной науки и техни-
+surface layer / W.P. Tong, C.Z. Liu, W. Wang, N.R. Tao, ки. – 2013. – № 2 (84). – С. 17–22.
+Z.B. Wang, L. Zuo, J.C. He // Scripta Materialia. – 22. Effect of nitrogen on blister growth process 
+2007. – Vol. 57, iss. 6. – P. 533–536. – doi: 10.1016/j. during high temperature oxidation of steel / Y. Kondo, 
+scriptamat.2007.05.017.
+
+№ 2 (75) 2017 63
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+H. Tanei, K. Ushioda, M. Maeda, Y. Abe // ISIJ In- 24. Belashova I.S., Shashkov A.O. Kinetics of growth 
+ternational. – 2012. – Vol. 52, N 9. – P. 1644–1648. – of the diffusion layer in nitriding by the thermogaso-
+doi: 10.2355/isijinternational.52.1644. cyclic method // Metal Science and Heat Treatment. – 
+
+23. Теория и технология азотирования / 2012. – Vol. 54, iss. 5. – P. 315–319. – doi: 10.1007/
+Ю.М. Лахтин, Я.Д. Коган, Г.-И. Шпис, З. Бемер. – М.: s11041-012-9504-5.
+Металлургия, 1991. – 320 с.
+
+OBRABOTKA METALLOV
+(METAL WORKING AND MATERIAL SCIENCE)
+
+N 2 (75), April – June 2017, Pages 55–66
+
+Effect of a continuous and gas-cyclic plasma nitriding on the quality  
+of nanostructured austenitic stainless steel
+
+Makarov A. V.1, 2, D.Sc. (Engineering), Senior Researcher, Head of department, Head of laboratory, 
+e-mail: av-mak@yandex.ru
+
+Gavrilov N. V. 3, Corresponding member of RAS, D.Sc. (Engineering), Head of laboratory,
+e-mail: gavrilov@iep.uran.ru
+
+Samoylova G.V. 1, Ph.D. student, e-mail: a1isova@mail.ru
+Mamaev A. S. 3, Ph.D. (Engineering), Researcher, e-mail: asm@iep.uran.ru
+Osintseva A.L. 2, Ph.D. (Engineering), Senior Researcher, e-mail: lkm@imach.uran.ru
+Savrai R.A.2, Ph.D. (Engineering), Head of laboratory, e-mail: ras@imach.uran.ru
+
+1 M.N. Miheev Institute of Metal Physics of the Ural Branch of the Russian Academy of Sciences, 18 S. Kovalevskoy 
+st., Ekaterinburg, 620990, Russian Federation
+
+2 Institute of Engineering Science Ural Branch of Russian Academy of Sciences, 34 Komsomolskaya str., Ekaterinburg, 
+630049, Russian Federation
+
+3 Institute of Electrophysics of the Ural Branch of the Russian Academy of Sciences, 106 Amundsen St., Ekaterinburg, 
+620016, Russian Federation
+
+Abstract
+
+Plasma nitriding is an effective method of the austenitic stainless chromium-nickel steels hardening. Usage of 
+the low-energy electron beams (to 1 keV), that is typical for plasma generator, provides smaller loss of energy then 
+usage of gas discharges. Low-energy electron beams allow change current density and ion energy independently of 
+one another without using additional external heating devices. The lack of ion-plasma nitriding is deterioration of 
+nitrided surface quality. Nanostructured deformation processing could be applied before nitriding with the aim of 
+increasing growth rate of nitrided layer and reduction of nitrided surface roughness. In the paper, the influence of 
+combined processing including nanostructuring frictional treatment by sliding indentor and following continuous 
+and gas-cyclic plasma nitriding in electron-beam plasma at a temperature of 450 °С and 500 °С on hardening and 
+surface quality of austenitic steel AISI 321 (0.04 wt.% С; 16,77 wt.% Cr; 8.44 wt.% Ni; 1,15 wt.% Mn; 0,67 wt.% Si; 
+0,32 wt.% Ti; 0,31 wt.% Cu; 0,26 wt.% Mo; 0,12 wt.% Co; 0,12 wt.% V; 0,04 wt.% P; 0,03 wt.% Nb; 
+0,005 wt.% S; and Fe for balance) is studied.
+
+It is established that friction treatment leads to occurrence of 95 vol. % α´ strain-induced martensite and increas-
+ing of microhardness to 780 HV0.025 on nitrided surface. On the nanostructured by frictional treatment surface of 
+metastable austenitic steel AISI 321 (in contrast to nitrided coarse-grained steel) after continuous plasma nitriding in 
+electron-beam plasma pore formation and intensive blistering is observed. Blistering is characterized by forming of 
+steam blows and surface blowout. Obvious blistering appears due to advanced nitrogen diffusion into nanostructured 
+surface with α´ stain-induced martensitic structure. 
+
+Improvement in quality of the nitrided steel surface, hardened by frictional treatment (decreasing of blistering, 
+pore formation and roughness), is achieved by means of: 1) gas-cyclic plasma nitriding is carried out at the conditions 
+of periodic alternation nitriding semicycles in mixture of argon and nitrogen and denitriding (without nitrogen sup-
+ply); 2) nitriding temperature decreasing from 500 °С to 450 °С. However after gas-cyclic plasma nitriding of nano-
+
+64 № 2 (75) 2017
+
+
+
+МАТЕРИАЛОВЕДЕНИЕ ОБРАБОТКА  МЕТАЛЛОВ
+
+structured surface lower micro-hardness level (1 160…1 200 HV0.025) then after continuous nitriding (1 370…1 450 
+HV0.025) is observed.
+Keywords
+
+austenitic stainless steel, frictional treatment, electron beam, plasma, gas-cyclic nitriding, strain-induced 
+martensite, microhardness, roughness, pores.
+DOI: 10.17212/1994-6309-2017-2-55–66
+
+References
+
+1. Rolinski E. Plasma-assisted nitriding and nitrocarburizing of steel and other ferrous alloys. Thermochemical 
+Surface Engineering of Steels: Improving Materials Performance, 2015, pp. 413–457. doi: 10.1533/978085709652
+4.3.413.
+
+2. Gatey A.M., Hosmani S.S., Figueroa C.A., Arya S.B., Singh R.P. Role of surface mechanical attrition treat-
+ment and chemical etching on plasma nitriding behavior of AISI 304L steel. Surface and Coatings Technology, 2016, 
+vol. 304, pp. 413–424. doi: 10.1016/j.surfcoat.2016.07.020.
+
+3. Leonhardt D., Walton S.G., Fernsler R.F. Fundamentals and applications of a plasma-processing system based 
+on electron-beam ionization. Physics of Plasmas, 2007, vol. 14, p. 057103. doi: 10.1063/1.2712424.
+
+4. Gavrilov N.V., Menshakov A.I. Effect of the electron beam and ion flux parameters on the rate of plas-
+ma nitriding of an austenitic stainless steel. Technical Physics, 2012, vol. 57, iss. 3, pp. 399–404. doi: 10.1134/
+S1063784212030073.
+
+5. Borgioli F., Fossati A., Galvanetto E., Bacci T. Glow-discharge nitriding of AISI 316L austenitic stainless 
+steel: influence of treatment temperature. Surface and Coatings Technology, 2005, vol. 200, iss. 7, pp. 2474–2480. 
+doi: 10.1016/j.surfcoat.2004.07.110.
+
+6. Stinville J.C., Villechaise P., Templier C., Riviere J.P., Drouet M. Plasma nitriding of 316L austenitic stain-
+less steel: experimental investigation of fatigue life and surface evolution. Surface and Coatings Technology, 2010, 
+vol. 204, iss. 12–13, pp. 1947–1951. doi: 10.1016/j.surfcoat.2009.09.052.
+
+7. Lin Y., Lu J., Wang L., Xu T., Xue Q. Surface nanocrystallization by surface mechanical attrition treatment 
+and its effect on structure and properties of plasma nitrided AISI 321 stainless steel. Acta Materialia, 2006, vol. 54, 
+iss. 20, pp. 5599–5605. doi: 10.1016/j.actamat.2006.08.014.
+
+8. Gleiter H. Nanocrystalline materials. Progress in Materials Science, 1989, vol. 33, iss. 4, pp. 223–315. 
+doi: 10.1016/0079-6425(89)90001-7.
+
+9. Lu K. Nanocrystalline metals crystallized from amorphous solids: nanocrystallization, structure, and prop-
+erties. Materials Science and Engineering R-Reports, 1996, vol. 16, iss. 4, pp. 161–221. doi: 10.1016/0927-
+796X(95)00187-5.
+
+10. Tong W.P., Tao N.R., Wang Z.B., Lu J., Lu K. Nitriding iron at lower temperatures. Science, 2003, vol. 299, 
+iss. 5607, pp. 686–688. doi: 10.1126/science.1080216.
+
+11. Tong W.P., Liu C.Z., Wang W., Tao N.R., Wang Z.B., Zuo L., He J.C. Gaseous nitriding of iron with a nano-
+structured surface layer. Scripta Materialia, 2007, vol. 57, iss. 6, pp. 533–536. doi: 10.1016/j.scriptamat.2007.05.017.
+
+12. Balusamy T., Narayanan T.S.N.S., Ravichandran K., Park I.S., Lee M.H. Plasma nitriding of AISI 304 stain-
+less steel: role of surface mechanical attrition treatment. Materials Characterization, 2013, vol. 85, pp. 38–47. 
+doi: 10.1016/j.matchar.2013.08.009.
+
+13. Tong W.P, Sun J., Zuo L., He J.C., Lu J. Study on wear and friction resistance of nanocrystalline Fe nitrided 
+at low temperature. Wear, 2011, vol. 271, iss. 5–6, pp. 653–657. doi: 10.1016/j.wear.2010.11.024.
+
+14. Baraz V.R., Kartak B.R., Mineeva O.N. Special features of friction hardening of austenitic steel with unstable 
+γ-phase. Metal science and Heat Treatment, 2011, vol. 52, iss. 9, pp. 473–475. doi: 10.1007/s11041-010-9302-x.
+
+15. Makarov A.V., Osintseva A.L., Yurovskikh A.S., Savrai R.A. Povyshenie tribologicheskikh svoistv austen-
+itnoi stali 12Kh18N10T nanostrukturiruyushchei friktsionnoi obrabotkoi [Improving the tribological properties of 
+austenitic 12Kh18N10T steel by nanostructuring frictional treatment]. Obrabotka metallov (tekhnologiya, oborudo-
+vanie, instrumenty) = Metal Working and Material Science, 2015, no. 4 (69), pp. 80–92. doi: 10.17212/1994-6309-
+2015-4-80-92.
+
+16. Baraz V.R., Fedorenko O.N. Special features of friction treatment of steels of the spring class. Metal Science 
+and Heat Treatment, 2016, vol. 57, iss. 11, pp. 652–655. doi: 10.1007/s11041-016-9937-3.
+
+17. Makarov A.V., Gorkunov E.S., Skorynina P.A., Kogan L.Kh., Yurovskikh A.S., Osintseva A.L. Eddy-current 
+control of the phase composition and hardness of metastable austenitic steel after different regimes of nanostructur-
+
+№ 2 (75) 2017 65
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+ing frictional treatment. Russian Journal of Nondestructive Testing, 2016, vol. 52, iss. 11, pp. 627–637. doi: 10.1134/
+S1061830916110048.
+
+18. Makarov A.V., Skorynina P.A., Volkova E.G., Osintseva A.L. Nanostrukturiruyushchie kombinirovannye 
+friktsionno-termicheskie obrabotki austenitnoi stali 12Kh18N10T [Nanostructuring combined frictional-thermal 
+treatment of 12Kh18N10N austenic steel]. Vektor nauki Tol’yattinskogo gosudarstvennogo universiteta = Vector of 
+sciences. Togliatti State University, 2016, no. 4 (38), pp. 30–37. doi: 10.18323/2073-5073-2016-4-30-37.
+
+19. Mamaev A.S., Chukin A.V. Gazotsiklicheskoe plazmennoe azotirovanie nerzhaveyushchei stali [Gas-cyclic 
+plasma nitriding of stainless steel]. Izvestiya vysshikh uchebnykh zavedenii. Fizika = Russian Physics Journal, 2016, 
+vol. 59, no. 9-2, pp. 244–249. (In Russian).
+
+20. Gavrilov N.V., Mamaev A.S. Low-temperature nitriding of titanium in low-energy electron beam excited 
+plasma. Technical Physics Letters, 2009, vol. 35, iss. 8, pp. 713–716. doi: 10.1134/S1063785009080082.
+
+21. Kislitsin S.B., Vereshchak M.F., Manakova I.A., Ozernoi A.N., Satpaev D.A., Tuleushev Yu.Zh. Blistering i 
+α↔γ-prevrashcheniya pri otzhige stali 12Kh18N10T, obluchennoi nizkoenergeticheskimi al’fa-chastitsami [Blister-
+ing and α’↔γ phase transitions at annealing of stainless steel C12Cr18Ni10Ti irradiated by low energy alpha-parti-
+cles]. Voprosy atomnoi nauki i tekhniki = Problems of atomic science and technology, 2013, no. 2 (84), pp. 17–22.
+
+22. Kondo Y., Tanei H., Ushioda K., Maeda M., Abe Y. Effect of nitrogen on blister growth process during high 
+temperature oxidation of steel. ISIJ International, 2012, vol. 52, no. 9, pp. 1644–1648. doi: 10.2355/isijinterna-
+tional.52.1644.
+
+23. Lakhtin Yu.M., Kogan Ya.D., Shpis G.-I., Bemer Z. Teoriya i tekhnologiya azotirovaniya [Theory and tech-
+nology of nitriding]. Moscow, Metallurgiya Publ., 1991. 320 p.
+
+24. Belashova I.S., Shashkov A.O. Kinetics of growth of the diffusion layer in nitriding by the thermogasocyclic 
+method. Metal Science and Heat Treatment, 2012, vol. 54, iss. 5, pp. 315–319. doi: 10.1007/s11041-012-9504-5.
+
+Funding
+The work is done on the topic "Structure" No. 01201463331 (project No. 15-9-12-45) with the support of the 
+Russian Foundation for Basic Research (project No. 15-08-07947). Electronic scanning microscopy, profilometry 
+and microhardness testing were carried out in the Center of Plastometry, IMAS, UrB RAS.
+
+Article history
+Received 10 March 2017
+Revised 10 April 2017
+Accepted 10 May 2017
+
+66 № 2 (75) 2017

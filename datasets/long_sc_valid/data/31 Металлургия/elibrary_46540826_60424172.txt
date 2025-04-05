@@ -1,0 +1,747 @@
+﻿ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+Обработка металлов (технология • оборудование • инструменты). 2021 Том 23 № 3 с. 100–111
+ISSN: 1994-6309 (print) / 2541-819X (online)
+DOI: 10.17212/1994-6309-2021-23.3-100-111
+
+Обработка металлов
+(технология • оборудование • инструменты)
+
+Сайт журнала: http://journals.nstu.ru/obrabotka_metallov
+
+Водород и его влияние на измельчение порошка никелида титана
+Екатерина Абдульменова a, *, Сергей Кульков b
+
+Институт физики прочности и материаловедения СО РАН, пр. Академический, 2/4, Томск, 634055, Россия
+a  https://orcid.org/0000­0002­9594­5706,  Ekaterina.V.Abdulmenova@yandex.ru, b  https://orcid.org/0000­0002­4635­6569,   kulkov@ispms.ru
+
+И Н Ф О РМ А Ц И Я  О  С ТАТ Ь Е А Н Н О ТА Ц И Я
+
+УДК 54.055: 621.762.01: 66.094.25 Введение. Промышленный никель­титановый сплав ПН55Т45 состава, близкого к эквиатомному, 
+широко используется для изготовления изделий методом порошковой металлургии. Для достижения 
+
+История статьи: высоких физико­механических свойств сплава, полученного таким методом, необходимо использо­
+П оступила: 07 апреля 2021
+Рецензирование: 23 апреля 2021 вать мелкодисперсные порошки, которые можно получить, реализуя высокоинтенсивное измельчение 
+Принята к печати: 30 июля 2021 в планетарно­шаровой мельнице. Однако в процессе такой обработки возможно загрязнение, окисле­
+Доступно онлайн: 15 сентября 2021 ние порошка, агрегация частиц и др. Для решения этой проблемы предлагается использовать пред­
+
+варительное гидрирование для последующего измельчения в планетарной шаровой мельнице. Целью 
+Ключевые слова: работы является изучение влияния водорода на измельчение порошка никелида титана. Материалы и 
+Порошок Ni­Ti методы исследования. Морфология и средний размер частиц порошков исследовались методом ска­
+Механическая обработка нирующей электронной микроскопии; фазовый состав и параметры тонкой кристаллической структу­
+Гидрирование
+Водород ры порошков – методами рентгеноструктурного и рентгенофазового анализа. Для оценки плотности 
+Область когерентного рассеяния дислокаций использовались данные рентгеноструктурного анализа. Результаты и их обсуждение. 
+Параметр решетки Показано, что использование предварительного гидрирования в течение 180 мин перед механической 
+Фазовый состав обработкой позволяет уменьшить средний размер частиц примерно в два раза. После механической 
+
+обработки порошка параметры кристаллических решеток фаз TiNi (аустенит), Ti2Ni и Ni3Ti в преде­
+Финансирование: лах ошибки не изменяются. После механической обработки порошка с предварительным гидрирова­
+Результаты получены при выполне­ нием значительно изменяется параметр кристаллической решетки только фазы Ti2Ni, в частности, 
+нии комплексного проекта «Создание при 180 мин гидрирования параметр решетки возрастает до 1,1457 ± 5 ∙ 10–4 нм, что соответствует сте­
+высокотехнологичного импортозаме­
+щающего производства полного цикла хиометрии гидрида Ti2NiH0,5 с параметром решетки 1,1500 нм. Наибольшая плотность дислокаций, 
+металлорежущих сложнопрофильных оцененная по данным рентгеноструктурного анализа, содержится в фазе Ti2Ni (511), а не в фазах TiNi 
+многогранных твердосплавных пла­ (аустенит) (110) и Ni3Ti (202). Таким образом, предварительное гидрирование может быть эффектив­
+стин для приоритетных отраслей про­ ным методом измельчения порошков за счет формирования хрупкого гидрида и подавления процесса 
+мышленности» (соглашение о предо­ агрегации мелких частиц при высокоинтенсивной механической обработке.
+ставлении субсидии от 27.11.2019 
+№ 075­11­2019­036), реализуемого 
+ИФПМ СО РАН при финансовой под­
+держке Минобрнауки России в рамках 
+постановления Правительства РФ от 
+09.04.2010 № 218.
+
+Благодарности:
+Исследования выполнены на оборудо­
+вании ЦКП «Структура, механические 
+и физические свойства материалов».
+
+Для цитирования: Абдульменова Е.В., Кульков С.Н. Водород и его влияние на измельчение порошка никелида титана // Обработка 
+металлов (технология, оборудование, инструменты). – 2021. – Т. 23, № 3. – С. 100–111. – DOI: 10.17212/1994­6309­2021­23.3­100­111.
+
+Введение
+
+______ Известно, что наличие водорода в материа­
+*Адрес для переписки ле имеет неоднозначное влияние на изменения 
+Абдульменова Екатерина Владимировна, аспирант, м.н.с.
+Институт физики прочности и материаловедения СО РАН, его свойств. Так, в [1, 2] показано, что водород 
+пр. Академический, 2/4, может уменьшать способность металла к де­
+634055, г. Томск, Россия
+Тел.: (3822) 28­69­88, e-mail: Ekaterina.V.Abdulmenova@yandex.ru формации, т.е. приводить к охрупчиванию [3], 
+
+100 Том 23 № 3 2021
+
+
+
+MATERIAL SCIENCE OBRABOTKA METALLOV
+
+обусловленному образованием хрупких гид­ представлен положительный эффект от водоро­
+ридов на основных плоскостях скольжения и да в процессе спекания с высвобождающимся 
+двойникования [4]. С дугой стороны, в [5] об­ водородом.
+наружено увеличение пластичности титановых Целью настоящей работы является изучение 
+сплавов – эффект водородного пластифицирова­ влияния водорода на измельчение порошка ни­
+ния, а в [6] показано, что наличие водорода в ре­ келида титана.
+шетке позволяет изменять температуры фазовых Основные задачи настоящей работы, следу­
+превращений. ющие:
+
+Известно, что пластичные материалы спо­ 1) изучить морфологию частиц и их размер 
+собны деформироваться без нарушения сплош­ методом сканирующей электронной микроско­
+ности и образования трещин [7], одним из пред­ пией до и после механической обработки исход­
+ставителей которых является никелид титана, ного и гидрированных порошков; 2) изучить из­
+обладающий рядом уникальных свойств [8] и на­ менение фазового состава и параметров тонкой 
+шедший широкое применение в промышленно­ кристаллической структуры методами рентгено­
+сти. Часто изделия из никелида титана получают структурного и рентгенофазового анализа после 
+методами порошковой металлургии. Для полу­ механической обработки исходного и гидриро­
+чения высоких физико­механических свойств в ванных порошков.
+этой технологии необходимо использовать мел­
+кодисперсные порошки [9]. Существуют разные Материалы и методы исследований
+методы получения мелкодисперсных порошков, 
+такие как физико­химический (метод восстанов­ Изучен промышленный порошок никелида 
+ления, электролитический метод, карбонильный титана марки ПН55Т45 производства фирмы 
+метод) и механический (получение порошка из «Полема». Порошок обрабатывали в планетар­
+расплава металлов, измельчение в твердом со­ ной шаровой мельнице АГО­2 (Россия) в воз­
+стоянии: шаровые, вихревые, планетарно­ша­ душной среде при комнатной температуре и ат­
+ровые мельницы и вибромельницы). Одним из мосферном давлении, диаметр стальных шаров 
+способов измельчения является высокоинтен­ составлял 0,7 см, соотношение порошка к шарам 
+сивная механическая обработка порошка в пла­ составило 1:5, скорость вращения планетарного 
+нетарно­шаровой мельнице. Однако при том что диска 1820 об/мин, что обеспечивает ускорение 
+этот метод относительно недорогой, быстрый и 60g. Время механической обработки составляло 
+простой в реализации, в результате измельчения 100 с.
+возможно загрязнение, окисление порошка и Гидрирование до механической обработ­
+агрегация частиц и др. [10]. Известно, что гидри­ ки проводили электрохимическим методом в 
+ды металлов, как правило, являются хрупкими специальной ячейке. Электролитом служил 
+веществами [11, 12], что может препятствовать 20 %­й водный раствор хлорида натрия (NaCl) 
+процессу агрегации мелких частиц в процессе и поверхностно­активного вещества декстрина 
+измельчения при высокоинтенсивной обработ­ (C6H10O5)n в концентрации 1,5 г/л комнатной 
+ке. Поэтому предварительное гидрирование по­ температуры [19]. Плотность катодного тока со­
+рошка может не только обеспечивать более ин­ ставляла 55 мА/см2, напряжение в ячейке со­
+тенсивное измельчение порошков, но процесс ставляло 4,0 В. В качестве анода использована 
+гидрирования­дегидрирования порошка может графитовая пластина, а порошок, лежащий на 
+также обусловить проявление эффекта само­ чашке из нержавеющей стали, играл роль ка­
+измельчения вследствие расширения – сжатия тода [20]. Время гидрирования составляло 90 и 
+решетки [13]. Более того, спекание гидрирован­ 180 мин.
+ных порошков согласно [14–16] приводит к вы­ Морфология и средний размер частиц по­
+делению водорода, способствующего очищению рошков оценивался по СЭМ­изображениям, по­
+порошка от примесей, таких как кислород, угле­ лученным с помощью сканирующего электрон­
+род, хлор, в то время как при нагреве порошков ного микроскопа (СЭМ) при использовании 
+после размола в мельнице загрязнения остаются микроскопа TESCAN VEGA3 SBH. Форма ча­
+в материале. Это подтверждается в [17, 18], где стиц оценивалась по методу, предложенному 
+
+Vol. 23 No. 3 2021 101
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+Хаузнером [21]. Для построения распределений ОКР и величины микродисторсии не разделе­
+частиц по размерам производили измерение двух ны. Дифракционные профили аппроксимирова­
+размеров плоскости проекции каждой частицы – лись с помощью функции Лоренца.
+максимальный dmах и минимальный dmin, всего 
+было проанализировано около 650 частиц. На Результаты и их обсуждение
+основании полученных измерений рассчитывал­
+ся средний размер частиц, дисперсия по размеру На рис. 1 показаны СЭМ­изображения по­
+и медианный диаметр. Порошок никелида титана рошков и распределения частиц по размерам 
+в исходном состоянии состоит преимущественно после механической обработки (рис. 1, а, б) и 
+из сферических частиц с гладкой поверхностью после механической обработки с предваритель­
+со средним размером 11,1 мкм, дисперсия по раз­ ным гидрированием порошка в течение 90 мин 
+меру составляет 7,5 мкм. При этом в порошке (рис. 1, в, г), 180 мин (рис. 1, д, е). Видно, что по­
+можно выделить фракции мелких и крупных ча­ сле механической обработки (рис. 1, а) средний 
+стиц. Так, большая часть частиц мелкой фракции размер частиц уменьшился на 2 % и составляет 
+имеет размер до 7,3 мкм, а их количество от об­ 10,9 мкм, в то время как дисперсия по разме­
+щего числа составляет 37,2 %, агломерированные рам увеличилась с 7,5 до 10,9 мкм. В порошке 
+частицы имеют размер до 55 мкм [22]. можно выделить фракции мелких и крупных ча­
+
+Для определения структуры и фазового со­ стиц (рис. 1, б). Так, частицы мелкой фракции с 
+става исследуемых образцов использовали ме­ гладкой поверхностью имеют размер до 3,6 мкм, 
+тоды рентгеновского анализа. Рентгенограм­ а их количество от общего числа составляет 
+мы получали с помощью дифрактометра типа 33,3 %, агломерированные частицы имеют раз­
+«ДРОН» (Россия) с Cu Ka­излучением с экс­ мер до 83,1 мкм. После механической обработки 
+позицией на каждой точке съемки, обеспе­ с предварительным гидрированием порошка в 
+чивающей статистическую точность не хуже течение 90 мин (рис. 1, в) средний размер частиц 
+0,5 %. Для идентификации фазового состава уменьшился на 13 % и составляет 9,7 мкм, дис­
+использовалась порошковая база данных ICDD персия по размерам составляет 9,6 мкм. Частицы 
+PDF­2. Параметры кристаллической решет­ мелкой фракции с гладкой поверхностью имеют 
+ки определяли с использованием программы размер до 3,6 мкм, а их количество от общего 
+для рентгеноструктурных расчетов rtp32 [23] числа возросло до 37,6 %, агломерированные 
+по межплоскостным расстояниям для всех от­ частицы имеют размер до 80,6 мкм (рис. 1, г). 
+ражений в диапазоне углов от 10 до 100°. Для После механической обработки с предваритель­
+определения относительного содержания фаз ным гидрированием порошка в течение 180 мин 
+использовались интегральные интенсивности (рис. 1, д) средний размер частиц уменьшил­
+всех идентифицированных фаз в диапазоне ся на 40 % и составляет 6,7 мкм, дисперсия по 
+углов 35…50°, в этом диапазоне располагают­ размерам также уменьшилась до 7,7 мкм. Ча­
+ся наиболее интенсивные отражения всех фаз. стицы мелкой фракции с гладкой поверхностью 
+При этом сумма всех линий составляет 100 %. имеют размер до 2,6 мкм, а их количество от 
+Размер области когерентного рассеяния (ОКР) общего числа составляет 41,2 %, размер агло­
+рассчитывали по уравнению Шеррера [24] по мерированных частиц уменьшился до 62,9 мкм 
+первой линии рентгеновских спектров, для рас­ (рис. 1, е). Форма частиц в процессе механиче­
+чета определялась полная ширина на половине ской обработки и предварительного гидрирова­
+максимума (FWHM) для каждой фазы. В по­ ния не изменяется и близка к сферической, по­
+рошковом состоянии определить все отраже­ видимому, вследствие высокоэнергетического 
+ния, характерные для фаз, является сложной воздействия на частицы в планетарной мельнице.
+задачей вследствие значительного уширения На рис. 2 представлены рентгенограммы 
+дифракционных линий. В связи с этим метод порошков в исходном состоянии: после меха­
+Уильямсона – Холла не применим. Тем не ме­ нической обработки (образец № 1), после ме­
+нее стоит отметить, что рассчитанные размеры ханической обработки с предварительным ги­
+ОКР несколько занижены, поскольку в этом дрированием 90 (образец № 2) и 180 (образец 
+случае вклады в уширение за счет размеров № 3) мин. Видно, что на всех рентгенограммах 
+102 Том 23 № 3 2021
+
+
+
+MATERIAL SCIENCE OBRABOTKA METALLOV
+
+                                     а                                                                                 б
+
+                                     в                                                                                 г
+
+                                     д                                                                                 е
+
+Рис. 1. СЭМ­изображения порошков и распределения частиц по размерам после механи­
+ческой обработки (а, б) и после механической обработки с предварительным гидрирова­
+
+нием порошка в течение 90 мин (в, г), 180 мин (д, е)
+Fig. 1. SEM images and particle size distribution of the powder after ball milling (a, б) and after 
+mechanical treatment with preliminary hydrogenation for 90 minutes (в, г), 180 minutes (д, е)
+
+Vol. 23 No. 3 2021 103
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+были рассчитаны параметры кристаллических 
+решеток фаз, результаты представлены в табл. 1. 
+После механической обработки исходного по­
+рошка и гидрированных порошков параметр 
+решетки мартенситной фазы определить затруд­
+нительно вследствие значительного уширения 
+дифракционных линий, поэтому в таблице эта 
+величина обозначена «вопросительным» знаком. 
+Из таблицы видно, что параметры кристалличе­
+ских решеток всех обнаруженных фаз в порошке 
+в исходном состоянии хорошо согласуются с ли­
+тературными данным [25–28]. После механиче­
+ской обработки порошка параметры решеток фаз 
+
+Рис. 2. Рентгенограммы порошков: в исходном TiNi (аустенит), Ti2Ni и Ni3Ti в пределах ошибки 
+состоянии, образец № 1 – после механической обра­ не изменяются. После МО гидрированного по­
+ботки; образцы № 2, 3 – после механической обработ­ рошка в течение 180 мин параметр решетки 
+ки с предварительным гидрированием 90 и 180 мин фазы Ni3Ti уменьшается c 0,8316 (исходное 
+
+соответственно состояние порошка) до 0,8241 нм, а параметр 
+Fig. 2. XRD patterns of powders: in the initial state, решетки фазы Ti2Ni увеличился с 1,1333 (ис­
+sample No. 1 – after mechanical treatment; samples ходное состояние порошка) до 1,1457 нм, т. е. 
+No. 2, 3 – after mechanical treatment with preliminary в процессе механической обработки гидриро­
+
+hydrogenation for 90 and 180 minutes respectively ванного порошка значительно изменяется пара­
+метр решетки только фазы Ti2Ni, а его величина 
+
+присутствуют дифракционные отражения близка к параметру решетки гидрида со стехио­
+аустенитной фазы TiNi, следы мартенситной метрией Ti2NiH0,5, значение которого составля­
+фазы TiNi, Ti2Ni и Ni3Ti. На рентгенограмме по­ ет 1,1500 нм (ICDD PDF2 270346) [29, 30].
+рошка после механической обработки (МО) фа­ В табл. 2 представлены данные о микро­
+зовый состав не изменился (образец № 1), при структурных параметрах фаз. Здесь же представ­
+этом видно, что полуширины линий увеличи­ лена оценка плотности дислокаций (ρ), расчет 
+лись незначительно – не более чем на 19 %. На которой производился в соответствии с [31] по 
+рентгенограммах порошков после МО с пред­ первой линии рентгеновских спектров в пред­
+варительным гидрированием (образцы № 2 и 3), положении, что их ширина обусловлена толь­
+присутствуют два интенсивных пика на углах ко размером ОКР, поэтому величина плотности 
+32,1° и 45,8°,которые принадлежат кубической завышена. Из таблицы видно, что полуширина 
+фазе гидрида Ti2NiHx с индексами отражения фазы TiNi (аустенит) в пределах ошибки не из­
+(400) и (531). меняется в процессе механической обработки 
+
+Относительное содержание фазы Ti2Ni воз­ исходного и гидрированных порошков, в то вре­
+растает с 36 ± 5 % (исходное состояние порош­ мя как полуширина фазы Ni3Ti увеличивается c 
+ка) до 42 ± 5 %, а TiNi (аустенит + мартенсит) 0,084° (исходное состояние порошка) до 0,260° 
+уменьшается с 62 ± 5 % (исходное состояние (механическая обработка гидрированного по­
+порошка) до 54 ± 5 % в процессе механической рошка в течение 90 мин), а затем снижается до 
+обработки гидрированного порошка в течение 0,143° (механическая обработка гидрированного 
+180 мин. После механической обработки ис­ порошка в течение 180 мин).
+ходного и гидрированного порошка в течение Рассчитанный размер ОКР для фаз TiNi и 
+90 мин содержание практически не изменяется Ti2Ni в пределах ошибки не изменяется и состав­
+относительно исходного состояния порошка, ляет 29 ± 5 нм и 11 ± 5 нм для всех порошков, в 
+кроме того, во всех порошках присутствует не­ то время как для фазы Ni3Ti после МО уменьша­
+большое количество фазы Ni3Ti – не более 5 %. ется с 108 ± 5 до 49 ± 5 нм, после МО гидриро­
+
+После гидрирования угловые положения ли­ ванных порошков уменьшается до 35 ± 5 нм при 
+ний различных фаз смещаются (рис. 2), поэтому 90 мин, увеличивается до 63 ± 5 нм (180 мин).
+
+104 Том 23 № 3 2021
+
+
+
+MATERIAL SCIENCE OBRABOTKA METALLOV
+
+Т а б л и ц а  1
+T a b l e  1
+
+Параметры кристаллических решеток формирующихся фаз
+Lattice parameters of the forming phases 
+
+Вид обработки Параметр решетки фазы, нм
+TiNi (аустенит):
+
+a = 0,3007 ± 5·10–4
+
+TiNi (мартенсит):
+a = 0,2690 ± 5∙10–4
+
+b = 0,4570 ± 5∙10–4
+
+c = 0,4122 ± 5∙10–4
+
+Исходное состояние β = 87, 4°
+Ti2Ni:
+
+a = 1,1333 ± 5·10–4
+
+Ni3Ti:
+a = 0,5099 ± 5·10–4
+
+с = 0,8308 ± 5·10–4
+
+c/a = 1,6293
+TiNi (аустенит):
+
+a = 0,3009 ± 5·10–4
+
+TiNi (мартенсит):
+?
+
+Механическая обработка Ti2Ni:
+a = 1,1338 ± 5·10–4
+
+Ni3Ti:
+a = 0,5108 ± 5·10–4
+
+с = 0,8316 ± 5·10–4
+
+c/a = 1,6280
+TiNi (аустенит):
+
+a = 0,2995 ± 5·10–4
+
+TiNi (мартенсит)
+?
+
+Механическая обработка с предварительным Ti2Ni:
+гидрированием 90 минут a = 1,1393 ± 5·10–4
+
+Ni3Ti:
+a = 0,5067 ± 5·10–4
+
+с = 0,8241 ± 5·10–4
+
+c/a = 1,6265
+TiNi (аустенит):
+
+a = 0,3004 ± 5·10–4
+
+TiNi (мартенсит):
+?
+
+Механическая обработка с предварительным Ti2Ni:
+гидрированием 180 минут a = 1,1457 ± 5·10–4
+
+Ni3Ti:
+a = 0,5098 ± 5·10–4
+
+с = 0,8280 ± 5·10–4
+
+c/a = 1,6241
+
+Vol. 23 No. 3 2021 105
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+Т а б л и ц а  2
+T a b l e  2
+
+Данные о микроструктурных параметрах фаз
+The microstructural parameters of phases
+
+FWHM (град)
+Вид обработки TiNi (аустенит) Ni3Ti Ti2Ni
+
+(110) (202) (511)
+
+Исходное состояние 0,300 ± 0,025 0,084 ± 0,025 0,726 ± 0,025
+(3,4 ∙ 1011) см–2 (0,3 ∙ 1011) см–2 (20,2 ∙ 1011) см–2
+
+Механическая обработка 0,296 ± 0,025 0,185 ± 0,025 0,917 ± 0,025
+(3,3 ∙ 1011) см–2 (1,3 ∙ 1011) см–2 (32,6 ∙ 1011) см–2
+
+Механическая обработка с предва­ 0,314 ± 0,025 0,260 ± 0,025 0,904 ± 0,025
+рительным гидрированием 90 мин (3,7 ∙ 1011) см–2 (2,5 ∙ 1011) см–2 (31,2 ∙ 1011) см–2
+
+Механическая обработка с предва­ 0,330 ± 0,025 0,143 ± 0,025 0,690 ± 0,025
+рительным гидрированием 180 мин (4,1 ∙ 1011) см–2 (0,8 ∙ 1011) см–2 (18,0 ∙ 1011) см–2
+
+Несмотря на то что абсолютный рост плот­ работки не изменяются и находятся в хорошем 
+ности дефектов в фазе Ni3Ti больше, чем в фазах соответсвии с литературными данными. После 
+TiNi и Ti2Ni, величина плотности дислокаций механической обработки гидрированных по­
+для фазы Ti2Ni больше в 6 раз, чем в фазе TiNi, и рошков возрастает только параметр решетки 
+в 67 раз, чем в Ni3Ti в исходном состоянии. По­ фазы Ti2Ni, а его величина близка к параметру 
+видимому, высокое значение плотности дефек­ решетки гидрида со стехиометрией Ti2NiH
+тов в исходном состоянии в фазе Ti2Ni способ­ 0,5.
+
+3. Оцененная плотность дислокаций в фа­ 
+ствует интенсивному взаимодействию водорода зе Ti2Ni почти на порядок больше, чем для 
+именно с этой фазой [20], что также способству­ фаз TiNi и Ni3T.
+ет более интенсивному дроблению при механи­ Таким образом, предварительное гидрирова­
+ческой обработке порошка за счет формирова­ ние может быть эффективным методом измель­
+ния хрупкого гидрида. чения порошков за счет формирования хрупкого 
+
+Некоторое снижение плотности дефек­ гидрида и подавления процесса агрегации мел­
+тов при более длительном гидрировании, ких частиц при высокоинтенсивной механиче­
+до 180 мин, по­видимому, обусловлено запол­ ской обработке.
+нением дефектов водородом, приводящим к 
+снижению плотности дислокаций, что показа­ Список литературы
+но в работах [32–34]. 1. Wade N., Adachi Y., Hosoi Z. A role of hydrogen 
+
+in shape memory effect of Ti­Ni alloys // Scripta Metal­
+Выводы lurgica et Materialia. – 1990. – Vol. 24 (6). – P. 1051–
+
+1055. – DOI: 10.1016/0956­716x(90)90298­u.
+Проведенное исследование показало следую­ 2. Hydrogen embrittlement of work­hardened Ni­Ti 
+
+щее. alloy in fluoride solutions / K. Yokoyama, K. Kaneko, 
+1. При механической обработке гидрирован­ T. Ogawa, K. Moriyama, K. Asaoka, J. Sakai // Biomate­
+
+ного порошка в течение 180 мин средний размер rials. – 2005. – Vol. 26. – P. 101–108. – DOI: 10.1016/j.
+частиц порошка никелида титана уменьшается biomaterials.2004.02.009.
+почти в два раза, в то время как при механиче­ 3. Закономерности водородного охрупчивания 
+ской обработке исходного порошка средний раз­ аустенитных нержавеющих сталей с ультрамелкозер­
+мер почти не изменяется. нистой структурой разной морфологии / Е.Г. Аста­
+
+2. Праметры решеток фаз TiNi (аустенит), фурова, Е.В. Мельников, С.В. Астафуров, И.В. Ра­
+Ti точка, И.П. Мишин, Г.Г. Майер, В.А. Москвина, 
+
+2Ni и Ni3Ti в порошке после механической об­
+106 Том 23 № 3 2021
+
+
+
+MATERIAL SCIENCE OBRABOTKA METALLOV
+
+Г.Н. Захаров, А.И. Смирнов, В.А. Батаев // Физиче­ darchuk, D.G. Savvakin // Defect Diffusion Forum. – 
+ская мезомеханика. – 2018. – Т. 21, № 2. – С. 103– 2008. – Vol. 277. – P. 177–185. – DOI: 10.4028/www.
+117. – DOI: 10.24411/1683­805X­2018­12011. scientific.net/ddf.277.177.
+
+4. Колачев Б.А. Водородная хрупкость метал­ 15. Role of surface contamination in titanium PM / 
+лов. – М.: Металлургия, 1985. – 216 с. O.M. Ivasishin, D.G. Savvakin, M.M. Gumenyak, 
+
+5. Гадельшин М.Ш., Анисимова Л.И., Бойцо- O.B. Bondarchuk // Key Engineering Materials. – 
+ва Е.С. Водородное пластифицирование титановых 2012. – Vol. 520. – P. 121–132. – DOI: 10.4028/www.
+сплавов // Международный научный журнал альтер­ scientific.net/kem.520.121.
+нативная энергетика и экология. – 2004. – Т. 17. – 16. Ivasishin O.M., Moxson V.S. Low­cost titanium 
+№ 9. – С. 26–29. hydride powder metallurgy // Titanium Powder Metal­
+
+6. Влияние водорода на структуру закаленного lurgy. – Amsterdam; Boston: Elsevier, 2015. – P. 117–
+сплава на основе орторомбического алюминида ти­ 148. – DOI: 10.1016/b978­0­12­800054­0.00008­3.
+тана и фазовые превращения при последующем на­ 17. Sun P., Fang Z.Z., Koopman M. A comparison 
+греве / О.Г. Хаджиева, А.Г. Илларионов, А.А. Попов, of hydrogen sintering and phase transformation (HSPT) 
+С.В. Гриб // Физика металлов и металловедение. – processing with vacuum sintering of CP­Ti // Advanced 
+2013. – Т. 114, № 6. – С. 577–582. – DOI: 10.7868/ Engineering Materials. – 2013. – Vol. 15. – P. 1007–
+S0015323013060077. 1013. – DOI: 10.1002/adem.201300017.
+
+7. Functional role of polycrystal grain boundar­ 18. Paramore J.D., Fang Z.Z., Sun P. Hydrogen sin­
+ies and interfaces in micromechanics of metal ceramic tering of titanium and its alloys // Titanium Powder Met­
+composites under loading / V.E. Panin, V.E. Egorush­ allurgy. – Amsterdam; Boston: Elsevier, 2015. – P. 163–
+kin, D.D. Moiseenko, P.V. Maksimov, S.N. Kulkov, 182. – DOI: 10.1016/b978­0­12­800054­0.00010­1.
+S.V. Panin // Computational Materials Science. – 19. Баймаков Ю.В., Журин А.И. Электролиз в ги­
+2016. – Vol. 116. – P. 74–81. – DOI: 10.1016/j.com­ дрометаллургии. – М.: Металлургиздат, 1962. – 617 с.
+matsci.2015.10. 20. Abdulmenova E.V., Kulkov S.N. Mechanical high­
+
+8. Otsuka K., Ren X. Physical metallurgy of Ti­ energy treatment of TiNi powder and phase changes after 
+Ni­based shape memory alloys // Progress in Mate­ electrochemical hydrogenation // International Journal of 
+rials Science. – 2005. – Vol. 50 (5). – P. 511–678. – Hydrogen Energy. – 2021. – Vol. 46. – P. 823–836. – 
+DOI: 10.1016/j.pmatsci.2004.10.001. DOI: 10.1016/j.ijhydene.2020.09.171.
+
+9. El-Eskandarany M.S. Structure and properties of 21. Дресвянников А.Ф., Колпаков М.Е. Контроль и 
+nanocrystalline TiC full­density bulk alloy consolidated управление качеством материалов. – Казань: КГТУ, 
+from mechanically reacted powders // Journal of Alloys 2007. – 389 с. – ISBN 978­5­7882­0255­0.
+and Compounds. – 2000. – Vol. 305. – P. 225–238. – 22. Aбдульменова E.В., Кульков С.Н. Закономер­
+DOI: 10.1016/s0925­8388(00)00692­7. ности изменения структуры после механической ак­
+
+10. Nobuki T., Crivello J-C., Cuevas F. Fast synthe­ тивации порошкового TiNi и его взаимодействие с 
+sis of TiNi by mechanical alloying and its hydrogenation водородом // Известия высших учебных заведений. 
+properties // International Journal of Hydrogen Energy. – Физика. – 2019. – Т. 62, № 8. – C. 137–142. – DOI: 10.
+2019. – Vol. 44. – P. 10770–10776. – DOI: 10.1016/j. 17223/00213411/62/8/137.
+ijhydene.2019.02.203. 23. Tabular processor for X­ray diffractome­
+
+11. Effect of cycling on hydrogen storage properties try. – URL: http://slavic.me/rtp/index.htm (accessed: 
+of Ti2CrV alloy / A. Kumar, K. Shashikala, S. Banerjee, 12.08.2021).
+J. Nuwad, P. Das, C.G.S. Pillai // International Journal of 24. Scherrer P. Bestimmung der inneren Struktur und 
+Hydrogen Energy. – 2012. – Vol. 37. – P. 3677–3682. – der Größe von Kolloidteilchen mittels Röntgenstrahlen // 
+DOI: 10.1016/j.ijhydene.2011.04.135. Kolloidchemie Ein Lehrbuch. – Berlin; Heidelberg: 
+
+12. Destructive hydrogenation as method for im­ Springer, 1912. – P. 387–409. – DOI: 10.1007/978­3­
+provement of TiNi exploitation properties / T.I. Bratanich, 662­33915­2_7.
+O.I. Get’man, T.V. Permyakova, V.V. Skorokhod // Inter­ 25. Stuewe H-P., Shimomura Y. Lattice constants of 
+national Journal of Hydrogen Energy. – 2007. – Vol. 32. – the body­centered­cubic phases FeTi, CoTi, and NiTi // 
+P. 3941–3946. – DOI: 10.1016/j.ijhydene.2007.04.033. Zeitschrift fur Metallkunde. – 1960. – Vol. 51. – P. 180–181.
+
+13. Hydrogenation properties of nanostructured 26. Muller M.H., Knott H.W. Powder metallurgy and 
+Ti2Ni­based alloys and nanocomposites / M. Balcerzak, metal ceramics // Transactions of the Metallurgical Soci­
+J. Jakubowicz, T. Kachlicki, M. Jurczyk // Journal of ety of AIME 227. – 1963. – Vol. 674. – P. 674–677.
+Power Sources. – 2015. – Vol. 280. – P. 435–445. – 27. Laves F., Wallbaum H.J. Die Kristallstruktur 
+DOI: 10.1016/j.jpowsour.2015.01.135. von Ni3Ti und Si2Ti // Zeitschriftfür Kristallographie – 
+
+14. Diffusion during powder metallurgy synthesis Crystalline Materials. – 1939. – Vol. 101. – P. 78–93. – 
+of titanium alloys / O.M. Ivasishin, D. Eylon, V.I. Bon­ DOI: 10.1524/zkri.1939.101.1.78.
+
+Vol. 23 No. 3 2021 107
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+28. Michal G.M., Sinclair R. The structure of TiNi Philosophical Magazine. – 1956. – Vol. 1 (1). – P. 34–
+martensite // Acta Crystallographica. Section B: Struc­ 46. – DOI: 10.1080/14786435608238074.
+tural Science. – 1981. – Vol. 37. – P. 1803–1807. – 32. Взаимодействие водорода с металлами / 
+DOI: 10.1107/S0567740881007292. В.Н. Агеев, И.Н. Бекман, О.П. Бурмистрова и др.; 
+
+29. Wasserstoff in intermetallischen phasen am отв. ред. А.П. Захаров. – М.: Наука, 1987. – 296 с.
+beispiel des systems titan­nickel­wasserstoff / H. Buch­ 33. Tomita M., Yokoyama K., Sakai J. Effects of 
+ner, M. Gutjahr, K. Beccu, H. Saufferer // Zeitschrift Fur potential, temperature and pH on hydrogen absorption 
+Metallkunde. – 1972. – Vol. 63. – P. 497–500. and thermal desorption behaviors of Ni­Ti superelastic 
+
+30. Mechanism of early capacity loss of Ti2Ni hydro­ alloy in 0.9 % NaCl solution // Corrosion Science. – 
+gen­storage alloy electrode / B. Luan, N. Cui, H. Zhao, 2008. – Vol. 50. – P. 2061–2069. – DOI: 10.1016/j.
+H.K. Liu, S.X. Dou // Journal of Power Sources. – corsci.2008.04.022.
+1995. – Vol. 55. – P. 101–106. – DOI: 10.1016/0378­ 34. Defect studies of H implanted niobium / 
+7753(94)02162­v. I. Prochazka, J. Cízek, V. Havranek, W. Anwand // 
+
+31. Williamson G.K., Smallman R.E. Dislocation Journal of Alloys and Compounds. – 2015. – Vol. 645. – 
+densities in some annealed and cold­worked metals from P. S69–S71. – DOI: 10.1016/j.jallcom.2015.01.197.
+measurements on the X­ray Debye­Scherrer spectrum // 
+
+Конфликт интересов
+Авторы заявляют об отсутствии конфликта интересов.
+
+ 2021 Авторы. Издательство Новосибирского государственного технического университета. Эта статья доступна по 
+лицензии Creative Commons «Attribution» («Атрибуция») 4.0 Всемирная (https://creativecommons.org/licenses/by/4.0/)
+
+108 Том 23 № 3 2021
+
+
+
+MATERIAL SCIENCE OBRABOTKA METALLOV
+
+Obrabotka metallov (tekhnologiya, oborudovanie, instrumenty) = Metal Working and Material Science. 2021 vol. 23 no. 3 pp. 100–111
+ISSN: 1994-6309 (print) / 2541-819X (online)
+DOI: 10.17212/1994-6309-2021-23.3-100-111
+
+Obrabotka metallov - 
+Metal Working and Material Science
+
+Journal homepage: http://journals.nstu.ru/obrabotka_metallov
+
+Hydrogen and its effect on the grinding of Ti-Ni powder
+Ekaterina Abdulmenova a, *, Sergey Kulkov b
+
+Institute of Strength Physics and Materials Science of Siberian Branch of Russian Academy of Sciences, 2/4 pr. Akademicheskii, Tomsk, 634055, Russian 
+Federation
+
+a  https://orcid.org/0000­0002­9594­5706,  Ekaterina.V.Abdulmenova@yandex.ru, b  https://orcid.org/0000­0002­4635­6569,  kulkov@ispms.ru
+
+A RT I C L E  I N F O A B S T R A C T
+
+Article history: Introduction. Industrial nickel­titanium alloy PN55T45 closed to the equiatomic composition is widely 
+Received: 07 April 2021 used for the manufacture of products by powder metallurgy. To achieve high physical and mechanical 
+Revised: 23 April 2021 properties of the material obtained by this method, it is necessary to use fi ne powders, which can be obtained by 
+Accepted: 30 July 2021
+Available online: 15 September 2021 implementing high­intensity grinding in a planetary ball mill. However, during such treatment, contamination, 
+
+powder oxidation and particle aggregation, etc. are possible. To solve this problem, preliminary hydrogenation 
+Keywords: is proposed for subsequent grinding in a planetary ball mill. The aim of the work is to study the effect 
+Ni­Ti powder of hydrogen on the grinding of titanium nickelide powder. Materials and methods. The morphology and 
+Mechanical treatment average particle size of the powders were studied by scanning electron microscopy. The structure and phase 
+Hydrogenation composition of the powders were investigated by the methods of X­ray structural and X­ray phase analysis. 
+Hydrogen The data of X­ray structural analysis were used to estimate the dislocation density. Results and discussions. 
+Coherently diffracting domain
+Lattice parameter It is shown that the use of pre­hydrogenation for 180 minutes before machining allows reducing the average 
+Phase composition particle size by about a half. After mechanical treatment of the powder, the parameters of the crystal lattices of 
+
+the TiNi (austenite), Ti2Ni and Ni3Ti phases do not change within the error range. After mechanical treatment 
+Funding of the powder with preliminary hydrogenation, the crystal lattice parameter of only the Ti2Ni phase changes 
+The results were obtained in the signifi cantly, in particular, at 180 minutes of hydrogenation, the lattice parameter increases to 1.1457 ± 5×10­4 
+framework of the Integrated Project nm, which corresponds to the stoichiometry of the Ti2NiH0.5 hydride with a lattice parameter of 1.1500 nm. 
+“Establishment of import­substituting The highest dislocation density estimated by X­ray diffraction analysis is contained in the Ti2Ni (511) phase 
+high­tech full­cycle production of than in the TiNi (austenite) (110) and Ni3Ti (202) phases. Thus, preliminary hydrogenation can be an effective 
+complex­shaped indexable carbide method of powder grinding due to the formation of brittle hydride and suppression of the aggregation of fi ne 
+cutting inserts for priority industries” particles during high­intensity mechanical treatment.
+(Agreement No. 075­11­2019­036 dated 
+November 27, 2019) implemented by 
+the ISPMS SB RAS at the fi nancial 
+support of the Ministry of Education 
+and Science of the Russian Federation 
+as part of Decree of the Government of 
+the Russian Federation No. 218 dated 
+April 09, 2010.
+
+Acknowledgements
+Research were conducted at core facil­
+ity “Structure, mechanical and physical 
+properties of materials”.
+
+For citation: Abdulmenova E.V., Kulkov S.N. Hydrogen and its effect on the grinding of Ti­Ni powder. Obrabotka metallov (tekhnologiya, 
+oborudovanie, instrumenty) = Metal Working and Material Science, 2021, vol. 23, no. 3, pp. 100–111. DOI: 10.17212/1994­6309­2021­23.3­
+100­111. (In Russian).
+
+______
+* Corresponding author
+Abdulmenova Ekaterina V., Postgraduate student, Research assistant
+Institute of Strength Physics and Materials Science
+of Siberian Branch of Russian Academy of Sciences,
+2/4 pr. Akademicheskii,
+634055, Tomsk, Russian Federation
+Tel.: 8 (3822) 286­988, e-mail: Ekaterina.V.Abdulmenova@ispms.ru
+
+Vol. 23 No. 3 2021 109
+
+
+
+OBRABOTKA METALLOV MATERIAL SCIENCE
+
+References
+1. Wade N., Adachi Y., Hosoi Z. A role of hydrogen in shape memory effect of Ti­Ni alloys. Scripta Metallurgica 
+
+et Materialia, 1990, vol. 24 (6), pp. 1051–1055. DOI: 10.1016/0956­716x(90)90298­u.
+2. Yokoyama K., Kaneko K., Ogawa T., Moriyama K., Asaoka K., Sakai J. Hydrogen embrittlement of 
+
+work­hardened Ni­Ti alloy in fluoride solutions. Biomaterials, 2005, vol. 26, pp. 101–108. DOI: 10.1016/j.
+biomaterials.2004.02.009.
+
+3. Astafurova E.G., Melnikov E.V., Astafurov S.V., Ratochka I.V., Mishin I.P., Maier G.G., Moskvina V.A., 
+Zakharov G.N., Smirnov A.I., Bataev V.A. Hydrogen embrittlement of austentic stainless steels with ultrafine­
+grained structures of different morphhologies. Physical Mesomechanics, 2019, vol. 22, no. 4, pp. 113–126. 
+DOI: 10.1134/S1029959919040076. Translated from Fizicheskaya mezomekhanika, 2018, vol. 21, no. 2, pp. 103–
+117. DOI: 10.24411/1683­805X­2018­12011.
+
+4. Kolachev B.A. Vodorodnaya khrupkost’ metallov [Hydrogen embrittlement of metals]. Moscow, Metallurgiya 
+Publ., 1985. 216 p.
+
+5. Gadel’shin M.Sh., Anisimova L.I., Boitsova E.S. Vodorodnoe plastifitsirovanie titanovykh splavov [Hydrogen 
+plasticisation of titanium alloys]. Mezhdunarodnyi nauchnyi zhurnal al’ternativnaya energetika i ekologiya = 
+International Scientific Journal Alternative Energy and Ecology, 2004, vol. 17, no. 9, pp. 26–29.
+
+6. Khadzhieva O.G., Illarionov A.G., Popov A.A., Grib S.V. Effect of hydrogen on the structure of quenched 
+orthorhombic titanium aluminide­based alloy and phase transformations during subsequent heating. The Physics of 
+Metals and Metallography, 2013, vol. 114, no. 6, pp. 577–582. DOI: 10.1134/S0031918X13060070. Translated from 
+Fizika metallov i metallovedenie, 2013, vol. 114, no. 6, pp. 577–582. DOI: 10.7868/S0015323013060077.
+
+7. Panin V.E., Egorushkin V.E., Moiseenko D.D., Maksimov P.V., Kulkov S.N., Panin S.V. Functional role 
+of polycrystal grain boundaries and interfaces in micromechanics of metal ceramic composites under loading. 
+Computational Materials Science, 2016, vol. 116, pp. 74–81. DOI: 10.1016/j.commatsci.2015.10.
+
+8. Otsuka K., Ren X. Physical metallurgy of Ti­Ni­based shape memory alloys. Progress in Materials Science, 
+2005, vol. 50 (5), pp. 511–678. DOI: 10.1016/j.pmatsci.2004.10.001.
+
+9. El­Eskandarany M.S. Structure and properties of nanocrystalline TiC full­density bulk alloy consolidated 
+from mechanically reacted powders. Journal of Alloys and Compounds, 2000, vol. 305, pp. 225–238. DOI: 10.1016/
+s0925­8388(00)00692­7.
+
+10. Nobuki T., Crivello J­C., Cuevas F. Fast synthesis of TiNi by mechanical alloying and its hydrogenation 
+properties. International Journal of Hydrogen Energy, 2019, vol. 44, pp. 10770–10776. DOI: 10.1016/j.
+ijhydene.2019.02.203.
+
+11. Kumar A., Shashikala K., Banerjee S., Nuwad J., Das P., Pillai C.G.S. Effect of cycling on hydrogen storage 
+properties of Ti2CrV alloy. International Journal of Hydrogen Energy, 2012, vol. 37, pp. 3677–3682. DOI: 10.1016/j.
+ijhydene.2011.04.135.
+
+12. Bratanich T.I., Get’man O.I., Permyakova T.V., Skorokhod V.V. Destructive hydrogenation as method for 
+improvement of TiNi exploitation properties. International Journal of Hydrogen Energy, 2007, vol. 32, pp. 3941–
+3946. DOI: 10.1016/j.ijhydene.2007.04.033.
+
+13. Balcerzak M., Jakubowicz J., Kachlicki T., Jurczyk M. Hydrogenation properties of nanostructured Ti2Ni­
+based alloys and nanocomposites. Journal of Power Sources, 2015, vol. 280, pp. 435–445. DOI: 10.1016/j.
+jpowsour.2015.01.135.
+
+14. Ivasishin O.M., Eylon D., Bondarchuk V.I., Savvakin D.G. Diffusion during powder metallurgy synthesis of 
+titanium alloys. Defect Diffusion Forum, 2008, vol. 277, pp. 177–185. DOI: 10.4028/www.scientific.net/ddf.277.177.
+
+15. Ivasishin O.M., Savvakin D.G., Gumenyak M.M., Bondarchuk O.B. Role of surface contamination in titanium 
+PM. Key Engineering Materials, 2012, vol. 520, pp. 121–132. DOI: 10.4028/www.scientific.net/kem.520.121.
+
+16. Ivasishin O.M., Moxson V.S. Low­cost titanium hydride powder metallurgy. Titanium Powder Metallurgy. 
+Amsterdam, Boston, Elsevier, 2015, pp. 117–148. DOI: 10.1016/b978­0­12­800054­0.00008­3.
+
+17. Sun P., Fang Z.Z., Koopman M. A comparison of hydrogen sintering and phase transformation (HSPT) 
+processing with vacuum sintering of CP­Ti. Advanced Engineering Materials, 2013, vol. 15, pp. 1007–1013. 
+DOI: 10.1002/adem.201300017.
+
+18. Paramore J.D., Fang Z.Z., Sun P. Hydrogen sintering of titanium and its alloys. Titanium Powder Metallurgy. 
+Amsterdam, Boston, Elsevier, 2015, pp. 163–182. DOI: 10.1016/b978­0­12­800054­0.00010­1.
+
+19. Baimakov Yu.V., Zhurin A.I. Elektroliz v gidrometallurgii [Electrolysis in hydrometallurgy]. Moscow, 
+Metallurgizdat Publ., 1962. 617 p.
+
+110 Vol. 23 No. 3 2021
+
+
+
+MATERIAL SCIENCE OBRABOTKA METALLOV
+
+20. Abdulmenova E.V., Kulkov S.N. Mechanical high­energy treatment of TiNi powder and phase changes 
+after electrochemical hydrogenation. International Journal of Hydrogen Energy, 2021, vol. 46, pp. 823–836. 
+DOI: 10.1016/j.ijhydene.2020.09.171.
+
+21. Dresvyannikov A.F., Kolpakov M.E. Kontrol’ i upravlenie kachestvom materialov [Control and management 
+of the quality of materials]. Kazan, Kazan State Technological University Publ., 2007. 389 p. ISBN 978­5­7882­
+0255­0.
+
+22. Abdulmenova E.V., Kulkov S.N. Ti­Ni powder structure after mechanical activation and interaction with 
+hydrogen. Russian Physics Journal, 2019, vol. 62, no. 8, pp. 1455–1460. DOI: 10.1007/s11182­019­01873­y. 
+Translated from Izvestiya vysshikh uchebnykh zavedenii. Fizika, 2019, vol. 62, no. 8, pp. 137–142. DOI: 10.17223/0
+0213411/62/8/137.
+
+23. Tabular processor for X-ray diffractometry. Available at: http://slavic.me/rtp/index.htm (accessed 12.08.2021).
+24. Scherrer P. Bestimmung der inneren Struktur und der Größe von Kolloidteilchen mittels Röntgenstrahlen. 
+
+Kolloidchemie Ein Lehrbuch, Berlin, Heidelberg, Springer, 1912, pp. 387–409. DOI: 10.1007/978­3­662­33915­2_7.
+25. Stuewe H­P., Shimomura Y. Lattice constants of the body­centered­cubic phases FeTi, CoTi, and NiTi. 
+
+Zeitschrift fur Metallkunde, 1960, vol. 51, pp. 180–181.
+26. Muller M.H., Knott H.W. Powder metallurgy and metal ceramics. Transactions of the Metallurgical Society 
+
+of AIME 227, 1963, vol. 674, pp. 674–677.
+27. Laves F., Wallbaum H.J. Die Kristallstruktur von Ni3Ti und Si2Ti. Zeitschriftfür Kristallographie – Crystalline 
+
+Materials, 1939, vol. 101, pp. 78–93. DOI: 10.1524/zkri.1939.101.1.78.
+28. Michal G.M., Sinclair R. The structure of TiNi martensite. Acta Crystallographica. Section B: Structural 
+
+Science, 1981, vol. 37, pp. 1803–1807. DOI: 10.1107/S0567740881007292.
+29. Buchner H., Gutjahr M., Beccu K., Saufferer H. Wasserstoff in intermetallischen phasen am beispiel des 
+
+systems titan­nickel­wasserstoff. Zeitschrift Fur Metallkunde, 1972, vol. 63, pp. 497–500.
+30. Luan B., Cui N., Zhao H., Liu H.K., Dou S.X. Mechanism of early capacity loss of Ti2Ni hydrogen­storage 
+
+alloy electrode. Journal of Power Sources, 1995, vol. 55, pp. 101–106. DOI: 10.1016/0378­7753(94)02162­v.
+31. Williamson G.K., Smallman R.E. Dislocation densities in some annealed and cold­worked metals from 
+
+measurements on the X­ray debye­scherrer spectrum. Philosophical Magazine, 1956, vol. 1 (1), pp. 34–46. 
+DOI: 10.1080/14786435608238074.
+
+32. Zakharov A.P., ed. Vzaimodeistvie vodoroda s metallami [Interaction of hydrogen with metals]. Moscow, 
+Nauka Publ., 1987. 296 p.
+
+33. Tomita M., Yokoyama K., Sakai J. Effects of potential, temperature and pH on hydrogen absorption and 
+thermal desorption behaviors of Ni­Ti superelastic alloy in 0.9 % NaCl solution. Corrosion Science, 2008, vol. 50, 
+pp. 2061–2069. DOI: 10.1016/j.corsci.2008.04.022.
+
+34. Prochazka I., Cízek J., Havranek V., Anwand W. Defect studies of H implanted niobium. Journal of Alloys 
+and Compounds, 2015, vol. 645, pp. S69–S71. DOI: 10.1016/j.jallcom.2015.01.197.
+
+Conflicts of Interest
+The authors declare no conflict of interest.
+
+ 2021 The Authors. Published by Novosibirsk State Technical University. This is an open access article under the CC BY 
+license (http://creativecommons.org/licenses/by/4.0/).
+
+Vol. 23 No. 3 2021 111

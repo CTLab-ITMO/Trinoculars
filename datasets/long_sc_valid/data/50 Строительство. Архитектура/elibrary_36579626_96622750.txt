@@ -1,0 +1,689 @@
+﻿СТРОИТЕЛЬНАЯ МЕХАНИКА ИНЖЕНЕРНЫХ КОНСТРУКЦИЙ И СООРУЖЕНИЙ 2018. 14 (5). 369–378 
+
+STRUCTURAL MECHANICS OF ENGINEERING CONSTRUCTIONS AND BUILDINGS HTTP://JOURNALS.RUDN.RU/
+ STRUCTURAL-MECHANICS 
+
+ 
+ 
+УДК 624.04           НАУЧНАЯ СТАТЬЯ 
+DOI: 10.22363/1815-5235-2018-14-5-369-378 
+ 
+Сравнение результатов расчета сооружений на заданные акселерограммы 
+
+нелинейным статическим и нелинейным динамическим методами 
+ 
+
+С.В. Булушев 
+ 
+
+Национальный исследовательский Московский государственный строительный университет 
+Ярославское шоссе, 26, Москва, Российская Федерация, 129337 
+
+ 
+(поступила в редакцию: 21 августа 2018 г.; доработана: 17.09.2018 г.; принята к публикации: 28 сентября 2018 г.) 
+
+ 
+ 
+
+Актуальность. Современные нормы проектирования зданий и сооружений с учетом сейсмических воздействий 
+предполагают расчет конструкций в нелинейной постановке. Одного линейно-спектрального метода, который при-
+менялся и применяется до сих пор, для расчета уже недостаточно. Это связано с тем, что он не позволяет напрямую 
+учесть нелинейную работу конструкций. Для решения поставленной задачи могут быть использованы нелинейные 
+динамические методы расчета во временной области. На данный момент такие методы реализованы лишь в специа-
+лизированных программных комплексах и в большинстве случаев не могут быть использованы обычными проекти-
+ровщиками. Таким образом, появилась необходимость в применении более простых методов нелинейного расчета. 
+В зарубежных нормах для расчета сейсмостойкости зданий и сооружений уже давно применяются нелинейные ста-
+тические методы, или «пушовер анализ» (pushover analysis). Но в отечественной практике проектирования до не-
+давнего времени этим методам не уделялось должного внимания. Тем самым актуальность исследования возмож-
+ности применения этих методов в инженерной практике не вызывает сомнения. 
+
+Цель. Целью данной статьи является оценка точности нелинейного статического метода по сравнению с нели-
+нейным динамическим методом при расчете сооружений на заданные акселерограммы. 
+
+Методы. В статье рассмотрены три стальные рамы: одно-, трех– и семиэтажная. Подбор сечений выполнен в 
+соответствии с требованиями норм по сейсмостойкому строительству на сейсмические нагрузки уровня ПЗ. Также 
+рамы рассчитаны на сейсмическое воздействие уровня МРЗ на набор акселерограмм различного частотного соста-
+ва. Расчет производился нелинейным динамическим методом в программном комплексе LS-DYNA и нелинейным 
+статическим методом в программных комплексах «ЛИРА 10.6» и MATLAB. 
+
+Выводы. Расчеты показали, что во всех рассмотренных случаях, кроме одного, нелинейный статический метод 
+показал консервативную оценку реакции системы по сравнению с нелинейным динамическим методом. Но в неко-
+торых случаях получилась слишком большая погрешность.  
+
+ 
+Ключевые слова: сейсмостойкость, нелинейный метод расчета, нелинейный статический метод расчета, нели-
+
+нейный динамический метод расчета, пушовер анализ, акселерограмма 
+ 
+ 
+
+Введение СП 14.13330.20141. Однако при расчете на МРЗ для 
+ более адекватной оценки требуется напрямую учи-
+
+В современных российских нормах по сейсмо- тывать нелинейную работу конструкций. Наиболее 
+стойкому строительству1 при проектировании зда- точно это можно сделать с помощью нелинейных 
+ний и сооружений необходимо выполнять расчет динамических методов (НДМ). В этом случае про-
+на два уровня сейсмических нагрузок: уровень ПЗ ектировщику, как правило, приходится обращаться 
+(проектное землетрясение) и уровень МРЗ (макси- в специализированные организации для расчета зда-
+мальное расчетное землетрясение). С расчетом на ний и сооружений на МРЗ. Это связано с тем, что 
+ПЗ все достаточно понятно и просто. В этом случае нелинейные динамические методы расчета во вре-
+используется линейно-спектральный метод (ЛСМ), менной области реализованы лишь в сложных про-
+который является нормативным и применяется в граммных комплексах. В то же время нелинейные 
+
+                                                 статические методы (НСМ), которые достаточно 
+1 СП 14.13330.2014. Строительство в сейсмических рай- давно разработаны и применяются за рубежом [1–7], 
+
+онах. Актуализированная редакция СНиП II-7-81*. М., 2014. а также включены в иностранные нормы проекти-
+
+ДИНАМИКА КОНСТРУКЦИЙ И СООРУЖЕНИЙ  369 
+
+
+
+Sergey V. Bulushev. Structural Mechanics of Engineering Constructions and Buildings, 2018, 14(5), 369–378 
+ 
+
+ 
+рования2, не получили должного развития. Лишь в доминантными частотами 0,25, 0,5, 1,0, 1,5 и 2 Гц 
+последнее время нелинейные статические методы (рис. 3–7 соответственно). Все акселерограммы 
+стали активно исследоваться [8–20]. нормированы на ускорение 2 м/с2. 
+
+  
+Цель исследования 
+
+ 
+Ранее в работе [7] была предложена методи-
+
+ка нелинейного статического анализа зданий и со- 
+оружений на сейсмические воздействия на осно-
+ве FEMA 440. В работах [8–9] была проведена оцен-
+ка точности нелинейного статического метода при 
+расчете на проектный спектр землетрясения в со- 
+ответствии с СП 14.13330.2014. 
+
+Целью данной работы является оценка точности 
+нелинейного статического метода по сравнению 
+с нелинейным динамическим методом при расче-
+те сооружений на заданные акселерограммы. 
+
+  
+ 
+
+Материалы и методы Рис. 1. Расчетная схема трехэтажной рамы 
+ [Figure 1. The design scheme of the three-storey frame] 
+
+В работе рассмотрены три однопролетные жест-  
+кие рамы из стальных двутавров: одно-, трех- и 
+семиэтажная. На рис. 1 приведена расчетная схема 
+трехэтажной рамы. Размеры остальных приняты по 
+аналогии. Материал колонн – сталь С345, балок – 
+С255 в соответствии с СП 16.13330.20113. Диа-
+граммы работы стали приняты упруго-пластиче- 
+скими (рис. 2).  
+
+Сечения рам подобраны в соответствии с СП 
+14.13330.2014 при расчете на сейсмическое воз-
+действие уровня ПЗ интенсивностью 8 баллов в 
+ПК «ЛИРА 10.6». Частоты первой формы коле-
+баний рам равны 1,521, 0,702 и 0,375 Гц соответ-
+ственно. Параметр затухания для конструкций 
+ξ = 3 % от критического.   
+
+Расчет рам на сейсмические воздействия уров-  
+ня МРЗ производился в нелинейной постановке с Рис. 2. Общий вид диаграммы деформирования стали 
+применением синтезированных акселерограмм. Для [Figure 2. General view of steel deformation diagram] 
+расчета было синтезировано 5 акселерограмм с  
+                                                 Расчет нелинейным динамическим методом 
+
+2 Applied Technology Council (ATC). Seismic Evaluation (НДМ) проводился в программном комплексе LS-
+and Retrofit of Concrete Buildings. Rep. No. ATC-40, Volumes DYNA путем непосредственного решения уравне-
+1 and 2, Redwood City, CА, 1996. ний движения во временной области с помощью 
+
+European Standard. Eurocode-Basis of Structural Design: явных схем интегрирования. Во всех расчетах учи-
+EN 1990: 2002(Е). April, 2002. 87 р. 
+
+FEMA 273. Federal Emergency Management Agency. NEHRP тывались физическая и геометрическая нелинейно-
+Guidelines for the Seismic Rehabilitation of Buildings, Washing- сти. Одноэтажная рама рассчитывалась на акселе-
+ton, D.C. October, 1997. рограммы № 3–5. Трехэтажная и семиэтажная на 
+
+FEMA-274. Federal Emergency Management Agency. NEHRP акселерограммы № 1–3. 
+Commentary on the Guidelines for the Seismic Rehabilitation of 
+Buildings, Washington, D.C. October, 1997. Аналогичные расчеты проводились нелиней-
+
+FEMA 356. Prestandard and commentary for the seismic ным статическим методом на основании методи-
+rehabilitation of buildings. American Society of Civil Engineers ки, предложенной ранее в [7], в программных 
+(ASCE), Washington, D.C. November, 2000.  комплексах «ЛИРА 10.6» и MATLAB. Расчеты 
+
+FEMA 440. Improvement of nonlinear static seismic analy- выполнены как с учетом физической и геометри-
+sis procedures. Rep. No. ATC-55, Redwood City, CА, 2005. 
+
+3 СП 16.13330.2011. Стальные конструкции. Актуали- ческой нелинейностей (ГН), так и с учетом толь-
+зированная редакция СНиП II-23-81*. М., 2011. ко физической нелинейности. 
+
+370   DYNAMICS OF STRUCTURES AND BUILDINGS 
+
+
+
+Булушев С.В. Строительная механика инженерных конструкций и сооружений. 2018. Т. 14. № 5. С. 369–378 
+ 
+
+ 
+ 
+
+а 
+
+б 
+
+ 
+ 
+
+Рис. 3. Акселерограмма № 1: a – акселерограмма; б – спектральный состав 
+[Figure 3. Accelerogram № 1: a – accelerogram; б – spectral composition] 
+
+ 
+а 
+
+б 
+
+ 
+ 
+
+Рис. 4. Акселерограмма № 2: a – акселерограмма; б – спектральный состав 
+[Figure 4. Accelerogram № 2: a – accelerogram; б – spectral composition] 
+
+а  
+
+б 
+
+ 
+ 
+
+Рис. 5. Акселерограмма № 3: a – акселерограмма; б – спектральный состав 
+[Figure 5. Accelerogram № 3: a – accelerogram; б – spectral composition] 
+
+ДИНАМИКА КОНСТРУКЦИЙ И СООРУЖЕНИЙ  371 
+
+
+
+Sergey V. Bulushev. Structural Mechanics of Engineering Constructions and Buildings, 2018, 14(5), 369–378 
+ 
+
+ 
+ 
+
+а 
+
+б 
+
+ 
+ 
+
+Рис. 6. Акселерограмма № 4: a – акселерограмма; б – спектральный состав 
+[Figure 6. Accelerogram № 4: a – accelerogram; б – spectral composition] 
+
+ 
+а 
+
+б 
+
+ 
+ 
+
+Рис. 7. Акселерограмма № 5: a – акселерограмма; б – спектральный состав 
+[Figure 7. Accelerogram № 5: a – accelerogram; б – spectral composition] 
+
+ 
+Результаты тельные расхождения с нелинейным динамическим 
+
+ методом как в большую, так и в меньшую сторону. 
+Результаты показали, что при расчете на МРЗ В проведенном исследовании нелинейный стати-
+
+ни одна рама не обрушилась, за исключением случая ческий метод показал консервативные результа-
+расчета нелинейным статическим методом одно- ты во всех случаях, кроме одного – при расчете 
+этажной рамы на акселерограмму № 1. В качестве одноэтажной рамы на акселерограмму № 1. Раз-
+сравнения нелинейного статического и нелинейного ница в перемещениях по сравнению с нелиней-
+динамического методов использовалась величина ным динамическим методом составляет до 50 %, 
+максимального перемещения верха конструкции. за исключением случая расчета трехэтажной рамы 
+На рис. 8–10 приведены результаты расчета трех на акселерограмму № 1. 
+рам. Остальные результаты сведены в табл. 1–3. 
+
+ В работах [1; 2; 7] исследовались различные 
+Обсуждение модификации нелинейного статического метода. 
+
+ Было показано, что при расчете только по одной 
+В работах [8–9] при расчете нелинейным ста- форме собственных колебаний в определенных слу- 
+
+тическим методом на проектный спектр в соответ- чаях результаты могут достаточно сильно расхо-
+ствии с СП 14.13330.2014 были получены значи- диться по сравнению с нелинейным динамиче-
+
+372   DYNAMICS OF STRUCTURES AND BUILDINGS 
+
+
+
+Булушев С.В. Строительная механика инженерных конструкций и сооружений. 2018. Т. 14. № 5. С. 369–378 
+ 
+
+ 
+ским методом. При этом в целом метод оценивается лучения более точных результатов предлагается ис-
+как достаточно эффективный при оценке реакции пользовать модальный «пушовер анализ», который 
+сооружений на сейсмические воздействия. Для по- позволяет учитывать высшие формы колебаний. 
+
+а  
+
+б 
+
+ 
+ 
+
+Рис. 8. Перемещения верха одноэтажной рамы при расчете на акселерограмму № 4: a – НСМ с ГН; б – НДМ 
+[Figure 8. Displacement of the top of a single-story frame when calculating for an accelerogram № 4:  
+
+а – nonlinear static method with accounting geometric nonlinearity; б – nonlinear dynamic method] 
+а  
+
+б 
+
+ 
+ 
+
+Рис. 9. Перемещения верха трехэтажной рамы при расчете на акселерограмму № 2: a – НСМ с ГН; б – НДМ 
+[Figure 9. Displacements of the top of the three-story frame when calculating the accelerogram № 2:  
+
+а – nonlinear static method with accounting geometric nonlinearity; б – nonlinear dynamic method] 
+
+ДИНАМИКА КОНСТРУКЦИЙ И СООРУЖЕНИЙ  373 
+
+
+
+Sergey V. Bulushev. Structural Mechanics of Engineering Constructions and Buildings, 2018, 14(5), 369–378 
+ 
+
+а  
+
+б 
+
+ 
+ 
+
+Рис. 10. Перемещения верха семиэтажной рамы при расчете на акселерограмму № 2: a – НСМ с ГН; б – НДМ 
+[Figure 10. Displacements of the top of a seven-story frame when calculating for an accelerogram № 2: 
+
+а – nonlinear static method with accounting geometric nonlinearity; б – nonlinear dynamic method] 
+ 
+
+Таблица 1 
+Результаты для одноэтажной рамы 
+
+[Table 1. Results of calculation for one-story frame] 
+Воздействие Доминирующая Разница Максимальное Разница, % Максимальное Разница, %
+
+[Impact] частота  с основной  перемещение [The diffe- перемещение [The diffe-
+воздействия, Гц собственной верха рамы, м rence, %] верха рамы, м rence, %] 
+
+[Dominant  частотой  [Maximum  [Maximum  
+frequency of конструкции, % displacement of displacement of 
+impacts, Hz] [The difference the top of  the top of  
+
+with the basic the frame, m] the frame, m] 
+natural  
+
+frequency of  НДМ НСМ 
+the design, %] без ГН НДМ НСМ  
+
+с ГН 
+Акселерограмма № 3 
+[Accelerogram № 3] 1,00 –34,25 0,099 0,071 –28,28 0,099 0,073 –26,26 
+Акселерограмма № 4 
+[Accelerogram № 4] 1,50 –1,38 0,092 0,119 29,35 0,092 0,118 28,26 
+Акселерограмма № 5 
+[Accelerogram № 5] 2,00 31,49 0,055 0,058 5,45 0,055 0,058 5,45 
+
+ 
+Таблица 2 
+
+Результаты для трехэтажной рамы 
+[Table 2. Results of calculation for three-story frame] 
+
+Воздействие Доминирующая Разница Максимальное Разница, % Максимальное Разница, %
+[Impact] частота  с основной  перемещение [The diffe- перемещение [The diffe-
+
+воздействия, Гц собственной верха рамы, м rence, %] верха рамы, м rence, %] 
+[Dominant частотой  Maximum  Maximum  
+
+frequency of конструкции, % displacement of displacement of 
+impacts, Hz] [The difference the top of  the top of  
+
+with the basic the frame, m] the frame, m] 
+natural frequency 
+of the design, %] НДМ НСМ
+
+без ГН НДМ НСМ с 
+ГН 
+
+Акселерограмма № 1 
+[Accelerogram № 1] 0,25 –64,39 0,392 0,844
+
+(разр,) 115,31 0,392 3,161 
+(разр,) 706,38 
+
+Акселерограмма № 2 
+[Accelerogram № 2] 0,50 –28,77 0,617 0,626 1,46 0,617 0,667 8,10 
+Акселерограмма № 3 
+[Accelerogram № 3] 1,00 42,45 0,249 0,332 33,33 0,249 0,344 38,15 
+
+374   DYNAMICS OF STRUCTURES AND BUILDINGS 
+
+
+
+Булушев С.В. Строительная механика инженерных конструкций и сооружений. 2018. Т. 14. № 5. С. 369–378 
+ 
+
+ 
+Таблица 3 
+
+Результаты для семиэтажной рамы 
+[Table 3. Results of calculation for seven-story frame] 
+
+Воздействие Доминирующая Разница Максимальное Разница, % Максимальное Разница, %
+[Impact] частота  с основной  перемещение [The diffe- перемещение [The diffe-
+
+воздействия, Гц собственной верха рамы, м rence, %] верха рамы, м rence, %] 
+[Dominant  частотой  [Maximum  [Maximum  
+
+frequency of конструкции, % displacement of displacement of 
+impacts, Hz] [The difference the top of  the top of  
+
+with the basic the frame, m] the frame, m] 
+natural  
+
+frequency of  НДМ НСМ 
+the design, %] без ГН НДМ НСМ с 
+
+ГН 
+Акселерограмма №1 
+[Accelerogram № 1] 0,25 –33,33 1,780 2,429 36,46 1,780 2,393 34,44 
+Акселерограмма №2 
+[Accelerogram № 2] 0,50 33,33 0,541 0,766 41,59 0,541 0,772 42,70 
+Акселерограмма №3 
+[Accelerogram № 3] 1,00 166,67 0,251 0,266 5,98 0,251 0,256 1,99 
+
+ 
+В работах [17; 18] предлагается использовать нейного статического метода, в том числе разви-
+
+нелинейный статический метод для расчетов зданий тие модального «пушовер анализа». Требуется ве- 
+и сооружений в соответствии с СП 14.13330.2014. рификация этого метода для зданий и сооружений 
+Несмотря на существенные допущения, применя- разных конструктивных схем и этажности, а так-
+емые в нелинейном статическом методе в отличие же для различных материалов конструкций. Не- 
+от линейно-спектрального метода, он напрямую обходимо определить область применения нели-
+учитывает повреждения конструкций. Тем самым нейного статического метода, в которой он будет 
+позволяя отказаться от коэффициента К1. Утвер- давать практически приемлемые результаты. 
+ждается, что метод является достаточно простым  
+и наглядным, и может применяться при проекти- © Булушев С.В., 2018 
+ровании зданий и сооружений с прогнозируемым This work is licensed under a Creative Commons 
+уровнем повреждений их несущих конструкций. Attribution 4.0 International License 
+Однако автор не приводит оценку погрешности не-  
+линейного статического метода на основе более 
+
+Благодарности. Статья посвящается светлой памя-
+точных аналитических или численных методов ти Гурама Автандиловича Джинчвелашвили. Он был 
+(например, с применением нелинейного динами- отличным учителем и прекрасным человеком. Автор 
+ческого метода). безгранично ценит полученные от него знания и опыт. 
+
+  
+Заключение Список литературы 
+
+  
+Нелинейный статический метод не противо- 1. Chopra A.K., Goel R.K. Capacity-demand diagram 
+
+речит требованиями российских норм и может methods based on inelastic design spectrum // Proceedings 
+применяться при расчетах зданий и сооружений of 12 World Conference on Earthquake Engineering. 
+
+на сейсмические воздействия. Так или иначе, этот Auckland, New Zealand, 2000. Paper № 1612. 
+2. Chopra A.K., Goel R.K. A modal pushover analy-
+
+подход уже начал использоваться в инженерной sis procedure for estimating seismic demands for buil- 
+практике. Однако на данный момент единая ме- dings // Earthquake engineering and structural dynamics. 
+тодика расчета отсутствует.  2002. No. 31. Pp. 561–582. 
+
+В настоящей работе произведена оценка точ- 3. Datta T.K. Seismic Analysis of Structures. John 
+ности предложенной ранее методики нелинейно- Wiley & Sons (Asia) Pte. Ltd., 2010. 464 p. 
+го статического анализа по отношению к нели- 4. Fajfar P., Krawinkler H. Performance-Based Seis- 
+нейному динамическому методу при расчете на mic Design Concepts and Implementation // Proceedings 
+синтезированные акселерограммы. Для рассмот- of the International Workshop Bled. Slovenia, June 28 – 
+ренных задач в большинстве случаев методика July 1, 2004. PEER Report 2004/05. College of Enginee- 
+
+дала консервативную оценку реакции системы. ring, University of California, Berkeley. 
+5. Gupta B. Enhanced pushover procedure and inelastic 
+
+Однако в некоторых случаях расхождения имеют demand estimation for performance-based seismic evalua-
+существенную величину даже для простых расчет- tion of buildings: Ph.D. Dissertation. Orlando, Florida, 
+ных схем.  University of Central Florida, 1998. 
+
+Таким образом, необходимо проведение даль- 6. Paz M., Leigh W. Structural Dynamics: Theory and 
+нейших исследований и совершенствование нели- Computation. 5th ed. 2004. 844 p. 
+
+ДИНАМИКА КОНСТРУКЦИЙ И СООРУЖЕНИЙ  375 
+
+
+
+Sergey V. Bulushev. Structural Mechanics of Engineering Constructions and Buildings, 2018, 14(5), 369–378 
+ 
+
+ 
+7. Themelis S. Pushover analysis for seismic assess- 17. Соснин А.В. Об особенностях методологии не- 
+
+ment and design of structures: Ph.D. Dissertation. Heriot- линейного статического анализа и его согласованности 
+Watt University, School of Built Environment, 2008. с базовой нормативной методикой расчета зданий и 
+
+8. Джинчвелашвили Г.А., Булушев С.В., Колесни- сооружений на действие сейсмических сил // Вестник 
+ков А.В. Нелинейный статический метод анализа сейсмо- ЮУрГУ. Серия: Строительство и архитектура. 2016. 
+стойкости зданий и сооружений // Сейсмостойкое строи- Т. 16. № 1. С. 12–19. 
+тельство. Безопасность сооружений. 2016. № 5. С. 39–47. 18. Соснин А.В. Об уточнении коэффициента до-
+
+9. Джинчвелашвили Г.А., Булушев С.В. Оценка точ- пускаемых повреждений K1 и его согласованности с 
+ности нелинейного статического метода анализа сейсмо- концепцией редукции сейсмических сил в постановке 
+стойкости сооружений // Строительная механика инже- спектрального метода (в порядке обсуждения) // Вест-
+нерных конструкций и сооружений. 2017. № 2. С. 41–48. ник гражданских инженеров. 2017. № 1(60). С. 92–116. 
+
+10. Джинчвелашвили Г.А., Булушев С.В. Расчетное 19. Чхиквадзе К.Т., Цискрели Ц.Г., Члаидзе Н.Ш., 
+обоснование заданного уровня сейсмостойкости со- Каджая Л.Д. Применение нелинейного статического 
+оружений // Строительная механика инженерных кон- (Pushover) метода для оценки поведения конструкций 
+струкций и сооружений. 2018. Т. 14. № 1. С. 70–79. при сейсмическом воздействии // Строительная меха-
+
+11. Джинчвелашвили Г.А. Нелинейные динамиче- ника и расчёт сооружений. 2010. № 2. С. 48–52.  
+ские методы расчета зданий и сооружений с заданной 20. Чхиквадзе К.Т., Цискрели Ц.Г., Члаидзе Н.Ш., 
+обеспеченностью сейсмостойкости: автореф. дис. … Каджая Л.Д. Построение кривой «Pushover» для оцен-
+д-ра техн. наук. М.: МГСУ, 2015. 46 с. ки поведения конструкции при сейсмическом воздей-
+
+12. Соснин А.В. Особенности оценки дефицита сей- ствии за пределом упругости // Сейсмостойкое строи-
+смостойкости железобетонных каркасных зданий ме- тельство. Безопасность сооружений. 2010. № 2. С. 31–33. 
+тодом нелинейного статического анализа в SAP2000 //  
+Техническое регулирование в транспортном строитель- Об авторе  
+стве. 2015. Т. 14. № 6. С. 97–110.  Булушев Сергей Валерьевич – инженер, Научно-
+
+13. Мкртычев О.В., Джинчвелашвили Г.А. Пробле- исследовательская лаборатория «Надежность и сейсмо-
+мы учета нелинейностей в теории сейсмостойкости (ги- стойкость сооружений» (НИЛ НСС), Национальный ис-
+потезы и заблуждения). М.: МГСУ, 2012. 192 с.  следовательский Московский государственный строи-
+
+14. Мкртычев О.В., Джинчвелашвили Г.А., Дзержин- тельный университет (Москва, Россия). Область научных 
+ский Р.И. Философия многоуровневого проектирования интересов: теория надежности строительных конструк-
+в свете обеспечения сейсмостойкости сооружений // Гео- ций, теория сейсмостойкости сооружений, нелинейные 
+логия и геофизика Юга России. 2016. № 1. С. 71–81.  динамические методы расчета. Контактная информация: 
+
+15. Мкртычев О.В., Джинчвелашвили Г.А. Оценка e-mail – sergey.bulushev@gmail.com. eLIBRARY SPIN-код: 
+работы зданий и сооружений за пределами упругости 9165-7831. ORCID iD: 0000-0001-7239-4668. 
+при сейсмических воздействиях // Theoretical Foundation  
+of Civil Engineering: XXI Russian-Slovak-Polish Seminar. Для цитирования  
+Moscow – Archangelsk July 3–6 2012. Pp. 177–186.  Булушев С.В. Сравнение результатов расчета со-
+
+16. Немчинов Ю.И., Марьенков Н.Г., Хавкин А.К., Ба- оружений на заданные акселерограммы нелинейным 
+бик К.Н. Проектирование зданий с заданным уровнем статическим и нелинейным динамическим методами // 
+обеспечения сейсмостойкости (с учетом рекомендаций Строительная механика инженерных конструкций и со-
+Еврокода 8, международных стандартов и требований оружений. 2018. Т. 14. № 5. С. 369–378. DOI: 10.22363/ 
+ДБН). Киев: Минрегион Украины; ГП НИИСК, 2012. 53 с. 1815-5235-2018-14-5-369-378. 
+
+ 
+ 
+
+RESEARCH PAPER 
+ 
+
+Comparison of the calculation results of structures for specified accelerograms  
+by nonlinear static and nonlinear dynamic methods 
+
+ 
+Sergey V. Bulushev 
+
+ 
+Moscow State University of Civil Engineering (National Research University) 
+
+26 Yaroslavskoye Shosse, Moscow, 129337, Russian Federation 
+ 
+
+(received: August 21, 2018; revised: September 17, 2018; accepted: September 28, 2018) 
+ 
+ 
+
+Abstract. Relevance. Modern national standards for the design of buildings and structures for seismic impacts suggest 
+the calculation of structures in a nonlinear setting. Only linear-spectral method, which has been used and is still used, is not 
+enough for calculation. This is due to the fact that it does not allow directly taking into account the nonlinear work of 
+
+376   DYNAMICS OF STRUCTURES AND BUILDINGS 
+
+
+
+Булушев С.В. Строительная механика инженерных конструкций и сооружений. 2018. Т. 14. № 5. С. 369–378 
+ 
+
+ 
+the structures. To solve the problem, nonlinear dynamic methods of calculation in the time domain can be used. At the mo-
+ment, such methods are implemented only in specialized software complexes, and in most cases cannot be used by ordinary 
+designers. Thus, it became necessary to apply simpler nonlinear calculation methods. In foreign standards for calculation of 
+seismic resistance of buildings and structures, nonlinear static methods, or pushover analysis, have long been used. But in 
+the national design practice until recently, these methods have not received due attention. Thus, the relevance of the study of 
+the possibility of using these methods in engineering practice is beyond doubt.  
+
+The aim of work. The purpose of this article is to estimate the accuracy of a nonlinear static method in comparison 
+with a nonlinear dynamic method when calculating structures for given accelerograms.  
+
+Solution technique. In the article three steel frames are considered: one-, three- and seven-story. The selection of sec-
+tions was made in accordance with the requirements of the national standards on earthquake-resistant construction for seis-
+mic loads of the basic safety earthquake (BSE) level. Next, frames are designed for the seismic loads of the maximum con-
+sidered earthquake (MCE) level on a set of accelerograms of different frequency composition. The calculation was per-
+formed by a nonlinear dynamic method in the LS-DYNA software package and a nonlinear static method in the LIRA 10.6 
+and MATLAB software complexes.  
+
+Results. Calculations showed that in all the cases considered, except for one, a nonlinear static method showed a con-
+servative estimate of the response of the system, in comparison with the nonlinear dynamic method. But in some cases 
+the reaction was greatly overestimated. 
+
+ 
+Keywords: seismic resilience, nonlinear calculation technique, nonlinear dynamic calculation technique, nonlinear 
+
+static calculation technique, pushover analysis, accelerogram 
+ 
+
+ 
+ 
+
+References of the structures seismic resistance. Structural Mechanics 
+ of Engineering Constructions and Buildings, 14(1), 70–79. 
+
+1. Chopra A.K., Goel R.K. (2000). Capacity-demand (In Russ.) 
+diagram methods based on inelastic design spectrum. Pro- 11. Dzhinchvelashvili G.A. (2015). Nelineinye dina- 
+ceedings of 12 World Conference on Earthquake Enginee- micheskie metody rascheta zdanii i sooruzhenii s zadannoi 
+ring, Auckland, New Zealand. Paper № 1612. obespechennost'yu seismostoikosti [Nonlinear dynamic 
+
+2. Chopra A.K., Goel R.K. (2002). A modal pushover methods of calculation of buildings and structures with  
+analysis procedure for estimating seismic demands for a given security seismic stability] (Abstract of Dr Disser-
+buildings. Earthquake engineering and structural dyna- tation). Moscow: MGSU Publ., 46. (In Russ.) 
+mics, (31), 561–582. 12. Sosnin A.V. (2015). The features of evaluation of 
+
+3. Datta T.K. (2010). Seismic Analysis of Structures. deficit of seismic resistance of reinforced concrete frame 
+John Wiley & Sons (Asia) Pte. Ltd, 464. buildings by the method of nonlinear static analysis in 
+
+4. Fajfar P., Krawinkler H. (2004). Performance-Based SAP2000. Technical Regulation in Transport Construction, 
+Seismic Design Concepts and Implementation. Proceedings 14(6), 97–110. (In Russ.) 
+of the International Workshop Bled, Slovenia, June 28 – 13. Mkrtychev O.V., Dzhinchvelashvili G.A. (2012). 
+July 1, 2004. PEER Report 2004/05. College of Enginee- Problemy ucheta nelineynostey v teorii seysmostoykosti 
+ring, University of California, Berkeley. (gipotezy i zabluzhdeniya) [Accounting problems of non-
+
+5. Gupta B. (1998). Enhanced pushover procedure and linear seismic stability in the theory (hypothesis and error)]. 
+inelastic demand estimation for performance-based seismic Moscow: MGSU Publ, 192. (In Russ.)  
+evaluation of buildings (PhD Thesis). Orlando, Florida, 14. Mkrtychev O.V., Dzhinchvelashvili G.A., Dzer-
+University of Central Florida. zhinskij R.I. (2016). The philosophy of multi-level design 
+
+6. Paz M., Leigh W. (2004). Structural Dynamics: in light of the provision of seismic stability of buildings. 
+Theory and Computation. 5th ed. 844. Geology and Geophysics of the South of Russia, (1), 71–81. 
+
+7. Themelis S. (2008). Pushover analysis for seismic (In Russ.)  
+assessment and design of structures (PhD Thesis). Heriot- 15. Mkrtychev O.V., Dzhinchvelashvili G.A. (2012). 
+Watt University, School of Built Environment. Ocenka raboty zdanij i sooruzhenij za predelami uprugosti 
+
+8. Dzhinchvelashvili G.A., Bulushev S.V., Kolesni- pri sejsmicheskih vozdejstviyah [Assessment of buildings 
+kov A.V. (2016). Nonlinear static method of analysis of and structures beyond the elastic limit at the seismic influ-
+seismic resistance of buildings and structures. Earthquake ences]. Theoretical Foundation of Civil Engineering, XXI 
+engineering. Constructions safety, (5), 39–47. (In Russ.) Russian-Slovak-Polish Seminar, Moscow – Archangelsk, 
+
+9. Dzhinchvelashvili G.A., Bulushev S.V. (2017). Ac- July 3–6, 177 – 186. (In Russ.) 
+curacy evaluation of the nonlinear static analysis method 16. Nemchinov Ju.I., Mar'enkov N.G., Havkin A.K., Ba- 
+of the structures seismic resistance. Structural Mechanics bik K.N. (2012). Proektirovanie zdanii s zadannym urov- 
+of Engineering Constructions and Buildings, (2), 41–48. nem obespecheniya seismostoikosti (s uchetom rekomen- 
+(In Russ.) datsii Evrokoda 8, mezhdunarodnykh standartov i trebova- 
+
+10. Dzhinchvelashvili G.A., Bulushev S.V. (2018). Ac- nii DBN) [Designing buildings with a given level of seismic 
+curacy evaluation of the nonlinear static analysis method resistance (taking into account the recommendations of Euro-
+
+ДИНАМИКА КОНСТРУКЦИЙ И СООРУЖЕНИЙ  377 
+
+
+
+Sergey V. Bulushev. Structural Mechanics of Engineering Constructions and Buildings, 2018, 14(5), 369–378 
+ 
+
+ 
+code 8, international standards and DBN requirements)]. Earthquake engineering. Constructions safety, (2), 
+Kiev: Minregion Ukrainy, GP NIISK Publ., 53. (In Russ.) 31–33. (In Russ.) 
+
+17. Sosnin A.V. (2016). On the peculiarities of  
+the methodology of nonlinear static analysis and its consis- About the author 
+tency with the basic normative methodology for calculating Sergey V. Bulushev – Engineer, the Research Labora- 
+buildings and structures for the action of seismic forces. tory “Reliability and Seismic Stability of Structures”, Mos- 
+Bulletin of the South Ural University. Serie: Construction cow State University of Civil Engineering (National Re-
+Engineering and Architecture, 16(1), 12–19. (In Russ.) search University) (Moscow, Russia). Research interests: 
+
+18. Sosnin A.V. (2017). About refinement of the seis- the theory of reliability of building structures, the theory 
+mic-force-reduction factor (K1) and its coherence with of seismic stability of structures, nonlinear dynamic meth-
+the concept of seismic response modification in formula- ods of calculation. Contact: e-mail – sergey.bulushev@ 
+tion of the spectrum method (in order of discussion). Bul- gmail.com. eLIBRARY SPIN-code: 9165-7831. ORCID 
+letin of Civil Engineers, 60(1), 92–116. (In Russ.) iD: 0000-0001-7239-4668. 
+
+19. Chkhikvadze K.T., Tsiskreli Ts.G., Chlaidze N.Sh.,  
+Kadzhaya L.D. (2010). The application of nonlinear static For citation 
+(Pushover) methods for estimating the behavior of struc- Bulushev S.V. (2018). Comparison of the calculation 
+tures under seismic excitation. Structural Mechanics and results of structures for specified accelerograms by non-
+Analysis of Construction, (2), 48–52. (In Russ). linear static and nonlinear dynamic methods. Structural 
+
+20. Chkhikvadze K.T., Tsiskreli Ts.G., Chlaidze N.Sh., Mechanics of Engineering Constructions and Buildings, 
+Kadzhaya L.D. (2010), Pushover Curve Plotting to Assess 14(5), 369–378. DOI: 10.22363/1815-5235-2018-14-5-
+Nonlinear Behavior of Plane Frame under Earthquake Effect.  369-378. (In Russ.) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+378   DYNAMICS OF STRUCTURES AND BUILDINGS

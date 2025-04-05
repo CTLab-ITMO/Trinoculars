@@ -1,0 +1,1091 @@
+﻿УДК 629.7 ОБРАЗОВАНИЕ	И	КАДРЫ
+
+Оценка эффективности экипажей 
+летательного аппарата
+
+Павел бРОВКИн
+pavel E. bROvkin Малишевский Алексей 
+
+Валерьевич – кандидат 
+технических наук, доцент 
+Санкт-Петербургского 
+государственного 
+университета 
+гражданской авиации 
+(СПбГУ ГА), Санкт-
+Петербург, Россия.
+Бровкин Павел 
+Евгеньевич – аспирант 
+СПбГУ ГА, Санкт-
+Петербург, Россия.
+Власов Евгений 
+Витальевич – аспирант 
+
+Алексей мАлИшЕВСКИй Евгений ВлАСОВ СПбГУ ГА, Санкт-
+alexei v. maliSHEvSkY Evgeny v. vlaSOv Петербург, Россия. 
+
+Анализируются результаты  Проблема ошибок при формирова-
+экспериментов, проведенных  нии экипажа летательного аппа-
+
+в течение 2003–2013 годов  рата остаётся вне зоны внимания 
+с профессиональными пилотами,  мирового авиационного сообщества как 
+
+диспетчерами по управлению 
+воздушным движением и студентами- противоречащая существующему ныне 
+пилотами Университета гражданской  «мейнстриму». Тем не менее актуаль-
+
+авиации по оценке эффективности  ность проблемы достаточно убедительно 
+взаимодействия в рабочих парах  иллюстрирует печальный пример ката-
+
+членов экипажей летательных  строфы самолета Boeing 737-505 авиа-
+аппаратов. В качестве основных  компании «Аэрофлот-Норд» 13 сентября 
+
+критериев использовались стиль  2 0 0 8  в  р а й о н е  Б о л ь ш о г о  С а в и н о 
+поведения, служивший интегральным 
+
+показателем готовности человека  (г. Пермь). 
+к выполнению совместных функций,  В «Окончательном отчете по результа-
+
+и прогностический соционический  там расследования авиационного проис-
+критерий, основанный  шествия» комиссии Межгосударственного 
+
+на интертипных отношениях.  авиационного комитета говорится, что 
+Приведены корреляции полученных  «комплектование экипажа было выполне-
+
+параметров с данными социометрии  но без учета уровня профессиональной 
+и компьютерных испытаний.
+
+подготовки КВС (командира воздушного 
+судна – здесь и далее курсив авторов) и вто-
+рого пилота. К КВС, имеющему малый 
+опыт работы в этой должности, в состав 
+двухчленного экипажа был назначен вто-
+
+Ключевые слова: гражданская рой пилот, имеющий малый опыт работы 
+авиация, экипаж, взаимодействие, на данном типе воздушного судна, причем 
+
+стиль поведения, соционические 
+характеристики, критерии оценки оба ранее выполняли полеты только в со-
+
+эффективности, интертипные ставе многочленного экипажа. По мнению 
+отношения. независимых экспертов-психологов, при 
+
+комплектовании экипажа также не были 
+
+•мИР ТРАнСПОРТА 05’14
+
+EDUCATION,	TRAINING	AND	PERSONNEL
+
+
+
+учтены психологические особенности лич-
+ностей пилотов.
+
+Существуют такие люди, которым очень 
+сложно, а иногда даже и просто невозмож-
+но эффективно взаимодействовать друг 
+с другом. И программа обучения «управле-
+нию ресурсами кабины экипажа воздуш-
+ного судна» [1] не может полностью испра-
+вить данную ситуацию. Авторы считают, 
+что необходимо разработать методики, 
+которые, если и не обеспечат оптимальный 
+подбор экипажей, то хотя бы позволят 
+не сводить в один экипаж заведомо непод-
+ходящих людей.
+
+На уровне действующих ныне в гра-
+жданской авиации (ГА) РФ официальных Рис. 1. Сетка µ  [13,15] (по С. Л. Рубинштейну [14] 
+
+2
+это направленности на предметную деятельность 
+
+документов сама проблема принципиально (Р), на других людей (Л) и на себя лично (Э)). 
+не отвергается и пути ее решения даже Определение величины r.
+
+продекларированы. В соответствующем 
+«Руководстве» [2] для этого предлагается ется стиль поведения его членов. В первой 
+
+использовать «Рекомендации» [3], но они программе «Cockpit Resource Management» 
+
+не могут, увы, дать прогноз эффективности (CRM) [11] Р. Р. Блейк и Дж. С. Маутон 
+
+взаимодействия в формируемом экипаже, фактически ставят знак равенства между 
+
+поскольку опираются на методы социоме- этими понятиями. Стиль поведения служит 
+
+трии, то есть все члены коллектива должны интегральным показателем готовности 
+
+хорошо знать друг друга по совместной человека к взаимодействию. В данный 
+
+работе. момент он рассматривается исключитель-
+
+Требуется другой прогностический под- но как характеризующий человека лично 
+
+ход, который позволил бы обоснованно и не используется для оценки совместных 
+
+ответить на вопрос о пригодности состава действий в паре. Наша статья – попытка 
+
+формируемого экипажа. Подобный про- пересмотреть привычный подход.
+
+гноз, соответствующий современным Согласно С. И. Ожегову, «стиль» – это 
+
+требованиям к управлению безопасностью «метод, совокупность приемов какой-ни-
+
+полётов (БП) [4], как уже не раз подчёрки- будь работы, деятельности, поведения», 
+
+валось (например, в [5–9]), можно полу- то есть он отражает целостное поведение 
+
+чить с помощью соционических методик. человека, как тот «обычно себя ведет» [12]. 
+
+На базе соционической модели интер- С помощью методики «ММЯ-1» [13], раз-
+
+типных отношений (СМИО) [5] в разное работанной в Санкт-Петербургском госу-
+
+время было предложено рассчитывать та- дарственном университете гражданской 
+
+кие прогностические соционические кри- авиации, как раз и определяется стиль 
+
+терии эффективности (ПСКЭ), как [7 ,6] צ, поведения с той его стороны, которая дает 
+
+צ  [8] и צ  [9]. В нашем эксперименте ис- четко знать, что направлен вектор интере-
+02 03
+
+пользован צ , который определялся из вы- сов человека.
+04
+
+ражения: «Различные мотивы поведения образу-
+
+צ צ =  צ – ют целостную структуру – направленность 
+04  (+)  (-),
+
+где צ = (6Ω  + 6Ω  + 6W  + 6W  + 3W  + личности, которая характеризуется прежде 
+ (+) 1 3 5 7 9
+
+3Ω  + 3Ω  + 3Ω ) / 8; всего иерархичностью, наличием в ней 
+11 13 15
+
+צ = (6Ω  + 6Ω  + 6Ω  + 6Ω  + 3W  + 3W  + доминирующих мотивов, определяющих 
+ (-) 16 14 12 10 8 6
+
+3W  + 3Ω ) / 8; основные векторы активности личности 
+4 2
+Ω  – i-я составляющая СМИО, рассчи- (отношение к окружающей действитель-
+
+i 217
+танная для интертипных отношений (ИО) ности, другим людям, самому себе как 
+
+по В. В. Гуленко [5, 10]. преимущественная направленность 
+
+Ещё одним из критериев оценки эффек- на предметную деятельность, на других 
+
+тивности взаимодействия в экипаже явля- людей, на себя лично). С. Л. Рубинштейн 
+
+•мИР ТРАнСПОРТА 05’14
+
+
+
+оценки и показанные на рис. 2, найдены 
+218 из выражений:
+
+ΣS €=€r1 + r2 ;
+
+∆S =€ r1 −€r2 ;
+
+R = € (Э −€Э 2 2 2
+S 1 2 ) + (Л1 −€Л2 ) + €(Р1 −€Р2 ) ,
+
+где Эi, Лi, Рi – координаты на сетке µ2, 
+определяющие i-й стиль поведения;
+
+r 2 2
+i = Эi + (Лi −50) + (P   м
+
+i −50)2 – одуль векто-
+
+ра на сетке µ2, определяющего i-й стиль 
+поведения ( i =1,2 ).
+
+Предполагалось, что чем больше будет 
+каждая из трёх данных величин, тем более 
+низкой окажется эффективность взаимо-
+
+Рис. 2. Оценка эффективности взаимодействия  действия в паре. В первом случае просто 
+по сумме (Σ ) и разности (∆ ) модулей векторов, 
+
+S S потому, что оба члена пары имеют недо-
+определяющих индивидуальный стиль поведения 
+
+на сетке µ , и расстоянию между точками,  статочно хорошие стили поведения, 
+2
+
+определяющими индивидуальный стиль поведения  а в двух других случаях – потому, что 
+на сетке µ  (R ). 
+
+2 S стили значительно отличаются друг 
+рассматривал направленность как динами- от друга.
+ческие тенденции, которые в качестве Понятно, подобный подход не учиты-
+мотивов определяют деятельность челове- вает очень многих факторов, что в итоге 
+ка» [14]. (Следует отметить, что хотя с по- и сказалось на полученных результатах.
+дачи авторов [11] в программах CRM В качестве дополнительных критериев 
+принято употреблять термин «стиль пове- оценки эффективности взаимодействия 
+дения», фактически речь идёт о «стиле были также суммарные – нормативность 
+деятельности».) (N), валентность (V) и общая оценка 
+
+Разрабатывая первую программу CRM, по цветовому тесту отношений (ЦТО) 
+Р. Р. Блейк и Дж. С. Маутон использовали (Σ ) ,  о п р е д е л ё н н ы е  п о  м е т о д и к е 
+
+N V
+
+в созданной ими сетке «Грид» [11] только А. М. Эткинда [15, 16], достаточно полно 
+две основные направленности, выделяе- описанные в [5–9].
+мые С. Л. Рубинштейном: на предметную Однако суммарные нормативность, 
+деятельность и на других людей. В сетке валентность и общая оценка по ЦТО – 
+университета гражданской авиации µ  [15] это комплексные показатели, учитываю-
+
+2
+присутствуют уже все три основные на- щие предысторию отношений в паре 
+правленности личности (рис. 1), что не- людей, а критерий צ  оценивает удобство 
+
+04
+
+сколько усложнило классификацию стилей преимущественно информационного 
+поведения, но сделало её более полной. обмена между пилотами. Поэтому авто-
+
+В публикуемой статье сделана попытка рами велась разработка альтернативных 
+использовать данные об индивидуальных методов для непосредственной оценки 
+стилях поведения лиц, составляющих пару, эффективности взаимодействия в паре 
+для прогноза эффективности их взаимо- членов экипажа летательного аппарата. 
+действия, то есть попытку оценить, как Одним из них стало применение специ-
+сочетается с эффективностью взаимодей- альных программных продуктов (см. та-
+ствия комбинация индивидуальных стилей блицу 1).
+поведения. Для чего нами рассматривалась Программный продукт «Viper» (в слу-
+сумма (Σ ) и разность (∆ ) модулей векто- чае которого мы пока не можем привести 
+
+S S
+ров, определяющих индивидуальный стиль ссылку на описание, поскольку он доста-
+поведения человека на сетке µ , и расстоя- точно новый), как и программные про-
+
+2
+ние между точками, определяющими ин- дукты «Ring-2» [17, 18], «Азеф» [17,19] 
+дивидуальный стиль поведения на сетке µ  и «Чкаловский-2» [20], это задача, пред-
+
+2
+(R ) [13, 15]. Величины, взятые нами для назначенная для отработки моторного 
+
+S
+
+•мИР ТРАнСПОРТА 05’14
+
+
+
+Таблица 1
+Программные продукты, использовавшиеся в экспериментах
+
+взаимодействия в паре и контроля его 
+эффективности.
+
+После активации запускающего про-
+грамму файла на экране компьютера 
+индицируется интерфейс программы, 
+показанный на рис. 3.
+
+Главное меню упражнения состоит 
+из двух подменю «Информация» и «По-
+мощь». В алгоритм программы заложен 
+ряд характеристик, влияющих на свойст-
+ва динамического объекта, то есть точки. 
+А к т и в и р о в а в  п у н к т  « Н а с т р о й к и » , 
+на экране получаем диалоговое окно из- Рис. 3. Графический интерфейс программного 
+
+продукта «Viper».
+менения «Свойств динамического объек-
+та» и «Критериев оценки результатов». выполнения упражнения. Заканчивается 
+Посредством управляющих клавиш двум оно после завершения маршрута движе-
+испытуемым следует в кратчайшее время ния полностью, о чём появляется соот-
+провести красную точку от старта до фи- ветствующая информация. Затем автома-
+ниша по сложному замкнутому маршруту. тически высвечивается окно «Результа-
+Касание боковых границ маршрута штра- ты» с указанием текущего и предыдущих 
+фуется временной потерей управления, результатов.
+точка перекрашивается из красного в си- Все программные продукты, указан-
+ний цвет. Один испытуемый управляет ные в таблице 1, были в разной мере ис-
+точкой в горизонтальной плоскости, пользованы в ходе экспериментов с пи-
+а другой в вертикальной. лотами в 2003–2013 годы.
+
+В верхней части графического интер- Для того чтобы как-то сравнить раз-
+фейса упражнения индицируются теку- нородные результаты, по итогам несколь-
+щие параметры скорости движения точки ких упражнений выводилась некая сред-
+в горизонтальной и вертикальной пло- няя суммарная оценка эффективности 
+скостях с указанием максимально достиг- взаимодействия (אΣ), что, разумеется, 
+нутой за игру скорости, через наклонную не вполне корректно и годится лишь для 
+линию. Здесь же информация в виде самой приближённой прикидки. Не-
+счетчика времени. В нижней части три сколько разнились и условия проведения 219
+кнопки: «Тренировка», «Старт», «Зачет». эксперимента, что тоже наложило свой 
+Режим «Тренировка» предназначен для негативный отпечаток на конечный ре-
+ознакомления испытуемых с процессом зультат.
+
+•мИР ТРАнСПОРТА 05’14
+
+
+
+Таблица 2
+220 Корреляции, выявленные между показателями צ , N, T , T ש ,  и ש  при обследовании 
+
+04 Ring Azef 1 2
+52 пар участников эксперимента
+
+             1-я 
+величина  2-я 04צ N TRing TAzef 1ש 2ש
+
+04צ -0,3029 -0,2302 -0,1489 -0,1091 0,1108
+N Р > 0,95 -0,0739 0,0666 -0,0933 -0,0096
+TRing Р ≤ 0,95 Р ≤ 0,95 0,0508 -0,0468 -0,1147
+TAzef Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 -0,0868 -0,0131
+1ש Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 0,7516
+2ש Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 Р > 0,999
+
+Справа и вверху значения коэффициента корреляции Пирсона [13] между показателями эффективности, 
+а слева и внизу – характеристики значимости корреляции.
+
+Таблица 3
+Корреляции, выявленные между показателями צ , N, T , N ש ,  и ש  при обследовании 
+
+04 Azef ош. 1 2
+62 пар участников эксперимента
+
+              1-я величина   
+04צ N TAzef N 1ש 2ש
+
+  2-я величина ош.
+
+04צ -0,1808 -0,0646 0,0133 0,0079 0,0903
+N Р ≤ 0,95 -0,0175 0,1058 -0,2429 -0,0877
+TAzef Р ≤ 0,95 Р ≤ 0,95 0,1386 -0,0711 -0,0576
+Nош. Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 -0,1879 -0,2101
+1ש Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 0,7188
+2ש Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 Р > 0,999
+
+Справа и вверху значения коэффициента корреляции Пирсона [13] между показателями эффективности, 
+а слева и внизу – характеристики значимости корреляции.
+
+Как видно из таблицы 2–4, пока до- ש •  – средний балл по двум испытуе-
+1
+
+статочно удовлетворительного решения мым за выполнение упражнения «Кросс-
+самой проблемы не найдено. Итоги те- Чек 2» (худший результат);
+стирования не слишком хорошо стыку- ש •  – средний балл по двум испытуе-
+
+2
+
+ются между собою. мым за выполнение упражнения «Кросс-
+При этом в табл. 2–4 использованы Чек 2» (лучший результат);
+
+следующие обозначения: Как видно из таблиц 2–8, наибольшие 
+• T  = T  – время удержания «план- расхождения с остальными результатами 
+
+Azef уд.F
+ки» в пределах допустимых ограничений; дали валентность (V), суммарная оценка 
+
+• T  – время прохождения УО задан- по ЦТО (Σ ), а также время удержания 
+Ring VN
+
+ной траектории; «планки» в пределах допустимых ограниче-
+• N  – количество совершенных оши- ний (T ) в упражнении «Азеф». В упраж-
+
+ош. Azef
+
+бок за период 300 с; нении «Ring-2» очень мал разброс получае-
+• L  (м) – среднее линейное боковое мых результатов.
+
+ср.
+уклонение (ЛБУ) УО на заключительном Упражнение «Азеф» включает задачи 
+протяженностью в 2 км участке заданной на развитие антиципации у пилота. Бу-
+траектории; дучи очень полезным для обучения и раз-
+
+• L  (м) – максимальное ЛБУ УО на за- минки, оно слишком чувствительно 
+max
+
+ключительном протяженностью в 2 км к случайным ошибкам. Это существенно 
+участке заданной траектории; снижает возможности упражнения для 
+
+•мИР ТРАнСПОРТА 05’14
+
+
+
+Таблица 4
+Корреляции, выявленные между показателями צ , N, а также величинами T , T , N , 
+
+04 Ring Azef ош.
+ש ש , , L  и L  при обследовании 33 пар участников эксперимента
+
+1 2 ср. max
+
+1-я величина
+04צ N TRing TAzef Nош. 1ש 2ש Lср. Lmax
+
+2-я величина
+04צ -0,1646 -0,3954 -0,049 -0,1526 -0,0488 0,2385 -0,0458 -0,0537
+N Р ≤ 0,95 0,0605 0,0614 0,0735 -0,0884 -0,034 0,003 0,2893
+TRing Р >0,95 Р ≤ 0,95 0,0526 0,0174 0,0891 0,0499 -0,2168 -0,1898
+TAzef Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 0,2347 -0,0934 -0,0692 -0,1734 -0,1448
+Nош. Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 -0,3424 -0,4142 0,2051 0,1489
+1ש Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 0,7493 0,2024 0,1808
+2ש Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 Р > 0,95 Р>0,999 -0,0153 0,0703
+Lср. Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 0,7956
+Lmax Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 Р>0,999
+
+Справа и вверху значения коэффициента корреляции Пирсона [13] между показателями эффективности, 
+а слева и внизу – характеристики значимости корреляции.
+
+диагностики эффективности взаимодей- [15], но как критерий эффективности обла-
+ствия. дает слишком малой различительной спо-
+
+Упражнение «КроссЧек 1» является собностью в количественном аспекте. 
+задачей для отработки когнитивно-мотор- А упражнение «Гомеостат» перегружено 
+ного взаимодействия в паре в режиме спецификой и не отражает взаимодействия 
+перекрёстного контроля и оценки его в чистом виде. В целом же можно сделать 
+эффективности. Как следует из таблиц неутешительный вывод, что прорыва в об-
+2–4, оно показало достаточно надёжное ласти непосредственной количественной 
+совпадение практически со всеми резуль- оценки эффективности взаимодействия 
+татами эксперимента, кроме упражнения в паре пока не наблюдается.
+«Азеф». Однако здесь возникает свой Аналогичные выводы можно сделать 
+нюанс. У старших возрастных групп есть и при рассмотрении таблиц 5–8. Интеграль-
+проблемы, связанные с использованием ная оценка אΣ при этом очень слабо и часто 
+персонального компьютера: при отличной не в соответствии с теоретическими пред-
+реакции и приемлемой слаженности дей- положениями коррелирует с другими кри-
+ствий они имеют недостаточный уровень териями эффективности (таблицы 7–8).
+моторного навыка при применении Если взять результаты, приведенные 
+устройств ввода/вывода, что негативно в таблицах 5 и 6, то знак корреляции совпал 
+сказывается на сроках выполнения упраж- с прогнозом в 29 случаях из 31, т. е. в 93,5% 
+нения и результате. (Проще говоря, неко- случаев. Более того, только в 12 случаях 
+торые пожилые пилоты имеют трудности (38,7%) корреляция незначима. В осталь-
+с нахождением нужных им символов ных случаях она значима (16,1%), высоко 
+на клавиатуре.) В то же время для молодо- значима (6,5%) и даже очень высоко зна-
+го поколения такая проблема не актуаль- чима (38,7%). При корреляции между ве-
+на, а следовательно, закономерна допол- личинами N и Σ ; V и Σ ; ∆  и R  – это 
+
+NV NV S S
+нительная корреляция результатов экспе- тривиально. В других моментах – нет. 
+римента и возраста испытуемых. Из таблиц 5–8 видно, что в качестве одно- 221
+
+Упражнение «Стелс», хотя и отлично го из вероятных прогностических критери-
+зарекомендовало себя как обучающее ев эффективности взаимодействия может 
+в тренингах по программе «CRM России» рассматриваться величина R .
+
+S
+
+•мИР ТРАнСПОРТА 05’14
+
+
+
+Таблица 5
+222 Корреляции, выявленные между показателями צ , N, V, Σ , Σ , ∆ , и R  при обследовании 
+
+04 NV S S S
+914 пар участников эксперимента (профессиональные пилоты и студенты-пилоты)
+
+Показатели צ
+эффективности 04 N V ΣNV ΣS ΔS RS
+
+04צ 0,0182 -0,0205 -0,0014 -0,0884 -0,0833 -0,1553
+N Р ≤ 0,95 0,2823 0,8009 0,0731 0,0009 -0,0321
+V Р ≤ 0,95 Р > 0,999 0,8006 0,1283 0,1025 0,0795
+
+ΣNV Р ≤ 0,95 Р > 0,999 Р > 0,999 0,1257 0,0645 0,0295
+ΣS Р > 0,99 Р > 0,95 Р > 0,999 Р > 0,999 0,3586 0,2241
+ΔS Р > 0,95 Р ≤ 0,95 Р > 0,99 Р ≤ 0,95 Р > 0,999 0,5579
+RS Р > 0,999 Р ≤ 0,95 Р > 0,95 Р ≤ 0,95 Р > 0,999 Р > 0,999
+
+Справа и вверху значения коэффициента корреляции Пирсона [13] между показателями эффективности, 
+а слева и внизу – характеристики значимости корреляции.
+
+Таблица 6
+Корреляции, выявленные между показателями צ , N, Σ , ∆ , и R  при обследовании 2193 пар 
+
+04 S S S
+участников эксперимента (профессиональные пилоты, диспетчеры УВД и студенты-пилоты)
+
+Справа и вверху значения коэффициента корреляции Пирсона [13] между показателями эффективности, 
+а слева и внизу – характеристики значимости корреляции.
+
+Таблица 7
+Корреляции, выявленные между показателями צ , N, V, Σ , Σ , ∆ , R  и א  при о
+
+04 NV S S S Σ бследовании 
+61 пары участников эксперимента (профессиональные пилоты и студенты-пилоты)
+
+Показатели צ
+эффективности 04 N V ΣNV ℵΣ ΣS ΔS RS
+
+04צ -0,0961 0,2217 0,0825 -0,0394 0,0044 0,1102 -0,2532
+N Р ≤ 0,95 0,1971 0,7705 0,04 0,2747 0,2444 0,1754
+V Р ≤ 0,95 Р ≤ 0,95 0,7768 0,0303 0,091 0,317 -0,0429
+
+ΣNV Р ≤ 0,95 Р > 0,999 Р > 0,999 0,0454 0,2356 0,3631 0,0848
+ℵΣ Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 0,1119 0,2121 -0,0235
+ΣS Р ≤ 0,95 Р > 0,95 Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 0,282 0,2086
+ΔS Р ≤ 0,95 Р ≤ 0,95 Р > 0,95 Р > 0,99 Р ≤ 0,95 Р > 0,95 0,4288
+RS Р > 0,95 Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 Р ≤ 0,95 Р > 0,999
+
+Справа и вверху значения коэффициента корреляции Пирсона [13] между показателями эффективности, 
+а слева и внизу – характеристики значимости корреляции.
+
+ВЫВОдЫ рес, и требуется, во-первых, дальнейшее 
+Хотя понятно, что поставленная в статье накопление статистического материала 
+
+проблема ещё очень далека до своего реше- (с более корректной постановкой экспери-
+ния, очевидно, что намеченные пути её мента), а во-вторых, привлечение методов 
+решения представляют несомненный инте- многомерного статистического анализа, 
+
+•мИР ТРАнСПОРТА 05’14
+
+
+
+Таблица 8
+Корреляции, выявленные между показателями צ , N, Σ , ∆ , и R  и א  при обследовании 
+
+04 S S S Σ
+130 пар участников эксперимента (профессиональные пилоты и студенты-пилоты)
+
+Справа и вверху значения коэффициента корреляции Пирсона [13] между показателями эффективности, 
+а слева и внизу – характеристики значимости корреляции. 
+
+поскольку в ряде случаев причины слабых Соционика, психология и межличностные отноше-
+ния. – 1998. – Июль. – С. 45–52.
+
+корреляций лежат на поверхности и связа- 11. Блейк Р. Р., Дж. С. Маутон Cockpit Resourse 
+ны с влиянием неучтённых нами факторов. Management (CRM). В 2 кн. – Кн. 2: «Управление 
+
+ресурсами кабины согласно сетке «Грид». – 2-е изд. – 
+Остин: Сайентифик Методс, Инк., 1990. – 133 с.
+
+лИТЕРАТуРА 12. Ожегов С. И. Словарь русского языка. – 20-е 
+1. Федеральные авиационные правила: Подготов- изд., стереотип. – М.: Русский язык, 1988. – 750 с.
+
+ка и выполнение полетов в гражданской авиации 13. Специальная подготовка в области человече-
+Российской Федерации. – М.: Воздушный транспорт, ского фактора: методические указания по проведению 
+2009. – 86 с. психологической диагностики / Сост.: О. В. Арини-
+
+2. Руководство по психологическому обеспечению чева, А. В. Малишевский. – СПб.: Изд-во С.-Петер-
+отбора, подготовки и профессиональной деятельнос- бург. гос. ун-та гражданской авиации, 2010. – 74 с.
+ти летного и диспетчерского состава гражданской 14. Психология: учебник / В. М. Аллахвердов, 
+авиации Российской Федерации. – М.: Воздушный С. П. Безносов, В. А. Богданов и др.; отв. ред. 
+транспорт, 2001. – 279 с. А. А. Крылов. – 2-е изд., перераб. и доп. – М.: Про-
+
+3. Рекомендации по комплектованию летных спект; ТК Велби, 2008. – 752 с.
+экипажей и обеспечению оптимального морально- 15. Лейченко С. Д. Человеческий фактор в авиа-
+психологического климата (ч. I и II). – М.: ГосНИИ- ции: В 2 т. – Т. 1 / С. Д. Лейченко, А. В. Малишевский, 
+ГА, 1985. – 43 с. Н. Ф. Михайлик. – СПб.: Изд-во С.-Петербург. гос. 
+
+4. Руководство по управлению безопасностью ун-та гражданской авиации, 2005. – 473 с.
+полётов (РУБП). Doc. 9859-AN/460. – 2-е изд. – Мон- 16. Эткинд А. М. Цветовой тест отношений и его 
+реаль: ICAO, 2009. – 318 с. применение в исследовании больных неврозами // 
+
+5. Лейченко С. Д. Человеческий фактор в авиа- Социально-психологические исследования в психо-
+ции: В 2 т. – Т. 2 / С. Д. Лейченко, А. В. Малишевский, неврологии: сб. науч. тр. / НИИ психоневрологии 
+Н. Ф. Михайлик. – СПб.: Изд-во С.-Петербург. гос. им. В. М. Бехтерева. – Л., 1980. – С. 110–114.
+ун-та гражданской авиации, 2006. – 506 с. 17. Власов Е. В. Применение прикладного про-
+
+6. Исследование методов управления в сфере граммного обеспечения в процессе подготовки авиа-
+воздушного транспорта с использованием социони- ционного персонала// Проблемы лётной эксплуата-
+ческих моделей / О. В. Ариничева, Г. В. Коваленко, ции и безопасность полётов: межвуз. сб. науч. тр. – 
+А. В. Малишевский и др. // Полёт. – 2008. – № 1. – Вып. VI. – СПб., 2012. – С. 182–188.
+С. 45–49. 18. Малишевский А. В. Результаты экспериментов 
+
+7. Ариничева О. В. Совершенствование методов по оценке эффективности взаимодействия, проведён-
+управления ресурсами системы «экипаж–воздушное ных со студентами-пилотами Университета граждан-
+судно» путём снижения отрицательного влияния че- ской авиации / А. В. Малишевский, Е. В. Власов, 
+ловеческого фактора на безопасность полётов/ Дис … Ж. Ж. Адилов, М. А. Вахабов // Проблемы лётной 
+канд. техн. наук. – СПб., 2008. – 199 с. эксплуатации и безопасность полётов: межвуз. сб. 
+
+8. Малишевский А. В., Парфенов И. А. Исполь- науч. тр. – Вып. V. – СПб., 2011. – С. 53–59.
+зование соционических моделей для управления 19. Малишевский А. В. Анализ результатов экспе-
+и планирования в сфере воздушного транспорта // римента по оценке эффективности взаимодействия, 
+Научный вестник Моск. гос. техн. ун-та гражданской проведённого со студентами-пилотами Университета 
+авиации. – 2010. – № 154 (4). – С. 117–123. гражданской авиации / А. В. Малишевский, Е. В. Вла-
+
+9. Результаты экспериментов по непосредствен- сов, А. Ф. Мусаходжаев, Т. Х. Саидханов // Проблемы 
+ному определению эффективности взаимодействия, лётной эксплуатации и безопасность полётов: межвуз. 
+проведённых со студентами-пилотами / А. В. Мали- сб. науч. тр. – Вып. IV. – СПб., 2010. – С. 62–69.
+шевский, П. Е. Бровкин, К. С. Абдусаттаров, С. С. Са- 20. Бровкин П. Е. Анализ непосредственной 
+ид // Проблемы лётной эксплуатации и безопасность 223
+
+оценки эффективности взаимодействия в военной 
+полётов: межвуз. сб. науч. тр. – Вып. VI. – СПб., авиации Вооружённых сил Российской Федерации // 
+2012. – С. 204–211. Проблемы лётной эксплуатации и безопасность 
+
+10. Гуленко В. В. Какие отношения построил бы полётов: межвуз. сб. науч. тр. – Вып. VI. – СПб., 
+Юнг (условия интертипной устойчивости в диаде) // 2012. – С. 171–181. •
+
+•мИР ТРАнСПОРТА 05’14
+
+
+
+224 EvaluaTing THE EFFEcTivEnESS OF cREWS OF an aiRcRaFT
+
+Malishevsky, Alexei V. – Ph.D. (Tech), associate professor of St. Petersburg State University of Civil 
+Aviation, St. Petersburg, Russia.
+
+Brovkin, Pavel E. – Ph.D. student of St. Petersburg State University of Civil Aviation, St. Petersburg, Russia.
+Vlasov, Evgeny V. – Ph. D. student of St. Petersburg State University of Civil Aviation, St. Petersburg, 
+
+Russia.
+
+ABSTRACT Other prognostic approach is required that would 
+The article provides an analysis of the results reasonably answer the question of the suitability of a 
+
+of a series of experiments conducted during formed crew. Such a forecast that meets the modern 
+2003–2013 years with professional pilots, air requirements for aviation safety (hereinafter- AS) [4], 
+traffic controllers and students-pilots of University as has been repeatedly stressed (for example, [5–9]), 
+of Civil Aviation to assess the effectiveness of can be obtained using socionic techniques.
+cooperation in working pairs of crew members On the basis of socionic model of intertype 
+of aircrafts. The main criteria were the style of relations (hereinafter-SMIR) [5] at various times it has 
+behavior, which served as an integral indicator of a been proposed to calculate such prognostic socionic 
+person’s readiness to perform joint functions and performance criteria (hereinafter-PSPC) as [7 ,6] צ, 
+prognostic socionic criterion based on intertype צ  [8] and צ  [9]. In our experiment we used צ , which 
+
+02 03 04
+relat ions.  The art ic le  shows correlat ion of was determined from the expression:
+received parameters with data of color sociometry צ צ =  צ –
+
+04  (+)  (-),
+and computer tests. where צ = (6Ω  + 6Ω  + 6W  + 6W  + 3W  + 3Ω  
+
+ (+) 1 3 5 7 9 11
+EngliSH SummaRY + 3Ω  + 3Ω ) / 8;
+
+13 15
+background. The problem of errors in צ = (6Ω  + 6Ω  + 6Ω  + 6Ω  + 3W  + 3W  + 
+
+ (-) 16 14 12 10 8 6
+designation of crew of an aircraft remains outside 3W  + 3Ω ) / 8;
+
+4 2
+the attention of international aviation community as Ω  is i-th component of SMIR, calculated for 
+
+i
+contrary to «mainstream» existing now. Nevertheless, intertype relations (hereinafter- IR) according to 
+the relevance of a problem is rather convincingly V. V. Gulenko [5, 10].
+illustrated by a sad example of crash of Boeing Another criterion for evaluating the effectiveness 
+737–505 of Russian airline «Aeroflot-Nord», which of interaction in the crew is a style of behavior 
+occurred on the 13th of September 2008 in the area of its members. In the first program «Cockpit 
+of Bolshoe Savino (Perm). In the «Final report on the Resource Management» (CRM) [11] R. R. Blake and 
+results of investigation of the accident» of Interstate J. S. Mouton actually equate these concepts. Style of 
+Aviation Committee commission it was stated that behavior is an integral indicator of a person’s readiness 
+«designation of a crew was carried out without to cooperate. At the moment, it is considered only as 
+taking into account the level of training of the aircraft characterizing the human personally and is not used 
+commander (hereinafter- AC), and the second pilot. for assessment of joint action in the pair. Our article 
+Besides AC with little experience in this position, in the is an attempt to revise the conventional approach.
+binomial crew the second pilot was appointed, having According to S. I. Ozhegov, «style» is «a method, 
+little experience on this type of aircraft; both pilots had a set of techniques of any work, activity, behavior», 
+previously performed flights only in the multi-crew. that reflects the holistic human behavior, as the way 
+According to independent experts- psychologists, he «usually behaves› [12]. With the help of the method 
+while crew designation individual psychological «MMYA-1» [13], developed at St. Petersburg State 
+features of pilots were also not taken into account». University of Civil Aviation, the style of behavior is just 
+
+There are people who are very difficult and determined in the manner, which clearly shows at what 
+sometimes even impossible to effectively interact vector of human interests it is directed.
+with. And the training program «cockpit management» «Different motives form a complete structure – 
+[1] cannot completely correct this situation. The orientation of a personality, which is characterized 
+authors believe that it is necessary to develop primarily by hierarchical pattern, availability of 
+techniques which, if not provide an optimal selection dominant motives that define the basic vectors 
+of crews, at least will not allow to designate a crew of activity of a person (in relation to reality, other 
+with obviously inappropriate people. people, and himself as a predominant focus on a 
+
+Objective. The objective of the authors is to substantive work, on other people, on him personally). 
+analyze the results of experiments conducted during So S.L.Rubinstein considered such an orientation 
+2003–2013 years with professional pilots, air traffic as dynamic trends that determine human activity as 
+controllers and students-pilots of University of Civil motives› [14]. (It should be noted that, although with 
+Aviation to assess the effectiveness of cooperation in the filing of the authors [11] in the CRM program it is 
+working pairs of crew members of aircrafts. accepted to use the term «style of behavior», in fact 
+
+methods. The authors use analytical method we are talking about «style of activity».)
+and description. Developing the first program of CRM, R. R. Blake 
+
+Results. At the level of existing official documents and J. S. Mouton used in the established «Grid» 
+in the field of civil aviation (hereinafter- CA) of the [11], only two basic orientations allocated by So 
+Russian Federation the problem itself is not rejected S. L. Rubinstein: on substantive work and on other 
+in principle and its solutions are even declared. people. In the grid of University of Civil Aviation µ  [15] 
+
+2
+In the relevant «Guide» [2] it is proposed to use there are all three main orientations of a person (Pic. 
+«Recommendations› [3] for it, but they cannot, alas, 1) that has complicated the classification of styles of 
+forecast the effectiveness of interaction in the formed behavior, but has made it more complete.
+crew, as they are based on the methods of sociometry, In the published article there is an attempt to use 
+i. e. all team members should be familiar with each the data on individual styles of behavior of persons 
+other’s teamwork. in the pair, for the prediction of the effectiveness 
+
+•мИР ТРАнСПОРТА 05’14
+
+
+
+Orientation on people Orientation on work
+P Point of optimal style
+
+S=0, P=50, W=50 W
+
+Point of actual style
+
+Selforientation Pic. 2. Evaluation of effectiveness of interaction with 
+S the sum (Σ ) and difference (∆ ) of modules of vectors 
+
+S S
+Pic. 1. Grid µ  [13,15] (by S. L. Rubinstein [14],  defining an individual style of behavior on the grid µ , 
+
+2 2
+orientation on substantive work (W), other people (P)  and the distance between the points that define an 
+
+and on yourself (S)). Determination of r value. individual style of behavior on the grid µ  (R ).
+2 S
+
+of their interaction, that is, an attempt to assess 
+how combination of individual styles of behavior is 
+combined with the efficiency of the interaction. For 
+that purpose we consider the sum (Σ ) and difference 
+
+S
+(∆ ) of modules of vectors defining the individual style 
+
+S
+of human behavior on the grid µ , and the distance 
+
+2
+between the points that define an individual style of 
+behavior on the grid µ  (R ) [13, 15]. Values, taken 
+
+2 S
+for evaluation and shown in Pic. 2, are found from 
+the expressions:
+
+ΣS €=€r1 + r2 ;
+
+∆S =€ r1 −€r2 ;
+
+R 2 2
+S = € (Э1 −€Э2 ) + (Л1 −€Л2 )2 + €(Р1 −€Р2 ) ,
+
+Pic. 3 Graphical interface of a software product 
+«Viper».
+
+where Э , Л , Р  are coordinates on the grid µ , defining 
+i i i 2
+
+an i-th style of behavior; Clearly, such an approach does not take into 
+r 2 2
+i = Эi + (Лi −50) + (Pi −50)2  is a module of a account many factors, which ultimately affected the 
+
+results obtained.
+vector on the grid µ , defining i-th style of behavior (
+
+2 Additional criteria for evaluating the effectiveness 
+i =1,2 ). of interaction were also cumulative – normativity (N), 
+
+It was assumed that the higher is each of these valence (V) and the overall evaluation on the color 
+three values, the lower will be the efficiency of relation test (CRT) (Σ ), defined by the method of 
+
+NV
+interaction in the pair. In the first case, simply because A. M. Etkind [15, 16], adequately described in [5–9].
+both members of the pair do not have enough good However, the total normativity, valence and overall 
+behavior styles, and in two other cases – because the evaluation on CRT are integrated indicators, taking 
+styles are very different from each other. into account the background in the pair of people, 
+
+Table 1
+Software products, used in experiments
+
+Software product Developers Type of interaction Reference to 
+description
+
+1 «Ring-2» A.V. Malishevsky, E.V. Vlasov motor [17, 18]
+2 «Azef» A.V. Malishevsky, E.V. Vlasov motor [17, 19]
+3 «Chkalovsky-2» A.V. Malishevsky, P.E. Brovkin motor [20]
+4 «Viper» A.V. Malishevsky, P.E. Brovkin motor -
+
+«Stels»         N.F. Mikhailik, A.V. Malishevsky, E.V. 
+5 (2nd version) Vlasov cognitive [15, 17]
+
+225
+6 «Gomeostat» A.V. Malishevsky, I.A. Parfenov cognitive-motor [6, 7]
+7 «CrossCheck 1» A.V. Malishevsky, E.V. Vlasov cognitive-motor [17]
+8 «CrossCheck 2» A.V. Malishevsky, E.V. Vlasov cognitive-motor [17]
+
+•мИР ТРАнСПОРТА 05’14
+
+
+
+Table 2
+226 Correlation identified between indicators צ , N, T , T ש ,  and ש  in the survey of 52 pairs of 
+
+04 Ring Azef 1 2
+participants in the experiment
+
+ 
+
+Right and at the top there are values  of Pearson correlation coefficient [13] between the performance indicators, 
+and left and at the bottom – significance characteristics of the correlation.
+
+Table 3
+Correlation identified between indicators צ , N, T , N ש ,  and ש  in the survey of 62 pairs of 
+
+04 Azef ош. 1 2
+participants in the experiment
+
+ Right and at the top there are values  of Pearson correlation coefficient [13] between the performance indicators, 
+and left and at the bottom – significance characteristics of the correlation.
+
+Table 4
+Correlation identified between indicators צ , N, as well as values T , T , N ש , ש , , L  and 
+
+04 Ring Azef ош. 1 2 ср
+L  in the survey of 33 pairs of participants in the experiment
+
+max
+
+Right and at the top there are values  of Pearson correlation coefficient [13] between the performance indicators, and 
+left and at the bottom – significance characteristics of the correlation.
+
+•мИР ТРАнСПОРТА 05’14
+
+
+
+Table 5
+Correlation identified between indicators צ , N, V, Σ , Σ , ∆ , and R  in the survey of 914 pairs 
+
+04 NV S S S
+of participants in the experiment (professional pilots and students- pilots)
+
+04צ N V ΣNV ΣS ΔS RS
+
+04צ 0,0182 -0,0205 -0,0014 -0,0884 -0,0833 -0,1553
+N Р ≤ 0,95 0,2823 0,8009 0,0731 0,0009 -0,0321
+V Р ≤ 0,95 Р > 0,999 0,8006 0,1283 0,1025 0,0795
+
+ΣNV Р ≤ 0,95 Р > 0,999 Р > 0,999 0,1257 0,0645 0,0295
+ΣS Р > 0,99 Р > 0,95 Р > 0,999 Р > 0,999 0,3586 0,2241
+ΔS Р > 0,95 Р ≤ 0,95 Р > 0,99 Р ≤ 0,95 Р > 0,999 0,5579
+RS Р > 0,999 Р ≤ 0,95 Р > 0,95 Р ≤ 0,95 Р > 0,999 Р > 0,999
+
+Right and at the top there are values  of Pearson correlation coefficient [13] between the performance indicators, 
+and left and at the bottom – significance characteristics of the correlation.
+
+Table 6
+Correlation identified between indicators צ , N, Σ , ∆ , and R  in the survey of 2193 pairs of 
+
+04 S S S
+participants in the experiment (professional pilots, air traffic controllers and students-pilots)
+
+Right and at the top there are values  of Pearson correlation coefficient [13] between the performance indicators, 
+and left and at the bottom – significance characteristics of the correlation.
+
+and the criterion צ estimates convenience for mainly time counter. At the bottom there are three buttons: 
+04
+
+information exchange between pilots. Therefore, «Training», «Start», «Passed». Mode «Training» is 
+the authors conducted development of alternative designed to familiarize participants with the process of 
+methods for direct estimation of the efficiency of the exercise. It ends after the completion of the travel 
+interaction in the pair of crew members of an aircraft. route completely, and relevant information appears. 
+One of these was the use of special software (see. Then automatically a window «Results› appears with 
+Table 1). current and previous results.
+
+Software product «Viper» (here we cannot provide All software products, listed in Table 1, were used 
+a reference to its description, because it is fairly in varying degrees in the course of experiments with 
+new), as well as software products «Ring-2» [17, 18], pilots in 2003–2013.
+«Azef» [17,19] and «Chkalovsky- 2» [20], have a task In order to somehow compare mixed results, 
+designed for testing motor interaction in the pair and according to the results of several exercises some 
+monitoring its effectiveness. mean overall evaluation of the effectiveness of 
+
+After activation of a file, launching a program, on interaction (אΣ) was introduced, which, of course, 
+a computer screen program interface is displayed, is not quite correct, and is suitable only for very 
+shown in Pic. 3. approximate estimations. Experimental conditions 
+
+The main menu consists of two submenus were also somehow different, which also left its 
+«Information» and «Help». The algorithm of the negative impact on the final result.
+program provides a number of characteristics that As shown in Table 2–4, a satisfactory solution of 
+influence the properties of a dynamic object, i. e. the problem has not been found yet. Results of the 
+points. Activating the item «Settings› on the screen test are not well joined to one another.
+we get a dialog window for changes of «Dynamic In Tables 2–4 the following notations are used:
+object properties› and «Evaluation criteria». Through • T  = T  – time for keeping «bar» within 
+
+Azef уд.F
+control keys two persons under test should as soon acceptable limits;
+as possible carry a red point from start to finish • T  – time of passage of turnout angle of a 
+
+Ring
+through a complex circular route. Touching lateral fixed path;
+boundaries of the route is penalized with temporary • N  – number of errors committed during the 
+
+ош.
+loss of control; point is repainted from red to blue. One period of 300 s;
+testee controls a point in the horizontal plane and the • L  (м) – average linear cross track angle of 
+
+ср.
+other in the vertical. turnout angle;
+
+At the top of the graphical interface of the • L  (м) – maximum linear cross track angle of 227
+max
+
+exercise current speed parameters of the point in turnout angle on the final section (length 2 km) of a 
+both horizontal and vertical planes with the maximum fixed path;
+speed reached in a game, through the inclined line • ש  – average score for two testees in the exercise 
+
+1
+are displayed. Here, information is presented as «CrossCheck2» (the worst result);
+
+•мИР ТРАнСПОРТА 05’14
+
+
+
+Table 7
+228 Correlation identified between indicators צ , N, V, Σ , Σ , ∆ , R  and א  in the survey of 61 
+
+04 NV S S S Σ
+pairs of participants in the experiment (professional pilots and students- pilots)
+
+Right and at the top there are values  of Pearson correlation coefficient [13] between the performance indicators, 
+and left and at the bottom – significance characteristics of the correlation.
+
+Table 8
+Correlation identified between indicators צ , N, Σ , ∆ , and R  and א  i  th  survey of 130 pairs 
+
+04 S S Σ n e
+S
+
+of participants in the experiment (professional pilots and students- pilots)
+
+Right and at the top there are values  of Pearson correlation coefficient [13] between the performance indicators, 
+and left and at the bottom – significance characteristics of the correlation. 
+
+ש •  – average score for two testees in the exercise Russia» [15], but as a performance criterion has a low 
+2
+
+«CrossCheck2» (the best result); distinctive character in a quantitative aspect. But the 
+As it can be seen from Tables 2–8, the largest exercise «Gomeostat» is overloaded with specificity and 
+
+discrepancies with the rest of the results were valence does not reflect interaction in a pure form. In general, 
+(V), the total evaluation on CRT (Σ ), as well as time we can make a disappointing conclusion that there is no 
+
+VN
+for keeping «bar» within acceptable limits (T ) in the breakthrough in the field of direct quantitative assessment 
+
+Azef
+exercise «Azef». In the exercise «Ring-2» a scatter of the of the effectiveness of interaction in the pair.
+results is very small. Similar conclusions can be made when considering 
+
+Exercise «Azef» includes tasks for development of the tables 5–8. Integral assessment אΣ very weakly and 
+anticipation of a pilot. Being very useful for training and often not in accordance with the theoretical predictions 
+workout, it is too sensitive to random errors. This greatly correlates with other performance criteria (Table 7–8).
+reduces the possibility of the exercise for diagnosis of the If we take the results shown in Tables 5 and 6, the sign 
+efficiency of interaction. of the correlation coincides with the projection in 29 cases 
+
+Exercise «CrossCheck 1» is a task for developing out of 31, i. e. 93.5% of cases. Moreover, only in 12 cases 
+cognitive-motor interaction in the pair in the mode of (38, 7%) the correlation is insignificant. In other cases, it is 
+cross-monitoring and evaluation of its effectiveness. significant (16, 1%), highly significant (6, 5%), and even 
+As it can be seen from Tables 2–4, it showed sufficient very highly significant (38, 7%). In the correlation between 
+match with almost all experimental results, except for values N and Σ ; V and Σ ; ∆  and R  – this is trivial. At 
+
+NV NV S S
+the exercise «Azef». But then a nuance appears. In other times – no. From Tables 5–8 it is clear that as one 
+older age groups, there are problems associated with of the possible prognostic criteria of the effectiveness of 
+the use of a personal computer: the great response the interaction can be considered the value R .
+
+S
+and acceptable coherence they have insufficient motor conclusion. Although it is clear that the problem 
+skills in the application of input / output devices, which posed in the article is still very far from its solution, 
+adversely affects the timing of the exercise and the result. obviously, that the planned ways of its solutions are 
+(In other words, some older pilots have difficulties finding of great interest, and firstly, the further accumulation 
+necessary symbols on a keyboard.)  At the same time, of statistical material (with a correct statement of the 
+for the younger generation this problem is not relevant experiment) is required, and secondly, attraction of 
+and, therefore, additional correlation of the experimental multivariate statistical analysis is necessary, because 
+results and the age of persons under tests is natural. in some cases the reasons for weak correlations are on 
+
+Exercise «Stels», although it has been proven the surface and are related to the influence of factors 
+successful in trainings in the training program «CRM unaccounted by the authors of this article.
+
+•мИР ТРАнСПОРТА 05’14
+
+
+
+Keywords: civil aviation, crew, interaction, style of behavior, socionic characteristics, performance criteria, 
+intertype relations.
+
+REFEREncES
+1. Federal Aviation Regulations: Preparation and grid. 2nd ed. [Cockpit Resourse Management (CRM). V 
+
+execution of civil aviation flights of the Russian Federation 2 kn. – Kn. 2: «Upravlenie resursami kabiny soglasno setke 
+[Federal’nye aviatsionnye pravila: Podgotovka i vypolnenie «Grid». 2-e izd.]. Austin, Scientific Methods, Inc., 1990, 
+poletov v grazhdanskoy aviatsii Rossiyskoy Federatsii]. 133 p.
+Moscow, Vozdushnyj transport publ., 2009, 86 p. 12. Ozhegov, S. I. Russian dictionary. 20th ed., 
+
+2. Guide to psychological support of selection, training stereotype [Slovar’ russkogo yazyka. 20-e izd., stereotip]. 
+and professional work of pilots and controllers of civil Moscow, Russkiy yazyk publ., 1988, 750 p.
+aviation of the Russian Federation [Rukovodstvo po 13. Special training in the field of human factors: 
+psihologicheskomu obespecheniyu otbora, podgotovki i guidelines for psychological diagnosis. Comp. by 
+professional’noy deyatel’nosti letnogo i dispetcherskogo Arinicheva, O.V., Malishevsky, A.V. [Spetsial’naya 
+sostava grazhdanskoy aviatsii Rossiyskoy Federatsii]. podgotovka v oblasti chelovecheskogo faktora: metodicheskie 
+Moscow, Vozdushnyj transport publ., 2001, 279 p. ukazaniya po provedeniyu psihologicheskoy diagnostiki]. St. 
+
+3. Recommendations for flight crew designation and Petersburg, St. Petersburg State University of Civil Aviation 
+optimization of moral and psychological climate (p. I and publ., 2010, 74 p.
+II) [Rekomendatsii po komplektovaniyu letnyh ekipazhey i 14. Allahverdov, V.M., Beznosov, S.P., Bogdanov, V.A. 
+obespecheniyu optimal’nogo moral’no-psihologicheskogo et al. Psychology: a textbook [Psihologiya: uchebnik], chief 
+klimata (ch. I i II)] .  Moscow , GosNIIG A  publ.,  1985, ed. Krylov, A.A., 2nd ed., rev. and enl. Moscow, Prospekt 
+43 p. publ.; TK Velbi, 2008, 752 p.
+
+4. Safety Management Manual (SMM). Doc. 9859- 15. Leychenko, S.D., Malishevsky, A.V., Mihaylik, 
+AN / 474. 2nd ed. [Rukovodstvo po upravleniyu N. F. Human factors in aviation: in 2 vol. Vol. 1 
+bezopasnost’yu poletov (RUBP). Doc. 9859-AN/474. 2-e [Chelovecheskiy faktor v aviatsii: V 2 t. – T. 1]. St. 
+izd]. Montreal, ICAO, 2009,318 p. Petersburg, St. Petersburg State University of Civil Aviation 
+
+5. Leychenko, S.D Human Factors in Aviation: In 2 publ, 2005, 473 p.
+vol. – Vol. 2 / Leychenko, S.D., Malishevsky, A.V., 16. Etkind, A. M. Color test of relations and its 
+Mihaylik, N.F. [Chelovecheskiy faktor v aviatsii: V 2 t. – T. application in the study of patients with neuroses [Tsvetovoy 
+2]. St. Petersburg, St. Petersburg State University of Civil test otnosheniy i ego primenenie v issledovanii bol’nyh 
+Aviation publ., 2006, 506 p. nevrozami]. Socio-psychological research in psycho 
+
+6 .  A r i n i c h e va ,  O . V. ,  K ova l e n k o ,  G . V. , neurology: collection of scientific works SRI psycho neurology 
+Malishevsky,  A. V. et al. The study of management n. a. V. M. Bekhterev. Leningrad, 1980, pp. 110–114.
+practices in the field of air transport with the use of socionic 17. Vlasov, E. V. The use of applied software in the 
+models [Issledovanie metodov upravleniya v sfere process of training of aviation personnel [Primenenie 
+vozdushnogo transporta s ispol’zovaniem sotsionicheskih prikladnogo programmnogo obespecheniya v protsesse 
+modeley]. Polet, 2008, No.1, pp. 45–49. podgotovki aviatsionnogo personala]. Problems of flight 
+
+7. Arinicheva, O. V. Improvement of management operations and flight safety: interuniversity collection of 
+practices of the system «crew-aircraft» by reducing negative scientific works. Iss. VI. St. Petersburg, 2012, pp.182–188.
+impact of human factors on flight safety. Ph. D. (Tech.) 18. Malishevsky, A. V. The results of experiments to 
+thesis [Sovershenstvovanie metodov upravleniya resursami evaluate the effectiveness of interaction conducted with 
+sistemy «ekipazh-vozdushnoe sudno» putem snizheniya students-pilots of University of civil aviation [Rezul’taty 
+otritsatel’nogo vliyaniya chelovecheskogo faktora na eksperimentov po otsenke effektivnosti vzaimodeystviya, 
+bezopasnost’   poletov. Dis … kand. tehn. nauk]. St.Petersburg, provedennyh so studentami-pilotami Universiteta 
+2008, 199 p. grazhdanskoy aviatsii]. In: Malishevskiy, A.V., Vlasov, 
+
+8. Malishevsky, A.V., Parfenov, I. A. Application of E.V., Adilov, Zh.Zh., Vahabov, M. A. Problems of flight 
+socionic models for management and planning in the field operations and flight safety: interuniversity collection of 
+of air transport [Ispol’zovanie sotsionicheskih modeley dlya scientific works. Iss. V. St. Petersburg, 2011, pp. 53–59.
+upravleniya i planirovaniya v sfere vozdushnogo transporta]. 19. Malishevsky, A.V., Vlasov, E.V., Musahodzhaev, 
+Scientific Bulletin of Moscow State Technical University of A.F., Saidhanov, T. H. Analysis of the results of an 
+Civil Aviation, 2010, No. 154 (4), pp. 117–123. experiment to evaluate the effectiveness of interaction 
+
+9. Malishevsky, A.V., Brovkin, P.E., Abdusattarov, conducted with students-pilots of University of civil 
+K.S., Said, S. S. The results of the direct determination of aviation [Analiz rezul’tatov eksperimenta po otsenke 
+the efficiency of interaction conducted with students-pilots effektivnosti vzaimodeystviya, provedennogo so studentami-
+[Rezul’taty eksperimentov po neposredstvennomu pilotami Universiteta grazhdanskoy aviatsii]. Problems of 
+opredeleniyu effektivnosti vzaimodeystviya, provedennyh so flight operations and flight safety: interuniversity 
+studentami-pilotami]. Problems of flight operations and flight collection of scientific works. Iss. IV. St. Petersburg, 2010, 
+safety: Interuniversity collection of works. Iss. VI., St. pp. 62–69.
+Petersburg, 2012, pp. 204–211. 20. Brovkin, P. E. Analysis of an immediate evaluation 
+
+10. Gulenko, V. V. What kind of relationship were built of effectiveness of cooperation in military aircraft of 
+by Yung (intertype conditions of stability in the dyad) armed forces of the Russian Federation [Analiz 
+[Kakie otnosheniya postroil by Yung (usloviya intertipnoy neposredstvennoy otsenki effektivnosti vzaimodeystviya v 
+ustoychivosti v diade)].  Sotsionika, psihologiya i voennoy aviatsii vooruzhennyh sil Rossiyskoy Federatsii]. 
+mezhlichnostnye otnosheniya, 1998, July, pp. 45–52. Problems of flight operations and flight safety: interuniversity 
+
+11. Blake, R.R., Mouton, J. S. Cockpit Resource collection of scientific works. Iss. VI., St. Petersburg, 2012, 
+Management (CRM). In 2 books. Book. 2. The managerial pp. 171–181.
+
+229
+Координаты	авторов	(contact	information):	Малишевский	А.	В.	(Malishevsky,	A.V.)	–	9909395@bk.ru,	
+Бровкин	П.	Е.	(Brovkin,	P.	E.)	–	pilot05bp@mail.ru,	Власов	Е.	В.	(Vlasov,	E.V.)	–	jeka.vlasov@gmail.com.
+Статья	поступила	в	редакцию	/	article	received	25.05.2014
+Принята	к	публикации	/	article	accepted	04.08.2014
+
+•мИР ТРАнСПОРТА 05’14

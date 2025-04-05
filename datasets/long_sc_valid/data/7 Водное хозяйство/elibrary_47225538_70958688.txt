@@ -1,0 +1,936 @@
+﻿Мелиорация и гидротехника. 2021. Т. 11, № 4. С. 316–331. 
+Land Reclamation and Hydraulic Engineering. 2021. Vol. 11, no. 4. P. 316–331. 
+
+ 
+ГИДРОТЕХНИЧЕСКОЕ СТРОИТЕЛЬСТВО 
+
+Научная статья 
+УДК 627.41 
+doi: 10.31774/2712-9357-2021-11-4-316-331 
+
+Обоснование грунтоармированных и грунтонаполняемых  
+конструкций берегозащитных сооружений для условий малых рек 
+
+Денис Владимирович Кашарин 
+Южно-Российский государственный политехнический университет (НПИ)  
+имени М. И. Платова, Новочеркасск, Российская Федерация, dendvk1@mail.ru 
+
+Аннотация. Цель: анализ работы берегозащитных сооружений с обоснованием 
+применения грунтоармированных и грунтонаполняемых конструкций для условий ма-
+лых рек и водотоков гидрографической сети. Материалы и методы. Предложены но-
+вые технические решения и технологии возведения оболочечных грунтонаполняемых и 
+грунтоармированных конструкций, обеспечивающих минимальное воздействие на тер-
+риторию водосбора малых рек. Предлагается применение в качестве основания берего-
+защитных сооружений грунтонаполняемых оболочек, заполняемых донными отложе-
+ниями. Результаты. Приводятся аналитические и численные методы определения 
+напряженно-деформированного состояния с учетом свойств материала геосинтетиче-
+ской оболочки грунтонаполняемой конструкции в программном модуле Ansys Mechan-
+ical APDL, на основании которых разрабатывается имитационная модель нового техни-
+ческого и технологического решения берегозащитного сооружения, позволяющего 
+обеспечить снижение объемов работ при подготовке и разработке основания. Рассмат-
+ривается применение лабораторного оборудования для проведения физического моде-
+лирования грунтоармированных конструкций берегозащитных сооружений на грунто-
+наполняемом основании, включая установку для испытания композитных материалов 
+грунтонаполняемой оболочки и напряженно-деформированного состояния грунтоар-
+мированного массива. Выводы. Планируемые исследования позволят разработать тех-
+нологию возведения берегозащитных сооружений, в т. ч. в стесненных городских усло-
+виях и на территории природоохранных объектов. По результатам численного модели-
+рования грунтонаполняемых оболочек с применением геотуб предварительно опреде-
+лены условия их устойчивости в качестве основания берегозащитного грунтоармиро-
+ванного сооружения. Предложено при уклонах коренного грунта более 10 использо-
+вать шпунтовую стенку для обеспечения устойчивости оболочки основания. Разработа-
+ны лабораторные стенды, обеспечивающие испытание грунтонаполняемой оболочки-
+основания и лицевой стенки берегозащитного сооружения. 
+
+Ключевые слова: грунтонаполняемая конструкция, берегозащитное сооружение, 
+имитационная модель, грунтонаполняемая оболочка, малый водоток 
+
+HYDRAULIC ENGINEERING 
+
+Original article 
+
+Substantiation of soil-reinforced and soil-filled structures of bank 
+protection structures for the conditions of small rivers 
+
+Denis V. Kasharin  
+South-Russian State Polytechnic University (NPI) named after M. I. Platov, Novocherkassk, 
+Russian Federation, dendvk1@mail.ru  
+
+____________________ 
+© Кашарин Д. В., 2021 
+
+
+
+Мелиорация и гидротехника. 2021. Т. 11, № 4. С. 316–331. 
+Land Reclamation and Hydraulic Engineering. 2021. Vol. 11, no. 4. P. 316–331. 
+
+ 
+Abstract. Purpose: analysis of the bank protection structures operation with substanti-
+
+ation of soil-reinforced and soil-filled structures use for the conditions of small rivers and wa-
+tercourses of hydrographic network. Materials and methods. New technical solutions and 
+technologies for the construction of shell soil-filled and soil-reinforced structures, which pro-
+vide a minimum impact on the catchment area of small rivers are proposed. The soil-filled 
+shells filled with bottom sediments are proposed as the base of bank protection structures.  
+Results. Analytical and numerical methods for determining the stress-strain state are given, 
+taking into account the properties of geosynthetic shell material of a soil-filled structure in the 
+software module Ansys Mechanical APDL, on the basis of which a simulation model of a 
+new technical and technological solution of a bank protection structure is developed, which 
+allows to reduce scope of work in preparing and developing the foundation. The use of labora-
+tory equipment for physical modeling of bank protection soil-reinforced structures on a soil-
+filled foundation, including an installation for testing composite materials of a soil-filled shell 
+and the stress-strain state of a soil-reinforced massif is considered. Conclusions. The planned 
+research will make it possible to develop a technology of bank protection structures construc-
+tion, both in cluttered urban environment and on the territory of environmental facilities. Based 
+on the results of numerical modeling of soil-filled shells with the application of geotubes, the 
+conditions for their stability as the foundation of a bank protection soil-reinforced structure 
+were preliminarily determined. It is proposed to use a sheet pile wall at slopes of bedrock more 
+than 10 to ensure the stability of the base shell. Laboratory stands to test the soil-filled shell-
+bases and the front wall of the bank protection structure have been developed.  
+
+Keywords: soil-filled structure, bank protection structure, simulation model, soil-filled 
+shells, small watercourse  
+
+Введение. При строительстве берегозащитных сооружений, облада-
+
+ющих значительной протяженностью, основными проблемами являются 
+
+значительная неоднородность основания аллювиального происхождения, 
+
+существенные воздействия руслоформирующих процессов и необходи-
+
+мость соблюдения экологических требований при проведении строитель-
+
+ных работ, ремонта и реконструкции.  
+
+В случае существующих жестких конструкций берегозащитных со-
+
+оружений даже незначительная деформация основания может привести 
+
+к разрушению конструкции в целом (рисунок 1a). В связи с этим одной 
+
+из наиболее сложных задач является подготовка и стабилизация основа-
+
+ний, также необходимы значительные капиталозатраты при их строитель-
+
+стве и реконструкции. Преимуществом гибких габионных конструкций яв-
+
+ляется способность воспринимать без разрушения значительные просадки 
+
+основания, но доступный для их заполнения материал не всегда соответ-
+
+ствует природно-климатическим условиям и разрушается при циклах за-
+
+2 
+
+
+
+Мелиорация и гидротехника. 2021. Т. 11, № 4. С. 316–331. 
+Land Reclamation and Hydraulic Engineering. 2021. Vol. 11, no. 4. P. 316–331. 
+
+ 
+мораживания и оттаивания, что приводит к его высыпанию через ячейки 
+
+сетки габионов и, как следствие, к нарушению устойчивости берегозащит-
+
+ного сооружения в целом (рисунок 1б). Биопозитивные фашинные кон-
+
+струкции не обеспечивают достаточную надежность крепления и имеют 
+
+малый срок службы в условиях переменного уровня воды и колебаний 
+
+температур [1–7]. 
+
+а 
+
+ 
+
+б 
+
+ 
+
+а – грунтоармированная конструкция; б – грунтонаполняемые конструкции 
+
+Рисунок 1 – Разрушение различных конструкций 
+берегозащитных сооружений [5, 8] 
+
+Целью исследования являлся анализ существующих берегозащитных 
+
+сооружений и обоснование применения берегозащитных сооружений с ис-
+
+пользованием грунтоармированных и грунтонаполняемых конструкций, 
+
+а также технологии их возведения. 
+
+При отсутствии качественного местного строительного материала 
+
+3 
+
+
+
+Мелиорация и гидротехника. 2021. Т. 11, № 4. С. 316–331. 
+Land Reclamation and Hydraulic Engineering. 2021. Vol. 11, no. 4. P. 316–331. 
+
+ 
+наиболее эффективным является использование грунтоармированных и 
+
+грунтонаполняемых конструкций Longard, TenCate, Soiltrain, ООО «Русгео-
+
+синт» и др., применение которых известно с середины прошлого века и поз-
+
+воляет обеспечить устойчивость грунтовых массивов в условиях просадоч-
+
+ных грунтов и при опасных геологических процессах (рисунок 1) [7–10]. 
+
+Материалы и методы. Основным недостатком существующих за-
+
+щитных сооружений является значительный вес лицевой стенки, что увели-
+
+чивает неравномерность нагрузки на армированный массив и его основание. 
+
+Вторым аспектом является значительное воздействие на водный объ-
+
+ект и территорию его водосбора при проведении подготовительных работ: 
+
+расчистка донных отложений и подготовка основания сооружений, скла-
+
+дирование отложений с необходимостью осветления, а иногда вывоза 
+
+на специализированные площадки хранения [11, 12]. 
+
+При этом глубину заложения основания берегозащитного сооружения 
+
+следует назначать ниже возможного размыва грунта с учетом воздействия 
+
+проектируемой конструкции и толщины активного слоя наносов. Прочност-
+
+ные, деформационные и фильтрационные характеристики биогенных грун-
+
+тов и илов определяются в диапазоне давлений, соответствующих напря-
+
+женному состоянию после возведения сооружения. Если под его основани-
+
+ем залегает слой грунта с модулем упругости Е < 5 МПа и толщиной более 
+
+его ширины, то осадка должна определяться с учетом полного давления 
+
+p (кПа) под ним, не превышающего расчетного сопротивления грунта осно-
+
+вания R (кПа), определяемого по известным нормативным формулам [13]. 
+
+В случае медленно уплотняющихся водонасыщенных связных и био-
+
+генных грунтов основания, имеющих степень влажности Sr   0,85 и ко-
+
+эффициент консолидации с  107 см2/год, сила предельного сопротивле-
+
+ния рассчитывается с учетом избыточного давления воды в порах и (кПа), 
+
+вызывающего нестабилизированное состояние.  
+
+4 
+
+
+
+Мелиорация и гидротехника. 2021. Т. 11, № 4. С. 316–331. 
+Land Reclamation and Hydraulic Engineering. 2021. Vol. 11, no. 4. P. 316–331. 
+
+ 
+Наличие нестабилизированного состояния основания с изменяющей-
+
+ся по времени при консолидации анизотропией прочностных, деформаци-
+
+онных и фильтрационных характеристик, а также значительной тиксотро-
+
+пии илов приводит к увеличению сроков строительства, которое должно 
+
+производиться с учетом времени, необходимого для достижения заданной 
+
+степени консолидации основания, а также конечной осадки основания под 
+
+пригрузкой [7, 8]. 
+
+При расчетных деформациях грунта основания, сложенного биоген-
+
+ными грунтами и илами, больше предельных, предусматриваются следу-
+
+ющие мероприятия [7, 11, 12]: вытеснение грунта основанием при толщине 
+
+биогенных грунтов и илов не более 0,2 м; полная или частичная прорезка 
+
+слоев биогенных грунтов и илов при устройстве основания; полная или ча-
+
+стичная замена биогенного грунта или ила песком, гравием, щебнем и т. д.; 
+
+уплотнение грунтов временной или постоянной пригрузкой основания со-
+
+оружения или всей площадки строительства насыпным (намывным) грун-
+
+том; применение грунтоармированных или грунтонаполняемых конструк-
+
+ций с горизонтальной схемой армирования при толщине биогенных грун-
+
+тов и илов более 1,5 м [8]. 
+
+Для условий возведения на слабых биогенных грунтах С. И. Сахаро-
+
+вой предусматривалось возведение армированных грунтовых подушек, ко-
+
+торые существенно повышают устойчивость [12]. 
+
+Недостатком является то, что при устройстве основания предполага-
+
+ется использование технологии, при которой необходимо осуществить 
+
+установку грунтоармированных элементов в специально подготовленную 
+
+траншею и предварительное уплотнение грунта, это значительно усложня-
+
+ет производство работ в условиях береговой зоны.  
+
+В настоящее время складирование донных отложений после прове-
+
+дения подготовительных работ возможно с применением геотуб из филь-
+
+трующего геотекстиля, которые в настоящее время широко используются 
+
+5 
+
+
+
+Мелиорация и гидротехника. 2021. Т. 11, № 4. С. 316–331. 
+Land Reclamation and Hydraulic Engineering. 2021. Vol. 11, no. 4. P. 316–331. 
+
+ 
+как зарубежными, так и отечественными производителями. Применение 
+
+таких конструкций обеспечивает уменьшение объема за счет обезвожива-
+
+ния донных отложений. Однако, несмотря на уменьшение площади скла-
+
+дирования донных отложений, необходимы дополнительные мероприятия 
+
+по отводу осветленного стока и замещению изъятого материала в основа-
+
+нии берегозащитного сооружения. 
+
+В связи с этим наиболее перспективным является использование ком-
+
+бинирования технологии создания грунтонаполняемых конструкций осно-
+
+вания берегозащитных сооружений за счет применения геотуб без изъятия 
+
+материала из прибрежной зоны водного объекта. 
+
+При расчетном обосновании берегозащитного сооружения необхо-
+
+димо учитывать дополнительное воздействие водного потока, так как он 
+
+оказывает взвешивающее фильтрационное, волновое, абразивное и иные 
+
+виды воздействий, в т. ч. ледовые. Расчетные положения для определения 
+
+устойчивости берегозащитных сооружений к воздействию данных явлений 
+
+хорошо изучены [7]. При строительстве берегозащитных сооружений 
+
+с применением армированного грунта снижение веса лицевой стенки обес-
+
+печивает надежную защиту от приведенных выше видов воздействий. 
+
+Это дает снижение нагрузки на основание берегозащитного сооружения и 
+
+армированный массив, упрощает технологический процесс возведения 
+
+данных сооружений. Предлагается использование гибких лицевых стенок 
+
+из геотекстиля и сборных лицевых стенок из композитных материалов. 
+
+Результаты и обсуждение. Рассмотрим предлагаемые технические и 
+
+технологические решения по возведению берегозащитных сооружений. 
+
+Нами разработаны новые технические решения грунтоармированных со-
+
+оружений, позволяющих обеспечить наименьший вес конструкции за счет 
+
+применения гибкой лицевой стенки из геосинтетического материала и 
+
+грунтонаполняемого основания (рисунок 2). 
+
+Преимуществом конструкций на рисунке 2 является возможность их 
+
+6 
+
+
+
+Мелиорация и гидротехника. 2021. Т. 11, № 4. С. 316–331. 
+Land Reclamation and Hydraulic Engineering. 2021. Vol. 11, no. 4. P. 316–331. 
+
+ 
+возведения без применения тяжелой строительной техники в условиях от-
+
+сутствия развитой транспортной инфраструктуры или в стесненных усло-
+
+виях городской среды. Рассматривается возможность применения в каче-
+
+стве основания грунтонаполняемой оболочки, выполненной из водопрони-
+
+цаемого геотекстиля (геотубы), в которую закачивается пульпа под давле-
+
+нием, превосходящим в несколько раз давление окружающего грунта, это 
+
+обеспечивает снижение его влажности с 80 до 40 % и более. Грунтонапол-
+
+няемая оболочка укладывается на освобожденный под действием гидро-
+
+монитора коренной устойчивый грунт. Плотность грунта внутри оболочки 
+
+может быть увеличена до 1,8 т/м3. При необходимости для стабилизации 
+
+грунта в геотубе добавляется отвердитель. 
+
+ 
+1 – крепление шпунтовых стенок; 2 – геотуба; 3 – лицевая стенка; 4 – анкер;  
+
+5 – геотекстиль; 6 – грунтоармированный массив, армированный полимерными  
+лентами; 7 – противофильтрационная оболочка; 8 – грунтонаполняемые армирующие  
+
+оболочки; 9 – дренажная система; 10 – шпунт; 11 – грунтоармированный массив; 
+12 – основание геотуб из полимерного материала 
+
+Рисунок 2 – Конструкция берегозащитного сооружения  
+с применением грунтоармированных и грунтонаполняемых  
+
+оболочек (патент РФ 2714732) [13] 
+
+Грунтонаполняемая оболочка обеспечивает надежное основание бе-
+
+регозащитному сооружению, однако при уклоне границы коренного грунта 
+
+более 10 не обеспечивается ее устойчивость. Предлагается обеспечить ее 
+
+7 
+
+
+
+Мелиорация и гидротехника. 2021. Т. 11, № 4. С. 316–331. 
+Land Reclamation and Hydraulic Engineering. 2021. Vol. 11, no. 4. P. 316–331. 
+
+ 
+устойчивое положение за счет шпунтовой стенки, ограничивающей ее пе-
+
+ремещение вниз по склону. 
+
+Параметрами грунтонаполняемых конструкций являются: протяжен-
+
+ность и их ширина, внешние и внутренние нагрузки, допустимый уклон 
+
+основания. 
+
+Техническими критериями обоснования конструкций являются: дав-
+
+ление в грунтонаполняемой конструкции, обеспечение устойчивости к опро-
+
+кидыванию, градиент фильтрации, осадка конструкции. 
+
+Рассмотрим вопросы численного моделирования предлагаемых тех-
+
+нических решений. Последовательность численного моделирования грун-
+
+тонаполняемых конструкций состоит из приведенных ниже этапов. 
+
+Строятся начальные сечения грунтонаполняемых конструкций с ис-
+
+пользованием эластиков Эйлера (рисунок 3). 
+
+1 Расчет грунтонаполняемой конструкции, состоящей из грунтона-
+
+полняемых оболочек, основывается на рассмотрении веревочной кривой, 
+
+нагруженной давлением грунта, при использовании следующих зависимо-
+
+стей [8, 9]: 
+
+y 2 2
+1a  h1[1 1 k1 sin 1 ]
+
+
+    k 2   , (1) 
+
+x a  h E ( , k )  1
+1
+1 1 2 1 1 E1(1, k1)
+
+   2  
+
+y2a  h  2 2   2
+2[ (1 k2 sin 2 ) /(1 k2 )  1]
+
+
+ 1  k 2 ,  (2) 
+x  2  2
+
+2a h2 / 1 k2
+ 2[E1( / 2, k2 )  E1(2 , k2 )]  [E2 ( / 2, k2 )  E2 (2 , k2 )]
+
+где y1a  и y2a  – соответственно ординаты расчетной схемы оболочки, м;  
+
+x1a  и x2a  – соответственно абсциссы расчетной схемы оболочки, м;  
+
+h1  и h2  – соответственно параметры эластик, м; 
+
+k1  и k2  – соответственно модули эллиптического интеграла, м; 
+
+8 
+
+
+
+Мелиорация и гидротехника. 2021. Т. 11, № 4. С. 316–331. 
+Land Reclamation and Hydraulic Engineering. 2021. Vol. 11, no. 4. P. 316–331. 
+
+ 
+E1 и E2  – эллиптические интегралы 2-го рода соответственно верхней 
+
+и нижней части оболочки. 
+
+ 
+
+ 
+
+W , B  – соответственно ширина оболочки по низу и ее прилегание к основанию, м; 
+b  – ширина оболочки, м;  , 1  – углы касательной к оболочке;  
+
+h , h0 , h1 , h2  – высоты положения расчетных точек оболочки, м 
+
+Рисунок 3 – Расчетная схема оболочки 
+
+9 
+
+
+
+Мелиорация и гидротехника. 2021. Т. 11, № 4. С. 316–331. 
+Land Reclamation and Hydraulic Engineering. 2021. Vol. 11, no. 4. P. 316–331. 
+
+ 
+2 Определяется напряженно-деформированное состояние с учетом 
+
+свойств материала геосинтетической оболочки грунтонаполняемой кон-
+
+струкции и предварительного ее очертания по зависимостям (1), (2) в мо-
+
+дуле Ansys Mechanical APDL, для моделирования оболочки и основания 
+
+использованы конечные элементы SHELL 181 и SOLID 185, контактную 
+
+пару между оболочкой и основанием моделировали с помощью 
+
+CONTA174 («контактная поверхность») и TARGE170 («целевая поверх-
+
+ность»). При этом множитель штрафной жесткости в направлении нормали 
+
+FKN = 0,1. Коэффициент трения между оболочкой и основанием равен 0,3, 
+
+множитель допуска внедрения FTOLN = 0,1, когезия в контакте СОНЕ = 0, 
+
+максимально допускаемое контактное давление TNOP = 7 МПа. 
+
+3 Моделирование контакта между заполнителем, оболочкой, шпун-
+
+товой стенкой и ее основанием [13]. 
+
+4 Создание модели грунта с использованием усовершенствованной 
+
+модели Друкера – Прагера (EDP) [14–16]. 
+
+Предварительные результаты численного моделирования в модуле 
+
+Ansys Mechanical APDL при уклоне коренного русла 10, коэффициенте 
+
+трения геосинтетической оболочки о грунт, равном 0,3, плотности грунта 
+
+в оболочке 1,8 т/м3 и периметре оболочки 2 м представлены на рисунке 4. 
+
+а б 
+
+  
+
+а – без шпунтовой стенки; б – с применением шпунтовой стенки 
+
+Рисунок 4 – Результаты численного моделирования 
+устойчивости грунтонаполняемой оболочки 
+
+10 
+
+
+
+Мелиорация и гидротехника. 2021. Т. 11, № 4. С. 316–331. 
+Land Reclamation and Hydraulic Engineering. 2021. Vol. 11, no. 4. P. 316–331. 
+
+ 
+Использование данной последовательности позволит определить 
+
+предварительные условия обеспечения устойчивого положения оболочки, 
+
+оценить напряженно-деформированное состояние и определить прочност-
+
+ные свойства геосинтетического материала [17, 18]. 
+
+Так как формообразование грунтонаполняемых оболочек является 
+
+сложным процессом, с учетом изменения качественных характеристик 
+
+грунта необходимо проведение дополнительных лабораторных исследова-
+
+ний, результаты которых должны внести корректировки в данные числен-
+
+ного моделирования [19–22]. 
+
+С целью испытания прочности материалов оболочки разработаны 
+
+лабораторные стенды для определения напряженно-деформированного со-
+
+стояния грунтонаполняемой оболочки при различных показателях давле-
+
+ния, влажности грунта и коэффициентов фильтрации через тело оболочки 
+
+с возможностью моделирования коэффициента трения оболочки и поверх-
+
+ности основания, а также изменения ее наклона от 0 до 25. 
+
+Для наблюдения за геометрическими параметрами оболочки преду-
+
+смотрены видеокамеры, а для наполнения оболочки пульпопровод. 
+
+Общий вид лабораторного стенда представлен на рисунке 5. 
+
+Для испытания лицевой стенки и армирующих элементов берегоза-
+
+щитного сооружения предусмотрено создание лабораторного стенда с воз-
+
+можностью обеспечения вырывающего усилия как на лицевую стенку, так 
+
+и на элементы ее армирования за счет применения натяжного устройства, 
+
+а также общей нагрузки на грунтоармированный массив и вибростенд, 
+
+обеспечивающей моделирование сейсмических воздействий (рисунок 6). 
+
+В дальнейшем предполагается после проведения лабораторных ис-
+
+пытаний внести корректировку в параметры технического решения и про-
+
+верить достоверность результатов численного моделирования. 
+
+11 
+
+
+
+Мелиорация и гидротехника. 2021. Т. 11, № 4. С. 316–331. 
+Land Reclamation and Hydraulic Engineering. 2021. Vol. 11, no. 4. P. 316–331. 
+
+ 
+
+ 
+1 – камеры; 2 – рама; 3 – защитный экран из оргстекла; 4 – подводящие  
+
+воздуховоды от компрессора; 5 – образец оболочки, прикрепленной  
+к стальной раме; 6 – основание с перфорацией; 7 – фиксирующие опоры 
+
+Рисунок 5 – Лабораторный стенд для испытания 
+прочности материалов оболочки 
+
+ 
+
+1 – лоток; 2 – рама лотка (для закрепления лицевой стенки); 3 – щит для равномерного 
+распределения нагрузки; 4 – пресс; 5 – вибростол; 6 – натяжное устройство 
+
+Рисунок 6 – Схема установки для испытания  
+грунтоармированных и грунтонаполняемых конструкций 
+
+12 
+
+
+
+Мелиорация и гидротехника. 2021. Т. 11, № 4. С. 316–331. 
+Land Reclamation and Hydraulic Engineering. 2021. Vol. 11, no. 4. P. 316–331. 
+
+ 
+Выводы. В результате анализа существующих конструкций берего-
+
+защитных сооружений предлагаются новые технические решения и техно-
+
+логии возведения берегозащитных сооружений с применением грунтоар-
+
+мированных и грунтонаполняемых конструкций, позволяющих обеспечить 
+
+снижение объемов работ при подготовке и разработке их основания за счет 
+
+использования донных отложений без изъятия из прибрежной зоны водно-
+
+го объекта.  
+
+По результатам численного моделирования грунтонаполняемых 
+
+оболочек с применением геотуб предварительно определены условия их 
+
+устойчивости в качестве основания берегозащитного грунтоармированно-
+
+го сооружения. Предложено при уклонах коренного грунта более 10 ис-
+
+пользовать шпунтовую стенку для обеспечения устойчивости оболочки 
+
+основания. 
+
+Разработаны лабораторные стенды, обеспечивающие испытание 
+
+грунтонаполняемой оболочки-основания и лицевой стенки берегозащитно-
+
+го сооружения. 
+
+Список источников 
+
+1. Прокопов А. Ю., Лебидко В. А. Выбор и обоснование методов берегоукрепле-
+ния (на примере р. Кубань в г. Краснодаре) // Известия Ростовского государственного 
+строительного университета. 2015. Т. 2, № 20. С. 41–48.  
+
+2. Михасек А. А., Смывалов А. А. Основы выбора конструкции берегоукрепле-
+ния из композитных материалов // Научное обозрение. 2015. № 14. С. 102–108. 
+
+3. Яркин В. В., Кухарь А. В. Сравнительный анализ решений по берегоукрепле-
+нию побережья Азовского моря вертикальными стенками из заанкеренного шпунта 
+различной конструкции // Металлические конструкции. 2018. Т. 24, № 4. С. 157–166.  
+
+4. Забара А. И. Берегоукрепление Сахалина или надежен ли берег острова // 
+Экологический вестник России. 2015. № 3. С. 36–38. 
+
+5. Кашарин Д. В. Обоснование возведения оснований грунтоармированных бе-
+регозащитных сооружений для условий малых водотоков // Механика грунтов в гео-
+технике и фундаментостроении: материалы междунар. науч.-техн. конф. Новочеркасск, 
+2018. С. 663–671. 
+
+6. Курбанов С. О., Созаев А. А. Проблемы инженерной защиты и природоохран-
+ного обустройства прибрежных урбанизированных зон малых рек на Юге России // По-
+литематический сетевой электронный научный журнал Кубанского государственного 
+аграрного университета [Электронный ресурс]. 2016. № 118(04). С. 916–936. URL: 
+http:ej.kubagro.ru/2016/04/pdf/55.pdf (дата обращения: 01.10.2021). 
+
+7. Кашарин Д. В. Методы расчета грунтоармированных флютбетов мобильных 
+
+13 
+
+
+
+Мелиорация и гидротехника. 2021. Т. 11, № 4. С. 316–331. 
+Land Reclamation and Hydraulic Engineering. 2021. Vol. 11, no. 4. P. 316–331. 
+
+ 
+сооружений на слабых грунтах // Известия Всероссийского научно-исследовательского 
+института гидротехники им. Б. Е. Веденеева. 2011. Т. 264. С. 43–55. 
+
+8. Кашарин Д. В. Защитные инженерные сооружения из композитных материа-
+лов в водохозяйственном строительстве: монография. Новочеркасск: ЮРГТУ (НПИ), 
+2012. 343 с. 
+
+9. Uso de geossintéticos como reforço em estradas não pavimentadas / L. Oliveira, 
+P. Viana, D. Santos, E. Reis // Journal of the Brazilian Association of Agricultural Engineering. 
+2016. Vol. 36, № 3. P. 546–557. http:dx.doi.org/10.1590/1809-4430-Eng.Agric.v36n3p546-
+557/2016. 
+
+10. Guo W., Chu J., Yan S. Analytical and numerical studies of geosynthetic tubes rest-
+ing on deformable foundations // Geotechnical Special Publication. 2014. 2(238). P. 503–514. 
+DOI: 10.1061/9780784413401.050.  
+
+11. Янин Е. П. Техногенные речные илы в зоне влияния промышленного города 
+(формирование, состав, геохимические особенности). М.: ИМГРЭ, 2002. 100 с. 
+
+12. Сахарова С. И. Армированные грунтовые подушки как основания гидротех-
+нических сооружений мелиоративных систем в торфах. М.: Моск. гидромелиоратив. 
+ин-т, 1990. 290 с.  
+
+13. Берегозащитное сооружение с применением грунтоармированных и грунто-
+наполняемых оболочек: пат. 2714732 Рос. Федерация: МПК Е 02 В 3/06, Е 02 В 3/12 / 
+Кашарин Д. В., Калмыков С. А., Плотникова В. А.; заявитель и патентообладатель 
+Юж.-Рос. гос. политехн. ун-т (НПИ) им. М. И. Платова. № 2018146758; заявл. 27.12.18; 
+опубл. 19.02.20, Бюл. № 5. 9 с. 
+
+14. Хуберян К. М. Основы расчета мягких оболочек и пластин при помощи сме-
+шанного вариационно-стержневого метода. Статика и динамика гибких систем. М.: 
+Стройиздат, 1987. 246 с. 
+
+15. Loginova I., Artamonova D., Stolyarov O. Relationship between structure and vis-
+coelastic properties of geosynthetics // MATEC Web of Conferences. 2016. 53(01). 01015. 
+DOI: 10.1051/matecconf/20165301015. 
+
+16. Vasiluta P., Cofaru N., Cofaru I. I. Studies on predictive virtual models based on 
+finite element analysis of the behaviour of geomembranes // MATEC Web of Conferences. 
+2017. 137(18). 06006. DOI: 10.1051/matecconf/201713706006. 
+
+17. Bhandari A., Han J. Two-dimensional physical modelling of soil displacements 
+above trapdoors // Geotechnical Research. 2018. № 5(2). P. 68–80. https:doi.org/10.1680/ 
+jgere.18.00002. 
+
+18. Hasan M., Samadhiya N. K. Experimental and numerical analysis of geosynthetic-
+reinforced floating granular piles in soft clays // International Journal of Geosynthetics and 
+Ground Engineering. 2016. № 2(3). Article number: 22. https:doi.org/10.1007/s40891-016-
+0062-6. 
+
+19. Bacas B. M., Cañizal J., Konietzky H. Frictional behaviour of three critical geosyn-
+thetic interfaces // Geosynthetics International. 2015. Vol. 22, № 5. P. 355–365. https:doi.org/ 
+10.1680/jgein.15.00017. 
+
+20. Tajabadipour M., Marandi M. Effect of rubber tire chips-sand mixtures on perfor-
+mance of geosynthetic reinforced earth walls // Periodica Polytechnica Civil Engineering. 
+2017. Vol. 61. P. 322–334. https:doi.org/10.3311/PPci.9539. 
+
+21. Abd A., Utili S. Design of geosynthetic-reinforced slopes in cohesive backfills // 
+Geotextiles and Geomembranes. 2017. № 45(6). P. 627–641. https:doi.org/10.1016/j.geotex 
+mem.2017.08.004. 
+
+22. Kim M., Filz G. M., Plaut R. H. Two-chambered water-filled geomembrane tubes 
+used as water barriers: experiments and analysis // Geosynthetics International. 2005. Vol. 12, 
+№ 3. P. 127–133. https:doi.org/10.1680/gein.2005.12.3.127. 
+
+14 
+
+
+
+Мелиорация и гидротехника. 2021. Т. 11, № 4. С. 316–331. 
+Land Reclamation and Hydraulic Engineering. 2021. Vol. 11, no. 4. P. 316–331. 
+
+ 
+References 
+
+1. Prokopov A.Yu., Lebidko V.A., 2015. Vybor i obosnovanie metodov beregoukrep-
+leniya (na primere r. Kuban' v g. Krasnodare) [Selection and substantiation of bank protec-
+tion methods (on the example of the Kuban River in Krasnodar)]. Izvestiya Rostovskogo 
+gosudarstvennogo stroitel'nogo universiteta [Bulletin of Rostov State University of Civil En-
+gineering], vol. 2, no. 20, pp. 41-48. (In Russian). 
+
+2. Mikhasek A.A., Smyvalov A.A., 2015. Osnovy vybora konstruktsii beregoukreple-
+niya iz kompozitnykh materialov [Fundamentals of choosing the composite material design for 
+bank reinforcement]. Nauchnoe obozrenie [Scientific Review], no. 14, pp. 102-108. (In Russian). 
+
+3. Yarkin V.V., Kukhar A.V., 2018. Sravnitel'nyy analiz resheniy po beregoukreple-
+niyu poberezh'ya Azovskogo morya vertikal'nymi stenkami iz zaankerennogo shpunta razlich-
+noy konstruktsii [Comparative analysis of solutions for protection of the coast of the Azov Sea 
+by anchored vertical walls of sheet pile of various design]. Metallicheskie konstruktsii [Metal 
+Constructions], vol. 24, no. 4, pp. 157-166. (In Russian). 
+
+4. Zabara A.I., 2015. Beregoukreplenie Sakhalina ili nadezhen li bereg ostrova [Coast 
+protection of Sakhalin or whether the coast of the island is reliable]. Ekologicheskiy vestnik 
+Rossii [Ecological Bulletin of Russia], no. 3, pp. 36-38. (In Russian). 
+
+5. Kasharin D.V., 2018. Obosnovanie vozvedeniya osnovaniy gruntoarmirovannykh 
+beregozashchitnykh sooruzheniy dlya usloviy malykh vodotokov [Substantiation of the con-
+struction of foundations of soil-reinforced coastal protection structures for the conditions of 
+small watercourses]. Mekhanika gruntov v geotekhnike i fundamentostroenii: materialy 
+mezhdunarodnoy nauchno-tekhnicheskoy konferentsii [Soil Mechanics in Geotechnics and 
+Foundation Engineering: Proc. of the International Scientific and Technical Conference]. No-
+vocherkassk, pp. 663-671. (In Russian).  
+
+6. Kurbanov S.O., Sozaev A.A., 2016. [Problems of engineering protection and envi-
+ronmental protection of costal urban zones of small rivers in the South of Russia]. Nauchnyy 
+zhurnal KubGAU: politematicheskiy setevoy elektronnyy zhurnal, no. 118(04), pp. 916-936, 
+available: http: ej.kubagro.ru/2016/04/pdf/55.pdf [accessed 01.10.2021]. (In Russian). 
+
+7. Kasharin D.V., 2011. Metody rascheta gruntoarmirovannykh flyutbetov mobil'nykh 
+sooruzheniy na slabykh gruntakh [Method for calculating soil-reinforced flood beds for mo-
+bile structures on soft soils]. Izvestiya Vserossiyskogo nauchno-issledovatel'skogo instituta 
+gidrotekhniki im. B. E. Vedeneeva [Bulletin of the All-Russian Scientific Research Institute of 
+Hydraulic Engineering by B.E. Vedeneev], vol. 264, pp. 43-55. (In Russian). 
+
+8. Kasharin D.V., 2012. Zashchitnye inzhenernye sooruzheniya iz kompozitnykh mate-
+rialov v vodokhozyaystvennom stroitel'stve: monografiya [Protective Engineering Structures 
+from Composite Materials in Water Management: monograph]. Novocherkassk, YRSTU 
+(NPI), 343 p. (In Russian). 
+
+9. Oliveira L., Viana P., Santos D., Reis E., 2016. Uso de geossintéticos como reforço 
+em estradas não pavimentadas. Journal of the Brazilian Association of Agricultural Engineer-
+ing, vol. 36, no. 3, pp. 546-557, http:dx.doi.org/10.1590/1809-4430-Eng.Agric.v36n3p546-
+557/2016. (In Portuguese). 
+
+10. Guo W., Chu J., Yan S., 2014. Analytical and numerical studies of geosynthetic tubes 
+resting on deformable foundations. Geotechnical Special Publication, 2(238), pp. 503-514, 
+DOI: 10.1061/9780784413401.050.  
+
+11. Yanin E.P., 2002. Tekhnogennye rechnye ily v zone vliyaniya promyshlennogo go-
+roda (formirovanie, sostav, geokhimicheskie osobennosti) [Technogenic River Silts in the 
+Zone of Industrial City Influence (Formation, Composition, Geochemical Features)]. Mos-
+cow, IMGRE Publ., 100 p. (In Russian).  
+
+12. Sakharova S.I., 1990. Armirovannye gruntovye podushki kak osnovaniya gidro- 
+
+15 
+
+
+
+Мелиорация и гидротехника. 2021. Т. 11, № 4. С. 316–331. 
+Land Reclamation and Hydraulic Engineering. 2021. Vol. 11, no. 4. P. 316–331. 
+
+ 
+tekhnicheskikh sooruzheniy meliorativnykh sistem v torfakh [Reinforced Ground Pads as Ba-
+ses of Hydraulic Engineering Structures for Reclamation Systems in Peat]. Moscow, Moscow 
+Irrigation and Drainage Institute, 290 p. (In Russian).  
+
+13. Kasharin D.V., Kalmykov S.A., Plotnikova V.A., 2018. Beregozashchitnoe sooru-
+zhenie s primeneniem gruntoarmirovannykh i gruntonapolnyaemykh obolochek [Bank Protec-
+tion Structure Using Soil-Reinforced and Soil-Filled Shells]. Patent RF, no. 2714732. 
+(In Russian).  
+
+14. Khuberyan K.M., 1987. Osnovy rascheta myagkikh obolochek i plastin pri pomosh-
+chi smeshannogo variatsionno-sterzhnevogo metoda. Statika i dinamika gibkikh sistem [Fun-
+damentals of Computation of Soft Shells and Plates Using a Mixed Variational-rod Method. 
+Statics and Dynamics of Flexible Systems]. Moscow, Stroyizdat Publ., 246 p. (In Russian). 
+
+15. Loginova I., Artamonova D., Stolyarov O., 2016. Relationship between structure 
+and viscoelastic properties of geosynthetics. MATEC Web of Conferences, 53(01), 01015, 
+DOI: 10.1051/matecconf/20165301015.  
+
+16. Vasiluta P., Cofaru N., Cofaru I.I., 2017. Studies on predictive virtual models 
+based on finite element analysis of the behaviour of geomembranes. MATEC Web of Confer-
+ences, 137(18), 06006, DOI: 10.1051/matecconf/201713706006.  
+
+17. Bhandari A., Han J., 2018. Two-dimensional physical modelling of soil displace-
+ments above trapdoors. Geotechnical Research, no. 5(2), pp. 68-80, https:doi.org/10.1680/ 
+jgere.18.00002.  
+
+18. Hasan M., Samadhiya N.K., 2016. Experimental and numerical analysis of geosyn-
+thetic-reinforced floating granular piles in soft clays. International Journal of Geosynthetics and 
+Ground Engineering, no. 2(3), article number: 22, https:doi.org/10.1007/s40891-016-0062-6.  
+
+19. Bacas B.M., Cañizal J., Konietzky H., 2015. Frictional behaviour of three critical 
+geosynthetic interfaces. Geosynthetics International, vol. 22, no. 5, pp. 355-365, https:doi.org/ 
+10.1680/jgein.15.00017.  
+
+20. Tajabadipour M., Marandi M., 2017. Effect of rubber tire chips-sand mixtures on 
+performance of geosynthetic reinforced earth walls. Periodica Polytechnica Civil Engineering, 
+vol. 61, pp. 322-334, https:doi.org/10.3311/PPci.9539.  
+
+21. Abd A., Utili S., 2017. Design of geosynthetic-reinforced slopes in cohesive back-
+fills. Geotextiles and Geomembranes, no. 45(6), pp. 627-641, https:doi.org/10.1016/j.geotex 
+mem.2017.08.004.  
+
+22. Kim M., Filz G.M., Plaut R.H., 2005. Two-chambered water-filled geomembrane 
+tubes used as water barriers: experiments and analysis. Geosynthetics International, vol. 12, 
+no. 3, pp. 127-133, https:doi.org/10.1680/gein.2005.12.3.127.  
+
+Информация об авторе 
+Д. В. Кашарин – доцент кафедры водного хозяйства, инженерных сетей и защиты 
+окружающей среды, кандидат технических наук, доцент. 
+
+Information about the author 
+D. V. Kasharin – Associate Professor of the Department of Water Management, Engineering 
+Networks and Environmental Protection, Candidate of Technical Sciences, Associate Professor. 
+
+Автор заявляет об отсутствии конфликта интересов. 
+
+The author declares no conflicts of interests. 
+
+Статья поступила в редакцию 30.08.2021; одобрена после рецензирования 11.11.2021; 
+принята к публикации 15.11.2021. 
+
+The article was submitted 30.08.2021; approved after reviewing 11.11.2021; accepted for 
+publication 15.11.2021. 
+
+16

@@ -1,0 +1,844 @@
+﻿ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 1                        63  
+
+УДК 630*232.12:582.475.2  
+DOI: 10.17238/issn0536-1036.2019.1.63 
+ 
+ГЕНОТИПИЧЕСКАЯ ОБУСЛОВЛЕННОСТЬ  
+ПИГМЕНТНОГО СОСТАВА ХВОИ ПЛЮСОВЫХ ДЕРЕВЬЕВ  
+
+
+ЕЛИ ЕВРОПЕЙСКОЙ  
+ 
+Н.Н. Бессчетнова, д-р с.-х. наук 
+В.П. Бессчетнов, д-р биол. наук, проф. 
+П.В. Ершов, аспирант 
+Нижегородская государственная сельскохозяйственная академия, просп. Гагарина,  
+д. 97, г. Нижний Новгород, Россия, 603107; e-mail: besschetnova1966@mail.ru,  
+lesfak@bk.ru 
+ 
+Изучен пигментный состав 1- и 2-летней хвои плюсовых деревьев (ортетов) ели евро-
+пейской из состава архива клонов № 3 Государственного бюджетного учреждения Ни-
+жегородской области «Семеновский спецсемлесхоз», где они представлены привитыми 
+растениями (клонами или раметами). Цель исследований – выявление факта наличия 
+генотипически обусловленной специфики плюсовых деревьев ели европейской по со-
+ставу пигментов, участвующих в фотосинтезе, и установление масштабов ее проявле-
+ния в 1- и 2-летней хвое. Все учетные растения имели одинаковые площади питания  
+и схемы размещения, получали единый перечень лесоводственных и агротехнических 
+уходов. Отбор образцов хвои проведен одновременно с учетом ее возраста и принад-
+лежности к ортетам и раметам. Анализируемые показатели: содержание хлорофилла a, 
+хлорофилла b, каротиноидов, их суммарное количество, соотношение между ними.  
+В эксперименте использован спектрофотометрический анализ как наиболее эффектив-
+ный способ количественного выявления важнейших пластидных пигментов. Экстрак-
+ционный агент – 96 %-й этанол. Максимумы поглощения при количественной фикса-
+ции оптической плотности вытяжек соответствовали следующим длинам волн: 663 нм – 
+для хлорофилла a; 645 нм – для хлорофилла b; 440 нм – для недифференцированных 
+каротиноидов. Для статистической обработки привлечен одно- и двухфакторный дис-
+персионный анализ. Установлены заметные различия пигментного состава листового 
+аппарата плюсовых деревьев ели европейской при выращивании на выровненном эко-
+фоне. Однофакторный дисперсионный анализ подтвердил их существенность для 1- 
+и 2-летней хвои по всем задействованным в опыте признакам. Влияние специфики ге-
+нотипов плюсовых деревьев, эффект которого признается в качестве коэффициента 
+наследуемости в широком смысле, достаточно велико и достоверно по всем рассматри-
+ваемым признакам. Раздельное влияние специфики генотипов плюсовых деревьев  
+и различий в возрасте их хвои на формирование фенотипической изменчивости зафик-
+сировано в двухфакторном дисперсионном анализе. Влияние возраста хвои на форми-
+рование различий в содержании отдельных пигментов и их групп достоверно, но неве-
+лико и в целом составило от 7,10±0,16 % (содержание каротиноидов) до 9,40±0,15 % 
+(суммарное содержание хлорофилла). Доля дисперсии, связанной со спецификой геноти-
+пов плюсовых деревьев, в большинстве случаев значительна: до 48,87 %. Взаимодействие 
+организованных факторов чаще вызывает достоверный эффект, однако доля этого ор-
+ганизованного фактора в структуре общей фенотипической дисперсии практически 
+
+                                                            
+Благодарность: Авторы выражают благодарность Государственному бюджетному 
+учреждению Нижегородской области «Семеновский спецсемлесхоз». 
+Для цитирования: Бессчетнова Н.Н., Бессчетнов В.П., Ершов  П.В. Генотипическая обу-
+словленность пигментного состава хвои плюсовых деревьев ели европейской  // Лесн. 
+журн. 2019. № 1. С. 63–76. (Изв. высш. учеб. заведений). DOI: 10.17238/issn0536-
+1036.2019.1.63 
+
+
+
+64                       ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 1 
+
+никогда не преобладает. Наличие остаточной дисперсии обусловлено неизбежной 
+пестротой экологического фона. 
+ 
+Ключевые слова: ель европейская, плюсовые деревья, архив клонов, хвоя, пигментный 
+состав, хлорофилл a, хлорофилл b, каротиноиды, генотипическая обусловленность. 
+
+Введение 
+
+Одним из главных условий устойчивого развития отечественного лесного 
+хозяйства является наличие эффективно функционирующей постоянной лесо-
+семенной базы [7]. В качестве ключевого аспекта ее формирования в России и в 
+других государствах рассматриваются плюсовые деревья основных лесообра-
+зующих пород [3, 14, 15, 26, 34]. В их числе ель европейская по праву занимает 
+лидирующие позиции [14, 15, 22]. Обладая хозяйственно важными признаками 
+в сочетании с выраженной устойчивостью и экологической пластичностью, она 
+выступает предметом многочисленных и разноплановых исследований отече-
+ственных [4, 5, 8, 13, 16] и зарубежных [22, 25, 40] ученых. Немалая часть этих 
+работ посвящена всестороннему изучению листового аппарата.  
+
+Пигментный состав хвои вполне справедливо относят к важнейшим 
+биологическим характеристикам древесных видов, связанным с режимом фо-
+тосинтеза, продуктивностью и адаптивностью [12]. Обоснованно признается 
+его защитная роль: присутствие хлорофилла и каротиноидов усиливает рези-
+стентность растений [10, 37]. Динамику пигментного состава считают адап-
+тивной реакцией хвойных, в том числе и ели европейской, на условия осве-
+щенности [20, 35, 36, 38, 39, 41]. Известно, что в направлении с юга на север в 
+географическом масштабе более устойчивы растения с повышенной пигмен-
+тацией листового аппарата [10]. Обнаружив преобладание сильно пигменти-
+рованных форм в центрах формообразования, Н.И. Вавилов рассматривал это 
+явление как защитную реакцию растений на действие мутагенных факторов 
+[6]. Сдвиги в содержании хлорофилла a, хлорофилла b, их суммарном количе-
+стве и концентрации каротиноидов являются реакцией на изменение концен-
+трации углекислого газа в атмосфере [28, 33]. Известна зависимость содержа-
+ния зеленых пигментов хвои от температуры почвы и других почвенных ха-
+рактеристик [40]. Сообщается о фотопериодической реакции, которая выра-
+жается в изменении содержания пигментов [40], реакции на содержание озона 
+[23], на загрязнение [27]. Вместе с тем у псевдотсуги Мензиса существенных 
+изменений в концентрации пигментов под влиянием ультрафиолетовых лучей 
+не отмечено [19]. Пигментный состав хвои в значительной мере контролиру-
+ется генотипом и является в значительной степени наследуемым показателем 
+[2, 3], что подтверждается испытаниями потомств от контролируемых скре-
+щиваний [33] и генетическими исследованиями [32]. Другие специалисты 
+[14], напротив, считают, что степень генотипической детерминации признаков 
+пигментного состава хвойных невысока. Отсутствие единого мнения о нас-
+ледственной специфике указанных признаков и свойств у древесных растений 
+служит достаточным основанием для продолжения работ в указанном направ-
+лении, в частности в отношении ели европейской. 
+
+Цель исследований – выявление факта наличия генотипически обуслов-
+ленной специфики плюсовых деревьев ели европейской по составу пигментов, 
+участвующих в фотосинтезе, и установление масштабов ее проявления в 1-  
+и 2-летней хвое. 
+
+
+
+                           ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 1                        65  
+
+Объекты и методы исследования 
+
+Объектами исследований выступали плюсовые деревья ели европей-
+ской, выделенные в естественных насаждениях Нижегородской области со-
+гласно действовавшим на момент отбора инструкциям и нормативам. Они 
+входили в состав природных популяций данного вида, типичных для лесорас-
+тительного района хвойно-широколиственных (смешанных) лесов европей-
+ской части Российской Федерации. Их вегетативные репродукции зарезерви-
+рованы в архиве клонов № 3 Государственного бюджетного учреждения Ни-
+жегородской области «Семеновский спецсемлесхоз». Возраст привитых рас-
+тений одинаков и согласно паспорту архива клонов составляет 34 года. Все 
+клоны (раметы) каждого из изученных плюсовых деревьев (ортетов) в преде-
+лах указанного архива были размещены по единой посадочной схеме с одина-
+ковой площадью питания. Режим содержания архива предполагал общий 
+комплекс агротехнических и лесоводственных мероприятий, прочие условия 
+произрастания также были идентичными. Следует учитывать, что существу-
+ющий регламент создания и содержания таких объектов единого генетико-
+селекционного комплекса направлен на механическое выравнивание поверх-
+ности участка, отводимого под них, на сглаживание расхождений в его ло-
+кальных почвенных характеристиках. Такой организационный подход не со-
+здавал ни одному учетному дереву преимуществ в доступе к ресурсам роста  
+и развития и обеспечивал принцип единственного логического различия. Воз-
+раст хвои выступал одним из организованных факторов дисперсионного ана-
+лиза. В соответствии с этим все остальные эффекты, связанные с возможным 
+возникновением временной изменчивости, нивелировались или исключались 
+полностью. Это достигалось одновременным выполнением отбора биологиче-
+ских образцов для анализа и одинаковыми сроками проведения всех его этапов. 
+Формирование выборочных совокупностей и включение в их состав первичных 
+единиц выборки выполнены в общепринятом порядке [9, 11]. Реализованы по-
+левой стационарный и лабораторный опыты. Их организационная схема позво-
+лила сформировать двухфакторные равномерные и пропорциональные диспер-
+сионные комплексы, в которых каждый ортет был представлен 3 раметами.  
+С периферии среднего яруса хорошо освещенного участка из кроны срезали по 
+5 ветвей, из средней части которых отделяли хвою для последующей экстрак-
+ции пигментов. В итоге по каждому признаку получено 315 первичных единиц 
+выборки. Поскольку присутствие хлорофилла и каротиноидов в хвое коррели-
+рует с устойчивостью растений к лимитирующим факторам среды [1, 12, 37], 
+проведение анализов установлено на декабрь 2016 г.  
+
+Определение содержания пигментов, участвующих в фотосинтезе, реа-
+лизовано традиционными методами в ходе камерального этапа исследований 
+[17, 18, 29–31, 40, 42]. Вполне результативным и достаточно точным методом 
+исследования пигментного состава листового аппарата признан спектрофото-
+метрический анализ [17, 18, 21, 24, 31, 42]. С его помощью удается оценить 
+концентрацию пигментов по оптической плотности вытяжки из измельченной 
+хвои в оптически чистом ацетоне или в 96 %-м этаноле. В работе был задей-
+ствован электроспектрофотометр Grating 722, при этом максимумы поглоще-
+ния при количественной фиксации оптической плотности вытяжек соответ-
+ствовали следующим длинам волн: 663 нм – для хлорофилла a; 645 нм – для 
+хлорофилла b; 440 нм – для недифференцированных каротиноидов. Известно, 
+что положение максимума поглощения в спектральном анализе сдвигается в 
+ту или иную сторону при использовании разных экстрагентов [17, 18, 21, 31, 
+42]. Это учитывалось в эксперименте. Содержание анализируемых пигментов 
+
+
+
+66                       ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 1 
+
+рассчитывали по уравнениям Ветштейна и Хольма [17, 42], при этом для 
+нахождения концентрации, выраженной в миллиграммах на грамм, по каждой 
+навеске определяли содержание абсолютно сухого вещества. В построении 
+алгоритмов для указанных расчетов учитывали известные методические при-
+емы [28–31]. Анализировали содержание и соотношения хлорофилла a, хло-
+рофилла b, каротиноидов, их доли и суммарное количество. Работу строили 
+на платформе комплексности многопараметрических исследований [2, 3], це-
+лесообразность которых общепризнана [28–31, 40]. Первичную лесоводствен-
+ную информацию обрабатывали с использованием известных статистических 
+схем [9, 11]. 
+
+Результаты исследования и их обсуждение 
+
+Установлены заметные различия пигментного состава листового аппарата 
+плюсовых деревьев ели европейской при выращивании на выровненном экофоне. 
+Однофакторный дисперсионный анализ подтвердил их существенность для 1- и 
+2-летней хвои по всем задействованным в опыте признакам (табл. 1).  
+
+ 
+Т а б л и ц а  1  
+
+Существенность различий пигментного состава хвои  
+плюсовых деревьев ели европейской 
+
+Доля влияния фактора (h2± s 2
+h ) Критерии 
+
+Признак Fоп по Плохинскому по Снедекору различий 
+h2 ±s 2 
+
+h h2 ±s 2
+h  НРС05 D05 
+
+1-летняя хвоя 
+Хлорофилл a (a) 22,38 0,6036 0,0270 0,5814 0,0285 0,190 0,343 
+Хлорофилл b (b) 28,95 0,6632 0,0229 0,6448 0,0242 0,037 0,068 
+Сумма хлорофиллов (a+b) 22,67 0,6066 0,0268 0,5846 0,0283 0,114 0,205 
+Каротиноиды (k) 15,37 0,5111 0,0333 0,4828 0,0352 0,031 0,056 
+Отношение a/b 11,71 0,4435 0,0379 0,4104 0,0401 0,163 0,293 
+Отношение a/k 26,24 0,6409 0,0244 0,6212 0,0258 0,373 0,672 
+Отношение b/k 31,54 0,6821 0,0216 0,6649 0,0228 0,221 0,398 
+Доля хлорофилла a 10,42 0,4148 0,0398 0,3796 0,0422 0,015 0,028 
+Доля хлорофилла b 10,42 0,4148 0,0398 0,3796 0,0422 0,015 0,028 
+Доля каротиноидов 20,52 0,5827 0,0284 0,5592 0,0300 0,007 0,013 
+Отношение k/(a+b) 18,76 0,5607 0,0299 0,5358 0,0316 0,009 0,017 
+Cумма пигментов 25,44 0,6338 0,0249 0,6136 0,0263 0,279 0,504 
+
+2-летняя хвоя 
+Хлорофилл a (a) 18,50 0,5572 0,0301 0,5320 0,0318 0,195 0,351 
+Хлорофилл b (b) 13,80 0,4842 0,0351 0,4540 0,0371 0,044 0,079 
+Сумма хлорофиллов (a+b) 18,43 0,5563 0,0302 0,5311 0,0319 0,123 0,222 
+Каротиноиды (k) 6,38 0,3027 0,0474 0,2590 0,0504 0,047 0,084 
+Отношение a/b 4,98 0,2530 0,0508 0,2054 0,0541 0,155 0,280 
+Отношение a/k 2,48 0,1442 0,0582 0,0876 0,0621 0,638 1,152 
+Отношение b/k 4,44 0,2318 0,0523 0,1825 0,0556 0,257 0,463 
+Доля хлорофилла a 4,21 0,2228 0,0529 0,1727 0,0563 0,014 0,026 
+Доля хлорофилла b 4,72 0,2431 0,0515 0,1946 0,0548 0,013 0,023 
+Доля каротиноидов 2,95 0,1671 0,0567 0,1124 0,0604 0,010 0,018 
+Отношение k/(a+b) 3,63 0,1979 0,0546 0,1458 0,0581 0,011 0,021 
+Cумма пигментов 17,57 0,5444 0,0310 0,5184 0,0328 0,308 0,556 
+
+Примечание: Fоп – опытное значение критерия Фишера; h2 – доля влияния организо-
+ванного фактора; ±s 2
+
+h  – ошибка доли влияния организованного фактора; НСР05 – 
+наименьшая существенная разность на 5-процентном уровне значимости; D05 – критерий 
+Тьюки на 5-процентном уровне значимости. 
+
+
+
+                           ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 1                        67  
+
+Для хвои всех возрастов опытные значения критерия Фишера (табл. 1) 
+преодолели критический порог как на 5-, так и на 1-процентном уровне зна-
+чимости. В большой мере это обусловлено достаточным числом первичных 
+единиц выборки, введенных в каждый дисперсионный комплекс. Влияние 
+специфики генотипов плюсовых деревьев, эффект которой рассматривается 
+как коэффициент наследуемости в широком смысле, по всем анализируемым 
+показателям достоверно и достаточно велико. В частности, для 1-летней хвои 
+в вычислениях по алгоритму Плохинского содержание хлорофилла a состави-
+ло 60,36±2,70 %,  для хлорофилла b оно было еще выше – 66,32±2,29 %. Мак-
+симум (68,21±2,16 %) достигнут для отношения содержания хлорофилла b  
+к содержанию каротиноидов. Расчетный метод Снедекора адекватно показал 
+близкие по значениям итоги вычислений.  
+
+Для 2-летней хвои указанный эффект оказался несколько ниже, но вполне 
+сопоставим по значениям: по содержанию хлорофилла-a – 55,72±3,01 %,  
+хлорофилла-b – 48,42±3,51 %. Достаточно высокие результаты в этом случае 
+отмечены для  суммарного содержания хлорофилла (55,63±3,02 %) и общей 
+суммы пигментов (54,44±3,10 %). Вместе с тем оценки наследственной обу-
+словленности наличия каротиноидов в 2-летней хвое были ниже, чем в 1-летней 
+хвое. Снизились результаты и других признаков. Критерии существенности 
+различий (НСР05 и D05) определяют уровень, достигнув которого, разница меж-
+ду средними значениями характеристик плюсовых деревьев признается суще-
+ственной, т. е. обусловленной преимущественно их наследственными особен-
+ностями. 
+
+Существенность различий плюсовых деревьев ели европейской по пиг-
+ментному составу, подтвержденная для 1- и 2-летней хвои, определила воз-
+можность выявления эффекта индивидуального влияния каждого из органи-
+зованных факторов на общую фенотипическую дисперсию. В частности учте-
+но влияние различий между самими плюсовыми деревьями и различий в воз-
+расте их хвои отдельно по каждому из этих факторов (табл. 2). 
+
+Практически во всех случаях учета организованные факторы генериру-
+ют дисперсию, уровень проявления которой соответствует существенным 
+различиям между элементами дисперсионного комплекса. Опытные критерии 
+Фишера оказались значительно больше соответствующих нормативных зна-
+чений на 5-процентном уровне значимости. Исключением явились оценки по 
+разновозрастной хвое для отношений содержания хлорофилла a к содержа-
+нию каротиноидов и содержания хлорофилла b к содержанию каротиноидов. 
+Это указывает на индифферентность баланса различных форм хлорофилла  
+и каротинодов в отношении увеличения возраста хвои. Выраженная хроно-
+графическая стабильность указанных характеристик плюсовых деревьев при 
+достаточно высокой их генотипической обусловленности (22,48±2,64 %  
+и 30,59±2,36 % соответственно) позволяет признать значительную информа-
+тивность и большое идентификационное значение соотношений между двумя 
+формами хлорофилла и каротиноидами. В соответствии с этим указанные 
+признаки можно рекомендовать к использованию для оценки (при определе-
+нии) специфичности плюсовых деревьев в процессе селекционной инвентари-
+зации объектов постоянной лесосеменной базы и единого генетико-
+селекционного комплекса, а также при выработке рекомендаций по их вклю-
+чению в состав лесосеменных плантаций. 
+
+
+
+68                       ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 1 
+
+ 
+Влияние возраста хвои на формирование различий в содержании от-
+
+дельных пигментов и их групп (табл. 2) достоверно, но невелико и в целом 
+составило от 7,10±0,16 % (содержание каротиноидов) до 9,40±0,15 % (сум-
+марное содержание двух форм хлорофилла). Оценки мало различаются,  
+и наибольшая из них превосходит наименьшую в 1,32 раза, при том что общий 
+размах значений в вариантах с подтвержденной существенностью различий 
+оценивается соотношением 124,27. Изменение с возрастом доли содержания  
+в хвое хлорофилла a более заметно по сравнению с другими характеристиками 
+пигментного состава. В частности, влияние фактора «возраст хвои» достигает 
+
+
+
+                           ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 1                        69  
+
+74,56±0,04 % и может быть связано с ощутимым повышением содержания дан-
+ного пигмента в 2-летней хвое. Отчетливо выражена реакция на увеличение 
+возраста хвои в содержании хлорофилла b: 27,75±0,12 %.  
+
+Влияние различий между плюсовыми деревьями на общий фон изменчи-
+вости анализируемых характеристик пигментного состава их листового аппара-
+та занимает значительную часть в большинстве случаев. Величина этого эф-
+фекта составляет от 23,62±2,60 % (содержание каротиноидов) до 48,87±1,74 % 
+(содержание хлорофилла a) и 48,59±1,75 % (сумма пигментов), что зафикси-
+ровано в отношении содержания отдельных пигментов и их суммарного ко-
+личества. Характеристики соотношения исследуемых пластидных пигментов 
+в большей мере связаны с наследственной спецификой ортетов и меньше за-
+висят от возраста хвои. Вместе с тем наследственная обусловленность разли-
+чий между плюсовыми деревьями в этом случае выражена в несколько мень-
+шей степени, чем для оценок содержания пигментов. 
+
+Взаимодействие организованных факторов чаще вызывает достоверный 
+эффект, однако доля этого организованного фактора в структуре общей фено-
+типической дисперсии практически никогда не преобладает. Остаточная дис-
+персия, наличие которой, как правило, связывают с пестротой параметров 
+среды на объектах постоянной лесосеменной базы и единого генетико-
+селекционного комплекса, к которым относится исследованный архив клонов, 
+имеет неоднозначные оценки. При этом в ряде рассматриваемых признаков 
+она доминирует, что зафиксировано в отношении содержания хлорофилла-a к 
+содержанию каротиноидов (62,97 %) и содержания каротиноидов к суммар-
+ному содержанию хлорофилла (60,10 %). В целом указанные результаты 
+вполне адекватны сведениям, полученным в процессе однофакторного дис-
+персионного анализа как по 1-летней, так и по 2-летней хвое. 
+
+Заключение 
+
+Плюсовые деревья ели европейской существенно различаются по широ-
+кому спектру показателей пигментного состава 1- и 2-летней хвои. Степень 
+наследственной обусловленности проявлений разных признаков неодинакова. 
+Оценки содержания хлорофилла a, хлорофилла b и их суммарного количества, 
+содержания каротиноидов и общей суммы пигментов тесно связаны  
+с генотипом исследованных клонов. Показатели соотношения между пла-
+стидными пигментами в целом имеют меньшую степень генотипической обу-
+словленности по сравнению с количественными оценками их содержания. 
+Оценки отношения хлорофилла a и хлорофилла b к содержанию каротинои-
+дов весьма стабильны в онтогенетическом плане, что свидетельствует об их 
+большом идентификационном значении и указывает на целесообразность 
+применения при ревизии чистоты ассортиментного состава лесосеменных 
+плантаций и архивов клонов. 
+
+ 
+СПИСОК ЛИТЕРАТУРЫ 
+
+ 
+1. Барская Е.И. Изменения хлоропластов и вызревание побегов в связи с моро-
+
+зоустойчивостью древесных растений. М.: Наука, 1967. 223 с. 
+2. Бессчетнова Н.Н. Многомерная оценка плюсовых деревьев сосны обыкно-
+
+венной по показателям пигментного состава хвои // Вестн. ПГТУ Сер.: Лес. Экология. 
+Природопользование. 2013. № 1. С. 5–13. 
+
+
+
+70                       ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 1 
+
+3. Бессчетнова Н.Н., Бессчетнов В.П. Сосна обыкновенная (Pinus sylvestris L.). 
+Морфометрия и физиология хвои плюсовых деревьев. Н. Новгород: Нижегород. 
+ГСХА, 2014. 368 с. 
+
+4. Бессчетнова, Н.Н., Кулькова А.В. Сравнительная оценка представителей рода 
+ель (Picea L.) по содержанию жиров в тканях годичных побегов // Научные и инноваци-
+онные разработки молодых ученых-аграриев: сб. тр. молодых ученых ФГБОУ ВПО 
+Нижегородская ГСХА за 2014–2015 гг. Н. Новгород: Нижегород. ГСХА, 2015. С. 53–58. 
+
+5. Бессчетнова Н.Н., Бессчетнов В.П., Кулькова А.В., Мишукова И.В. Содержа-
+ние крахмала в тканях побегов разных видов ели (Picea А. Dietr.) в условиях интро-
+дукции // Лесн. журн. 2017. № 4. С. 57–68. (Изв. высш. учеб. заведений). DOI: 
+10.17238/issn0536-1036.2017.4.57 
+
+6. Вавилов Н.И. Учение о происхождении культурных растений после Дарвина // 
+Избр. тр. в 2 т. Т. 1. Л.: Наука, 1967. C. 303–327. 
+
+7. Государственная программа Российской Федерации «Развитие лесного хозяй-
+ства» на 2013–2020 годы: утв. распоряжением Правительства Российской Федерации от 
+28 дек. 2012 г. № 2593-р // Собр. законодательства Российской Федерации. 2013. № 2. 
+Ст. 124. Режим доступа: http://www.nbchr.ru/PDF/042_oos.pdf (дата обращения: 
+17.09.2013). 
+
+8. Дерюгин А.А., Рубцов М.В. Динамика состояния популяции ели под пологом 
+березняков южной тайги Русской равнины // Лесн. журн. 2016. № 2. С. 47–58. (Изв. 
+высш. учеб. заведений). DOI: 10.17238/issn0536-1036.2016.2.47 
+
+9. Доспехов Б.А. Методика полевого опыта (С основами статистической обра-
+ботки результатов исследований). Изд. 5-е, доп. и перераб. М.: Агропромиздат, 1985. 
+351 с. 
+
+10. Моссэ И.Б., Молофей В.П., Кострова Л.Н. Развитие идеи Н.И. Вавилова о 
+защитной роли пигментов в генетических экспериментах // Селекция, генетические 
+ресурсы и сохранение генофонда лесных древесных растений (Вавиловские чтения): 
+сб. науч. тр. Гомель, 2003. Вып. 59. С. 220–223. 
+
+11. Никитин К.Е., Швиденко А.З. Методы и техника обработки лесоводствен-
+ной информации М.: Лесн. пром-сть, 1978. 272 с. 
+
+12. Озолина И.А., Мочалкин А.И. Роль пигментов в защитно-приспособительных 
+реакциях растений // Изв. АН СССР. Сер. Биол. 1972. № 1. С. 96–102. 
+
+13. Пеккоев А.Н. Качество древесины культур ели при ускоренном лесовыра-
+щивании // Лесн. журн. 2016. № 1. С. 89–99. (Изв. высш. учеб. заведений). DOI: 
+10.17238/issn0536-1036.2016.1.89 
+
+14. Роне В.М. Исследование и проверка наследственности плюсовых деревьев // 
+Лесн. селекция. М.: Лесн. пром-сть, 1972. С. 180–199. 
+
+15. Роне В.М. Межсемейный и клоновый отбор ели обыкновенной // Генетиче-
+ские исследования древесных в Латвийской ССР. Рига: Зинатне, 1975. С. 34–44. 
+
+16. Сунгурова Н.Р., Коновалов В.Н. Ассимиляционный аппарат ели в культурах 
+на долгомошной вырубке // Лесн. журн. 2016. № 2. С. 31–40. DOI: 10.17238/issn0536-
+1036.2016.2.31 
+
+17. Третьяков Н.Н., Карнаухова Т.В., Паничкин Л.А. и др. Практикум по физио-
+логии растений: учеб. пособие для студентов высш. учеб. заведений / под общ. ред. 
+Н.Н. Третьякова. 3-е изд., перераб. и доп. М.: Агропромиздат, 1990. 271 с. 
+
+18. Шлык А.А. Определение хлорофиллов и каротиноидов в экстрактах зеленых 
+листьев // Биохимические методы в физиологии растений. М.: Наука, 1971. С. 154–170. 
+
+19. Bassman J.H., Edwards G.E., Robberecht R. Long-Term Exposure to Enhanced 
+UV-B Radiation is not Detrimental to Growth and Photosynthesis in Douglas-Fir // New 
+Phytologist. 2002. Vol. 154, iss. 1. Pp. 107–120. DOI:10.1046/j.1469-8137.2002.00354.x 
+
+20. Bouvier F., Backhaus R.A., Camara B. Induction and Control of Chloroplast-
+Specific Carotenoid Genes by Oxidative Stress // Journal of Biological Chemistry. 1998. 
+Vol. 273, no. 46. Pp. 30651–30659. DOI: 10.1074/jbc.273.46.30651 
+
+
+
+                           ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 1                        71  
+
+21. Dere Ş., Güneş T., Sivaci R. Spectrophotometric Determination of Chlorophyll – A, 
+B and Total Carotenoid Contents of Some Algae Species Using Different Solvents // Turk-
+ish Journal of Botany. 1998. Vol. 22, no. 1. Pр. 13–17. 
+
+22. Eerikäinen K., Valkonen S., Saksa T. Ingrowth, Survival and Height Growth of 
+Small Trees in Uneven-Aged Picea abies Stands in Southern Finland // Forest Ecosystems. 
+2014. Vol. 1(5). Pp. 1–10. DOI: 10.1186/2197-5620-1-5 
+
+23. Elvira S., Alonso R., Castillo F.J., Gimeno B.S. On the Response of Pigments and 
+Antioxidants of Pinus halepensis Seedlings to Mediterranean Climatic Factors and Long-
+Term Ozone Exposure // New Phytologist. 1998. Vol. 138, iss. 3. Pp. 419–432. DOI: 
+10.1046/j.1469-8137.1998.00136.x 
+
+24. Gitelson A.A., Buschmann C., Lichtenthaler H.K. The Chlorophyll Fluorescence 
+Ratio F735/F700 as an Accurate Measure of the Chlorophyll Content in Plants // Remote Sens-
+ing of Environment. 1999. Vol. 69, iss. 3. Pp. 296–302. DOI: 10.1016/S0034-
+4257(99)00023-1 
+
+25. Haag C., Stober F., Lichtenthaler H.K. Pigment Content, Chlorophyll Fluores-
+cence and Photosynthetic Activity of Spruce Clones under Normal and Limited Mineral 
+Nutrition // Photosynthetica. 1992. Vol. 27, iss. 3. Pp. 385–400. 
+
+26. Kowalczyk J. Combining Production of Improved Seeds with Genetic Testing in 
+Seedling Seed Orchards // Seed Orchard: Proceedings from a Conference at Umeå, Sweden, 
+September 26–28, 2007 / ed. by D. Lindgren. Umeå: SLU, 2008. Pp. 126–134.  
+
+27. Kurteva M., Gateva R. Influence of Industrial and Transport Pollution on the 
+Plastid Pigments of Pinus sylvestris L., Picea abies Karst. and Thuja orientalis L. // Scien-
+tific Papers of Jubilee Scientific Conference with International Participation “70th Anniver-
+sary of the Forest Research Institute”, Sofia, Bulgaria, October 6–7, 1998. Sofia: Forest Re-
+search Institute, 1998. Vol. 1. Pp. 146–151.  
+
+28. Kvíčala M., Lacková E., Urbancová L. Photosynthetic Active Pigments Changes 
+in Norway Spruce (Picea abies) under the Different Acclimation Irradiation and Elevated 
+CO2 Content // ISRN Environmental Chemistry. 2014. Vol. 2014, article ID 572576. 4 p. 
+DOI: 10.1155/2014/572576 
+
+29. Lichtenthaler H.K. Biosynthesis and Accumulation of Isoprenoid Carotenoids 
+and Chlorophylls and Emission of Isoprene by Leaf Chloroplasts //  Bulletin of the Georgian 
+National Academy of Sciences. 2009. Vol. 3, no. 3. Pp. 81–94. 
+
+30. Lichtenthaler H.K., Buschmann C. Chlorophylls and Carotenoids: Measurement 
+and Characterization by UV-VIS Spectroscopy // Current Protocols in Food Analytical Chem-
+istry. 2001. Vol. UNIT F4.3. Pр. F4.3.1–F4.3.8. DOI: 10.1002/0471142913.faf0403s01 
+
+31. Lichtenthaler H.K., Wellburn A.R. Determinations of Total Carotenoids and 
+Chlorophylls a and b of Leaf Extracts in Different Solvents // Biochemical Society Transac-
+tions. 1983. Vol. 11(5). Pp. 591–592. DOI: 10.1042/bst0110591 
+
+32. Lidholm J., Gustafsson P.A. Functional Promoter Shift of a Chloroplast Gene:  
+A Transcriptional Fusion between a Novel psbA Gene Copy and the trnK(UUU) Gene in 
+Pinus contorta // The Plant Journal. 1992. Vol. 2, iss. 6. Pр. 875–886. DOI: 10.1046/j.1365-
+313X.1992.t01-4-00999.x 
+
+33. Major J.E., Barsi D.C., Mosseler A., Campbell M. Genetic Variation and Control of 
+Chloroplast Pigment Concentrations in Picea rubens, Picea mariana and Their Hybrids. I. Am-
+bient and Elevated [CO2] Environments // Tree Physiology. 2007. Vol. 27(3). Pp. 353–364.  
+DOI: 10.1093/treephys/27.3.353 
+
+34. Matras J.A. A Review of the Seed Orchard Programme in Poland // Seed Or-
+chard: Proceedings from a Conference at Umeå, Sweden, September 26–28, 2007 / ed. by D. 
+Lindgren. Umeå:  SLU, 2008. Pp. 165–176. 
+
+35. Niinemets Ü. Acclimation to Low Irradiance in Picea abies: Influences of Past 
+and Present Light Climate on Foliage Structure and Function // Tree Physiology. 1997.  
+Vol. 17, iss. 11. Pp. 723–732. DOI: 10.1093/treephys/17.11.723 
+
+36. Niinemets Ü. Stomatal Conductance Alone Does not Explain the Decline in Foliar 
+Photosynthetic Rates with Increasing Tree Age and Size in Picea abies and Pinus sylvestris // 
+Tree Physiology. 2002. Vol. 22, iss. 8. Pp. 515–535. DOI: 10.1093/treephys/22.8.515 
+
+
+
+72                       ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 1 
+
+37. Peguero-Pina J.J., Morales F., Gil-Pelegrín E. Frost Damage in Pinus sylvestris L. 
+Stems Assessed by Chlorophyll Fluorescence in Cortical Bark Chlorenchyma // Annals  
+of Forest Science. 2008. Vol. 65(8). Pp. 813p1–813p6. DOI: 10.1051/forest:2008068 
+
+38. Porcar-Castell A., Juurola E., Ensminger I., Berninger F., Hari P., Nikinmaa E. 
+Seasonal Acclimation of Photosystem II in Pinus sylvestris. II. Using the Rate Constants  
+of Sustained Thermal Energy Dissipation and Photochemistry to Study the Effect of the 
+Light Environment // Tree Physiology. 2008. Vol. 28, iss. 10. Pp. 1483–1491. DOI: 
+10.1093/treephys/28.10.1483 
+
+39. Porcar-Castell A., Juurola E., Nikinmaa E., Berninger F., Ensminger I., Hari P. 
+Seasonal Acclimation of Photosystem II in Pinus sylvestris. I. Estimating the Rate Constants 
+of Sustained Thermal Energy Dissipation and Photochemistry // Tree Physiology. 2008. 
+Vol. 28, iss. 10. Pp. 1475–1482. DOI: 10.1093/treephys/28.10.1475 
+
+40. Rosenthal S.I., Camm E.L. Photosynthetic Decline and Pigment Loss during Au-
+tumn Foliar Senescence in Western Larch (Larix occidentalis) // Tree Physiology. 1997. 
+Vol. 17, iss. 12. Pp. 767–775. DOI: 10.1093/treephys/17.12.767 
+
+41. Skuodiene L. Quantitative Changes in Aminoacid Proline and Chlorophyll in the 
+Needles of Picea abies Karst. (L.) during Stress and Adaptation // Biologija. 2001. No. 2. 
+Pp. 54–56.  
+
+42. Wellburn A.R. The Spectral Determination of Chlorophylls a and b, as Well as 
+Total Carotenoids, Using Various Solvents with Spectrophotometers of Different Resolution // 
+Journal of Plant Physiology. 1994. Vol. 144, iss. 3. Pp. 307–313. DOI: 10.1016/S0176-
+1617(11)81192-2 
+
+ 
+Поступила 20.06.18  
+
+ 
+UDC 630*232.12:582.475.2  
+DOI: 10.17238/issn0536-1036.2019.1.63 
+ 
+
+
+Genotypic Conditionality of Plus Tree Needle Pigment Composition of Norway Spruce  
+ 
+N.N. Besschetnova, Doctor of Agricultural Sciences 
+V.P. Besschetnov, Doctor of Biological Sciences, Professor 
+P.V. Ershov, Postgraduate Student 
+Nizhny Novgorod State Agricultural Academy, prosp. Gagarina, 97, Nizhny Novgorod, 
+603107, Russian Federation; e-mail: besschetnova1966@mail.ru, lesfak@bk.ru 
+ 
+We have studied annual and biennial needles pigment composition of Norway spruce plus 
+trees (ortets) from the composition of clone archive no. 3 of the State Budgetary Institution 
+“Semyenovskiy spetssemleskhoz” in Nizhny Novgorod region, where they are represented 
+by grafted plants (clones or ramets). The research purpose consist of identification of speci-
+ficity determination by genotype of Norway spruce plus trees in terms of pigment composi-
+tion, which participate in photosynthesis, and establishment of specificity display extent in 
+annual and biennial needles. All record plants had the same feeding areas, and plant spacing 
+and received the same silvicultural and agrotechnical tending. Needle sampling was held 
+taking into account their age and affiliation with ortets and ramets. Test parameters were the 
+content of chlorophyll a, chlorophyll b, and carotenoids, their total amount and the relation 
+between them. Spectrophotometric analysis was used as the most accurate method for quan-
+titative detection of vital plastid pigments. Ethanol of 96 % was used as an extraction agent. 
+The absorption peaks in quantitative fixation of extract optical density corresponded to the 
+
+                                                            
+
+For citation: Besschetnova N.N., Besschetnov V.P., Ershov P.V.  Genotypic Conditionality  
+of Plus Tree Needle Pigment Composition of Norway Spruce. Lesnoy Zhurnal [Forestry 
+Journal], 2019, no. 1, pp. 63–76. DOI: 10.17238/ issn0536-1036.2019.1.63 
+
+
+
+                           ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 1                        73  
+
+following wavelengths: chlorophyll a (663 nm), chlorophyll b (645 nm), and undifferentiat-
+ed carotenoids (440 nm). One-way and two-way analyses of variance (ANOVA) were used 
+for statistical processing. Perceptible differences in the pigment composition of plus tree leaf 
+apparatus of Norway spruce were established when grown in a leveled environmental back-
+ground. One-way ANOVA confirmed their essentiality for annual and biennial needles for 
+all parameters involved in the experiment. The influence of the genotype specificity of plus 
+trees, effect of which is recognized as the coefficient of heritability in a broad sense, is quite 
+large and reliable according to all considered parameters. Separate influence of the genotype 
+specificity of plus trees and differences in the age of their needles on the formation of phe-
+notypic variation was recorded in two-way ANOVA. Effect from needle age on the for-
+mation of differences in the content of individual pigments and their groups was reliable, but 
+small and generally ranged from 7.10 ± 0.16 % (carotenoid content) to 9.40 ± 0.15 % (total 
+chlorophyll content). The dispersion proportion associated with the genotype specificity of 
+plus trees is significant in general and up to 48.87 %. The interaction between the organized 
+factors often causes a significant effect; however, its share in the structure of total phenotyp-
+ic dispersion hardly ever prevails. The presence of residual dispersion is due to inevitable 
+diversity of environmental background. 
+ 
+Keywords: Norway spruce, plus trees, clone archive, needles, pigment composition, chloro-
+phyll a, chlorophyll b, carotenoids, genotypic conditionality. 
+ 
+
+REFERENCES 
+ 
+
+1. Barskaya E.I. Izmeneniya khloroplastov i vyzrevaniye pobegov v svyazi s moro-
+zoustoychivost’yu drevesnykh rasteniy [Changes in Chloroplasts and Shoot Ripening Due to 
+Frost Resistance of Woody Plants]. Moscow, Nauka Publ., 1967. 223 p. (In Russ.) 
+
+2. Besschetnova N.N. Mnogomernaya otsenka plyusovykh derev’yev sosny 
+obyknovennoy po pokazatelyam pigmentnogo sostava khvoi [Multidimensional Assessment 
+of Scots Pine Plus Trees Using Indicators of Needle Pigment Structure]. Vestnik Povolzh-
+skogo gosudarstvennogo tekhnologicheskogo universiteta. Seriya: Les. Ekologiya. Prirodo-
+pol’zovaniye [Vestnik of Volga State University of Technology. Series: Forest. Ecology. 
+Nature Management], 2013, no. 1, pp. 5–13. 
+
+3. Besschetnova N.N., Besschetnov V.P. Sosna obyknovennaya (Pinus sylvestris L.). 
+Morfometriya i fiziologiya khvoi plyusovykh derev’yev [Scots Pine (Pinus sylvestris L.). 
+Morphometry and Physiology of Plus Tree Needles]. Nizhny Novgorod, NNSAA Publ., 
+2014. 368 p. (In Russ.) 
+
+4. Besschetnova, N.N., Kul’kova A.V. Sravnitel’naya otsenka predstaviteley roda el’ 
+(Picea L.) po soderzhaniyu zhirov v tkanyakh godichnykh pobegov [Comparative Evalua-
+tion of the Genus Spruce (Picea L.) Representatives by the Fat Content in Annual Shoot 
+Tissues]. Nauchnyye i innovatsionnyye razrabotki molodykh uchenykh agrariyev: sb. tr. 
+molodykh uchenykh FGBOU VPO Nizhegorodskaya GSKhA za 2014–2015 gg. [Scientific 
+and Innovative Solutions of Young Agricultural Scientists: Collected Papers of Young Sci-
+entists of the Nizhny Novgorod State Agricultural Academy for 2014‒2015]. Nizhny Nov-
+gorod, NNSAA Publ., 2015, pp. 53–58.  
+
+5. Besschetnova N.N., Besschetnov V.P., Kul’kova A.V., Mishuchkova I.V. 
+Soderzhaniye krakhmala v tkanyakh pobegov raznykh vidov eli (Picea A. Dietr.) v uslovi-
+yakh introduktsii [Starch Content in Shoot Tissues of Different Spruce Species (Picea A. 
+Dietr.) in Introduction]. Lesnoy Zhurnal [Forestry Journal], 2017, no. 4, pp. 57–68. DOI: 
+10.17238/issn0536-1036.2017.4.57 
+
+6. Vavilov N.I. Ucheniye o proiskhozhdenii kul’turnykh rasteniy posle Darvina [The 
+Doctrine of Origin of Cultivated Plants after Darwin]. Izbr. tr. v 2 t. T. 1 [Selected Papers in 
+Two Volumes. Vol. 1]. Leningrad: Nauka Publ., 1967, pp. 303–327. 
+
+
+
+74                       ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 1 
+
+7. Gosudarstvennaya programma Rossiyskoy Federatsii «Razvitiye lesnogo kho-
+zyaystva» na 2013–2020 gody: utv. rasporyazheniyem Pravitel’stva Rossiyskoy Federatsii 
+ot 28 dek. 2012 g. № 2593-r [Government Program of the Russian Federation “Forestry 
+Development” for 2013–2020, Approved by the Government Decree of the Russian Federa-
+tion Dated by December 28, 2012, no. 2593-р]. Sobraniye zakonodatel’stva Rossiyskoy 
+Federatsii [Collection of Legislation of the Russian Federation], 2013, no. 2. 124 p. Available 
+at: http://www.nbchr.ru/PDF/042_oos.pdf (accessed 17.09.13). 
+
+8. Deryugin A.A., Rubtsov M.V. Dinamika sostoyaniya populyatsii eli pod pologom 
+bereznyakov yuzhnoy taygi Russkoy ravniny [Dynamics of Spruce Population Status under 
+the Canopy of Birch Forests of the Southern Taiga of the Russian Plain]. Lesnoy Zhurnal 
+[Forestry Journal], 2016, no. 2, pp. 47–58. DOI: 10.17238/issn0536-1036.2016.2.47 
+
+9. Dospekhov B.A. Metodika polevogo opyta (S osnovami statisticheskoy obrabotki re-
+zul’tatov issledovaniy) [Methodology of the Field Experiment (With the Basics of Research 
+Results Statistical Processing)]. Moscow, Agropromizdat Publ., 1985. 416 p. (In Russ.) 
+
+10. Mosse I.B., Molofey V.P., Kostrova L.N. Razvitiye idei N.I. Vavilova o zash-
+chitnoy roli pigmentov v geneticheskikh eksperimentakh [Development of N.I. Vavilov’s 
+Ideas about Pigment Protective Role in Genetic Experiments]. Selektsiya, geneticheskiye 
+resursy i sokhraneniye genofonda lesnykh drevesnykh rasteniy (Vavilovskiye chteniya): sb. 
+nauch. tr. [Breeding, Genetic Resources and Conservation of Gene Pool of Forest Woody 
+Plants (Vavilov Readings): Collection of Academic Papers]. Gomel, 2003, no. 59,  
+pp. 220–223. 
+
+11. Nikitin K.E., Shvidenko A.Z. Metody i tekhnika obrabotki lesovodstvennoy in-
+formatsii [Methods and Technology for Processing of Silvicultural Information]. Moscow, 
+Lesnaya promyshlennost’ Publ., 1978. 272 p. (In Russ.) 
+
+12. Ozolina I.A., Mochalkin A.I. Rol’ pigmentov v zashchitno-prisposobitel’nykh 
+reaktsiyakh rasteniy [Role of Pigments in Protective and Adaptive Reactions of Plants]. Izv. 
+AN SSSR. Ser. Biol.  [Proceedings of the Academy of Sciences of the USSR. Series: Biolo-
+gy], 1972, vol. 1, pp. 96–102.  
+
+13. Pekkoev A.N. Kachestvo drevesiny kul’tur eli pri uskorennom lesovyrashchivanii 
+[Wood Quality of Spruce Crops under Intensive Growing]. Lesnoy Zhurnal [Forestry Jour-
+nal], 2016, no. 1, pp. 89–99. DOI: 10.17238/issn0536-1036.2016.1.89 
+
+14. Rone V.M. Issledovaniye i proverka nasledstvennosti plyusovykh derev’yev [Re-
+searching and Verification of Plus Tree Heredity]. Lesnaya selektsiya [Forest Selection]. 
+Moscow, Lesnaya promyshlennost’ Publ., 1972, pp. 180–199. (In Russ.) 
+
+15. Rone V.M. Mezhsemeynyy i klonovyy otbor eli obyknovennoy [Interfamily and 
+Clonal Selection of Norway Spruce]. Geneticheskiye issledovaniya drevesnykh v Latviyskoy 
+SSR [Genetic Studies of Woody Plants in the Latvian SSR]. Riga, Zinatne Publ., 1975,  
+pp. 34–44. 
+
+16. Sungurova N.R., Konovalov V.N. [Spruce Assimilation Apparatus in Plantations 
+at the Polytric Cutting]. Lesnoy Zhurnal [Forestry Journal], 2016, no. 2, pp. 31–40. DOI: 
+10.17238/issn0536-1036.2016.2.31 
+
+17. Tret’yakov N.N., Karnaukhova T.V., Panichkin L.A. i dr. Praktikum po fiziologii 
+rasteniy: ucheb. posobiye dlya studentov vyssh. ucheb. zavedeniy [Workshop on Plant 
+Physiology: Educational Textbook for Students of Higher Educational Institutions]. Ed. by 
+N.N. Tret’yakov, Moscow, Agropromizdat Publ., 1990. 271 p. (In Russ.) 
+
+18. Shlyk A.A. Opredeleniye khlorofillov i karotinoidov v ekstraktakh zelenykh 
+list’yev [Determination of Chlorophylls and Carotenoids in Green Leaf Extracts].  
+Biokhimicheskiye metody v fiziologii rasteniy [Biochemical Methods in Plant Physiology]. 
+Moscow, Nauka Publ., 1971, pp. 154–170. 
+
+19. Bassman J.H., Edwards G.E., Robberecht R. Long-Term Exposure to Enhanced 
+UV-B Radiation is not Detrimental to Growth and Photosynthesis in Douglas-Fir. New  
+Phytologist, 2002, vol. 154, iss. 1, pp. 107–120. DOI: 10.1046/j.1469-8137.2002.00354.x 
+
+
+
+                           ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 1                        75  
+
+20. Bouvier F., Backhaus R.A., Camara B. Induction and Control of Chloroplast-
+Specific Carotenoid Genes by Oxidative Stress. Journal of Biological Chemistry, 1998,  
+vol. 273, no. 46, pp. 30651–30659. DOI: 10.1074/jbc.273.46.30651 
+
+21. Dere Ş., Güneş T., Sivaci R. Spectrophotometric Determination of Chlorophyll – 
+A, B and Total Carotenoid Contents of Some Algae Species Using Different Solvents. Turk-
+ish Journal of Botany, 1998, vol. 22, no. 1, pр. 13–17. 
+
+22. Eerikäinen K., Valkonen S., Saksa T. Ingrowth, Survival and Height Growth  
+of Small Trees in Uneven-Aged Picea abies Stands in Southern Finland. Forest Ecosystems, 
+2014, vol. 1(5), pp. 1–10. DOI: 10.1186/2197-5620-1-5 
+
+23. Elvira S., Alonso R., Castillo F.J., Gimeno B.S. On the Response of Pigments 
+and Antioxidants of Pinus halepensis Seedlings to Mediterranean Climatic Factors and 
+Long-Term Ozone Exposure. New Phytologist, 1998, vol. 138, iss. 3, pp. 419–432. DOI: 
+10.1046/j.1469-8137.1998.00136.x 
+
+24. Gitelson A.A., Buschmann C., Lichtenthaler H.K. The Chlorophyll Fluorescence 
+Ratio F735/F700 as an Accurate Measure of the Chlorophyll Content in Plants. Remote  
+Sensing of Environment, 1999, vol. 69, iss. 3, pp. 296–302. DOI: 10.1016/S0034-
+4257(99)00023-1 
+
+25. Haag C., Stober F., Lichtenthaler H.K. Pigment Content, Chlorophyll Fluores-
+cence and Photosynthetic Activity of Spruce Clones under Normal and Limited Mineral 
+Nutrition. Photosynthetica, 1992, vol. 27, iss. 3, pp. 385–400. 
+
+26. Kowalczyk J. Combining Production of Improved Seeds with Genetic Testing in 
+Seedling Seed Orchards. Seed Orchard: Proceedings from a Conference at Umeå, Sweden, 
+September 26–28, 2007. Ed. by D. Lindgren, Umeå, SLU, 2008, pp. 126–134.  
+
+27. Kurteva M., Gateva R. Influence of Industrial and Transport Pollution on the 
+Plastid Pigments of Pinus sylvestris L., Picea abies Karst. and Thuja orientalis L. Scientific 
+Papers of Jubilee Scientific Conference with International Participation “70th Anniversary 
+of the Forest Research Institute”, Sofia, Bulgaria, October 6–7, 1998. Sofia, Forest Re-
+search Institute, 1998, vol. 1, pp. 146–151.  
+
+28. Kvíčala M., Lacková E., Urbancová L. Photosynthetic Active Pigments Changes 
+in Norway Spruce (Picea abies) under the Different Acclimation Irradiation and Elevated 
+CO2 Content. ISRN Environmental Chemistry, 2014, vol. 2014, article ID 572576. 4 p. DOI: 
+10.1155/2014/572576 
+
+29. Lichtenthaler H.K. Biosynthesis and Accumulation of Isoprenoid Carotenoids 
+and Chlorophylls and Emission of Isoprene by Leaf Chloroplasts. Bulletin of the Georgian 
+National Academy of Sciences, 2009, vol. 3, no. 3, pp. 81–94. 
+
+30. Lichtenthaler H.K., Buschmann C. Chlorophylls and Carotenoids: Measurement 
+and Characterization by UV-VIS Spectroscopy. Current Protocols in Food Analytical Chemis-
+try, 2001, vol. UNIT F4.3., pр. F4.3.1–F4.3.8. DOI: 10.1002/0471142913.faf0403s01 
+
+31. Lichtenthaler H.K., Wellburn A.R. Determinations of Total Carotenoids and 
+Chlorophylls a and b of Leaf Extracts in Different Solvents. Biochemical Society Transac-
+tions, 1983, vol. 11(5), pp. 591–592. DOI: 10.1042/bst0110591 
+
+32. Lidholm J., Gustafsson P.A. Functional Promoter Shift of a Chloroplast Gene: A 
+Transcriptional Fusion between a Novel psbA Gene Copy and the trnK(UUU) Gene in Pinus 
+contorta. The Plant Journal, 1992, vol. 2, iss. 6, pр. 875–886. DOI: 10.1046/j.1365-
+313X.1992.t01-4-00999.x 
+
+33. Major J.E., Barsi D.C., Mosseler A., Campbell M. Genetic Variation and Control 
+of Chloroplast Pigment Concentrations in Picea rubens, Picea mariana and Their Hybrids. 
+I. Ambient and Elevated [CO2] Environments. Tree Physiology, 2007, vol. 27(3),  
+pp. 353–364. DOI: 10.1093/treephys/27.3.353 
+
+34. Matras J.A A Review of the Seed Orchard Programme in Poland. Seed Orchard: 
+Proceedings from a Conference at Umeå, Sweden, September 26–28, 2007. Ed. by  
+D. Lindgren, Umeå, SLU, 2008, pp. 165–176. 
+
+
+
+76                       ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 1 
+
+35. Niinemets Ü. Acclimation to Low Irradiance in Picea abies: Influences of Past 
+and Present Light Climate on Foliage Structure and Function. Tree Physiology. 1997,  
+vol. 17, iss. 11, pp. 723–732. DOI: 10.1093/treephys/17.11.723 
+
+36. Niinemets Ü. Stomatal Conductance Alone Does not Explain the Decline in Foli-
+ar Photosynthetic Rates with Increasing Tree Age and Size in Picea abies and Pinus syl-
+vestris. Tree Physiology, 2002, vol. 22, iss. 8, pp. 515–535. DOI: 10.1093/treephys/22.8.515 
+
+37. Peguero-Pina J.J., Morales F., Gil-Pelegrín E. Frost Damage in Pinus sylvestris L. 
+Stems Assessed by Chlorophyll Fluorescence in Cortical Bark Chlorenchyma. Annals  
+of Forest Science, 2008, vol. 65(8), pp. 813p1–813p6. DOI: 10.1051/forest:2008068 
+
+38. Porcar-Castell A., Juurola E., Ensminger I., Berninger F., Hari P., Nikinmaa E. 
+Seasonal Acclimation of Photosystem II in Pinus sylvestris. II. Using the Rate Constants  
+of Sustained Thermal Energy Dissipation and Photochemistry to Study the Effect of the 
+Light Environment. Tree Physiology, 2008, vol. 28, iss. 10, pp. 1483–1491. DOI: 
+10.1093/treephys/28.10.1483 
+
+39. Porcar-Castell A., Juurola E., Nikinmaa E., Berninger F., Ensminger I., Hari P. 
+Seasonal Acclimation of Photosystem II in Pinus sylvestris. I. Estimating the Rate Constants 
+of Sustained Thermal Energy Dissipation and Photochemistry. Tree Physiology, 2008,  
+vol. 28, iss. 10, pp. 1475–1482. DOI: 10.1093/treephys/28.10.1475 
+
+40. Rosenthal S.I., Camm E.L. Photosynthetic Decline and Pigment Loss during  
+Autumn Foliar Senescence in Western Larch (Larix occidentalis). Tree Physiology, 1997, 
+vol. 17, iss. 12, pp. 767–775. DOI: 10.1093/treephys/17.12.767 
+
+41. Skuodiene L. Quantitative Changes in Aminoacid Proline and Chlorophyll in the 
+Needles of Picea abies Karst. (L.) during Stress and Adaptation. Biologija, 2001, no. 2,  
+pp. 54–56.  
+
+42. Wellburn A.R. The Spectral Determination of Chlorophylls a and b, as Well as 
+Total Carotenoids, Using Various Solvents with Spectrophotometers of Different Resolu-
+tion. Journal of Plant Physiology, 1994, vol. 144, iss. 3, pp. 307–313. DOI: 10.1016/S0176-
+1617(11)81192-2 
+
+ 
+Received on June 20, 2018

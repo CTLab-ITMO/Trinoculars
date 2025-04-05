@@ -1,0 +1,1139 @@
+﻿Вопросы теории и практики журналистики. 2017. T. 6. № 3
+
+ТЕОРИЯ ЖУРНАЛИСТИКИ 
+THEORY OF JOURNALISM
+
+УДК 070.11
+DOI 10.17150/2308-6203.2017.6(3).267-286
+
+Alexander P. Sukhodolov 
+DSc in Economics, Professor, Rector 
+Baikal State University, 
+11 Lenin St., 664003, Irkutsk, Russian Federation,
+e-mail: rector@bgu.ru
+
+Суходолов Александр Петрович 
+доктор экономических наук, профессор, ректор 
+Байкальский государственный университет, 
+664003, Российская Федерация, г. Иркутск, ул. Ленина, 11, 
+e-mail: rector@bgu.ru 
+
+Mikhail P. Rachkov 
+DSc in Economics, Professor, Senior Editor of Theoretical  
+and Practical Issues of Journalism
+Baikal State University,
+11 Lenin Str., Irkutsk, 664003, Russia,
+e-mail: mpr17@yandex.ru
+
+Рачков Михаил Парфирьевич 
+доктор экономических наук, профессор, главный редактор 
+журнала «Вопросы теории и практики журналистики»
+Байкальский государственный университет,  
+664003, Российская Федерация, г. Иркутск, ул. Ленина, 11,  
+e-mail: mpr17@yandex.ru
+
+MEDIOLOGY AS A SCIENCE OF THE FUTURE
+(an invitation to continue the discussion started in this journal in 2016)
+
+Abstract. Some preliminary conclusions of the media theory discussion 
+started in 2016 and continued at the beginning of 2017 within the covers of 
+the journal Theoretical and Practical Issues of Journalism are drawn. The 
+ideas of systematization and structuring of knowledge on mass media stated 
+by the authors are clarified and developed, i. e. alongside mass media theory 
+and journalism theory, it is proposed to single out a theory of media system 
+management. The necessity of theoretical reflection of the modern media 
+system as a high-speed dynamic system is emphasized, which, in turn, is 
+impossible without applying mathematical methods. It is pointed out that the 
+potential of national mass media science ensures its international priority in 
+media research. The authors consider that the media science, which they call 
+mediology, is becoming one of the most prospective and important sciences 
+of the future.
+
+Keywords. Mediology, media system, journalism, management theory, 
+scholarly discussion.
+
+© А. П. Суходолов, М. П. Рачков, 2017 267
+
+
+
+Theoretical and Practical Issues of Journalism, 2017, vol. 6, no. 3, pp. 267–286
+
+Article info. Received March 27, 2017; accepted April 19, 2017; available 
+online June 08, 2017.
+
+Аннотация. Подводятся предварительные итоги дискуссии о теории 
+средств массовой информации, развернувшейся на страницах журнала 
+«Вопросы теории и практики журналистики» в 2016-м — начале 2017 г. 
+Уточняются и развиваются заявленные ранее авторами идеи системати-
+зации и структурирования накопленных знаний о массмедиа, в частности 
+предлагается наряду с теорией средств массовой информации и теори-
+ей журналистики выделить теорию управления системой СМИ. Особый 
+акцент делается на необходимости оперативного теоретического ос-
+мысления современной системы СМИ как одной из высокоскоростных 
+динамических систем, что невозможно без применения математических 
+методов. Отмечается, что потенциал отечественной науки о массмедиа 
+позволяет ей обеспечить международный приоритет в исследованиях 
+медиасферы. Авторы считают, что наука о массмедиа, которую они на-
+зывают медиалогией, выдвигается в разряд самых перспективных и вос-
+требованных наук будущего.
+
+Ключевые слова. Медиалогия, медиасистема, журналистика, тео-
+рия управления, научные дискуссии.
+
+Информация о статье. Дата поступления 27 марта 2017 г.; дата 
+принятия к печати 19 апреля 2017 г.; дата онлайн-размещения 08 июня 
+2017 г.
+
+To create a theory of the media: University, Louisa G. Svitich, an as-
+statement of the problem was the sociate member of the Russian Acad-
+headline of the article published in the emy of Education, Elena L. Vartanova, 
+first issue of Theoretical and Practi- Dean of the Faculty of Journalism of 
+cal Issues of Journalism in 2016. This Moscow State University, Denis V. Du-
+was more a report the authors made nas, a senior research associate of 
+at a collaborative meeting of Depart- Moscow State University, who defend-
+ment of Journalism and Economics of ed the thesis The Development and the 
+Mass Media, Department of Computer Current State of Theoretical Studies of 
+Science and Cybernetics, Department Journalism and the Media in Russia. 
+of Mathematics and Econometrics of Behind the scenes of the discussion, 
+Baikal State University on 26 Novem- there was its hidden facilitator Mikhail 
+ber 2015 [1]. Among our colleagues, V. Shkondin, the luminary of the nation-
+scholars in Economics, who have par- al theory of journalism, and for this we 
+ticipated in the discussion started in are deeply grateful to him.
+2016 and continued at the beginning With the participants of the discus-
+of 2017 within the covers of the jour- sion’s indulgence, we would like to 
+nal Theoretical and Practical Issues make conclusions, express our opinion 
+of Journalism there are Elena G. Pop- on disputable issues and outline further 
+kova (Volgograd), Alexander S. Natzu- research aimed at creating a general-
+bidze (Moscow), and also such known izing science on mass media, i. e. me-
+authorities in the field of journalism diology, which is a synthesis of theory 
+theory as Sergey G. Korkonosenko, of mass media as a dynamic system, 
+a professor of Saint-Petersburg State theory of journalism and media sys-
+
+268 ISSN 2308-6203
+
+
+
+Вопросы теории и практики журналистики. 2017. T. 6. № 3. С. 267–286
+
+tems, and media process management However, we beg to differ, as we do 
+theory as a supplement to the above not intend to create a mass media the-
+two theories. ory exclusively for Russia and isolated 
+
+Here are several theses which from the world’s scientific academic 
+have already been discussed and / or community. While criticizing our con-
+can be further discussed. cept Denis V. Dunas tends to exagger-
+
+ate here. We state the task as follows, 
+I. There is currently no need for «…to prioritize Russian scholars in one 
+
+creating a mass media theory of the most prospective and important 
+The reason for this, according areas of research» [1, p. 11] instead of 
+
+to Elena G. Popkova and Alexander endlessly repeating outdated foreign 
+S. Natzubidze, is the following: «he theories of mass communication. We 
+conceptual basics of mass media the- are stating the need to create not just 
+ory have been laid by many foreign a theory of mass media, but rather a 
+authors, and, therefore, nowadays one theory of mass media as a dynamic 
+does not need to create mass media system requiring the application of 
+theory, but develop it in the context of mathematical methods, which will al-
+recent developments» [2, p. 526]. The low forecasting of this system’s devel-
+modern author Denis V. Dunas is even opment as well as manage this system 
+more straightforward here saying that, effectively.
+«Mass media theory was created in No one intends to diminish Denis 
+1983 by the famous British scholar De- McQuail’s authority and his major work 
+nis McQuail. Mass Communication Theory. We are 
+
+<…> In the last thirty-three years planning to publish several review ar-
+there has been no book on mass me- ticles on McQuail’s Mass Communi-
+dia theory more popular and acknowl- cation Theory in our journal as until 
+edged than the one by McQuail. Even now the book has not been translated 
+at the current stage of development of into Russian and is unlikely to ever be 
+mass media theory McQuail’s theo- translated. However, we need break-
+retical grounds are still relevant. There- through publications in mediolology by 
+fore, it is not advisable to reconsider Russian scholars published not only in 
+them. <…> Russian scholars have no Russian, but in English, French, Chi-
+good reason to believe that McQuail’s nese and other languages. This is a 
+theory is not applicable to the Rus- truly challenging task for a promising 
+sian environment. Creating a new sys- young scholar, i. e. to become a Rus-
+temic theory artificially and specially sian McQuail himself. We strongly be-
+for Russia is hardly possible. At least lieve that Denis V. Dunas is up to the 
+such a theory is unlikely to be viable» task.
+[3, p. 35]. Denis V. Dunas continues, 
+«Theoretical knowledge in the field of II. Mass media theory and jour-
+journalism and mass media in terms of nalism theory are at the stage of es-
+modern social development and scien- tablishing themselves.
+tific progress is unified. There cannot This fair assessment of the cur-
+be two mass media theories nowa- rent state of the research in the field of 
+days, i. e. one for Russia and another the media was given in the article On 
+for the rest of the world» [3, p. 36]. Actualizing Theory of Journalism and 
+
+ISSN 2308-6203 269
+
+
+
+Theoretical and Practical Issues of Journalism, 2017, vol. 6, no. 3, pp. 267–286
+
+Theory of Mass Media Theory by Ele- ses stated in that article with the fol-
+na L. Vartanova, an associate member lowing:
+of the Russian Academy of Education 1. An integral media system based 
+[4]. Theory of Journalism, according on a universal digital technology start-
+to the author, ‘is still establishing itself ed forming in the world as well as in 
+not only in Russia, but also abroad’ [4, Russia only at the beginning of the 21st 
+p. 6]. «…Russian scholars discuss it, century. 
+argue about it, but this still has not re- According to Elena L. Vartanova 
+sulted in publishing dictionaries, course «it is obvious that transferring media 
+books, or key monographs», states the content into a universal and, namely, 
+author. What do we have then? digital form as well as processes of 
+
+We have Introduction to Theory convergence of technological media 
+of Journalism [5]. Introduction to the platforms and the previously separate 
+theory of journalism is a very precise media, IT and telecommunications; 
+definition of what media science has involving audiences in the process of 
+achieved nowadays in Russia. West- producing and spreading the context 
+ern media science has the same, i. e. has not only expanded the media sys-
+The Media. An Introduction (a course tem’s limits but has also demanded re-
+book for university students) [6]. But an thinking it» [8, p. 9] — and we add, this 
+introduction to a theory is not a com- has also demanded renewed systemic 
+plete systemic theory like, for instance, theoretical reflection.
+Economics, which includes such sys- 2. A media system, both while de-
+tematically developed and structurally veloping and when already developed, 
+interconnected subdisciplines as Mi- is a highly dynamic system required to 
+croeconomics, Macroeconomics and be theorized sufficiently quickly. A me-
+Global Economics. dia theory (let us use this term here) 
+
+In this way, today we have an in- has to catch up with a media system 
+troduction to media theory and some dynamic development, and this is not 
+theoretical and empirical research into possible for a media theory if it applies 
+the media field which is definite prog- old, mainly theoretical/ speculative 
+ress resulting in such high profile works and empiric-descriptive methods. The 
+being published as The Phenomenon old ‘luxury’ of decades-long academic 
+of Journalism, a monograph by Louisa research into the media is completely 
+G. Svitich and The Media System of out-of-date nowadays.
+Russia, a course book edited by Elena 3. Timely study of a media system 
+L. Vartanova [8]. as one of the most high-speed dynamic 
+
+Let us try to answer the question systems is impossible without apply-
+of why there are still no finalized theo- ing mathematical methods. One can 
+ries of the media and journalism. We speed up the process of theorizing only 
+were trying to answer this question with the help of these methods, substi-
+in the article Why Sergey Kapitsa did tuting millions of words and thousands 
+not become a member of the Russian of academic texts with several dozens 
+Academy of Education published in of mathematical formulas and equa-
+co-authorship with Anna M. Bychkova tions. Mathematics has never been ap-
+in Theoretical and Practical Issues of plied to mass media theory due to the 
+Journalism [9]. Let us update the the- fact that the main subject for research 
+
+270 ISSN 2308-6203
+
+
+
+Вопросы теории и практики журналистики. 2017. T. 6. № 3. С. 267–286
+
+has always been not a media system in the media structure with changes in 
+but journalism, i. e. its content, creativ- the advertising market. In the research 
+ity and freedom. Freedom, creativity, we attempt to formally describe the 
+content and no mathematics, i. e. no dynamics of the media channels’ de-
+formalizing. velopment with the help of a system of 
+
+The first scholar to understand ordinary differential equations, where 
+that, in journalism theory, one cannot the amounts of investments are phase 
+do without formalizing even such an variables. Applying methods of nonlin-
+individual and creative work as a jour- ear dynamics allows to study in detail 
+nalistic text was Evgeniy P. Prokhorov. the structure and properties of evolu-
+It was he who divided a journalistic text tionary processes in such a system as 
+into descriptive (d), valuative (v), nor- the media» [11, p. 825].
+mative (N) and prescriptive (p) compo- A conclusion made by the authors 
+nents in the early issues of his famous with the help of a system of ordinary 
+Introduction to Journalism Theory. De- differential equations takes just one 
+noting the text as a semiotic system paragraph of the body of the article, 
+S (d, v, N, p) he showed that a differ- «Development trajectories of each kind 
+ent set of components and their com- of mass media are approximately the 
+binations illustrate not only the real same. Each kind of mass media starts 
+structure of a journalistic text and how gradually declining on reaching its cli-
+it can be perceived by audiences, but max. This being stated, reaching the 
+also the creativity of the journalist [10, climax is rather fast, meanwhile the 
+p. 38‒40]. Like linguistics, mathematics process of declining can last for de-
+should become a sister of jour nalism. cades. Nowadays 80 per cent of mass 
+
+After our report on 26 November, media are declining… <…> …they 
+2015, where we made the need for continue producing the majority of the 
+mathematizing media research the top information product due to the inertia of 
+priority, two researchers from the De- the recent years. New types of mass 
+partment of Mathematics and Econo- media not only contribute to the growth 
+metrics of Baikal State University, who of the advertising market but are also 
+had never studied the media before, the reason for its redistribution, old 
+published a very interesting article, information channels form a system 
+The Evolutionary Approach to Mass where funding is gradually finishing» 
+Media Development: Building a Math- [11, p. 828–829]. It should be noted 
+ematical Model [11]. In the annotation that this conclusion, which is important 
+to the article the authors state, «One both theoretically and practically, would 
+of the key peculiarities of the mass me- have been impossible to make in such 
+dia is giving advertisers access to gen- a concise, clear and quick way without 
+eral or specific members of the public. using mathematical methods. We are 
+The structure of the advertising market convinced that the real development 
+itself reflects the dynamics of what is of the media theory will start once we 
+happening in the media industry, as continue mathematizing it. At the same 
+the cost of advertising time depends time we will bear in mind the warning 
+on how attractive to the audience the made by our colleagues Elena G. Pop-
+media channel is. This fact made us kova and Alexander S. Natzubidze, 
+suggest an idea to connect changes i. e. «overmathematizing» does harm 
+
+ISSN 2308-6203 271
+
+
+
+Theoretical and Practical Issues of Journalism, 2017, vol. 6, no. 3, pp. 267–286
+
+to those representing humanities, arts wrong! The historic-genetic approach 
+and social sciences» [2, p. 526]. even fully coincides with our views on 
+
+which approach is to be a top priority 
+III. What is primary: media theo- in terms of developing media theory 
+
+ry or journalism theory? and journalism theory. The well-known 
+This question has never been raised essay by the German historian-econ-
+
+before either in home journalism (intro- omist Karl Buecher on the grounds of 
+duction to journalism) theory or foreign the printed press from his book Die 
+mass communication theories. Jour- Entstehung der Volkswirtschaft (The 
+nalism and mass media used to merge Rise of the National Economy) first of 
+into one whole as the content of infor- all analyzed a newspaper as a public 
+mation activity and ways (channels) of institution, not a product of journalism 
+disseminating mass information. Elena [13]. It is remarkable that K. Buecher 
+L. Vartanova aptly notes that the me- founded the first Institute for Newspa-
+dia have required special attention to per Science at the University of Leipzig.
+themselves because of their trans- And as for Four Theories of the 
+forming into a complex media system, Press by American scholars Fred 
+a separate branch of economy, thus S. Siebert, Theodore Peterson and 
+highlighting the need to consider the Wilbur Schramm, do they not state 
+media in a broader aspect, not just as in their book that they mean «all the 
+the sphere of journalist activity. Accord- mass media» by the press [14, p. 15]? 
+ing to Vartanova, journalism cannot be Therefore, there is nothing new about 
+viewed as a self-sustaining activity. On the idea that the analysis of journalism 
+the contrary, it needs to be fitted in a should be started with analyzing the 
+broad scientific, social and media in- press and the media as a social insti-
+dustry context [4, p. 8]. tution, and then as a media industry 
+
+We wrote in our article that journal- and a media system. The situational 
+ism is a mass information activity which and probabilistic approaches, in our 
+institutionalizes in the media system opinion, are directly related to math-
+and does exist apart from the function- ematical modelling of media activity. 
+ing and developing of the media. That We will consider below the normative 
+is why, in order to study journalism one approach, which fits well in the media 
+needs to understand what the media management theory.
+are, i. e. if we apply logics, the media 
+study should precede the study of jour- IV. Systemic management of the 
+nalism [1, p. 8]. media and torrents of information is 
+
+Professor Sergey G. Korkonosen- viewed as restriction of rights and 
+ko considered this approach too «cat- freedoms of citizens and journalists’ 
+egorical» while setting priorities in fa- creativity
+vour of our proposed study paradigm. This is one of the key points of the 
+«Followers of different approaches discussion which needs to be clari-
+may disagree, what makes, for in- fied together with respected Sergey 
+stance, historic-genetic, probabilistic, G. Korkonosenko. Reading his pub-
+situational, normative and other ap- lications one can’t help admiring his 
+proaches wrong?» asks Korkonosenko wide area of research and his refined 
+[12, p. 537‒538]. Nothing makes them scientific views. Taking into account his 
+
+272 ISSN 2308-6203
+
+
+
+Вопросы теории и практики журналистики. 2017. T. 6. № 3. С. 267–286
+
+scientific views one can say that he is with. However, we absolutely cannot 
+a classical representative of liberal uni- agree that in this context «it is unlike-
+versity scholars. This is our personal ly to be appropriate to give the media 
+opinion, however, it is necessary here management a top priority». This is 
+to understand the essence of the ar- sheer idealism!
+gument. Meanwhile, we do not have Yes, there are laws and informal 
+any negative connotation for the word institutions regulating the media, but 
+«liberal». To be a Russian university there are also technologies and funds 
+professor and not to be liberal is non- and other means which allow destruc-
+sense. The liberalism of university pro- tive powers to use the media to manip-
+fessors is a natural reaction to bureau- ulate public opinion, misinform people, 
+cracy which is ineradicable in Russian and to undermine public and national 
+society, however, which is being liberal- security. And, if we do not know the 
+ized by the high morals of the mentors media management mechanisms, if 
+of those university students who have, we have no idea of who they could be 
+also and first of all, chosen journalism used by, how they could be used and 
+as their future profession. Journalists what they could be used for, i. e. we are 
+are more often inclined to face up to red not familiar with media management 
+tape and cut through it. Therefore, it is theory, what will we have then? Profes-
+no coincidence that Sergey G. Korko- sor Korkonosenko pays a lot of atten-
+nosenko is concerned about the con- tion to the necessity and importance 
+cept proposed by us due to its being of using normative journalism theories, 
+aimed at media system management. recognizing values and a model code 
+
+«…There are doubts, — Sergey of conduct for journalists and other 
+G. Korkonosenko writes, — as whether media workers [15, p. 60–81], but this 
+to consider media system manage- proves once again that the manage-
+ment a top priority. And if one listens ment approach to the media theory is 
+unsystematically to a wide-spread in naturally complemented by the norma-
+modern society opinion on a person’s tive approach, including it in the system 
+self-expression being a top priority, in- of media science.
+cluding a person’s self-expression via And the last thing which we would 
+the press? <…> One can also view like to bring into the discussion with the 
+journalism as a spiritual cultural phe- respected professor, before finishing 
+nomenon, national and worldwide, as this discussion. We have no intention 
+a sphere of professional creativity, as of making the proposed project media 
+a repository of historical memory… In theory a «monopoly» media theory [12, 
+these and other contexts it is unlikely to p. 540]. What differentiates a science 
+be appropriate to give a top priority to from a company of soldiers, marching 
+media management» [12, p. 538]. in lockstep with their lieutenant is as 
+
+The Russian journalism maitre’s follows: no one parades there: some-
+concerns are understandable. Due to one always outmarches somebody, 
+its specifics journalism remains a not someone, on the contrary, lags behind, 
+completely red-taped sphere of pub- someone gropes their way, and some-
+lic creative activity, and, therefore, it one takes a different direction. And, of 
+should be protected from being over- course, there is no lieutenant making 
+regulated and externally interfered everyone march in step with him.
+
+ISSN 2308-6203 273
+
+
+
+Theoretical and Practical Issues of Journalism, 2017, vol. 6, no. 3, pp. 267–286
+
+V. On the terms «the media» and information. The answer seems obvi-
+«mass media» ous. However, whose means are they, 
+
+The thing that catches the eye, first who are they used by, what are they 
+of all, is a shy irony of some partici- used for? In terms of the Soviet tradi-
+pants of the discussion about the Rus- tion they are the state and the Com-
+sian term СМИ (mass information me- munist party means, used to affect 
+dia) which was passed down to us from the public conscience, to shape public 
+the Soviet epoch, where it was СМИП opinion, for propaganda and agitation, 
+(mass information and propaganda i. e. used as an instrument to govern 
+media) first and then became СМИ a society. In terms of post-Soviet tra-
+[3, p. 33; 12, p. 538]. Throughout the dition, the media were first an instru-
+Western world they use the term mass ment in the hands of oligarchic groups, 
+media, or, more often, just the media, making them highly competitive in 
+mass communications theory is based their struggle to be able to influence 
+on this term. We should use this very the government. Then (after the Kursk 
+term as the more appropriate analogue submarine disaster in August 2000 and 
+of the Russian term СМИ. a mass information attack by presump-
+
+Meanwhile, each of the terms has a tuous oligarchs on President Vladimir 
+right to exist as both of them are affect- Putin) a process of the leading media 
+
+channels going under government 
+ed by historical and national peculiari- control started. According to V. D. So-
+ties of the USA and Russia, which do lovey, this process resulted in forming 
+not allow these two terms to be com- a media-political system in Russia — 
+pletely synonymous. a symbiosis of the authorities and the 
+
+As for social sciences, to which media. «The main principles of this 
+media science and journalism science system are: the authorities shape the 
+belong, there will always be national main political strategy of the media, the 
+specifics in terminology to a certain ex- media are loyal to the authorities and 
+tent, that is why to be shy to use home are one of their supporters, the au-
+terms or ignore them is hardly reason- thorities do not interfere in the media 
+able. Another thing, as L. G. Svitich business» [17, p. 31].
+notices, is that in the context of inter- If we give a word-for-word transla-
+national scientific discussion and com- tion to the Russian abbreviation СМИ 
+munication there arises a question, i. e. into English, we will get mass infor-
+«How can one fit terminologically and mation media, however, such a collo-
+conceptually in the global scientific the- cation is not used in the English lan-
+saurus without sacrificing home scien- guage, the English language has the 
+tific traditions and civilized mentality?» collocation mass communication me-
+[16, p. 549‒550]. dia, but this is not exactly the same as 
+
+What kind of specifics do the Rus- СМИ, i. e. the media. American mass 
+sian term СМИ (i. e. mass information media were started as private busi-
+media) and the English term mass ness institutions working as a media-
+media reflect? The three-word Rus- tor in mass communication processes 
+sian abbreviation has the word «me- selling the information required to 
+dia», «means» in the first place. What the immigrants arriving in the USA. 
+are they media, means of? — of mass Therefore, the term mass media ini-
+
+274 ISSN 2308-6203
+
+
+
+Вопросы теории и практики журналистики. 2017. T. 6. № 3. С. 267–286
+
+tially implied an idea different from the VI. What name should be given 
+straightforwardness of the term СМИ, to the study of mass media
+i. e. mass information media (i. e. tools, It should be one word: mediology. 
+instruments). The essence of it is expressed with the 
+
+Elena L. Vartanova cites a famous help of the mysterious phrase by a fa-
+statement by Herbert Marshall McLu- mous Canadian: «The medium is the 
+han: «The medium is the message», message», which can be translated as 
+which is translated into Russian differ- follows as well: the medium is the con-
+ently. On the translations is the follow- tents itself (contains journalism as an 
+ing: «The mediator is the message» [8, operation-activity process). Mediology, 
+p. 7], i. e. the message (information) is as we view it, is a synthesis of media 
+considered a mediator in the process 
+of communication, but not a medium theory and journalism theory with me-
+(i. e. an instrument) used for commu- dia management theory on top. Finally, 
+nication processes management. It mediology aims to ensure a healthy 
+was this way since the press inception way of living for humanity in the system 
+in Northern America (from the end of of global social communications. This 
+the 17th century until the beginning of task is impossible to achieve without 
+the 18th century) until the mid-20th cen- working out media management theo-
+tury, when to the American public con- ry, and without training a new genera-
+sternation it was discovered that free tion of honest journalists on its basis, 
+mass media stopped being just a me- who will be representatives of humane 
+diator and transformed into an instru- journalism.
+ment, a medium used by an immedi- In terms of its social significance 
+ate circle of people owning the media mediology becomes one of the most 
+exclusively. prioritized research areas in the world. 
+
+Nowadays, when the Western That is why we consider mediology a 
+world has been faced with the horren- science of the future in the most sig-
+dous phenomenon of wide-scale news nificant sense of this word. But we 
+faking, the abbreviation of СМИП (i. e. also call it a science of the future in its 
+mass information and propaganda me- down-to-earth sense, as nowadays we 
+dia), not just СМИ, is more suitable for can only speak of the process of estab-
+American and European mass media. lishment of this science. It has not yet 
+Taking into account the nuances point- resulted in a formalized research area, 
+ed out, it is appropriate, in our opinion, or serious course books where mediol-
+to use the terms mass media and СМИ ogy would be systematized. However, 
+(i. e. mass information media), which the process of creating a science on 
+are now very similar and are likely to mass media, as it was stated above, 
+become identical. The discussion on will be developing rapidly and Russian 
+mass media theory terminology and scholars should not lag behind their 
+conceptual framework shows how im- colleagues from other countries.
+portant it is now for linguists to par- The Russian scientific school of 
+ticipate in this discussion. There must media and journalism has the neces-
+have been a good reason for a smart sary potential to lead this process and 
+person to state that linguistics is jour- accelerate it, carrying out complex in-
+nalism’s sister. terdisciplinary research.
+
+ISSN 2308-6203 275
+
+
+
+Theoretical and Practical Issues of Journalism, 2017, vol. 6, no. 3, pp. 267–286
+
+МЕДИАЛОГИЯ — НАУКА БУДУЩЕГО
+(приглашение к продолжению дискуссии,  
+
+начатой журналом в 2016 г.)
+
+«К созданию теории средств высказать свою позицию по спорным 
+массовой информации: постановка моментам и обозначить некоторое 
+задачи» — так называлась статья, движение вперед, к более широкой 
+опубликованная в первом номере постановке вопроса о создании 
+журнала «Вопросы теории и практи- обобщающей науки о массмедиа — 
+ки журналистики» за 2016 г., точнее, медиалогии, представляющей собой 
+даже не статья, а научный доклад, синтез теории средств массовой 
+сделанный нами на совместном за- информации как динамической 
+седании кафедр журналистики и эко- системы, теории журналистики и до-
+номики СМИ, информатики и кибер- полняющей их теории управления 
+нетики, математики и эконометрики медиасистемами и медиапроцес-
+Байкальского государственного уни- сами.
+верситета 26 ноября 2015 г. [1]. В Вот несколько положений, по 
+дискуссии, развернувшейся на стра- которым состоялась и / или может 
+ницах журнала в 2016 г. и в начале быть продолжена дискуссия.
+2017 г., приняли участие наши кол-
+леги-экономисты Е. Г. Попкова (Вол- I. Необходимости в создании 
+гоград) и А. С. Нацубидзе (Москва), теории СМИ на сегодняшний день 
+признанные авторитеты в области нет
+теории журналистики профессор Прежде всего потому, пишут 
+Санкт-Петербургского государствен- Е. Г. Попкова и А. С. Нацубидзе, что 
+ного университета С. Г. Корконо- «концептуальные основы теории 
+сенко, профессор Московского го- СМИ заложены многочисленными за-
+сударственного университета им. рубежными авторами и в настоящее 
+М. В. Ломоносова Л. Г. Свитич, член- время существует необходимость не 
+корреспондент Российской акаде- создания, а развития теории СМИ в 
+мии образования декан факультета контексте новых явлений современ-
+журналистики МГУ Е. Л. Вартанова, ности» [2, с. 526]. Молодой автор 
+старший научный сотрудник МГУ Д. В. Дунас еще более категоричен: 
+Д. В. Дунас, защитивший диссер- «Теория СМИ была создана в 1983 
+тацию на тему «Развитие и совре- г. известным британским теоретиком 
+менное состояние теоретических Д. МакКуэйлом.
+исследований журналистики и СМИ <…> За тридцать три года не по-
+в России». За кулисами дискуссии явилось книги, превзошедшей по 
+стоял ее незримый организатор — популярности и признанию теории 
+корифей отечественной теории жур- МакКуэйла. На настоящем этапе раз-
+налистики профессор Михаил Васи- вития науки о СМИ теоретические 
+льевич Шкондин, за что мы выража- положения МакКуэйла не утратили 
+ем ему особую признательность. актуальности. А значит, и целесоо-
+
+С позволения участников дис- бразности в их пересмотре нет. <…> 
+куссии мы хотим подвести ее итоги, У отечественных исследователей 
+
+276 ISSN 2308-6203
+
+
+
+Вопросы теории и практики журналистики. 2017. T. 6. № 3. С. 267–286
+
+нет весомых оснований полагать, что ные прорывные работы в области 
+теория МакКуэйла неверна для рос- медиалогии, которые издавались 
+сийских реалий. Создание систем- бы не только на русском, но и на 
+ной теории заново, искусственно, английском, французском, китай-
+специально для России — вряд ли ском и других языках мира. Вот по-
+возможно. По крайней мере, такая настоящему амбициозная задача, 
+теория едва ли сможет быть жиз- которую должен ставить перед 
+неспособной» [3, с. 35]. И дальше: собой подающий надежды молодой 
+«Теоретическое знание в области ученый, — самому стать россий-
+журналистики и СМИ в условиях со- ским МакКуэйлом! Мы думаем, что 
+временного общественного разви- у Дениса Владимировича это полу-
+тия и научного прогресса — едино. чится.
+Сегодня не может быть две теории 
+СМИ — одна для России, другая — II. Теория СМИ и теория журна-
+для остального мира» [3, с. 36]. листики находятся в стадии фор-
+
+Да помилуйте, разве кто-то мирования, становления
+ставит вопрос таким образом, чтобы Эта реалистическая оценка со-
+создать в изоляции от мировой временного состояния медиаиссле-
+научной мысли теорию СМИ ис- дований прозвучала в статье чле-
+ключительно для России? В этом на-корреспондента РАО Е. Л. Вар-
+видится явный перебор автора в тановой «К вопросу об актуализа-
+критике нашей концепции. Мы фор- ции теории журналистики и теории 
+мулируем задачу иначе: «…обеспе- СМИ» [4]. Теория журналистики, по 
+чить приоритет России в одном из мнению автора, «находится сегодня 
+самых перспективных и значимых еще на стадии формирования — не 
+направлений научных исследова- только в России, но и за рубежом» 
+ний» [1, с. 11], а не повторять до [4, с. 6]. «…Российские исследова-
+бесконечности зады зарубежных тели дискутируют, спорят, но резуль-
+теорий массовой коммуникации. Мы татов — опубликованных словарей, 
+говорим о необходимости создания учебников, концептуальных моно-
+не просто теории СМИ, а теории графий — пока нет», — утверждает 
+средств массовой информации как автор. А что есть?
+динамической системы, требую- А есть «Введение в теорию жур-
+щей применения математических налистики» [5]. Введение в теорию 
+методов, которые позволят прогно- журналистики ‒ очень точное опре-
+зировать развитие этой системы и со деление того, что достигнуто на 
+знанием дела управлять ею. сегодняшний день медианаукой 
+
+Никто не преуменьшает авто- в России. То же самое имеем на 
+ритет Дэниса МакКуэйла и его фун- Западе: «Медиа. Введение: учебник 
+даментального труда. Наш журнал, для студентов вузов» [6]. Но введе-
+кстати, планирует опубликовать ряд ние в теорию еще не есть завершен-
+обзорных статей по книге МакКуэй- ная, систематизированная теория, 
+ла «Теории массовой коммуника- как, например, «Экономикс», вклю-
+ции», перевод которой до сих пор чающий в себя системно разрабо-
+не сделан в России и вряд ли уже танные и структурно взаимосвязан-
+появится. Но нам нужны собствен- ные разделы «Микроэкономика», 
+
+ISSN 2308-6203 277
+
+
+
+Theoretical and Practical Issues of Journalism, 2017, vol. 6, no. 3, pp. 267–286
+
+«Макроэкономика», «Мировая эко- 2. Медиасистема и в процессе 
+номика». своего становления, и в своем раз-
+
+Итак, на сегодняшний день есть витом состоянии есть самая ди-
+введение в теорию СМИ и в теорию намичная система, что требует и 
+журналистики и процесс теоретиче- чрезвычайно быстрого (оперативно-
+ских и эмпирических исследований го) ее теоретического осмысления. 
+медиасферы, который, безусловно, Медиатеория (воспользуемся здесь 
+идет вперед, рождая такие перво- этим термином) должна успевать за 
+классные работы, как монография стремительным развитием медиаси-
+Л. Г. Свитич «Феномен журнализ- стемы, но она практически не может 
+ма» [7] или комплексное учебное этого сделать, пользуясь старыми, 
+пособие «Медиасистема России» в основном умозрительными и эм-
+под редакцией Е. Л. Вартановой [8]. пирико-описательными, методами 
+
+Попробуем ответить на вопрос, и приемами. Былая роскошь много-
+почему все-таки до сих пор не сло- летних академических исследова-
+жились более или менее закончен- ний медиасферы сегодня напрочь 
+ные теории СМИ и журналистики. отсутствует.
+Отчасти мы пытались ответить на 3. Оперативное познание меди-
+него в материале, опубликованном с асистемы как одной из самых высо-
+участием А. М. Бычковой в журнале коскоростных динамических систем 
+«Вопросы теории и практики журна- невозможно без применения мате-
+листики» под названием «Почему матических методов. Только с их 
+Сергей Капица не стал академиком помощью можно ускорить процесс 
+РАН» [9]. Дополним высказанные в теоретических обобщений, заменяя 
+этой статье предположения (версии) миллионы слов и тысячи страниц 
+новыми: научных текстов всего лишь не-
+
+1. Только к началу ХХI столетия в сколькими десятками математиче-
+мире, и в России в том числе, начала ских формул и уравнений. Мате-
+складываться целостная медиаси- матика еще не заходила на поле 
+стема на основе единой для всех теории массмедиа, и не заходила 
+видов СМИ цифровой технологии. потому, что главным предметом ис-
+«Очевидно, что перевод медиасо- следования здесь была не система 
+держания в единую и универсаль- СМИ, а журналистика — с ее кон-
+ную, а именно в цифровую форму, а тентом, творчеством, свободой. 
+также процессы конвергенции техно- Свобода, творчество, контент — и 
+логических платформ СМИ и прежде никакой математики, никакой форма- 
+разделенных отраслей медиа, ИТ и лизации!
+телекоммуникаций, включение ау- Кстати, первым, кто понял, что и 
+дитории в процессы производства в теории журналистики не обойтись 
+и распространения контекста, — без формализации даже такого инди-
+делает вывод Е. Л. Вартанова, — не видуально-творческого продукта, как 
+только расширили границы медиаси- журналистский текст, был Евгений 
+стемы, но и потребовали ее нового Павлович Прохоров. Именно он уже 
+понимания» [8, с. 9] — и систем- в первых изданиях своего знаменито-
+ного теоретического отражения, го «Введения в теорию журналисти-
+добавим мы. ки» разложил журналистский текст 
+
+278 ISSN 2308-6203
+
+
+
+Вопросы теории и практики журналистики. 2017. T. 6. № 3. С. 267–286
+
+(S) c точки зрения его семантически- динамику развития медиаканалов 
+информационного наполнения на с помощью системы обыкновенных 
+дескриптивную (d), валюативную (v), дифференциальных уравнений, фа-
+нормативную (N) и прескриптивную зовыми переменными которой явля-
+(p) составляющие. Обозначив текст ются объемы вложений в рекламу. 
+как знаковую систему S (d, v, N, p), Обращение к методам нелинейной 
+он показал, что различный набор его динамики позволяет наиболее полно 
+элементов и их комбинации дают изучить структуру и свойства эволю-
+представление не только о реаль- ционных процессов в такой системе, 
+ной структуре журналистского текста как средства массовой информа-
+и возможностях его восприятия мас- ции» [11, с. 825].
+совой аудиторией, но и о творческих А вывод, который делают авторы 
+наклонностях самого журналиста «с помощью системы обыкновен-
+[10, с. 38‒40]. Математика, подобно ных дифференциальных уравне-
+лингвистике, должна стать сестрой ний», выражен словами всего в 
+журналистики. одном абзаце текста: «Траектории 
+
+После нашего доклада 26 ноября развития каждого вида СМИ при-
+2015 г., в котором мы поставили во мерно одинаковы. Каждый вид, до-
+главу угла необходимость математи- стигнув максимума в своем разви-
+зации медиаисследований, два пре- тии, начинает постепенно угасать. 
+подавателя кафедры математики При этом достижение максимума 
+и эконометрики Байкальского уни- происходит достаточно быстро, а 
+верситета, ранее не занимавшиеся процесс угасания длится десятиле-
+СМИ, менее чем через год подгото- тиями. На сегодняшний день 80 % 
+вили и опубликовали потрясающе СМИ являются угасающими… <…> 
+интересную статью «Эволюционный …продолжая производить большую 
+подход к развитию средств массовой часть информационного продукта 
+информации: построение математи- благодаря инерции прошлых лет. 
+ческой модели» [11]. В аннотации к Новые виды СМИ обеспечивают не 
+ней авторы пишут: «Одна из ключе- только прирост рекламного рынка, 
+вых особенностей средств массовой но и его перераспределение, старые 
+информации — предоставление ре- каналы — образуют систему, пере-
+кламодателям доступа к массовой ходящую с прошлых лет, где фи-
+или специализированной аудитории. нансирование постепенно выбыва-
+Именно структура рекламного рынка ет» [11, с. 828–829]. Заметим, этот 
+отражает динамику происходяще- вывод, важный как в теоретическом, 
+го в медиаиндустрии, поскольку за- так и в практическом отношении, без 
+висимость стоимости рекламного математических методов невозмож-
+времени обусловлена привлека- но было бы сформулировать столь 
+тельностью для аудитории того или кратко и ясно, во-первых, и, что 
+иного медиаканала. Именно этот очень важно, так быстро, во-вторых. 
+факт натолкнул на идею связать из- Убеждены в том, что настоящее 
+менения в структуре средств массо- развитие теории СМИ начнется по 
+вой информации с изменениями на мере ее математизации. При этом 
+рынке рекламы. В исследовании де- мы будем помнить предупреждение 
+лается попытка формально описать коллег Е. Г. Попковой и А. С. Нацу-
+
+ISSN 2308-6203 279
+
+
+
+Theoretical and Practical Issues of Journalism, 2017, vol. 6, no. 3, pp. 267–286
+
+бидзе о том, что «излишняя матема- «категоричным» при выстраивании 
+тизация» вредит здоровью предста- приоритетов в пользу предлагае-
+вителей социально-гуманитарного мой нами парадигмы исследований. 
+знания» :-) [2, с. 526]. «Приверженцы иных подходов могут 
+
+не согласиться: чем плохи, напри-
+III. Что первично: теория СМИ мер, историко-генетический, веро-
+
+или теория журналистики? ятностный, ситуационный, норма-
+Раньше вопрос так не ставил- тивный и иные подходы?» — спра-
+
+ся — ни в российской теории (вве- шивает он [12, с. 537‒538]. Ничем 
+дении в теорию) журналистики, ни не плохи! Историко-генетический 
+в западных теориях массовой ком- подход даже полностью совпада-
+муникации. Журналистика и масс- ет с нашим представлением о при-
+медиа сливались в единое целое оритетах в очередности разработки 
+как содержание массово-инфор- теории СМИ и теории журналистики. 
+мационной деятельности и формы Хрестоматийная работа немецкого 
+(каналы) распространения массовой историка-экономиста Карла Бюхера 
+информации. Е. Л. Вартанова верно «Зачатки периодической печати» 
+подмечает, что СМИ потребовали в первую голову была посвящена 
+к себе особого внимания в связи с анализу газеты как общественного 
+превращением их в сложную меди- учреждения, а не собственно жур-
+асистему, в отдельную отрасль эко- налистики [13]. Примечательно и то, 
+номики, в своего рода индустрию, что К. Бюхер в 1917 г. создал первый 
+что выявило необходимость смо- в Европе Институт газетного дела 
+треть на них шире, чем только как на при Лейпцигском университете. 
+сферу приложения журналистского А знаменитые «Четыре теории 
+труда. Журналистику, считает она, прессы» американских ученых 
+уже «нельзя рассматривать только Ф. Сиберта, У. Шрамма и Т. Питерсо-
+как самодостаточную деятельность. на, разве не пишут они прямо, что 
+Напротив, ее нужно встраивать в своей книге, говоря о прессе, они 
+в широкий научный, обществен- подразумевают «все средства мас-
+ный и медиаиндустриальный кон- совой информации» [14, с. 15]? То 
+текст» [4, с. 8]. есть ничего нового в том, что начи-
+
+В своей статье мы писали, что нать анализ журналистики нужно с 
+журналистика как массово-инфор- анализа прессы и — шире — СМИ 
+мационная деятельность инсти- как социального института, а затем 
+туализируется в системе СМИ и и медиаотрасли и медиасистемы, 
+вне функционирования и разви- нет. Ситуационный и вероятност-
+тия СМИ не существует. Поэтому, ный подходы, на наш взгляд, на-
+чтобы познать журналистику, надо прямую имеют отношение к мате-
+разобраться в том, что такое СМИ, матическому моделированию де-
+т. е. по логике вещей исследова- ятельности СМИ. О нормативном 
+ние системы СМИ должно предше- подходе, который прямо вписыва-
+ствовать анализу самой журнали- ется в теорию управления СМИ, мы 
+стики [1, с. 8]. скажем ниже. Тогда в чем же причина 
+
+Этот подход показался профес- столь резкого неприятия нашего 
+сору С. Г. Корконосенко слишком подхода?
+
+280 ISSN 2308-6203
+
+
+
+Вопросы теории и практики журналистики. 2017. T. 6. № 3. С. 267–286
+
+IV. «Системное» управление А если «бессистемно» прислушаться 
+СМИ и потоками массовой инфор- к широко распространенному в со-
+мации расценивается как огра- временном мире мнению о высшей 
+ничение прав и свобод граждан, ценности самопроявления лично-
+творческой деятельности журна- сти, в том числе через прессу? <…> 
+листов Можно также расценивать журна-
+
+Это один из коренных пунктов листику как явление духовной куль-
+дискуссии, по которому нужно объ- туры — национальной и мировой, 
+ясниться с уважаемым Сергеем как сферу профессиональной твор-
+Григорьевичем Корконосенко. Читая ческой деятельности, как хранили-
+его работы, не перестаешь восхи- ще исторической памяти… В этих 
+щаться широтой мышления и утон- и иных контекстах вряд ли будет 
+ченностью его научной культуры. уместно придавать задаче управле-
+По своим убеждениям и жизненной ния первостепенное значение» [12, 
+позиции он является классическим с. 538].
+представителем либеральной ву- Опасения мэтра российской жур-
+зовской интеллигенции. Это наша налистики понятны. Журналистика в 
+личная оценка, но она необходи- силу своей специфики остается еще 
+ма, чтобы разобраться в существе не до конца забюрократизированной 
+спора. При этом слову «либераль- сферой общественной творческой 
+ный» мы не придаем никакого нега- деятельности, и ее надо всячески 
+тивного оттенка. Быть профессором оберегать от излишнего регламен-
+российского университета и не быть тирования и вмешательства извне. 
+либералом — нонсенс. Либерализм Однако согласиться с тем, что в 
+университетских профессоров — данном контексте «вряд ли будет 
+естественная реакция на засилье уместно придавать задаче управле-
+
+ния первостепенное значение», мы 
+косного бюрократического аппарата, не можем. Это чистой воды идеа-
+неискоренимого, к сожалению, в рос- лизм! 
+сийском государстве, но смягчаемо- Да, существуют законы и нефор-
+го высокой нравственной позицией мальные институты, регулирующие 
+истинных наставников студенческой деятельность СМИ, но существуют 
+молодежи, в том числе и прежде и технологии, и капиталы, и другие 
+всего выбравшей своей профессией средства, которые позволяют де-
+журналистику. Именно журналистам структивным силам использовать 
+чаще всего приходится сталкиваться СМИ для того, чтобы манипулиро-
+с фактами чиновничьего произво- вать общественным сознанием, де-
+ла и бороться с ним. И неслучайно зинформировать население, подры-
+поэтому, что особую насторожен- вать общественную и государствен-
+ность в отношении предлагаемой ную безопасность. И если не знать 
+нами концепции у С. Г. Корконосенко механизмов управления системой 
+вызвала ее нацеленность на задачи СМИ, не иметь представления о 
+управления системой СМИ. том, кто и как может их использовать 
+
+«…Возникают сомнения, — и для каких целей, т. е. не владеть 
+пишет он, — насчет управления си- теорией управления СМИ, то что мы 
+стемой СМИ как приоритетной цели. будем иметь? Профессор уделяет 
+
+ISSN 2308-6203 281
+
+
+
+Theoretical and Practical Issues of Journalism, 2017, vol. 6, no. 3, pp. 267–286
+
+большое внимание необходимости и и национальных особенностей ме-
+важности использования норматив- диасистем Америки и России, не по-
+ных теорий журналистики, закрепля- зволяющих говорить об их полной 
+ющих ценностные эталонные нормы тождественности.
+поведения журналистов и других ра- В социальных науках, к которым 
+ботников СМИ [15, с. 60–81], но это относится и наука о СМИ и журнали-
+лишний раз доказывает, что управ- стике, национальная специфика в 
+ленческий подход к теории СМИ ор- терминологии в той или иной степени 
+ганично дополняется нормативным, присутствовать будет всегда, 
+вбирает его в систему науки о медиа. поэтому стесняться использовать, 
+
+И последнее, на чем мы хотели а тем более игнорировать термины 
+бы остановиться, заканчивая поле- отечественного происхождения вряд 
+мику с уважаемым профессором. У ли оправданно. Другое дело, как 
+нас нет никаких претензий на «моно- правильно отмечает Л. Г. Свитич, 
+польное положение» предлагаемого что в условиях международного на-
+проекта теории средств массовой учного общения неизбежно возника-
+информации [12, с. 540]. Наука тем ет вопрос: «Как терминологически и 
+и отличается от роты солдат, шага- понятийно вписаться в глобальный 
+ющих в ногу с поручиком, что в ней научный тезаурус, не поступаясь при 
+никто не идет строем: всегда кто-то этом отечественными традициями и 
+резко вырывается вперед, кто-то, цивилизованной ментальностью?» 
+наоборот, плетется сзади, кто-то [16, с. 549‒550].
+бредет на ощупь, а кто-то вообще Какую же специфику отражают 
+уходит в другую сторону. И конечно, русскоязычный термин «средства 
+в ней нет поручика, заставляющего массовой информации» и англоя-
+всех идти в ногу с собой. зычный «массмедиа»? В трехслов-
+
+ной русской аббревиатуре «СМИ» 
+V. О терминах «СМИ» и «масс- на первом месте стоит слово «сред-
+
+медиа». ства». Средства чего? — массовой 
+Прежде всего бросается в глаза информации. Ответ кажется оче-
+
+стыдливая ирония некоторых участ- видным. Но средства чьи? исполь-
+ников дискуссии по поводу термина зуемые кем? с какой целью? В со-
+«СМИ», доставшегося от советской ветской традиции: средства в руках 
+эпохи: сначала «СМИП» (сред- государства и коммунистической 
+ства массовой информации и про- партии, используемые с целью воз-
+паганды), потом «СМИ» [3, с. 33; действия на общественное созна-
+12, с. 538]. На Западе использует- ние и формирования общественного 
+ся термин «массмедиа» (чаще — мнения, пропаганды и агитации, т. е. 
+просто «медиа»), на котором зиж- как инструмент управления обще-
+дется теория массовых коммуника- ством. В постсоветской российской 
+ций. Вот его-то и надо употреблять традиции на первом этапе СМИ 
+как более совершенный аналог рос- выступают как инструмент в руках 
+сийского термина «СМИ». олигархических группировок, обе-
+
+Между тем каждый из этих тер- спечивающий им высокую конкурен-
+минов имеет право на существова- тоспособность в борьбе за влияние 
+ние и несет отпечаток исторических на государство. Затем (после гибели 
+
+282 ISSN 2308-6203
+
+
+
+Вопросы теории и практики журналистики. 2017. T. 6. № 3. С. 267–286
+
+атомной подлодки «Курск» в августе для управления процессами комму-
+2000 г. и массированной информа- никации. Так было с момента зарож-
+ционной атаки зарвавшихся оли- дения прессы в Северной Америке 
+гархов на президента В. В. Путина) (конец XVII ‒ начало ХVIII в.) до се-
+начался процесс перехода ведущих редины ХХ в., когда американская 
+медиаканалов под государственный общественность с ужасом обнару-
+контроль. Как считает В. Д. Соловей, жила, что свободные массмедиа из 
+этот процесс привел к формиро- (всего лишь) посредника в социаль-
+ванию в России медиаполитиче- ных коммуникациях превратились 
+ской системы — симбиоза власти и в инструмент, в средство, использу-
+медиа. «Основные принципы этой емое в интересах узких групп лиц, 
+системы: власть определяет общую монопольно владеющих ими. 
+политическую линию СМИ, СМИ Сегодня, когда весь западный 
+лояльны власти и выступают одной мир столкнулся с чудовищным явле-
+из ее главных опор, власть не вме- нием массовой «фейкизации» жур-
+шивается в бизнес СМИ» [17, с. 31]. налистики, аббревиатура даже не 
+
+Если перевести слова «средства СМИ, а СМИП больше всего подходит 
+массовой информации» букваль- для массмедиа Америки и Европы. С 
+но (каждое слово отдельно) на ан- учетом указанных нюансов и стоит, 
+глийский язык, то это будет звучать на наш взгляд, употреблять термины 
+как mass information media, однако «массмедиа» и «СМИ», которые 
+такое словосочетание в английском действительно стали очень близки и 
+языке не употребляется, а использу- движутся к идентичности. Дискуссия 
+ется сочетание mass communication о терминологии и понятийном аппа-
+media, но это не совсем то же, что рате теории массмедиа показывает, 
+СМИ. Американские массмедиа насколько актуальным и необходи-
+исторически возникли как частные мым является участие в ней пред-
+бизнес-учреждения, которые выпол- ставителей лингвистики. Не зря же 
+няли роль посредника в процессах сказал один умный человек: лингви-
+массовой коммуникации, продавая стика есть родная сестра журнали-
+необходимую информацию массам стики. 
+съезжавшихся в страну мигрантов. В 
+термине «массмедиа», следователь- VI. Как назвать науку о масс-
+но, изначально был заложен иной медиа.
+смысл, отличный от прямолинейно- Одним словом: медиалогия. 
+сти термина «средства (орудие, ин- Суть ее, может быть, как раз и вы-
+струмент) массовой информации». ражена загадочной фразой вели-
+
+Е. Л. Вартанова приводит знаме- кого канадца «The medium is the 
+нитую фразу Г. М. Маклюэна: «The message», которую можно пере-
+medium is the message», которую на вести и так: средство информации 
+русский язык переводят по-разному. само есть содержание (содержит в 
+Один из переводов звучит так: «По- себе журналистику как оперативно-
+средник и есть сообщение» [8, с. 7]. деятельностный процесс). Меди-
+Сообщение (информация) как по- алогия, в нашем понимании, есть 
+средник в процессах коммуникации, синтез теории СМИ и теории журна-
+но никак не средство, используемое листики, возвышающий над собой 
+
+ISSN 2308-6203 283
+
+
+
+Theoretical and Practical Issues of Journalism, 2017, vol. 6, no. 3, pp. 267–286
+
+теорию управления массмедиа. В Но мы называем ее наукой будуще-
+конечном счете медиалогия имеет го и в приземленном смысле, ибо в 
+своей задачей обеспечение здоро- настоящее время можно говорить 
+вого образа жизни человечества в только о процессе становления этой 
+системе глобальных социальных науки. Она не результировалась еще 
+коммуникаций. А эту задачу невоз- ни в четко оформленную отрасль на-
+можно решить без научной теории учного знания, ни в солидные учеб-
+управления системой СМИ, без под- ники, представляющие системати-
+готовки на ее основе новых кадров зацию этого знания. Однако процесс 
+по-настоящему честной, правдивой создания науки о массмедиа, как 
+и гуманной журналистики. отмечалось выше, будет развивать-
+
+По своей социальной значи- ся стремительно, и мы не должны 
+мости медиалогия выдвигается в отстать от других стран. У россий-
+разряд самых перспективных и вос- ской научной школы СМИ и журнали-
+требованных научных направлений стики есть достаточный потенциал, 
+во всем мире. Поэтому мы называ- чтобы лидировать в этом процессе и 
+ем медиалогию наукой будущего в ускорять его, проводя комплексные 
+самом высоком смысле этого слова. междисциплинарные исследования.
+
+REFERENCES
+1. Sukhodolov A. P., Rachkov M. P. To create a theory of the media: statement of the 
+
+problem. Voprosy teorii i praktiki zhurnalistiki = Theoretical and Practical Issues of Journalism, 
+2016, vol. 5, no. 1, pp. 6–13. DOI: 10.17150/2308-6203.2016.5(1).6-13. (In Russian). 
+
+2. Popkova E. G., Natsubidze A. S. Evolution and the new outlines of the theory of 
+mass media in the XXI century (reflections on the article of prof. A. P. Sukhodolov and prof. 
+M. P. Rachkov «To create a theory of the media: statement of the problem»). Voprosy teorii i 
+praktiki zhurnalistiki = Theoretical and Practical Issues of Journalism, 2016, vol. 5, no. 3, pp. 
+521–528. DOI: 10.17150/2308-6203.2016.5(3).521-528. (In Russian). 
+
+3. Dunas D. V. On the question of the feasibility of media theory formulation at present 
+time. Voprosy teorii i praktiki zhurnalistiki = Theoretical and Practical Issues of Journalism, 
+2017, vol. 6, no. 1, pp. 30–40. DOI: 10.17150/2308-6203.2017.6(1).30-40. (In Russian). 
+
+4. Vartanova E. L. On the problem of updating the theory of journalism and the theory 
+of the mass media. Voprosy teorii i praktiki zhurnalistiki = Theoretical and Practical Issues 
+of Journalism, 2017, vol. 6, no. 1, pp. 5–13. DOI: 10.17150/2308-6203.2017.6(1).5-13. (In 
+Russian). 
+
+5. Prokhorov E. P. Vvedenie v teoriyu zhurnalistiki [Introduction to the Theory of Journal-
+ism]. 8th ed. Moscow, Aspekt Press, 2011. 351 p. 
+
+6. Briggs A., Kobley P. (eds). The Media: An Introduction. 2nd ed. London, Longman, 
+2002. 592 p. (Russ. ed.: Briggs A., Kobley P. (eds). Media. Vvedenie [Media. Introduction]. 
+2nd ed. Moscow, Yuniti-Dana Publ., 2012. 550 p.). 
+
+7. Svitich L. G. Fenomen zhurnalizma [The Phenomenon of Journalism]. Moscow State 
+University Publ., 2000. 252 p. 
+
+8. Vartanova E. L. (ed.). Mediasistema Rossii [Media System of Russia]. Moscow, Aspekt 
+Press, 2015. 384 p. 
+
+9. Bychkova A. M., Rachkov M. P., Sukhodolov A. P. Why Sergey Kapitsa didn’t become 
+the academician of the Russian academy of sciences. Voprosy teorii i praktiki zhurnalistiki = 
+Theoretical and Practical Issues of Journalism, 2013, no. 1, pp. 215–218. (In Russian).
+
+10. Prokhorov E. P. Vvedenie v teoriyu zhurnalistiki [Introduction to the Theory of Journal-
+ism]. 2nd ed. Moscow, RIP-Kholding Publ., 1998. 310 p. 
+
+11. Baenkhaeva A. V., Timofeev S. V. The evolutionary approach to development of mass 
+media: construction of a mathematical model. Izvestiya Baykal’skogo gosudarstvennogo 
+
+284 ISSN 2308-6203
+
+
+
+Вопросы теории и практики журналистики. 2017. T. 6. № 3. С. 267–286
+
+universiteta = Bulletin of Baikal State University, 2016, vol. 26, no. 5, pp. 825–833. DOI: 
+10.17150/2500-2759.2016.26(5).825-833 (In Russian). 
+
+12. Korkonosenko S. G. Journalism theory: from schematics to realism. Voprosy teorii i 
+praktiki zhurnalistiki = Theoretical and Practical Issues of Journalism, 2016, vol. 5, no. 4, pp. 
+536–545. DOI: 10.17150/2308-6203.2016.5(4).536-545. (In Russian). 
+
+13. Byukher K. Vozniknovenie narodnogo khozyaistva [The Rise of the National Economy. 
+Public Lectures and Essays]. Petrograd, Academia Publ., 1923. Vol. 1. 241 p.
+
+14. Sieber F., Peterson T., Schramm W. Four Theories of the Press: The Authoritarian, Lib-
+ertarian, Social Responsibility, and Soviet Communist Concepts of what the Press Should be 
+and Do. University of Illinois Press, 1956. 153 p. (Russ. ed.: Sieber F., Peterson T., Schramm 
+W. Chetyre teorii pressy. Moscow, National Press Institute Publ., Vagrius Publ., 1998. 224 p.). 
+
+15. Korkonosenko S. G. (ed.). Teorii zhurnalistiki v Rossii: zarozhdenie i razvitie [Theo-
+ries of Journalism in Russia: The Origin and Development]. Saint Petersburg State University 
+Publ., 2014. 272 p. 
+
+16. Svitich L. G. Studying journalism in the context of interdisciplinary paradigms. 
+Voprosy teorii i praktiki zhurnalistiki = Theoretical and Practical Issues of Journalism, 2016, 
+vol. 5, no. 4, pp. 546–561. DOI: 10.17150/2308-6203.2016.5(4).546-561. (In Russian). 
+
+17. Solovei V. D. Absolyutnoe oruzhie. Osnovy psikhologicheskoi voiny i mediama-
+nipulirovaniya [An Absolute Weapon. Basics of Psychological War and Media Manipulation]. 
+Moscow, Eksmo Publ., 2015. 320 p.
+
+СПИСОК ИСПОЛЬЗОВАННОЙ ЛИТЕРАТУРЫ
+1. Суходолов А. П. К созданию теории средств массовой информации: постановка 
+
+задачи / А. П. Суходолов, М. П. Рачков // Вопросы теории и практики журналистики. — 
+2016. — Т. 5, № 1. — С. 6–13. — DOI: 10.17150/2308-6203.2016.5(1).6-13.
+
+2. Попкова Е. Г. Эволюция и новые очертания теории средств массовой информа-
+ции в XXI веке (размышления над статьей А. П. Суходолова и М. П. Рачкова «К соз-
+данию теории средств массовой информации: постановка задачи») / Е. Г. Попкова, 
+А. С. Нацубидзе // Вопросы теории и практики журналистики. — 2016. — Т. 5, № 3. — 
+С. 521–528. — DOI: 10.17150/2308-6203.2016.5(3).521-528.
+
+3. Дунас Д. В. О целесообразности создания теории СМИ на современном этапе / Д. 
+В. Дунас // Вопросы теории и практики журналистики. — 2017. — Т. 6, № 1. — С. 30–40. — 
+DOI: 10.17150/2308-6203.2017.6(1).30-40.
+
+4. Вартанова Е. Л. К вопросу об актуализации теории журналистики и теории СМИ / 
+Е. Л. Вартанова // Вопросы теории и практики журналистики. — 2017. — Т. 6, № 1. — 
+С. 5–13. — DOI:10.17150/2308-6203.2017.6(1).5-13.
+
+5. Прохоров Е. П. Введение в теорию журналистики : учебник / Е. П. Прохоров. — 8-е 
+изд., испр. — М. : Аспект Пресс, 2011. — 351 с.
+
+6. Медиа. Введение : учебник / под ред. А. Бриггза, П. Кобли. — 2-е изд. — М. : Юни-
+ти-Дана, 2012. — 550 с.
+
+7. Cвитич Л. Г. Феномен журнализма / Л. Г. Свитич. — М. : Икар, 2000. — 252 с. 
+8. Медиасистема России : учеб. пособие / под ред. Е. Л. Вартановой. — М. : Аспект 
+
+Пресс, 2015. — 384 с.
+9. Бычкова А. М. Почему Сергей Капица не стал академиком РАН / А. М. Бычкова, 
+
+М. П. Рачков, А. П. Суходолов // Вопросы теории и практики журналистики. — 2013. — 
+№ 1. — С. 215–218.
+
+10. Прохоров Е. П. Введение в теорию журналистики : учеб. пособие / Е. П. Прохо-
+ров. — Изд. 2-е, испр. и доп. — М. : РИП-Холдинг, 1998. — 310 с. 
+
+11. Баенхаева А. В. Эволюционный подход к развитию средств массовой информа-
+ции: построение математической модели / А. В. Баенхаева, С. В. Тимофеев // Известия 
+Байкальского государственного университета. — 2016. — Т. 26, № 5. — С. 825–833. — 
+DOI: 10.17150/2500-2759.2016.26(5).825-833.
+
+12. Корконосенко С. Г. Теория журналистики: от схематизма к реализму / С. Г. Кор-
+коносенко // Вопросы теории и практики журналистики. — 2016. — Т. 5, № 4. — С. 536–
+545. — DOI: 10.17150/2308-6203.2016.5(4).536-545.
+
+ISSN 2308-6203 285
+
+
+
+Theoretical and Practical Issues of Journalism, 2017, vol. 6, no. 3, pp. 267–286
+
+13. Бюхер К. Возникновение народного хозяйства. Публичные лекции и очерки : в 
+2 т. / К. Бюхер. — Петроград : Academia, 1923. — Т. 1. — 241 c. 
+
+14. Сиберт Ф. Четыре теории прессы / Ф. Сиберт, У. Шрамм, Т. Питерсон. — М. : Нац. 
+ин-т прессы : Вагриус. — 1998. — 224 c.
+
+15. Теории журналистики в России: зарождение и развитие / под ред. С. Г. Корконо-
+сенко. — СПб. : Изд-во С.-Петерб. ун-та, 2014. — 272 c.
+
+16. Свитич Л. Г. Изучение журналистики в контексте общенаучных парадигм / 
+Л. Г. Свитич // Вопросы теории и практики журналистики. — 2016. — Т. 5, № 4. — С. 546–
+561. — DOI: 10.17150/2308-6203.2016.5(4).546-561.
+
+17. Соловей В. Д. Абсолютное оружие. Основы психологической войны и медиама-
+нипулирования / В. Д. Соловей. — М. : Эксмо, 2015. — 320 с.
+
+REFERENCE TO ARTICLE
+Sukhodolov A. P., Rachkov M. P. Mediology as a Science of the Future ((an invitation 
+
+to continue the discussion started in this journal in 2016)). Voprosy teorii i praktiki zhurnalis-
+tiki = Theoretical and Practical Issues of Journalism, 2017, vol. 6, no. 3, pp. 267–286. DOI: 
+10.17150/2308-6203.2017.6(3).267-286.
+
+БИБЛИОГРАФИЧЕСКОЕ ОПИСАНИЕ СТАТЬИ
+Cуходолов А. П. Медиалогия — наука будущего (приглашение к продолжению 
+
+дискуссии, начатой журналом в 2016 г.) / А. П. Суходолов, М. П. Рачков // Вопросы теории 
+и практики журналистики. — 2017. — Т. 6, № 3. — С. 267–286. — DOI: 10.17150/2308-
+6203.2017.6(3).267-286.
+
+286 ISSN 2308-6203

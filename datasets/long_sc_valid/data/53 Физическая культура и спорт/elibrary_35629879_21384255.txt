@@ -1,0 +1,783 @@
+﻿УДК 796.082.1 + 612.1/.8            DOI: 10.14529/hsm180305
+ 
+ФОРМИРОВАНИЕ АДАПТАЦИИ СПОРТСМЕНОВ  
+ВЫСОКОЙ КВАЛИФИКАЦИИ К ФИЗИЧЕСКИМ НАГРУЗКАМ 
+РАЗНЫХ ВИДОВ СПОРТА ПУТЕМ ИЗМЕНЕНИЯ  
+СООТНОШЕНИЯ КОМПОНЕНТОВ ТЕЛА 
+ 
+Д.А. Сарайкин1, А.А. Хуснутдинова2, В.И. Павлова1,  
+Ю.Г. Камскова1, Б.Г. Юшков3 
+1Южно-Уральский государственный гуманитарно-педагогический университет,  
+г. Челябинск, Россия, 
+2Южно-Уральский государственный университет, г. Челябинск, Россия, 
+3Институт иммунологии и физиологии Уральского отделения РАН, г. Екатеринбург, 
+Россия 
+
+ 
+ 
+
+Цель: определение эталонных значений компонентного состава тела квалифициро-
+ванных единоборцев. Организация и методы. На анализаторе «Tanita BC-418» в утреннее
+время проводилось измерение компонентного состава тела у 3 групп спортсменов мужско-
+го пола (масса тела 60–75 кг) высокой квалификации (КМС, МС) различных видов едино-
+борств: кикбоксинг (n = 23), самбо и дзюдо (n = 25), тхэквондо (n = 22). Результаты ис-
+следования. У представительной дзюдо и самбо выявлено большее относительное коли-
+чество жировой ткани (около 12 %), тогда как у кикбоксеров и тхэквондистов ее значения
+варьируют в пределах 7–9 %. У тхэквондистов наблюдаются самые низкие значения жи-
+ровой ткани в руках, тогда как в ногах ее уровень выше, чем представителей борьбы. Наи-
+меньшая масса мышц в конечностях зафиксирована у борцов, в ногах ее больше у тхэк-
+вондистов, в руках – у представителей кикбоксинга и тхэквондо. Параметр «Разница
+мышцы туловища – мышцы ног» находится в значениях порядка 5 кг, что, наряду с дан-
+ными графического построения Box-Whiskers/Multiple, в котором медиана и 25–75 пер-
+центили фактически идентичны, указывает на существование неких «эталонных» пара-
+метров состава тела у спортсменов высокого класса. Корреляционный анализ выявил от-
+сутствие корреляций массы жировой и мышечной ткани в конечностях у борцов и кикбок-
+серов, в то время как у тхэквондистов зафиксированы 3 такие взаимосвязи (р ≤ 0,05),
+особенно выраженные с мышцами рук. Заключение. Получены «модели» состава тела
+представителей борьбы, кикбоксинга и тхэквондо, которые могут позволить индивидуали-
+зировать тренировочный процесс и прогнозировать спортивный результат. 
+
+Ключевые слова: борьба, кикбоксинг, тхэквондо, компонентный состав тела, «мо-
+дель» спортсмена. 
+
+ 
+ 
+Актуальность. При формировании дол- определение эталонных значений состава тела 
+
+говременной адаптации у спортсменов-едино- является одной из ключевых задач как спор-
+борцев разных видов спорта ранее, в боль- тивной подготовки, так и спортивной дието-
+шинстве случаев, исследовали показатели ве- логии [11, 12]. Данное исследование направ-
+гетативной, гормональной, нервной систем [4, лено на определение адаптивных изменений 
+5, 8, 9]. Известно, что соотношение мышечной путем изучения различий в компонентном 
+и жировой массы влияет на работоспособ- составе тела представителей единоборств, что 
+ность и энергообеспеченность [10, 16, 17]. в дальнейшем позволит определить модель-
+
+Исследование состава тела при помощи ные характеристики высококвалифициро-
+биоимпедансного анализа состава тела (BIA) ванного спортсмена, индивидуализировать 
+является одним из самых точных непрямых тренировочный процесс и процесс питания 
+способов его определения с погрешностью из- [1, 13, 21]. 
+мерений по некоторым параметрам (сравнение Материалы и методы. Исследование 
+с hydrodensitometry, dual x-ray absorptiometry), проводилось на базе Научно-исследователь-
+не превышающим 5 % [7, 14, 15, 19, 20]. ского центра спортивной науки Южно-Ураль-
+
+Для практики спорта высших достижений ского государственного университета. На ана-
+
+Человек. Спорт. Медицина  
+2018. Т. 18, № 3. С. 47–59 47
+
+
+
+Физиология 
+лизаторе «Tanita BC-418» в утреннее время лются в пределах 16 %. У кикбоксеров и тхэк-
+проводилось измерение состава тела с вычис- вондистов зафиксировано схожесть пропор-
+лением массы и процента жировой ткани. ций, при обнаружении интересного факта: 
+Контингент испытуемых состоял из 3 групп несмотря на фактическое отсутствие работы 
+спортсменов мужского пола (масса тела  руками в тхэквондо, у спортсменов высокой 
+60–75 кг) высокой квалификации (КМС, МС) квалификации наблюдаются самые низкие 
+различных видов единоборств: кикбоксинг  значения жировой ткани в руках, тогда как в 
+(n = 23), самбо и дзюдо (n = 25), тхэквондо  ногах ее уровень выше чем представителей 
+(n = 22). борьбы. В качестве гипотезы можно выдви-
+
+При помощи анализатора состава тела нуть предположение об относительной деза-
+«Tanita BC-418» (входящие данные: тип тело- даптации или компенсации процесса метабо-
+сложения – атлетический, пол – мужской, лизма и венозно-капиллярном отклонении, 
+возраст, длина тела) регистрировали следую- проявляемых накоплением метаболитов в по-
+щие параметры: индекс массы тела (ИМТ), стоянно работающих мышцах на фоне меха-
+процент жировой ткани в теле (%Ж), масса нического сдавления кровеносных сосудов 
+жировой ткани в теле, кг (Ж), масса тела без спазмированными мышцами (в ногах, в пер-
+жировой ткани, кг (ТМ), общее количество вую очередь, икроножными, в руках – боль-
+жидкости в теле, кг (Жидкость), процент жи- шими грудными, дельтовидными и бицепсом) 
+ровой ткани в правой (%Ж ПН), левой (%Ж [3, 18]. 
+ЛН) ноге, в правой (%Ж ПР), левой (%Ж ЛР) Анализ распределения мышечной ткани 
+руке и туловище (%ЖТ); масса жировой тка- также выявил характерные особенности (рис. 2). 
+ни (кг) в правой (Ж ПН), левой (Ж ЛН) ноге,  Наименьшая масса мышц в конечностях 
+в левой (Ж ЛР), правой (Ж ПР) руке и туло- зафиксирована у борцов, в нижних конечно-
+вище (Ж Т); масса без жировой ткани (кг) стях ее больше у тхэквондистов, в руках – 
+правой (ТМ ПН), левой (ТМ ЛН) ноги, правой фактически равные значения у представите-
+(ТМ ПР), левой (ТМ ЛР) руки, туловища  лей кикбоксинга и тхэквондо. Можно предпо-
+(ТМ Т); масса (кг) мышц правой (М ЛН),  ложить, что несмотря на менее силовой ха-
+левой (М ЛН) ноги, правой (М ПР), левой  рактер, особенно уровень статического на-
+(М ЛР) руки и туловища (М Т).  пряжения соревновательной деятельности у 
+
+Полученные результаты были импорти- кикбоксеров и тхэквондистов, требования к 
+рованы в программу Statistica 10.0, где под- их скоростно-силовой подготовке являются 
+вергались вариационному и корреляционному более высокими, что и формирует большие 
+анализу с графическим построением перцен- величины мышечной массы [2, 6].  
+тильных значений. Для построения модельных параметров в 
+
+Результаты исследования. В табл. 1, 2 и программе Statistica, методом использования 
+рис. 1, 2 представлены результаты сравни- функции Box-Whiskers/Multiple были по-
+тельной оценки состава тела. Необходимо от- строены графические изображения перцен-
+метить, что у представителей тхэквондо вы- тильных значений (рис. 3–5). 
+явлена наибольшая длина тела при отсутствии Как видно из рис. 3–5, в перечисленных 
+различий по индексу массы тела. Причиной видах спорта медиана и 25–75 перцентили 
+данных отличий являются высокие значения фактически идентичны, что указывает на су-
+тощей массы тела и количества жидкости в ществование неких «эталонных» параметров 
+теле, статистически значимо отличающиеся состава тела. Представленные модельные па-
+от кикбоксеров и представителей борьбы.  раметры мы рекомендуем внести в практику 
+
+Сегментарный анализ позволил выявить подготовки спортсменов, в частности, при 
+некоторые закономерности распределения этапном контроле состояния проводить изме-
+жировой и мышечной ткани. В частности,  рение состава тела и при сравнительной оцен-
+у представителей дзюдо и самбо выявлено ке корректировать (индивидуализировать) как 
+большее относительное количество жировой тренировочный процесс, так и питание. 
+ткани (около 12 %), тогда как у кикбоксеров и Для более углубленного анализа нами бы-
+тхэквондистов ее значения варьируют в пре- ли рассчитаны некоторые параметры (табл. 3), 
+делах 7–9 %. Распределение процента жиро- которые в дальнейшем могут являться мо-
+вой ткани отчетливо видно на рис. 1: у борцов дельными и использоваться как маркер дос-
+минимальные значения в туловище (менее  тижения высоких результатов в своих видах 
+10 %), в руках порядка 12 %, а в ногах колеб- спорта. 
+
+Human. Sport. Medicine 
+48 2018, vol. 18, no. 3, pp. 47–59 
+
+
+
+Сарайкин Д.А., Хуснутдинова А.А.,              Формирование адаптации спортсменов 
+Павлова В.И. и др.             высокой квалификации к физическим нагрузкам…  
+
+Чело век. Спорт. Медицина  
+2018. Т. 18, № 3. С. 47–59 49 
+
+
+
+Физиология 
+
+ 
+ Human. Sport. Medicine 
+
+50 2018, vol. 18, no. 3, pp. 47–59 
+
+
+
+Сарайкин Д.А., Хуснутдинова А.А.,              Формирование адаптации спортсменов 
+Павлова В.И. и др.             высокой квалификации к физическим нагрузкам…  
+
+18,00
+
+16,00
+
+14,00
+
+12,00
+
+10,00
+
+8,00
+
+6,00
+% Ж % Ж ПН % Ж ЛН % Ж ПР % Ж ЛР % Ж Т
+
+Кикбоксинг Дзюдо и самбо Тхеквондо
+ 
+
+ 
+Рис. 1. Сравнительная оценка жировой ткани (%Ж – жировая ткань в теле (%), %Ж ПН – 
+жировая ткань в правой ноге (%), %Ж ЛН – жировая ткань в левой ноге (%), %Ж ПР – жи-
+ровая ткань в правой руке (%), %Ж ЛР – жировая ткань в левой руке (%), %Ж Т – жировая  
+                                                           ткань в туловище (%) 
+Fig. 1. Comparative assessment of adipose tissue (%Ж – total adipose tissue (%), %Ж ПН – 
+right leg adipose tissue (%), %Ж ЛН – left leg adipose tissue (%), %Ж ПР – right arm adipose  
+         tissue (%), %Ж ЛР – left arm adipose tissue (%), %Ж Т– trunk adipose tissue (%) 
+
+ 
+
+ 
+ 
+
+Рис. 2. Распределение массы мышц (кг) в конечностях (ПН – правая нога, ЛН – левая нога,  
+                                               ПР – правая рука, ЛР – левая рука)  
+Fig. 2. Muscle mass (kg) distribution in limbs (ПН – right leg, ЛН – left leg, ПР – right arm,  
+                                                                   ЛР – left arm)  
+
+ 
+
+Введенные параметры можно рассматри- лученные параметры можно представить как 
+вать как некие интегральные характеристики один из ключевых факторов, характеризую-
+пропорциональности. В частности, различия щих общую физическую подготовленность, 
+по распределению жировой ткани в теле мож- как базу для специальной физической подго-
+но рассматривать как фактор аэробной подго- товленности [9, 22].  
+товленности, косвенно свидетельствующих об При анализе данных табл. 3 (распределе-
+общем аэробном пороге, аэробном пороге для ние жировой ткани) можно выделить не-
+рук и ног. Исходя из этих представлений, по- сколько ключевых моментов:  
+
+Человек. Спорт. Медицина  
+2018. Т. 18, № 3. С. 47–59 51 
+
+
+
+Физиология 
+
+Модельные характеристики кикбоксинг
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20  Median 
+0  25%-75% 
+
+-20
+Длина ИМТ ЖИР кг Жидкость  Non-Outlier Range 
+
+Масса ЖИР % Масса без жира  Outliers  
+ 
+
+Рис. 3. Модельные параметры состава тела кикбоксеров высокого класса 
+Fig. 3. Model body composition for professional kickboxers 
+
+ 
+
+Модельные характеристики борьба
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+
+-20  Median 
+ 25%-75% 
+ Non-Outlier Range 
+ Outliers
+
+ 
+ 
+
+Рис. 4. Модельные параметры состава тела борцов высокого класса 
+Fig. 4. Model body composition for professional wrestlers 
+
+ 
+
+Модельные харатеристики тхеквондо
+200
+180
+160
+140
+120
+100
+
+80
+60
+40  Median 
+20  25%-75% 
+0
+
+ Non-Outlier Range 
+-20
+
+Длина ИМТ ЖИР кг Жидкость  Outliers
+Масса ЖИР % Масса без жира  
+
+ 
+Рис. 5. Модельные параметры состава тела тхэквондистов высокого класса 
+
+Fig. 5. Model body composition for professional taekwondo athletes 
+ 
+
+– у борцов содержание жировой ткани в но- – у тхэквондистов содержание жировой 
+гах в среднем на 6 % больше, чем в туловище; ткани в руках в среднем на 2 % больше, чем в 
+
+– у борцов и тхэквондистов содержание ногах, тогда как у борцов и кикбоксеров на-
+жировой ткани в руках в среднем на 4 % блюдается обратная картина: в руках в сред-
+больше, чем в туловище; нем на 3 % меньше, чем в ногах. 
+
+Human. Sport. Medicine 
+52 2018, vol. 18, no. 3, pp. 47–59 
+
+Длина
+
+Масса
+
+ИМТ
+
+ЖИР %
+
+ЖИР кг
+
+Масса без жира
+
+Жидкость
+
+
+
+Сарайкин Д.А., Хуснутдинова А.А.,            Формирование адаптации спортсменов 
+Павлова В.И. и др.            высокой квалификации к физическим нагрузкам…  
+
+Чело век. Спорт. Медицина  
+2018. Т. 18, № 3. С. 47–59 53 
+
+
+
+Физиология 
+Анализ распределения мышечной ткани мышцы ног» у спортсменов высокого класса 
+
+позволил выявить следующие закономер- находится в значениях около 5 кг, что, види-
+ности: мо, является модельным значением для еди-
+
+– у тхэквондистов наблюдаются самые ноборств в целом. 
+большие различия между количеством мышц Коэффициент «Жидкость/масса тела (%)» 
+в ногах и руках (около 15 кг), тогда как у бор- позволил выявить различие борцов от кик-
+цов зафиксированы минимальные значения боксеров и тхэквондистов: относительное 
+(около 12 кг); содержание жидкости у борцов ниже в сред-
+
+– у тхэквондистов более развиты мышцы нем на 2 %. 
+туловища, чем рук и ног (самые большие зна- Для выявления особенностей внутри-
+чения параметров разница мышцы туловища- системных взаимосвязей был проведен не-
+мышцы рук и ног); параметрический корреляционный анализ 
+
+– параметр «Разница мышцы туловища – (табл. 4–6). 
+Таблица 4
+
+Table 4
+Матрица корреляций ключевых параметров состава тела у кикбоксеров 
+
+Correlation of key body composition parameters in kickboxers 
+
+Вес кг Ж Вода Мышцы ПН Мышцы ЛН Мышцы ПР Мышцы ЛР Мышцы Т 
+Weight AT kg Water RL muscles LL muscles RA muscles LA muscles Trunk  
+
+ 
+muscles 
+
+Вес / Weight 0,83 0,89 0,90 0,93 0,70 0,87 0,83 
+кг Ж / AT kg 0,49 0,57 0,62 0,46 0,52 0,39 
+Вода / Water 0,95 0,95 0,72 0,93 0,98 
+Мышцы ПН 
+
+0,98 0,69 0,85 0,88 
+RL muscles     
+Мышцы ЛН 
+
+0,71 0,89 0,88 
+LL muscles      
+Мышцы ПР 
+
+0,78 0,65 
+RA muscles       
+Мышцы ЛР 
+
+0,88 
+LA muscles        
+Мышцы Т 
+Trunk muscles         
+
+Примечание. Здесь и в табл. 5, 6 выделены корреляционные взаимосвязи p ≤ 0,05. 
+Note. Here and in the table 5, 6 highlighted correlations p ≤ 0.05. 
+ 
+
+Таблица 5
+Table 5
+
+Матрица корреляций ключевых параметров состава тела у борцов 
+Correlation of key body composition parameters in wrestlers 
+
+Вес кг Ж Вода Мышцы ПН Мышцы ЛН Мышцы ПР Мышцы ЛР Мышцы Т 
+Weight AT kg Water RL muscles LL muscles RA muscles LA muscles Trunk  
+
+muscles 
+Вес / Weight 0,48 0,96 0,95 0,93 0,85 0,83 0,96 
+кг Ж / AT kg 0,21 0,21 0,18 0,02 –0,01 0,26 
+Вода / Water 0,99 0,98 0,94 0,93 0,99 
+Мышцы ПН 
+
+0,99 0,93 0,91 0,96 
+RL muscles     
+Мышцы ЛН 
+
+0,95 0,92 0,94 
+LL muscles      
+Мышцы ПР 
+
+0,97 0,90 
+RA muscles       
+Мышцы ЛР 
+
+0,89 
+LA muscles        
+Мышцы Т 
+Trunk muscles         
+
+Human. Sport. Medicine 
+54 2018, vol. 18, no. 3, pp. 47–59 
+
+
+
+Сарайкин Д.А., Хуснутдинова А.А.,            Формирование адаптации спортсменов 
+Павлова В.И. и др.            высокой квалификации к физическим нагрузкам…  
+
+Таблица 6
+Table 6
+
+Матрица корреляций ключевых параметров состава тела у тхэквондистов 
+Correlation of key body composition parameters in taekwondo athletes 
+
+Вес кг Ж Вода Мышцы ПН Мышцы ЛН Мышцы ПР Мышцы ЛР Мышцы Т
+Weight AT kg Water RL muscles LL muscles RA muscles LA muscles Trunk  
+
+muscles 
+Вес / Weight 0,54 0,79 0,51 0,82 0,82 0,86 0,52 
+кг Ж / AT kg –0,09 –0,25 0,74 0,90 0,80 –0,43 
+Вода / Water 0,77 0,43 0,31 0,44 0,93 
+Мышцы ПН 
+
+–0,06 0,00 0,00 0,86 
+RL muscles     
+Мышцы ЛН 
+
+0,94 0,99 0,08 
+LL muscles      
+Мышцы ПР 
+
+0,97 –0,05 
+RA muscles       
+Мышцы ЛР 
+
+0,08 
+LA muscles        
+Мышцы Т 
+Trunk muscles         
+
+ 
+
+Анализ табл. 4–6 позволил выявить ос- ный педагогический институт имени М.Е. Ев-
+новные особенности внутрисистемных взаи- севьева» по договору на выполнение научно-
+мосвязей параметров компонентного состава исследовательских работ от 04.06.2018 от № 1/333 
+тела. В частности, ключевым отличием кик- по теме «Адаптация организма человека к фи-
+
+боксеров является положительная корреляци- зическим нагрузкам разной интенсивности». 
+ 
+
+онная взаимосвязь (r = 0,83, р ≤ 0,05) между Литература 
+массой тела и массой жировой ткани. У бор- 1. Абрамова, Т.Ф. Морфологические 
+цов масса жировой ткани не имеет взаимосвя- критерии – показатели пригодности, общей 
+зи с мышечной тканью в конечностях, тогда физической подготовленности и контроля 
+как у тхэквондистов зафиксированы 3 такие текущей и долговременной адаптации к 
+взаимосвязи, особенно выраженные с мыш- тренировочным нагрузкам: учеб.-метод.  
+цами рук. пособие / Т.Ф. Абрамова, Т.М. Никитина, 
+
+Заключение. Исследование компонент- Н.И. Кочеткова. – М.: ТВТ Дивизион, 2010. – 
+ного состава тела высококвалифицированных 104 с. 
+спортсменов-единоборцев показало, что, не- 2. Верхошанский, Ю.В. Основы специ-
+смотря на некую схожесть тренировочного альной физической подготовки спортсменов: 
+процесса, наблюдаются различия в адаптив- моногр. / Ю.В. Верхошанский. – М.: Физкуль-
+ных компенсаторных механизмах. Получены тура и спорт, 1988. – 327 с. 
+«модели» состава тела представителей борь- 3. Епишев, В.В. Постуральный баланс у 
+бы, кикбоксинга и тхэквондо, использование легкоатлетов-бегунов на средние дистанции / 
+которых при оперативном и комплексном В.В. Епишев, К.Е. Рябина, А.П. Исаев, В.В. Эр-
+контроле позволит индивидуализировать тре- лих // Рос. журнал биомеханики. – 2017. –  
+нировочный процесс и прогнозировать спор- Т. 21, № 2. – С. 166–177. 
+тивный результат. 4. Исаев, А.П. Физиологические, биоме-
+
+ ханические, молекулярно-клеточные и теоре-
+Южно-Уральский государственный универ- тико-методические особенности проектиро-
+
+ситет благодарит за финансовую поддержку 
+Министерство образования и науки Российской вания успешной спортивной деятельности в 
+Федерации (грант № 19.9733.2017/ВР). видах спорта, развивающих выносливость / 
+
+Работа выполнена в рамках госзадания ИИФ А.П. Исаев, В.В. Эрлих, В.В. Епишев, Ю.Б. Ху-
+УрО РАН (тема № АААА-А18-118020590108-7). саинова // Теория и практика физ. культуры. – 
+
+Работа выполнена при финансовой под- 2015. – № 4. – С. 18–20. 
+держке ФГБОУ ВО «Мордовский государствен- 5. Исаев, А.П. Интегративная система 
+
+Человек. Спорт. Медицина  
+2018. Т. 18, № 3. С. 47–59 55 
+
+
+
+Физиология 
+биоэлементов, белков, иммунологической ре- 14. Kenneth, J.E. Bioelectrical impedance 
+зистентности, ферментативной и гормо- methods in clinical research: a follow-up to the 
+нальной активности спортсменов в условиях NIH technology assessment conference /  
+развития локально-региональной мышечной J.E. Kenneth, B.J. Stacey, G.M. Chertow // Nutri-
+выносливости на равнине и в среднегорье  tion. – 1999. – № 15. – P. 874–880.  
+в разные сезоны года / А.П. Исаев, А.С. Ами- 15. Kotler, D.P. Prediction of body cell 
+нов, В.В. Эрлих, А.В. Ненашева // Теория и mass, fat-free mass, and total body water with 
+практика физ. культуры. – 2014. – № 1. –  bioelectrical impedance analysis: effects of race, 
+С. 73–82. sex, and disease / D.P. Kotler, S. Burastero,  
+
+6. Мак-Сомас, А.Дж. Скелетные мышцы: J. Wang, R.N. Pierson // Am J Clin Nutr. – 1996. – 
+моногр. / А.Дж. Мак-Комас. – Киев: Олимп. № 64. – P. 489–497. 
+лит., 2001. – 408 с. 16. Özçakar, L. Comparative body fat as-
+
+7. Мартиросов, Э.Г. Технологии и мето- sessment in elite footballers / L. Özçakar,  
+ды определения состава тела / Э.Г. Марти- A. Çetin, B. Kunduracýo∂lu et al. // British 
+росов, Д.В. Николаев, С.Г. Руднев. – М.: Нау- Journal of Sports Medicine. – 2003. – № 37. – 
+ка, 2006. – 248 с. P. 278–279. 
+
+8. Меерсон, Ф.З. Адаптационная меди- 17. Salci, Yasar. The metabolic demands 
+цина: концепция долговременной адаптации: and ability to sustain work outputs during kick-
+моногр. / Ф.З. Меерсон. – М.: Дело, 1993. – boxing competitions / Yasar Salci // International 
+138 с. Journal of Performance Analysis in Sport. – 
+
+9. Павлова, В.И. Влияние тренировочно- 2015. – Vol. 15 (1). – P. 39–52. 
+го годичного макроцикла на состояние пери- 18. Salvatore, Chiodo. Effects of Official 
+ферического звена эритрона у юных тхэк- Taekwondo Competitions on All-Out Perfor-
+вондистов / В.И. Павлова, Д.А. Сарайкин, mances of Elite Athletes / Chiodo Salvatore, Tes-
+М.С. Терзи, Ю.Г. Камскова // Теория и прак- sitore Antonio, Cortis Cristina et al. // The Jour-
+тика физ. культуры. – 2014. – № 8. –  nal of Strength & Conditioning Research. – 
+С. 49–52. 2011. – Vol. 25 (2). – P. 334–339. 
+
+10. Терзи, М.С. Молекулярно-генетиче- 19. Shafer, K.J. Validity of segmental mul-
+ская детерминация функциональной работо- tiple-frequency bioelectrical impedance analysis 
+способности единоборцев разных квалифика- to estimate body composition of adults across 
+ций / М.С. Терзи, Е.В. Леконцев, Д.А. Сарайкин a range of body mass indexes / K.J. Shafer,  
+и др. // Теория и практика физ. культуры. – W.A. Siders, L.K. Johnson et al. // Nutrition. – 
+2016. – № 7. – С. 21–24. 2009. – № 25. – P. 25–32. 
+
+11. Claessens, M. Importance of determining 20. Sun, G. Comparison of multifrequency 
+the percentage body fat in endurance-trained bioelectrical impedance analysis with dual-energy 
+athletes / M. Claessens, C. Claessens, P. Claes- X-ray absorptiometry for assessment of per-
+sens et al. // Indian Heart J. – 2000. – № 52. –  centage body fat in a large, healthy population / 
+P. 307–314. G. Sun, C.R. French, M.R. Glynn // Am J Clin 
+
+12. Garthe, Ina. Effect of Weight Loss on Nutr. – 2005. – № 81. – P. 4–8.  
+Body Composition and Performance in Elite 21. Vardar, Selma Arzu. The Relationship 
+Athletes / Ina Garthe, Truls Raastad, Jorunn Between Body Composition and Anaerobic Per-
+Sundgot-Borgen // Human Kinetics Journals. – formance of Elite Young Wrestlers / Selma Arzu 
+2011. – Vol. 21(5). – P. 426–435. Vardar, Selin Tezel, Levent Öztürk et al. //  
+
+13. Kazemi, Mohsen. A Profile Of Olympic J Sports Sci Med. – 2007. – Oct; 6(CSSI-2). –  
+Taekwondo Competitors / Mohsen Kazemi, Ju- P. 34–38. 
+dith Waalen, Christopher Morgan, Anthony R. 22. Yoon, Jaeryang. Physiological Profiles 
+White // J Sports Sci Med. – 2006. – Jul; 5(CSSI). – of Elite Senior Wrestlers / Jaeryang Yoon // Sports 
+P. 114–121. Medicine. – 2002. – Vol. 32 (4). – P. 225–233. 
+
+ 
+ 
+
+Human. Sport. Medicine 
+56 2018, vol. 18, no. 3, pp. 47–59 
+
+
+
+Сарайкин Д.А., Хуснутдинова А.А.,              Формирование адаптации спортсменов 
+Павлова В.И. и др.             высокой квалификации к физическим нагрузкам…  
+
+Сарайкин Дмитрий Андреевич, кандидат биологических наук, доцент, доцент кафедры
+безопасности жизнедеятельности и медико-биологических дисциплин, Южно-Уральский госу-
+дарственный гуманитарно-педагогический университет. 454080, г. Челябинск, проспект Ленина, 69.
+E-mail: saraykind@cspu.ru, ORCID: 0000-0003-0298-6507. 
+
+Хуснутдинова Алина Азатовна, лаборант-исследователь Управления научно-инновационной
+деятельности, Южно-Уральский государственный университет. 454080, г. Челябинск, проспект
+Ленина, 76. E-mail: alina@fiziostep.ru, ORCID: 0000-0003-3225-0373. 
+
+Павлова Вера Ивановна, доктор биологических наук, профессор, профессор кафедры безо-
+пасности жизнедеятельности и медико-биологических дисциплин, Южно-Уральский государст-
+венный гуманитарно-педагогический университет. 454080, г. Челябинск, проспект Ленина, 69.
+E-mail: pavlovavi@cspu.ru, ORCID: 0000-0003-1347-3408. 
+
+Камскова Юлиана Германовна, доктор медицинских наук, профессор, профессор кафедры
+безопасности жизнедеятельности и медико-биологических дисциплин, Южно-Уральский государ-
+ственный гуманитарно-педагогический университет. 454080, г. Челябинск, проспект Ленина, 69.
+E-mail: kamskovaug@cspu.ru, ORCID: 0000-0003-1816-900X. 
+
+Юшков Борис Германович, член-корр. РАН, доктор медицинских наук, профессор, зав. ла-
+бораторией иммунофизиологии и иммунофармакологии, Институт иммунологии и физиологии
+УрО РАН. 620049, Екатеринбург, ул. Первомайская, 106. E-mail: b.yushkov@iip.uran.ru, ORCID:
+0000-0001-6368-0099. 
+
+ 
+Поступила в редакцию 29 мая 2018 г.
+
+ 
+__________________________________________________________________
+ 
+
+DOI: 10.14529/hsm180305
+ 
+
+ADAPTATION OF PROFESSIONAL ATHLETES  
+TO VARIOUS PHYSICAL LOADS BY MEANS  
+OF BODY COMPOSITION CHANGES 
+ 
+D.A. Saraykin1, saraykind@cspu.ru, ORCID: 0000-0003-0298-6507, 
+A.A. Khusnutdinova2, alina@fiziostep.ru, ORCID: 0000-0003-3225-0373, 
+V.I. Pavlova1, pavlovavi@cspu.ru, ORCID: 0000-0003-1347-3408, 
+Yu.G. Kamskova1, kamskovaug@cspu.ru, ORCID: 0000-0003-1816-900X, 
+B.G. Yushkov3, b.yushkov@iip.uran.ru, ORCID: 0000-0001-6368-0099 
+1South Ural State Humanitarian-Pedagogical University, Chelyabinsk, Russian Federation, 
+2South Ural State University, Chelyabinsk, Russian Federation, 
+3Institute of Immunology and Physiology of the Ural Branch of the Russian Academy of Sciences, 
+Ekaterinburg, Russian Federation 
+ 
+ 
+
+Aim. The aim of this article is to establish the model values of body composition for profes-
+sional combat athletes. Materials and methods. In the morning we measured body composition
+using Tanita BC-418 body analyzer. The study involved 3 groups of professional male athletes
+(Candidates for Master of Sport, Masters of Sport; body weight 60–75 kg) from various combat
+sports: kickboxing (n = 23), sambo and judo (n = 25), taekwondo (n = 22). Results. In judo and
+sambo athletes we revealed greater relative amount of adipose tissue (about 12%), while in kick-
+boxers and taekwondo athletes its values were within 7–9%. Taekwondo athletes demonstrated
+the lowest values of adipose tissue in arms, while its values in legs were higher than in wrestlers.
+The lowest limbs muscle mass was registered in wrestlers, taekwondo athletes demonstrated
+higher muscle mass in legs, and both kickboxers and taekwondo athletes had higher muscle mass 
+
+Чело век. Спорт. Медицина  
+2018. Т. 18, № 3. С. 47–59 57 
+
+
+
+Физиология 
+
+in arms. The difference between muscle mass in the trunk and muscle mass in legs was about
+5 kg. Together with the data obtained using Box-Whiskers/Multiple graphic construction, where
+the median and 25–75 percentiles were almost identical, this proves that there are some model
+values for the body composition of professional athletes. Correlation analysis revealed that there
+was no correlation between muscle mass and adipose tissue in the limbs of wrestlers and kick-
+boxers, while in taekwondo athletes we registered 3 correlations (р ≤ 0.05) mostly connected
+with arm muscles. Conclusion. We obtained body composition models for wrestlers, kickboxers
+and taekwondo athletes, which can allow us to individualize training process and forecast sport
+performance. 
+
+Keywords: wrestling, kickboxing, taekwondo, body composition, athlete’s model. 
+ 
+
+The study was performed with the financial support of the Ministry of Education and Science of
+the Russian Federation (grant No. 19.9733.2017/ВР). 
+
+The work was conducted as a part of the government task of the Institute of Immunology and Physio-
+logy of the Ural Branch of the Russian Academy of Science (topic No. АААА-А18-118020590108-7).  
+
+The study was performed with the financial support of the Mordovia State Pedagogical Institute named
+after M.E. Evseviev according to the contract No. 1/333 dd. 04.06.2018 “Body adaptation to the physical
+loads of various intensity”.  
+ 
+ 
+
+References 
+1. Abramova T.F., Nikitina T.M., Kochetkova N.I. Morfologicheskiye kriterii – pokazateli prigod-
+
+nosti, obshchey fizicheskoy podgotovlennosti i kontrolya tekushchey i dolgovremennoy adaptatsii k tre-
+nirovochnym nagruzkam: ucheb.-metod. posobiye [Morphological Criteria – Indicators of Fitness, Ge-
+neral Physical Preparedness and Control of Current and Long-Term Adaptation to Training Loads].
+Moscow, TVT Division Publ., 2010. 104 p. 
+
+2. Verkhoshanskiy Yu.V. Osnovy spetsial’noy fizicheskoy podgotovki sportsmenov: monogr. [Fun-
+damentals of Special Physical Training of Athletes]. Moscow, Physical Training and Sport Publ., 1988.
+327 p. 
+
+3. Epishev V.V., Ryabina K.E., Isayev A.P., Erlikh V.V. [Postural Balance Among Athletes-
+Runners at Medium Distances]. Rossiyskiy zhurnal biomekhaniki [Russian Journal of Biomechanics],
+2017, vol. 21, no. 2, pp. 166–177. (in Russ.) 
+
+4. Isayev A.P., Erlikh V.V., Epishev V.V., Khusainova Yu.B. [Physiological, Biomechanical, Mo-
+lecular-Cellular and Theoretical-Methodological Features of Designing Successful Sports Activities in
+Sports That Develop Endurance]. Teoriya i praktika fizicheskoy kul’tury [Theory and Practice of Phy-
+sical Culture], 2015, no. 4, pp. 18–20. (in Russ.) 
+
+5. Abzalilov R.Y., Rybakov V.V., Isaev A.P., Erlikh V.V. Adaptation of Junior Orienteers to
+Loads, Developing Local-Regional and Special Muscular Endurance. Pedagogics, Psychology, Me-
+dical-Biological Problems of Physical Training and Sports, 2017, no. 21 (5), pp. 200–206. DOI:
+10.15561/18189172.2017.0501 
+
+6. Mak-Somas A.Dzh. Skeletnyye myshtsy: monogr. [Skeletal Muscles. Monogr.]. Kiev, Olympic
+Literature Publ., 2001. 408 p. 
+
+7. Martirosov E.G., Nikolayev D.V., Rudnev S.G. Tekhnologii i metody opredeleniya sostava tela
+[Technologies and Methods for Determining Body Composition]. Moscow, Science Publ., 2006. 248 p. 
+
+8. Meyerson F.Z. Adaptatsionnaya meditsina: kontseptsiya dolgovremennoy adaptatsii: monogra-
+fiya [Adaptive Medicine. The Concept of Long-Term Adaptation. Monograph]. Moscow, Case Publ.,
+1993. 138 p. 
+
+9. Pavlova V.I., Saraykin D.A., Terzi M.S., Kamskova Yu.G. [Influence of the Training Yearly
+Macrocycle on the Condition of the Peripheral Link of Erythron in Young Taekwondo]. Teoriya i prak-
+tika fizicheskoy kul’tury [Theory and Practice of Physical Culture], 2014, no. 8, pp. 49–52. (in Russ.) 
+
+10. Terzi M.S., Lekontsev E.V., Saraykin D.A., Pavlov V.I., Kamskova Yu.G. [Molecular-Genetic
+Determination of the Functional Efficiency of Martial Artists of Different Qualifications]. Teoriya
+i praktika fizicheskoy kul’tury [Theory and Practice of Physical Culture], 2016, no. 7, pp. 21–24.
+(in Russ.) 
+
+ Human. Sport. Medicine 
+58 2018, vol. 18, no. 3, pp. 47–59 
+
+
+
+Сарайкин Д.А., Хуснутдинова А.А.,              Формирование адаптации спортсменов 
+Павлова В.И. и др.             высокой квалификации к физическим нагрузкам…  
+
+11. Claessens M., Claessens C., Claessens P. et al. Importance of Determining the Percentage Body 
+Fat in Endurance-Trained Athletes. Indian Heart J, 2000, no. 52, pp. 307–314. 
+
+12. Garthe I., Raastad T., Sundgot-Borgen J. Effect of Weight Loss on Body Composition and Per-
+formance in Elite Athletes. Human Kinetics Journals, 2011, vol. 21 (5), pp. 426–435. DOI: 
+10.1123/ijsnem.21.5.426 
+
+13. Kazemi M., Waalen J., Morgan Ch., White A.R. A Profile of Olympic Taekwondo Competi-
+tors. J Sports Sci Med, 2006, Jul; 5(CSSI), pp. 114–121. 
+
+14. Kenneth J.E., Stacey B.J., Chertow G.M. Bioelectrical Impedance Methods in Clinical 
+Research: a Follow-Up to the NIH Technology Assessment Conference. Nutrition, 1999, no. 15, 
+pp. 874–880.  
+
+15. Kotler D.P., Burastero S., Wang J., Pierson R.N. Prediction of Body Cell Mass, Fat-Free Mass, 
+and Total Body Water with Bioelectrical Impedance Analysis: Effects of Race, Sex, and Disease. Am J 
+Clin Nutr, 1996, no. 64, pp. 489–497. DOI: 10.1093/ajcn/64.3.489S 
+
+16. Özçakar L., Çetin A., Kunduracýo∂lu B. et al. Comparative Body Fat Assessment in Elite 
+Footballers. British Journal of Sports Medicine, 2003, no. 37, pp. 278–279. DOI: 10.1136/bjsm.37.3.278 
+
+17. Salci Yasar. The Metabolic Demands and Ability to Sustain Work Outputs During Kickboxing 
+Competitions. International Journal of Performance Analysis in Sport, 2015, vol. 15 (1), pp. 39–52. 
+DOI: 10.1080/24748668.2015.11868775 
+
+18. Salvatore C., Tessitore A., Cortis C. et al. Effects of Official Taekwondo Competitions on All-
+Out Performances of Elite Athletes. The Journal of Strength & Conditioning Research, 2011, 
+vol. 25 (2), pp. 334–339. DOI: 10.1519/JSC.0b013e3182027288 
+
+19. Shafer K.J., Siders W.A., Johnson L.K. et al. Validity of Segmental Multiple-Frequency Bio-
+electrical Impedance Analysis to Estimate Body Composition of Adults Across a Range of Body Mass 
+Indexes. Nutrition, 2009, no. 25, pp. 25–32. DOI: 10.1016/j.nut.2008.07.004 
+
+20. Sun G., French C.R., Glynn M.R. Comparison of Multifrequency Bioelectrical Impedance 
+Analysis with Dual-Energy X-Ray Absorptiometry for Assessment of Percentage Body Fat in a Large, 
+Healthy Population. Am J Clin Nutr, 2005, no. 81, pp. 4–8. DOI: 10.1093/ajcn/81.1.74 
+
+21. Vardar S.A., Tezel S., Öztürk L. et al. The Relationship Between Body Composition and Anae-
+robic Performance of Elite Young Wrestlers. J Sports Sci Med, 2007, oct; 6(CSSI-2), pp. 34–38. 
+
+22. Yoon J. Physiological Profiles of Elite Senior Wrestlers. Sports Medicine, 2002, vol. 32 (4), 
+pp. 225–233. DOI: 10.2165/00007256-200232040-00002 
+ 
+
+Received 29 May 2018 
+ 
+ 
+
+ОБРАЗЕЦ ЦИТИРОВАНИЯ  FOR CITATION 
+
+Формирование адаптации спортсменов высокой  Saraykin D.A., Khusnutdinova A.A., Pavlova V.I., 
+квалификации к физическим нагрузкам разных видов Kamskova Yu.G., Yushkov B.G. Adaptation of Profes-
+спорта путем изменения соотношения компонентов sional Athletes to Various Physical Loads by Means of 
+тела / Д.А. Сарайкин, А.А. Хуснутдинова, В.И. Пав- Body Composition Changes. Human. Sport. Medicine, 
+лова и др. // Человек. Спорт. Медицина. – 2018. – Т. 18, 2018, vol. 18, no. 3, pp. 47–59. (in Russ.) DOI: 
+№ 3. – С. 47–59. DOI: 10.14529/hsm180305 10.14529/hsm180305 
+  
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Человек. Спорт. Медицина  
+2018. Т. 18, № 3. С. 47–59 59

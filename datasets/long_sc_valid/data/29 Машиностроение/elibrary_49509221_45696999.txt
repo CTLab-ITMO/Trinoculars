@@ -1,0 +1,694 @@
+﻿УДК 621.791.14 
+doi: 10.18323/2782-4039-2022-3-1-50-60 
+ 
+
+Исследование влияния параметров режима сварки трением  
+с перемешиванием меди на механические свойства и электропроводность 
+
+сварных соединений 
+© 2022 
+
+1,3
+Атрощенко Валерий Владимирович , доктор технических наук,  
+
+заведующий кафедрой современных методов сварки и контроля конструкций 
+2,4
+
+Селиванов Алексей Сергеевич* , кандидат технических наук, начальник научно-технического отдела 
+2,5
+
+Лобачев Владислав Сергеевич , инженер научно-технического отдела 
+1,6
+
+Логачев Юрий Владимирович , магистрант 
+1,7
+
+Садрисламов Артем Радифович , магистрант 
+1
+Уфимский государственный авиационный технический университет, Уфа (Россия) 
+
+2
+ООО «Аттестационный центр СваркаТехСервис», Уфа (Россия) 
+
+ 
+3
+
+*E-mail: selivanov@naks-rb.ru ORCID: https://orcid.org/0000-0001-7145-7532 
+4ORCID: https://orcid.org/0000-0001-9631-2102 
+5ORCID: https://orcid.org/0000-0003-0615-5401 
+6ORCID: https://orcid.org/0000-0003-4575-9670 
+7ORCID: https://orcid.org/0000-0001-9528-3266 
+
+ 
+Поступила в редакцию 27.04.2022          Принята к публикации 27.07.2022 
+
+ 
+Аннотация: Медь находит широкое применение при изготовлении токоведущих деталей, в основном электро-
+
+технических шин силового оборудования. Сварка меди традиционными способами осложняется высокой тепло-
+проводностью, жидкотекучестью, значительным окислением при температуре плавления и склонностью к образо-
+ванию трещин. Одним из путей решения проблем, возникающих при сварке меди, является применение способов 
+сварки в твердой фазе, ярким представителем которых является сварка трением с перемешиванием (СТП). В рабо-
+те проведены экспериментальные исследования влияния формы рабочей части инструмента и параметров режима 
+сварки: скорости сварки, частоты вращения инструмента и угла наклона инструмента – на возможность возникно-
+вения дефектов в сварных соединениях пластин из меди марки М1 толщиной 5 мм, выполненных СТП. Приведе-
+ны результаты механических испытаний на статическое растяжение и изгиб сварных соединений с туннельным 
+дефектом и без него. Сварные соединения с туннельным дефектом показали снижение уровня механических 
+свойств: величина временного сопротивления при растяжении ниже на 33 %, а относительного удлинения –  
+на 8 %, чем у соединений без дефектов. Указан ряд факторов, влияющих на вероятность возникновения дефектов 
+при СТП: скорость сварки, частота вращения инструмента, конструкция рабочей части инструмента, угол наклона 
+инструмента, сила и глубина погружения, смещение пина, толщина заготовки и условия закрепления. Установле-
+но, что применение инструмента с конической формой заплечика с вогнутой поверхностью позволяет получить 
+сварные соединения без наружных и внутренних дефектов. На основании данных, полученных в ходе экспери-
+ментальных исследований, были определены режимы сварки, позволяющие получать сварные соединения  
+с величиной электрического сопротивления на уровне основного металла: частота вращения инструмента – 
+1250 об/мин, скорость сварки – 25 мм/мин, глубина погружения инструмента – не менее 0,41 мм. 
+
+Ключевые слова: СТП; сварка трением с перемешиванием; сварка меди; сварное соединение; механические 
+свойства; электропроводность. 
+
+Для цитирования: Атрощенко В.В., Селиванов А.С., Лобачев В.С., Логачев Ю.В., Садрисламов А.Р. Исследо-
+вание влияния параметров режима сварки трением с перемешиванием меди на механические свойства и электро-
+проводность сварных соединений // Frontier Materials & Technologies. 2022. № 3. С. 50–60. DOI: 10.18323/2782-
+4039-2022-3-1-50-60. 
+
+ 
+Одним из путей решения проблем, возникающих 
+
+ВВЕДЕНИЕ при сварке меди, является применение способов сварки 
+Медь, благодаря высокой электро- и теплопровод- в твердой фазе, ярким представителем которых являет-
+
+ности, пластичности, а также коррозионной стойко- ся сварка трением с перемешиванием (СТП). К пре-
+сти, находит широкое применение при изготовлении имуществам СТП относят возможность получения 
+токоведущих деталей, в основном электротехнических сварных соединений с мелкозернистой структурой  
+шин силового оборудования. Сварка меди традицион- и малыми остаточными деформациями, сварки неме-
+ными способами осложняется высокой теплопровод- таллических, полимерных, композитных и разнородных 
+ностью, жидкотекучестью, значительным окислением материалов [1–3]. Основной недостаток данного про-
+при температуре плавления и склонностью к образо- цесса связан с высокой стоимостью оборудования,  
+ванию трещин. а также необходимостью обеспечения значительных 
+
+5 0 Frontier Materials & Technologies. 2022. № 3-1
+
+
+
+Атрощенко В.В., Селиванов А.С., Лобачев В.С. и др.   «Исследование влияния параметров режима сварки трением…» 
+
+усилий для закрепления заготовок и высокоточного меряемая температура на стороне набегания оказалась 
+контроля и управления режимами сварки [4–6].  несколько выше, чем на стороне отхода. По результа-
+
+Технология СТП основана на возможности форми- там механических испытаний прочность на растяже-
+рования сварного соединения за счет тепловой энергии, ние и твердость сварного соединения составили около 
+возникающей в результате сил трения инструмента  60 % от основного металла. При поддержании темпе-
+и соединяемых заготовок [7]. В процессе сварки вра- ратуры в указанном диапазоне в процессе сварки ве-
+щающийся инструмент полностью погружается в заго- личина относительного удлинения сварных образцов 
+товку и обеспечивает осевое сжимающее усилие на зо- может превышать аналогичный параметр основного 
+ну перемешивания. Взаимодействие между инструмен- металла в 3 раза [13].  
+том и поверхностями заготовки создает большое коли- Кроме режимов сварки на механические свойства 
+чество тепла за счет трения, приводящее материал заго- соединений оказывают влияние условия теплоотвода от 
+товок в вязко-текучее состояние, что обеспечивает рав- свариваемых заготовок. Для сравнения микроструктуры 
+номерное обтекание пина инструмента. Происходит и механических свойств соединений, полученных с во-
+перемешивание материалов заготовок, и образуется дяным охлаждением и без него, выполнялась сварка 
+требуемый сварной шов [8–10]. Схема процесса пока- медных пластин толщиной 2 мм при частоте вращения 
+зана на рис. 1. инструмента 1600 об/мин и скоростях перемещения 50 
+
+Параметры режима СТП оказывают существенное и 100 мм/мин. При более низких частотах вращения  
+влияние на механические свойства сварных соединений и более высоких скоростях перемещения наблюдались 
+меди. Исследование влияния скорости сварки на меха- туннельные дефекты и пустоты из-за недостаточных 
+нические свойства соединений при сварке медных пла- тепловыделения и скорости течения пластифицирован-
+стин толщиной 3 мм выполнялось при частоте враще- ного материала. При этом сварка с водяным охлажде-
+ния инструмента 600 об/мин на различных скоростях нием позволила получить более мелкую микрострукту-
+сварки в диапазоне от 25 до 200 мм/мин. С увеличени- ру с увеличением показателей прочности и относитель-
+ем скорости сварки предел прочности на растяжение  ного удлинения. Механические свойства сварных со-
+и относительное удлинение соединений сначала увели- единений оказались выше, чем у основного металла,  
+чивались, а затем уменьшались, при этом скорость в отличие от соединений, полученных на воздухе при 
+сварки в диапазоне 25–150 мм/мин практически не тех же параметрах режима [14]. 
+влияла на свойства соединений. Разрушение соедине- В таблице 1 приведены рекомендуемые режимы 
+ний, полученных при указанных скоростях сварки, СТП меди для соединений в диапазоне толщин от 2  
+происходило по зонам термомеханического и термиче- до 6 мм [15]. При этом в литературных данных отсутст-
+ского влияния, а также по основному металлу [11; 12]. вует информация о таких значимых параметрах, как 
+
+На оптимальных режимах сварки предел прочности глубина погружения и угол наклона инструмента. Кро-
+при растяжении достигает 90 % прочности основного ме того, геометрические параметры инструмента также 
+материала [2]. Важным показателем качества процесса влияют на механические свойства сварных соединений 
+СТП является температура в зоне сварки. В ходе экспе- меди. Установлено, что форма пина инструмента ока-
+риментальных исследований распределения температу- зывает наибольшее влияние на течение пластифициро-
+ры при сварке медных заготовок толщиной 3,1 мм ус- ванного материала, микроструктуру и механические 
+тановлено, что температура в зоне сварки для качест- свойства сварного шва. Результаты экспериментов по-
+венного формирования сварного соединения должна казали, что надежные бездефектные соединения могут 
+находиться в диапазоне от 460 до 530 °C. При этом из- быть получены с использованием восьми различных 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Рис. 1. Схема рабочего процесса сварки трением с перемешиванием 
+Fig. 1. The scheme of a working process of friction stir welding 
+
+F rontier Materials & Technologies. 2022. № 3-1 51
+
+
+
+Атрощенко В.В., Селиванов А.С., Лобачев В.С. и др.   «Исследование влияния параметров режима сварки трением…» 
+
+Таблица 1. Рекомендуемые режимы сварки трением с перемешиванием меди [15] 
+Table 1. Recommended FSW modes for copper [15] 
+
+ 
+
+Толщина свариваемых листов Частота вращения инструмента, об/мин Скорость сварки, мм/мин 
+
+2 1600 50, 100 
+
+2 400–1150 200–800 
+
+3 900 40 
+
+3 400 100 
+
+3 600 25–150 
+
+3,1 800 30 
+
+3,1 900 50 
+
+4 1250 61 
+
+5 600, 900 25, 75 
+
+6 635 19 
+
+ 
+ 
+ 
+
+форм пина: конического, цилиндрического, конического МЕТОДИКА ПРОВЕДЕНИЯ ИССЛЕДОВАНИЯ 
+с резьбой, цилиндрического с резьбой, треугольного, Для практической реализации СТП меди использо-
+квадратного, пятиугольного и шестиугольного. В зависи- вался модернизированный консольно-фрезерный ста-
+мости от применяемой формы пина инструмента, показа- нок (рис. 2) с мощностью привода шпинделя 12 кВт. 
+тели механических свойств сварных соединений колеба- Контроль перемещений свариваемых деталей относи-
+лись на уровне 65–85 % от показателей основного метал- тельно инструмента осуществлялся с использованием 
+ла. Было обнаружено, что соединения, выполненные  устройства цифровой индикации и цифровых оптиче-
+с использованием квадратного профиля пина инструмен- ских линеек с точностью 0,005 мм. 
+та, позволили получить лучшие механические свойства Образцы для сварки изготавливались из листов меди 
+по сравнению с другими формами инструмента [16]. марки М1 толщиной 5 мм, устанавливались и закрепля-
+
+При сварке образцов из технически чистой меди лись в специализированной сварочной оснастке для 
+толщиной 4 мм использовались следующие режимы: сварки стыковых соединений. Глубина погружения ин-
+частота вращения инструмента – 1250 об/мин, скорость струмента контролировалась по величине погружения 
+сварки – 61 мм/мин, угол наклона инструмента состав- заплечика в свариваемые заготовки. 
+лял 3° [17]. По результатам испытаний прочность со- Эксперименты проводились на различных режимах 
+единений составила около 87 % от прочности основно- сварки, приведенных в таблице 2. Наряду с изменением 
+го металла. Исследование микроструктуры сварного частоты вращения инструмента и скорости сварки ус-
+шва дефектов не выявило, при этом структура сварного танавливались различные значения глубины погруже-
+шва значительно отличалась от структуры основного ния и угла наклона инструмента. 
+металла. В центральной области сварного шва наблю- Образцы контролировались на наличие внутренних 
+далась мелкая и равномерная структура. Размер зерен дефектов методом цифровой радиографии на про-
+зоны перемешивания составил примерно 100 мкм, в зо- граммно-аппаратном комплексе «Цифракон». 
+не термического влияния – 230 мкм при размере зерен Определение механических свойств сварных соеди-
+основного металла 210 мкм. В зоне сварного шва обра- нений выполнялось на образцах, сваренных с примене-
+зовалась небольшая область разупрочнения из-за мень- нием вводных и выводных планок. Это позволило ис-
+шей плотности дислокаций по сравнению с основным ключить влияние краевых эффектов на результаты ис-
+металлом. Твердость основного металла составила 105– следования. 
+110 HV. Твердость зоны сварного шва имела перемен- Для испытаний на статическое растяжение ис-
+ное значение от 60 до 90 HV [17]. пользовалась испытательная машина ИР 6055-500-0. 
+
+Неправильно выбранные параметры инструмента  Испытания на статический изгиб проводились на 
+и режимы СТП приводят к различным дефектам свар- прессе для гидравлических испытаний ПИ модифи-
+ных соединений: микро- и макротрещинам, порам, тун- кации П-50. Образцы испытывались швом наружу  
+нелям и др. [18]. и швом внутрь. 
+
+Цель работы – определение влияния параметров ре- Испытания на электросопротивление проводились  
+жимов сварки и формы инструмента на механические с использованием микроомметра МИКО-21 для высо-
+свойства и электропроводность меди при получении коточных измерений электрического сопротивления 
+бездефектных сварных соединений. постоянному току. 
+
+ 
+
+5 2 Frontier Materials & Technologies. 2022. № 3-1
+
+
+
+Атрощенко В.В., Селиванов А.С., Лобачев В.С. и др.   «Исследование влияния параметров режима сварки трением…» 
+
+ 
+ 
+
+Рис. 2. Модернизированный консольно-фрезерный станок 
+Fig. 2. Upgraded bracket milling machine 
+
+ 
+ 
+ 
+
+Таблица 2. Режимы сварки трением с перемешиванием меди 
+Table 2. FSW modes for copper 
+
+ 
+
+№ режима Частота вращения инструмента, Скорость сварки, Глубина погружения,  Угол наклона инструмента, 
+сварки об/мин мм/мин мм град. 
+
+1 900 40 0,31 1 
+
+2 900 40 0,305 2 
+
+3 900 40 0,315 3 
+
+4 1120 25 0,49 2 
+
+5 1120 25 0,415 2 
+
+6 1120 25 0,48 2 
+
+ 
+ 
+ 
+РЕЗУЛЬТАТЫ ИССЛЕДОВАНИЯ  На рис. 6 представлены микрошлифы образца без 
+
+На рис. 3 и 4 представлены сварные соединения, по- туннельного дефекта. Видно наличие мелкозернистой 
+
+лученные на различных режимах сварки. При контроле структуры в зоне перемешивания. Полученные резуль-
+
+образцов, выполненных на режимах № 1–4 (таблица 2), таты показывают, что применение рекомендуемых  
+
+обнаружен туннельный дефект (рис. 5). Анализ дефек- в литературных источниках режимов сварки без учета 
+
+тов, выявленных при исследовании макроструктуры формы применяемого инструмента приводит к образо-
+
+сварных соединений, показал, что размер туннельного ванию туннельного дефекта. 
+
+дефекта зависит от угла наклона инструмента (α). При Форма рабочей части инструмента в значительной 
+
+угле наклона инструмента α=2° наблюдается наимень- степени влияет на вероятность появления дефектов  
+
+ший по величине туннельный дефект. в сварном шве. Применение инструмента с плоской 
+
+На снимке образца, полученного с применением ин- формой заплечика приводит к формированию тун-
+струмента с плоским заплечиком (рис. 4 c), видно при- нельного дефекта во всей области исследуемых ре-
+сутствие туннельного дефекта. На образце, полученном жимов сварки. При этом переход от плоского запле-
+с использованием инструмента с конической формой чика к заплечику конической формы с вогнутой по-
+заплечика с вогнутой поверхностью (рис. 4 d), туннель- верхностью обеспечивает формирование соединения 
+ный дефект отсутствует.  меди без макродефектов. 
+
+ 
+
+F rontier Materials & Technologies. 2022. № 3-1 53
+
+
+
+Атрощенко В.В., Селиванов А.С., Лобачев В.С. и др.   «Исследование влияния параметров режима сварки трением…» 
+
+ 
+ 
+
+Рис. 3. Внешний вид образцов, полученных на режимах № 1–3 
+Fig. 3. Visual appearance of specimens produced at the modes No. 1–3 
+
+ 
+ 
+ 
+
+     
+ a b 
+
+     
+ c d 
+
+Рис. 4. Образцы, полученные на режимах № 4–5: a, b – внешний вид; c, d – цифровая радиография 
+Fig. 4. Specimens produced at the modes No. 4–5: a, b – visual appearance; c, d – digital radiography 
+
+ 
+ 
+ 
+С целью исключения краевых явлений образцы, ис- При этом соединения без дефектов показали величину 
+
+пользуемые для проведения механических испытаний, относительного удлинения выше, чем у основного метал-
+изготавливались с применением вводных и выводных ла, на 20 %, а величину временного сопротивления ниже 
+планок (рис. 7). на 17 %. Механические свойства сварного шва с туннель-
+
+На рис. 8 показаны образцы после испытаний на ным дефектом значительно отличаются от свойств безде-
+статическое растяжение. Сравнение значений механи- фектного сварного шва. Значение временного сопротив-
+ческих свойств сварных соединений и основного ме- ления при растяжении ниже на 33 %, а относительного 
+талла приведено в таблице 3. удлинения – на 8 %, чем у шва без дефектов.  
+
+На рис. 9 представлены образцы для испытаний на По результатам измерения электрического сопро-
+статический изгиб: на рис. 9 a, 9 b – сварной шов с тун- тивления сварного шва и зоны термического влияния 
+нельным дефектом, на рис. 9 c, 9 d – сварной шов без среднее значение сопротивления составило 5,205 мкОм, 
+туннельного дефекта.  а основного металла – 5,188 мкОм. Электрическое со-
+
+В ходе механических испытаний установлено, что ве- противление не превышает 0,3 % сопротивления ос-
+личина временного сопротивления при растяжении образ- новного металла, что говорит о соответствии значений 
+цов с туннельными дефектами ниже, чем у основного ме- электропроводности основного металла и сварного со-
+талла, на 24 %, а относительного удлинения – на 60 %. единения, полученного методом СТП. 
+
+5 4 Frontier Materials & Technologies. 2022. № 3-1
+
+
+
+Атрощенко В.В., Селиванов А.С., Лобачев В.С. и др.   «Исследование влияния параметров режима сварки трением…» 
+
+     
+ a b 
+
+ 
+c 
+
+Рис. 5. Макрошлифы соединений при различных углах наклона инструмента: 
+a – α=1°; b – α=2°; c – α=3° 
+
+Fig. 5. Macrosections of joints at different dip angles of a tool: 
+a – α=1°; b – α=2°; c – α=3° 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+Рис. 6. Микрошлифы образца без туннельного дефекта 
+
+Fig. 6. Microslices of a specimen without a tunnel defect 
+ 
+
+F rontier Materials & Technologies. 2022. № 3-1 55
+
+
+
+Атрощенко В.В., Селиванов А.С., Лобачев В.С. и др.   «Исследование влияния параметров режима сварки трением…» 
+
+          
+ a  b 
+
+Рис. 7. Сварное соединение для механических испытаний: a – внешний вид; b – радиографический снимок 
+Fig. 7. Welded joint for mechanical tests: a – visual appearance; b – radiograph 
+
+ 
+ 
+ 
+
+ 
+a 
+
+ 
+b 
+
+ 
+c 
+
+Рис. 8. Образцы после испытаний на статическое растяжение:  
+a – сварной шов без дефекта; b – сварной шов с дефектом; c – основный металл 
+
+Fig. 8. Specimens after static tension tests:  
+a – welded joint without a defect; b – welded joint with a defect; c – parent metal 
+
+ 
+ 
+ 
+
+Таблица 3. Результаты механических испытаний  
+Table 3. The results of mechanical tests  
+
+ 
+
+ B, МПа 10, % Угол изгиба α 
+
+Сварной шов с дефектом 239,8 2,5 – 
+
+Сварной шов без дефекта 260 7,5 123° 
+
+Основной металл 313 6,25 – 
+
+5 6 Frontier Materials & Technologies. 2022. № 3-1
+
+
+
+Атрощенко В.В., Селиванов А.С., Лобачев В.С. и др.   «Исследование влияния параметров режима сварки трением…» 
+
+ 
+a 
+
+ 
+b 
+
+     
+ c  d 
+
+Рис. 9. Образцы после проведения испытаний на статический изгиб: a, c – швом наружу; b, d – швом внутрь 
+Fig. 9. Specimens after static bending tests: a, c – seam out; b, d – seam in 
+
+ 
+ 
+ 
+ОБСУЖДЕНИЕ РЕЗУЛЬТАТОВ нических испытаний, по сравнению с образцами, сва-
+
+Образованию дефектов сварных соединений при СТП риваемыми ранее для поиска режимов сварки. 
+
+могут способствовать ряд важных факторов. К таким Результаты измерения электросопротивления пока-
+
+факторам относятся ошибочно выбранные параметры зали, что отсутствие дефектов и мелкозернистая струк-
+
+сварки: скорость сварки, частота вращения инструмен- тура сварного соединения обеспечивают высокие зна-
+
+та, конструкция рабочей части инструмента, угол на- чения электропроводности. Данный результат открыва-
+
+клона инструмента, сила и глубина погружения, сме- ет широкие перспективы применения метода СТП для 
+
+щение пина, толщина заготовки и условия закрепления. сварки электротехнических медных шин вместо широ-
+
+Таким образом, несоответствующие параметры сварки ко используемых в настоящее время высокозатратных 
+
+приводят к образованию пустот, туннелей и соедине- болтовых соединений. Это обеспечит повышение на-
+
+ний с более низкой пластичностью, в то время как оп- дежности и снижение массогабаритных показателей 
+
+тимальная скорость сварки, скорость движения инст- выпускаемого силового оборудования. 
+
+румента и правильная конструкция инструмента обес-  
+печивают более высокую прочность сварного соедине-
+ния без дефектов. Более того, если в зоне перемешива- ОСНОВНЫЕ РЕЗУЛЬТАТЫ И ВЫВОДЫ 
+
+ния не выделяется достаточное количество тепла, это 1. Установлено, что применение инструмента с ко-
+приводит к образованию таких дефектов, как туннель нической формой заплечика с вогнутой поверхностью 
+или полость [1; 3; 19; 20].  для СТП меди позволяет получить сварные соединения 
+
+Образование туннельного дефекта на вводной и вы- без наружных и внутренних дефектов.  
+водной планках, а также на начальном участке шва свя- 2. Механические свойства сварного соединения с тун-
+зано с недостаточной температурой свариваемых уча- нельным дефектом значительно отличаются от безде-
+стков соединения [13], что обусловлено высокими теп- фектного соединения. Значение временного сопротив-
+лопроводностью и теплоемкостью меди, а также значи- ления при растяжении ниже на 33 %, а относительного 
+тельными размерами свариваемых образцов для меха- удлинения – на 8 %, чем у шва без дефектов. 
+
+F rontier Materials & Technologies. 2022. № 3-1 57
+
+
+
+Атрощенко В.В., Селиванов А.С., Лобачев В.С. и др.   «Исследование влияния параметров режима сварки трением…» 
+
+3. Электропроводность сварного шва и околошов- № 8. P. 3937–3942. DOI: 10.1016/j.matdes.2010.03. 
+ной зоны и основного металла отличаются незначи- 027. 
+тельно, увеличение электрического сопротивления не 13. Hwang Y.M., Fan P.L., Lin C.H. Experimental study on 
+превышает 0,3 % относительно основного металла для Friction Stir Welding of copper metals // Journal of Ma-
+образцов без туннельного дефекта. terials Processing Technology. 2010. Vol. 210. № 12.  
+
+ P. 1667–1672. DOI: 10.1016/j.jmatprotec.2010.05.019. 
+14. Farrokhi H., Heidarzadeh A., Saeid T. Frictions stir 
+
+СПИСОК ЛИТЕРАТУРЫ  welding of copper under different welding parameters 
+1. Albannai A.I. Review the common defects in friction and media // Science and Technology of Welding and 
+
+stir welding // International journal of scientific and Joining. 2013. Vol. 18. № 8. P. 697–702. DOI: 10. 
+technology research. 2020. Vol. 9. № 11. P. 318–329. 1179/1362171813Y.0000000148. 
+
+2. Sahlot P., Singh A.K., Badheka V., Arora A. Friction 15. Атрощенко В.В., Селиванов А.С., Логачёв Ю.В., 
+stir welding of copper: numerical modeling and valida- Кагарманов Э.И., Сафиуллин Р.Ш. Современное со-
+tion // Transactions of the Indian Institute of Metals. стояние и перспективы развития сварки изделий из 
+2019. Vol. 72. № 5. P. 1339–1347. DOI: 10.1007/ меди трением с перемешиванием // Сварка и диаг-
+s12666-019-01629-9. ностика. 2021. № 2. С. 39–42. DOI: 10.52177/2071-
+
+3. Singh V.P., Patel S.K., Ranjan A., Kuriachen B. Recent 5234_2021_02_39. 
+research progress in solid state friction-stir welding of 16. Kumar A., Raju L.S. Influence of tool pin profiles on 
+aluminium-magnesium alloys: a critical review // Jour- friction stir welding of copper // Materials and Manufac-
+nal of Materials Research and Technology. 2020. Vol. 9. turing Processes. 2012. Vol. 27. № 12. P. 1414–1418. 
+№ 3. P. 6217–6256. DOI: 10.1016/j.jmrt.2020.01.008. DOI: 10.1080/10426914.2012.689455. 
+
+4. Heidarzadeh A., Paidar M., Güleryüz G., Vatankhah 17. Lee W.-B., Jung S.-B. The joint properties of copper by 
+Barenji R. Application of nanoindentation to evaluate friction stir welding // Materials Letters. 2004. Vol. 58. 
+the hardness and yield strength of brass joints produced № 6. P. 1041–1046. DOI: 10.1016/j.matlet.2003.08.014. 
+by FSW: microstructural and strengthening mechanisms // 18. Asadi P., Mirzaei M., Akbari M. Modeling of pin shape 
+Archives of Civil and Mechanical Engineering. 2020. effects in bobbin tool FSW // International Journal of 
+Vol. 20. № 2. Article number 41. DOI: 10.1007/s43452- Lightweight Materials and Manufacture. 2022. Vol. 5. 
+020-00046-w. № 2. P. 162–177. DOI: 10.1016/j.ijlmm.2021.12.001. 
+
+5. Zhang H., Wang M., Zhu Z., Zhang X., Yu T., Yang G.X. 19. Mehta K.P, Badheka V.J. A review on dissimilar fric-
+Improving the structure-property of aluminum alloy tion stir welding of copper to aluminum: process, pro-
+friction stir weld by using a non-shoulderplunge weld- perties, and variants // Materials and Manufacturing 
+ing tool // The International Journal of Advanced Manu- Processes. 2016. Vol. 31. № 3. P. 233–254. DOI: 10. 
+facturing Technology. 2016. Vol. 87. № 1-4. P. 1095– 1080/10426914.2015.1025971. 
+1104. DOI: 10.1007/s00170-016-8599-z. 20. Liua X.C., Sun Y.F., Nagira T., Ushioda K., Fujii H. 
+
+6. Akinlabi E.T., Mahamood R.M. Introduction to Friction Evaluation of dynamic development of grain structure 
+Welding, Friction Stir Welding and Friction Stir Pro- during friction stir welding of pure copper using a quasi 
+cessing // Solid-State Welding: Friction and Friction Stir in situ method // Journal of Materials Science and Tech-
+Welding Processes. Springer, 2020. P. 1–12. DOI: 10. nology. 2019. Vol. 35. № 7. P. 1412–1421. DOI: 10. 
+1007/978-3-030-37015-2_1.  1016/j.jmst.2019.01.018. 
+
+7. Zhang Y., Cao X., Larose S., Wanjara P. Review of  
+tools for friction stir welding and processing // Canadian 
+Metallurgical Quarterly. 2012. Vol. 51. № 3. P. 250– REFERENCES 
+
+261. DOI: 10.1179/1879139512Y.0000000015. 1. Albannai A.I. Review the common defects in friction 
+8. Rai R., De A., Bhadeshia H.K.D.H., DebRoy T. Re- stir welding. International journal of scientific and 
+
+view: Friction stir welding tools // Science and Tech- technology research, 2020, vol. 9, no. 11, pp. 318– 
+nology of Welding and Joining. 2011. Vol. 16. № 4.  329. 
+P. 325–342. DOI: 10.1179/1362171811Y.0000000023. 2. Sahlot P., Singh A.K., Badheka V., Arora A. Friction 
+
+9. Mishra R.S., Ma Z.Y. Friction stir welding and pro- stir welding of copper: numerical modeling and valida-
+cessing // Materials science and engineering. 2005.  tion. Transactions of the Indian Institute of Metals, 
+Vol. 50. № 1-2. P. 1–78. DOI: 10.1016/j.mser.2005.07.001. 2019, vol. 72, no. 5, pp. 1339–1347. DOI: 10.1007/ 
+
+10. Li X., Zhang Z., Peng Y., Yan D., Tan Z., Zhou Q., s12666-019-01629-9. 
+Wang K., Zhou M. Microstructure and mechanical 3. Singh V.P., Patel S.K., Ranjan A., Kuriachen B. Recent 
+properties of underwater friction stir welding of research progress in solid state friction-stir welding of 
+CNT/Al-Cu-Mg composites // Journal of Materials Re- aluminium-magnesium alloys: a critical review. Journal 
+search and Technology. 2022. Vol. 18. P. 405–415. of Materials Research and Technology, 2020, vol. 9, no. 3, 
+DOI: 10.1016/j.jmrt.2022.02.089. pp. 6217–6256. DOI: 10.1016/j.jmrt.2020.01.008. 
+
+11. Singh G., Thakur A., Singh S., Sharma N. Friction stir 4. Heidarzadeh A., Paidar M., Güleryüz G., Vatankhah 
+welding of copper: Processing and multi-objective op- Barenji R. Application of nanoindentation to evaluate 
+timization // Indian Journal of Engineering and Materi- the hardness and yield strength of brass joints produced 
+als Sciences. 2020. Vol. 27. № 3. P. 709–716. by FSW: microstructural and strengthening mecha-
+
+12. Shen J.J., Liu H.J., Cui F. Effect of welding speed on nisms. Archives of Civil and Mechanical Engineering, 
+microstructure and mechanical properties of friction stir 2020, vol. 20, no. 2, article number 41. DOI: 10. 
+welded copper // Materials and Design. 2010. Vol. 31. 1007/s43452-020-00046-w. 
+
+5 8 Frontier Materials & Technologies. 2022. № 3-1
+
+
+
+Атрощенко В.В., Селиванов А.С., Лобачев В.С. и др.   «Исследование влияния параметров режима сварки трением…» 
+
+5. Zhang H., Wang M., Zhu Z., Zhang X., Yu T., Yang G.X. 13. Hwang Y.M., Fan P.L., Lin C.H. Experimental study on 
+Improving the structure-property of aluminum alloy Friction Stir Welding of copper metals. Journal of Ma-
+friction stir weld by using a non-shoulderplunge wel- terials Processing Technology, 2010, vol. 210, no. 12, 
+ding tool. The International Journal of Advanced Manu- pp. 1667–1672. DOI: 10.1016/j.jmatprotec.2010.05.019. 
+facturing Technology, 2016, vol. 87, no. 1-4, pp. 1095– 14. Farrokhi H., Heidarzadeh A., Saeid T. Frictions stir 
+1104. DOI: 10.1007/s00170-016-8599-z. welding of copper under different welding parameters 
+
+6. Akinlabi E.T., Mahamood R.M. Introduction to Friction and media. Science and Technology of Welding and 
+Welding, Friction Stir Welding and Friction Stir Pro- Joining, 2013, vol. 18, no. 8, pp. 697–702. DOI: 10. 
+cessing. Solid-State Welding: Friction and Friction Stir 1179/1362171813Y.0000000148. 
+Welding Processes. Springer, 2020, pp. 1–12. DOI: 10. 15. Atroshchenko V.V., Selivanov A.S., Logachev Yu.V., 
+1007/978-3-030-37015-2_1.  Kagarmanov E.I., Safiullin R.Sh. Current state and pro-
+
+7. Zhang Y., Cao X., Larose S., Wanjara P. Review of spects for the development of friction stir welding of 
+tools for friction stir welding and processing. Canadian copper products. Svarka i diagnostika, 2021, no. 2,  
+Metallurgical Quarterly, 2012, vol. 51, no. 3, pp. 250– pp. 39–42. DOI: 10.52177/2071-5234_2021_02_39. 
+261. DOI: 10.1179/1879139512Y.0000000015. 16. Kumar A., Raju L.S. Influence of tool pin profiles on 
+
+8. Rai R., De A., Bhadeshia H.K.D.H., DebRoy T. Re- friction stir welding of copper. Materials and Manufac-
+view: Friction stir welding tools. Science and Technolo- turing Processes, 2012, vol. 27, no. 12, pp. 1414–1418. 
+gy of Welding and Joining, 2011, vol. 16, no. 4,  DOI: 10.1080/10426914.2012.689455. 
+pp. 325–342. DOI: 10.1179/1362171811Y.0000000023. 17. Lee W.-B., Jung S.-B. The joint properties of copper by 
+
+9. Mishra R.S., Ma Z.Y. Friction stir welding and pro- friction stir welding. Materials Letters, 2004, vol. 58, 
+cessing. Materials science and engineering, 2005,  no. 6, pp. 1041–1046. DOI: 10.1016/j.matlet.2003.08.014. 
+vol. 50, no. 1-2, pp. 1–78. DOI: 10.1016/j.mser.2005.07.001. 18. Asadi P., Mirzaei M., Akbari M. Modeling of pin shape 
+
+10. Li X., Zhang Z., Peng Y., Yan D., Tan Z., Zhou Q., effects in bobbin tool FSW. International Journal of 
+Wang K., Zhou M. Microstructure and mechanical Lightweight Materials and Manufacture, 2022, vol. 5, 
+properties of underwater friction stir welding of no. 2, pp. 162–177. DOI: 10.1016/j.ijlmm.2021.12.001. 
+CNT/Al-Cu-Mg composites. Journal of Materials Re- 19. Mehta K.P, Badheka V.J. A review on dissimilar fric-
+search and Technology, 2022, vol. 18, pp. 405–415. tion stir welding of copper to aluminum: process, pro-
+DOI: 10.1016/j.jmrt.2022.02.089. perties, and variants. Materials and Manufacturing Pro-
+
+11.  Singh G., Thakur A., Singh S., Sharma N. Friction stir cesses, 2016, vol. 31, no. 3, pp. 233–254. DOI: 10.1080/ 
+welding of copper: Processing and multi-objective op- 10426914.2015.1025971. 
+timization. Indian Journal of Engineering and Materials 20. Liua X.C., Sun Y.F., Nagira T., Ushioda K., Fujii H. 
+Sciences, 2020, vol. 27, no. 3, pp. 709–716. Evaluation of dynamic development of grain structure 
+
+12. Shen J.J., Liu H.J., Cui F. Effect of welding speed on during friction stir welding of pure copper using a quasi 
+microstructure and mechanical properties of friction stir in situ method. Journal of Materials Science and Tech-
+welded copper. Materials and Design, 2010, vol. 31, no. 8, nology, 2019, vol. 35, no. 7, pp. 1412–1421. DOI: 
+pp. 3937–3942. DOI: 10.1016/j.matdes.2010.03.027. 10.1016/j.jmst.2019.01.018.  
+
+ 
+The study of the effect of parameters of the mode of copper friction stir welding 
+
+on the mechanical properties and electrical conductivity of welded joints 
+© 2022 
+
+1,3
+Valery V. Atroshchenko , Doctor of Sciences (Engineering),  
+
+Head of Chair of Modern Methods of Welding and Structural Control 
+2,4
+
+Aleksey S. Selivanov* , PhD (Engineering), Head of Scientific and Technical Department 
+2,5
+
+Vladislav S. Lobachev , engineer of Scientific and Technical Department 
+1,6
+
+Yury V. Logachev , graduate student 
+1,7
+
+Artyom R. Sadrislamov , graduate student 
+1
+Ufa State Aviation Technical University, Ufa (Russia) 
+
+2
+Limited Liability Company “Attestation Center SvarkaTechService”, Ufa (Russia) 
+
+ 
+3
+
+*E-mail: selivanov@naks-rb.ru ORCID: https://orcid.org/0000-0001-7145-7532 
+4ORCID: https://orcid.org/0000-0001-9631-2102 
+5ORCID: https://orcid.org/0000-0003-0615-5401 
+6ORCID: https://orcid.org/0000-0003-4575-9670 
+7ORCID: https://orcid.org/0000-0001-9528-3266 
+
+ 
+Received 27.04.2022                     Accepted 27.07.2022 
+
+ 
+Abstract: Copper is widely used when producing current-conducting parts, basically the electrotechnical power equip-
+
+ment buses. Traditional ways of welding copper become complicated because of high thermal conductivity, fluidity, sig-
+nificant oxidation at fusing temperature, and susceptibility. The application of the solid-phase welding methods, a promi-
+nent representative of which is friction stir welding (FSW), is one of the ways to solve problems when welding copper. 
+The paper presents the experimental study of the influence of a tool working part shape and the welding mode parameters: 
+
+F rontier Materials & Technologies. 2022. № 3-1 59
+
+
+
+Атрощенко В.В., Селиванов А.С., Лобачев В.С. и др.   «Исследование влияния параметров режима сварки трением…» 
+
+welding rate, tool rotation frequency, and tool dip angle – on the possibility of the appearance of defects in welded joints 
+of M1 copper plates of 5 mm in thickness produced by FSW. The paper contains the results of mechanical tests on static 
+tension and bending of welded joints with a tunnel defect and without it. Welded joints with a tunnel defect showed a de-
+crease in mechanical properties level: the value of ultimate tensile strength at stretching is lower by 33 %, and the specific 
+elongation is lower by 8 % than ones of a joint without defects. The authors specify some factors influencing the appear-
+ance of defects at FSW: the welding rate, tool rotation frequency, tool working part construction, tool dip angle, strength 
+and depth of immersion, pin displacement, blank thickness, and grip conditions. The study identified that the application of 
+a tool with a concave surface taper shoulder allows producing welded joints without external and internal defects. Based 
+on data obtained during the experimental research, the authors determined the welding modes, which makes it possible to 
+produce welded joints with the electrical resistance value at the level of a parent metal: tool rotation frequency is 
+1250 rpm, welding rate is 25 mm/min, and tool immersion depth is no less than 0.41 mm.  
+
+Keywords: FSW; friction stir welding; copper welding; welded joint; mechanical properties; electrical conductivity. 
+For citation: Atroshchenko V.V., Selivanov A.S., Lobachev V.S., Logachev Yu.V., Sadrislamov A.R. The study of  
+
+the effect of parameters of the mode of copper friction stir welding on the mechanical properties and electrical conductivity 
+of welded joints. Frontier Materials & Technologies, 2022, no. 3, pp. 50–60. DOI: 10.18323/2782-4039-2022-3-1-50-60. 
+
+6 0 Frontier Materials & Technologies. 2022. № 3-1

@@ -1,0 +1,796 @@
+﻿176 А. В. Захарова; С. В. Мальцева 
+
+УДК 7.033.2
+ББК 85.11; 85.14
+DOI:10.18688/aa155-2-17
+
+А. В. Захарова; С. В. Мальцева
+
+Византия как христианская античность1 
+
+Каково отношение к античности византийского искусства? С одной стороны, оче-
+видна преемственность второго от первой; с другой стороны, очевидно и отличие или 
+даже отмежевание и противопоставление. Эта двойственность впервые была осознана 
+учеными на рубеже XIX–XX вв., когда происходило выделение византийского искусст-
+ва в самостоятельный предмет исследований. Поворот, который происходит в разви-
+тии средиземноморской культуры в эпоху поздней античности и раннего христианст-
+ва, по-разному осмысляют в своих выдающихся трудах Д. В. Айналов [1], А. Ригль [58], 
+Й. Стржиговский [63], М. Дворжак [31]2. 
+
+На протяжении XX в. ученые постоянно обращались к теме античного наследия в 
+культуре Византии. Условно можно выделить три основных подхода к ней, которые не-
+редко соединяются и продолжают развиваться в начавшемся XXI столетии. Такие уче-
+ные, как К. Вайцман [65; 66], Х. Бухталь [26], Х. Белтинг [25], Й. Стржиговский [62; 63], 
+К. Манго [45; 46], придавали большое значение поиску античных «обломков» и «цитат», 
+проблеме образцов и копий, особенно в периоды так называемых «ренессансов» — 
+Македонского и Палеологовского, когда обращение к прошлому имело программный 
+характер. Другие исследователи, стремясь акцентировать своеобразие собственно ви-
+зантийского искусства, сосредотачивались на трансформации, переосмыслении ан-
+тичных традиций в архитектуре и изобразительном искусстве как самой Византии, 
+так и входивших в ее культурную орбиту стран (О. Демус [28; 29], А. Грабар [32; 33], 
+В. Н. Лазарев [12], Р. Краутхаймер [41; 42], А. И. Комеч [5; 6], Р. Остерхут [17; 55; 56], 
+Т. Мэтьюз [51]). Третьи скорее склонны рассматривать все византийское тысячелетие 
+как продолжение жизни античной художественной традиции, одухотворенной хри-
+стианством (Э. Кицингер [39], О. С. Попова [18–20]). 
+
+Последний подход наиболее близок авторам данного сообщения. В этом небольшом об-
+зоре мы хотели бы показать на конкретных примерах, что на протяжении многих столетий 
+своего существования византийские архитектура и изобразительное искусство продол-
+жали стоять на унаследованной от античности основе, к которой было привито христиан-
+
+1 Исследование выполнено при финансовой поддержке РГНФ. «Храм Св. Софии 
+Константинопольской в свете византийских источников. Перевод и научный комментарий», проект 
+№ 14-04-00377.
+2 Литература по затронутой нами теме огромна. Не имея возможности дать в рамках 
+небольшой статьи полную библиографию, мы ограничиваемся приведением лишь наиболее важных 
+работ, в том числе включающих библиографию по теме. Библиографию по архитектурной части 
+также см.: [40].
+
+
+
+Классическое наследие в искусстве византийской ойкумены и за ее пределами 177
+
+ство. Это соединение дало новый импульс для роста и новое направление для развития все 
+той же древней цивилизации, наследие которой продолжает жить и в наши дни.
+
+***
+Для ранневизантийского периода с полной уверенностью можно говорить о не-
+
+прерывном продолжении жизни позднеантичной культуры в условиях утверждения 
+и повсеместного распространения христианства в Восточной Римской империи [38]. 
+В  области светского искусства каких-либо существенных сдвигов не происходит ни 
+в VI, ни в VII в.3.
+
+В церковном искусстве можно проследить переосмысление античных иконогра-
+фических формул, постепенный отход от принципов жизнеподобного изображения 
+трехмерной реальности на плоскости и выработку нового, более условного художе-
+ственного языка для отображения в видимых формах невидимой, трансцендентной 
+реальности [33]. Однако даже в тех случаях, где мы видим абсолютно последовательно 
+воплощенный новый тип образа, его античная основа не менее очевидна. В мозаике 
+«Преображение» в Синайском монастыре (548–565) золотой фон, статичность и отре-
+шенность персонажей, условная трактовка одежд и лиц переносит сцену в иной мир, 
+где не действуют земные законы [60, p. 73, pl. 1]. Величественная фигура Христа словно 
+соткана из света, что зримо воплощает идею преображения всей материи в некое но-
+вое, доселе неведомое вещество. Эта материя не отражает свет, как если бы он падал на 
+нее извне. Свет заменяет собой конструкцию формы, изменяет ее субстанцию и цвет. 
+При этом художник полностью сохраняет видимость объемной фигуры и правильную 
+анатомию, использует выразительные возможности языка человеческого тела. Клас-
+сический контрапост, величественная осанка, устойчивая постановка ног  — все это 
+важные составляющие художественного образа.  
+
+Балансирование на этой грани, соединяющей человеческое и божественное, стало 
+основой византийского искусства. Античные представления о человеке как единст-
+ве тела и души, понимание красоты и целесообразности природных форм переросли 
+в веру в божественное достоинство человека и его славное предназначение для вечной 
+жизни. Учение о Боговоплощении позволяет снять доселе непреодолимое противоре-
+чие между идеальным и материальным. Теперь человек и весь тварный мир мыслятся 
+как предназначенные для обожения, идеального бытия в Царствии Небесном. Искус-
+ство сосредотачивается на воплощении этого идеала, сохраняя при этом богатейший 
+арсенал унаследованных от античности выразительных средств.
+
+Иконоборчество VIII–IX вв. было тем рубежом, который отделил Византию от ан-
+тичности. Теперь античность стала восприниматься как прошлое, к которому созна-
+тельно обращаются в эпоху так называемого Македонского ренессанса (втор. пол. IX – 
+X в.) [65; 66; 25; 26]. Копирование и цитирование произведений античного искусства 
+получает распространение среди художников, работавших по заказам константино-
+польской элиты.  
+
+3  Применительно к этим произведениям существует даже термин «византийская античность», 
+введенный Л. А. Мацулевичем [52].
+
+
+
+178 А. В. Захарова; С. В. Мальцева 
+
+Однако гораздо важнее не конкретные заимствования, а принципиальное сохра-
+нение в византийском искусстве антропоцентричности, поднятой на новый уровень. 
+Телесность и материальность не отрицаются, а преображаются с помощью многих тон-
+ких приемов. Фигуры облегчаются благодаря едва заметному удлинению пропорций, 
+одежды высвечиваются изобильным сиянием, лики получают особую выразитель-
+ность и одухотворенность. Эта концепция преобладает в искусстве и средневизантий-
+ского, и поздневизантийского периодов.
+
+Даже в те десятилетия, когда на первый план в византийском искусстве выходит 
+задача выявления духовного начала в его самом строгом, аскетическом понимании, 
+античная модель остается актуальной. Как одно из буквальных доказательств можно 
+привести фреску 1030–1040-х  гг. в соборе Св. Софии в Киеве [21]. В левой части конхи 
+апсиды Георгиевского придела из-под осыпавшегося фона обнажился рисунок головы 
+(Илл. 26). Он выглядит словно проба пера художника, готовившегося написать круп-
+номасштабное изображение св. Георгия (Илл. 27). Этот рисунок очень напоминает ака-
+демические этюды головы Антиноя (Илл. 28), по которой и по сию пору художники 
+учатся воспроизводить правильные пропорции человеческого лица. Такие параллели 
+впечатляют тем больше, что мозаики и фрески Св. Софии на первый взгляд кажут-
+ся весьма далекими от античного идеала. Образный строй этого ансамбля как нель-
+зя лучше воплощает отрешенное от всего земного, надмирное бытие в вечности, для 
+чего используется предельно условный, можно сказать, абстрактный художественный 
+язык. Каждая форма словно очищается от всего изменчивого и преходящего, предста-
+вая в своем идеальном виде. И все же в основе этого художественного метода — уна-
+следованное от античности понимание структуры человеческого тела и лица, умение 
+строить их трехмерную форму подобно тому, как строится и само здание храма. Так, 
+в том же приделе в изображении св.  Георгия нос подобен колонне, брови  — аркам, 
+голова — сфере, силуэт фигуры — своду апсиды и т. д. Эта «органическая архитектони-
+ка» действительно соответствует логике построения всего ансамбля храма, в которую 
+включаются и живописные композиции, и каменные массы, и пространство, и свет. 
+Единая логика пронизывает весь ансамбль, делая его целостным образом христиан-
+ского космоса. Такое наглядное воплощение христианского мировоззрения в формах 
+архитектуры и живописи не было бы возможно без античной основы.
+
+Поздневизантийский период, как и средневизантийский, начинается с возрождения 
+интереса к классическому наследию — так называемого Палеологовского ренессанса. 
+Снова в искусстве, создававшемся при покровительстве придворных интеллектуалов — 
+византийских гуманистов, получает распространение копирование и цитирование ан-
+тичных произведений [37]. 
+
+Для этого времени характерен интерес к сложным композиционным построениям, 
+конкретизирующим пространство, к разнообразию в показе движущихся в нем фигур, 
+к передаче различных эмоциональных состояний, к воспроизведению эффектов осве-
+щения. Палеологовское искусство в целом намного более жизнеподобно, чем искус-
+ство предшествующих столетий. В основе этого жизнеподобия не подражание антич-
+ным образцам (подражание подразумевает усвоение чего-то чужого), а органичное 
+возвращение к некоторым из давно известных принципов античного искусства. И тем 
+
+
+
+Классическое наследие в искусстве византийской ойкумены и за ее пределами 179
+
+не менее в самых близких классике произведениях византийской живописи XIV в. не 
+изменяется концепция, родившаяся в начале существования христианского искусства: 
+оно изображает невидимый мир — Царствие Небесное, красота которого бесконечно 
+превосходит земной материальный мир. Это не столько противопоставление, сколько 
+включение меньшего в большее. При этом сохраняется понимание красоты как гармо-
+нии, основанной на соразмерности человеку.
+
+И даже в то время, когда в византийском обществе доминируют мистические на-
+строения, как это было во второй половине XIV  в. с распространением исихазма, 
+такое понимание высшей красоты сохраняется [18]. В  это время к классическому 
+идеалу добавляется преображающее воздействие света. В одних произведениях оно 
+акцентируется, словно творит формы из ничего. В других — гораздо более много-
+численных — гармония достигается без отказа от всей полноты классических жи-
+вописных приемов. Снова, как это было и в VI–VII, и в X–XII вв., все материальное 
+отступает на второй план, облегчается и просветляется. Яркие лучи ложатся на по-
+верхность ликов и одежд. Свет пронизывает их и изнутри, проходя через постепен-
+но высветляющиеся красочные слои, моделирующие объем. При этом используются 
+и все классические живописные средства, создающие прекрасную форму с ее орга-
+нической структурой и соразмерностью, с ее выявленной пластикой, сбалансирован-
+ным колористическим строем. 
+
+Античное наследие, одухотворенное и преображенное христианским мировоззре-
+нием, продолжает жить в византийском искусстве на протяжении всего его тысячелет-
+него пути. И даже в самом конце своего существования византийское искусство вновь 
+утверждает этот когда-то найденный идеал.
+
+***
+В истории архитектуры проблема соотношения античной и византийской тради-
+
+ций рассматривалась прежде всего с точки зрения выделения или отделения второй 
+от первой [41, p. 228–230]. Их генетическая связь прослеживалась по таким общим 
+параметрам, как типы зданий, типы конструкций, техника и декор [17; 27; 41; 45]. 
+С этой точки зрения провести границу между поздней римской и ранневизантий-
+ской архитектурой действительно достаточно сложно [45; 27]. Что же касается ви-
+зантийской архитектуры более позднего времени, то речь шла в основном о просле-
+живании путей развития собственно византийских типов храмов и о выявлении их 
+специфики [8; 42; 5; 27; 56].
+
+Очевидно, что ранневизантийская архитектура не может рассматриваться вне не-
+разрывной связи с античностью. Даже столь выдающееся и оригинальное сооруже-
+ние, как Св. София Константинопольская, и с точки зрения конструкции, и с точки 
+зрения идейного содержания представляет собою закономерный итог многовекового 
+развития греческой и римской мысли, которая в этой постройке достигла предела сво-
+их возможностей [41, p. 205–219; 44; 59; 55]. В здании нет ни одного элемента, который 
+не был бы известен ранее. И  тем не менее созданное из известных элементов целое 
+принципиально ново. В нем была полностью переосмыслена классическая тектоника 
+с ее естественным принципом построения масс снизу вверх, с ее выражением работы 
+
+
+
+180 А. В. Захарова; С. В. Мальцева 
+
+задействованных в конструкции сил через соразмерные и подобные человеку ордер-
+ные формы, с ее рациональными пропорциями и модулями. 
+
+Средоточием архитектурного образа Св.  Софии оказывается вознесенный на ог-
+ромную высоту купол, из которого словно истекают все остальные пространственные 
+формы, лишь огражденные вогнутыми поверхностями полусфер, прозрачными колон-
+надами и тонкими стенами, прорезанными огромными окнами (Илл. 29). Используя 
+весь арсенал традиций античной архитектуры, архитекторы Анфимий из Тралл и Иси-
+дор из Милета создали пространственный образ, адекватно передающий основные 
+элементы христианского мировоззрения: веру в единого Бога, в определяющее значе-
+ние нематериального, духовного начала, в его способность активно преобразовывать, 
+одухотворять материальный мир. Однако и принцип строгой иерархичности, и нали-
+чие модуля, каковым выступает здесь диаметр купола, и строгий расчет всех пропор-
+циональных соотношений, и обратная классической тектонике последовательность 
+восприятия форм, и перенос акцента с массы на пространственные формы — все это 
+есть не что иное, как продолжение жизни античного наследия в усвоившей христиан-
+ство Восточной Римской империи [56; 42; 5; 6; 43; 44; 51].
+
+Неслучайно современники, описывая здание Св.  Софии, говорили о нем прежде 
+всего как о чуде и при этом в числе важнейших его качеств называли гармонию, меру, 
+красоту. «Церковь славится несказанной красотой. Ведь в ней тонко рассчитаны тя-
+жесть и гармония размеров, нет ни избытка, ни недостатка в чем-либо, потому что ей 
+и полагается быть наряднее обычного и соразмернее неумеренного»4.
+
+В VI–VIII вв. византийская архитектура отходит от заимствованной у античности 
+базиликальной типологии. Формируется новый — крестово-купольный тип храма, ко-
+торый станет для Византии основным. Заканчивается ли на этом античность? Многие 
+исследователи проводили границу именно здесь. Однако византийская архитектурная 
+традиция распространилась на весьма обширные территории, и ее дальнейшее разви-
+тие продолжалось еще почти целое тысячелетие. Полагаем, что на протяжении всего 
+этого времени сохранение связей с античной традицией имело определяющее значе-
+ние для византийской архитектуры.
+
+Речь не идет о прямом заимствовании элементов античных зданий (так называе-
+мых сполиях) или даже о сохранении, «консервировании» античных типов зданий, 
+конструкций и декоративных элементов в удаленных от столицы регионах, многие из 
+которых в Средние века заселились народами, не имевшими прямого отношения к гре-
+ко-римской культуре.
+
+Примеров такого типа «выживания» античности в средневековой архитектуре Вос-
+точной Европы довольно много [9; 10; 11; 14; 23; 30; 35; 36; 47–50; 61; 64]. Их можно 
+определить как усвоение или, более того, постепенное вырождение античных тради-
+ций в чуждой для них среде, где формы неизбежно претерпевают упрощение и теряют 
+свой смысл. Подобного рода явления вряд ли можно считать продолжением жизни 
+античности, скорее — это ее надгробный камень. 
+
+4  Прокопий Кесарийский «О  постройках», Ι. 1. 28–29. Перевод А.  Ю.  Виноградова 
+и А. В. Захаровой по изданию: Procop. Bauten / Hrsg. O. Veh [57].
+
+
+
+Классическое наследие в искусстве византийской ойкумены и за ее пределами 181
+
+Более сложным, но и более продуктивным был путь столичной константинополь-
+ской архитектуры, не устающей постоянно экспериментировать с крестово-куполь-
+ным типом храма, осмыслять заложенные в нем возможности.
+
+При всем отличии архитектурной типологии и ее образного содержания крестово-
+купольный храм сохраняет некоторые важнейшие принципы античного зодчества: 
+строгую упорядоченность структуры, уравновешенность, гармоничность соотноше-
+ний архитектурных форм и пространственных зон, которые выстраиваются в цельную 
+иерархичную композицию.
+
+Снаружи здания выявляется его внутренняя структура. В пространственной ком-
+позиции как внутри, так и снаружи доминирует купол. В целом здание выглядит четко 
+организованным вокруг центрального ядра, подобно кристаллу. 
+
+В храмах типа вписанного креста античная соразмерность и упорядоченность еще 
+более акцентируется благодаря наличию колонн, несущих цилиндрические своды. 
+
+Эта сложная система гармоничных соотношений, лежащая в основе крестово- 
+купольного типа храма, и есть главный показатель продолжения жизни античной тра-
+диции в византийской архитектуре. 
+
+Именно эта генетическая связь с античностью определяет само понятие византий-
+ской архитектуры. Если эта связь отсутствует, то даже в тех случаях, когда воспроиз-
+водятся столичные образцы, возникает уже совершенно иной архитектурный образ. 
+
+Такова, по нашему мнению, природа появления и развития башнеобразных компо-
+зиций в древнерусской и сербской архитектуре. В обеих региональных традициях ос-
+новой башнеобразной композиции является византийский крестово-купольный тип 
+[5; 8; 15; 16; 22; 24; 27]. В нем максимально выявляются и акцентируются все те черты, 
+которые могут придать наиболее яркую и острую выразительность внешнему облику 
+храма. Это становится более важно, чем тонкая гармония и уравновешенность объе-
+мов во внутреннем пространстве, определяющая характер византийского архитектур-
+ного образа.
+
+Сохраняется принципиальная для византийской архитектуры центричность 
+и иерархичность композиции, но при этом максимально усиливается ее динамичность. 
+Способы конкретного воплощения этой идеи могут различаться, однако общность ис-
+ходной модели и общее направление поисков обуславливают то удивительное сходство 
+между русскими и славянскими балканскими храмами, которое до сих пор пытались 
+объяснить заимствованиями и влияниями [2; 13; 15; 16; 24]5. 
+
+Итак, полагаем, что на протяжении всего тысячелетнего развития византийской ар-
+хитектуры ее важнейшие сущностные характеристики обуславливала именно генети-
+ческая связь с античностью. Там, где притяжение античности ослабевало (например, 
+в удаленных провинциях или на территориях с негреческим населением), — возникали 
+своеобразные региональные традиции. Как для античной, так и для византийской ар-
+хитектуры важнейшим критерием была гармония как совершенная красота и истина. 
+Без античности нет Византии.
+
+5  Речь идет о проблемах изучения домонгольских башнеобразных и раннемосковских храмов 
+(таких как церковь Параскевы Пятницы в Чернигове, Спасский собор Андроникова монастыря и др.). 
+
+
+
+182 А. В. Захарова; С. В. Мальцева 
+
+Литература
+
+1. Айналов Д. В. Эллинистические основы византийского искусства. Исследования в области 
+истории ранневизантийского искусства. – СПб.: Тип. И. Н. Скороходова, 1900. – 229 с.
+
+2. Брунов Н. И. К вопросу о некоторых связях русской архитектуры с зодчеством южных славян 
+// Архитектурное наследство. Вып. 2. – М., 1952. – С. 3–42.
+
+3. Демус О. Мозаики византийских храмов. Принципы монументального искусства Византии / 
+Пер. с англ. Э. С. Смирновой; ред. и сост. А. С. Преображенский. – М.: Индрик, 2001. – 160 с.
+
+4. Кацнельсон Р. А. К вопросу о взаимоотношениях архитектуры восточных и южных славян и 
+Византии // Византийский временник. – Т. 12. – 1957. – С. 242–262.
+
+5. Комеч А. И. Древнерусское зодчество конца X – начала XII в. – М.: Наука, 1987. – 319 с. 
+6. Комеч А. И. Символика архитектурных форм в раннем христианстве // Искусство Западной 
+
+Европы и Византии: сб. статей. – М.: Наука, 1978. – С. 45–62.
+7. Кондаков Н. П. Византийские церкви и памятники Константинополя – М.: Индрик, 2006. – 
+
+424 с.
+8. Кораћ В., Шупут М. Архитектура византиjског света. ‒ Београд, 2005. ‒ 425 с. 
+9. Кораћ В. Jеднобродна црква са куполом у византиjскоj архитектури XI и XII века // Између 
+
+Византиjе и Запада. Одабране студиjе о архитектури. – Београд, 1987. – С. 77–85.
+10. Кораћ В. Архитектура раног средњег века у Дукљи и Зети. Программ простора и порекло обли-
+
+ка // Између Византиjе и Запада. Одабране студиjе о архитектури. – Београд: Просвета, 1987. – 
+С. 21–32.
+
+11. Кораћ В. О природи обнове и правцима развитка архитектуре у раном средњем веку у источ-
+ним и западним областима Југославије // Између Византиjе и Запада. Одабране студиjе о ар-
+хитектури. – Београд: Просвета, 1987. – С. 9–18.
+
+12. Лазарев В. Н. История византийской живописи. – М.: Искусство, 1986. – Т. 1. – 331 с. 
+13. Лазарев В. Н. Ковалевская роспись и проблема южнославянских связей в русской живописи 
+
+XIV века // Ежегодник Института истории искусств. Архитектура и живопись. М., – 1958. – 
+№. 83. – С. 233–278.
+
+14. Мальцева С. Некоторые проблемы изучения однонефных купольных построек на примере 
+средневековой сербской архитектуры // Seminarium Bulkinianum: К 75-летию со дня рожде-
+ния Валентина Александровича Булкина. СПб.: Каламос – 2012. – Т. III. – С. 42–57.
+
+15. Мальцева С. В. Балканские влияния или параллели в древнерусской архитектуре? // Ак-
+туальные проблемы теории и истории искусства: сб. научных статей. – СПб, 2012. – T.  I. – 
+С. 137–144.
+
+16.  Огнев Б. А. Некоторые проблемы раннемосковского зодчества // Архитектурное наследство. 
+№ 12. – М., 1960. – С. 45–62.
+
+17. Оустерхаут Р. Византийские строители. – Киев – М.: Корвин-Пресс, 2005. – 332 с. 
+18. Попова О. С. Аскеза и Преображение. Образы византийского и русского искусства XIV ве- 
+
+ка. – Милан: La casa di Matriona, 1996. – 109 c.
+19. Попова О. С. Аскетическое направление и классические традиции в византийском искусстве 
+
+VI–XI вв. // Византийский временник. – Т. 70. – 2011. ‒ C. 202–218.
+20. Попова О. С. Пути византийского искусства. – М.: Гамма-Пресс, 2013. – 460 с.
+21. Попова О. С., Сарабьянов В. Д. Живопись конца Χ – середины ΧΙ века // История Русского 
+
+искусства. Т. 1. Искусство Киевской Руси. IX – первая четверть XII века. – М.: Северный па-
+ломник, 2007. – С. 179–323.
+
+22. Раппопорт П.А. Внешние влияния и их роль в истории древнерусской архитектуры // Визан-
+тия и Русь. – М., 1989. – С. 39–145.
+
+23. Суботиħ Г. Архитектура и скулптура средњег века у Приморjу. – Београд: Научно дело, 
+1963. – 84 с.
+
+24. Ћурчић С. Грачаница: историjа и архитектура. Кн. 1. – Београд – Приштина: Просвета – 
+Jeдинство, 1988. – 278 с.
+
+25. Belting H. Problemi vecchi e nuovi sull’arte della cosidetta “Rinascenza Macedone” a Bisanzio // Corsi 
+di cultura sull’arte ravennate e bizantina. – 1982. – Vol. 29. – P. 31–57. 
+
+26. Buchtal H. The Miniatures of the Paris Psalter. A Study in Middle Byzantine Painting. – London: The 
+Warburg Institute, 1938. – 84 p.
+
+
+
+Классическое наследие в искусстве византийской ойкумены и за ее пределами 183
+
+27. Ćurčić S. Architecture in the Balkans from Diocletian to Süleyman the Magnificent (ca 300 – ca 1550). 
+New Haven – London, Yale University Press Publ., 2010. – 913 p.
+
+28. Demus O. Die Enstehung des Paläologenstils in der Malerei // Berichte zum XI. Internazionalen 
+Byzantinischen Kongress. IV. 2. – München: 1958. – S. 1–63.
+
+29. Demus O. L’art byzantin dans le cadre de l’art européen // L’art byzantin, art européen. – Athènes: 
+Ministère de la Présidence du Conseil, 1964. – P. 87–111.
+
+30. Dioklecijan, tetrarhija i Dioklecijanova palača o 1700. obljetnici postojanja. Zbornik radova s 
+međunarodnog simpozija održanog od 18. do 22. rujna 2005. u Splitu / N.  Cambi, J.  Belamarić, 
+T. Marasović (eds.). – Split: Književni krug, 2009. – 702 s. [88 s. tabl.].
+
+31. Dvořàk M. Katakombenmalereien. Die Anfänge der Christlichen Kunst // Dvořàk M. Kunstgeschichte 
+als Geistesgeschichte. – München: R. Piper, 1924. – S. 3–40.
+
+32. Grabar A. Christian Iconography: A Study of its Origins. – Princeton: Princeton University Press, 
+1968. – 174 p.
+
+33. Grabar A. L’âge d’or de Justinien, de la mort de Théodose à l’Islam [L’univers des formes, 10]. – Paris: 
+Gallimard, 1966. – 415 p.
+
+34. Grabar A. Le message de l’art byzantin // L’art byzantin, art européen. – Athènes: Ministère de la 
+Présidence du Conseil, 1964. – P. 49–63.
+
+35. Gunjača Z. Kontrafori, lezene i niše u starohrvatskom graditeljstvu // Starohrvatska spomenička 
+baština. Radanje prvog hrvatskog kulturnog pejzaža. Zbornik radova znanstvenog skupa održanog 
+6–8. listopada 1992. – Zagreb: 1996. – S. 65–74.
+
+36. Ivančević R. Predromanička arhitektura raščlanjena nišama — kontinuitet antike // Starohrvatska 
+spomenička baština - rađanje prvog hrvatskog kulturnog pejzaža: zbornik radova znanstvenog skupa 
+održanog 6–8. listopada 1992 / M. Jurković, T. Lukšić (eds.)‒ Zagreb: Muzejsko-galerijski centar. – 
+1996. ‒ P. 75–81. 
+
+37. Kariye Djami. Studies in the Art of the Kariye Djami ad Its Intellectial Background / О. Demus, P. A. 
+Underwood (eds.). – London: Pantheon books, 1975. – Vol. 4. – 370 p.
+
+38. Kitzinger E. Byzantine Art in the Making: Main Lines of Stylistic Development in Mediterranean Art 
+3rd–7th Century. – London: Faber and Faber, 1977. – 175 p. 
+
+39. Kitzinger E. The Hellenistic Heritage in Byzantine Art // DOP. – 1963. – Vol. 17. – P. 95–115. 
+40. Kleinbauer W. E. Early Christian and Byzantine Architecture: An Annotated Bibliography and 
+
+Historiography. – Boston, Mass: Hall Publ., 1992. – 779 p.
+41. Krautheimer R. Early Christian and Byzantine Architecture. – New Haven – London: Yale University 
+
+Press, 1986. – 553 p.
+42. Krautheimer R. Introduction to an “Iconography of Mediaeval Architecture” // Journal of the Warburg 
+
+and Courtauld Institutes. – 1942. – Vol. 5. – P. 1–33.
+43. MacDonald W. Design and technology in Hagia Sophia // The MIT Press on behalf of Perspecta. – 
+
+1957. – 4 (30). – P. 2–27.
+44. Mainstone R.-J. Hagia Sophia. Architecture, Structure and Liturgy of Justinian’s Great Church. – 
+
+New York: Thames and Hudson, 2001. – 288 p.
+45. Mango C. Byzantine Architecture. History of World Architecture. – New  York: Abrams Publ., 
+
+1976. – 383 p.
+46. Mango C. Byzantium. The Empire of New Rome. – London: Weidenfeld and Nicholson, 1980. – 33  p.
+47.  Marasović T. Prilog morfološkoj klasifikaciji ranosrednjovjekovne arhitekture // Prilozi istraživanju 
+
+starohrvatske arhitekture. – Split: Jugoslavenska akademija znanosti i umjetnosti, Kabinet za 
+urbanizam i arhitekturu, 1978. – 183 p. 
+
+48. Marasović T. Byzantine Component in the Dalmatian Architecture from the 11 to the 13 century 
+// Студеница и византиjска уметност око 1200. године: Међународни научни скуп поводом 
+800 година манастира Студенице и стогодишњице САНУ. Септембар 1986. – Београд: Српска 
+академиja наука и уметности, 1988. – С. 455–462.
+
+49. Marasović T. Dalmatia praeromanica. Ranosrednjovjekovno graditeljstvo u Dalmaciji.  3. Korpus 
+arhitekture. Srednja Dalmacija. – Split – Zagreb: Književni krug, 2011. – 647 s.
+
+50. Marasović T. Regionalizam u ranosrednjovjekovnoj arhitekturi Dalmacije // Starohrvatska prosvjeta, 
+1984. ‒ No. 14. – S. 135–158.
+
+51. Mathews Th. F. The Early Churches of Constantinople: Architecture and Liturgy. – University Park – 
+London: Pennsylvania State University Press, 1971. – 194 p.
+
+
+
+184 А. В. Захарова; С. В. Мальцева 
+
+52. Matzulevich L. A. Byzantinische Antike: Studien auf Grund der Silbergefässe der Ermitage. – Berlin, 
+Leipzig: Walter de Gruyter, 1929. – 150 S.
+
+53. Millet G. L’ancient art serbe. Les églises. ‒ Paris, 1919. ‒ 202 р.
+54. 54. Millet G. L’école grecque dans l’architecture byzantine. – Paris: E. Leroix, 1916. – 329 p.
+55. Ousterhout R. G. Building Medieval Constantinople // Proceedings of the PMR Conference. of 
+
+Pennsylvania: Departmental Papers (History of Art), University of Pennsylvania. ‒ Vol.  19–20. ‒ 
+1994–1996. ‒ P. 35–67. 
+
+56. 56. Ousterhout R. G. An Apologia for Byzantine Architecture. International Center of Medieval Art 
+// Gesta, 1996. ‒ No. 35 (1). – P. 21–33.
+
+57. Procop. Bauten / O. Veh. (hrsg.) – München: Walter de Gruyter, 1977. – 571 S. 
+58. Riegl A. Die spätrömische Kunstindustrie nach den Funden in Österreich-Ungarn im Zusammenhange 
+
+mit der Gesamtentwicklung der Bildenden Künste bei den Mittelmeervölker. – Wien: Österreich. 
+Staatsdruckerei, 1901. – 222 S. 
+
+59. Schibille N. Hagia Sophia and the Byzantine Aesthetic Experience. – Farnham: Ashgate Publishing 
+Company, 2014. – 282 p.
+
+60. Sinai. Treasures of the Monastery / K. A. Manafis. (ed.) – Athens: Ekdotike Athenon, 1990. – 400 p.
+61. Stevović I. Praevalis. Obrazovanje kulturnog prostora rasnoantičke provincije/praevalis. The Making 
+
+of Cultural Space of the Late Antique Province. – Podgorica Montenegro: Društvo arheologa Crne 
+Gore the Archaeological Society of Montenegro, 2014. – 200 p.
+
+62. Strzygowski J. Die Baukunst der Armenier und Europa. – Wien: Schroll, 1918. – Bd. I–II. – 888 S. 
+63. Strzygowski J. Orient oder Rom: Beiträge zur Geschichte der spätantiken und früchristlichen 
+
+Kunst. – Leipzig: Hinrich Verlag, 1901. – 159 S.
+64. Strzygowski J. Starohrvatska umetnost. O razvitku starohrvatske umetnosti. Prilog otkriću sjeverno-
+
+evropske umejetnosti. – Zagreb: Matica Hrvatska, 1927. – 231 S.
+65. Weitzmann K. Probleme der mittelbyzantinischen Renaissance // Archäologischer Anzeiger. 
+
+1933. – S. 336–360.
+66. Weitzmann K. The Character and Intellectual Origins of the Macedonian Renaissance // Weitzmann K. 
+
+Studies in Classical and Byzantine Manuscript Illumination. – Chicago: University of Chicago Press, 
+1971. – P. 176–223.
+
+Название статьи. Византия как христианская античность.
+Сведения об авторах. Захарова Анна Владимировна — кандидат искусствоведения, старший пре-
+
+подаватель. Московский государственный университет имени М. В. Ломоносова, ул. Ленинские Горы, 1, 
+Москва, Российская Федерация, 119991. zakharova@inbox.ru
+
+Мальцева Светлана Владиславовна — старший преподаватель. Санкт-Петербургский государст-
+венный университет, Университетская наб., 7/9, Санкт-Петербург, Российская Федерация, 199034. 
+s.maltseva@spbu.ru
+
+Аннотация. Статья посвящена проблеме отношения византийского искусства к античному. С од-
+ной стороны, очевидна преемственность одного от другого; с другой стороны, очевидно и отличие 
+или даже отмежевание и противопоставление. На протяжении XX в. ученые по-разному трактовали 
+эту проблему. Авторам статьи наиболее близок подход, рассматривающий все византийское тыся-
+челетие как продолжение жизни античной художественной традиции, одухотворенной христианст-
+вом. В статье на нескольких конкретных примерах авторы показывают, что на протяжении многих 
+столетий своего существования византийские архитектура и изобразительное искусство продол-
+жали стоять на унаследованной от античности основе. Особое внимание уделено тому, как именно 
+использовались и видоизменялись сохранившиеся от античности архитектурные или иконографиче-
+ские типы, стилистические приемы, постепенно перестроившиеся в новую художественную систему, 
+адекватную для воплощения нового содержания.
+
+Ключевые слова: византийское искусство; античное искусство; античное наследие; христианство; 
+мозаика; икона; базилика; крестово-купольный храм; Св. София Константинопольская; Св. София 
+Киевская.
+
+Title. Byzantium as Christian Antiquity. 
+Authors. Zakharova, Anna Vladimirovna — Ph. D., head lecturer, Lomonosov Moscow State University, 
+
+GSP-1, Leninskie Gory, 119991 Moscow, Russian Federation. zakharova@inbox.ru
+
+
+
+Классическое наследие в искусстве византийской ойкумены и за ее пределами 185
+
+Mal’tseva, Svetlana Vladislavovna — head lecturer. Saint Petersburg State University. Universitetskaia nab., 
+7/9, 199034 St. Petersburg, Russian Federation. s.maltseva@spbu.ru
+
+Abstract. The article is focused on the problem of the relations between art of Classical antiquity and that 
+of Byzantium. On the one hand, it is evident that the latter is the successor to the former. On the other hand, it 
+is clear that the latter is quite different, sometimes opposite to the former. Throughout the 20th century scholars 
+dealt with this issue differently. The authors of this article align with the approach that considers the Byzantine 
+millennium as the continuation of Classical tradition spiritually enriched by Christianity. This study shows 
+how some Classical architectural and iconographic models were preserved and gradually transformed into a 
+new artistic system that was able to adequately embody new religious contents.
+
+Keywords: Byzantine art; art of Classical Antiquity; Antique heritage; Christianity; mosaic; icon;  basilica; 
+cross-domed church; Hagia Sophia in Constantinople; St. Sophia in Kiev.
+
+References
+
+Ainalov D. V. Ellinisticheskie osnovy vizantiiskogo iskusstva. Issledovaniia v oblasti istorii rannevizantiiskogo 
+iskusstva (The Hellenistic Origins of Byzantine Art). St. Petersburg, Tipografiya I. N. Skorokhodova Publ., 
+1900. 229 p. (in Russian).
+
+Belting H. Problemi vecchi e nuovi sull’arte della cosidetta “Rinascenza Macedone” a Bisanzio. Corsi di 
+cultura sull’arte ravennate e bizantina, 1982, vol. 29, pp. 31–57 (in Italian). 
+
+Brunov N. I. On the issue of early Moscow architecture. Trudy sektsii arkheologii i iskusstvoznaniia 
+RANION (Proceedings section of Archeology and Art History RANION), 1928, vol. 4, pp. 93–105 (in Russian).
+
+Brunov N. I. On the issue of ties between Russian and south Slavic architecture. Arkhitekturnoe nasledstvo 
+(Arichitectural heritage), 1952, no. 2, pp. 3–42 (in Russian). 
+
+Buchtal H. The Miniatures of the Paris Psalter. A Study in Middle Byzantine Painting. London, The Warburg 
+Institute Publ., 1938. 84 p.
+
+Cambi N.; Belamarić J.; Marasović T. (eds.). Dioklecijan, tetrarhija i Dioklecijanova palača o 1700. obljetnici 
+postojanja. Zbornik radova s međunarodnog simpozija održanog od 18. do 22. rujna 2005. u Splitu (Diocletian, 
+Tetrarchy and Diocletian’s Palace on the 1700th anniversary of existence: proceedings of the international 
+conference held in Split from September 18th to 22nd 2005). Split, Književni krug Publ., 2009. 702 p.
+
+Ćurčić S. Architecture in the Balkans from Diocletian to Süleyman the Magnificent (ca. 300–ca. 1550). New 
+Haven — London, Yale University Press Publ., 2010. 913 p.
+
+Ćurčić S. Gračanica: Istorija i arhitektura (Gracanica : History and Architecture), vol. 1, Beograd, Priština – 
+Prosveta, Jedinstvo Publ., 1988. 278 p. (in Serbian).
+
+Demus O. Byzantine Mosaic Decoration: Aspects of Monumental Art in Byzantium. London, Routledge & 
+Kegan Publ., 1948. 97 p.
+
+Demus O. Die Enstehung des Paläologenstils in der Malerei. Berichte zum XI. Internazionalen 
+Byzantinischen Kongress, 1958, vol. 4, no. 2, pp. 1–63 (in German).
+
+Demus O. L’art byzantin dans le cadre de l’art européen. L’art byzantin, art européen.  Athènes, Ministère de 
+la Présidence du Conseil Publ., 1964, pp. 87–111 (in French).
+
+Dvořàk M. Katakombenmalereien. Die Anfänge der Christlichen Kunst. Kunstgeschichte als Geistesgeschichte. 
+München, R. Piper Publ., 1924, pp. 3–40 (in German).
+
+Grabar A. Christian Iconography: A Study of its Origins. Princeton, Princeton University Press Publ., 1968. 174 p.
+Grabar A. L’âge d’or de Justinien, de la mort de Théodose à l’Islam. Paris, Gallimard Publ., 1966. 415 p. (in 
+
+French).
+Grabar A. Le message de l’art byzantin. L’art byzantin, art européen.  Athènes, Ministère de la Présidence 
+
+du Conseil Publ., 1964, pp.  49–63 (in French).
+Gunjača Z. Old Croatian architecture: Counterforts, pallets and niches. Starohrvatska spomenička 
+
+baština — rađanje prvog hrvatskog kulturnog pejzaža : zbornik radova znanstvenog skupa održanog 6–8. 
+listopada 1992, Zagreb (Old Croatian architectural heritage. Creating first Croatian cultural scenery: October 
+1992, Zagreb  scientific symposium). Zagreb, Muzejsko galerijski centar Publ., 1996, pp. 65–74 (in Croatian). 
+
+Ivanćević R. Predromanićka architektura rašćlanjena nišama — kontinuitet antike. Problemi tipološke 
+klasifikacije. Starohrvatska spomenička baština, — rađanje prvog hrvatskog kulturnog pejzaža : zbornik radova 
+znanstvenog skupa održanog 6–8. listopada 1992, Zagreb (Old Croatian architectural heritage. Creating first 
+Croatian cultural scenery: October 1992, Zagreb  scientific symposium). Zagreb, Muzejsko galerijski centar 
+Publ., 1996, pp. 75–86 (in Croatian).
+
+
+
+186 А. В. Захарова; С. В. Мальцева 
+
+Katsnel’son R. A. On the issue of the relationship between Eastern and Southern Slavic architecture. 
+Vizantiiskii vremennik (ΒΥΖΑΝΤΙΝΑ ΧΡΟΝΙΚΑ), 1957, vol. 12, pp. 242–262 (in Russian).
+
+Kitzinger E. Byzantine Art in the Making: Main Lines of Stylistic Development in Mediterranean Art 3rd-7th 
+Century. London, Faber and Faber Publ., 1977. 175 p.
+
+Kitzinger E. The Hellenistic Heritage in Byzantine Art. Dumbarton Oaks Papers, 1963, vol. 17, pp. 95–115.
+Komech A. I. Drevnerusskoe zodchestvo kontsa X – nachala XII veka: Vizantiiskoe nasledie i stanovlenie 
+
+samostoiatel’noi traditsii (Old Russian Architecture in the Late Ninth — Early Twelfth Centuries. Byzantine 
+Legacy and the Emergence of Separate Tradition). Moscow, Nauka Publ., 1987. 319 p. (in Russian).
+
+Komech A. I. Symbolics of Architectural Forms in Early Christian Period. Iskusstvo Zapadnoi Evropy i 
+Vizantii (The Art of Western Europe and Byzantium). Moscow, Nauka Publ., 1978, pp. 45–62 (in Russian).
+
+Kondakov N. P. Vizantiiskie tserkvi i pamiatniki Konstantinopolia (Byzantine churches and monuments of 
+Constantinople). Moscow, Indrik Publ., 2006. 424 p. (in Russian).
+
+Korac V. Early Medieval architecture of Duclia and Zeta. The development of a volumetric composition 
+and configuration. Između Vizantije i Zapada. Odabrane studije o arhitekturi (Between Byzantium and the 
+West. Selected studies on architecture). Beograd, Prosveta Publ., 1987, pp. 21–32 (in Serbian).
+
+Korać V. Single-nave domed church in context of 11–12th century Byzantine architecture. Između Vizantije 
+i Zapada. Odabrane studije o arhitekturi (Between Byzantium and the West. Selected studies on architecture). 
+Beograd, Prosveta Publ., 1987, pp. 77–85 (in Serbian).
+
+Korac V. The birth and development of Early Medieval architecture in eastern and western parts of 
+Yugoslavia. Između Vizantije i Zapada. Odabrane studije o arhitekturi. (Between Byzantium and the West. 
+Selected studies on architecture). Beograd, Prosveta Publ., 1987, pp. 9–18 (in Serbian).
+
+Korac V.; Suput M. Byzanz. Architektur und Ornamentik. Düsseldorf, Benziger Publ., 2000. 213 p. (in German).
+Krautheimer R. Early Christian and Byzantine Architecture. New Haven — London, Yale University Press 
+
+Publ., 1986. 553 p.
+Krautheimer R. Introduction to an “Iconography of Mediaeval Architecture”. Journal of the Warburg and 
+
+Courtauld Institutes, 1942, vol. 5, pp. 1–33.
+Lazarev V. N.  Storia della pittura bizantina. Torino, Einaudi Publ., 1967. 497 p. (in Italian).
+Lazarev V. N. Frescoes of Kovalyovo and the issue of Southern Russian influence on 14th century Russian 
+
+painting. Ezhegodnik Instituta istorii iskusstv. Arkhitektura i zhivopis’  (Annual of the Institute of History of Art. 
+Architecture and painting). Moscow, 1958, pp. 233–278 (in Russian).  
+
+MacDonald W. Design and technology in Hagia Sophia. The MIT Press on behalf of Perspecta, 1957, no. 4 
+(30), pp. 2–27. 
+
+Mainstone R. J. Hagia Sophia. Architecture, Structure and Liturgy of Justinian’s Great Church.  New York, 
+Thames and Hudson Publ., 2001. 288 p.
+
+Maltseva S. The Problem of Parallels in Medieval Serbian and Russian Architecture?  Actual Problems of 
+Theory and History of Art, 2012, vol. 2, pp. С. 137–144 (in Russian). 
+
+Maltseva S. V.  Studying the Single Nave Domed Churches in the Context of Medieval Serbian Architecture. 
+Seminarium Bulkinianum III. St. Petersburg, Kalamos Publ., 2012, vol. 3, pp. 42–57 (in Russian).
+
+Manafis K. A. (ed.). Sinai. Treasures of the Monastery. Athens, Ekdotike Athenon Publ., 1990. 400 p.
+Mango C. Byzantine Architecture. History of World Architecture. New York, Abrams Publ., 1976. 383 p.
+Mango C. Byzantium. The Empire of New Rome. London, Weidenfeld and Nicholson Publ., 1980. 334 p. 
+Marasović T.  Prilog morfološkoj klasifikaciji ranosrednjovjekovne arhitekture: Prilozi istraživanju 
+
+starohrvatske arhitekture (The results of the morphological classification of Early Medieval architecture: research 
+material on Old Croatian architecture). Split, Jugoslavenska akademija znanosti i umjetnosti, Kabinet za 
+urbanizam i arhitekturu Publ., 1978. 183 p. (in Croatian). 
+
+Marasović T. Byzantine Component  in the Dalmatian Architecture from the 11 to the 13 century. Studenica 
+i vizantijska umetnost oko 1200. godine: Međunarodni naučni skup povodom 800 godina manastira Studenice 
+i stogodišnjice SANU. Septembar 1986, Beograd (Studenica and Byzantine art “around 1200”: International 
+symposium dedicated to the 800th anniversary of Studenica monastery and 100th anniversary of the Academy of 
+Science and Arts of Serbia (ASAS) September 1986, Belgrade). Beograd, Serbian Academy of Sciences and Arts 
+Publ., 1988. С. 455–462 (in Serbo-Croatian).
+
+Mathews Th. F. The Early Churches of Constantinople: Architecture and Liturgy. University Park — London, 
+Pennsylvania State University Press Publ., 1971. 194 p.
+
+Matzulevich L. A. Byzantinische Antike: Studien auf Grund der Silbergefässe der Ermitage. Berlin —Leipzig, 
+Walter de Gruyter Publ., 1929. 150 p. (in German).
+
+
+
+Классическое наследие в искусстве византийской ойкумены и за ее пределами 187
+
+Millet G. L’ancient art serbe. Les églises. Paris, E. de Boccard Publ., 1919. 208 p. (in French).
+Millet G. L’art byzantine. Histoire de l’art depuis les premiers temps chrétiens jusqu’à nos jours, vol. 1. Paris, 
+
+Flammarion Publ., 1905. 245 p. (in French). 
+Millet G. L’école grecque dans l’architecture byzantine.  Paris, E. Leroix Publ., 1916. 329 p. (in French). 
+Ognev B. A. On some issues of ancient Moscow architecture.  Arkhitekturnoe nasledstvo (Architectural 
+
+heritage), 1960, vol. 12, pp. 45–62 (in Russian).
+Ousterhout R. G. Building Medieval Constantinople. Proceedings of the PMR Conference, Departmental 
+
+Papers (History of Art) University of Pennsylvania Publ., 1994–1996, vol. 19–20, pp. 35–67.  
+Ousterhout R. G. Master Builders of Byzantium. Princeton — New Jersey, Princeton University Press Publ., 
+
+1999. 320 p.
+Ousterhout, R. An Apologia for Byzantine Architecture. International Center of Medieval Art Publ., 1996, 
+
+vol. 35 (1), pp. 21–33.
+Popova O. Ascesi e Trasfigurazione. Immagini dell’arte bizantina e russa nel XIV secolo. Milano, La casa di 
+
+Matriona Publ., 1996. 109 p. (in Italian and Russian).
+Popova O. The Ascetic Trend in Byzantine Art of the Second Quarter of the 11th Century and Its Subsequent 
+
+Fate. Nea Rome. Rivista di ricerche bizantinistiche, 2005, vol. 2, pp. 243–257.
+Popova O. S. Puti vizantiiskogo iskusstva (Paths of Byzantine Art). Moscow, Gamma-Press Publ., 2013. 460 
+
+p. (in Russian).
+Popova O. S.; Sarab’ianov V. D. Painting from the End of the 10th to the Middle of the 11th Century. Istoriia 
+
+Russkogo iskusstva. Iskusstvo Kievskoi Rusi. IX – pervaia chetvert’ XII veka (History of Russian Art. Art of 
+Kievan Rus from the 9th to the First Quarter of the 12th Century). Moscow, Severnyi palomnik Publ., 2007, vol. 
+1. pp. 179–323 (in Russian).
+
+Rappoport P. A. History of Old Russian Architecture, External  Influences and Its Role. Vizantiia i Rus’ 
+(Byzantium and Rus’). Moscow, 1989, pp. 139–145 (in Russian).
+
+Riegl A. Die spätrömische Kunstindustrie nach den Funden in Österreich-Ungarn im Zusammenhange mit 
+der Gesamtentwicklung der Bildenden Künste bei den Mittelmeervölker.  Wien, Österreichische Staatsdruckerei 
+Publ., 1901. 222 p. (in German) 
+
+Schibille N. Hagia Sophia and the Byzantine Aesthetic Experience. Farnham, Ashgate Publ., 2014.  282 p.
+Stevović I. Praevalis. Obrazovanje kulturnog prostora rasnoantičke provincije/praevalis (The Making of 
+
+Cultural Space of the Late Antique Province). Podgorica Montenegro, Društvo arheologa Crne Gore (the 
+Archaeological Society of Montenegro) Publ., 2014. 200 p. (in Serbian).
+
+Strzygowski J. Die Baukunst der Armenier und Europa, 2 vols. Wien, Schroll Publ.,1918. 888 p. (in German).
+Strzygowski J. Orient oder Rom: Beiträge zur Geschichte der spätantiken und früchristlichen Kunst. Leipzig, 
+
+Hinrich Verlag Publ., 1901. 159 p. (in German).
+Strzygowski J. Starohrvatska umetnost. O razvitku starohrvatske umetnosti. Prilog otkriću sjeverno-evropske 
+
+umejetnosti. (Old Croatian Art. On the Issue of the Development of Old Croatian Art. The Genesis Northern 
+Europian art). Zagreb, Matica Hrvatska Publ., 1927. 231 p. (in Serbian).
+
+Subotić G. Arhitektura i skulptura srednjeg veka u Primorju (Medieval sculpture of Primor’e). Beograd, 
+Nauchno delo Publ., 1963, 84 p. (in Serbian).
+
+Suić M. Antički grad na istočnom Jadranu (The Ancient City on the Eastern Adriatic). Zagreb, Golden 
+marketing Publ., 2003. 527 p. (in Croatian).
+
+Underwood P.; Demus O. (eds.). Kariye Djami. Studies in the Art of the Kariye Djami ad Its Intellectial 
+Background, vol. 4. London, Pantheon books Publ., 1975. 370 p.
+
+Veh O. (ed. and transl.). Procop. Bauten. München, Walter de Gruyter Publ., 1977. 571 p. (in Greek and 
+German).
+
+Vocotopoulos P. L. The Role of Constantinopolitan Architecture during the Middle and Late Byzantine 
+Period. Jahrbuch der Österreichischen Byzantininstik, 1981, vol. 31. no 2, pp. 551–573.
+
+Kleinbauer W. E. Early Christian and Byzantine Architecture: An Annotated Bibliography and Historiography. 
+Mass, Hall Publ, 1992. 779 p.
+
+Weitzmann K. Probleme der mittelbyzantinischen Renaissance. Archäologischer Anzeiger, 1933, pp. 336–
+360 (in German).
+
+Weitzmann K. The Character and Intellectual Origins of the Macedonian Renaissance. Studies in Classical 
+and Byzantine Manuscript Illumination. Chicago, University of Chicago Press Publ., 1971, pp. 176–223.

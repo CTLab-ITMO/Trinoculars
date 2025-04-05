@@ -1,0 +1,395 @@
+﻿Строительные материалы и изделия  2018, Том 1, №4 
+ 
+
+ 
+Кожухова Н.И., кандидат технических наук, доцент, 
+Строкова В.В., доктор технических наук, профессор, 
+
+Белгородский государственный технологический университет им. В.Г. Шухова, 
+Кожухова М.И., научный сотрудник, 
+
+Университет Висконсин-Милуоки, США, 
+Жерновский И.В., кандидат геолого-минералогических наук, профессор, 
+
+Белгородский государственный технологический университет им. В.Г. Шухова 
+ 
+
+Работа выполнена в рамках реализации Программы развития опорного университета на базе БГТУ им. 
+В.Г. Шухова с использованием оборудования на базе Центра Высоких Технологий, БГТУ им. В.Г. Шухова 
+
+ 
+СТРУКТУРООБРАЗОВАНИЕ В ЩЕЛОЧЕАКТИВИРОВАННЫХ  
+
+АЛЮМОСИЛИКАТНЫХ ВЯЖУЩИХ СИСТЕМАХ С ИСПОЛЬЗОВАНИЕМ  
+ПРИРОДНОГО СЫРЬЯ РАЗЛИЧНОЙ КРИСТАЛЛИЧНОСТИ 
+
+ 
+Аннотация: вопросы повышения эффективности применения традиционных сырьевых материалов, а 
+
+также расширения потенциальных областей практического применения нетрадиционных и альтернативных 
+видов сырья различного происхождения приобретают все больший интерес среди ученых материаловедов и 
+представителей производства. Изучение этих вопросов направлено на решение не только научных задач: 
+более глубокое понимание структуры и свойств сырья. Полученные результаты позволят решать ряд 
+технологических и технико-экономических задач. 
+
+В большей степени это актуально при работе с вновь используемыми видами сырья, а также при 
+разработке новых видов материалов. Касательно области строительного материаловедения, классическим 
+вопросом является поиск путей изучения реакционной активности сырьевых материалов в различных 
+условиях, ее направленного регулирования и, как правило, ее повышения с целью получения материалов 
+более высокого качества. 
+
+Среди распространенных и широко востребованных видов материалов строительного назначения 
+следует отметить вяжущие щелочной активации и композиты на их основе. 
+
+В работе приводятся результаты гранулометрического анализа суспензий щелочеактивированных 
+алюмосиликатов с разной степенью кристалличности. Выявлено, что в процессе щелочного воздействия 
+происходит растворение зерна алюмосиликатного компонента с образованием щелочь-алюмосиликатного 
+геля, который в зависимости от степени кристалличности алюмосиликатного сырья вступает во 
+взаимодействие с не полностью растворенным зерном по принципу сродства структур, но с различной 
+степенью активности. Установлено, что степень кристалличности алюмосиликата обратно 
+пропорциональна его растворимости в условиях высокощелочной среды. Предложена схема механизма 
+формирования геополимерной системы в процессе щелочной активации. 
+
+Ключевые слова: алюмосиликаты, степень кристалличности, структурообразование, геопо-
+лимеризация 
+
+ 
+Введение 
+
+Применение коллоидных и наноразмерных силикатных и алюмосиликатных компонентов в процессе 
+синтеза эффективных вяжущих систем является распространенной практикой среди ученых в области 
+строительного инжиниринга [1-5]. 
+
+Ранее проведенными исследованиями [6, 7], связанными с изучением факторов, оказывающих влияние 
+на способность вяжущих щелочной активации образовывать алюмосиликатные структуры, было выявлено 
+наличие широкого диапазона значимых факторов, влияющих на реакционную активность алюмосиликат-
+ных материалов техногенного происхождения, в частности зол-уноса. В свою очередь, существуют методи-
+ки, позволяющие осуществлять количественную оценку реакционной активности алюмосиликата в составе 
+геополимерного вяжущего [8, 9]. Однако, в их основе лежат расчеты, учитывающие только концентрацию 
+стеклофазы и ее параметры. Т.е. данные методики применимы только для преимущественно аморфных ма-
+териалов. 
+
+В свою очередь, значительная доля алюмосиликатного сырья для геополимерных систем характеризует-
+ся кристаллической структурой и, поэтому, требует альтернативного подхода для оценки его реакционной 
+активности в условиях высоко щелочного воздействия. 
+
+ 
+
+ 38
+
+
+
+Строительные материалы и изделия  2018, Том 1, №4 
+ 
+
+ 
+Материалы и методы 
+
+Для оценки жизнеспособности предлагаемой гипотезы были использованы три вида природных 
+алюмосиликатов с различной степенью кристалличности: 
+
+– Обсидиан – эффузивная порода кислого состава с аморфной структурой; 
+– Перлит – эффузивная порода кислого состава со скрытокристаллической структурой; 
+– Гранит – интрузивная полиминеральная порода кислого состава, характеризующаяся полнокристалли-
+
+ческой структурой. 
+Помол обсидиана, перлита и гранита осуществлялся в планетарной мельнице, в течение 1,5 часов.  
+Для приготовления щелочеалюмосиликатных суспензий от каждой пробы измельченного алюмосили-
+
+катного материала были взяты равные навески массой 50 г, помещены в стеклянные колбы и смешаны с 50-
+% водным раствором NaOH. 
+
+Полученные суспензии были установлены на перемешивающее устройство LS-110 и подвержены пере-
+мешиванию в течение 3 суток. Оценка гранулометрии, удельной поверхности и среднего размера частиц 
+для измельченных образцов алюмосиликатов осуществлялась с помощью лазерного ана-лизатора размеров 
+частиц ANALYSETTE 22 NanoTec plus. 
+
+ 
+Результаты и обсуждения 
+
+В основу проведенного исследования положена гипотеза о том, что при щелочной активации процесс 
+растворения алюмосиликатных частиц идет постепенно, начиная с поверхностных слоев. В результате об-
+разуется щелочеалюмосилиткатный гель, который является связующей основой для дальнейшего процесса 
+геополимеризации. В свою очередь, степень кристалличности алюмосиликатного компонента значительно 
+влияет на степень его растворимости в высокощелочной среде. 
+
+Для апробации предложенной гипотезы были определены средний размер частиц алюмосиликатов и их 
+удельная поверхность в исходном состоянии и после щелочной активации (табл. 1). 
+
+Согласно полученным результатам гранулометрического анализа для гранита после его щелочной акти-
+вации фиксируется смещение среднего размера частиц в область малых значений относительно аналогич-
+ных значений для гранита до активации. Это, вероятно, вызвано частичным раство-рением зерен гранита, 
+приводящим к уменьшению их размеров. 
+
+Таблица 1 
+Динамика изменения размера частиц и удельной поверхности  
+
+твердой фазы перлита после его щелочной активации 
+Средний размер Удельная поверхность, 
+
+№ Тип  частиц, мкм Прирост, м2/кг Прирост, 
+алюмосиликата до  после  % до акти- после ак- % 
+
+активации активации вации тивации 
+1 Гранит 11 9 –16 910 1003 10 
+2 Перлит 11 14 21 838 774 –7 
+3 Обсидиан 14 17 23 785 642 –18 
+
+ 
+
+В то же время, в щелочеактивированных суспензиях с использованием перлита и обсидиана наблюдает-
+ся тенденция к увеличению среднего размера частиц, относительно этих данных до активации. 
+
+Следует отметить, что чем больше в системе аморфной составляющей, тем выше ее активность, и тем 
+выше степень растворения тонкой фракции и тем больше толщина образующегося поверхностного слоя. 
+Данное предположение подтверждают результаты анализа среднего раз-мера частиц и удельной поверхно-
+сти твердой фазы в табл. 1, где для обсидиана, структура которого представлена стеклофазой, интенсив-
+ность снижения удельной поверхности (23,4%) и увеличения среднего размера (15,3%) после щелочной ак-
+тивации выше по сравнению с перлитом, который характеризуется скрытокристаллической структурой 
+(снижение удельной поверхности и увеличение среднего размера после щелочной активации составило 21,3 
+и 7,6%, соответственно). 
+
+При этом, в гранитной суспензии в силу кристаллической структуры гранита и, как следствие, его более 
+низкой реакционной активности в условиях щелочного воздействия, преимущественно имеет место про-
+цесс растворения частиц. При этом химического взаимодействия растворенной коллоидной субстанции с 
+нерастворенными зернами породы практически не происходит. В связи с этим после химической активации 
+гранита наблюдается увеличение удельной поверхности на 10,2% и уменьшение среднего размера частиц 
+на 16,6%. 
+ 39
+
+
+
+Строительные материалы и изделия  2018, Том 1, №4 
+ 
+
+ 
+Данная закономерность вызвана тем, что в процессе растворения твердая фаза (преимущественно, наибо-
+
+лее мелкая фракция) переходит в коллоидный раствор, формируя гелеобразную субстанцию, которая в силу 
+размерных особенностей не фиксируется лазерным анализатором. Этот эффект подтверждается исчезновени-
+ем пиков в малоразмерной области распределения (3-5 мкм) в щелочеактивированных суспензиях, которые 
+фиксировались до активации в обоих системах (рис. 1). 
+
+Учитывая принцип работы лазерного анализатора, образующийся Na(K)2O-алюмосиликатный гель явля-
+ется невидимым для прибора. 
+
+Однако, данная коллоидная субстанция вступает во взаимодействие с поверхностью нерастворенных ча-
+стиц [10-12], формируя поверхностный слой, химически связанный с нерастворенными частицами алюмо-
+силиката (перлита и обсидиана). За счет наличия химического взаимодействия в комплексе «поверхност-
+ный слой – нерастворенная частица» (рис. 2), а также при условии разности плотностей дисперсионной 
+среды исследуемых суспензий (вода), лазерный анализатор воспринимает данную систему как единое це-
+лое. При этом наблюдаемое смещение правой части кривой размерного распределения в область больших 
+размеров может быть связано с тем, что интенсивность растворения более мелкой фракции с образованием 
+коллоидной (гелеобразной субстанции) значительно выше растворения более крупных зерен, для которых 
+характерно постепенное поверхностное растворение. За счет этого толщина поверхностного слоя, форми-
+рующегося из коллоидной субстанции, превышает толщину слоя, растворенного с поверхности крупных 
+зерен. 
+
+ 
+
+ 
+
+ 40
+
+
+
+Строительные материалы и изделия  2018, Том 1, №4 
+ 
+
+ 
+
+ 
+Рис. 1. Сравнительный анализ гранулометрического распределения частиц перлита  
+
+различной степени дисперсности до и после щелочной активации 
+ 
+
+Таким образом, в случае гранита, после его активации наблюдается увеличение удельной поверхности 
+твердой фазы и снижение среднего размера частиц. 
+
+В случае перлита и, в большей степени, обсидиана, щелочная активация приводит к обратному эффекту: 
+снижению удельной поверхности и увеличению среднего размера частиц твердой фазы. 
+
+ 
+Рис. 2. Схема механизма формирования системы «гелеобразный слой –  
+
+нерастворенное зерно материала» в процессе щелочной активации 
+ 
+
+На основании полученных данных гранулометрического анализа, в рамках исследования предложена 
+схема структурообразования алюмосиликатов при геополимеризации, которая состоит из одновременной 
+реализации 2 процессов: растворение алюмосиликатной составляющей и формирование щелочеалюмоси-
+ликатного геля; химическое взаимодействие щелочеалюмосиликатного геля с частицами нерастворенного 
+алюмосиликата с образованием комплексов «гелеобразный слой – нерастворенное зерно материала». 
+
+Чем ниже степень кристалличности алюмосиликата, тем интенсивней процесс растворения алюмосили-
+катных частиц и тем больше толщина поверхностного гелеобразного слоя в образующемся комплексе. 
+
+ 
+Выводы 
+
+Степень кристалличности алюмосиликата обратно пропорциональна его реакционной активности, 
+которая проявляется как степень его растворимости в условиях высокощелочной среды. На основании 
+этого предложена схема геополимеризации щелочеалюмосиликатной системы «гелеобразный слой – 
+нерастворенное зерно материала» в процессе щелочной активации. 
+
+ 
+Литература 
+
+1. Новые данные о наноразмерном фазообразовании в вяжущей системе «гипс – известь» / И.В. 
+Жерновский, Н.И. Кожухова, А.В. Череватова и др. // Строительные материалы. 2016. №7. С. 9 – 12. 
+
+2. Алюмосиликатное наноструктурированное вяжущее на основе гранитного сырья / И.В. Жерновский, 
+М.С. Осадчая, А.В. Череватова и др. // Строительные материалы. 2014. №1-2. С. 38 – 41 
+
+3. Управление структурообразованием гипсокремнеземистых вяжущих при получении жаростойких 
+композитов / И.В. Жерновский, Н.И. Кожухова, А.В. Череватова и др. // Строительные материалы. 2018. 
+№8. С. 4 – 8. 
+
+ 41
+
+
+
+Строительные материалы и изделия  2018, Том 1, №4 
+ 
+
+ 
+4. Galindo Izquierdo M., Querol X., Davidovits J., Antenucci D., Nugteren H. W., Fernández-Pereira C. Coal 
+
+fly ash-slag-based geopolymers: microstructure and metal leaching // Journal of hazardous materials. 2009. 166 (1). 
+P. 561 – 566. 
+
+5. Кожухова Н.И., Жерновский И.В., Соболев К.Г. Влияние различий рентгеноаморфной фазы в составе 
+низкокальциевых алюмосиликатов на прочностные характеристики геополимерных систем // Вестник 
+Белгородского государственного технологического университета им. В.Г. Шухова. 2018. №4. С. 5 – 12. 
+
+6. Shekhovtsova J., Zhernovsky I., Kovtun M., Kozhukhova N., Zhernovskaya I., Kearsley P E. Estimation of 
+fly ash reactivity for use in alkali-activated cements – a step towards sustainable building material and waste 
+utilization // Journal of Cleaner Production. 2018. 178. P. 22 – 33. 
+
+7. Sobolev K. Modern developments related to nanotechnology and nanoengineering of concrete // Frontiers of 
+Structural and Civil Engineering. 2016. 10 (2). P. 131 – 141. 
+
+8. Vivian F.-I., GK Pradoto R., Moini M., Kozhukhova M., Potapov V., Sobolev K. The effect of SiO2 
+nanoparticles derived from hydrothermal solutions on the performance of portland cement based materials // 
+Frontiers of Structural and Civil Engineering. 2017. 11 (4). P. 436 – 445. 
+
+9. Wang Y.S., Provis J.L., Dai J.G. Role of soluble aluminum species in the activating solution for synthesis of 
+silico-aluminophosphate geopolymers // Cement and Concrete Composites. 2018. 93. P. 186 – 195. 
+
+10. Davidovits J. Recent Progresses in Concretes for Nuclear Waste and Uranium Waste Containment // 
+Concrete International. 1994. 16 (12). P. 53 – 58. 
+
+11. Новые геополимерные материалы из горных пород, активированные малыми добавками шлаков и 
+щелочей / В.И. Калашников, Н.И. Хвастунов, А.А. Мактридин и др. // Строительные материалы. 2006. №6. 
+С. 93 – 95. 
+
+12. Pacheco-Torgal F., Castro-Gomes J., Jalali S. Alkali-activated binders: A review Part 1. Historical 
+background, terminology, reaction mechanisms and hydration products // Construction and Building Materials. 
+2008. №22. P. 1305 – 1314. 
+
+ 
+References 
+
+1. Novye dannye o nanorazmernom fazoobrazovanii v vyazhushchej sisteme «gips – izvest'» / I.V. ZHernovskij, 
+N.I. Kozhuhova, A.V. CHerevatova i dr. // Stroitel'nye materialy. 2016. №7. S. 9 – 12. 
+
+2. Alyumosilikatnoe nanostrukturirovannoe vyazhushchee na osnove granitnogo syr'ya / I.V. ZHernovskij, M.S. 
+Osadchaya, A.V. CHerevatova i dr. // Stroitel'nye materialy. 2014. №1-2. S. 38 – 41 
+
+3. Upravlenie strukturoobrazovaniem gipsokremnezemistyh vyazhushchih pri poluchenii zharostojkih 
+kompozitov / I.V. ZHernovskij, N.I. Kozhuhova, A.V. CHerevatova i dr. // Stroitel'nye materialy. 2018. №8. S. 4 – 
+8. 
+
+4. Galindo Izquierdo M., Querol X., Davidovits J., Antenucci D., Nugteren H. W., Fernández-Pereira C. Coal 
+fly ash-slag-based geopolymers: microstructure and metal leaching // Journal of hazardous materials. 2009. 166 (1). 
+P. 561 – 566. 
+
+5. Kozhuhova N.I., ZHernovskij I.V., Sobolev K.G. Vliyanie razlichij rentgenoamorfnoj fazy v sostave nizkoka-
+l'cievyh alyumosilikatov na prochnostnye harakteristiki geopolimernyh sistem // Vestnik Belgorodskogo gosudar-
+stvennogo tekhnologicheskogo universiteta im. V.G. SHuhova. 2018. №4. S. 5 – 12. 
+
+6. Shekhovtsova J., Zhernovsky I., Kovtun M., Kozhukhova N., Zhernovskaya I., Kearsley P E. Estimation of 
+fly ash reactivity for use in alkali-activated cements – a step towards sustainable building material and waste utili-
+zation // Journal of Cleaner Production. 2018. 178. P. 22 – 33. 
+
+7. Sobolev K. Modern developments related to nanotechnology and nanoengineering of concrete // Frontiers of 
+Structural and Civil Engineering. 2016. 10 (2). P. 131 – 141. 
+
+8. Vivian F.-I., GK Pradoto R., Moini M., Kozhukhova M., Potapov V., Sobolev K. The effect of SiO2 nanopar-
+ticles derived from hydrothermal solutions on the performance of portland cement based materials // Frontiers of 
+Structural and Civil Engineering. 2017. 11 (4). P. 436 – 445. 
+
+9. Wang Y.S., Provis J.L., Dai J.G. Role of soluble aluminum species in the activating solution for synthesis of 
+silico-aluminophosphate geopolymers // Cement and Concrete Composites. 2018. 93. P. 186 – 195. 
+
+10. Davidovits J. Recent Progresses in Concretes for Nuclear Waste and Uranium Waste Containment // Con-
+crete International. 1994. 16 (12). P. 53 – 58. 
+
+11. Novye geopolimernye materialy iz gornyh porod, aktivirovannye malymi dobavkami shlakov i shchelochej / 
+V.I. Kalashnikov, N.I. Hvastunov, A.A. Maktridin i dr. // Stroitel'nye materialy. 2006. №6. S. 93 – 95. 
+
+12. Pacheco-Torgal F., Castro-Gomes J., Jalali S. Alkali-activated binders: A review Part 1. Historical back-
+ground, terminology, reaction mechanisms and hydration products // Construction and Building Materials. 2008. 
+№22. P. 1305 – 1314. 
+ 42
+
+
+
+Строительные материалы и изделия  2018, Том 1, №4 
+ 
+
+ 
+Kozhukhova N.I., Candidate of Engineering Sciences (Ph.D.), Associate Professor, 
+
+Strokova V.V., Doctor of Engineering Sciences (Advanced Doctor), Professor, 
+Belgorod State Technological University named after V.G. Shukhov 
+
+Kozhukhova M.I., Research Officer, 
+University Of Wisconsin-Milwaukee, USA, 
+
+Zhernovsky I.V., Candidate of Geological and Mineralogical Sciences (Ph.D.), Professor, 
+Belgorod State Technological University named after V.G. Shukhov 
+
+ 
+STRUCTURE FORMATION IN ALKALI ACTIVATED ALUMINOSILICATE BINDING SYSTEMS 
+
+USING NATURAL RAW MATERIALS WITH DIFFERENT CRYSTALLINITY DEGREE 
+ 
+Abstract: the efficiency of traditional raw materials using as well as expanding of potential uses for non-
+
+conventional and alternative raw materials with different origin is the tasks exiting interest among material 
+scientists and manufacture stuff. Investigation of the above is oriented on solution of such scientific problem as 
+more deep understanding of structure and features of material. The results obtained also allow solution of some 
+technological, technical and economical tasks. 
+
+Greatly, it is actual when using of new types of raw materials as well as when synthesis of new composites. 
+Concerning the construction material science field, the classic problem is the looking for ways to study the 
+reactivity of raw components under different conditions, its control and, generally, its increasing to produce higher 
+performance materials. 
+
+Among the popular and widely-used construction materials are alkali-activated binders and relevant composites. 
+In this study the results of granulometric analysis of suspension based on alkali-activated aluminosilicate with 
+
+different crystallinity degree are presented. It was found, when treatment of aluminosilicate grain by alkali activator 
+leads to the grain solubilizing (but differently depending on crystallinity degree of aluminosilicate) and formation 
+of alkali-aluminosilicate gel that reacts with unreacted part of the grain according to structure affinity principle. It 
+was also determined the crystallinity degree of aluminosilicate component is inversely proportional to its solubility 
+in highly-alkali environment. The model of structure formation for geopolymer system under alkali effect is 
+offered. 
+
+Keywords: alumisilicates, crystallinity degree, structure formation, geopolymerization 
+ 
+Для цитирования: Кожухова Н.И., Строкова В.В., Кожухова М.И., Жерновский И.В. 
+
+Структурообразование в щелочеактивированных алюмосиликатных вяжущих системах с использованием 
+природного сырья различной кристалличности // Строительные материалы и изделия. 2018. Том 1. №4. С. 
+38 – 43. 
+
+ 
+Для цитирования в SCOPUS и Web of Science: Kozhukhova N.I., Strokova V.V., Kozhukhova M.I., 
+
+Zhernovsky I.V. Structure formation in alkali activated aluminosilicate binding systems using natural raw materials 
+with different crystallinity degree // Construction Materials and Products. 2018. Volume 1. Issue 4. P. 38 – 43. 
+
+ 43

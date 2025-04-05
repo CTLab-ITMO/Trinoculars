@@ -1,0 +1,694 @@
+﻿ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+Обработка металлов (технология • оборудование • инструменты). 2022 Том 24 № 1 с. 48–60
+ISSN: 1994-6309 (print) / 2541-819X (online)
+DOI: 10.17212/1994-6309-2022-24.1-48-60
+
+Обработка металлов
+(технология • оборудование • инструменты)
+
+Сайт журнала: http://journals.nstu.ru/obrabotka_metallov
+
+Влияние механической активации порошка вольфрама на структуру 
+и свойства спеченного материала Sn-Cu-Co-W
+
+Александр Озолин a, *, Евгений Соколов b
+
+Кубанский государственный технологический университет, ул. Московская, 2, г. Краснодар, 350072, Россия
+a  https://orcid.org/0000-0002-0173-1716,  ozolinml@yandex.ru, b  https://orcid.org/0000-0002-7229-228X,  e_sokolov.07@mail.ru
+
+И Н Ф О РМ А Ц И Я  О  С ТАТ Ь Е А Н Н О ТА Ц И Я
+
+УДК 621.762.04 Введение. Одним из методов повышения свойств спеченных материалов является механоакти-
+вация порошков, обеспечивающая измельчение порошков, изменение их энергетического состояния, 
+
+История статьи: интенсификацию спекания порошковых материалов и формирование в них мелкозернистой структу-
+Поступила: 14 октября 2021 ры. При механоактивации вольфрамовых порошков в центробежных шаровых мельницах возможно 
+Рецензирование: 02 ноября 2021 образование наночастиц, обладающих высокой реакционной способностью. Цель работы – изучение 
+Принята к печати: 07 декабря 2021 влияния механоактивации частиц вольфрама на структуру и свойства спеченного порошкового мате-
+Доступно онлайн: 15 марта 20227 риала Sn-Cu-Co-W. Методика исследования. Механическую активацию порошка вольфрама марки 
+
+W16,5 осуществляли на центробежной шаровой мельнице АГО-2У в течение 5…120 мин с частотами 
+Ключевые слова: вращения водила 400…1000 об/мин. Смесь порошков вольфрама, олова, меди и кобальта уплотняли 
+Механическая активация статическим прессованием в пресс-формах и спекали в вакууме при 820 °С. Морфологию и размеры 
+Наночастицы частиц порошков, а также структуру спеченных образцов изучали с помощью сканирующей электрон-
+Вольфрам ной микроскопии, микрорентгеноспектрального анализа и оптической металлографии. Пористость 
+Жидкофазное спекание спеченных образцов определяли весовым методом. Измеряли микротвердость структурных состав-
+Металлическая связка ляющих и макротвердость спеченных материалов. Результаты и обсуждения. При исследованных 
+Алмазно-абразивный инструмент режимах механоактивация сопровождается образованием наночастиц вольфрама с минимальным раз-
+
+мером 25 нм. Вместе с этим порошок подвергается наклепу, что затрудняет дальнейшее измельчение. 
+Финансирование: Наночастицы вольфрама, обладающие высокой поверхностной энергией, оказывают заметное влияние 
+Исследование выполнено при фи- на растворение-осаждение кобальта при жидкофазном спекании порошкового материала Sn-Cu-Co-W. 
+нансовой поддержке Совета по Введение в материал нанодисперсного вольфрама замедляет рост частиц кобальта при спекании и 
+грантам Президента Российской способствует получению мелкозернистой структуры. Спеченный материал Sn-Cu-Co-W, содержащий 
+Федерации для государственной механоактивированный вольфрам, обладает повышенной твердостью 105…107 HRB, что объясняется 
+поддержки молодых российских наклепом частиц вольфрама и дисперсионным упрочнением. Результаты могут быть использованы 
+ученых и по государственной под- для повышения механических свойств сплавов Sn-Cu-Co-W, применяемых в качестве металлических 
+держке ведущих научных школ связок алмазно-абразивных инструментов.
+Российской Федерации, № СП-
+5863.2021.1.
+
+Для цитирования: Озолин А.В., Соколов Е.Г. Влияние механической активации порошка вольфрама на структуру и свойства 
+спеченного материала Sn-Cu-Co-W // Обработка металлов (технология, оборудование, инструменты). – 2022. – Т. 24, № 1. – С. 48–
+60. – DOI: 10.17212/1994-6309-2022-24.1-48-60.
+
+Введение
+Сплавы Sn-Cu-Co и Sn-Cu-Co-W применя-
+
+______ ются в качестве металлических связок алмаз-
+*Адрес для переписки но-абразивных инструментов, изготовляемых 
+Озолин Александр Витальевич, м.н.с.
+Кубанский государственный технологический университет, методом порошковой металлургии [1–3]. Связ-
+ул. Московская, 2, ка спеченного алмазного инструмента должна 
+350072, г. Краснодар, Россия
+Тел.: 8 (918) 058-56-54, e-mail: ozolinml@yandex.ru обладать физико-химической совместимостью 
+
+48 Том 24 № 1 2022
+
+
+
+MATERIAL SCIENCE OBRABOTKA METALLOV
+
+с алмазом, прочностью, высокой стойкостью к эксперименты [20], которые показали возмож-
+абразивному износу. ность получения частиц вольфрама размером 
+
+Одним из методов повышения свойств спе- 25…90 нм при измельчении порошков марок 
+ченных материалов является механоактивация ПВТ и W16,5 в центробежной шаровой мельнице. 
+порошков. Она обеспечивает измельчение по- Вольфрам – карбидообразующий элемент, 
+рошков, изменение их энергетического состо- следовательно, его добавка в порошковый мате-
+яния, интенсификацию спекания порошковых риал повышает адгезионную активность связки 
+материалов и формирование в них мелкозер- к алмазу. Однако при некоторых условиях добав-
+нистой структуры [4–7]. При механоактивации ка вольфрама может препятствовать спеканию 
+некоторых порошков в центробежных шаровых связки, что приводит к увеличению пористости, 
+мельницах возможно образование наночастиц, снижению твердости и прочности [21].
+обладающих высокой реакционной способно- Цель данной работы – изучение влияния ме-
+стью [8]. ханоактивации частиц вольфрама на структуру 
+
+В работах [9–13] показано, что введением и свойства спеченного порошкового материала 
+в металлические связки наночастиц осущест- Sn-Cu-Co-W.
+вляется дисперсионное упрочнение связок, что 
+способствует значительному повышению экс- Методика исследований
+плуатационных свойств алмазных инструмен-
+тов. С этой целью используют нанопорошки Для исследований использовали следующие 
+углеродных материалов, нитрида бора, а также порошки: оловянный марки ПО1 (ГОСТ 9723–73), 
+тугоплавких оксидов и карбидов (ZrO2, WC). Из- медный ПМС-1 (ГОСТ 4960–75) и кобальто-
+вестно, что наночастицы обладают более низкой вый порошок Diacob-1600 с размером частиц 
+температурой плавления, чем микропорошки 1…2 мкм (Dr. Fritsch Kg., Германия). Механи-
+[14]. Поэтому для дисперсионного упрочнения ческой активации подвергали порошок воль-
+необходимо, чтобы наночастицы сохранялись в фрамовый специальный W16,5 производства 
+структуре материала после спекания. АО «Победит», содержащий не менее 99,9 % W, 
+
+Важной характеристикой металлической с размером частиц 19…24 мкм (технические ус-
+связки является ее адгезионная активность к ловия ТУ 48-19-417-8). Механоактивацию про-
+алмазу, что создает условия для прочного удер- водили на центробежной шаровой мельнице 
+жания в связке алмазных зерен. Известно, что АГО-2У в течение 5, 15, 60 и 120 мин с частота-
+наночастицы, находящиеся на границе между ми вращения водила 400, 800 и 1000 об/мин. 
+матрицей и наполнителем, могут существенно Из указанных порошков были приготовлены 
+влиять на механические свойства композицион- смеси, содержащие  порошки  вольфрама, под-
+ного материала [15–17]. В связи с этим можно вергавшиеся и не подвергавшиеся механоакти-
+предположить, что введение в связку наноди- вации, при следующем соотношении компонен-
+сперсных частиц карбидообразующих металлов тов (% масс.): 20 Sn; 43 Cu; 30 Co; 7 W.
+позволит существенно повысить адгезию связки Порошковые навески массой 20 г уплотня-
+к алмазу. Дополнительным фактором, влияю- ли односторонним статическим прессованием 
+
+в стальной пресс-форме с усилием в 12 т/см2
+щим на адгезионную активность связки, может . 
+послужить изменение энергетического состоя- Полученные цилиндрические образцы диаме-
+ния порошков после механоактивации и повы- тром 21 мм спекали в вакууме при температуре 
+шение их реакционной способности. 820 °С в течение 20 мин.
+
+Вольфрам является одним из наиболее туго- Спеченные образцы взвешивали на анали-
+плавких металлов. Отожженный вольфрам высо- тических весах Adventurer AR2140 (OHAUS) и 
+кой чистоты имеет твердость 225…300 HB, пре- определяли их плотность как отношение массы 
+дел прочности 800…1200 МПа и относительное к объему.
+удлинение, близкое к нулю [18]. Такие свойства Структуру спеченных материалов изучали 
+позволяют механически измельчать вольфрам до с помощью сканирующей электронной микро-
+наноразмерных частиц [8, 19]. Авторами насто- скопии и оптической металлографии. С этой 
+ящей работы были проведены предварительные целью использовали сканирующий электрон-
+
+Vol. 24 No. 1 2022 49
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+ный микроскоп сверхвысокого разрешения Размеры частиц были измерены на изображе-
+JSM-7500F (JEOL), электронный микроскоп ниях, полученных на электронном микроскопе. 
+EVO HD 15 (ZEISS) и металлографический ми- После указанного режима механоактивации они 
+кроскоп AxioObserver.A1m (ZEISS). находятся в интервале 0,025…12 мкм. Распределе-
+
+Распределение элементов в образцах иссле- ние частиц по размерам следующее: d10 = 67 нм; 
+довали посредством микрорентгеноспектраль- d50 = 220 нм; d90 = 750 нм. При этом в механо-
+ного анализа на электронном микроскопе EVO активированном порошке доля наночастиц с раз-
+HD 15. Микротвердость структурных состав- мером до 100 нм превышает 20 % (рис. 2).
+ляющих измеряли путем вдавливания четырех- Минимальный размер частиц, составляю-
+гранной алмазной пирамидки под нагрузкой щий 25 нм, получен при частоте вращения води-
+10 г (HV0,01) с помощью твердомера DuraScan80 ла 800 об/мин и длительности механоактивации 
+(EmcoTest). Твердость материалов определяли 60…120 мин (табл. 1). 
+по методу Роквелла (шкала В) на твердомере Значительная часть порошка после механо-
+ТК-2М. активации слипается в рыхлые агрегаты разме-
+
+ром до 80 мкм. Агрегирование наночастиц объ-
+Результаты и их обсуждение ясняется наличием на их поверхности большого 
+
+количества некомпенсированных межатомных 
+Влияние механоактивации на форму связей. Объединение таких частиц в агрегаты 
+
+и размеры частиц вольфрама способствует уменьшению их свободной энер-
+На рис. 1 показано изменение формы частиц гии [13]. 
+
+порошка вольфрама после механоактивации. До Форма и размер полученных порошков ука-
+механоактивации частицы вольфрама представ- зывают на то, что при механоактивации про-
+ляли собой равноосные многогранники. После текают следующие процессы: раскалывание 
+механоактивации в течение 60 мин при частоте крупных частиц; окатывание осколков, приоб-
+вращения водила 800 об/мин большая часть ча- ретающих при этом округлую форму; агрегация 
+стиц имела равноосную форму и шероховатую мелких частиц. Вместе с этим материал под-
+поверхность, небольшое количество частиц – вергается наклепу, что затрудняет дальнейшее 
+осколочную форму. С увеличением длительно- измельчение. Из табл. 1 видно, что увеличение 
+сти механоактивации количество осколочных продолжительности измельчения от 30 до 60 мин 
+частиц уменьшалось. практически не приводит к уменьшению раз-
+
+                                   а                                                                                   б
+Рис. 1. Форма частиц вольфрама: 
+
+а – до механоактивации; б – после механоактивации
+Fig. 1. Shape of tungsten particles:
+
+a – before mechanical activation; б – after mechanical activation
+
+50 Том 24 № 1 2022
+
+
+
+MATERIAL SCIENCE OBRABOTKA METALLOV
+
+Рис. 2. Распределение частиц вольфрама по размерам после механоактивации
+Fig. 2. Size distribution of tungsten particles after mechanical activation
+
+Т а б л и ц а  1
+T a b l e  1
+
+Минимальные размеры (нм) частиц вольфрама W16,5 в зависимости от режима механоактивации
+Minimum size (nm) of tungsten W16,5 particles depending on mechanical activation mode
+
+Частота вращения водила, Длительность механоактивации, мин /
+об/мин / Duration of mechanical activation, min
+
+Rotation speed, rpm 5 15 60 120
+400 160 132 90 83
+800 137 116 25 25
+1000 128 85 90 102
+
+мера частиц. По-видимому, это объясняется на- механизм их кристаллизации описаны в рабо-
+клепом частиц. Увеличение частоты вращения тах [3, 21]. После спекания материалы состоят 
+приводит к увеличению центробежных сил и из следующих фаз: твердый раствор олова и 
+кинетической энергии мелющих тел. В результа- кобальта в меди (Cu), интерметаллидное соеди-
+те перечисленные выше процессы измельчения нение Cu3Sn, частицы кобальта и частицы воль-
+интенсифицируются, в том числе усиливается фрама.
+агрегация, приводящая к увеличению размеров Спекание материалов при 820 °С происходи-
+частиц. В связи с этим увеличение частоты вра- ло с образованием большого количества жидкой 
+щения водила от 800 до 1000 об/мин не дает по- фазы. При охлаждении после спекания из жид-
+ложительного эффекта. кой фазы образовалось соединение Cu3Sn, име-
+
+ющее температуру плавления 755…798 °С [22]. 
+Влияние механоактивации вольфрама  Микрорентгеноспектральный анализ показал, 
+на структуру спеченных материалов  что в исследованных материалах интерметал-
+
+Sn-Cu-Co-W лидная фаза Cu3Sn имеет практически одинако-
+На рис. 3 представлена микроструктура вый состав, % масс.: 63,2 Cu; 33,5 Sn; 3,3 Co.
+
+спеченных материалов с вольфрамом, не под- Механоактивированный вольфрам находится 
+вергавшимся механоактивации, и с механоак- в материале в виде отдельных частиц с размера-
+тивированным вольфрамом. Фазовый состав ми от 25 нм и спекшихся агломератов с попереч-
+материалов с неактивированным вольфрамом и ным размером до 0,4 мм. На рис. 4, б видны на-
+
+Vol. 24 No. 1 2022 51
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+                                      а                                                                                         б
+Рис. 3. Структура спеченного материала Sn-Cu-Co-W:
+
+а – без механоактивации вольфрама; б – с механоактивированным вольфрамом
+Fig. 3. Structure of the sintered Sn-Cu-Co-W material:
+
+a – without mechanical activation of tungsten; б – with mechanically activated tungsten
+
+                                    а                                                                                     б
+Рис. 4. Частицы механоактивированного вольфрама в структуре спеченного материала: 
+
+а – субмикронные, б – наноразмерные
+Fig. 4. Particles of mechanically activated tungsten in the sintered material structure: 
+
+a – submicron, б – nanosized 
+
+ночастицы вольфрама с поперечным размером видно, что равномерное распределение мелко-
+около 100 нм, находящиеся внутри спекшегося дисперсных частиц карбидообразующего воль-
+агломерата кобальта и на границе между кобаль- фрама должно положительно влиять на адгезию 
+том и интерметаллидной фазой Cu3Sn. Таким об- связки к поверхности алмаза и способствовать 
+разом, несмотря на повышенную реакционную более прочному закреплению в связке алмазных 
+способность и пониженную температуру плав- зерен [23].
+ления наночастицы вольфрама при спекании не  На рис. 3 видно влияние механоактива-
+растворились ни в кобальте, ни в жидкой фазе. ции вольфрама на размер частиц кобальта. При 
+
+На рис. 5 показано, что механоактивация жидкофазном спекании систем с ограниченной 
+вольфрама способствует более равномерному растворимостью компонентов в них, как пра-
+его распределению в спеченном материале. Оче- вило, протекает процесс растворения-осажде-
+
+52 Том 24 № 1 2022
+
+
+
+MATERIAL SCIENCE OBRABOTKA METALLOV
+
+Рис. 5. Карты распределения элементов в материале с механоактивированным вольфрамом: 
+1 – интерметаллид Cu3Sn; 2 – частицы кобальта; 3 – частицы вольфрама 
+
+Fig. 5. Element distribution maps for the material with mechanically activated tungsten: 
+1 – intermetallic compound Cu3Sn; 2 – cobalt particles; 3 – tungsten particles
+
+ния, заключающийся в том, что мелкие частицы Sn, Cu, Co, W [27]. В таких условиях энергети-
+твердой фазы растворяются в жидкой фазе, и чески наиболее выгоден перенос кобальта через 
+их вещество осаждается на поверхности более жидкую фазу к частицам вольфрама. 
+крупных частиц [24, 25]. В материале с воль- Массоперенос кобальта к вольфраму через 
+фрамом, не подвергавшимся механоактивации, жидкую фазу подтверждают карты распреде-
+размер частиц кобальта увеличился за счет рас- ления компонентов, показанные на рис. 5. На 
+творения-осаждения с 1,6 мкм до 9…15 мкм картах видны спекшиеся агломераты частиц 
+(рис. 3, а). В спеченном материале с механоак- вольфрама, причем промежутки между этими 
+тивированным вольфрамом частицы кобальта частицами заполнены преимущественно кобаль-
+более мелкие, с размером 3...10 мкм (рис. 3, б). том. Очевидно, что кобальт проникал в глубь 
+
+Влияние механоактивации вольфрама на рас- вольфрамовых агломератов вместе с жидкой 
+творение-осаждение кобальта объясняется сле- фазой. Осаждение кобальта привело к закупор-
+дующим. В системах, состоящих из двух твердых ке пор агломератов. После этого проникновение 
+металлов и жидкой фазы, массоперенос направ- кобальта в глубь агломератов могло происходить 
+лен к металлу, имеющему наибольшую поверх- за счет диффузии по поверхности вольфрамо-
+ностную энергию [26]. В порядке возрастания вых частиц. Массоперенос кобальта к вольфра-
+удельной поверхностной энергии компоненты му через жидкую фазу происходит также и без 
+системы располагаются следующим образом: механоактивации вольфрама. На рис. 4, а видно, 
+
+Vol. 24 No. 1 2022 53
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+что частицы вольфрама, не подвергнутые меха- окислению. Оксид вольфрама WO2 разлагается 
+ноактивации, окружены «оболочками», сфор- при нагреве в вакууме до температуры 800 °С 
+мировавшимися за счет осаждения кобальта из [28]. По-видимому, при температуре спекания 
+жидкой фазы. происходит разложение оксидов с последующим 
+
+Как показано выше, механоактивация приве- выделением газов в закрытых порах. Давление 
+ла к увеличению дисперсности вольфрамового газов в закрытых порах препятствует их усадке, 
+порошка, следовательно, возросла площадь его что приводит к повышению пористости спечен-
+свободной поверхности. В результате осаждение ного материала.
+кобальта из жидкой фазы на частицах вольфра-
+ма стало более интенсивным. Таким образом, Влияние механоактивации вольфрама  
+механоактивация вольфрама уменьшила массо- на твердость спеченных материалов  
+перенос от мелких частиц кобальта к крупным Sn-Cu-Co-W
+и способствовала формированию более дисперс- Из табл. 2 видно, что наиболее твердой 
+ной мелкозернистой структуры в спеченном ма- структурной составляющей материалов Sn-Cu-
+териале. Co-W являются частицы вольфрама. Механоак-
+
+Влияние тугоплавких наночастиц на рас- тивированный вольфрам имеет повышенную в 
+творение-осаждение другой твердой фазы при 1,8…2,2 раза твердость. Измерение твердости 
+жидкофазном спекании требует дальнейшего наночастиц при нагрузке на индентор 10 г тех-
+изучения. Это явление открывает новые возмож- нически невозможно. Более крупные вольфрамо-
+ности воздействия на структурообразование при вые частицы с поперечным размером 10…12 мкм 
+спекании и получения материалов с заданной имеют микротвердость 823…1162 HV0,01. Повы-
+структурой и свойствами. шенная твердость механоактивированного воль-
+
+фрама обусловлена наклепом частиц. Известно, 
+Влияние механоактивации вольфрама  что температура рекристаллизации вольфрама 
+на пористость спеченных материалов  значительно выше 820 °С, поэтому при спекании 
+
+Sn-Cu-Co-W материала наклеп вольфрамовых частиц сохра-
+В спеченных материалах Sn-Cu-Co-W при- нился.
+
+сутствует небольшое количество изолированных Часть механоактивированного вольфрама 
+закрытых пор. Плотность материала с неакти- находится в материале в виде спекшихся агло-
+вированным вольфрамом составляет 8,16 г/см3 мератов, структура которых показана на рис. 6 
+(пористость 8 %). Материал с механоактивиро- (световое изображение; образец протравлен рас-
+ванным вольфрамом имеет плотность 7,72 г/см3 твором, содержащим 5 г хлорного железа FeCl3, 
+(пористость 13 %). Мелкодисперсный вольфрам, 15 мл соляной кислоты HCl и 100 мл воды). Вид-
+обладающий повышенной химической активно- но, что при спекании между контактирующи-
+стью, склонен к адсорбции атмосферных газов и ми частицами вольфрама образовались шейки. 
+
+Т а б л и ц а  2
+T a b l e  2
+
+Микротвердость HV0,01 структурных составляющих спеченных материалов Sn-Cu-Co-W
+Microhardness HV0,01 of the structural constituents of the sintered Sn-Cu-Co-W material
+
+Микротвердость HV0,01 структурных составляющих /
+Спеченный материал / Microhardness HV0,01 of the structural constituents
+
+Sintered material
+(Cu) Cu3Sn Co W
+
+Без механоактивации вольфрама / 
+Without mechanical activation of tungsten 245±12 367±7 137±16 496±29
+С механоактивацией вольфрама / 
+With mechanical activation of tungsten 259±22 384±14 140±16 992±169
+
+54 Том 24 № 1 2022
+
+
+
+MATERIAL SCIENCE OBRABOTKA METALLOV
+
+Рис. 6. Микроструктура спекшихся агломератов вольфрама
+Fig. 6. Microstructure of the sintered tungsten agglomerates
+
+Микротвердость агломератов была измерена Выводы
+при нагрузке на индентор 100…500 г, при этом 
+получены отпечатки с длиной диагонали, пре- 1. Изучено влияние механоактивации на 
+вышающей размер отдельных вольфрамовых морфологию частиц и дисперсность пророшка 
+частиц (рис. 6). При вдавливании индентора вольфрама марки W16,5. При исследованных 
+вольфрамовые частицы не разобщались и не вы- режимах механоактивация сопровождается об-
+крашивались. Несмотря на пористую структу- разованием наночастиц вольфрама с минималь-
+ру, агломераты имеют высокую микротвердость ным размером 25 нм. Вместе с тем порошок под-
+582…1223 HV. вергается наклепу, что затрудняет дальнейшее 
+
+В структуре исследуемых материалов части- его измельчение.
+2. Наночастицы вольфрама, обладающие вы-
+
+цы вольфрама занимают небольшой объем (ме- сокой поверхностной энергией, оказывают за-
+нее 5 %), поэтому их твердость мало влияет на метное влияние на растворение-осаждение ко-
+общую твердость материала. На рис. 5 видно, бальта при жидкофазном спекании порошкового 
+что наибольший объем в структуре материалов материала Sn-Cu-Co-W. Введение в материал 
+занимает интерметаллидная фаза Cu3Sn. В ма- нанодисперсного вольфрама замедляет рост ча-
+териале с механоактивированным вольфрамом стиц кобальта и способствует получению мелко-
+твердость интерметаллида Cu3Sn значительно зернистой структуры.
+повышена (табл. 2). Очевидно, это связано с 3. Спеченный материал Sn-Cu-Co-W, содер-
+упрочнением интерметаллида мелкодисперсны- жащий механоактивированный вольфрам, об-
+ми частицами вольфрама. ладает повышенной твердостью 105…107 HRB, 
+
+Спеченный материал с вольфрамом, не под- что объясняется наклепом частиц вольфрама и 
+вергнутым механоактивации, имеет макротвер- дисперсионным упрочнением других структур-
+дость 101…102 HRB. Материал с механоакти- ных составляющих.
+вированным вольфрамом имеет повышенную 
+твердость 105…107 HRB, что обусловлено Список литературы
+наклепом частиц вольфрама и дисперсион- 1. Konstanty J. Powder metallurgy diamond tools. – 
+ным упрочнением других структурных состав- Oxford: Elsevier, 2005. – 152 p. – ISBN 978-1-85617-
+ляющих. 440-4. – DOI: 10.1016/B978-1-85617-440-4.X5077-9.
+
+Vol. 24 No. 1 2022 55
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+2. Composite materials of diamond−(Co–Cu–Sn) 10. Variation in the structure and properties of sintered 
+system with improved mechanical characteristics. alloys under the effect of nanodimensional carbon 
+Pt. 1. The influence of hot re-pressing on the structure additives / P.A. Vityaz’, V.I. Zhornik, S.A. Kovaleva, 
+and properties of diamond−(Co–Cu–Sn) composite / V.A. Kukareko // Russian Journal of Non-Ferrous 
+M.V. Novikov, V.A. Mechnyk, M.O. Bondarenko, Metals. – 2016. – Vol. 57. – P. 135–140. – DOI: 10.3103/
+B.A. Lyashenko, M.O. Kuzin // Journal of Superhard S1067821216020115.
+Materials. – 2015. – Vol. 37. – P. 402–416. – DOI: 10.3103/ 11. Performance of diamond drill bits with hybrid 
+S1063457615060052. nanoreinforced Fe-Ni-Mo binder / P.A. Loginov, 
+
+3. Sokolov E.G. Structure formation during liquid- D.A. Sidorenko, M.Y. Bychkova, A.A. Zaitsev, 
+phase sintering of the diamond-containing composites E.A. Levashov // International Journal of Advanced 
+with Sn-Cu-Co-W binders // Solid State Phenomena. – Manufacturing Technology. – 2019. – Vol. 102. – 
+2018. – Vol. 284. – P. 127–132. – DOI: 10.4028/www. P. 2041–2047. – DOI: 10.1007/s00170-018-03262-0.
+scientific.net/SSP.284.127. 12. The effect of ZrO2 nanoparticles on the 
+
+4. Исследование структуры и механических microstructure and properties of sintered WC–bronze-
+свойств нано- и ультрадисперсных механоактивиро- based diamond composites / Y. Sun, H. Wu, M. Li, 
+ванных вольфрамовых псевдосплавов / В.Н. Чувиль- Q. Meng, K. Gao, X. Lü, B. Liu // Materials. – 2016. – 
+деев, А.В. Нохрин, Г.В. Баранов, А.В. Москвичева, Vol. 9, N 343. – DOI: 10.3390/ma9050343.
+Ю.Г. Лопатин, Д.Н. Котков, Ю.В. Благовещенский, 13. Шарин П.П. Новый метод приготовле-
+Н.А. Козлова, С.В. Шотин, Д.А. Конычев, А.В. Пи- ния твердосплавной шихты с упрочняющими на-
+скунов // Вестник Нижегородского университета ночастицами для изготовления матриц алмазных 
+им. Н.И. Лобачевского. – 2010. – № 2 (1). – С. 47–59. инструментов // Вестник Северо-Восточного фе-
+
+5. Исследование процессов спекания нано- и дерального университета им. М.К. Аммосова. – 
+ультрадисперсных механоактивированных порош- 2016. – № 1 (51). – С. 78–87.
+ков системы W-Ni-Fe и получение сверхпрочных 14. Гегузин Я.Е. Физика спекания. – М.: Наука, 
+тяжелых вольфрамовых сплавов / В.Н. Чувильдеев, 1967. – 360 с.
+А.В. Нохрин, Г.В. Баранов, М.С. Болдин, А.В. Мо- 15. Основы теории межфазного слоя / И.Ф. Об-
+сквичева, Н.В. Сахаров, Д.Н. Котков, Ю.Г. Лопатин, разцов, С.А. Лурье, П.А. Белов, Д.Б. Волков-Бо-
+В.Ю. Белов, Ю.В. Благовещенский, Н.А. Козлова, городский, Ю.Г. Яновский, Е.И. Кочемасова, 
+Д.А. Конычев, Н.В. Исаева // Металлы. – 2014. – А.А. Дудченко, Е.М. Потупчик, Н.П. Шумова // 
+№ 2.  – С. 51–66. Механика композиционных материалов и конструк-
+
+6. Fabrication of W-Cu functionally graded ций. – 2004. – Т. 10, № 4. – С. 596–612.
+composites using high energy ball milling and spark 16. Multiscale modelling of aluminium-based metal-
+plasma sintering for plasma facing components / matrix composites with oxide nanoinclusions / S. Lurie, 
+L.K. Pillari, S.R. Bakshi, P. Chaudhuri, B.S. Murty // D. Volkov-Bogorodskiy, Y. Solyaev, R. Rizahanov, 
+Advanced Powder Technology. – 2020 – Vol. 31 (8). – L. Agureev // Computational Materials Science. – 
+P. 3657–3666. – DOI: 10.1016/j.apt.2020.07.015. 2016. – Vol. 116. – P. 62–73. – DOI: 10.1016/j.
+
+7. Effects of sintering temperature on fine-grained commatsci.2015.12.034.
+tungsten heavy alloy produced by high-energy ball 17. Kostikov V.I., Agureev L.E., Eremeeva Z.V. 
+milling assisted spark plasma sintering / L. Ding, Development of nanoparticle-reinforced alumocomposi-
+D.P. Xiang, Y.Y. Li, C. Li, J.B. Li // Journal of Refractory tes for rocket-space engineering // Russian Journal of 
+Metals and Hard Materials. – 2012. – Vol. 33. – P. 65– Non-Ferrous Metals. – 2015. – Vol. 56 (3). – P. 325–
+69. – DOI: 10.1016/j.ijrmhm.2012.02.017. 328. – DOI: 10.3103/S1067821215030104.
+
+8. Refinement process and mechanisms of tungsten 18. Зеликман А.Н. Металлургия тугоплавких ред-
+powder by high energy ball milling / Y.X. Liang, ких металлов. – М.: Металлургия, 1986. – 440 с.
+Z.M. Wu, E.G. Fu, J.L. Du, P.P. Wang, Y.B. Zhao, 19. Predescu C., Nicolicescu C., Nicoara V.H. Studies 
+Y.H. Qiu, Z.Y. Hu // International Journal of Refractory regarding the elaboration of tungsten nanopowders by 
+Metals and Hard Materials. – 2017. – Vol. 67. – P. 1–8. – mechanical milling process // Metalurgia International. – 
+DOI: 10.1016/j.ijrmhm.2017.04.006. 2013. – Vol. 18, iss. 2. – P. 65–68.
+
+9. Dispersed strengthening of a diamond compo- 20. Озолин А.В., Соколов Е.Г., Гапоненко С.А. По-
+site electrochemical coating with nanoparticles / лучение нанодисперсных порошков вольфрама меха-
+N.I. Polushin, A.V. Kudinov, V.V. Zhuravlev, N.N. Ste- ническим измельчением // Материалы и технологии 
+pareva, A.L. Maslov // Russian Journal of Non-Ferrous XXI века: XVI Международная научно-техническая 
+Metals. – 2013. – Vol. 54. – P. 412–416. – DOI: 10.3103/ конференция / под ред. О.Е. Чуфистова. – Пенза: 
+S1067821213050088. Приволжский дом знаний, 2019. – С. 46–50.
+
+56 Том 24 № 1 2022
+
+
+
+MATERIAL SCIENCE OBRABOTKA METALLOV
+
+21. Соколов Е.Г., Артемьев В.П. Влияние воль- 25. German R.M. Sintering: From empirical 
+фрама на свойства металлических связок алмазных observations to scientific principles. – Oxford: But-
+инструментов, полученных композиционной пай- terworth-Heinemann, 2014. – 544 p. – ISBN 978-0-12-
+кой // Технология металлов. – 2015. – № 2. – С. 19–22. 401682-8. – DOI: 10.1016/C2012-0-00717-X.
+
+22. Диаграммы двойных металлических систем: 26. Шатинский В.Ф., Збожная О.М., Максимо-
+справочник. В 3 т. Т. 2 / под общ. ред. Н.П. Ляки- вич Г.Г. Получение диффузионных покрытий в сре-
+шева. – М.: Машиностроение, 1997. – 1024 c. – де легкоплавких металлов. – Киев: Наукова думка, 
+ISBN 5-217-01569-1. 1976. – 203 с.
+
+23. Ozolin A.V., Sokolov E.G., Golius D.A. Effect 27. The surface energy of metals / L. Vitos, 
+of tungsten nanoparticles on interaction of Sn-Cu-Co A.V. Ruban, H.L. Skriver, J. Kollár // Surface Science. – 
+metallic matrices with diamond // IOP Conference Series: 1998. – Vol. 411. – P. 186–202. – DOI: 10.1016/S0039-
+Materials Science and Engineering. – 2021. – Vol. 1155. – 6028(98)00363-X.
+P. 012016. – DOI: 10.1088/1757-899X/1155/1/012016. 28. Есенберлин Р.Е. Пайка и термическая обра-
+
+24. Ивенсен В.А. Феноменология спекания и не- ботка деталей в газовой среде и вакууме. – Л.: Маши-
+которые вопросы теории. – М.: Металлургия, 1985. – ностроение, 1972. – 184 с.
+247 с.
+
+Конфликт интересов
+Авторы заявляют об отсутствии конфликта интересов.
+
+ 2022 Авторы. Издательство Новосибирского государственного технического университета. Эта статья доступна по 
+лицензии Creative Commons «Attribution» («Атрибуция») 4.0 Всемирная (https://creativecommons.org/licenses/by/4.0/)
+
+Vol. 24 No. 1 2022 57
+
+
+
+OBRABOTKA METALLOV MATERIAL SCIENCE
+
+Obrabotka metallov (tekhnologiya, oborudovanie, instrumenty) = Metal Working and Material Science. 2022 vol. 24 no. 1 pp. 48–60
+ISSN: 1994-6309 (print) / 2541-819X (online)
+DOI: 10.17212/1994-6309-2022-24.1-48-60
+
+Obrabotka metallov - 
+Metal Working and Material Science
+
+Journal homepage: http://journals.nstu.ru/obrabotka_metallov
+
+Effect of mechanical activation of tungsten powder on the structure and properties
+of the sintered Sn-Cu-Co-W material
+
+Alexander Ozolin  a, *, Evgeny Sokolov  b
+
+Kuban State Technological University, 2 Moskovskaya St., Krasnodar, 350072, Russian Federation
+a  https://orcid.org/0000-0002-0173-1716,  ozolinml@yandex.ru, b  https://orcid.org/0000-0002-7229-228X,  e_sokolov.07@mail.ru
+
+A RT I C L E  I N F O A B S T R A C T
+
+Article history: Introduction. One of the methods for improving the properties of sintered materials is mechanical acti-
+Received: 14 October 2021 vation of powders. It ensures milling the powders, changing its energy state, intensifying the sintering of pow-
+Revised: 02 November 2021 der materials, and forming a fi ne-grained structure in it. When tungsten powders are mechanically activated in 
+Accepted: 07 December 2021 planetary centrifugal mills, nanoparticles can be formed, which have a high reactive power. The objective of 
+Available online: 15 March 2022 the paper is to study the effect of mechanical activation of tungsten particles on the structure and properties of 
+
+the sintered Sn-Cu-Co-W powder material. Research technique: Mechanical activation of W16,5 grade tung-
+Keywords: sten powder is carried out in a planetary centrifugal ball mill AGO-2U for 5…120 minutes with carrier speeds 
+Mechanical activation of 400…1,000 rpm. The mixture of tungsten, tin, copper, and cobalt powders are compacted by static pressing 
+Nanoparticles in molds and then sintered in vacuum at 820 °C. The morphology and size of powder particles, as well as the 
+Tungsten structure of the sintered samples, are studied by scanning electronic microscopy, X-ray microanalysis, and 
+Liquid phase sintering optical metallography. Porosity of the sintered samples is identifi ed by the gravimetric method. Microhard-
+Metallic binders ness of the structural constituents and macrohardness of the sintered materials are measured, too. Results: 
+Diamond abrasive tools in the modes under study, mechanical activation is accompanied by the formation of tungsten nanoparticles 
+
+with the minimum size of 25 nm. Alongside this, the powder is exposed to cold working, which hinders 
+Funding further milling. Tungsten nanoparticles, characterized by high surface energy, have a signifi cant effect on the 
+The research was carried out with dissolution-precipitation of cobalt during liquid-phase sintering of Sn-Cu-Co-W powder material. Addition of 
+the fi nancial support of the Council nanodispersed tungsten into the material slows down the growth of cobalt particles during sintering and con-
+for Grants of the President of the tributes to the formation of a fi ne-grained structure. The sintered Sn-Cu-Co-W material, containing mechani-
+Russian Federation for state support cally activated tungsten, features higher hardness of 105…107 HRB, which is explained by cold working of 
+of young Russian scientists and for tungsten particles and dispersion hardening. The results can be applied for improving mechanical properties 
+state support of leading scientifi c of Sn-Cu-Co-W alloys used as metallic binders in diamond abrasive tools.
+schools of the Russian Federation, 
+No. SP-5863.2021.1.
+
+For citation: Ozolin A.V., Sokolov E.G. Effect of mechanical activation of tungsten powder on the structure and properties of the sintered 
+Sn-Cu-Co-W material. Obrabotka metallov (tekhnologiya, oborudovanie, instrumenty) = Metal Working and Material Science, 2022, vol. 24, 
+no. 1, pp. 48–60. DOI: 10.17212/1994-6309-2022-24.1-48-60. (In Russian).
+
+References
+1. Konstanty J. Powder metallurgy diamond tools. Oxford, Elsevier, 2005. 152 p. ISBN 978-1-85617-440-4. 
+
+DOI: 10.1016/B978-1-85617-440-4.X5077-9.
+2. Novikov M.V., Mechnyk V.A., Bondarenko M.O., Lyashenko B.A., Kuzin M.O. Composite materials of 
+
+diamond−(Co–Cu–Sn) system with improved mechanical characteristics. Part 1. The infl uence of hot re-pressing 
+
+______
+* Corresponding author
+Ozolin Alexander V., junior researcher
+Kuban State Technological University
+2 Moskovskaya St.,
+350072, Krasnodar, Russian Federation
+Tel.: 8 (918) 058-56-54, e-mail: ozolinml@yandex.ru
+
+58 Vol. 24 No. 1 2022
+
+
+
+MATERIAL SCIENCE OBRABOTKA METALLOV
+
+on the structure and properties of diamond−(Co–Cu–Sn) composite. Journal of Superhard Materials, 2015, vol. 37, 
+pp. 402–416. DOI: 10.3103/S1063457615060052.
+
+3. Sokolov E.G. Structure formation during liquid-phase sintering of the diamond-containing composites with 
+Sn-Cu-Co-W binders. Solid State Phenomena, 2018, vol. 284, pp. 127–132. DOI: 10.4028/www.scientific.net/
+SSP.284.127.
+
+4. Chuvil’deev V.N., Nokhrin A.V., Baranov G.V., Moskvicheva A.V., Lopatin Yu.G., Kotkov D.N., 
+Blagoveshhensky Yu.V., Kozlova N.A., Shotin S.V., Konychev D.A., Piskunov A.V. Issledovanie struktury i 
+mekhanicheskikh svoistv nano- i ul’tradispersnykh mekhanoaktivirovannykh vol’framovykh psevdosplavov 
+[Investigations of structure and mechanical properties of nano and superdispersed mechanically activated tungsten 
+pseudoalloys]. Vestnik Nizhegorodskogo universiteta im. N.I. Lobachevskogo = Vestnik of Lobachevsky State 
+University of Nizhni Novgorod, 2010, no. 2 (1), pp. 47–59.
+
+5. Chuvil’deev V.N., Nokhrin A.V., Baranov G.V., Boldin M.S., Moskvicheva A.V., Sakharov N.V., Kotkov D.N., 
+Lopatin Yu.G., Belov V.Yu., Blagoveshhenskii Yu.V., Kozlova N.A., Konychev D.A., Isaeva N.V. Issledovanie 
+protsessov spekaniya nano- i ul’tradispersnykh mekhanoaktivirovannykh poroshkov sistemy W-Ni-Fe i poluchenie 
+sverkhprochnykh tyazhelykh vol’framovykh splavov [Sintering of nano- and ultradispersed mechanically activated 
+W-Ni-Fe powders and the manufacture of ultrahigh-strength heavy tungsten alloys]. Metally = Metals, 2014, no. 2, 
+pp. 51–66. (In Russian).
+
+6. Pillari L.K., Bakshi S.R., Chaudhuri P., Murty B.S. Fabrication of W-Cu functionally graded composites using 
+high energy ball milling and spark plasma sintering for plasma facing components. Advanced Powder Technology, 
+2020, vol. 31 (8), pp. 3657–3666. DOI: 10.1016/j.apt.2020.07.015.
+
+7. Ding L., Xiang D.P., Li Y.Y., Li C., Li J.B. Effects of sintering temperature on fine-grained tungsten heavy 
+alloy produced by high-energy ball milling assisted spark plasma sintering. Journal of Refractory Metals and Hard 
+Materials, 2012, vol. 33, pp. 65–69. DOI: 10.1016/j.ijrmhm.2012.02.017.
+
+8. Liang Y.X., Wu Z.M., Fu E.G., Du J.L., Wang P.P., Zhao Y.B., Qiu Y.H., Hu Z.Y. Refinement process and 
+mechanisms of tungsten powder by high energy ball milling. International Journal of Refractory Metals and Hard 
+Materials, 2017, vol. 67, pp. 1–8. DOI: 10.1016/j.ijrmhm.2017.04.006.
+
+9. Polushin N.I., Kudinov A.V., Zhuravlev V.V., Stepareva N.N., Maslov A.L. Dispersed strengthening of a 
+diamond composite electrochemical coating with nanoparticles. Russian Journal of Non-Ferrous Metals, 2013, 
+vol. 54, pp. 412–416. DOI: 10.3103/S1067821213050088.
+
+10. Vityaz’ P.A., Zhornik V.I., Kovaleva S.A., Kukareko V.A. Variation in the structure and properties of sintered 
+alloys under the effect of nanodimensional carbon additives. Russian Journal of Non-Ferrous Metals, 2016, vol. 57, 
+pp. 135–140. DOI: 10.3103/S1067821216020115.
+
+11. Loginov P.A., Sidorenko D.A., Bychkova M.Y., Zaitsev A.A., Levashov E.A. Performance of diamond drill 
+bits with hybrid nanoreinforced Fe-Ni-Mo binder. International Journal of Advanced Manufacturing Technology, 
+2019, vol. 102, pp. 2041–2047. DOI: 10.1007/s00170-018-03262-0.
+
+12. Sun Y., Wu H., Li M., Meng Q., Gao K., Lü X., Liu B. The effect of ZrO2 nanoparticles on the microstructure 
+and properties of sintered WC–bronze-based diamond composites. Materials, 2016, vol. 9, no. 343. DOI: 10.3390/
+ma9050343.
+
+13. Sharin P.P. Novyi metod prigotovleniya tverdosplavnoi shikhty s uprochnyayushchimi nanochastitsami dlya 
+izgotovleniya matrits almaznykh instrumentov [New method of preparation of carbide mixture with a reinforcing 
+nanoparticles for making of the matrix of diamond tools]. Vestnik Severo-Vostochnogo federal’nogo universiteta im. 
+M.K. Ammosova = Vestnik of North-Eastern Federal University, 2016, no. 1 (51), pp. 78–87.
+
+14. Geguzin Ya.E. Fizika spekaniya [Physics of sintering]. Moscow, Nauka Publ., 1967. 360 p.
+15. Obraztsov I.F., Lur’e S.A., Belov P.A., Volkov-Bogorodskii D.B., Janovskii Yu.G., Kochemasova E.I., 
+
+Dudchenko A.A., Potupchik E.M., Shumova N.P. Osnovy teorii mezhfaznogo sloya [Fundamentals theory of the 
+interfacial layer]. Mekhanika kompozitsionnykh materialov i konstruktsii = Journal on Composite Mechanics and 
+Design, 2004, vol. 10, no. 4, pp. 596–612. (In Russian).
+
+16. Lurie S., Volkov-Bogorodskiy D., Solyaev Y., Rizahanov R., Agureev L. Multiscale modelling of aluminium-
+based metal-matrix composites with oxide nanoinclusions. Computational Materials Science, 2016, vol. 116, pp. 62–
+73. DOI: 10.1016/j.commatsci.2015.12.034.
+
+17. Kostikov V.I., Agureev L.E., Eremeeva Z.V. Development of nanoparticle-reinforced alumocomposites for 
+rocket-space engineering. Russian Journal of Non-Ferrous Metals, 2015, vol. 56 (3), pp. 325–328. DOI: 10.3103/
+S1067821215030104.
+
+18. Zelikman A.N. Metallurgiya tugoplavkikh redkikh metallov [Metallurgy of refractory rare metals]. Moscow, 
+Metallurgiya Publ., 1986. 440 p.
+
+Vol. 24 No. 1 2022 59
+
+
+
+OBRABOTKA METALLOV MATERIAL SCIENCE
+
+19. Predescu C., Nicolicescu C., Nicoara V.H. Studies regarding the elaboration of tungsten nanopowders by 
+mechanical milling process. Metalurgia International, 2013, vol. 18, iss. 2, pp. 65–68.
+
+20. Ozolin A.V., Sokolov E.G., Gaponenko S.A. [Obtaining nanodispersed tungsten powders by mechanical 
+grinding]. Materialy i tekhnologii XXI veka: XVI Mezhdunarodnaya nauchno-tekhnicheskaya konferentsiya [Materials 
+and technologies of the XXI century]. Penza, Privolzhskii dom znanii Publ., 2019, pp. 46–50. (In Russian).
+
+21. Sokolov E.G., Artemyev V.P. Vliyanie vol’frama na svoistva metallicheskikh svyazok almaznykh instrumentov, 
+poluchennykh kompozitsionnoi paikoi [Influence of tungsten on properties of metal joints of diamond tools, made by 
+composite soldering]. Tekhnologiya metallov = Metal Technology, 2015, no. 2, pp. 19–22. (In Russian).
+
+22. Lyakishev N.P., ed. Diagrammy dvoinykh metallicheskikh system: spravochnik. V 3 t. T. 2 [Diagrams of dual 
+metal systems: guide. In 3 vol. Vol. 2]. Moscow, Mashinostroenie Publ., 1997. 1024 p. ISBN 5-217-01569-1.
+
+23. Ozolin A.V., Sokolov E.G., Golius D.A. Effect of tungsten nanoparticles on interaction of Sn-Cu-Co metallic 
+matrices with diamond. IOP Conference Series: Materials Science and Engineering, 2021, vol. 1155, p. 012016. 
+DOI: 10.1088/1757-899X/1155/1/012016.
+
+24. Ivensen V.A. Fenomenologiya spekaniya i nekotorye voprosy teorii [The phenomenology of sintering and 
+some questions of the theory]. Moscow, Metallurgiya Publ., 1985. 247 p. (In Russian).
+
+25. German R.M. Sintering: From empirical observations to scientific principles. Oxford, Butterworth-
+Heinemann, 2014. 544 p. ISBN 978-0-12-401682-8. DOI: 10.1016/C2012-0-00717-X.
+
+26. Shatinskii V.F., Zbozhnaya O.M., Maksimovich G.G. Poluchenie diffuzionnykh pokrytii v srede legkoplavkikh 
+metallov [Production of diffusion coatings in the environment of low-melting metals]. Kiev, Naukova dumka Publ., 
+1976. 203 p.
+
+27. Vitos L., Ruban A.V., Skriver H.L., Kollár J. The surface energy of metals. Surface Science, 1998, vol. 411, 
+pp. 186–202. DOI: 10.1016/S0039-6028(98)00363-X.
+
+28. Esenberlin R.E. Paika i termicheskaya obrabotka detalei v gazovoi srede i vakuume [Soldering and heat 
+treatment of parts in a gas environment and in a vacuum]. Leningrad, Mashinostroenie Publ., 1972. 184 p.
+
+Conflicts of Interest
+The authors declare no conflict of interest.
+
+ 2022 The Authors. Published by Novosibirsk State Technical University. This is an open access article under the CC BY 
+license (http://creativecommons.org/licenses/by/4.0/).
+
+60 Vol. 24 No. 1 2022

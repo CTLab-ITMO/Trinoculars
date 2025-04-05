@@ -1,0 +1,801 @@
+﻿Научный журнал «Костюмология» 2020, №1, Том 5 ISSN 2587-8026 
+Journal of Clothing Science 2020, No 1, Vol 5 https://kostumologiya.ru 
+
+ 
+
+Научный журнал «Костюмология» / Journal of Clothing Science https://kostumologiya.ru 
+
+2020, №1, Том 5 / 2020, No 1, Vol 5 https://kostumologiya.ru/issue-1-2020.html 
+
+URL статьи: https://kostumologiya.ru/PDF/16TLKL120.pdf 
+
+Ссылка для цитирования этой статьи: 
+Гетманцева В.В., Гусева М.А., Андреева Е.Г., Горковенко Л., Копылова М.Д., Рогожина Ю.В. Этапы 
+проектирования персонифицированного сценического костюма // Научный журнал «Костюмология», 2020 
+№1, https://kostumologiya.ru/PDF/16TLKL120.pdf (доступ свободный). Загл. с экрана. Яз. рус., англ.  
+
+For citation: 
+Getmantseva V.V., Guseva M.A., Andreeva E.G., Gorkovenko L., Kopilova M.D., Rogozhina Iu.V. (2020). Stages of 
+designing a personalized stage costume. Journal of Clothing Science, [online] 1(5). Available at: 
+https://kostumologiya.ru/PDF/16TLKL120.pdf (in Russian) 
+
+УДК 687.5 
+
+ГРНТИ 64.33.14 
+
+Гетманцева Варвара Владимировна 
+ФГБОУ ВО «Российский государственный университет им. А.Н. Косыгина 
+
+(Технологии. Дизайн. Искусство)», Москва, Россия 
+Доцент 
+
+Кандидат технических наук, доцент 
+E-mail: getmantseva@inbox.ru 
+
+Mendeley: https://www.mendeley.com/authors/55155482100 
+РИНЦ: https://www.elibrary.ru/author_profile.asp?id=540375 
+
+ 
+
+Гусева Марина Анатольевна 
+ФГБОУ ВО «Российский государственный университет им. А.Н. Косыгина 
+
+(Технологии. Дизайн. Искусство)», Москва, Россия 
+Доцент 
+
+Кандидат технических наук, доцент 
+E-mail: guseva_marina67@mail.ru 
+
+Mendeley: https://www.mendeley.com/authors/57197843104 
+РИНЦ: https://www.elibrary.ru/author_profile.asp?id=829347 
+
+ 
+
+Андреева Елена Георгиевна 
+ФГБОУ ВО «Российский государственный университет им. А.Н. Косыгина 
+
+(Технологии. Дизайн. Искусство)», Москва, Россия 
+Профессор 
+
+Доктор технических наук, профессор 
+E-mail: 2408elena@mail.ru 
+
+Mendeley: https://www.mendeley.com/authors/57200092170 
+РИНЦ: https://www.elibrary.ru/author_profile.asp?id=259825 
+
+ 
+
+Горковенко Людмила 
+ФГБОУ ВО «Российский государственный университет им. А.Н. Косыгина 
+
+(Технологии. Дизайн. Искусство)», Москва, Россия 
+Студент 
+
+E-mail: mila.anderst@gmail.com 
+ 
+
+Копылова Мария Дмитриевна 
+ФГБОУ ВО «Российский государственный университет им. А.Н. Косыгина 
+
+(Технологии. Дизайн. Искусство)», Москва, Россия 
+Аспирант 
+
+E-mail: mdkopylova@mail.ru 
+  
+
+Страница 1 из 13 
+16TLKL120 
+
+Издательство «Мир науки» \ Publishing company «World of science» http://izd-mn.com 
+
+
+
+Научный журнал «Костюмология» 2020, №1, Том 5 ISSN 2587-8026 
+Journal of Clothing Science 2020, No 1, Vol 5 https://kostumologiya.ru 
+
+ 
+
+Рогожина Юлия Владимировна 
+ФГБОУ ВО «Российский государственный университет им. А.Н. Косыгина 
+
+(Технологии. Дизайн. Искусство)», Москва, Россия 
+Доцент 
+
+Кандидат технических наук, доцент 
+E-mail: iulia3008@mail.ru 
+
+Этапы проектирования 
+персонифицированного сценического костюма 
+
+Аннотация. В статье рассмотрен процесс создания сценического костюма как 
+многофакторное персонифицированное проектирование швейного изделия. К одежде для 
+сцены предъявляют повышенные эстетические, психологические, социальные и 
+функциональные требования. Женский сценический костюм должен подчеркивать 
+особенности фигуры, придавать образу элегантность, соответствовать моде и стилю, 
+показывать уязвимость натуры. Проведенный авторами на этапе технического задания анализ 
+условий эксплуатации сценических швейных изделий показал приоритетность эстетики образа 
+над гигиеническими показателями этой одежды. По результатам проведенного авторами 
+мониторинга потребительских предпочтений установлено, что в артистической среде 
+требования потребителей к антроподинамическому соответствию костюма взаимосвязаны с 
+психофизическими показателями в иерархии свойств, подтверждено главенство требований 
+соответствия изделий для сцены стилю и современному модному цветовому решению. 
+Пространственная организация формы одежды для сцены определяется взаимосвязью между 
+создающими ее материалами, зависит от их свойств и структуры. Исследованием 
+подтверждено, что современные формоустойчивые синтетические материалы на основе 
+неопренов обладают искомыми характеристиками, позволяющими обеспечить проектируемую 
+сложную пространственную форму сценического костюма. По итогам исследования 
+разработан костюм солистки группы Guru Groove Foundation Татьяны Шаманиной для 
+выступления коллектива в концертном зале особого архитектурного решения. Апробация 
+сценического костюма показала, что швейные изделия из инновационных формоустойчивых 
+материалов обладают искомыми характеристиками, привлекательны по внешнему виду. 
+Одежда из неопренов не требует особого ухода, цветовое покрытие устойчиво к воздействию 
+внешней среды, мылам, химикатам, поэтому изделия будут востребованы в целевой группе 
+потребителей. 
+
+Ключевые слова: персонифицированная одежда; сценический образ; пространственная 
+форма; комплекс требований к изделию; модельная конструкция; проектирование изделия; 
+дизайн 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Костюм современного человека – непременный атрибут эстетического воспитания, 
+объединяющий в единый ансамбль одежду, обувь, аксессуары, прическу и грим [1, c. 4–5]. 
+Сценический костюм является не только выражением образа артиста, но своеобразной 
+специальной одеждой, поэтому в процессе его проектирования перед художниками, 
+конструкторами и технологами ставится целый комплекс задач, как традиционных, так и 
+нетривиальных. 
+
+Страница 2 из 13 
+16TLKL120 
+
+Издательство «Мир науки» \ Publishing company «World of science» http://izd-mn.com 
+
+
+
+Научный журнал «Костюмология» 2020, №1, Том 5 ISSN 2587-8026 
+Journal of Clothing Science 2020, No 1, Vol 5 https://kostumologiya.ru 
+
+ 
+
+Постановка задачи и определение требований к сценическому костюму 
+
+В процессе проектирования сценического костюма дизайнерам необходимо учитывать 
+целый комплекс факторов, влияющих на выбор решения: 
+
+• основное назначение изделий; 
+
+• условия эксплуатации; 
+
+• предпочтения потребителя (персоны, для которой проектируется модель 
+одежды); 
+
+• особенности фигуры и внешности потребителя. 
+
+Сценический костюм – это особый вид одежды для сольного выступления артиста на 
+большой сцене с искусственным светом. Поэтому при работе с эстрадным костюмом 
+необходимо учитывать архитектурные особенности площадки, на которой будет проходить 
+мероприятие, ее цветовое и стилистическое решение. 
+
+Цель научно-исследовательской работы – разработка сценического костюма солистки 
+группы Guru Groove Foundation Татьяны Шаманиной для эстрадного выступления коллектива 
+в концертном зале АТМА360 при театре Стаса Намина (рис. 1). Особенность зала – наличие 
+купола, что позволяет окружить зрителя визуальными интерактивными эффектами диапазоном 
+на 360 градусов. Цветовая композиция концерта представляет собой динамичное сочетание 
+ярких красок, движущихся узоров и сверкающих элементов. Поэтому колористика костюма 
+должна стать центром композиции эстрадного номера и сохранить внимание публики на 
+протяжении всего выступления артиста. 
+
+ 
+
+Рисунок 1. Зал АТМА-360 при театре 
+Стаса Намина – площадка проведения концертного мероприятия1 
+
+Анализ условий проведения мероприятия показал, что во время сценического 
+выступления (концерт проходил в июне), в зале АТМА360 недостаточно эффективное 
+кондиционирование помещений. Выступление группы Guru Groove Foundation насыщено 
+танцевальными элементами, движения артистов разноплановы (рис. 2). Поэтому 
+рациональность размеров и формы [2] проектируемой одежды должны быть согласованы с 
+эргономическим и динамическим соответствием изделий антропоморфной форме тела 
+солистки [3]. 
+
+ 
+1 АТМАSFERA360. Сферический Медиа Зал в парке Горького https://www.atma360.ru/. 
+
+Страница 3 из 13 
+16TLKL120 
+
+Издательство «Мир науки» \ Publishing company «World of science» http://izd-mn.com 
+
+
+
+Научный журнал «Костюмология» 2020, №1, Том 5 ISSN 2587-8026 
+Journal of Clothing Science 2020, No 1, Vol 5 https://kostumologiya.ru 
+
+ 
+
+ 
+
+Рисунок 2. Фото Татьяны Шаманиной, солистки группы 
+Guru Groove Foundation (фото предоставлено с разрешения артистки) 
+
+Анализ потребительских предпочтений клиента показал, что для Татьяны важна 
+многофункциональность костюма. Группа Guru Groove Foundation работает в жанрах «Поп и 
+Джаз – ритм, драйв, энергия, как основная философия!», неоднократно с 2009 года была 
+признана Лучшим танцевальным коллективом России. Музыкальный коллектив участвует в 
+разнообразных конкурсах, концертах и других мероприятиях, где сценическая одежда является 
+не только частью сценического имиджа, но и используется в повседневной жизни в различных 
+комбинациях с другими элементами гардероба артистки. Поэтому зрительный образ [4], 
+создаваемый костюмом, должен быть эффектным, соответствовать современным тенденциям 
+моды и визуально корректировать фигуру. 
+
+Итоговое ранжирование свойств персонифицированного сценического костюма 
+показало, что основным требованием является обеспечение эргономического соответствия [5], 
+изделие должно обеспечить динамику артистки, не нарушать пластику тела эксплуатации 
+двигающегося человека, сохранить при этом эстетические свойства и форму после активной 
+деятельности в течение двух часового концерта. 
+
+ 
+
+Разработка композиционного решения костюма 
+
+В процессе проработки композиции костюма определены основные требования к 
+визуальному образу модели одежды: 
+
+• соответствие модным трендам 2019 года; 
+
+• эффектный внешний вид; 
+
+• обеспечение визуальной коррекции фигуры; 
+
+• многофункциональность. 
+
+При создании модели изучены тренды сезона. Ежегодно ведущие дома моды 
+демонстрируют новейшие сочетания тканей, фактур и форм, а академия цвета PANTONE2 
+предлагает самые остро-актуальные оттенки цветов. Девиз разрабатываемого сценического 
+костюма – «Тренды молниеносны, а классика вечна!». Идеи образа основаны на сочетании 
+черного и белого, геометрии, вдохновении черно белой фотографией (рис. 3). 
+
+ 
+2 PANTONE Color Institute https://www.pantone.ru/pci. 
+
+Страница 4 из 13 
+16TLKL120 
+
+Издательство «Мир науки» \ Publishing company «World of science» http://izd-mn.com 
+
+
+
+Научный журнал «Костюмология» 2020, №1, Том 5 ISSN 2587-8026 
+Journal of Clothing Science 2020, No 1, Vol 5 https://kostumologiya.ru 
+
+ 
+
+ 
+
+Рисунок 3. Фрагмент мудборда по созданию 
+образа сценического костюма (автор Горковено Л., 2019) 
+
+На этапе проработки ассортиментной серии моделей сценического костюма 
+сформирован эскизный ряд с различными вариантами его композиционного и образного 
+решения. При этом все комбинации элементов одежды выдержаны в одном стиле (рис. 4). 
+Предлагаемые формы изделий становой части «архитектурны» [1, c. 190], со сложной объемной 
+структурой, четкими линиями, с фиксированными складчатыми элементами поверхности. 
+Нижняя часть костюма в моделях серии сдержанная, простой линейной объемно-
+пространственной конфигурации. 
+
+ 
+
+Рисунок 4. Ассортиментная серия моделей 
+сценического костюма (автор Горковено Л., 2019) 
+
+В ходе обсуждения с клиентом ассортиментной серии моделей для проекта выбран 
+брючный комплект №2 (на рисунке 4 – центральная модель), состоящий из жилета и брюк. 
+Жилет малого объема, прилегающего силуэта с отрезной баской и множественными 
+
+Страница 5 из 13 
+16TLKL120 
+
+Издательство «Мир науки» \ Publishing company «World of science» http://izd-mn.com 
+
+
+
+Научный журнал «Костюмология» 2020, №1, Том 5 ISSN 2587-8026 
+Journal of Clothing Science 2020, No 1, Vol 5 https://kostumologiya.ru 
+
+ 
+
+продольными формозадающими членениями, подчеркивает женственность образа артистки. 
+Художественное равновесие в брючном комплекте №2 достигается симметрией в костюме, а 
+округлость борта, переходящая в отворачивающуюся широкую бретель, придают модели 
+необходимую динамичность и образность. Для минимизации неблагоприятного воздействия 
+света от активного цветового шоу концерта, формирующего множественные светотени, 
+направленные под разными углами на поверхность костюма артиста, в жилете введено 
+контрастное оформление отделочных элементов – белых краев борта, горловины, низа, 
+центральной части спинки. Степень заполненности [1, c. 193] ими поверхности формы изделия, 
+позволяет переоценить восприятие массы всего изделия и визуально скорректировать одеждой 
+пропорции, придать стройность фигуре. 
+
+Антропометрический анализ телосложения артистки [6; 7] показал, что по фронтальной 
+поверхности фигура характеризуется значительным выступом грудных желез относительно 
+контуров живота, а со стороны спины преобладает выступ ягодиц относительно лопаток. 
+Поскольку проектируемое изделие малого объема, то конструктивно его форма решена 
+множественными разнонаправленными членениями, проходящими через основные 
+антропометрические точки (сосковую, лопаточную, талии, передний и задний углы 
+подмышечных впадин, плечевую)3. 
+
+Разработка конструкции выполнялась в графической среде САПР CLO 3D. Программное 
+обеспечение и инструментарий САПР позволяют выполнить достоверную визуализацию 
+проектируемого изделия [8; 9] на реалистичных образах фигур – аватарах4. Модель процесса 
+параметрического проектирования [10] сценического костюма включает этапы: 
+
+• подбор типового аватара [11], корректировка типовых размерных признаков в 
+соответствии с антропоморфными особенностями индивидуальной фигуры [12]; 
+
+• анализ эскизного задания дизайнера [13], виртуальный эскиз [14]; 
+
+• расчетно-графическое построение базовой и модельной конструкций модели [15; 
+16]; 
+
+• анализ антропометрического соответствия модели на виртуальном 
+персонифицированном аватаре [17; 18]; 
+
+• виртуальная оценка наличия/отсутствия отсутствию дефектов посадки; 
+
+• компьютерное конфекционирование модели [19] и моделирование поведения 
+ткани [20]; 
+
+• оценка соответствия полученной внешней формы изделия эскизу дизайнера [21]. 
+
+Скульптурность формы проектируемой модели сценического костюма определила 
+требования к физико-механическим свойствам материалов [22]. В качестве материала изделия 
+выбран неопрен5 – синтетический полимер на основе хлоропренового каучука с полиэстеровым 
+покрытием. Сочетание в неопреновом полотне эластичности позволит получить в изделии 
+проектируемую форму. Поскольку проектируемая модель жилета малого объема, а неопрен 
+
+ 
+3 ГОСТ 31396-2009 Классификация типовых фигур женщин по ростам, размерам и полнотным группам 
+
+для проектирования одежды / введ. 30.06.2010. – М.: Стандартинформ, 2011. – 18 с. 
+
+4 Handbook of virtual humans / edited by: Magnenat-Thalmann N., Daniel Thalmann D. – NJ: Wiley, 2004. – 
+468 p 
+
+5 Textile.Life Неопрен. https://textile.life/fabrics/types/neopren-opisanie-materiala-sostav-svojstva-dostoinstva-
+i-nedostatki.html. 
+
+Страница 6 из 13 
+16TLKL120 
+
+Издательство «Мир науки» \ Publishing company «World of science» http://izd-mn.com 
+
+
+
+Научный журнал «Костюмология» 2020, №1, Том 5 ISSN 2587-8026 
+Journal of Clothing Science 2020, No 1, Vol 5 https://kostumologiya.ru 
+
+ 
+
+формоустойчив, то на этапе систематизации входной информации для трехмерного 
+конструирования [23] принято решение сохранить базовые пространственные прибавки [24]. 
+
+ 
+
+Рисунок 5. Окно САПР CLO 3D. 
+Визуализация образа изделия и шаблонов модельной конструкции 
+
+На этапе цифрового конфекционирования модели выполнен анализ поведения 
+материала. Для этого из базы данных выбраны несколько образцов различной толщины (0,5–10 
+мм) и плотности (LS – мягкий и растяжимый, S – плотный и эластичный, HS – с высокой 
+плотностью ячеек и низкой гибкостью) [25], проведена виртуальная оценка динамики физико-
+механических свойств и сравнение искомых показателей свойств по шкалам драпируемости и 
+жесткости. На основе исследований выбран образец LS с толщиной полотна 1,3 мм. 
+
+ 
+
+Рисунок 6. Цифровой анализ свойств 
+драпируемости материалов на этапе цифрового конфекционирования 
+
+Апробация сценического костюма показала в условиях, приближенных к 
+эксплуатационным, показала, что изделие за период двухчасового интенсивного использования 
+при динамических нагрузках артиста сохранило первоначальную форму (рис. 7). Цветовое 
+покрытие неопрена устойчиво к стирке мылом и бытовым стиральным порошком при 
+температуре воды не выше 30 °С, к воздействию масел и химикатов. Формоустойчивость и 
+эластичность, малая масса, экологичность, отсутствие статического электричества, 
+привлекательный внешний вид при усилении нейлоном, лайкрой или полиэстером внешней 
+поверхности материала – основные достоинства неопрена. 
+
+Страница 7 из 13 
+16TLKL120 
+
+Издательство «Мир науки» \ Publishing company «World of science» http://izd-mn.com 
+
+
+
+Научный журнал «Костюмология» 2020, №1, Том 5 ISSN 2587-8026 
+Journal of Clothing Science 2020, No 1, Vol 5 https://kostumologiya.ru 
+
+ 
+
+  
+
+а   б 
+
+Рисунок 7. Анализ свойств формоустойчивости 
+в изделии из неопрена: а – до стирки; б – после стирки 
+
+ 
+
+Выводы 
+
+Создание сценического костюма – сложный процесс, однако поэтапное исследование 
+информации на этапах проектирования позволяет логически выстроить всю структуру данных, 
+необходимых для проектирования и, как итог, обосновать выбранные конструктивные, 
+технические и технологические решения костюма. 
+
+В процессе исследования требований к сценическому костюму установлено, что 
+основным требованием является обеспечение эргономического комфорта, изделие должно 
+обеспечить свободу движения артистки на сцене, не нарушать пластику двигающегося 
+человека, сохранить свою форму после активной эксплуатации. 
+
+ 
+
+Рисунок 8. Коллаж. Солистка группы Guru Groove Foundation Татьяна 
+Шаманина в сценическом костюме на концерте в зале АТМА360 при театре Стаса Намина 
+
+Страница 8 из 13 
+16TLKL120 
+
+Издательство «Мир науки» \ Publishing company «World of science» http://izd-mn.com 
+
+
+
+Научный журнал «Костюмология» 2020, №1, Том 5 ISSN 2587-8026 
+Journal of Clothing Science 2020, No 1, Vol 5 https://kostumologiya.ru 
+
+ 
+
+В качестве приоритетного фактора для изготовления сценического костюма с высокими 
+эргономическими показателями выбран материал. Выбор материала с необходимыми физико-
+механическим характеристикам обеспечивает производителю костюма возможность 
+изготовления изделия сценического назначения высокого качества. 
+
+Этап конструирования сценического костюма перенесен в виртуальную среду и изучена 
+возможность и актуальность такого процесса. Результаты работы показывают высокую 
+достоверность предварительных данных, что позволяет говорить о целесообразности 
+использования виртуальной среды и цифровых технологий в процессе проектирования 
+персонифицированного костюма. 
+
+В статье представлен иллюстративный материал, отображающий этапы разработки 
+костюма, и конечный результат – сценический костюм. Разработанный сценический костюм 
+был эффектно продемонстрирован во время выступления группы Guru Groove Foundation 
+(рис. 8). 
+
+На концерте Татьяна блистала в новом костюме, солистка довольна результатом, 
+чувствовала себя в костюме свободно и комфортно. Для дизайнера хорошее настроение 
+клиента, лучшая награда за проделанную работу. 
+
+Желаем Татьяне новых побед и новых высот! Благодарим за доверие и совместное 
+творчество. 
+
+ 
+
+ЛИТЕРАТУРА 
+
+1. Пармон Ф.М. Композиция костюма. Одежда, обувь, аксессуары. – М.: «Триада 
+Плюс», 2002. – 312 с. 
+
+2. Коблякова Е.Б. Основы проектирования рациональных размеров и формы 
+одежды. – М.: Легкая и пищевая промышленность, 1984. – 207 с. 
+
+3. Choi S., Ashdown S. 3D body scan analysis of dimensional change in lower body 
+measurements for active body positions // Textile Research Journal. – 2011, Vol. 81, 
+No.1. – P. 81–93. 
+
+4. Зинченко В.П., Вергилес Н.Ю. Формирование зрительного образа: Исследование 
+деятельности зрительной системы. – М.: Изд-во МГУ, 1969. – 107 с. 
+
+5. Дунаевская Т.Н., Коблякова Е.Б., Ивлева Г.С., Иевлева Р.В. Размерная типология 
+населения с основами анатомии и морфологии: учеб. пособие / под ред. Е.Б. 
+Кобляковой. – М.: Мастерство; Академия, 2001. – 288 с. 
+
+6. Властовский В.Г. Пропорции тела // Морфология человека. – 1983. – С. 58–66. 
+7. Гетманцева В.В. Разработка методов интеллектуализации процесса 
+
+автоматизированного проектирования женской одежды [Текст]: дис. на соиск. 
+учен. степ. канд. техн. наук: 05.19.04 / В.В. Гетманцева. – М.: МГУДТ, 2006. – 
+162 с. 
+
+8. Cho Y.S., Tsuchiya K., Takatera M., Inui S., Park H., Shimizu Y. Computerized pattern 
+making focus on fitting to 3D human body shapes // International Journal of Clothing 
+Science and Technology. – 2010, Vol.22, Is.1. – P. 16–24. 
+
+9. Bougourd J.P., Dekker L., Ross P.G., Ward J.P. A comparison of women's sizing by 
+3D electronic scanning and traditional anthropometry // Journal of the Textile Institute. 
+– 2000, Vol.91, Is.2, No.1. – P. 163–173. 
+
+10. Гетманцева В.В., Андреева Е.Г. Обобщенная модель процесса параметрического 
+проектирования одежды // Сборник: Современные задачи инженерных наук 
+
+Страница 9 из 13 
+16TLKL120 
+
+Издательство «Мир науки» \ Publishing company «World of science» http://izd-mn.com 
+
+
+
+Научный журнал «Костюмология» 2020, №1, Том 5 ISSN 2587-8026 
+Journal of Clothing Science 2020, No 1, Vol 5 https://kostumologiya.ru 
+
+ 
+
+сборник научных трудов Международного научно-технического симпозиума. 
+Москва, 2017. – С. 86–90. 
+
+11. Гетманцева В.В., Гальцова Л.О., Бояров М.С., Гусева М.А. Методика 
+проектирования виртуального манекена // Швейная промышленность. – 2011, № 
+6. – С. 32–34. 
+
+12. Осташко М.Г., Гетманцева В.В. Особенности проектирования коллекции одежды 
+на женщин больших размеров / УДК 687.016 / Российский государственный 
+университет им. А.Н. Косыгина (Технологии. Дизайн. Искусство) – 2016. – С. 
+107–109. 
+
+13. Андреева Е.Г., Гетманцева В.В., Мурашова Н.Г., Разин И.Б. Свидетельство о гос. 
+регистрации программы для ЭВМ № 2011612237 Распознавание 
+художественного эскиза модели одежды / правообладатель: МГУДТ; зарег. 
+17.03.2011. 
+
+14. Cugini U., Bordegoni M., Mana R. The role of virtual prototyping and simulation in the 
+fashion sector // International Journal on Interactive Design and Manufacturing. – 2008, 
+Vol. 20, Is. 1. – P. 33–38. 
+
+15. Бояров М.С., Гетманцева В.В., Максутова М.Т., Андреева Е.Г. Средства 
+разработки САПР с учетом 3D специфики [Текст] // Дизайн и технологии. – 2011. 
+– №22 (64). – С. 64–68. 
+
+16. Modeling and simulating bodies and garments / edited by: Magnenat-Thalmann N. – 
+Heidelberg: Springer, 2010. – 207 p. 
+
+17. Getmantseva V.V., Galtsova L.O., Boyarov M.S., Andreeva E.G. VIRTUAL DUMMY 
+DEVELOPMENT IN 3D ENVIRONMENT // В сборнике: Grand Fashion 
+Proceedings. 2011. С. 45–47. 
+
+18. Le K. Virtual Textiles: Making Realistic Fabrics in 3D // AATCC REVIEW. – 2017, 
+Vol.17, Is.3. – P. 31–37. 
+
+19. Ландовский В.В. Моделирование взаимодействий ткани с твердыми 
+многогранными объектами // Сборник научных трудов НГТУ, 2006. – №2(44). – 
+С. 53–58. 
+
+20. Fan J., Yu W., Hunter L. Clothing appearance and fit: Science and technology. – Boca 
+Raton, Florida: CRC press, 2004. – 239 p. 
+
+21. Tao X., Bruniaux P. Toward advanced three-dimensional modeling of garment 
+prototype from draping technique // International Journal of Clothing Science and 
+Technology. – 2013, Vol. 25, Is.4. – P. 266–283. 
+
+22. Слепнева Е.В., Хамматова В.В. Анализ современных материалов и 
+технологические основы для создания детской многофункциональной одежды // 
+Научный журнал «Костюмология», 2019 №2, 
+https://kostumologiya.ru/PDF/02TLKL219.pdf. 
+
+23. Хаблиева Ю.Б., Ковалевич А., Гетманцева В.В. Способ формирования 
+технического трехмерного эскиза // International Journal of Professional Science. 
+2019. № 4. С. 57–61. 
+
+24. Гусева М.А., Гетманцева В.В., Андреева Е.Г., Разин И.Б., Гусев И.Б., Гончарук 
+Е.О. Систематизация входной информации для проектирования швейных 
+изделий со специальными свойствами // Территория новых возможностей. 
+Вестник Владивостокского государственного университета экономики и сервиса. 
+– 2018, Т.10, №4. – С. 112–121. 
+
+25. Yu M., Wang Y., Wang Y., Li J. Correlation between clothing air gap space and fabric 
+mechanical properties // Journal of the Textile Institute. – 2013, Vol.104, Is.1, No.1. – 
+P. 67–77.  
+
+Страница 10 из 13 
+16TLKL120 
+
+Издательство «Мир науки» \ Publishing company «World of science» http://izd-mn.com 
+
+
+
+Научный журнал «Костюмология» 2020, №1, Том 5 ISSN 2587-8026 
+Journal of Clothing Science 2020, No 1, Vol 5 https://kostumologiya.ru 
+
+ 
+
+Getmantseva Varvara Vladimirovna 
+Russian state university named A.N. Kosygin (Technologies. Design. Art), Moscow, Russia 
+
+E-mail: getmantseva@inbox.ru 
+ 
+
+Guseva Marina Anatolevna 
+Russian state university named A.N. Kosygin (Technologies. Design. Art), Moscow, Russia 
+
+E-mail: guseva_marina67@mail.ru 
+ 
+
+Andreeva Elena Georgievna 
+Russian state university named A.N. Kosygin (Technologies. Design. Art), Moscow, Russia 
+
+E-mail: 2408elena@mail.ru 
+ 
+
+Gorkovenko Ludmila 
+Russian state university named A.N. Kosygin (Technologies. Design. Art), Moscow, Russia 
+
+E-mail: mila.anderst@gmail.com 
+ 
+
+Kopilova Maria Dmitrievna 
+Russian state university named A.N. Kosygin (Technologies. Design. Art), Moscow, Russia 
+
+E-mail: mdkopylova@mail.ru 
+ 
+
+Rogozhina Iulia Vladimirovna 
+Russian state university named A.N. Kosygin (Technologies. Design. Art), Moscow, Russia 
+
+E-mail: iulia3008@mail.ru 
+
+Stages of designing a personalized stage costume 
+Abstract. The article considers the process of creating a stage costume as a multi-factor 
+
+personalized design of a garment. Clothing for the stage is subject to increased aesthetic, 
+psychological, social and functional requirements. Women's stage costume should emphasize the 
+features of the figure, give the image elegance, conform to fashion and style, and show the vulnerability 
+of nature. The authors' analysis of the operating conditions of stage garments, carried out at the stage 
+of the technical task, showed the priority of the image aesthetics over the hygienic indicators of this 
+garment. According to the results conducted by the authors monitoring of consumer preferences found 
+that in the artistic environment consumer demands antropotehnicheskaya compliance of the costume 
+correlated with psychophysical performance in the hierarchy of the properties, confirmed the primacy 
+of compliance products for the scene style and modern fashion colours. The spatial organization of a 
+clothing form for a scene is determined by the relationship between the materials that create it, and 
+depends on their properties and structure. The study confirmed that modern form-resistant synthetic 
+materials based on neoprene have the desired characteristics that allow for the projected complex 
+spatial shape of the stage costume. The study developed a suit singers of the band Guru Groove 
+Foundation Tatyana Shamanina for performances at the concert hall special architectural solutions. 
+Testing of the stage costume showed that garments made of innovative form-resistant materials have 
+the desired characteristics and are attractive in appearance. Clothing made of neoprene does not require 
+special care, the color coating is resistant to the external environment, Soaps, chemicals, so the 
+products will be in demand in the target group of consumers. 
+
+Keywords: personalized clothing; stage image; spatial form; set of requirements for the 
+product; model design; product design; design 
+
+  
+
+Страница 11 из 13 
+16TLKL120 
+
+Издательство «Мир науки» \ Publishing company «World of science» http://izd-mn.com 
+
+
+
+Научный журнал «Костюмология» 2020, №1, Том 5 ISSN 2587-8026 
+Journal of Clothing Science 2020, No 1, Vol 5 https://kostumologiya.ru 
+
+ 
+
+REFERENCES 
+
+1. Parmon F.M. Kompozitsiya kostyuma. Odezhda, obuvʹ, aksessuary. – M.: «Triada 
+Plyus», 2002. – 312 s. 
+
+2. Koblyakova E.B. Osnovy proektirovaniya ratsionalʹnykh razmerov i formy odezhdy. – 
+M.: Legkaya i pishchevaya promyshlennostʹ, 1984. – 207 s. 
+
+3. Choi S., Ashdown S. 3D body scan analysis of dimensional change in lower body 
+measurements for active body positions // Textile Research Journal. – 2011, Vol. 81, 
+No.1. – P. 81–93. 
+
+4. Zinchenko V.P., Vergiles N.Yu. Formirovanie zritelʹnogo obraza: Issledovanie 
+deyatelʹnosti zritelʹnoy sistemy. – M.: Izd-vo MGU, 1969. – 107 s. 
+
+5. Dunaevskaya T.N., Koblyakova E.B., Ivleva G.S., Ievleva R.V. Razmernaya tipologiya 
+naseleniya s osnovami anatomii i morfologii: ucheb. posobie / pod red. E.B. 
+Koblyakovoy. – M.: Masterstvo; Akademiya, 2001. – 288 s. 
+
+6. Vlastovskiy V.G. Proportsii tela // Morfologiya cheloveka. – 1983. – S. 58–66. 
+
+7. Getmantseva V.V. Razrabotka metodov intellektualizatsii protsessa 
+avtomatizirovannogo proektirovaniya zhenskoy odezhdy [Tekst]: dis. na soisk. uchen. 
+step. kand. tekhn. nauk: 05.19.04 / V.V. Getmantseva. – M.: MGUDT, 2006. – 162 s. 
+
+8. Cho Y.S., Tsuchiya K., Takatera M., Inui S., Park H., Shimizu Y. Computerized pattern 
+making focus on fitting to 3D human body shapes // International Journal of Clothing 
+Science and Technology. – 2010, Vol.22, Is.1. – P. 16–24. 
+
+9. Bougourd J.P., Dekker L., Ross P.G., Ward J.P. A comparison of women's sizing by 
+3D electronic scanning and traditional anthropometry // Journal of the Textile Institute. 
+– 2000, Vol.91, Is.2, No.1. – P. 163–173. 
+
+10. Getmantseva V.V., Andreeva E.G. Obobshchennaya modelʹ protsessa 
+parametricheskogo proektirovaniya odezhdy // Sbornik: Sovremennye zadachi 
+inzhenernykh nauk sbornik nauchnykh trudov Mezhdunarodnogo nauchno-
+tekhnicheskogo simpoziuma. Moskva, 2017. – S. 86–90. 
+
+11. Getmantseva V.V., Galʹtsova L.O., Boyarov M.S., Guseva M.A. Metodika 
+proektirovaniya virtualʹnogo manekena // Shveynaya promyshlennostʹ. – 2011, № 6. – 
+S. 32–34. 
+
+12. Ostashko M.G., Getmantseva V.V. Osobennosti proektirovaniya kollektsii odezhdy na 
+zhenshchin bolʹshikh razmerov / UDK 687.016 / Rossiyskiy gosudarstvennyy 
+universitet im. A.N. Kosygina (Tekhnologii. Dizayn. Iskusstvo) – 2016. – S. 107–109. 
+
+13. Andreeva E.G., Getmantseva V.V., Murashova N.G., Razin I.B. Svidetelʹstvo o gos. 
+registratsii programmy dlya EHVM № 2011612237 Raspoznavanie 
+khudozhestvennogo ehskiza modeli odezhdy / pravoobladatelʹ: MGUDT; zareg. 
+17.03.2011. 
+
+14. Cugini U., Bordegoni M., Mana R. The role of virtual prototyping and simulation in the 
+fashion sector // International Journal on Interactive Design and Manufacturing. – 2008, 
+Vol. 20, Is. 1. – P. 33–38. 
+
+15. Boyarov M.S., Getmantseva V.V., Maksutova M.T., Andreeva E.G. Sredstva razrabotki 
+SAPR s uchetom 3D spetsifiki [Tekst] // Dizayn i tekhnologii. – 2011. – №22 (64). – S. 
+64–68. 
+
+Страница 12 из 13 
+16TLKL120 
+
+Издательство «Мир науки» \ Publishing company «World of science» http://izd-mn.com 
+
+
+
+Научный журнал «Костюмология» 2020, №1, Том 5 ISSN 2587-8026 
+Journal of Clothing Science 2020, No 1, Vol 5 https://kostumologiya.ru 
+
+ 
+
+16. Modeling and simulating bodies and garments / edited by: Magnenat-Thalmann N. – 
+Heidelberg: Springer, 2010. – 207 p. 
+
+17. Getmantseva V.V., Galtsova L.O., Boyarov M.S., Andreeva E.G. VIRTUAL DUMMY 
+DEVELOPMENT IN 3D ENVIRONMENT // V sbornike: Grand Fashion Proceedings. 
+2011. S. 45–47. 
+
+18. Le K. Virtual Textiles: Making Realistic Fabrics in 3D // AATCC REVIEW. – 2017, 
+Vol.17, Is.3. – P. 31–37. 
+
+19. Landovskiy V.V. Modelirovanie vzaimodeystviy tkani s tverdymi mnogogrannymi 
+obʺektami // Sbornik nauchnykh trudov NGTU, 2006. – №2(44). – S. 53–58. 
+
+20. Fan J., Yu W., Hunter L. Clothing appearance and fit: Science and technology. – Boca 
+Raton, Florida: CRC press, 2004. – 239 p. 
+
+21. Tao X., Bruniaux P. Toward advanced three-dimensional modeling of garment 
+prototype from draping technique // International Journal of Clothing Science and 
+Technology. – 2013, Vol. 25, Is.4. – P. 266–283. 
+
+22. Slepneva E.V., Khammatova V.V. Analiz sovremennykh materialov i 
+tekhnologicheskie osnovy dlya sozdaniya detskoy mnogofunktsionalʹnoy odezhdy // 
+Nauchnyy zhurnal «Kostyumologiya», 2019 №2, 
+https://kostumologiya.ru/PDF/02TLKL219.pdf. 
+
+23. Khablieva Yu.B., Kovalevich A., Getmantseva V.V. Sposob formirovaniya 
+tekhnicheskogo trekhmernogo ehskiza // International Journal of Professional Science. 
+2019. № 4. S. 57–61. 
+
+24. Guseva M.A., Getmantseva V.V., Andreeva E.G., Razin I.B., Gusev I.B., Goncharuk 
+E.O. Sistematizatsiya vkhodnoy informatsii dlya proektirovaniya shveynykh izdeliy so 
+spetsialʹnymi svoystvami // Territoriya novykh vozmozhnostey. Vestnik 
+Vladivostokskogo gosudarstvennogo universiteta ehkonomiki i servisa. – 2018, T.10, 
+№4. – S. 112–121. 
+
+25. Yu M., Wang Y., Wang Y., Li J. Correlation between clothing air gap space and fabric 
+mechanical properties // Journal of the Textile Institute. – 2013, Vol.104, Is.1, No.1. – 
+P. 67–77. 
+
+Страница 13 из 13 
+16TLKL120 
+
+Издательство «Мир науки» \ Publishing company «World of science» http://izd-mn.com

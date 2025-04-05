@@ -1,0 +1,508 @@
+﻿Ю. С. Овсянников, М. С. Дурсенев
+
+Yu. S. Ovsyannikov, M. S. Dursenev
+
+ОРИГИНАЛЬНЫЕ СТАТЬИ / ORIGINAL ARTICLES
+
+УДК 604:661.124:615.012.6
+https://doi.org/10.30895/2221-996X-2021-21-3-200-205 ©
+
+Разработка технологии приготовления ферментативного гидролизата 
+отработанных куриных эмбрионов
+Ю. С. Овсянников, М. С. Дурсенев*
+
+Федеральное государственное бюджетное образовательное 
+учреждение высшего образования 
+«Вятский государственный агротехнологический университет», 
+Октябрьский проспект, д. 133, Киров, 610017, Российская Федерация
+
+Перспективным направлением в биотехнологии является разработка технологий изготовления питательных основ микро-
+биологических питательных сред (ПС), в которых в качестве белкового сырья используют отходы производства, как прави-
+ло, недефицитных и непищевых продуктов. Сотрудниками Вятского государственного агротехнологического университета 
+предлагается использовать для этих целей непищевое вторичное сырье — отработанные куриные эмбрионы (ОКЭ), кото-
+рые после извлечения вируссодержащей аллантоисной жидкости являются отходами производства противогриппозных 
+препаратов. Цель работы: разработка технологии приготовления ферментативного гидролизата ОКЭ и оценка ростовых 
+свойств плотной ПС на его основе с использованием тест-штаммов Escherichia coli M-17 и Pseudomonas аlcaligenes IP-1. 
+Материалы и методы: предложены методические подходы получения ферментативного гидролизата отработанных ку-
+риных эмбрионов (ФГОКЭ), обоснованы параметры процесса гидролиза. Разработанный ФГОКЭ оценен по физико-хими-
+ческим показателям: рН; содержание аминного азота, общего азота, натрия хлорида, степень расщепления белка. Росто-
+вые свойства ПС, приготовленной на основе разработанного гидролизата, исследовали с использованием тест-штаммов 
+E. coli M-17 и Ps. аlcaligenes IP-1. Результаты: экспериментально показана возможность ферментативного гидролиза ОКЭ. 
+Изуче ны физико-химические показатели приготовленных серий ФГОКЭ. Показана возможность использования приготов-
+ленного гидролизата в составе плотной ПС для выращивания выбранных тест-штаммов. Выводы: обоснованы оптималь-
+ные технологические параметры ферментативного гидролиза ОКЭ: рН (7,6 ± 0,3), продолжительность (48 ± 2) ч, темпе-
+ратура (49 ± 1) °С; оптимизирована загрузка компонентов гидролиза: массовая доля субстрата 500 г/л, массовая доля 
+гидролизующего агента 100 г/л. ФГОКЭ по своим физико-химическим показателям пригоден для конструирования микро-
+биологических сред; плотная ПС на основе экспериментального гидролизата стабильно обеспечивает рост тест-штаммов 
+E. coli M-17 и Ps. alcaligenes IP-1 с типичными свойствами; ростовые свойства экспериментальной среды сопоставимы с та-
+ковыми ПС, приготовленной на основе мясо-пептонного бульона.
+Ключевые слова: технология; куриные эмбрионы; непищевое сырье; питательная среда; ферментативный гидролизат; 
+ферментативный гидролиз
+
+Для цитирования: Овсянников ЮС, Дурсенев МС. Разработка технологии приготовления ферментативного гидро-
+лизата отработанных куриных эмбрионов. БИОпрепараты. Профилактика, диагностика, лечение. 2021;21(3):200–205. 
+https://doi.org/10.30895/2221-996X-2021-21-3-200-205
+* Контактное лицо: Дурсенев Максим Сергеевич; Maks.Xitman@mail.ru
+
+Development of the technology for preparation of enzymatic hydrolysate of waste 
+chick embryos
+Yu. S. Ovsyannikov, M. S. Dursenev*
+
+Vyatka State Agrotechnological University, 
+133 Oktyabrsky Avenue, Kirov 610017, Russian Federation
+
+The development of technologies for preparation of protein nutritional bases for microbiological nutrient media, from production waste 
+of mainly readily available or non-food products, is a promising area in biotechnology. Researchers of Vyatka State Agrotechnological 
+University assume that non-food secondary raw materials, such as waste chick embryos (WCEs) used in the production of anti-influ-
+enza products, could be used for these purposes, after removal of the virus-containing allantoic fluid. The aim of the study was to 
+develop a technology for preparation of WCE enzymatic hydrolysate (WCEEH), and to evaluate growth properties of the hydrolysate-
+based solid nutrient medium, using Escherichia coli M-17 and Pseudomonas alcaligenes IP-1 test strains. Materials and methods: 
+the authors offer methodological approaches to obtaining WCEEH and substantiate hydrolysis parameters. The obtained WCEEH 
+was characterised in terms of physico-chemical properties: pH, amine nitrogen, total nitrogen, sodium chloride, degree of protein 
+cleavage. The growth properties of the hydrolysate-based nutrient medium were studied using E. coli M-17 and Ps. alcaligenes 
+IP-1 test strains. Results: the experiments demonstrated the feasibility of performing enzymatic hydrolysis of WCEs, and assessed 
+physico-chemical properties of the prepared WCEEH batches. The study demonstrated the possibility of using the prepared hydroly-
+sate as a component of solid nutrient media for growing the selected test strains. Conclusions: the study substantiated the optimal 
+technological parameters for WCE enzymatic hydrolysis: pH (7.6 ± 0.3), duration (48 ± 2 h), temperature (49 ± 1) °C. The loading of 
+hydrolysis components was optimised: mass fraction of the substrate—500 g/L, mass fraction of the hydrolysing agent—100 g/L. The 
+physico-chemical properties of WCEEH make it suitable for preparation of microbiological media; the hydrolysate-based solid nutri-
+ent medium consistently ensures the growth of E. coli M-17 and Ps. alcaligenes IP-1 test strains with standard properties. The growth 
+properties of the experimental medium are comparable to those of the meat-peptone broth-based nutrient medium.
+
+200 БИОпрепараты. Профилактика, диагностика, лечение. 2021, Т. 21, № 3
+BIOpreparations. Prevention, Diagnosis, Treatment. 2021, V. 21, No. 3
+
+
+
+Разработка технологии приготовления ферментативного гидролизата отработанных куриных эмбрионов
+Development of the technology for preparation of enzymatic hydrolysate of waste chick embryos
+
+Key words: technology; chick embryos; non-food raw materials; growth medium; enzymatic hydrolysate; enzymatic hydrolysis
+
+For citation: Ovsyannikov YuS, Dursenev MS. Development of the technology for preparation of enzymatic hydrolysate of waste chick 
+embryos. BIOpreparaty. Profilaktika, diagnostika, lechenie  =  BIOpreparations. Prevention, Diagnosis, Treatment. 2021;21(3):200–
+205. https://doi.org/10.30895/2221-996X-2021-21-3-200-205
+* Corresponding author: Maksim S. Dursenev; Maks.Xitman@mail.ru
+
+Получение белковых гидролизатов как источника амино- защиты прав потребителей и благополучия человека Россий-
+кислот и пептидов нашло свое применение в биотехнологии ской Федерации, pH 7,2.
+для приготовления питательных основ (ПО), входящих в состав Ростовые свойства ПС, приготовленной на основе разра-
+микробиологических питательных сред (ПС), которые являют- ботанного гидролизата, исследовали с использованием тест-
+ся источником питания микроорганизмов при их культивирова- штаммов Escherichia coli M-17 и Pseudomonas аlcaligenes IP-1 
+нии [1–3]. Для нормального обеспечения развития бактериаль- из коллекции микроорганизмов кафедры микробиологии 
+ных клеток необходим азот органических соединений, который ФГБОУ ВО Вятский ГАТУ. 
+они получают благодаря правильно подобранной питательной Используемое сырье, реактивы и препараты отвечали тре-
+основе — белковым гидролизатам1. бованиям действующих ГОСТ, ТУ, ОСТ.
+
+Питательная ценность и свойства белковых гидролизатов Методы
+обусловлены исходным сырьем и способом гидролиза. Для ФГОКЭ оценивали по физико-химическим показателям3: 
+их производства может служить любое полноценное по ами- рН (потенциометрическим методом); содержание аминного 
+нокислотному составу сырье, содержащее природные белки азота N
+[4–9]. Одним из перспективных направлений в биотехнологии ам (методом Зеренсен–Гаврилова); содержание об-
+
+щего азота (методом Къельдаля); содержание натрия хло-
+является поиск и активное привлечение новых источников рида (аргентометрическим титрованием по методу Мора), 
+белкового сырья в производство питательных основ и сред. степень расщепления белка (СРБ) рассчитывали по соот-
+Примером такого сырья могут служить отработанные кури- ношению величин аминного и общего азота в процентном 
+ные эмбрионы (ОКЭ), являющиеся отходами производства эквиваленте.
+противогриппозных препаратов. Применение этого сырья для Выращивание культур осуществляли на эксперимен-
+получения ПС вполне обосновано, так как известны высокие тальной ПС и контрольной. Выращивание тест-штамма 
+ростовые свойства яичных сред, а также наличие биостиму- E. coli М-17 проводили на чашках Петри при температуре 
+ляторов роста микроорганизмов в экстракте куриных эмбри- (37 ± 1) °С в течение двух суток. Выращивание тест-штамма 
+онов [1, 10]. Ps. аlcaligenes IP-1 осуществляли на чашках Петри при тем-
+
+Важным аспектом при производстве гидролизатов являет- пературе (28 ± 1) °С также в течение двух суток. Рост культур 
+ся выбор способа их получения. оценивали в динамике, через 24 и 48 ч путем определения 
+
+Ранее нами были проведены исследования по созданию количества выросших колоний и их размера. Характер роста 
+кислотных гидролизатов из ОКЭ [11, 12]. В качестве гидроли- культуры и типичность морфологических свойств колоний 
+зующего агента использовались соляная и серная кислоты. На- оценивали визуально.
+личие в ПС хлорид-ионов или сульфат-ионов, накапливаемых Статистический анализ полученных результатов прово-
+при использовании кислотных гидролизатов, избирательно дили с помощью программы Microsoft Excel. Статистическую 
+для ряда микроорганизмов. Избыточное количество этих ио- значимость средних значений оценивали с применением 
+нов бывает нежелательно и может ингибировать биотехноло- непараметрического U-критерия Манна–Уитни (программа 
+гические процессы [1, 13–16]. Statistica 10.0).
+
+Цель исследования — разработка технологии приготов-
+ления ферментативного гидролизата ОКЭ (ФГОКЭ) и оцен- Результаты и обсуждение
+ка ростовых свойств плотной ПС на его основе с использо-
+ванием тест-штаммов Escherichia coli M-17 и Pseudomonas Подготовка ОКЭ к гидролизу была проведена по ранее 
+аlcaligenes IP-1. предложенному способу [11], которая заключалась в их са-
+
+нитарной обработке, измельчении и автоклавировании, обе-
+Материалы и методы спечивающих обеззараживание отходов вакцинного произ-
+
+водства.
+Материалы: В лабораторных условиях спланирован и проведен опыт 
+- 12-суточные куриные эмбрионы, после извлечения ви- по получению ФГОКЭ. В качестве гидролизующего агента ис-
+
+руссодержащей аллантоисной жидкости предоставленные АО пользовали ПЖ крупного рогатого скота. Выбор оптимального 
+НПО «Микроген»; соотношения компонентов гидролиза проводили при помощи 
+
+- поджелудочные железы (ПЖ) крупного рогатого скота факторного метода планирования эксперимента. Для этого 
+ГОСТ 11285–20172; был спланирован и проведен опыт по методу латинских пря-
+
+- плотная ПС на основе ФГОКЭ лабораторного приготов- моугольников [17].
+ления, pH 7,2; Планирование эксперимента позволило получить матема-
+
+- мясо-пептонный бульон (МПБ) производства ФБУН «Го- тическую модель, связывающую выходные параметры (факто-
+сударственный научный центр прикладной микробиологии ры варьирования) с входными. Факторами варьирования были 
+и биотехнологии» Федеральной службы по надзору в сфере выбраны массовая доля субстрата и массовая доля гидролизу-
+
+1 Шепелин АП. Разработка технологии производства панкреатического гидролизата рыбной муки и конструирование на его основе бактерио-
+логических питательных сред: дис. … д-ра биол. наук. М.; 2013.
+
+2 ГОСТ 11285–2017. Железы поджелудочные крупного рогатого скота и свиней замороженные. Технические условия.
+3 Методические указания МУК 4.2.2316–08. Методы контроля бактериологических питательных сред. М.: Федеральный центр гигиены 
+
+и эпидемиологии Роспотребнадзора; 2008.
+
+БИОпрепараты. Профилактика, диагностика, лечение. 2021, Т. 21, № 3 201
+BIOpreparations. Prevention, Diagnosis, Treatment.  2021, V. 21, No. 3
+
+
+
+Ю. С. Овсянников, М. С. Дурсенев 
+Yu. S. Ovsyannikov, M. S. Dursenev
+
+ющего агента ПЖ. В качестве выходного параметра — значе- гидролиза, что позволяет нам сделать вывод о завершении 
+ние аминного азота. расщепления белка в смеси. Таким образом, были определены 
+
+Для определения оптимальных значений данных факторов технологические параметры ферментативного гидролиза ОКЭ. 
+была составлена схема планирования эксперимента. Схема опыта Данные представлены в таблице 1.
+составлена по принципу сочетания каждого уровня любого фак- По разработанной технологии были приготовлены три серии 
+тора одинаковым количеством раз со всеми уровнями остальных ФГОКЭ. Полученные образцы экспериментальных серий были 
+факторов. Следует отметить, что при планировании и реализации темно-желтого цвета, прозрачные, имели характерный яичный 
+эксперимента температура, рН реакционной смеси и продолжи- запах. Физико-химические характеристики экспериментальных 
+тельность гидролиза оставались в заданных границах. серий представлены в таблице 2. Для сравнения в таблице 2 
+
+При осуществлении процесса гидролиза с варьированной представлены физико-химические характеристики МПБ.
+загрузкой субстрата и гидролизующего агента проводили кон- Из данных, представленных в таблице 2, следует, что при-
+троль значения аминного азота. Значение последнего находи- готовленные серии ФГОКЭ по изучаемым показателям сопо-
+лось в пределах от 0,081 до 0,256%. Массовая доля субстрата ставимы между собой. Что касается сравнения ФГОКЭ и МПБ, 
+варьировалась от 100 до 500 г/л, а массовая доля гидролизую- то по СРБ ферментативный гидролизат ОКЭ превосходит ПС, при-
+щего агента — от 50 до 125 г/л. На основании указанных дан- готовленную из МПБ. Содержание хлоридов в эксперименталь-
+ных определяли оптимальную загрузку сырья и гидролизую- ном гидролизате во всех трех сериях практически отсутствует, что 
+щего агента путем расчета эффектов действующих факторов. необходимо учитывать при конструировании ПС. На основании 
+По данным расчетов установлено, что оптимальная массовая полученных физико-химических характеристик эксперименталь-
+доля субстрата — 500 г/л, а оптимальная массовая доля гидро- ных серий гидролизата для оценки возможности использования 
+лизующего агента — 100 г/л. Исходя из полученных данных ФГОКЭ в качестве основы ПС была выбрана серия 2.
+были приготовлены экспериментальные серии ФГОКЭ. Для изучения ростовых свойств эксперименталь-
+
+Ферментативный гидролиз белков животного про- ной плот ной ПС использовали тест-штамм E. coli M-17 
+исхождения предусматривает ведение процесса при и Ps. alcaligenes IP-1. В качестве контрольной среды выбрана 
+рН от 7,0 до 8,0, при этом время гидролиза колеблется плотная ПС на основе МПБ. В таблице 3 представлены прописи 
+от 2 до 7 суток в зависимости от температуры гидролиза [1– экспериментальной и контрольной плотных ПС.
+3, 6, 15]. В данной работе установлено, что гидролизующий Сравнительная оценка роста тест-штаммов E. coli M-17 
+агент ПЖ проявляет свою максимальную активность при рН и Ps. аlcaligenes IP-1 на контрольной и экспериментальной ПС 
+от 7,3 до 7,9 и температуре от 48 до 50 °С. При данных усло- представлена в таблицах 4 и 5.
+виях был проведен ферментативный гидролиз ОКЭ. В течение Культура E. coli при росте на всех плотных ПС образовыва-
+всего процесса контролировали содержание аминного азота ла типичные круглые с гладкой, выпуклой поверхностью, ров-
+в смеси. Нарастание данного параметра прекратилось на 48 ч ными краями непрозрачные колонии сероватого цвета.
+
+Таблица 1. Технологические параметры ферментативного гидролиза отработанных куриных эмбрионов
+Table 1. Technological parameters of enzymatic hydrolysis of waste chick embryos
+
+Параметр Значение параметра
+Parameter Value
+
+pH 7,6 ± 3,0
+Продолжительность гидролиза, ч
+
+Duration of hydrolysis, h 48 ± 2,0
+
+Температура гидролиза, °С
+Hydrolysis temperature, °C 49 ± 1,0
+
+Таблица 2. Физико-химические показатели экспериментальных серий ферментативного гидролизата отработанных кури-
+ных эмбрионов
+Table 2. Physico-chemical properties of the experimental batches of the enzymatic hydrolysate of waste chick embryos
+
+Значение показателя Значение показателя для ФГОКЭ
+Показатель для МПБ Value for WCEEH
+
+Test parameter ( ±I95, n = 3)
+Value for MPB серия 1 серия 2 серия 3
+( ±I95, n = 3) batch 1 batch 2 batch 3
+
+Массовая доля аминного азота, %
+Amine nitrogen content, % 0,10 ± 0,02 0,199 0,195 0,192
+
+Массовая доля общего азота, %
+Total nitrogen content, % 0,43 ± 0,07 0,355 0,349 0,343
+
+рН 7,20 ± 0,14 7,40 7,10 7,25
+Массовая доля натрия хлорида, %
+
+Total sodium chloride content, % 0,10 ± 0,03 0,03 0,03 0,03
+
+Массовая доля сухого остатка, %
+Dry residue, % 3,06 ± 0,56 6,6 6,7 6,7
+
+СРБ, %
+Degree of protein cleavage, % 25,04 ± 3,16 56 56 56
+
+Примечание. ФГОКЭ — ферментативный гидролизат отработанных куриных эмбрионов; МПБ — мясо-пептонный бульон; СРБ — степень 
+расщепления белка.
+Note. WCEEH—waste chick embryo enzymatic hydrolysate; MPB—meat-peptone broth.
+
+202 БИОпрепараты. Профилактика, диагностика, лечение. 2021, Т. 21, № 3
+BIOpreparations. Prevention, Diagnosis, Treatment. 2021, V. 21, No. 3
+
+
+
+Разработка технологии приготовления ферментативного гидролизата отработанных куриных эмбрионов
+Development of the technology for preparation of enzymatic hydrolysate of waste chick embryos
+
+Таблица 3. Состав плотных питательных сред
+Table 3. Composition of solid nutrient media
+
+Состав плотной ПС на основе
+Ингредиенты Composition of a solid nutrient medium based on 
+Components ФГОКЭ (экспериментальная) МПБ (контрольная)
+
+WCEEH (test) MPB (control) 
+Разведенная дистиллированной водой до величины  
+
+ПО Nам = (0,100 ± 0,05)%, из расчета на 1 дм 3 ПС 1 дм 3
+
+NB Diluted in distilled water to Nam = (0.110 ± 0.05)%, calculated for 1 dm 3
+
+1 dm 3 of NM
+NaCl, г/дм 3
+
+NaCl, g/dm 3 5 –
+
+KCl, г/дм 3
+
+KCl, g/dm 3 0,2 0,2
+
+Na2HPO  3
+4, г/дм
+
+Na 3 1 1
+2HPO4, g/dm 
+
+Агар, г/дм 3
+
+Agar, g/dm 3 20 20
+
+Примечание. ПС — питательная среда; ФГОКЭ — ферментативный гидролизат отработанных куриных эмбрионов; МПБ — мясо-пептонный 
+бульон; ПО — питательная основа; Nам — массовая доля аминного азота. «–» — данный компонент не вносили в питательную среду.
+Note. NM—nutrient medium; WCEEH—waste chick embryo enzymatic hydrolysate; MPB—meat-peptone broth; NB—nutritional base; Nam—mass 
+fraction of amine nitrogen. —the component was not added to the nutrient medium.
+
+Таблица 4. Сравнительная оценка роста тест-штамма E. coli М-17 на контрольной и экспериментальной средах
+Table 4. Comparative assessment of the E. coli M-17 test strain growth on the control and test media
+
+ПС на основе Продолжительность 
+Nutrient medium based on культивирования, ч КОЕ/см 3 (  ± I95, n = 6) Размер колоний, мм
+
+3 
+Duration of cultivation, h CFU/cm (  ± I  size, mm
+
+95, n = 6) Colony
+
+ФГОКЭ 24 36,0 ± 2,06 2–3 
+(экспериментальная)
+
+WCEEH 48 45,0 ± 2,34 3–4
+(test)
+
+МПБ 24 37,0 ± 1,08 2–3
+(контрольная)
+
+MPB 48 49,0 ± 2,48 3–4
+(control)
+
+Примечание. ПС — питательная среда; ФГОКЭ — ферментативный гидролизат отработанных куриных эмбрионов; МПБ — мясо-пептонный 
+бульон; КОЭ — колониеобразующие единицы. Посевная доза составила 50 КОЭ/см 3.
+Note. NM—nutrient medium; WCEEH—waste chick embryo enzymatic hydrolysate; MPB—meat-peptone broth; CFU—colony-forming unit. The seeding 
+dose was 50 CFU/cm 3.
+
+Таблица 5. Сравнительная оценка роста тест-штамма Ps. аlcaligenes IP-1 на контрольной и экспериментальной средах
+Table 5. Comparative assessment of the Ps. alcaligenes IP-1 test strain growth on the control and test media
+
+ПС на основе Продолжительность КОЕ/см 3
+
+Nutrient medium based on культивирования, ч (  ± I95, n = 6) Размер колоний, мм
+uration of cultivation, h CFU/cm 3
+
+D Colony size, mm
+(  ± I95, n = 6)
+
+ФГОКЭ 24 36,00 ± 2,06 2–3
+(экспериментальная)
+
+WCEEH (test) 48 48,00 ± 3,09 3–4
+
+МПБ 24 38,00 ± 2,14 2–3
+(контрольная)
+MPB (control) 48 50,00 ± 2,7 3–4
+
+Примечание. ПС — питательная среда; ФГОКЭ — ферментативный гидролизат отработанных куриных эмбрионов; МПБ — мясо-пептонный 
+бульон; КОЭ — колониеобразующие единицы. Посевная доза составила 50 КОЭ/см 3.
+Note. NM—nutrient medium; WCEEH—waste chick embryo enzymatic hydrolysate; MPB—meat-peptone broth; CFU—colony-forming unit. The seeding 
+dose was 50 CFU/cm 3.
+
+Культура Ps. alcaligenes при росте как на экспериментальной, свойства экспериментальной среды сопоставимы с таковыми 
+так и на контрольной плотных ПС образовывала типичные желто- питательной среды, приготовленной на основе МПБ.
+ватые колонии с тонкими, неровными, «ползущими» краями.
+
+Как следует из данных, представленных в таблицах 4 и 5, Выводы
+при одинаковом количестве выросших на экспериментальной 1. В результате проведенного исследования обоснованы 
+и контрольной ПС колоний их размер на экспериментальной оптимальные технологические параметры ферментативного 
+среде незначительно уступает по данному показателю колони- гидролиза ОКЭ: рН (7,6 ± 0,3), продолжительность (48 ± 2) ч, 
+ям микроорганизмов, выросшим на контрольной ПС. Ростовые температура (49 ± 1) °С.
+
+БИОпрепараты. Профилактика, диагностика, лечение. 2021, Т. 21, № 3 203
+BIOpreparations. Prevention, Diagnosis, Treatment.  2021, V. 21, No. 3
+
+
+
+Ю. С. Овсянников, М. С. Дурсенев 
+Yu. S. Ovsyannikov, M. S. Dursenev
+
+2. Оптимизирована загрузка компонентов для проведения логии, эпидемиологии и иммунобиологии. 2008;(3):91–3. 
+гидролиза: массовая доля субстрата 500 г/л, массовая доля [Kalyagina SYu. Development of growth medium from meat 
+гид ролизующего агента 100 г/л. processing waste products and assessment of its properties. 
+
+3. Полученная белковая основа микробиологических ПС, Zhurnal mikrobiologii, èpidemiologii i immunobiologii  = 
+Journal of Microbiology, Epidemiology and Immunobiology. 
+
+ФГОКЭ по своим физико-химическим показателям качества 2008;(3):91–3 (In Russ.)]
+пригодна для конструирования микробиологических сред. 5. Филимонова ГВ, Тетерин ВВ, Лещенко АА, Лазыкин АГ, 
+
+4. Плотная ПС на основе экспериментального гидро- Погорельский ИП, Бирюков ВВ и др. Использование 
+лизата стабильно обеспечивает рост тест-штаммов E. coli гидролизатов крови крупного рогатого скота, как эле-
+M-17 и Ps. alcaligenes IP-1 с типичными свойствами. Ростовые ментов субстратного питания чумного микроба. Биоза-
+свойства экспериментальной среды сопоставимы с таковыми щита и биобезопасность. 2014;4:50–2. [Filimonova GV, 
+питательной среды, приготовленной на основе мясо-пептонно- Teterin VV, Leshchenko AA, Lazykin AG, Pogorel’sky IP, 
+
+го бульона. Biryukov VV, et al. The use of cattle blood hydrolyzates 
+as the elements of substrate nutrition of plague microbe. 
+
+5. Дальнейшие исследования целесообразно направить Biozashchita i bezopasnost  =  Biosecurity and Biosafety. 
+на оптимизацию ПС для конкретного микроорганизма. 2014;4:50–2 (In Russ.)]
+
+Вклад авторов. Ю.  С.  Овсянников — формирование 6. Коваленко ЕА, Тетерин ВВ, Мохов ДА, Филимонова ГВ, 
+концепции статьи, написание текста рукописи, оконча- Пермяков РГ, Овсянников ЮС и др. Изучение возмож-
+тельное утверждение версии рукописи для публикации; ности переработки вторичного сырья убоя птицы в ги-
+М. С. Дурсенев — экспериментальная работа по определе- дролизаты микробиологических сред. Хранение и пере-
+нию показателей качества ферментативных гидролизатов работка сельхозсырья. 2015;(7):17–9. [Kovalenko EA, 
+и питательных сред, статистическая обработка результатов Teterin VV, Mokhov DA, Filimonova GV, Permyakov RG, 
+исследований, сбор информации, изложенной в научной ли- Ovsyannikov YuS, et al. Exploring the possibillity of recycling 
+тературе, работа с табличным материалом, редактирование secondary materials of poultry slaughtering into hydrolysates 
+рукописи. of microbiological culture medias. Khraneniye i pererabotka 
+
+sel’khozsyr’ya  =  Storage and Processing of Farm Products. 
+Authors’ contributions. Yuriy S. Ovsyannikov—elabora- 2015;7:17–9 (In Russ.)]
+
+tion of the concept of the paper; writing of the text, approval of the 7. Никифоров АК, Антонычева МВ, Волох ОА, Еремин СА, 
+final version of the paper for publication; Maksim S. Dursenev— Киреев МН, Жулидов ИМ и др. Разработка питательных 
+еxperimental determination of the quality parameters of enzy- сред на основе непищевого сырья для глубинного куль-
+matic hydrolysates and nutrient media, statistical processing тивирования штаммов холерного вибриона. Проблемы 
+of the obtained results, compilation of available scientific data, особо опасных инфекций. 2015;1:85–8. [Nikiforov AK, 
+preparation of the tables, editing of the paper. Antonycheva MV, Volokh OA, Eremin SA, Kireev MN, 
+
+Zhulidov IM, et al. Development of food-raw-material-based 
+Благодарности. Работа выполнена без спонсорской nutrient media for submerged cultivativation of cholera vibrio 
+
+поддержки. strains. Problemy osobo opasnykh infektsii  =  Problems of 
+Acknowledgements. The study was not sponsored by any Particularly Dangerous Infections. 2015;(1):85–8 (In Russ.)] 
+
+organisation. https://doi.org/10.21055/0370-1069-2015-1-85-88
+8. Гостищева СЕ, Катунина ЛС, Курилова АА, Абзае-
+
+Конфликт интересов. Авторы заявляют об отсутствии ва НВ, Ковтун ЮС, Жаринова НВ и др. Применение 
+конфликта интересов, требующего раскрытия в данной статье. плотной питательной среды на основе гидролизата 
+
+Conflict of interest. The authors declare no conflict of кукурузного экстракта сгущенного в производстве 
+interest requiring disclosure in this paper. вакцины чумной живой и для хранения вирулентных 
+
+штаммов чумного микроба. Проблемы особо опасных 
+Литература/References инфекций. 2018;1:75–8. [Gostishcheva SE, Katunina LS, 
+
+Kurilova AA, Abzaeva NV, Kovtun YuS, Zharinova NV, et al. 
+1. Телишевская ЛЯ. Белковые гидролизаты: получение, Usage of solid medium on the basis of corn-steep extract 
+
+состав, применение. М.: Аграр. наука; 2000. [Telishevs- hydrolysate in manufacturing of live plague vaccine and 
+kaya LYa. Protein hydrolysates: preparation, composition, for plague agent preservation. Problemy osobo opasnykh 
+application. Moscow: Agrar. nauka; 2000 (In Russ.)] infektsii  =  Problems of Particularly Dangerous Infections. 
+
+2. Суханова СМ, Захарова НЕ. Питательные среды в прак- 2018;(1):75–8 (In Russ.)] https://doi.org/10.21055/0370-
+тике микробиологических исследований (Гл. 8). В кн.: 1069-2018-1-75-78
+Лабинская АС, Волина ЕГ, ред. Руководство по медицин- 9. Курилова АА, Таран ТВ, Катунина ЛС, Головне-
+ской микробиологии. Кн. 1. Общая и санитарная микро- ва СИ. Разработка питательных сред из раститель-
+биология. М.: Бином; 2008. С. 221–54. [Sukhanova SM, ного сырья для культивирования возбудителей осо-
+Zakharova NE. Nutrient media in microbiological research бо опасных инфекций. Проблемы особо опасных 
+practice. In: Labinskaya AS, Volina EG, eds. Guideline инфекций. 2009;3(101):66–8. [Kurilova AA, Taran TV, 
+on medical microbiology. Bk. 1. General and sanitary Katunina LS, Golovneva SL. Development of nutrient 
+microbiology. Moscow: Binom; 2008. P. 221–54 (In Russ.)] media out of vegetable material for culturing particularly 
+
+3. Ковтун ЮС, Курилова АА, Таран ТВ, Катунина ЛС, Чу- dangerous infections agents. Problemy osobo opasnykh 
+рикова НВ. Сравнительная оценка потенциальных infektsii = Problems of Particularly Dangerous Infections. 
+белковых основ микробиологических сред. Проблемы 2009;3(101):66–8 (In Russ.)] https://doi.org/10.21055/0370-
+особо опасных инфекций. 2014;(3):92–5. [Kovtun YuS, 1069-2009-3(101)-66-68
+Kurilova AA, Taran TV, Katunina LS, Churikova NV. 10. Велямов МТ, Кенжеева ЖК, Кашаганова ЖА. Исполь-
+Comparative assessment of prospective protein bases зование питательной среды из ферментативного ги-
+for microbiological media. Problemy osobo opasnykh дролизата некондиционных куриных яиц для культиви-
+infektsii  =  Problems of Particularly Dangerous Infections. рования производственных штаммов на предприятиях. 
+2014;(3):92–5 (In Russ.)] https://doi.org/10.21055/0370- Международный журнал экспериментального образо-
+1069-2014-3-92-95 вания. 2015;(3-1):86–9. [Velyamov MT, Kenzheyeva ZhK, 
+
+4. Калягина СЮ. Создание питательной среды из отходов Kashaganova ZhA. The use of a nutrient medium from the 
+мясного сырья и оценка ее свойств. Журнал микробио- enzymatic hydrolysate of substandard chicken eggs for 
+
+204 БИОпрепараты. Профилактика, диагностика, лечение. 2021, Т. 21, № 3
+BIOpreparations. Prevention, Diagnosis, Treatment. 2021, V. 21, No. 3
+
+
+
+Разработка технологии приготовления ферментативного гидролизата отработанных куриных эмбрионов
+Development of the technology for preparation of enzymatic hydrolysate of waste chick embryos
+
+the cultivation of production strains at enterprises. Mezh- media for medical microbiology. St. Petersburg: RCPH; 2003 
+dunarodnyy zhurnal eksperimental’nogo obrazovaniya = (In Russ.)]
+International Journal of Experimental Education. 2015;3(3- 14. Шепелин АП, Дятлов ИА. Питательные среды для энте-
+1):86–9 (In Russ.)] http://expeducation.ru/ru/article/ робактерий. М.: Династия; 2017. [Shepelin AP, Dyatlov IA. 
+view?id=6707 Nutrient media for enterobacteria. Moscow: Dinastia; 2017 
+
+11. Овсянников ЮС, Коваленко ЕА, Филимонова ГВ, Лещен- (In Russ.)]
+ко АА, Погорельский ИП, Лазыкин АГ и др. Использова- 15. Ковтун ЮС, Курилова АА, Катунина ЛС, Василенко ЕИ. 
+ние гидролизатов отработанных куриных эмбрионов как Сравнительная оценка белковых гидролизатов при раз-
+основы микробиологических сред. Хранение и перера- работке на их основе питательной среды для культиви-
+ботка сельхозсырья. 2015;(11):45–8. [Ovsyannikov YuS, рования бруцелл. Проблемы особо опасных инфекций. 
+Kovalenko EA, Filimonova GV, Leshchenko AA, Pogorel’sky IP, 2016;(4):93–7. [Kovtun YuS, Kurilova AA, Katunina LS, 
+Lazykin AG, et al. The use of hydrolyzates of waste chicken Vasilenko EI. Comparative evaluation of protein hydrolysates 
+embryos as the basis for microbiological media. Khraneniye in the process of constructing based on them nutrient 
+i pererabotka sel’khozsyr’ya  =  Storage and Processing of medium for brucella cultivating. Problemy osobo opasnykh 
+Farm Products. 2015;(11):45–8 (In Russ.)] infektsii  =  Problems of Particularly Dangerous Infections. 
+
+12. Овсянников ЮС, Филимонова ГВ, Коваленко ЕА, Ле- 2016;(4):93–7 (In Russ.)] https://doi.org/10.21055/0370-
+щенко АА, Погорельский ИП, Лазыкин АГ. Перспекти- 1069-2016-4-93-97
+вы использования отработанных куриных эмбрионов 16. Максимюк НН, Марьяновская ЮВ. О преимуществах 
+для получения микробиологических питательных сред. ферментативного способа получения белковых гидроли-
+Хранение и переработка сельхозсырья.  2016;(5):37– затов. Фундаментальные исследования. 2009;(1):34–5. 
+41. [Ovsyannikov YuS, Filimonova GV, Kovalenko EA, [Maksimyuk NN, Mar’yanovskaya YuV. About the advantages 
+Leshchenko AA, Pogorel’sky IP, Lazykin AG. Perspectives of of the enzymatic method for obtaining protein hydrolysates. 
+using of waste chicken embryos for microbiological nutrient Fundamental’nyye issledovaniya  =  Fundamental Research. 
+media. Khraneniye i pererabotka sel’khozsyr’ya  =  Storage 2009;(1):34–5 (In Russ.)]
+and Processing of Farm Products. 2016;(5):37–41 (In Russ.)] 17. Зедгинидзе ИГ. Планирование эксперимента для иссле-
+
+13. Поляк МС, Сухаревич ВИ, Сухаревич МЭ. Питательные дования многокомпонентных систем. М.: Наука; 1976. 
+среды для медицинской микробиологии. СПб.: НИЦФ; [Zedginidze IG. Planning an experiment for the study of 
+2003. [Polyak MS, Sukharevich VI, Sukharevich ME. Nutrient multicomponent systems. Moscow: Nauka; 1976 (In Russ.)]
+
+Об авторах / Authors
+Овсянников Юрий Степанович, канд. биол. наук, доцент. Yuriy S. Ovsyannikov, Cand. Sci. (Biol.), Associate Professor. SPIN-
+код РИНЦ: 4919-1621
+Дурсенев Максим Сергеевич, канд. биол. наук, доцент. Maksim S. Dursenev, Cand. Sci. (Biol.), Associate Professor. ORCID: 
+https://orcid.org/0000-0002-8205-5042
+
+Поступила 01.06.2021 Received 1 June 2021
+После доработки 02.08.2021 Revised 2 August 2021
+Принята к публикации 03.09.2021 Accepted 3 September 2021
+
+БИОпрепараты. Профилактика, диагностика, лечение. 2021, Т. 21, № 3 205
+BIOpreparations. Prevention, Diagnosis, Treatment.  2021, V. 21, No. 3

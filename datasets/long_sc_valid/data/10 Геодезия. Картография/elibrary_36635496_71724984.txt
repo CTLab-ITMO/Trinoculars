@@ -1,0 +1,834 @@
+﻿Вестник СГУГиТ, Том 23, № 4, 2018 
+ 
+
+УДК 528.9:574 
+ 
+ГЕОЭКОЛОГИЧЕСКАЯ ОЦЕНКА И КАРТОГРАФИРОВАНИЕ СОСТОЯНИЯ  
+ОЗЕЛЕНЕННЫХ ТЕРРИТОРИЙ СПЕЦИАЛЬНОГО НАЗНАЧЕНИЯ 
+ 
+Полина Ильинична Муллаярова 
+Сибирский государственный университет геосистем и технологий, 630108, Россия,  
+г. Новосибирск, ул. Плахотного, 10, аспирант, кафедра экологии и природопользования,  
+тел. (383)361-08-86, e-mail: lina181991@mail.ru 
+ 
+Ольга Николаевна Николаева 
+Сибирский государственный университет геосистем и технологий, 630108, Россия, г. Ново-
+сибирск, ул. Плахотного, 10, доктор технических наук, профессор кафедры экологии и при-
+родопользования, тел. (383)361-08-86, e-mail: onixx76@mail.ru  
+ 
+Людмила Константиновна Трубина 
+Сибирский государственный университет геосистем и технологий, 630108, Россия, г. Ново-
+сибирск, ул. Плахотного, 10, доктор технических наук, профессор кафедры экологии и при-
+родопользования, тел. (383)361-08-86, e-mail: trubinalk@rambler.ru 
+ 
+
+В статье изложен подход к геоэкологической оценке озелененных территорий специ-
+ального назначения и созданию картографического обеспечения, отображающего результаты 
+оценки. Отмечено методологическое несовершенство существующих официальных проце-
+дур инвентаризации городского зеленого фонда. Кратко охарактеризованы особенности от-
+рицательного антропогенного воздействия, оказываемого на различные категории городских 
+зеленых насаждений. Обоснована необходимость уделять особое внимание состоянию озе-
+лененных территорий специального назначения, испытывающих максимальное техногенное 
+давление. Перечислены основные показатели геоэкологической оценки озелененных терри-
+торий специального назначения, позволяющие учесть как экологическое состояние отдель-
+ных деревьев, так и рациональность их размещения относительно техногенных объектов го-
+родской среды. Приведен математический аппарат для определения показателей геоэкологи-
+ческой оценки озелененных территорий специального назначения. Описан опыт создания 
+картографической продукции, отображающей результаты геоэкологической оценки озеле-
+ненных территорий специального назначения. 
+
+ 
+Ключевые слова: городское озеленение, озелененные территории специального назна-
+
+чения, геоинформационное картографирование, геоэкологическая оценка, цифровые карты, 
+ГИС-технологии. 
+
+ 
+Введение 
+
+ 
+Городские зеленые насаждения (ГЗН) являются важным элементом город-
+
+ской среды, выполняющим множество функций, сводящихся к компенсации 
+вредного воздействия техногенных объектов в пределах города на окружаю-
+щую среду и здоровье населения [15]. Увеличение доли городских земель, за-
+нятых зелеными насаждениями, является одной из ведущих тенденций совре-
+менного городского планирования и строительства [6]. Стремление как можно 
+более полно использовать возможности городской среды для создания новых 
+объектов озеленения проявляется также в популяризации вертикального озеле-
+нения [7, 8].  
+
+262 
+
+
+
+Экология и природопользование 
+
+Зачастую сформировавшиеся на базе участков естественной растительно-
+сти, сохраняемой в ходе исторического развития города, ГЗН тем не менее ну-
+ждаются в постоянном поддержании и контроле их состояния, так как они под-
+вергаются интенсивному антропогенному давлению, обусловленному как хо-
+зяйственной деятельностью, так и рекреационной активностью населения [1, 9]. 
+Для получения объективной информации о состоянии ГЗН необходимо не 
+только выполнять их инвентаризацию, но и оценивать их состояние. Эффек-
+тивное решение этих задач достигается применением современных компьютер-
+ных и геоинформационных технологий, которые оптимизируют процесс ком-
+плексного моделирования размещения ГЗН [1012] и обеспечивают возмож-
+ность изучения особенностей функционирования ГЗН на разных территориаль-
+ных уровнях [13].  
+
+ 
+Постановка проблемы 
+
+ 
+В настоящее время, согласно действующей нормативной документации 
+
+[14, 15], а также локальным законодательным актам [16, 17], процедура управ-
+ления ГЗН не предусматривает выполнения геоэкологической оценки их со-
+стояния на уровне объектов озеленения (парков, скверов и т. п.) или на уровне 
+отдельных деревьев, которые в совокупности образуют конкретный объект озе-
+ленения. Проводится лишь визуальная оценка состояния единичных, наиболее 
+поврежденных деревьев, после чего принимается решение об их ликвидации 
+или о проведении мероприятий по их содержанию и реконструкции.  
+
+Также следует отметить, что в вышеприведенных документах не диверси-
+фицирован перечень мероприятий по мониторингу и содержанию зеленых на-
+саждений в зависимости от категории объекта озеленения (общего, ограничен-
+ного или специального назначения). Между тем, хотя все перечисленные кате-
+гории ГЗН испытывают достаточно интенсивное отрицательное антропогенное 
+воздействие, характер этого воздействия весьма различается. Так, например, 
+объектам озеленения общего назначения (паркам, скверам, внутриквартальному 
+озеленению) наибольший ущерб наносит уплотнение почв в процессе вытапты-
+вания и парковки транспортных средств (зачастую несанкционированной), что, 
+в свою очередь, отрицательно сказывается на развитии корневой системы де-
+ревьев, а также зачастую приводит к механическим повреждениям их наземных 
+частей. Объекты озеленения ограниченного назначения подвержены несколько 
+меньшей антропогенной нагрузке, так как расположены в зоне доступа сравни-
+тельно узкого круга лиц (в пределах школ, детских садов, лечебных учрежде-
+ний, промышленных площадок предприятий и пр.). Однако здесь могут отме-
+чаться нетипичные для прилегающей территории превышения концентраций 
+отдельных загрязняющих веществ, обусловленные спецификой объекта (на-
+пример, на территории больничного сквера может выявиться загрязнение био-
+логическими агентами, на территории зеленой зоны промышленного предпри-
+ятия – тяжелыми металлами и т. п.). 
+
+263 
+
+
+
+Вестник СГУГиТ, Том 23, № 4, 2018 
+ 
+Особенности геоэкологического состояния объектов озеленения специаль-
+
+ного назначения (насаждений вдоль городских улиц, автомагистралей и пр.) 
+обусловлены постоянным и интенсивным загрязнением воздушной среды и почв, 
+на которых произрастают эти насаждения, в результате воздействия автомо-
+бильного транспорта. Из всех трех категорий объектов озеленения объекты 
+озеленения специального назначения (ООСН) испытывают наибольший техно-
+генный прессинг, выражающийся в интенсивном накоплении тяжелых метал-
+лов в надземных и подземных частях растений, снижении активности фотосин-
+теза, замедлении роста растений, появлении мутаций и т. п. Негативное влия-
+ние автотранспорта на биотические компоненты окружающей среды неодно-
+кратно рассматривалось российскими и зарубежными учеными [1823].  
+
+Таким образом, ООСН нуждаются в детальном мониторинге и контроле их 
+состояния для обеспечения их эффективного функционирования как «буфера», 
+снижающего вредное воздействие автомобильного транспорта на качество ок-
+ружающей среды и здоровье населения. Решение этой задачи невозможно без 
+выполнения геоэкологической оценки состояния ООСН в целом и отдельных 
+деревьев, входящих в их состав в частности.  
+
+Как было сказано ранее, современные руководящие и методические доку-
+менты, действующие в области ведения городского хозяйства, не предусматри-
+вают проведение геоэкологической оценки ГЗН в целом и ООСН в частности. 
+Поэтому далее будет изложен подход, предлагаемый авторами для геоэкологи-
+ческой оценки ООСН, основанный на современных достижениях геоэкологии, 
+ГИС-технологий и геоинформационного картографирования.  
+
+ 
+Материалы и методы 
+
+ 
+Сбор исходных данных о пространственном размещении и состоянии дре-
+
+востоя в границах ООСН выполняется с использованием современных геодези-
+ческих технологий и оборудования [10]. Собранные данные систематизируются 
+и обрабатываются в среде ГИС для формирования базы данных ООСН, на ос-
+новании которой рассчитываются показатели геоэкологической оценки.  
+
+Предлагается оценивать геоэкологическое состояние ООСН, учитывая 
+следующие их характеристики:  
+
+1) жизненное состояние древостоя в границах ООСН;  
+2) степень повреждения древостоя в границах ООСН насекомыми-
+
+вредителями и болезнями леса; 
+3) рациональность планировочной структуры ООСН.  
+Оценка жизненного состояния древостоя выполняется в соответствии  
+
+с действующими «Санитарными правилами в лесах Российской Федера-
+ции» [24]. Согласно этим правилам, вначале оценивается относительное жиз-
+ненное состояние (ОЖС) каждого дерева в пределах пробной площади, вы-
+бранной в границах оцениваемой озелененной территории. Для этого использу-
+ется приведенная в [24] шкала категорий состояния деревьев, позволяющая от-
+
+264 
+
+
+
+Экология и природопользование 
+
+нести каждое дерево к какой-либо из 5 категорий (здоровое, ослабленное, силь-
+но ослабленное, усыхающее, сухостой). Более подробно эта шкала представле-
+на в табл. 1 [23]. 
+
+ 
+Таблица 1  
+
+Определение категории ОЖС отдельных деревьев 
+
+Диагностические признаки 
+Категория 
+дерева густота наличие мертвых степень повреждения Индекс 
+
+кроны, % сучьев, % листьев, % ОЖС, %
+Здоровое 81100 015 010 80100 
+Ослабленное 5585 1545 1045 5079 
+Сильно 
+ослабленное 2055 4565 4565 2049 
+Усыхающее 020 65100 65100 519 
+Сухостой 0 100 нет листьев < 5 
+
+  
+Далее определяется индекс жизненного состояния древостоя всей озеле-
+
+ненной территории Ln. Для расчета используется формула, предложенная  
+В. А. Алексеевым [25] и традиционно применяемая в современном российском 
+лесоведении при проведении подобных исследований 
+
+Ln = 100n1 + 70n2 + 40n3 + 5n4/N,                                    (1) 
+
+где  Ln – относительное жизненное состояние озелененной территории;  
+n1 – запас древесины здоровых деревьев на пробной площади озелененной 
+
+территории;  
+n2, n3, n4 – то же для ослабленных, сильно ослабленных и отмирающих де-
+
+ревьев соответственно;  
+100, 70, 40, 5 – коэффициенты, выражающие в процентах относительное 
+
+жизненное состояние здоровых, ослабленных, сильно ослабленных и усыхаю-
+щих деревьев соответственно;  
+
+N – общий запас древесины деревьев на пробной площади озелененной 
+территории (включая сухостой). 
+
+В заключение рассчитанные значения Ln переводятся в баллы (табл. 2). 
+ 
+
+Таблица 2  
+Балльная оценка состояния ООСН 
+
+Значение Ln (%) 80100 5079 2049 Менее 20 
+Значение Ln (баллы) 5 4 3 2 
+
+ 
+Степень повреждения древостоя в границах ООСН насекомыми-вредите- 
+
+лями и болезнями леса предлагается оценивать глазомерно по трехбалльной 
+
+265 
+
+
+
+Вестник СГУГиТ, Том 23, № 4, 2018 
+ 
+
+шкале. При этом для каждого дерева в пределах пробной площади определяется 
+степень повреждения кроны дерева (СПКД) (табл. 3). 
+
+ 
+Таблица 3  
+
+Балльная оценка степени повреждения древостоя в границах ООСН 
+
+СПКД (%) Более 70 3070 Менее 30 
+СПКД (баллы) 3 2 1 
+
+ 
+Далее определяется степень повреждения древостоя Pd, которая рассчиты-
+
+вается как среднее арифметическое между всеми значениями СПКД, опреде-
+ленными ранее. 
+
+Оценка рациональности планировочной структуры ООСН выполняется  
+с учетом действующего СНиП [26], который регламентирует размещение ГЗН 
+относительно зданий и сооружений. 
+
+В процессе оценки рациональности планировочной структуры ООСН вы-
+являются и оцениваются (с опорой на вышеприведенный СНиП) следующие 
+недостатки в планировочной структуре ООСН: 
+
+ размещение деревьев чрезмерно близко друг к другу; 
+ размещение деревьев чрезмерно близко к наружным стенам зданий и со-
+
+оружений; 
+ размещение деревьев чрезмерно близко к краю проезжей части или до-
+
+рожного сооружения, тротуара, садовой дорожки и т. п.; 
+ размещение деревьев чрезмерно близко к инженерным коммуникациям. 
+В соответствии с разработанной авторами методикой, индекс планировоч-
+
+ной структуры ООСН Ips рассчитывается по формуле 
+
+Ips = 100  (Nd + Nz + Np + Nk)/N,                                     (2) 
+
+где Nd – Nk – количество деревьев в пределах ООСН, для которых не соблюден 
+действующий СНиП в следующих аспектах: 
+
+Nd – в части размещения деревьев относительно друг друга; 
+Nz – в части размещения деревьев относительно наружных стен зданий  
+
+и сооружений; 
+Np – в части размещения деревьев относительно проезжей части или до-
+
+рожного сооружения, тротуара, садовой дорожки и т. п.; 
+Nk – в части размещения деревьев относительно инженерных коммуника-
+
+ций; 
+N – общее количество исследуемых деревьев. 
+Таким образом, Ips определяется сразу для всего ООСН, в то время как два 
+
+ранее описанных оценочных параметра определяются сначала для каждого от-
+дельного дерева, а потом для всего ООСН. 
+
+Пересчет рассчитанных значений Ips в баллы предлагается выполнять  
+на основании табл. 4. 
+
+266 
+
+
+
+Экология и природопользование 
+
+Таблица 4 
+Балльная оценка рациональности планировочной структуры ООСН  
+
+Ips (%) Более 70  3070  Менее 30  
+Ips (баллы) 3 2 1 
+
+ 
+Оценка геоэкологического состояния ООСН осуществляется по предла-
+
+гаемой авторами формуле 
+
+  Gs = Ln + Pd + Ips,                                                 (3)  
+
+где  Gs – индекс геоэкологического состояния данной озелененной территории; 
+Ln – индекс жизненного состояния древостоя всей ООСН; 
+Pd – индекс степени повреждения древостоя в границах ООСН; 
+Ips – индекс рациональности планировочной структуры ООСН. 
+Значения Gs ранжируются в соответствии со следующей шкалой категорий 
+
+геоэкологического состояния ООСН (табл. 5). 
+ 
+
+ Таблица 5  
+Шкала категорий геоэкологического состояния ООСН 
+
+Значение Gs Качественная  Рекомендации по управлению  
+в баллах характеристика состоянием ООСН 
+
+Необходимы мероприятия по содержанию  
+Плохое состояние 
+
+46 зеленых насаждений в пределах всей ООСН, 
+ООСН 
+
+включая ликвидацию отдельных деревьев 
+Необходимы мероприятия по содержанию  
+
+Удовлетворительное 
+79 зеленых насаждений на значительной террито-
+
+состояние ООСН 
+рии ООСН 
+Необходимы мероприятия по содержанию  
+
+Оптимальное  
+1011 зеленых насаждений для отдельных деревьев  
+
+состояние ООСН 
+в пределах ООСН 
+
+ 
+Рассчитанные показатели геоэкологического состояния ООСН и отдель-
+
+ных деревьев в ее границах заносятся в ранее созданную базу данных состояния 
+ООСН. Это дает возможность осуществлять их моделирование с использовани-
+ем приемов пространственного анализа и отображать результаты моделирова-
+ния на цифровых картах, формируя, таким образом, информационное обеспе-
+чение мероприятий по мониторингу и содержанию ООСН.  
+
+ 
+Результаты и обсуждение 
+
+ 
+Предложенный подход к геоэкологической оценке состояния ООСН  
+
+с применением ГИС обеспечивает выявление проблемных и благополучных 
+ООСН, оптимизирует процесс планирования мероприятий по их содержанию  
+
+267 
+
+
+
+Вестник СГУГиТ, Том 23, № 4, 2018 
+ 
+
+и упрощает контроль выполнения запланированных работ. В случае наличия 
+геопривязанных данных экологического мониторинга использование ГИС рас-
+ширяет возможности в области исследования геоэкологического состояния 
+ООСН во взаимосвязи с иными факторами окружающей среды (уровнями за-
+грязнения воздуха, интенсивностью автомобильного потока и пр.), что позволя-
+ет объективнее оценивать состояние ООСН.  
+
+Для мониторинга и картографирования ООСН ранее была предложена мето-
+дика, основанная на комплексном использовании свободно распространяемых 
+данных дистанционного зондирования Земли и панорамной уличной съемки 
+[27, 28]. Также были разработаны и апробированы на практике принципы геоин-
+формационного картографирования ГЗН [2931]. Накопленный опыт позволил 
+создать геоинформационную модель геоэкологического состояния ООСН экспе-
+риментального района в пределах г. Новосибирска. На рисунке представлена кар-
+тографическая визуализация этой модели, наглядно отображающая границы 
+ООСН, размещение деревьев в пределах каждой ООСН, отдельные показатели 
+геоэкологической оценки и общее геоэкологическое состояние каждого дерева.  
+
+ 
+
+Здания ООСН 
+Проезжая
+часть Деревья 
+
+Зона, запрещенная для посадки деревьев и кустарников вокруг 
+многоквартирного дома  
+
+Геоэкологическое состояние деревьев в границах ООСН (баллы) 
+
+Индекс жизненного состояния дерева (Ln) 
+
+Степень повреждения кроны дерева (СПКД)
+
+Индекс рациональности планировочной структуры ООСН (Ips)   
+
+Индекс геоэкологического состояния ООСН (Gs)    
+
+Геоэкологическое состояние деревьев ООСН  
+в пределах экспериментального района работ 
+
+268 
+
+
+
+Экология и природопользование 
+
+Заключение 
+ 
+
+Геоэкологическая оценка объектов городского озеленения в целом и ООСН  
+в частности является обязательным условием эффективного управления город-
+ским озеленением. Картографическое представление результатов геоэкологиче-
+ской оценки и их моделирование во взаимосвязи со сведениями об экологиче-
+ском состоянии прочих компонентов окружающей среды обеспечивают эффек-
+тивное планирование мероприятий по содержанию городского озеленения  
+и контроль за их выполнением. К сожалению, выполнение обоих вышезаявлен-
+ных действий не предусматривается действующей нормативной и методиче-
+ской документацией в области ведения городского хозяйства, что неоднократно 
+подчеркивалось авторами [27, 28, 30].  
+
+Обоснованный в статье подход обеспечивает получение комплексной харак-
+теристики геоэкологического состояния как ООСН в целом, так и отдельных де-
+ревьев в его пределах, с учетом экологического состояния деревьев и рациональ-
+ности их размещения в сложной, насыщенной техногенными объектами город-
+ской среде. Геоинформационное моделирование ООСН позволяет получать кар-
+тографическую продукцию, детально характеризующую состояние ООСН, влия-
+ние на ООСН природных и техногенных факторов, и, в конечном счете, формиру-
+ет информационную основу для планирования, проведения и контроля мероприя-
+тий по содержанию ООСН в процессе управления городским зеленым фондом.  
+
+В целом предлагаемый подход к геоэкологической оценке и геоинформа-
+ционному моделированию состояния ООСН является первым шагом к форми-
+рованию полноценной методологии мониторинга, оценки и прогноза состояния 
+зеленого фонда города, базирующейся на использовании современных дости-
+жений дистанционного зондирования Земли, ГИС-технологий и геоинформа-
+ционного картографирования.  
+
+БИБЛИОГРАФИЧЕСКИЙ СПИСОК 
+1. Трубина Л. К. Методологические аспекты экологической оценки состояния урбани-
+
+зированных территорий // Интерэкспо ГЕО-Сибирь-2012. Междунар. науч. конгр. : Между-
+нар. научн. конф. «Дистанционные методы зондирования Земли и фотограмметрия, монито-
+ринг окружающей среды, геоэкология» : сб. материалов в 2 т. (Новосибирск, 10–20 апреля 
+20132 г.). – Новосибирск : СГГА, 2012. Т. 2. – С. 200–203. 
+
+2. Шайхутдинова А. А., Ивлева Я. С. Городские зеленые насаждения как элемент сис-
+темы экологического каркаса // Ученые записки Петрозаводского государственного универ-
+ситета. – 2016. – № 8 (161). – С. 91–96. 
+
+3. Stanganelli M., Gerundo C. Planning with Nature: Green Areas Configuration and Natural 
+Cooling in Metropolitan Areas // International Conference on Computational Science and Its Appli-
+cations. – Banff, Canada, 2015. – P. 648–661. 
+
+4. Ulusan N. G. The Guidelines of the Eco-City Based on Sustainable Urbanism // Proceed-
+ings of 3rd International Sustainable Buildings Symposium. – Dubai, UAE, 2017. – P. 871–879. 
+
+5. Shalaby H. M., Sherif A., Altan H. The Impact of Urban Fabric on Natural Ventilation  
+for the City of Alexandria // GeoMEast 2017: Towards Sustainable Cities in Asia and the Middle 
+East. – Cairo, Egypt, 2017. – P. 136–150. 
+
+269 
+
+
+
+Вестник СГУГиТ, Том 23, № 4, 2018 
+ 
+6. Integrated Green Cities: Urban Meets Forest—A Case Study of the Town of Trento /  
+
+M. G. Cantiani, Al. Betta, I. De Meo, Al. Paletto, S. Tamanini, F. Maino // SSPCR 2017: Smart and 
+Sustainable Planning for Cities and Regions. – Bolzano (Italy), 2017. – P. 375–388. 
+
+7. Zhou M., Bonenberg W. Application of the Green Roof System in Small and Medium Ur-
+ban Cities // Advances in Human Factors and Sustainable Infrastructure. Advances in Intelligent 
+Systems and Computing / Charytonowicz J. (Eds). – Springer, Cham, 2016. – Vol 493. –  
+P. 125–136 
+
+8. Nicolae I., Sorina P. Solutions to Reduce Energy Consumption in Buildings. Green Roofs 
+Made up of Succulent Plants // Conference on Sustainable Energy: Nearly Zero Energy Communi-
+ties. – Brasov, Romania, 2017. – P. 179–197. 
+
+9. Крючков А. Н. Мониторинг состояния городских зеленых насаждений как часть эф-
+фективного управления зеленым хозяйством Г. О. Тольятти // Известия Самарского научного 
+центра Российской академии наук. – 2015. – Т. 17, № 4–5. – С. 1023–1028. 
+
+10. Трубина Л. К., Баранова Е. И., Чагина Г. С. Геоинформационное картографирова-
+ние и инвентаризация зеленых насаждений // Интерэкспо ГЕО-Сибирь-2013. Междунар. на-
+уч. конгр. : Междунар. научн. конф. «Дистанционные методы зондирования Земли и фото-
+грамметрия, мониторинг окружающей среды, геоэкология» : сб. материалов (Новосибирск, 
+15–26 апреля 2013 г.). – Новосибирск : СГГА, 2013. Т. 2. – С. 82–86. 
+
+11. Effective Use of GIS Based Spatial Pattern Technology for Urban Greenery Space Plan-
+ning: A Case Study for Ganesh Nagar Area of Nanded City / G. Kulkarni, D. Nilesh, Bh. Parag,  
+P. Wasnik, K. Hambarde, P. Tamsekar, V. Kamble, V. Bahuguna // Proceedings of 2nd International 
+Conference on Intelligent Computing and Applications. - Springer Singapore, 2015. – P. 123–132. 
+
+12. Sirirwardane M. S. P. M., Gunatilake Ja., Sivanandarajah S. Study of the Urban Green 
+Space Planning Using Geographic Information Systems and Remote Sensing Approaches for the 
+City of Colombo, Sri Lanka // Geostatistical and Geospatial Approaches for the Characterization of 
+Natural Resources in the Environment. – New Delhi, India, 2015. – P. 797–800. 
+
+13. Kuang X.-М., Chen J., Sun Ch.-F. Evaluation of Ventilation Effectiveness of Microscale 
+and Middle-Scale Urban Green Belt Based on Computer Simulation // Low-carbon City and New-
+type Urbanization. – Springer-Verlag Berlin Heidelberg, 2015. – P. 285–294. 
+
+14. Методика инвентаризации городских зеленых насаждений. – М., 1997 [Электрон-
+ный ресурс]. – Режим доступа : http://www.opengost.ru/iso/3087-metodika-inventarizacii-
+gorodskih-zelenyh-nasazhdeniy.html 
+
+15. Правила создания, охраны и содержания зеленых насаждений в городах РФ от 
+15.12.1999 [Электронный ресурс]. – Режим доступа : https://zakonbase.ru/content/base/48758. 
+
+16. О Правилах создания, охраны и содержания зеленых насаждений в городе Новоси-
+бирске : решение Совета депутатов города Новосибирска 22.02.2012 № 539 [Электронный 
+ресурс]. – Режим доступа: http://gorsovetnsk.ru/sessions/view/solution/3752. 
+
+17. О генеральном плане Новосибирска : решение Совета депутатов города Новоси-
+бирска от 26.12.2007 № 824 [Электронный ресурс]. – Режим доступа : 
+http://gorsovetnsk.ru/sessions/view/solution/3373/. 
+
+18. Древесные растения Калининграда в условиях техногенной нагрузки автомагистра-
+лей / О. М. Бедарева, Е. А. Калинина, Л. С. Мурачева, А. В. Матюха // Аграрная Россия. – 
+2015. – № 2. – С. 28–30. 
+
+19. Артемьев О. С., Арсентьева А. А. Оценка влияния выбросов автотранспорта на 
+приросты по диаметру стволов тополя бальзамического в городе Красноярске // Вестник 
+Красноярского государственного аграрного университета. – 2014. – № 4 (91). – С. 198–202. 
+
+20. Мироненко Е. В., Шлапакова С. Н. Влияние автотранспортных выбросов на качест-
+во семян древесных растений и выращенных из них сеянцев // Вестник Казанского государ-
+ственного аграрного университета. – 2016. – Т. 11. – № 2 (40). – С. 29–33. 
+
+270 
+
+
+
+Экология и природопользование 
+
+21. Алехина И. В., Мироненко Е. В. Влияние выбросов автотранспорта на сезонное 
+развитие и репродуктивную способность Робинии Лжеакации // Вестник Бурятской государ-
+ственной сельскохозяйственной академии им. В. Р. Филиппова. – 2018. – № 1 (50). –  
+С. 79–85. 
+
+22. Zhenqi, C., Weichi, L. Toward a Green Transport System: A Review of Non-technical 
+Methodologies for Developing Cities // Information Technology and Intelligent Transportation Sys-
+tems. Advances in Intelligent Systems and Computing. – Springer, Cham. – 2015. – Vol. 454. –  
+Р. 509–520. 
+
+23. Zhao J., Fang Zh., Zhao Ya. Study on Evaluation Index System of Urban Green Traffic 
+Planning // International Conference on Green Intelligent Transportation System and Safety GITSS 
+2016: Green Intelligent Transportation Systems. – Nanjing, China, 2016. – P. 751–762. 
+
+24. О Правилах санитарной безопасности в лесах : Постановление Правительства РФ 
+от 20.05.2017 № 607 [Электронный ресурс]. – Режим доступа : 
+http://static.government.ru/media/files/Mfd1FI8EFBxQKN71slMyeeqyq8plfIOV.pdf. 
+
+25. Алексеев В. А. Диагностика жизненного состояния деревьев и древостоев // Лесо-
+ведение. – 1989. – № 4. – С. 51–57. 
+
+26. СНиП 2.07.01-89. Градостроительство. Планировка и застройка городских и сель-
+ских поселений. – М. : Госстандарт. – 2011. – С. 174. 
+
+27. Муллаярова П. И. О модернизации существующей методики инвентаризации  
+зеленых насаждений с учетом современных достижений аэрокосмических исследований  
+и ГИС-технологий // Вестник СГУГиТ. – 2018. – Т. 23, № 1.– С. 132–142. 
+
+28. Муллаярова П. И. О необходимости совершенствования методики инвентаризации 
+городских зеленых насаждений // Интерэкспо Гео-Сибирь 2017. Междунар. науч. конгр. : 
+Междунар. научн. конф. «Дистанционные методы зондирования Земли и фотограмметрия, 
+мониторинг окружающей среды, геоэкология» : сб. материалов в 2 т. – Новосибирск :  
+СГУГиТ, 2017. Т. 2. – С. 180–185. 
+
+29. Некоторые подходы к геоинформационному картографированию зеленых насажде-
+ний / Л. К. Трубина, П. И. Муллаярова, Е. И. Баранова, О. Н. Николаева // Интерэкспо  
+Гео-Сибирь 2014. Междунар. науч. конгр. : Междунар. научн. конф. «Дистанционные мето-
+ды зондирования Земли и фотограмметрия, мониторинг окружающей среды, геоэкология» : 
+сб. материалов в 2 т. – Новосибирск : СГГА, 2014. Т. 2. – С. 68–73. 
+
+30. Инвентаризация городских зеленых насаждений средствами ГИС / Л. К. Трубина, 
+О. Н. Николаева, П. И. Муллаярова, Е. И. Баранова // Вестник СГУГиТ. – Т. 22, № 3. –  
+2017. – С. 107–117. 
+
+31. Муллаярова П. И., Трубина Л. К., Николаева О. Н. Использование геоинформаци-
+онных систем для изучения и контроля состояния зеленых насаждений урбанизированных 
+территорий // Информационные технологии в экологии : материалы Всероссийской научно-
+практической конференции, посвященной Году экологии в России. – Нижневартовск, 2018. – 
+С. 90–94. 
+
+ 
+Получено 11.10.2018 
+
+© П. И. Муллаярова, О. Н. Николаева, Л. К. Трубина, 2018 
+ 
+
+ 
+GEOECOLOGICAL ASSESSMENT AND MAPPING OF URBAN ROAD VERGES 
+
+ 
+Polina I. Mullayarova 
+Siberian State University of Geosystems and Technologies, 10, Plakhotnogo St., Novosibirsk, 
+630108, Russia, Ph. D. Student, Department of Ecology and Environmental Management,  
+phone: (383)361-06-86, e-mail: lina181991@mail.ru 
+
+271 
+
+
+
+Вестник СГУГиТ, Том 23, № 4, 2018 
+ 
+
+Olga N. Nikolaeva 
+Siberian State University of Geosystems and Technologies, 10, Plakhotnogo St., Novosibirsk, 
+630108, Russia, Ph. D., Professor, Department of Ecology and Environmental Management,  
+phone: (383)361-06-86, e-mail: onixx76@mail.ru 
+ 
+Lyudmila K. Trubina 
+Siberian State University of Geosystems and Technologies, 10, Plakhotnogo St., Novosibirsk, 
+630108, Russia, Ph. D., Professor, Department of Ecology and Environmental Management,  
+phone: (383)361-06-86, e-mail: trubinalk@rambler.ru 
+
+ 
+The article considers an approach to geoecological assessment and mapping of urban road 
+
+verges. The shortcomings of the existed methodological approach to inventory of urban green spac-
+es are stated. The brief description of features of anthropogenic impact to the different classes of 
+urban green spaces is given. The necessity to give particular attention to the urban road verges con-
+dition as the most affected by anthropogenic impact is substantiated The main indicators of the tree 
+condition and rational deployment of trees of urban road verges are listed. The mathematical tools 
+for geoecological assessment of urban road verges are characterized. A case-study of geoecological 
+assessment and mapping of urban road verges in Novosibirsk is described. 
+
+ 
+Key words: urban green spaces, urban road verges, geoinformation mapping, geoecological 
+
+assessment, digital maps, GIS techniques. 
+
+REFERENCES 
+1. Trubina, L. K. (2012). Methodological aspects of urban lands state ecological assessment]. 
+
+In Sbornik materialov Interehkspo GEO-Sibir'-2012: Mezhdunarodnoy nauchnoy konferentsii: T. 2. 
+Distancionnye metoda zondirovaniya Zemli i foto-grammetriya, monitoring okruzhayushchej sredy, 
+geoehkologiya [Proceedings of Interexpo GEO-Siberia-2012: Vol. 2. Remote Sensing Methods of 
+the Earth and Photogrammetry, Environmental Monitoring, Geoecology] (pp. 200–203). Novosi-
+birsk: SSUGT Publ. [in Russian]. 
+
+2. Shaikhutdinova, A. A. (2016). Urban green spaces as an element of the ecological frame-
+work system. Uchenye zapiski Petrozavodskogo gosudarstvennogo universiteta [Scientific Notes of 
+Petrozavodsk State University], 8(161), 129–136 [in Russian]. 
+
+3. Stanganelli, M., & Gerundo, C. (2015). Planning with Nature: Green Areas Configuration 
+and Natural Cooling in Metropolitan Areas. In International Conference on Computational Science 
+and Its Applications (pp. 648–661). Banff, Canada. 
+
+4. Ulusan, N. G. (2017). The Guidelines of the Eco-City Based on Sustainable Urbanism. In 
+Proceedings of 3rd International Sustainable Buildings Symposium (pp. 871–879). Dubai, UAE. 
+
+5. Shalaby, H. M., Sherif, A., & Altan, H. (2017). The Impact of Urban Fabric on Natural 
+Ventilation for the City of Alexandria. In GeoMEast 2017: Towards Sustainable Cities in Asia and 
+the Middle East (pp. 136–150). Cairo, Egypt. 
+
+6. Cantiani, M. G., Betta, Al., De Meo, I., Paletto, Al., Tamanini, S., & Maino, F. (2017). In-
+tegrated Green Cities: Urban Meets Forest – A Case Study of the Town of Trento. In SSPCR 2017: 
+Smart and Sustainable Planning for Cities and Regions (pp. 375–388). Bolzano, Italy. 
+
+7. Zhou, M., & Bonenberg, W. (2016). Application of the Green Roof System in Small and 
+Medium Urban Cities. In Charytonowicz J. (Ed.), Advances in Human Factors and Sustainable In-
+frastructure. Advances in Intelligent Systems and Computing: Vol. 493 (pp. 125–136). Springer, 
+Cham. 
+
+8. Nicolae, I., & Sorina, P. (2017). Solutions to Reduce Energy Consumption in Buildings. 
+Green Roofs Made up of Succulent Plants. In Conference on Sustainable Energy: Nearly Zero En-
+ergy Communities (pp. 179–197). Brasov, Romania. 
+
+272 
+
+
+
+Экология и природопользование 
+
+9. Kryuchkov, A. N. (2015). Monitoring of the state of urban green spaces as part of effective 
+management of the green economy in Togliatti. Izvestiya Samarskogo nauchnogo centra Rossijskoj 
+akademii nauk [Izvestiya of the Samara Scientific Center of the Russian Academy of Sciences], 
+17(4–5), 1023–1028 [in Russian]. 
+
+10. Trubina, L. K., Baranova, E. I., & Chagina, G. S. (2013). GIS mapping and greenery in-
+ventory. In Sbornik materialov Interehkspo GEO-Sibir'-2013: Mezhdunarodnoy nauchnoy 
+konferentsii: T. 2. Distancionnye metoda zondirovaniya Zemli i foto-grammetriya, monitoring 
+okruzhayushchej sredy, geoehkologiya [Proceedings of Interexpo GEO-Siberia-2013: Vol. 2. Re-
+mote Sensing Methods of the Earth and Photogrammetry, Environmental Monitoring, Geoecology] 
+(pp. 82–86). Novosibirsk: SSUGT Publ. [in Russian]. 
+
+11. Kulkarni, G., Nilesh, D., Parag, Bh., Wasnik, P., Hambarde, K., Tamsekar, P., Kamble, 
+V., & Bahuguna, V. (2015). Effective Use of GIS Based Spatial Pattern Technology for Urban 
+Greenery Space Planning: A Case Study for Ganesh Nagar Area of Nanded City. In Proceedings of 
+2nd International Conference on Intelligent Computing and Applications (pp. 123–132). Springer 
+Singapore. 
+
+12. Sirirwardane, M. S. P. M., Gunatilake, Ja., & Sivanandarajah, S. (2015). Study of the Ur-
+ban Green Space Planning Using Geographic Information Systems and Remote Sensing Approach-
+es for the City of Colombo, Sri Lanka. In Geostatistical and Geospatial Approaches for the Char-
+acterization of Natural Resources in the Environment (pp. 797–800). New Delhi, India. 
+
+13. Kuang, X.-М., Chen, J., & Sun, Ch.-F. (2015). Evaluation of Ventilation Effectiveness of 
+Microscale and Middle-Scale Urban Green Belt Based on Computer Simulation. In Low-carbon 
+City and New-type Urbanization (pp. 285–294). Springer-Verlag Berlin Heidelberg. 
+
+14. Metodika inventarizacii gorodskih zelenyh nasazhdenij [Methodology inventory of urban 
+green space]. (1997). Moscow. MinStroj RF. Retrieved from http://www.opengost.ru/iso/3087-
+metodika-inventarizacii-gorodskih-zelenyh-nasazhdeniy.html [in Russian]. 
+
+15. The rules of creation, protection and maintenance of green areas in the cities of the Rus-
+sian Federation of December 15, 1999. Retrieved from https://zakonbase.ru/content/base/48758 [in 
+Russian]. 
+
+16. Decision of the Council of Deputies of the City of Novosibirsk on February 22, 2012 No. 
+539. On the Rules for the Creation, Protection and Maintenance of Greenery in the City of Novosi-
+birsk. Retrieved from http://gorsovetnsk.ru/sessions/view/solution/3752 [in Russian]. 
+
+17. The decision of Council of deputies of Novosibirsk city of December 26, 2007 No. 824. 
+On the General plan of Novosibirsk. Retrieved from: http://gorsovetnsk.ru/sessions/view/solution/ 
+3373/ [in Russian]. 
+
+18. Bedareva, O. M. (2015). Woody plants of Kaliningrad in conditions of technogenic load 
+of motorways. Agrarnaya Rossiya [Agrarian Russia], 2, 28-30. [in Russian]. 
+
+19. Artem'ev, O. S., & Arsent'eva, A. A. (2014). Estimation of the influence of motor vehicle 
+emissions on increments in diameter of poplar balsamic trunks in the city of Krasnoyarsk. Vestnik 
+Krasnoyarskogo gosudarstvennogo agrarnogo universiteta [The Bulletin of the Krasnoyarsk State 
+Agrarian University], 4(91), 198–202 [in Russian]. 
+
+20. Mironenko, E. V., & Shlapakova, S. N. (2016). Influence of road transport emissions on 
+the quality of seeds of woody plants and seedlings grown from them. Vestnik Kazanskogo 
+gosudarstvennogo agrarnogo universiteta [Bulletin of the Kazan State Agrarian University], 2(40), 
+29–33 [in Russian]. 
+
+21. Alekhina, I. V., & Mironenko, E. V. (2018). Influence of motor transport emissions on 
+seasonal development and reproductive capacity of Robinia Lzheakatsii. Vestnik Buryatskoj 
+gosudarstvennoj sel'skohozyajstvennoj akademii im. V. R. Filippova [Bulletin of the Buryat State 
+Agricultural Academy named after. V. R. Philippova], 1(50), 79–85 [in Russian]. 
+
+22. Zhenqi, C., & Weichi, L. (2015). Toward a Green Transport System: A Review of Non-
+technical Methodologies for Developing Cities. In Information Technology and Intelligent Trans-
+
+273 
+
+
+
+Вестник СГУГиТ, Том 23, № 4, 2018 
+ 
+
+portation Systems. Advances in Intelligent Systems and Computing: Vol 454 (рр. 509–520). Spring-
+er, Cham. 
+
+23. Zhao, J., Fang, Zh., & Zhao, Ya. (2016). Study on Evaluation Index System of Urban 
+Green Traffic Planning. In International Conference on Green Intelligent Transportation System 
+and Safety GITSS 2016: Green Intelligent Transportation Systems (pp. 751–762). Nanjing, China. 
+
+24. Resolution of the Government of the Russian Federation of May 20, 2017 No. 607. On 
+the Rules of Sanitary Security in the Forests. Retrieved from  http://static.government.ru/media/ 
+files/Mfd1FI8EFBxQKN71slMyeeqyq8plfIOV.pdf [in Russian]. 
+
+25. Alekseev, V. A. (1989). Diagnosis of the state of life of trees and stands. Lesovedenie 
+[Forest Science], 4, 51–57 [in Russian]. 
+
+26. SNiP 2.07.01-89. Town planning. Planning and development of urban and rural settle-
+ments. Moscow: Gosstandart Publ., 174 p. 
+
+27. Mullayarova, P. I. (2018). On modernization of current methods of urban green spaces 
+inventory taking into account the achievements of remote sensing and Geographic Information Sys-
+tem.Vestnik SGUGiT [Vestnik SSUGT], 23(1), 132–142 [in Russian]. 
+
+28. Mullayarova, P. I. (2017). On the need to improve the methodology of inventory of urban 
+green spaces. In Sbornik materialov Interehkspo GEO-Sibir'-2017: Mezhdunarodnoy nauchnoy 
+konferentsii: T. 2. Distancionnye metoda zondirovaniya Zemli i fotogrammetriya, monitoring 
+okruzhayushchej sredy, geoehkologiya [Proceedings of Interexpo GEO-Siberia-2017: Vol. 2. Re-
+mote Sensing Methods of the Earth and Photogrammetry, Environmental Monitoring, Geoecology] 
+(pp. 180–185). Novosibirsk: SSUGT Publ. [in Russian]. 
+
+29. Trubina, L. K., Mullayarova, P. I., Baranova, E. I., & Nikolaeva, O. N. (2014). Some ap-
+proaches to geoinformation mapping green plants. In Sbornik materialov Interehkspo GEO-Sibir'-
+2013: Mezhdunarodnoy nauchnoy konferentsii: T. 2. Distancionnye metoda zondirovaniya Zemli i 
+fotogrammetriya, monitoring okruzhayushchej sredy, geoehkologiya [Proceedings of Interexpo 
+GEO-Siberia-2014: Vol. 2. Remote Sensing Methods of the Earth and Photogrammetry, Environ-
+mental Monitoring, Geoecology] (pp. 68–73). Novosibirsk: SSUGT Publ. [in Russian]. 
+
+30. Trubina, L. K., Nikolaeva, O. N., & Mullayarova, P. I. (2017). GIS-based inventory of 
+urban green spaces. Vestnik SGUGiT [Vestnik SSUGT], 22(3), 107–117 [in Russian]. 
+
+31. Mullayarova, P. I., Trubina, L. K., & Nikolaeva, O. N. (2017). The use of geoinformation 
+systems for studying and monitoring the state of green spaces of urbanized territories. In Sbornik 
+materialov Vserossijskoj nauchno-prakticheskoj konferencii, posvyashchennoj Godu ehkologii  
+v Rossii: Informacionnye tekhnologii v ehkologii [Proceedings of Russian Scientific and Practical 
+Conference devoted to the Year of Ecology in Russia: Information Technology in Ecology]  
+(рр. 90–94). Nizhnevartovsk [in Russian]. 
+
+ 
+Received 11.10.2018 
+
+© P. I. Mullayarova, L. K. Trubina, O. N. Nikolaeva, 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+
+274

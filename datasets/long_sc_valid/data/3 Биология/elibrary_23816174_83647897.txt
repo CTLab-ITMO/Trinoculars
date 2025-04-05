@@ -1,0 +1,518 @@
+﻿© КОЛЛЕКТИВ АВТОРОВ, 2015
+УДК 615.076:615.277.3
+
+Валидация XTT-теста для оценки 
+антипролиферативной активности препаратов 
+на основе моноклональных антител
+И.В. Лягоскин, М.А. Берестовой, Д.А. Потеряев,  
+Э.С. Зейналова, А.Ю. Вишневский, А.А. Казаров
+
+OOO Международный биотехнологический центр «Генериум»,  
+Владимирская обл., п. Вольгинский, Россия
+
+Validation of the XTT-test to assess the 
+antiproliferative activity of biologics on the basis of 
+monoclonal antibodies
+I.V. Lyagoskin, M.A. Berestovoy, D.A. Poteryaev,  
+E.S. Zeinalova, A.Yu. Vishnevskiy, A.A. Kazarov
+
+International Biotechnology Center «Generium»,  
+Vladimir region, Volginskiy, Russia
+
+Методика оценки антипролиферативной активности препаратов моноклональных антител с применением соли те-
+тразолия XTT отработана на примере препарата ГерцептинТМ («Roche»). Метод основан на спектрометрическом ана-
+лизе уровня формазана, трансформированного живыми клетками из водорастворимой тетразоливой соли ХТТ. Уро-
+вень формазана пропорционален количеству жизнеспособных клеток. Методика была валидирована по показате-
+лям: специфичность, линейность, правильность и прецизионность. 
+Ключевые слова: ХТТ; ВТ-474; Трастузумаб; моноклональные антитела; рак; биопрепараты; валидация; специфичность; ли-
+нейность; правильность; прецизионность.
+Библиографическое описание: Лягоскин ИВ, Берестовой МА, Потеряев ДА, Зейналова ЭС, Вишневский АЮ, Казаров АА. 
+Валидация XTT-теста для оценки антипролиферативной активности препаратов на основе моноклональных антител. Биопре-
+параты 2015; (1): 45-50.
+
+Using the example of Herceptin (Roche) a method of assessing the antiproliferative activity of monoclonal antibodies using 
+tetrazolium salt was developed. The method is based on spectrometric measurement of the level of formazan transformed 
+by living cells from a water soluble salt XTT. The level of formazan is proportional to the number of viable cells. The technique 
+was in terms of specificity, calibration curve, accuracy and precision. 
+Key words: XTT; BT-474; Trastuzumab; monoclonal antibodies; cancer; biologics; validation; specificity; calibration curve; accuracy; 
+precision.
+Bibliographic description: Lyagoskin IV, Berestovoy MA, Poteryaev DA, Zeinalova ES, Vishnevskiy AYu, Kazarov AA. Validation of the 
+XTT-test to assess the antiproliferative activity of biologics on the basis of monoclonal antibodies Biopreparation (Biopharmaceuticals) 
+2015; (1): 45-50.
+
+Многие достижения фундаментальных и прикладных ис- тур клеток позволяет установить характер биологической ак-
+следований в биологии и медицине связаны с эксперимен- тивности изучаемых препаратов непосредственно на клеточ-
+тами на животных, однако во второй половине XX века все ном уровне и учесть сложные синергические и (или) разно-
+большее распространение начали получать альтернатив- направленные эффекты биологических препаратов.
+ные подходы с использованием в модельных эксперимен- Из недостатков можно упомянуть высокие требования к 
+тах клеточных линий млекопитающих [1–3]. стандартизации качества культуры клеток и тканей [2]. 
+
+Такой подход обладает рядом преимуществ: культуры В 1950-х годах исследователи для оценки клеточной и ле-
+клеток человека и животных в качестве биологических тест- карственной цитотоксичности потенциальных противоопу-
+систем позволяют помимо решения этических проблем, свя- холевых соединений начали использовать соли тетразолия, 
+занных с массовым использованием и гибелью эксперимен- в том числе МТТ (3-(4,5-диметилтиазол-2-ил)-2,5-дифенил-
+тальных животных, значительно удешевить и сократить сро- 2Н-тетразолиум бромид). Метод основан на том, что живые 
+ки предварительного исследования новых препаратов на клетки преобразуют соли тетразолия в окрашенные соеди-
+стадии их доклинических исследований. Еще одно преиму- нения формазана. Восстановление клетками тетразолия по-
+щество моделей in vitro заключается в возможности рабо- казывает изменение энергетического потенциала клетки по 
+ты непосредственно на культурах клеток человека, что де- снижению суммарной активности митохондриальных деги-
+лает полученные данные более адекватными при их проек- дрогеназ и служит показателем жизнеспособности клеток в 
+ции на организм человека. Кроме того, использование куль- культуре и интенсивности окислительных процессов [4–8].
+
+45
+
+Оригинальные статьи
+
+
+
+Январь–Март 2015
+
+Этот подход оказался очень эффективным при оцен- ния привели к разработке и регистрации рекомбинантно-
+ке жизнеспособности клеток и скорости их пролиферации го моноклонального антитела к HER2, препарата Герцептин 
+[4, 9–12]. Основными преимуществами МТТ-теста являет- (трастузумаб) по показанию рак молочной железы со сверх-
+ся высокая чувствительность и относительная простота вы- экспрессией HER2. В настоящее время, на основании также 
+полнения. Однако для решения конкретных задач разработ- пост-маркетинговых исследований, доказана эффектив-
+ки биопрепаратов, в частности для определения специфи- ность данного препарата, особенно в случае адьювантной 
+ческой активности белковых терапевтических препаратов, терапии HER2+ карцином молочной железы [16]. Трастузу-
+необходимо проводить оптимизацию метода и валидацию. маб, связываясь с внеклеточным доменом HER2, блокирует 
+
+В 1988 году Scudiero с соавт. был описан колориметриче- активацию сигнальных каскадов PI3K и MAPK, что приводит 
+ский метод с использованием соли тетразолия XTT (2,3-би- к блокированию клеточного цикла (в G1-фазе) и подавле-
+с-(2-метокси-4-нитро-5-сульфофенил)-2H-тетразолий-5- нию опухолевой пролиферации. Кроме того, трастузумаб 
+карбоксанилид) [9]. Использование XTT приводило к обра- подавляет ангиогенез и индукцию как антиангиогенных, так 
+зованию растворимого красителя, в то время как при ис- и репрессию проангиогенных факторов [17].
+пользовании МТТ образуются нерастворимые соединения Целью данной работы была оптимизация критических 
+формазана, которые необходимо растворять для последу- параметров и валидация ХТТ-теста для оценки антипро-
+ющего измерения [13]. Только в живых клетках митохон- лиферативной активности препарата на примере реком-
+дрии способны уменьшать количество растворенного XTT с бинантного моноклонального антитела трастузумаб, с ис-
+формированием водорастворимого оранжевого красителя, пользованием модели in vitro – линии клеток карциномы мо-
+а концентрация красителя прямо пропорциональна количе- лочной железы BT-474, которая характеризуется аномаль-
+ству метаболически активных клеток [14]. но высоким уровнем экспрессии белка HER2. 
+
+Преимуществами применения ХТТ, по сравнению с МТТ, 
+являются отсутствие повреждения клеток, что позволяет Материал и методы
+использовать их параллельно в других тестах. Результат те-
+ста мало зависит от вариабильности партий фетальной сы- Материалы:
+воротки. Кроме того, точность метода повышается из-за 1. Клеточные линии человека: a) ВТ-474, HER2+ карци-
+отсутствия необходимости смены среды, что минимизиру- нома молочной железы (протока груди) (ATCC HTB-20TM); 
+ет значения систематической ошибки. Однако качество ре- б) MDA-MB-453, метастатическая карцинома молочной же-
+зультата анализа обеспечивается не только вышеописан- лезы (ATCC HTB-131TM); в) MDA-MB-231, аденокарцинома 
+ными слагаемыми. Особую роль играет способность мето- молочной железы (ATCC HTB-26TM).
+да давать достоверный и воспроизводимый результат. 2. Среда для культивирования клеток: DME/F12 (HyClone, 
+
+При разработке аналогов оригинальных биотехнологи- кат. № SH 3004.04, США), содержащая 10% инактивирован-
+ческих препаратов (биоаналогов) и для доказательства их ной прогреванием эмбриональной сыворотки плода круп-
+биоподобия необходимо иметь точный и воспроизводи- ного рогатого скота (HyClone, кат. № SV30160.03, США), 
+мый метод, позволяющий определять специфическую ак- 1 мМ натрия пирувата (Lonza, кат. № BE13-115E, Бельгия), 
+тивность. Одним из препаратов, биоаналоги которого раз- 5 мг/мл инсулина (Lonza, кат. № BE02-033E, Бельгия), 1,2 г/л 
+рабатываются или разработаны в настоящий момент рядом бикарбоната натрия (Sigma-Aldrich, S6297 кат. № BCBC4470, 
+биофармацевтических компаний, является Герцептин (тра- США), 100 Ед/мл пенициллина и 100 мкг/мл стрептомици-
+стузумаб). Трастузумаб – это рекомбинантное монокло- на (100-кратный, лиофилизированный, ООО НПП «ПанЭко», 
+нальное антитело к белку HER2. Ген her2 кодирует рецеп- кат. № А063, Россия).
+торную тирозинкиназу, которая осуществляет запуск вну- 3. Герцептин, трастузумаб (Trastuzumab) (лиофилизат 
+триклеточных сигнальных каскадов, критически важных как для приготовления раствора для инфузий, 440 мг (во флако-
+для нормальных, так и для раковых клеток эпителия молоч- не) № серии 3551 B2055, дата изготовления – 06.2012, го-
+ной железы [15]. Мутации, заключающиеся в амплифика- ден до 06.2016, Roсhe, Швейцария) противоопухолевый пре-
+ции или сверхэкспрессии гена her2, встречаются пример- парат, представляющий рекомбинантное человеческое мо-
+но в 20–25% случаев человеческого рака молочной желе- ноклональное антитело, селективно взаимодействующее с 
+зы. Сверхэкспрессия HER2 ассоциируется с агрессивным внеклеточным доменом белка, являющегося рецептором-2 
+клиническим фенотипом, проявляющимся высокой степе- к эпидермальному ростовому фактору человека (HER2) [18].
+нью злокачественности (градации) и скоростью роста опу- 4. Мабтера (Ритуксимаб) 500 мг/50 мл № 1 Флакон 
+холи, ранними системными метастазами и меньшей про- Mabthera (Rituximab) 500 mg/50 ml, раствор для инфузий, 
+должительностью как периода без признаков рака, так и № серии H0505, дата изготовления – 07.2011, годен до – 
+общей выживаемости (по сравнению с эстроген-рецептор- 01.2014, Roche, Швейцария – химерное моноклональное 
+позитивными опухолями молочной железы). Данная клини- антитело мыши/человека, специфически связывающееся с 
+ческая картина вызывается изменением многих биологиче- трансмембранным антигеном CD20.
+ских свойств сверхэкспрессирующих HER2 раковых клеток: Методы:
+повышенная пролиферация, подавление апоптоза, увели- 1. Изменение уровня метаболической активности живых 
+ченная подвижность, более высокий потенциал инвазивно- клеток линии BT-474, под воздействием трастузумаба, ис-
+сти и метастазирования, ускоренный ангиогенез и незави- следовали следующим образом. В лунки 96-луночного пло-
+симость от стероидных гормонов. Многие из этих злокаче- скодонного культурального планшета (Nunc, кат. № 167008, 
+ственных эффектов подавляются моноклональными анти- Thermo Scientific, США) вносили по 100 мкл суспензии кле-
+телами к HER2. Доклинические и клинические исследова- ток и 100 мкл лекарственного препарата соответствующей 
+
+46
+
+
+
+концентрации. Все концентрации испытывали в трех повто- теристики: специфичность, линейность, прецизионность и 
+рах. Планшеты оставляли в инкубаторе МСО-20AIC (Sanyo, правильность. 
+Япония) при 37оС во влажной атмосфере с 5% СО . Че-
+
+2 Специфичность – это способность достоверно определять 
+рез 120 ч в каждую лунку планшета с клеточными суспен- лекарственное вещество в присутствии примесных соедине-
+зиями вносили по 50 мкл раствора ХТТ, приготовленно- ний, продуктов деградации и вспомогательных веществ. В ра-
+го согласно рекомендациям производителя (Roche, кат. № боте оценивали как воздействие препарата на разные клеточ-
+11 465 015 001, Швейцария), далее инкубировали 2–5 ч при ные линии, так и воздействие гетерогенных моноклональных 
+37оС в темноте во влажной атмосфере c 5% СО . По оконча-
+
+2 антител на клеточную линию-мишень (ВТ-474).
+нии инкубации измеряли оптическое поглощение (OD) при По данным D.L. Costantini с соавт. [20] и M. Narayan с со-
+длине волны 475 нм, при референсной длине волны 660 нм авт. [21], линии клеток MDA-MB-231 и MDA-MB-453 не чув-
+(Спектрофотометр «BioRad» (США)). ствительны к терапевтической концентрации трастузумаба 
+
+2. Для статистической обработки данных и математиче- (т.е. ~ 10 мкг/мл) в сыворотке крови пациентов, что позво-
+ского моделирования использовали программу GraphPad ляет использовать их в качестве отрицательного контроля 
+Prism 6.0. (GraphPad Software Inc. (США)). при исследовании специфичности. 
+
+Эксперименты показали, что при данных концентрациях 
+результаты и обсуждение для клеточных линий MDA-MB-231 и MDA-MB-453 наблю-
+
+дается образование значительного количества формазана, 
+На первом этапе проводили подбор оптимальной кон- свидетельствующего об отсутствии антипролиферативной 
+
+центрации клеток линии BT-474 для корреляции детектиру- активности (рис. 3).
+емой метаболической активности и количества клеток. Были Сходные результаты получены при использовании ритук-
+протестированы следующие концентрации 10000, 20000 и симаба на клеточной линии ВТ-474. Поскольку данный пре-
+30000 клеток в лунке. Установлена зависимость количества парат специфичен к трансмембранному антигену CD20 и не 
+образующегося формазана от числа жизнеспособных кле- связывается с рецепторами клеточной линии ВТ-474, анти-
+ток, причем, в зависимости от количества клеток, при посто-
+янной концентрации ХТТ реагента, меняется квадрат линей-
+ного коэффициента детерминации (R2), который характери-
+зует степень зависимости между регрессионной моделью и 
+исходными данными. Наивысшее значение R2 было достиг-
+нуто при использовании концентрации 10000 клеток/лунку 
+(0,9674), что говорит о низкой случайной ошибке в этой мо-
+дели. Данную концентрацию клеток использовали во всех по-
+следующих экспериментах. Для концентрации 20000 и 30000 
+клеток/лунка R2 колебалось от 0,8816 до 0,9150 (рис. 1). 
+
+В функциональных тестах ключевым показателем кривой 
+доза–ответ является концентрация полумаксимального ин-
+гибирования (IC ), т.е. концентрация вещества, приводя-
+
+50
+щая к 50% ингибированию роста клеток.
+
+Оценку IC  проводили, используя различный диапазон 
+50
+
+концентраций трастузумаба. Препарат титровали, начиная 
+с концентрации 2,5 мкг/мл, с 2- и 2,5-кратным шагом раз-
+ведения, что позволило выявить оптимальное соотношение 
+
+рис. 1. Зависимость OD от концентрации клеток в лунке план-
+концентрации клеток линии ВТ-474 и препарата для опре- шета.
+деления точки перегиба кривой. При использовании дву-
+кратного шага разведения оптимальную форму кривой не 
+наблюдали (данные не представлены). Иную картину об-
+наруживали при титровании с шагом 2,5 (рис. 2). Поэтому 
+в дальнейшем этот диапазон и шаг разведения применяли 
+для исследования препарата на данной клеточной линии. 
+
+Дополнительно исследовали влияние времени инкубации 
+клеток с ХТТ-реагентом. Было установлено, что 4 ч являет-
+ся оптимальным временем инкубации. Дальнейшее увеличе-
+ние периода инкубации приводило лишь к незначительному 
+изменению значений OD. Причем, при инкубации 5 ч наблю-
+дали увеличение значений OD для низких концентраций тра-
+стузумаба (рис. 2). Снижение времени инкубации приводи-
+ло к увеличению значений среднеквадратичного отклонения 
+и получению менее достоверных результатов.
+
+Стандарты производства и оценки лекарственных рис. 2. Зависимость OD от времени инкубации. на графике 
+средств подразумевают использование валидированных указаны названия кривых по точке времени инкубации с Хтт-
+методов [19]. Были проанализированы следующие харак- реагентом.
+
+47
+
+
+
+Январь–Март 2015
+
+А Таблица 1. Оценка линейности метода
+Полученное IC50
+
+Теоретическая специфическая 
+активность, % повтор
+
+№ 1 № 2 № 3
+60 0,20 0,21 0,22
+80 0,16 0,16 0,17
+
+100 0,12 0,12 0,13
+120 0,10 0,099 0,098
+140 0,067 0,068 0,067
+
+Б
+
+рис. 5. калибровочные кривые зависимости IC50 от теорети-
+ческой специфической активности.
+
+пролиферативная активность ритуксимаба в данном случае 
+отсутствовала (рис. 4).
+
+Таким образом, отработанный метод обладает высокой 
+специфичностью в данном диапазоне концентраций. 
+
+Определение линейности диапазона проводили на раство-
+рах трастузумаба с исходными концентрациями 1,5; 2,0; 2,5; 
+3,0; 3,5 мкг/мл. Измерения проводили в трех повторностях.  
+
+Анализ погрешности проводили сравнением кривой, по-
+рис. 3. Зависимость OD от концентрации трастузумаба испы-
+танного на разных линиях клеток: а – BT-474 и MDA-MB-231; строенной для диапазона концентраций – 2,5–0,00065536 
+Б – MDA-MB-453. мкг/мл, с шагом разведения 2,5, принятой за стандартную 
+
+(100%), и проверяемых (кривые с начальными точками раз-
+ведения – 1,5; 2,0; 3,0; 3,5 мкг/мл (60, 80, 120 и 140% соот-
+ветственно).  
+
+В таблице 1 представлены значения IC  для каждой кривой. 
+50
+
+Как видно из рисунка 5, коэффициенты детерминации 
+колеблются от 0,98 до 0,99, что свидетельствует о линей-
+ной зависимости между специфической активностью пре-
+парата и концентрацией полумаксимального ингибирова-
+ния (табл. 1 и рис. 5).
+
+На следующем этапе определяли правильность и прецизи-
+онность метода. Для правильности рассчитывали специфиче-
+скую активность (A) и относительную погрешность (ε, %). Для 
+прецизионности – стандартное отклонение (SD) и величину 
+относительного стандартного отклонения (RSD, %).
+
+Специфическая активность: 
+
+,                                                                         (1)
+
+где А – специфическая активность (%); IC (С) – значе-
+50 
+
+ние концентрации полумаксимального ингибирования для 
+стандартного раствора, полученное в ходе эксперимента; 
+
+рис. 4. Зависимость OD от концентрации использованных мо- IC (T) – значение концентрации полумаксимального инги-
+50 
+
+ноклональных антител.
+
+48
+
+
+
+Таблица 2. Оценка правильности и Выводы
+прецизионности метода (inter-day)
+
+Теоретиче- Получен- ион- Отработанная методика оценки специфической активно-
+ская специ- Получен- ное IC50, Правильность Прециз
+
+ность сти препаратов на примере трастузумаба была валидиро-
+фическая ак- ное IC50 среднее вана по основным параметрам. Показано, что в данном диа-
+тивность, % значение А, % (ε, %), SD RSD, %
+
+0,16 75 6,3 пазоне концентраций (2,5–0,00065536 мкг/мл, с шагом раз-
+
+80 0,16 0,16 75 6,3 0,006 3,75 ведения 2,5) метод специфичен, обладает линейностью с 
+
+0,17 76 5 коэффициентом детерминации 98–99%. Кроме того, у дан-
+0,12 ного метода высокая точность и прецизионность, соответ-
+0,12 ствующие нормам FDA и EMA. 
+0,13 Простота исполнения метода позволяет использовать 
+
+100 0,12 100 0 0,005 0,042
+0,12 его повсеместно в лабораториях, где есть необходимость 
+0,12 проводить оценку антипролиферативной активности раз-
+0,13 личных препаратов, действующих по сходному принципу.
+0,10 120 0
+
+120 0,099 0,099 121 0,8 0,0006 0,61 Литература:
+1.  Данлыбаева ГА, Жылкибаев АА, Рыков ВА, Тритек ВС, Силаев ДВ, Гуляев АЕ. 
+
+0,098 122 1,7 Цитотоксичность карборанилсодержащих соединений. Биотехнология. Те-
+Таблица 3. Оценка правильности и ория и практика 2012; (3): 49–54.
+
+2.  Hartung T, Gstraunthaler G, Coecke S, Lewis D, Blanck O, Balls M. Good cell 
+прецизионности метода (intra-day) culture practice (GCCP) – an initiative  for standardization and quality control 
+
+of in vitro studies. The establishment of an ECVAM Task Force on GCCP. 
+Теоретиче- Получен- Правильность Прецизион- ALTEX 2001; 18(1): 75–8.
+ская специ- Получен- ное IC50, ность 3.  Шпакова АП, Павлова КС, Булычева ТИ. МТТ-колориметрический метод 
+
+фическая ак- ное IC50 среднее определения цитотоксической активности естественных киллерных кле-
+тивность, % значение А, % (ε, %) SD RSD, %
+
+ток. Клиническая лабораторная диагностика 2000; (2): 20–3.
+4.  Loveland BE, Johns TG, Mackay IR, Vaillant F, Wang ZX, Hertzog PJ. 
+
+0,15 87 8,8 Validation of the MTT dye assay for enumeration of cells in proliferative and 
+antiproliferative assays. Biochem Int. 1992; 27(3): 501–10.
+
+80 0,15 0,15 80 0 0,006 4,0 5.  Mosmann T. Rapid colorimetric assay for cellular growth and survival: 
+0,16 69 13,8 application to proliferation and cytotoxicity assays. J Immunol Methods 1983; 
+
+65(1–2): 55–63.
+0,13 6.  Niks M, Otto M. Towards an optimized MTT assay. J Immunol Methods 1990; 
+0,12 130(1): 149–51.
+
+7.  Nouri AM, Mansouri M, Hussain RF, Dos Santos AVL, Oliver RTD. Super-
+0,11
+
+100 0,12 100 0 0,008 0,07 sensitive epithelial cell line and colorimetric assay to replace the conventional 
+0,13 K562 target and chromium release assay for assessment of non-MHC-
+
+restricted cytotoxicity. J Immunol Methods 1995; 180(1): 63–8.
+0,12 8.  Niu Q, Zhao C, Jing Z. An evaluation of the colorimetric assays based on enzymatic 
+0,11 reactions used in the measurement of human natural cytotoxicity. J Immunol 
+
+Methods 2001; 251(1–2): 11–9.
+0,1 130 8,3 9.  Scudiero DA, Shoemaker RH, Paull KD, Monks A, Tierney S, Nofziger TH, 
+
+120 0,1 0,097 120 0 0,0047 4,8 et al. Evaluation of a soluble tetrazolium/formazan assay for cell growth and 
+drug sensitivity in culture using human and other tumor cell lines. Cancer Res. 
+
+0,09 122 1,7 1988; 48(17): 4827–33.
+10.  Berridge MV, Tan AS, McCoy KD, Wang R. The biochemical and cellular basis 
+
+of cell proliferation assays that use tetrazolium salt. Biochemica 1996; 4(1): 
+бирования для испытуемого раствора, полученное в ходе 15–9.
+эксперимента. 11.  Van de Loosdrecht AA, Nennie E, Ossenkoppele GJ, Beelen RH, Langenhuijsen 
+
+MM. Cell mediated cytotoxicity against U937 cells by human monocytes and 
+Относительная погрешность (ε, %): macrophages in a modified colorimetric MTT assay. A methodological study. 
+
+J Immunol Methods 1991; 141(1): 15–22.
+12.  Van de Loosdrecht AA, Beelen RH, Ossenkoppele GJ, Broekhoven MG, 
+
+,                                                          (2) Langenhuijsen MM. A tetrazolium-based colorimetric MTT assay to 
+quantitate human monocyte mediated cytotoxicity against leukemic cells 
+from cell lines and patients with acute myeloid leukemia. J Immunol Methods 
+
+где ε – относительная погрешность; А  – специфиче- 1994; 174 (1–2): 311–20.
+получ 13.  Giuseppe SA, Longo-Sorbello, Saydam G, Banerjee D. Cytotoxicity and cell 
+
+ская активность, полученная в ходе испытаний; А  – спец-
+теор growth assays. Elsevier Science 2006; chapter 38: 315–24.
+
+ифическая активность, теоретическая. 14. Huyck L, Ampe C, Van Troys M. The XTT Cell proliferation assay applied to 
+cell layers embedded in three-dimensional matrix. Assay Drug Dev Technol. 
+
+Относительное стандартное отклонение (RSD,%): 2012; 10(4): 382–92.
+15. Yarden Y, Sliwkowski MX. Untangling the ErbB signaling network. Nat Rev Mol 
+
+Cell Biol. 2001; 2(2): 127–37.
+,                                                             (3) 16. Harries M, Smith I. The development and clinical use of trastuzumab 
+
+(Herceptin). Endocr Relat Cancer 2002; 9(2): 75–85. 
+17. Le XF, Pruefer F, Bast RC, Jr. HER2-targeting antibodies modulate the cyclin-
+
+где RSD – относительное стандартное отклонение; SD dependent kinase inhibitor p27Kip1 via multiple signaling pathways. Cell 
+Cycle 2005; 4(1): 87–95. 
+
+– стандартное отклонение; IC (сред) – среднее значение 18. Tseng PH, Wang YC, Weng SC, Weng JR, Chen CS, Brueggemeier RW, et 
+50
+
+концентрации полумаксимального ингибирования для ис- al. Overcoming trastuzumab resistance in HER2-overexpressing breast 
+cancer cells by using a novel celecoxib-derived phosphoinositide-dependent 
+
+пытуемых растворов, полученных в экспериментах. kinase-1 inhibitor. Mol Pharmacol. 2006; 70(5): 1534–41. 
+19. Юргель НВ, ред. Руководство для предприятий фармацевтической 
+
+Результаты представлены в таблицах 2, 3 при исследо- промышленности. Методические рекомендации. М.: Спорт и Культу-
+вании IC  для одного (inter-day) и разных дней (intra-day). ра–2000; 2007. 
+
+50 20. Costantini DL, Bateman K, McLarty K, Vallis KA, Reilly RM. Trastuzumab-
+Полученные величины относительного стандартного от- resistant breast cancer cells remain sensitive to the auger electron-emitting 
+
+клонения (RSD, %) и относительной погрешности (ε, %), со- radiotherapeutic agent 111 In-NLS-trastuzumab and are radiosensitized by 
+methotrexate. J Nucl Med. 2008; 49(9): 1498–505.
+
+ответствуют нормам FDA и EMA (не более 20% для мини- 21. Narayan M, Wilken JA,  Harris LN, Baron AT, Kimbler KD, Maihle NJ. 
+Trastuzumab-induced HER Reprogramming in “resistant” breast carcinoma 
+
+мальной концентрации, не более 15% для максимальной cells. Cancer Res. 2009; 69(6): 2191–4.
+концентраций) [19, 22, 23]. 22. Guideline on validation of bioanalytical methods (draft). European 
+
+Medicines Agency. Committee for medicinal products for human use: 
+
+49
+
+
+
+Январь–Март 2015
+
+London, 2009. Available from: http://www.ema.europa.eu/docs/en_GB/ 17. Le XF, Pruefer F, Bast RC, Jr. HER2-targeting antibodies modulate the cyclin-
+document_library/Scientific_guideline/2009/12/WC500018062.pdf. dependent kinase inhibitor p27Kip1 via multiple signaling pathways. Cell 
+
+23. Guidance for Industry: Bioanalytical method validation. U.S. Department Cycle 2005; 4(1): 87–95. 
+of Health and Human Services, Food and Drug Administration, Center for 18. Tseng PH, Wang YC, Weng SC, Weng JR, Chen CS, Brueggemeier RW, et 
+Drug Evolution and Research (CDER). U.S. Government Printing Office: al. Overcoming trastuzumab resistance in HER2-overexpressing breast 
+Washington, DC, 2001. Available from: http://www.fda.gov/downloads/ cancer cells by using a novel celecoxib-derived phosphoinositide-dependent 
+Drugs/Guidances/ucm070107.pdf. kinase-1 inhibitor. Mol Pharmacol. 2006; 70(5): 1534–41. 
+
+19. Yurgel NV, ed. Guide for the pharmaceutical industry. Guidelines. Moscow: 
+Sport i Kultura–2000; 2007 (in Russian). 
+
+References 20. Costantini DL, Bateman K, McLarty K, Vallis KA, Reilly RM. Trastuzumab-
+1. Danlybaeva GA, Zhylkibaev, Rykov VA, Tritek VS, Silaev DV, Gulyaev AE. resistant breast cancer cells remain sensitive to the auger electron-emitting 
+
+Cytotoxicity of carboranyl compounds. Biotehnologiya. Teoriya i praktika radiotherapeutic agent 111 In-NLS-trastuzumab and are radiosensitized by 
+2012; (3): 49–54 (in Russian). methotrexate. J Nucl Med. 2008; 49(9): 1498–505.
+
+2. Hartung T, Gstraunthaler G, Coecke S, Lewis D, Blanck O, Balls M. Good cell 21. Narayan M, Wilken JA,  Harris LN, Baron AT, Kimbler KD, Maihle NJ. 
+culture practice (GCCP) – an initiative  for standardization and quality control Trastuzumab-induced HER Reprogramming in “resistant” breast carcinoma 
+of in vitro studies. The establishment of an ECVAM Task Force on GCCP. cells. Cancer Res. 2009; 69(6): 2191–4.
+ALTEX 2001; 18(1): 75–8. 22. Guideline on validation of bioanalytical methods (draft). European Medicines 
+
+3. Shpakova AP, Pavlova KS, Bulycheva TI. MTT colorimetric method for Agency. Committee for medicinal products for human use: London, 2009. 
+determining the cytotoxic activity of natural killer cells. Klinicheskaya Available from: http://www.ema.europa.eu/docs/en_GB/document_library/
+laboratornaya diagnostika 2000; (2): 20–3 (in Russian). Scientific_guideline/2009/12/WC500018062.pdf.
+
+4.  Loveland BE, Johns TG, Mackay IR, Vaillant F, Wang ZX, Hertzog PJ. 23. Guidance for Industry: Bioanalytical method validation. U.S. Department 
+Validation of the MTT dye assay for enumeration of cells in proliferative and of Health and Human Services, Food and Drug Administration, Center for 
+antiproliferative assays. Biochem Int. 1992; 27(3): 501–10. Drug Evolution and Research (CDER). U.S. Government Printing Office: 
+
+5.  Mosmann T. Rapid colorimetric assay for cellular growth and survival: Washington, DC, 2001. Available from: http://www.fda.gov/downloads/
+application to proliferation and cytotoxicity assays. J Immunol Methods 1983; Drugs/Guidances/ucm070107.pdf.
+65(1–2): 55–63.
+
+6.  Niks M, Otto M. Towards an optimized MTT assay. J Immunol Methods 1990; Authors:
+130(1): 149–51. International Biotechnological Center «Generium», 14 Vladimirskaya Street, 
+
+7.  Nouri AM, Mansouri M, Hussain RF, Dos Santos AVL, Oliver RTD. Super- Vladimir region, Volginskiy, 601125, Russian Federation.
+sensitive epithelial cell line and colorimetric assay to replace the conventional Lyagoskin IV. Researcher of the Department of analytical methods. Candidate 
+K562 target and chromium release assay for assessment of non-MHC- of Biological Sciences.
+restricted cytotoxicity. J Immunol Methods 1995; 180(1): 63–8. Berestovoy MA. Researcher of the Department of cell biology.
+
+8.  Niu Q, Zhao C, Jing Z. An evaluation of the colorimetric assays based on enzymatic Poteryaev DA. Head of the Department of cell biology. Candidate of Biological 
+reactions used in the measurement of human natural cytotoxicity. J Immunol Sciences.
+Methods 2001; 251(1–2): 11–9. Zeynalova ES. Senior researcher of the Department of cell biology.
+
+9. Scudiero DA, Shoemaker RH, Paull KD, Monks A, Tierney S, Nofziger TH, et Vishnevsky AYu. Head of the Department of analytical methods. Candidate of 
+al. Evaluation of a soluble tetrazolium/formazan assay for cell growth and drug Biological Sciences.
+sensitivity in culture using human and other tumor cell lines. Cancer Res. 1988; Kazarov AA. Head of the Laboratory of analytical control of the Department of 
+48(17): 4827–33. analytical methods.
+
+10.  Berridge MV, Tan AS, McCoy KD, Wang R. The biochemical and cellular 
+basis of cell proliferation assays that use tetrazolium salt. Biochemica 1996; 
+4(1): 15–9. Об авторах
+
+11. Van de Loosdrecht AA, Nennie E, Ossenkoppele GJ, Beelen RH, Langenhuijsen OOO Международный биотехнологический центр «Генериум». Российская 
+MM. Cell mediated cytotoxicity against U937 cells by human monocytes and Федерация, 601125, Владимирская область, п. Вольгинский, ул. Владимир-
+macrophages in a modified colorimetric MTT assay. A methodological study. ская, 14.
+J Immunol Methods 1991; 141(1): 15–22. Лягоскин Иван Владимирович. Научный сотрудник отдела аналитических 
+
+12. Van de Loosdrecht AA, Beelen RH, Ossenkoppele GJ, Broekhoven MG, методов, канд. биол. наук.
+Langenhuijsen MM. A tetrazolium-based colorimetric MTT assay to quantitate Берестовой Михаил Алексеевич. Научный сотрудник отдела клеточной 
+human monocyte mediated cytotoxicity against leukemic cells from cell lines биологии.
+and patients with acute myeloid leukemia. J Immunol Methods 1994; 174 Потеряев Дмитрий Александрович. Начальник отдела клеточной биоло-
+(1–2): 311–20. гии, канд. биол. наук.
+
+13. Giuseppe SA, Longo-Sorbello, Saydam G, Banerjee D. Cytotoxicity and cell Зейналова Эльмира Сафаиловна. Старший научный сотрудник отдела 
+growth assays. Elsevier Science 2006; chapter 38: 315–24. клеточной биологии.
+
+14. Huyck L, Ampe C, Van Troys M. The XTT Cell proliferation assay applied to Вишневский Александр Юрьевич. Начальник отдела аналитических мето-
+cell layers embedded in three-dimensional matrix. Assay Drug Dev Technol. дов, канд. биол. наук.
+2012; 10(4): 382–92. Казаров Александр Александрович. Руководитель лаборатории аналити-
+
+15. Yarden Y, Sliwkowski MX. Untangling the ErbB signaling network. Nat Rev Mol ческого контроля отдела аналитических методов.
+Cell Biol. 2001; 2(2): 127–37.
+
+16. Harries M, Smith I. The development and clinical use of trastuzumab адрес для переписки: Лягоскин Иван Владимирович; Lyagoskin@
+(Herceptin). Endocr Relat Cancer 2002; 9(2): 75–85. ibcgenerium.ru 
+
+Поступила 13.10.2014 г.
+Принята 16.03.2015 г.
+
+50

@@ -1,0 +1,881 @@
+﻿НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 11. № 2–2019
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+doi: 10.24411/2409-5419-2018-10254 
+
+ПОСТРОЕНИЕ МАКРОМОДЕЛИ ЭКВИВАЛЕНТНОЙ 
+ЭЛЕКТРИЧЕСКОЙ СХЕМЫ, СОХРАНЯЮЩЕЙ 
+ПРОСТУЮ ЗАВИСИМОСТЬ ОТ ВАРЬИРУЕМЫХ 
+ПАРАМЕТРОВ ЭЛЕКТРОФИЗИЧЕСКОЙ МОДЕЛИ
+
+БОРИСОВ АННОТАЦИЯ
+Николай Иванович На сегодняшний день одной из важных проблем в  области эксплуатации космиче-
+
+ских аппаратов является возникновение электростатических разрядов, являющихся 
+причиной выхода из строя бортовой радиоэлектронной аппаратуры. Такие электро-
+статические разряды обусловлены электризацией поверхности космических аппара-
+тов в результате длительного воздействия ионизирующего космического излучения. 
+Теоретическому и практическому исследованию указанной проблемы посвящено мно-
+жество работ отечественных и зарубежных авторов. Для обеспечения надёжной рабо-
+ты бортовой радиоэлектронной аппаратуры космических аппаратов в условиях пери-
+одического возникновения электростатических разрядов требуется в первую очередь 
+знание величин возникающих помеховых сигналов во фрагментах бортовой кабель-
+ной сети, проложенных по внешней поверхности космических аппаратов. Это требует 
+проведения машинного моделирование картины растекания токов по поверхности 
+космических аппаратов на основании результатов которого формируются требования 
+к  помехозащищённости электронных блоков, включаемых в  космические аппараты. 
+В качестве математической модели, используемой для исследования процесса расте-
+кания токов, часто берётся линейная эквивалентная электрическая схема, состоящая 
+из значительного (105 и более) количества узлов и равномерно покрывающая поверх-
+ность космических аппаратов в виде сетки. Задачи анализа таких схем обладают вы-
+сокой трудоёмкостью и  могут требовать для их решения десятки часов машинного 
+времени, что сильно затрудняет проведение множества испытаний для различных па-
+раметров электростатических разрядов и, как следствие, увеличивает сроки выработ-
+ки необходимых требований к бортовой радиоэлектронной аппаратуре. Предлагается 
+формальный метод построения макромодели линейной эквивалентной электрической 
+схемы, сформированной по антенне спутника связи. Макромодель может содержать 
+столько фазовых переменных, сколько желает проектировщик антенны. Макромодель 
+сохраняет простую зависимость ее выходных характеристик от конструктивно-техно-
+логических варьируемых параметров модели антенны. Применение данного подхода 
+позволяет на несколько порядков сократить трудоемкость вычислений.
+
+Сведения об авторе:
+
+д.т.н., профессор, профессор 
+Национального исследовательского 
+университета «Высшая школа экономики», КЛЮЧЕВЫЕ СЛОВА: макромодель; эквивалентная электрическая схема; антенна спутника 
+г. Москва, Россия, nborisov@hse.ru связи; космические аппараты; электростатический разряд.
+
+Для цитирования: Борисов Н.И. Построение макромодели эквивалентной электрической схемы, сохраняющей простую зависимость 
+от варьируемых параметров электрофизической модели // Наукоемкие технологии в космических исследованиях Земли. 2019. Т. 11. 
+№ 2. С. 4–11. doi: 10.24411/2409-5419-2018-10254 
+
+4
+
+
+
+Vol. 11. No. 2-2019, H&ES RESEARCH
+
+AVIATION, SPASE-ROCKET HARDWARE
+
+-
+-
+-
+
+ 	 
+X 1 (t)
+
+C11 0 0  	  G G G  X 1 (t) Y 1 (t)
+11 12 13
+
+-        
+0 L 
+
+ 22 0 X 2 (t)  G
+   21 0 G23  X 2 (t) 
+  0  ,
+
+ 0 0 0  	
+
+X  G G G     
+31 32 33  X 3 (t)
+
+ 3 (t)   0 
+ 
+
+X (0) X 0 ,
+
+C cE L22 lE22 G r H G r H G r H
+G r H
+
+H  H H H — H —
+
+- C  C  C  C — Y 1 (t)
+
+- r l c— -
+
+-
+- -
+
+- X (t);
+-
+
+h
+r l c
+
+-
+
+-
+- X 3 (t) 
+ G1
+
+33 (G31 X 1 (t) G32 X 2 (t)).
+
+-
+
+5
+
+
+
+НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 11. № 2–2019
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+- E  hA hA   
+11 11 12 U 1  V 1  R1 
+
+       
+ h   ,
+ hA21 E22  hA22  U 2  V 2   0 
+
+Z 
+1 
+ c 1Y 1
+
+ 	  1(i1) , R1 
+ c Y 1(i) ;
+C11 0  X 1 (t)
+ L   	   0 22  U 1 X 1 (ti ), U 2 X 2 (ti );
+
+X 2 (t)
+V 1 
+ X 1 (ti1 ),G 1
+
+11 G13G
+
+33G31 G12 G G1G  X 1 (t) Y 1 (t)
+
+ 13 33 32
+  
+   . h—
+
+     G 1
+21 G23G33G31 G G 1
+
+ 23 33G32  X 2 (t)  0  -
+
+U 1  (E11  hA11 )V 1  hA12V 2 
+ hZ1 ,
+
+U 2  hA21V 1  (E22  hA22 )V 2 
+ 0,
+	
+
+X (t)  AX (t) 
+ cY (t), X (0) 
+ X 0 ,
+(E11  hA11 )U 1  hA12U 2 V 1 
+ hR1 ,
+
+hA21U 1  (E22  hA22 )U 2 V 2 
+ 0,
+
+ 	 
+X
+
+—
+1 (t) A 
+
+11 A12  X 1 (t) c1Y 1 (t)
+ 	   A A    
+   , -
+X t   21 22  X 2 (t)
+
+2 ( )   0  U 1.
+
+A 
+ c1[r1H  r1H H 1rr111 11 13 33 H31 ] 
+
+
+ (cr)1[H11 H H 1
+
+13 33 H31 ] 
+ (cr)
+1F11 ;
+
+U 2 
+ hA21V 1  (E22  hA22 )V 2 .
+
+A 
+ 1
+12 c [G  r1H H 1
+
+12 13 33 rG32 ] 
+
+
+ c1
+
+V
+[G H H 1G 
+ c1 1.
+
+12 13 33 32 ] F12 ;
+
+hA21U 1  (E22  hA22 )[hA21V 1  (E22  hA22 )V 2 ]V 2 
+ 0,
+A 
+ l1[G G H 1rr121 21 23 33 H31 ] 
+
+
+ l1[G G H 1
+
+21 23 H ] 
+ l133 31 F21 ;
+
+A l G H rG l r G H G V 
+ 2
+2 h (A2 )1
+ 1[ 1 ] 
+ 1 [ 1 
+ 1
+
+22 23 33 32 23 33 32 ] l rF 22 [hA21U 1  h(E22  hA22 )A21V 1 ].
+22 ;
+
+F F F F22—
+
+U 1  (E11  hA11 )V 1  hA12V 2 
+ hZ1 ,
+-
+
+X 1 (t)
+PU 1  (P  hQ)V 1 
+ hZ1 ,
+
+X 2 (t)
+X 2 (t).
+
+- P 
+ A A2 1 A Q A A
+12 ( 22 ) 21  E 
+ 1
+
+11 , 12 22 A21  A11.
+
+U 1  E11  hA11 hA  12 V 1  Z1 
+   
+U h    
+ h   ,
+   A21 E22  hA2  22  V 2   0  (E11  hA11 )U 1  hA12U 2 V 1 
+ hR1 ,
+
+6
+
+
+
+Vol. 11. No. 2-2019, H&ES RESEARCH
+
+AVIATION, SPASE-ROCKET HARDWARE
+
+-
+(E  hA )U (h211 11 1  A12 A21  E11 )V 1 
+ hA12 (E22  hA22 )V 2 
+ hR1. P11 P12  U  S S
+
+1 11 12  V  
+1 0 
+
+P P         
+ 
+-  21 22  U S S
+
+2 21 22 V2 Z  ,
+      2 
+
+T11 T12  U  P P     0 1 11 12 V1
+(E hA )U (h211  11 1  A 
+
+12 A21  E11 )V 1  T T         
+ R  ,
+ 21 22  U P P
+
+2   21 22  V2   2 
+ hA (E hA )h2 (A2 ) 112 22 
+
+
+22 22 [hA21U 1 
+
+
+ h U 
+(E22  hA22 )A21V 1 
+ hR1 , S 
+ P  hQ T 
+ P  hQ U 1
+
+1 
+   ,
+V  U2 
+
+V 
+ 1
+1  Z1 , R hR1.
+
+{[E  A (A2 )1 A ] h[A A A V
+ , Z h
+
+2 
+11 12 22 21  11 
+
+1
+12 22 A21 ]}U 1 
+
+ [h2 A A h212 21  A A  E  A (A2 )1 -
+12 21 11 12 22 A21 ] V 
+ hR
+
+1 1.
+U2 V2
+
+-
+-
+
+(P  hQ)U 1  PV 1 
+ hR1. Z2 R2
+-
+
+P11U1  P12U2  S11V1  S12V2 
+ 0,
+X 1 (t) -
+
+- P21U1  P22U2  S21V1  S22V2 
+ Z2 ,
+r l c
+
+T11U1 T12U2  P11V1  P12V2 
+ 0,
+-
+
+T21U1 T22U2  P21V1  P22V2 
+ R2 ,
+P Q 1
+
+2
+
+U
+P 
+ E  A (A2 1
+
+11 12 22 ) A21 
+ E22 
+ c1F 2 1 1 2 1
+
+12 (F22 )
+ (lr ) l F21 
+ U 
+ P1
+
+1 11 [P12U2  S11V1  S12V2 ].
+
+
+ E l
+11  F12 (F
+
+2 1F U
+cr 2 22 ) 21.
+
+V
+
+P - T P1
+11 11 [P12U2  S11V1  S12V2 ]
+
+r l c -  T12U2  P11V1  P12V2 
+ 0,
+
+[T P1
+11 11 S  P ]V  [T P1
+
+11 11 1 11 11 S12  P12 ]V2 
+Q 
+ A A1A  A 
+ c1F lr1F 1l112 22 21 11 21 22 A21   [T P1
+
+11 11 P12 T12 ]U2 
+ 0.
+1
+
+ (rc)1F11 
+ [F
+cr 21F
+
+1
+22 F12  F11 ].
+
+V
+
+Q -
+r l c - [(P11  hQ
+
+1
+11 )P11 (P  hQ )  P ]V 
+ h2Q P1
+
+11 11 11 1 11 11 Q11V1.
+
+[h2Q 1 ]111P11 Q11 
+ h2Q1P Q1
+11 11 11 .
+
+7
+
+
+
+НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 11. № 2–2019
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+(P21P
+1 )[ ( 1 ) 111 S11 S21 T11P11 S11 P11 ].
+
+V  T P 1S P 1 T P 1
+1 
+ [   ] [ 
+
+11 11 11 11 11 11 S12  P12 ]V2 
+(P 1
+21P11 S11  S )[ (T P1S P )121  11 11 11  11 ] 
+
+
+ [T P1
+11 11 S11  P ]
+
+1
+11 [T 1
+
+1P
+
+
+1 11 P12 T12 ]U2 , 
+ h1 (P Q1
+21 11 Q Q1 1
+
+21 11 P11Q11 ).
+
+V1 
+ h
+2B1 1
+
+11 A11B11 [(A1  hB A11 11 ) 11 (A12  hB12 )  A12 ]V2 
+ h2B1 1[(  ) 1
+
+11 A11B11 A11 hB11 A11 A12  (A12  hB12 )]U2 (P P1S  S )[(T P1 ) 1 ]( 1
+21 11 11 21 11 11 S11  P
+
+
+11 T11P
+
+
+11 P12 T12 )].
+
+- (P P1S  S )[(T P1S ) 1 ]( 1
+21 11 11 21 11 11 11  P
+
+
+11 T11P
+
+
+11 P12 T12 )] 
+
+
+- 
+ P P1P  P Q1Q Q Q1  1 
+21 11 12 21 11 12 21 11 P12 Q21Q
+
+1
+11 P11Q11Q12 .
+
+U2 V2 .
+U2
+
+-
+U V
+
+P P1P  P  P P1P  P Q1
+21 11 12 22 21 11 12 21 11Q12 
+
+P21U1  P22U2  S21V1  S22V2 
+ Z2 ,  Q 1 1 1
+21Q11 P12 Q21Q
+
+ P Q
+11 11 11Q12 
+
+
+
+ P  P Q1Q Q Q1
+22 21 11 12 21 1 P Q Q1P Q1
+
+1 12 21 11 11 11Q12 .
+
+[P P1P  P ]U  [P 1
+21 11 12 22 2 21P11 S11  S21 ]V1 
+
+ [P 
+21P
+
+1
+11 S12  S22 ]V2 
+ Z (P P 1S S )[ ([T P 1S P ) 1 ]( 1
+
+21 11 11 21 11 11 11 11 T11P11 S12 P12 )2 .
+
+V1. (P 
+21P
+
+1
+11 S11  S )[([T P1S P )1 ](T P1
+
+21 11 11 11  11 11 11 S12  P12 ) 
+
+
+ P Q1
+
+21 11Q  P P1P  hP P1
+[P 1
+
+12 21 11 12 21 11 Q12 
+21P
+
+
+11 P12  P22 ]U2 
+
+[P P1S  S ]{[T P1S  1 Q Q1P Q1
+21 11 11 11Q12 Q2 Q
+
+1 1
+1 11 P12  hQ21Q11Q12 .
+
+21 11 11 21 11 11 11 P11 ] [T
+1
+
+11P11 S12  P12 ]}V2 
+[P 1
+
+21P11 S11  S 1 ]{[T P
+1 1 1
+
+2 11 11 S11  P
+
+
+11 ] [T11P11 P12 T12 ]}U2 
+[P 1
+
+21P11 S11  S21 ]{[T P
+1 1 1
+
+11 11 S11  P11 ]
+ [R1 T11P
+
+
+11 Z1 ]}
+
+V2
+
+[P21P
+1
+11 S12  S22 ]V2 
+ Z2 , P 1
+
+21P11 S
+1
+
+12  S22  P21Q
+
+11Q  1 1
+
+12 P21P11 P12  hP21P11 Q12 
+ Q21Q
+
+1
+11 P Q
+
+1Q Q Q1P  hQ Q1
+11 11 12 21 11 12 21 11Q12 
+ P22 
+
+[(P P1P  P )  (P P1
+21 11 12 22 21 11 S11  S21 )  hQ  P Q1
+
+22 21 11Q12 Q2 Q
+1P Q1Q Q Q1
+
+1 11 11 11 12 21 11 P12 
+[(T P1S  P 1 1
+
+11 11 11 11 ) ](T11P11 P12 T12 )]U2   hQ Q1Q 
+ P Q1
+21 11 12 21 11Q12 Q21Q
+
+1
+11 P12  P22 
+
+[(P 1   1
+21P11 S12 S22 ) (P 
+
+21P11 S11  S21 )  Q 1 1 1
+21Q11 P11Q11Q12  h(Q21Q11Q12 Q22 ).
+
+[([T P1S  P )1 ](T P1
+11 11 11 11 11 11 S12  P12 )]V2 
+ Z2 .
+
+h -
+-
+
+h -
+
+[P  P Q1 1
+22 21 11Q12 Q21Q
+
+
+11 P12 Q21Q
+
+1 1
+11 P11Q11Q12 ]U2 
+
+P 1
+21P11 S11 S21.  [P 1
+
+21Q Q Q Q1P  P Q Q1 1
+11 12 21 11 12 22 21 11 P11Q
+
+
+11Q12 
+
+P 1  h (Q 1
+21Q11Q12 Q22 )]V2 
+ Z2 .21P11 S11  S21 
+ P
+
+1
+21P11 (P11  hQ11 ) 
+
+ P hQ 
+ P P1
+21  21 21 11 (P11  hQ11 )  P21  hQ21 
+
+
+
+ P21  hP21P
+1
+11 Q11  P21  hQ21 
+
+
+-
+P 1
+11 ,
+ h(P 1
+
+21P11 Q11 Q21 ).
+
+8
+
+
+
+Vol. 11. No. 2-2019, H&ES RESEARCH
+
+AVIATION, SPASE-ROCKET HARDWARE
+
+-
+n n2 n
+
+P 
+ E l
+ F F 2 1
+
+11 F E l
+
+  P
+
+cr 2 12 ( 22 ) 21 cr 2 n n2 -
+G
+
+Q 1
+
+ [F
+cr 2 F
+
+1F 1
+1 22 12  F11 ] 
+ Q
+
+cr
+P Q
+
+n
+
+M m
+U2 M m  n
+
+P  P Q1Q Q Q1P Q 1 1 -
+22 21 11 12 21 11 12 21Q11 P11Q11Q12 
+
+
+Y (t)
+B B
+
+
+ [E 2 B
+22 Q21 (Q)
+
+1
+1 (Q
+
+1
+1 )11Q12 ] -
+
+l
+ [P  P (Q)1Q Q (Q  r l c
+c 2 22 21 11 12 21 ) 1 
+
+11 P12 r m M h
+ Q (     1 
+
+21 Q )
+1P Q Q 
+ 
+ B l
+11 11 ( )11 12 ] 1  B
+
+2 2 .cr
+-
+
+V2 r l c -
+
+P Q1
+21 11Q Q Q1
+
+12 21 11 P12  P22 
+ Q Q1P Q1Q h Q Q
+
+21 11 11 11 12  ( 1
+21 11Q12  Q22 ) 
+
+
+h 1 B cr 2
+
+ B
+cr 3  ( 1  B2 ).l -
+
+[B l B ]U [h 11  2 2  B3  (B
+l
+
+1  B )]V 
+ Z .
+cr 2 cr cr 2 2 2 2  
+
+-
+[B l 1 -
+
+1  B ]X (t ) [
+cr 2 2 i  h B3 cr  // 
+
+(B l
+  1
+
+1 B
+2 2 )]X (ti1 ) 
+ hc Y (tcr i1 ),
+
+Laframboise G. et al
+
+Y (ti 1 )— Y (t)
+
+r l c 
+
+9
+
+
+
+НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 11. № 2–2019
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+-
+
+-
+
+-
+
+Butler E. M
+-
+-
+- -
+
+)
+
+BUILDING A MACROMODEL OF EQUIVALENT ELECTRICAL CIRCUIT 
+THAT RETAINS A SIMPLE DEPENDENCE ON VARIABLE PARAMETERS 
+OF THE ELECTROPHYSICAL MODEL
+
+NIKOLAY I. BORISOV KEYWORDS: macromodel; equivalent electrical circuit; satellite an-
+Moscow, Russia, nborisov@hse.ru tenna; spacecraft; electrostatic discharge.
+
+ABSTRAСT
+To date, one of the most important problems in the operation of face based on the results of which the requirements for the noise 
+spacecraft is the occurrence of electrostatic discharges, which are immunity of electronic units included in the spacecraft are formed. 
+the cause of onboard radioelectronic equipment failure. Such of The linear equivalent electric circuit, consisting of a significant num-
+electrostatic discharges are caused by the electrification of the ber of nodes and a uniformly covering spacecraft surface in the form 
+spacecraft surface as a result of prolonged exposure to ionizing cos- of a grid, is often considered as the mathematical model used to 
+mic radiation. The theoretical and practical study of this problem has study the current spreading. The tasks of analyzing such schemes are 
+been the subject of many works by domestic and foreign authors. highly labor intensive and can require tens of machine time hours to 
+In order to ensure reliable operation of the spacecraft of onboard solve them, which makes it difficult to carry out many tests for differ-
+radioelectronic equipment under the conditions of the periodic ent of electrostatic discharges parameters and, as a result, increases 
+emergence of an electrostatic discharges, knowledge of the magni- the time needed to develop the onboard radioelectronic equip-
+tudes of the interfering signals in the on-board cable network along ment. A formal method is proposed for constructing a macromodel 
+the spacecraft outer surface is required. This requires a pattern ma- of a linear equivalent electrical circuit formed over a communication 
+chine simulation of the current spreading over the spacecraft sur- satellite antenna. The macromodel can contain as many phase vari-
+
+10
+
+
+
+Vol. 11. No. 2-2019, H&ES RESEARCH
+
+AVIATION, SPASE-ROCKET HARDWARE
+
+ables as the antenna designer wants. The macromodel maintains a nologii EMS [EMC Technologies]. 2012. No. 40 (1). Pp. 19–24.
+simple dependence of its output characteristics on the design-tech- 8. Borisov N. I. Issledovanie i razrabotka metodov snizheniya razmer-
+nological variable parameters of the antenna model. The use of this nosti i  trudoemkosti zadach analiza i  optimizatsii linejnykh jekviva-
+approach allows reducing the complexity of calculations by several lentnykh jelektricheskikh skhem na osnove makromodelirovaniya v 
+orders of magnitude. SAPR: dis. … dokt.tekhn.nauk [Research and development of meth-
+
+ods for reducing the size and complexity of the tasks of analyzing 
+REFERENCES and optimizing linear equivalent electrical circuits based on macro-
+1. Novikov L. S., Babkin G. V., Morozov E. P., Kolosov S. A., Krup- modelling in CAD. Dr. technical sci. diss]. Moscow, 1996. 207 p.
+nikov K. K., Mileev V. N., Saenko V. S. Kompleksnaya metodologiya 9. Baskakov A. E., Borisov N. I. Algoritm postroeniya makromodeli, 
+opredeleniya parametrov jelektrostaticheskoj zaryadki, jelektrich- osnovannyj na idee metoda opredelyayushchikh velichin [Algorithm 
+eskikh polej i proboev na kosmicheskikh apparatakh v usloviyakh ikh for constructing a macromodel based on the idea of the method 
+radiatsionnoj jelektrizatsii [Complex methodology for determining of determining quantities]. Novye informatsionnye tekhnologii v 
+the parameters of electrostatic charging, electric fields and break- avtomatizirovannykh sistemakh [New information technologies in 
+downs on spacecraft under the conditions of their radiation electrifi- automated systems]. 2008. No. 11. Pp. 93–98.
+cation. Guide for designers]. Moscow: TsNIImash, 1995. 160 p. 10. Boyle S. R., Cohn В. М., Pederson D. O., Solomon J. E. Macromod-
+2. Tyutnev A. P., Saenko V. S., Pozhidaev E. D., Kostyukov N. S. Dijele- elling of integrated circuit operational amplifiers. IEEE J. 1974. Vol.
+ktricheskie svojstva polimerov v polyakh ioniziruyushchikh izluchenij SC-9. No. 6. Pp. 353–363.
+[The dielectric properties of polymers in the fields of ionizing radia- 11. Glezner N., Weisang C. Computer aided macromodelling of in-
+tion]. Moscow: Nauka, 2005. 453 p. tegrated circuit operational amplifiers. Proc. 1976 Int. Symp. Circuits 
+3. Izmailov A. S., Dorofeev A. N., Saenko V. S., Tyutnev A. P., Pozhi- and Systems. N. Y. April, 1976. Pp. 255–258.
+daev E. D., Semenov V. T. Strukturnaya jelektrofizicheskaya model' 12. Solomon J. E. The monolitic opamp: a tutorial study. IEEE J. 1974. 
+jelektrizatsii kosmicheskikh apparatov [Structural electrophysical Vol. SC-9. No. 6. Pp. 314–332.
+model of spacecraft electrification]. Electromechanical matters. VNII- 13. Hsueh M. Y., Pederson D. O. An improved approach for macro-
+EM studies. 2005. Vol.102. Pp. 210–219. modelling digital circuits. Proc. 1977 IEEE Int. Symp. on Circuits and 
+4. Laframboise G. et al. Results from a Two Dimensional Spacecraft- Systems. Phoenix, Arizona 1977. Pp. 692–695.
+Charging Simulation and Comparison with a Surface Photocurrent 14. Butler E. M. Macromodels for switches and logic gates in circuit 
+Model. Spacecraft Charging-Technology-1980, NASA CP-2182. simulations. Proc. 1977 IEEE Int. Symp. on Circuits and Systems. 
+1981. Pp. 709–716. Phoenix, Arizona 1977. Pp. 692–695.
+5. Davis V., Katz I., Mandell M., Gardner B. Spacecraft Charging Inter- 15. Grishkin M. A., Vinnichenko K. V. Razrabotka sistemy analiza jekviv-
+active Handbook. 6th Spacecraft Charging Technology Conference, alentnykh jelektricheskikh skhem [Development of equivalent circuit 
+2000. AFRL–VS-TR-20001578. 2000 analysis system] Tezisy dokladov XIII Mezhdunarodnoj studencheskoj 
+6. Batalov B. V., Egorov, Yu.B., Rusakov S. G. Osnovy matematichesko- shkoly-seminara "Novye informatsionnye tekhnologii" [Abstracts of 
+go modelirovaniya bol'shikh integral'nykh skhem na EVM [Funda- the XIII International student school-seminar "New information tech-
+mentals of mathematical modeling of large integrated circuits on a nologies (Sudak, 22–29 may 2005)]. Moscow, 2005. Pp. 59–60.
+computer]. Moscow: Radio i svyaz', 1982. 167 p.
+7. Vostrikov A. V., Abrameshin A. E., Borisov N. I. Calculation of elec- INFORMATION ABOUT AUTHOR:
+tromagnetic hindrances in an onboard network of space vehicles Borisov N.I., PhD, Full Professor, Professor of the National Research 
+by means of macromodeling on the basis of Euler's methods. Tekh- University Higher School of Economics.
+
+For citation: Borisov N.I. Building a macromodel of equivalent electrical circuit that retains a simple dependence on variable parameters of 
+the electrophysical modelthe electrophysical model. H&ES Research. 2019. Vol. 11. No. 2. Pр. 4–11. doi: 10.24411/2409-5419-2018-10254 
+(In Russian)
+
+11

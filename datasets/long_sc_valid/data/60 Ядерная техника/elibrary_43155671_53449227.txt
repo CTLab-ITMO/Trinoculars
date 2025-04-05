@@ -1,0 +1,551 @@
+﻿И з в е с т и я в у з о в • Я д е р н а я э н е р г е т и к а • № 2 • 2 0 2 0
+
+УДК 621.039.536                                                                                  DOI 10.26583/npe.2020.2.03
+
+ПОТЕНЦИАЛ СПЕКТРАЛЬНОГО
+РЕГУЛИРОВАНИЯ ВВЭР
+С УЧЕТОМ ВЫГОРАНИЯ ТОПЛИВА
+А. И. Элазака*,**, Г. В. Тихомиров*
+* Национальный исследовательский ядерный университет МИФИ
+115409, Москва, Каширское шоссе, 31
+** Университет Аль$Азхар, факультет наук, кафедра физики
+11884, Наср$Сити, Каир, Египет
+
+Управление спектром нейтронов в ядерном реакторе позволяет кон
+тролировать избыточную реактивность за счет поглощения избыточ
+ных нейтронов в поглотителе или за счет изменения уранводного
+отношения. Работа посвящена исследованию потенциала управления
+спектром нейтронов ВВЭР с помощью вытеснителей. В качестве вы
+теснителей использовались циркониевые стержни различного диа
+метра (Zrстержни). Zrстержни располагались между топливными
+стержнями. Введение Zrстержней между твэлами и увеличение их
+диаметра приводит к уменьшению объема воды внутри реактора и
+уменьшению коэффициента размножения. В современных ВВЭР ком
+пенсация избыточной реактивности реализуется с помощью раство
+рения борной кислоты в воде. Представлены результаты сравнения
+потенциальной эффективности использования вытеснителей по
+сравнению с использованием борного регулирования. Расчеты выго
+рания показали, что участие Zrстержней в геометрии ВВЭР1000 сни
+жает темп горения U235 и увеличивает наработку изотопа Pu239.
+Концентрация изотопов плутония увеличивается с увеличением диа
+метра Zrстержней. Важными параметрами безопасности, связанными
+с изменением отношения замедлителя к топливу, являются плотност
+ной и доплеровский коэффициенты реактивности. Поэтому были про
+ведены расчеты этих коэффициентов, и полученные результаты про
+демонстрировали потенциальную безопасность использования вытес
+нителей в ВВЭР вместо борного регулирования. Таким образом про
+демонстрировано, что использование Zrстержней в качестве регуля
+тора спектра нейтронов позволяет поддерживать нейтронную эконо
+мию и контролировать избыточную реактивность внутри ВВЭР.
+
+Ключевые слова: ВВЭР, реактивность, коэффициенты реактивности, борное ре
+гулирование, спектральное регулирование, вытеснители воды, избыточная реак
+тивность.
+
+ВВЕДЕНИЕ
+Существуют различные методы управления ядерными реакциями в реакторе во вре
+
+мя его работы. В тепловых реакторах во время цикла избыточная реактивность необ
+ходима для компенсации отрицательной реактивности, которая возникает в резуль
+тате температурных воздействий, расхода топлива и появления продуктов деления при
+© А. И. Элазака, Г. В. Тихомиров, 2020
+
+27
+
+
+
+ФИЗИКАИТЕХНИКАЯДЕРНЫХРЕАКТОРОВ
+
+работе ядерного реактора [1]. Для контроля избыточной реактивности могут быть
+использованы различные подходы – поглощающие стержни, выгорающие погло
+тители, борное регулирование и изменение отношения замедлителя к топливу. Из
+менение плотности теплоносителя и изменение отношения замедлителя к топли
+ву в процессе работы ядерного реактора являются методами изменения скорос
+тей ядерных реакций путем регулирования спектра нейтронов [2]. Каждый из этих
+подходов имеет свои преимущества и недостатки. Выгорающие поглотители сни
+жают начальную избыточную реактивность без использования управляющих стер
+жней, без изменения температуры замедлителя и с сохранением концентрации
+борной кислоты [3]. Но количество выгорающих поглотителей внутри ТВС огра
+ничено, поэтому они оказывают действие на начальном этапе топливной кампа
+нии (до 10 МВт⋅сут/кгТА) [4]. В ряде работ исследовано распределение выгораю
+щих поглотителей внутри тепловыделяющей сборки, включая различные виды
+поглотителей и размеры их частиц [5, 6]. Борная кислота является одним из по
+пулярных подходов к осуществлению контроля избыточной реактивности преиму
+щественно за счет изменения концентрации в процессе выгорания. Изменение
+концентрации борной кислоты приводит к снижению реактивности реактора за
+счет уменьшения поглощения тепловых нейтронов в топливе [7, 8]. Растворенный
+бор выполняет равномерное по объему активной зоны спектральное регулирова
+ние, но довольно медленный контроль реакционной способности. Использование
+борной кислоты в реакторах ВВЭР требует дорогостоящей и большой системы
+борного регулирования и приводит к образованию большого количества радио
+активных жидких отходов. Кроме того, загрязненный бором теплоноситель явля
+ется очень коррозионной жидкостью для конструкционных материалов [5]. Высо
+кая концентрация растворимого бора также может приводить к положительному
+температурному коэффициенту реактивности замедлителя [9].
+
+С учетом негативных эффектов использования выгорающих поглотителей и бор
+ной кислоты в работе рассматривается попытка изучить влияние вытеснителя воды
+для контроля избыточной реактивности с точки зрения нейтронной физики. Изуча
+ется также мера надежности водоизмещающего устройства в ВВЭР1000 путем срав
+нения разности реактивности между состояниями введения и удаления стержней во
+доизмещающего устройства с разницей реактивности между нулевой и максималь
+ной концентрацией борной кислоты (7,33 г(H3BO3)/дм3(H2O) = 1,77 г(B)/кг(H2O))
+[10]. Исследуется влияние введения вытеснителя воды в геометрию ВВЭР1000 на
+характеристики выгорания и накопления продуктов деления. Материалом вытес
+нителя воды является цирконий. Цирконий используется в ядерных реакторах осо
+бенно в качестве оболочки благодаря таким свойствам, как отличная коррозион
+ная стойкость, подходящее механическое поведение и низкое сечение поглощения
+нейтронов в диапазоне низких и тепловых энергий [11, 12]. В этом исследовании
+Zrстержни используются как плотные стержни, которые могут быть заменены
+любым другим подходящим материалом.
+
+Ранее было проведено исследование по использованию Zrстержней в качестве
+вытеснителей воды [13], в котором циркониевые стержни помещались в некото
+рые направляющие каналы системы безопасности и управления, а разница во вре
+мени работы реактора составляла 4,1 эфф. сут (разница между 298,1 эфф. сут с
+регулированием спектра и 294 эфф. сут без регулирования спектра). В работе Zr
+стержни размещаются между твэлами для оценки максимально возможного эффек
+та спектрального регулирования в ВВЭР без изменения дизайна ТВС.
+
+28
+
+
+
+И з в е с т и я в у з о в • Я д е р н а я э н е р г е т и к а • № 2 • 2 0 2 0
+
+ТЕСТОВАЯ ЗАДАЧА И РАСЧЕТНЫЙ КОД
+В качестве тестовой задачи была выбрана расчетная модель ячейки ВВЭР1000,
+
+представленная в работе [14]. В качестве топлива рассматривался диоксид урана с
+обогащением 3,7% по изотопу U235.
+
+В качестве расчетного кода использовался SERPENT2. Это трехмерный код на ос
+нове метода МонтеКарло с возможностью использования сечений с непрерывной
+зависимостью от энергии нейтронов. Данный код разработан в техническом иссле
+довательском центре VTT в Финляндии [15] и широко используется в НИЯУ МИФИ
+для проведения нейтроннофизических расчетов топливных циклов реакторов с
+различным спектром нейтронов. Расчеты проводились с использованием SERPENT2
+версии 2.1.30.
+
+РЕЗУЛЬТАТЫ РАСЧЕТОВ
+Количество замедлителя внутри активной зоны реактора, которое может быть вы
+
+ражено отношением объема замедлителя к объему топлива, является очень важным
+параметром в физике тепловых реакторов. Коэффициент теплового использования
+(поглощения тепловых нейтронов в топливе) и вероятность избежать резонансно
+го захвата нейтронов могут значительно меняться при изменении данного отноше
+ния. Реактор с водой под давлением работает в безопасной области, где коэффи
+циент размножения будет снижаться по мере уменьшения отношения замедлителя к
+объему топлива (количество замедлителя в активной зоне) изза увеличения резо
+нансного поглощения [16, 17]. Таким образом, параметр отношения объема замед
+лителя к объему топлива может быть использован для выполнения спектрального
+регулирования и контроля избыточной реактивности. Основной целью данной ра
+боты является исследования спектрального регулирования при нулевой концентра
+ции борной кислоты. На рисунке 1 показано горизонтальное поперечное сечение
+модели бесконечной решетки топливных элементов ВВЭР1000 с Zrстержнями раз
+ного диаметра. В разработанной модели Zrстержни размещались в пространстве
+между топливными стержнями.
+
+Рис.1. Горизонтальное поперечное сечение SERPENTмодели решётки топливного элемента ВВЭР1000 с
+Zrстержнями разного диаметра, помещенными между топливными стержнями: а) – ∅ 0 мм; б) – ∅ 2 мм;
+в) – ∅ 3 мм; г) – ∅ 4 мм
+
+Эта модель начиналась с расчетов бесконечной решетки топливных элементов с
+шагом топлива 12,75 мм для уточнения влияния вклада Zrстержня в геометрию
+ВВЭР1000. Диаметр Zrстержня варьировался от 0 мм до 5,4 мм (максимальный
+диаметр Zrстержня, который может быть вставлен между топливными стержнями).
+На рисунке 2 показана зависимость бесконечного коэффициента размножения K∞
+от значений диаметров Zrстержней. Кривая показывает, что увеличение диаметра
+Zrстержня приводит к уменьшению K∞. Введение Zrстержней в предлагаемую сис
+тему уменьшает количество замедлителя, отвечающего за замедление быстрых ней
+тронов, возникающих в процессе деления. Поэтому поток тепловых нейтронов, от
+вечающих за скорость цепной реакции деления, уменьшается. Следовательно, зна
+
+29
+
+
+
+ФИЗИКАИТЕХНИКАЯДЕРНЫХРЕАКТОРОВ
+
+чения K∞ уменьшаются при увеличении диаметра Zrстержня.
+
+Рис. 2. Зависимость K∞ от диаметра Zrстержня в предложенной бесконечной решетке топливного элемента реактора
+ВВЭР1000
+
+Борная кислота внутри активной зоны помогает осуществлять частичный кон
+троль избыточной реактивности наряду с управляющими стержнями во время ра
+боты ВВЭР. Сравнивая эффект введения максимального диаметра Zrстержней в
+предложенную геометрию с эффектом максимальной концентрации борной кисло
+ты (7,33 г (H3BO3)/дм3(H2O) = 1,77 г (B)/кг(H2O)) [10], можно заметить, что из
+менение реактивности в случае максимальной концентрации борной кислоты со
+ставляет –0,138, а изменение реактивности в случае введения максимального ди
+аметра Zrстержней равно –0,311 (табл. 1). Было отмечено, что влияние максималь
+ной концентрации борной кислоты на реактивность реактора может быть достиг
+нуто введением Zrстержней диаметром примерно 4 мм.
+
+Таблица 1
+Сравнение влияния Zrстержней и борной кислоты
+
+Основная идея использования Zrстержней в качестве вытеснителя воды внутри ак
+тивной зоны ВВЭР1000 заключается в смещении водяного замедлителя для сниже
+ния процесса замедления и реактивности реактора. Итак, когда же реактор с полнос
+тью вставленными Zrстержнями имеет минимальный коэффициент размножения, а
+последовательное извлечение Zrстержней или переход к меньшему диаметру Zrстер
+жней увеличит коэффициент размножения и позволит скомпенсировать выгорание
+
+30
+
+
+
+И з в е с т и я в у з о в • Я д е р н а я э н е р г е т и к а • № 2 • 2 0 2 0
+
+топлива? Рисунок 3 демонстрирует изменение K∞ от глубины выгорания при различ
+ных диаметрах Zrстержней. Результаты показали возможность регулирования избы
+точной реактивности внутри предлагаемой системы геометрии ВВЭР1000 либо умень
+шая диаметр Zrстержней, либо последовательно извлекая Zrстержни.
+
+Рис. 3. Зависимость KҐ от глубины выгорания в предложенной бесконечной решетке топливного элемента реактора
+ВВЭР1000 с различными диаметрами Zrстержней
+
+Рис. 4. Зависимость концентрации U235 от глубины выгорания в предложенной бесконечной решетке топливного
+элемента реактора ВВЭР1000 с различными диаметрами Zrстержней
+
+Рисунок 4 иллюстрирует изменение концентрации U235 от глубины выгорания
+при различных диаметрах Zrстержней. Расход U235 внутри решетки топливного
+элемента с выгоранием уменьшается по мере увеличения диаметра Zrстержней.
+Введение Zrстержней в топливный элемент ВВЭР1000 позволяет заменить неко
+торое количество замедлителя. Замененное количество увеличивается при увели
+чении диаметра Zrстержней. Этот процесс уменьшает замедление быстрых нейтро
+
+31
+
+
+
+ФИЗИКАИТЕХНИКАЯДЕРНЫХРЕАКТОРОВ
+
+нов и поток тепловых нейтронов в предлагаемой геометрии ВВЭР1000. Сечение по
+глощения тепловых нейтронов U235 очень велико (582,6 ± 1,1 барн) по сравнению с
+сечением поглощения тепловых нейтронов U238 (2,683 ± 0,012 Барн). Поэтому ко
+личество сгоревшего U235 уменьшается при увеличении диаметра Zrстержней.
+
+Уменьшение темпа замедления в исследуемой системе приводит к увеличению ко
+личества быстрых нейтронов внутри нее. Сечение поглощения нейтронов U235
+уменьшается с 582,6 ± 1,1 барн в диапазоне тепловой энергии до 2,056 барн в диа
+пазоне быстрой энергии. Это дает возможность U238 поглощать больше нейтро
+нов и превращаться в Pu239 путем захвата нейтронов, которые высвобождаются
+во время реакции деления:
+
+238 1 239U β−
+⎯ → 239 β−
+
+→ ⎯ ⎯⎯ 239
+92U+0n 92 93Np → 94Pu.    (1)
+
+Рис. 5. Зависимость концентрации U238 от глубины выгорания в предложенной бесконечной решетке топливного
+элемента реактора ВВЭР1000 с различными диаметрами Zrстержней
+
+Рисунок 5 показывает изменение концентрации U238 в зависимости от глуби
+ны выгорания при различных диаметрах Zrстержней. Показано, что максимальное
+изменение концентрации U238 в исследуемой системе решетки топливных эле
+ментов ВВЭР1000 увеличивается при увеличении диаметра Zrстержней. Наличие
+Zrстержней при выгорании приводит к более жесткому нейтронному спектру и ми
+нимизации процесса замедления быстрых нейтронов, что приводит к более низ
+кому истощению U235 и более высокому производству делящихся изотопов плу
+тония. Одновременное увеличение производства плутония и уменьшение деления
+может повысить реакционную способность топлива при и после выгрузки топли
+ва. Концентрация изотопов плутония растет при увеличении диаметра Zrстерж
+ней (рис. 6, 7).
+
+Основными параметрами безопасности, связанными с изменением объема замед
+лителя в ВВЭР, считаются плотностной и доплеровский коэффициенты реактивнос
+ти. Поэтому важно исследовать эти коэффициенты реактивности для предложенной
+конструкции при различных диаметрах Zrстержней. Плотностной коэффициент ре
+активности – это отношение изменения коэффициента реактивности к соответству
+ющему изменению плотности воды [18]. В основном, этот коэффициент связан с
+зависимостью реактивности реактора от температуры и плотности воды.
+
+32
+
+
+
+И з в е с т и я в у з о в • Я д е р н а я э н е р г е т и к а • № 2 • 2 0 2 0
+
+Рис. 6. Зависимость концентрации Pu239 от глубины выгорания в предложенной бесконечной решетке топливного
+элемента реактора ВВЭР1000 с различными диаметрами Zrстержней
+
+Рис. 7. Зависимость концентрации Pu241 от глубины выгорания в предложенной бесконечной решетке топливного
+элемента реактора ВВЭР1000 с различными диаметрами Zrстержней
+
+Плотностной коэффициент реактивности в водоводяных реакторах должен быть
+положительным, а температурный коэффициент реактивности замедлителя – отри
+цательным.
+
+Положительный плотностной коэффициент реактивности приводит к снижению
+реактивности реактора при уменьшении плотности воды [19, 20]. На рисунке 8 по
+казан эффект уменьшения плотности воды внутри предложенной геометрии. Полу
+ченные результаты показывают, что плотностной коэффициент реактивности воды
+увеличивается с увеличением диаметра вставленных между твэлами Zrстержней, что
+обеспечивает безопасность конструкции.
+
+Для фиксированного диаметра Zrстержней плотностной коэффициент реактив
+ности с уменьшением плотности воды возрастает. В таблице 2 показано изменение
+доплеровского коэффициента αT = ((ΔK/K2⋅K1)/ΔT)⋅105 pcm/K с увеличением диа
+
+33
+
+
+
+ФИЗИКАИТЕХНИКАЯДЕРНЫХРЕАКТОРОВ
+
+метра Zrстержней внутри предлагаемой системы. Как видно из табл. 2, увеличение
+диаметров Zrстержней приводит к увеличению доплеровского коэффициента ре
+активности и попрежнему находится в пределах безопасности (–2 <  αT < –5).
+
+Рис. 8. Зависимость плотностного коэффициента реактивности от плотности воды в предложенной системе
+с различными диаметрами Zrстержней
+
+Таблица2
+Доплеровский коэффициент реактивности для предложенной системы
+
+ЗАКЛЮЧЕНИЕ
+Исследование показало возможность использования Zrстержней для контроля
+
+избыточной реактивности при эксплуатации реактора ВВЭР.
+Изменение реактивности в случае использования в качестве вытеснителя воды
+
+Zrстержней максимального диаметра оказывается равным –0,311, а в случае мак
+симальной концентрации борной кислоты составляет –0,138. Внедрение Zrстерж
+ней в геометрию ВВЭР1000 уменьшает скорость истощения U235 и увеличивает
+вероятность захвата нейтронов c U238. Захват нейтронов с помощью U238 увели
+чивает концентрацию изотопов плутония. Расчеты плотностного коэффициента ре
+активности и доплеровского коэффициента реактивности доказали возможность
+безопасной работы реактора ВВЭР1000 с Zrстержнями в качестве регулятора из
+быточной реактивности.
+
+Показана возможность регулирования избыточной реактивности внутри предла
+гаемой системы геометрии ВВЭР1000 либо уменьшением диаметра Zrстержней,
+либо последовательным извлечением этих стержней.
+
+Рекомендуется исследовать влияние увеличения шага топливной решетки на рост
+диаметра Zrстержней и уменьшение накопление изотопов плутония.
+
+34
+
+
+
+И з в е с т и я в у з о в • Я д е р н а я э н е р г е т и к а • № 2 • 2 0 2 0
+
+Литература
+1. Iqbal Hosan M., Soner M.A.M., Khorshed Ahmad Kabir, Salam M.A., Fazlul Huq Md. Study
+on neutronic safety parameters of BAEC TRIGA research reactor. // Ann. Nucl. Energy.
+Elsevier Ltd. – 2015. – Vol. 80. – PP. 447450. DOI: https://doi.org/10.1016/
+j.anucene.2015.02.031 .
+2. Atkinson S., Litskevich D., Merk B. Small modular high temperature reactor optimisation
+part 2: Reactivity control for prismatic core high temperature small modular reactor,
+including fixed burnable poisons, spectrum hardening and control rods. // Prog. Nucl.
+Energy. Elsevier Ltd. – 2019. – Vol. 111. – PP. 233242. DOI: https://doi.org/10.1016/
+j.pnucene.2018.11.001 .
+3. Campolina D., Faria E.F., Santos A.A.C.,Vasconcelos V., Franco M.P.V., Dias M.S., Mattos
+J.R.L. Parametric study of enriched gadolinium in burnable neutron poison fuel rods for
+Angra2. // Ann. Nucl. Energy. Elsevier Ltd. – 2018. – Vol. 118. – PP. 375380. DOI: https://
+doi.org/10.1016/j.anucene.2018.04.025 .
+4. Chan P.K., Paquette S., Bonin H.W., French C., Pant A. Neutron absorbers in candu natural
+uranium fuel bundles to improve operating margins. // International Conference on Nuclear
+Engineering, Proceedings, ICONE2115919. American Society of Mechanical Engineers
+(ASME). – 2013. – Vol. 1. DOI: https://doi.org/10.1115/ICONE2115919 .
+5. Galahom A.A. Investigation of different burnable absorbers effects on the neutronic
+characteristics of PWR assembly. // Ann. Nucl. Energy. Elsevier Ltd. – 2016. – Vol. 94. – PP.
+2231. DOI: https://doi.org/10.1016/j.anucene.2016.02.025 .
+6. Tran H.N., Hoang H.T.P., Liem P.H. Feasibility of using Gd2O3 particles in VVER1000 fuel
+assembly for controlling excess reactivity. // Energy Procedia. Elsevier Ltd. – 2017. – Vol.
+131. – PP. 2936. DOI: https://doi.org/10.1016/j.egypro.2017.09.442 .
+7. Safarzadeh O., SaadatianDerakhshandeh F., Shirani A.S. Calculation of reactivity
+coefficients with burnup changes for VVER1000 reactor. // Prog. Nucl. Energy. Elsevier Ltd.
+– 2015. – Vol. 81. – PP. 217227. DOI: https://doi.org/10.1016/j.pnucene.2015.02.006 .
+8. Fadaei A.H. Investigation of burnable poisons effects in reactor core design. // Ann. Nucl.
+Energy. Elsevier Ltd. – 2011. – Vol. 38. – PP. 22382246. DOI: https://doi.org/10.1016/
+j.anucene.2011.06.005 .
+9. Frybortova L. VVER1000 fuel cycles analysis with different burnable absorbers. // Nucl.
+Eng. Des. Elsevier Ltd. – 2019. –Vol. 351. – PP. 167174. DOI: https://doi.org/10.1016/
+j.nucengdes.2019.05.026 .
+10. Taheranpour N., Talaei A. Development of practical method using a Monte Carlo code for
+evaluation of optimum fuel pitch in a typical VVER1000 core. // Ann. Nucl. Energy.
+Elsevier Ltd. – 2013. – Vol. 54. – PP. 129133. DOI: https://doi.org/10.1016/
+j.anucene.2012.10.029 .
+11. Banerjee S., Banerjee M.K. Nuclear Applications: Zirconium Alloys. // Reference Module
+in Materials Science and Materials Engineering. Elsevier Ltd. – 2016. – PP. 62876299. DOI:
+https://doi.org/10.1016/j.anucene.2012.10.029 .
+12. Rench iukova V., Macak J., Sajdl P., Novotny R., Krausova A. Corrosion of zirconium alloys
+demonstrated by using impedance spectroscopy. // J. Nucl. Mater. Elsevier Ltd. – 2018. –
+Vol. 510. – PP. 312321. DOI: https://doi.org/10.1016/j.jnucmat.2018.08.005 .
+13. Chibinyaev A.V., Alekseev P.N., Teplov P.S. Estimation of the effect of neutron spectrum
+regulation on VVER1000 fuel burnup. // At. Energy. – 2006. – Vol. 101. – PP. 680683. DOI:
+https://doi.org/10.1007/s105120060151z .
+14. Thilagam L., Sunil Sunny C., Jagannathan V., Subbaiah K.V. A VVER1000 LEU and MOX
+assembly computational benchmark analysis using the lattice burnup code EXCEL. // Ann.
+Nucl. Energy. Elsevier Ltd. – 2009. – Vol. 36. – PP. 505519. DOI: https://doi.org/10.1016/
+j.anucene.2008.12.015 .
+15. Leppaanen J., Pusa M., Viitanen T., Valtavirta V., Kaltiaisenaho T. The SERPENT Monte
+Carlo code: Status, development and applications in 2013. // Ann. Nucl. Energy. Elsevier Ltd.
+– 2015. – Vol. 82. – PP. 142150. DOI: https://doi.org/10.1016/j.anucene.2014.08.024 .
+16. Hussain A., Xinrong C. Core optimization simulation for a pressurized water reactor. //
+Information Technology Journal. – 2009. – Vol. 8. – PP. 220225. DOI: https://doi.org/
+
+35
+
+
+
+ФИЗИКАИТЕХНИКАЯДЕРНЫХРЕАКТОРОВ
+
+10.3923/itj.2009.220.225 .
+17. Lewis E.E. Fundamentals of Nuclear Reactor Physics. – Elsevier Inc., 2008. – 293 p. DOI:
+https://doi.org/10.1016/B9780123706317.000012 .
+18. Stacey W.M. Nuclear Reactor Physics: Second Edition. – WileyVCH, 2007. – 706 p. DOI:
+https://doi.org/10.1002/9783527611041 .
+19. Faghihi F., Roosta F., Ghaemi S., Bagheri S. Core designing of the newly proposed
+(U+Gd)O FAs in the VVERs core and comparison with current UO FAs. // Alexandria Eng. J.
+
+2 2
+Elsevier Ltd. – 2019. – Vol. 58. – PP. 647658. DOI: https://doi.org/10.1016/
+j.aej.2019.03.010 .
+20. Vahman N., AkbariJeyhouni R., Rezaei Ochbelagh D., Amrollahi R. An assessment of a
+VVER1000 core during TurboGenerator load reduction test using RELAP5/MOD3.2 and
+WIMSD5B/PARCSv2.7 // Prog. Nucl. Energy. Elsevier Ltd. – 2016. –Vol. 93. – PP. 155164.
+DOI: https://doi.org/10.1016/j.pnucene.2016.08.005 .
+
+Поступила в редакцию 27.03.2020 г.
+Рекомендована к публикации оргкомитетом
+
+XV Международной молодежной научнопрактической конференции
+«Будущее атомной энергетики – AtomFuture 2019»
+
+Авторы
+Элазака Ахмед Исмаил Исмаил Али, аспирант
+Email: aielazaka@mephi.ru , ahmed_ismailel@azhar.edu.eg
+Тихомиров Георгий Валентинович, профессор
+Email: GVTikhomirov@mephil.ru
+
+UDC 621.039.536
+
+POTENTIAL OF THE VVER REACTOR SPECTRAL REGULATION
+WITH REGARD FOR FUEL BURNUP
+Elazaka A.I.*,**, Tikhomirov G.V.*
+* National Research Nuclear University MEPhI
+31 Kashirskoe shosse, Moscow, 115409 Russia
+** AlAzharUniversity, Faculty of Science, Physics Department
+Nasr City 11884, Cairo, Egypt
+
+ABSTRACT
+Neutron spectrum control in a nuclear reactor makes it possible to monitor
+
+excessive reactivity through the absorption of excess neutrons in the absorber or by
+changing the uraniumwater ratio. The paper deals with investigating the potential
+of the VVER reactor neutron spectrum control with the use of displacers. Zirconium
+rods of different diameters (Zr rods) were used as the displacers. The Zr rods were
+positioned between fuel rods. Introducing the Zr rods between the fuel rods and
+increasing their diameter leads to a decrease in the amount of water inside of the
+reactor and to a reduction in the multiplication factor. Excessive reactivity is made
+up for in current VVER reactors through the dissolution of boric acid in water. The
+results of comparing the potential efficiency of displacer utilization against the use
+of boric regulation are presented. The burnup calculations have shown that adding
+Zr rods to the VVER1000 geometry reduces the U235 burning rate and enhances the
+Pu239 production. The concentration of plutonium isotopes increases with the Zr rod
+diameter increase. Important safety parameters involved in the change of the
+
+36
+
+
+
+И з в е с т и я в у з о в • Я д е р н а я э н е р г е т и к а • № 2 • 2 0 2 0
+
+moderatorfuel ratio are density and Doppler reactivity coefficients. These
+coefficients were therefore calculated with the obtained results demonstrating the
+potential safety of using displacers in VVER reactors instead of boric regulation. This
+has proved that the use of Zr rods as the neutron spectrum regulator makes it possible
+to maintain the neutron economy and to monitor excessive reactivity inside of VVERs.
+
+Key words: VVER, reactivity, reactivity coefficients, boric regulation, spectral
+regulation, water displacers, excessive reactivity.
+
+REFERENCES
+1. Iqbal Hosan M., Soner M.A.M., Khorshed Ahmad Kabir, Salam M.A., Fazlul Huq Md. Study on
+neutronic safety parameters of BAEC TRIGA research reactor. Annals of Nuclear Energy. 2015,
+v. 80, pp. 447450. DOI: https://doi.org/10.1016/j.anucene.2015.02.031 .
+2. Atkinson S., Litskevich D., Merk B. Small modular high temperature reactor optimisation
+part 2: Reactivity control for prismatic core high temperature small modular reactor,
+including fixed burnable poisons, spectrum hardening and control rods. Progress in Nuclear
+Energy. 2019, v. 111, pp. 233242. DOI: https://doi.org/10.1016/j.pnucene.2018.11.001 .
+3. Campolina D., Faria E.F., Santos A.A.C.,Vasconcelos V., Franco M.P.V., Dias M.S., Mattos
+J.R.L. Parametric study of enriched gadolinium in burnable neutron poison fuel rods for
+Angra2. Annals of Nuclear Energy. 2018, v. 118, pp. 375380. DOI: https://doi.org/
+10.1016/j.anucene.2018.04.025 .
+4. Chan P.K., Paquette S., Bonin H.W., French C., Pant A. Neutron absorbers in candu natural
+uranium fuel bundles to improve operating margins. International Conference on Nuclear
+Engineering, Proceedings, ICONE2115919. American Society of Mechanical Engineers
+(ASME). 2013. v. 1. DOI: https://doi.org/10.1115/ICONE2115919 .
+5. Galahom A.A. Investigation of different burnable absorbers effects on the neutronic
+characteristics of PWR assembly. Annals of Nuclear Energy. 2016, v. 94, pp. 2231. DOI:
+https://doi.org/10.1016/j.anucene.2016.02.025 .
+6. Tran H.N., Hoang H.T.P., Liem P.H. Feasibility of using Gd2O3 particles in VVER1000 fuel
+assembly for controlling excess reactivity. Energy Procedia. 2017, v. 131, pp. 2936. DOI:
+https://doi.org/10.1016/j.egypro.2017.09.442 .
+7. Safarzadeh O., SaadatianDerakhshandeh F., Shirani A.S. Calculation of reactivity
+coefficients with burnup changes for VVER1000 reactor. Progress in Nuclear Energy. 2015,
+v. 81, pp. 217227. DOI: https://doi.org/10.1016/j.pnucene.2015.02.006 .
+8. Fadaei A.H. Investigation of burnable poisons effects in reactor core design. Annals of
+Nuclear Energy. 2011, v. 38, pp. 22382246. DOI: https://doi.org/10.1016/
+j.anucene.2011.06.005 .
+9. Frybortova L. VVER1000 fuel cycles analysis with different burnable absorbers. Nuclear
+Engineering and Design. 2019, v. 35, pp. 167174. DOI: https://doi.org/10.1016/
+j.nucengdes.2019.05.026 .
+10. Taheranpour N., Talaei A. Development of practical method using a Monte Carlo code for
+evaluation of optimum fuel pitch in a typical VVER1000 core. Annals of Nuclear Energy.
+2013, v. 54, pp. 129133. DOI: https://doi.org/10.1016/j.anucene.2012.10.029 .
+11. Banerjee S., Banerjee M.K. Nuclear Applications: Zirconium Alloys. Materials Science and
+Materials Engineering (Reference Module). 2016, pp. 62876299. DOI: https://doi.org/
+10.1016/j.anucene.2012.10.029 .
+12. Rench iukova б V., Macak J., Sajdl P., Novotny R., Krausova A., Corrosion of zirconium
+alloys demonstrated by using impedance spectroscopy. Journal of Nuclear Materials. 2018,
+v. 510, pp. 312321. DOI: https://doi.org/10.1016/j.jnucmat.2018.08.005 .
+13. Chibinyaev A. V., Alekseev P.N., Teplov P.S. Estimation of the effect of neutron spectrum
+regulation on VVЙR1000 fuel burnup. Atomic Energy. 2006, v. 101, pp. 680683. DOI: https:/
+/doi.org/10.1007/s105120060151z .
+14. Thilagam L., Sunil Sunny C., Jagannathan V., Subbaiah K.V. A VVER1000 LEU and MOX
+assembly computational benchmark analysis using the lattice burnup code EXCEL. Annals of
+Nuclear Energy. 2009, v. 36, pp. 505519. DOI: https://doi.org/10.1016/
+
+37
+
+
+
+ФИЗИКАИТЕХНИКАЯДЕРНЫХРЕАКТОРОВ
+
+j.anucene.2008.12.015.
+15. Leppдnen J., Pusa M., Viitanen T., Valtavirta V., Kaltiaisenaho T. The Serpent Monte Carlo
+code: Status, development and applications in 2013. Annals of Nuclear Energy. 2015, v. 82,
+pp. 142150. DOI: https://doi.org/10.1016/j.anucene.2014.08.024 .
+16. Hussain A., Xinrong C. Core optimization simulation for a pressurized water reactor.
+Information Technology Journal. 2009, v. 8, pp. 220225. DOI: https://doi.org/10.3923/
+itj.2009.220.225 .
+17. Lewis E.E. Fundamentals of Nuclear Reactor Physics. Elsevier Inc., 2008. 293 p. DOI:
+https://doi.org/10.1016/B9780123706317.000012 .
+18. Stacey W.M. Nuclear Reactor Physics: Second Edition. WileyVCH, 2007. 706 p. DOI:
+https://doi.org/10.1002/9783527611041 .
+19. Faghihi F., Roosta F., Ghaemi S., Bagheri S. Core designing of the newly proposed (U+Gd)O
+
+2
+FAs in the VVERs core and comparison with current UO FAs. Alexandria Engineering Journal.
+
+2
+2019, v. 58, pp. 647658. DOI: https://doi.org/10.1016/j.aej.2019.03.010 .
+20. Vahman N., AkbariJeyhouni R., Rezaei Ochbelagh D., Amrollahi R. An assessment of a
+VVER1000 core during TurboGenerator load reduction test using RELAP5/MOD3.2 and
+WIMSD5B/PARCSv2.7. Progress in Nuclear Energy. 2016, v. 93, pp. 155164. DOI: https://
+doi.org/10.1016/j.pnucene.2016.08.005 .
+Authors
+Elazaka Ahmed Ismail Ismail Ali, Ph.D. Student
+Email: aielazaka@mephi.ru, ahmed_ismailel@azhar.edu.eg
+Tikhomirov George Valentinovich, Professor, Deputy Director
+Email: tgera@mail.ru
+
+38

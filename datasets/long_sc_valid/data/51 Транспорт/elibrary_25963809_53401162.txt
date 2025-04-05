@@ -1,0 +1,853 @@
+﻿54
+УДК 539 .3:625 .03 НАУКА И ТЕХНИКА
+
+Модели взаимодействия 
+колеса и рельса при высоких 
+
+скоростях движения 
+Валентин ВИНОГРАДОВ
+Valentin V. VINOGRADOV
+
+Локтев Алексей Алексе-
+евич – д октор физико-
+математических наук, 
+профессор Московского 
+государственного универ-
+ситета путей сообщения 
+(МИИТ), Москва, Россия.
+Виноградов Валентин 
+Васильевич – д октор 
+технических наук, про-
+фессор, первый проректор 
+МИИТ, Москва, Россия.
+Бучкин Виталий Алексее-
+вич –  доктор технических 
+наук, профессор МИИТ, 
+
+Алексей ЛОКТЕВ Виталий БУЧКИН
+Alexei A. LOKTEV Vitaly A. BUCHKIN Москва, Россия. 
+
+Models of Interaction of Wheel and Rail at High 
+
+При строительстве высокоскорост-
+Speed 
+
+(текст статьи на англ. яз. – English text of the ных железнодорожных магистра-
+article – p. 58) лей необходимо учитывать изме-
+
+нение классической модели контакта 
+Авторы оценивают процесс динамического 
+
+контакта «колесо-рельс», для его колёсной пары и рельса . С одной сторо-
+моделирования рассмотрено несколько ны, высокая скорость не позволяет в пол-
+
+моделей взаимодействия, позволяющих 
+учесть различные реологические ной мере развиться пластическим дефор-
+
+свойства контактирующих тел. В качестве мациям в окрестности площадки контак-
+инструментальной основы выступают 
+
+уравнения, описывающие движение та колеса и рельса [1–4], с другой сторо-
+колеса и рельса в вертикальном ны, возросшие скорости увеличивают 
+
+направлении, которые затем решаются динамическую составляющую в итоговых 
+с использованием начальных условий 
+
+и численной итерационной схемы, напряжениях и усилиях [5–7], и соотно-
+предполагающей, что на малых временных шения классической теории Герца [8, 9] 
+
+интервалах отдельные величины ведут 
+себя линейно. Предлагаемый алгоритм для контакта двух тел уже не обеспечива-
+
+позволяет определить, что на средних ют достаточного приближения к резуль-
+и высоких скоростях движения экипажа для татам экспериментов [10], не дают опи-
+
+описания характера взаимодействия колеса 
+и рельса, а также для нахождения отдельных сать все процессы, происходящие как 
+
+динамических величин наилучшим образом в колесе, так и рельсе .
+подходит упруго-пластическая зависимость 
+
+Александрова-Кадомцева. Потребности инженерной практики 
+в транспортной отрасли заставляют иссле-
+
+Ключевые слова: железная дорога, колесо, дователей совершенствовать реологические 
+рельс, динамическое воздействие, вязкоупругая 
+
+контактная сила, упруго-пластичное модели контактирующих тел, более деталь-
+взаимодействие, механические характеристики, но оценивать характер их взаимодействия 
+модели взаимодействия, динамический прогиб, 
+
+местное смятие. и сопутствующий им широкий спектр явле-
+ний [11, 12] .
+
+• МИР ТРАНСПОРТА, том 14, № 1, С. 54–60 (2016)
+
+SCIENCE AND ENGINEERING
+
+
+
+С этой точки зрения, при исследовании  k = (1−s 2 ) E , χ =πkpll , 
+процесса динамического контактного на-
+гружения «колесо-рельс» (рис . 1) предла- P = χ 3
+
+1 ( R (k + k ) 4)2
+3 1 , d =1 2χR , 
+
+гается рассмотреть несколько контактных 
+bf = R−1 3
+
+моделей взаимодействия и учесть различ- (3(k1 k ) 4)2 3 1 1
+f + , R− = R−1
+
+p −R−
+f , 
+
+ные реологические свойства взаимодейст-
+Rf = (4 3(k + k ))P1 2 −3 2
+
+вующих тел: 1 maxχ ,
+1 . Квазистатическая модель Герца [2, 7]: −
+
+P = ka3/2 . (1) p ( max ) (1 ) (2 ) 1
+a P = − b P χR
+
+max p ,  b = 0 .33, 
+
+2 . Линейно-упругая модель [7, 8]: с 3 1 2
+1 = χ (k1 + k ) 8 , kpl  –  наименьшая 
+
+P = E1 (a −w)  .  (2)
+из пластических констант взаимодействую-
+
+3 . Вязкоупругая модель [9]: щих тел; s , E  –  коэффициент Пуассона 
+1 1
+
+t t−t ′ и модуль упругости для колесной пары [2, 
+ P ( ) ( ) E −
+
+t = E 1
+1 a −w − ∫ (a −w)e τ1
+
+  dt ′  .  (3)
+τ 8]; τ = η / E , τ  – в ремя релаксации в случае 
+
+1 1 1 1 1
+0 вязкоупругой модели; η  –  коэффициент 
+
+1
+4 . Упругопластическая модель Кильчев- вязкого сопротивления; g (0< g ≤1) –  пара-
+
+ского [6]: метр дробности; P  –  максимальное значе-
+m
+
+ bP 2 3, dP dt > 0, P < Pb, ние контактной силы перед началом этапа 
+a = 
+
+ bP 2 3 + Pd, dP dt > 0, P > Pb,  (4) разгрузки; a  –  максимальное смятие мате-
+m
+
+ риала в области взаимодействия; a  –  теку-
+bP 2 3 + P 0
+
+maxd, dP dt < 0, Pmax > Pb  .
+щее значение смятия; q и b –  эксперимен-
+
+5 . Упругопластическая модель Алексан- тально определяемые константы; a  –  кри-
+cr
+
+дрова-Кадомцева [6]: тическое значение смятия .
+ bP 2 3, dP dt > 0, Pmax < P1, При моделировании динамического 
+
+a = 
+(1+ b )c1 + (1− b )Pd, dP dt > 0, Pmax > P  (5)
+
+1, взаимодействия колеса и рельса с учетом 
+ 2 3
+ bf P +a p (Pmax ), dP dt < 0, Pmax > P однородности и изотропности материалов 
+
+1 .
+двух тел и гладкости контактирующих по-
+
+6 . Модель–,  в вкроетомряо й рсеиллаа квзсааицмиодие йв-ствия разделена на этап нагружения и раз- свлеурчхнаоес твейя зукроавунпернуигяо дйв ижмеондиеял кио;л еса 
+и рельса после начала взаимодействия1
+
+ – коэффициент вязкого 
+ 
+
+грузки [11] . Для этапа нагружения –  (1), 
+для этапа разсгроупзкрио:тивления;   (0  пр и1н)и м–а юпта рвиадметр дробности; Pm – максимальное значение 
+
+my = −P( t) ,
+( ко)
+
+q
+ a −a
+
+P = P 0 нтактной силы перед н
+m  ∂а4чwалом этапа разгрузки; m – максимальное смятие 
+(a EI + r F w = P
+
+4 (t )d (x −x ) ,  (8)
+m a  ,
+− 0 )  ∂x
+
+b (a −мaа)т;ерaиала в области взгадиемm >a ,  mо –д е мйасстсва икяол; еса0;  y– –  т пеекреумщещеее низне ачение смятия; q и  − 
+a0 = 
+
+m cr cr  (6)
+ 0; am ≤a колеса; w(x, t) –  прогиб рельса; E –  модуль 
+
+эксперимеcнr  .тально опредЮелнягеа;м Iы –е  м окмоеннстт ианнертцыи;и  сеcчr е–н икяр риетльисча еское значение смятия. 
+7 . Вязкоупругая модель с дробными 
+
+производными Рима на-Лиувилля [12]:
+P +τ g Dg P = E g
+
+1τ Dg (a −w) , 
+ 
+
+d t
+g P (t − t ′)
+
+D P = dt ′ .  ( )
+dt ∫0 (1 ) 7
+
+Г −g t ′g  
+В выражениях (1)-( 7) a – м естное смятие 
+
+материалов рельса и колеса; k –  коэффици-
+ент, зависящий от гео метрии контактирую-
+щих тел и упругих характеристик их материа-
+лов; E  –  модуль упруг ости области взаимо-
+
+1
+действия колесной пары и рельса; w –  пере-
+
+ 55
+мещение нижней грани рельса; l	= 5 .7,
+
+b = ((9π 2 ( 2
+k1 ) ) )1 3
+
++ k 16R , k1 =Р(1и−сs. 211). EМ1,оделРьи ск. 1о. нМтодаекльт кнонотгакотн овгзо авзиаиммооддеейсйтвситя вия колеса и рельса. 
+ колеса и рельса.
+
+•МИ Р ТРАНСПОРТА, том 14П, №р 1и, С . м54о–6д0е (2л0и16р)овании динамического взаимодействия колеса и рельса с 
+Локтев А. А., Виноградов В. В., Бучкин В. А. Модели взаимодействия колеса и рельса при высоких 
+скоростях движеуничяетом однородности и изотропности материалов двух тел и гладкости 
+
+контактирующих поверхностей уравнения движения колеса и рельса после 
+начала взаимодействия принимают вид 
+
+4
+ my  Pt ,  EI  w4   F w  Pt  x   ,  (8) 
+
+x
+где m – масса колеса; y – перемещение колеса; w(x,t) – прогиб рельса; E – 
+модуль Юнга; I – момент инерции сечения рельса относительно средней линии; 
+F – площадь сечения рельса;  – плотность его материала;  (х-) – дельта 
+функция Дирака; х – координата, отсчитываемая вдоль оси рельса, точка над 
+величиной означает частную производную по времени. 
+
+Уравнения (8), (9) интегрируются с учетом начальных условий  
+w t0  0,  t0 V0              (9) 
+
+и зависимости между силой взаимодействия и местным смятием (1)-(6). 
+После интегрирования определяющего соотношения получаем 
+
+функциональное уравнение для определения контактной силы:  
+
+
+
+ 
+56 P(t), 
+
+ (МН) 1 2 
+ 5 
+
+8 
+ 1.8 
+
+4 
+ 3 
+
+ 1.2 
+
+ 
+ 0.6 
+
+  6 
+
+ P(t), 7 
+ (МН) 1 
+
+ 2 
+ 0 5 0.002 0.004 t, (с) 
+
+Р 8 
+ 1и.8с . 2. Зависимость контактной силы от времени для разных моделей 
+
+Рис. 2. Зависимость контактной силы от времени для разных моделей 
+
+конктоанктаткнт4ноо ггоо в звазиамиодмеойсдтевийяс ктовлеисяо- ркеолльсе.со-рельс. 
+ относительно средPн(еt)й,  линии; F – 
+
+(МН) 1 3п  лощадь уравнение для нахождения контактной 
+сечения рельса; r –  плотность его матери- силы: 
+
+ ала; d (х-x)1 –.2   дельта-функция Дирак2а ; х – t
+1 t 1
+
+координата, отсчитываемая вдоль оси V t −  P (t )dt dt k P 2/3
+0 m ∫ ∫ 2 2 1 =  ′ +
+
+ рельса , точка над3 .в6е личиной озн3а чает 0 0
+
+t
+частную производную по времени .
+
+  + ∑An ∫P (τ )sinωn (t −τ )dτ ,
+Уравнен0и.я6  (8), (9) интегрируются с 4у че-  6  (10)
+
+n o
+том начальных условий
+
+ w = 2.4 7гд е коэффициенты A  за
+0, a = висят от вида соб-
+
+V   (9 n
+t=0 t= )
+
+0 0 стве5н ных функций и собственных значе-
+ и завис имости между силой взаимодейст- ний в6 з адаче .
+
+вия и местным0  смяти 0.002 0.004 t, (с) 
+Рис. 2. Зависи1м.2ео 
+
+м (1)-(6) . Решение интегро-дифференциального 
+Пос ле интегрированситяь о кпорендтеалякютнщоегйо  сиулраывн оенти вяр тиепмае (1н0и) д длял сяо ортанзоншыенхи йм (о1)д-е(7л) ей 
+
+соотно шения получаем функциональное находится численно с помощью ЭВМ, ис-
+контактного взаимодействия колесо-рельс. 
+
+ P(t),  
+(МН) 0 1 0.001  qu 0.002 t, (с) 
+
+ asi-
+2  lon
+
+Рис
+ 3.. 63 . Зависимость контактной силgыit от времени для разных скоростей 
+
+3 udi
+ 4 движения экnиaпl ажа. 
+
+ 
+ 2.4 wa
+
+В ходе исследования получен5ы  грvаeф ические зависимости контактной 
+ fro
+силы от времени для различных модел6е й кnоt нтактного взаимодействия колеса и 
+
+ рельса, кот1о.2р ые показали, что даже при скоростях движения экипажа 80 км/ч 
+ необходимо учитывать вязкоупругие и упругопластические свойства 
+ материалов. Модификация имеющихся  соотношений для контактной силы и 
+
+0 0.001 qu 0.002 t, (с) 
+ asi-
+
+Рис. 3. Зависимость контактной силы от времени для разных скоростей движения экипажа.
+lon
+
+Рис•М. И 3Р. Т РЗАаНвСиПОсРиТАм, отосмт 1ь4 , к№о 1н, Ст.а 5к4–т6н0о (2й0 1с6и) лgыit от времени для разных скоростей 
+udi
+
+Локтев А. А., Виноградов В. В., дБувчкиижн Ве. нА.и Мяо дэекли взаимодействия колеса и рельса при высоких 
+скоростях движения nиaпl ажа. 
+
+ wa
+В ходе исследования получены грvаeф ические зависимости контактной 
+
+fro
+силы от времени для различных моделей кnоt нтактного взаимодействия колеса и 
+рельса, которые показали, что даже при скоростях движения экипажа 80 км/ч 
+необходимо учитывать вязкоупругие и упругопластические свойства 
+материалов. Модификация имеющихся соотношений для контактной силы и 
+
+
+
+ходя из предположения, что на каждом до- для контактной силы и местного смятия 
+статочно малом интервале (n−1)τ ≤ t ≤ nτ  позволила приблизить получаемые графи-
+
+ческие зависимости к результатам экспе-
+неизвестные величины изменяются линей- римента . Предложенный алгоритм дает 
+но P (nτ ) = (Pn −Pn−1 ) τ  . Подобная вычи- возможность выбрать математическую 
+слительная итерационная схема чаще модель контакта, наиболее точно описы-
+всего используется при представлении вающую происходящие процессы во взаи-
+неизвестных величин в виде разложений модействующих телах, и получить близкие 
+в ряды по специальным функциям [6–10] . по отношению к экспериментальным 
+Это связано с тем, что итоговое определя- данным значения максимальной силы 
+ющее уравнение содержит суммирование взаимодействия и времени контакта .
+по двум индексам .
+
+На рис . 2, 3 показаны зависимости кон- ЛИТЕРАТУРА
+1 . Agostinacchio, M ., Ciampa, D ., Diomedi, M ., 
+
+тактной силы от времени . На рис . 2 кривые Olita, S . Parametrical analysis of the railways dynamic 
+1, 2, 3, 4, 5, 6, 7 построены при использо- response at high speed moving loads . Journal of Modern 
+вании соотношений (1), (2), (3), (4), (5), (6) Transportation, 2013, Vol . 21, Iss . 3, pp . 169–181 .
+
+2 . Fang, M ., Cerdas, S . F ., Qiu, Ya . Numerical 
+и (7) соответственно, а кривая 8 взята из [2], determination for optimal location of sub-track asphalt 
+скорость движения транспортного средст- layer in high-speed rails . Journal of Modern Transportation, 
+ва V  = 80 км/ч . На рис . 3 кривые 1, 2 соот- 2013, Vol . 21, Iss . 2, pp . 103–110 .
+
+0 3 . Александров В . М ., Ромалис Б . Л . Контактные 
+ветствуют V  = 200 км/ч, кривые 3, 4 – 
+
+0 задачи в машиностроении . –  М .: Машиностроение, 
+V  = 150 км/ч, кривые 5, 6 – V  = 100 км/ч, 1986 . – 362 с .
+
+0 0
+кривые 1, 3, 5 были рассчитаны при помо- 4 . Коган А . Я . Взаимодействие колеса и рельса при 
+
+качении // Трение и смазка в машинах и механиз-
+щи соотношений (5), а кривые 2, 4, 6 – п ри мах . – 2008 . – № 8 . – С  . 26–38 .
+помощи соотношений (3) . 5 . Olsson, R ., Donadon, M . V ., Falzon, B . G . 
+
+Из рис . 2 видно, что модели (3) и (5) Delamination threshold load for dynamic impact on plates . 
+International Journal of Solids and Structures, 2006, Vol . 43, 
+
+дают наилучшее приближение к результату pp . 3124–3141 .
+эксперимента и что при скоростях ≈80 км/ч 6 .  Бирюков Д . Г ., Кадомцев И . Г . Упругопласти-
+реологические свойства колеса и рельса ческий неосесимметричный удар параболического 
+
+тела по сферической оболочке // Прикладная мате-
+уже заметно влияют на максимальное зна- матика и теоретическая физика . – 2005 . –  Т . 46 . – 
+чение контактной силы и время взаимо- № 1 . – С  . 181–186 .
+действия . На рис . 3 сравниваются резуль- 7 . Локтев А . А ., Вершинин В . В . Моделирование 
+
+систем противоударной изоляции с вязкоупругими 
+таты использования вязкоупругой (3) элементами // Вестник МГТУ им . Н . Э . Баумана . Серия 
+и упруго-пластической зависимостей (5) . Естественные науки . – 2012 . – № 2 . – С  . 52–63 .
+При увеличении начальной скорости вза- 8 . Локтев А . А ., Сычева А . В . Исследование дина-
+
+мических характеристик верхнего строения железно-
+имодействия колеса и рельса (скорости дорожного пути при динамическом воздействии // 
+движения экипажа) разница между значе- Наука и техника транспорта . – 2013 . – № 4 . – С  . 58–64 .
+ниями максимальных контактных сил, 9 . Loktev, A . A ., Sycheva, A . V ., Vershinin, V . V . 
+
+Modeling of Work of a Railway Track at the Dynamic 
+полученных при использовании зависимо- Effects of a Wheel Pair . Proceeding of the 2014 International 
+стей (3) и (5), а также время взаимодейст- Conference on Theoretical Mechanics and Applied Mechanics, 
+вия растут . Venice, Italy, March 15–17, 2014, pp . 78–81
+
+10 . Мазов Ю . Н ., Локтев А . А ., Сычев В . П . Оцен-
+Выводы. В ходе исследования получены ка влияния дефектов колес подвижного состава 
+
+графические зависимости контактной си- на состояние железнодорожного пути // Вестник 
+лы от времени для различных моделей МГСУ . – 2015 . – № 5 . – С  . 54–65 .
+
+11 . Balandin, D . V ., Bolotnik, N . N ., Pilkey, W . D . 
+контактного взаимодействия колеса Optimal protection from impact and shock: theory and 
+и рельса, которые показали, что даже при methods . Applied Mechanics Reviews, 2000, Vol . 53, Iss . 9, 
+скоростях движения экипажа 80 км/ч не- pp . 237–264 .
+
+12 . Schonberg, W . P ., Keer, L . M ., Woo, T . K . Low 
+обходимо учитывать вязкоупругие и упру- velocity impact of transversely isotropic beams and plates . 
+го-пластические свойства материалов . International Journal of Solids and Structures, 1987, Vol . 23, 
+Модификация имеющихся соотношений pp . 871–896 . •
+
+57
+Координаты авторов: Локтев А. А. –  aaloktev@yandex.ru, Виноградов В. В. – +7(495) 684–21–10, 
+Бучкин В. А –  vp@vpm770.ru.
+
+Статья поступила в редакцию 27.11.2015, принята к публикации 22.12.2015.
+
+•МИ Р ТРАНСПОРТА, том 14, № 1, С. 54–60 (2016)
+
+Локтев А. А., Виноградов В. В., Бучкин В. А. Модели взаимодействия колеса и рельса при высоких 
+скоростях движения
+
+
+
+MODELS OF INTERACTION OF WHEEL AND RAIL AT HIGH SPEED 
+58
+
+Loktev, Alexei A., Moscow State University of Railway Engineering (MIIT), Moscow, Russia.
+Vinogradov, Valentin V., Moscow State University of Railway Engineering (MIIT), Moscow, Russia.
+Buchkin, Vitaly A., Moscow State University of Railway Engineering (MIIT), Moscow, Russia.
+
+ABSTRACT and numerical iterative scheme, assuming that at 
+The authors evaluate the process of dynamic small time intervals individual values behave linearly. 
+
+contact «wheel-rail» through analysis of several The proposed algorithm allows to determine that at 
+simulation models of interaction, allowing to take into medium and high speeds of vehicle movement the 
+account different rheological properties of contacting elastic-plastic dependence of Alexandrov-
+bodies. The research apparatus comprises equations Kadomtsev is most appropriate to describe the 
+describing the motion of wheel and rail in the vertical nature of interaction between the wheel and the the 
+direction, which are then solved using initial conditions rail, as well as to find individual dynamic values.
+
+Keywords: railway, wheel, rail, dynamic effects, viscoelastic contact force, elastic-plastic interaction, 
+mechanical characteristics, interaction patterns, dynamic bending, local buckling.
+
+Background. During the construction of high-
+speed rail lines it is necessary to take into account ( ) q
+
+ a −a  b (a −a ); a
+P = P 0 m >acr ,
+
+changes in the classical model of contact of wheel set m (  a =
+a  ,  m cr
+
+0 (6)
+ m −a0 )
+
+ 
+  0 ; am ≤acr  .
+
+and rail. On the one hand, high speed does not allow 
+plastic deformation in the vicinity of wheel and rail 7. Viscoelastic model with fractional derivatives 
+contact area [1–4] to fully develop, on the other hand, of Riemann-Liouville [12]:
+grown speed increases dynamic component of final P +τ g Dg P = E1τ
+
+g Dg (a −w) , 
+stresses and efforts [5–7], and the ratio of classical 
+Hertz theory [8, 9] for contact between two bodies g d t P (t − t′)
+
+D P =
+does not provide a sufficient approximation of the ∫ dt′ .  (7)
+
+dt 0 Г (1−g ) t′g
+results of experiments [10], either does not allow to 
+describe all the processes occurring in the wheel and In the expressions (1)-(7) a is a  local buckling of 
+the rail. materials of the rail and the wheel; k –  coefficient 
+
+Requirements of engineering practice in the depending on the geometry of contacting bodies and 
+transport sector force researchers to improve elastic characteristics of materials; E  –  modulus of 
+
+1
+
+rheological models of contacting bodies, to assess in elasticity of the interaction region of the wheel set and 
+more detail the nature of their interaction and a wide the rail; w –  movement of the lower edge of the rail; 
+range of effects accompanying them [11, 12]. l	= 5.7, 
+
+Objective. The objective of the authors is to =
+consider models of wheel and rail interaction at high (( 3
+
+b 9π 2 (k + k )2
+1 ) 16R)1 , k = (1−s 2
+
+1 1 ) E1 , 
+
+speeds.
+Methods. The authors use general scientific k = (1−s 2 ) E , χ = πkpll , P 3
+
+1 = χ (3R (k1 + k ) 4)2
+, 
+
+methods, comparative analysis, graph construction, 
+mathematical apparatus. d =1 2χR , b −1 3 (3( ) 4)2 3 , R−1 = R−1 −R−1 , 
+
+f = R f k1 + k p f
+
+Results. The study of the process of dynamic 
+contact loading «wheel-rail» (Pic. 1) offers to consider Rf = (4 3(k + k ))P1 2 χ −3 2
+
+1 max , 
+several contact models of interaction and different 
+rheological properties of interacting bodies: ( −
+
+a p P max ) = (1− b )P (2χRp )
+1
+
+, b = 0 .33 ,
+max
+
+1. Quasi-static model of Hertz [2, 7]: 
+P = ka3/2. (1) с = 3χ1 2
+
+1 (k1 + k ) 8 , kpl  
+2. Linear elastic model [7, 8]: is the smallest of plastic constants of interacting 
+
+P = E1 (a −w)  .  (2) bodies; s , E  –  Poisson’s ratio and the modulus of 
+1 1
+
+3. Viscoelastic model [9]: elasticity for the wheelset [2, 8]; τ1 =η1 E1 ,  τ  – 
+1
+
+t t−t′
+− relaxation time in the case of a viscoelastic model; 
+
+P (t ) = E (a −w) E
+− 1 ∫ (a −w )e τ1
+
+1 dt′  .  (3)
+τ η  –  viscous resistance coefficient; g (0< g ≤ 1) – 
+
+1
+1 0 fractionality parameter; P  –  maximum contact force 
+
+m
+4. Elastoplastic model of Kilchevsky [6]: before unloading stage; a  –  maximum buckling of 
+
+m
+ bP 2 3, dP dt > 0, P < P the material in the interaction zone; a  – c urrent value 
+
+b, 0
+
+a 
+= of buckling; q and b –  experimentally determined 
+
+bP 2 3
+ + Pd, dP dt > 0, P > Pb,  (4)
+ constants; a  – c ritical buckling.
+
+cr
+bP 2 3
+ + Pmaxd, dP dt < 0, Pmax > Pb . In the simulation of the dynamic interaction 
+
+between the wheel and the rail, taking into account 
+5. Elastoplastic model of Alexandrov-Kadomtsev homogeneous and isotropic materials of two bodies 
+
+[6]: and smoothness of contacting surfaces equations of 
+ bP 2 3, dP dt > 0, Pmax < P1, motion of the wheel and the rail after the start of the 
+
+a 
+= (1+ b )c interaction takes a form
+
+1 + (1− b )Pd, dP dt > 0, Pmax > P1,  (5)
+ 2 3
+ b ∂4w
+
+f P +a p (Pmax ), dP dt < 0, Pmax > P1 . my = −P ( t) , EI + r F w = P (t )d (x −x ) ,
+4  (8)
+
+∂x
+6. A model in which the interaction force is divided 
+
+into stages of loading and unloading [11]. For loading where m is the  mass of the wheel; y –  displacement 
+stage one can use  (1), for unloading stage: of the wheel; w(x, t) – d eflection of the rail; E – Y oung’s 
+
+• WORLD OF TRANSPORT AND TRANSPORTATION, Vol. 14, Iss. 1, pp. 54–60 (2016)
+
+Loktev, Alexei A., Vinogradov, Valentin V., Buchkin, Vitaly A. Models of Interaction of Wheel and 
+Rail at High Speed
+
+
+
+modulus; I –  moment of inertia of the rail section with cr
+respect to the midline; F – c ross-sectional area of the 
+rail; r –  density of its material; d (х-x) –  d elta of Dirac 
+function; х –  coordinate measured along the axis of 
+the rail, the dot above the value mea ns a partial 
+derivative with respect to time.  
+
+Equations (8) and (9) are integrated with account 
+of initial conditions  
+w = 0, a =V0   
+
+t=0 t= (9)
+0  
+
+and of dependence between interaction force and 
+local bearing (1)-(6).  
+
+After integration of the defining relation we obtain 
+a functional equation for determining  the contact 
+force:
+
+t
+1 t 1 Pic. 1. The model of contact interaction of 
+
+cVutr−ve∫s∫ P5(t )adtndtd= k6′P 2 /3
+0 m 2 2 1 –+  V
+
+0 0 0   100 km / h, curves 1, w3h eeal nandd  ra5il. were calculated using the 
+the equations (5), and curves 2, 4, 6 –  by means of 
+
+t
+relations (3).
+
+eq+∑uAant∫iPo(τn)ssin ω(n5(t)−,τ )adτn,d  curves 2, 4, 6(1 0-)
+n o  by mePiac.n 2s s hoofw sr tehalat mtioodenls ( 3()3 a)n.d  (5) give the best 
+
+where coefficients A  depend on a type of approach to the experimental results, and that at 
+n
+
+eigenfunPctiiocn.s  a2n ds ehigoewnva ltuheas itn  tmheo tadske.ls (3) ansdpe e(d5s) o fg ≈i8v0e k mth / eh  rbheeoslot gaicpalp prroopaecrtihes  toof  thteh 
+wheel and the rail have a significant influence on the e experimental 
+
+Solution of integral-differential equation of the type 
+(10) for relationships (1) –  (7) is found numerically by maximum value of the contact force and the time of 
+
+recosmupluttse,r , abnasde dt hona th, ea ats ssupmepetiodns t hoaft at  e8ac0h  kmint e/ra hct iornh. Peioc.l 3o cgoimcpaalre sp trhoe preesurlttsi eofs t hoe fu steh oef  wheel and the 
+visco-elastic (3) and elastic-plastic dependences (5). 
+
+sufficiently small interval (n −1)τ ≤ t ≤ nτ  unknown With an increase in the initial speed of interaction of 
+raquial nhtitaiess  vaa rys ilignenairflyi cPa(nnτt) =i(nPfluence on the maximum value of the contact force and the 
+
+n − Pn−1 ) τ . Such wheel and rail (vehicle speed) the difference between 
+values of maximum contact forces obtained using 
+
+ticmomep utoinfg  itienratteivrea scchteimoen i.s  mPoisct o. fte3n  ucsoedm in pthaer esre latthioen s r(e3)s aunldt s(5 )o, fa ndth thee  iuntseera cotiofn  vtimisec aore- presentation of unknown quantities in the form of growing. elastic (3) and 
+expansions in series of special functions [6–10]. This Conclusion.  In course of the study graph 
+
+eilsa csotnince-cptelda tsot tihce  dfaectp theant dtheen ficnael sd e(te5r)m.i nWingi thd eapnen dinenccrees aosf eco nitnac tt hfoerc ein oint itiamle  sfopr evaerdio uos 
+equation contains the summation based on two indices. f interaction of 
+
+models of contact interaction of wheel and rail were 
+Pic. 2, 3 show dependences of the contact force produced, which showed that even at vehicle speeds 
+
+wonh etimele . aInn Pdic .r a2 iclu r(vvese h1,i c2,l e3 , s4p, 5e,e 6d, )7  athree  dofi f8f0e krme n/ ch eit  ibs enetcwesesearny  tov atalkuee inst oo afc comunat ximum contact 
+constructed using the relations (1), (2), (3), (4), (5), viscoelastic and elastic-plastic properties of 
+
+fo(6r) caneds ( 7o) rbetsapeicntievedly ,u asndin thge  cruervlea 8t iiso tankse n( f3ro)m  anmda t(e5ri)a,l sa. nMdod tifhicea tiionnt eofr aexcistitiongn  rteilmatioen sa rfoer  [2], the speed of the vehicle V  = 80 km / h. In Pic. 3 
+0 contact force and local buckling all wed to make the growing. 
+
+curves 1,2 correspond to V  = 200 km / h, curves 3 
+0 obtained graph dependences closer to the results of 
+
+and 4 –  V  = 150 km / h, curves 5 and 6 – V  = 
+0 0 the experiment. The proposed algorithm makes it 
+
+100 km / h, curves 1, 3 and 5 were calculated using possible to select a mathematical model of contact 
+
+ 
+P(t), 
+
+ (МN) 1 2 
+ 5 
+
+8 
+ 1.8 
+
+4 
+ 3 
+
+ 1.2 
+
+ 
+ 0.6  6 
+
+ 7 
+
+ 59
+0 0.002 0.004 t, (s) 
+
+Pic. 2. Dependence of the contact force on time for different models o f contact interaction of wheel-rail.
+
+ 
+• WORLD OF TRANSPORT AND TRANSPORTATION, Vol. 14, Iss. 1, pp. 54–60 (2016)
+
+Loktev, Alexei A., Vinogradov, Valentin V., Buchkin, Vitaly A. Models of Inte raction of Wheel and 
+Rail at High Speed
+
+Pic. 2. Dependence of the contact force on time for different models of contact 
+interaction of wheel-rail. 
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+
+P(t), 
+60 (МN) 1 
+
+2 
+
+3.6 
+3 
+
+4 
+
+2.4 
+5 
+
+6 
+1.2 
+
+0 0.001 0.002 t, (s)  
+ 
+
+Pic. 3. Dependence of contact force on time for different speeds of vehicle movement.
+
+ that most accurately describes the processes in the 7 . Loktev, A . A ., Vershinin, V . V . Modeling 
+interacting bodies, and to get values of the maximum shockproof insulation systems with viscoelastic elements 
+force of interadction and contact time, close to the [Mo
+experimental data.  delirovanie sistem protivoudarnoj  izol jacii  s 
+
+vjazkouprugimi elementami] . Vestnik MGTU im. Baumana. 
+Serija Estestvennye nauki, 2012, Iss . 2, pp . 52–63 .
+
+RPEiFcE. R3E. NDCeEpSendence of contact force on8 .  Ltoikmteve, A f . Ao .r,  Sdycihfefvea,r Ae . nV . tR esspeaercehd ofs d yonafm vice hicle 
+characteristics of the upper structure of railway track 
+
+1 . Agostinacchio, M ., Ciampa, D ., Diomedi, M ., under dynamic action [Issledovanie dinamicheskih 
+Olita, S . Parametrical analysis of the railways dmynaomvice mhaernaktte.r istik verhnego stroenija zheleznodorozhnogo puti 
+response at high speed moving loads . Journal of Modern pri dinamicheskom vozdejstvii] . Nauka i tehnika 
+Transportation, 2013, Vol . 21, Iss . 3, pp . 169–181 .
+
+Conc2 .l Fuasnigo, Mn ..,  CIner dcaso, uS .r sF .e,  Qoiuf,  tYha .e N sutmuedriyca lw etrraensporta, 2013, Iss . 4, pp . 58–64 .
+9  .p Lrookdteuv, cAe . dA . , gSryachpevha , dAe . Vp .,e Vnedrsehinnicne, Vs .  oV . f contact 
+
+determination for optimal location of sub-track asphalt Modeling of Work of a Railway Track at the Dynamic 
+
+force on latyiemr ine h ifgho-rsp eveda rraiiols .u Josu rnmal oof dMeodlesr no Trfa ncspoorntattaiocn,t 2013, Vol . 21, Iss . 2, pp . 103–110 .  inEftfeercatsc otif  oan W ohefe lw Phaier .e Pl roacneedd inrag iolf,  twhe h2i0c1h4  showed 
+International Conference on Theoretical Mechanics and 
+
+3 . Alexandrov, V . M ., Romalis, B . L . Contact tasks in Applied Mechanics, Venice, Italy, March 15–17, 2014, 
+that evenm eacht anvicealh enigcinleeer insgp [Keoentdakstn yoe zfa d8ac0hi  v kmamshi no/s trhoe niiit] .  pp . 78–81
+
+Moscow, Mashinostroenie publ ., 1986, 362 p . is necessary to take into account viscoelastic 
+10 . Mazov, Yu . N ., Loktev, A . A ., Sychev, V . P . 
+
+4 . Kogan,  A . Ya . Interaction of wheel and rail at rolling 
+and elast[iVcza-ipmloadesjsttviice  kpolersoa ip reel’rsat iperis k aochfen imi] .Taretneier ii asmlasz.k aM oAssessment of impact of defects rolling stock wheels on 
+
+thde sitfaitce aoft ithoen ra iolwfa y etrxaciks t[Oincegnk ar evllijaantijoa ndesfe kftovr  contact 
+v mashinah i mehanizmah, 2008, Iss . 8, pp . 26–38 . koles podvizhnogo sostava na sostojanie zheleznodorozhnogo 
+
+5 . Olsson, R ., Donadon, M . V ., Falzon, B . G . 
+force andD elaomcinaalti obn tuhrcekshloildn lgoa da folrl doywnameidc i mtopa ctb orni pnlagte s .t hep utoi] . Vestnik MGSU, 2015, Iss . 5, pp . 54–65 .
+
+1b1t . aBianlaenddin ,g Dr .a Vp ., hB odlotenpike, Nn .d Ne .n, Pcilekesy , aWc . Dco . rding to 
+International Journal of Solids and Structures, 2006, Vol . 43, Optimal protection from impact and shock: theory and 
+
+the resulptps .  31o2f4– 3t1h4e1 .
+6 . Biryukov,  De .x Gp .,e Kraidmometnsetv,.  I . TGh . Eela stpicr-oplapstoics edm etahlogdso . rAiptphlimed  Mmechaakniecss R eivti ewps,o 2s0s0i0b, lVeo l . t5o3,  select a 
+
+Iss . 9, pp . 237–264 .
+nonaxisymmetric impact of parabolic body on a spherical 12 . Schonberg, W . P ., Keer, L . M ., Woo, T . K . Low 
+
+mathemasthieclla [lU pmrugoopdlaeslt ichoefs kicj noenosteasicmtm etthriachtn ymj uodasrt  avecloccuityr aimteplayct  odf etrsancsrviebrselsy istohtreop icp rboeacmes sasned s in the 
+parabolicheskogo tela po sfericheskoj obolochke] . Prikladnaja plates . International Journal of Solids and Structures, 
+matematika i teoreticheskaja fizika, 2005, Vol . 46, Iss . 1, 
+
+interactinpgp .  1b81o–d18i6e .s, and get close with respect1 9t8o7,  Vthole . 2 3e, xppp . e87r1i–m89e6n . tal data of the •maximum 
+force of iInnftoermraatciotni oabno uat nthde  acuothnortsa:ct time. 
+
+Loktev, Alexei A. –  D.Sc. (Physics and Mathematics), professor, head of department, dean of the faculty of 
+
+REthe Russian Open Transport Academy of Moscow State University of Railway Engineering (MIIT), Moscow, 
+RuFssEia,R aaElokNtevC@yEanSd ex.ru.
+Vinogradov, Valentin V. –  D.Sc. (Eng.), professor, first vice-rector –  vice-rector for education of Moscow 
+State University of Railway Engineering (MIIT), Moscow, Russia, +7(495) 684–21–10.
+Buchkin, Vitaly A. –  D.Sc. (Eng.), professor, head of the department of designing and construction of 
+railways of Moscow State University of Railway Engineering (MIIT), Moscow, Russia, vp@vpm770.ru.
+
+Article received 27.11.2015, accepted 22.12.2015.
+
+• WORLD OF TRANSPORT AND TRANSPORTATION, Vol. 14, Iss. 1, pp. 54–60 (2016)
+
+Loktev, Alexei A., Vinogradov, Valentin V., Buchkin, Vitaly A. Models of Interaction of Wheel and 
+Rail at High Speed

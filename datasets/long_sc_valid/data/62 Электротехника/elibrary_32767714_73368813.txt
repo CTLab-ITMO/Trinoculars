@@ -1,0 +1,619 @@
+﻿УДК 621.345.1 DOI: 10.14529/power180116
+  
+ОПРЕДЕЛЕНИЕ ВЛИЯНИЯ ПАРАМЕТРОВ ИСТОЧНИКА ПИТАНИЯ 
+НА РЕЗОНАНСНЫЙ РЕЖИМ РАБОТЫ ВЕНТИЛЬНОГО 
+ЭЛЕКТРОПРИВОДА КОЛЕБАТЕЛЬНОГО ДВИЖЕНИЯ 
+ 
+Ю.М. Кулаковский, А.В. Аристов 
+Томский политехнический университет, г. Томск, Россия 
+ 
+ 
+
+Исследование особенностей работы электрических машин периодического движения в составе 
+электромеханических комплексов различного целевого назначения направлено на создание высокоэф-
+фективных электроприводов как линейного, так и углового колебательного движения. Особое место 
+среди них занимают безредукторные электроприводы, в которых колебательный режим работы форми-
+руется за счет различных видов модуляции питающих фазных напряжений исполнительного двигателя. 
+На основании анализа математической модели вентильного электропривода определена методика расче-
+та его выходных параметров при колебательном движении с учетом функций регулирования, парамет-
+ров электрической машины и нагрузки. Показано, что при определении колебательного электромагнит-
+ного момента вентильного двигателя при инженерных расчетах достаточно учитывать в его демпфи-
+рующей составляющей только постоянные члены. Получено выражение, определяющее амплитуду ко-
+лебаний подвижного элемента вентильного электродвигателя, что позволило установить возможность 
+регулирования собственной частоты электропривода за счет изменения амплитуды одного из фазных 
+напряжений. Представлены результаты математического моделирования вентильного электропривода 
+колебательного движения в математической среде MathCAD 2000, иллюстрирующие возможность обес-
+печения резонансного режима работы электропривода согласно разработанному алгоритму. Полученные 
+в работе аналитические соотношения составили теоретические основы не только для расчета выходных 
+параметров, но и рабочих характеристик вентильного электропривода колебательного движения. Они 
+также могут быть рекомендованы для оценки динамических и энергетических показателей электропри-
+вода в режиме колебательного движения. 
+
+Ключевые слова: вентильный электропривод, колебательное движение, собственная частота, ре-
+зонансный режим работы. 
+
+ 
+ 
+
+Введение влияния электрических параметров источников 
+В настоящее время к современным электро- питания на резонансный режим работы вентильно-
+
+приводам углового колебательного движения го электропривода при фазовом способе возбуж-
+предъявляются все более жесткие требования от- дения колебательного режима работы. 
+носительно энергетических показателей и точно- Для этого необходимо решить следующие за-
+сти позиционирования исполнительного органа дачи: 
+[1–3]. – аналитически определить выражения и раз-
+
+Одним из рациональных способов повысить работать методику для расчета выходных пара-
+эффективность работы электропривода колеба- метров вентильного электропривода колебатель-
+тельного движения является построение его на ного движения; 
+базе двухфазного вентильного двигателя, рабо- – на основании полученных выражений про-
+тающего непосредственно в режиме вынужденных вести оценку угловой координаты положения под-
+колебаний за счет фазовой модуляции питающих вижного элемента привода от параметров источ-
+напряжений с обеспечением резонансного режима. ника питания с учетом обобщенной нагрузки на 
+Как известно, при этом инерционные и упругие валу двигателя; 
+силы в электромеханической системе взаимно – построить графики зависимостей амплитуд-
+уравновешиваются, а энергия возбудителя колеба- ного значения координаты от фазного напряжения 
+ний расходуется только на преодоление диссипа- вентильного двигателя при разных значениях час-
+тивных сил [4–6].  тоты колебаний и определить зависимость послед-
+
+Очевидно, что энергетически выгодный резо- ней в функции от напряжения.  
+нансный режим работы вентильного электропри-  
+вода может достигаться за счет регулирования Математическая модель вентильного  
+механических, либо электрических параметров электропривода колебательного движения 
+системы [1, 7, 8]. Причем последнее является бо- Для упрощенного математического описания 
+лее предпочтительным, так как не требует допол- вентильного электродвигателя используется сис-
+нительного введения в систему позиционной на- тема координат d–q, жестко связанная с ротором, 
+грузки в виде торсионов или пружин. при этом ось d совмещается с направлением маг-
+
+Целью данной статьи является определение нитного поля статора.  
+
+Вестник ЮУрГУ. Серия «Энергетика».  
+2018. Т. 18, № 1. С. 133–139 133 
+
+
+
+Электромеханические системы 
+В этом случае система дифференциальных уравнений, которыми описываются электромагнитные и 
+
+электромеханические переходные процессы в вентильном двигателе, имеет вид [7, 9, 10]:  
+di
+
+U  i R  L d
+d d s d Lqiq ; 
+
+dt 
+
+
+di
+U  i q 
+
+q q Rs  Lq L
+t d id m ;
+
+d                (1) 
+М p m  d 
+
+э  iqm  id iq (Ld  Lq )  Мн (mdt, m , m );
+2 dt 
+
+1 d 
+m 1
+ (М э Мн ), d
+
+ 
+p dt J dt m , 
+
+
+где Ud, Uq, Id, Iq – напряжения и токи фазных обмоток вентильного двигателя; Rs – активное сопротивление 
+обмотки статора; Ld, Lq – продольная и поперечная индуктивности; Ψm – максимальное потокосцепление 
+обмотки статора с потоком ротора; ω, ωm – электрическая и механическая скорости изменения обобщенной 
+координаты подвижного элемента; χ – угловое перемещение подвижного элемента; Мэ, Мн – электромаг-
+нитный момент и обобщенный момент сопротивления; р – число пар полюсов; m – число фаз двигателя. 
+
+Третье уравнение системы (1) описывает колебательное движение вторичного элемента вентильного 
+двигателя и представляет собой нелинейное дифференциальное уравнение второго порядка. 
+
+Обобщенная нагрузка на валу электродвигателя колебательного движения Мн является функцией па-
+раметров нагрузки привода и его движения. Наиболее часто она представляется совокупностью позицион-
+ных и инерционных сил, а также сил жидкостного и сухого трения [11, 12]: 
+
+2
+Мн L d  d
+
+ мех 2  Rмех Cмех   М тр sign ,                 (2) 
+dt dt
+
+где Lмех – инерционная составляющая нагрузки; Rмех  – демпфирующая составляющая нагрузки; Cмех  – 
+позиционная составляющая нагрузки; М тр – момент сухого трения. 
+
+В общем случае для возбуждения колебательного режима работы статорные обмотки вентильного 
+двигателя подключаются к источникам напряжения [13]: 
+
+Ud (t) U1  const;                       (3) 
+Uq (t) U2 sin( t  ),
+
+где U1  – постоянное напряжение обмотки d; U2, Ω, α – амплитудное значение, круговая частота и началь-
+ная фаза питающего напряжения по обмотке q. 
+
+Подставив выражения для фазных напряжений (3) в первые два уравнения системы (1) и решив ее от-
+носительно фазных токов обмоток d и q вентильного двигателя, получим:  
+
+id (t) U2 N2 cos( t  )  N1sin( t )U1 N3  N4 ;              (4) 
+iq (t) U2 N5 sin( t )  N6 cos( t  )U1 N7  N8.
+
+ 
+
+
+Здесь значения коэффициентов N1…N8, зависящих от параметров двигателя, частоты и скорости колебаний 
+подвижного элемента привода, представлены в табл. 1. 
+
+Таблица 1 
+Коэффициенты для рассчета значений фазных токов 
+
+L 2 2 2
+N q s Ld Lq )
+
+1 
+q ( Ld Lq  Rs  Ld Lq ) L  R (
+
+2 2 2 2 2 2 , N  . 
+( Ld Lq  Rs  Ld Lq )  Rs (Ld Lq ) 2 (2 L L  R2 2L L )2 2R2
+
+d q s d q s (Ld Lq )
+
+R 2 L  R (2 L L  R2 2L L )  L 2 
+N s , N  q m  s d q s d q d Rs (Ld L )
+
+3  4 , N q
+5 . 
+
+2 L Lq  R2
+d s 2 L 2
+
+d Lq  Rs (2 L L  R2 2
+d q s Ld Lq )2 2R2
+
+s (Ld Lq )
+
+L 2 2 2 2
+d ( Ld Lq  Rs  Ld Lq )  Rs (Ld L
+
+N6 
+q )
+
+, L  
+ d N ,  m R
+
+N s . 
+(2 L L  R2 2
+
+d q s Ld Lq )2 2R2
+s (Ld L 7 2
+
+q ) L L 2 8
+ d q  R 2
+
+s L L  R2
+d q s
+
+ 
+После подстановки найденных значений токов (4) в уравнение для электромагнитного момента, и раз-
+
+ложив последний в ряд Маклорена по степеням скорости   в окрестностях   0 , получим: 
+dМ э (0)
+
+М э ()  М э (0)   ...  ,                   (5) 
+d
+
+  
+134 Bulletin of the South Ural State University. Ser. Power Engineering. 
+
+2018, vol. 18, no. 1, pp. 133–139 
+
+
+
+Кулаковский Ю.М., Аристов А.В.      Определение влияния параметров источника питания 
+            на резонансный режим работы вентильного электропривода… 
+
+где Мэ (0)  МП  характеризует пусковую составляющую электромагнитного момента двигателя; 
+dМ э (0)
+
+  МД  FД   – электромагнитный демпфирующий момент, FД – коэффициент электромагнитно-
+d
+
+го демпфирования вентильного двигателя;  
+
+MП  p m  
+m iq 0  (Ld  Lq )i
+
+2 d 0 iq 0   
+
+
+ (U2d1 U2U1d2 )(s1 sin(t )  s2 cos(t )) , 
+F p m  di   . 
+
+ 
+d i (L L di
+
+)( d di
+i i q
+
+Д m 0   0  0 ) 
+2  d q d q q d d   d  
+
+
+ (U 2k U k  k U 2
+
+1 3 1 1 2 2 (k4  (k5 cos(2(t ))  k6 sin(2(t  )).
+Следует отметить, что при инженерных расчетах коэффициента электромагнитного демпфирования 
+
+вентильного двигателя достаточно учесть только постоянные составляющие с коэффициентами k1–k4, так 
+как весовой вклад составляющих модуляции не превышает 3 %.  
+
+С учетом сказанного уравнение движения подвижного элемента двигателя (2) при пренебрежении в 
+электромеханической системе моментом сухого трения примет вид:  
+
+d 2 (Rмех  FД )d
+L 
+
+мех 2  Cмех   M П .                  (6) 
+dt dt
+
+Решением уравнения (6) будет являться закон движения подвижного элемента вентильного двигателя: 
+(t)  Аsin(t )  B cos(t ) ,                   (7) 
+
+где составляющие амплитуды колебания можно записать как 
+U 2 2 2 2 2 2 3
+
+1(h3Cмех  h1Cмех )  h0Cмех Cмехh2  (U1 h15Cмех  h16Cмех U1h17Cмех )  
+
+
+4 (U 3 2
+1 h18 U1 h19 U1 h20  h21) 
+
+A  ;
+(С 2 2 4 3 2 2
+
+мех  h24 )  ( (U1 h4 U1 h5 U1 h6 U1h7  h8 Cмехh9 )  h10 Cмех )          (8) 
+
+
+(U 3 2
+1 h13 U1 h14 U1(Cмехh12  h22 ) C
+
+B  мехh11  h23 )
+. 
+
+2 (U 4h U 3h U 2h U h  h C h )  h C2 
+1 4 1 5 1 6 1 7 8 мех 9 10 мех 
+
+Здесь h0…h24 – коэффициенты, зависящие от параметров вентильного двигателя, источника питания 
+по обмотке q и нагрузки. 
+
+Тогда выражение для амплитудного значения координаты подвижного элемента вентильного двигате-
+ля при отсутствии позиционной нагрузки (Cмех = 0) будет иметь вид: 
+
+2 2
+ 2 (U 3h U 2h U h  h )   (U 3h U 2
+
+1 18 1 19 1 20 21 1 13 1 h14 U1h22  h23 ) 
+m   2 4 3 2    2 4 3 2  .   (9) 
+
+ h24  ( (U1 h4 U1 h5 U1 h6 U1h7  h8 )  h10 )    (U1 h4 U1 h5 U1 h6 U1h7  h8 )  h 
+10 
+
+Полученные выражения (7)–(9) являются теоретической основой для расчета выходных параметров и 
+рабочих характеристик вентильного электропривода колебательного движения. Они также могут быть ис-
+пользованы при оценке динамических и энергетических показателей электропривода [14, 15].  
+
+На основании анализа выражения (9) можно утверждать, что существует условие поддержания макси-
+мального значения амплитуды колебаний подвижного элемента вентильного двигателя за счет регулирова-
+ния собственной частоты привода в заданном диапазоне изменения частоты ω путем изменения напряже-
+ния U1.  
+
+Для определения этого условия необходимо определить скорость изменения подвижного элемента 
+вентильного двигателя, взяв первую производную по времени от выражения (7), и подставить в уравнение
+для электромагнитного момента (5). После алгебраических преобразований алгоритм регулирования соб-
+ственной частоты вентильного электропривода колебательного движения будет иметь вид:  
+
+  
+ 3 2
+
+2 2d d d s 1 arccos d4 d5 d6  d7  1  2  3 co     d
+3  2 3 11
+
+d 
+   8 d9  d  
+
+10
+U1()      d1 ,       
+
+ 2  (10) 
+где d1…d12 – коэффициенты, зависящие от параметров вентильного двигателя, источника по обмотке q и 
+нагрузки. 
+ 
+В естник ЮУрГУ. Серия «Энергетика».  
+2018. Т. 18, № 1. С. 133–139 135 
+
+
+
+Электромеханические системы 
+Анализ результатов расчета координаты положения от фазного напряжения U1 
+Для оценки предложенной методики расчета при разных значениях частоты колебаний Ω 
+
+выходных параметров вентильного электроприво- (рис. 1) и алгоритм регулирования напряжения U1 
+да колебательного движения и условия обеспече- с целью поддержания резонансного режима рабо-
+ния регулирования его собственной частоты были ты колебательной электромеханической системы 
+проведены расчеты в математической среде (рис. 2).  
+MathCAD 2000. В качестве расчетной модели был Полученные графики наглядно иллюстрируют 
+выбран вентильный электродвигатель, параметры зависимость амплитудно-частотных характеристик 
+которого представлены в табл. 2 [9, 16–18].  электропривода от величины одного из фазных 
+
+Для данного двигателя, согласно изложенной напряжений вентильного двигателя, что позволяет 
+методике, были рассчитаны выходные параметры разработать практические схемы электроприводов 
+и построены зависимости амплитудного значения колебательного движения с регулируемой собст-
+
+Таблица 2 
+
+Параметры Rs Ld Lq Ψm J p m 
+Единицы измерения Ом Гн Гн Вб Кг·м2 – – 
+Значения 0,96 5,25e-3 2,25e-3 0,183 13e-3 4 3 
+
+ 
+
+ 
+Рис. 1. График зависимости амплитудного значения координаты  
+от фазного напряжения вентильного двигателя: 1 – Ω = 2 рад/с;  
+                    2 – Ω = 3 рад/с; 3 – Ω = 4 рад/с; 4 – Ω = 6 рад/с 
+
+ 
+
+ 
+Рис. 2. Алгоритм поддержания резонансного режима работы вентиль-
+ного электропривода колебательного движения при регулировании  
+                                                     частоты Ω 
+
+ 
+136 Bulletin of the South Ural State University. Ser. Power Engineering. 
+
+2018, vol. 18, no. 1, pp. 133–139 
+
+
+
+Кулаковский Ю.М., Аристов А.В.      Определение влияния параметров источника питания 
+            на резонансный режим работы вентильного электропривода… 
+венной частотой для поддержания энергетически based on management structures with PID-controller / 
+выгодного резонансного режима работы без при- V.N. Fashilenko, S.N. Reshetnyak // Miner’s week-
+менения электромеханической обратной связи по 2015: Reports of the XXIII International Scientific 
+положению [19, 20]. Symposium. – 2015. – P. 608–612. 
+
+ 8. High performance control of the permanent 
+Заключение  magnet synchronous motor using self-tuning resonant 
+Применение безредукторных электроприво- controllers / P. Degobert, G. Remy Jing Zeng,  
+
+дов колебательного движения с регулируемой соб- P.-J. Barre, J.-P. Hautier // Proceeding of the Thirty-
+ственной частотой, выполненных на базе вентиль- Eighth Southeastern Symposium on System Theory 
+ных электродвигателей, работающих непосредст- SSST. – 2006. – P. 382–386. 
+венно в режиме периодического реверса за счет 9. Герман-Галкин, С.Г. Проектирование ме-
+фазовой модуляции питающих напряжений, по- хатронных систем / С.Г. Герман-Галкин. – СПб.: 
+зволяет обеспечить практически весь потребный КОРОНА-век, 2008. – 368 с. 
+диапазон частот и ускорений при высоких энерге- 10. Вентильные электродвигатели малой 
+тических показателях. Как показали исследования, мощности для промышленных роботов / В.Д. Ко-
+оценку их выходных характеристик целесообразно сулин, Г.Б. Михайлов, В.В. Омельченко, В.В. Пут-
+проводить по изложенной выше методике, ограни- ников. – Л.: Энергоатомиздат, Ленингр. отд-ние, 
+чиваясь при расчетах только постоянными состав- 1988. – 184 с.  
+ляющими электромагнитного демпфирующего 11. Луковников, В.И. Электропривод колеба-
+момента. С целью поддержания резонансного ре- тельного движения / В.И. Луковников. – М.: Энер-
+жима работы практические схемы электроприво- гоатомиздат, 1984. – 152 с.  
+дов должны содержать в своей структуре функ- 12. Design Aspects of a High Speed Permanent 
+циональный преобразователь напряжения, реали- Magnet Synchronous Motor/Generator for Flywheel 
+зующий программно или схемотехнически алго- Applications / A. Nagorny, N. Dravid, R. Jansen,  
+ритм (10). B. Kenny // NASA/TM–2005–213651. – 2005. – P. 1–7. 
+
+ DOI: 10.1109/IEMDC.2005.195790 
+Литература 13. Пат. 2629946 Российская Федерация, 
+
+1. Аристов, А.В. Электропривод колебатель- МПК51 H02K 33/04, H02P 25/02. Вентильный элек-
+ного движения с регулируемой собственной час- тропривод колебательного движения / А.В. Аристов, 
+тотой / А.В. Аристов // Доклады ТУСУРа. – 2011. – Ю.М. Кулаковский. – Опубл. 01.12.2017, Бюл. № 34. 
+№ 1 (23). – С. 5–9.  14. Hanselman, D.C. Minimum torque ripple, 
+
+2. Aristov, A.V. The control system of electric vi- maximum efficiency excitation of brushless permanent 
+brating motor under the potential phase modulation / magnet motors / D.C. Hanselman // IEEE Transac-
+A.V. Aristov, L.I. Aristova, I.A.Ekkert // Mechanical tions on Industrial Electronics. – 1994. – Vol. 41,  
+Engineering, Automation and Control Systems no. 3. –P. 292–300. DOI: 10.1109/41.293899 
+(MEACS): proceedings of the International Conference, 15. Power limits of high-speed permanent-
+Tomsk, 1–4 December, 2015 / National Research magnet electrical machines for compressor applica-
+Tomsk Polytechnic University (TPU); Institute of Elec- tions / Z. Kolondzovski, A. Arkkio, J. Larjola, P. Sal-
+trical and Electronics Engineers (IEEE). – [S. l]: IEEE, linen // Report Series on Electromechanics, Report 76, 
+2015. – [4 p.] DOI: 10.1109/MEACS.2015.7414854 Aalto University School of Science and Technology. – 
+
+3. Иваник, В.В. Моделирование резонансного Espoo 2010. – 21 p. 
+асинхронного электропривода возвратно-посту- 16. Dynamic simulation models of switched re-
+пательного движения с алгоритмом управления по luctance motor drivers / H. Chen, J. Jianguo, S. Suli, 
+моменту / В.В. Иваник // Записки Горного инсти- Z. Dong // Intelligent Control and Automation, Pro-
+тута. – 2009. – Т. 182. – С. 81–84.  ceedings of the 3rd World Congress. – 2000. –  
+
+4. Асташев, В.К. Системы возбуждения ав- Vol. 3. – P. 2111–2115. 
+торезонансных вибротехнических устройств / 17. Овечкин, О.И. Электромеханизмы и элек-
+В.К. Асташев // Вестник научно-технического тродвигатели разработки ОАО «Электропривод» / 
+развития. – 2007. – № 1. – С. 11–17. О.И. Овечкин, В.А. Миронов // Электроника и 
+
+5. Jordan, H.E. Energy-Efficient Electric Motors электрооборудование транспорта. – 2013. – № 3. – 
+and their Applications / H.E. Jordan // Springer Sci- C. 5–11. 
+ence & Business Media. – New York, 1994. – 188 p. 18. Pierre-Daniel Pfister. Very High Speed 
+
+6. Ede, J.D. Rotor resonances of highspeed per- Slotless Permanent Magnet Motors: Analytical Mo-
+manent-magnet brushless machines / J.D. Ede,  deling, Optimization, Design and Torque Measu-
+Z.Q. Zhu, D. Howe // IEEE Transactions on Industry rement Methods / Pierre-Daniel Pfister, Yves Per-
+Applications. – 2002. – 38 (6). – P. 1542–1548. DOI: riard // IEEE Transactions on industrial electronics. – 
+10.1109/TIA.2002.804765 2010. – Vol. 57, no. 1. – P. 296–303. DOI: 
+
+7. Fashilenko, V.N. Energy efficient resonant 10.1109/TIE.2009.2027919 
+mode of electromechanical system mining machines 19. Луковников,  В.И.  Анализ  электромехани- 
+
+Вестник ЮУрГУ. Серия «Энергетика».  
+2018. Т. 18, № 1. С. 133–139 137 
+
+
+
+Электромеханические системы 
+ческой автоколебательной системы «асинхрон- tion of an efficient regenerative braking system for  
+ный электродвигатель – упругий элемент» /  a vector controlled PMSM drive / Peter K. Abraham, 
+В.И. Луковников, Ю.А. Рудченко // Вестн. ГГТУ S. Ashok // 3rd International Conference on Electrical 
+им. П.О. Сухого. – 2003. – № 1. – С. 61–66. Energy Systems (ICEES). – 2016. – P. 312–317. DOI: 
+
+20. Peter K. Abraham. Design and implementa- 10.1109/ICEES.2016.7510660 
+
+ 
+ 
+
+Кулаковский Юрий Михайлович, аспирант кафедры «Электропривод и электрооборудование», 
+Томский политехнический университет, г. Томск; ymkulakovskiy@yandex.ru. 
+
+Аристов Анатолий Владимирович, д-р техн. наук, профессор кафедры «Электропривод и электро-
+оборудование», Томский политехнический университет, г. Томск; parist@sibmail.com. 
+
+ 
+Поступила в редакцию 1 февраля 2018 г.
+
+ 
+__________________________________________________________________
+ 
+
+DOI: 10.14529/power180116
+ 
+HOW POWER SUPPLY PARAMETERS AFFECT  
+THE RESONANT STATE OF OSCILLATORY BLDC DRIVES 
+ 
+Yu.M. Kulakovskiy, ymkulakovskiy@yandex.ru, 
+A.V. Aristov, parist@sibmail.com 
+Tomsk Polytechnic University, Tomsk, Russian Federation 
+ 
+ 
+
+Periodic-motion electric machines are used in various electromechanical facilities designed for various 
+purposes; the operating properties of such machines are researched to construct high-performance oscillatory 
+drives generating both linear and angular motion. One specific kind of such drives is gearless electrical drives 
+which generate oscillatory motion by applying different modulations to power the phase voltages of the motor. 
+Based on mathematical model analysis of a valve actuator, we define a procedure for calculating its oscillatory-
+motion output parameters with due account of control functions, the electric machine parameters, and the load. 
+It is shown that when finding the oscillating electromagnetic torque in a BLDC motor for engineering calcula-
+tions, it is enough to take into account only the constant terms in its damping component. We have thus formu-
+lated an expression for finding the oscillation amplitude of the moving BLDC element, which has enabled us to 
+establish the possibility of controlling the eigen-frequency of the BLDC motor by altering the amplitude of one 
+of the phase voltages. Such oscillatory motion has been simulated by means of MathCAD 2000 with the simula-
+tion results being presented here and demonstrating how resonance-state operation can be attained per the algo-
+rithm developed. The obtained analytical relations make up the theoretical basis for computing not only output 
+parameters, but also the operating properties of oscillatory electrical drives. They can be recommended for the
+evaluation of dynamic indexes and energy data for oscillatory motion. 
+
+Keywords: BLDC drives, oscillatory motion, eigen-frequency, resonance state. 
+ 
+ 
+
+References 
+1. Aristov A.V. [Oscillatory Electric Drive with Adjustable Eigen-Frequency]. Doklady TUSURa [TUSURa 
+
+Reports], 2011, no. 1 (23), pp. 5–9. (in Russ.)  
+2. Aristov A.V., Aristova L.I., Ekkert I.A. The Control System of Electric Vibrating Motor under the Potential 
+
+Phase Modulation. Mechanical Engineering, Automation and Control Systems (MEACS): Proceedings of the Interna-
+tional Conference, Tomsk, 1–4 December, 2015. National Research Tomsk Polytechnic University (TPU); Institute 
+of Electrical and Electronics Engineers (IEEE), [S. l.]: IEEE, 2015, [4 p.]. DOI: 10.1109/MEACS.2015.7414854 
+
+3. Ivanik, V.V. [Modelling a Resonant Asynchronous Electric Drive in Reciprocating Motion With Control 
+Moment Algorithm]. Zapiski Gornogo institute [Notes of the Mining Institute], 2009, vol. 182, pp. 81–84. (in Russ.)  
+
+4. Astashev V.K. [Excitation Systems for Auto-Resonant Vibtotechnical Devices]. Vestnik nauchno-
+tekhnicheskogo razvitiya [Bulletin of Scientific and Technical Development], 2007, no. 1, pp. 11–17. (in Russ.) 
+
+5. Jordan H.E. Energy-Efficient Electric Motors and their Applications. Springer Science & Business Media,
+New York, 1994. 188 p. 
+
+ 
+138 Bulletin of the South Ural State University. Ser. Power Engineering. 
+
+2018, vol. 18, no. 1, pp. 133–139 
+
+
+
+Кулаковский Ю.М., Аристов А.В.      Определение влияния параметров источника питания 
+            на резонансный режим работы вентильного электропривода… 
+
+6. Ede J.D., Zhu Z.Q., Howe D. Rotor Resonances of Highspeed Permanent-magnet Brushless Machines. 
+IEEE Transactions on Industry Applications, 2002, 38(6), pp. 1542–1548. DOI: 10.1109/TIA.2002.804765 
+
+7. Fashilenko V.N., Reshetnyak S.N. Energy Efficient Resonant Mode of Electromechanical System Mining 
+Machines Based on Management Structures with PID-controller. Miner’s week-2015: Reports of the XXIII Interna-
+tional Scientific Symposium, 2015, pp. 608–612. 
+
+8. Degobert P., Remy Jing Zeng G., Barre P.-J., Hautier J.-P. High Performance Control of the Permanent 
+Magnet Synchronous Motor Using Self-Tuning Resonant Controllers. Proceeding of the Thirty-Eighth Southeastern 
+Symposium on System Theory SSST, 2006, pp. 382–386. 
+
+9. German-Galkin S.G. Proektirovanie mekhatronnykh system [Designing Mechatronic Systems]. St. Peters-
+burg, KORONA-vek Publ., 2008. 368 p. 
+
+10. Kosulin V.D., Mihaylov G.B., Omel'chenko, V.V., Putnikov V.V. Ventil'nye elektrodvigateli maloy 
+moshchnosti dlya promyshlennykh robotov [Low-Power BLDC Motors for Industrial Robots]. Leningrad, Energo-
+atomizdat Publ., 1988. 184 p. 
+
+11. Lukovnikov V.I. Elektroprivod kolebatel'nogo dvizheniya [Oscillatory Electric Drive]. Moscow, 
+Energoatomizdat Publ., 1984. 152 p. 
+
+12. Nagorny A., Dravid N., Jansen R., Kenny B. Design Aspects of a High Speed Permanent Magnet Syn-
+chronous Motor/Generator for Flywheel Applications. NASA/TM–2005–213651, 2005, pp. 1–7. DOI: 
+10.1109/IEMDC.2005.195790 
+
+13. Aristov A.V., Kulakovskiy Yu.M. Ventil'nyy elektroprivod kolebatel'nogo dvizheniya [Oscillatory BLDC 
+Drive]. Patent RF, no. 2629946, 2017. 
+
+14. Hanselman D.C. Minimum Torque Ripple, Maximum Efficiency Excitation of Brushless Permanent Mag-
+net Motors. IEEE Transactions on Industrial Electronics, 1994, vol. 41, no. 3, pp. 292–300. DOI: 
+10.1109/41.293899 
+
+15. Kolondzovski Z., Arkkio A., Larjola J., Sallinen P. Power Limits of High-speed Permanent-magnet Elec-
+trical Machines for Compressor Applications. Report Series on Electromechanics, Report 76, Aalto University 
+School of Science and Technology, Espoo 2010. 21 p. 
+
+16. Chen H., Jianguo J., Suli S., and Dong Z. Dynamic Simulation Models of Switched Reluctance Motor 
+Drivers, Intelligent Control and Automation, Proceedings of the 3rd World Congress, 2000, vol. 3, pp. 2111–2115.  
+
+17. Ovechkin O.I., Mironov V.A. [Electric Mechanisms and Motors Designed by OAO Elektroprivod]. 
+Elektronika i elektrooborudovanie transporta [Electronics and Electrical Equipment of Transport], 2013, no. 3,  
+pp. 5–11. (in Russ.) 
+
+18. Pierre-Daniel Pfister, Yves Perriard. Very High Speed Slotless Permanent Magnet Motors: Analytical 
+Modeling, Optimization, Design and Torque Measurement Methods. IEEE Transactions on industrial electronics, 
+2010, vol. 57, no. 1, pp. 296–303. DOI: 10.1109/TIE.2009.2027919 
+
+19. Lukovnikov V.I., Rudchenko Yu.A. [Analysis of an Electromechanical Self-Oscillatory System Con-
+sisting of an Asynchronous Electric Motor and a Elastic Element]. Vestn. GGTU im. P.O. Sukhogo [Bulletin of 
+Sukhov GGTU], 2003, no. 1, pp. 61–66. (in Russ.) 
+
+20. Abraham Peter K., Ashok S. Design and Implementation of an Efficient Regenerative Braking System for 
+a Vector Controlled PMSM Drive. 3rd International Conference on Electrical Energy Systems (ICEES). 2016,  
+pp. 312–317. DOI: 10.1109/ICEES.2016.7510660 
+
+ 
+Received 1 February 2018 
+
+ 
+ 
+
+ОБРАЗЕЦ ЦИТИРОВАНИЯ  FOR CITATION 
+Кулаковский, Ю.М. Определение влияния пара-  Kulakovskiy Yu.M., Aristov A.V. How Power Sup-
+
+метров источника питания на резонансный режим ply Parameters Affect the Resonant State of Oscillatory 
+работы вентильного электропривода колебательного BLDC Drives. Bulletin of the South Ural State University. 
+движения / Ю.М. Кулаковский, А.В. Аристов // Ser. Power Engineering, 2018, vol. 18, no. 1, pp. 133–139. 
+Вестник ЮУрГУ. Серия «Энергетика». – 2018. – Т. 18, (in Russ.) DOI: 10.14529/power180116 
+№ 1. – С. 133–139. DOI: 10.14529/power180116  
+ 
+
+ 
+
+ 
+Вестник ЮУрГУ. Серия «Энергетика».  
+2018. Т. 18, № 1. С. 133–139 139

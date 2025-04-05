@@ -1,0 +1,620 @@
+﻿Известия Томского политехнического университета. Инжиниринг георесурсов. 2022. Т. 333. № 4. 27–36 
+Смороков А.А. и др. Разработка способа низкотемпературного обескремнивания активированного цирконового концентрата ... 
+
+ 
+УДК 546.831.4 
+
+РАЗРАБОТКА СПОСОБА НИЗКОТЕМПЕРАТУРНОГО ОБЕСКРЕМНИВАНИЯ 
+АКТИВИРОВАННОГО ЦИРКОНОВОГО КОНЦЕНТРАТА РАСТВОРОМ NH4HF2  
+
+Смороков Андрей Аркадьевич1,  
+wolfraum@yandex.ru 
+Кантаев Александр Сергеевич1,  
+akantaev@tpu.ru 
+Брянкин Даниил Валерьевич1,  
+dvb43@tpu.ru 
+Миклашевич Анна Андреевна1,  
+nura.miklaa@gmail.com 
+1 Национальный исследовательский Томский политехнический университет, 
+
+Россия, 634050, г. Томск, пр. Ленина, 30. 
+ 
+
+Актуальность. Исследование обосновано целесообразностью разработки технологии переработки активированных цирко-
+новых концентратов с получением бадделеитового концентрата, используемого для изготовления высокотемпературной 
+керамики, и с возможностью регенерации основного реагента. При этом получаемый диоксид кремния в качестве побочного 
+продукта может быть использован для изготовления изделий из силикатной керамики. 
+Цель: определить максимальную степень обескремнивания активированного цирконового концентрата водным раствором 
+гидродифторида аммония с получением бадделеитового концентрата; предложить схему переработки активированного 
+цирконового концентрата с получением бадделеитового концентрата и диоксида кремния. 
+Объекты: раствор гидродифторида аммония, термоактивированный цирконовый концентрат, водный раствор аммиака. 
+Методы: экспериментальные исследования, рентгенофлюорисцентный анализ, рентгенофазовый анализ, атомно-
+эмиссионная спектроскопия, инфракрасная спектроскопия. 
+Результаты. Определены условия селективного удаления кремния из активированного цирконового концентрата с получе-
+нием бадделеитового концентрата в качестве целевого продукта и диоксида кремния в качестве попутного продукта. Вли-
+яние концентрации гидродифторида аммония в выщелачивающем растворе на степень обескремнивания активированного 
+цирконового концентрата незначительно. Оптимальные условия проведения выщелачивания следующие: концентрация рас-
+твора NH4HF2 – 30 %, продолжительность – 60 минут, температура – 90 °С; соотношение твердого к жидкому – 1:5. При 
+данных условиях более 97 % кремния переходит в раствор. В процессе выщелачивания диоксид циркония частично реагирует 
+с выщелачивающим реагентом с образованием гептафтороцирконата аммония, характеризуемого более низкой раствори-
+мостью в растворе в сравнении с фторидами аммония и гексафторосиликатом аммония. Последующий обжиг позволяет пе-
+ревести гептафтороцирконат обратно в диоксид циркония. Получаемый раствор гексафторосиликата аммония используется 
+для получения аморфного диоксида кремния и раствора фторида аммония, служащего сырьем в процессе регенерации выщела-
+чивающего раствора с повторным его использованием для переработки новой партии сырья. По результатам работ предложе-
+на технологическая схема получения бадделеитового концентрата. Схема характеризуется отсутствием отходов. 
+
+ 
+Ключевые слова:  
+Гидродифторид аммония, активированный цирконовый концентрат,  
+бадделеитовый концентрат, низкотемпературное обескремнивание. 
+
+ 
+Введение рицательно сказывается на рентабельности проектов 
+
+– не вся потенциальная продукция в полном объеме 
+Согласно Стратегии развития минерально- может быть реализована на внутреннем или на внеш-
+
+сырьевой базы Российской Федерации до 2035 года, них рынках. Выпускаемый в стране бадделеитовый 
+определенной Правительством РФ от 22.12.2018 концентрат (ZrO2) является уникальным высококаче-
+№ 2914-р, цирконий относится к группе дефицитных ственным циркониевым сырьем и практически пол-
+полезных ископаемых, внутреннее потребление кото- ностью экспортируется. Бадделеитовый концентрат 
+рых в значительной степени обеспечивается вынуж- производится только в России; остальные страны 
+денным импортом. Кроме того, цирконий относится к (Австралия, ЮАР, США, Мозамбик, Сенегал, Индо-
+одному из видов стратегического минерального сы- незия и др.) выпускают преимущественно цирконо-
+рья, перечень которых утвержден распоряжением вые концентраты (ZrSiO4). Правительства РФ от 16.01.1996 № 50-р. Отечественные предприятия используют импорт-
+
+Россия располагает крупной сырьевой базой, до- ный цирконовый концентрат для производства ме-
+статочной для обеспечения внутренних потребностей таллического циркония (в т. ч. ядерной чистоты), его 
+страны в циркониевом сырье. Отечественные место- сплавов и изделий из них. По выпуску циркониевого 
+рождения циркония являются в основном комплекс- проката страна является одним из мировых лидеров, 
+ными, что осложняет процесс переработки руд и от- обеспечивая около пятой части рынка.  
+
+DOI 10.18799/24131830/2022/4/3459 27 
+
+
+
+Известия Томского политехнического университета. Инжиниринг георесурсов. 2022. Т. 333. № 4. 27–36 
+Смороков А.А. и др. Разработка способа низкотемпературного обескремнивания активированного цирконового концентрата ... 
+
+ 
+Металлический цирконий и сплавы на его основе, а др.), так и чистых оксидов (диоксид плутония [20], 
+
+также диоксид циркония являются наиболее востребо- диоксид тория [21] и др.) установлена возможность 
+ванными цирконийсодержащими продуктами на миро- применения расплава фторидов аммония как реагента 
+вом рынке. Так, согласно [1], за период с 2010 по 2020 для переработки наиболее химически стойких кисло-
+гг. стоимость премиальных австралийских цирконовых родсодержащих соединений элементов. Данные рас-
+концентратов выросла почти в 1,5 раза (с 965 до 1385 плавы характеризуются высокой химической актив-
+$ за тонну), при этом стоимость бадделеитового кон- ностью и, в сочетании с одновременным измельчени-
+центрата выросла почти в 2,5 раза (с 2262 до 5491 $ за ем реакционной смеси [22], позволяют достигать вы-
+тонну), что свидетельствует о росте потребностей в сокой степени конверсии элементов. 
+высококачественном циркониевом сырье. Наряду с этим стоит отметить возможность при-
+
+В связи с обозначенными экономическими тен- менения водных растворов фторидов аммония, так 
+денциями вопрос разработки безотходного способа как эти растворы обладают более низкой вязкостью и 
+получения бадделеитовых концентратов из цирконо- вследствие этого способствуют более высокой диф-
+вых концентратов становится актуальным.  фузии ионов в сравнении с расплавом. Одновременно 
+
+Диоксид циркония имеет температуру плавления с этим водные растворы можно использовать при бо-
+около 2700 °С, характеризуется рядом свойств (напри- лее низких температурах (менее 100 °С). Также за 
+мер, высокая термическая стойкость), которые делают счет различной растворимости фтораммонийных 
+данный материал востребованным в производстве ке- комплексных соединений можно добиться одновре-
+рамических изделий. При температуре 1000–1100 °С менного разделения определенных элементов. В связи 
+диоксид циркония претерпевает обратимое изменение с этим была предложена апробация водного обескрем-
+кристаллической структуры, сопровождающееся изме- нивания активированного цирконового концентрата с 
+нением в объеме на 3–4 %, что приводит к разрушению целью минимизации содержания в нем кремния. 
+изделий из него. Для предотвращения перекристалли-
+зации в диоксид циркония вводят стабилизирующие Методика эксперимента 
+добавки (оксиды кальция, РЗЭ и др.) [2]. Для проведения исследований был использован 
+
+Исходным минералом, используемым для про- цирконовый концентрат, полученный в результате 
+мышленного получения диоксида циркония, является термической активации, включающей в себя обработку 
+циркон (ZrSiO4). Одна из его особенностей заключа- в воздушной высокочастотной индукционной плазме. 
+ется в его диссоциации при нагревании до высоких Условия обработки представлены в публикации [23]. 
+температур (около 1800 °С), при этом процесс носит Выщелачивание примесей из активированного 
+обратимый характер [3]. цирконового концентрата осуществлялось следую-
+
+ZrSiO4 ZrO2+SiO2. щим образом: 25 г активированного в плазме цирко-
+нового концентрата смешивали с раствором гидро-
+
+С учетом перечисленных выше процессов замеще-
+ние бадделеита цирконом невозможно, в связи с чем дифторида аммония в массовом соотношении 
+становится актуальным вопрос получения бадделеи- Т:Ж=1:5. В ходе экспериментов при постоянном 
+товых концентратов путем максимального удаления нагревании (температура находилась в диапазоне 80–
+диоксида кремния. 90 °С) и перемешивании определялась зависимость 
+
+степени обескремнивания от концентрации гидро-
+В промышленности внедрен метод обескремнива-
+
+ния активированного цирконового концентрата путем дифторида аммония в растворе и от времени.  
+его обработки 50 % раствором щелочи при 120 °С с В ходе процесса происходит реакция образования 
+получением соответствующего силиката. Получае- гексафторосиликата аммония, переходящего в рас-
+мый остаток диоксида циркония отфильтровывают на твор. Последующей фильтрацией проводилось отде-
+
+ление твердого остатка от раствора фтораммонийных 
+центрифуге из-за вязкости раствора, а силикат ще-
+лочного металла утилизируется как побочный товар- комплексных соединений примесных элементов. 
+
+Определение степени удаления примесей состояло в 
+ный продукт [4]. Недостаток приведенного способа 
+состоит в необходимости реализации силиката натрия вычислении содержания элемента в образцах до и по-
+на рынке и необходимости перманентной закупки но- сле соответствующего эксперимента. Расчет прово-
+вых партий щелочи или организации дополнительно- дился по следующей формуле: 
+го химического производства с постоянной закупкой  
+сырья. Данный вопрос может быть решен путем 
+внедрения безотходного способа обескремнивания с 
+регенерацией основного реагента и его повторным , 
+использованием в основном процессе.  где α – степень удаления элемента, %;  – масса 
+
+Обзор литературных данных показал, что фториды элемента в образце после эксперимента; – масса 
+аммония могут быть рассмотрены в качестве решения 
+поставленной задачи ввиду их высокой реакционной элемента в образце до эксперимента;  – концен-
+способности по отношению к диоксиду кремния. На трация элемента в пробе до эксперимента;  – 
+примерах как минералов (танталит [5], латерит [6], концентрация элемента в пробе после эксперимента; 
+монацит [7], сподумен [8], тринитит [9, 10], циркон  – масса образца после эксперимента; – 
+[11–15], ильменит [16, 17], титаномагнетит [18, 19] и масса образца до эксперимента. 
+
+28 
+
+
+
+Известия Томского политехнического университета. Инжиниринг георесурсов. 2022. Т. 333. № 4. 27–36 
+Смороков А.А. и др. Разработка способа низкотемпературного обескремнивания активированного цирконового концентрата ... 
+
+ 
+Масса образцов определялась на аналитических Результаты и их обсуждение 
+
+весах (весы аналитические AND GR-200). Элементный состав активированного циркона и со-
+Концентрация элементов определялась с исполь- став в пересчете на оксиды представлены в табл. 1, 2 
+
+зованием рентгенофлуоресцентного (рентгенофлуо- соответственно. Стоит отметить, что в прочие попут-
+ресцентный энергодисперсионный спектрометр ARL ные примеси входят соединения различных элемен-
+Quant’X) и атомно-эмиссионного анализа (атомно- тов, в том числе редких и редкоземельных (иттрий 
+эмиссионный спектрометр с индуктивно связанной и др.).  
+плазмой iCAP 6000 Series). Для атомно-эмиссионного 
+анализа пробы предварительно переводились в рас- Таблица 1.  Состав активированного цирконового кон-
+творимую форму в тефлоновых автоклавах с исполь- центрата  
+зованием микроволновой системы разложения проб Table 1.  Composition of the zircon concentrate after ac-
+(MARS 6).  tivation  
+
+Расчет содержания оксидов элементов в образцах Компонент/Component Zr Si Al Hf 
+проводился по следующей формуле:  Содержание/Content, % 54,60 9,18 2,58 1,06 
+
+, Таблица 2.  Состав активированного цирконового кон-
+где  – доля оксида элемента в образце, %; центрата в пересчете на оксиды 
+
+Table 2.  Composition of the zircon concentrate after ac-
+элемент – доля элемента в образце, определенная в tivation in terms of oxides 
+
+ходе элементного анализа, %; – молярная Компонент 
+масса оксида элемента, а.е.м.; – атомная Component ZrO2 SiO2 Al2O3 HfO2 
+
+Прочие примеси 
+ Other impurities 
+
+масса элемента, а.е.м.; n – количество атомов эле- Содержание 
+мента в оксиде. Content, % 73,80 19,67 4,87 1,25 0,41 
+
+Кристаллическую структуру образцов исследовали  
+методом рентгеновской дифракции (Shimadzu XRD- По результатам рентгенофазового анализа (рис. 1) 
+7000S) в конфигурации Брэгга–Брентано с использо- установлено, что после термической активации в 
+ванием Cu-Kα1-излучения при 40 кВ и 30 мА. Фазо- плазме кристаллическая составляющая цирконового 
+вый состав образцов определяли с помощью про- концентрата представляет собой бадделеит с неболь-
+граммы PDF-2. шими примесями циркона, который не разложился на 
+
+Определение качественного состава исходного составляющие оксиды в процессе высокотемператур-
+сырья и продуктов проводилось методом инфракрас- ной активации в воздушной высокочастотной плазме. 
+ной спектроскопии с помощью Фурье-спектрометра Кремниевая составляющая на рентгенограмме не от-
+NICOLET 6700 Thermo Electron Corporation. Для из- мечена, что согласуется с описанным в [2] фактом об 
+мерений в области 4000–400 см–1 образцы были при- аморфности диоксида кремния (кремнезёма), образу-
+готовлены прессованием смеси исследуемого образца ющегося при термической диссоциации циркона. 
+и бромида калия в таблетки. Соотношение между об- Соединения алюминия и других компонентов не 
+разцом и KBr составляло 1:300. идентифицированы.  
+
+ 
+
+ 
+Рис. 1.  Рентгенограмма исходного активированного цирконового концентрата: 1 – ZrO2 (бадделеит); 2 – ZrSiO4 
+
+(циркон) 
+Fig. 1.  XRD of the initial zircon concentrate after activation: 1 – ZrO2 (baddeleyite); 2 – ZrSiO4 (zircon) 
+
+29 
+
+
+
+Известия Томского политехнического университета. Инжиниринг георесурсов. 2022. Т. 333. № 4. 27–36 
+Смороков А.А. и др. Разработка способа низкотемпературного обескремнивания активированного цирконового концентрата ... 
+
+ 
+На ИК-спектре исходного активированного цир- 1120, 798 и 469 см–1, которые также представлены на 
+
+кона (рис. 2) стоит выделить характерные полосы спектре чистого аморфного SiO2 (рис. 3). 
+ 
+
+ 
+Рис. 2.  ИК-спектр исходного активированного цирконового концентрата  
+Fig. 2.  IR spectrum of the initial zircon concentrate after activation 
+
+ 
+Рис. 3.  ИК-спектр диоксида кремния 
+Fig. 3.  IR spectrum of silicon dioxide 
+
+По результатам экспериментов установлено (рис. 4), парением воды и, следовательно, пересыщением рас-
+что оптимальный результат по выщелачиванию крем- твора, и переходом гексафторосиликата аммония из 
+ния достигается при использовании 30 % раствора жидкой фазы в твердую. Использование растворов 
+гидродифторида аммония (ГДФА) и продолжительно- ГДФА с концентрацией 10 и 20 % позволяет достичь 
+сти процесса 1 ч. При увеличении концентрации определенной степени обескремнивания, при этом с 
+ГДФА и продолжительности процесса степень обес- увеличением продолжительности процесса степень пе-
+кремнивания снижается. Данный эффект связан с ис- рехода кремния в раствор остается на прежнем уровне. 
+
+ 
+98
+
+96
+
+94 10 % раствор ГДФА 
+
+20 % раствор ГДФА 
+92
+
+30 % раствор ГДФА 
+90 40 % раствор ГДФА 
+
+88
+30 60 90 120 150 180 210 240 270
+
+Время выщелачивания, минуты  
+Рис. 4.  Зависимость степени обескремнивания от продолжительности процесса 
+Fig. 4.  Dependence of the desiliconization degree on the duration of the process 
+
+30 
+
+Время выщелачивания, % 
+
+
+
+Известия Томского политехнического университета. Инжиниринг георесурсов. 2022. Т. 333. № 4. 27–36 
+Смороков А.А. и др. Разработка способа низкотемпературного обескремнивания активированного цирконового концентрата ... 
+
+ 
+
+ 
+Рис. 5.  Рентгенограмма обескремненного цирконового концентрата: 1 – ZrO2 (бадделеит); 2 – (NH4)3ZrF7 
+Fig. 5.  XRD of the zircon concentrate after desiliconization: 1 – ZrO2 (baddeleyite); 2 – (NH4)3ZrF7 
+
+Рентгенофазовый анализ продукта выщелачивания Данная операция приводит к снижению доли 
+(рис. 5) показал, что диоксид циркония частично проре- фторидов в системе. Одновременно с этим удается 
+агировал с образованием гептафторцирконата аммония. осуществить более полную регенерацию раствора 
+Наряду с этим стоит отметить отсутствие кристалличе- гидродифторида аммония. Из полученных результа-
+ской фазы гексафторосиликата аммония. Последующая тов следует, что в процессе выщелачивания кремния 
+термогравиметрия обескремненнного активированного в реакцию также вступает не менее 30 % диоксида 
+концентрата в токе воздуха (рис. 6) зафиксировала циркония с образованием гептафороцирконата ам-
+убыль массы в 20,32 %, что связано с разложением геп- мония ((NH4)3ZrF7), который не переходит в раствор, 
+тафтороцирконата аммония до диоксида циркония, об- что связано с низкой растворимостью данного со-
+разование которого связано с взаимодействием фторсо- единения в условиях процесса в сравнении с гекса-
+держащих соединений циркония с парами воды воздуха.  фторосиликатом аммония и гидродифторидом ам-
+
+(NH4)3ZrF7→(NH мония.  
+4)2ZrF6→NH4ZrF5→ZrF4→ZrО2. 
+
+ 
+
+ 
+Рис. 6.  Термограмма обескремненного цирконового концентрата 
+Fig. 6.  Thermogravimetric curve of the zircon concentrate after desiliconization 
+
+Элементный состав продукта и состав в пересчете Таблица 4.  Состав бадделеитового концентрата в пе-
+на оксиды представлены в табл. 3, 4 соответственно.  ресчете на оксиды 
+
+Table 4.  Composition of the baddeleyite concentrate in 
+Таблица 3.  Состав бадделеитового концентрата  terms of oxides 
+Table 3.  Composition of the baddeleyite concentrate  Компонент  
+
+Component ZrO2 SiO2 Al2O3 HfO2 
+Прочие примеси 
+Other impurities 
+
+Компонент/Component Zr Si Al HfO2 
+ 
+
+Содержание  
+Содержание/Content, % 66,24 0,26 2,51 1,25 Content, % 89,53 0,56 4,74 1,48 3,69 
+
+31 
+
+
+
+Известия Томского политехнического университета. Инжиниринг георесурсов. 2022. Т. 333. № 4. 27–36 
+Смороков А.А. и др. Разработка способа низкотемпературного обескремнивания активированного цирконового концентрата ... 
+
+ 
+Основной кристаллической структурой в получен- активированного цирконового концентрата и диокси-
+
+ном продукте является диоксид циркония в форме да кремния (рис. 2, 3, соответственно), стоит отметить 
+бадделеита (рис. 7). отсутствие линий на 1120, 798 и 469 см–1, характер-
+
+Стоит отметить, что состав данного продукта со- ных для SiO2. Данный факт согласуется с результата-
+ответствует составу сырья (как по макро-, так и по ми элементного анализа и свидетельствует о получе-
+микрокомпонентам), которое применяется в произ- нии обескремненного продукта. 
+водстве керамических изделий из диоксида циркония. По результатам работ предложена технологиче-
+
+На представленном ИК-спектре полученного ская схема получения бадделеитового концентрата, 
+бадделеитового концентрата после прокаливания при основанная на обескремнивании термически активи-
+700 °С (рис. 8), в сравнении со спектрами исходного рованного цирконового концентрата (рис. 9). 
+
+ 
+
+ 
+Рис. 7.  Рентгенограмма бадделеитового концентрата: 1 – ZrO2 (бадделеит); 2 – ZrSiO4 (циркон) 
+Fig. 7.  XRD of the baddeleyite concentrate: 1 – ZrO2 (baddeleyite); 2 – ZrSiO4 (zircon) 
+
+ 
+Рис. 8.  ИК-спектр бадделеитового концентрата после прокаливания при 700 °С 
+Fig. 8.  IR spectrum of the baddeleyite concentrate after calcination at 700 °C 
+
+ 
+
+32 
+
+
+
+Известия Томского политехнического университета. Инжиниринг георесурсов. 2022. Т. 333. № 4. 27–36 
+Смороков А.А. и др. Разработка способа низкотемпературного обескремнивания активированного цирконового концентрата ... 
+
+ 
+Активированный цирконовый 
+
+концентрат 
+Раствор NН4HF2
+
+Выщелачивание кремния
+
+Фильтрация Обескремненный цирконовый 
+концентрат
+
+Маточный 
+раствор NН3, НF
+
+NН3∙3Н
+окалка
+
+2O
+Пр
+
+Осаждение примесей
+Кек
+
+Фильтрация Кальцинация SiO2
+Раствор NН4F
+
+Н2O, NН3, НF
+Регенерация Бадделеитовый концентрат
+
+раствора NН4HF2  
+Рис. 9.  Схема получения бадделеитового концентрата 
+Fig. 9.  Scheme of the baddeleyite concentrate production  
+
+Заключение ный же после выщелачивания раствор направляется 
+на осаждение кремния и других компонентов, пере-
+
+По результатам работ удалось достичь высокой шедших в раствор. В результате процесса образуется 
+степени обескремнивания цирконового концентрата раствор фторида аммония, который направляется на 
+(более 97 %). При этом отмечено реагирование диок- регенерацию раствора гидродифторида аммония, тем 
+сида циркона с образованием гептафтороцирконата самым обеспечивается регенерация исходного реа-
+аммония, переход которого в раствор минимален гента, позволяя организовать безотходную схему по-
+ввиду его низкой растворимости в приведенном рас- лучения бадделеитового концентрата, используемого 
+творе. Последующий обжиг твердого остатка позво- для производства металлического циркония и сплавов 
+ляет повысить концентрацию компонентов сырья за на его основе, а также керамических изделий на осно-
+счет разложения фтораммонийных комплексных со- ве диоксида циркония.  
+единений и выделения фторида аммония. Получен-
+
+СПИСОК ЛИТЕРАТУРЫ 11. Effect of the value of x in NH4F·xHF on the digestion of plasma-
+1. Государственный доклад «О состоянии и использовании ми- dissociated zircon / W. du Plessis, A.D. Pienaar, C.J. Postma, 
+
+нерально-сырьевых ресурсов Российской Федерации в P.L. Crouse // International Journal of Mineral Processing. – 
+2018 году» / под ред. Е.А. Киселева. – М.: ВИМС, 2019. – 2016. – V. 147. – P. 43–47. 
+426 с. 12. Reaction kinetics of the microwave enhanced digestion of zircon 
+
+2. Балкевич В.Л. Техническая керамика. – М.: Стройиздат, with ammonium acid fluoride / J.T. Nel, W. du Plessis, 
+1984. – 256 с. T.N. Nhlabathi, C.J. Pretorius, A.A. Jansen, P.L. Crouse // Journal 
+
+3. Гузман И.Я. Химическая технология керамики. – М.: ООО of Fluorine Chemistry. – 2011. – V. 132. – Iss. 4. – P. 258–262. 
+РИФ «Стройматериалы», 2003. – 496 с. 13. Microwave digestion of zircon with ammonium acid fluoride: 
+
+4. Металлургия циркония и гафния / Н.В. Барышников, В.Э. Ге- derivation of kinetic parameters from non-isothermal reaction data / 
+гер, Н.Д. Денисова, А.А. Казайн, В.А. Кожемякин и др. – М.: T.N. Nhlabathi, J.T. Nel, G.J. Puts, P.L. Crouse // International 
+Металлургия, 1979. – 208 с. Journal of Mineral Processing. – 2012. – V. 114–117. – P. 35–39. 
+
+5. Kabangu M.J., Crouse P.L. Separation of niobium and tantalum 14. Смороков А.А., Крайденко Р.И. Получение диоксида цирко-
+from Mozambican tantalite by ammonium bifluoride digestion and ния с использованием фторидов аммония // Ползуновский 
+octanol solvent extraction // Hydrometallurgy. – 2012. –  вестник. – 2017. – № 3. – С. 126–131. 
+V. 129–130. – P. 151–155. 15. Laptash N., Maslennikova I. Hydrofluoride decomposition of 
+
+6. Extraction of cobalt from laterite ores by citric acid in presence of natural materials including zirconium-containing minerals // IOP 
+ammonium bifluoride / G.-H. Li, M.-J. Rao, Q. Li, Z.-W. Peng, Conference Series: Materials Science and Engineering. – 2016. – 
+T. Jiang // Transactions of Nonferrous Metals Society of China. – V.  112. – Article 012024.  
+2010. – V. 20. – Iss. 8. – P. 1517–1520. 16. Андреев А.А., Дьяченко А.Н., Крайденко Р.И. Фтороаммо-
+
+7. Kemp D., Cilliers A.C. Fluorination of rare earth, thorium, and нийный способ переработки ильменита // Химическая про-
+uranium oxides and phosphates from monazite: a theoretical мышленность сегодня. – 2007. – № 9. – С. 13–17.  
+approach // Advanced Material Researslide – 2014. – V. 1019. – 17. Андреев А.А., Дьяченко А.Н., Крайденко Р.И. Галогенаммо-
+P. 439–445. нийное разделение минеральной оксидной смеси на индиви-
+
+8. Thermal and structural analysis of the reaction pathways of α- дуальные компоненты // Химическая промышленность сего-
+spodumene with NH4HF2 / A.C. Resentera, G.D. Rosales, дня. – 2007. – № 3. – С. 6–11.  
+M.R. Esquivel, M.H. Rodriguez // Thermochimica Acta. – 2020. – 18. Smorokov A.A., Kantaev A.S., Borisov V.A. Research of 
+V. 689. – P. 1–10.  titanomagnetite concentrate decomposition by means of 
+
+9. Development of ammonium bifluoride fusion method for rapid ammonium fluoride and ammonium hydrogen fluoride // AIP 
+dissolution of trinitite samples and analysis by ICP-MS / Conference Proceedings. – 2019. – V. 2143. – Article 020022.  
+N. Hubley, J.W.N. Brown, J. Guthrie, J.D. Robertson, 19. Hydrometallurgical processing technology of titanomagnetite ores / 
+J.D. Brockman // Journal of Radioanalytical and Nuclear V.I. Sachkov, R.A. Nefedov, V.V. Orlov, R.O. Medvedev, 
+Chemistry. – 2016. – V. 307. – P. 1777–1780.  A.S. Sachkova // Minerals. – 2018. – V. 8. – № 1. – Article 2.  
+
+10. Hubley N., Brockman J.D., Robertson J.D. Evaluation of 20. On the fluorination of plutonium dioxide by ammonium hydrogen 
+ammonium bifluoride fusion for rapid dissolution in post- fluoride / B. Claux, O. Beneš, E. Capelli, P. Souček, R. Meier // 
+detonation nuclear forensic analysis // Radiochimica Acta. – Journal of Fluorine Chemistry. – 2016. – V. 183. – P. 10–13. 
+2017. – V. 105. – № 8. – P. 629–635. 
+
+33 
+
+
+
+Известия Томского политехнического университета. Инжиниринг георесурсов. 2022. Т. 333. № 4. 27–36 
+Смороков А.А. и др. Разработка способа низкотемпературного обескремнивания активированного цирконового концентрата ... 
+
+ 
+21. Mukherjee A., Awasthi A. Fluorination of thorium oxide by 23. Фарнасов Г.А., Лисафин А.Б. Диссоциация циркона после об-
+
+ammonium bifluoride and its reduction to metal // Thorium Energy работки в воздушной высокочастотной индукционной плазме // 
+Conference. – Mumbai, India, 2015. – P. 225–232. Физика и химия обработки материалов. – 2015. – № 2 – С. 29–34. 
+
+22. Фтораммонийный способ переработки титановых шлаков. / 
+А.Н. Дмитриев, А.А. Смороков, А.С. Кантаев, Д.С. Никитин, Поступила 25.03.2022 г. 
+Г.Ю. Витькина // Известия высших учебных заведений. Чер-
+ная Металлургия. – 2021. – Т. 64. – № 3. – С. 178–183.  
+ 
+Информация об авторах 
+
+Смороков А.А., ассистент отделения ядерно-топливного цикла Инженерной школы ядерных технологий, 
+Национального исследовательского Томского политехнического университета.  
+Кантаев А.С., кандидат технических наук, доцент отделения ядерно-топливного цикла Инженерной школы 
+ядерных технологий, Национального исследовательского Томского политехнического университета.  
+Брянкин Д.В., студент отделения ядерно-топливного цикла Инженерной школы ядерных технологий, Нацио-
+нального исследовательского Томского политехнического университета. 
+Миклашевич А.А., студент отделения ядерно-топливного цикла Инженерной школы ядерных технологий, 
+Национального исследовательского Томского политехнического университета. 
+ 
+  
+
+34 
+
+
+
+Smorokov A.A. et al. / Bulletin of the Tomsk Polytechnic University. Geo Аssets Engineering. 2022. V. 333. 4. 27–36 
+ 
+
+ 
+UDC 546.831.4 
+
+DEVELOPMENT OF A LOW-TEMPERATURE DESILICONIZATION METHOD  
+FOR ZIRCON CONCENTRATE AFTER ACTIVATION WITH NH4HF2  
+
+Andrey A. Smorokov1,  
+wolfraum@yandex.ru 
+Alexander S. Kantaev1,  
+akantaev@tpu.ru 
+Daniil V. Bryankin1,  
+dvb43@tpu.ru 
+Anna A. Miklashevich1,  
+nura.miklaa@gmail.com 
+1 National Research Tomsk Polytechnic University,  
+
+30, Lenin avenue, Tomsk, 634050, Russia. 
+ 
+
+The relevance of the research is caused by the expediency of developing a technology for processing zircon concentrates to obtain a 
+concentrate of baddeleyite, which is used for the production of high-temperature ceramics with the possibility of regenerating the main rea-
+gent. In this case, the resulting silicon dioxide as a by-product can be used for the manufacture of products from silicate ceramics. 
+The main aim of the research is to determine the maximum degree of desiliconization of the activated zircon concentrate with an aqueous 
+solution of ammonium hydrofluoride to obtain a baddeleyite concentrate; propose a scheme for processing activated zircon concentrate to 
+produce baddeleyite concentrate and silicon dioxide. 
+Objects: ammonium hydrogen fluoride solution, zircon concentrate after thermoactivation, water solution of ammonia. 
+Methods: experimental research, X-ray fluorescence, X-ray crystallography, atomic emission spectroscopy, infrared spectroscopy. 
+Results. The conditions for silicon selective removal from activated zircon concentrate with the production of baddeleyite concentrate as a 
+target product and silicon dioxide as a by-product are determined. The influence of ammonium hydrofluoride concentration in the leaching 
+solution on the degree of desiliconization of the activated zircon concentrate is insignificant. The optimal conditions for leaching are as fol-
+lows: concentration of NH4HF2 solution – 30 %, duration – 60 minutes, temperature – 90 °C; the ratio of solid to liquid is 1:5. Under these 
+conditions, more than 97 % of silicon goes into solution. While the leaching zirconium dioxide partially reacts with the leaching agent to 
+form ammonium heptafluorozirconate, which is less soluble in water than ammonium fluorides and ammonium hexafluorosilicate. Subse-
+quent calcination converts ammonium heptafluorozirconate back into zirconium dioxide. The produced solution of ammonium hexafluorosil-
+icate is used to obtain amorphous silicon dioxide and ammonium fluoride solution, which serves as a raw material in regeneration of the 
+leaching solution with its reuse for processing a new batch of raw materials. Based on the results of the work, a technological scheme for 
+the production of baddeleyite concentrate is proposed. The scheme is characterized by the absence of waste. 
+
+ 
+Key words:  
+Ammonium hydrogen fluoride, activated zircon concentrate, baddeleyite concentrate, low-temperature desiliconization. 
+
+ 
+α-spodumene with NH4HF2. Thermochimica Acta, 2020, vol. 689, 
+
+REFERENCES pp. 1–10.  
+1. Kiselev E.A. Gosudarsvenny doklad «O sostoyanii i ispolzovanii 9. Hubley N., Brown J.W.N., Guthrie J., Robertson J.D., Brock-
+
+mineralno-syrievykh resursov Rossiyskoy Federatsii v 2018 godu» man J.D. Development of ammonium bifluoride fusion method for 
+[State report «On the state and use of mineral resources of the rapid dissolution of trinitite samples and analysis by ICP-MS. 
+Russian Federation in 2018»]. Moscow, VIMS Publ., 2019. 426 p.  Journal of Radioanalytical and Nuclear Chemistry, 2016, vol. 307, 
+
+2. Balkevich V.L. Technitcheskaya keramika [Technical ceramics]. pp. 1777–1780. 
+Moscow, Stroyizdat Publ., 1984. 256 p.  10. Hubley N., Brockman J.D., Robertson J.D. Evaluation of ammoni-
+
+3. Guzman I.Ya. Khimitcheskaya tekhnologiya keramiki [Chemical um bifluoride fusion for rapid dissolution in post-detonation nu-
+technology of ceramics]. Moscow, OOO RIF Stroymaterialy Publ., clear forensic analysis. Radiochimica Acta, 2017, vol. 105, no. 8, 
+2003. 496 p.  pp. 629–635. 
+
+4. Baryshnikov N.V., Geger V.E., Denisova N.D., Kazayn A.A., Ko- 11. Du Plessis W., Pienaar A.D., Postma C.J., Crouse P.L. Effect of 
+zhemyakin V.A. Metallurgiya tsirkoniya i gafniya [Metallurgy of the value of x in NH4F·xHF on the digestion of plasma-dissociated 
+zirconium and hafnium]. Moscow, Metallurgiya Publ., 1979. 208 p.  zircon. International Journal of Mineral Processing, 2016, 
+
+5. Kabangu M.J., Crouse P.L. Separation of niobium and tantalum vol. 147, pp. 43–47. 
+from Mozambican tantalite by ammonium bifluoride digestion and 12. Nel J.T., Du Plessis W., Nhlabathi T.N., Pretorius C.J., Jansen A.A., 
+octanol solvent extraction. Hydrometallurgy, 2012, vol. 129–130, Crouse P.L. Reaction kinetics of the microwave enhanced diges-
+pp. 151–155. tion of zircon with ammonium acid fluoride. Journal of Fluorine 
+
+6. Li G.-H., Rao M.-J., Li Q., Peng Z.-W., Jiang T. Extraction of co- Chemistry, 2011, vol. 132, Iss. 4, pp. 258–262. 
+balt from laterite ores by citric acid in presence of ammonium 13. Nhlabathi T.N., Nel J.T., Puts G.J., Crouse P.L. Microwave diges-
+bifluoride. Transactions of Nonferrous Metals Society of China, tion of zircon with ammonium acid fluoride: derivation of kinetic 
+2010, vol. 20, Iss. 8, pp. 1517–1520. parameters from non-isothermal reaction data. International Jour-
+
+7. Kemp D., Cilliers A.C. Fluorination of rare earth, thorium, and ura- nal of Mineral Processing, 2012, vol. 114–117, pp. 35–39. 
+nium oxides and phosphates from monazite: a theoretical approaslide 14. Smorokov A.A., Kraidenko R.I. Polutchenie dioksida tsirkoniya s 
+Advanced Material Research, 2014, vol. 1019, pp. 439–445. ispolzovaniem ftoridov ammoniya [Obtaining zirconium dioxide 
+
+8. A Resentera.C., Rosales G.D., Esquivel M.R., Rodriguez M.H. using ammonium fluorides]. Polzunovskii vestnik, 2017, no. 3, 
+Thermal and structural analysis of the reaction pathways of pp. 126–131. In Rus.  
+
+35 
+
+
+
+Smorokov A.A. et al. / Bulletin of the Tomsk Polytechnic University. Geo Аssets Engineering. 2022. V. 333. 4. 27–36 
+ 
+
+ 
+15. Laptash N., Maslennikova I. Hydrofluoride decomposition of natu- 20. Claux B., Beneš O., Capelli E., Souček P., Meier R. On the fluori-
+
+ral materials including zirconium-containing minerals. IOP Con- nation of plutonium dioxide by ammonium hydrogen fluoride. 
+ference Series: Materials Science and Engineering, 2016, vol.  112, Journal of Fluorine Chemistry, 2016, vol. 183, pp. 10–13. 
+Article 012024.  21. Mukherjee A., Awasthi A. Fluorination of thorium oxide by am-
+
+16. Andreev A.A., Dyachenko A.N., Kraidenko R.I. Ftoroammoniyny monium bifluoride and its reduction to metal. Thorium Energy 
+sposob pererabotki ilmenita [Fluoroammonium method of ilmenite Conference. Mumbai, India, 2015. pp. 225–232. 
+processing]. Khimicheskaya promyshlennost segodnya, 2007, no. 9, 22. Dmitriev A.N., Smorokov A.A., Kantaev A.S., Nikitin D.S., 
+pp. 13–17.  Vitkina G.Yu. Fluorammonium method of titanium slag pro-
+
+17. Andreev A.A., D’yachenko A.N., Kraidenko R.I. Galogenam- cessing. Izvestiya. Ferrous Metallurgy, 2021, vol. 64, no. 3, 
+moniynoe razdelenie mineralnoy oksidnoy smesi naindividualnye pp. 178–183. In Rus.  
+komponenty [Halogenammonium separation of a mineral oxide 23. Farnasov G.A., Lisafin A.B. Dissotsiatsiya tsirkona posle obrabot-
+mixture into individual components]. Khimicheskaya promyshlen- ki v vozdushnoy vysokochastotnoy induktsionnoy plazme [Disso-
+nost segodnya, 2007, no. 3, pp.  6–11.  ciation of zircon under the treatment in air RF inductive plasma]. 
+
+18. Smorokov A.A., Kantaev A.S., Borisov V.A. Research of titano- Physics and Chemistry of Materials Treatment, 2015, no. 2, 
+magnetite concentrate decomposition by means of ammonium flu- pp. 29–34.  
+oride and ammonium hydrogen fluoride. AIP Conference Procee-
+dings, 2019, vol. 2143, Article 020022.  
+
+19. Received: 25 March 2022. 
+Sachkov V.I., Nefedov R.A., Orlov V.V., Medvedev R.O.,   Sach-
+kova A.S. Hydrometallurgical processing technology of titano-
+magnetite ores. Minerals, 2018, vol. 8, no. 1, Article 2.  
+ 
+Information about the authors 
+
+Andrey A. Smorokov, assistant, National Research Tomsk Polytechnic University. 
+Alexander S. Kantaev, Cand. Sc., associate professor, National Research Tomsk Polytechnic University. 
+Daniil V. Bryankin, student, National Research Tomsk Polytechnic University.  
+Anna A. Miklashevich, student, National Research Tomsk Polytechnic University. 
+  
+
+36

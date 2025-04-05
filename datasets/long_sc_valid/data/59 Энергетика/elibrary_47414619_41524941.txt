@@ -1,0 +1,685 @@
+﻿УДК 658.382 DOI: 10.14529/power210407
+  
+ОРГАНИЗАЦИЯ КОНТРОЛЯ ИЗОЛЯЦИИ  
+В РАСПРЕДЕЛИТЕЛЬНОЙ СЕТИ КАРЬЕРА «ТАРРОР» 
+ 
+Х.Д. Бобоев1, 2, Ю.И. Аверьянов1, А.В. Богданов1, И.Л. Кравчук3 
+1 Южно-Уральский государственный университет, г. Челябинск, Россия, 
+2 Институт энергетики Таджикистана, г. Бохтар, Республика Таджикистан, 
+3 Институт горного дела УрО РАН, филиал в г. Челябинске, г. Челябинск, Россия 
+ 
+ 
+
+Надежность работы электрооборудования и безопасность его эксплуатации, а также уровень элек-
+тробезопасности и пожаробезопасности на горнодобывающих предприятиях непосредственно связаны с 
+состоянием изоляции электрических сетей, прежде всего величиной полного сопротивления изоляции 
+относительно земли. Контроль этих параметров в процессе эксплуатации электрооборудования позволя-
+ет повысить эффективность и надежность работы электрооборудования. Освещается актуальная на се-
+годняшний день проблема выбора методов контроля параметров изоляции фаз сети относительно земли 
+распределительных электрических сетей с изолированной нейтралью. В данной статье рассматриваются 
+краткая характеристика СП «Зеравшан», разработанная для него система контроля изоляции и результа-
+ты проверки ее работоспособности на компьютерной модели. Исследования показали, что при номи-
+нальной нагрузке в сети погрешность определения полного сопротивления изоляции не превышает 
+20 %, что доказывает работоспособность предлагаемой системы контроля изоляции фаз сети относи-
+тельно земли. Таким образом, внедрение в практику эксплуатации распределительных сетей разрабо-
+танной системы контроля параметров изоляции позволит повысить надежность и безопасность электро-
+снабжения. 
+
+Ключевые слова: карьерные распределительные сети, уровень изоляции, система контроля изо-
+ляции. 
+
+ 
+ 
+
+Введение  трооборудования. Безопасность эксплуатации 
+Обеспечение электробезопасности в условиях электрооборудования в значительной мере опре-
+
+открытых горных работ зависит от решения ряда деляется состоянием изоляции электрических се-
+вопросов, среди которых одним из основных явля- тей и установок [1, 3, 11, 12–17]. 
+ется контроль сопротивления изоляции фаз сети Повреждение электрической изоляции между 
+относительно земли. проводом и землей или корпусом электроустанов-
+
+В режиме эксплуатации на изоляцию электро- ки может быть причиной поражения человека 
+оборудования воздействуют электрические, тепло- электрическим током при прикосновении к метал-
+вые, механические и другие нагрузки. Они вызы- лическим частям электроприемников, оказавшихся 
+вают в изоляции сложные процессы, следствием под напряжением в результате повреждения изо-
+которых является постоянное ухудшение свойств, ляции или в результате воздействия шагового на-
+именуемое старением [1–4]. Своевременное обна- пряжения. 
+ружение участков сети с пониженным сопротив- Повреждение электрической изоляции между 
+лением изоляции является одним из основных ме- проводом и землей может быть причиной возник-
+роприятий, позволяющих предотвратить пораже- новения токов утечки на землю. Эти токи при оп-
+ние электрическим током и поддержать беспере- ределенных условиях могут вызвать воспламене-
+бойное электроснабжение [1, 5–7]. ние электрооборудования или взрыв во взрыво-
+
+Кроме того, надежность работы электрообо- опасной среде. 
+рудования и безопасность его эксплуатации непо- Таким образом, для обеспечения пожаробезо-
+средственно связаны с параметрами изоляции пасности, взрывобезопасности и электробезопас-
+электрооборудования и прежде всего величиной ности необходимо поддерживать изоляцию сети на 
+емкости и активного сопротивления изоляции от- высоком уровне. Это требование может быть вы-
+носительно земли [1, 6, 8–11]. Контроль этих па- полнено применением эффективных методов из-
+раметров в процессе эксплуатации электрообору- мерения и устройств контроля за состоянием изо-
+дования позволяет повысить эффективность рабо- ляции. 
+ты электрооборудования, качество технологиче-  
+ского процесса. Актуальность 
+
+При эксплуатации распределительных элек- Различают два вида контроля изоляции при 
+трических сетей основными требованиями, предъ- эксплуатации электрооборудования: периодиче-
+являемыми к электрическим установкам, являются ский и непрерывный. Классификация существую-
+надежность снабжения потребителей электриче- щих способов периодического контроля изоляции 
+ской энергией и безопасность эксплуатации элек- без снятия рабочего напряжения с оценкой досто-
+Вестник ЮУрГУ. Серия «Энергетика».  
+2021. Т. 21, № 4. С. 57–65 57 
+
+
+
+Электроэнергетика 
+инств и недостатков была рассмотрена на основе за старения материалов в условиях эксплуатации 
+литературных источников [11, 18–20]. происходит не только под воздействием факторов 
+
+Проведенные исследования в [1, 21–24] пока- окружающей среды, но и в результате электриче-
+зали, что из известных экспериментов, с учетом ских процессов, протекающих в электрических 
+метрологических требований и необходимости сетях [1, 15, 25].  
+создания безопасных условий для участвующих в Поэтому и сегодня актуальной является зада-
+них, наиболее подходящим будет косвенный ме- ча обеспечения контроля за состоянием изоляции 
+тод, обеспечивающий получение необходимых и своевременное обнаружение и устранение де-
+информационных параметров за счет искусствен- фектов изоляции до их перерастания в междуфаз-
+ного смещения нейтрали [1]. Из них наиболее при- ные и многоместные замыкания на землю. Выпол-
+емлемым с точки зрения безопасности и точности нение этой задачи позволит предотвратить воз-
+измерений, а также надежности электроснабжения никновение опасных ситуаций и обеспечить над-
+является косвенный метод, основанный на под- лежащие условия электробезопасности при веде-
+ключении к одной из фаз дополнительной прово- нии горных работ. 
+димости [11, 25–27].  
+
+С целью оценки влияния различных факторов Краткая характеристика совместного  
+на результаты измерения параметров изоляции предприятия (СП) «Зеравшан» 
+косвенным методом нами была разработана ком- ООО СП «Зеравшан» было создано в 1994 го-
+пьютерная модель карьерной распределительной ду. Предприятие принадлежит правительству Тад-
+сети [1, 11, 28, 29], которая позволила получить жикистана совместно с горнопромышленной ком-
+данные для различных методик косвенного метода панией «Цзыцзинь». Доля Таджикистана – 30 %, 
+измерения параметров изоляции фаз сети относи- Китая – 70 %. Оно находится в Пенджикентском 
+тельно земли.  районе Согдийской области. Основной сырьевой 
+
+В работах [1, 11, 30–32] рассмотрен метод из- базой являются месторождения «Джилау», «Тар-
+мерения активной и емкостной составляющих со- рор» и «Хирсхонаи северный». Руды добываются 
+противления изоляции фаз сети относительно зем- открытым способом. Полезные ископаемые – зо-
+ли при подключении к одной из фаз сети допол- лото с попутным содержанием серебра [15, 33, 34]. 
+нительной емкости и измерении напряжений в ООО СП «Зеравшан» является типичным 
+этой сети. Проведенные исследования показали, представителем золоторудных предприятий с от-
+что при несимметрии в сети, а также при измене- крытой разработкой месторождений полезных ис-
+нии величин и характера нагрузки погрешность в копаемых, основные технологические процессы 
+определении параметров изоляции не превышает которых механизированы и электрифицированы. 
+8 % [1, 32]. Применение большого количество мощных элек-
+
+Периодические проверки состояния изоляции тропотребителей, тяжелый режим их работы обу-
+и испытания повышенным напряжением не ис- словливают жесткие требования, предъявляемые к 
+ключают возможности аварийных повреждений, созданию рациональных схем электроснабжения. 
+следовательно, и поражений электрическим током.  
+Чтобы уменьшить вероятность возникновения Описание распределительной сети  
+аварийных ситуаций, необходимо организовать карьера «Таррор» 
+непрерывный контроль изоляции в действующих Таррорское месторождение является самой 
+установках, что особенно важно в сетях с изолиро- крупной перспективной сырьевой базой ООО СП 
+ванной нейтралью [6, 30].  «Зеравшан». По нормам технологического проек-
+
+С течением времени в процессе эксплуатации тирования электроприемники карьера по месту 
+электроустановок карьеров горных предприятий электроснабжения относятся к потребителям III ка-
+наблюдаются существенные изменения схемы се- тегории. 
+тей по протяженности, количеству линий, составу Внешнее электроснабжение карьера осущест-
+потребителей и качеству изоляции работающих вляется из ячейки 35 кВ, подстанции 110/35/10 кВ 
+электроустановок. Эти изменения обусловлены по воздушной линии электропередачи проводом 
+действием оперативного персонала, воздействием АС-95/18 на металлических опорах с подключени-
+защитных аппаратов на отдельные элементы элек- ем ее к сооруженной на промплощадке карьера 
+троустановки, старением изоляции и другими фак- блочной комплектной передвижной трансформатор-
+торами. При таких изменениях протяженности ной подстанции Т-9-1х2500 напряжением 35/6 кВ. 
+сети и состава работающих потребителей изменя- Внутрикарьерные ВЛ-6 кВ выполнены прово-
+ются и параметры сопротивления изоляции сети, дом АС-70 и А-50 на деревянных передвижных 
+т. е. полное сопротивление изоляции относительно опорах с железобетонными подножниками. Под-
+земли и его активная и емкостная составляющие.  ключение высоковольтных потребителей карьера 
+
+Кроме того, известно, что параметры изоля- (экскаваторы и буровые станки) к внутрикарьер-
+ции электроустановок не являются стабильными ным ВЛ-6 кВ предусмотрено через передвижные 
+во времени. Снижение изоляционных свойств из- приключательные пункты типа ЯКНО-6. Пере-
+
+58 Bulletin of the South Ural State University. Ser. Power Engineering. 
+2021, vol. 21, no. 4, pp. 57–65 
+
+
+
+Бобоев Х.Д., Аверьянов Ю.И.,             Организация контроля изоляции 
+Богданов А.В., Кравчук И.Л.           в распределительной сети карьера «Таррор» 
+движные комплектные подстанции, расположен- Для карьерных распределительных сетей СП 
+ные в карьере, запитываются также от внутрикарь- «Зеравшан» нами предлагается система контроля 
+ерных ВЛ-6 кВ. изоляции (СКИ), теоретические основы построе-
+
+Основными потребителями электроэнергии ния которой изложены в [6]. 
+напряжением 6 кВ на карьере являются четыре Система контроля изоляции работает сле-
+буровых станка типа SWDA-165С, один экскава- дующим образом. 
+тор типа BONNY и водяные насосы. Силовая сеть С измерительных трансформаторов токов и 
+выполнена кабелями КГ. напряжений, расположенных в начале и конце 
+
+На карьере применяются передвижные ком- контролируемого участка сети и являющихся 
+плектные трансформаторные подстанции напря- штатными элементами этого участка сети, изме-
+жением 6/0, 4/0, 22 кВ с трансформаторами мощ- ренные значения токов и напряжений подаются в 
+ностью от 25 до 400 кВА. Для питания и защиты автоматическое устройство сбора данных, которое 
+электрооборудования электропотребителей карье- обрабатывает полученные данные (рис. 1, блок 1), 
+ра применяются приключательные пункты типа а затем передает накопленную информацию по 
+ЯКНО-6. Кроме того, на карьере сооружаются запросу блока 2 (см. рис. 1). На основании рассор-
+стационарные подстанции напряжением 6/0, 4/0, тированных данных производится автоматическое 
+22 кВ для электроснабжения отдельных цехов и определение параметров изоляции сети относи-
+объектов поверхности, а также РП-6 кВ.  тельно земли для каждого участка блоком 2. Те-
+
+ кущее значение параметров изоляции выводится 
+Система контроля изоляции на дисплей (см. рис. 1). При возникновении одно-
+В настоящее время в карьерных распредели- фазных замыканий на землю работа системы кон-
+
+тельных сетях СП «Зеравшан» отсутствует какая- троля изоляции блокируется. 
+либо система непрерывного контроля изоляции. Человек как элемент автоматизированной 
+Однофазные замыкания на землю в указанных системы управления воспринимает отображаемую 
+сетях вызывают срабатывание реле напряжения, информацию и принимает решение о продолжении 
+включенного в обмотку, соединенную в разомкну- работы участка сети либо его отключении. На ос-
+тый треугольник, трансформаторов напряжения, новании полученной информации о состоянии 
+установленных на питающих подстанциях. Сло- изоляции участка сети диспетчер принимает ре-
+жившаяся ситуация не может не сказаться на шение о продолжении его эксплуатации. 
+уровне безопасности при ведении открытых гор- Для практического исследования разработан-
+ных работ и, в частности, на возникновении элек- ной системы контроля изоляции фаз участка сети 
+троопасных ситуаций. относительно земли, а также для проверки ее ра-
+
+Выполненный в [35] анализ показал, что наи- ботоспособности и получения дополнительных 
+более перспективными системами контроля пара- сведений о работе СКИ нами была рассмотрена 
+метров изоляции фаз сети относительно земли яв- моделирующая схема одной из линий с нагрузкой, 
+ляются те, что основаны на измерении режимных принципиальная схема которой приведена на рис. 1. 
+параметров в электрической сети с изолированной Следует отметить, что основу составляет 
+нейтралью.  компьютерная модель, разработанная на кафедре 
+
+ 
+Рис. 1. Проверка работоспособности разработанной СКИ 
+
+ 
+Вестник ЮУрГУ. Серия «Энергетика».  
+2021. Т. 21, № 4. С. 57–65 59 
+
+
+
+Электроэнергетика 
+
+ 
+Рис. 2. Содержание блока 2 
+
+ 
+безопасности жизнедеятельности Южно-Ураль- Результаты исследований 
+ского государственного университета [1, 11]. Исследование погрешностей предложенной 
+
+Модель содержит следующие элементы: ис- системы контроля изоляции параметров изоляции 
+точник трехфазного напряжения 35 кВ (Three- фаз сети относительно земли заключается в рас-
+Phase Source); трехфазный двухобмоточный крытии зависимостей величин установленного 
+трансформатор (Three-Phase Transformer (Two полного сопротивления изоляции сети относи-
+Windings)); выключатель, установленный на глав- тельно земли от несимметрии в сети и различных 
+ной понизительной подстанции (Three-Phase величин и вида нагрузки.  
+Breake); воздушная и кабельная линия, отходящие Результаты исследований параметров изоля-
+от секции шин с подключенной нагрузкой (ВЛ-1, ции фаз сети относительно земли на компьютер-
+КЛ-1, Three-Phase Series RLC Load); активное и ной модели приведены в таблице. 
+емкостное сопротивление изоляции фаз сети отно- Из таблицы следует, что с уменьшением на-
+сительно земли (RC1–RC6); блок 1, определяющий грузки в сети погрешность определения полного 
+комплексные величины необходимых для вычис- сопротивления изоляции фаз сети относительно 
+лений напряжений и токов в начале и конце каж- земли увеличивается. 
+дой линии; блок 2, в котором рассчитывается пол- При номинальной нагрузке в сети (от 90 до 
+ное сопротивление изоляции фаз сети относитель- 110 %) погрешность определения полного сопротив-
+но земли, значение которого выводится на дисплей ления изоляции не превышает 20 %. Следует отме-
+(рис. 2). тить, что при минимальной нагрузке относительная 
+
+Результаты исследования работы системы контроля изоляции на компьютерной модели  
+карьерной распределительной сети (Zф в модели 39,548 кОм) 
+
+Активная нагрузка в сети Реактивная нагрузка в сети Полная нагрузка в сети 
+Нагрузка Полученные  
+в сети, % при измерениях Погрешность Полученные  
+
+при измерениях Погрешность Полученные  
+при измерениях Погрешность 
+
+Zф, кОм δ, % Zф, кОм δ, % Zф, кОм δ, % 
+10 511 –92,2 854,2 –95,4 438,625 –91 
+20 268 –85,2 422,33 –90,6 220,39 –82 
+30 172,842 –77,12 280,62 –86 147,177 –73,13 
+40 129,918 –69,55 210,15 –81,2 110,546 –64,2 
+50 104 –62 167,9 –76,44 88,522 –55,3 
+60 86,84 –54,4 139,82 –71,7 73,84 –46,4 
+70 74,5 –47 119,79 –67 63,337 –37,5 
+80 65,26 –39,4 104,77 –62,2 55,452 –28,7 
+90 58,06 –33 93,08 –57,5 49,328 –20 
+
+100 52,29 –24,3 83,75 –52,77 44,427 –11 
+110 47,54 –16,8 76,12 –48 40,41 –2,13 
+120 43,64 –9,3 69,76 –43,3 37,065 7 
+130 40,3 –1,8 64,34 –38,5 34,236 15,5 
+140 37,45 5,6 59,78 –33,8 31,81 24,3 
+
+ 
+60 Bulletin of the South Ural State University. Ser. Power Engineering. 
+
+2021, vol. 21, no. 4, pp. 57–65 
+
+
+
+Бобоев Х.Д., Аверьянов Ю.И.,             Организация контроля изоляции 
+Богданов А.В., Кравчук И.Л.           в распределительной сети карьера «Таррор» 
+погрешность может достигать 90 %. Необходимо ным технологическим процессом, повышенной 
+особо отметить, что наличие несимметрии в сети опасностью к пожарам и взрывам необходимо не-
+практически не влияет на результаты измерений.  прерывно контролировать сопротивления изоля-
+
+Данные исследования на компьютерной мо- ции в сетях напряжением 6–10 кВ. 
+дели участка сети показали работоспособность 2. Система контроля изоляции позволяет се-
+разработанной системы контроля изоляции фаз лективно контролировать несколько десятков та-
+сети относительно земли. ких участков. Опрос участков выполняется цикли-
+
+Применение системы контроля изоляции по- чески и при обнаружении снижения сопротивле-
+зволит своевременно выявлять участок сети, на ния изоляции какого-либо участка ниже установ-
+котором наметилась тенденция повреждения изо- ленного уровня соответствующая информация 
+ляции, и отключать этот участок от источника пи- появляется на блоке отображения, при дальней-
+тания до возникновения аварийной ситуации, что шем снижении система отключает аварийный уча-
+дает возможность исключить воздействие на изо- сток. 
+ляцию всей электрически связанной сети перена- 3. Предлагаемая система контроля сопротив-
+пряжений, возникающих при ОЗЗ. Тем самым ления изоляции сети относительно земли, состоя-
+обеспечивается ликвидация указанных ранее при- щая из устройства контроля изоляции и устройст-
+чин снижения уровня изоляции.  ва автоматического отключения отходящей линии 
+
+ со сниженной изоляцией фаз, обеспечивает мини-
+Заключение мальную возможность ложного срабатывания уст-
+1. Для повышения безопасности и надежности ройства контроля и минимальное время перерыва 
+
+электроснабжения горных предприятий со слож- в электроснабжении. 
+
+ 
+Литература 
+
+1. Сидоров, А.И. Исследование погрешностей косвенного метода измерения параметров изоляции фаз 
+сети относительно земли на имитационной модели / А.И. Сидоров, Х.Д. Бобоев // Безопасность труда в 
+промышленности. – 2020. – № 9. – С. 24–29. 
+
+2. Moloi, K. Power Distribution System Fault Diagnostic Using Genetic Algorithm and Neural Network / 
+K. Moloi, A.A. Yusuff // 2021 Southern African Universities Power Engineering Conference Robotics and Mecha-
+tronics/Pattern Recognition Association of South Africa (SAUPEC/RobMech/PRASA). – 2021. – P. 1–5. DOI: 
+10.1109/SAUPEC/RobMech/PRASA52254.2021.9377241 
+
+3. Perera N., Rajapakse A.D., Buchholzer T.E. Isolation of Faults in Distribution Networks with Distributed 
+Generators / N. Perera, A.D. Rajapakse, T.E. Buchholzer // IEEE Transactions on Power Delivery. – Vol. 23, 
+no. 4. – P. 2347–2355. DOI: 10.1109/TPWRD.2008.2002867 
+
+4. Электробезопасность в горнодобывающей промышленности / Л.В. Гладилин, В.И. Щуцкий, 
+Ю.Г. Бацежев, Н.И. Чеботаев. – М.: Недра, 1977. – 327 с. 
+
+5. Choudhary, S. Detection of transmission line faults in the presence of thyristor controlled reactor using 
+discrete wavelet transform / S. Choudhary, O.P. Mahela, S.R. Ola // 2016 IEEE 7th Power India International 
+Conference (PIICON). – 2016. – P. 1–5. DOI:10.1109/POWERI.2016.8077268 
+
+6. Сидоров, А.И. Теория и практика системного подхода к обеспечению электробезопасности на от-
+крытых горных работах: дис. … д-ра техн. наук: 05.26.01 / Сидоров Александр Иванович. – Челябинск, 
+1993. – 444 с. 
+
+7. Лапченков, К.В. Определение параметров изоляции относительно земли с изолированной нейтра-
+лью косвенным методом / К.В. Лапченков, А.В. Дубовой, А.И. Сидоров // Технологии, методы, средства: 
+тез. докл. регион. науч.-техн. конф. – Норильск: НИндИ, 1996. – С. 42. 
+
+8. Liang, M.Y. Insulation status mobile monitoring for power cable based on a novel fringing electric 
+field method / M.Y. Liang, S.Y. Dian, T. Liu // Lecture Notes in Electrical Engineering 138 LNEE. – 2012. –
+P. 987–994. 
+
+9. Электробезопасность на открытых горных работах / В.И. Щуцкий, А.И. Сидоров, Ю.В. Ситчихин, 
+Н.А. Бендяк. – М.: Недра, 1996. – 266 с. 
+
+10. Электробезопасность на открытых горных работах / В.И. Щуцкий, А.М. Маврицын, А.И. Сидо-
+ров, Ю.В. Ситчихин. – М.: Недра, 1983. – 192с 
+
+11. Исследование косвенных методов определения параметров изоляции на компьютерной модели / 
+А.И. Сидоров, Х.Д. Бобоев, Ю.В. Медведева, Ш.С. Саъдуллозода // Вестник Научного центра ВостНИИ по 
+промышленной и экологической безопасности. – 2021. – № 1. – С. 47–54. 
+
+12. Zhang, Q. Diagnosis of inhomogeneous insulation degradation in electric cables by distributed shunt 
+conductance estimation / Q. Zhang, H. Tang // Control Engineering Practice. – 2013. – Vol. 21 (9). –
+P. 1195–1203. DOI: 10.1016/j.conengprac.2013.04.006 
+
+13. Krasnykh, A.A. Single-phase earth fault location in a branched distribution network 6–35 kV of overhead
+ 
+Вестник ЮУрГУ. Серия «Энергетика».  
+2021. Т. 21, № 4. С. 57–65 61 
+
+
+
+Электроэнергетика 
+lines / A.A. Krasnykh, I.L. Krivoshein, A.L. Kozlov // 2016 2nd International Conference on Industrial Engineering,
+Applications and Manufacturing (ICIEAM), Chelyabinsk. – 2016. – P. 1–4. DOI: 10.1109/ICIEAM.2016.7911013 
+
+14. Щуцкий, В.И. Метод определение параметров изоляции трехфазных электрических сетей с изо-
+лированной нейтралью напряжением выше 1000 В / В.И. Щуцкий, Б.Б. Утегулов // Электробезопасность 
+на открытых и подземных горных работах. – Днепропетровск, 1982. – С. 77. 
+
+15. Бобоев, Х.Д. Параметры изоляции относительно земли в карьерных распределительных сетях 
+горнодобывающих предприятий Республики Таджикистан / Х.Д. Бобоев, А.В. Богданов // Вестник ЮУрГУ. 
+Серия «Энергетика». – 2021. – Т. 21, № 1. – С. 29–37. DOI: 10.14529/power210103 
+
+16. Shinkarenko, G.V. Determination of the Dielectric Characteristics of Electric Equipment Insulation in 
+the Presence of Utility-Frequency Interference Currents / G.V. Shinkarenko // Power Technology and Engineering. –
+2016. – Vol. 50 (3). – P. 341–346. DOI: 10.1007/s10749-016-0709-4 
+
+17. Using ultraviolet imaging method to detect the external insulation faults of electric device / C.Ye Zang, 
+H.H. Lei, S. He, X. Zhao // Conference on Electrical Insulation and Dielectric Phenomena, CEIDP 5377769. –
+2009. – P. 26–30. DOI: 10.1109/CEIDP.2009.5377769 
+
+18. Utegulov, B.B. Analysis of the error of the developed method of determination the active conductivity 
+reducing the insulation level between one phase of the network and ground, and insulation parameters in a non-
+symmetric network with isolated neutral with voltage above 1000 V / B.B. Utegulov // International Conference 
+“Actual Problem of Electromechanics and Electrotechnology” Institute of Physics Publishing. – 2018. –
+P. 012–015.  
+
+19. Электрификация открытых горных работ: учеб. для вузов / С.А. Волотковский, В.И. Щуцкий, 
+Н.И. Чеботаев. – М.: Недра, 1987. – 332 с. 
+
+20. Сидоров, А.И. Основы электробезопасности / А.И. Сидоров. – Челябинск: Изд-во ЮУрГУ, 2001. –
+343 с. 
+
+21. Сидоров, А.И. Погрешность косвенного способа измерения емкостных проводимостей относи-
+тельно земли в электрических сетях напряжением 6...10 кВ / А.И. Сидоров, О.А. Петров, И.М. Ушаков // 
+Электричество, 1990. – № 10. – С. 33–36. 
+
+22. Косоротова, Ю.В. Разработка системы непрерывного контроля изоляции в распределительных 
+электрических сетях 6 – 35 кВ / Ю.В. Косоротова // Конкурс грантов студентов, аспирантов и молодых 
+ученых вузов Челябинской области: сб. рефератов науч.-исследоват. работ студентов. – Челябинск: Изд-во
+ЮУрГУ, 2002. – С. 67–68. 
+
+23. Бобоев, Х.Д. Общая характеристика сопротивления изоляции относительно земли в сетях на-
+пряжением 6–10 кВ Республики Таджикистан / Х.Д. Бобоев, А.М. Давлатов, Б.И. Косимов // Электрообо-
+рудование: эксплуатация и ремонт. – 2021. – № 10. – С. 51–54. 
+
+24. Сидоров, А.И. Непрерывный контроль изоляции в распределительных электрических сетях /
+А.И. Сидоров, В.И. Петуров, Ю.В. Косоротова // Наука – Производство – Технологии – Экология: сб. ма-
+териалов всерос. науч.-техн. конф. – Киров: Изд-во ВятГУ, 2002. – Т. 2. – С. 32. 
+
+25. Лапченков, К.В. Управление состоянием изоляции в распределительных электрических сетях: авто-
+реф. дис. … канд. техн. наук: 05.26.01 / Лапченков Константин Владимирович. – Челябинск, 1998. – 18 с.  
+
+26. Boboev, K. Determining Ground Insulation Parameters in Quarry Distribution Networks of Mining Com-
+panies in Tajikistan / K. Boboev, A. Sidorov, O. Khanzhina // Proceedings – 2020 International Ural Conference 
+on Electrical Power Engineering, UralCon 2020, Chelyabinsk, September 22–24, 2020. – Chelyabinsk, 2020. –
+P. 344–348. DOI: 10.1109/UralCon49858.2020.9216311 
+
+27. Сидоров, А.И. Определение параметров сетей с изолированной нейтралью относительно земли / 
+А.И. Сидоров, Н.А. Бендяк, С.Н. Степанов // Контроль изоляции в распределительных сетях: тез. докл. 
+науч.-практ. конф. – Челябинск, 1992. – С. 12. 
+
+28. Boboev, K. Evaluation of Indirect Methods for Determining the Isolation Parameters of the Network Phases 
+Relative to the Ground on a Computer Model / K. Boboev, A. Sidorov, A. Davlatov // 2021 International Ural Confe-
+rence on Electrical Power Engineering (UralCon). – 2021. – P. 556–560. DOI: 10.1109/UralCon52005.2021.9559538 
+
+29. Сидоров, А.И. Имитационная модель карьерной распределительной сети напряжением 6 кВ / А.И. Си-
+доров, Х.Д. Бобоев // Научный поиск: материалы двенадцатой научной конференции аспирантов и докто-
+рантов, Челябинск, 17–19 марта 2020 года. – Челябинск: Издат. центр ЮУрГУ, 2020. – С. 18–23. 
+
+30. Контроль изоляции в распределительных сетях: тез докл. науч.-практ. конф. – Челябинск: ЧГТУ, 
+1992. – 34 с. 
+
+31. Сидоров, А.И. Повышение надежности сельских электрических сетей с помощью устройства 
+компенсации токов однофазного замыкания на землю: дис. … канд. техн. наук: 05.09.03 / Сидоров Алек-
+сандр Иванович. – Челябинск, 1984. – 148 с. 
+
+32. Бобоев, Х.Д. Анализ и оценка косвенных методов определения параметров изоляции сетей напря-
+жением выше 1000 В / Х.Д. Бобоев // Электрооборудование: эксплуатация и ремонт. – 2021. – № 10. –
+С. 46–50. 
+
+  
+62 Bulletin of the South Ural State University. Ser. Power Engineering. 
+
+2021, vol. 21, no. 4, pp. 57–65 
+
+
+
+Бобоев Х.Д., Аверьянов Ю.И.,             Организация контроля изоляции 
+Богданов А.В., Кравчук И.Л.           в распределительной сети карьера «Таррор» 
+
+33. Сидоров, А.И. Характеристика горнодобывающих предприятий Республики Таджикистан / 
+А.И. Сидоров, Х.Д. Бобоев // Безопасность жизнедеятельности в третьем тысячелетии: сб. материалов 
+VII Междунар.науч.-практ. конф., Челябинск, 03–04 октября 2019 года. – Челябинск: Издат. центр ЮУрГУ,
+2019. – С. 166–169. 
+
+34. Сидоров, А.И. Анализ методов исследования параметров изоляции электрических сетей напряже-
+нием 6 кВ / А.И. Сидоров, Х.Д. Бобоев // Экология. Риск. Безопасность: материалы Всерос. науч.-практ. 
+конф., Курган, 29–30 октября 2020 года. – Курган: Курганский государственный университет, 2020. –
+С. 273–275. 
+
+35. Бобоев, Х.Д. Анализ методов контроля изоляции в карьерных сетях напряжением 6 кВ / Х.Д. Бобо-
+ев // Техносферная безопасность в ХХI веке: сб. науч. тр. магистрантов, аспирантов и молодых ученых, 
+Иркутск, 26–27 ноября 2019 года. – Иркутск: ИРНИТУ, 2019. – С. 234–239.  
+
+ 
+ 
+Бобоев Хуршедшох Давлаталиевич, аспирант кафедры безопасности жизнедеятельности, Южно-
+
+Уральский государственный университет, г. Челябинск; Институт энергетики Таджикистана, г. Бохтар, 
+Республика Таджикистан; khboboev-93@mail.ru. 
+
+Аверьянов Юрий Иванович, д-р техн. наук, профессор, профессор кафедры безопасности жизнедея-
+тельности, Южно-Уральский государственный университет, г. Челябинск; aver541710@ mail.ru. 
+
+Богданов Андрей Владимирович, д-р техн. наук, доцент, профессор кафедры безопасности жизне-
+деятельности, Южно-Уральский государственный университет, г. Челябинск; bav-64@ mail.ru. 
+
+Кравчук Игорь Леонидович, д-р техн. наук, профессор, директор, Институт горного дела УрО РАН, 
+филиал в г. Челябинске, г. Челябинск; kravchuk65@mail.ru. 
+
+ 
+Поступила в редакцию 1 декабря 2021 г.
+
+ 
+
+__________________________________________________________________
+ 
+
+DOI: 10.14529/power210407
+ 
+ISOLATION CONTROL IN THE “TARROR” QUARRY  
+DISTRIBUTION NETWORK 
+ 
+Kh.D. Boboev1,2, khboboev-93@mail.ru, 
+Yu.I. Averyanov1, aver541710@ mail.ru, 
+A.V. Bogdanov1, aver541710@ mail.ru, 
+I.L. Kravchuk3, kravchuk65@mail.ru 
+1 South Ural State University, Chelyabinsk, Russian Federation, 
+2 Tajikistan Power Energy Institute, Bokhtar, Republic of Tajikistan, 
+3 Institute of Mining of the UB of RAS, Chelyabinsk branch, Chelyabinsk, Russian Federation 
+ 
+ 
+
+The reliability and operation safety of electrical equipment, as well as the level of electrical and fire safety 
+at mining enterprises are directly related to the state of electrical networks insulation, and particularly the value 
+of the total insulation resistance relative to the ground. Controlling these parameters in the electrical equipment 
+operation allows increasing the efficiency and reliability of such equipment. The paper concentrates on the cur-
+rent problem of selecting methods to monitor the isolation parameters of the network phases relative to 
+the ground in the distribution electric networks with an isolated neutral. It briefly describes “Zeravshan” joint 
+venture, the isolation control system developed for it and the results of its computer model based operability 
+tests. Studies have shown that at rated load in the network, the error in determining the total insulation re-
+sistance is under 20%, which proves the operability of the proposed network phase isolation monitoring system 
+relative to the ground. Thus, the implementation of the developed insulation parameter monitoring system in 
+distribution networks operation will improve the reliability and safety of power supply. 
+
+Keywords: quarry distribution networks, insulation level, insulation control system. 
+ 
+
+References 
+1. Sidorov A.I., Boboev KH.D. [Investigation of the errors of the indirect method of measuring the parameters 
+
+of the isolation of the phases of the network relative to the ground on a simulation model]. Occupational safety in 
+industry, 2020, no. 9, pp. 24–29. (in Russ.) 
+
+ 
+Вестн ик ЮУрГУ. Серия «Энергетика».  
+2021. Т. 21, № 4. С. 57–65 63 
+
+
+
+Электроэнергетика 
+2. Moloi K., Yusuff A.A. Power Distribution System Fault Diagnostic Using Genetic Algorithm and 
+
+Neural Network. 2021 Southern African Universities Power Engineering Conference/Robotics and Mecha-
+tronics/Pattern Recognition Association of South Africa (SAUPEC/RobMech/PRASA), 2021, pp. 1–5. DOI:
+10.1109/SAUPEC/RobMech/PRASA52254.2021.9377241 
+
+3. Perera N., Rajapakse A.D., Buchholzer T.E. Isolation of Faults in Distribution Networks with Distri-
+buted Generators. IEEE Transactions on Power Delivery, vol. 23, no. 4, pp. 2347–2355. DOI:
+10.1109/TPWRD.2008.2002867 
+
+4. Gladilin L.V., Shchutsky V.I., Batsezhev Yu.G., Chebotaev N.I. Elektrobezopasnost' v gornodobyvayu-
+shchey promyshlennosti [Electrical Safety in the Mining Industry]. Moscow, 1977. 327 p. 
+
+5. Choudhary S., Mahela O.P., Ola S.R. Detection of transmission line faults in the presence of thyristor con-
+trolled reactor using discrete wavelet transform. 2016 IEEE 7th Power India International Conference (PIICON), 
+2016, pp. 1–5. DOI: 10.1109/POWERI.2016.8077268 
+
+6. Sidorov A.I. Teoriya i praktika sistemnogo podkhoda k obespecheniyu elektrobezopasnosti na otkrytykh 
+gornykh rabotakh: dis. d-ra tekhn. nauk [Theory and practice of a systematic approach to ensuring electrical safety 
+in open pit mining. Doct. sci. diss.]. Chelyabinsk, 1993. 444 p. 
+
+7. Lapchenkov K.V., Dubovoy A.V., Sidorov A.I. [Determination of insulation parameters relative to earth 
+with isolated neutral by an indirect method]. Tekhnologii, metody, sredstva: Tez. dokl. regional'noy nauchno-
+tekhnicheskoy konferentsii [Technologies, methods, means: Abstracts. report regional scientific and technical con-
+ference]. Norilsk, 1996, p. 42. (in Russ.) 
+
+8. Liang M.Y., Dian S.Y., Liu T. Insulation status mobile monitoring for power cable based on a novel frin-
+ging electric field method. Lecture Notes in Electrical Engineering 138 LNEE, 2012, pр. 987–994. 
+
+9. Shchutsky V.I., Sidorov A.I., Sitchikhin Yu.V., Bendyak N.A. Elektrobezopasnost' na otkrytykh gornykh 
+rabotakh [Electrical safety in open pit mining]. Moscow, 1996. 266 p. 
+
+10. Shchutsky V.I., Mavritsyn A.M., Sidorov A.I., Sitchikhin Yu.V. Elektrobezopasnost' na otkrytykh 
+gornykh rabotakh [Electrical safety in open pit mining]. Moscow, 1983. 192 p. 
+
+11. Sidorov A.I., Boboev Kh.D., Medvedeva Yu.V., Sadullozoda Sh.S. [Investigation of indirect methods for 
+determining the insulation parameters on a computer model]. Bulletin of the Eastern Scientific Research Institute 
+Scientific Center for Industrial and Environmental Safety, 2021, no. 1, pp. 47–54. (in Russ.) 
+
+12. Zhang Q., Tang H. Diagnosis of inhomogeneous insulation degradation in electric cables by distri-
+buted shunt conductance estimation. Control Engineering Practice, 2013, vol. 21(9), pр. 1195–1203. DOI: 
+10.1016/j.conengprac.2013.04.006 
+
+13. Krasnykh A.A., Krivoshein I.L., Kozlov A.L. Single-phase earth fault location in a branched distribution 
+network 6–35 kV of overhead lines. 2016 2nd International Conference on Industrial Engineering, Applications 
+and Manufacturing (ICIEAM), Chelyabinsk, 2016, pp. 1–4. DOI: 10.1109/ICIEAM.2016.7911013 
+
+14. Shchutsky V.I., Utegulov B.B. [Method for determining the insulation parameters of three-phase electrical 
+networks with isolated neutral voltage above 1000 V]. Elektrobezopasnost' na otkrytykh i podzemnykh gornykh 
+rabotakh [Electrical safety in open pit and underground mining]. Dnepropetrovsk, 1982, р. 77. (in Russ.) 
+
+15. Boboev Kh.D., Bogdanov A.V. Parameters of Insulation Relative to the Ground in Quarry Distribution 
+Networks of Mining Enterprises in the Republic of Tajikistan. Bulletin of the South Ural State University. 
+Ser. Power Engineering, 2021, vol. 21, no. 1, pp. 29–37. (in Russ.) DOI: 10.14529/power210103 
+
+16. Shinkarenko G.V. Determination of the Dielectric Characteristics of Electric Equipment Insulation in 
+the Presence of Utility-Frequency Interference Currents. Power Technology and Engineering, 2016, vol. 50 (3), 
+pр. 341–346. DOI: 10.1007/s10749-016-0709-4 
+
+17. Zang C.Ye, Lei H.H., He S., Zhao X. Using ultraviolet imaging method to detect the external insulation 
+faults of electric device. Conference on Electrical Insulation and Dielectric Phenomena, CEIDP 5377769, 2009, 
+pр. 26–30. DOI: 10.1109/CEIDP.2009.5377769 
+
+18. Utegulov B. B. Analysis of the error of the developed method of determination the active conductivity re-
+ducing the insulation level between one phase of the network and ground, and insulation parameters in a non-
+symmetric network with isolated neutral with voltage above 1000 V. International Conference “Actual Problem of 
+Electromechanics and Electrotechnology” Institute of Physics Publishing, 2018, pp. 012–015.  
+
+19. Volotkovsky S.A., Shchutsky V.I., Chebotaev N.I. Elektrifikatsiya otkrytykh gornykh rabot: uchebnik dlya 
+vuzov [Electrification of Surface Mining: A University Textbook]. Moscow, 1987. 332 p. 
+
+20. Sidorov A.I. Osnovy elektrobezopasnosti [Basics of electrical safety]. Chelyabinsk, 2001. 343 p. 
+21. Sidorov A.I., Petrov O.A., Ushakov I.M. [The error of the indirect method of measuring the capacitive 
+
+conductance relative to the ground in electrical networks with a voltage of 6…10 kV]. Elektrichestvo [Electricity]. 
+1990, no. 10, pp. 33–36. (in Russ.)  
+
+22. Kosorotova Yu.V. [Development of a system for continuous monitoring of insulation in electrical distri-
+bution networks 6–35 kV]. Konkurs grantov studentov, aspirantov i molodykh uchenykh vuzov Chelyabinskoy 
+oblasti: Sbornik referatov nauchno-issledovatel'skikh rabot studentov [Grant competition for students, graduate 
+  
+64 Bulletin of the South Ural State University. Ser. Power Engineering. 
+
+2021, vol. 21, no. 4, pp. 57–65 
+
+
+
+Бобоев Х.Д., Аверьянов Ю.И.,             Организация контроля изоляции 
+Богданов А.В., Кравчук И.Л.           в распределительной сети карьера «Таррор» 
+students and young scientists of universities of the Chelyabinsk region: Collection of abstracts of research works of 
+students]. Chelyabinsk, 2002, pp. 67–68. (in Russ.)  
+
+23. Boboev Kh.D., Davlatov A.M., Kosimov B.I. [General characteristics of insulation resistance relative to 
+earth in networks with a voltage of 6–10 kV of the Republic of Tajikistan]. Electrical equipment: operation and 
+repair. 2021, no. 10, pp. 51–54. (in Russ.)  
+
+24. Sidorov A.I., Peturov V.I., Kosorotova Yu.V. [Continuous monitoring of insulation in electrical distribu-
+tion networks]. Nepreryvnyy kontrol' izolyatsii v raspredelitel'nykh elektricheskikh setyakh [Science – Production – 
+Technology – Ecology: Sat. materials of the All-Russian scientific and technical conference.]. Kirov, 2002, p. 32. 
+(in Russ.) 
+
+25. Lapchenkov K.V. Upravleniye sostoyaniyem izolyatsii v raspredelitel’nykh elektricheskikh setyakh: 
+avtoref. dis. kand. tekhn. nauk [Management of the state of insulation in electrical distribution networks. Abstract 
+of cand. sci. diss.]. Chelyabinsk, 1998. 18 p. 
+
+26. Boboev K., Sidorov A., Khanzhina O. Determining Ground Insulation Parameters in Quarry Distribution 
+Networks of Mining Companies in Tajikistan. Proceedings – 2020 International Ural Conference on Electrical 
+Power Engineering, UralCon 2020, 2020, рр. 344–348. DOI 10.1109/UralCon49858.2020.9216311 
+
+27. Sidorov A.I., Bendyak N.A., Stepanov S.N. [Determination of the parameters of networks with isolated 
+neutral relative to earth]. Kontrol' izolyatsii v raspredelitel'nykh setyakh: tez. dokl. nauchn-prakt. konf [Insulation 
+control in distribution networks: abstracts. report scientific and practical. conf]. Chelyabinsk, 1992, p. 12.  
+(in Russ.) 
+
+28. Boboev K., Sidorov A., Davlatov A. Evaluation of Indirect Methods for Determining the Isolation Param-
+eters of the Network Phases Relative to the Ground on a Computer Model. 2021 International Ural Conference on 
+Electrical Power Engineering (UralCon), 2021, pp. 556–560. DOI: 10.1109/UralCon52005.2021.9559538 
+
+29. Sidorov A.I., Boboev Kh.D. [Simulation model of a 6 kV quarry distribution network]. Nauchnyy poisk: 
+materialy dvenadtsatoy nauchnoy konferentsii aspirantov i doktorantov [Scientific search: materials of the twelfth 
+scientific conference of graduate students and doctoral students]. Chelyabinsk, 2020, pp. 18–23. (in Russ.) 
+
+30. Insulation control in distribution networks: abstracts of reports. Scientific and practical conferences. 
+Chelyabinsk, 1992. 34 p. 
+
+31. Sidorov A.I. Povysheniye nadezhnosti sel'skikh elektricheskikh setey s pomoshch'yu ustroystva 
+kompensatsii tokov odnofaznogo zamykaniya na zemlyu: dis. kand. tekhn. nauk [Improving the reliability of rural 
+electrical networks using a device for compensating single-phase earth fault currents. Cand. sci. diss.]. Chelya-
+binsk, 1984. 148 p. 
+
+32. Boboev Kh.D. [Analysis and assessment of indirect methods for determining the insulation parameters  
+of networks with voltages above 1000 V]. Electrical equipment: operation and repair. 2021, no. 10, pp. 46–50.  
+(in Russ.)  
+
+33. Sidorov A.I., Boboev Kh.D. [Characteristics of mining enterprises of the Republic of Tajikistan]. Sbornik 
+materialov VII mezhdunarodnoy nauchno-prakticheskiy konferentsii “Bezopasnost’ zhiznedeyatel’nosti v tret’yem 
+tysyachelenii” [Collection of materials of the VII international scientific and practical conference life Safety in  
+the third Millennium]. Chelyabinsk, 2019, pp. 166–169. (in Russ.) 
+
+34. Sidorov A.I., Boboev Kh.D. [Analysis of research methods for the insulation parameters of electrical net-
+works with a voltage of 6 kV]. Ekologiya. Risk. bezopasnost': materialy Vserossiyskoy nauchno-prakticheskoy 
+konferentsii, Kurgan [Ecology. Risk. safety: materials of the All-Russian scientific-practical conference, Kurgan]. 
+Kurgan, 2020, pp. 273–275. (in Russ.) 
+
+35. Boboev Kh.D. [Analysis of methods of control of isolation in career networks with voltage of 6 kV]. 
+Tekhnosfernaya bezopasnost’ v XXI veke. Sbornik nauchnykh trudov magistrantov, aspirantov i molodykh 
+uchenykh [IX All-Russian scientific and practical conference “Technosphere security in the XXI century”]. 
+Irkutsk, 2019, pp. 234–239. (in Russ.) 
+
+ 
+Received 1 December 2021 
+
+ 
+ 
+
+ОБРАЗЕЦ ЦИТИРОВАНИЯ  FOR CITATION 
+Организация контроля изоляции в распредели-  Boboev Kh.D., Averyanov Yu.I., Bogdanov A.V., 
+
+тельной сети карьера «Таррор» / Х.Д. Бобоев,  Kravchuk I.L. Isolation Control in the “Tarror” Quarry 
+Ю.И. Аверьянов, А.В. Богданов, И.Л. Кравчук // Distribution Network. Bulletin of the South Ural State 
+Вестник ЮУрГУ. Серия «Энергетика». – 2021. –  University. Ser. Power Engineering, 2021, vol. 21, no. 4, 
+Т. 21, № 4. – С. 57–65. DOI: 10.14529/power210407 pp. 57–65. (in Russ.) DOI: 10.14529/power210407 
+
+  
+ 
+
+Вестн ик ЮУрГУ. Серия «Энергетика».  
+2021. Т. 21, № 4. С. 57–65 65

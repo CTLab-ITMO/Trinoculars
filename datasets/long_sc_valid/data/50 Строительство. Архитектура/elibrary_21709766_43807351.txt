@@ -1,0 +1,378 @@
+﻿Строительная механика инженерных конструкций и сооружений, 2014, № 3 
+О ДОСТОВЕРНОСТИ РЕЗУЛЬТАТОВ МАТЕМАТИЧЕСКОГО 
+
+МОДЕЛИРОВАНИЯ НЕСТАЦИОНАРНЫХ ВОЛН НАПРЯЖЕНИЙ В 
+ОБЪЕКТАХ СЛОЖНОЙ ФОРМЫ 
+
+ 
+В.К. МУСАЕВ, доктор технических наук, профессор 
+Российский университет дружбы народов, 
+117198, г. Москва, ул. Миклухо-Маклая, 6, Россия 
+musayev-vk@yandex.ru 
+
+ 
+Рассматриваются вопросы оценки достоверности и точности результатов ре-
+
+шения различных задач при нестационарных динамических волновых воздействиях, вы-
+полненных с помощью метода конечных элементов в перемещениях. Сопоставление 
+производится с результатами аналитического решения и динамической фотоупруго-
+сти. Исследуемая задача представлена в виде сооружений с основанием при воздейст-
+вии нестационарных волн напряжений. 
+
+КЛЮЧЕВЫЕ СЛОВА: динамическая задача, дифференциальные уравнения в ча-
+стных производных, математическое моделирование, метод конечных элементов, не-
+стационарные волны напряжений, явная двухслойная схема, аналитическое решение, 
+фотоупругость, фотограмма, сопоставление, достоверность, свободное круглое отвер-
+стие, объект сложной формы. 
+
+ 
+Импульсное воздействие характеризуется внезапностью приложения и 
+
+кратковременностью действия, измеряемого микросекундами. Интенсивность 
+их достаточно велика, для того чтобы произвести разрушение и большие необ-
+ратимые изменения в теле, на которые они действуют. 
+
+Возмущения, распространяясь в теле, образуют области, которые расши-
+ряются с течением времени и ограничены частью поверхности тела и поверхно-
+стью фронта волны напряжений. Волны напряжений различной природы, рас-
+пространяясь, в деформируемом теле взаимодействуют, друг с другом, что при-
+водит к образованию новых областей возмущений, перераспределению напря-
+жений и деформаций.  
+
+При интерференции волн напряжений их интенсивности складываются. 
+Они могут достигать значений, превосходящих предел прочности материала. В  
+этом случае наступает разрушение материала. После трехкратного или четы-
+рехкратного прохождения и отражения волн напряжений в теле процесс рас-
+пространения возмущений становится установившимся, напряжения и дефор-
+мации усредняются, тело находится в колебательном движении [1–5].    
+
+Линейная динамическая задача с начальными и граничными условиями в 
+виде дифференциальных уравнений в частных производных с помощью метода 
+конечных элементов в перемещениях, приведена к системе линейных обыкно-
+венных дифференциальных уравнений с начальными условиями, которая  ре-
+шается по явной двухслойной схеме работах  [6–10].  
+
+На основе метода конечных элементов в перемещениях разработаны алго-
+ритм и комплекс программ для решения двумерной плоской динамической за-
+дачи теории упругости при различных начальных и граничных условиях рабо-
+тах  [6–15] . Рассматриваются области различной формы и модели уравнений 
+состояния кусочно-неоднородной изотропной среды, которые подчиняются уп-
+ругому закону Гука при малых упругих деформациях работах.  
+
+Некоторые вопросы в области постановки, разработки методики и алго-
+ритма и результаты решенных нестационарных динамических задач о распро-
+странении волн напряжений в деформируемых областях рассмотрены в сле-
+дующих работах  [6–17].   
+
+ 
+
+71 
+ 
+
+
+
+Строительная механика инженерных конструкций и сооружений, 2014, № 3 
+
+ 
+ 
+
+Рис. 1. Изменение упругого контурного напряжения σk  в точке 1  во времени t  на кон-
+туре свободного круглого отверстия при воздействии плоской продольной упругой вол-
+
+ны типа функции Хевисайда  
+ 
+
+а) 
+
+ 
+ 
+
+б) 
+
+    
+ 
+
+Рис. 2. Экспериментальное воздействие  01  во времени t , полученное методом дина-
+мической фотоупругости: а – фотограмма картин полос; б – экспериментальное воздей-
+ствие, принятое при численном решении методом конечных элементов в перемещениях   
+
+72 
+ 
+
+
+
+Строительная механика инженерных конструкций и сооружений, 2014, № 3 
+а) 
+
+     
+           
+
+ б) 
+
+ 
+ 
+
+Рис. 3. Изменение упругого контурного напряжения  k  в точке 1  во времени t  на 
+контуре свободного круглого отверстия при воздействии  01 : а)  фотограмма картин 
+
+полос; б): 1  – экспериментальные результаты, полученные методом динамической фо-
+тоупругости; 2  – результаты численного решения, полученные методом конечных 
+
+элементов в перемещениях  
+ 
+
+Приводится информация о практической реализации метода конечных 
+элементов в перемещениях.  
+
+Для решения волновых задач разработан комплекс программ на алгорит-
+мических языках Фортран-90 и С++.  
+
+Рассматривается задача о воздействии плоской продольной упругой волны 
+на свободное круглое отверстие. Начальные условия приняты нулевыми.  
+
+В сечении на    расстоянии    1,9H    (рис. 1) при  0 ≤ n ≤ 10   (n  t /t)  ско-
+рость упругого перемещения u  изменяется линейно от 0  до P   
+(P  0 /(C p ) ( 0  -0,1  МПа ( -1  кгс/см2)), а  при n ≥ 10   u = P.  Контур круг-
+лого отверстия ABCD  предполагается свободным  от   нагрузок   при  t > 0 . 
+Граничные условия для контура EFGH  при t > 0   u = v = u = v = 0.   
+
+Отраженные волны от контура EFGH  не доходят до исследуемых точек 
+при 0 ≤ n ≤ 260.  
+
+Исследуемая расчетная область имеет 1536  узловых точек. Контур круглого 
+отверстия аппроксимирован 28  узловыми точками.  
+
+На рис. 1 показано изменение упругого контурного напряжения   
+σk ( k   k / 0 )  в точке 1 во времени t  ( t  (C pt) / H ) : 1 – результаты анали-
+тического решения [1, 2]; 2  – результаты численного решения, полученные ме-
+тодом конечных элементов в перемещениях [7–10].  
+
+73 
+ 
+
+
+
+Строительная механика инженерных конструкций и сооружений, 2014, № 3 
+Проведенный анализ показал, что расхождение для максимального упругого 
+
+контурного напряжения составляет 6 %.   
+На рис. 2 показано экспериментальное воздействие σ01  во времени t , полу-
+
+ченное методом динамической фотоупругости: а – фотограмма картин полос; б 
+– экспериментальное воздействие, принятое при численном решении методом 
+конечных элементов в перемещениях.  
+
+На рис. 3 показано изменение упругого контурного напряжения σk  в точке 
+1  во времени t  при воздействии σ01 : а – фотограмма картин полос; б: 1  – экс-
+периментальные результаты, полученные методом динамической фотоупруго-
+сти [7–10]; 2  – результаты численного решения, полученные методом конеч-
+ных элементов в перемещениях [7–10].   
+
+Расхождение для максимального упругого контурного напряжения составля-
+ет 2 % . 
+
+На сновании приведенных исследований можно сделать следующие выводы: 
+1. Анализ численных результатов показывает, что метод конечных элементов в 
+
+перемещениях с успехом применяется для решения нестационарных дина-
+мических задач.  
+
+2. Проведенные сравнения с результатами других методов показало хорошее 
+совпадение, что позволяет сделать вывод о физической и математической 
+достоверности результатов численного решения динамических задач, полу-
+ченных методом конечных элементов в перемещениях.  
+
+3. Методика, алгоритм, комплекс программ и результаты решенных задач ре-
+комендуются для использования в научно-технических организациях, спе-
+циализирующихся в области динамического расчета сооружений с окру-
+жающей средой при ударных, взрывных и сейсмических воздействиях. 
+
+Л и т е р а т у р а 
+1. Барон М., Мэтьюс А. Дифракция волны давления относительно цилиндриче-
+
+ской полости в упругой среде // Прикладная механика. Труды американского общества 
+инженеров-механиков. – Сер. Е. – 1961. – Т. 28, № 3. – С. 31–38. 
+
+2. Гернет Х., Крузе-Паскаль Д. Неустановившаяся реакция находящегося в упру-
+гой среде кругового цилиндра произвольной толщины на действие плоской волны рас-
+ширения // Прикладная механика. Труды американского общества инженеров-
+механиков. – Сер. Е. – 1966. – Т. 33, № 3. – С. 48–60. 
+
+3. Зенкевич О. Метод конечных элементов в технике. – М: Мир, 1975. – 543 с. 
+4. Тимошенко С.П., Гудьер Д. Теория упругости. – М.: Наука, 1975. – 576 с. 
+5. Ионов В.И., Огибалов П.М. Напряжения в телах при импульсивном нагружении. 
+
+– М.: Высшая школа, 1975. – 464 с. 
+6. Мусаев В.К. Дифракция продольной волны на круглом и квадратном отверстиях 
+
+в упругой среде // Тезисы докладов конференции по распространению упругих и упру-
+гопластических волн. – Фрунзе: Фрунзенский политехнический институт, 1983. – Ч. 1. – 
+С. 72–74. 
+
+7. Musayev V.K. Structure design with seismic resistance foundations // Proceedings of 
+the ninth European  conference on earthquake engineering. – Moscow: TsNIISK, 1990. – V. 
+4–A. – P. 191–200. 
+
+8. Musayev V.K. Testing of stressed state in the structure-base system under non-
+stationary dynamic effects // Proceedings of the second International conference on recent 
+advances in geotechnical earthquake engineering and soil dynamics. – Sent Louis: University 
+of Missouri-Rolla, 1991. – V. 3. – P. 87–97. 
+
+9. Мусаев В.К. Численное решение волновых задач теории упругости и пластич-
+ности // Вестник Российского университета дружбы народов. Серия прикладная мате-
+матика и информатика. – 1997. – № 1. – С. 87–110. 
+74 
+ 
+
+
+
+Строительная механика инженерных конструкций и сооружений, 2014, № 3 
+10. Мусаев В.К. Оценка достоверности и точности результатов вычислительного 
+
+эксперимента при решении задач нестационарной волновой теории упругости // Науч-
+ный журнал проблем комплексной безопасности. – 2009. – № 1. – С. 55–80.  
+
+11. Ситник С.В., Куранцов В.А., Сазонов К.Б., Шепелина П.В., Шиянов С.М. Досто-
+верность результатов численного метода Мусаева В.К. в перемещениях при решении 
+дифракционных задач на круглом свободном и подкрепленном отверстиях // Техно-
+сферная безопасность, надежность, качество, энерго- и ресурсосбережение: Т38. Мате-
+риалы Международной научно-практической конференции. Выпуск XIII. Т. 2. – Ростов-
+на-Дону: Ростовский государственный строительный университет, 2011. – С. 256–262. 
+
+12. Ситник С.В., Сазонов К.Б., Шиянов С.М., Куранцов В.В., Кормилицин А.И. Мо-
+делирование волнового напряженного состояния в объектах сложной формы с помо-
+щью численного метода Мусаева В.К. в перемещениях // Техносферная безопасность, 
+надежность, качество, энерго- и ресурсосбережение: Т38. Материалы Международной 
+научно-практической конференции. Выпуск XIII. Т. 2. – Ростов-на-Дону: Ростовский 
+государственный строительный университет, 2011. – С. 262–268. 
+
+13. Ситник С.В., Куранцов В.В., Ситник В.Г.,  Савичев В.А., Денисюк Д.А. Числен-
+ное моделирование нестационарного волнового напряженного состояния в деформи-
+руемых объектах сложной формы с помощью численного метода Мусаева В.К. в пере-
+мещениях // Инновационные технологии в развитии строительства, машин и механиз-
+мов для строительства и коммунального хозяйства, текущего содержания и ремонта 
+железнодорожного пути. Сборник трудов международной научно-технической конфе-
+ренции. – Смоленск: Смоленский филиал МИИТ, 2012. – С. 478–481. 
+
+14. Сущев Т.С., Ситник В.Г., Шепелина П.В., Шиянов С.М., Кормилицин А.И. Со-
+поставление результатов численного метода Мусаева В.К. в перемещениях при реше-
+нии нестационарной дифракционной задачи на круглом свободном отверстии // Инно-
+вационные технологии в развитии строительства, машин и механизмов для строитель-
+ства и коммунального хозяйства, текущего содержания и ремонта железнодорожного 
+пути. Сборник трудов международной научно-технической конференции. – Смоленск: 
+Смоленский филиал МИИТ, 2012. – С. 489–492. 
+
+15. Сущев Т.С., Акатьев С.В., Ситник С.В., Куранцов В.А., Тарасенко А.А. Числен-
+ное моделирование безопасности сооружений от волновых взрывных воздействий с 
+помощью численного метода Мусаева В.К. в перемещениях // Информационно-
+телекоммуникационные технологии и математическое моделирование высокотехноло-
+гичных систем. Материалы Всероссийской конференции с международным участием. – 
+М.: РУДН, 2013. – С. 214–217. 
+
+16. Nemchinov V.V. Diffraction of a plane longitudinal wave by spherical cavity in elastic 
+space // International Journal for Computational Civil and Structural Engineering. – 2013. – 
+Volume 9, Issue 1. – P. 85–89.  
+
+17. Nemchinov V.V. Numerical methods for solving flat dynamic elasticity problems // 
+International Journal for Computational Civil and Structural Engineering. – 2013. – Volume 9, 
+Issue 1. – P. 90–97. 
+
+R e f e r e n c e s 
+1. Baron, M, Me't'yus A (1961). Difrakciya volny davleniya otnositel'no cilindricheskoj polosti v 
+
+uprugoj srede. Prikladnaya mexanika. Trudy amerikanskogo obshhestva inzhenerov-mexanikov, Ser. E., 
+Vol. 28, № 3, p. 31–38. 
+
+2. Gernet,, X, Kruze-Paskal' D (1966). Neustanovivshayasya reakciya naxodyashhegosya v upru-
+goj srede krugovogo cilindra proizvol'noj tolshhiny na dejstvie ploskoj volny rasshireniya. Prikladnaya 
+mexanika. Trudy amerikanskogo obshhestva inzhenerov-mexanikov. Ser. E, Vol. 33, № 3, p. 48–60. 
+
+3. Zenkevich, O. (1975). Metod konechnyx e'lementov v texnike. M.: “Mir”, 543 p. 
+4. Timoshenko, SP, Gud'er, D. (1975). Teoriya uprugosti. M.: “Nauka”, 576 p. 
+5. Ionov VI, Ogibalov, PM (1975). Napryazheniya v telax pri impul'sivnom nagruzhenii. M.: Vys-
+
+shaya shkola,  464 p. 
+6. Musaev, VK (1983). Difrakciya prodol'noj volny na kruglom i kvadratnom otverstiyax v upru-
+
+goj srede. Tezisy dokladov konferencii po rasprostraneniyu uprugix i uprugoplasticheskix voln. Frunze: 
+Frunzenskij politexnicheskij institut, Ch. 1, p. 72–74. 
+
+75 
+ 
+
+
+
+Строительная механика инженерных конструкций и сооружений, 2014, № 3 
+7. Musayev, VK (1990). Structure design with seismic resistance foundations. Proceedings of the 
+
+Ninth European Conference on Earthquake Engineering. Moscow: TsNIISK, V. 4–A, p. 191–200. 
+8. Musayev, VK (1991). Testing of stressed state in the structure-base system under non-
+
+stationary dynamic effects. Proceedings of the Second International Conference on Recent Advances in 
+Geotechnical Earthquake Engineering and Soil Dynamics. Sent Louis: University of Missouri-Rolla, 
+Vol. 3, p. 87–97. 
+
+9. Musaev, VK (1997). Chislennoe reshenie volnovyx zadach teorii uprugosti i plastichnosti. 
+Vestnik Rossijskogo universiteta druzhby narodov. Seriya prikladnaya matematika i informatika. 1997, 
+№ 1, p. 87–110. 
+
+10. Musaev, VK (2009). Ocenka dostovernosti i tochnosti rezul'tatov vychislitel'nogo e'ksperimenta 
+pri reshenii zadach nestacionarnoj volnovoj teorii uprugosti. Nauchnyj zhurnal problem kompleksnoj 
+bezopasnosti, № 1, p. 55–80.  
+
+11. Sitnik, SV, Kurancov VA, Sazonov, KB, Shepelina, PV, Shiyanov SM (2011). Dostovernost' re-
+zul'tatov chislennogo metoda Musaeva V.K. v peremeshheniyax pri reshenii difrakcionnyx zadach na 
+kruglom svobodnom i podkreplennom otverstiyax. Texnosfernaya bezopasnost', nadezhnost', kachestvo, 
+e'nergo- i resursosberezhenie, Materialy Mezhdunarodnoj nauchno-prakticheskoj konferencii. Vypusk 
+XIII.  Vol. 2, Rostov-na-Donu: Rostovskij gosudarstvennyj stroitel'nyj universitet, p. 256–262. 
+
+12. Sitnik, SV, Sazonov, KB, Shiyanov, SM, Kurancov, VV, Kormilicin, AI (2011). Modelirovanie 
+volnovogo napryazhennogo sostoyaniya v ob"ektax slozhnoj formy s pomoshh'yu chislennogo metoda 
+Musaeva V.K. v peremeshheniyax. Texnosfernaya bezopasnost', nadezhnost', kachestvo, e'nergo- i resur-
+sosberezhenie: T38. Materialy Mezhdunarodnoj nauchno-prakticheskoj konferencii. Vypusk XIII, Vol. 
+2, Rostov-na-Donu: Rostovskij gosudarstvennyj stroitel'nyj universitet, p. 262–268. 
+
+13. Sitnik, SV, Kurancov, VV, Sitnik, VG,  Savichev, VA, Denisyuk, DA (2012). Chislennoe modeli-
+rovanie nestacionarnogo volnovogo napryazhennogo sostoyaniya v deformiruemyx ob"ektax slozhnoj 
+formy s pomoshh'yu chislennogo metoda Musaeva V.K. v peremeshheniyax. Innovacionnye texnologii v 
+razvitii stroitel'stva, mashin i mexanizmov dlya stroitel'stva i kommunal'nogo xozyajstva, tekushhego 
+soderzhaniya i remonta zheleznodorozhnogo puti. Sbornik trudov mezhdunarodnoj nauchno- texni-
+cheskoj konferencii, Smolensk: Smolenskij filial MIIT, p. 478–481. 
+
+14. Sushhev, TS, Sitnik, VG, Shepelina, PV, Shiyanov, SM, Kormilicin, AI (2012). Sopostavlenie 
+rezul'tatov chislennogo metoda Musaeva V.K. v peremeshheniyax pri reshenii nestacionarnoj difrak-
+cionnoj zadachi na kruglom svobodnom otverstii. Innovacionnye texnologii v razvitii stroitel'stva, ma-
+shin i mexanizmov dlya stroitel'stva i kommunal'nogo xozyajstva, tekushhego soderzhaniya i remonta 
+zheleznodorozhnogo puti. Sbornik trudov mezhdunarodnoj nauchno-texnicheskoj konferencii, Smolensk: 
+Smolenskij filial MIIT, p. 489–492. 
+
+15. Sushhev, TS, Akat'ev, SV, Sitnik, SV, Kurancov, VA, Tarasenko, AA. Chislennoe modelirovanie 
+bezopasnosti sooruzhenij ot volnovyx vzryvnyx vozdejstvij s pomoshh'yu chislennogo metoda Musaeva 
+V.K. v peremeshheniyax. Informacionno-telekommunikacionnye texnologii i matematicheskoe modeli-
+rovanie vysokotexnologichnyx sistem. Materialy Vserossijskoj konferencii s mezh-dunarodnym uchas-
+tiem. M.: RUDN, p. 214–217. 
+
+16. Nemchinov, VV (2013). Diffraction of a plane longitudinal wave by spherical cavity in elastic 
+space. International Journal for Computational Civil and Structural Engineering, Vol. 9, Iss. 1, p. 85–89.  
+
+17. Nemchinov, VV (2013). Numerical methods for solving flat dynamic elasticity problems. Inter-
+national Journal for Computational Civil and Structural Engineering, Vol. 9, Iss. 1, p. 90–97. 
+ 
+
+ON THE RELIABILITY OF RESULTS OF MATHEMATICAL MODELING OF 
+NONSTATIONARY WAVES OF STRESSES IN THE COMPLEX-FORM OBJECTS 
+
+Musayev V.K. 
+Peoples Friendship University of Russia, Moscow 
+
+The article deals with evaluation of reliability and accuracy of results of solution of dif-
+ferent tasks under nonstationary dynamic wave impacts made using the finite element method 
+in displacements. Comparison is made with the results of the analytical decision and dynamic 
+photo of elasticity. The investigated problem is represented in the form of buildings with a 
+base at the influence of nonstationary stress wave. 
+
+KEY WORDS: dynamic task, partial differential equations, mathematical modeling, fi-
+nite element method, nonstationary wave of voltages, an explicit two-layer scheme, photoelas-
+ticity, photogram, mapping, reliability, free round hole, the subject is complex. 
+
+76

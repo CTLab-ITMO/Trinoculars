@@ -1,0 +1,567 @@
+﻿Электромеханические системы 
+ 
+УДК 621.311 DOI: 10.14529/power190311
+  
+АВТОМАТИЗИРОВАННАЯ МИНИ-ГЭС КАК ОСНОВА СИСТЕМЫ 
+ЭЛЕКТРОСНАБЖЕНИЯ ГОРНЫХ РАЙОНОВ ТАДЖИКИСТАНА 
+ 
+С.Г. Воронин, А.М. Давлатов, О.О. Султонов, Б.И. Косимов, Д.Ю. Гулов 
+Южно-Уральский государственный университет, г. Челябинск, Россия 
+ 
+ 
+
+Представлен краткий анализ существующих малых ГЭС Республики Таджикистан. В результате 
+анализа проблем, усложняющих эксплуатацию мини-ГЭС, отмечены элементы, не позволяющие их ис-
+пользовать в автономном режиме и снижающие надёжность работы. Предлагается для обеспечения на-
+дёжной работы мини-ГЭС и возможности эксплуатации в необслуживаемом режиме строить её на осно-
+ве конструктивно простых и надёжных устройств. При этом появляется возможность отказаться от не-
+прерывного наблюдения за работой мини-ГЭС обслуживающим персоналом и обойтись периодически-
+ми регламентными проверками. В качестве турбины предлагается использовать центробежный насос, не 
+нуждающийся в дополнительных операциях управления рабочими режимами, а в качестве генератора –
+синхронную машину с возбуждением от постоянных магнитов, не требующую наличия канала органи-
+зации и регулирования потока возбуждения. Качество вырабатываемой энергии предлагается обеспе-
+чить с помощью полупроводникового преобразователя напряжения, который должен осуществлять ста-
+билизацию с заданной точностью частот и амплитуд входного напряжения мини-ГЭС. В состав мини-
+ГЭС предлагается ввести устройства для самодиагностики, осуществляющие контроль не только каче-
+ства входного напряжения, но и состояние основных элементов мини-ГЭС – турбин, преобразователя 
+напряжений, коммутационной аппаратуры и устройства связи с центральным диспетчерским пунктом. 
+В статье показаны также проблемы, возникающие при реализации предлагаемой структуры, касающиеся 
+в основном обеспечения симметрирования входного напряжения при существенно несимметричной на-
+грузке, а также повышения достоверности и надёжности устройств диагностики состояния отдельных 
+элементов мини-ГЭС и пути их решения. 
+
+Ключевые слова: микро- и мини-ГЭС, гидротурбина, центробежный насос, синхронный генератор 
+с постоянными магнитами, устройство самодиагностики, симметрирование напряжения. 
+
+ 
+ 
+
+Основной проблемой систем электроснабже- ГЭС (рис. 2). Кроме плотины (П) и подводящего 
+ния горных районов Таджикистана является не- трубопровода (ПТ) она содержит известные со-
+хватка электроэнергии [1–3]. Для устранения де- ставные элементы: 
+фицита электрической энергии в энергосистеме – гидротурбина (ГТ); 
+правительство Республики Таджикистан одобрило – генератор (Г); 
+закон, который включает в себя несколько проек- – коммутационно-защитная и распредели-
+тов, одним из которых является использование тельная аппаратура (КРА); 
+малых гидроэлектростанций: «Долгосрочная про- – тиристорное устройство возбуждения (ТУВ); 
+грамма строительства малых электростанций на – привод затвора турбины (ПЗТ); 
+период 2009–2020 годов» от 02 февраля 2009 г.  – привод разгонный турбины (ПРТ); 
+№ 73. График дефицита электроэнергии в респуб- – регулятор турбины (РТ); 
+лике показан на рис. 1. Таким образом, основной – регулятор возбуждения (РЗ). 
+упор при устранении дефицита электроэнергии Не останавливаясь на рассмотрении принци-
+делается на строительство малых ГЭС.  пиальных схем и конструкций ГТ, отметим, что, 
+
+При известных преимуществах использования как правило, они содержат устройство регулиро-
+малых ГЭС, к которым можно отнести: относи- вания скорости вращения при изменении напора 
+тельно небольшие начальные капиталовложения; жидкости. Это может быть либо устройство регу-
+возможность использовании энергоресурсов ма- лирования перекрытия трубопровода [4, 5], либо 
+лых рек, которых в республике много; точечное устройство для регулирования угла поворота ло-
+расположение источника электроэнергии вблизи паток турбины [6, 7]. В том и другом случае это 
+населённого пункта, не требующее длинных линий достаточно сложные устройства, входящие в СУ, 
+электропередачи и т. д., имеются и отрицательные требующие наблюдения и обслуживания. Иногда 
+моменты. Остановимся на них подробнее. Для это- для пуска турбины требуется привод затвора тур-
+го рассмотрим традиционную структуру мини- бины (ПЗТ) [8].  
+
+100 Bulletin of the South Ural State University. Ser. Power Engineering. 
+2019, vol. 19, no. 3, pp. 100–107 
+
+
+
+Воронин С.Г., Давлатов А.М.,          Автоматизированная мини-ГЭС как основа системы 
+Султонов О.О. и др.          электроснабжения горных районов Таджикистана 
+
+ 
+Рис. 1. Дефицит электроэнергии в период с 2006 по 2017 г. 
+
+ 
+
+ 
+Рис. 2. Традиционная схема мини-ГЭС 
+
+ 
+В качестве генераторов в таких ГЭС чаще точник электропитания для собственных нужд и 
+
+всего используется синхронная машина с электро- электронные органы для регулирования частоты и 
+магнитным возбуждением [9–18]. Для такого гене- амплитуды выходного напряжения ГЭС.  
+ратора требуется дополнительный источник по- Краткий анализ функциональной схемы мини-
+стоянного тока для возбуждения, и ток возбужде- ГЭС показывает, что она является достаточно 
+ния поступает через контактные кольца [19]. На- сложным техническим объектом, требующим пе-
+личие контактных колец понижает надёжность риодического обслуживания и постоянного на-
+генератора и требует периодического обслужива- блюдения. Действительно, статистика показывает 
+ния. Генератор может содержать собственный воз- [21], что каждую ГЭС мощностью от нескольких 
+будитель [20]. Тогда машина будет бесконтактной, десятков кВт до единиц МВт обслуживает в сред-
+но это уже не машина, а агрегат из двух машин, нем 2–3 человека непрерывно. К этому персоналу 
+что также усложняет конструкцию и обслужива- необходимо добавить людей, работающих в рай-
+ние генератора. онных системах электроснабжения и занятых кон-
+
+Система управления должна содержать ис- кретной станцией, и мы увидим, что стоимость 
+
+Вестник ЮУрГУ. Серия «Энергетика».  
+2019. Т. 19, № 3. С. 100–107 101 
+
+
+
+Электромеханические системы 
+производства электроэнергии возрастает весьма повышения их надёжности и сокращения эксплуа-
+значительно из-за высоких эксплуатационных рас- тационных расходов. Смысл его заключается в 
+ходов. отказе от традиционных методов регулирования 
+
+Несмотря на большое количество обслужи- амплитуды напряжения путём изменения тока воз-
+вающего персонала на мини-ГЭС, их надёжность и буждения и частоты – путём регулирования скоро-
+срок службы оказываются небольшими. Напри- сти вращения турбины или балластной нагрузкой 
+мер, из 22 электростанций, пущенных в эксплуа- [22–26]. Вместо этого предлагается обеспечить 
+тацию за 2001–2010 годы, многие вышли из строя. стабилизацию амплитуды и частоты выходного 
+Следовательно, необходим пересмотр если не напряжения ГЭС с помощь электронного преобра-
+структуры, то элементного состава мини-ГЭС. зователя напряжения, а возбуждение генератора 
+
+Для этого проанализируем статистику неис- осуществлять от постоянных магнитов. Реализа-
+правностей и причин выхода из строя существую- ции мини-ГЭС в таком виде способствует, во-
+щих ГЭС. Например, Ховалингская гидроэлектро- первых, значительное развитие электронной эле-
+станция мощностью 15 кВт·ч в деревне Сариосёб, ментной базы в части существенного повышения 
+построенная в 2010 году, из-за отказа генератора передаваемой мощности, уменьшения потерь пре-
+не работает. Малая гидроэлектростанция «Яхшо» образования, массы и габаритов аппаратуры, во-
+мощностью 5 кВт была построена в Шурободском вторых, появление новых магнитных материалов с 
+районе в 2009 году, прекратила работу в связи с высокой удельной энергией.  
+выходом из строя генератора. Другая малая гидро- Кроме того, расширение использования элек-
+электростанция «Хафса» мощностью 15 кВт была тронной аппаратуры позволит сделать ГЭС дейст-
+построена в 2010 году в Шуробском районе –  вительно автономным необслуживаемым объек-
+не функсионирует из-за повреждения генератора. том. Для этого в её состав необходимо ввести уст-
+В 2009 году была построена малая гидроэлектро- ройства, реализующие функции диагностики со-
+станция «Шуробский район» мощностью 20 кВт·ч. стояния узлов и агрегатов ГЭС и функции связи с 
+По причине выхода из строя системы возбуждения центральным диспетчерским пунктом системы 
+генератора прекратила работу. Также можно при- электроснабжения республики. С учётом изложен-
+вести примеры выхода из строя электростанций ного функциональная схема мини-ГЭС как авто-
+из-за выхода из строя регуляторов гидротурбин. номного электротехнического комплекса пред-
+Следовательно, можно заключить, что основными ставлена на рис. 3. Комплекс содержит следующие 
+причинами выхода из строя малых электростанций элементы: 
+является отказ системы возбуждения генератора и – гидротурбина (ГТ), в качестве которой 
+регуляторов турбин. Другими словами, отказыва- предлагается использовать серийный центробеж-
+ют те элементы, которые обеспечивают качество ный насос; 
+электроэнергии: стабильность амплитуды выход- – синхронный трёхфазный генератор (СГ), в 
+ного напряжения – система возбуждения генера- качестве которого предлагается использовать се-
+тора; стабильность частоты выходного напряже- рийный синхронный трёхфазный двигатель с воз-
+ния – регулятор скорости вращения турбины. буждением от постоянных магнитов; 
+
+Отсюда возникает направление совершенст- – силовой преобразователь напряжения (СПН), 
+вования элементного состава мини-ГЭС с целью включающий в себя три элемента: преобразова-
+
+ГТ СГ СПН ДВП КЗА
+
+КДА
+
+БС
+ 
+
+Рис. 3. Фукционалная схема автономной автоматизированной мини-ГЭС 
+ 
+102 Bulletin of the South Ural State University. Ser. Power Engineering. 
+
+2019, vol. 19, no. 3, pp. 100–107 
+
+
+
+Воронин С.Г., Давлатов А.М.,          Автоматизированная мини-ГЭС как основа системы 
+Султонов О.О. и др.          электроснабжения горных районов Таджикистана 
+тель переменного ток в постоянный, преобразова- Недостатком первой схемы является влияние вы-
+тель постоянного тока в переменный заданной прямителя на синхронный генератор за счёт не 
+амплитуды, частоты и устройство симметрирова- синусоидальности потребляемого тока, что ухуд-
+ния выходного трёхфазного напряжения; шает его энергетические показатели. Синусои-
+
+– блок датчиков выходных параметров ГЭС дальный выпрямитель позволяет обеспечить сину-
+(ДВП), который выдаёт информацию о текущих соидальность фазных токов, но схема его сущест-
+значениях частоты, тока, напряжения, мощности и венно сложнее и стоимость выше. Поэтому потре-
+выработанной энергии; буется дополнительная оценка эффективности и 
+
+– блок коммутационно-защитной аппаратуры границ применения того и другого выпрямителей.  
+(КЗА), который включает в себя стандартные для На первый взгляд, не вызывает вопросов пре-
+любой электростанции коммутационно-защитные образователь постоянного напряжения в перемен-
+устройства; ное трёхфазное, так как схемы таких устройств 
+
+– блок контрольно-диагностической аппара- хорошо отработаны и серийно выпускаются. Од-
+туры (КДА), предназначенный для реализации нако в рассматриваемом случае преобразователь 
+функций диагностики состояния элементов ком- работает на несимметричную нагрузку, и вопросы 
+плекса и оценки его текущей и последующей ра- симметрирования напряжений требуют особого 
+ботоспособности; внимания, так как несимметрия может быть весьма 
+
+– блок связи (БС), предназначенный для связи существенной. Например, одна фаза может иметь 
+и передачи данных о выходных параметрах и со- нулевую нагрузку, а две другие нагружены до но-
+стоянии отдельных элементов на центральный минальных токов или наоборот, две фазы нагру-
+диспетчерский пункт. жены, а одна без нагрузки. Вопросы симметриро-
+
+Представленная структурная схема хотя и яв- вания нагрузки на выходе преобразователей хотя и 
+ляется очевидной, однако почти каждый из её эле- рассмотрены в настоящее время [31], однако 
+ментов требует дополнительной научно-техни- имеющиеся технические решения достаточно 
+ческой проработки, поэтому рассмотрим её под- сложны и требуют усовершенствования. 
+робнее. Блок датчиков выходных координат энерге-
+
+Обратимся к ГТ. Использование центробеж- тической установки и блок коммутационно-защит-
+ного насоса в качестве гидротурбины известно ной аппаратуры могут быть выполнены на основе 
+[27]. Однако остаются недостаточно выясненными стандартных элементов. В первом случае это стан-
+вопросы изменения скорости вращения насоса в дартные датчики частоты и действующего значе-
+режиме турбины при одновременном изменении ния напряжения, а также датчики тока и выраба-
+напора и момента на валу, связанного с изменени- тываемой мощности. Во втором – это стандартная 
+ем потребления электроэнергии [28]. Следова- коммутационно-защитная аппаратура. Дополни-
+тельно, для обоснованного выбора типа и мощно- тельным требованием к ним является вывод ин-
+сти насоса, а также оценки возможного диапазона формации об измеряемых координатах и о состоя-
+изменения его скорости вращения в процессе экс- нии коммутационно-защитных элементов в циф-
+плуатации потребуется более детальное исследо- ровой и импульсной форме для последующего 
+вание гидродинамических процессов его работы в анализа в устройстве диагностики и передачи по 
+режиме турбины. выбранным каналам связи. 
+
+Генератор на основе синхронного двигателя с Блок диагностики является в данном случае 
+возбуждением от постоянных магнитов (СДПМ) важнейшим, алгоритмически сложным элементом, 
+является хорошо технологически отработанной и так как должен в режиме онлайн на действующей 
+изученной машиной. Существенным недостатком аппаратуре оценивать её работоспособность и вы-
+СДПМ при использовании его в качестве генера- являть не только возникшие неисправности, но и 
+тора автономной энергетической установки явля- прогнозировать возможность их возникновения. 
+ется возможность возникновения катастрофиче- При этом на него поступает информация с различ-
+ских последствий в случае виткового замыкания в ных датчиков. Например: датчики вибраций кор-
+обмотке. Действительно, если СДПМ будет про- пусов турбины и генератора – по информации с 
+должать вращаться при наличии такого замыка- этих датчиков можно судить о состоянии опор 
+ния, в короткозамкнутом контуре будут протекать этих устройств; датчик расхода жидкости, посту-
+большие токи, в результате которых обмотка пере- пающей в турбину, информация с которого ис-
+греется и возможно возникновение пожара. Сле- пользуется при определении соответствия её мощ-
+довательно, возникает задача либо исключения ности расчётным значениям; датчик температуры 
+таких замыканий, либо быстрого их обнаружения обмотки генератора и силовых ключей преобразо-
+и останова генератора. вателя напряжения, информация с которых позво-
+
+В СПН преобразователь переменного тока в ляет судить об исправности генератора и преобра-
+постоянный может быть выполнен по одному из зователя; датчики, фиксирующие возникновение 
+двух вариантов. Либо это стандартный двухполу- несимметрии и искажение картины магнитного 
+периодный, либо синусный выпрямитель [29–31]. поля, позволяющие экстренно фиксировать витко-
+
+Вестник ЮУрГУ. Серия «Энергетика».  
+2019. Т. 19, № 3. С. 100–107 103 
+
+
+
+Электромеханические системы 
+вое замыкание; датчики для определения сопро- X. Li, J. Chang, C. Li // Shuili Fadian Xuebao/Journal 
+тивления изоляции обмотки. Информация с пере- of Hydroelectric Engineering. – 2014. – Vol. 33 (1). – 
+численных датчиков, а также информация о значе- P. 202–206. DOI: 10.1115/1.4036234 
+ниях выходных координат энергоустановки совме- 5. Switched Model and Dynamic Analysis of  
+стно с информацией, получаемой от математиче- a Hydroturbine Governing System in the Process of 
+ской модели процессов преобразования энергии, Load Rejection Transient / H. Li, D. Chen, F. Wang, 
+заложенной в блок диагностики, используется для H. Zhang // Journal of Dynamic Systems, Measurement 
+оценки её работоспособности и выявления неис- and Control, Transactions of the ASME. – 2017. –  
+правностей. Vol. 139 (10). – 101002. 
+
+Для связи с центральным диспетчерским 6. Кавитирующее обтекание уменьшенной 
+пунктом может быть использован интернет, ра- модели направляющих лопаток турбины высокого 
+диоканал, спутниковая связь и т. д. давления / М.В. Тимошевский, С.А. Чуркин,  
+
+ А.Ю. Кравцова и др. // Международный журнал 
+Заключение многофазного потока. – 2016. – Т. 78. – С. 75–87. 
+1. Одним из наиболее целесообразных путей DOI: 10.1016/j.ijmultiphaseflow.2015.09.014 
+
+повышения надёжности автономных энергоуста- 7. Lewis, B.J. Unsteady computational fluid dy-
+новок в виде мини-ГЭС является реализация их на namic analysis of the behavior of guide vane trailing-
+основе конструктивно простых, бесконтактных и edge injection and its effects on downstream rotor 
+нерегулируемых устройств первичного преобразо- performance in a francis hydroturbine / B.J. Lewis, 
+вания энергии – турбины в виде центробежного J.M. Cimbala // Journal of Turbomachinery. – 2015. – 
+насоса и генератора в виде синхронной бескон- Vol. 137 (8). – 81001. DOI: 10.1115/1.4029427 
+тактной машины.  8. Лукутин, Б.В. Автономное электроснаб-
+
+2. Требуемое качество энергии в этом случае жение микрогидроэлектростанцией / Б.В. Луку-
+обеспечивается с помощью полупроводникового тин, С.Г. Обухов, Е.Б. Шандарова. – Томск, 2001. – 
+преобразователя энергии.  104 с. 
+
+3. Для контроля состояния и оценки работос- 9. Асинхронизированные синхронные гене-
+побности энергоустановки в её состав должно раторы для ветроэлектростанций и малых ГЭС 
+быть введено устройство диагностики, которое на Таджикистан / Н.И. Смолин, Д.Ю. Гулов,  
+основе анализа информации с датчиков гидравли- Б.И. Косимов, О.О. Султонов // Приоритетные 
+ческих, механических, температурных и электри- направления развития энергетики в АПК: мате-
+ческих параметров путём сопоставления их значе- риалы I Всерос. науч.-практ. конф. – 2017. –  
+ний с параметрами, полученными на математиче- С. 100–105. 
+ской модели, должно не только выявить неисправ- 10. Dietz, A. Efficiency improvement of small hy-
+ность, но и сигнализировать о возможности её droelectric power stations with a permanent-magnet 
+возникновения. synchronous generator / A. Dietz, A. Groeger, C. Kling-
+
+4. Введение устройства диагностики позволит ler // 1st International Electric Drives Production Con-
+реализовать автономный режим работы энергоус- ference 2011, EDPC–2011 – Proceedings. – 6085557. – 
+тановки без привлечения обслуживающего персо- P. 93–100. DOI: 10.1109/edpc.2011.6085557 
+нала с дистанционной передачей данных о её со- 11. Wegiel, T. Variable speed small hydropower 
+стоянии на центральный диспетчерский пункт. plant / T. Wegiel, D. Borkowski // Proceedings – 
+
+ 2012 3rd IEEE International Symposium on Power 
+Литература Electronics for Distributed Generation Systems 
+
+1. Иноятов, М.Б. К вопросу об использовании (PEDG 2012). – 6253996. – P. 167–174. DOI: 
+малой гидроэнергетики применительно к услови- 10.1109/pedg.2012.6253996 
+ям Республики Таджикистан / М.Б. Иноятов,  12. Borkowski, D. Small hydropower plant with in-
+А.К. Киргизов // Вестник Таджикского техниче- tegrated turbine-generators working at variable speed / 
+ского университета. – 2008. – № 2. С. 38–42. D. Borkowski, T. Wegiel, // IEEE Transactions on Ener-
+
+2. Положение дел по использованию возобнов- gy Conversion. – 2013. – Vol. 28 (2). – 6479690. –  
+ляемых источников энергии в Центральной Азии. P. 452–459. DOI: 10.1109/tec.2013.2247605 
+Перспективы их использования и потребности в 13. Ганджа, С.А. Выбор оптимальной конст-
+подготовке кадров. Обзор / Н. Друзь, Н. Борисова, рукции электродвигателя привода пильгерстана 
+А. Асанкулова и др. – ЮНЕСКО; Алматы, 2010. – для технологии изготовления бесшовных труб / 
+144 с. С.А. Ганджа, Б.И. Косимов, Д.С. Аминов // Вест-
+
+3. Отчет Министерства экономического ник ЮУрГУ. Серия «Энергетика». – 2019. – Т. 19, 
+развития и торговли Республики Таджикистан № 1. – С. 5–17. DOI: 10.14529/power190101 
+«Экспресс-оценка и анализ пробелов в энергетиче- 14. Farret, F.A. Small Hydroelectric Systems / 
+ском секторе Таджикистана». – Душанбе, 2011. F.A. Farret, M.G. Simoes, A. Michels // Green Energy 
+
+4. Li, X. Guide vane asynchronous closure mode and Technology. – 2013. – Vol. 59. – P. 151–184. 
+for improving the transient quality of hydroturbinen / DOI: 10.1007/978-1-4471-5104-3_5 
+
+104 Bulletin of the South Ural State University. Ser. Power Engineering. 
+2019, vol. 19, no. 3, pp. 100–107 
+
+
+
+Воронин С.Г., Давлатов А.М.,          Автоматизированная мини-ГЭС как основа системы 
+Султонов О.О. и др.          электроснабжения горных районов Таджикистана 
+
+15. Pistelok, P. Highly efficient synchronous W. Koczara, N. Al-Khayat // EUROCON 2007 –  
+generators with permanent magnets intended to small The International Conference on Computer as a Tool. – 
+hydropower station / P. Pistelok, M. Baranski //  2007. – 4400682. – P. 1301–1309. DOI: 
+5th International Conference on Clean Electrical 10.1109/eurcon.2007.4400682 
+Power: Renewable Energy Resources Impact 24. Hwang, J.-C. Application of three-level con-
+(ICCEP 2015). – 7177654. – P. 395–399. DOI: verters to wind power systems with permanent-magnet 
+10.1109/iccep.2015.7177654 synchronous generators / J.-C. Hwang, M.-H. Chen, 
+
+16. Сравнительный анализ электродвигате- S.-N. Yeh // IECON Proceedings (Industrial Electron-
+лей привода пильгерстана для технологии изго- ics Conference). – 2007. – 4460130. – P. 1615–1620. 
+товления бесшовных труб. Выбор оптимальной DOI: 10.1109/iecon.2007.4460130 
+конструкции / С.А. Ганджа, Б.И. Косимов,  25. Воронин, С.Г. Векторное управление син-
+Д.С. Аминов, Р.Р. Ниматов // Вестник ПНИПУ. хронными двигателями с возбуждением от по-
+Электротехника, информационные технологии, стоянных магнитов / С.Г. Воронин, Д.А. Курносов, 
+системы управления. – 2019. – № 30, – С. 79–101. А.С. Кульмухаметова // Электротехника. – 2013. – 
+DOI: 10.1016/j.proeng.2015.12.137 № 10. – С. 50–54.  
+
+17. Математическое моделирование посто- 26. Дедков, В.Н. Применение серийных насо-
+янного магнита для оптимизации вентильных сов в качестве гидротурбин для малой энергети-
+электрических машин и возобновляемых источни- ки // Проблемы машиностроения. – 2011. – № 4. – 
+ков энергии / С.А. Ганджа, Д.С. Аминов, Б.И. Ко- С. 24–30.  
+симов // Наука ЮУрГУ. Материалы 70-й научной 27. Лямасов, А.К. Исследование гидромашин 
+конференции. – 2018. – С. 420–428. МГЭС: центробежный насос и гидродинамиче-
+
+18. Бут, Д.А. Бесконтактный электрический ская передача / Б.М. Орахелашвили // Вестник 
+машины / Д.А. Бут. – М.: Высш. шк., 1990. – 415 с.  УГАТУ. – 2013. – № 3. – С. 189–193.  
+
+19. A Study of the Operation Mode of a Synchro- 28. An analysis of virtual direct power control of 
+nous Compensator with Two Excitation Windings / three-phase AC-DC converter / N.A. Yusoff, A.B.M. Ra-
+K.I. Kim, K.K. Kim // Russian Electrical Engi- zali, K.A. Karim et al.// International Journal of Power 
+neering. – 2018. – Vol. 89 (10). – P. 598–606. DOI: Electronics and Drive Systems. – 2018. – Vol. 9, no. 3. – 
+10.3103/s106837121810005x P. 947–956. DOI: 10.11591/ijpeds.v9.i3.pp947-956 
+
+20. Transient analysis of air-core pulsed alter- 29. Nonisolated Harmonics-Boosted Resonant 
+nators in self-excitation mode / X. Xie, K. Yu, C. Ye DC/DC Converter with High-Step-Up Gain / Y. Huang, 
+et al. // IEEE Transactions on Plasma Science. – S. Xiong, S.-C. Tan, S.Y. Hui // IEEE Transactions  
+2015. – Vol. 43 (5). – P. 1415–1420. DOI: on Power Electronics. – 2018. – Vol. 33, no. 9. –  
+10.1109/tps.2015.2416371 P. 7770–7781. DOI: 10.1109/tpel.2017.2769165 
+
+21. Копылов, И.П. Электрические машины: 30. Six-Leg Single-Phase to Three-Phase Con-
+учеб/ / И.П. Копылов. ‒ 5-е изд. ‒ М.: Высш. шк., verter / N.B. De Freitas, C.B. Jacobina, A.C.N. Maia, 
+2006. – 607 с.  A.C. Oliveira // IEEE Transactions on Industry Appli-
+
+22. Abo-Khalil, A.G. Grid connection of doubly- cations. – 2017. – Vol. 53, no. 6. – P. 5527–5538. 
+fed induction generators in wind energy conversion DOI: 10.1109/tia.2017.2720138 
+system / A.G. Abo-Khalil, D.-C. Lee, S.-H. Lee // Con- 31. Саидов, А.Х. Симметрирование нагрузки в 
+ference Proceedings – IPEMC 2006: CES/IEEE 5th трёхфазных сетях при дискретном формировании 
+International Power Electronics and Motion Control фазных напряжений // Научный поиск: материалы 
+Conference 3. – 2006. – 4078676. – P. 1482–1486. девятой научной конференции аспирантов и док-
+DOI: 10.1109/ipemc.2006.4778244 торантов. – Челябинск: Издат. центр ЮУрГУ, 
+
+23. Chlodnicki, Z. Control strategies of the vari- 2017. – С. 47–54.  
+able speed generating systems / Z. Chlodnicki,   
+
+ 
+Воронин Сергей Григорьевич, д-р техн. наук, профессор кафедры «Летательные аппараты», Южно-
+
+Уральский государственный университет, г. Челябинск; voroninsg@susu.ru. 
+Давлатов Азамджон Махмадиевич, аспирант кафедры «Летательные аппараты», Южно-Уральский 
+
+государственный университет, г. Челябинск; davlatov_azam@bk.ru. 
+Султонов Оламафруз Олимович, аспирант кафедры «Летательные аппараты», Южно-Уральский го-
+
+сударственный университет, г. Челябинск. 
+Косимов Бахтиёр Исматуллович, аспирант кафедры «Летательные аппараты», Южно-Уральский го-
+
+сударственный университет, г. Челябинск. 
+Гулов Диловар Юсупович, аспирант кафедры «Летательные аппараты», Южно-Уральский государ-
+
+ственный университет, г. Челябинск. 
+ 
+
+Поступила в редакцию 3 декабря 2018 г.
+ 
+Вестник ЮУрГУ. Серия «Энергетика».  
+2019. Т. 19, № 3. С. 100–107 105 
+
+
+
+Электромеханические системы 
+DOI: 10.14529/power190311
+
+ 
+AUTOMATED SMALL HPPs AS THE BACKBONE OF POWER GRIDS 
+FOR MOUNTAINEOUS REGIONS OF TAJIKISTAN 
+ 
+S.G. Voronin, voroninsg@susu.ru, 
+A.M. Davlatov, davlatov_azam@bk.ru, 
+O.O. Sultonov, B.I. Kosimov, D.Yu. Gulov 
+South Ural State University, Chelyabinsk, Russian Federation 
+ 
+
+The article briefly analyzes the existing small hydropower plants in the Republic of Tajikistan. Analysis 
+reveals why such units are not suitable for stand-alone operation and what renders them less reliable. The paper 
+proposes a simpler design for better reliability and stand-alone, low-maintenance operation. A design based on 
+simpler and more reliable components requires less maintenance, which could be limited to regular inspections, 
+hence no need for round-the-clock staff presence. A centrifugal pump is proposed as a turbine, as it does not re-
+quire additional parameter controls, while a synchronous permanent magnet-excited unit is proposed as a gener-
+ator, as it does not require a special channer to control the excitation flux. For better quality of generated elec-
+tricity, the paper proposes using a semiconductor-based voltage converte that will stabilize the input voltage to 
+a required accuracy of frequency and amplitude. Self-diagnosis instrumentation is part of the design, as it can 
+monitor not only the input voltages, but also the condition of primary components: turbines, voltage converters, 
+switches, and communications with the mission control center. The paper also analyzes the problems of imple-
+menting this design, which mainly pertain to balancing the input voltage given a significantly asymmetrical 
+load; another challenge is to improve the accuracy and reliability of instrumentations implemented to monitor 
+the health of specific small-HPP elements. 
+
+Keywords: small hydroelectric power plants, hydraulic turbine, centrifugal pump, permanent magnet syn-
+chronous generator, self-diagnosis instrumentation, voltage balancing. 
+
+ 
+References 
+
+1. Inoyatov M.B., Kirghizov A.K. [On the issue of using small hydropower in relation to the conditions of 
+the Republic of Tajikistan]. Bulletin of the Tajik Technical University, 2008. no. 2, pp. 38–42. (in Russ) 
+
+2. Druz N., Borisova N., Asankulova A., Radjabov., Zakhidov R., Tajiev U. [The state of affairs on the use of 
+renewable energy sources in Central Asia. Prospects for their use and training needs. Overview]. UNESCO, Al-
+maty, 2010. 144 p. (in Russ.) 
+
+3. [Report by the Ministry of Economic Development and Trade of the Republic of Tajikistan “Express as-
+sessment and analysis of gaps in the energy sector of Tajikistan”]. Dushanbe, 2011. (in Russ) 
+
+4. Li X., Chang J., Li C. Guide vane asynchronous closure mode for improving the transient quality of 
+hydroturbinen. Journal of Hydroelectric Engineering, 2014, vol. 33 (1), pp. 202–206. DOI: 10.1115/1.4036234 
+
+5. Li H., Chen D., Wang F., Zhang H. Switched Model and Dynamic Analysis of a Hydroturbine Governing 
+System in the Process of Load Rejection Transient. Journal of Dynamic Systems, Measurement and Control, 
+Transactions of the ASME, 2017, vol. 139 (10), 101002. 
+
+6. Timoshevskiy M.V., Churkin S.A., Kravtsova A.Y., Markovich D.M., Hanjalić K. [Cavitating flow around 
+a scaled-down model of guide vanes of a high-pressure turbine]. International Journal of Multiphase Flow 78, 
+2016, pp. 75–87. DOI: 10.1016/j.ijmultiphaseflow.2015.09.014 
+
+7. Lewis B.J., Cimbala J.M. Unsteady computational fluid dynamic analysis of the behavior of guide vane 
+trailing-edge injection and its effects on downstream rotor performance in a francis hydroturbine. Journal of 
+Turbomachinery, 2015, vol. 137 (8), 81001. DOI: 10.1115/1.4029427 
+
+8. Lukutin B.V. Obukhov S.G., Shandarova E.B. Avtonomnoe elektrosnabzheniya mikrogidroelektrostantsiya
+[Autonomous power supply small hydroelectric power plant]. Tomsk, 2001. 104 p.  
+
+9. Smolin N.I., Gulov D.Yu., Kosimov B.I., Sultonov O.O. [Asynchronized synchronous generators for wind 
+farms and small hydropower plants in Tajikistan]. In: Priority directions of energy development in the agro-
+industrial complex. Proceedings. of the 1st All-Russian Research Conference, 2017, pp. 100–105. (in Russ) 
+
+10. Dietz A., Groeger A., Klingler C. Efficiency improvement of small hydroelectric power stations with 
+a permanent-magnet synchronous generator. 1st International Electric Drives Production Conference 2011,
+EDPC–2011 – Proceedings, 6085557, pp. 93–100. DOI: 10.1109/edpc.2011.6085557 
+
+11. Wegiel T., Borkowski D. Variable speed small hydropower plant, Proceedings – 2012 3rd IEEE Interna-
+tional Symposium on Power Electronics for Distributed Generation Systems, 2012, pp. 167–174. DOI: 
+10.1109/pedg.2012.6253996 
+
+12. Borkowski D., Wegiel T. Small hydropower plant with integrated turbine-generators working at variable speed. 
+IEEE Transactions on Energy Conversion, 2013, vol. 28 (2), 6479690, pp. 452–459. DOI: 10.1109/tec.2013.2247605 
+  
+106 Bulletin of the South Ural State University. Ser. Power Engineering. 
+
+2019, vol. 19, no. 3, pp. 100–107 
+
+
+
+Воронин С.Г., Давлатов А.М.,          Автоматизированная мини-ГЭС как основа системы 
+Султонов О.О. и др.          электроснабжения горных районов Таджикистана 
+
+13. Gandzha S.A., Kosimov B.I., Aminov D.S. Optimizing the Design of a Pilger Mill Motor to Produce 
+Seamless Pipes. Bulletin of the South Ural State University. Ser. Power Engineering, 2019, vol. 19, no. 1, pp. 5–17. 
+(in Russ.) DOI: 10.14529/power190101 
+
+14. Farret F.A., Simoes M.G., Michels A. Small Hydroelectric Systems. Green Energy and Technology, 2013, 
+vol. 59, pp. 151–184. DOI: 10.1007/978-1-4471-5104-3_5 
+
+15. Pistelok P., Baranski M. Highly efficient synchronous generators with permanent magnets intended to 
+small hydropower station. 5th International Conference on Clean Electrical Power: Renewable Energy Resources 
+Impact (ICCEP 2015), 2015, 7177654, pp. 395–399. DOI: 10.1109/iccep.2015.7177654 
+
+16. Gandzha S.A., Sogrin A.I., Kiessh I.E. The comparative analysis of permanent magnet electric machines 
+with integer and fractional number of slots per pole and phase. Procedia Engineering, 2015, vol. 129, pp. 408–414. 
+(in Russ.) DOI: 10.1016/j.proeng.2015.12.137 
+
+17. Gandzha S.A., Aminov D.S., Kosimov B.I. [Mathematical modeling of a permanent magnet for optimiza-
+tion of valve electric machines and renewable energy sources]. Science SUSU. Materials of the 70th scientific con-
+ference, 2018, pp. 420–428. (in Russ.) 
+
+18. Booth D.A. Beskontaktnyy elektricheskiy mashiny [Contactless Electric Machines]. Moscow, Higher 
+School, 1990. 415 p.  
+
+19. Kim K.I., Kim K.K. A Study of the Operation Mode of a Synchronous Compensator with Two Excitation 
+Windings. Russian Electrical Engineering, 2018, vol. 89 (10), pp. 598–606. DOI: 10.3103/s106837121810005x 
+
+20. Xie X., Yu K., Ye C., Tang L., Zhang H. Transient analysis of air-core pulsed alternators in self-excitation 
+mode. IEEE Transactions on Plasma Science, 2015, vol. 43 (5), pp. 1415–1420. DOI: 10.1109/tps.2015.2416371 
+
+21. Kopylov I.P. Elektricheskiye mashiny [Electrical Machines]. Moscow, Higher School, 2006. 607 p. 
+22. Abo-Khalil A.G., Lee D.-C., Lee S.-H. Grid connection of doubly-fed induction generators in wind energy 
+
+conversion system. Conference Proceedings – IPEMC 2006: CES/IEEE 5th International Power Electronics and 
+Motion Control Conference 3, 2006, 4078676, pp. 1482–1486. DOI: 10.1109/ipemc.2006.4778244 
+
+23. Chlodnicki Z., Koczara W., Al-Khayat N. Control strategies of the variable speed generating systems. 
+EUROCON 2007 – The International Conference on Computer as a Tool 4400682, 2007, pp. 1301–1309. DOI: 
+10.1109/eurcon.2007.4400682 
+
+24. Hwang J.-C., Chen M.-H., Yeh S.-N. Application of three-level converters to wind power systems with 
+permanent-magnet synchronous generators. IECON Proceedings (Industrial Electronics Conference), 2007, 
+4460130, pp. 1615–1620. DOI: 10.1109/iecon.2007.4460130 
+
+25. Voronin S.G., Kurnosov D.A., Kulmukhametova A.S. [Vector control of synchronous motors with excita-
+tion from permanent magnets]. Electrical Engineering, 2013, no. 10, pp. 50–54. (in Russ.) 
+
+26. Dedkov V.N. [Application of serial pumps as hydro turbines for small-scale power engineering]. Probrem 
+Mechanical Engineering, 2011, no. 4, pp. 24–30. (in Russ.) 
+
+27. Lyamasov A.K. Orahelashvili B.M. [Investigation of Hydromachines of Hydropower Plants: Centrifugal 
+Pump and Hydrodynamic Transmission]. Vestnik UGATU [Bulletin of USATU], 2013, no 3, pp. 189–193. (in Russ.) 
+
+28. Yusoff N.A., Razali A.B.M., Karim K.A., Jidin A., Sutikno T. An analysis of virtual direct power control 
+of three-phase AC-DC converter. International Journal of Power Electronics and Drive Systems, 2018, vol. 9 (3), 
+pp. 947–956. DOI: 10.11591/ijpeds.v9.i3.pp947-956 
+
+29. Huang Y., Xiong S., Tan S.-C., Hui S.Y. Nonisolated Harmonics-Boosted Resonant DC/DC Converter 
+with High-Step-Up Gain. IEEE Transactions on Power Electronics, 2018, 33(9), pp. 7770–7781. DOI: 
+10.1109/tpel.2017.2769165 
+
+30. De Freitas N.B., Jacobina C.B., Maia A.C.N., Oliveira A.C. Six-Leg Single-Phase to Three-Phase Converter. 
+IEEE Transactions on Industry Applications, 2017, 53(6), 7959097, pp. 5527–5538. DOI: 10.1109/tia.2017.2720138 
+
+31. Saidov A.Kh. [Load balancing in three-phase networks with discrete formation of phase voltages]. Scien-
+tific search: materials of the ninth scientific conference of graduate students and doctoral students. Chelyabinsk, 
+SUSU Publishing Center, 2017. pp. 47–54. (in Russ.)  
+
+ 
+Received 3 December 2018 
+
+ 
+ 
+
+ОБРАЗЕЦ ЦИТИРОВАНИЯ  FOR CITATION 
+Автоматизированная мини-ГЭС как основа сис-  Voronin S.G., Davlatov A.M., Sultonov O.O., 
+
+темы электроснабжения горных районов Таджики- Kosimov B.I., Gulov D.Yu. Automated Small HPPs as 
+стана / С.Г. Воронин, А.М. Давлатов, О.О. Султонов  the Backbone of Power Grids for Mountaineous Regions 
+и др. // Вестник ЮУрГУ. Серия «Энергетика». – 2019. – of Tajikistan. Bulletin of the South Ural State University. 
+Т. 19, № 3. – С. 100–107. DOI: 10.14529/power190311 Ser. Power Engineering, 2019, vol. 19, no. 3, pp. 100–107. 
+
+(in Russ.) DOI: 10.14529/power190311 
+ 
+
+Вестн ик ЮУрГУ. Серия «Энергетика».  
+2019. Т. 19, № 3. С. 100–107 107

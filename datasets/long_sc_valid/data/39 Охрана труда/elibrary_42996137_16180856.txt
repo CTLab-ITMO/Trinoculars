@@ -1,0 +1,196 @@
+﻿Human Activity Safety Plitsyna Olga Vital’evna, Rogova Tatyana Nikolaevna 
+COMPOSING THE SLOTTED RESONATOR SECTION OF THE SILENCER…
+
+УДК 628.517.2
+DOI: 10.46548/21vek-2020-0950-0011
+
+КОМПОНОВКА ЩЕЛЕВОЙ РЕЗОНАТОРНОЙ СЕКЦИИ ГЛУШИТЕЛЯ
+© 2020
+
+Плицына Ольга Витальевна, кандидат технических наук,
+доцент кафедры «Управление безопасностью в техносфере»
+Рогова Татьяна Николаевна, кандидат технических наук,
+доцент кафедры «Управление безопасностью в техносфере»
+
+Российский университет транспорта 
+(127994, Россия, г. Москва, ул. Образцова, 9, стр. 9, e-mails: plitsa@yandex.ru, tatnik2009@rambler.ru) 
+Аннотация. Работа посвящена снижению шума в инженерных сетях. Указано на перспективность щелевого 
+
+глушителя для систем с воздуховодами и газоходами большого поперечного сечения. Отмечены технологические 
+и эксплуатационные возможности включения в глушитель дополнительной щелевой секции. Представлена 
+дополнительная двухщелевая секция, составленная из резонаторов Гельмгольца. На основании расчетов 
+установлено, что ровное широкополосное снижение шума обеспечивается настройкой щелевых резонаторов в 
+геометрической прогрессии со знаменателем 20.8. Для секции с тремя резонаторами в каждом щелевом канале 
+показано следующее: резонатор с наиболее высокой частотой настройки не оказывает существенного влияния 
+на снижение шума двумя другими резонаторами; резонатор с наиболее высокой частотой настройки может 
+быть размещен между резонаторами с более низкими частотами настройки. Предложено размещение щелевых 
+резонаторов, сокращающее длину секции в 1.5 раза при уменьшении эффективности на 30%. Полученные 
+данные свидетельствуют, что секция, составленная из щелевых резонаторов Гельмгольца, обеспечивает 
+щелевому глушителю дополнительное снижение шума в диапазоне частот 31.5-125 Гц и допустимую длину. 
+Щелевая резонаторная секция глушителя рекомендуется для инженерных сетей, не имеющих габаритных 
+ограничений на магистральном участке большого поперечного сечения. 
+
+Ключевые слова: глушитель, шум, воздуховоды, газоходы, большое поперечное сечение, щелевые каналы, 
+равномерное снижение шума, секция глушителя, расширение частотного диапазона, резонаторы Гельмгольца, 
+частота настройки, расположение щелевых резонаторов, эффективность.
+
+COMPOSING THE SLOTTED RESONATOR SECTION OF THE SILENCER
+© 2020
+
+Plitsyna Olga Vital’evna, ph.D. of Engineering Science,
+Assistant Professor of Safety Management in the Technosphere 
+Rogova Tatyana Nikolaevna, ph.D. of Engineering Science,
+
+Assistant Professor of Safety Management in the Technosphere 
+Russian University of Transport 
+
+(127994, Russia, Moscow, Obraztsova st., 9, build. 9,e-mails: plitsa@yandex.ru, tatnik2009@rambler.ru)
+Abstract. The paper is devoted to noise reduction in engineering networks. It is indicated that the slotted silencer is 
+
+promising for systems with large cross-section air ducts and gas flues. The technological and operational possibilities of 
+including in the silencer the additional slotted section are noted. The additional two-slot section containing Helmholtz 
+resonators is presented. Based on the calculations it was found that broadband noise reduction is provided by tuning the 
+slotted resonators in a geometric progression with a denominator of 20.8. For a section with three resonators in each 
+slot duct the following is shown: the resonator with the highest tuning frequency does not significantly effect the noise 
+reduction of the other two resonators; the resonator with the highest tuning frequency can be placed between resonators 
+with lower tuning frequencies. Compact placement of slotted resonators is proposed. The length of the device is shorted 
+by 1.5 times while reducing the efficiency by 30%. The obtained data show that the silencer section composed from 
+Helmholtz slotted resonators allows fulfilling silencer with additional noise reduction in the frequency range of 31.5-125 
+Hz and acceptable length. Slotted resonator section of the silencer is recommended for usage in engineering networks 
+that do not have length restrictions for the main duct of the large cross-section. 
+
+Keywords: silencer, noise, air ducts, gas flues, large cross-section, slotted ducts, even noise reduction, silencer sec-
+tion, expanding the frequency range, Helmholtz resonators, tuning frequency, placement of slotted resonators, efficiency.
+
+Введение. Результаты расчетов [1] и испытаний ных эксплуатационных условиях. В сетях, не имею-
+[2, 3] свидетельствуют о перспективности глушителя, щих габаритных ограничений на магистральном 
+щелевые каналы которого образованы ступенчатыми участке, может быть применена дополнительная сек-
+перегородками, в сетях воздуховодов и газоходов ция глушителя [4-8]. 
+большого поперечного сечения. Если с помощью ступенчатых перегородок сфор-
+
+Щелевая конструкция отличается технологич- мировать дополнительную секцию из резонаторов 
+ностью и способностью при длине устройства до 2м Гельмгольца, то будут созданы условия [9-13] для 
+обеспечивать необходимое снижение шума в различ- повышения эффективности глушителя в диапазоне 
+
+XXI century: Resumes of the Past and Challenges of the Present plus. 2020. V. 9. №2 (50) 59
+
+
+
+Плицына Ольга Витальевна, Рогова Татьяна Николаевна Безопасность деятельности
+КОМПОНОВКА ЩЕЛЕВОЙ РЕЗОНАТОРНОЙ СЕКЦИИ ГЛУШИТЕЛЯ… человека
+
+частот 31.5-125 Гц без внесения в сеть значительных гольца, определяющую ровное широкополосное сни-
+потерь давления. жение шума; выявить последовательность размеще-
+
+Цель работы – расширение частотного диапазона ния щелевых резонаторов Гельмгольца, позволяю-
+снижения шума щелевым глушителем за счет допол- щую сокращать длину глушителя.
+нительной секции, составленной из щелевых резо- Материалы и результаты исследования. Сек-
+наторов Гельмгольца. ция глушителя, содержащая резонаторы Гельмгольца, 
+
+Задачи работы: установить зависимость между составляется из двух симметрично расположенных 
+частотами настройки щелевых резонаторов Гельм- щелевых каналов (рис. 1.а).
+
+Рисунок 1 – Резонаторный щелевой канал: а – форма канала; б – варианты расположения резонаторов;
+в – акустические характеристики вариантов
+
+Рисунок 2 – Компоновка резонаторной секции:
+а – варианты расположения резонаторов в каналах секции; б – акустические характеристики вариантов
+
+Рассмотреть возможности такой секции позволяет ным процессам распространения звука подтверждена 
+разработанная на принципах модульности S-модель экспериментально [3].
+щелевого глушителя [3], адекватность которой реаль- Результаты расчета вариантов [14-20] резонатор-
+
+60 XXI век: итоги прошлого и проблемы настоящего плюс. 2020. Т. 9. №2 (50)
+
+
+
+Human Activity Safety Plitsyna Olga Vital’evna, Rogova Tatyana Nikolaevna 
+COMPOSING THE SLOTTED RESONATOR SECTION OF THE SILENCER…
+
+ной секции свидетельствуют, что ровную в наиболее Brazilian Society of Mechanical Sciences and Engineering. – 
+широком частотном диапазоне акустическую харак- 2005. – Vol. 27. – № 2. – P. 132-140.
+теристику имеет устройство, содержащее щелевые 7. Груданов, В.Я. Моделирование и оптимизация гид-
+резонаторы, частоты настройки которых образуют равлических и акустических характеристик глушителей шу-
+
+ма поршневых двигателей / В.Я. Груданов, Л.Т. Ткачева // 
+геометрическую прогрессию со знаменателем 20.8. Вестник Белорусско-Российского университета. – 2017. – № 
+Расстояние межу различно настроенными резонато- 4. – С. 17-28.
+рами определяется четвертью среднегеометрической 8. Ji, Z.L. Acoustic attenuation performance analysis of 
+длины звуковой волн. multi-chamber reactive silencers / Z.L. Ji // Journal of Sound and 
+
+Для выявления возможности уменьшения длины Vibration. – 2005. – Vol. 283. – № 1-2. – P. 439-446. 
+секции рассмотрены устройства с двумя (рис.1.а) 9. Гусев, В.П. Глушители шума систем вентиляции и их 
+и тремя резонаторами в каждом щелевом канале. акустические характеристики / В.П. Гусев, 
+Резонаторы были настроены на частоты 50 Гц, 87 Гц, М.Ю. Лешко // АВОК. – 2009. – № 4. – С. 46-50.
+
+10. Теребнев, А.В. Совершенствование шумоглушителей 
+157 Гц и расположены на расстоянии, м друг от друга сбросов газа высокого давления / А.В. Теребнев, О.Н. Емельянов, 
+согласно рисунку 1.б. Л.Р. Яблоник // Вести газовой науки. – 2017. – № 5. – С. 100-105.
+
+Оценка по минимальным значениям, (рис. 1.в), ко- 11. Гусев, В.П. К вопросу о распространении шума в боль-
+торая предусматривает работу резонаторов в потоке, ших воздуховодах и газоходах / В.П. Гусев, М.А. Солодова // 
+позволяет считать, что резонатор с наиболее высокой Academia. Architecture and Construction. – 2010. – № 3. – С. 
+частотой настройки (кривые I, II, III) не оказывает су- 211-218. 
+щественного влияния на снижение шума двумя дру- 12. Гусев, В.П. К вопросу об аэроакустических испыта-
+
+ниях вентиляционного оборудования / В.П. Гусев, М.Ю. 
+гими резонаторами (кривая IV). Лешко // АВОК. – 2002. – № 4. – С. 75-76. 
+
+Следовательно, резонатор с наиболее высокой 13. Гусев, В.П. К вопросу об аэроакустических испыт-
+частотой настройки может быть размещен между аниях вентиляционного оборудования / В.П. Гусев, М.Ю. 
+резонаторами с более низкими частотами настройки Лешко // АВОК. – 2002. – № 4. – С. 75-76.
+при сохранении необходимой длины между резонато- 14. Abbad, A. Numerical and experimental investigations on 
+рами с соседними частотами (рис. 2.а). Компактное the acoustic performances of Helmholtz resonators / A .Ahmed, 
+размещение резонаторов, по сравнению с размещени- A. Noureddine, O. Morvan, D. Olivier // Journal of Sound and 
+
+Vibration. – 2019. – Vol. 459. – P. 1148-1173.
+ем по порядку изменения частот настройки, сокращает 15. Romero-Garcıa, V. Use of complex frequency plane to 
+длину секции в 1.5 раза при снижении наименьшей design broadband and sub-wavelength absorbers / V. Rome-
+эффективности (которая характеризует равномерное ro-Garcıa, G. Theocharis, O. Richoux, V. Pagneux // The Journal 
+снижение шума) на 30% (рис. 2б). of the Acoustical Society of America. – 2016. – Vol. 139(6). – P. 
+
+Заключение. Секция, составленная из щелевых 3395-403.
+резонаторов Гельмгольца, обеспечивает глушителю 16. Komkin, A. I. Sound absorption by a Helmholtz resonator 
+дополнительное равномерное снижение шума в диа- / A. I. Komkin, M. A. Mironov, A. I. Bykov // Acoustical Physics. 
+пазоне частот 31.5-125 Гц и длину, не превышающую – Vol. 63(4). – P. 385-392.
+
+17. Griffiths, S. Materials composed of elastic Helmholtz res-
+3.5 м – стандартную длину глушителей на магист- onators for acoustic wave absorption / S Griffiths, B. Nennig, S. 
+ральных воздуховодах или газоходах. Щелевая резо- Job // The Journal of the Acoustical Society of America. – 2017. 
+наторная секция глушителя рекомендуется для при- – Vol. 141(1. – P 254-264. 
+менения в инженерных сетях. 18. Yu, X. Vibroacoustic modeling of an acoustic resonator / 
+
+X. Yu, Z. Lu, L. Cheng, F. Cui // Journal of Sound and Vibration. 
+СПИСОК ЛИТЕРАТУРЫ: – 2018. – Vol. 417. – P. 548-573.
+1. Plitsyna, O. Selecting the parameters of the reactive silencer 19. Abbad, A. Adaptive Helmholtz resonator: modeling, char-
+
+for exhaust ventilation systems / О. Plitsyna, Т. Rogova // Akusti- acterization, and control / A. Abbad, K. Rabenorosoa, M. Ouisse, 
+ka. – 2019. – Vol.34. – P. 85-87. N. Atalla // Smart Materials and Structures. – 2018. – Vol. 4. – P. 
+
+2. Плицына, О.В. Противопожарная конструкция глу- 105-129. 
+шителей / О.В. Плицына, Т.Н. Рогова // Техносферная безо- 20. Langfeldt, F. An efficient analytical model for baffled pan-
+пасность. – 2019. – Т. 3(24) . – С. 73-77. – Режим доступа: els / F. Langfeldt, W. Gleine, O. von Estorff // Journal of Sound 
+https://uigps.ru/userfls/ufiles/nauka/journals/ttb.pdf. and Vibration. – 2018. – Vol. 417. – P. 359-375. 
+
+3. Плицына, О.В. Характеристики глушителя щелевой 
+конструкции / О.В. Плицына, Т.Н. Рогова //  Вестник НЦБЖД. Статья поступила в редакцию 10.05.2020
+– 2019. – № 4(42). – С. 159-163. Статья принята к публикации 10.06.2020
+
+4. Glav, R. Study of folded resonator including the effects of 
+higher order modes / R. Glav, P.L. Regaund, 
+
+M. Abom // Journal of Sound and Vibration. – 2004. – Vol. 
+273. – № 4-5. – P. 777-792. 
+
+5. Kar, T., Munjal, M.I. Generalized analysis of a muffler with 
+any number of interacting ducts / T. Kar, 
+
+M.I. Munjal // Journal of Sound and Vibration. – 2005. – Vol. 
+285. – № 3. – P. 585-596.
+
+6. Gerges, S.N.Y. Muffler modeling by transfer matrix method 
+and experimental verification / S.N.Y. Gerges, 
+
+R. Jordan, F.A. Thieme, J.L. Bento Coelho // Journal of the 
+
+XXI century: Resumes of the Past and Challenges of the Present plus. 2020. V. 9. №2 (50) 61

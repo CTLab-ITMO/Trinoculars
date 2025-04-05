@@ -1,0 +1,456 @@
+﻿УДК 62-5 DOI: 10.14529/power190312
+  
+РАЗРАБОТКА МЕТОДИКИ БЕЗДАТЧИКОГО ОПРЕДЕЛЕНИЯ 
+УГЛОВОГО ПОЛОЖЕНИЯ РОТОРА СИНХРОННОГО ДВИГАТЕЛЯ 
+НА ОСНОВАНИИ ДОПОЛНИТЕЛЬНОГО СИГНАЛА  
+ВЫСОКОЙ ЧАСТОТЫ 
+ 
+К.В. Лицин, Т.В. Ковальчук 
+Новотроицкий филиал НИТУ «МИСиС», г. Новотроицк, Оренбургская обл., Россия 
+ 
+ 
+
+Рассматривается возможность реализации метода бездатчикового определения углового положения 
+ротора. Проанализированы существующие методы бездатчикового контроля углового положения ротора 
+двигателей переменного тока. Представлены общие недостатки ряда бездатчиковых методов. Указано, 
+что одна из главных проблем определения углового положения ротора без использования механическо-
+го датчика заключается в сложности определения данной величины при нулевой и низкой скорости. 
+Представлена функциональная схема бездатчикового электропривода на основе синхронного двигателя. 
+Рассмотрена взаимосвязь наводимых ЭДС и высокочастотного сигнала напряжения, подаваемого в об-
+мотку возбуждения синхронного двигателя. Осуществлен вывод формулы, описывающей зависимость 
+между угловым положением ротора и фазными ЭДС. Вывод формулы осуществлен на основе системы 
+уравнений Парка – Горева. Реализована структурная схема согласно приведенным зависимостям. Вы-
+полнен анализ полученных результатов. 
+
+Ключевые слова: синхронный двигатель, высокочастотный сигнал, угловое положение ротора, на-
+блюдатель состояния, электродвижущая сила. 
+
+ 
+ 
+
+Введение Недостатки оценивающих моделей заключа-
+Развитие электропривода приводит к необхо- ются в следующем: 
+
+димости решения проблем, связанных с его массо-  разработанные наблюдатели состояния 
+габаритными параметрами [1–3]. Одним из воз- (Калмана, Люенбергера и др.) не позволяют от-
+можных способов, позволяющих добиться поло- слеживать угловое положение ротора во всем диа-
+жительного результата в этом направлении, явля- пазоне частот;  
+ется отказ от использования механических датчи-  в диапазоне низких скоростей величина по-
+ков [4–8]. С другой стороны, обойтись без величи- грешности углового положения может достигать 
+ны углового положения невозможно, поэтому значительной величины, так как необходимо учи-
+предлагается определять её с помощью косвенных тывать поправку на «мертвое время» и время за-
+показателей, которыми являются величины на- держки переключения ключей инвертора; 
+пряжения или тока электропривода.  вариации активного сопротивления, взаи-
+
+Кроме отмеченного уменьшения габаритных моиндукции двигателя переменного тока при его 
+показателей бездатчиковые способы определения работе под воздействием температуры вносят по-
+углового положения также позволят добиться та- грешность в расчеты наблюдателей состояния по 
+ких преимуществ, как: определению углового положения ротора. 
+
+ уменьшение стоимости системы электро- В работе [19] авторами данной статьи была 
+привода; предложена упрощенная классификация всех без-
+
+ увеличение надежности электропривода. датчиковых методов определения углового поло-
+Согласно [9] векторное управление двигате- жения. Предложено выделить две группы опреде-
+
+лем переменного тока приводит к необходимости ления углового положения ротора без использова-
+определения угловой величины на трёх этапах: ния механического датчика: 
+
+ начальное положение ротора;  на основе противоЭДС; 
+ величина угловой скорости (положения) в  на основе измерения индуктивности фазы 
+
+диапазоне скорости двигателя, не превышающем статора. 
+10 % от номинального значения; В работе [20] рассмотрены преимущества, не-
+
+ номинальный режим работы [10]. достатки и ограничения каждого из методов, отно-
+В работах [11–18] угловое положение ротора сящихся к двум выделенным категориям. Основ-
+
+определяется на основе оценивающих моделей. ной недостаток рассмотренных бездатчиковых 
+Внедрение подобных решений обусловлено для систем заключается в невозможности определения 
+электроприводов с небольшим диапазоном регу- углового положения при нулевой и низкой, не 
+лирования скорости (не более 1 : 100) [11–16], либо превышающей 10 % от номинальной, скорости.  
+при невозможности установки датчика на двига- Целью данной статьи является теоретическое 
+тель по причине нехватки места [17, 18].  обоснование методики определения углового по-
+
+108 Bulletin of the South Ural State University. Ser. Power Engineering. 
+2019, vol. 19, no. 3, pp. 108–114 
+
+
+
+Лицин К.В., Ковальчук Т.В.         Разработка методики бездатчикого определения 
+             углового положения ротора синхронного двигателя… 
+ложения ротора синхронного двигателя с помо- углового положения от величин напряжений на 
+щью подачи сигнала высокой частоты в обмотку статоре θ = f(U , U , U ).  
+возбуждения. Процесс вывода данного выражения начнём с 
+
+Для достижения поставленной цели необхо- записи уравнений Парка – Горева для синхронной 
+димо решить следующие задачи: машины [21, 22]: 
+
+ проанализировать взаимосвязь углового по- Ψ + ωΨ + ri = −u  ;       (1) 
+ложения ротора с величинами ЭДС, наводимых на 
+обмотке статора; ωΨ − Ψ − ri = u ;        (2) 
+
+ разработать структурную схему определе- Ψ + r i = E ;         (3) 
+ния углового положения ротора; Ψ
+
+ проанализировать полученные результаты + r i = 0, i = 0 … n ;      (4) 
+величины углового положения ротора в области Ψ
+нулевой и низкой скорости.  + r i = 0, k = 0 … n ;      (5) 
+ Ψ = L i + M i + M ∑ i ;     (6) 
+
+Теоретическое обоснование метода  Ψ = L i + M ∑ i ;       (7) 
+определения углового положения ротора  Ψ = L i + M i + M ∑ i ;     (8) 
+синхронного двигателя с помощью  
+инжекции высокочастотного сигнала Ψ = L i + M i + M i +  
+Функциональная схема электропривода с без- +M ∑ i , i = 0 … n ;       (9) 
+
+датчиковым определением углового положения 
+ротора на основе подачи сигнала высокой частоты Ψ = L i + M i + M ∑ i , 
+в обмотку возбуждения представлена на рис. 1.  
+
+Сигнал высокой частоты (в работе [19] дока- k = 0 … n ;        (10) 
+зана величина в 1000 Гц) подается в обмотку воз-
+
+J Ω
+буждения синхронного двигателя. В обмотках ста- = M − Ψ i − Ψ i ,    (11) 
+тора наводятся ЭДС. Выделение высокочастотной где r, rr, rdi, rdk – активное сопротивление обмотки 
+составляющей сигнала напряжения (Uaf, Ubf, Ucf) статора, обмотки возбуждения i-го продольного и 
+происходит с помощью полосно-пропускающих k-го поперечного демпферных контуров;  
+фильтров (ППФ). В блоке определения углового Ld, Lq – индуктивности обмотки статора;  
+положения ротора осуществляется процесс срав- Lr, Lrdi, Lrdk – индуктивности обмотки возбуж-
+нения выделенных сигналов напряжения и сравне- дения; 
+ние их с переменной составляющей сигнала воз- Mad – взаимная индуктивность в оси d; 
+буждения (Uf). Вычисленный сигнал поступает в Maq – взаимная индуктивность в оси q;  
+блок преобразователя частоты для реализации век- Er – напряжение возбуждения; 
+торного управления синхронным двигателем.  Ω = ω/p – угловая скорость вращения ротора;  
+
+В работе [17] предлагается схема определения P – число пар полюсов машины. 
+углового положения ротора, позволяющая опреде- В качестве начального условия будем рас-
+лять искомую величину с точностью в 30°.  сматривать случай, при котором статор синхрон-
+
+Чаще всего подобной точности недостаточ- ного двигателя не подключен к трехфазной сети 
+но для того, чтобы реализовать векторное переменного тока. Следовательно, в обмотках ста-
+управления двигателем переменного тока. По- тора не будет фазных токов. При подобных рассу-
+этому актуальным является анализ зависимости ждениях можно значительно упростить уравнения 
+
+ 
+Рис. 1. Функциональная схема электропривода с бездатчиковым определением углового положения ротора 
+
+ 
+Вестник ЮУрГУ. Серия «Энергетика».  
+2019. Т. 19, № 3. С. 108–114 109 
+
+
+
+Электромеханические системы 
+(1)–(11). Определить величину проекции напряже- приведения. На основании этого получено выра-
+ния на ось q: жение 
+
+U = R i + φ − ω ω .     (12) θ π θ π
+= − .      (17) 
+
+На основании начальных условий θ
+Разделим поочередно левую часть уравнения 
+
+U = 0.         (13) (17) на sinθ. В результате получим 
+Из формулы преобразования координат из- 0,5 + 0,866ctgθ = − .      (18) 
+
+вестно, что 
+Выразим из выражения (18) величину ctgθ, 
+
+u = u cos(θ) + u cos θ − π +    получим 
++  u cos θ + π ,       (14) ,
+
+ctgθ = .        (19) 
+где ua, ub, uc – мгновенные значения фазных на- ,
+
+Окончательный результат приведем к виду 
+пряжений. 
+
+Подставив выражение (14) в (13), учитывая θ = arctg , + 180n,     (20) 
+симметричность трехфазной системы, а так же ,
+
+формулы сложения косинусов, получим где n – величина, равная 0, 1 или 2 в зависимости 
+√ от положения ротора. 
+
+u sin θ + π + √ u sin(θ) = 0.   (15) Коэффициент n необходимо использовать по 
+Запишем выражение (15) в виде:  причине наличия в формуле (20) функции arctg.  
+
+θ π На основании формулы (20) была проведена 
+= − .       (16) 
+
+ (θ) модернизация схемы, представленной в [17]. Улуч-
+Отношение Ua/Ub примем равным k. Выраже- шенная структурная схема модуля определения 
+
+ние (16) может быть упрощено согласно формуле углового положения ротора представлена на рис. 2.  
+
+ 
+Рис. 2. Структурная схема модуля определения углового положения ротора 
+
+ 
+110 Bulletin of the South Ural State University. Ser. Power Engineering. 
+
+2019, vol. 19, no. 3, pp. 108–114 
+
+
+
+Лицин К.В., Ковальчук Т.В.         Разработка методики бездатчикого определения 
+             углового положения ротора синхронного двигателя… 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Рис. 3. Сравнение углового положения ротора: а – график изменения углового положения 
+ротора в бездатчиковой системе; б – график изменения углового положения ротора  
+      в электроприводе с механическим датчиком; в – график относительной погрешности 
+
+ 
+ Проверка работоспособности электропривода функциональной схемы (см. рис. 1) в программе 
+с бездатчиковым определением углового положе- MATLAB Simulink.  
+ния ротора была осуществлена за счет сравнения  
+угловой величины, полученной в бездатчиковой Вывод 
+модели (рис. 3а), и угловой величины в аналогич- В результате проведенного анализа бездатчи-
+ном электроприводе с механическим датчиком ковых методов определения углового положения 
+(рис. 3б). Обе модели разработаны на основе ротора двигателей переменного тока выявлено, что 
+
+Вестник ЮУрГУ. Серия «Энергетика».  
+2019. Т. 19, № 3. С. 108–114 111 
+
+
+
+Электромеханические системы 
+они обладают одним общим недостатком, который nent-Magnet Synchronous Motor Drives. PhD thesis / 
+связан с трудностью определения угловой величи- P.D.C. Perera. – Institute of Energy Technology Aal-
+ны при низких и нулевых скоростях. В статье дано borg University, 2002. – 98 p. 
+теоретическое обоснование метода определения 10. Чалупа, Л.В. Системы управления элек-
+угловой величины на основе подачи сигнала высо- тродвигателями на микроконтроллерах фирмы 
+кой частоты в обмотку возбуждения ротора син- Motorola / Л.В. Чалупа // Chip News. – 1999. – № 1.  
+хронного двигателя. Осуществлён вывод выраже- 11. Гончаров, А.С. Анализ современного со-
+ния, обуславливающего зависимость углового по- стояния в области состояния электроприводов с 
+ложения ротора от наводимых в статоре высоко- бездатчиковым управлением и методов построе-
+частотных составляющих ЭДС. На основе пред- ния САР в условиях ограниченной информации о 
+ложенного выражения разработана модель элек- векторе состояния / А.С. Гончаров, В.А Поваляев, 
+тропривода, анализ которой показал, что величина С.И. Миронов // Электротехнические комплексы и 
+погрешности предложенного метода при сопос- системы управления. – 2008. – № 1. – С. 13–16. 
+тавлении с параметром углового положения, изме- 12. Xia Changliang. Sensorless position control 
+ренного с помощью механического датчика, не of a brushless dc motor based on disturbance observer / 
+превышает 3,8 %.  Xia Changliang // China Electrotech. – 2002. – No. 6. – 
+
+ P. 25–28. 
+Литература 13. Сизякин, А.Е. Без датчика положения ро-
+
+1. Басков, С.Н. Применение векторно- тора: решения компании IR для управления ВЭП / 
+импульсного способа для пуска двигателей пере- А.Е. Сизякин, М.Б. Румянцев // Новости электро-
+менного ток / С.Н. Басков, А.А. Радионов, А.Б. ники. – 2011. – № 10, – С. 22–28.  
+Святых // Электротехника. – 2013. – № 10. –  14. Панкратов, В.В. Тенденции развития об-
+С. 30–34. щепромышленных электроприводов переменного 
+
+2. Виноградов, А.Б. Векторное управление тока на основе современных устройств силовой 
+электроприводами переменного тока / А.Б. Вино- электроники / В.В. Панкратов // Силовая интел-
+градов. – Иваново: ГОУ ВПО «Ивановский госу- лектуальная электроника. Специализированный 
+дарственный энергетически университет им.  информационно-аналитический журнал. – 2005. – 
+В.И. Ленина», 2008. – 298 с.  № 2. – С. 27–31. 
+
+3. Валов, А.В. Импульсно-векторное управле- 15. Корельский, Д.В. Обзор современных мето-
+ние асинхронным двигателем с фазным ротором / дов управления синхронными двигателями с по-
+А.В. Валов, Ю.С. Усынин // 12-я Международная стоянными магнитами / Д.В.Корельский, Е.М. По-
+научно-практическая конференция студентов и тапенко, Е.В. Васильева // Науковий журнал 
+молодых ученых. – 2008. – С. 20–24. «Радiоелектронiка. Iнформатика. Управлiння». – 
+
+4. Baskov, S.N. Vector-pulse control principle of 2001. – № 3. – С. 155–159. 
+ac motors / S.N. Baskov, K.V. Litsin // Вестник  16. Новиков, Ю.Д. Экспериментальное опре-
+Южно-Уральского государственного универси- деление индуктивности рассеяния асинхронных 
+тета. Серия «Энергетика». – 2013. – Т. 13, № 1. – двигателей / Ю.Д. Новиков, З.И. Гентковски,  
+С. 92–95.  Ю.В. Бабин // Электротехника. – 1982. – № 3. –  
+
+5. Jang, J.-H. Sensorless drive of SMPM motor С. 40–41. 
+by high frequency signal injection / J.-H. Jang,  17. Persson, Jan. Innovative standstill position 
+S.-K. Sul. – 2002. – 203 p. detection combined with sensorless control of syn-
+
+6. Куксин, А.В. Математическая модель chronous motors / Jan Persson. – Lausanne, 
+адаптивно-векторной системы управления без- Switzerland, École polytechnique fédérale de 
+датчикового асинхронного электропривода /  Lausanne (EPFL), 2005. – 142 p. 
+А.В. Куксин, А.В. Романов // Вестник Воронежско- 18. Baskov, S.N. Determination of the angular 
+го государственного технического университета. – position of the rotor of a synchronous motor by con-
+2009. – Т. 5, № 11. – С. 85–87. necting a high-frequency signal in the excitation win-
+
+7. Виноградов, А.Б. Адаптивно-векторная сис- ding / S.N.Baskov, K.V. Litsin // International Siberian 
+тема управления бездатчикового асинхронного Conference on Control and Communications, 
+электропривода ЭПВ / А.Б. Виноградов, И.Ю. Ко- SIBCON 2015 – Proceedings. – 2015. – С. 7146993. 
+лодин, А.Н. Сибирцев // Силовая электроника. – DOI: 10.1109/sibcon.2015.7146993 
+2006. – С. 50–55. 19. Sun Don. Direct torque control of a perma-
+
+8. Басков, С.Н. Моделирование системы с nent magnet synchronous motor based on fuzzy logic / 
+промежуточными трансформаторами при век- Sun Don // China Electrotech. – 2003. – No. 1. –  
+торно-импульсном пуске двигателя переменного P. 33–38. 
+тока / С.Н. Басков, К.В. Лицин // Электротехни- 20. Baskov, S.N. Research of vector-pulse start 
+ческие системы и комплексы. – 2014. – № 2 (23). – system of synchronous motor with intermediate trans-
+С. 32–35 former and sensorless determination of angular rotor 
+
+9. Perera, P.D.C. Sensorless Control of Perma- position with mathematical methods / S.N. Baskov, 
+
+112 Bulletin of the South Ural State University. Ser. Power Engineering. 
+2019, vol. 19, no. 3, pp. 108–114 
+
+
+
+Лицин К.В., Ковальчук Т.В.         Разработка методики бездатчикого определения 
+             углового положения ротора синхронного двигателя… 
+K.V. Litsin // 2016 2nd International Conference on векторно-импульсного пуска / С.Н. Басков,  
+Industrial Engineering, Applications and Manufactu- К.В. Лицин, А.А. Радионов // Вести высших учеб-
+ring, ICIEAM 2016 – Proceedings. DOI: ных заведений Черноземья. – 2014. – № 4. – С. 3–8. 
+10.1109/icieam.2016.7910955 22. Горев, А.А. Переходные процессы син-
+
+21. Басков С.Н. Определение углового поло- хронной машины / А.А. Горев. – М.: Госэнергоиз-
+жения ротора синхронного двигателя в режиме дат, 1950. – 290 с.  
+
+ 
+ 
+
+Лицин Константин Владимирович, канд. техн. наук, доцент, Новотроицкий филиал НИТУ 
+«МИСиС», г. Новотроицк, Оренбургская обл.; k.litsin@rambler.ru.  
+
+Ковальчук Татьяна Владимировна, студент, Новотроицкий филиал НИТУ «МИСиС», г. Ново-
+троицк, Оренбургская обл.; tvlkovalchuk@gmail.com. 
+
+ 
+Поступила в редакцию 15 мая 2019 г.
+
+ 
+__________________________________________________________________
+ 
+
+DOI: 10.14529/power190312
+ 
+ADDITIONAL HIGH-FREQUENCY SIGNAL  
+FOR SENSORLESS ANGULAR POSITIONING  
+OF THE ROTOR IN SYNCHRONOUS MOTORS 
+ 
+K.V. Litsin, k.litsin@rambler.ru, 
+T.V. Kovalchuk, tvlkovalchuk@gmail.com 
+Novotroitsk branch of the National University of Science and Technology “MISIS”,  
+Orenburg region, Novotroitsk, Russian Federation 
+ 
+ 
+
+This is a feasibility test for sensorless angular rotor positioning. The paper analyzes the existing methods 
+for sensorless control of angular rotor position in AC motors. It identifies their common drawbacks, one of 
+which is that angular rotor position is difficult to determine at low or zero rotor speed unless a mechanical sen-
+sor is in use. The paper presents the functional diagram of a sensorless electric drive based on a synchronous 
+motor. It considers the correlation of induced EMF and high-frequency voltage signal fed to the SM excitation 
+winding. The paper further derives a formula to describe the angular rotor position as a function of phase EMF. 
+The derivation is based on Park-Gorev equations. The obtained dependencies are used in an implemented struc-
+tural diagram, with the research output being discussed in detail. 
+
+Keywords: synchronous motor, high frequency signal, rotor angular position, state observer, electromotive 
+force. 
+
+ 
+ 
+
+References 
+1. Baskov S.N., Radionov A.A., Svyatykh A.A. [The use of vector-pulse method for starting AC motors]. 
+
+Russian Electrical Engineering, 2013, no. 10, pp. 30–34. (in Russ.) 
+2. Vinogradov, A.B. Vektornoe upravlenie elektroprivodami peremennogo toka [Vector control of AC 
+
+drives], Ivanovo, SEI HPE Ivanovo State Power Engineering University, 2008. 225 p.  
+3. Valov A.V., Usynin Yu.S. [Pulse-vector control of an asynchronous motor with a phase rotor]. 
+
+12-ya Mezhdunarodnaya nauchno-prakticheskaya konferentsiya studentov i molodykh uchenykh [12th Internatio-
+nal Scientific and Practical Conference of Students and Young Scientists], 2008, pp. 20–24. (in Russ.) 
+
+4. Baskov S.N., Litsin K.V. [Vector-pulse control principle of ac motors]. Bulletin of the South Ural State 
+University. Ser. Power Engineering, 2013. vol. 13, no. 1, pp. 92–95. (in Russ.)  
+
+5. Jang J.-H., Sul S.-K. [Sensorless drive of SMPM motor by high frequency signal injection], 2002. 203 p. 
+6. Kuksin A.V., Romanov A.V. [Mathematical model of the adaptive vector control system of a sensorless 
+
+asynchronous electric drive]. Bulletin of the Voronezh State Technical University, 2013, vol. 5, no. 11, pp. 85–87.
+(in Russ.) 
+
+7. Vinogradov A.B., Kolodin Yu., Sibirtsev A.N. [Adaptive-vector control system of an EPV sensorless asyn-
+chronous electric drive]. Silovaya elektronika, 2006, pp. 50–55. (in Russ.) 
+ 
+Вестник ЮУрГУ. Серия «Энергетика».  
+2019. Т. 19, № 3. С. 108–114 113 
+
+
+
+Электромеханические системы 
+8. Baskov S.N., Litsin K.V. [Simulation of a system with intermediate transformers with a vector-pulse start-
+
+up of an AC motor]. Electrotechnical Systems and Complexes, 2014, no. 2 (23), pp. 32–35. (in Russ.) 
+9. Perera P.D.C. Sensorless Control of Permanent-Magnet Synchronous Motor Drives. PhD thesis. Institute of 
+
+Energy Technology Aalborg University, 2002. 98 p. 
+10. Chalupa L.V. [Motor control systems on Motorola microcontrollers]. Chip News, 1999, no. 1.  
+11. Goncharov A.S., Povalyaev V.A., Mironov S.I. [Analysis of the current state in the field of the state of 
+
+electric drives with sensorless control and methods for constructing ATS conditions of limited information about 
+the state vector]. Electrotechnical Complexes and Control Systems, 2008, no. 1, pp. 13–16. (in Russ.) 
+
+12. Xia Changliang. Sensorless position control of a brushless dc motor based on disturbance observer. China 
+Electrotech., 2002, no. 6, pp. 25–28. 
+
+13. Sizyakin A.E., Rumyantsev M.B. [Without rotor position sensor: IR company solutions for VEP control]. 
+Electronics News, 2011, no. 10, pp. 22–28. (in Russ.) 
+
+14. Pankratov, V.V. [Development trends of common industrial electric drives of alternating current based on 
+modern power electronics devices]. Power Intelligent Electronics. Specialized Information and Analytical Maga-
+zine, 2005, no. 2, pp. 27–31. (in Russ.) 
+
+15. Korel'skiy, D.V., Potapenko E.M., Vasil'eva E.V. [An overview of modern son-chronical permanent mag-
+net drive control techniques]. Scientific magazine “Radioelektronika. Informatics. Upravlinnya”, 2001, no. 3,  
+pp. 155–159. 
+
+16. Novikov Yu.D., Gentkovski Z.I., Babin Yu.V. [Experimental determination of leakage inductance of 
+asynchronous motors]. Russian Electrical Engineering, 1982, no. 3, pp. 40–41. (in Russ.) 
+
+17. Jan Persson. Innovative standstill position detection combined with sensorless control of synchronous mo-
+tors. Lausanne, Switzerland, École polytechnique fédérale de Lausanne (EPFL), 2005. 142 p.  
+
+18. Baskov S.N., Litsin K.V. [Determination of the angular position of the rotor of a synchronous motor by 
+connecting a high-frequency signal in the excitation winding ]. International Siberian Conference on Control and 
+Communications, SIBCON 2015 – Proceedings, 2015. P. 7146993. DOI: 10.1109/sibcon.2015.7146993 
+
+19. Sun Don. Direct torque control of a permanent magnet synchronous motor based on fuzzy logic. China 
+Electrotech, 2003, no. 1, pp. 33–38. 
+
+20.  Baskov, S.N., Litsin, K.V. [Research of vector-pulse start system of synchronous motor with intermediate 
+transformer and sensorless determination of angular rotor position with mathematical methods]. 2016 2nd Interna-
+tional Conference on Industrial Engineering, Applications and Manufacturing, ICIEAM 2016 – Proceedings. DOI: 
+10.1109/icieam.2016.7910955  
+
+21. Baskov S.N., Litsin K.V., Radionov A.A. [Determination of the angular position of the rotor of a synchro-
+nous motor in the vector-pulse start mode]. Conduct Universities of Chernozem, 2014, no. 4, pp. 3–8 (in Russ.). 
+
+22. Gorev, A.A. Perekhodnye protsessy sinkhronnoy mashiny [Transient synchronous machine]. Moscow, 
+Gosenergoizdat Publ., 1950. 290 p. 
+ 
+
+Received 15 May 2019 
+ 
+ 
+
+ОБРАЗЕЦ ЦИТИРОВАНИЯ  FOR CITATION 
+Лицин, К.В. Разработка методики бездатчикого  Litsin K.V., Kovalchuk T.V. Additional High-
+
+определения углового положения ротора синхронного Frequency Signal for Sensorless Angular Positioning of 
+двигателя на основании дополнительного сигнала the Rotor in Synchronous Motors. Bulletin of the South 
+высокой частоты / К.В. Лицин, Т.В. Ковальчук // Ural State University. Ser. Power Engineering, 2019,  
+Вестник ЮУрГУ. Серия «Энергетика». – 2019. –  vol. 19, no. 3, pp. 108–114. (in Russ.) DOI: 
+Т. 19, № 3. – С. 108–114. DOI: 10.14529/power190312 10.14529/power190312 
+
+ 
+ 
+ 
+
+ 
+114 Bulletin of the South Ural State University. Ser. Power Engineering. 
+
+2019, vol. 19, no. 3, pp. 108–114

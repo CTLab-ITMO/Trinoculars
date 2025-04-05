@@ -1,0 +1,1641 @@
+﻿2020 Vol. 24 No. 3  523–550 
+Russian Journal of Linguistics http://journals.rudn.ru/linguistics
+
+DOI: 10.22363/2687‐0088‐2020‐24‐3‐523‐550 
+Introductory article 
+
+Varieties	of	English	and	Kachru’s	Expanding	Circle	
+Zoya G. PROSHINA1 and Cecil L. NELSON2 
+
+1 Lomonosov Moscow State University 
+Moscow, Russia 
+
+2 Indiana State University 
+Terre Haute, Indiana, USA 
+
+Abstract 
+In this overview article, we present the motivations for compiling this issue of RJL and summarize 
+the major premises of the World Englishes (WE) Paradigm. The focus is on the relations between 
+the WE school of thought and the paradigms that branched from it, i.e. English as a Lingua Franca 
+(ELF) and English as an International Language (EIL). The statuses of Englishes in the Kachruvian 
+Expanding Circle that function mainly as lingua francas in international communication is one of 
+the most controversial issues in sociolinguistics. We discuss the misconceptions regarding the 
+Expanding Circle Englishes. Finally, we give a brief survey of the articles contributed to this issue, 
+which develop theoretical and empirical material for the WE paradigm. 
+Keywords: World Englishes paradigm, varieties, Expanding Circle, English as a Lingua Franca, 
+English as an International Language, International English, language norms 
+
+For citation: 
+Proshina, Zoya G. & Cecil L. Nelson. 2020. Varieties of English and Kachru’s Expanding 
+Circle. Russian Journal of Linguistics 24 (3). 523–550. DOI: 10.22363/2687-0088-2020-24-3-
+523-550 
+
+Вступительная статья
+
+Варианты	английского	языка		
+и	Расширяющийся	круг	Качру
+
+З.Г. ПРОШИНА1, С.Л. НЕЛЬСОН2 
+1 Московский государственный университет имени М.В. Ломоносова 
+
+Москва, Россия 
+2 Университет штата Индиана 
+
+Терре-Хот, США 
+Аннотация 
+В данной обзорной статье объясняются причины, обусловившие подготовку этого выпуска 
+журнала, и суммируются основные положения контактной вариантологии английского 
+языка. Обращается внимание на связь между парадигмой, изучающей варианты английского 
+языка в мире, и теориями, отпочковавшимися от нее – теорией английского как лингва 
+франка и теорией английского как международного языка. Одной из самых спорных проблем 
+социолингвистики стал вопрос о статусе вариантов из Расширяющегося круга, 
+
+523 
+
+
+
+Zoya G. Proshina and Cecil L. Nelson. 2020. Russian Journal of Linguistics 24 (3). 523–550 
+
+представленного в теории Б. Качру. В международной коммуникации эти варианты 
+функционируют главным образом как языки-посредники, или лингва франка. 
+Рассматриваются ошибочные концепции относительно вариантов Расширяющегося круга. В 
+заключение делается краткий обзор статей, представленных в данный номер, развивающих 
+теорию и предоставляющих эмпирический материал для дальнейшей разработки теории 
+вариантов английского языка в мире. 
+Ключевые слова: контактная вариантология английского языка, варианты, Расширяю-
+щийся круг, английский как лингва франка, английский как международный язык, междуна-
+родный английский язык, языковые нормы 
+
+Для цитирования: 
+Proshina Z.G., Nelson C.L. Varieties of English and Kachru’s Expanding Circle. Russian 
+Journal of Linguistics. 2020. Vol. 24. № 3. Р. 523–550. DOI: 10.22363/2687-0088-2020-24-3-
+523-550 
+
+1. Introduction
+This journal issue is a collection of articles that ponder the status, functions, 
+
+and features of Englishes that in their home settings are mostly known as a foreign 
+language. They are normally used for intercultural communication with people of 
+other countries and rarely for interpersonal communication within their own 
+countries. These varieties of English belong to the third group of Englishes that are 
+regularly named Expanding Circle Englishes in the famous Three Circles Theory 
+of Braj B. Kachru (1985). The other two groups are termed Inner Circle Englishes, 
+characterized as native (first) languages for the majority of their countries’ 
+populations and serving almost all possible functions within their communities, and 
+Outer Circle Englishes, institutionalized and serving as a second official 
+(co-official) language in their country’s institutions. (Critiques of Kachru’s model 
+and descriptions of other models are examined in Schneider 2017 and Berns 2019.) 
+
+According to the statistics provided by ThoughtCo1, English as a Second 
+Language is learned by 375 million people, while English as a Foreign Language is 
+learnt by 750 million (Beare 2020). Thus, there are twice as many users of English 
+in the Expanding Circle as in the Outer Circle. In China only, in 2001 the number 
+of English learners was 390 million (Wei & Su 2012: 11). Statistics provided by 
+Levada-Center reveal that in 2014, 11% of Russians, about 16 million users, 
+claimed good knowledge of English. 
+
+The quantitative research conducted by Margie Berns in 2005 and 2019 
+demonstrated steadily growing interest in Expanding Circle Englishes. Berns 
+counted papers published in two scholarly journals, World Englishes and English 
+Today, and found that within the period of 1998–2001 these journals published 
+47 articles on Expanding Circle Englishes. In 2001–2018, the number of papers on 
+Expanding Circle Englishes was 318. The total number was 365 papers covering 
+79 countries and 11 regions, with the “lion’s share” (Berns 2019: 12) relating to 
+East Asia, especially China (about 100 papers) and Japan (20 papers). Russian 
+
+1 ThoughtCo is a premier reference education site, whose content is created by high-grading 
+experts in a field. See https://www.thoughtco.com/about-us (accessed: 16.07.2020). 
+
+524 
+
+
+
+Zoya G. Proshina and Cecil L. Nelson. 2020. Russian Journal of Linguistics 24 (3). 523–550 
+
+English was documented in 19 articles, the majority of which were published in a 
+special issue of World Englishes (Proshina 2005). Berns stressed that these 
+Expanding Circle Englishes “remain uncharted territory in many respects” (Berns 
+2019: 13). 
+
+In fact, the proof of her statement can be seen even in such encyclopedic 
+reference works as handbooks. The first Handbook of World Englishes, published 
+in 2006 (Kachru, Kachru & Nelson 2006), had only three chapters on Expanding 
+Circle varieties – East Asian, South American, and European Englishes – of sixteen 
+chapters describing localized world Englishes. The second edition of the Handbook 
+of World Englishes (Nelson, Proshina & Davis 2020) has five chapters dealing 
+specifically with South American, European, Russian, East Asian, and Chinese 
+Englishes. Five chapters on East Asian, Chinese, Slavic, Colombian, and European 
+Englishes are included in The Routledge Handbook of World Englishes (Kirkpatrick 
+2010). Only one region (Central America) of the Expanding Circle is covered in 
+The Cambridge Handbook of World Englishes (Schreier, Hundt & Schneider 2020), 
+and three in The Oxford Handbook of World Englishes (Filppula, Klemola & 
+Sharma 2017). Seven regional varieties are discussed in The Routledge Handbook 
+of English as a Lingua Franca (Jenkins, Baker & Dewey 2018). Though 
+Thumboo’s volume titled The Three Circles of English (Thumboo 2001) is aimed 
+at discussing various Englishes that are comprised in the Kachruvian model, only 
+four chapters address the Expanding Circle proper. Very little information on the 
+Expanding Circle can be found in A Dictionary of Varieties of English (Hickey 
+2014). 
+
+Special works on Expanding Circle Englishes are not numerous, either. 
+European Englishes are examined in Cenoz & Jessner (2000), Görlach (2001, 
+2002), Berns, de Bot & Hasebrink (2007), Houwer & Wilton (2011), Edwards 
+(2016), Borodina (2018). East Asian Englishes are researched in Proshina (2001, 
+2020); Bolton (2003), Stanlaw (2004), Bondarenko (2007), Bianko, Orton & Gao 
+(2009), Ivankova (2009), Seargeant (2009, 2011), Xu (2010), Zavyalova (2011), 
+Graddol (2013), Hadikin (2014), Cho (2017), and Jenks & Lee (2017). 
+
+Russian English, though a very debatable issue, has been a focus of the special 
+volume Russian English: History, Functions, and Features (Proshina & Eddy 
+2016), as well as a number of articles (Gritsenko 2014, Proshina 2006, 2014b, 
+Proshina & Rivlina 2018, 2020, Rivlina 2013, 2015a, 2015b, Ustinova 2005, 2006) 
+and dissertations (Eddy 2007, Lawrick 2011, Lazaretnaya 2012). Some authors, 
+though not using the term ‘Russian English’ have in fact contributed to the 
+discussion of the variety, its cultural underpinning (Kabakchi 1998, 2002, 2015) 
+and its linguistic features (Savitsky & Kurovskaya 2004, Schennikova 2017, 
+Shishkina 1996). 
+
+Given what has been said and still is to be clarified, the motivation of this 
+journal’s thematic issue is the need to discuss the nature of Expanding Circle 
+Englishes and the factors that facilitate their development, different from each other 
+and from other varieties in the Inner and Outer Circles, yet not recognized by many 
+
+525 
+
+
+
+Zoya G. Proshina and Cecil L. Nelson. 2020. Russian Journal of Linguistics 24 (3). 523–550 
+
+speakers of these varieties or even by linguistic scholars who, on the one hand, take 
+Kachru’s division of world Englishes for granted, but on the other, argue against 
+Expanding Circle Englishes having the right to be called a variety. 
+
+ 
+2. The WE paradigm and how it differs from other theories 
+
+Before we introduce the articles contributed to this issue, we would like to 
+remind the reader of the major prerequisites and tenets of the Word Englishes (WE) 
+paradigm, and its connection with other paradigms that have actually branched 
+from it. 
+
+The WE paradigm, which emerged in the 1960s (Kachru 1961, Beliayeva & 
+Potapova 1961) and has developed since, with its theoretical basis brought into 
+focus especially in the 1980–1990s (Kachru 1986, Kachru & Smith 1985, Smith 
+1987, Smith & Forman 1997, see also Bolton 2020), is a revolutionary theory 
+(Proshina 2014a), as it has radically challenged the traditional views on the 
+Empire’s linguistic dominance, flipped sociolinguistic ideas, and drastically 
+changed pedagogical beliefs that had found their way into English language 
+teaching and learning. To summarize the major premises, the following arguments 
+should be highlighted: 
+
+‒ English is not a monolithic and homogeneous language anymore. Being 
+pluricentric (which is due to historical, political, and economic, as well as cultural 
+and informational reasons), it has differentiated into a great number of varieties – 
+world Englishes. 
+
+‒ Each variety is underpinned by its linguaculture, which means it is able to 
+express the cultural identity of its users and has certain features transferred from 
+their mother tongues and/or other languages that are in regular contact with this 
+variety. 
+
+‒ A variety is a sociolinguistic phenomenon. Therefore, it has features 
+characteristic of a certain speech community on the average but not necessarily 
+manifested in the speech of every member of this community, since each speaker’s 
+usage depends on the level of language proficiency, sphere of use, style of 
+communication, and individual preferences. 
+
+‒ Due to the linguacultural underpinning that identifies each variety, world 
+Englishes are all equally legitimate. In the very first issue of the World Englishes 
+journal, its founding editors stated: 
+
+ 
+
+The editorial board considers the native and non-native users of English as 
+equal partners in deliberations on users of English and its teaching 
+internationally. WE is thus a vehicle which may be used to share the vast 
+Western and non-Western expertise and experience for the benefit of all users 
+of English.… The acronym WE, therefore aptly symbolizes the underlying 
+philosophy of the journal and the aspirations of the Editorial Board (Kachru 
+& Smith 1985: 211). 
+
+ 
+
+‒ Varieties of the Outer and Expanding Circles are used as additional or 
+auxiliary (Smith 1976) communicative tools. The functions of the burgeoning 
+
+526  
+
+
+
+Zoya G. Proshina and Cecil L. Nelson. 2020. Russian Journal of Linguistics 24 (3). 523–550 
+
+varieties might seem restricted, but the more a variety develops over time, the more 
+functions it gains. Kachru (1986: 92) refers to the ranges of Englishes in “cultural, 
+social, educational, and commercial contexts,” and to the depths of their social 
+acceptance and use in “various strata of society.” This dynamic headway is 
+nowadays obvious in all varieties. 
+
+These innovative features are salient for linguistics, especially sociolinguistics, 
+literature studies, culture studies, and applied linguistics, by which we understand 
+not only the domain of language teaching and learning as is normally meant “in the 
+Anglophone literature” (Knapp & Antos 2009: vii), but also in the so-called 
+“Practical Applied Linguistics” in Back’s sense of the term (Back 1970), as it is 
+also used in Russia, i.e., “application of insights from linguistics in a practical field 
+related to language, such as language teaching, translation, and the like” (Knapp & 
+Antos 2009: vii). In a word, these features mark the interdisciplinarity of the new 
+paradigm, which makes it much wider in its scope than the English as a Foreign 
+Language (EFL) paradigm in English language teaching (ELT).  
+
+The WE paradigm has led to the emergence of other branches of research that 
+are nowadays characterized as new paradigms – English as an International 
+Language (EIL) and English as a Lingua Franca (ELF) – that are developing certain 
+aspects related to world Englishes. Both these branches have ELT as their major 
+focus. They stand in clear opposition to the pedagogy of EFL, which is based on 
+teaching a monocentric or bicentric model of English, based on British English and 
+British culture, or/and American English and the culture and values it serves.  
+
+Unlike the pedagogical concept of EFL, the idea that stands behind EIL, the 
+term put forward by Larry Smith (1976) and further developed by Farzad Sharifian 
+(2009) and many other scholars (Alsagoff 2012, Marlina & Giri 2014, Matsuda 
+2012, 2017, McKay 2002), focuses on the necessity of acquainting students with 
+the language by exposing them to diverse world Englishes that might meet the needs 
+of future communicators in real-life situations:  
+
+EIL in fact rejects the idea of any particular variety being selected as a lingua 
+franca for intercultural communication. EIL emphasizes that English, with its 
+many varieties, is a language of international, and therefore intercultural, 
+communication. (Sharifian 2009: 2)  
+
+If the concept of EIL is grounded on the diversity of world Englishes, a similar 
+term, International English, implies a controversial phenomenon. It is associated 
+with an allegedly unified standard English that facilitates international 
+communication (Todd & Hancock 1987, Trudgill & Hannah 1994) – similar to 
+Quirk’s idea of “nuclear English” (Quirk 1982) – and is used in formal contexts 
+(though, as we will discuss later, it is an abstract ideal implemented in real speech 
+practice with at least a local accent, if not other context-specific features). This 
+understanding of International English coincides with Peter Strevens’s definition: 
+“a particular dialect of English, being the only non-localized dialect, of global 
+currency without significant variation, universally accepted as the appropriate 
+educational target in teaching English; which may be spoken with an unrestricted 
+
+527 
+
+
+
+Zoya G. Proshina and Cecil L. Nelson. 2020. Russian Journal of Linguistics 24 (3). 523–550 
+
+choice of accent” (Strevens 1983: 88). In fact, nowadays it is impossible to speak 
+about one and the same standard of English for all varieties – they are changing 
+dynamically and the process of standardization is observed in all of them (Hickey 
+2013). Judging by Strevens’s definition, EIL and International English prove to be 
+antonymic concepts, with EIL oriented towards diversity and differentiation –  
+i.e. varieties – and International English, towards unity and homogeneity,  
+i.e. invariant. 
+
+The concept of English as a Lingua Franca (ELF) was revived by Alan Firth 
+(1990, 1996) to imply “the modus operandi” for interactants none of whom has this 
+language as their mother tongue (Firth 1996: 255). As is clear from this definition, 
+native speakers are excluded from this conceptualization, which can reasonably be 
+questioned, since speakers of English as their first language have to adapt the way 
+they speak in intercultural settings. Therefore, nowadays more commonly accepted 
+is the definition given by Barbara Seidlhofer: ELF is “any use of English among 
+speakers of different first languages for whom English is the communicative 
+medium of choice, and often the only option” (Seidlhofer 2011: 7), which includes 
+participants of the three circles (though still we can find associations of ELF mostly 
+with varieties of the Expanding Circle). Seidlhofer’s explanation of ELF also 
+prompts a very important conceptual idea: ELF is the use or function of any variety 
+of English. It has no status as a variety, but is just a variety’s pragmatic facet. Any 
+world English as a variety (including Inner Circle varieties) can be characterized by 
+this function, which is implemented mostly in intercultural communication. But 
+besides this function, world Englishes have many other functions as well.  
+
+It is no wonder that when teachers are talking about ELF, they concentrate 
+mostly on three objects: strategies of communication, mutual understanding, and 
+diversity awareness.  
+
+Firstly, strategies of communication are aimed at mutual accommodation of 
+speakers via such adaptive processes as exploiting redundancy, regularization, 
+added prominence, explication, adjustments, reformulations, repetition, code-
+switching, negotiation of meaning, and many others (Cogo & Dewey 2012, 
+Mauranen & Ranta 2010, Meierkord 2012, Vettorel 2018). Research on these 
+processes is mainly carried out by means of corpora; therefore, the contributions of 
+these scholars to corpus linguistics is undeniable (e.g., VOICE, Vienna-Oxford 
+International Corpus of English; ELFA, English as a Lingua Franca in Academic 
+Settings; CASE, Corpus of Academic Spoken English; ACE, Asian Corpus of 
+English; RACE, Russian-Asian Corpus of English; BELF, English as Business 
+Lingua Franca). 
+
+Secondly, mutual understanding in international communication is a common 
+problem for ELF, EIL, and WE researchers. In the early days of the WE paradigm, 
+the problem was formulated as a three-facet phenomenon by Larry Smith and the 
+scholars he was working with (Nelson 2011, Smith 1992, Smith & Bisazza 1982, 
+Smith & Rafiqzad 1979, Smith and Nelson 2020). Mutual understanding comprises 
+three facets: intelligibility, understanding spoken and written forms of speech 
+
+528  
+
+
+
+Zoya G. Proshina and Cecil L. Nelson. 2020. Russian Journal of Linguistics 24 (3). 523–550 
+
+production; comprehensibility, understanding the meaning of what is said and 
+written; and interpretability, understanding the sense of what hides behind the text – 
+a pragmatic component associated with the background knowledge of 
+communicators which allows them to understand the purpose of the language in 
+use. 
+
+The third challenge, diversity awareness, which is much discussed by ELF 
+researchers (Bayyurt & Sifakis 2015, Lopriore & Vettorel 2015, Sifakis et al. 2018, 
+Sung 2018, Wang 2015), is not an uncommon topic for EIL and WE scholars, 
+as well. As was shown above, diversity has become a key word for talking about 
+EIL. World Englishes are singled out based on different features and functions, and 
+because of that, they are differentiated as varieties. From a pedagogical point of 
+view, raising awareness of the diverse ways people speak English due to their 
+different linguacultural grounds is to make “an informed choice” (Jenkins 2007: 
+22). which is necessary for effective intercultural communication. 
+
+An issue that seems to have been a stumbling block between ELF and WE 
+supporters is the relation between ELF and a variety. Though it has been recognized 
+that ELF “does not exist as a system” (Canagarajah 2007: 926) and “emerges out 
+of and through interaction” (Meierkord 2004: 129, see also Kecskes 2019), and that 
+it is an abstraction, a concept of a function but not a live variety per se (Berns 2009: 
+196), time and again we can find works (e.g., Breiteneder 2009, Mackenzie 2014, 
+Jenkins 2017) that describe phonetic, syntactic, and other levels of ELF that 
+demonstrate that the authors treat this concept as a structured variety (at least a 
+generalized entity, which makes it an abstraction rather than a live phenomenon) 
+instead of talking of world Englishes functioning as ELF. 
+
+ 
+3. Dispelling doubts about the Expanding Circle 
+
+While Inner Circle varieties, both old and new (like New Zealand, Australian, 
+and Canadian Englishes), and many Outer Circle Englishes are well recognized and 
+by now have been thoroughly described, the Expanding Circle Englishes have not 
+yet been unanimously accepted, especially among their own users. Reasons for that 
+are usually seen in these varieties not being codified, but if we have a deeper look 
+into the problem, we can find that, in fact, the rationale for rejecting Expanding 
+Circle varieties is lack of linguacultural acceptance.  
+
+Regarding codification, which is usually understood as the process resulting in 
+standardization of the language, we can definitely argue that all varieties as 
+language manifestations are standardized, though their spoken performance might 
+be represented as either fitting norms or breaking them. Following Davis (2010), 
+we use the term standardized English rather than standard English to emphasize 
+the dynamic linguistic changes that take place in all world Englishes, including 
+those that belong to the Inner Circle. 
+
+Speaking about types of language norms, Kachru (1985) subdivided them into 
+three kinds according to the three circles: the Inner Circle comprises endonormative 
+varieties that usually serve as norm-providing models for other Englishes; the Outer 
+
+  529 
+
+
+
+Zoya G. Proshina and Cecil L. Nelson. 2020. Russian Journal of Linguistics 24 (3). 523–550 
+
+Circle varieties are in the most dynamic process of modifying the norms and, 
+therefore, are considered as norm-developing Englishes; and the Expanding Circle 
+varieties are norm-dependent and apply exonorms that have been developed and 
+codified in other Englishes, not necessarily in the Inner Circle; if there is need, 
+Expanding Circle users of English can employ standards of an Outer Circle English. 
+The variability of exonorms, especially British and American, leads to their 
+frequent mixture and results in a certain specificity in using the standardized 
+variety. 
+
+As for speech production in Expanding Circle Englishes, Kachru’s theory 
+again provides us with an explanation in the form of a bilingual cline model (Kachru 
+1983). Any variety produced by contact with an indigenous language results in 
+bilinguality of its users, which can be represented as a continuum of use, depending 
+on the language competence of users and functions and style of their discourse. 
+Acrolectal speech characterizes formal discourse of very competent uses; 
+mesolectal speech is mostly manifest in informal discourse of educated speakers or 
+in formal and informal discourse typical of users with less proficiency; and 
+basilectal speech as a hybrid and even pidginized type of discourse is characteristic 
+of uneducated users (Proshina 2017: 150–152). 
+
+We see that standardization should not be regarded as a major argument for 
+accepting a variety, which exists in both standardized and non-standardized forms 
+and includes not only acrolect, but also mesolect and basilect. Acceptance of a 
+variety is gained when its users recognize that their variety expresses their 
+linguacultural identity, and it might be a primary or a secondary vehicle for this 
+expression. The variety they speak and write expresses their culture, values, 
+mindset, and world view. This conceptual cultural part of identity is revealed 
+through lexis and syntax, first and foremost (culture-loaded words, collocations, 
+and syntactic structures). Besides these means, the lingual part of one’s identity is 
+also transferred via phonetic (phonetic accent) and grammatical levels (grammar 
+categories, such as discretion in expressing plurality of nouns – equipments, 
+furnitures – as is observed in Asian Englishes). The linguistic features result from 
+transfer from the users’ first language, as well as from verbalization of their 
+mindset. For example, even in acrolectal Russian English one can hear Russian 
+intonation, devoiced final consonants, frequent lack of aspiration, sometimes 
+specific pronunciations of separate sounds (such as th, w, r), by all of which the 
+Russian accent is easily identified. On the grammatical level, direct object fronting 
+(This book I haven’t read yet.), lack or unusual use of articles (the complex ethnical 
+structure of the population determines peculiarity of the gender interaction), 
+avoidance of the Perfect tenses (I am living in this city since childhood), substitution 
+of left-hand attributive clusters by postpositional attributes containing prepositions 
+(Old English period > period of Old English), dominance of impersonal sentences 
+with a dummy subject (It is expected that she will come will be preferred to She is 
+supposed to come) are very typical. Many other features of Russian English 
+discourse are described in Proshina & Eddy (2016). 
+
+530  
+
+
+
+Zoya G. Proshina and Cecil L. Nelson. 2020. Russian Journal of Linguistics 24 (3). 523–550 
+
+This does not mean that absolutely all users of a variety will exhibit the full set 
+of features typical of the variety. As has been mentioned, the number of the variety’s 
+distinctive features in an individual’s spoken discourse will depend on the user’s 
+language competence, context of situation, state of mind, and degree of desire to 
+follow the educational model as an exonorm. 
+
+Acceptance of a variety is a long process – it takes time for an English in a 
+certain location to become the local English. Even Inner Circle Englishes, for 
+example, Australian English, had to make the transition from English in Australia 
+to Australian English (Fritz 2007) that was fully recognized as a variety per se only 
+in the 1970s when Australians overcame their cultural cringe, and their cultural 
+nationalism paved the way to assert their linguistic and cultural identity.  
+
+Social and psychological awareness of linguacultural identity expressed 
+through a variety, as well as its educational codification (Kachru 1985), lead to 
+recognizing its distinctive features. Most of the Expanding Circle varieties are still 
+on their way to this recognition. 
+
+This recognition will certainly come with a growing functional increase of 
+Expanding Circle Englishes. Nowadays they serve not only intercultural functions 
+as a lingua franca. They also have informative functions in business, advertising, 
+mass media, and science. They implement an instrumental function in education, 
+including English as a medium of instruction (EMI). Expanding Circle Englishes 
+can also be found in their creative functions (in translingual or contact literatures, 
+mass culture, and ludic uses in puns and so on; see, for example, Seidlhofer (2010) 
+for the functions of English and domains of its use in Europe). 
+
+To conclude, we would like to emphasize that Expanding Circle varieties do 
+exist in real life and no matter how closely their users might approach an educating 
+exonormative model, varieties will still have their own distinctive features as they 
+serve as secondary means of linguacultural identity. A variety is a typical collection 
+of discourse events and products, distinctive in linguistic features and cultural 
+underpinnings. 
+
+A variety is not a simulation of a codified education model, nor is it a collection 
+of defective speech samples of interlanguage. Expanding Circle varieties, like all 
+other world Englishes, are used by educated communicators with fluent 
+performance and high competence – those whom Kachru (1998) described as 
+functional native speakers of their varieties (see also Smith 2008). 
+
+World Englishes of the three circles should constitute part and parcel of EIL 
+curricula. Raising awareness of the diversity of Englishes is of unquestionable value 
+in language teaching and learning and in translation and interpretation. The domain 
+of applied linguistics is yet to be enriched by WE research. Knowing distinctive 
+features of other varieties, as well as specifics of their Romanization systems (such 
+as Chinese Pinyin, for example) will make intervarietal communication, including 
+intervarietal translation, easier.  
+
+Recognizing one’s own variety as a vehicle to express one’s mindset and 
+culture. and being aware of its place among other world Englishes provides 
+
+531 
+
+
+
+Zoya G. Proshina and Cecil L. Nelson. 2020. Russian Journal of Linguistics 24 (3). 523–550 
+
+psychological comfort in intercultural communication due to the principles of 
+inclusiveness and equality of varieties. Knowing typical features of one’s own 
+variety is important for improving one’s language competence.  
+
+4. Brief description of this issue
+Berns (2005: 92) spoke about the “dawning age of the Expanding Circle 
+
+Englishes.” The publication of this issue of the Russian Journal of Linguistics 
+shows that the dawn has gradually grown into late morning, though the primetime 
+noon is still ahead. 
+
+Having described the motives that pushed us to collect this issue and the major 
+premises of the WE paradigm and its branches, such as EIL and ELF, we would 
+like to express our gratitude to the authors who contributed their works to make this 
+publication interesting and insightful. 
+
+As readers can see from the Table of Contents, the articles presented in this 
+journal deal with Asian (Japanese and Chinese), European (German), and Russian 
+Englishes. They cover general issues of the Expanding Circle Englishes, their 
+statuses, features, and functions (A. Kirkpatrick, V. Zavyalova, Zh. Xu & D. Zhang, 
+A. Rivlina, E. Gritsenko & A. Alikina, and Yu. Davydova). Some of the articles 
+discuss pedagogical challenges related to teaching global and local Englishes 
+(J. D’Angelo & S. Ike, N. Hino, and I. Lebedeva). One article (G. Lovtsevich & 
+A. Sokolov) examines the lexicographic aspect of WE as viewed from the 
+Expanding Circle. 
+
+Besides the research articles, this issue also includes two reviews related 
+directly to the theme of World Englishes (E. Marinina and E. Lebedeva).  
+
+All the problems are discussed from international perspectives, as the authors 
+have worked in different parts of the world and synthesized their empirical research 
+with in-depth theoretical foundations. We hope that readers will find the issues 
+raised in these papers to be useful and stimulating food for thought, further research, 
+and practical activities. 
+
+RU	
+
+1. Введение
+В этом номере журнала собраны статьи, авторы которых размышляют о 
+
+статусе, функциях и чертах вариантов английского языка, которые у себя на 
+родине чаще всего называются иностранным языком. Обычно эти варианты 
+используются для межкультурной коммуникации с представителями других 
+стран и редко – для межличностного общения внутри своих стран. Эти вари-
+анты английского языка относятся к третьей группе, обычно называемой  
+вариантами Расширяющегося круга, согласно известной теории трех кругов 
+мирового английского языка Браджа Б. Качру (Kachru 1985). Две другие 
+группы относятся к вариантам Внутреннего круга, которые характеризуются 
+
+532 
+
+
+
+Zoya G. Proshina and Cecil L. Nelson. 2020. Russian Journal of Linguistics 24 (3). 523–550 
+
+как родные (первые) языки для большинства населения этих стран и выпол-
+няют практически все возможные функции в рамках своего социума, и к ва-
+риантам Внешнего круга, которые институциализированы и выполняют роль 
+второго официального языка в соответствующих институтах своих стран. 
+Критика модели Б. Качру и описание других моделей рассмотрены в работах 
+Э. Шнайдера (Schneider 2017) и М. Бёрнс (Berns 2019). 
+
+Согласно  статистическим  данным,  предоставленным  “ThoughtCo”2,  
+английский как второй язык изучают 375 млн человек, в то время как англий-
+ский как иностранный язык изучают 750 млн человек (Beare 2020). Таким об-
+разом, пользователей английского языка в Расширяющемся круге в два раза 
+больше, чем во Внешнем круге. Только в Китае в 2001 г. число изучающих 
+английский язык составляло 390 млн (Wei & Su 2012: 11). Статистические 
+данные, предоставленные Левада-центром, свидетельствуют, что в 2014 г. 
+11 % россиян, т.е. около 16 млн человек заявляли о хорошем знании англий-
+ского языка. 
+
+Количественное исследование, проведенное Марджи Бёрнс в 2005 и 
+2019 гг., показало стабильно растущий интерес к вариантам Расширяющегося 
+круга. М. Бёрнс сделала подсчет статей, опубликованных в двух научных 
+журналах, World Englishes и English Today, и обнаружила, что в течение пери-
+ода 1998–2001 гг. эти журналы опубликовали 47 статей о вариантах Расширя-
+ющегося круга. В 2001–2018 гг. число статей о вариантах Расширяющегося 
+круга уже было 318. Общее число статей составило 365, они охватывали 
+79 стран и 11 регионов, причем «львиная доля» статей (Berns 2019: 12) имела 
+отношение к Восточной Азии, особенно Китаю (около 100 работ) и Японии 
+(20 работ). Описание русского варианта английского языка обнаружено 
+в 19 статьях, из которых бóльшая часть была напечатана в специальном 
+выпуске журнала World Englishes (Proshina 2005). В целом, М. Бёрнс подчерк-
+нула, что варианты Расширяющегося круга «во многих аспектах остаются  
+белыми пятнами»3 (Berns 2019: 13). 
+
+В самом деле, доказательством ее утверждения могут быть энциклопеди-
+ческие справочные издания, известные как handbooks. Первая книга такого 
+рода о вариантах английского языка, “The Handbook of World Englishes”, 
+опубликованная в 2006 г. (Kachru, Kachru & Nelson 2006), содержала только 
+три главы о региональных вариантах Расширяющегося круга – восточноази-
+атских, южноамериканских и европейских (из 16 глав, описывающих локали-
+зованные варианты английского языка в мире). Второе издание “The 
+Handbook of World Englishes” издательства Wiley-Blackwell (Nelson, Proshina 
+& Davis 2020) имеет уже пять глав, рассказывающих об английском языке 
+
+2 “ThoughtCo” – один из современных справочно-образовательных сайтов, контент ко-
+торого готовится крупнейшими специалистами в своей области. См. https://www.thoughtco.com/ 
+about-us (дата обращения: 16.07.2020). 
+
+3 Здесь и далее перевод наш. – З.П. 
+
+533 
+
+
+
+Zoya G. Proshina and Cecil L. Nelson. 2020. Russian Journal of Linguistics 24 (3). 523–550 
+
+Восточной Азии, Китая, Южной Америки, Европы и России. Пять глав о ва-
+риантах Восточной Азии, Китая, славянских государств, Колумбии и Европы 
+включены в книгу “The Routledge Handbook of World Englishes” (Kirkpatrick 
+2010). Только один регион (Центральной Америки) Расширяющегося круга 
+освещен в кембриджском издании “The Cambridge Handbook of World 
+Englishes” (Schreier, Hundt & Schneider 2020), и лишь три – в соответствую-
+щем оксфордском издании “The Oxford Handbook of World Englishes” 
+(Filppula, Klemola & Sharma 2017). Семь региональных вариантов стали  
+объектом описания “The Routledge Handbook of English as a Lingua Franca” 
+(Jenkins, Baker & Dewey 2018). Несмотря на то что книга под редакцией 
+Э. Тамбу называется “The Three Circles of English” (т.е. Три круга английского 
+языка) (Thumboo 2001) и ее целью было описание различных вариантов  
+английского языка, которые категоризируются в модели Б. Качру, только  
+четыре главы этой книги ориентированы на Расширяющийся круг как тако-
+вой. Очень мало информации о Расширяющемся круге можно найти также 
+в словаре вариантов английского языка “A Dictionary of Varieties of English” 
+(Hickey 2014). 
+
+Немногочислены и работы о конкретных вариантах Расширяющегося 
+круга. Европейские варианты исследованы в работах Ясоне Сенос и Ульрике 
+Есснер (Cenoz & Jessner 2000), Манфреда Гёрлаха (Görlach 2001, 2002),  
+Марджи Бёрнс, Кис де Бот и Уве Хасебринк (Berns et al. 2007), Анник де 
+Хоувер и Антдже Уилтон (Houwer & Wilton 2011), Элисон Эдвардс (Edwards 
+2016), Д.С. Бородиной (Borodina 2018). Восточноазиатские варианты англий-
+ского языка исследованы З.Г. Прошиной (Proshina 2001, 2020), Кингсли  
+Болтоном (Bolton 2003), Джеймсом Стэнлоу (Stanlaw 2004), Л.П. Бондаренко 
+(2007), Джозефом Ло Бьянко, Джейн Ортон и Гао Ихун (Bianko, Orton & Gao 
+2009), Т.А. Иванковой (Ivankova 2009), Филипом Саржантом (Seargeant 2009, 
+2011), Сюй Чжичаном (Xu 2010), В.Л. Завьяловой (Zavyalova 2011), Дэвидом 
+Грэддолом (Graddol 2013), Гленном Хадикином (Hadikin 2014), Чо Цзиньюнь 
+(Cho 2017), Кристофером Дженксом и Джерри Вон Ли (Jenks & Lee 2017). 
+
+Русский вариант английского языка, будучи очень дискуссионным  
+вопросом, стал основной темой коллективной монографии Russian English: 
+History, Functions, and Features (Proshina & Eddy 2016), а также целого ряда 
+статей (Gritsenko 2014, Proshina 2006, 2014b, Proshina & Rivlina 2018, 2020, 
+Rivlina 2013, 2015a, 2015b, Ustinova 2005, 2006) и диссертаций (Eddy 2007, 
+Lawrick 2011, Lazaretnaya 2012). Некоторые авторы, несмотря на то что они 
+не пользуются термином «русский вариант английского языка» на самом деле 
+способствовали развитию дискуссии об этом варианте, его культурном базисе 
+(Kabakchi 1998, 2002, 2015) и языковых чертах (Savitsky & Kurovskaya 2004, 
+Schennikova 2017, Shishkina 1996). 
+
+Подготовка данного тематического выпуска журнала мотивирована 
+необходимостью обсудить сущность вариантов Расширяющегося круга 
+и факторов, которые способствуют их развитию и отличают их друг от друга 
+и от вариантов Внутреннего и Внешнего кругов, что, тем не менее, до сих пор 
+
+534 
+
+
+
+Zoya G. Proshina and Cecil L. Nelson. 2020. Russian Journal of Linguistics 24 (3). 523–550 
+
+не признается многими говорящими на этих вариантах и даже лингвистами, 
+которые, с одной стороны, принимают разделение вариантов английского 
+языка, предложенное Б. Качру, но с другой, выступают против того, что  
+варианты Расширяющегося круга имеют право называться собственно  
+вариантами. 
+
+2. Парадигма вариантов английского языка
+и ее отличия от других теорий 
+
+Перед тем как представить статьи данного выпуска журнала, нам бы хо-
+телось напомнить читателю основные положения контактной вариантологии 
+английского языка, известной за рубежом как парадигма Word Englishes 
+(WE), и связь этой парадигмы с другими теориями, которые в действительно-
+сти отпочковались от данной концепции. 
+
+Парадигма вариантов английского языка, появившаяся в 1960-х годах 
+(Kachru 1961, Беляева & Потапова 1961) и получившая развитие с тех пор, 
+при этом ее теоретическая основа была заложена в 1980–1990-х годах (Kachru 
+1986, Kachru & Smith 1985, Smith 1987, Smith & Forman 1997, см. также Bolton 
+2020), – это революционная теория (Proshina 2014), поскольку она в корне из-
+менила традиционные взгляды на языковое доминирование Британской им-
+перии, перевернула социолингвистические идеи и кардинально преобразо-
+вала педагогические представления, которые проникли в практику обучения 
+английскому языку и его изучения. Подытоживая основные положения этой 
+парадигмы, следует акцентировать следующие тезисы: 
+
+‒ Английский язык перестал быть монолитным и однородным языком. 
+Будучи плюрицентричным (что обусловлено историческими, политико- 
+экономическими и культурно-информационными причинами), он дифферен-
+цировался на большое число вариантов (world Englishes). 
+
+‒ Каждый вариант опирается на свою лингвокультуру, а это означает, 
+что он способен выражать культурную идентичность своих пользователей 
+и имеет черты, перенесенные из их родных языков и/или языков, с которыми 
+вариант вступает в регулярный контакт. 
+
+‒ Вариант – социолингвистическое явление. Он характеризуется  
+чертами, которые свойственны определенному усредненному речевому  
+сообществу, но не обязательно проявляются в речи каждого члена этого  
+сообщества – использование языка каждым говорящим зависит от уровня 
+языковой компетенции, сферы использования, стиля коммуникации и инди-
+видуальных предпочтений. 
+
+‒ Благодаря лингвокультурному основанию, определяющему каждый 
+вариант, все варианты английского языка равны в своей легитимности.  
+В самом первом номере журнала World Englishes его редакторы, основатели 
+журнала, заявили: 
+
+535 
+
+
+
+Zoya G. Proshina and Cecil L. Nelson. 2020. Russian Journal of Linguistics 24 (3). 523–550 
+
+Редакционная коллегия считает, что пользователи английским языком 
+как родным, так и неродным – равные партнеры в дискуссии о пользо-
+вателях английским языком и о преподавании его на международном 
+уровне. Таким образом, журнал WE является средством, которое может 
+использоваться для того, чтобы делиться знаниями и опытом пользова-
+телей как западных, так и незападных стран на благо всех пользователей 
+английским языком… Таким образом, акроним WE как нельзя лучше 
+символизирует основную философию журнала и цели его редколлегии 
+(Kachru & Smith 1985: 211) 
+ 
+
+‒ Варианты Внешнего и Расширяющегося кругов используются как  
+дополнительные или вспомогательные (Smith 1976) коммуникативные ин-
+струменты. Может показаться, что функции развивающихся вариантов огра-
+ничены, но чем дольше развивается вариант, тем больше функций он приоб-
+ретает. Б. Качру (1986: 92) пишет о диапазоне распространения вариантов  
+английского языка в «культурных, образовательных и коммерческих  
+контекстах» и о глубине их социального принятия и использования в «различ-
+ных слоях общества». Такое динамическое развитие теперь стало явным  
+во всех вариантах. 
+
+Эти инновационные черты имеют большую значимость для лингвистики, 
+особенно социолингвистики, литературоведения, культурологии и приклад-
+ной лингвистики, под которой мы понимаем не только область методики пре-
+подавания и изучения языка, как это обычно характерно для «англофонной 
+литературы» (Knapp & Antos 2009: vii), но также так называемую «практиче-
+скую прикладную лингвистику» в толковании этого термина О. Баком (Back 
+1970), как это имеет место и в России, т.е. как «применение данных и выводов 
+лингвистики в практических областях, имеющих отношение к языку, таких 
+как методика обучения, перевод и т.п.» (Knapp & Antos 2009: vii). Одним сло-
+вом, в этих чертах проявляется междисциплинарность новой парадигмы, что 
+обусловливает гораздо бóльшую сферу ее функционирования, чем теории ан-
+глийского как иностранного языка (EFL), которая используется в методике 
+преподавания английского языка. 
+
+Концепция WE дала начало развитию новых направлений исследования, 
+называемых новыми парадигмами – английского как международного языка 
+(EIL) и английского как лингва франка (ELF), в которых находят развитие не-
+которые аспекты, свойственные вариантам английского языка. Оба эти 
+направления ориентируются на преподавание английского языка. Они проти-
+востоят методике английского как иностранного языка (EFL), в основе кото-
+рой лежит обучение моноцентрической или бицентрической модели англий-
+ского языка, базирующейся на британском варианте и культуре Великобри-
+тании и/или американском варианте английского языка, его культуре и цен-
+ностях, обслуживаемых этим вариантом. 
+
+В отличие от методического понятия «английский как иностранный 
+язык», термин «английский как международный язык», предложенный Ларри 
+
+536  
+
+
+
+Zoya G. Proshina and Cecil L. Nelson. 2020. Russian Journal of Linguistics 24 (3). 523–550 
+
+Смитом (Smith 1976) и далее разработанный Фарзадом Шарифианом 
+(Sharifian 2009) и другими учеными (Alsagoff 2012, Marlina & Giri 2014, 
+Matsuda 2012, 2017, McKay 2002), фокусируется на необходимости ознаком-
+ления студентов с различными вариантами английского языка, которые могут 
+потребоваться им в будущей коммуникации в реальных жизненных ситуа-
+циях: 
+
+ 
+
+На самом деле, представление об английском как международном языке 
+отвергает мысль о том, что в качестве лингва франка для межкультурной 
+коммуникации выбирается какой-то особый вариант. Теория англий-
+ского как международного языка подчеркивает, что английский язык со 
+всеми его множественными вариантами является языком международ-
+ной и потому межкультурной коммуникации (Sharifian 2009: 2). 
+
+ 
+
+Если в основе концепта «английский как международный язык» лежит 
+признак разнообразия вариантов английского языка, то похожий термин – 
+«международный английский» (International English) – предполагает противо-
+положное явление. Он ассоциируется с якобы унифицированным стандарт-
+ным английским, который облегчает международную коммуникацию (Todd 
+& Hancock 1987, Trudgill & Hannah 1994), подобно идее Р. Квирка о «ядерном 
+английском» (Quirk 1982), и используется в формальных контекстах (однако, 
+как будет показано ниже, это абстрактный идеал, реализуемый в живой рече-
+вой практике, по меньшей мере, с локальным акцентом или с другими кон-
+текстно-специфическими чертами варианта). Такое понимание международ-
+ного английского совпадает с определением Питера Стревенса (Strevens 
+1983): международный английский – это «особенный диалект английского 
+языка, который является единственным нелокализованным диалектом, гло-
+бального распространения, без значительного варьирования, повсеместно 
+воспринимаемый как приемлемая цель обучения английскому языку, на ко-
+тором можно говорить с самыми разными акцентами» (Strevens 1983: 88). 
+На самом деле сегодня невозможно говорить об одном и том же стандарте 
+английского языка для всех вариантов – они быстро изменяются, и в них про-
+исходит процесс стандартизации (Hickey 2013). Судя по определению 
+П. Стревенса, ‘английский как международный язык’ (EIL) и ‘международ-
+ный английский’ (IE) оказываются антонимическими концептами: ‘англий-
+ский как международный язык’ ориентируется на разнообразие и дифферен-
+циацию, т.е. на варианты, а ‘международный английский’ – на единство и од-
+нородность, т.е. инвариант. 
+
+Термин «английский как лингва франка» (ELF) был возрожден Аланом 
+Фиртом (Firth 1990, 1996) и обозначает «модус операнди», не являющийся 
+родным языком ни для одного из коммуникантов (Firth 1996: 255). Как сле-
+дует из этого определения, носители языка исключаются из этой концептуа-
+лизации, что не может не вызвать вопросов, поскольку те, кто говорит на род-
+ном для них английском языке, должны адаптировать свою речь в условиях 
+
+  537 
+
+
+
+Zoya G. Proshina and Cecil L. Nelson. 2020. Russian Journal of Linguistics 24 (3). 523–550 
+
+межкультурного общения. Поэтому в настоящее время более распространен-
+ным стало определение Барбары Зайдльхофер: английский как лингва франка 
+(ELF) – это «любое использование английского языка среди говорящих с раз-
+ными первыми языками, для которых английский является выбранным сред-
+ством коммуникации, часто единственно возможным» (Seidlhofer 2011: 7). 
+Это определение включает коммуникантов трех кругов (однако, до сих пор 
+английский как лингва франка ассоциируют преимущественно с Расширяю-
+щимся кругом). Дефиниция английского как лингва франка, предложенная 
+Б. Зайдльхофер, содержит важную идею о данном концепте: английский как 
+лингва франка – это использование, или функция любого варианта англий-
+ского языка. У него нет статуса самого варианта, это просто прагматический 
+аспект варианта. Любой вариант английского языка, в том числе варианты 
+Внутреннего круга, обладают этой функцией, реализуемой главным образом 
+в межкультурном общении. Но кроме этой функции, у вариантов английского 
+языка (world Englishes) есть также много других функций. 
+
+Не вызывает удивления, что, когда преподаватели говорят об английском 
+как лингва франка, они обращают внимание, главным образом, на три объ-
+екта: стратегии коммуникации, на проблемы взаимопонимания и осознание 
+различий. 
+
+Во-первых, стратегии коммуникации направлены на достижение взаим-
+ного приспособления коммуникантов через такие адаптивные процессы, как 
+избыточность речи, регуляризация, усиление экспрессии, экспликация, 
+поправки, переформулирование, повтор, кодовое смешение, обговаривание 
+значения и многие другие (Cogo & Dewey 2012, Mauranen & Ranta 2010, 
+Meierkord 2012, Vettorel 2018). Исследования этих процессов в значительной 
+степени проводятся с использованием корпусов. Вот почему бесспорен вклад 
+этих исследователей в корпусную лингвистику (например, VOICE, Vienna-
+Oxford International Corpus of English; ELFA, English as a Lingua Franca in 
+Academic Settings; CASE, Corpus of Academic Spoken English; ACE, Asian 
+Corpus of English; RACE, Russian-Asian Corpus of English; BELF, English as 
+Business Lingua Franca). 
+
+Во-вторых, общей проблемой для исследователей английского как 
+лингва франка (ELF), английского как международного языка (EIL) и вариан-
+тов английского языка (WE) стало исследование взаимопонимания в межна-
+циональной коммуникации. Еще в начале появления контактной вариантоло-
+гии английского языка эта проблема была сформулирована Ларри Смитом и 
+исследователями, работавшими с ним (Nelson 2011, Smith 1992, Smith & 
+Bisazza 1982, Smith & Rafiqzad 1979, Smith and Nelson 2020), как трехаспект-
+ное явление: понимание разговорных и письменных форм речевой продукции 
+(intelligibility), понимание значения того, что написано или сказано 
+(comprehensibility), и понимание смысла текста (interpretability) – прагматиче-
+ский компонент, ассоциируемый с фоновыми знаниями коммуникантов и 
+позволяющий им понимать цель используемого языка. 
+
+538 
+
+
+
+Zoya G. Proshina and Cecil L. Nelson. 2020. Russian Journal of Linguistics 24 (3). 523–550 
+
+Третья проблема – осознание различий, – широко обсуждаемая исследо-
+вателями английского как лингва франка (Bayyurt & Sifakis 2015, Lopriore & 
+Vettorel 2015, Sifakis et al. 2018, Sung 2018, Wang 2015), объединяет их  
+с исследователями английского как международного языка и вариантов  
+английского языка. Как показано выше, разнообразие стало ключевым сло-
+вом в исследованиях английского как международного языка. Варианты ан-
+глийского языка выделяются на основе отличительных признаков и функций; 
+именно благодаря им они дифференцируются как варианты. С методической 
+точки зрения ознакомление с разнообразием того, как люди говорят  
+по-английски из-за различий в лингвокультурах, должно стать «информиро-
+ванным выбором» (Jenkins 2007: 22), необходимым для эффективной  
+межкультурной коммуникации. 
+
+Одной из проблем, которая стала камнем преткновения между сторонни-
+ками направления ELF и сторонниками контактной вариантологии, стало  
+отношение между понятиями ‘английский как лингва франка’ и ‘вариант’. 
+Несмотря на то что сегодня признан тезис о том, что английский как лингва 
+франка «не существует как система» (Canagarajah 2007: 926), что он «появля-
+ется из взаимодействия и благодаря ему» (Meierkord 2004: 129, также Kecskes 
+2019) и что это абстракция, концепт функции, а не живого варианта как тако-
+вого (Berns 2009: 196), время от времени обнаруживаются работы (например, 
+Breiteneder 2009, Mackenzie 2014, Jenkins 2017), описывающие фонетические, 
+синтаксические и другие уровни английского как лингва франка и показыва-
+ющие, что авторы этих работ трактуют ELF как структурированный вариант 
+(по крайней мере, в обобщенном виде, что представляет это понятие как  
+абстракцию, а не живой феномен). Надо говорить о вариантах английского 
+языка, функционирующих как лингва франка.  
+
+ 
+3. Рассеивание сомнений относительно Расширяющегося круга 
+
+В то время как варианты Внутреннего круга, старые и новые (как, напри-
+мер, новозеландский, австралийский и канадский), и многие варианты Внеш-
+него круга признаны всеми и уже хорошо описаны на сегодняшний день, ва-
+рианты английского языка Расширяющегося круга еще не получили едино-
+душного признания, особенно среди своих собственных пользователей. Как 
+правило, причинами этого называют отсутствие кодификации этих вариан-
+тов, но, если посмотреть на проблему глубже, можно увидеть, что на самом 
+деле неприятие вариантов Расширяющегося круга обусловлено отсутствием 
+признания их лингвокультурной специфичности. 
+
+Что касается кодификации, которая обычно понимается как процесс, при-
+водящий к стандартизации языка, можно с уверенностью утверждать, что 
+стандартизированы все варианты как явления языка, но их речевое проявле-
+ние может либо следовать нормам, либо нарушать их. Вслед за Д. Дэйвисом 
+(Davis 2010) мы используем термин «стандартизированный английский язык» 
+(standardized English), а не «стандартный английский» (standard English),  
+
+  539 
+
+
+
+Zoya G. Proshina and Cecil L. Nelson. 2020. Russian Journal of Linguistics 24 (3). 523–550 
+
+подчеркивая, что во всех вариантах английского языка, в том числе вариантах 
+Внутреннего круга, происходят динамические изменения. 
+
+Говоря о типах языковых норм, Б. Качру (Kachru 1985) разделил их на 
+три вида, соответствующие «трем кругам»: Внутренний круг включает эндо-
+нормативные варианты, которые обычно служат нормообеспечивающими 
+моделями для других вариантов английского языка; варианты Внешнего 
+круга обнаруживают наиболее динамичные процессы модификации норм 
+и потому считаются норморазвивающими, а варианты Расширяющего круга 
+являются нормозависимыми и используют экзонормы, выработанные и коди-
+фицированные в других вариантах английского языка, но не только Внутрен-
+него круга – если возникает необходимость, пользователи английским язы-
+ком в Расширяющемся круге могут также использовать стандарты Внешнего 
+круга. Вариативность экзонорм, особенно построенных на британской  
+и американской моделях, обусловливает их частое смешение, и это объясняет 
+специфику использования стандартизированного варианта Расширяющегося 
+круга. 
+
+Что касается речепроизводства на вариантах Расширяющегося круга, 
+Б. Качру объясняет сущность этого процесса в виде билингвальной шкалы 
+(Kachru 1983). Любой вариант, получаемый в результате контакта с родными 
+языками пользователей, свидетельствует о билингвизме его пользователей, 
+который можно представить как функциональный континуум, зависящий от 
+языковой компетенции пользователей и стиля их дискурса. Акролектная речь 
+характерна для формального дискурса пользователей с высокой степенью 
+компетентости; мезолектная речь проявляется главным образом в неформаль-
+ном дискурсе образованных пользователей или в формальном и неформаль-
+ном дискурсе коммуникантов с меньшей степенью владения языком, и бази-
+лектная речь, в результате которой появляется гибридный и даже пиджини-
+зированный вид дискурса, характерна для необразованных пользователей 
+(Proshina 2017: 150–152). 
+
+Очевидно, что стандартизация не может считаться основным аргументом 
+для принятия варианта, который может существовать как в стандартизиро-
+ванной, так и нестандартизированной формах и который включает не только 
+акролект, но также мезолект и базилект. Признание варианта происходит то-
+гда, когда его пользователи осознают, что их вариант языка выражает их 
+лингвокультурную идентичность и что он может быть первичным или вто-
+ричным средством ее выражения. Вариант, на котором они говорят и пишут, 
+выражает их культуру, ценности, менталитет и картину мира. Эта концепту-
+ально-культурная часть идентичности выражается прежде всего через лек-
+сику и синтаксис (реалии, коллокации и синтаксические структуры). Кроме 
+этих средств выражения, языковая часть идентичности также передается на 
+фонетическом уровне (фонетический акцент) и грамматическом (грамматиче-
+ские категории, как, например, дискретность в выражении множественного 
+числа существительных – equipments, furnitures – формы, отмечаемые  
+
+540  
+
+
+
+Zoya G. Proshina and Cecil L. Nelson. 2020. Russian Journal of Linguistics 24 (3). 523–550 
+
+в азиатских вариантах английского языка). Лингвистические признаки  
+варианта образуются в результате переноса черт первого языка пользовате-
+лей, а также в результате вербализации их менталитета. Например, даже  
+в акролектном варианте русского английского можно различить русскую  
+интонацию, оглушение конечных согласных, частое отсутствие аспирации, 
+иногда специфичное произнесение отдельных звуков (таких как th, w, r),  
+благодаря чему легко определяется русский акцент. На грамматическом 
+уровне для речи русских на английском языке типично выдвижение в началь-
+ную позицию прямого дополнения (This book I haven’t read yet.), отсутствие 
+или необычное использование артиклей (the complex ethnical structure of the 
+population determines peculiarity of the gender interaction), избегание употреб-
+ления перфектных времен (I am living in this city since childhood), замена пре-
+позитивной атрибутивной цепочки постпозитивными предложными сочета-
+ниями в атрибутивной функции (Old English period > period of Old English), 
+предпочтение безличных предложений со структурным подлежащим 
+(It is expected that she will come вместо She is supposed to come). Многие другие 
+черты дискурса на русском варианте английского языка описаны в коллектив-
+ной монографии под редакцией З. Г. Прошиной и А. А. Эдди (Proshina & Eddy 
+2016).  
+
+Далеко не все пользователи вариантом демонстрируют в своей речи все 
+черты, типичные для варианта. Как уже отмечалось, число дистинктивных 
+признаков варианта в индивидуальной речи пользователя зависит от его язы-
+ковой компетентности, контекста ситуации, психологического состояния и 
+желания говорящего следовать образовательной модели как экзонорме. 
+
+Признание варианта – долгий процесс. Необходимо время для того, 
+чтобы английский язык в определенном регионе утвердился как локальный 
+вариант английского языка. Даже для вариантов Внутреннего круга, напри-
+мер, австралийского английского, потребовался переходный период для пре-
+вращения из «английского языка в Австралии» в австралийский вариант ан-
+глийского языка (Fritz 2007), который был признан как собственно вариант 
+только в 1970-х годах, когда австралийцы преодолели свое «культурное по-
+добострастие», и их культурный национализм проложил дорогу утверждению 
+их языковой и культурной идентичности. 
+
+Социальное и психологическое осознание своей лингвокультурной иден-
+тичности, выраженной через вариант, а также проявляемой посредством об-
+разовательной кодификации (Kachru 1985), приводит к признанию дистинк-
+тивных признаков варианта. Многие из вариантов Расширяющегося круга все 
+еще находятся в процессе такого признания. Признание, несомненно, придет 
+с расширением функционального использования вариантов Расширяющегося 
+круга. Сегодня они используются уже не только в функции межкультурного 
+общения в качестве языка-посредника (лингва франка). Они также выпол-
+няют информативную функцию в бизнесе, рекламе, средствах массовой ин-
+формации, науке. Они выполняют инструментальную функцию, выступая, 
+
+  541 
+
+
+
+Zoya G. Proshina and Cecil L. Nelson. 2020. Russian Journal of Linguistics 24 (3). 523–550 
+
+например, в качестве английского как средства обучения (EMI). Варианты  
+английского языка Расширяющегося круга проявляют также креативную 
+функцию (в транслингвальной, или контактной литературе, массовой куль-
+туре, в игровом использовании в каламбурах и т.д. – см., например, работу 
+Б. Зайдльхофер (Seidlhofer 2010) о функциях английского языка и сферах его 
+использования в Европе). 
+
+В завершение необходимо подчеркнуть, что варианты Расширяющегося 
+круга реально существуют, и независимо от того, насколько близко их  
+пользователи приблизились к экзонормативной модели, варианты будут  
+характеризоваться своими дистинктивными чертами, поскольку они служат 
+вторичным средством лингвокультурной идентичности. Вариант – это  
+типичное собрание дискурсивных событий и продуктов, отличающихся язы-
+ковыми признаками и культурным основанием. 
+
+Вариант не является имитацией кодифицированной модели обучения, 
+также как он не является набором неправильных речевых образцов интеръ-
+языка. Варианты Расширяющегося круга, как и любые другие варианты ан-
+глийского языка, используются и образованными коммуникантами, высоко 
+компетентными и бегло говорящими на английском языке – коммуникан-
+тами, которых Б. Качру назвал функциональными носителями своих вариан-
+тов (Kachru 1998, Smith 2008). 
+
+Изучение вариантов английского языка должно составлять неотъемле-
+мую часть программы английского языка как международного. Осознание 
+разнообразия вариантов английского языка представляет бесспорную значи-
+мость в обучении языку и его изучении, а также в устном и письменном  
+переводе. Прикладной лингвистике еще предстоит многое получить от иссле-
+дований по контактной вариантологии. Знание дистинктивных признаков 
+других вариантов, а также специфики их систем латинизации (как, например, 
+китайской системы пиньинь) облегчит коммуникацию на разных вариантах 
+английского языка, а также будет способствовать межвариантному переводу. 
+
+Признание своего собственного варианта как средства выражения своей 
+культуры и своего менталитета, а также понимание места своего варианта 
+среди других вариантов английского языка в мире обеспечивает психологи-
+ческий комфорт в межкультурной коммуникации благодаря принципам  
+инклюзивности и равенства вариантов. Знание типичных черт своего  
+собственного варианта важно для улучшения уровня своей языковой компе-
+тенции. 
+
+ 
+4. Краткое содержание данного выпуска журнала 
+
+В одной из своих работ М. Бёрнс (Berns 2005: 92) писала о «рассвете ва-
+риантов Расширяющегося круга». Публикация этого номера журнала доказы-
+вает, что рассвет постепенно перерос в позднее утро, хотя полуденный пик 
+еще не достигнут. 
+
+542  
+
+
+
+Zoya G. Proshina and Cecil L. Nelson. 2020. Russian Journal of Linguistics 24 (3). 523–550 
+
+Описав, что побудило нас к изданию этого тематического выпуска,  
+и осветив основные положения контактной вариантологии как науки  
+о вариантах английского языка в современном мире (WE) и отпочковавшихся 
+от нее парадигм английского как международного языка (EIL) и английского 
+как лингва франка (ELF), мы бы хотели выразить благодарность всем авто-
+рам, приславшим свои материалы и сделавшим этот выпуск интересным и 
+информативным. 
+
+Как можно видеть из оглавления, статьи, представленные в этом выпуске, 
+рассматривают азиатские (японский и китайский), европейский (немецкий) и 
+русский варианты английского языка. Они освещают общие проблемы вари-
+антов Расширяющегося круга, их статус, черты и функции (Э. Киркпатрик, 
+В.Л. Завьялова, Чж. Сюй и Д. Чжан, А.А. Ривлина, Е.С. Гриценко и А.В. Али-
+кина, Ю. Давыдова). В некоторых статьях обсуждаются методические и педа-
+гогические проблемы, связанные с преподаванием вариантов английского 
+языка в глобальном и локальных масштабах (Дж. Д’Анджело и С. Икэ, 
+Н. Хино). Одна статья (Г.Н. Ловцевич и А. А. Соколов) представляет иссле-
+дование лексикографического аспекта вариантов с позиций исследователей 
+Расширяющегося круга. Кроме научно-исследовательских статей, данный но-
+мер журнала включает две рецензии (Е.В. Маринина, Е.С. Лебедева), имею-
+щие непосредственное отношение к теме вариантной дифференциации ан-
+глийского языка. 
+
+Все обсуждаемые проблемы показаны в международной перспективе, по-
+скольку авторы этого выпуска работали с материалом разных стран и синте-
+зировали свои эмпирические исследования с глубоким теоретическим обос-
+нованием. Мы надеемся, что вопросы, поднятые в статьях этого выпуска, ока-
+жутся интересными для читателя, будут стимулировать мысль, послужат ос-
+новой для последующих исследований и для практического использования. 
+
+ 
+© Zoya G. Proshina and Cecil L. Nelson, 2020  
+
+ 
+This work is licensed under a Creative Commons Attribution 4.0 International License 
+
+https://creativecommons.org/licenses/by/4.0/  
+ 
+
+REFERENCES / СПИСОК ЛИТЕРАТУРЫ 
+
+Alsagoff, Lubna, Sandra L. McKay, Guangwei Hu & Willy A. Renandya (eds.). 2012. 
+Principles and Practices for Teaching English as an International Language. New York 
+& London: Routledge. 
+
+Back, Otto. 1970. Was bedeutet und was bezeichnet der Ausdruck “Angewandte 
+Sprachwissenschaft”? [What does Applied Linguistics mean and characterize?] 
+Die Sprache. Zeitschrift für Sprachwissenschaft 16 (1). 21–53. 
+
+  543 
+
+
+
+Zoya G. Proshina and Cecil L. Nelson. 2020. Russian Journal of Linguistics 24 (3). 523–550 
+
+Bayyurt, Yasemin & Nicos C. Sifakis. 2015. ELF-aware in-service teacher education. In Hugo 
+Bowles & Alessia Cogo (eds.), International Perspectives on English as a Lingua Franca: 
+Pedagogical Insights, 117–135. London: Palgrave-MacMillan.  
+
+Beare, Kenneth. 2020. How Many People Learn English? ThoughtCo, Feb. 11. URL: 
+thoughtco.com/how-many-people-learn-english-globally-1210367 (accessed 16 June 
+2020). 
+
+Beliayeva, Tatiana M. & Irina A. Potapova. 1961. Anglijskij yazyk za predelami Anglii [English 
+Beyond England]. Leningrad: Uchpedgiz Publ.  
+
+Berns, Margie. 2005. Expanding on the Expanding Circle: Where do WE go from here? World 
+Englishes 24 (1). 85–93. 
+
+Berns, Margie. 2009. English as lingua franca and English in Europe. World Englishes 28 (2). 
+192–199. 
+
+Berns, Margie. 2019. Expanding on the Expanding Englishes of the Expanding Circle. World 
+Englishes 38 (1–2). 8–17. 
+
+Berns, Margie, Kees de Bot & Uwe Hasebrink (eds.). 2007. In the Presence of English: Media 
+and European Youth. New York: Springer.  
+
+Bianco, Joseph Lo, Jane Orton & Yihong Gao (eds.). 2009. China and English: Globalization 
+and the Dilemmas of Identity. Bristol: Multilingual Matters. 
+
+Bolton, Kingsley. 2003. Chinese Englishes: A Sociolinguistic History. Cambridge: Cambridge 
+University Press.  
+
+Bolton, Kingsley. 2020. World Englishes: Current debates and future directions. In Cecil 
+L. Nelson, Zoya G. Proshina & Daniel R. Davis (eds.), The Handbook of World Englishes. 
+2nd edn., 743–760. Hoboken, NJ: Wiley-Blackwell. 
+
+Bondarenko, Ludmila P. (eds.). 2007. Slog i ritm anglijskoj rechi v stranah Vostochnoj i Yugo-
+Vostochnoj Azii (Kitaj, Respublika Koreya, Yаponiya, V'etnam, Tailand) [Syllable and 
+Rhythm of English Speech in the Countries of Eastern and South-Eastern Asia (China, 
+Republic of Korea, Japan, Vietnam, Thailand)]. Vladivostok: Far Eastern Univ. Press.  
+
+Borodina, Dar’ya S. 2018. Transnacional'nyj anglijskij yazyk v anglo-skandinavskom 
+bilingvizme [Transnational English in English-Scandinavian Bilingualism]. Simferopol: 
+ARIAL Publ.  
+
+Breiteneder, Angelika. 2009. English as a Lingua Franca in Europe: A Natural Development. 
+Saarbrücken: VDM Verlag Dr. Müller.  
+
+Canagarajah, Suresh. 2007. Lingua Franca English, Multilingual Communities, and Language 
+Acquisition. The Modern Language Journal 91. Focus Issue. 923–939. 
+
+Cenoz, Jasone & Ulrike Jessner (eds.). 2000. English in Europe: The Acquisition of a Third 
+Language. Bristol: Multilingual Matters. 
+
+Cho, Jinhyun. 2017. English Language Ideologies in Korea: Interpreting the Past and Present. 
+Cham, Switzerland: Springer. 
+
+Cogo, Alessia & Martin Dewey. 2012. Analysing English as a Lingua Franca: A Corpus-driven 
+Investigation. London & New York: Continuum. 
+
+Davis, Daniel R. 2010. Standardized English: The history of the earlier circles. In Andy 
+Kirkpatrick (ed.), The Routledge Handbook of World Englishes, 17–36. London & New 
+York: Routledge.  
+
+Eddy, Anna. 2007. English in the Russian context: A macrosociolinguistic study. Michigan: 
+Wayne State University. (PhD dissertation).  
+
+Edwards, Alison. 2016. English in the Netherlands: Functions, Forms and Attitudes. 
+Amsterdam: John Benjamins. 
+
+Filppula, Markku, Juhani Klemola & Devyani Sharma (eds.). 2017. The Oxford Handbook of 
+World Englishes. Oxford: Oxford University Press. 
+
+544  
+
+
+
+Zoya G. Proshina and Cecil L. Nelson. 2020. Russian Journal of Linguistics 24 (3). 523–550 
+
+Firth, Alan. 1990. ‘Lingua franca’ negotiations: Towards an interactional approach. World 
+Englishes 9 (3). 269–280. 
+
+Firth, Alan. 1996. The discursive accomplishment of normality. On ‘lingua franca’ English and 
+conversation analysis. Journal of Pragmatics 26. 237–259. 
+
+Fritz, Clemens W.A. 2007. From English in Australia to Australian English: 1788–1900. 
+Frankfurt am Main: Peter Lang. 
+
+Görlach, Manfred (eds.). 2001. A Dictionary of European Anglicisms. Oxford: Oxford 
+University Press. 
+
+Görlach, Manfred (eds.). 2002. English in Europe. Oxford: Oxford University Press. 
+Graddol, David. 2013. Profiling English in China: The Pearl River Delta. Cambridge: 
+
+Cambridge English Language Assessment. 
+Gritsenko, Elena S. 2014. Anglijskij yazyk kak semioticheskij resurs v sovremennoj rossijskoj 
+
+povsednevnosti [English as a semiotic resource in everyday Russian communication]. The 
+Humanities and Social Studies in the Far East 42 (2). 27–31.  
+
+Hadikin, Glenn. 2014. Korean English: A Corpus-driven Study of a New English. Amsterdam: 
+John Benjamins. 
+
+Hickey, Raymond (ed.). 2013. Standards of English: Codified Varieties Around the World. 
+Cambridge: Cambridge University Press.  
+
+Hickey, Raymond. 2014. A Dictionary of Varieties of English. Malden: Wiley-Blackwell. 
+Houwer, Annick De & Antje Wilton (eds.). 2011. English in Europe Today: Sociocultural and 
+
+Educational Perspectives. Amsterdam & Philadelphia: John Benjamins. 
+Ivankova, Tat’yana A. 2009. Anglijskij yazyk v Kitae: Regional'nye osobennosti [English in 
+
+China: Regional Features]. Vladivostok: Far Eastern University Press.  
+Jenkins, Jennifer. 2007. English as a Lingua Franca: Attitude and Identity. Oxford: Oxford 
+
+University Press. 
+Jenkins, Jennifer. 2017. English as a lingua franca in the Expanding Circle. In Markku Filppula, 
+
+Juhani Klemola & Devyani Sharma (eds.), The Oxford Handbook of World Englishes, 
+549–566. Oxford: Oxford University Press. 
+
+Jenkins, Jennifer, Will Baker & Martin Dewey (eds.). 2018. The Routledge Handbook of 
+English as a Lingua Franca. London & New York: Routledge. 
+
+Jenks, Christopher J. & Jerry Won Lee. 2017. Korean Englishes in Transnational Contexts. 
+Cham, Switzerland: Palgrave Macmillan. 
+
+Kabakchi, Victor V. 1998. Osnovy angloyazychnoj mezhkulturnoj kommunikacii 
+[Fundamentals of English Intercultural Communication]. St. Petersburg: Russian State 
+Pedagogical University.  
+
+Kabakchi, Victor V. 2002. The Dictionary of Russia: English-English dictionary of Russian 
+cultural terminology. St. Petersburg: Soyuz. 
+
+Kabakchi, Victor V. 2015. Realii russkoj kul’tury v Bol’shom Oksfordskom slovare [Russian 
+culture-loaded words in the Oxford English Dictionary]. The Humanities and Social 
+Studies in the Far East 44 (1). 16–22.  
+
+Kachru, Braj B. 1961. An Analysis of Some Features of Indian English: A Study of Linguistic 
+Method. Unpublished doctoral dissertation. University of Edinburgh. 
+
+Kachru, Braj B. 1983. Models for non-native Englishes. In Larry E. Smith (ed.), Readings in 
+English as an International Language, 69–86. Oxford: Pergamon Press. 
+
+Kachru, Braj B. 1985. Standards, codification and sociolinguistic realism. The English 
+language in the outer circle. In Randolph Quirk & Henry G. Widdowson (eds.), English in 
+the World: Teaching and Learning the Language and Literatures, 11–30. Cambridge: 
+Cambridge University Press. Reprint: Bolton, Kingsley & Braj B. Kachru (eds.). 2006. 
+World Englishes: Critical Concepts in Linguistics 3. 241–269. London; New York: 
+Routledge.  
+
+545 
+
+
+
+Zoya G. Proshina and Cecil L. Nelson. 2020. Russian Journal of Linguistics 24 (3). 523–550 
+
+Kachru, Braj B. 1986. The Alchemy of English: The Spread, Functions, and Models of Non-
+Native Englishes. Oxford: Pergamon Press. Reprint: Urbana & Chicago: University of 
+Illinois Press. 1990. 
+
+Kachru, Braj B. (ed.). 1992 [1982]. The Other Tongue: English across Cultures. Urbana & 
+Chicago: University of Illinois Press. 
+
+Kachru, Braj B. 1998. English is an Asian language. Links and Letters 5. 89–108. 
+Kachru, Braj B., Yamuna Kachru & Cecil L. Nelson (eds.). 2006. The Handbook of World 
+
+Englishes. Malden, MA: Blackwell.  
+Kachru, Braj B. & Larry E. Smith. 1985. Editorial. World Englishes 4 (2). 209–212. 
+Kecskes, Istvan. 2019. English as a Lingua Franca: The Pragmatic Perspective. Cambridge: 
+
+Cambridge University Press. 
+Kirkpatrick, Andy (ed.). 2010. The Routledge Handbook of World Englishes. London & New 
+
+York: Routledge.  
+Knapp, Karlfried & Gerd Antos. 2009. Introduction to the Handbook series. In Karfried Knapp 
+
+& Barbara Seidlhofer (eds.), with Henry G. Widdowson. Handbook of Foreign Language 
+Communication and Learning, v-vii. Berlin, New York: Mouton de Gruyter.  
+
+Lawrick, Elena. 2011. English in Russian academe: Uses and perceived significance. West 
+Lafayette: Purdue University. (PhD dissertation). 
+
+Lazaretnaya, Olesya. 2012. English as a lingua franca in Russia: A sociolinguistic profile of 
+three generations of English users. University of Lisbon. (PhD dissertation). 
+
+Levada-Center. 2014. Vladeniye inostrannymi yazykami [Proficiency in Foreign Languages]. 
+May 28. URL: https://www.levada.ru/2014/05/28/vladenie-inostrannymi-yazykami/ 
+(accessed 26 June 2020) 
+
+Lopriore, Lucilla & Paola Vettorel. 2015. Promoting awareness of Englishes and ELF in the 
+English language classroom. In Hugo Bowles & Alessia Cogo (eds.), International 
+Perspectives on English as a Lingua Franca: Pedagogical Insights, 13–34. London: 
+Palgrave-MacMillan. 
+
+Mackenzie, Ian. 2014. English as a Lingua Franca: Theorizing and Teaching English. London 
+& New York: Routledge. 
+
+Marlina, Roby & Ram A. Giri (eds.). 2014. The Pedagogy of EIL: Perspectives from Scholars, 
+Teachers, and Students. Cham, Switzerland: Springer. 
+
+Matsuda, Aya (ed.). 2012. Principles and Practices of Teaching English as an International 
+Language. Bristol: Multilingual Matters. 
+
+Matsuda, Aya (ed.). 2017. Preparing Teachers to Teach English as an International Language. 
+Bristol: Multilingual Matters.  
+
+Mauranen, Anna & Elina Ranta (eds.). 2010. English as a Lingua Franca: Studies and 
+Findings. Newcastle-upon-Tyne: Cambridge Scholars. 
+
+McKay, Sandra. 2002. Teaching English as an International Language. Oxford: Oxford 
+University Press.  
+
+Meierkord, Christiane. 2004. Syntactic variation in interactions across international Englishes. 
+English World-Wide 25 (1). 109–132. 
+
+Meierkord, Christiane. 2012. Interactions across Englishes: Linguistic Choices in Local and 
+International Contact Situations. Cambridge: Cambridge University Press. 
+
+Nelson, Cecil L. 2011. Intelligibility in World Englishes: Theory and Application. New York 
+& London: Routledge.  
+
+Nelson, Cecil L., Zoya G. Proshina & Daniel R. Davis (eds.). 2020. The Handbook of World 
+Englishes. 2nd edn. Hoboken, NJ: Wiley-Blackwell.  
+
+Proshina, Zoya G. 2001. Anglijskij yazyk i kul’tura narodov Vostochnoj Azii. [The English 
+Language and Culture of East Asian People]. Vladivostok: Far Eastern Univ. Press.  
+
+546 
+
+
+
+Zoya G. Proshina and Cecil L. Nelson. 2020. Russian Journal of Linguistics 24 (3). 523–550 
+
+Proshina, Zoya G. (ed.). 2005. Russian Englishes: Special issue. World Englishes 24 (4). 
+437–532. 
+
+Proshina, Zoya G. 2006. Russian English: Status, attitudes, problems. The Journal of Asia TEFL 
+3 (2). 79–101.  
+
+Proshina, Zoya G. 2014a. Language revolution behind the cultural curtain. World Englishes 
+33 (1). 1–8. 
+
+Proshina, Zoya G. 2014b. Russian English: Myth or reality? Intercultural Communication 
+Studies 23 (1). 14–27. 
+
+Proshina, Zoya G. 2017. Kontaktnaya variantologiya angliyskogo yazyka: Problemy teorii. 
+World Englishes Paradigm. Moscow: Flinta – Nauka Publ.  
+
+Proshina, Zoya G. 2020. Mezhkul’turnaya kommunikaciya: Anglijskij yazyk i kul’tura narodov 
+Vostochnoj Azii. [Intercultural Communication: The English Language and Culture of 
+East Asian People]. 2nd edn. Moscow: Yurait Publ.  
+
+Proshina, Zoya G. & Anna A. Eddy (eds.). 2016. Russian English: History, Functions, and 
+Features. Cambridge: Cambridge University Press. 
+
+Proshina, Zoya G. & Alexandra A. Rivlina. 2020. Anglijskij yazyk v Rossii kak variant i kak 
+yazykovoj resurs [English in Russia as a variety and a language resource]. In Maria B. 
+Rarenko (ed.), Anglijskij yazyk na territorii Soedinyonnogo Korolevstva Velikobritanii i 
+Severnoj Irlandii i za ego predelami [The English Language in the United Kingdom of 
+Great Britain and Northern Ireland and Beyond Its Territory], 73–89. Moscow: 
+INION RAN.  
+
+Proshina, Zoya G. & Alexandra A. Rivlina 2018. Mock Russian English: shutlivo-parodijnoye 
+ispol’zovaniye russkogo varianta anglijskogo yazyka v stranakh Vnutrennego kruga 
+[Mock Russian English: Playful and parodic use of the Russian variety of English in 
+the Inner Circle countries]. Vestnik Moskovskogo Universiteta. Ser. 19: Lingvistika 
+i mezhkul’turnaya kommunikaciya [Moscow State University Bulletin. Series 19. 
+Linguistics and Intercultural Communication] 3. 18–30.  
+
+Quirk, Randolph. 1982. International communication and the concept of nuclear English. In 
+Christopher Brumfit (eds.), English for International Communication, 15–28. Oxford: 
+Pergamon Press. 
+
+Rivlina, Alexandra A. 2013. O nekotorykh osobennostyakh i lingvisticheskikh problemakh 
+processa formirovaniya massovogo russko-anglijskogo bilingvizma [Some features and 
+linguistic problems in forming mass Russian-English bilingualism]. The Humanities and 
+Social Studies in the Far East 37 (1). 61–66.  
+
+Rivlina, Alexandra A. 2015a. Bilingual creativity in Russia: English-Russian language play. 
+World Englishes 34 (3). 436–455. 
+
+Rivlina, Alexandra A. 2015b. Vzaimodejstviye russkogo yazyka s anglijskim v nazvaniyakh 
+rossijskikh Internet-saitov [Russian and English interaction in the names of Russian 
+Internet sites]. The Humanities and Social Studies in the Far East 45 (1). 32–36.  
+
+Savitsky, Vladimir M. & Anna E. Kurovskaya. 2004. Nacional’naya specifika anglijskoj rechi 
+(grammaticheskij aspect) [National specifics of English speech (grammatical aspect)]. 
+Moscow: Pearson Education, Moscow City Pedagogical University.  
+
+Schennikova, Natalia V. 2017. Strukturno-semanticheskiye i Funkcional’nye Kharacteristiki 
+Russkogo Idioma Anglijskogo Yazyka [Structural, Semantic, and Functional 
+Characteristics of the Russian Implementation of the English Language]. Samara: Samara 
+State University. (Doctoral dissertation). 
+
+Schneider, Edgar W. 2017. Models of English in the world. In Markku Filppula, Juhani 
+Klemola & Devyani Sharma (eds.), The Oxford Handbook of World Englishes, 35–57. 
+Oxford: Oxford University Press.  
+
+547 
+
+
+
+Zoya G. Proshina and Cecil L. Nelson. 2020. Russian Journal of Linguistics 24 (3). 523–550 
+
+Schreier, Daniel, Marianne Hundt & Edgar W. Schneider (eds.). 2020. The Cambridge 
+Handbook of World Englishes. Cambridge: Cambridge University Press. 
+
+Seargeant, Philip. 2009. The Idea of English in Japan: Ideology and the Evolution of a Global 
+Language. Bristol: Multilingual Matters.  
+
+Seargeant, Philip (ed.). 2011. English in Japan in the Era of Globalization. New York: Palgrave 
+Macmillan. 
+
+Seidlhofer, Barbara. 2010. Lingua franca English: The European context. In Andy Kirkpatrick 
+(ed.), The Routledge Handbook of World Englishes, 355–371. London & New York: 
+Routledge. 
+
+Seidlhofer, Barbara. 2011. Understanding English as a Lingua Franca. Oxford: Oxford 
+University Press.  
+
+Sharifian, Farzad. 2009. English as an International Language: An overview. In Farzad 
+Sharifian (ed.), English as an International Language. Perspectives and Pedagogical 
+Issues, 1–18. Bristol: Multilingual Matters.  
+
+Shishkina, Tatyana G. 1996. Russkij “accent” v pis’mennom perevode (morfologicheskij 
+uroven’) [The Russian ‘Accent’ in Written Translation (Morphological Aspect)]. Moscow: 
+Lomonosov Moscow State University. (PhD dissertation). 
+
+Sifakis, Nicos S., Lucilla Lopriore, Martin Dewey & Yasemin Bayyurt. 2018. ELF-awareness 
+in ELT: Bringing together theory and practice. Journal of English as a Lingua Franca 
+7 (1). 155–209.  
+
+Smith, Larry E. 1976. English as an international auxiliary language. RELC Journal 7 (2). 
+Reprint: Larry E. Smith (ed.). 1983. Readings in English as an International Language, 
+1–5. Oxford: Pergamon Press. 
+
+Smith, Larry E. (ed.). 1987. Discourse Across Cultures: Strategies in World Englishes. London: 
+Prentice Hall.  
+
+Smith, Larry E. 1992. Spread of English and issues of intelligibility. In Braj B. Kachru (ed.), 
+nd
+
+The Other Tongue. English across Cultures. 2  edn., 75–90. Urbana & Chicago: 
+University of Illinois Press.  
+
+Smith, Larry E. 2008. Familiar issues from a World Englishes perspective. In Zoya G. Proshina 
+(ed.), Kulturno-yazykovye kontakty [Culture and Language Contacts], 67–73. 
+Vladivostok: Far Eastern University Press. Reprint: Bulletin of Peoples’ Friendship 
+University of Russia. Series of Education Issues: Languages and Speciality. 2016. 1. 
+14–18.  
+
+Smith, Larry E. & John A. Bisazza, 1982. The comprehensibility of three varieties of English 
+for college students in seven countries. Language Learning 32 (2). Reprint: Larry E. Smith 
+(ed.). 1983. Readings in English as an International Language, 59–68. Oxford: Pergamon 
+Press. 
+
+Smith, Larry E. & Michael L. Forman (eds.). 1997. World Englishes 2000. Honolulu: 
+University of Hawaii Press. 
+
+Smith, Larry E. & Khalilullah Rafiqzad. 1979. English for cross-cultural communication: The 
+question of intelligibility. TESOL Quarterly 13 (3). Reprint: Larry E. Smith (ed.). 1983. 
+Readings in English as an International Language, 49–58. Oxford: Pergamon Press. 
+
+Smith, Larry E. & Cecil L. Nelson. 2020. World Englishes and issues of intelligibility. In Cecil 
+L. Nelson, Zoya G. Proshina & Daniel R. Davis (eds.), The Handbook of World Englishes. 
+2nd edn., 430–446. Hoboken, NJ: Wiley-Blackwell.  
+
+Stanlaw, James. 2004. Japanese English: Language and Culture Contact. Hong Kong: Hong 
+Kong University Press. 
+
+Strevens, Peter. 1983. What is “Standard English”? In Larry E. Smith (ed.), Readings in English 
+as an International Language, 87–93. Oxford: Pergamon Press. 
+
+548 
+
+
+
+Zoya G. Proshina and Cecil L. Nelson. 2020. Russian Journal of Linguistics 24 (3). 523–550 
+
+Sung, Chit Cheung Matthew. 2018. Out-of-class communication and awareness of English as 
+a Lingua Franca. ELT Journal 72 (1). 15–25. 
+
+Thumboo, Edwin (ed.). 2001. The Three Circles of English: Language Specialists Talk about 
+the English Language. Singapore: UniPress. 
+
+Todd, Loretto & Ian Hancock. 1987. International English Usage. New York: New York 
+University Press.  
+
+Trudgill, Peter & Jean Hannah. 1994. International English: A Guide to the Varieties of 
+Standard English. 3rd edn. London: Edward Arnold.  
+
+Ustinova, Irina P. 2005. English in Russia. World Englishes 24 (2). 239–251. 
+Ustinova, Irina P. 2006. English and emerging advertising in Russia. World Englishes 25 (2). 
+
+267–278. 
+Vettorel, Paolo. 2018. ELF and communication strategies: Are they taken into account in ELT 
+
+materials? RELC Journal 49 (1). 58–73. 
+Wang, Ying. 2015. Language awareness and ELF perceptions of Chinese university students. 
+
+In Hugo Bowles & Alessia Cogo (eds.), International Perspectives on English as a Lingua 
+Franca: Pedagogical Insights, 96–116. London: Palgrave-MacMillan. 
+
+Wei, Rining & Jinzhi Su. 2012. The statistics of English in China: An analysis of the best 
+available data from government sources. English Today 28 (3). 10–14.  
+
+Xu, Zhichang. 2010. Chinese English: Features and Implications. Hong Kong: Open 
+University of Hong Kong Press. 
+
+Zav’yalova, Viktoriya L. 2011. Anglijskij yazyk v Kitae: Osobennosti prosodicheskogo stroya. 
+[English in China: Specifics of the Prosodic Structure]. Vladivostok: Marine State 
+University Press.  
+
+Article history: 
+Received: 30 May 2020 
+Revised: 15 July 2020 
+Accepted: 17 July 2020 
+
+История статьи: 
+Дата поступления в редакцию: 30 мая 2020 
+Дата принятия к печати: 17 июля 2020 
+
+Bionotes: 
+Zoya G. PROSHINA is Professor in the Faculty of Foreign Languages and Area Studies, 
+Lomonosov Moscow State University, Russia, and Professor in the Department of 
+Linguistics and Intercultural Communication Studies, Far Eastern Federal University, 
+Vladivostok, Russia. She was President of the International Association for World 
+Englishes (2011–2012). She authored Kontaktnaya variantologiya angliyskogo yazyka: 
+World Englishes Paradigm (2017), Angliyskiy yazyk i kultura Vostochnoy Azii [The English 
+Language and Culture of East Asia] (2020), Teoriya perevoda (Translation Theory] 
+(2019), and co-edited, with Anna Eddy, the volume Russian English: History, Functions, 
+and Features (2016); and with Cecil L. Nelson and Daniel Davis, the 2nd edn. of The 
+Handbook of World Englishes (2020). She was guest-editor of a special issue on Russian 
+Englishes of the World Englishes journal (2005). 
+Contact information: 
+Lomonosov Moscow State University, 1, bld. 13, Leninskiye Gory, Moscow, 119991, 
+Russia 
+
+549 
+
+
+
+Zoya G. Proshina and Cecil L. Nelson. 2020. Russian Journal of Linguistics 24 (3). 523–550 
+
+e-mail: proshinazoya@yandex.ru 
+ORCID ID: 0000-0002-0570-2349 
+
+Cecil L. NELSON is Professor Emeritus of Linguistics in the Department of Languages, 
+Literatures and Linguistics at Indiana State University, USA. He was Review Editor of the 
+journal World Englishes and was President of the International Association for World 
+Englishes (2015–2017). He is the author of Intelligibility in World Englishes: Theory and 
+Application (2011), a co-author, with Yamuna Kachru, of World Englishes in Asian 
+Contexts (2006), a co-editor, with Braj B. Kachru and Yamuna Kachru, of The Handbook 
+of World Englishes (2006), and a co-editor, with Zoya Proshina and Daniel Davis, of the 
+2nd edition of The Handbook of World Englishes (2020). 
+Contact information: 
+Indiana State University, Terre Haute, United States  
+e-mail: cj3nelson@yahoo.com 
+
+Сведения об авторах: 
+Зоя Григорьевна ПРОШИНА – доктор филологических наук, профессор кафедры 
+теории преподавания иностранных языков, факультет иностранных языков и регио-
+новедения, Московский государственный университет имени М.В. Ломоносова. 
+В 2011–2012 была Президентом Международной ассоциации исследователей вари-
+антов английского языка. Является автором книг: “Контактная вариантология  
+английского языка: Вопросы теории: World Englishes Paradigm” (2017), «Английский 
+язык и культура Восточной Азии» (2020), «Теория перевода» (2019). Вместе  
+с А.А. Эдди выступила редактором коллективной монографии “Russian English: 
+History, Functions, and Features” (2016); вместе с Сесилом Нельсоном и Дэниэлом 
+Дэйвисом была соредактором 2-го изд. “The Handbook of World Englishes” (2020). 
+Контактная информация: 
+МГУ имени М.В. Ломоносова, Факультет иностранных языков и регионоведения. 
+119991, Россия, Москва, Ленинские горы, 1, стр. 13. 
+e-mail: proshinazoya@yandex.ru 
+ORCID ID: 0000-0002-0570-2349 
+
+Сесил Л. НЕЛЬСОН – Почетный профессор лингвистики, кафедра языков, литератур 
+и лингвистики, Университет штата Индиана, США. Являлся зав. отдела рецензий 
+журнала World Englishes, Президентом Международной ассоциации исследователей 
+вариантов английского языка (2015–2017). Автор книги Intelligibility in World 
+Englishes: Theory and Application (2011); соавтор – вместе с Ямуной Качру World 
+Englishes in Asian Contexts (2006); с Браджем и Ямуной Качру The Handbook of World 
+Englishes (2006); с Зоей Г. Прошиной и Дэниэлом Дэйвисом 2-го изд. The Handbook 
+of World Englishes (2020). 
+Контактная информация: 
+Indiana State University, Terre Haute, Indiana, USA 
+e-mail: cj3nelson@yahoo.com

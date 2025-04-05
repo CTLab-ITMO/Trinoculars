@@ -1,0 +1,751 @@
+﻿Приборы и методы измерений Devices and Methods of Measurements
+2015. − Т. 6. − № 2. − С. 163−172 2015, vol. 6, No. 2, pp. 163−172
+Джилавдари И.З. и др. Gilavdary I. et al.
+
+УДК 681.5.08
+
+Управление чувствительностью инерционного 
+датчика с дифференциальным электростатическим 
+преобразователем
+Джилавдари И.З.1, Мекид С.Н.2, Ризноокая Н.Н.1
+
+1Белорусский национальный технический университет, 
+пр. Независимости, 65, 220013, г. Минск, Беларусь
+2Университет нефти и минералов короля Фадха, 
+31261, Дхахран, Саудовская Аравия
+
+Поступила 01.07.2015
+Принята к печати 30.10.2015
+
+Формулируется проблема разработки датчика для измерения моментов сил инерции и гравитации с 
+минимальным уровнем шумов и минимально возможной крутильной жесткостью торсионного подвеса 
+подвижной массы, обеспечивающих достижение максимальной чувствительности прибора. Обосновы-
+вается возможность решения этой проблемы с помощью дифференциальной емкостной системы, кото-
+рая одновременно обеспечивает и считывание полезного сигнала, и уменьшение крутильной жесткости. 
+Отмечается, что основным фактором, определяющим минимальную крутильную жесткость, является 
+известный pull-in эффект, возникающий в электростатическом конденсаторе с подвижной пластиной. 
+Описывается электромеханическая схема датчика с дифференциальной электростатической системой. 
+Предлагается методика расчета емкости электростатического конденсатора с наклонной пластиной. 
+Проводится расчет момента электрических и механических сил, действующих на подвижную пластину 
+дифференциального конденсатора. Показано, что основной причиной, приводящей к pull-in эффекту в 
+дифференциальном конденсаторе, является несимметричность электростатической системы. Вводится 
+параметр несимметричности этой системы. Установлена зависимость резонансной частоты датчика от 
+электрического напряжения и параметра несимметричности. Рассчитываются области квазистатической 
+стабильности и нестабильности системы, границы которых определяются значением данного коэффи-
+циента. Проводится расчет конкретной модели датчика. Показано, что для уменьшения резонансной 
+частоты датчика более чем в 10 раз требуются нереально малые значения параметра несимметричности.
+
+Ключевые слова: емкостной датчик, емкостной актюатор, эффект залипания, отрицательная жест-
+кость, устойчивость равновесия, чувствительность датчика.
+
+Адрес для переписки: Address for correspondence:
+Джилавдари И.З. Gilavdary I.
+Белорусский национальный технический университет, Belarusian National Technical University, 
+пр. Независимости, 65, 220013, г. Минск, Беларусь Nezavisimosty Ave., 65, 220013 Minsk, Belarus 
+e-mail: gilavdary@bntu.by e-mail: gilavdary@bntu.by
+
+Для цитирования: For citation:
+Джилавдари И.З., Мекид С.Н., Ризноокая Н.Н. Gilavdary I., Mekid S., Riznookaya N.
+Управление чувствительностью инерционного датчика с диффе- Сontrolling sensitivity of the sensor with differential electrostatic 
+ренциальным электростатическим преобразователем transducers
+Приборы и методы измерений Devices and Methods of Measurements
+2015. − Т. 6. − № 2. − С. 163−172 2015, vol. 6, No. 2, pp. 163−172
+
+163
+
+
+
+Приборы и методы измерений Devices and Methods of Measurements
+2015. − Т. 6. − № 2. − С. 163−172 2015, vol. 6, No. 2, pp. 163−172
+Джилавдари И.З. и др. Gilavdary I. et al.
+
+Введение чувствительности электрометров с торсионным 
+подвесом и описан в работе [7]. В настоящее время 
+
+Инерционные датчики с подвижной массой этот метод используется в МЭМС – резонаторах и 
+(ПМ), удерживаемой относительно корпуса с по- акселерометрах (см., например, [8–10]). 
+мощью упругого подвеса, такие как линейные и Ультрачувствительные приборы с электро-
+угловые акселерометры, виброметры, гравиметры механическими подвесами, как правило, имеют 
+и гравитационные градиентометры (ГГ), широко емкостные системы считывания информации о 
+используются в измерительной технике. Принцип перемещениях ПМ (емкостные сенсоры). Емкост-
+действия этих датчиков состоит в измерении сме- ные сенсоры обладают рядом достоинств: малое 
+щения ПМ относительно корпуса под действием энергопотребление, малые размеры, максимальная 
+сил инерции или гравитации. Чувствительность стабильность, электромагнитная совместимость и 
+этих датчиков ограничивается в основном жест- практически рекордная чувствительность [11–14]. 
+костью упругого подвеса, тепловыми шумами, В приборах, содержащих емкостные сенсоры, вли-
+шумами 1/f, а также шумами систем считывания яние электрического поля эквивалентно действию 
+информации и управления [1]. В приборах, пред- пружины с отрицательной жесткостью [8, 15]. Этот 
+назначенных для измерений на подвижном осно- эффект называют «обратным влиянием» [16] и 
+вании, упругие подвесы должны удовлетворять иногда рассматривают как нежелательное явление. 
+противоречивым требованиям: они должны, с В измерительных приборах электрические 
+одной стороны, иметь минимальную жесткость в силы, как правило, невелики и мало влияют на ре-
+направлениях осей чувствительности и, с другой зонансную частоту свободных колебаний ПМ. В 
+стороны, быть максимально жесткими в других то же время электростатическое поле широко ис-
+направлениях [2]. пользуется для управления движением упруго под-
+
+Один из методов, позволяющий уменьшить вешенных элементов в МЭМ-актюаторах, которые 
+жесткость механического подвеса ПМ, состоит применяются в таких приборах, как микронасосы, 
+в компенсации силы тяжести и сил инерции ги- управляемые микрозеркала, ВЧ-переключатели, 
+дростатическими силами, а также силами маг- ВЧ-резонаторы и т.п. [17, 18]. В этих устройствах 
+нитного или электростатического поля [3]. Мак- электростатические силы сравнимы с упругими 
+симальной чувствительности удается достигнуть силами механических элементов и могут превос-
+в откачанных приборах с электростатическими ходить их. Поскольку силы упругости всегда огра-
+бесконтактными подвесами. В частности, на осно- ничены, а силы электростатического притяжения 
+ве трехосных линейных электростатических аксе- неограниченно растут при уменьшении зазора 
+лерометров, разработанных фирмой ONERA, был между элементами, несущими противоположные 
+построен гравитационный градиентометр EGG заряды, возникает эффект залипания или схло-
+(Electrostatic Gravity Gradiometer), который успеш- пывания [17, 19], когда эти элементы неудержимо 
+но использовался для измерений возмущений гра- стремятся друг к другу. В ряде устройств, напри-
+витационного поля Земли на околоземной орбите мер в микровыключателях или в датчиках со спе-
+по программе GOCE (Gravity Field and Steady-State циальными режимами измерений, этот эффект мо-
+Ocean Circulation Mission) Европейского космиче- жет быть полезным [20, 21], в других устройствах, 
+ского агентства c 2009 по 2013 год [4]. например в системах управления положением 
+
+В условиях действия силы тяжести или сил микрозеркал или в микронасосах, он нежелателен, 
+инерции, вызванных движением основания, отка- так как может приводить к нарушению работы 
+заться от использования механических подвесов этих устройств и даже к их разрушению [22]. Та-
+трудно. Среди любых других механических под- ким образом, стремление в максимальной степени 
+весов торсионный подвес обладает максимальной уменьшить жесткость упруго подвеса ПМ неиз-
+чувствительностью [5], и это касается приборов бежно упирается в проблему эффекта залипания. 
+любых размеров [6]. Один из возможных путей Понимание процессов, приводящих к зали-
+решения этой проблемы состоит в разработке под- панию, и необходимость контроля или управле-
+весов, в которых механические силы частично ния им вызвали многочисленные теоретические 
+компенсируются действием электрического поля и экспериментальные исследования. Этот эффект 
+лишь в направлении оси чувствительности при- изучают в различных режимах движения ПМ: в 
+бора. Насколько известно авторам, впервые по- статическом, динамическом, резонансном, в пере-
+добный метод был использован для повышения ходном, импульсном [23]. При этом в каждой кон-
+
+164
+
+
+
+Приборы и методы измерений Devices and Methods of Measurements
+2015. − Т. 6. − № 2. − С. 163−172 2015, vol. 6, No. 2, pp. 163−172
+Джилавдари И.З. и др. Gilavdary I. et al.
+
+кретной задаче приходится преодолевать и кон- Аналогично изменится и емкость конденсато-
+кретные трудности, связанные с нелинейностью ра C24: C24= C2 + C4 + Δ2 – Δ4. Легко видеть, что, 
+емкостных систем. В свою очередь, эффективным если Δ1 ≈ Δ3 и Δ2 ≈ Δ4, линейные деформации тор-
+способом уменьшения нелинейности емкостных сиона будут мало сказываться на электрических 
+преобразователей является применение диффе- сигналах.
+ренциальных схем их включения [12–14, 24, 25].
+
+Цель данной работы состояла в исследовании 
+условий, при которых можно добиться максималь-
+ного уменьшения жесткости торсионного подве-
+са в инерционном датчике с дифференциальным 
+электростатическим преобразователем. В этом 
+датчике могут быть объединены и емкостное счи-
+тывание полезного сигнала, и емкостное управле-
+ние жесткостью подвеса. Датчик такого типа был 
+предложен в [26].
+
+Описание электрической схемы датчика
+Рисунок 1 – Cхема дифференциального электроста-
+
+Схема датчика показана на рисунке 1. Здесь тического датчика и направления движения токов при 
+ПМ представляет собой плоскую проводящую вращении подвижной массы против часовой стрелки: 
+пластину, закрепленную в торсионном подве- 1 – проводящая подвижная масса в виде плоскопарал-
+се между двумя непроводящими неподвижными лельной пластины, закрепленная в торсионном подвесе 
+пластинами, на каждой из которых имеется пара с осью вращения, перпендикулярной плоскости рисун-
+электродов. Электроды и ПМ образуют 4 конден- ка; 2 – непроводящая подложка; 3 – проводящий элек-
+
+трод. Конденсаторы С2 и С4 заряжаются, конденсаторы 
+сатора от С1 до С4. ПМ может поворачиваться под С1 и С3 разряжаются
+действием полезного сигнала вокруг оси подвеса. 
+При отсутствии измеряемого сигнала ПМ распо- Figure 1 – A sketch of the differential electrostatic sensor 
+ложена параллельно электродам. Угол поворота and the currents movement directions, if  the proof mass 
+
+is rotating couner clock wise: 1 – conductive movable 
+ПМ обозначен через φ. mass in the form of a plane-parallel plate, is fixed with 
+
+Электроды и ПМ подсоединены к источнику с the suspension, which has a torsion axis perpendicular to 
+постоянным напряжением U так, как это показано the plane of the figure; 2 – a non-conductive substrate; 3 – 
+на рисунке 1. При повороте ПМ расстояние между a  conductive electrode. Capacitors C2 and C4 are charging, 
+ПМ и электродами изменяется, что приводит из- capacitors C1 and C3 are discharging
+менению емкостей. При этом в цепи возникают 
+токи от I1 до I4, текущие через соответствующие Расчет момента электрических сил, дей-
+конденсаторы. Из направлений этих токов видно, ствующих на подвижную массу с учетом не-
+что конденсаторы С1 и С3, как и конденсаторы С2 и симметричности емкостной системы
+С4, соединены параллельно. Поэтому введем обо-
+значения C13 = C1 + C3 и C24 = C2 + C4. Существуют разные методики расчета электро-
+
+Данная схема позволяет не только уменьшить статических сил между неподвижными электрода-
+нелинейность зависимости емкости конденсато- ми и ПМ. В большинстве случаев пренебрегают 
+ров C13 и C24 от угла φ, но и уменьшить влияние краевыми эффектами и предполагают, что электри-
+нежелательной деформации торсиона в направле- ческое поле конденсаторов является однородным, 
+нии, перпендикулярном плоскости электродов, т.е. как в плоском конденсаторе, и эта однородность 
+обеспечить низкую поперечную чувствительность сохраняется при малых поворотах ПМ. При таком 
+датчика к линейным ускорениям [27]. Действи- подходе получаются сложные формулы, которые 
+тельно, предположим, что под действием силы тя- трудно исследовать аналитически [25, 28]. Вместе с 
+жести ось торсиона сместилась вниз на некоторое тем считается, что при исследовании pull-in эффек-
+расстояние. Тогда емкость конденсатора C1 увели- тов именно аналитические методы являются наи-
+чится на некоторую величину Δ1, и емкость кон- более эффективными, ввиду большой чувствитель-
+денсатора С3 уменьшится примерно на такую же ности окрестностей границ стабильности к размеру 
+величину Δ3, так что емкость C13= C1 + C3 + Δ1 – Δ3. расчетного шага [22]. В рассматриваемой здесь за-
+
+165
+
+
+
+Приборы и методы измерений Devices and Methods of Measurements
+2015. − Т. 6. − № 2. − С. 163−172 2015, vol. 6, No. 2, pp. 163−172
+Джилавдари И.З. и др. Gilavdary I. et al.
+
+даче при расчете емкости конденсаторов использо-
+ван другой подход, более отвечающий симметрии 
+задачи и, как оказалось, позволяющий получать бо- ε r L
+
++
+C1′
+
+S C h a
+= 0 ⋅ ln 2 = 01 0 ⋅ ln 1
+
+лее простые формулы для расчета моментов сил и ϕL r L
+− ϕ L a ,     (1)
+
+2
+проводить аналитические расчеты в конечном виде. 2
+
+Представим, что в датчике, показанном на ри-
+сунке 1, конденсатор C1, образованный ПМ и соот- где   C
+
+ε0S
+01 = ; S  – площадь одного электрода, 
+
+ветствующим неподвижным правым электродом, h0
+состоит из последовательно соединенных конден- a = r L L
+
+1 − , a = r .
+саторов С′1 и С′′1, как это показано на рисунке 2а. 2 2 +
+
+2
+Конденсатор С′′1 – плоский, и будем считать, 
+
+что его электрическое поле однородное. В этом 
+случае С′′1  = С01.
+
+Тогда, введя обозначения   h
+ϕ 0  a 
+m = ln 1
+
+L 
+ a
+
+
+2 
+
+ϕ
+и  v = , искомую емкость между верхним на-
+
+ϕm
+клонным и нижним электродами получим в виде:
+
+   а
+C ( C′C C
+
+ϕ) = 1 1′′ 01ϕm C01
+1 = =  .    (2)
+
+C1′ +C1′′ ϕm +ϕ 1+ v
+Точно так же емкость С3 (см. рисунок 1) будет 
+
+описываться аналогичной формулой:
+C (v) C
+
+= 03
+3 .       (3)
+
+1+ v
+Тогда емкость:
+
+0
+C ) 3
+13 (v = C1 (v) +C 1
+
+3 (v)
+C
+
+= ,     (4)
+1+ v
+
+   b где:
+Рисунок 2 – Расчетная модель датчика: а – расчет емко- C0
+
+13 = C01 +C03.        (5)
+сти конденсатора С1; b – эквивалентная схема датчика, 
+показанного на рисунке 1. Me – момент электростатиче- Точно также найдем, что емкость:
+ских сил, действующих на проводящую подвижную мас- 0
+су со стороны двух нижних неподвижных электродов; C 24
+
+24 (v)
+C
+
+= ,       (6)
+L – длина нижних электродов; r – расстояние от центра 1− v
+электрода до перпендикуляра к оси вращения
+
+где:
+Figure 2 – The computational model of the sensor: a  – 
+
+C0
+the calculation of capacitance of the capacitor C1; b – 24 = C02 +C04.       (7)
+equivalent circuit of the sensor is shown in Figure 1. Me – 
+the moment of electrostatic forces acting on the conductive Далее требуется вычислить вращающий мо-
+movable mass from two lower fixed electrodes; L – length мент Me(φ) электростатических сил, действующий 
+of the lower electrode; r – distance from the center of the на ПМ, показанный на рисунке 2b. Сначала най-
+electrode up to the perpendicular to the PM’s rotation axis дем момент Mr(φ) , действующий на правую сторо-
+
+ну ПМ со стороны конденсатора С13. Этот момент 
+Предположим, что зазоры между пластинами найдем из потенциальной энергии конденсатора 
+
+малы по сравнению с остальными геометрически- [29], которая имеет вид:
+ми размерами. Так же, как это сделано в [29] (см. 
+
+W 1
+также [30]), можно принять, что электрическое 13 = − C (ϕ 2
+
+2 13 )U ,      (8)
+поле в конденсаторе С′1 является аксиально-сим-
+метричным. Тогда емкость: и далее из соотношения [29]:
+
+166
+
+
+
+Приборы и методы измерений Devices and Methods of Measurements
+2015. − Т. 6. − № 2. − С. 163−172 2015, vol. 6, No. 2, pp. 163−172
+Джилавдари И.З. и др. Gilavdary I. et al.
+
+При поворотах ПМ моменты Me(φ) и Mm(φ) дей-
+( ) ∂W ϕ 1 C 1 0
+
+13 (ϕ) C U 2
+M = 13 ( )
+
+= 2 ∂
+r ϕ − U == 13 ×
+
+∂ϕ 2 ∂ϕ 2 ϕ   ствуют в противоположных направлениях. Результи-
+m
+
+1 (9) рующий момент электрических и механических сил:
+× M (ϕ) =M    (17)
+
+m (ϕ) −Me (ϕ).
+( + v)2
+
+.
+1 Производная от этого момента по углу φ опреде-
+
+Момент силы электрического поля M ьтирующий коэффициент угловой жестко-
+l(φ), дей- ляет резул
+
+ствующий на левую часть ПМ, определится фор- сти. Выделив в этом коэффициенте постоянную со-
+мулой, аналогичной формуле (9): ставляющую, получим начальное значение резуль-
+
+тирующего коэффициента угловой жесткости:
+0 2
+
+M 1 24 1
+l (v)
+
+C U
+= .   (10) k = k 8 B
+
+   (18)
+2 ϕ 2 r − (γ + ) .
+
+m (1− v) ϕm
+
+Модуль полного момента электрических сил, При заданной величине момента инерции Iz 
+
+действующего на ПМ: ПМ значение kr определяет частоту f0 свободных 
+колебаний ПМ при наличии электрического поля:
+
+M 1 2
+
+e (v) =Ml (v) −Mr (v)
+U [C02 +C= 04 −
+2 ϕ  f 1 k
+
+= r
+0 .                  (19)
+
+m (1− v)2  (11) 2π Iz
+C01 +C− 03 При отсутствии электрического поля, т.е. при 
+(1+ v)2
+
+].
+B = 0, частота свободных колебаний ПМ описыва-
+ется формулой:
+
+Будем считать, что в силу нарушения электри-
+ческой симметрии, вызванной погрешностью из- f 1 k
+
+= .                  (20)
+готовления, имеют место соотношения: 2π Iz
+C02 = (1+ γ01 )C01  и C04 = (1+ γ02 )C03,           (12) При заданном значении момента инерции Iz 
+
+именно значение параметра f0 определяет чувстви-
+где γ01 и γ02 – параметры несимметричности, и, тельность упругого подвеса: чем меньше f0, тем 
+кроме того, C03 = C01 = C0. В этом случае формула больше чувствительность [31]. Из формул (13), 
+(11) запишется в виде: (14), (16), (17), полагая γ = 0, найдем значение 
+
+ электрического напряжения U, при котором до-
+8v + γ (1+ vM v B )2 
+
+e ( ) = ,               (13) стигается заданное значение f
+ 0:
+ (1− v2 )2 
+
+
+где введены обозначения: U ϕm k − 4π2I f 2 I
+
+= z 0 = πϕ z f 2 f 2   (21)
+2 C m C ( − 0 ).
+
+0 0
+
+B 1 C U 2
+= 0 и   γ = γ01 + γ02    (14) Для примера рассмотрим расчет датчика, 
+2 ϕm исходные параметры которого указаны в таблице. 
+Вследствие различных причин на практике Тогда зависимость частоты f0 от напряжения U, 
+
+несимметричность датчика присутствует всегда. В полученная из формулы (21), будет иметь вид, 
+работе [24] несимметричность использовали при показанный на рисунке 3. 
+демонстрации эффекта параметрического усиле-
+ния сигнала в МЕМ-резонаторе. 
+
+Кроме момента сил Me(φ) электрического 
+поля, на ПМ действуют механические силы со сто-
+роны упругого подвеса. Будем считать, что момент 
+этих сил линейно зависит от угла поворота ПМ от-
+носительно оси вращения, так что:
+Mm (ϕ) = k ϕ,                 (15)
+
+Рисунок 3 – Зависимость резонансной частоты датчика 
+где k –  упругий коэффициент, или в других обозначениях: f0 от электрического напряжения U
+Mm (v) = k φmv.     (16) Figure 3 – Dependence of the sensor natural frequency f0 
+
+on electric voltage U
+
+167
+
+
+
+Приборы и методы измерений Devices and Methods of Measurements
+2015. − Т. 6. − № 2. − С. 163−172 2015, vol. 6, No. 2, pp. 163−172
+Джилавдари И.З. и др. Gilavdary I. et al.
+
+Таблица / Table
+Исходные параметры датчика
+The design parameters of the sensor
+
+Iz, кг⋅м2 k, Н⋅м/рад f, Гц f0, Гц L, м r, м h0, мм С0, пФ
+
+4,912⋅10-4 4 14,36 2 0,035 0,0525 0,1 123,9
+
+Видно, что частота f0 изменяется особенно бы- Эта зависимость показана на рисунке 5а. При 
+стро при значениях U, близких к максимальному f0 = 2 Гц угол ν0
+
+max  = ± 0,099. Также на рисунках 5b 
+значению 177,92 В. и 5c показаны обычная и логарифмическая зависи-
+
+Решая уравнение M(φ) = 0, получим связь мости максимальных допустимых положительных 
+между параметром γ и углом φ, где имеет место γ2 и отрицательных значений γ1 параметра γ  от от-
+равновесие механических и электрических сил, ношения частот f0/f, которые дают представление о 
+действующих на ПМ при бесконечно медленном реально достижимых минимальных значениях ча-
+включении электрического поля, обеспечиваю- стот  f0 ограниченных несимметричностью конден-
+щем квазистатическое равновесие датчика, когда саторов. Видно, что обеспечение значений (f0/f)<0,1 
+кинетической энергией перемещения ПМ из на- возможно лишь при нереально малых значениях |γ| . 
+чального положения можно пренебречь. Эта связь, 
+полученная при параметрах датчика из таблицы 1, 
+показана на рисунке 4. Как будет показано в следу-
+ющей работе авторов, квазистатическое равнове-
+сие ПМ возможно в интервале γ1< γ< γ2, где урав-
+нение M(φ)=0 имеет три действительных корня.
+
+                            а             b
+
+Рисунок 4 – Связь между параметром несимметрично-
+сти γ и углом φ, полуенная из уравнения M(φ) = 0. Здесь 
+ν0
+
+1max  и ν0
+2max – максимальные допустимые значения без- c
+
+размерного угла ν Рисунок 5 – Зависимости допустимого угла отклонения 
+подвижной массы от положения равновесия симметрич-
+
+Figure 4 – Relation between the asymmetry parameter γ ного датчика (γ = 0) (a) и параметра несимметричности γ 
+and the angle φ received from equation M(φ) = 0. Here, от отношения частот f0  и f (b и с)
+parameters ν0
+
+1max  and ν0
+2max are the maximum values of a 
+
+dimensionless angle ν Figure 5 – Dependencies of allowable angle of deflection 
+of the movable mass on its equilibrium position for 
+
+В частном случае, когда γ = 0, т.е. в симметрич- symmetrical sensor (γ = 0) (a) ) and of asymmetry param-
+ном дифференциальном датчике, решая уравнение eter γ on the ratio of frequency f0  and f (b and с)
+
+M(φ) = 0 , найдем максимальный допустимый угол Заключение
+ν0
+
+max квазистатического  отклонения ПМ от положе-
+ния равновесия, при котором эффект залипания бу- Емкостные системы считывания полезного 
+дет отсутствовать:
+
+ сигнала в датчиках, предназначенных для измере-
+ний гравитационных и инерционных сил и момен-
+
+ν0max = 1− 1− ( f / )20 f . (22) тов, обладают рядом преимуществ по сравнению с 
+
+168
+
+
+
+Приборы и методы измерений Devices and Methods of Measurements
+2015. − Т. 6. − № 2. − С. 163−172 2015, vol. 6, No. 2, pp. 163−172
+Джилавдари И.З. и др. Gilavdary I. et al.
+
+датчиками, построенными на других физических 7. Milatz, J.M.W. The Brownian Motion of Electrome-
+принципах, в первую очередь, благодаря низкому ters / J.M.W. Milatz, J.J. van Zolingen // Physica. – 1953.  – 
+уровню шумов и малым габаритам. Применение Vol. 19, Issue 1. – P. 181–194.
+дифференциальной емкостной системы позволяет 8. Capacitance based tunable micromechanical resona-
+уменьшать крутильную жесткость механических tors: Patent N:5,640,133 / N.C. MacDonald; F.M. Bertsch; 
+подвесов гравиинерциальных датчиков (и, соот- K.A. Shaw; S.G. Adams. – Date of Patent: Jun. 17, 1997
+
+9. Handtmann, M. Sensitivity enhancement of MEMS 
+ветственно, увеличить их чувствительность) пу- inertial sensors using negative springs and active control / 
+тем наложения постоянного электрического поля. M. Handtmann [et al.] // Sensors and Actuators A: Physi-
+
+В данной работе в режиме квазистатического cal. – 2002. – Vol. 97–98. – P. 153–160.
+равновесия подвижной массы установлено, что 10. Park, K.Y. Capacitive sensing type surface mi-
+несимметричность дифференциальной емкостной cromachined silicon accelerometer with a stiffness tuning 
+системы может приводить к неустойчивости дат- capability / K.Y. Park [et al.] // The Eleventh Annual Inter-
+чика, ввиду возникновения известного эффекта national Workshop on Micro Electro Mechanical Systems, 
+прилипания (pull-in эффект). Разработана методи- 25–29 january Heidelberg, Germany, 1998 // Congress & 
+ка расчета датчика, главным образом аналитиче- Incoming Service Heidelberg GmbH (CIS), Hahn-Schick-
+ская, которая определяет границы устойчивости ard-Gesellschaft, Institute of Micromachining and Infor-
+
+mation Technology (HSG-IMIT). – Heidelberg, 1998. – 
+квазистатического равновесия подвижной массы. P. 637–642.
+Показано, что несимметричность емкостной си- 11. Flokstra, J. MEMS based gravity gradiometer 
+стемы определяет предел уменьшения жесткости for Space Application / J. Flokstra [et al.] // Cryogenics. – 
+подвеса подвижной массы, при этом требование к 2009. – Vol. 49, Issue 11. – P. 665–668.
+допустимому значению параметра несимметрич- 12. Bernstein, J. Low-Noise MEMS Vibration Sensor 
+ности резко возрастает с уменьшением жесткости. for Geophysical Applications / J. Bernstein [et al.] // Jour-
+В частности, резонансная частота датчика может nal of Microelectromechanical Systems. – 1999. – Vol. 8, 
+быть уменьшена в 10 раз, если значение коэффици- № 4. – P. 433–438. 
+ента несимметричности не превышает нескольких 13. Micro-System Inertial Sensing Technology Over-
+десятых процента. view: report / Sandia National Laboratories; head J. Al-
+
+len. – California, 2009. – 32 p. – SAND2009-3080.
+Дальнейшие исследования датчика с макси- 14. Jiang, X. An integrated surface micromachined 
+
+мально возможной чувствительностью должны capacitive lateral accelerometer with 2µG/√Hz resolution / 
+включать анализ его динамических характеристик X. Jiang [et al.] // Solid-State Sensor, Actuator and Micro-
+вообще и резонансных характеристик в частности. systems Workshop, Hilton Head Island of America, South 
+
+Carolina, USA, June 2–6 2002. –  Hilton Head Island, 
+Список использованных источников 2002.  – P. 202–205.
+
+15. Chuang, W.-Ch.  Physical Sensors. Review on 
+1. Silvestrin, P. Control and navigation aspects of the the Modeling of Electrostatic MEMS /  W.-Ch. Chuang [et 
+
+new Earth observation missions of the European Space al.]  // Sensors. – 2010. – Vol. 10, № 6. – P. 6149–6171.
+Agency / P. Silvestrin // Annual Reviews in Control. – 16. Брагинский, В.Б. Измерение малых сил 
+2005. – Vol. 29, № 2. – P. 247–260. в физических экспериментах / В.Б. Брагинский, 
+
+2. Liu, H. Design, Fabrication and Characterization А.Б.  Манукин. – М. : Наука, 1974. – 152 с. 
+of a Micro-Machined Gravity Gradiometer Suspension / 17. Мухуров, Н.И. Электромеханические 
+H. Liu, W. T. Pike, G. Dou // Ratio. – 2011. – Vol. 11, Is- микроустройства / Н.И. Мухуров, Г.И. Ефремов. – 
+sue  12. – P. 11206–11234. Минск : Беларуская навука, 2012. – 257 с.
+
+3. Васюков, C. Теория и применение элек- 18. Mobki, H. A comprehensive study of stability in 
+тростатических подвесов / C. Васюков, Г. Дробышев. – an electro-statically actuated micro-beam / H. Mobki [et 
+М. : Изд-во МГТУ им. Н.Э. Баумана, 2009. – 336 с. al.] // International Journal of Non-Linear Mechanics. – 
+
+4. Douch, K. Ultra-sensitive electrostatic planar ac- 2013. – Vol. 48. – P. 78–85. 
+celeration gradiometer for airborne geophysical surveys 19. Микро- и наноинженерия в электронном 
+/ K. Douch [et al.] // Measurement Science and Technol- машиностроении : в 7 т. / Н.Н. Балан [и др.]. – Ивантеевка 
+ogy.  – 2014. – Vol. 25, № 10. – Р. 105902. МО : НИИ предельных технологий, 2012. – Монография 
+
+5. Gravity gradiometer with torsion flexure pivots: 1: Инженерия туннельных преобразователей. – 204 c. 
+Patent No US 8,201,448 B2 / J.B. French, K.A. Carroll. – 20. Gupta, R.К. Pull-in dynamics of electrostatically-
+Date of Patent: Jun. 19, 2012. actuated beams / R.К. Gupta [et al.] // Solid-State Sensor 
+
+6. Carr, D. Parametric amplification in a torsional mi- and Actuator Workshop Late News Paper, Hilton Head Is-
+croresonator / D. Carr [et al.] // Applied Physics Letters. – land of America, South Carolina, USA, June 2–6 1996. – 
+2000. – Vol. 77, № 10. – P. 1545–1547. Hilton Head Island, 1996. – P. 2–6.
+
+169
+
+
+
+Приборы и методы измерений Devices and Methods of Measurements
+2015. − Т. 6. − № 2. − С. 163−172 2015, vol. 6, No. 2, pp. 163−172
+Джилавдари И.З. и др. Gilavdary I. et al.
+
+21. Dias, R.A. Pull-in-based μg-resolution accelerom- 26. Differential capacitance torque sensor: US Patent 
+eter: Characterization and noise analysis / R.A. Dias [et al.] No 8,893,563 / S. Mekid, I. Gilavdary. – Date of Patent: 
+// Sensors and Actuators A: Physical. – 2011. – Vol. 172. Nov. 25, 2014.
+№  1. – P. 47–53. 27. Differential capacitive sensor and method of mak-
+
+22. Zhang, Y. Numerical and analytical study on the ing same: US Patent No 7,610,809 / A. McNeil, Y. Lin, 
+pull-in instability of micro-structure under electrostatic T.  Miller. – Date of Patent: Nov. 3, 2009.
+loading / Y. Zhang, Y. Zhao // Sensors and Actuators A: 28. Elata, D. On the static and dynamic response of 
+Physical. – 2006. – Vol. 127. – P. 366–380. electrostatic actuators // Technical Sciences. – 2005. – 
+
+23. Zhang, W.M. Electrostatic pull-in instability in Vol.  53. – № 4. – P. 373–384.
+MEMS/NEMS: A review / W.M. Zhang [et al.] // Sensors 29. Матвеев, А.Н. Электричество и магнетизм: 
+and Actuators A: Physical. – 2014. – Vol. 214. – P. 187–218. учебн. пособие / А.Н. Матвеев. – М. : Высшая школа, 
+
+24. Dittmer, J. Modeling and Design of Electrostatic 1983. – 463 с.
+Voltage Sensors Based on Micro Machined Torsional Ac- 30. Gao, L. The Fringing Capacitance of an Inclined 
+tuators / J. Dittmer [et al.] // Nanotechnology 2008: Mi- Plate Capacitor / L. Gao, D. Zhao // Fundamental J. Math-
+crosystems, Photonics, Sensors, Fluidics, Modeling, and ematical Physics. – 2012. – Vol. 2, Issue 1. – P. 11–17.
+Simulation – Technical Proceedings of the 2008 NSTI 31. Bernstein, J. An Overview of MEMS Inertial 
+Nanotechnology Conference and Trade Show. – 2008. – Sensing Technology / J. Bernstein // Sensors online [Elec-
+Vol.  3.  – P.  521–524 tronic resource]. – 2003. – Mode of access: http://www.sen-
+
+25. Puers, R. Electrostatic forces and their effects on capaci- sorsmag.com/sensors/acceleration-vibration/an-overview-
+tive mechanical sensors / R. Puers, D. Lapadatu // Sensors and mems-inertial-sensing-technology-970. – Date of access: 
+Actuators A: Physical. – 1996. – Vol. 56. – Issue 3. – P. 203–210. 19.02.2015.
+
+170
+
+
+
+Приборы и методы измерений Devices and Methods of Measurements
+2015. − Т. 6. − № 2. − С. 163−172 2015, vol. 6, No. 2, pp. 163−172
+Джилавдари И.З. и др. Gilavdary I. et al.
+
+Controlling sensitivity of the sensor with differential electrostatic 
+transducers
+Gilavdary I.1, Mekid S.2, Riznookaya N.1
+
+1Belarusian National Technical University, 
+Nezavisimosty Ave., 65, 220013, Minsk, Belarus
+2King Fahd University of Petroleum & Minerals, Mechanical Engineering Department, 
+31261, Dhahran, Saudi Arabia
+
+Received 01.07.2015
+Accepted for publication 30.10.2015
+
+Abstract. The problem of developing a sensor for measuring of moment forces of inertia and gravitation with 
+minimal noise and minimal rigidity of the torsion suspension of proof mass (PM) is formulated. The possibility 
+to solve this problem by a differential capacitive system, which simultaneously provides forming of the useful 
+signal and reducing the torsion rigidity is shown. Sensor’s electromechanical circuit with differential electro-
+static system is described. Method of calculating the electrostatic capacitance of the capacitor with an inclined 
+plate is proposed. Calculations of electrical and mechanical forces moment acting on the movable plate of the 
+differential capacitor in quasi-static mode are performed. It is shown that the main factor leading to the pull-in 
+effect in the differential capacitor is the asymmetry of electrostatic system. The coefficient of asymmetry of 
+the differential electrostatic system is introduced. The dependence on voltage of the resonance frequency of 
+the sensor is received. The areas of the quasi-static stability of the system are calculated. It is shown that their 
+boundaries are determined by the value of the coefficient of asymmetry, as well as by the value of the resonant 
+frequency of the PM. It is shown that for reducing the resonant frequency of the sensor in more then ten times 
+an unrealistically low values of the coefficient of asymmetry are required.
+
+Keywords: capacitive sensor, capacitive actuator, pull-in effect, the negative stiffness, stable 
+equilibrium.
+
+Адрес для переписки: Address for correspondence:
+Джилавдари И.З. Gilavdary I.
+Белорусский национальный технический университет, Belarusian National Technical University, 
+пр. Независимости, 65, 220013, г. Минск, Беларусь Nezavisimosty Ave., 65, 220013 Minsk, Belarus 
+e-mail: gilavdary@bntu.by e-mail: gilavdary@bntu.by
+
+Для цитирования: For citation:
+Джилавдари И.З., Мекид С.Н., Ризноокая Н.Н. Gilavdary I., Mekid S., Riznookaya N.
+Управление чувствительностью инерционного датчика с диффе- Controlling sensitivity of the sensor with differential electrostatic 
+ренциальным электростатическим преобразователем transducers
+Приборы и методы измерений Devices and Methods of Measurements
+2015. − Т. 6. − № 2. − С. 163−172 2015, vol. 6, No. 2, pp. 163−172
+
+171
+
+
+
+Приборы и методы измерений Devices and Methods of Measurements
+2015. − Т. 6. − № 2. − С. 163−172 2015, vol. 6, No. 2, pp. 163−172
+Джилавдари И.З. и др. Gilavdary I. et al.
+
+References
+1. Silvestrin P. Control and navigation aspects of the p. (in Russian)
+
+new Earth observation missions of the European Space 17. Myhyrov N.I., Efremov G.I. Elekrtomekhaniches-
+Agency. Annual Reviews in Control, 2005, vol. 29, no. 2, kiye mikroustrojstva [Electromechanical microdevices]. 
+pp. 247–260. Minsk, Belaruskaya navuka Publ., 2012, 257 p. (in Russian)
+
+2. Liu H., Pike W. T., Dou G. Design, Fabrication and 18. Mobki H., Rezazadeh Gh., Sadeghi M., Vakili-
+Characterization of a Micro-Machined Gravity Gradiom- Tahami F., Seyyed-Fakhrabadi M.-M. A comprehensive 
+eter Suspension. Ratio, 2011, vol. 11, pp. 11206–11234. study of stability in an electro-statically actuated micro-
+
+3. Vasykov S., Drobishev G. Teoriya i primeneniya beam. International Journal of Non-Linear Mechanics, 
+elektrostaticheskikh podvesov [Theory and Application of 2013, vol. 48, pp. 78–85.
+electrostatic suspension]. Moscow, MSTU Publ., 2009, 336 19. Balan N.N., Vasin V.A., Ivashov E.N., Lvov B.G., 
+p. (in Russian) Nevskij A.B. Ingeneriya tynnelnykh preobrazovatelej [En-
+
+4. Douch K., Christophe B., Foulon B., Panet I., Pajot- gineering tunnel converters]. Ivanteyevka, NII predel’nykh 
+Mtivier G., Diament M. Ultra-sensitive electrostatic planar tekhnoligij Publ., 2012, 204 p. (in Russian)
+acceleration gradiometer for airborne geophysical surveys. 20. Gupta R.К., Hung E.S., Yang Y.-J., Ananthasuresh 
+Measurement Science and Technology, 2014, vol. 25, G.K., Senturia S.D. Pull-in dynamics of electrostatically-
+no.  10, pp. 105902. actuated beams. Solid-State Sensor and Actuator Workshop 
+
+5. French J.B., Carroll K.A. Gravity gradiometer with Late News Paper. South Carolina, USA, 1996, pp. 2–6.
+torsion flexure pivots. Patent US, no. 8,201,448 B2, 2012. 21. Dias R.A., Cretu E., Wolffenbuttel R., Rocha L.A. 
+
+6. Carr D., Evoy S., Sekaric L., Craighead H., Parpia Pull-in-based μg-resolution accelerometer: Characteriza-
+J. Parametric amplification in a torsional microresonator. Ap- tion and noise analysis. Sensors and Actuators A: Physical, 
+plied Physics Letters, 2000, vol. 77, no. 10, pp. 1545–1547. 2011, vol. 172, no. 1, pp. 47–53.
+
+7. Milatz J.M. W., van Zolingen J.J. The Brownian Mo- 22. Zhang Y., Zhao Y. Numerical and analytical study 
+tion of Electrometers. Physica, 1953, vol. 19, pp. 181–194. on the pull-in instability of micro-structure under electro-
+
+8. MacDonald N.C. Bertsch F.M. Shaw K.A., Adams static loading. Sensors and Actuators A: Physical, 2006, 
+S.G. Capacitance based tunable micromechanical resona- vol. 127, pp. 366–380.
+tors. Patent US no. 5,640,133, 1997. 23. Zhang W.M., Yan H., Peng Zhi-Ke, Meng G. Elec-
+
+9. Handtmann M., Aigner  R., Meckes A., Wachutka trostatic pull-in instability in MEMS/NEMS: A review. Sen-
+G.K.M. Sensitivity enhancement of MEMS inertial sensors sors and Actuators A: Physical, 2014, vol. 214, pp. 187–218.
+using negative springs and active control. Sensors and Ac- 24. Dittmer J., Dittmer A., Judaschke R., Büttgenbach 
+tuators A: Physical, 2002, vol. 97–98, pp. 153–160. S. Modeling and Design of Electrostatic Voltage Sensors 
+
+10. Park, K.-Y., Lee Ch.-W., Jang H.-S.,  Oh Y., Ha B. Based on Micro Machined Torsional Actuators. Technical 
+Capacitive sensing type surface micromachined silicon ac- Proceedings of the 2008 NSTI Nanotechnology Conference 
+celerometer with a stiffness tuning capability. The Eleventh and Trade Show. Danville, 2008, vol. 3, pp. 521–524.
+Annual International Workshop on Micro Electro Mechani- 25. Puers R., Lapadatu D. Electrostatic forces and 
+cal Systems, Heidelberg, Germany, 1998, pp. 637–642. their effects on capacitive mechanical sensors. Sensors and 
+
+11. Flokstra J., Cuperus R.,  Wiegerink R.J., van Essen Actuators A: Physical, 1996,, vol. 56,, pp. 203–210.
+M.C. MEMS based gravity gradiometer for Space Applica- 26. Mekid S., Gilavdary I. Differential capacitance 
+tion. Cryogenics, 2009, vol. 49, pp. 665–668. torque sensor. Patent US no. 8,893,563, 2014.
+
+12. Bernstein J., Miller R., Kelley W., Ward P. Low- 27. McNeil A., Lin Y., Miller T. Differential capaci-
+Noise MEMS Vibration Sensor for Geophysical Applica- tive sensor and method of making same. Patent US no. 
+tions. Journal of Microelectromechanical Systems, 1999, 7,610,809, 2009.
+vol. 8, no. 4, pp. 433–438. 28. Elata D. On the static and dynamic response of 
+
+13. Allen J. Micro-System Inertial Sensing Technol- electrostatic actuators. Technical Sciences, 2005, vol. 53, 
+ogy Overview: report SAND2009-3080. California, Sandia no. 4, pp. 373–384.
+National Laboratories, 2009, 32 p. 29. Matveev A.N. Elektrichestvo i magnetizm [Elec-
+
+14. Jiang X., Wang F., Kraft M., Boser B.E. An integrated tricity and Magnetism]. Moscow, Vysshaya shkola Publ., 
+surface micromachined capacitive lateral accelerometer with 1983, 463 p. (in Russian)
+2µG/√Hz resolution. Solid-State Sensor, Actuator and Micro- 30. Gao L., Zhao D. The Fringing Capacitance of an 
+systems Workshop. South Carolina, USA, 2002, pp. 202–205. Inclined Plate Capacitor. Fundamental J. Mathematical 
+
+15. Chuang Wan-Chun, Lee Hsin-Li, Chang Pei-Zen, Hu Physics, 2012, vol. 2, pp. 11–17.
+Yuh-Chung Physical Sensors. Review on the Modeling of Elec- 31. Bernstein J. An Overview of MEMS Inertial 
+trostatic MEMS. Sensors, 2010, vol. 10, № 6, pp. 6149–6171. Sensing Technology. Sensors online [Electronic resource]. 
+
+16. Braginskij V. B. Izmereniye malykh sil v Available at: http://www.sensorsmag.com/sensors/acceler-
+fizicheskikh experementakh [Measurement of small forces ation-vibration/an-overview-mems-inertial-sensing-tech-
+in physics experiments]. Moscow, Nauka Publ., 1974, 152 nology-970. Date of access: 19.02.2015.
+
+172

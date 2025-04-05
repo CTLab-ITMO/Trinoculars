@@ -1,0 +1,741 @@
+﻿Известия Томского политехнического университета. Инжиниринг георесурсов. 2020. Т. 331. № 9. 179–185 
+Барханаджян А.Л. и др. Проблема использования отходов лакокрасочных материалов и их утилизация 
+
+ 
+УДК 628.477.6:620.193.4 
+
+ПРОБЛЕМА ИСПОЛЬЗОВАНИЯ ОТХОДОВ ЛАКОКРАСОЧНЫХ МАТЕРИАЛОВ  
+И ИХ УТИЛИЗАЦИЯ 
+
+Барханаджян Аида Левоновна1,  
+bal-37@mail.ru 
+
+Хакимов Равшан Муминович1,  
+hakimov-ravshan@mail.ru 
+
+Ибрагимов Ботир Дастамович1,  
+ibragimov.bd@mail.ru 
+
+Собирова Дилорам Кабуловна1 
+
+Абдукаримова Гульсуной Уринбаевна1 
+
+Айрапетов Дмитрий Алексеевич1,  
+ayrapetov92@mail.ru 
+
+1 Ташкентский институт по проектированию, строительству и эксплуатации автомобильных дорог,  
+Узбекистан, 100060, г. Ташкент, пр. А. Тимура, 20. 
+
+ 
+Актуальность исследования. Коррозия металлов является наиважнейшей проблемой, с которой связаны большие потери 
+металлов. Ежегодно от коррозии безвозвратно теряются сотни тонн металлов, поэтому все исследования, направленные 
+на антикоррозионную защиту металлов, являются целесообразными и актуальными. 
+Цель исследования. Существуют различные методы антикоррозионной защиты металлических деталей, но нет доста-
+точно эффективного метода для конкретных условий антикоррозионной защиты. Целью настоящей работы является ис-
+пользование отходов лакокрасочных материалов для получения антикоррозионных покрытий металлических деталей. 
+Объектом исследования являются отходы лакокрасочных материалов, полученные при окраске автомобилей.  
+Методы: изучение физико-химических свойств отходов; подбор состава для растворения отходов лакокрасочных материа-
+лов; разработка рецептуры и получение антикоррозионной мастики; испытание полученного антикоррозионного лакокрасоч-
+ного покрытия на адгезию, химостойкость, прочность пленки на изгиб, прочность пленки на удар, огнестойкость, морозо-
+стойкость; определение наиболее эффективного компонентного и количественного состава полученного покрытия. Выбра-
+ны металлические пластинки для нанесения защитного лакокрасочного покрытия, растворы различных соединений для про-
+ведения испытаний по определению потери массы опытных металлических образцов 
+Результаты. Разработана и получена мастика на основе госсиполовой смолы и твердых отходов лакокрасочных материа-
+лов. Отходы лакокрасочных материалов – потери, получаемые при окраске автомобилей. Госсиполовая смола представляет 
+собой отход масложиркомбината. Полученная мастика прошла испытания в лабораторных условиях по показателям каче-
+ства в соответствии со стандартами, получены положительные результаты. Проведены эксплуатационные испытания в 
+дорожных условиях, пробег автомобиля составил 12780 км, при исследовании изменения на поверхности покрытия не обна-
+ружены. 
+
+ 
+Ключевые слова: 
+Отходы, лакокрасочные материалы, подготовка мастики, ингредиенты мастики, антикоррозионные свойства, адгезия, 
+прочностные свойства, эксплуатационные испытания, защита металлов, эффективность мастики. 
+
+ 
+17 млрд т и к 2050 г. достигнет 27 млрд т [2]. Из этого 
+
+Введение 
+количества около 1,3 млрд т в данное время состав-
+
+Высокие темпы развития промышленных пред- ляют твердые бытовые отходы, образующиеся в го-
+приятий приводят к образованию большого количе- родах мира [3]. Известно, что любые отходы создают 
+ства отходов. В связи с этим в настоящее время про- неблагоприятную экологическую обстановку, такую 
+блема утилизации отходов является наиважнейшей как изменение климата, истощение стратосферного 
+задачей и решение ее может иметь, несомненно, и озона, ущерб здоровью человека, ущерб экосистеме и 
+экономический, и экологический эффект [1]. истощение ресурсов, и это лишь некоторые из них. 
+
+Проблема использования отходов может быть ре- Образование большого количества твердых отходов 
+шена созданием системы утилизации, т. е. возможно- требует комплексно решать эти экологические про-
+сти использования отходов после их вторичной пере- блемы, что может привести к более устойчивой эко-
+работки. Наиболее эффективным направлением ути- логической обстановке [4]. 
+лизации этих отходов является использование их в Учеными различных стран [5–8] проводятся мно-
+качестве техногенного сырья при получении полез- гочисленные исследования, посвященные проблемам 
+ных технических продуктов.  утилизации отходов. Ими предлагаются различные 
+
+В настоящее время общее годовое образование варианты переработки промышленных и бытовых 
+твердых отходов в мире составляет приблизительно отходов. Это, например, изменение технологического 
+
+DOI 10.18799/24131830/2020/9/2821 179 
+
+
+
+Известия Томского политехнического университета. Инжиниринг георесурсов. 2020. Т. 331. № 9. 179–185 
+Барханаджян А.Л. и др. Проблема использования отходов лакокрасочных материалов и их утилизация  
+
+ 
+процесса, замена токсичных ингредиентов на без- Известно, что до настоящего времени вопрос пе-
+опасные и т. д. Так, на заводах по производству кра- реработки отходов ЛКМ еще недостаточно изучен и 
+сок на основе растворителей образуются значитель- имеющиеся материалы в отечественной и зарубежной 
+ные количества опасных отходов, которые должны литературе не дают достаточной информации по их 
+быть надлежащим образом обработаны, прежде чем применению. Хотя имеются некоторые технологии, 
+их можно будет утилизировать. Поскольку стоимость применяемые для утилизации отходов ЛКМ, такие 
+обработки этих отходов высока, сокращение количе- как у компании «General Motors», предусматриваю-
+ства отходов стало решающей проблемой в этой от- щие пиролиз, и технология компании «Haden», за-
+расли. ключающаяся в обезвоживании отходов, его сушку с 
+
+Варианты минимизации отходов выгодны как для последующим измельчением [17].  
+владельца завода, так и для окружающей среды. Ко- Для решения заданной проблемы нами рассмотре-
+личество опасных отходов можно свести к минимуму, на наиболее перспективная технология использова-
+изменив процесс производства или заменив вредные ния отходов ЛКМ в получении антикоррозионного 
+вещества, которые используются в процессе произ- покрытия. При этом были использованы отходы ла-
+водства краски, на экологически чистые. Кроме того, кокрасочных материалов после окраски автомобиля 
+разделение различных потоков отходов облегчает на заводе СП ООО «Sam Auto» для получения анти-
+извлечение сырья и повышает вероятность его по- коррозионной лакокрасочной мастики.  
+вторного использования в процессе производства. Анализ химического состава отходов показал 
+Это снизит эксплуатационные расходы завода [9]. наличие в нем следующих химических соединений: 
+
+Обстановка по образованию, размещению, накоп- Al2O3 – 1,0 %, ZnO – 1,6 %, SiO2 – 5,7 %, TiO2 – 
+лению, использованию и обезвреживанию отходов в 5,65 %, Fe2O3 – 0,19 %, FeO – 1,44 %, MgO – 7,4 %, 
+Республике Узбекистан оценивается постепенным MnO – 0,07 %, CaO – 15,7 %, Na2O – 0,14 %, BaO – 
+ростом количества образования и промышленных и 0,17 %, K2O – 0,05 %, P2O5 – 11,54 %, H2O – 4,8 %, 
+бытовых отходов. CO2 – 4,95 %, SO3 – 0,85 %, S – 0,7 %. 
+
+По статистическим данным в Республике Узбеки- Как видно из вышеприведенного анализа, наибо-
+стан в 2017 г. насчитывалось порядка 114,7 млн т от- лее токсичным является оксид фосфора, который 
+ходов, из них токсичных отходов, подлежащих обяза- необходимо было перевести в нетоксичную форму. 
+тельной переработке, – 42,8 млн т. Поэтому в стране Были отобраны отходы ЛКМ, подобран наиболее 
+проводится последовательная работа в области охра- эффективный растворитель № 646 (смесь толуол – 
+ны окружающей среды, улучшения санитарной и эко- 50 %, этанол – 15 %, бутилацетат (или амилацетат) – 
+логической обстановки [10]. 10 %, бутанол – 10 %, ацетон – 7 %) и др.), куда вво-
+
+В целях охраны окружающей среды в настоящее дили измельченные до мелкодисперсного состояния 
+время в Узбекистане насчитывается 296 мест захоро- отходы. После полного растворения отходов и обра-
+нений и утилизации всех видов отходов. зования однородной массы ее смешивали с предвари-
+
+Здесь следует отметить, что более интенсивно тельно подготовленной госсиполовой смолой, затем 
+промышленные отходы образуются на предприятиях для быстрого высыхания вводили отвердитель для 
+горно-нефтедобывающей, угольной и химической получения мастики. Госсиполовая смола образуется 
+промышленностей. Такое положение объясняется при обработке жиров и масел растворами щелочей и 
+отсутствием технологий по уменьшению их образо- обладает активными функциональными группами 
+вания и повторного использования. [18]. При составлении мастики госсиполовую смолу 
+
+Вместе с тем в Республике Узбекистан ведутся ра- предварительно обезвоживали. 
+боты по переработке отходов для получения вторич- Анализ на токсичность P2O5 полученного нами 
+ного сырья, в частности, это отходы газохимического защитного покрытия приводится в табл. 1 [19]. 
+комбината, шинного завода, лакокрасочных произ-
+водств и др. Таблица 1.  Содержание фосфора в образцах 
+
+В связи с проблемой утилизации отходов в каче- Table 1.  Phosphorus сontent in samples 
+стве возможного перспективного сырья для получе- Фосфор 
+
+Образец 
+ния новой продукции нами рассмотрены отходы ла- Phosphorus (P2O5),  Sample 
+кокрасочных материалов (ЛКМ).  mg/kg 
+
+отход ЛКМ/paint work waste 91,0 
+Известно, что отходы лаков и красок по опасности 
+
+полученный продукт 
+относятся к 3-му классу токсичности, т. к. они содер- 7,6 
+
+received product 
+жат помимо растворителей, пластификаторов, напол- ПДК/TLV 27,2 
+
+нителей, пигментов и другие ингредиенты опасного  
+характера, токсично влияющие на здоровье человека. Как показали результаты анализов по токсичности, 
+К ним относятся тяжелые металлы, такие как свинец, полученная антикоррозионная мастика существенно 
+фосфор, хром и кадмий [11–14]. отличается от предельно допустимой концентрации 
+
+Учитывая токсичность лакокрасочных материалов (ПДК) по P2O5 и составляет 7,6 мг/кг. 
+в ряде стран Европы, США, Японии были приняты Экспериментально был установлен наиболее эф-
+нормы, ограничивающие содержание тяжелых метал- фективный компонентный состав антикоррозионной 
+лов – свинца, фосфора и кадмия в красках [15, 16]. мастики (табл. 2). 
+
+180 
+
+
+
+Известия Томского политехнического университета. Инжиниринг георесурсов. 2020. Т. 331. № 9. 179–185 
+Барханаджян А.Л. и др. Проблема использования отходов лакокрасочных материалов и их утилизация 
+
+ 
+Таблица 2.  Компонентный состав опытной антикор- стины из стали, меди, алюминия, латуни, чугуна с 
+
+розионной мастики покрытием погружали в растворы H2O, NaCl, Na2CO3, 
+Table 2.  Composition of the experimental anti-corrosion CaCO3, с концентрацией 0,1…0,15 % и выдерживали 
+
+mastic в течении 12 часов при температуре 40 °С. Растворы 
+Опытные образцы мастик 
+
+Компонентный состав солей были выбраны в соответствии с условиями экс-
+Prototypes of mastics 
+
+Component composition плуатации автомобилей и с учетом засоленности поч-
+№ 1 № 2 № 3 № 4 № 5 
+
+вы в ряде областей республики (табл. 4). 
+Госсиполовая смола 
+
+40 30 60 50 50 
+Gossypol resin, % Из таблицы видно, что потери массы испытуемых 
+Отходы лакокрасочных пластин несущественны и составляют от 0,001 до 
+материалов  
+
+40 50 15 20 30 0,004 г. Визуально поверхность пластин не потеряла 
+Waste paint work 
+
+блеска и не наблюдались изменения в виде шерохова-
+materials, % 
+Растворитель тостей и трещин. 
+
+15 15 20 20 15 
+Thesolvent, % Для эксплуатационных испытаний готовили пла-
+Отвердитель 
+
+5 5 5 10 5 стинки с нанесением опытной мастики и промыш-
+Hardener, % ленного образца марки «Барьер». Пластинки с такими 
+
+ покрытиями прикреплялись на автомобиль в местах, 
+Из таблицы видно, что полученная мастика состо- наиболее подверженных загрязнению, коррозии и 
+
+ит в основном из госсиполовой смолы (30…60 %) и гравитационному повреждению. Результаты эксплуа-
+отходов лакокрасочных материалов (15… 50 %). тационных испытаний приведены в табл. 5. 
+
+Для выявления наиболее подходящей композиции После пробега автомобиля 12,780 тыс. км пла-
+полученной мастики ее наносили на металлические стинки были сняты и проанализированы. Визуальный 
+пластинки и после высыхания определяли основные анализ показал, что лабораторный образец практиче-
+показатели качества полученных покрытий. Экспе- ски остался без изменения, а образец с промышлен-
+рименты проводили по каждому образцу в одинако- ным покрытием был сильно поврежден, при этом по-
+вых условиях (табл. 3) [20].  тери массы составили для лабораторного образца 
+
+Как следует из табл. 3 опытные образцы мастики 4 0,12 г, а для промышленного – 0,18 г. Следует отме-
+и 5 по качеству не уступают промышленному образцу тить, что эксплуатационные испытания проводились 
+марки «Барьер», а по морозостойкости превосходят. в тяжелых погодных условиях при высокой влажно-
+При повышении температуры на поверхности про- сти, в морозную и дождливую погоду в городских и 
+мышленного образца наблюдались трещины, в то загородных условиях. 
+время как лабораторные образцы остались без изме- Из результатов экспериментальных испытаний 
+нения, поэтому для последующих исследований нами следует, что полученные покрытия на основе отходов 
+были отобраны образцы 4 и 5.  ЛКМ и госсиполовой смолы по показателям качества 
+
+Определение антикоррозионных свойств получен- соответствуют требованиям, предъявляемым к за-
+ного покрытия проводили в различных агрессивных щитным покрытиям. 
+растворах. Подготовленные по ГОСТу 9.080-77 пла-
+
+ 
+
+Таблица 3.  Испытания полученных опытных образцов в лабораторных условиях 
+Table 3.  Laboratory tests of the obtained prototypes 
+
+Номер образца/Sample Number Промышленный 
+Показатели качества  образец «Барьер»  
+
+Quality indicators 1 2 3 4 5 Industrial design 
+«Barrier» 
+
+Прочность на удар, кгс/см2 Выдерживает 
+Impact strength, кгс/см2 With stands 
+Прочность на изгиб Bending 
+
+– – – Выдерживает/Withstands 
+Strength (кгс/мм2) 
+Химическая стойкость при 80 °С Не выдерживает Выдерживает 200 часов 
+Chemical resistance at 80 °С Do not withstand Withstands 200 hours 
+Термостойкость при 100 °С Провисает Не провисают под углом 45° Не провисает 
+Heat resistance at 100 °С Sag Do not sag at an angle of 45° Does not sag 
+
+Имеются глубокие 
+Морозостойкость при 20 °С Имеются трещины Нет трещин 
+
+трещины 
+Frost resistance at 20 °С Cracks No cracks 
+
+Deep cracks 
+Адгезия/Adhesion Хор./Good 
+Огнестойкость Не горит Горит 
+Fire resistance Does not burn Burns 
+
+Серый, матовая 
+Внешний вид, цвет  Темно-коричневый, шероховато-гладкая поверхность  
+
+поверхность 
+Appearance, color Dark brown, rough smooth surface 
+
+Gray, matt surface  
+
+ 
+
+181 
+
+
+
+Известия Томского политехнического университета. Инжиниринг георесурсов. 2020. Т. 331. № 9. 179–185 
+Барханаджян А.Л. и др. Проблема использования отходов лакокрасочных материалов и их утилизация  
+
+ 
+Таблица 4.  Коррозия металлов в растворах различных сред при концентрациях 0,1…0,15 % 
+
+Table 4.  Corrosion of metals in solutions of various media at concentrations 0,1…0,15 % 
+Растворы раз-
+личных сред Алюминий Латунь Чугун 
+
+Образец/Sample Сталь/Steel Медь/Copper 
+Solutions of Aluminum Brass Cast Iron 
+
+different media 
+До опыта  
+
+12,713 4,812 2,774 6,632 6,818 
+Before the experiment 
+После опыта 
+
+12,713 4,812 2,774 6,632 6,817 
+After the experiment 
+Потеря массы 
+
+0 0 0 0 0,001 
+Mass loss 
+До опыта  
+
+12,713 4,815 2,805 6,630 6,851 
+Before the experiment 
+После опыта 
+
+12,711 4,811 2,805 6,628 6,849 
+After the experiment 
+Потеря массы 
+
+0,002 0,004 0 0,002 0,002 
+Mass loss 
+До опыта  
+
+12,7 4,805 2,695 6,645 6,853 
+Before the experiment 
+После опыта 
+
+12,699 4,801 2,695 6,644 6,851 
+After the experiment 
+Потеря массы 
+
+0,001 0,004 0 0,001 0,002 
+Mass loss 
+До опыта  
+
+12,785 4,816 2,711 6,651 6,905 
+Before the experiment 
+После опыта 
+
+12,783 4,814 2,711 6,650 6,902 
+After the experiment 
+Потеря массы 
+
+0,002 0,002 0 0,001 0,003 
+Mass loss 
+
+Таблица 5.  Результаты эксплуатационных испытаний 
+
+Table 5.  Results after testing 
+Промышленный образец марки «Барьер» 
+
+Опытный образец/Prototype 
+Показатели/Indicators Industrial model «Barrier» 
+
+І1 ІІ1 І2 ІІ2 
+
+Размер пластинок, см 
+10*10 
+
+size of the plates, cm 
+Масса пластинки до опыта без мастики, г 
+
+100,3 98,75 98,7 96,95 
+Plate weight before the experiment without mastic, g 
+Масса пластинки с мастикой до опыта, г 
+
+105,37 99,72 103,85 97,90 
+Weight of plate with mastic before the experiment, g 
+Масса пластинки с мастикой после опыта, г  
+
+105,22 99,60 103,65 97,72 
+Weight of the plate with mastic after the experiment, g 
+Пробег автомобиля, тыс. км 
+
+12,780 12,780 12,780 12,780 
+Vehicle mileage, thousand km 
+
+ 
+Особенностью данной работы является использо- Заключение 
+
+вание отходов для получения нужных технических 1. Получено новое антикоррозионное покрытие на 
+продуктов, что важно, как с экологической, так и с основе отходов ЛКМ и госсиполовой смолы. 
+экономической точки зрения.  2. Результаты испытаний антикоррозионного покры-
+
+По известным данным на окраску одного автомо- тия показали, что по прочности на удар, на изгиб, 
+биля расходуется порядка 30–35 кг краски. Потери химостойкости, морозостойкости, огнестойкости, 
+при окраске составляют 50 % в виде отходов. Учиты- адгезии оно отвечает требованиям, предъявляе-
+вая, что ежегодно завод СП ООО «Sam Auto» выпус- мым к антикоррозионным покрытиям, и является 
+кает в среднем 4000 различных моделей автомобилей, не токсичным.  
+эти потери составят более 35–50 т, которые не пере- 3. Полученное антикоррозионное покрытие может 
+рабатываются, не утилизируются, а закапываются в быть рекомендовано для покрытия днища, внут-
+могильнике, при этом заражается огромная площадь ренней поверхности крыльев, кузова автомобилей, 
+земли, для восстановления которой потребуются деталей сельскохозяйственной техники, а также 
+огромные затраты. может быть использовано в автосервисных и дру-
+
+Таким образом, возможность использования лако- гих производствах. 
+красочных отходов только на одном заводе суще- 4. Применение отходов для получения антикоррози-
+ственно улучшит экологическую обстановку, исклю- онной мастики в автомобильной промышленности 
+чается необходимость в могильниках и заражение и дорожно-строительной технике, несомненно, даст 
+почвы. как экологический, так и экономический эффект. 
+
+ 
+
+182 
+
+CaCO3 Na2CO3 NaCl H2O 
+
+Масса, г/Weight, g 
+
+
+
+Известия Томского политехнического университета. Инжиниринг георесурсов. 2020. Т. 331. № 9. 179–185 
+Барханаджян А.Л. и др. Проблема использования отходов лакокрасочных материалов и их утилизация 
+
+ 
+СПИСОК ЛИТЕРАТУРЫ среды Республики Узбекистан до 2030 года». – Ташкент, 
+
+2019. – 43 с. 
+1. Заболотских В.В., Васильев А.В., Батова К.Э. Анализ пробле-
+
+11. Козыренко М.И., Кухарчик Т.И. Загрязнение почв при произ-
+мы образования отходов лакокрасочных материалов в самар-
+
+водстве лакокрасочных материалов // Геоэкология. Инженер-
+ской области и перспективы их переработки // Известия Са-
+
+ная геология, гидрогеология, геокриология. – 2015. – № 3. – 
+марского научного центра Российской академии наук. – 
+
+С. 230–238. 
+2015. – Т. 17. – № 4. – С. 273–276. 
+
+12. Obeng-Gyasi E. Sources of lead exposure in various countries // 
+2. Karak T., Bhagat R.M., Bhattacharyya P. Municipal solid waste 
+
+Reviews on environmental health. – 2019. – V. 34. – № 1. – Р. 25–34. 
+generation, composition, and management: the world scenario // 
+
+13. Characterisation of silicon, zirconium and aluminium coated 
+Critical Reviews in Environmental Science and Technology. – 
+
+titanium dioxide pigments recovered from paint waste / 
+2012. – V. 42. – № 15. – P. 1509–1630. URL: https://doi.org/ 
+
+M.C. Karlsson, Z. Abbas, R. Bordes, Y. Cao, A. Larsson, 
+10.1080/10643389.2011.569871 (дата обращения 28.08.2020). 
+
+P. Taylor, B. Steenari // Dyes and pigments. – 2019. – V. 162. – 
+3. Hoornweg D., Bhada-Tata P. What a waste – a global review of 
+
+Р. 145–152. 
+solid waste management // World Bank. – 2012. – № 15. – Р. 116. 
+
+14. A simple and effective process for recycling zinc-rich paint 
+URL: https://openknowledge.worldbank.org/handle/10986/17388 
+
+residue / P. Xing, B. Ma, C. Wang, L. Wang, Y. Chen // Waste 
+(дата обращения 28.08.2020). 
+
+management. – 2018. – V. 76. – Р. 234–241. 
+4. Review of LCA studies of solid waste management systems. P. I: 
+
+15. Developing common core criteria for paints. Final Report 
+Lessons learned and perspectives / A. Laurent, I. Bakas, J. 
+
+submitted to Global Eco-labeling Network. – Bangkok: Thailand 
+Clavreul, A. Bernstad, M. Niero, E. Gentil, M.Z. Hauschild, 
+
+Environment Institute, 2003. – 17 p. URL: https:// 
+T.H. Christensen // Waste Management. – 2014. – V. 34. – № 3. – 
+
+globalecolabelling.net/assets/Uploads/tech-030522-02.pdf (дата 
+Р. 573–588. URL: https://doi.org/10.1016/j.wasman.2013.10.045  
+
+обращения 28.08.2020). 
+5. Vassilis J.I., Konstantinos M. Household hazardous waste 
+
+16. Double standard. Investigating lead (Pb) content in leading enamel 
+management: a review // Journal of Environmental Management. – 
+
+paint brands in South Asia. – New Delhi: Toxics Link, 2011. – 
+2015. – V. 150. – Р. 310–321. URL: https://doi.org/10.1016/ 
+
+36 p. URL: http://toxicslink.org/docs/Double_Standard_Lead_ 
+j.jenvman.2014.11.021 (дата обращения 28.08.2020). 
+
+Paint_29_June_2011.pdf (дата обращения 28.08.2020). 
+6. Mostafa M.K., Peters R.W. Reuse paint wastewater in the 
+
+17. Доусон Г., Мерсер Б. Обезвреживание токсичных отходов / 
+manufacture of cement bricks and tiles // Journal of Material 
+
+Пер. с англ. – М.: Стройиздат, 1996. – 288 с. 
+Cycles and Waste Management. – 2017. – V. 19. – Р. 840–850. 
+
+18. The inhibition of the corrosion of carbon steel by oligomeric 
+7. Eugenio F.D., Pajarito B.B. Potential anti-corrosion additives 
+
+corrosion inhibitors in different media / K.S. Beknazarov, 
+derived from waste plastic sachets // IOP Conference Series: 
+
+A.T. Dzhalilov, U.Y. Ostanov, A.M. Erkaev // International 
+Materials Science and Engineering. – 2019. – V. 634. – № 1. – 
+
+Polymer Science and Technology. – 2015. – V. 42. – № 4. – 
+Р. 1–6. URL: https://www.researchgate.net/publication/336531640_ 
+
+Р. 33–37. 
+Potential_anti-corrosion_additives_derived_from_waste_plastic_ 
+
+19. Использование отходов лакокрасочных материалов для полу-
+sachets (дата обращения 28.08.2020). 
+
+чения полезных технических продуктов / А.Л. Барханаджян, 
+8. Mohamed M.G., Ahmed N.M., Abd El-Gawad W.M. Corrosion 
+
+Р.М. Хакимов, Р. Азизов, Т. Валитов // Актуальные проблемы 
+protection performance of reinforced steel coated with paints 
+
+автомобильно-дорожного комплекса Узбекистана: Сборник 
+based on waste materials // Anti-Corrosion Methods and 
+
+материалов республиканской научно-практической конферен-
+Materials. – 2018. – V. 65. – № 4. – Р. 368–374. 
+
+ции. – Ташкент, 2010. – Ч. 1. – С. 67–69. 
+9. Dursun D., Sengul F. Waste minimization study in a solvent-based 
+
+20. Проблема утилизации отходов лакокрасочных материалов / 
+paint manufacturing plant // Resources, conservation and 
+
+Р.М. Хакимов, Т.А. Садыков, Р. Азизов, Т. Валитов // Вестник 
+recycling. – 2006. – V. 47. – № 4. – Р. 316–331. 
+
+ТАДИ Ташкент. – 2015. – № 1. – С. 103–106. 
+10. Указ Президента Республики Узбекистан № УП-5863 от 
+
+30.10.2019 «Об утверждении концепции охраны окружающей 
+Поступила 04.09.2020 г. 
+
+ 
+
+Информация об авторах 
+
+Барханаджян А.Л., кандидат химических наук, доцент кафедры экологии и двигателей внутреннего сгорания 
+Ташкентского института по проектированию, строительству и эксплуатации автомобильных дорог. 
+Хакимов Р.М., кандидат технических наук, доцент кафедры экологии и двигателей внутреннего сгорания 
+Ташкентского института по проектированию, строительству и эксплуатации автомобильных дорог.  
+Ибрагимов Б.Д., старший преподаватель кафедры эксплуатации автомобильного транспорта Ташкентского 
+института по проектированию, строительству и эксплуатации автомобильных дорог. 
+Собирова Д.К., кандидат технических наук, старший преподаватель кафедры естественных наук Ташкентского 
+института по проектированию, строительству и эксплуатации автомобильных дорог.  
+Абдукаримова Г.У., старший преподаватель кафедры эксплуатации автомобильного транспорта Ташкентского 
+института по проектированию, строительству и эксплуатации автомобильных дорог. 
+Айрапетов Д.А., ассистент кафедры экологии и двигателей внутреннего сгорания Ташкентского института по 
+проектированию, строительству и эксплуатации автомобильных дорог. 
+
+ 
+  
+
+183 
+
+
+
+Barkhanadzhyan A.L. et al. / Bulletin of the Tomsk Polytechnic University. Geo Аssets Engineering. 2020. V. 331. 9. 179–185 
+  
+
+ 
+UDC 628.477.6:620.193.4 
+
+PROBLEM OF USING WASTE OF PAINT AND VARNISHING MATERIALS AND THEIR DISPOSAL 
+
+Aida L. Barkhanadzhyan1,  
+bal-37@mail.ru 
+
+Ravshan M. Khakimov1,  
+hakimov-ravshan@mail.ru 
+
+Botir D. Ibragimov1,  
+ibragimov.bd@mail.ru 
+
+Diloram K. Sobirova1 
+
+Gulsunoy U. Abdukarimova1 
+
+Dmitriy A. Ayrapetov1,  
+ayrapetov92@mail.ru 
+
+1 Tashkent Institute of Design, Construction & Maintenance of Automotive Roads,  
+20, A. Temur avenue, Tashkent, 100060, Uzbekistan. 
+
+ 
+The relevance of the research. Corrosion of metals is the most important problem with which large losses of metals are associated. 
+Hundreds of tons of metals are irretrievably lost annually from corrosion, therefore, all studies aimed at the corrosion protection of metals 
+are appropriate and relevant. 
+The main aim. There are various methods of anticorrosion protection of metal parts, but there is no sufficiently effective method for 
+specific conditions of anticorrosion protection. The aim of this work is the use of waste paint and varnish materials to obtain anti-corrosion 
+coatings of metal parts. 
+Objects: waste paint and varnish materials obtained by painting cars. 
+Methods: study of the physicochemical properties of the waste; selection of compositions for dissolving paintwork materials; formulation 
+development and receipt of anticorrosive mastic; testing the obtained anticorrosive paint coating for adhesion, chemical resistance, film 
+strength in bending, impact strength, fire resistance, frost resistance; preparation of metal plates for applying a protective paint coating and 
+solutions of various compounds for testing to determine the mass loss of experimental metal samples; determination of  the most effective 
+component and quantitative composition of the resulting coating.   
+Results. The authors have developed and obtained the mastic based on gossypol resin and solid waste of paints and varnishes. Gossypol 
+resin is a waste oil-fat plant. The resulting mastic was tested in laboratory conditions in terms of quality, positive results were obtained. 
+Operational tests were carried out in road conditions, the car's mileage was 12,780 km, no changes were found on the surface of the coating. 
+
+ 
+Key words:  
+Waste, paints and varnishes, mastic preparation, mastic ingredients, anticorrosion properties,  
+adhesion, strength properties, performance tests, metal protection, mastic efficiency. 
+
+ 
+REFERENCES 6. Mostafa M.K., Peters R.W. Reuse paint wastewater in the 
+
+manufacture of cement bricks and tiles. Journal of Material Cycles 
+1. Zabolotskikh V.V., Vasiliev A.V., Batova K.E. Analysis of the 
+
+and Waste Management, 2017, vol. 19, pp. 840–850. 
+problem of the formation of waste paint and varnish materials in 
+
+7. Eugenio F.D., Pajarito B.B. Potential anti-corrosion additives 
+the Samara region and the prospects for their processing. Bulletin 
+
+derived from waste plastic sachets. IOP Conference Series: 
+of the Samara Scientific Center of the Russian Academy of 
+
+Materials Science and Engineering, 2019, vol. 634, no. 1, pp. 1–6. 
+Sciences, 2015, vol. 17, no. 4, pp. 273–276. In Rus.  
+
+2. Available at: https://www.researchgate.net/publication/336531640_ 
+Karak T., Bhagat R.M., Bhattacharyya P. Municipal solid waste 
+
+Potential_anti-
+generation, composition, and management: the world scenario. 
+
+corrosion_additives_derived_from_waste_plastic_sachets (accessed 
+Critical Reviews in Environmental Science and Technology, 2012, 
+
+28 August 2020). 
+vol. 42, no. 15, pp. 1509–1630. Available at: https://doi.org/ 
+
+8. Mohamed M.G., Ahmed N.M., Abd El-Gawad W.M. Corrosion 
+10.1080/10643389.2011.569871 (accessed 28 August 2020). 
+
+protection performance of reinforced steel coated with paints 
+3. Hoornweg D., Bhada-Tata P. What a waste – a global review of 
+
+based on waste materials. Anti-Corrosion Methods and Materials, 
+solid waste management. World Bank, 2012, no. 15, pp. 116. 
+
+2018, vol. 65, no. 4, pp. 368–374. 
+Available at: https://openknowledge.worldbank.org/handle/10986/ 
+
+9. Dursun D., Sengul F. Waste minimization study in a solvent-based 
+17388 (accessed 28 August 2020). 
+
+paint manufacturing plant. Resources, conservation and recycling, 
+4. Laurent A., Bakas I., Clavreul J., Bernstad A., Niero M., Gentil E., 
+
+2006, vol. 47, no. 4, pp. 316–331. 
+Hauschild M.Z., Christensen T.H. Review of LCA studies of solid 
+
+10. Ukaz Prezidenta Respubliki Uzbekistan № UP-5863 ot 30.10.2019 
+waste management systems – Part I: Lessons learned and 
+
+«Ob utverzhdenii kontseptsii okhrany okruzhayushchei sredy 
+perspectives. Waste Management, 2014, vol. 34, no. 3, pp. 573–
+
+Respubliki Uzbekistan do 2030 goda» [Decree of the President of 
+588. Available at: https://doi.org/10.1016/j.wasman.2013.10.045 
+
+the Republic of Uzbekistan No. UP-5863 dated 10/30/2019 «On 
+(accessed 28 August 2020). 
+
+approval of the concept of environmental protection of the 
+5. Vassilis J.I., Konstantinos M. Household hazardous waste 
+
+Republic of Uzbekistan until 2030»]. Tashkent, 2019. 43 p. 
+management: a review. Journal of Environmental Management, 
+
+11. Kozyrenko M.I., Kukharchik T.I. Soil pollution in the manufacture 
+2015, vol. 150, pp. 310–321. Available at: https://doi.org/10.1016/ 
+
+of paints and varnishes]. Geoecology. Engineering geology, 
+j.jenvman.2014.11.021 (accessed 28 August 2020). 
+
+hydrogeology, geocryology, 2015, no. 3, pp. 230–238. In Rus.  
+
+184 
+
+
+
+Barkhanadzhyan A.L. et al. / Bulletin of the Tomsk Polytechnic University. Geo Аssets Engineering. 2020. V. 331. 9. 179–185 
+ 
+
+ 
+12. Obeng-Gyasi E. Sources of lead exposure in various countries. 18. Beknazarov K.S., Dzhalilov A.T., Ostanov U.Y., Erkaev A.M. The 
+
+Reviews on environmental health, 2019, vol. 34, no. 1, pp. 25–34. inhibition of the corrosion of carbon steel by oligomeric corrosion 
+13. Karlsson M.C., Abbas Z., Bordes R., Cao Y., Larsson A., inhibitors in different media. International Polymer Science and 
+
+Taylor P., Steenari B. Characterisation of silicon, zirconium and Technology, 2015, vol. 42, no. 4, pp. 33–37. 
+aluminium coated titanium dioxide pigments recovered from paint 19. Barkhanadzhyan A.L., Khakimov R.M., Azizov R., Valitov T. 
+waste. Dyes and pigments, 2019, vol. 162, pp. 145–152. Ispolzovanie otkhodov lakokrasochnykh materialov dlya 
+
+14. Xing P., Ma B., Wang C., Wang L., Chen Y. A simple and polucheniya poleznykh tekhnicheskikh produktov [The use of 
+effective process for recycling zinc-rich paint residue. Waste waste paint and varnish materials to obtain useful technical 
+management, 2018, vol. 76, pp. 234–241. products]. Sbornik materialov respublikanskoy nauchno-
+
+15. Developing common core criteria for paints. Final Report prakticheskoy konferentsii. Aktualnye problemy avtomobilno-
+submitted to Global Eco-labeling Network. Bangkok, Thailand dorozhnogo kompleksa Uzbekistana [Collection of materials of the 
+Environment Institute, 2003. 17 p. Available at: https:// Republican scientific-practical conference. Actual problems of the 
+globalecolabelling.net/assets/Uploads/tech-030522-02.pdf automobile road complex of Uzbekistan]. Tashkent, 2010. P. 1, pp. 
+(accessed 28 August 2020). 67–69.  
+
+16. Double standard. Investigating lead (Pb) content in leading 20. Hakimov R.M., Sadykov T.A., Azizov R., Valitov T. The problem 
+enamel paint brands in South Asia. New Delhi, Toxics Link, 2011, of the disposal of waste paint and varnish materials]. Bulletin of 
+p 36. Available at: TADI Tashkent, 2010, no. 1, pp. 103–106. In Rus. 
+http://toxicslink.org/docs/Double_Standard_Lead_ 
+Paint_29_June_2011.pdf (accessed 28 August 2020). Received: 4 September 2020. 
+
+17. Dawson G., Mercer B. Obezvrezhivanie toksichnykh otkhodov 
+[Neutralization of toxic waste]. Translated from English. Moscow, 
+Stroyizdat Publ., 1996. 288 p. 
+ 
+
+Information about the authors 
+
+Aida L. Barkhanadzhyan, Cand. Sc., associate professor, Tashkent Institute of Design, Construction & Maintenance 
+of Automotive Roads.  
+Ravshan M. Khakimov, Cand. Sc., associate professor, Tashkent Institute of Design, Construction & Maintenance of 
+Automotive Roads. 
+Botir D. Ibragimov, senior lecturer, Tashkent Institute of Design, Construction & Maintenance of Automotive Roads.  
+Diloram K. Sobirova, Cand. Sc., senior lecturer, Tashkent Institute of Design, Construction & Maintenance of 
+Automotive Roads. 
+Gulsunoy U. Abdukarimova, senior lecturer, Tashkent Institute of Design, Construction & Maintenance of 
+Automotive Roads. 
+Dmitriy A. Ayrapetov, assistant, Tashkent Institute of Design, Construction & Maintenance of Automotive Roads. 
+  
+
+185

@@ -1,0 +1,548 @@
+﻿УДК 669.56 
+doi: 10.18323/2782-4039-2022-3-2-25-31 
+ 
+
+Влияние интенсивной пластической деформации  
+на механические свойства чистого цинка 
+
+© 2022 
+1
+
+Поленок Милена Владиславовна* , студент кафедры материаловедения и физики металлов 
+2
+
+Хафизова Эльвира Динифовна , кандидат технических наук,  
+доцент кафедры материаловедения и физики металлов 
+
+3
+Исламгалиев Ринат Кадыханович , доктор физико-математических наук, профессор,  
+
+профессор кафедры материаловедения и физики металлов 
+Уфимский государственный авиационный технический университет, Уфа (Россия)  
+ 
+
+1
+*E-mail: renaweiwei.179@mail.ru ORCID: https://orcid.org/0000-0001-9774-1689 
+
+2ORCID: https://orcid.org/0000-0002-4618-412X 
+3ORCID: https://orcid.org/0000-0002-6234-7363 
+
+ 
+Поступила в редакцию 14.07.2021          Принята к публикации 27.07.2022 
+
+ 
+Аннотация: Новыми и весьма перспективными материалами для изготовления медицинских имплантатов яв-
+
+ляются биодеградируемые металлы, которые имеют свойство растворяться в организме. В настоящее время ис-
+следования ведутся по трем направлениям: Mg, Fe и Zn сплавам. Сплавы на основе цинка и цинк имеют хорошую 
+растворимость в организме, что соответствует клиническим требованиям имплантатов. Вместе с тем чистый цинк 
+имеет невысокие механические свойства, в том числе твердости и временного сопротивления материала (предела 
+прочности). Поэтому в настоящее время ведутся активные поиски методов повышения прочностных свойств чис-
+того цинка, в частности путем легирования. Другим известным подходом является формирование ультрамелко-
+зернистой структуры методами интенсивной пластической деформации, в основе которых лежит применение 
+больших пластических деформаций в условиях повышенных давлений и относительно низких гомологических 
+температур. В настоящей работе изучено влияние интенсивной пластической деформации кручением (ИПДК) 
+чистого цинка с различным количеством оборотов. Приведены расчеты сдвиговой деформации после ИПДК. Ис-
+следована зависимость механических свойств и микроструктуры от степени деформации. Проведены испытания 
+на растяжение при комнатной температуре, а также измерение микротвердости. Структура изучена методом рас-
+тровой электронной микроскопии и оптики. Установлено, что применение ИПДК приводит к повышению предела 
+прочности чистого цинка до 140 МПа и пластичности до 40 % в результате динамической рекристаллизации.  
+
+Ключевые слова: интенсивная пластическая деформация кручением (ИПДК); цинк; микротвердость; повыше-
+ние предела прочности. 
+
+Благодарности: Исследование выполнено при финансовой поддержке РФФИ и ТУБИТАК в рамках научного 
+проекта № 21-53-46017.  
+
+Статья подготовлена по материалам докладов участников X Международной школы «Физическое материало-
+ведение» (ШФМ-2021), Тольятти, 13–17 сентября 2021 года. 
+
+Для цитирования: Поленок М.В., Хафизова Э.Д., Исламгалиев Р.К. Влияние интенсивной пластической де-
+формации на механические свойства чистого цинка // Frontier Materials & Technologies. 2022. № 3. С. 25–31.  
+DOI: 10.18323/2782-4039-2022-3-2-25-31. 
+
+ 
+сплавов. В 2013 году была опубликована работа [5], где 
+
+ВВЕДЕНИЕ проволоку из чистого Zn имплантировали в брюшную 
+В настоящее время в медицине все больше внима- аорту взрослых самцов крыс на срок до 6 месяцев.  
+
+ния уделяется проблеме травматических повреждений В результате исследований установили, что в Zn пер-
+костных и мягкий тканей, что увеличивает потребность вые 3 месяца происходит равномерная коррозия, а че-
+в биосовместимом материале, который не токсичен при рез 4,5 и 6 месяцев in vivo наблюдается относительно 
+длительном нахождении в организме человека. Акту- интенсивная и локальная коррозия. Последующие ис-
+альным научным направлением является разработка следования [6] показали, что цинковые проволоки, им-
+новых биодеградируемых материалов, которые имеют плантированные в мышиную артерию, продемонстри-
+свойство полностью растворяться в организме в тече- ровали относительно устойчивую коррозию со скоро-
+ние определенного времени, вследствие чего исчезает стью проникновения 0,25±0,10 мм/год без местной ток-
+необходимость в повторной операции [1; 2]. сичности в течение как минимум 20 месяцев после им-
+
+Огромный интерес вызывают биорастворимые ме- плантации.  
+таллы на основе Mg, Fe и Zn. В частности, новыми  Применение цинка в роли материала для импланта-
+и весьма перспективными биорастворимыми материа- тов обоснованно, ведь Zn играет огромную роль в жизни 
+лами для изготовления медицинских имплантатов яв- организмов. Zn является важным элементом в питании 
+ляются сплавы на основе цинка [3; 4]. Они обладают человека и вторым наиболее распространенным пере-
+идеальной скоростью коррозии среди биорастворимых ходным металлом в его организме. Цинк способствует 
+
+F rontier Materials & Technologies. 2022. № 3-2 25
+
+
+
+Поленок М.В., Хафизова Э.Д., Исламгалиев Р.К.   «Влияние интенсивной пластической деформации на механические свойства…» 
+
+размножению клеток делением и незаменим в иммун- МЕТОДИКА ПРОВЕДЕНИЯ ИССЛЕДОВАНИЯ 
+ной и нервной системах. Служит кофактором (присое- В качестве материала для исследования был выбран 
+диняется к функциональному участку белка и активи- чистый цинк, химический состав которого представлен 
+зирует биологическую деятельность) во всех шести в таблице 1. 
+классах ферментов, а также в нескольких классах регу-  
+ляторных белков. Рекомендуемая суточная доза Zn – от Таблица 1. Химический состав  
+2–3 мг/сут для младенцев и до 8–11 мг/сут для взрос- исследуемого материала, вес. % 
+лых [7]. Zn также поддерживает нормальный рост, за- Table 1. Chemical composition  
+живление ран и правильное чувство вкуса и запаха. of the material under the study, wt. % 
+
+Цинк имеет стандартный потенциал коррозии −0,76 В,  
+что является промежуточным между Fe (−0,44 В) и Mg Zn Mn Остальное 
+(−2,37 В). Zn имеет более низкий предел токсичности 
+(100–150 мг/сут), чем Mg (375–500 мг/сут), но это не 99,300 0,318 0,382 
+
+ограничивает использование Zn в качестве биодегради-  
+руемого имплантата. Главное условие – при корроди-  
+ровании ионы металла не должны превышать предел Заготовки для деформации вырезались на электро-
+токсичности в сутки. Кроме того, наряду с хорошей эрозионном станке с ЧПУ «АРТА 120» в виде дисков 
+биосовместимостью и соответствующей скоростью диаметром 20 мм с толщиной 1,8 мм. 
+растворения, Zn имеет низкую температуру плавления При проведении интенсивной пластической дефор-
+(420 ºC), а также, в отличие от Mg, позволяет осуществ- мации кручением заготовку помещали между бойками 
+лять плавление и горячую обработку на воздухе. Также и сжимали под приложенным давлением в 2 ГПа, вра-
+цинк играет важную роль в метаболизме костей и сти- щая нижний боек. ИПДК проводили при комнатной 
+мулирует образование костной ткани – остеобластов. температуре. При вращении нижнего бойка возникают 
+
+Чистый Zn является мягким и хрупким материалом силы поверхностного трения, и образец деформируется 
+и нуждается в дальнейшем совершенствовании для того сдвигом в условиях гидростатического сжатия под дей-
+чтобы соответствовать клиническим требованиям. Из- ствием приложенного давления. Число оборотов под-
+вестно, что для повышения механических свойств ме- вижного бойка для всех образцов была разной: образец 
+таллических материалов часто используются различные 1 – осадка на 50 %, образец 2 – 1 оборот под давлением 
+научно-технические подходы, которые базируются на 2 ГПа, образец 3 – 2 оборота под давлением 2 ГПа, об-
+принципах твердорастворного, дисперсионного и зер- разец 4 – 10 оборотов под давлением 2 ГПа. 
+нограничного упрочнения. Вместе с тем попытки повы- Величину сдвиговой деформации при ИПДК рас-
+сить прочность цинка путем легирования различными считывали, используя формулу [20]: 
+элементами [8; 9] отрицательно сказываются на скорости  
+коррозии [10], а также способствуют образованию со- N
+единений, вредных для человеческого организма. По- γ  2πR ,                         (1) 
+
+l
+вышение прочности может быть достигнуто также пу-
+
+ 
+тем уменьшения среднего размера зерна методами ин-
+
+где N – количество оборотов наковальни;  
+тенсивной пластической деформации (ИПД) [11], быст-
+
+l – толщина образца. 
+рой кристаллизации [12], осаждения из паровой фазы 
+
+Для сравнения степени сдвиговой деформации при 
+[13] или порошковой металлургии. 
+
+кручении со степенью деформации при других схемах 
+Среди указанных методов особый интерес вызывает 
+
+деформирования значение, полученное по формуле (1), 
+формирование ультрамелкозернистой (УМЗ) структуры 
+
+преобразовывали в эквивалентную деформацию (еЭКВ). 
+методами ИПД [11], в основе которых лежит примене-
+
+Согласно критерию Мизеса: 
+ние больших пластических деформаций при повышен-
+
+ 
+ном давлении и относительно низкой температуре фа-
+
+γ
+зового перехода [14; 15]. Применение данной деформа- eэкв  . 
+ции не изучено в цинке и цинковых сплавах. 3
+
+Чистый цинк, полученный компактированием по-  
+рошков шаровой мельницы, показал, что его предел Оба уравнения лишь примерно соответствуют ре-
+текучести и предел прочности при растяжении может альным степеням деформации, так как формирование 
+достигнуть 160 и 170 МПа соответственно при форми- УМЗ структур при ИПД происходит под действием не 
+ровании наноструктуры с размером зерна в 20–60 нм только внешних, но и внутренних напряжений.  
+[16]. Методом экструзии чистого цинка с вращаю- Из полученных образцов изготавливали микрошли-
+щей фильерой вперед-назад были получены высокие фы по процедуре, включающей несколько этапов. 
+прочностные свойства, а именно: предел текучести  Шлифовку проводили на водоустойчивой шлифоваль-
+и предел прочности до 150 МПа и 250 МПа соответ- ной бумаге различной зернистости с постепенным пе-
+ственно, хотя измельчения зерна в структуре не на- реходом от грубого Р100 к более мелкому абразиву 
+блюдалось [17]. Р2000. При переходе к следующему номеру круга со 
+
+Цель работы – определение влияния интенсивной шлифа тщательно удаляли металлическую пыль, а на-
+пластической деформации кручением (ИПДК) при правление шлифовки меняли на 90º. При этом добива-
+комнатной температуре на прочностные свойства чис- лись полного устранения рисок от предыдущего более 
+того цинка.  грубого круга. 
+
+ 
+
+2 6 Frontier Materials & Technologies. 2022. № 3-2
+
+
+
+Поленок М.В., Хафизова Э.Д., Исламгалиев Р.К.   «Влияние интенсивной пластической деформации на механические свойства…» 
+
+ 
+
+         
+ a b 
+
+Рис. 1. Форма малых образцов для испытаний на статическое растяжение: 
+a – чертеж; b – вид образца 
+
+Fig. 1. The appearance of small specimens for the static tension tests: 
+a – drawing; b – specimen view 
+
+ 
+ 
+ 
+ 
+
+     
+ a b 
+
+     
+ c d 
+
+Рис. 2. Микроструктура чистого цинка:  
+a – исходный; b – после осадки; c, d – после ИПДК на 1 оборот 
+
+Fig. 2. Zinc microstructure:  
+a – initial; b – after upset; c, d – after SPD by torsion for 1 revolution 
+
+ 
+ 
+
+F rontier Materials & Technologies. 2022. № 3-2 27
+
+
+
+Поленок М.В., Хафизова Э.Д., Исламгалиев Р.К.   «Влияние интенсивной пластической деформации на механические свойства…» 
+
+Полировка осуществлялась на алмазных пастах, на- Микротвердость исходного образца составила 
+несенных на фильтровальную бумагу, с постепенным 38 HV0,1. Образцы после осадки под давлением 2 ГПа 
+уменьшением ее зернистости от 7/5 до 2/0. При перехо- и ИПДК показали небольшое увеличение микротвердо-
+де к последующему номеру пасты со шлифа тщательно сти до 10 % (таблица 2).  
+удаляли остатки пасты при помощи ацетона, а направ- Результаты статических испытаний показали, что 
+ление полировки меняли на 90º. предел прочности после деформации чистого цинка 
+
+Для создания оптического контраста поверхность увеличивается до 2 раз (рис. 3), при этом пластичность 
+механически полированных образцов подвергали хи- материала при ИПДК на 1 оборот также увеличивается 
+мическому травлению в 15%-м растворе серной кисло- в 2 раза и равна 40 %. 
+ты в течение 15 с.  
+
+Микроструктурные исследования проводили на рас-
+тровом электронном микроскопе JSM-6390 c ускоряю- ОБСУЖДЕНИЕ РЕЗУЛЬТАТОВ 
+
+щим напряжением 30 кВ в ЦКП «Нанотех» ФГБОУ ВО На графике кривых растяжений (рис. 3) при перехо-
+«УГАТУ». де из области упругой деформации в область предела 
+
+Микротвердость определяли по методу Виккерса текучести наблюдаются спады и ступени, которые вы-
+согласно ГОСТ 9450-60 на приборе Buehler Micromet званы явлением прерывистой текучести [19], проявля-
+5101 при нагрузке 0,1 кг и длительности выдержки ются во многих пластичных материалах и связаны  
+под нагрузкой 10 с. За микротвердость сплава при- с неустойчивостью и неоднородностью пластической 
+нималась величина, усредненная по 20 точкам изме- деформации. Такое поведение материала может быть 
+рения. вызвано образованием двойников в локальных местах 
+
+Испытания на растяжение осуществлялись на элек- [19; 20], а также явлением прерывистой текучести, свя-
+тромеханической измерительной системе для проведе- занного с локализацией пластической деформации в ма-
+ния статических испытаний Instron 5982 при комнатной лых объемах в результате коррелированного движения 
+
+−3 −1
+температуре со скоростью растяжения 10 с  на малых большого числа дислокаций, как правило, у концентра-
+образцах с рабочей базой 0,8×1×4 мм (рис. 1). тора напряжений [21]. Следует отметить, что ранее в ра-
+ боте [20] наблюдалось снижение прочности в чистом 
+
+цинке с измельчением зеренной структуры. В работе 
+РЕЗУЛЬТАТЫ ИССЛЕДОВАНИЯ  отмечено, что двойникование является доминирующим 
+Исходная структура исследуемого металла пред- механизмом деформации в крупнозернистом материа-
+
+ставлена в виде длинных столбчатых зерен с угловаты- ле, а дислокационное скольжение – в микрозернистом. 
+ми границами (рис. 2 a), что соответствует структуре Вследствие этого измельчение зерна ниже 2,7 мкм  
+цинка в чистом состоянии, представляющей собой кри- в чистом цинке привело к обращению эффекта Холла – 
+сталлическую решетку – гексагональную кристалличе- Петча и уменьшению предела прочности [20].  
+скую сингонию. Микроструктура после осадки харак- В ультра- и наноматериале расстояние между гра-
+теризуется полиэдрической структурой, состоящей из ницами зерен маленькое, поэтому происходит увеличе-
+кристаллитов (зерен), имеющих форму многогранников ние плотности дислокаций на стадии деформационного 
+с двойниками (рис. 2 b). Размер зерен варьируется от 3 упрочнения, дислокации быстрее достигают противо-
+до 20 мкм. После ИПДК на 1 оборот происходит час- положной границы зерна и аннигилируют. Этим можно 
+тичная динамическая рекристаллизация, что характери- объяснить небольшую стадию деформационного уп-
+зуется участками мелких равноосных зерен (рис. 2 c, рочнения в образцах с ультра- или наноструктурой  
+2 d). Средний размер зерна составил 2,5 мкм. После и, соответственно, малую величину однородной дефор-
+ИПДК на 2 оборота структурные элементы сохраняют- мации (рис. 3). 
+ся, но уменьшаются в размерах. После 10 оборотов Результаты данной работы могут быть использова-
+структура значительно уменьшилась – до наноразме- ны в дальнейшем для развития фундаментальных основ 
+ров; разрешение РЭМ не позволило измерить размеры и опытных технологий получения принципиально но-
+наноструктуры.  вых материалов на основе Zn. 
+
+ 
+ 
+ 
+
+Таблица 2. Зависимость микротвердости цинка от степени деформации 
+Table 2. The dependences of zinc microstructure on the deformation degree 
+
+ 
+
+Вид деформации Сдвиговая деформация Эквивалентная деформация Микротвердость, НV0,1 
+
+Осадка на 50 %   41±2,2 
+
+ИПДК на 1 оборот, 2 ГПа 31,4 18 41,9±3,2 
+
+ИПДК на 2 оборот, 2 ГПа 62 35,8 42,8±2,9 
+
+ИПДК на 10 оборотов, 2 ГПа 314 180 41,4±4 
+
+ 
+
+2 8 Frontier Materials & Technologies. 2022. № 3-2
+
+
+
+Поленок М.В., Хафизова Э.Д., Исламгалиев Р.К.   «Влияние интенсивной пластической деформации на механические свойства…» 
+
+  
+
+ 
+ 
+
+Рис. 3. Графики растяжения малых образцов чистого цинка 
+Fig. 3. Tensile tests of small pure zinc specimens 
+
+ 
+ 
+ 
+ОСНОВНЫЕ РЕЗУЛЬТАТЫ 7. Mostaed E., Sikora-Jasinska M., Drelich J.W., Veda- 
+
+Применение интенсивной пластической деформа- ni M. Zinc-based alloys for degradable vascular stent 
+
+ции кручением в чистом цинке с эквивалентной де- applications // Acta Biomaterialia. 2018. Vol. 71. P. 1–
+
+формацией 18 приводит к значительному увеличе- 23. DOI: 10.1016/j.actbio.2018.03.005. 
+
+нию предела прочности до 130 МПа и повышению 8. Li H.F., Xie X.H., Zheng Y.F., Cong Y., Zhou F.Y.,  
+
+пластичности до 40 %.  Qiu K.J., Wang X., Chen S.H., Huang L., Tian L.,  
+
+ Qin L. Development of biodegradable Zn-1X binary al-
+loys with nutrient alloying elements Mg, Ca and Sr // 
+
+СПИСОК ЛИТЕРАТУРЫ Scientific Reports. 2015. Vol. 5. Article number 10719. 
+
+1. Zheng Y., Xu X., Xu Z., Wang J., Cai H. Metallic Bio- DOI: 10.1038/srep10719. 
+
+materials. New Directions and Technologies. Wein- 9. Yao C., Wang Z., Tay S.L., Zhu T., Gao W. Effects of 
+
+heim: Wiley, 2017. 307 p. DOI: 10.1002/978352734 Mg on microstructure and corrosion properties of Zn-
+
+2440. Mg alloy // Journal of Alloys and Compounds. 2014. 
+
+2. Valiev R.Z., Khafizova E.D. Nanometals for next- Vol. 602. P. 101–107. DOI: 10.1016/j.jallcom.2014. 
+
+generation medical implants // Materials. Technologies. 03.025. 
+
+Design. 2021. Vol. 3. № 3. P. 6–10. DOI: 10.54708/ 10.  Vojtěch D., Kubásek J., Šerák J., Novák P. Mechanical 
+
+26587572_2021_3356.  and corrosion properties of newly developed biode-
+
+3. Li G., Yang H., Zhen Y., Chen X.-H., Yang J.-A.,  gradable Zn-based alloys for bonefixation // Acta 
+
+Zhu D., Ruan L., Takashima K. Challenges in the use of Biomaterialia. 2011. Vol. 7. P. 3515–3522. DOI: 10. 
+
+zinc and its alloys as biodegradable metals: Perspective 1016/j.actbio.2011.05.008. 
+
+from biomechanical compatibility // Acta Biomaterialia. 11. Edalati K., Bachmaier A., Beloshenko V., Beygelzimer Y., 
+
+2019. Vol. 97. P. 23–45. DOI: 10.1016/j.actbio.2019. Blank V., Botta W., Bryɫa K., Čižek J., Divinski S., 
+
+07.038. Enikev N., Estrin Yu., Faraji G. Nanomaterials by se-
+
+4. Yang H., Jia B., Zhang Z., Qu X., Li G., Lin W., Zhu D., vere plastic deformation: review of historical develop-
+
+Dai K., Zheng Y. Alloying design of biodegradable zinc ments and recent advances // Materials Research Let-
+
+as promising bone implants for load-bearing applica- ters. 2022. Vol. 10. № 4. P. 163–256. DOI: 10.1080/ 
+
+tions // Nature Communications. 2020. Vol. 11. № 1. 21663831.2022.2029779. 
+
+Article number 401. DOI: 10.1038/s41467-019-14153-7. 12. Inoue A. Fabrication and novel properties of nanostruc-
+
+5. Bowen P.K., Drelich J., Goldman J. Zinc exhibits ideal tured Al base alloys // Materials Science Engineering A. 
+
+physiological corrosion behavior for bioabsorbable 1994. Vol. 179-180. PART 1. P. 57–61. DOI: 
+
+stents // Advanced Materials. 2013. Vol. 25. № 18.  10.1016/0921-5093(94)90164-3. 
+
+P. 2577–2582. DOI: 10.1002/adma.201300226. 13.  Li Z.G., Smith D.J., Sickafus K. Observations of nano-
+
+6. Drelich A.J., Zhao S., Guillory R.J., Drelich J.W., crystals in thin TbFeCo films // Applied Physics Letters. 
+
+Goldman J. Long-term surveillance of zinc implant in 1989. Vol. 55. № 9. P. 919–921. DOI: 10.1063/1.101 
+
+murine artery: Surprisingly steady biocorrosion rate // 622. 
+
+Acta Biomaterialia. 2017. Vol. 58. P. 539–549. 14. Валиев Р.З., Жиляев А.П., Лэнгдон Т.Дж. Объемные 
+
+DOI: 10.1016/j.actbio.2017.05.045.  наноструктурные материалы: фундаментальные ос-
+новы и применения. СПб.: Эко-Вектор, 2017. 479 с. 
+
+F rontier Materials & Technologies. 2022. № 3-2 29
+
+
+
+Поленок М.В., Хафизова Э.Д., Исламгалиев Р.К.   «Влияние интенсивной пластической деформации на механические свойства…» 
+
+15. Valiev R.Z., Estrin Y., Horita Z., Langdon T., Zehet- 6. Drelich A.J., Zhao S., Guillory R.J., Drelich J.W., 
+bauer M., Zhu Y. Producing bulk ultrafine-grained ma- Goldman J. Long-term surveillance of zinc implant in 
+terials by severe plastic deformation // JOM. 2016.  murine artery: Surprisingly steady biocorrosion rate. 
+Vol. 68. № 4. P. 1216–1226. DOI: 10.1007/s11837-016- Acta Biomaterialia, 2017, vol. 58, pp. 539–549. 
+1820-6. DOI: 10.1016/j.actbio.2017.05.045.  
+
+16. Zhang X., Wang H., Scattergood R.O., Narayan J., 7. Mostaed E., Sikora-Jasinska M., Drelich J.W., Vedani M. 
+Koch C.C. Modulated oscillatory hardening and dyna- Zinc-based alloys for degradable vascular stent applica-
+mic recrystallization in cryomilled nanocrystalline Zn // tions. Acta Biomaterialia, 2018, vol. 71, pp. 1–23.  
+Acta Materialia. 2002. Vol 50. № 16. P. 3995–4004. DOI: 10.1016/j.actbio.2018.03.005. 
+DOI: 10.1016/S1359-6454(02)00199-4. 8. Li H.F., Xie X.H., Zheng Y.F., Cong Y., Zhou F.Y.,  
+
+17. Korbel A., Pospiech J., Bochniak W., Tarasek A., Qiu K.J., Wang X., Chen S.H., Huang L., Tian L.,  
+Ostachowski P., Bonarski J. New structural and me- Qin L. Development of biodegradable Zn-1X binary al-
+chanical features of hexagonal materials after room loys with nutrient alloying elements Mg, Ca and Sr. Sci-
+temperature extrusion using the KoBo method // Inter- entific Reports, 2015, vol. 5, article number 10719. 
+national Journal of Materials Research. 2011. Vol. 102. DOI: 10.1038/srep10719. 
+№ 4. P. 464–473. DOI: 10.3139/146.110490. 9. Yao C., Wang Z., Tay S.L., Zhu T., Gao W. Effects of Mg 
+
+18. Валиев Р.З., Александров И.В. Наноструктурные on microstructure and corrosion properties of Zn-Mg alloy. 
+материалы, полученные интенсивной пластической Journal of Alloys and Compounds, 2014, vol. 602, pp. 101–
+деформацией. М.: Логос, 2000. 272 с. 107. DOI: 10.1016/j.jallcom.2014.03.025. 
+
+19. Трусов П.В., Чечулина Е.А. Прерывистая текучесть: 10. Vojtěch D., Kubásek J., Šerák J., Novák P. Mechanical 
+модели, основанные на физических теориях пла- and corrosion properties of newly developed biode-
+стичности // Вестник Пермского национального ис- gradable Zn-based alloys for bonefixation. Acta 
+следовательского политехнического университета. Biomaterialia, 2011, vol. 7, pp. 3515–3522. DOI: 10. 
+Механика. 2017. № 1. С. 134–163. DOI: 10.15593/ 1016/j.actbio.2011.05.008. 
+perm.mech/2017.1.09. 11. Edalati K., Bachmaier A., Beloshenko V., Beygelzimer Y., 
+
+20. Кириллов А.М., Плужников С.Н., Плужникова Т.Н., Blank V., Botta W., Bryɫa K., Čižek J., Divinski S., 
+Зингер Е.В., Федоров В.А. Двойникование на диа- Enikev N., Estrin Yu., Faraji G. Nanomaterials by se-
+граммах напряжение-деформация в поликристаллах vere plastic deformation: review of historical develop-
+Fe-Si // Вестник Тамбовского университета. Серия: ments and recent advances. Materials Research Letters, 
+Естественные и технические науки. 2010. T. 15. № 3- 2022, vol. 10, no. 4, pp. 163–256. DOI: 10.1080/ 
+1. C. 937–938. EDN: MUHXEX. 21663831.2022.2029779. 
+
+21. Криштал М.М., Мерсон Д.Л. Взаимосвязь макроло- 12. Inoue A. Fabrication and novel properties of nanostruc-
+кализации деформации, прерывистой текучести и осо- tured Al base alloys. Materials Science Engineering A, 
+бенностей акустической эмиссии при деформирова- 1994, vol. 179-180, PART 1, no. 57–61. DOI: 
+нии алюминиево-магниевых сплавов // Физика ме- 10.1016/0921-5093(94)90164-3. 
+таллов и металловедение. 1996. Т. 81. № 1. С. 155– 13. Li Z.G., Smith D.J., Sickafus K. Observations of 
+162. EDN: PCBMOP. nanocrystals in thin TbFeCo films. Applied Physics Let-
+ ters, 1989, vol. 55, no. 9, pp. 919–921. DOI: 10.1063/ 
+
+1.101622. 
+REFERENCES 14. Valiev R.Z., Zhilyaev A.P., Lengdon T.J. Ob’emnye 
+
+1. Zheng Y., Xu X., Xu Z., Wang J., Cai H. Metallic Bio- nanostrukturnye materialy: fundamentalnye osnovy  
+materials. New Directions and Technologies. Wein- i primeneniya [Bulk nanostructured materials: funda-
+heim, Wiley, 2017. 307 p. DOI: 10.1002/9783527342 mentals and applications]. Saint Petersburg, Eko-Vektor 
+440. Publ., 2017. 479 p. 
+
+2. Valiev R.Z., Khafizova E.D. Nanometals for next- 15. Valiev R.Z., Estrin Y., Horita Z., Langdon T., 
+generation medical implants. Materials. Technologies. Zehetbauer M., Zhu Y. Producing bulk ultrafine-grained 
+Design, 2021, vol. 3, no. 3, pp. 6–10. DOI: 10.54708/ materials by severe plastic deformation. JOM, 2016, 
+26587572_2021_3356.  vol. 68, no. 4, pp. 1216–1226. DOI: 10.1007/s11837-
+
+3. Li G., Yang H., Zhen Y., Chen X.-H., Yang J.-A., Zhu D., 016-1820-6. 
+Ruan L., Takashima K. Challenges in the use of zinc 16. Zhang X., Wang H., Scattergood R.O., Narayan J., 
+and its alloys as biodegradable metals: Perspective from Koch C.C. Modulated oscillatory hardening and dyna-
+biomechanical compatibility. Acta Biomaterialia, 2019, mic recrystallization in cryomilled nanocrystalline Zn. 
+vol. 97, pp. 23–45. DOI: 10.1016/j.actbio.2019.07.038. Acta Materialia, 2002, vol. 50, no. 16, pp. 3995–4004. 
+
+4. Yang H., Jia B., Zhang Z., Qu X., Li G., Lin W., Zhu D., DOI: 10.1016/S1359-6454(02)00199-4. 
+Dai K., Zheng Y. Alloying design of biodegradable zinc 17. Korbel A., Pospiech J., Bochniak W., Tarasek A., 
+as promising bone implants for load-bearing applica- Ostachowski P., Bonarski J. New structural and me-
+tions. Nature Communications, 2020, vol. 11, no. 1, ar- chanical features of hexagonal materials after room 
+ticle number 401. DOI: 10.1038/s41467-019-14153-7. temperature extrusion using the KoBo method. Interna-
+
+5. Bowen P.K., Drelich J., Goldman J. Zinc exhibits ideal tional Journal of Materials Research, 2011, vol. 102, 
+physiological corrosion behavior for bioabsorbable no. 4, pp. 464–473. DOI: 10.3139/146.110490. 
+stents. Advanced Materials, 2013, vol. 25, no. 18,  18. Valiev R.Z., Aleksandrov I.V. Nanostrukturnye mate-
+pp. 2577–2582. DOI: 10.1002/adma.201300226. rialy, poluchennye intensivnoy plasticheskoy defor-
+
+3 0 Frontier Materials & Technologies. 2022. № 3-2
+
+
+
+Поленок М.В., Хафизова Э.Д., Исламгалиев Р.К.   «Влияние интенсивной пластической деформации на механические свойства…» 
+
+matsiey [Nanostructured materials obtained by severe ports. Series Natural and Technical Sciences, 2010,  
+plastic deformation]. Moscow, Logos Publ., 2000. 272 p. vol. 15, no. 3-1, pp. 937–938. EDN: MUHXEX. 
+
+19. Trusov P.V., Chechulina E.A. Serrated yielding: crystal 21. Krishtal M.M., Merson D.L. Interrelation between de-
+viscoplastic models. PNRPU Mechanics Bulletin, 2017, formation macrolocalization, serrated yielding, and 
+no. 1, pp. 134–163. DOI: 10.15593/perm.mech/2017.1.09. acoustic emission during deformation of aluminum-
+
+20. Kirillov A.M., Pluzhnikov S.N., Pluzhnikova T.N., magnesium alloys. The Physics of Metals and Metal-
+Zinger E.V., Fedorov V.A. Twinning on stress-strain di- lography, 1996, vol. 81, no. 1, pp. 104–109. 
+agrams in polycrystals Fe-Si. Tambov University Re- EDN: LDYDWV. 
+ 
+
+The influence of severe plastic deformation  
+on mechanical properties of pure zinc 
+
+© 2022 
+1
+
+Milena V. Polenok* , a student of Chair of Materials Science and Physics of Metals 
+2
+
+Elvira D. Khafizova , PhD (Engineering), assistant professor of Chair of Materials Science and Physics of Metals 
+3
+
+Rinat K. Islamgaliev , Doctor of Sciences (Physics and Mathematics), Professor,  
+professor of Chair of Materials Science and Physics of Metals 
+
+Ufa State Aviation Technical University, Ufa (Russia)  
+ 
+
+1
+*E-mail: renaweiwei.179@mail.ru ORCID: https://orcid.org/0000-0001-9774-1689 
+
+2ORCID: https://orcid.org/0000-0002-4618-412X 
+3ORCID: https://orcid.org/0000-0002-6234-7363 
+
+ 
+Received 14.07.2021                     Accepted 27.07.2022 
+
+ 
+Abstract: Biodegradable materials, which have the ability to resorb in the body, are new and promising materials for 
+
+medical implants. Currently, scientists carry out the investigations according to three directions: Mg, Fe, and Zn alloys. 
+Zinc-based alloys and zinc have good solubility in the body, which meets the clinical requirements of implants. However, 
+pure zinc has low mechanical properties, including hardness and tensile strength. Therefore, at present, the world scientific 
+community is seeking ways to improve the properties of pure zinc by alloying. Another known approach is the ultrafine-
+grained (UFG) structure formation by the severe plastic deformation (SPD) methods, which are based on the large plastic 
+deformations under high pressure and relatively low homologous temperatures. In this work, the authors studied  
+the influence of high pressure torsion of pure zinc with various numbers of revolutions. The paper presents calculations of 
+shear deformation after SPD. The authors investigated the dependence of mechanical properties and microstructure on  
+the deformation degree. Tension tests at room temperature were carried out, and microhardness was measured. The authors 
+studied the structure using scanning electron microscopy and optics. The study identified that the use of high pressure 
+torsion leads to an increase in the tensile strength of pure zinc up to 140 MPa and ductility up to 40 % resulting from 
+dynamic recrystallization. 
+
+Keywords: severe plastic deformation (SPD); zinc; microhardness; tensile strength increase. 
+Acknowledgments: The study was funded by the RFBR and TUBITAK, within the scientific project No. 21-53-46017. 
+The paper was written on the reports of the participants of the X International School of Physical Materials Science 
+
+(SPM-2021), Togliatti, September 13–17, 2021.  
+For citation: Polenok M.V., Khafizova E.D., Islamgaliev R.K. The influence of severe plastic deformation on 
+
+mechanical properties of pure zinc. Frontier Materials & Technologies, 2022, no. 3, pp. 25–31. DOI: 10.18323/2782-
+4039-2022-3-2-25-31. 
+
+F rontier Materials & Technologies. 2022. № 3-2 31

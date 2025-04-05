@@ -1,0 +1,403 @@
+﻿Приборы и методы измерений Devices and Methods of Measurements
+2016. – Т. 7, № 3. – С. 256–261 2016, vol. 7, no. 3, pp. 256–261
+Жуковский А.И. и др. Zhukouski A. et al.
+
+УДК 621.039.76+614.876+519.245
+
+Gamma-spectrometer for water areas and bottom sediments 
+radiation monitoring 
+Zhukouski A.1, Anshakou A.1, Biryla A.1, Chyrykala U.1, Kanavalau Y.1, Nichyparchuk A.1, 
+Savitski A.1, Khrutchinsky A.2, Kutsen S.2
+
+1SPE «АТОМТЕХ»,
+Gikalo str., 5, 220005, Minsk, Belarus
+2Institute of Nuclear Problems, Belarusian State University
+Bobruiskaya str., 11, 220030, Minsk, Belarus
+
+Received 06.10.2016
+Accepted for publication 25.11.2016
+Abstract
+
+In order to solve the problem of continuous or periodic monitoring of water areas affected by radioactive 
+contamination in the result of scheduled emissions in nuclear power plants or in the result of emergency situ-
+ations in nuclear fuel cycle plants we need to develop measurement instruments with advanced mathematics 
+and program support to assess the level of radioactive contamination with required accuracy. The aim of theo-
+retical research was to optimize detection device construction, estimate spectrometer metrological parameters 
+in given measurement geometries, and determine effective position of detection device in the process of in 
+situ measurements.
+
+This device consists of spectrometric scintillation probe packed into sealed container (detection device) 
+based on NaI(T1) crystal of Ø 63 × 63 mm or Ø 63 × 160 mm size, cable reel with deep-sea cable and a tablet 
+PC for data processing and displaying. The container withstands static hydraulic pressure up to 5 MPa and 
+can be used for measurements at depths of 500 m maximum. Probe measures energy distribution of gamma-
+radiation with energy from 70 keV to 3000 keV. The implemented three-dimensional system for detection 
+device position and orientation determination allows automatic operation of the device (without operator) 
+for water areas or bottom sediment scanning. The spectrometer can output measurement results with three-
+dimensional geographical coordinates as index maps of distribution with necessary resolution and accuracy. 
+Monte Carlo models of spectrometer and controlled objects are developed in order to determine the detector 
+response functions to given radionuclides in given measurement geometries without use of expensive stan-
+dard measures of activity.
+
+Multifunction gamma-spectrometer for in situ radiation monitoring of water areas and bottom sediments 
+was developed and constructed. In the result of theoretical researches the response functions have been calcu-
+lated in the form of theoretical spectra of monitored radionuclides in definite measuring geometries. The results 
+of mathematical modeling of the gamma-emitting transfer process allowed to estimate effective position of 
+detection device for in situ measurements of specific activity radionuclides 134Cs and 137Cs in bottom sediments.
+Keywords: submersible gamma-spectrometer, detection efficiency, geometry of measuring, in situ measu-
+ring.
+DOI: 10.21122/2220-9506-2016-7-3-256-261
+Адрес для переписки: Address for correspondence:
+Жуковский А.И. Zhukouski A.
+УП «АТОМТЕХ», SPE «ATOMTEX», 
+ул. Гикало, 5, 220005, г. Минск, Беларусь Gikalo St., 5, 220005, Minsk, Belarus
+e-mail: alexzhukovski@gmail.com e-mail: alexzhukovski@gmail.com
+Для цитирования: For citation:
+Zhukouski A., Anshakou A., Biryla A., Chyrykala U., Kanavalau Y., Zhukouski A., Anshakou A., Biryla A., Chyrykala U., Kanavalau Y., 
+Nichyparchuk A., Savitski A., Khrutchinsky A., Kutsen S. Nichyparchuk A., Savitski A., Khrutchinsky A., Kutsen S.
+Gamma-spectrometer for water areas and bottom sediments radiation Gamma-spectrometer for water areas and bottom sediments radiation 
+monitoring. monitoring.
+Приборы и методы измерений. Pribory i metody izmerenij [Devices and Methods of Measurements].
+2016. – Т. 7, № 3. – С. 256–261. 2016, vol. 7, no. 3, рр. 256–261.
+DOI: 10.21122/2220-9506-2016-7-3-256-261 DOI: 10.21122/2220-9506-2016-7-3-256-261
+
+256
+
+
+
+Приборы и методы измерений Devices and Methods of Measurements
+2016. – Т. 7, № 3. – С. 256–261 2016, vol. 7, no. 3, pp. 256–261
+Жуковский А.И. и др. Zhukouski A. et al.
+
+Гамма-спектрометр для радиационного мониторинга 
+акваторий и донных отложений 
+Жуковский А.1, Аншаков О.1, Бирило А.1, Чирикало В.1, Коновалов Е.1, 
+Ничипорчук А.1, Савицкий А.1, Хрущинский А.2, Кутень С.2
+
+1УП «АТОМТЕХ», 
+ул. Гикало, 5, 220005, г. Минск, Беларусь
+2Институт ядерных проблем Белорусского государственного университета,
+ул. Бобруйская, 11, 220030, г. Минск, Беларусь
+
+Поступила 06.10.2016
+Принята к печати 25.11.2016
+
+Задачи постоянного или периодического мониторинга водоемов, подвергшихся радиоактивному загрязнению 
+в результате штатных выбросов АЭС или в результате возникновения нештатных ситуаций на предприятиях 
+топливного ядерного цикла, приводят к необходимости разработки соответствующих средств измерений с 
+современным математическим и программным обеспечением, позволяющих оценить уровень радиоактивных 
+загрязнений с заданной точностью. Цель теоретических исследований заключалась в оптимизации конструктива 
+устройства детектирования, определении метрологических параметров спектрометра в заданных геометриях 
+измерения, определении эффективного положения устройства детектирования спектрометра в процессе 
+in situ измерений удельной активности радионуклидов 134Cs и 137Cs в донных отложениях с использованием 
+разработанных Монте-Карло моделей: устройства детектирования, воды и донных отложений.
+
+Спектрометр представляет собой многофункциональный прибор, состоящий из размещаемого в 
+герметичном контейнере спектрометрического сцинтилляционного блока детектирования с кристаллом NaI(T1) 
+размерами Ø 63 × 63 мм или Ø 63 × 160 мм, вьюшки с глубоководным кабелем и планшетного компьютера 
+для обработки и отображения информации. Контейнер устойчив к статическому гидравлическому давлению 
+до 5 МПа, что позволяет проводить измерения на глубинах до 500 м. Устройство детектирования позволяет 
+измерять энергетическое распределение импульсов гамма-излучения с энергией от 70 до 3000 кэВ. Реализованная 
+система определения положения устройства детектирования в пространстве позволяет использовать 
+спектрометр в автоматическом режиме (без участия оператора) для сканирования водной акватории и донных 
+отложений. Результаты измерения заданной величины с трехмерными географическими координатами могут 
+быть оперативно представлены в виде карт-схем распределения с необходимой дискретностью и точностью. 
+Для определения функций отклика детектора к заданным радионуклидам в требуемых геометриях измерения 
+без использования физических дорогостоящих стандартных мер активности разработаны Монте-Карло модели 
+спектрометра и объектов контроля.
+
+Для радиационного контроля водной среды и донных отложений методом in situ разработан и изготовлен 
+многофункциональный портативный гамма-спектрометр. В результате теоретических исследований были 
+рассчитаны функции отклика спектрометра к контролируемым радионуклидам в заданных геометриях измерения. 
+Результаты математического моделирования процесса переноса гамма-излучения позволили определить 
+эффективную позицию устройства детектирования в процессе in situ измерений активности радионуклидов 
+134Cs и 137Cs в донных отложениях.
+Ключевые слова: погружной гамма-спектрометр, эффективность регистрации, геометрия измерения, in situ 
+измерения.
+DOI: 10.21122/2220-9506-2016-7-3-256-261
+Адрес для переписки: Address for correspondence:
+Жуковский А.И. Zhukouski A.
+УП «АТОМТЕХ», SPE «ATOMTEX», 
+ул. Гикало, 5, 220005, г. Минск, Беларусь Gikalo St., 5, 220005, Minsk, Belarus
+e-mail: alexzhukovski@gmail.com e-mail: alexzhukovski@gmail.com
+Для цитирования: For citation:
+Zhukouski A., Anshakou A., Biryla A., Chyrykala U., Kanavalau Y., Zhukouski A., Anshakou A., Biryla A., Chyrykala U., Kanavalau Y., 
+Nichyparchuk A., Savitski A., Khrutchinsky A., Kutsen S. Nichyparchuk A., Savitski A., Khrutchinsky A., Kutsen S.
+Gamma-spectrometer for water areas and bottom sediments radiation Gamma-spectrometer for water areas and bottom sediments radiation 
+monitoring. monitoring.
+Приборы и методы измерений. Pribory i metody izmerenij [Devices and Methods of Measurements].
+2016. – Т. 7, № 3. – С. 256–261. 2016, vol. 7, no. 3, рр. 256–261.
+DOI: 10.21122/2220-9506-2016-7-3-256-261 DOI: 10.21122/2220-9506-2016-7-3-256-261
+
+257
+
+
+
+Приборы и методы измерений Devices and Methods of Measurements
+2016. – Т. 7, № 3. – С. 256–261 2016, vol. 7, no. 3, pp. 256–261
+Жуковский А.И. и др. Zhukouski A. et al.
+
+Introduction Specialists in many countries are developing and 
+manufacturing submersible gamma-spectrometers 
+
+Water systems are an important part of the en- for water radiation monitoring [2, 5–11]. Theoretical 
+vironment and are also exposed to radiation pollu- and experimental researches presented in their works 
+tion as the result of accidents at nuclear fuel cycle have been carried out to optimize and improve me-
+enterprises. trology and design parameters of equipment, aimed 
+
+Radiation monitoring of the environment, in primarily for monitoring and water radiation con-
+particular, water areas and sediments, is a prereq- trol. At the same time, events at Fukushima nuclear 
+uisite for ensuring radiation safety during normal power plants in 2011 have showed that determination 
+operation of nuclear power plants, as well as in the of controlled radionuclides’ activity in sediments is 
+case of emergency situations at nuclear fuel cy- still a high priority task [3]. Portable and lightweight 
+cle enterprises. Due to technological requirements submersible spectrometers with in situ measurement 
+nuclear power plants are located near large bod- functionality allows for rapid estimation of specific 
+ies of water (seas, lakes, large rivers) for heat re- activity of controlled radionuclides in water and bot-
+moval and core cooling [1]. Events at Fukushima tom sediments with required accuracy [2, 5].
+nuclear power plant have showed that radioactive The aim of theoretical researches have consisted 
+substances fell not only on fruit and rice fields, but in optimization of detection device construction, def-
+also in ponds and ocean, thus water pollution moni- inition of metrological parameters of spectrometer in 
+toring represents an urgent and important task [2, special measuring geometries, estimation effective 
+3]. Significant amount of radionuclides which accu- position of detection device to measure specific ac-
+mulates at the bottom as a result of sedimentation, tivity radionuclides 134Cs and 137Cs in bottom sedi-
+are absorbed by fish and plants, and may eventually ments by in situ, using Monte-Carlo models of detec-
+get into the human body [4]. Sediments radiation tion device, water and bottom sediments. 
+control is the same important task along with water 
+radiation control. Materials and methods
+
+Activity of controlled radionuclides is usually 
+estimated by the method of representative sampling Submersible spectrometer [12] (hereinafter 
+with transportation to laboratory, preparation and spectrometer) is a modular instrument, consisting of 
+measurement in stationary gamma-spectrometers. temperature and impact resistant watertight stainless 
+Despite attempts to reduce measurement result uncer- steel container (detection device) with scintillator 
+tainty associated with sample selection and prepara- probe based on NaI(Tl) detector of Ø 63 × 63 mm or 
+tion activities for radiation control of sediments, this Ø 63 × 160 mm size inside, deep water cable reel and 
+technique has some major disadvantages associated tablet computer.
+primarily with a high probability of random and sys- Spectrometer withstands static hydraulic pres-
+tematic errors. Due to difficulties with obtaining of sure up to 5 MPa, which is equivalent to immersion 
+quality bottom samples and time-consuming meas- to 500-meter depth. The position of detection de-
+urement, there emerges a need for activity measure- vice is determined by a position sensor (gyroscope), 
+ment of controlled radionuclides by in situ [5]. which is used to identify the moment when the de-
+
+                                а             b       c
+Figure 1 – Possible positions of detection device in water: a – horizontal position; b – intermediate position; 
+c – vertical position
+
+258
+
+
+
+Приборы и методы измерений Devices and Methods of Measurements
+2016. – Т. 7, № 3. – С. 256–261 2016, vol. 7, no. 3, pp. 256–261
+Жуковский А.И. и др. Zhukouski A. et al.
+
+tection device contacts the bottom, and for its proper uniformly distributed in specified volume of water 
+positioning (Figure 1). or sediment.
+
+Additionally, spectrometer is equipped with a For determination of detection efficiency for 
+pressure sensor to determine the depth of immersion specified value of gamma-radiation energy the 
+and humidity sensor to control its integrity. Com- effective volume of water has been taken into 
+munication with detection device is carried out by account, which is determined by the value of effective 
+means of cable. Data from detection device are sent radius – radius of contaminated sphere generating 
+to tablet computer and processed by special appli- more than 90 % of spectrometer response function 
+cation software. The values of energy distribution [19]. Here the tolerance of spectrometer readings for 
+of gamma-radiation pulses, result of radionuclides water measurement, which volume is determined by 
+identification, specific activities of controlled radio- effective radius, is within the range from 5 to 10 % 
+nuclide or ambient dose equivalent rate of gamma- relative to spectrometer readings for measurement of 
+radiation are displayed on tablet computer screen. sphere with conventionally infinite radius containing 
+
+Energy range of detected gamma-radiation, in gamma-photons uniformly distributed over its volume.
+which the energy distribution is measured, is from 70 The results of Monte-Carlo simulation in 4π 
+to 3000 keV. Relative energy resolution for gamma- measurement geometry in the form of calculated 
+radiation of 137Cs (661.7 keV) does not exceed 8 %. theoretical spectra allowed to determine the 
+Measurement range of gamma-radiation dose rate is relation of detection efficiency to the energy 
+from 0.01 to 100 µSv/h. of gamma-radiation for spectrometer based on 
+
+Spectrometer has internal systems for continuous NaI(Tl) scintillation crystal of Ø 63 × 63 mm and 
+automatic LED stabilization of energy scale and Ø 63 × 160 mm size (Figure 2), which is used for 
+digital temperature compensation of measuring path. calculation of specific activity of most dose-forming 
+Operating temperature range of spectrometer is from radionuclides [20].
+–20 °C to +50 °C.
+
+Numerical Monte-Carlo simulation is a generally 
+recognized solution for verification, calibration, 
+design optimization, and definition of spectrometers’ 
+metrological parameters and basic provisions of 
+measurement procedures, when reference materials 
+are not available or cannot be created [13–17].
+
+MCNP software (Monte-Carlo N-Particle 
+Transport, Los Alamos National Labaratory, USA) 
+of version 4A has been used for Monte-Carlo 
+simulation [18]. At the primary stage, the detection 
+device verification has been carried out with 
+standard spectrometric gamma sources containing 
+gamma-emitting radionuclides 134Cs and 137Cs. In the Figure 2 – The relation of detection efficiency to gamma-
+course of experiment and Monte-Carlo simulation radiation energy in 4π measurement geometry based on 
+the sources were located at a distance of 5 cm from NaI(Tl) scintillation detector: 1 – Ø 63 × 63 mm size; 
+
+lateral surface of container with detection device. 2 – and Ø 63 × 160 mm size
+
+Amplitude deviation of full absorption peak (FAP) One of the most important spectrometer’s 
+of gamma-radiation with energy of 661.7 keV parameters in any geometry is sensitivity to measured 
+for 137Cs as well as 597.4 keV and 796.4 keV for radionuclide or relation of detection efficiency 
+134Cs at the level of 2–3 % showed a high degree to energy of gamma-radiation. Spectrometer’s 
+of spectrometer’s compliance with Monte-Carlo detection limit depends on this metrology parameter 
+model. along with mathematical algorithm of processing of 
+
+Determination of detection device’s response gamma-impulse energy distribution. In order to set 
+function to radionuclides 134Cs and 137Cs in given requirements for sediment radiation control methods 
+measurement geometry has been carried out using and find optimal detection device position relative 
+Monte-Carlo model of water in 4π geometry and of to the object of control in which the spectrometer 
+sediment in 2π geometry with specified radionuclide demonstrates maximum sensitivity to controlled 
+
+259
+
+
+
+Приборы и методы измерений Devices and Methods of Measurements
+2016. – Т. 7, № 3. – С. 256–261 2016, vol. 7, no. 3, pp. 256–261
+Жуковский А.И. и др. Zhukouski A. et al.
+
+radionuclides. Monte-Carlo model of detection measurements of sediments. Seabed water layer 
+device and contaminated bottom sediments with diffuses and weakens gamma-radiation emitted 
+contaminated layer thickness D = 10 cm has been from the source (sediment layer contaminated 
+used (Figure 3). by radionuclides) in detector direction. Scattered 
+
+gamma-photons make additional contribution to 
+low-energy part of spectrometer response function. 
+This effect increases when detection device is used 
+according to the scheme shown in Figure 4a with 
+detection device based on scintillation crystal, which 
+length exceeds its diameter. In this case integral 
+response in the form of response function increases, 
+resulting in reduced detection limit, while significant 
+increase of scattered component introduces 
+additional error into determination of thickness of 
+
+                      a                                               b
+Figure 3 – Monte-Carlo model of detection device and contaminated sediment layer. Such factors as small 
+contaminated bottom sediments in in situ measurement effective area of gamma-radiation source relative 
+geometry: a – Vertical; b – Horizontal. 1 – Seabed layer to the size of the scintillation crystal, lower value 
+of water; 2 – NaI(Tl) detector of 63 × 160 mm size; of scattered component of instrument spectrum 
+3 – Bottom sediments relative to response in FAP, higher sensitivity 
+
+of measurement by side spectrometer’s surface 
+The density of Monte-Carlo sediment model has demonstrate the advantages of measurement of 
+
+been taken as 1.3 g/cm3. See Table [19] for elemental contaminated sediments according to scheme shown 
+composition of sediments used in simulation of in Figure 4b. Also, fast and accurate determination 
+gamma-radiation transfer in 2π measurement of measurement start (Horizontal position on the 
+geometry. bottom) allows reduction in time required to carry 
+
+Table out measurements at check point.
+Elemental composition of sediments
+
+Chemical element W/w, %
+Si 24.32
+Al 5.07
+Fe 1.04
+Ca 0.31
+Mg 0.62
+K 1.21
+Na 1.08
+O 62.18
+P 0.03
+S 0.07 Figure 4 – Dependence of integral spectrometer response 
+
+from the size of contaminated sediment site: 1 – horizontal 
+C 3.53 position of detection device based on NaI(Tl) crystal of 
+H 0.38 Ø 63 × 160 mm size; 2 – vertical position of detection 
+N 0.19 device based on NaI(Tl) crystal of Ø 63 × 160 mm 
+
+size; 3 – horizontal position of detection device based 
+Figure 4 shows the dependence of integral on NaI(Tl) crystal of Ø 63 × 63 mm size; 4 – vertical 
+
+spectrometer response from the radius of sediment position of detection device based on NaI(Tl) crystal of 
+site contaminated by 137Cs radionuclide for detection Ø 63 × 63 mm size
+device based on NaI(Tl) scintillation crystals of 
+Ø 63 × 63 mm and Ø 63 × 160 mm size when placing Conclusion
+the detection device vertically and horizontally 
+relative to the source of gamma-radiation. The peculiarity of the conducted researches is in 
+
+Seabed layer of water has a significant impact the application of Monte-Carlo simulation method in 
+on detector response function during in situ the achievement of the objectives.
+
+260
+
+
+
+Приборы и методы измерений Devices and Methods of Measurements
+2016. – Т. 7, № 3. – С. 256–261 2016, vol. 7, no. 3, pp. 256–261
+Жуковский А.И. и др. Zhukouski A. et al.
+
+Monte-Carlo models of detection devices, 8. Aakenes U.R., Radioactivity monitored from 
+water and sediments have allowed determination of moored oceanographic buoys. Chemistry and Ecology, 
+necessary spectrometer response function in the form 1995, no 10, pp. 61–69. doi: 10.1080/02757549508035330.
+of spectra of controlled radionuclides in required 9. Baranov I., Kharitonov I., Laykin A., Olshansky Yu. 
+measurement geometries. Devices and methods used for radiation monitoring of sea 
+
+water during salvage and transportation of the Kursk nucle-
+The results of theoretical research allowed ar submarine to dock. Accelerators, Spectrometers, Detec-
+
+determination of metrological parameters of tors and Associated Equipment, Section A, 2003, no. 505, 
+detection devices based on NaI(Tl) scintillation pp. 439–443. doi: 10.1016/S0168-9002(03)01116-1
+crystals of Ø 63 × 63 mm and Ø 63 × 160 mm size 10. Wedekind C., Shilling G., Güttmüller M., 
+in basic measurement geometries (2π and 4π) and Becker K. Gamma-radiation monitoring network at 
+establishing a set of rules and procedures for specific sea. Applied Radiation and Isotopes, 1999, no. 50, 
+activity measuring of controlled radionuclides pp. 733– 741. doi: 10.1016/S0969-8043(98)00062-1
+
+11. Povinec P.P., Osvath I., Baxter M.S. Underwater 
+without sampling and preparation of water and gamma-spectrometry with HPGe and NaI(Tl) detectors. 
+sediment samples. Applied Radiation and Isotopes, 1996, no. 47, pp. 1127–
+
+1133. doi: 10.1016/S0969-8043(96)00118-2
+References 12. Birila A., Chirikala V., Zhukouski A. Spektrometr 
+
+pogruzhnoj [Submersible Spectrometer]. Patent BY 
+1. Grishin D.S., Kuchin N.L., Kiziurov V.C., no. 3278, 2015.
+
+Laykin A.I., Miheev U.V., Triumphov N.H., 13. Zhukouski A., Mogi K., Kutsen S. [In situ 
+Chistiakov O.B., Kharitinov I.A. [Submersible gamma- measurement of soil radioactivity]. Vestsi NAN Belarusi, 
+spectrometers – the application experience and prospects Fiziko-tekhnicheskaya seriya [Proceeding of the National 
+of using]. ANRI, 2016, no. 2, pp. 10–21 (in Russian). academy of sciences of Belarus, physico-technical series], 
+
+2. Thornton B., Ohnishi S., Ura T., Odano N., 2016, no. 3, pp. 105–110 (in Russian).
+Sasaki Sh., Fujita Ts.,Watanabe T., Nakata K., Ono Ts., 14. Zhang Y., Li Ch., Liu D., Zhang Yi., Liu Ya. 
+Ambe D. Distribution of local 137Cs anomalies on the Monte-Carlo simulation of a NaI(Tl) detector for in situ 
+seafloor near the Fukushima Dai-ichi Nuclear Power radioactivity measurements in the marine environment. 
+Plant. Marine Pollution Bulletin, 2013, no. 74, pp. 344– Applied Radiation and Isotopes, 2015, no. 98, pp. 44–48. 
+350. doi: 10.1016/j.marpolbul.2013.06.031 doi: 10.1016/j.apradiso.2015.01.009
+
+3. Zhukouski A., Chirikalo V., Guzov V., 15. Kinchakov V.S. Performance optimization of a 
+Kozhemyakin V., Kutsen S., Khrutchinsky A., deep-sea scintillation gamma detector. Technical Physics, 
+Fukuhara T., Yajima T., Mogi M., Mogi K., Chudakov  V. 2006, vol. 51, no. 1, pp. 134–138. 
+AТ6104DM gamma-spectrometer for radiation doi: 10.1134/S106378420601021X
+monitoring water areas and bottom sediments. Results 16. Dreyzin V.E., Sideleva N., Logvinov D. [Simulation 
+of mathematical and experimental researches. Problemy instrumental gamma spectra of scintillation detector using a 
+prikladnoj spektrometrii i radiometrii [Problems of macro approach]. ANRI, 2014, no. 3, pp. 2–12 (in Russian).
+applied spectroscopy and radiometry], St. Petersburg, 17. Bagatelas C., Tsabaris C., Kokkoris M., Papado-
+2015, pp. 160–163. poulos C.T., Vlastou R. Determination of marine gamma 
+
+4. Appleby L.J., Dewell L., Mishara Yu.K. The ways activity and study of the minimum detectable activity 
+of migration of artificial radionuclides in the Environment. (MDA) in 4π geometry based on Monte-Carlo simula-
+In F. Warner and Harrison (eds.). Moscow, Mir Publ., tion. Environmental Monitoring and Assessment, 2010, 
+1999, pp. 512 (in Russian). no. 165, pp. 159–168. doi: 10.1007/s10661-009-0935-4
+
+5. Kazennov A.Y, Hapanov I.A., Pimenov A.E. 18. Briestmeister J.F. Ed. MCNP- A general Monte-
+[Methods of operational radiation surveys of coastal Carlo N-particle transport code, Version 4A. Report LA-
+waters fleet bases with the help of submersible gamma- 12625-M, Los Alamos. NM, Los Alamos National Labo-
+spectrometers]. Atomnaya energiya [Atomic energy], ratory, 1994.
+2010, vol. 9, no. 2, pp. 100–108 (in Russian). 19. Zhukouski A., Kutsen S., Khrutchinsky A., 
+
+6. Jones D.G. Development and application of Tolkachev A., Guzov V., Kojemiakin V., Chudakov V. 
+marine gamma-ray measurements: a review. Journal of [Evaluation of the area of influence of the contaminated soil 
+Environmental Radioactivity, 2001, no. 53, pp. 313–333. region in solving the problems of radiation monitoring by in 
+
+7. Vlastou R., Ntziou I.Th., Kokkoris M., situ]. Pribory i metody izmerenij [Devices and Methods of 
+Papadopoulos C.T., Tsabaris C. Monte-Carlo simulation Measurements], 2014, no. 1 (8), pp. 119–124 (in Russian).
+of γ-ray spectra from natural radionuclides recorded by a 20. Yekidin A.A., Zhukovski M.V., Vasianovich M.E. 
+NaI detector in the marine environment. Applied Radiation [Identification of the main dose-forming radionuclides in 
+and Isotopes, 2006, no. 64, pp. 116–123. nuclear power plant emissions]. Atomnaya energiya [Atomic 
+doi: 10.1016/j.apradiso.2005.07.011 energy], 2016, vol. 120, no. 2, pp. 106–108 (in Russian).
+
+261

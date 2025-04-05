@@ -1,0 +1,678 @@
+﻿УДК 621.316.1 DOI: 10.14529/power200203 
+  
+
+МЕТОД ПРОГНОЗИРОВАНИЯ ЭЛЕКТРОПОТРЕБЛЕНИЯ 
+БЫТОВЫМИ ПОТРЕБИТЕЛЯМИ В УСЛОВИЯХ  
+РЕСПУБЛИКИ ТАДЖИКИСТАН 
+ 
+С.Ш. Таваров 
+Южно-Уральский государственный университет, г. Челябинск, Россия 
+ 
+ 
+
+По данным динамики электропотребления и состояния городских электрических сетей городов Рес-
+публики Таджикистан по потерям электроэнергии, а также структурам электропотребления по группам, 
+принятым в Республике Таджикистан, проведен анализ. Предлагается метод прогнозирования электро-
+потребления и определения средней мощности в часы максимума нагрузок для бытовых потребителей с 
+учётом условий местности Республики Таджикистан. Для выведения уравнения прогнозирования элек-
+тропотребления предложен коэффициент времени максимума нагрузок –      , зависящий от террито-
+риального расположения и климатометеорологических условий местности Республики Таджикистан, 
+имеющий различные значения, соответствующие условиям местности. Апробация предложенного метода 
+прогнозирования электропотребления проведена для одного фидера подстанций «Восточная – 10/35/6 кВ» 
+г. Душанбе. Установлена зависимость влияния территориального расположения и климатометеорологи-
+ческих условий местности городов Республики Таджикистан на режимы работы городской электриче-
+ской сети, в частности, в узлах 0,4 кВ. 
+
+Ключевые слова: электропотребление, бытовые потребители, метод прогнозирования, фактор-
+ные условия. 
+
+ 
+ 
+
+Введение Постановка задачи 
+Перевод потребителей бытового сектора Рес- Задание одинаковой удельной нагрузки для 
+
+публики Таджикистан (РТ) практически полно- бытового сектора согласно [1] для всей РТ не яв-
+стью на электроэнергию, а также появление новых ляется корректным. Общеизвестно, что при непра-
+видов бытовых нагрузок привели к увеличению вильном установлении удельных нагрузок и про-
+потребления электроэнергии в данном секторе.  ектировании систем электроснабжения по этим 
+На увеличение потребления электроэнергии по- нормам происходит увеличение потерь электро-
+влиял и тот фактор, что после распада Советского энергии [1–4], а в дальнейшем и уменьшение сро-
+Союза потребители бытового сектора на длитель- ков работы элементов схем электроснабжения. 
+ный период времени были лишены теплогазо- Существующие нормы удельных нагрузок для 
+снабжения, а также горячего водоснабжениям. типовых домов [1, 2], применяемые в настоящее 
+
+В последние годы эта проблема частично на- время при проектировании, разработаны во време-
+чала решаться в г. Душанбе. После ввода в городе на Советского Союза и частично в современной 
+в эксплуатацию ТЭЦ-2 часть потребителей быто- России, не учитывают климатометеорологические 
+вого сектора была подключена к централизован- и территориальные особенности городов, а также 
+ному теплоснабжению, что частично решило про- нагрузку кондиционеров и электрических водона-
+блему по уменьшению электрической нагрузки в гревателей. 
+бытовом секторе. В остальной части страны дан- Введение новых норм удельных нагрузок в 
+ная проблема остается пока не решенной и все условиях РТ усложняется рядом причин; одной из 
+потребители бытового сектора работают от элек- главных является дефицит выработки электро-
+трической энергии. энергии в зимнее время. 
+
+При этом необходимо отметить следующий Следовательно, актуальным решением явля-
+фактор: по территориальному расположению тем- ется разработка норм электропотребления для бы-
+пература окружающего воздуха в г. Душанбе в товых потребителей, проживающих в домах, по-
+зимнее время не опускается ниже –5 °С, а, напри- строенных по типовым проектам с соблюдением 
+мер, в Горно-Бадахшанской автономной области удельных нагрузок, но с учётом климатометеоро-
+температура окружающего воздуха в зимнее время логических и территориальных особенностей го-
+может достигать –30 °С и ниже (централизован- родов РТ. 
+ное теплоснабжение отсутствует), поэтому время Причина дефицита электроэнергии в зимний 
+использования максимума нагрузок в течение период времени связана с тем, что основным ис-
+суток в Горно-Бадахшанской автономной области точником электроэнергии в РТ являются гидрав-
+будет существенно больше, чем в других регио- лические электрические станции (ГЭС), на долю 
+нах страны. которых приходится более 90 % от общей выраба-
+
+Bulletin of the South Ural State University. Ser. Power Engineering. 
+28 2020, vol. 20, no. 2, pp. 28–35 
+
+
+
+Таваров С.Ш.          Метод прогнозирования электропотребления бытовыми 
+               потребителями в условиях Республики Таджикистан 
+
+тываемой электроэнергии в республике. В РТ на ставленным ОАХК «Барки Точик», была построе-
+данный момент лишь одна ГЭС имеет свое водо- на гистограмма относительных потерь электро-
+хранилище (Нурекская ГЭС), а остальные выпол- энергии (плановых и фактических) в электриче-
+нены по русловому типу и зависят от притока во- ских сетях РТ в 2016 г. (рис. 2). 
+ды, обусловленного таянием ледников. Из рис. 2 видно, что потери электроэнергии в 
+
+Динамика производства и потребления элек- электрических сетях РТ имеют превышения [1, 2] 
+троэнергии за 1991–2016 гг. по Республике Тад- при этом на их долю больше влияют бытовые по-
+жикистан приведена на рис. 1. требители городских электрических сетей. 
+
+Эти кривые описываются полиномами 5-го по- Потребители электроэнергии в РТ делятся на 
+рядка (потребления) и 4-го порядка (производство) следующие группы: 
+с коэффициентами аппроксимации для производст- 1-я группа – промышленные, непромышлен-
+ва           и для потребления          . ные, сельскохозяйственные и приравненные к ним 
+
+Для оценки эффективности городских и рай- потребители; 
+онных электрических сетей РТ по данным, пред- 2-я группа – потребители бюджетной сферы, 
+
+ 
+Рис. 1. Динамика производства и потребления электроэнергии в электрических сетях  
+
+Республики Таджикистан за 1991–2016 гг. 
+
+ 
+
+ 
+Рис. 2. Потери электроэнергии в электрических сетях РТ в 2016 г. 
+
+ 
+
+Вестник ЮУрГУ. Серия «Энергетика».  
+2020. Т. 20, № 2. С. 28–35 29  
+
+
+
+Электроэнергетика 
+
+ 
+Рис. 3. Структура электропотребления по группам, принятым в РТ 
+
+ 
+
+предприятия коммунального хозяйства и электри- Теоретическая часть 
+фицированный транспорт; С целью регулирования режимных парамет-
+
+3-я группа – насосные станции систем ма- ров городских электрических сетей оперативно-
+шинного орошения, скважинные и мелиоративные диспетчерской службой в работе предлагается ме-
+насосные станции; тод прогнозирования электропотребления для бы-
+
+4-я группа – население, населенные пункты и товых потребителей в условиях Республики Тад-
+общежития. жикистан (РТ) на основе уравнений с учётом ко-
+
+На рис. 3 приведена структура электропо- эффициента времени максимума нагрузок –      , 
+требления по указанным группам в 2010–2015 гг. полученного для различных городов РТ [3, 21] и 
+
+Согласно рис. 3 электропотребление населе- имеющего функциональную зависимость: 
+нием, относящимся к 4-й группе, в последние годы            ,         (1) 
+стало больше, чем на предприятиях, относящихся   =                ,        (2) 
+к 1-й группе. где    – температура воздуха;    – особенности 
+
+Таким образом, для повышения качества конструкции домов;    –высота расположения го-
+электроэнергии и надёжности электроснабжения родов над уровнем моря;    – количество осадков; 
+необходимо разработать метод прогнозирования    – скорость ветра. 
+электропотребления с учётом нынешних норм Учитывая сказанное, предлагаем метод прогно-
+удельных нагрузок и разрешенной мощности, ус- зирования электропотребления и средней нагрузки 
+тановленной ОАХК «Барки Точик» для бытовых для бытовых потребителей в условиях РТ в виде сис-
+потребителей с типовыми домами, учитывая при темы уравнений с учётом коэффициента времени 
+этом ряд факторов, влияющих на электропотреб- максимума нагрузок –       для различных городов 
+ление бытовыми потребителями. РТ [3, 21], позволяющего учитывать территориаль-
+
+К данным факторам относятся следующие: ную и климатометеорологическую особенность РТ. 
+территориальное расположение городов и климато- Уравнения прогнозирования электропотреб-
+метеорологических условий [5–20]. Данные факто- ления и средней мощности с учётом коэффициента 
+ры влияют на продолжительность времени макси- времени максимума нагрузок –       городов РТ 
+мума нагрузок в течение дня и месяца [21, 22]. приведены ниже: 
+
+Bulletin of the South Ural State University. Ser. Power Engineering. 
+30 2020, vol. 20, no. 2, pp. 28–35 
+
+
+
+Таваров С.Ш.          Метод прогнозирования электропотребления бытовыми 
+               потребителями в условиях Республики Таджикистан 
+
+     
+                         ,     (3) В качестве примера (рис. 4) рассмотрим  
+
+ 
+        ТП-65 с потребительским трансформатором  
+             
+
+     ,       (4) 
+       ТМ-630/6 при месячном электропотреблении 
+
+где          – потребление электроэнергии в тече-                         . 
+ние рассматриваемого периода, кВт·ч;         – Определим: 
+время максимума нагрузок в течение суток, ч; – электропотребление в часы максимума на-
+ грузок: 
+
+     – коэффициент времени максимума нагрузок. 
+Полученные уравнения позволят прогнозиро-                            
+
+вать, планировать и контролировать электропо-            11 333,57 кВт·ч; 
+требление [3, 21] без нарушения установленных – среднюю мощность в часы максимума на-
+норм удельных нагрузок. Для поддержания ре- грузок: 
+жимных параметров в системе электроснабжения           
+
+ 
+необходимо разработать нормы электропотребле-                          . 
+
+    
+
+ния, не превышающие удельные нагрузки [1, 2]. Результаты расчетов для остальных потреби-
+ тельских трансформаторных подстанций напряже-
+Практическая часть нием 6/0,4 кВ, приведенных на рис. 4, сведём в 
+Согласно (3), (4) и приведенным выше поме- табл. 1. 
+
+сячным показаниям учётов электроэнергии опре- По полученным данным, приведенным в табл. 1, 
+делим электропотребления и среднюю мощность в определяем коэффициенты загрузки потребитель-
+часы максимума нагрузок для одного из фидеров ских трансформаторных подстанций, потери на-
+ПС «Восточная – 110/35/6 кВ». пряжения в кабельных линиях 6 и 0,4 кВ, питаю-
+
+ЯЧ. №8, ~ 6 кВ
+W=13030 кВт. ч/мес.
+
+ТП-2427
+
+ТМ-400/6
+
+1 Т-1 2¹  
+
+АСБ-3х240
+5¹¹   
+
+L=0,25 км
+
+ТМ-630/6 ТМ-1000/6
+
+~ 0,4 кВ 1¹  3 Т-2 ~ 0,4 кВ 2¹  
+
+ТП-65 ТП-54/2
+W=44177,22 кВт. ч/мес.
+
+W=91418, 19 кВт. ч/мес.
+
+АСБ-3х185
+
+L=0,307 км
+
+4
+
+ТМ-400/6
+1¹¹   
+
+2¹¹   
+
+~ 0,4 кВ 3¹  
+
+ТП-54/2
+
+W=41075,77 кВт. ч/мес.
+ТМ-400/6
+
+~ 0,4 кВ 4¹  
+
+ТП-264/2
+3¹¹   W=22215,4 кВт. ч/мес.
+
+4¹¹   
+
+ 
+Рис. 4. Схема электроснабжения с исходными данными 
+
+ 
+В естник ЮУрГУ. Серия «Энергетика».  
+2020. Т. 20, № 2. С. 28–35 31   
+
+ААШВ-3х185
+
+L=0,347 км АСБ-3х185
+
+L=0,347 км
+
+ААШВ-3х185
+
+L=0,28 км XPLE-3х240
+
+L=0,658 км АСБ-3х185
+
+L=0,238 км 5
+
+ААШВ-3х150
+
+L=0,35 км
+
+5¹  
+
+ААШВ-3х185
+
+L=0,3 км ААШВ-3х150
+
+L=0,22 км
+
+
+
+Электроэнергетика 
+
+Таблица 1 
+Результаты расчётов электропотребления и средней мощности в часы максимума нагрузок 
+
+Тип и мощность  ,   
+№ Наименование п мес  ,  
+
+в м н  ср в м сут , 
+ПТП, кВА кВт  ч мес   кВт  ч ч  кВт  
+
+1 ТП-54/2, Т-1 ТМ-1000/6 44 177,22 5476,87 318 
+2 ТП-54/2, Т-2 ТМ-400/6 41 075,77 5092,37 295 
+3 ТП-264/2 ТМ-400/6 22 215,4 2754,15 159 
+4 ТП-2427 ТМ-400/6 13 030 1615,39 94 
+
+ 
+Таблица 2 
+
+Результаты расчетов потерь напряжения и коэффициентов загрузок ПТП-6/0,4 кВ 
+
+Потребительские  
+Питающие КЛ-6 кВ Питающие КЛ-0,4 кВ трансформаторные 
+
+К  
+подстанции 6/0,4 кВ загр
+
+Участки   кл, % Участки   кл, % Узлы   тр, % 
+1–2 0,1 2'–2'' 12 2' 1,18 0,35 
+2–5 0,013 5'–5'' 3,5 5' 0,79 0,26 
+2–3 0,14 3'–3'' 11,25 3' 2,7 0,81 
+3–4 0,03 4'–4'' 8,1 4' 1,4 0,44 
+
+ 
+
+щих ПТП-6/0,4 кВ и ВРУ (внутренние распредели- лей равен 0,9, тогда полную мощность определим 
+тельные устройства), а также потери напряжения в по формуле 
+узлах 0,4 кВ ПТП-6/0,4 кВ в часы максимума на-   
+
+                кВА; 
+грузок. – коэффициент загрузки:  
+
+Расчет произведем для ТП-65 с потребитель-    
+      . 
+
+ским трансформатором ТМ-630/6, марка и сече-      
+   
+
+ние, а также длины питающих кабелей 6 и 0,4 кВ Учитывая, что согласно рис. 4 участок  
+
+приведены на рис. 4. Яч. № 8 – ТП-65 через магистральную линию пи-
+
+Согласно [1, 2, 4] коэффициенты загрузок од- тает и другие ПТП-6/0,4, при определении потерь 
+
+нотрансформаторной подстанции и потери напря- напряжения в питающем кабеле 6 кВ берем сум-
+
+жения в рассматриваемых участках КЛ и узлах марную нагрузку. 
+
+трансформатора определяются по следующим вы- КЛ-6 кВ, питающая группу потребителей: 
+                       
+
+ражениям:              ; 
+   
+
+– коэффициент загрузки однотрансформатор- КЛ-0,4 кВ, питающая ВРУ бытовых потреби-
+ной подстанции 6/0,4 кВ: телей: 
+
+ 
+                         
+
+     , 
+   
+              ; 
+
+     
+где    – расчетная полная мощность определяется – потери напряжения в узле 0,4 кВ ПТП-6/0,4: 
+по формуле                           
+
+          . 
+    
+      
+
+ , кВА;        
+
+Аналогично произведем расчеты для осталь-
+     – номинальная полная мощность силово-
+
+ной части схемы электроснабжения (см. рис. 4). 
+го трансформатора, кВА; 
+
+Результаты расчётов приведены в табл. 2. 
+– потери напряжения в питающих кабельных 
+
+Приведенные результаты, рассчитанные по 
+линиях 6 и 0,4 кВ: 
+
+       предложенному методу прогнозирования электро-
+        
+
+       , 
+ потребления с учётом факторных условий (см. 
+ 
+
+где  табл. 2), устанавливают влияние электропотребле-
+ ,    – расчетная активная и реактивная мощ-
+
+ности, МВт, МВАр.;  ,   – активное и реактивное ния бытовыми потребителями в часы максимума 
+
+сопротивления кабельной линий, Ом;   – длина нагрузок на режимы работы городской электриче-
+ской сети, в особенности в сетях 0,4 кВ. Эта про-
+
+участка, км;    – линейное напряжения, кВ; 
+является как в потерях напряжения, так и в загру-
+
+– потери напряжения в узлах трансформатор-
+женности трансформаторов. 
+
+ной подстанции: 
+      
+
+     
+      , 
+
+  
+ Выводы 
+
+где  ,   – активное и реактивное сопротивления 1. Предложен метод прогнозирования электро-
+силового трансформатора, Ом. потребления бытовыми потребителями с учётом ко-
+
+Если считать, что согласно [1, 2, 4] коэффи- эффициента времени максимума нагрузок –       
+циент активной мощности у бытовых потребите- для условий местности Республики Таджикистан. 
+
+Bulletin of the South Ural State University. Ser. Power Engineering. 
+32 2020, vol. 20, no. 2, pp. 28–35 
+
+
+
+Таваров С.Ш.          Метод прогнозирования электропотребления бытовыми 
+               потребителями в условиях Республики Таджикистан 
+
+2. Установлено влияние территориального стан на режимы работы городской электриче-
+расположения и климатометеорологической ус- ской сети, в особенности в сетях напряжением 
+ловий местности городов Республики Таджики- 0,4 кВ. 
+
+ 
+
+Литература 
+1. СП 256. 1325800.2016. Электроустановки жилых и общественных зданий. Правила проектирова-
+
+ния и монтажа. – http://files.stroyinf.ru/Data2/1/4293751/4293751598.htm (дата обращения: 11.07.2017). 
+2. РМ-2696-01. Временная инструкция по расчету электрических нагрузок жилых зданий. – М.: Изд-во 
+
+стандартов, 2001. – 22 c. 
+3. Сидоров, А.И. Нормирование электропотребления Республики Таджикистан с учетом климатиче-
+
+ских особенностей региона / А.И. Сидоров, С.Ш. Таваров // Научно-технический журнал «Энергия единой 
+сети». – 2019. – № 3 (45). – C. 70–75. 
+
+4. Валеев, Г.С. Моделирование суточных графиков нагрузок участков распределительных сетей на-
+пряжением 6–10 кВ городов и населенных пунктов в условиях ограниченного объема исходной информации / 
+Г.С. Валеев, М.А. Дзюба, Р.Г. Валеев // Вестник ЮУрГУ. Серия «Энергетика». – 2016. – Т. 16, № 2. –  
+С. 23–29. DOI: 10.14529/power160203 
+
+5. Репкина, Н.Г. Исследование факторов, влияющих на точность прогнозирования суточного элек-
+тропотребления / Н.Г. Репкина // Известия высших учебных заведений. Электромеханика. – 2015. – № 2. – 
+С. 41–43. 
+
+6. Зубакин, В.А. Методы и модели анализа волатильности потребления электроэнергии с учетом цик-
+личности и стохастичности / В.А. Зубакин, Н.М. Ковшов // Анализ, прогноз, управление. – 2015. – № 7 (15). – 
+С. 6–12. 
+
+7. Коморник, С. Требования к системам прогнозирования энергопотребления / С. Коморник, Е. Кали-
+чец // Энерго. Рынок. – 2008.– № 3 – С. 5–7. 
+
+8. Макоклюев, Б.И. Моделирование электрических нагрузок электроэнергетических систем / Б.И. Ма-
+коклюев, В. Костиков // Электричество. – 1994. – № 10.– С. 6–18. 
+
+9. Макоклюев, Б.И. Влияние колебаний метеорологических факторов на электропотребление энерго-
+объединений / Б.И. Макоклюев, В. Павликов, А. Владимиров // Энергетик. – 2003. – № 6.– С. 11–23. 
+
+10. Yahia, Z. An optimal load schedule of household appliances with leveled load profile and consumer's 
+preferences / Z. Yahia, A. Pradhan // International Conference on the Domestic Use of Energy (DUE). – 2018. –  
+P. 1–7. DOI: 10.23919/DUE.2018.8384382 
+
+11. Yahia, Z. A binary integer programming model for optimal load scheduling of household appliances with 
+consumer's preferences / Z. Yahia, P. Kholopane // International Conference on the Domestic Use of Energy 
+(DUE). – 2018. – P. 1–8. DOI: 10.23919/DUE.2018.8384381 
+
+12. Grigoras, G. Processing of smart meters data for peak load estimation of consumers / G. Grigoras,  
+F. Scarlatache // 9th International Symposium on Advanced Topics in Electrical Engineering (ATEE). – 2015. –  
+P. 864–867. DOI: 10.1109/ATEE.2015.7133922 
+
+13. Thanchanok Teeraratkul. Shape-Based Approach to Household Electric Load Curve Clustering and Pre-
+diction / Thanchanok Teeraratkul, Daniel O’Neill, Sanjay Lall // IEEE Transactions on Smart Grid. – 2017. –  
+Vol. 9, no. 5. – P. 5196–5206. DOI: 10.1109/TSG.2017.2683461 
+
+14. Shashank Singh. Smart Load Node for Nonsmart Load Under Smart Grid Paradigm: A New Home Energy 
+Management System / Shashank Singh, Amit Roy, M.P. Selvan // IEEE Consumer Electronics Magazine. – 2019. – 
+Vol. 8, no. 2. – P. 22–27. DOI: 10.1109/MCE.2018.2880804 
+
+15. Hussein Swalehe. Intelligent Algorithm for Optimal Load Management in Smart Home Appliance Sched-
+uling in Distribution System / Hussein Swalehe, Boonruang Marungsri // International Electrical Engineering 
+Congress (IEECON). – 2018. – P. 1–4. DOI: 10.1109/IEECON.2018.8712166 
+
+16. Nisha Mohan. Demand Side Management for a Household Using Resource Scheduling / Nisha Mohan,  
+T. P Imthias Ahamed, Jenifer Mariam Johnson // International CET Conference on Control, Communication, and 
+Computing (IC4). – 2018. P. 1–5. DOI: 10.1109/CETIC4.2018.8530929 
+
+17. Andrea Garulli. Models and Techniques for Electric Load Forecasting in the Presence of Demand Re-
+sponse / Andrea Garulli, Simone Paoletti, Antonio Vicino // IEEE Transactions on Control Systems Technology. – 
+2014. – Vol. 23, no. 3. – P. 1087–1097. DOI: 10.1109/TCST.2014.2361807 
+
+18. The household energy consumer in a smart metering environment / Ioana Opriş, Sorina Costinaş, Cristina 
+Ionescu, Daniela Nistoran // 9th International Symposium on Advanced Topics in Electrical Engineering (ATEE). – 
+2015. – P. 43–48. DOI: 10.1109/ATEE.2015.7133677 
+
+19. Analysis of power usage at household and proper energy management / Jangkyum Kim, Jaesoeb Han, 
+Nakyoung Kim et al. // International Conference on Information and Communication Technology Convergence 
+(ICTC). – 2018. – P. 450–456. DOI: 10.1109/ICTC.2018.8539459 
+ 
+ 
+
+Вестник ЮУрГУ. Серия «Энергетика».  
+2020. Т. 20, № 2. С. 28–35 33  
+
+
+
+Электроэнергетика 
+
+20. Таваров, С.Ш. Целесообразность децентрализации компенсации реактивной мощности в элек-
+трической системе Республики Таджикистан / С.Ш. Таваров // Вестник Воронежского государственного 
+технического университета. – 2018. – Т. 14, № 1. – С. 59–63. 
+
+21. Таваров, С.Ш. Удельное электропотребление бытового сектора с учётом температуры окру-
+жающего воздуха и территориального расположения Республики Таджикистан / С.Ш. Таваров // Про-
+мышленная энергетика. – 2019.– Т. 7, № 7. – C. 19–22. 
+
+22. Sidorov, A.I. Ensuring the Efficiency of Distribution Networks C. Dushanbe and Republic of Tajikistan / 
+A.I. Sidorov, O.A. Khanzhina, S.S. Tavarov // International Multi-Conference on Industrial Engineering and Mo-
+dern Technologies (FarEastCon). – 2019. – P. 1–4. DOI: 10.1109/FarEastCon.2019.8934377 
+
+ 
+ 
+Таваров Саиджон Ширалиевич, канд. техн. наук, доцент кафедры «Безопасность жизнедеятельно-
+
+сти», докторант, Южно-Уральский государственный университет, г. Челябинск; tavarovss@susu.ru, 
+tabarovsaid@mail.ru. 
+
+ 
+
+Поступила в редакцию 27 марта 2020 г. 
+ 
+
+__________________________________________________________________ 
+ 
+
+DOI: 10.14529/power200203 
+ 
+
+METHOD FOR PROJECTING HOUSEHOLD ELECTRICITY 
+CONSUMPTION IN THE REPUBLIC OF TAJIKISTAN 
+ 
+S.Sh. Tavarov, tavarovss@susu.ru, tabarovsaid@mail.ru 
+South Ural State University, Chelyabinsk, Russian Federation 
+ 
+ 
+
+This paper presents analysis based on data of electricity consumption and urban grid conditions in Tajiki-
+stani cities in terms of electricity loss; it also invokes consumption breakdown by user groups standardized in 
+Tajikistan for such analysis. The authors propose a method for projecting the electricity consumption and fin-
+ding the average power at peak loads for households, which is further adjusted for local conditions in the Re-
+public of Tajikistan. To derive the projection equation, the paper proposes a maximum load time coefficient, 
+              , which depends on the location and climate/weather conditions of Tajikistan; as such, it may vary 
+depending on the local conditions. The proposed electricity consumption projection method has been tested on  
+a single feeder of the 110/35/6-kV Vostochnaya substation in Dushanbe. The paper shows how the location and 
+the climate/weather conditions of Tajikistani cities affect the grid operations, in particular the 0.4-kV nodes. 
+
+Keywords: electricity consumption, households, projection method, factor conditions. 
+ 
+ 
+
+References 
+1. SP 256. 1325800.2016. Elektroustanovki zhilykh i obshchestvennykh zdaniy. Pravila proektirovaniya i 
+
+montazha [Electrical installations of residential and public buildings design and installation rules]. Available at: 
+http://files.stroyinf.ru/Data2/1/4293751/4293751598.htm (accessed 11.07.2017). 
+
+2. RM-2696-01. [Temporary instructions for calculating the electrical loads of residential buildings]. Moscow, 
+Standartinform Publ., 2001. 22 p. (in Russ.) 
+
+3. Sidorov A.I., Tavarov S.Sh. [Rationing of power consumption of the Republic of Tajikistan taking into ac-
+count the climatic features of the region]. Nauchno-tekhnicheskiy zhurnal “Energiya edinoy seti” [Scientific and 
+technical journal “Unified Network Energy”], 2019, vol. 3, no. 45, pp. 70–75. (in Russ.) 
+
+4. Valeev G.S., Dzyuba M.A., Valeev R.G. Modeling Daily Load Curves of the Elements of 6–10 kV Urban 
+Power Distribution Networks under Conditions of Limited Input Information. Bulletin of the South Ural State Uni-
+versity. Ser. Power Engineering, 2016, vol. 16, no. 2, pp. 23–29. (in Russ.) DOI: 10.14529/power160203 
+
+5. Repkina, N.G. [Study of factors affecting the accuracy of forecasting daily energy consumption]. Izvestiya 
+vysshikh uchebnykh zavedenii. Elektromekhanika [News of Higher Educational Institutions. Electromechanics], 
+2015, no. 2, pp. 41–43. (in Russ.) 
+
+6. Zubakin V.A., Kovshov N.M. [Methods and models for analyzing the volatility of electricity consumption 
+taking into account the cyclical and stochastic]. Analiz, prognoz, upravlenie [Analysis, Forecast, Management], 
+2015, no. 7 (15), pp. 6–12. (in Russ.) 
+  
+
+ Bulletin of the South Ural State University. Ser. Power Engineering. 
+34 2020, vol. 20, no. 2, pp. 28–35 
+
+
+
+Таваров С.Ш.          Метод прогнозирования электропотребления бытовыми 
+               потребителями в условиях Республики Таджикистан 
+
+7. Komornik S., Kalichets E. [Requirements for energy forecasting systems]. Energo. Rynok [Energy. Mar-
+ket.], 2008, no. 3, pp. 5–7. (in Russ.) 
+
+8. Makoklyuev B.I., Kostikov V. [Modeling of electrical loads of electric power systems]. Elektrichestvo 
+[Electrical Technology Russia], 1994, no. 10, pp. 6–18. (in Russ.) 
+
+9. Makoklyuev B.I., Pavlikov V., Vladimirov A. [The influence of fluctuations of meteorological factors on 
+the energy consumption of energy associations]. Energetik [Power Engineer], 2003, no. 6, pp. 11–23. (in Russ.) 
+
+10. Zakaria Yahia, Anup Pradhan. An optimal load schedule of household appliances with leveled load profile 
+and consumer's preferences. International Conference on the Domestic Use of Energy (DUE), 2018, pp. 1–7. DOI: 
+10.23919/DUE.2018.8384382 
+
+11. Zakaria Yahia, Pule Kholopane. A binary integer programming model for optimal load scheduling of 
+household appliances with consumer's preferences. International Conference on the Domestic Use of Energy 
+(DUE), 2018, pp. 1–8. DOI: 10.23919/DUE.2018.8384382 
+
+12. Gheorghe Grigoras, Florina Scarlatache. Processing of smart meters data for peak load estimation of con-
+sumers. 9th International Symposium on Advanced Topics in Electrical Engineering (ATEE), 2015, pp. 864–867. 
+DOI: 10.1109/ATEE.2015.7133922 
+
+13. Thanchanok Teeraratkul, Daniel O’Neill, Sanjay Lall. Shape-Based Approach to Household Electric Load 
+Curve Clustering and Prediction. IEEE Transactions on Smart Grid, 2017, vol. 9, no. 5, pp. 5196–5206. DOI: 
+10.1109/TSG.2017.2683461 
+
+14. Shashank Singh, Amit Roy, M.P. Selvan. Smart Load Node for Nonsmart Load Under Smart Grid Para-
+digm: A New Home Energy Management System. IEEE Consumer Electronics Magazine, 2019 vol. 8, no. 2,  
+pp. 22 – 27. DOI: 10.1109/MCE.2018.2880804 
+
+15. Hussein Swalehe, Boonruang Marungsri. Intelligent Algorithm for Optimal Load Management in Smart 
+Home Appliance Scheduling in Distribution System. International Electrical Engineering Congress (IEECON), 
+2018, pp. 1–4. DOI: 10.1109/IEECON.2018.8712166 
+
+16. Nisha Mohan, T. P Imthias Ahamed, Jenifer Mariam Johnson. Demand Side Management for a Household 
+Using Resource Scheduling. International CET Conference on Control, Communication, and Computing (IC4), 
+2018, pp. 1–5. DOI: 10.1109/CETIC4.2018.8530929 
+
+17. Andrea Garulli, Simone Paoletti, Antonio Vicino. Models and Techniques for Electric Load Forecasting in 
+the Presence of Demand Response. IEEE Transactions on Control Systems Technology, 2014, vol. 23, no.3,  
+pp. 1087–1097. DOI: 10.1109/TCST.2014.2361807 
+
+18. Ioana Opriş, Sorina Costinaş, Cristina Ionescu, Daniela Nistoran. The household energy consumer in  
+a smart metering environment. 9th International Symposium on Advanced Topics in Electrical Engineering 
+(ATEE), 2015, pp. 43–48. DOI: 10.1109/ATEE.2015.7133677 
+
+19. Jangkyum Kim, Jaesoeb Han, Nakyoung Kim, Minkyung Kim, Junkyun Choi. Analysis of power usage at 
+household and proper energy management. International Conference on Information and Communication Tech-
+nology Convergence (ICTC), 2018, pp. 450–456. DOI: 10.1109/ICTC.2018.8539459 
+
+20. Tavarov S.Sh. [The expediency of decentralization of reactive power compensation in the electrical sys-
+tem Republic of Tajikistan]. Vestnik Voronezhskogo gosudarstvennogo tekhnicheskogo universiteta [Bulletin of 
+the Voronezh State Technical University], 2018, vol. 14, no. 1, pp. 59–63. (in Russ.) 
+
+21. Tavarov S.Sh. [Specific electricity consumption of the household sector, taking into account the ambient 
+temperature and the territorial location of the Republic of Tajikistan ]. Promyshlennaya energetika [Industrial  
+Energy], 2019, iss. 7, no. 7, pp. 19–22. (in Russ.) 
+
+22. Sidorov A.I.; Khanzhina O.A.; Tavarov S.S. Ensuring the Efficiency of Distribution Networks C. Du-
+shanbe and Republic of Tajikistan. International Multi-Conference on Industrial Engineering and Modern Tech-
+nologies (FarEastCon), 2019, pp. 1–4. DOI: 10.1109/FarEastCon.2019.8934377 
+ 
+
+Received 27 March 2020 
+ 
+ 
+
+ОБРАЗЕЦ ЦИТИРОВАНИЯ  FOR CITATION 
+
+Таваров, С.Ш. Метод прогнозирования электро-  Tavarov S.Sh. Method for Projecting Household 
+потребления бытовыми потребителями в условиях Electricity Consumption in the Republic of Tajikistan. 
+Республики Таджикистан / С.Ш. Таваров // Вестник Bulletin of the South Ural State University. Ser. Power 
+ЮУрГУ. Серия «Энергетика». – 2020. – Т. 20, № 2. – Engineering, 2020, vol. 20, no. 2, pp. 28–35. (in Russ.) 
+С. 28–35. DOI: 10.14529/power200203 DOI: 10.14529/power200203 
+
+  
+ 
+
+ 
+
+ 
+Вестник ЮУрГУ. Серия «Энергетика».  
+2020. Т. 20, № 2. С. 28–35 35

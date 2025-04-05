@@ -1,0 +1,607 @@
+﻿Обзор / Review DOI: 10.30901/2658-6266-2020-2-o4
+
+ИСПОЛЬЗОВАНИЕ МЕТОДОВ МОЛЕКУЛЯРНОЙ ЦИТОГЕНЕТИКИ 
+В ИССЛЕДОВАНИЯХ ОТДАЛЕННЫХ ГИБРИДОВ КАРТОФЕЛЯ
+
+Макарова Т. О. THE USE OF MOLECULAR CYTOGENETIC 
+Федеральный исследовательский центр Всероссийский институт METHODS IN THE INVESTIGATION OF 
+генетических ресурсов растений имени Н. И. Вавилова (ВИР), DISTANT POTATO HYBRIDS
+190000 Россия, г. Санкт-Петербург, ул. Б. Морская, 42, 44;
+
+  tamaramakarova333@gmail.com Makarova Т. О.
+
+Данный обзор посвящен рассмотрению результатов изучения меж- N.I. Vavilov All-Russian Institute of Plant Genetic Resources (VIR), 
+видовой гибридизации, полиплоидии и филогенетических отноше- 42, 44 Bolshaya Morskaya Street, St. Petersburg 190000, Russia;
+ний видов рода Solanum и представителей близких к нему таксо-   tamaramakarova333@gmail.com
+нов, с использованием методов молекулярной цитогенетики, таких 
+как гибридизация ДНК-ДНК in situ: геномная – GISH и флуоресцент-
+ная – FISH. Метод GISH был использован для определения геномно- This paper reviews the results of studies of interspecies hybridization, 
+го состава и происхождения ряда диких видов секции Petota. Метод polyploidization, as well as phylogenetic relationships of Solanum spe-
+FISH используют для выявления коллинеарности геномов разных cies and members of closely related taxa by such molecular cytogenet-
+видов. Такого рода исследования позволяют проводить сравнитель- ic techniques as genomic (GISH) and fluorescent (FISH) DNA-DNA in 
+ный анализ кариотипов и геномов, а также способствуют лучшему situ hybridization. The latter was used to determine the genomic compo-
+пониманию взаимодействия хромосом в мейозе у гибридов. В дан- sition and origin of wild species of the Petota section, while the FISH 
+ном обзоре сделан акцент на изучении диких аллополиплоидных technique was used for detecting intergenomic collinearity. The combi-
+видов картофеля с помощью методов молекулярной цитогенетики, nation of these two types of research made possible a comparative anal-
+рассмотрены результаты анализа искусственно созданных межродо- ysis of karyotypes and genomes, thus allowing a better understanding of 
+вых и межвидовых гибридов рода Solanum и их потомства. the meiotic interchromosomal interactions in hybrids. This review pri-
+
+marily focuses on the studies of wild allopolyploid potato species and 
+Ключевые слова: Solanum tuberosum, межвидовые гибриды, сомати- artificially created intergeneric and interspecific hybrids of the genus 
+ческая гибридизация, GISH, FISH. Solanum and their offspring.
+
+Key words: Solanum tuberosum, interspecific hybrids, somatic hybrid-
+ization, GISH, FISH.
+
+Прозрачность финансовой деятельности / Financial transparency  Для цитирования: Макарова Т. О. Использование методов молекулярной цитогене-
+Автор не имеют финансовой заинтересованности в представленных материалах или тики в исследованиях отдаленных гибридов картофеля. Биотехнология и селекция 
+методах. / The authors have no financial interest in the presented materials or methods. растений. 2020;3(2):30-38. DOI: 10.30901/2658-6266-2020-2-o4
+Авторы благодарят рецензентов за их вклад в экспертную оценку этой 
+работы / The authors thank the reviewers for their contribution to the peer review  For citation: Makarova Т. О. The use of molecular cytogenetic methods in the inves-
+of this work tigation of distant potato hybrids. Plant Biotechnology and Breeding. 2020;3(2)30-38. 
+Дополнительная информация / Additional information  (In Russ.). DOI: 10.30901/2658-6266-2020-2-o4
+Полные данные этой статьи доступны / Extended data is available for this paper at 
+https://doi.org/10.30901/2658-6266-2020-2-o4
+Мнение журнала нейтрально к изложенным материалам, авторам и их месту 
+работы / The journal’s opinion is neutral to the presented materials, the author, and 
+his or her employer
+Все авторы одобрили рукопись / All authors approved the manuscript
+Конфликт интересов отсутствует / No conflict of interest
+
+ORCID:
+Makarova Т.О. https://orcid.org/0000-0002-0104-9418
+УДК 633.491:575.222.73:575.113:57.085.1:57.086.164
+Поступила в редакцию: 31.07.2020
+Принята к публикации: 06.10.2020
+
+Биотехнология и селекция растений 2020;3(2)
+30
+
+
+
+Введение для изучения геномного состава полиплоидных видов 
+секции Petota и анализа отдаленных гибридов картофе-
+
+Картофель относится к роду Solanum L. секции Petota ля. В нашем обзоре мы постараемся осветить результа-
+Dumort., включающей, согласно разным классификаци- ты исследований, полученные в последние десятилетия 
+ям, от 107 до 235 видов. Так, согласно классификации Дж. с использованием методов молекулярной цитогенетики.
+Хокса к этой секции относят 235 видов, 228 из которых 
+– дикие, 7 – культурные (Hawkes, 1990). Согласно систе-
+ме Д. Спунера, в секции выделяют всего 107 видов кар- Современные методы молекулярной 
+тофеля: 103 из них относятся к диким видам, а 4 – к куль- цитогенетики – GISH и FISH в исследованиях 
+тивируемым (Spooner et al., 2014). Разнообразие видов видов картофеля
+картофеля в системе Дж. Хокса (1990) было разделено 
+на 19 серий на основании схожести видов по морфологии, В начале 70-х годов прошлого века была разработа-
+скрещиваемости, фертильности гибридов и геномному на методика in situ гибридизации молекул ДНК, позволя-
+составу (Hawkes, 1990; 1994). ющая локализовать гибридные молекулы на хромосомах 
+
+Дикие виды картофеля широко распространены: при изучении цитологических препаратов. Метод in situ 
+от юго-западных штатов США до южных границ Чили гибридизации заключается в использовании ДНК-зон-
+и Аргентины; от побережья Тихого океана до высот 4500 дов специфичных к определенным последовательно-
+метров над уровнем моря; от болотистых лесов Вене- стям ДНК. Изначально для мечения ДНК использовали 
+суэлы до пустыни Атакама – с центром максимального различные изотопы (3H, 125I, 35S, 32P). В настоящее вре-
+видового разнообразия в Мексике (Hijmans et al., 2007; мя используют нерадиоактивные метки, детектируемые 
+Spooner et al., 2014). Находясь в столь различных клима- с помощью методов микроскопического анализа по нали-
+тических условиях, дикие представители секции Petota чию флуоресцентного сигнала (Schwarzacher et al., 1989; 
+демонстрируют широкий спектр генетических, физиоло- Leitch et al., 1994). Этот метод получил название флу-
+гических, морфологических, биохимических и фитопато- оресцентной in situ гибридизации (fluorescence in situ 
+логических различий (Hawkes, 1990). hybridization – FISH) и положил начало развитию методов 
+
+Виды секции Petota имеют базовое число хромосом молекулярной цитогенетики. Стало возможным разли-
+x=12. Больше трети видов (36%) являются полиплоида- чать и локализовывать специфические последовательно-
+ми, а остальные (64%) – диплоидами (Hijmans et al., 2007; сти ДНК на хромосомах, например, рибосомальных генов 
+Gavrilenko et al., 2007; 2011). Дикие виды картофеля обра- 5S, 18S, 5.8S и 45S рРНК, повторяющиеся последователь-
+зуют полный полиплоидный ряд от 2x до 6x, а культур- ности, свойственные теломерным районам (interstitial 
+ные виды - от 2x до 5x (Rybin, 1929; 1933; Matsubayashi, telomeric repeats – ITR), транспозоны, прицентромерные 
+1991; Hawkes, 1994). Культурные виды картофеля и эконо- участки (Silva, Souza, 2013; Badaeva, Salina, 2013).
+мически самый важный из них – Solanum tuberosum L., Существуют вариации метода in situ гибридизации, 
+как и большинство диких южно-американских видов кар- которые отличаются по характеру мечения ДНК-зонда. 
+тофеля, являются носителями базового генома А. Дикие При прямом мечении ДНК используют флуорохромы, 
+диплоидные мексиканские виды серий Bulbocastana ковалентно связанные непосредственно с нуклеотидами 
+и Pinnatisecta являются носителями генома – В. Ряд алло- ДНК-зонда. Суть непрямого мечения заключается в том, 
+полиплоидных видов картофеля наряду с субгеномом А, что связь флуорохрома с нуклеотидами ДНК-зонда обра-
+несут субгеномы: B, C, D и P (Irikura, 1976, Matsubayashi, зуется через молекулу-посредник или метку. Наиболее 
+1991, Gavrilenko, 2007; 2011). часто используемыми метками являются дигоксигенин 
+
+Детальный анализ результатов цитогенетических и биотин, которые выявляют на цитологическом препара-
+исследований видов секции Petota рода Solanum и меж- те с помощью антител к ним. Антитело, в свою очередь, 
+видовых гибридов картофеля, проведенных с использо- помечено флуорохромом. Сигнал может быть усилен 
+ванием традиционных методов кариологического ана- путем последующего использования антител к первич-
+лиза, изучения характера спаривания хромосом в мейозе ным флуорохромам, связанных с соответствующей флуо-
+у полиплоидных видов и межвидовых гибридов, исполь- ресцентной меткой. В качестве зондов для гибридизации 
+зования метода дифференциального C-окрашивания могут быть использованы фрагменты ДНК, локализация 
+по Гимза хромосом картофеля, приведены в обзорах которых на хромосомах и является задачей исследования 
+Y. Irikura, 1976 и M. Matsubayashi, 1991. В более позд- (Leitch et al., 1994). Схема in situ гибридизации приведена 
+них обзорах (Gavrilenko, 2007; 2011) проанализированы в многочисленных обзорах, здесь мы приводим обобщен-
+результаты первых работ по использованию FISH и GISH ную схему (Рисунок).
+
+Plant Biotechnology and Breeding 2020;3(2)
+31
+
+
+
+Рисунок. “Схема in situ (GISH/FISH) гибридизации на препарате 
+хромосом” (согласно Ramzan et al., 2017 с модификациями)
+
+Fig. Diagram of GISH/FISH in situ hybridization using a chromosome 
+preparation (according to Ramzan et al., 2017, modified)
+
+Метод in situ гибридизации эффективен при изучении ДНК одного из родительских геномов и немеченую бло-
+полиплоидных видов, межвидовых гибридов и их поло- кирующую ДНК другого родительского генома в гибри-
+вого потомства. Для решения этих задач широко исполь- дизационной смеси (Parokonny et al., 1997). Метод GISH 
+зуется гибридизация с меченой геномной ДНК. Этот успешно используют для идентификации геномов поли-
+вариант FISH получил название геномной гибридизации плоидных видов и экспериментальных гибридов раз-
+in situ (genomic in situ hybridization – GISH). ных видов растений например: декоративных – хризан-
+
+В экспериментах GISH используют геномную ДНК тем Chrysanthemum sp. (Hussein, Katsuhiko, 2006; 2012) 
+родительских видов, участвовавших в гибридизации. и лилий Asiatic sp. (Rodrigo et al., 2006); сельскохозяй-
+Обычно геномы, которые имеют 80-85% идентично- ственных – представителей семейств злаковые – пшениц 
+сти, можно дифференцировать с использованием стан- Triticum sp. (Molnár-Láng et al., 2000), ячменя Hordeum 
+дартного протокола GISH (без использования блокиру- sp. (Schwarzacher et al., 1989), овсяницы Festuca sp. 
+ющей ДНК) (Schwarzacher et al., 1989). Использование (Zwierzykowski et al., 2008); семейства крестоцветные – 
+блокирующей ДНК обычно необходимо для гибридов, капустных Brassica sp. (Lim et al., 2012; Yao et al., 2010); 
+полученных при гибридизации близких видов с высо- семейства банановых – бананов Musa sp. (Jeridi et al., 
+кой степенью сходства геномов. Хромосомы близко- 2011; Silva, Souza, 2013) и других.
+родственных геномов со сходством последовательно- Для представителей семейства пасленовых извест-
+стей до 90–95% можно различать, используя меченую но не так много работ, например, для отдаленных гибри-
+
+Биотехнология и селекция растений 2020;3(2)
+32
+
+
+
+дов томата Solanum lycopersicum L. (Garriga-Calderé ты хромосом картофеля (Dong et al., 2001). Таким обра-
+et al., 1997; 1998; 1999; Gavrilenko et al., 2001), табака зом, для кариотипирования видов картофеля и анализа 
+Nicotiana L. (Parokonny et al., 1997; Chase et al., 2003), пас- гибридов был создан новый инструмент – набор CSCDM 
+лена Solanum villosum Mill. (Tarwacka et al., 2013), карто- (Dong et al., 2001, Song et al., 2000) (Приложение, табл. 
+феля S. tuberosum (Gavrilenko, 2007; 2011; Gaiero et al., 2/ Supplementary table 2).
+2017) (Приложение табл. 1/Supplementary table 11). В работе X. Tang с коллегами (Tang et al., 2009) были 
+
+Используя метод GISH для анализа спаривания хро- отобраны 60 BAC-клонов, ассоциированных с AFLP 
+мосом в профазе I – метафазе I мейоза, можно выявить (amplified fragment length polymorphism - AFLP) маркера-
+ассоциации хромосом, как гомологичных, относящих- ми, для которых было ранее установлено, что они пред-
+ся к одному геному, так и гомеологичных, относящих- ставлены во всех 12 группах сцепления. На основе 
+ся к разным геномам. Результаты GISH позволяют сде- отобранных BAC-клонов с использованием метода BAC-
+лать вывод об особенностях взаимодействия двух разных FISH были созданы молекулярно-цитогенетические кар-
+геномов и прогнозировать возможность спаривания ты хромосом картофеля. Отобранные BAC-маркеры, 
+и рекомбинации хромосом родительских видов, а так- вследствие гибридизации фрагмента ДНК вставки с хро-
+же выявлять межгеномные перестройки у исследуемых мосомной ДНК, были локализованы на разных плечах 
+гибридов и форм с интрогрессией генетического матери- пахитенных хромосом, за исключением хромосомы 2, 
+ала (Garriga-Calderé et al., 1997; 1998; 1999; Zwierzykowski для которой был отобран BAC только для длинного пле-
+et al., 2008; Yao et al., 2010; Jeridi et al., 2011; Silva, Souza, ча (Tang et al., 2009).
+2013; Gavrilenko et al., 2014). В дальнейшем, М. Iovene (Iovene et al., 2008) c соав-
+
+Развитие методов флуоресцентной in situ гибри- торами отобрали 30 ВАС-клонов и провели FISH-кар-
+дизации значительно расширило возможности цито- тирование этих маркеров на пахитенной хромосоме 6 
+генетических исследований видов картофеля – пред- картофеля и определили генетическое положение центро-
+ставителей секции Petota рода Solanum. Культурный меры и перицентромерного гетерохроматина. Кроме того, 
+картофель S. tuberosum – сложный объект для цитогене- в этой работе проведен сравнительный анализ хромо-
+тических исследований, поскольку длина метафазных сом 6 картофеля и томата, с помощью метода BAC-FISH, 
+хромосом находится в диапазоне от 1 до 35 мкм (Dong для установления их коллинеарности (Iovene et al., 2008). 
+et al., 2000). До разработки методов молекулярной цито- Авторы установили, что шестые хромосомы картофеля 
+генетики у видов картофеля было возможно идентифи- (S. tuberosum) и томата (S. lycopersicum L.) имеют сход-
+цировать индивидуальные хромосомы только на ста- ную структуру на стадии пахитены, однако между этими 
+дии пахитены в профазе I мейоза. Осложняло работу хромосомами наблюдались четкие различия в распреде-
+и то, что у S. tuberosum отсутствовали коллекции моносо- лении гетерохроматиновых участков. Сравнение физиче-
+мных и нулисомных линий, а также коллекции мутантов ских карт 6-ых хромосом томата и картофеля с помо-
+со структурными изменениями хромосом (транслокация- щью BAC-FISH также выявило общую коллинеарность 
+ми, делециями и инверсиями). расположения маркеров, однако в эухроматиновом райо-
+
+В работе J. Song с коллегами (Song et al., 2000) была не короткого плеча 6-ой хромосомы томата была обнару-
+создана библиотека BAC клонов (bacterial artificial жена инверсия (Iovene et al., 2008) (Приложение, табл. 3/
+chromosomes), включающая 23808 клонов со средним Supplementary table 3).
+размером вставки 155 кб дикого мексиканского вида Позже Q. Lou с соавторами провели сравни-
+Solanum bulbocastanum (Bitter) Hawkes (Song et al., 2000). тельный анализ распределения 13 BAC-маркеров 
+С помощью хромосом-специфических маркеров RFLP на хромосоме 6 у пяти видов рода Solanum: S. tuberosum, 
+(Restriction fragment length polymorphism) из этой библи- S. bulbocastanum, S. chromatophilum Bitt., S. caripense 
+отеки были отобраны ВАС-клоны для каждой из 12 хро- Dunal и Solanum etuberosum Lindl. Анализ, с помощью 
+мосом картофеля. Маркеры RFLP были физически кар- метода BAC-FISH, показал полную коллинеарность 
+тированы методом BAC-FISH на разных плечах каждой физических карт хромосом 6 у всех исследованных видов 
+из 12 хромосом картофеля (Dong et al., 2000), то есть хро- за исключением неклубнеобразующего S. etuberosum, 
+мосом-специфические цитогенетические маркеры ДНК у которого была обнаружена перицентрическая инвер-
+(chromosome-specific cytogenetic DNA markers – CSCDM) сия (Lou et al., 2010). Следует отметить, что из изучен-
+были использованы для идентификации индивидуаль- ных в работе Lou видов первые три относятся к секции 
+ных метафазных хромосом картофеля. Среди главных Petota, как и культурный картофель S. tuberosum, тогда 
+преимуществ этого метода следует указать следующие: как два последних вида (включая S. etuberosum) являют-
+возможность идентификации всех 12 хромосом карто- ся неклубненосными и относятся к другим секциям рода 
+феля на любой стадии мейоза; возможность использова- Solanum.
+ния для анализа неполных клеток; возможность анализи- С. Achenbach с соавторами провели сравнитель-
+ровать как диплоидные, так и полиплоидные кариотипы ное картирование хромосомы 5 картофеля (S. tuberosum) 
+и сопоставлять генетические и цитологические кар- и томата (S. lycopersicum) с помощью пяти BAC-клонов. 
+1   Supplementary tables 1-4 are available in the online version of the paper: https://doi.org/10.30901/2658-6266-2020-2-o4
+
+Plant Biotechnology and Breeding 2020;3(2)
+33
+
+
+
+Было показано, что у томата в длинном плече хромосомы нее этой же группой авторов с использованием GISH 
+5 находится инверсия по сравнению с хромосомой 5 кар- были установлены полиплоидная природа и геномный 
+тофеля (Achenbach et al., 2010). состав диких мексиканских гексаплоидных видов серии 
+
+В дальнейшем с использованием метода BAC- Demissa: S. demissum Lindl. (АААААА) и S. hougasii 
+FISH голландские исследователи продолжили рабо- Correll. (ААВВРР) (Pendinen et al., 2012). Геномную 
+ты по изучению коллинеарности геномов привлекая гибридизацию in situ использовали и для анализа экс-
+большее число видов рода Solanum: S. bulbocastanum, периментально созданных межродовых и межвидо-
+S. chilense Dunal., S. etuberosum, S. habrochaites вых соматических гибридов картофеля (Приложение, 
+S.Knapp&D.M.Spooner, S. lycopersicum, S. lycopersicoides табл. 4/ Supplementary table 4).
+Dunal., S. megistracrolobum Bitter, S. melongena L., 
+S. ochranthum Dunal., S. pennellii Correll., S. peruvianum L., 
+S. pimpinellifolium L., S. pinnatisectum Dunal., Современные методы молекулярной 
+S. tarijense Hawkes. (Szinay et al., 2012). Авторы выяви- цитогенетики – GISH, FISH в исследованиях 
+ли многочисленные хромосомные перестройки, наруша- по межвидовой гибридизации картофеля
+ющие коллинеарность геномов разных представителей 
+рода Solanum (среди которых – культурный картофель Первые успешные результаты по применению 
+S. tuberosum). Последние исследования с использовани- GISH для анализа хромосом картофеля были полу-
+ем BAC-клонов картофеля и томатов при проведении чены при исследовании отдаленных гибридов, полу-
+многоцветной FISH позволили выделить три синтетиче- ченных методом слияния протопластов видов, при-
+ские группы, внутри которых наблюдалась коллинеар- надлежащих к различным секциям рода Solanum. 
+ность расположения сайтов гибридизации ВАС-маркеров Первые работы по исследованию соматических гибри-
+на хромосомах. Группа А включала в себя культурный дов картофеля с помощью FISH провели на межродо-
+картофель и его диких сородичей (S. bulbocastanum, вых соматических гибридах S. tuberosum (+) Lycopersicon 
+S. tarijense, S. megistracrolobum, S. pinnatisectum). Груп- esculentum L. (=Solanum esculentum) (Jacobsen et al., 1996; 
+па Б включала в себя культурный томат и его диких соро- Garriga-Calderé et al., 1997; 1998; 1999). В этих работах 
+дичей (S. peruvianum, S. habrochaites, S. pimpinellifolium). были идентифицированы геномы A и L родительских 
+У S. chilense на коротком плече хромосомы 12 была видов у соматических гибридов, а также в их половом 
+выявленная проксимальная инверсия. Было показано, потомстве BC1-BC2 (Jacobsen et al., 1994; 1996). Хромосо-
+что короткое плечо хромосомы 6 полностью инвертиро- мы томата и картофеля были легко отличимы у гибри-
+вано у S. ochranthum по сравнению с видами, относящи- дов от возвратных скрещиваний, причем у гибридов ВС1 
+мися к группе Б и S. chilense. Две дистальные инверсии были утрачены 6 из 12 хромосом томата (Jacobsen et al. 
+на коротких плечах хромосом 6 и 7 были обнаруже- 1996).
+ны у двух видов S. lycopersicoides и S. pennellii. Также Позже F. Garriga-Calderé с коллегами в серии работ 
+было показано, что порядок расположения BAC-марке- с использованием прямого мечения и блокирующей ДНК 
+ров на хромосомах S. etuberosum очень похож на таковой томата идентифицировали родительские геномы у гекса-
+порядок у синтетической группы А, но были обнаружены плоидных и тетраплоидных соматических гибридов и их 
+небольшие инверсии на коротких плечах хромосом 6 и 7 потомства, а также создали серию дополненных моно-
+и на длинном плече 10-ой хромосомы (Szinay et al., 2012). сомных линий АААА + L’ (Garriga-Calderé et al., 1997; 
+
+C помощью метода BAC-FISH также было проведе- 1998; 1999). Первым шагом в данной работе было созда-
+но сравнительное картирование хромосом картофеля ние соматических гибридов L. esculentum (+) S. tuberosum 
+(S. tuberosum), томата (S. lycopersicum) и перца (Capsicum и их исследование с помощью RFLP хромосом-специ-
+annuum L.) Было показано, что длинное плечо 2-ых хро- фичных маркеров и GISH. В результате были отобраны 
+мосом у перца и картофеля полностью коллинеарны, соматические гибриды с сохранившимся полным набо-
+а у томата в данном плече есть инверсия. В этой рабо- ром хромосом томата. Затем тетраплоидные и гексапло-
+те были подтверждены данные о дистальной инверсии идные соматические гибриды были вовлечены в возврат-
+у томата в коротком плече хромосомы 6 по сравнению ные скрещивания, получено поколение BC1. Последнее 
+с картофелем и перцем (Peters et al., 2012; Iovene et al., проанализировали c использованием комбинации моле-
+2008) (см. Приложение, табл. 3/Supplementary table 3). кулярных и цитогенетических методов и отобрали фор-
+
+В свою очередь с использованием метода GISH мы, несущие полный набор хромосом томата (Garriga-
+были проведены исследования полиплоидной природы Calderé et al., 1997). Соматические гибриды использовали 
+и геномного состава нескольких диких полиплоидных для возвратных скрещиваний. Затем гибриды BC1-BC2 
+мексиканских видов картофеля серии Longipedicellata. были также проанализированы с помощью хромо-
+Анализ тетраплоидных видов S. stoloniferum и S. hjertingii сом-специфичных RFLP маркеров томата и комбинацией 
+Hawkes с помощью GISH позволил подтвердить их алло- методов GISH/FISH. С использованием цитогенетических 
+полиплоидную природу и охарактеризовать геномный методов был изучен геномный состав и характер обра-
+состав этих видов – ААВВ (Pendinen et al., 2008). Позд- зующихся ассоциаций хромосом в мейозе, что позволи-
+
+Биотехнология и селекция растений 2020;3(2)
+34
+
+
+
+ло отобрать семь форм ВС2, несущих полный набор хро- сом тетраплоидных соматических гибридов диплоидно-
+мосом картофеля и одну хромосому томата (1, 2, 4, 6, 8, го S. tuberosum (геном АА, 2n=2x=24) и неклубнеобразу-
+10 или 12) (Garriga-Calderé et al., 1998). Позже в 1999 году ющего вида S. etuberosum (геномная формула 2n=2x=24, 
+этой же группой авторов были отобраны формы BC2, EE), а также их полового потомства ВС1-ВС2. Как и в слу-
+содержащие по одной хромосоме томата, и создана серия чае комбинации S. tuberosum с S. berthaultii Hawk. хро-
+дополненных моносомных линий АААА + 1L’ (Garriga- мосомы родительских видов удалось дифференциро-
+Calderé et al., 1999). Впоследствии эта работа была про- вать (Dong et al., 1999). Позже также дифференцировали 
+должена H. Ali. Результатом этих исследований стала хромосомы родительских геномов в случае тетраплоид-
+полная коллекция моносомных линий, в каждой из кото- ных и гексаплоидных межвидовых соматических гибри-
+рых содержалась только одна из хромосом полного набо- дов той же комбинации (ААEE, AAEEEE, AAAAEE) и их 
+ра хромосом томата (Ali et al., 2001) (см. Приложение, полового потомства от возвратных скрещиваний ВС1-ВС3 
+табл. 1/Supplementary table 1). (Gavrilenko et al., 2003).
+
+Другой группой исследователей было показано, Используя комбинацию методов FISH/GISH 
+что с помощью метода GISH с блокирующей ДНК воз- или GISH/FISH на одних и тех же препаратах хромосом 
+можно различить геномы родительских видов у межви- отдаленных гибридов, можно выяснить какому из гено-
+довых соматических гибридов томата и S. lycopersicoides мов принадлежит интересующая последовательность 
+(Escalante et al., 1998). ДНК. С помощью комбинации методов GISH и FISH 
+
+Для комбинации неклубненосного вида S. etuberosum изучали характер образующихся ассоциаций хромосом 
+(геном ЕЕ) и культурного томата S. esculentum (геном в мейозе у аллогаплоидов, полученных на основе сома-
+LL) с использованием метода FISH показана четкая тических гибридов между диплоидным культурным кар-
+дифференциация родительских геномов у межродо- тофелем и неклубнеобразующим видом S. etuberosum 
+вых соматических гибридов (EELL, LLEEEE), а также (EE) (Gavrilenko et al., 2014). Было показано, что полу-
+у андрогенных регенерантов (EL) (полученных в культу- ченные аллогаплоиды (2n=2x=24, AE) имеют по 12 хро-
+ре пыльников соматических гибридов). При исследова- мосом исходных родительских форм и все биваленты, 
+нии мейоза у данных растений не выявлено спаривания наблюдаемые в метафазе I мейоза, представлены гоме-
+между геномами родительских видов (Gavrilenko et al., ологичными ассоциациями хромосом. В этой же рабо-
+2001). Анализ мейоза показал, что наблюдалось спари- те был проведен репробинг ВАС-FISH/GISH для иденти-
+вание только между гомологичными хромосомами двух фикации спаривания хромосом в мейозе у межродовых 
+геномов, гомеологичное спаривание хромосом наблюда- гибридов S. еtuberosum с S. lycopersicum (2n=2x=24, LL). 
+лось редко. С помощью последовательного применения FISH 
+
+Методы GISH были также успешно использованы с хромосомcпецифичными ВАС-пробами и GISH c диф-
+для анализа экспериментально созданных межвидовых ференциально мечеными ДНК родительских видов уда-
+соматических гибридов картофеля и их потомства. лось идентифицировать хромосомы каждого из гено-
+
+С использованием комбинации методов GISH и FISH мов у аллогаплоидных гибридов (2n=2x=24, EL), а также 
+с маркерами CSCDM удалось идентифицировать каждую регистрировать случаи спаривания хромосом в мейо-
+из трех хромосом Solanum brevidens Phil., сохранив- зе. На основании полученных данных был сделан вывод 
+шихся в поколениях ВС3, полученных на основе сома- о различиях в частоте образования гомеологичных ассо-
+тических гибридов между S. tuberosum (геном АААА) циаций хромосом А-, Е- и L-геномов (Gavrilenko et al., 
+и S. brevidens (геном ЕЕ) (Dong et al., 2001). Для этой же 2014) (см. Приложение, табл. 2/Supplementary table 2).
+комбинации родительских видов использовали метод Метод GISH был успешно применен для анализа экс-
+GISH для изучения тетраплоидных и гексаплоидных периментально созданных межвидовых соматических 
+соматических гибридов (AAAAEE, AAEE и ААEEEE), гибридов между видами секции Petota (см. Приложение, 
+а также “второго поколения” соматических гибридов табл. 2/Supplementary table 2).
+(ААААЕ, АААЕ и АААЕЕ), полученных через повтор- Так, M. Иовене с соавторами (Iovene et al., 2007) 
+ное слияние протопластов, поскольку отдаленные сома- с использованием данного метода провели анализ 
+тические гибриды были стерильны. Показано, что хро- полученных ими соматических гибридов культурно-
+мосомы родительских видов можно идентифицировать, го картофеля S. tuberosum (геномная формула 2n=4x= 
+используя данный метод (Gavrilenko et al., 2002). Поз- 48, АААА) и дикого мексиканского диплоидного вида 
+же, используя FISH со специфичными маркерами RAPD S. bulbocastanum (геномная формула 2n=2x=24, BB), 
+(Random Amplified Polymorphic DNA) (McGrath et al., что позволило им доказать гибридную природу полу-
+1994; 1996) идентифицировали хромосомы дикого вида ченных форм. Поскольку родительские виды являют-
+у ВС3 и выявили рекомбинантные хромосомы. Были соз- ся носителями разных геномов, А и В, то можно чет-
+даны моносомные линии, несущие 1, 3, 4, 5, 8, 9 и 10 хро- ко ассоциировать хромосомы с родительским видом. 
+мосому S. brevidens (Dong et al., 2005) (см. Приложение, Было проанализировано 7 соматических гибридов с 48 
+табл. 2/ Supplementary table 2). хромосомами, которые имели по 24 хромосомы каждо-
+
+С помощью метода GISH изучали наборы хромо- го из родителей. Также был обнаружен гибрид с 49-ю 
+
+Plant Biotechnology and Breeding 2020;3(2)
+35
+
+
+
+хромосомами, содержащий почти равное количество References/Литература
+хромосом родительских форм. Отличный от ожида-
+емого хромосомный состав был выявлен у трех гек- Achenbach U.C., Tang X., Ballvora A., de Jong H., Gebhardt C. Com-
+саплоидных гибридов (у двух – ААААВВ, у одного – parison of the chromosome maps around a resistance hot spot on 
+
+chromosome 5 of potato and tomato using BAC-FISH painting. 
+AABBBB) (Iovene et al., 2007). Genome. 2010;53:103-110. DOI: 10.1139/G09-086
+
+Используя комбинацию методов GISH и BAC-FISH Ali S.N.H., Ramanna M.S., Jacobsen E., Visser R.G.F. Establishment 
+с хромосом специфичными маркерами и маркерами рибо- of a complete series of a monosomic tomato chromosome addi-
+
+tion lines in the cultivated potato using RFLP and GISH anal-
+сомальных генов (5S и 45S) были исследованы соматиче- yses. Theoretical and Applied Genetics. 2001;103:687-695. 
+ские гибриды и их половое потомство BC1-BC2 комбина- DOI: 10.1007/s001220100652
+ции S. tuberosum (+) S. commersonii Dunal.(Gaiero et al., Badaeva E.D., Salina E.A. Genome structure and chromosome analysis 
+
+in plants. Vavilovskii Zhurnal Genetiki i Selektsii = Vavilov Jour-
+2017). Методом GISH не удалось различить хромосомы nal of Genetics and Breeding. 2013;17(4/2):1017-1043 [in Russian] 
+близкородственных родительских видов, поэтому был (Бадаева Е.Д., Салина Е.А. Структура генома и хромосомный 
+сделан вывод о том, что S. tuberosum и S. commersonii анализ растений. Вавиловский журнал генетики и селекции. 
+
+2013;17(4/2):1017-1043).
+являются носителями генома типа А. При помощи BAC- Chase M.W., Knapp S., Cox A.V., Clarkson J.J., Butsko Y., Joseph J., 
+FISH показано, что идентифицированные при помощи Savolainen V., Parokonny A.S. Molecular systematics, GISH and 
+маркеров хромосомы вовлечены в образования трива- the origin of hybrid taxa in Nicotiana (Solanaceae). Annals of 
+
+Botany. 2003; 92(1):107-27. DOI: 10.1093/aob/mcg087
+лентных ассоциаций в мейозе (Gaiero et al., 2017). Collonnier C., Fock I., Mariska I., Servaes A., Vedel F., Siljak-Yakov-
+
+Позже с помощью метода GISH были исследо- lev S., Souvannavong V., Sihachakr D. GISH confirmation of 
+ваны соматические гибриды между S. tuberosum somatic hybrids between Solanum melongena and S. torvum: 
+
+assessment of resistance to both fungal and bacterial wilts. Plant 
+и S. bulbocastanum, а также их половое потомство перво- Physiology and Biochemistry. 2003;41:459-470. DOI: 10.1016/
+го и второго поколений. С помощью данного метода было S0981-9428(03)00054-8
+показано, что в поколениях беккроссов сохраняется от 4 Dong F., Novy R.G., Helgeson J.P., Jiang J. Cytological characteriza-
+
+tion of potato – Solanum etuberosum somatic hybrids and their 
+до 10 хромосом дикого вида (Rakosy-Tican et. al., 2020). backcross progenies by genomic in situ hybridization. Genome. 
+
+Именно благодаря методам in situ гибридизации ста- 1999;42(5):987-992. DOI: 10.1139/g99-037
+ло возможным создавать моносомные линии. Фрагменты Dong F., Song J., Naess S.K., Helgeson J.P., Gebhardt C., Jiang J. 
+
+Development and applications of a set of chromosome-specif-
+ДНК в составе BAC-клонов, используемые при проведе- ic cytogenetic DNA markers in potato. Theoretical and Applied 
+нии FISH в качестве маркеров, были картированы и было Genetics. 2000;101(7):1001-1007. DOI: 10.1007/s001220051573
+определено их взаимное расположение друг относитель- Dong F., McGrath J.M., Helgeson J.P., Jiang J. The genetic identity of 
+
+alien chromosomes in potato breeding lines revealed by sequen-
+но друга на хромосомах у изучаемого вида и у родствен- tial GISH and FISH analyses using chromosome-specific cytoge-
+ных видов. Этот результат позволил судить о событиях, netic DNA markers. Genome. 2001;44(4):729-734. DOI: 10.1139/
+связанных с перестройкой кариотипов и дал возможность gen-44-4-729
+
+Dong F., Tek A.L., Frasca A.B.L., McGrath J.M., Wielgus S.M., Hel-
+изучать эволюционные перестройки хромосом. С помо- geson J.P., Jiang J. Development and characterization of pota-
+щью метода GISH стало возможным определить геном- to-Solanum brevidens chromosomal addition/substitution lines. 
+ный состав аллополиплоидных диких видов, отдаленных Cytogenetic and Genome Research. 2005;109(5):368-372. 
+
+DOI: 10.1159/000082421
+гибридов и их потомства. Escalante A., Imanishi S., Hossain M., Ohmido N., Fukui K. RFLP 
+
+analysis and genomic in situ hybridization (GISH) in somat-
+ic hybrids and their progeny between Lycopersicon esculentum 
+and Solanum lycopersicoides. Theoretical and Applied Genetics. 
+
+Благодарности/Acknowledgements 1998;96(6):719-726. DOI: 10.1007/s001220050794
+Gaiero P., Mazzella C., Vilaró F., Speranza P., de Jong H. Pairing anal-
+
+Обзор подготовлен при поддержке РФФИ (проект ysis and in situ hybridisation reveal autopolyploid-like behav-
+iour in Solanum commersonii × S. tuberosum (potato) inter-
+
+№ 20-54-00043 Бел_а) specific hybrids. Euphytica. 2017;213(7):137-144. DOI: 10.1007/
+Хочу выразить благодарность в подготовке обзора s10681-017-1922-4
+
+д.б.н. Татьяне Андреевне Гавриленко – моему научному Garriga-Calderé F., Huigen D.J, Filotico F., Jacobsen E., Raman-
+na M.S. Identification of alien chromosomes through GISH and 
+
+руководителю и к.б.н. Галине Ивановне Пендинен, кото- RFLP analysis and the potential for establishing potato lines 
+рая оказала мне помощь в освоении методов in situ гибри- with monosomic additions of tomato chromosomes. Genome. 
+дизации. 1997;40(5):666-673. DOI: 10.1139/g97-088
+
+Garriga-Calderé F., Huigen D.J., Angrisano A., Jacobsen E., Raman-
+na M.S. Transmission of alien tomato chromosomes from BC1 
+
+The review was prepared with the support of the to BC2 progenies derived from backcrossing potato (+) toma-
+Russian Foundation for Basic Research (Project to fusion hybrids to potato: the selection of single additions for 
+
+seven different tomato chromosomes. Theoretical and Applied 
+No. 20-54- 00043 Bel_a) Genetics. 1998;96(2):155-163. DOI: 10.1007/s001220050722
+
+I would like to express my gratitude for the preparation Garriga-Calderé F., Huigen D.J., Jacobsen E., Ramanna M.S. Prospects 
+of the review to my scientific advisor Dr. (Biol.Sci.) Tatiana for introgressing tomato chromosomes into the potato genome: 
+
+An assessment through GISH analysis. Genome. 1999;42(2):282-
+A. Gavrilenko and to Ph.D. Galina I. Pendinen, who assisted 288. DOI: 10.1139/gen-42-2-282
+me in mastering in situ hybridization methods. Gavrilenko T., Thieme R., Rokka V.-M. Cytogenetic analysis of Lyco-
+
+persicon esculentum (+) Solanum etuberosum somatic hybrids 
+and their androgenetic regenerants. Theoretical and Applied 
+Genetics. 2001;103(2): 231-239. DOI: 10.1007/s001220100626
+
+Биотехнология и селекция растений 2020;3(2)
+36
+
+
+
+Gavrilenko T., Larkka J., Pehu E, Rokka V.-M. Identification of mitot- Jacobsen E., de Jong J.H., Kamstra S.A., van den Berg P.M.M.M., 
+ic chromosomes of tuberous and non-tuberous Solanum species Ramanna M.S. Genomic in situ hybridization (GISH) and RFLP 
+(Solanum tuberosum and Solanum brevidens) by GISH in their analysis for the identification of alien chromosomes in the back-
+interspecific hybrids. Genome. 2002;45(8):442-449. DOI: 10.1139/ cross progeny of potato (+) tomato fusion hybrids. Heredity. 
+g01-136 1996;74(3):250-257. DOI: 10.1038/hdy.1995.38
+
+Gavrilenko T., Thieme R., Heimbach U., Thieme Th. Fertile somatic Jeridi M., Bakry F., Escoute J., Fondi E., Carreel F., Ferchichi A., 
+hybrids of Solanum etuberosum (+) dihaploid Solanum tuberosum D’Hont A., Rodier-Goud M. Homoeologous chromosome pairing 
+and their backcrossing progenies: relationships of genome dosage between the A and B genomes of Musa spp. revealed by genom-
+with tuber development and resistance to potato virus Y. Euphyti- ic in situ hybridization. Annals of Botany. 2011;108(5):975-981. 
+ca. 2003;131(3):323-332. DOI: 10.1023/A:1024041104170 DOI: 10.1093/aob/mcr207
+
+Gavrilenko T. Potato cytogenetics. In: D. Vreugdenhil, J. Bradshaw, Ji Y., Pertuzé R., Chetelat R.T. Genome differentiation by GISH in 
+C. Gebhardt, F. Govers, D.K.L. MacKerron, M.A. Taylor, H. Ross interspecific and intergeneric hybrids of tomato and relat-
+(eds). Potato Biology and Biotechnology: Advances and Perspec- ed nightshades. Chromosome Research. 2004;12:107-116. 
+tives. Oxford; Amsterdam: Elsevier ; 2007. p.203-216. DOI: 10.1023/B:CHRO.0000013162.33200.61
+
+Gavrilenko T. Application of molecular cytogenetics in fundamental Ji Y., Chetelat R.T. GISH analysis of meiotic chromosome pairing in 
+and applied research of potato. In: J.M. Bradeen, C. Kole (eds). Solanum lycopersicoides introgression lines of cultivated tomato. 
+Genetics, Genomics and Breeding of Potato. Enfield, NH, USA: Genome. 2007;50(9):825-33. DOI: 10.1139/g07-069
+Science Publishers; 2011. p.184-206. DOI: 10.1201/b10881-10 Kulawiec M., Tagashira N., Bartoszewski G., Kuc D., Sniezko R., 
+
+Gavrilenko T.A., Pendinen G.I., Rokka V.-M., Antonova O.Y., Malepszy S. Chromosome number variation in somatic hybrids 
+Thieme R. Intrgenomic chromosome pairing in allohaploid between transgenic tomato (Lycopersicon esculentum) and Sola-
+hybrids of genus Solanum. Vavilovskii Zhurnal Genetiki i Selekt- num lycopersicoides. Journal of applied genetics. 2003;44(4):431-
+sii = Vavilov Journal of Genetics and Breeding. 2014;18(4/1):660- 447.
+671. [in Russian] (Гавриленко Т.А., Пендинен Г.И., Leitch A.R., Schwarzacher T., Jacson D., Leitch I.J. In situ hybridiza-
+Рокка В.-М., Антонова О.Ю. и Тиме Р. Спаривание гомео- tion: a practical guide. Oxford: Bios Scientic Publishers Ltd.; 
+логичных хромосом у отдаленных гибридов рода Solanum. 1994.
+Вавиловский журнал генетики и селекции. 2014;18(4/1):660- Lim S.J., Lee S.S., Bang J.W. Karyotype and genomic in situ hybridiza-
+671). tion pattern in xBrassicoraphanus, an intergeneric hybrid between 
+
+Hawkes J.G. The Potato: Evolution, Biodiversity and Genetic Resourc- Brassica campestris ssp. pekinensis and Raphanus sativus. Plant 
+es. Washington, D.C.: Smithsonian Institution Press; 1990. Availa- Biotechnology Reports. 2012;6:107-112. DOI: 10.1007/s11816-011-
+ble from: oclc:record:1150961186 [accessed October 14, 2020]. 0202-3
+
+Hawkes J.G. Origins of cultivated potatoes and species relationships. In: Lou Q., Iovene M., Spooner D.M., Buell C.R., Jiming J. Evolution 
+Potato Genetics. Wallingford: CAB International; 1994. p.3-42. of chromosome 6 of Solanum species revealed by compara-
+
+He L., Liu J., Torres G.A., Zhang H., Jiming J., Xie C. Interstitial tel- tive fluorescence in situ hybridization mapping. Chromosoma. 
+omeric repeats are enriched in the centromeres of chromosomes 2010;119:435-442. DOI: 10.1007/s00412-010-0269-6
+in Solanum species. Chromosome Research. 2012;21(1):5-13. M de Boer J., Datema E., Tang X., Borm T.J.A., Bakker E.H., 
+DOI: 10.1007/s10577-012-9332-x van Eck H.J., van Ham R.C.H.J., de Jong H., Visser R.G.F., 
+
+Hijmans R.J., Gavrilenko T., Stephenson S., Bamberg J., Salas A., Bachem C.W.B. Homologues of potato chromosome 5 show var-
+Spooner D.M. Geographical and environmental range expan- iable collinearity in the euchromatin, but dramatic absence of 
+sion through polyploidy in wild potatoes (Solanum section Peto- sequence similarity in the pericentromeric heterochromatin. BMC 
+ta). Global Ecology and Biogeography. 2007;16(4):485-495. Genomics. 2015;16(1):374. DOI: 10.1186/s12864-015-1578-1.
+DOI: 10.1111/j.1466-8238.2007.00308.x Matsubayashi M. Phylogenetic relationships in the potato and its related 
+
+Horsman K., Gavrilenko T., Bergervoet M., Huigen D.J., Joe A.T.W., species. In: Tsuchiya T. and Gupta PK (eds.). Chromosome engi-
+Jacobsen E. Alteration of the genomic composition of Sola- neering in plants: genetics, breeding and evolution, part B. Else-
+num nigrum (+) potato backcross derivatives by somatic hybrid- vier, Amsterdam. 1991;2:93-118. DOI: 10.1016/B978-0-444-88260-
+ization: selection of fusion hybrids by DNA measurements and 8.50011-2
+GISH. Plant Breeding. 2001;120:201-207. DOI: 10.1046/j.1439- McGrath J.M., Wielgus S.M., Uchytil T.F., Kim-Lee H., Haberlach G.T., 
+0523.2001.00591.x Williams C.E., Helgeson J.P. Recombination of Solanum brev-
+
+Hussein A., Katsuhiko K. Fluorescence in situ hybridization and genom- idens chromosomes in the second backcross generation from 
+ic in situ hybridization to identify the parental genomes in the a somatic hybrid with S. tuberosum. Theoretical and Applied 
+intergenic hybrid between Chrysanthemum japonicum and Nip- Genetics. 1994;88(8):917-924. DOI: 10.1007/BF00220797
+ponanthemum nipponicum. Chromosome Botany. 2006;1(1):7-11. McGrath J.M., Wielgus S.M., Helgeson J.P. Segregation and recombina-
+DOI: 10.3199/iscb.1.7 tion of Solanum brevidens synteny groups in progeny of somat-
+
+Hussein A., Katsuhiko K. Genome Mutation Revealed by Artificial ic hybrids with S. tuberosum: intragenomic equals or exceeds 
+Hybridization between Chrysanthemum yoshinaganthum and intergenomic recombination. Genetics. 1996;142(4):1335-1348.
+Chrysanthemum vestitum Assessed by FISH and GISH. Journal Molnár-Láng M., Linc G., Logojan A., Sutka J. Production and mei-
+of Botany. 2012;ID 480310(8). DOI: 10.1155/2012/480310 otic pairing behaviour of new hybrids of winter wheat (Triti-
+
+Iovene M., Savarese S., Cardi T., Frusciante L., Scotti N., Simon P.W., cum aestivum) x winter barley (Hordeum vulgare). Genome. 
+Carputo D. Nuclear and cytoplasmic genome composition of 2000;43(6):1045-54. DOI: 10.1139/gen-43-6-1045
+Solanum bulbocastanum (+) S. tuberosum somatic hybrids. Parokonny A.S., Marshall J.A., Bennett M.D., Cocking E.C., 
+Genome. 2007;50(5):443-450. DOI: 10.1139/g07-024 Davey M.R., Power J.B. Homoeologous pairing and recombina-
+
+Iovene M., Welgus S.M., Simon P.W., Buell R., Jiang J. Chromatin tion in backcross derivatives of tomato somatic hybrids [Lyco-
+structure and physical mapping of chromosome 6 of potato and persicon esculentum (+) L. peruvianum]. Theoretical and Applied 
+comparative analyses with tomato. Genetics. 2008;180(3):1307- Genetics. 1997;94(10):713-723. DOI: 10.1007/s001220050470
+1317. DOI: 10.1534/genetics.108.093179 Pendinen G., Gavrilenko T., Jiang J., Spooner D.M. Allopolyploid spe-
+
+Irikura Y. Cytogenetic studies on the haploid plants of tuber-bearing ciation of the Mexican tetraploid potato species Solanum sto-
+Solanum species. II. Cytogenetic investigations on haploid plants loniferum and S. hjertingii revealed by genomic in situ hybridiza-
+and interspecific hybrids by utilizing haploidy. Research Bulle- tion. Genome. 2008;51(9):714-220. DOI: 10.1139/G08-052
+tin of the Hokkaido National Agricultural Experiment Station. Pendinen G., Spooner D.M., Jiang J., Gavrilenko T. Genomic in situ 
+1976;115:1-80. hybridization reveals both auto- and allopolyploid origins of dif-
+
+Jacobsen E., Daniel M.K., Bergervoet J.E.M., Huigen D.J., Raman- ferent North and Central American hexaploid potato (Solanum 
+na M.S. The first and second backcross progeny of the intergener- sect. Petota) species. Genome. 2012;55(6):407–415. DOI: 10.1139/
+ic fusion hybrids of potato and tomato after crossing with potato. g2012-027
+Theoretical and Applied Genetics. 1994;88:181-1 86. DOI: 10.1007/ Peters S.A., Bargsten J.W., Szinay D., van de Belt J., Visser R.G.F., 
+BF00225895 Bai Y., de Jong H. Structural homology in the Solanaceae: anal-
+
+Plant Biotechnology and Breeding 2020;3(2)
+37
+
+
+
+ysis of genomic regions in support of synteny studies in toma- Spooner D.M., Sytsma K.J. Reexamination of series relationships of 
+to, potato and pepper. The Plant Journal. 2012;71(6):602-614. Mexican and Central American wild potatoes (Solanum sect. 
+DOI: 10.1111/j.1365-313X.2012.05012.x Petota): evidence from chloroplast DNA restriction site variation. 
+
+Rakosy-Tican E., Thieme R., Konig J., Nachtigall M., Hammann T., Systematic Botany. 1992;17(3):432-448.
+Denes T.-E., Kruppa K., Molnar-Lang M. Introgression of two Spooner D.M., Van Den Berg R.G., Miller J.T. Species and series 
+broad-spectrum late blight resistance genes, Rpi-blb1 and Rpi- boundaries of Solanum series Longipedicellata (Solanaceae) and 
+blb3, from Solanum bulbocastanum dun plus Rase-specific R phonetically similar species in ser. Demissa and ser. Tuberosa: 
+genes into potato pre-breeding lines. Frontiers in Plant Science. implications for a practical taxonomy of section Petota. American 
+2020;11:699. DOI: 10.3389/fpls.2020.00699 Journal of Botany. 2000;88(1):113-130.
+
+Ramzan F., Younis A., Lim K.-B. Application of genomic in situ hybrid- Spooner D.M., Rodríguez F., Polgár Z., Ballard H.E., Jansky S.H. 
+ization in horticultural science. International Journal of Genom- Genomic origins of potato polyploids: GBSSI gene sequenc-
+ics. 2017:ID 7561909. DOI: 10.1155/2017/7561909 ing data. Crop Science. 2008;48:27-36. DOI: 10.2135/crops-
+
+Rodrigo B.-G., Van Silfhout A.A., Visser R.G.F., Munikote S. Ramanna, ci2007.09.0504tpg
+Van Tuyl J.M. Progenies of allotriploids of Oriental×Asiatic lilies Spooner D.M., Ghislain M., Simon R., Jansky S.H., Gavrilenko T. Sys-
+(Lilium) examined by GISH analysis. Euphytica. 2006;151:243- tematics, diversity, genetics, and evolution of wild and cul-
+250. DOI: 10.1007/s10681-006-9148-x tivated potatoes. The Botanical Review. 2014;80(4):283-383. 
+
+Rokka V.-M., Lapitan N.L.V., Knudson D.L., Pehu E. Fluorescence in DOI: 10.1007/s12229-014-9146-y
+situ hybridization of potato somatohaploids and their somatic Stupar R.M., Song J., Tek A.L., Cheng Z., Dong F., Jiming J. High-
+hybrid donors using two Solanum brevidens specific sequences. ly condensed potato pericentromeric heterochromatin contains 
+Agricultural and Food Science. 1998;7(1):31-38. DOI: 10.23986/ rDNA-related tandem repeats. Genetics. 2002;162(3):1435-1444.
+afsci.72853 Szinay D., Wijnker E., van den Berg R., Visser R.G.F., de Jong H., 
+
+Rybin V.A. Karyological investigation on some wild growing and indig- Bai Y. Chromosome evolution in Solanum traced by cross-spe-
+enous cultivated potatoes of America. Bulletin of applied bot- cies BAC-FISH. New Phytologist. 2012;195:688-698. 
+any, of genetics and plant breeding. 1929;20:655-720. [in Rus- DOI: 10.1111/j.1469-8137.2012.04195.x
+sian] (Рыбин В.А. Кариологическое исследование некоторых Tang X., de Boer J.M., van Eck H.J., Bachem C., Visser R.G., 
+видов дикорастущего и выращиваемого в сельском хозяйстве de Jong H. Assignment of genetic linkage maps to diploid Sola-
+картофеля Америка. Труды по прикладной ботанике генетике num tuberosum pachytene chromosomes by BAC-FISH technol-
+и селекции. 1929;20:655-720). ogy. Chromosome Research. 2009;17(7):899-915. DOI: 10.1007/
+
+Rybin V.A. Cytological investigation of the South American cultivat- s10577-009-9077-3
+ed and wild potatoes, and its significance for plant breeding. Bul- Tarwacka J., Polkowska-Kowalczyk L., Kolano B., Śliwka J., Wiel-
+letin of applied botany, of genetics and plant breeding. Ser. 2. gat B. Interspecific somatic hybrids Solanum villosum (+) 
+1933;2:3- 100. [in Russian] (Рыбин В.А. Цитологическое иссле- S. tuberosum, resistant to Phytophthora infestans. Jour-
+дование южноамериканского культивируемого и дикого кар- nal of plant physiology. 2013;170(17):1541-8. DOI: 10.1016/j.
+тофеля и его значение для селекции растений. Труды по при- jplph.2013.06.013
+кладной ботанике генетике и селекции. Сер. 2. 1933;2:3-100). Yao X., Ge X., Chen J., Li Z. Intra- and intergenomic relationships in 
+
+Schwarzacher T., Leitch A.R., Bennett M.D., Heslop-Harrison J.S. In interspecific hybrids between Brassica (B. rapa, B. napus) and a 
+situ localization of parental genomes in a wide hybrid. Annals wild species B. maurorum as revealed by genomic in situ hybridi-
+of Botany. 1989;64(3):315-324. DOI: 10.1093/oxfordjournals.aob. zation (GISH). Euphytica. 2010;173:113-120. DOI: 10.1007/s10681-
+a087847 010-0131-1
+
+Silva G.S., Souza M.M. Genomic in situ hybridization in plants. Zwierzykowski Z., Zwierzykowska E., Taciak M., Jones N., Kos-
+Genetics and molecular research. 2013;12(3):2953-2965. mala A., Krajewski P. Chromosome pairing in allotetraploid 
+DOI: 10.4238/2013.August.12.11 hybrids of Festuca pratensis × Lolium perenne revealed by 
+
+Song J., Dong F., Jiang J. Construction of a bacterial artificial chromo- genomic in situ hybridization (GISH). Chromosome Research. 
+some (BAC) library for potato molecular cytogenetics research. 2008;16(10):575-585. DOI: 10.1007/s10577-008-1198-6
+Genome. 2000;43(1):199–204. DOI: 10.1139/gen-43-1-199
+
+Биотехнология и селекция растений 2020;3(2)
+38

@@ -1,0 +1,653 @@
+﻿УДК 621.777.07 
+doi: 10.18323/2782-4039-2022-4-81-89 
+ 
+
+Термическая стабильность и коррозионная стойкость 
+ультрамелкозернистого высокоэнтропийного сплава Fe30Ni30Mn30Cr10 
+
+© 2022 
+1
+
+Нестеров Константин Михайлович* , кандидат физико-математических наук,  
+научный сотрудник НИИ физики перспективных материалов 
+
+2
+Фаррахов Рузиль Галиевич , кандидат технических наук, доцент, доцент кафедры электронной инженерии 
+
+3
+Аубакирова Вета Робертовна , кандидат технических наук,  
+
+старший преподаватель кафедры электронной инженерии 
+4
+
+Исламгалиев Ринат Кадыханович , доктор физико-математических наук, профессор,  
+профессор кафедры материаловедения и физики металлов 
+
+5
+Сиразеева Арина Ренадовна , студент 
+
+6
+Абуайяш Адхам , аспирант 
+
+Уфимский университет науки и технологий, Уфа (Россия) 
+ 
+
+1
+*E-mail: kmnesterov@mail.ru ORCID: https://orcid.org/0000-0002-7053-3131 
+
+2ORCID: https://orcid.org/0000-0001-6670-1537 
+3ORCID: https://orcid.org/0000-0002-8483-6408 
+4ORCID: https://orcid.org/0000-0002-6234-7363 
+5ORCID: https://orcid.org/0000-0003-3841-2169 
+6ORCID: https://orcid.org/0000-0002-0319-0992 
+
+ 
+ 
+
+Поступила в редакцию 04.05.2022          Принята к публикации 24.11.2022 
+ 
+Аннотация: Одним из перспективных научных направлений, активно развивающихся в последнее время в ма-
+
+териаловедении, является разработка и исследование высокоэнтропийных сплавов, содержащих несколько метал-
+лических элементов с концентрацией, близкой к эквиатомной. Интерес к ним вызван тем, что они способны де-
+монстрировать повышенные механические и функциональные свойства. Вместе с тем другим перспективным на-
+правлением повышения прочностных свойств металлических материалов является измельчение их зеренной 
+структуры методами интенсивной пластической деформации. В настоящей работе оба этих подхода были исполь-
+зованы для формирования ультрамелкозернистой (УМЗ) структуры в высокоэнтропийном сплаве Fe30Ni30Mn30Cr10. 
+Представлены результаты исследования структуры, прочности, термической стабильности и коррозионной стой-
+кости высокоэнтропийного сплава, подвергнутого интенсивной пластической деформации кручением (ИПДК). 
+Исследования структуры, проведенные методом просвечивающей электронной микроскопии, показали, что при-
+менение ИПДК ведет к формированию УМЗ структуры со средним размером зерен менее 200 нм в зависимости от 
+температуры обработки. В результате измерений микротвердости и механических испытаний на растяжение при 
+комнатной температуре обнаружено, что после сильного измельчения зеренной структуры в высокоэнтропийном 
+сплаве происходит повышение микротвердости и предела прочности более чем в 3 раза по сравнению с исходным 
+крупнозернистым состоянием. При этом УМЗ образцы высокоэнтропийного сплава проявили термическую ста-
+бильность микротвердости после отжигов до температуры 500 °С. Электрохимические испытания, проведенные  
+в водном растворе 3,5 % NaCl при температуре 37 °С, продемонстрировали высокую коррозионную стойкость 
+УМЗ образцов высокоэнтропийного сплава. 
+
+Ключевые слова: термостабильность; термообработка; коррозионная стойкость; высокоэнтропийный сплав; 
+интенсивная пластическая деформация кручением; коррозионные испытания; поляризационная кривая. 
+
+Благодарности: Р.К. Исламгалиев и К.М. Нестеров благодарны Российскому научному фонду за финансовую 
+поддержку в рамках проекта № 22-23-00714. 
+
+Для цитирования: Нестеров К.М., Фаррахов Р.Г., Аубакирова В.Р., Исламгалиев Р.К., Сиразеева А.Р., Абуай-
+яш А. Термическая стабильность и коррозионная стойкость ультрамелкозернистого высокоэнтропийного сплава 
+Fe30Ni30Mn30Cr10 // Frontier Materials & Technologies. 2022. № 4. С. 81–89. DOI: 10.18323/2782-4039-2022-4-81-89. 
+
+ 
+таких сплавов характерны повышенные по сравнению  
+
+ВВЕДЕНИЕ с традиционными сплавами значения энтропии смеше-
+Традиционный подход к созданию новых конструк- ния, в связи с чем они получили название высокоэнтро-
+
+ционных материалов заключается в выборе одного ос- пийных сплавов (ВЭС). Повышенное значение энтро-
+новного элемента в качестве матрицы, которая легиру- пии в ВЭС объясняется тем, что энтропия смешения 
+ется для получения желаемой комбинации механиче- между растворенными компонентами максимальна, 
+ских и/или технологических свойств. В последние годы когда эти компоненты находятся в эквиатомной концен-
+был предложен новый подход к созданию многокомпо- трации. Вследствие этого в ряде ВЭС формируются од-
+нентных сплавов, содержащих несколько элементов  нофазные твердые растворы, которые имеют простую 
+с концентрацией, близкой к эквиатомной [1–3]. Для ОЦК или ГЦК решетку. В зависимости от химического 
+
+F rontier Materials & Technologies. 2022. № 4 81
+
+
+
+Нестеров К.М., Фаррахов Р.Г., Аубакирова В.Р. и др.   «Термическая стабильность и коррозионная стойкость…» 
+
+состава ВЭС способны демонстрировать повышенные ливать и удерживать движущиеся в процессе пластиче-
+функциональные свойства, такие как твердость, изно- ской деформации дислокации. Поэтому в материалах  
+состойкость, высокотемпературная прочность, корро- с большим количеством двойников часто наблюдается 
+зионная стойкость и сверхпластичность [4–6].  значительное повышение прочностных свойств. Из-
+
+Вместе с тем новые возможности в направлении ре- вестно также, что двойниковые границы являются ча-
+гулирования функциональных свойств металлов и спла- стью специальных границ, объемную долю которых 
+вов открывает формирование ультрамелкозернистой можно зафиксировать с помощью исследований мето-
+(УМЗ) структуры методами интенсивной пластической дом дифракции обратно рассеянных электронов. При 
+деформации (ИПД) [7–9], в основе которых лежит при- этом на примере феррит-мартенситной стали недавно 
+менение больших деформаций сдвигом в условиях вы- было продемонстрировано, что повышение доли специ-
+соких давлений и относительно низких гомологических альных границ в УМЗ образцах до 7 % позволяет до-
+температур. Известно, что методами ИПД можно из- полнительно увеличить предел прочности более чем на 
+мельчить зерно до размеров менее 300 нм в различных 30 % [8]. Вместе с тем доля специальных границ сильно 
+металлах и сплавах [9; 10]. При этом, используя допол- зависит от температуры и энергии дефекта упаковки, 
+нительную термообработку УМЗ образцов, можно су- которая, в свою очередь, практически не исследована  
+щественно повысить прочность и предел выносливости в высокоэнтропийных сплавах. 
+металлических материалов. Экспериментальные исследования свидетельствуют, 
+
+Следует отметить, что применение ИПД обработки что УМЗ металлы и сплавы, полученные методами интен-
+к высокоэнтропийным сплавам для формирования УМЗ сивной пластической деформации кручением (ИПДК), 
+структуры пока не изучено, и, соответственно, в ли- демонстрируют невысокую термическую стабильность 
+тературе не представлена информация о структуре  зеренной структуры вследствие наличия большого ко-
+и свойствах ультрамелкозернистых ВЭС. личества границ зерен [9]. В частности, в УМЗ Cu и Ni 
+
+Известны работы, в которых приведены результаты значительный рост зерен наблюдается начиная с темпе-
+исследований структуры и свойств высокоэнтропийных ратуры 0,4Тпл, а в алюминиевых сплавах – с температу-
+сплавов [11–14], однако в них представлены экспери- ры 0,5Тпл, где Тпл – температура плавления.  
+ментальные данные в основном для образцов в крупно- УМЗ структура в металлических материалах может 
+зернистом и литом состоянии. В [15] использованы быть стабилизирована несколькими путями. Во-первых, 
+большие пластические деформации применительно к вы- за счет уменьшения подвижности границ зерен путем 
+сокоэнтропийному сплаву AlCrFeCoNiCu, но рассмот- введения дополнительных препятствий на пути мигра-
+рены только вопросы структурно-фазовых превраще- ции границ, таких как частицы выделений [23]. Очевид-
+ний в процессе деформационной обработки.  но, что в этом случае в структуре материала должно 
+
+Вместе с тем многие ВЭС содержат Co в значитель- быть большое количество ультрадисперсных частиц, 
+ных концентрациях, что нежелательно для их примене- термически стабильных при повышенных температурах. 
+ния в ядерных реакторах с точки зрения нейтронной Во-вторых, УМЗ структуры могут быть стабилизи-
+активации и управления радиационными отходами. рованы за счет снижения энергии границ зерен [23]. 
+Поэтому недавно был разработан новый однофазный Это может быть достигнуто путем сегрегации леги-
+сплав системы FeMnNiCr с заменой Co на Mn, который рующих элементов на границах зерен, которые снижа-
+показал значительную стойкость к радиационным по- ют энергию упругих напряжений. При этом для повы-
+вреждениям [16]. Вследствие этого в настоящем иссле- шения термической стабильности границ зерен атом-
+довании в качестве исходного материала использован ный радиус легирующих элементов должен быть на-
+высокоэнтропийный сплав FeNiMnCr, который спосо- много больше или намного меньше атомного радиуса 
+бен демонстрировать повышенную радиационную основного элемента матрицы, а повышенное содержа-
+стойкость [17]. ние легирующих элементов будет способствовать сни-
+
+Чтобы повысить прочностные и функциональные жению энергии границ зерен до минимума.  
+свойства металлических материалов, часто использу- В случае высокоэнтропийных сплавов наблюдается 
+ются различные методы деформационной и термомеха- фазовая стабильность материала при нагреве, которая 
+нической обработки для формирования необходимых достигается тем, что для формирования сплава подби-
+микроструктур. В частности, для повышения прочност- раются химические элементы, имеющие близкий атом-
+ных свойств металлических материалов применяются ный радиус. Вместе с тем в них содержится близкая  
+различные научно-технические подходы, которые бази- к эквиатомной концентрация входящих в сплав элемен-
+руются на принципах твердорастворного, дисперсион- тов. При этом термическая стабильность УМЗ структу-
+ного и зернограничного упрочнения. Среди них особый ры в ВЭС еще не исследована.  
+интерес вызывает формирование УМЗ структуры мето- После применения методов ИПД для формирования 
+дами ИПД, в основе которых лежит применение боль- УМЗ структуры в материале образуется большое коли-
+ших пластических деформаций в условиях повышен- чество дефектов кристаллической структуры в виде 
+ных давлений и относительно низких гомологических границ зерен и повышенной плотности дислокаций, 
+температур [9]. которые являются центрами коррозионного растворе-
+
+Как показано в работах [7; 8], применение ИПД спо- ния материала. На скорость коррозии металлических 
+собствует не только измельчению зеренной структуры материалов может повлиять также наличие дисперсных 
+в феррит-мартенситных и аустенитных сталях, но и по- частиц, которые играют роль катода в гальванической 
+вышению доли специальных границ и, соответственно, паре с матрицей. Но вместе с тем считается, что высо-
+деформационному двойникованию. С другой стороны, коэнтропийные сплавы обладают высокой фазовой ста-
+известно, что двойники обладают способностью накап- бильностью и дисперсные частицы могут появиться 
+
+8 2 Frontier Materials & Technologies. 2022. № 4
+
+
+
+Нестеров К.М., Фаррахов Р.Г., Аубакирова В.Р. и др.   «Термическая стабильность и коррозионная стойкость…» 
+
+только в случае заметного отклонения химического двойники деформации (рис. 1 a, 1 b). Обработка ИПДК 
+состава от эквиатомного содержания химических эле- при температуре 300 °С и дополнительный отжиг при 
+ментов, формирующих сплав.  температуре 450 °С (в дальнейшем ИПДК300+ТО450) 
+
+Цель работы – исследование влияния ультрамелко- привели к формированию среднего размера зерна 200 нм 
+зернистой структуры на повышение прочности, терми- (рис. 1 c). Наиболее крупные зерна достигали размера 
+ческую стабильность и коррозионную стойкость высо- 500 нм, что свидетельствовало о начале процессов ре-
+коэнтропийного сплава FeMnNiCr.  кристаллизации при данной температуре обработки. 
+
+ Двойники в структуре сохранились, но их плотность 
+немного уменьшилась (рис. 1 d). 
+
+МЕТОДИКА ПРОВЕДЕНИЯ ИССЛЕДОВАНИЯ Исследования термической стабильности показали, 
+В качестве исходного материала для исследования что максимальная микротвердость 6009 МПа достигнута 
+
+был выбран высокоэнтропийный сплав Fe30Ni30Mn30Cr10. на образце, подвергнутом обработке ИПДК300+ТО450 
+Диски диаметром 20 мм и толщиной 2 мм отрезали от (рис. 2), что выше прочности образца в исходном со-
+исходных литых прутков, которые затем подвергали кру- стоянии более чем в 3 раза (1915 МПа). Максимальная 
+чению под высоким давлением (6 ГПа) при 20 и 300 °С  микротвердость образца, подвергнутого обработке 
+с числом оборотов, равным 10.  ИПДК20+ТО450, достигла 4208 МПа. 
+
+Исследования микроструктуры проводили в просве- Механические испытания на растяжение также под-
+чивающем электронном микроскопе JEM-2100 с уско- тверждают достижение максимальной прочности на 
+ряющим напряжением 200 кВ. Тонкие фольги готовили образце, подвергнутом ИПДК300+ТО450 (таблица 1). 
+методом двухсторонней струйной электрополировки на Прочность (временное сопротивление разрыву) у об-
+установке Tenupole-5 с использованием электролита разца ИПДК300+ТО450 составила 1331 МПа, а у ис-
+следующего состава: 10 % хлорной кислоты и 90 % ходного образца, подвергнутого отжигу при температу-
+бутанола. Полировку проводили при температуре −25 °С ре 450 °С, – 462 МПа.  
+и напряжении 45 В. Относительное удлинение до разрушения у исход-
+
+Для исследования термической стабильности образ- ного образца составило 63 %, в то время как у образца 
+цов измеряли микротвердость после отжигов в муфель- ИПДК300+ТО450 оно было равно 0,7 %.  
+ной печи Nabertherm в диапазоне температур 200– На рис. 3 и рис. 4 показаны результаты электрохи-
+700 °С с выдержкой по 30 мин. Микротвердость (HV) мических испытаний в виде зависимостей электрод-
+определяли методом Виккерса на приборе MicroMet ных потенциалов от времени и поляризационных кри-
+5101 с нагрузкой 1 Н и временем выдержки 10 с. вых. В таблице 2 представлены результаты расчета 
+
+Механические испытания на одноосное растяжение коррозионных параметров образцов по поляризацион-
+проводили на испытательной машине Instron 5982 при ным кривым. 
+комнатной температуре. Плоские образцы с размерами Электродные потенциалы всех образцов стабилизи-
+
+3
+рабочей части 4×1×0,5 мм  были деформированы со руются примерно за 2 ч и находятся в диапазоне  
+
+−3 −1
+скоростью нагружения 10  с . На каждое состояние от −0,39 до −0,33 В. Для всех образцов наблюдаются 
+было испытано по 3 образца. колебания электродного потенциала в начальный мо-
+
+Электрохимические испытания проводили в водном мент времени и заметна тенденция к снижению, прежде 
+растворе 3,5 % NaCl при 37 °С на электрохимической чем он стабилизируется. Колебания могут быть связаны 
+станции Р-5Х («Элинс», Россия). Измерение электрод- с локальным растворением оксидной пленки и накоп-
+ного потенциала проводилось в течение 2 ч для дости- лением продуктов коррозии, что в итоге приводит  
+жения установившегося значения. Потенциодинамиче- к пассивации поверхности и стабилизации электродно-
+скую поляризацию (ПДП) проводили в диапазоне  го потенциала. 
+от −600 до +400 мВ относительно потенциала разомк- Как видно из таблицы 2, условия обработки значи-
+нутой цепи со скоростью сканирования 0,25 мВ/с.  тельно влияют на ЭДС свободной коррозии Ecorr. Боль-
+В качестве эталона использовали хлорсеребряный элек- шее значение Ecorr свидетельствует о пассивации по-
+трод, заполненный 3,5 М раствором KCl. Противоэлек- верхности, а меньшее, напротив, об активации.  
+трод представлял собой графитовый стержень. Резуль- Наилучшую коррозионную стойкость (наименьшее 
+таты ПДП рассчитывали по методу Тафеля [18]. Поля- значение icorr) имел образец в исходном состоянии по-
+ризационное сопротивление Rp рассчитывали по накло- сле дополнительного отжига 450 °С (таблица 2).  
+ну поляризационной кривой ±10 мВ относительно по- После обработки ИПДК20 и ИПДК300 наблюдалось 
+тенциала свободной коррозии. увеличение тока коррозии и снижение поляризацион-
+
+ ного сопротивления Rp по сравнению с исходным об-
+разцом, свидетельствующее об активации поверхности 
+
+РЕЗУЛЬТАТЫ ИССЛЕДОВАНИЯ в связи с большим количеством дефектов кристалличе-
+Типичные ПЭМ изображения структуры образца, ской решетки в ИПДК-образцах.  
+
+подвергнутого ИПДК при температуре 20 °С и дополни- Применение обработки ИПДК20+ТО450 и ИПДК300+ 
+тельной термической обработке (ТО) при температуре +ТО450 позволило сохранить ток коррозии и ЭДС сво-
+450 °С (в дальнейшем это состояние будет обозначено бодной энергии на уровне коррозионной стойкости ис-
+как ИПДК20+ТО450, для других состояний будет ис- ходного образца, но при этом снизилось поляризацион-
+пользовано обозначение ИПДКх+ТОy, где x и y – темпе- ное сопротивление Rp.  
+ратура), свидетельствовали об измельчении зеренной Термическая обработка исходного образца при бо-
+структуры до среднего размера зерен ~100 нм (рис. 1 a). лее высокой температуре 700 °С привела к снижению 
+При этом в структуре были видны многочисленные коррозионной стойкости: наблюдалось минимальное 
+
+F rontier Materials & Technologies. 2022. № 4 83
+
+
+
+Нестеров К.М., Фаррахов Р.Г., Аубакирова В.Р. и др.   «Термическая стабильность и коррозионная стойкость…» 
+
+     
+ a b 
+
+     
+ c d 
+
+Рис. 1. ПЭМ изображения микроструктуры высокоэнтропийного сплава  
+после ИПДК при температуре 20 °С и дополнительного отжига при температуре 450 °С (a, b);  
+после ИПДК при температуре 300 °С и дополнительного отжига при температуре 450 °С (c, d) 
+
+Fig. 1. TEM-images of the high-entropy alloy structure  
+after HPT at temperature of 20 °С and additional annealing at temperature of 450 °С (a, b);  
+after HPT at temperature of 300 °С and additional annealing at temperature of 450 °С (c, d) 
+
+ 
+ 
+ 
+
+значение Ecorr, высокое значение тока коррозии icorr  чение зеренной структуры после обработки методом 
+и минимальное значение поляризационного сопротив- ИПДК типично для металлических материалов. При 
+ления Rp.  этом минимальный средний размер зерна зависит от 
+
+Вместе с тем образцы ИПДК20+ТО700 и ИПДК300+ типа кристаллической решетки, твердости материала  
++ТО700 проявили лучшую коррозионную стойкость по и температуры плавления. 
+всем параметрам (меньшие значения Ecorr, icorr и боль- Появление двойников деформации в высокоэнтро-
+шее значение Rp) по сравнению с исходным образцом, пийном сплаве после обработки методом ИПДК может 
+подвергнутым термической обработке при той же тем- свидетельствовать о невысоких значениях энергии 
+пературе 700 °С. дефекта упаковки, поскольку материалы с низкой 
+
+ энергией дефекта упаковки проявляют склонность  
+к двойникованию [19]. 
+
+ОБСУЖДЕНИЕ РЕЗУЛЬТАТОВ После измельчения зеренной структуры методом 
+Исследования методом ПЭМ показали, что в резуль- ИПДК и дополнительного отжига образцы проявили 
+
+тате обработок ИПДК20+ТО450 и ИПДК300+ТО450  повышенные значения микротвердости и предела проч-
+в сплаве Fe30Ni30Mn30Cr10 существенно измельчилась ности. При этом они имели малую пластичность.  
+зеренная структура до размера зерен 100–200 нм,  Возможными механизмами упрочнения в образце 
+в структуре появились двойники деформации. Измель- ИПДК300+ТО450 очевидно являются зернограничное 
+
+8 4 Frontier Materials & Technologies. 2022. № 4
+
+
+
+Нестеров К.М., Фаррахов Р.Г., Аубакирова В.Р. и др.   «Термическая стабильность и коррозионная стойкость…» 
+
+ 
+ 
+
+Рис. 2. Зависимость микротвердости от температуры отжига высокоэнтропийного сплава Fe30Ni30Mn30Cr10  
+после различных обработок 
+
+Fig. 2. The dependence of microhardness on the annealing temperature of the Fe30Ni30Mn30Cr10 high-entropy alloy  
+after various treatments 
+
+ 
+ 
+
+ 
+Таблица 1. Результаты механических испытаний на растяжение  
+
+Table 1. The results of tensile tests  
+ 
+ 
+
+Состояние σВ, МПа σ0,2, МПа δ, % 
+
+Исходное+ТО450 462 160 63,2 
+
+ИПДК300+ТО450 1331 1300 0,7 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Рис. 3. Электродные потенциалы, полученные в результате электрохимических испытаний 
+Fig. 3. Corrosion potentials obtained as a result of electrochemical tests 
+
+F rontier Materials & Technologies. 2022. № 4 85
+
+
+
+Нестеров К.М., Фаррахов Р.Г., Аубакирова В.Р. и др.   «Термическая стабильность и коррозионная стойкость…» 
+
+  
+
+ 
+ 
+
+Рис. 4. Поляризационные кривые, полученные в результате электрохимических испытаний 
+Fig. 4. Polarization curves obtained as a result of electrochemical tests 
+
+ 
+ 
+ 
+
+Таблица 2. Результаты расчета коррозионных параметров  
+Table 2. The results of corrosion parameters calculation  
+
+ 
+ 
+
+Код образца Ecorr, В icorr, A/cм2 Rp, Ом·cм2 
+
+Исходный −0,361±0,12 1,91·10−6±1,12·10−7 2,15·104±0,23·104 
+
+ИПДК20 −0,414±0,10 5,68·10−6±3,42·10−7 6,90·103±0,29·103 
+
+ИПДК300 −0,387±0,03 2,50·10−6±1,87·10−7 1,13·104±0,11·104 
+
+Исходный+ТО450 −0,288±0,05 0,96·10−6±0,59·10−7 1,99·104±0,41·104 
+
+ИПДК20+ТО450 −0,335±0,06 1,86·10−6±3,54·10−7 1,15·104±6,28·103 
+
+ИПДК300+ТО450 −0,362±0,08 2,23·10−6±1,44·10−7 1,15·104±5,40·103 
+
+Исходный+ТО700 −0,505±0,04 6,10·10−6±3,84·10−7 5,08·103±0,49·103 
+
+ИПДК20+ТО700 −0,341±0,11 1,64·10−6±7,84·10−7 5,34·103±0,67·103 
+
+ИПДК300+ТО700 −0,335±0,10 2,79·10−6±5,28·10−7 5,49·103±0,46·103 
+
+ 
+ 
+ 
+
+упрочнение в соответствии с соотношением Холла – ность сплавов, содержащих двойники, дополнительное 
+Петча [20], а также упрочнение за счет двойникования, влияние могут оказывать также процессы двойникова-
+поскольку в структуре образца были обнаружены двой- ния [21]. Но в образце ИПДК300+ТО450 количества 
+ники деформации, которые отсутствовали в исходном двойников видимо недостаточно для развития пластич-
+состоянии (рис. 1). ности, которое наблюдается в TWIP-материалах [19].  
+
+Уменьшение пластичности может быть связано   В результате коррозионных испытаний было установ-
+с уменьшением среднего размера зерна в нанометриче- лено, что образцы ИПДК20+ТО450, ИПДК300+ТО450 
+скую область, которое ведет к ограничению механизма имеют достаточно высокую коррозионную стойкость, 
+дислокационного скольжения, часто наблюдаемого в УМЗ сравнимую с коррозионной стойкостью исходных об-
+материалах [9]. Вместе с тем известно, что на пластич- разцов.  
+
+8 6 Frontier Materials & Technologies. 2022. № 4
+
+
+
+Нестеров К.М., Фаррахов Р.Г., Аубакирова В.Р. и др.   «Термическая стабильность и коррозионная стойкость…» 
+
+В целом следует отметить, что в высокоэнтропий- Performance. 2019. Vol. 28. № 11. P. 7109–7118.  
+ных сплавах наблюдается высокая коррозионная стой- DOI: 10.1007/s11665-019-04440-1. 
+кость, сопоставимая с коррозионной стойкостью не- 8. Islamgaliev R.K., Nikitina M.A., Ganeev A.V., Sitdi-
+ржавеющей стали 304L [22]. При этом измельчение kov V.D. Strengthening mechanisms in ultrafine-grained 
+зеренной структуры до размера зерна 100–200 нм в ис- martensitic steel // Materials Science and Engineering A. 
+следуемом высокоэнтропийном сплаве Fe30Ni30Mn30Cr10 2019. Vol. 744. P. 163–170. DOI: 10.1016/j.msea.2018. 
+способствует повышению прочности образцов при со- 11.141. 
+хранении их коррозионной стойкости.  9. Валиев Р.З., Жиляев А.П., Лэнгдон Т.Дж. Объемные 
+
+ наноструктурные материалы: фундаментальные ос-
+новы и применения. СПб.: Эко-Вектор, 2017. 480 с. 
+
+ОСНОВНЫЕ РЕЗУЛЬТАТЫ 10. Осинцев К.А., Громов В.Е., Коновалов С.В., Ива-
+Формирование ультрамелкозернистой структуры со нов Ю.Ф., Панченко И.А. Высокоэнтропийные 
+
+средним размером зерна 100–200 нм в высокоэнтропий- сплавы: структура, механические свойства, меха-
+ном сплаве Fe30Ni30Mn30Cr10 путем применения интен- низмы деформации и применение // Известия выс-
+сивной пластической деформации кручением и после- ших учебных заведений. Черная металлургия. 2021. 
+дующей термообработки позволило достигнуть значений Т. 64. № 4. С. 249–258. DOI: 10.17073/0368-0797-
+прочности 1331 МПа и микротвердости 6009 МПа, что 2021-4-249-258. 
+выше соответствующих значений образца в исходном 11. Sathiyamoorthi P., Kim H.S. High-entropy alloys with 
+состоянии более чем в 3 раза. heterogeneous microstructure: Processing and mechani-
+
+Ультрамелкозернистые образцы сплава Fe30Ni30Mn30Cr10 cal properties // Progress in Materials Science. 2022.  
+сохраняют термическую стабильность микротвердости Т. 123. Article number 100709. DOI: 10.1016/j.pmatsci. 
+до температуры 450 °С и обладают высокой коррозион- 2020.100709. 
+ной стойкостью, сопоставимой с коррозионной стойко- 12. Miracle D.B., Senkov O.N. A critical review of high 
+стью исходных образцов высокоэнтропийного сплава. entropy alloys and related concepts // Acta Materialia. 
+
+ 2017. Vol. 122. P. 448–511. DOI: 10.1016/j.actamat. 
+2016.08.081. 
+
+СПИСОК ЛИТЕРАТУРЫ  13. Cantor B., Chang I.T.H., Knight P., Vincent A.J.B. Mi-
+1. Громов В.Е., Шлярова Ю.А., Коновалов С.В., Во- crostructural development in equiatomic multicompo-
+
+робьев С.В., Перегудов О.А. Применение высокоэн- nent alloys // Materials Science and Engineering A. 
+тропийных сплавов // Известия высших учебных за- 2004. Vol. 375-377. № 1-2 SPEC ISS. P. 213–218. 
+ведений. Черная металлургия. 2021. Т. 64. № 10.  DOI: 10.1016/j.msea.2003.10.257. 
+С. 747–754. DOI: 10.17073/0368-0797-2021-10-747-754. 14. Klimova M., Shaysultanov D., Semenyuk A., Zhereb-
+
+2. Anaman S.Y., Ansah S., Cho H.-H., Jo M.-G., Suh J.-Y., tsov S., Stepanov N. Effect of carbon on recrystallised 
+Kang M., Lee J.-S., Hong S.-T., Han H.N. An investiga- microstructures and properties of CoCrFeMnNi-type 
+tion of the microstructural effects on the mechanical and high-entropy alloys // Journal of Alloys and Com-
+electrochemical properties of a friction stir processed pounds. 2021. Vol. 851. Article number 156839.  
+equiatomic CrMnFeCoNi high entropy alloy // Journal DOI: 10.1016/j.jallcom.2020.156839. 
+of Materials Science and Technology. 2021. Vol. 87.  15. Kourov N.I., Pushin V.G., Korolev A.V., Knyazev Y.V., 
+P. 60–73. DOI: 10.1016/j.jmst.2021.01.043. Ivchenko M.V., Ustyugov Y.M. Peculiar features of 
+
+3. Tsai M.-H., Yeh J.-W. High-entropy alloys: a critical physical properties of the rapid quenched 
+review // Materials Research Letters. 2014. Vol. 2. № 3. AlCrFeCoNiCu high-entropy alloy // Journal of Alloys 
+P. 107–123. DOI: 10.1080/21663831.2014.912690. and Compounds. 2015. Vol. 636. P. 304–309. DOI: 10. 
+
+4. Chen S.-T., Tang W.-Y., Kuo Y.-F., Chen S.-Y.,  1016/j.jallcom.2014.12.012. 
+Tsau C.-H., Shun T.-T., Yeh J.-W. Microstructure and 16. Kumar N.A.P.K., Li C., Leonard K.J., Bei H., Zinkle S.J. 
+properties of age-hardenable AlxCrFe1.5MnNi0.5 alloys // Microstructural stability and mechanical behavior of 
+Materials Science and Engineering A. 2010. Vol. 527.  FeNiMnCr high entropy alloy under ion irradiation // 
+№ 21-22. P. 5818–5825. DOI: 10.1016/j.msea.2010 Acta Materialia. 2016. Vol. 113. P. 230–244. DOI: 10. 
+.05.052. 1016/j.actamat.2016.05.007. 
+
+5. Tong C.-J., Chen M.-R., Chen S.-K., Yeh J.-W.,  17. Hoffman A., He L., Luebbe M., Pommerenke H., Duan J., 
+Shun T.-T., Lin S.-J., Chang S.-Y. Mechanical perfor- Cao P., Sridharan K., Lu Z., Wen H. Effects of Al and 
+mance of the AlxCoCrCuFeNi high-entropy alloy sys- Ti additions on irradiation behavior of FeMnNiCr multi-
+tem with multiprincipal elements // Metallurgical and principal-element alloy // JOM. 2020. Vol. 72. № 1.  
+Materials Transactions A: Physical Metallurgy and Ma- P. 150–159. DOI: 10.1007/s11837-019-03871-4. 
+terials Science. 2005. Vol. 36. № 5. P. 1263–1271.  18. Scully J.R. Polarization resistance method for determi-
+DOI: 10.1007/s11661-005-0218-9. nation of instantaneous corrosion rates // Corrosion. 
+
+6. Mary S.J., Nagalakshmi R., Epshiba R. High entropy 2000. Vol. 56. № 2. P. 199–217. DOI: 10.5006/1. 
+alloys properties and its applications – an overview // 3280536. 
+European Chemical Bulletin. 2015. Vol. 4. № 6. P. 279– 19. De Cooman B.C., Estrin Y., Kim S.K. Twinning-
+284. DOI: 10.17628/ecb.2015.4.279-284. induced plasticity (TWIP) steels // Acta Materialia. 
+
+7. Sitdikov V.D., Islamgaliev R.K., Nikitina M.A., 2018. Vol. 142. P. 283–362. DOI: 10.1016/j.actamat. 
+Sitdikova G.F. Comprehensive use of X-ray techniques 2017.06.046. 
+to study the structure of ultrafine-grained ferritic/ 20. Gigax J.G., El-Atwani O., McCulloch Q., Aytuna B., 
+martensitic steel // Journal of Materials Engineering and Efe M., Fensin S., Maloy S.A., Li N. Micro-  
+
+F rontier Materials & Technologies. 2022. № 4 87
+
+
+
+Нестеров К.М., Фаррахов Р.Г., Аубакирова В.Р. и др.   «Термическая стабильность и коррозионная стойкость…» 
+
+and mesoscale mechanical properties of an ultra-fine grained martensitic steel. Materials Science and Engi-
+grained CrFeMnNi high entropy alloy produced by neering A, 2019, vol. 744, pp. 163–170. DOI: 10. 
+large strain machining // Scripta Materialia. 2020.  1016/j.msea.2018.11.141. 
+Vol. 178. P. 508–512. DOI: 10.1016/j.scriptamat.2019. 9. Valiev R.Z., Zhilyaev A.P., Lengdon T.Dzh. Obemnye 
+11.042. nanostrukturnye materialy: fundamentalnye osnovy  
+
+21. Huang S., Huang H., Li W., Kim D., Lu S., Li X., i primeneniya [Bulk nanostructured materials: funda-
+Holmström E., Kwon S.K., Vitos L. Twinning in meta- mentals and applications]. Sankt Petersburg, Eko-
+stable high-entropy alloys // Nature Communications. Vektor Publ., 2017. 480 p. 
+2018. Vol. 9. № 1. Article number 2381. DOI: 10.1038/ 10. Osintsev K.A., Gromov V.E., Konovalov S.V., Iva- 
+s41467-018-04780-x. nov Yu.F., Panchenko I.A. High-entropy alloys: struc-
+
+22. Hsu Y.J., Chiang W.C., Wu J.K. Corrosion behavior of ture, mechanical properties, deformation mechanisms 
+FeCoNiCrCux high-entropy alloys in 3.5% sodium and application. Izvestiya vysshikh uchebnykh zave-
+chloride solution // Materials Chemistry and Physics. deniy. Chernaya metallurgiya, 2021, vol. 64, no. 4,  
+2005. Vol. 92. № 1. P. 112–117. DOI: 10.1016/j. pp. 249–258. DOI: 10.17073/0368-0797-2021-4-249-
+matchemphys.2005.01.001. 258. 
+
+23. Koch C.C., Scattergood R.O., Darling K.A., Semones J.E. 11. Sathiyamoorthi P., Kim H.S. High-entropy alloys with 
+Stabilization of nanocrystalline grain sizes by solute ad- heterogeneous microstructure: Processing and mechani-
+ditions // Journal of Materials Science. 2008. Vol. 43.  cal properties. Progress in Materials Science, 2022,  
+№ 23-24. P. 7264–7272. DOI: 10.1007/s10853-008- vol. 123, article number 100709. DOI: 10.1016/j. 
+2870-0. pmatsci.2020.100709. 
+ 12. Miracle D.B., Senkov O.N. A critical review of high 
+
+entropy alloys and related concepts. Acta Materialia, 
+REFERENCES 2017, vol. 122, pp. 448–511. DOI: 10.1016/j.actamat. 
+
+1. Gromov V.E., Shlyarova Y.A., Vorob'ev S.V., 2016.08.081. 
+Konovalov S.V., Peregudov O.A. Application of high- 13. Cantor B., Chang I.T.H., Knight P., Vincent A.J.B. Mi-
+entropy alloys. Steel in Translation, 2021, vol. 51,  crostructural development in equiatomic multicompo-
+no. 10, pp. 700–704. DOI: 10.17073/0368-0797-2021- nent alloys. Materials Science and Engineering A, 2004, 
+10-747-754. vol. 375-377, no. 1-2 SPEC ISS, pp. 213–218. DOI: 10. 
+
+2. Anaman S.Y., Ansah S., Cho H.-H., Jo M.-G., Suh J.-Y., 1016/j.msea.2003.10.257. 
+Kang M., Lee J.-S., Hong S.-T., Han H.N. An investiga- 14. Klimova M., Shaysultanov D., Semenyuk A., Zhereb-
+tion of the microstructural effects on the mechanical and tsov S., Stepanov N. Effect of carbon on recrystallised 
+electrochemical properties of a friction stir processed microstructures and properties of CoCrFeMnNi-type 
+equiatomic CrMnFeCoNi high entropy alloy. Journal of high-entropy alloys. Journal of Alloys and Compounds, 
+Materials Science and Technology, 2021, vol. 87,  2021, vol. 851, article number 156839. DOI: 10.1016/j. 
+pp. 60–73. DOI: 10.1016/j.jmst.2021.01.043. jallcom.2020.156839. 
+
+3. Tsai M.-H., Yeh J.-W. High-entropy alloys: a critical 15. Kourov N.I., Pushin V.G., Korolev A.V., Knyazev Y.V., 
+review. Materials Research Letters, 2014, vol. 2, no. 3, Ivchenko M.V., Ustyugov Y.M. Peculiar features of 
+pp. 107–123. DOI: 10.1080/21663831.2014.912690. physical properties of the rapid quenched 
+
+4. Chen S.-T., Tang W.-Y., Kuo Y.-F., Chen S.-Y.,  AlCrFeCoNiCu high-entropy alloy. Journal of Alloys 
+Tsau C.-H., Shun T.-T., Yeh J.-W. Microstructure and and Compounds, 2015, vol. 636, pp. 304–309. DOI: 10. 
+properties of age-hardenable AlxCrFe1.5MnNi0.5 alloys. 1016/j.jallcom.2014.12.012. 
+Materials Science and Engineering A, 2010, vol. 527, 16. Kumar N.A.P.K., Li C., Leonard K.J., Bei H., Zinkle S.J. 
+no. 21-22, pp. 5818–5825. DOI: 10.1016/j.msea.2010. Microstructural stability and mechanical behavior of 
+05.052. FeNiMnCr high entropy alloy under ion irradiation. 
+
+5. Tong C.-J., Chen M.-R., Chen S.-K., Yeh J.-W.,  Acta Materialia, 2016, vol. 113, pp. 230–244. DOI: 10. 
+Shun T.-T., Lin S.-J., Chang S.-Y. Mechanical perfor- 1016/j.actamat.2016.05.007. 
+mance of the AlxCoCrCuFeNi high-entropy alloy system 17. Hoffman A., He L., Luebbe M., Pommerenke H., Duan J., 
+with multiprincipal elements. Metallurgical and Materi- Cao P., Sridharan K., Lu Z., Wen H. Effects of Al  
+als Transactions A: Physical Metallurgy and Materials and Ti additions on irradiation behavior of FeMnNiCr 
+Science, 2005, vol. 36, no. 5, pp. 1263–1271.  multi-principal-element alloy. JOM, 2020, vol. 72,  
+DOI: 10.1007/s11661-005-0218-9. no. 1, pp. 150–159. DOI: 10.1007/s11837-019-03871-4. 
+
+6. Mary S.J., Nagalakshmi R., Epshiba R. High entropy 18. Scully J.R. Polarization resistance method for determi-
+alloys properties and its applications – an overview.  nation of instantaneous corrosion rates. Corrosion, 
+European Chemical Bulletin, 2015, vol. 4, no. 6,  2000, vol. 56, no. 2, pp. 199–217. DOI: 10.5006/ 
+pp. 279–284. DOI: 10.17628/ecb.2015.4.279-284. 1.3280536. 
+
+7. Sitdikov V.D., Islamgaliev R.K., Nikitina M.A., 19. De Cooman B.C., Estrin Y., Kim S.K. Twinning-
+Sitdikova G.F. Comprehensive use of X-ray techniques induced plasticity (TWIP) steels. Acta Materialia, 2018, 
+to study the structure of ultrafine-grained ferritic/ vol. 142, pp. 283–362. DOI: 10.1016/j.actamat. 
+martensitic steel. Journal of Materials Engineering  2017.06.046. 
+and Performance, 2019, vol. 28, no. 11, pp. 7109–7118. 20. Gigax J.G., El-Atwani O., McCulloch Q., Aytuna B., 
+DOI: 10.1007/s11665-019-04440-1. Efe M., Fensin S., Maloy S.A., Li N. Micro-  
+
+8. Islamgaliev R.K., Nikitina M.A., Ganeev A.V., Sit- and mesoscale mechanical properties of an ultra-fine 
+dikov V.D. Strengthening mechanisms in ultrafine- grained CrFeMnNi high entropy alloy produced by 
+
+8 8 Frontier Materials & Technologies. 2022. № 4
+
+
+
+Нестеров К.М., Фаррахов Р.Г., Аубакирова В.Р. и др.   «Термическая стабильность и коррозионная стойкость…» 
+
+large strain machining. Scripta Materialia, 2020, vol. 178, chloride solution. Materials Chemistry and Physics, 
+pp. 508–512. DOI: 10.1016/j.scriptamat.2019.11.042. 2005, vol. 92, no. 1, pp. 112–117. DOI: 10.1016/j. 
+
+21. Huang S., Huang H., Li W., Kim D., Lu S., Li X., matchemphys.2005.01.001. 
+Holmström E., Kwon S.K., Vitos L. Twinning in meta- 23. Koch C.C., Scattergood R.O., Darling K.A., Semo- 
+stable high-entropy alloys. Nature Communications, nes J.E. Stabilization of nanocrystalline grain sizes by 
+2018, vol. 9, no. 1, article number 2381. DOI: 10. solute additions. Journal of Materials Science, 2008, 
+1038/s41467-018-04780-x. vol. 43, no. 23-24, pp. 7264–7272. DOI: 10.1007/ 
+
+22. Hsu Y.J., Chiang W.C., Wu J.K. Corrosion behavior of s10853-008-2870-0. 
+FeCoNiCrCux high-entropy alloys in 3.5% sodium 
+ 
+
+Thermal stability and corrosion resistance  
+of ultrafine-grained high-entropy Fe30Ni30Mn30Cr10 alloy 
+
+© 2022 
+1
+
+Konstantin M. Nesterov* , PhD (Physics and Mathematics),  
+researcher of the Research Institute of Physics of Advanced Materials 
+
+2
+Ruzil G. Farrakhov , PhD (Engineering), Associate Professor, assistant professor of Chair of Electronic Engineering 
+
+3
+Veta R. Aubakirova , PhD (Engineering), senior lecturer of Chair of Electronic Engineering 
+
+4
+Rinat K. Islamgaliev , Doctor of Sciences (Physics and Mathematics), Professor,  
+
+professor of Chair of Materials Science and Physics of Metals 
+5
+
+Arina R. Sirazeeva , student 
+6
+
+Adkham Abuayyash , postgraduate student 
+Ufa University of Science and Technology, Ufa (Russia) 
+ 
+
+1
+*E-mail: kmnesterov@mail.ru ORCID: https://orcid.org/0000-0002-7053-3131 
+
+2ORCID: https://orcid.org/0000-0001-6670-1537 
+3ORCID: https://orcid.org/0000-0002-8483-6408 
+4ORCID: https://orcid.org/0000-0002-6234-7363 
+5ORCID: https://orcid.org/0000-0003-3841-2169 
+6ORCID: https://orcid.org/0000-0002-0319-0992 
+
+ 
+ 
+
+Received 04.05.2022                     Accepted 24.11.2022 
+ 
+Abstract: One of the promising research areas developing in recent times in the materials science is the development 
+
+and research of high-entropy alloys containing several metal elements with the concentration close to equiatomic. The in-
+terest to them is generated by the fact that such alloys demonstrate the improved mechanical and functional properties. 
+Another promising area improving strength of metallic materials is grain refinement using the severe plastic deformation 
+methods. This work uses both approaches to form an ultrafine-grained (UFG) structure in the high-entropy 
+Fe30Ni30Mn30Cr10 alloy. The paper presents the structure, strength, thermal stability, and corrosion resistance of a high-
+entropy alloy subjected to the high pressure torsion (HPT). The study of the structure carried out by scanning electron mi-
+croscopy showed that the application of the HPT deformation leads to the formation of an UFG structure with an average 
+grain diameter less than 200 nm depending on temperature of HPT processing. Microhardness measuring and tensile tests 
+at room temperature showed that after grain refinement, an increase in microhardness and ultimate tensile strength occurs 
+in a high-entropy alloy, which is more than three times higher compared to the initial coarse-grained sample. At the same 
+time, the UFG samples of a high-entropy alloy manifested thermal stability of microhardness after annealing up to tempe-
+rature of 500 °С. The electrochemical tests carried out in an aqueous solution of 3.5 % NaCl at the temperature of 37 °С 
+demonstrated a high corrosion resistance of the UFG high-entropy alloy. 
+
+Keywords: thermal stability; heat treatment; corrosion resistance; high-entropy alloy; high pressure torsion deformation 
+(HPT); corrosion tests; polarization curve. 
+
+Acknowledgments: R.K. Islamgaliev and K.M. Nesterov express their gratitude to the Russian Science Foundation for 
+its financial support within the project No. 22-23-00714. 
+
+For citation: Nesterov K.M., Farrakhov R.G., Aubakirova V.R., Islamgaliev R.K., Sirazeeva A.R., Abuayyash A. 
+Thermal stability and corrosion resistance of ultrafine-grained high-entropy Fe30Ni30Mn30Cr10 alloy. Frontier Materials  
+& Technologies, 2022, no. 4, pp. 81–89. DOI: 10.18323/2782-4039-2022-4-81-89. 
+
+F rontier Materials & Technologies. 2022. № 4 89

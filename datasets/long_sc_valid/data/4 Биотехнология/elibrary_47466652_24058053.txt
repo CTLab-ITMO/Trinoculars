@@ -1,0 +1,703 @@
+﻿Обзор / Review article DOI: 10.30901/2658-6266-2021-3-o1
+
+РЕГУЛЯЦИЯ БИОСИНТЕЗА ФЛАВОНОИДОВ У ПРЕДСТАВИТЕЛЕЙ 
+ТРИБЫ ФАСОЛИЕВЫЕ Phaseoleae DC
+Крылова Е. А.1*, Михайлова А. С.1,2
+
+1Федеральный исследовательский центр Всероссийский институт генетических ресурсов растений имени Н.И. Вавилова (ВИР),
+190000 Россия, г.Санкт-Петербург, ул. Б. Морская, 42, 44;
+*  e.krylova@vir.nw.ru
+2Санкт-Петербургский государственный университет,
+199034 Россия, г. Санкт-Петербург, Университетская наб., д. 7–9
+
+Флавоноиды играют важную роль в метаболизме растений. Многие из них проявляют антиоксидантную активность и являют-
+ся пигментами, окрашивающими ткани растений в разнообразные цвета. Продукты питания, богатые флавоноидными соедине-
+ниями, рассматривают в качестве функциональных компонентов здорового рациона. В настоящее время отмечается повышенный 
+интерес к изучению генетических механизмов, лежащих в основе появления признаков окраски у растений. Пути биосинтеза фла-
+воноидов находятся под контролем двух групп генов. Структурные гены кодируют ферменты биосинтеза, а регуляторные гены ‒ 
+транскрипционные факторы, контролирующие экспрессию структурных генов. Транскрипционные факторы, относящиеся к семей-
+ствам R2R3-Myb, bHLH-Myc и WDR, образуют комплекс MBW, который вовлечен в регуляцию экспрессии структурных генов био-
+синтеза флавоноидов. Механизмы регуляции биосинтеза антоцианов и проантоцианидинов комплексом MBW подробно описаны 
+у модельного растительного объекта Arabidopsis thaliana L. В настоящем обзоре обобщены данные о регуляции биосинтеза феноль-
+ных пигментов и об особенностях их накопления в растительных тканях у основных представителей трибы Phaseoleae DC: сои 
+Glycine max (L.) Merr., фасоли обыкновенной Phaseolus vulgaris L., адзуки Vigna angularis (Willd.) Ohwi & Ohashi и коровьего гороха 
+V. unguiculata (L.) Walp. Обсуждаемые в данном обзоре виды являются наиболее важными бобовыми культурами во многих странах 
+мира, играя ключевую роль в рационе питания миллионов людей. Идентификация и характеристика генов, контролирующих пути 
+биосинтеза флавоноидов, являются необходимым условием для успешной селекции современных сортов с повышенной диетичес-
+кой ценностью. Выявление закономерностей накопления флавоноидов необходимо для решения проблемы расширения разнообра-
+зия растительной продукции.
+
+Ключевые слова: флавоноиды, антоцианы, регуляторные гены, структурные гены, комплекс MBW, Phaseoleae
+
+Для цитирования: 
+Крылова Е.А., Михайлова А.С. Регуляция биосинтеза флавоноидов у представителей трибы фасолиевые Phaseoleae DC. Биотех-
+нология и селекция растений. 2021;4(3):15-25. DOI: 10.30901/2658-6266-2021-3-o1
+
+Прозрачность  финансовой  деятельности. Авторы не имеют финансовой заинтересованности в представленных материалах 
+или методах. Авторы  благодарят  рецензентов  за  их  вклад  в  экспертную  оценку  этой  работы. Дополнительная 
+информация. Полные данные этой статьи доступны https://doi.org/10.30901/2658-6266-2021-3-o1 Мнение  журнала  нейтрально 
+к изложенным материалам, авторам и их месту работы. Все авторы одобрили рукопись. Конфликт интересов отсутствует.
+
+Благодарности: Статья подготовлена в рамках государственного задания ВИР согласно тематическому плану НИР по теме № 0481-
+2019-0001 «Геномные и постгеномные технологии для выявления новых генетических маркеров селекционно-значимых свойств 
+и новых аллельных вариантов хозяйственно ценных генов в генофонде культурных растений и их диких родичей».
+
+Plant Biotechnology and Breeding 2021;4(3)
+15
+
+
+
+REGULATION OF FLAVONOID BIOSYNTHESIS IN 
+REPRESENTATIVES OF THE TRIBE Phaseoleae DC
+Krylova E. A.1*, Mikhailova A. S.1,2
+
+1N.I. Vavilov All-Russian Institute of Plant Genetic Resources (VIR), 
+42, 44 Bolshaya Morskaya Street, St. Petersburg 190000, Russia;
+*  e.krylova@vir.nw.ru
+2 St. Petersburg State University, 
+7/9, University Emb., St. Petersburg 199034, Russia
+
+Flavonoids play a crucial role in plant metabolism. Many of them have antioxidant activity, and they are also pigments that render a variety 
+of colors to plant tissues. Foods rich in flavonoid compounds are considered as functional components of a healthy diet. Currently, there is 
+an increased interest in studying genetic mechanisms underlying the coloration of plants. Flavonoid biosynthesis pathways are controlled 
+by two groups of genes. Structural genes encode enzymes, while regulatory genes are responsible for transcription factors that activate 
+the expression of structural genes. Transcription factors that belong to R2R3-Myb, bHLH-Myc and WDR families form the ternary MBW 
+complex, which is involved in regulating the expression of structural genes of flavonoid biosynthesis. The mechanisms of regulation of the 
+anthocyanins and proanthocyanidin biosynthesis by the MBW complex are described in detail for the model plant Arabidopsis thaliana L. 
+This review summarizes data on the regulation of phenolic pigment biosynthesis and the features of phenolic pigment accumulation in plant 
+tissues in the main representatives of the Phaseoleae tribe: soybean Glycine max (L.) Merr., common bean Phaseolus vulgaris L., adzuki 
+bean Vigna angularis (Willd.) Ohwi & Ohashi, and cowpea V. unguiculata (L.) Walp. The species discussed in this review are the most 
+important food legumes in many countries of the world and they comprise the staple food in diets of millions of people. Identification and 
+characterization of the genes controlling the flavonoid biosynthesis pathways are necessary for successful breeding of modern varieties 
+with an increased dietary value. Identification of the flavonoid accumulation patterns is essential for solving the problem of broadening the 
+diversity of plant products.
+
+Key words: flavonoids, anthocyanins, regulatory genes, structural genes, MBW regulatory complex, Phaseoleae
+
+For citation:  
+Krylova E.A., Mikhailova A.S. Regulation of flavonoid biosynthesis in representatives of the tribe Phaseoleae DC. Plant Biotechnology 
+and Breeding. 2021;4(3):15-25. (In Russ.). DOI: 10.30901/2658-6266-2021-3-o1
+
+Financial transparency. The authors have no financial interest in the presented materials or methods.  
+The authors thank the reviewers for their contribution to the peer review of this work. Additional information.  
+Extended data is available for this paper at https://doi.org/10.30901/2658-6266-2021-3-o1 The journal’s opinion is neutral to the presented 
+materials, the author, and his or her employer. All authors approved the manuscript. No conflict of interest.
+
+ORCID ID:  УДК 581.19:581.175.11:577.127.4:577.151.05:577.214.622:582.736 
+Krylova E.A.  https://orcid.org/0000-0002-4917-6862 Поступила в редакцию: 8.11.2021 
+Mikhailova A.S.   https://orcid.org/0000-0003-4565-1539 Принята к публикации: 12.12.2021
+
+Acknowledgments: The article was prepared as part of the VIR Government Assignment in accordance with the R&D Thematic Plan Topic 
+No. 0481-2019-0001 “Genomic and post-genomic technologies for identifying new genetic markers of properties of importance for breeding 
+and new allele variants of economically important genes in the genepool of crops and their wild relatives”.
+
+Биотехнология и селекция растений 2021;4(3)
+16
+
+
+
+Введение ная (Phaseolus vulgaris L.) – очень популярная культура 
+в мире, является единственным видом фасоли, имеющим 
+
+Флавоноиды представляют собой наиболее многочис- производственные площади в нашей стране (Vishnyakova 
+ленную группу фенольных соединений растений и гри- et al., 2019). Виды рода Vigna Savi входят в рацион пита-
+бов (Lepiniec et al., 2006; Kumar et al., 2018). Их основ- ния многих людей. Семена одного из видов рода Vigna 
+ной углеродный скелет содержит 15 атомов углерода. – адзуки (Vigna angularis (Willd.) Ohwi & Ohashi) приме-
+При этом два ароматических кольца связаны тремя угле- няются в качестве лекарственного средства. Их исполь-
+родными атомами (C6-C3-C6). В зависимости от степе- зуют для лечения различных заболеваний, в том чис-
+ни окисления трехуглеродного участка, флавоноиды раз- ле при борьбе с ожирением и диабетом (Liu et al., 2017). 
+деляют на антоцианы (дигидрофлавонолы), флавононы, Коровий горох (V. unguiculata (L.) Walp.) – культура мно-
+флавоны, флавонолы и изофлавонолы (Medvedev, 2012; гоцелевого использования, играет важную роль в рацио-
+Jiang et al., 2016). Они играют важную роль в защите рас- не питания для миллионов людей. Интерес к этой культу-
+тений от абиотических и биотических стрессоров, а так- ре в последние годы сильно возрос среди селекционеров 
+же составляют большую группу растительных пигмен- (Boukar et al., 2015; Burlyaeva et al., 2019; Vishnyakova 
+тов (Delph, Lively, 1989; Shirley, 1998; Havsteen, 2002; et al., 2019).
+Takahashi, Ohnishi, 2004; Makoi et al., 2010; Pollastri, Окрашенные семена фасоли обыкновенной бога-
+Tattini, 2011; Panche et al., 2016). Антоцианы (синие, крас- ты фенольными соединениями, обладающими антиокси-
+ные, фиолетовые пигменты) являются основными крася- дантным действием за счет способности улавливать сво-
+щими веществами растений и придают им яркую окрас- бодные радикалы и проявляющими антимутагенную, 
+ку, что позволяет и быть аттрактантами при опылении антиканцерогенную активности (De Mejı́a et al., 1999; 
+цветков и распространении плодов (Medvedev, 2012; Beninger, Hosfield 2003; Madhujith et al., 2004; Agati et al., 
+Jaakola, 2013). Флавоны и флавонолы поглощают свет 2012; Agati et al., 2013). Кроме этого, в проростках образ-
+в более коротковолновой части спектра (λ = 280 -320 нм) цов фасоли P. vulgaris были обнаружены антоцианиди-
+чем антоцианы (Jiang et al., 2016). Поэтому одной из глав- ны (дельфинидин, петунидин и мальвидин) и флавоно-
+ных функций флавонов и флавонолов является защи- лы (мирицетин, кверцетин и кемпферол) (Hungria et al., 
+та растительных тканей (в первую очередь эпидермаль- 1991). В гипокотилях, оболочках семян и в зрелых листьях 
+ных) от ультрафиолетовой радиации (Agati et al., 2013). образцов адзуки V. angularis и маша V. radiata содержит-
+Кроме этого флавоноиды защищают растительный орга- ся двенадцать видов флавоноидов, включая производные 
+низм от таких абиотических факторов, как засуха, повы- антоцианов (дельфинидин и цианидин), лейкоантоцианы, 
+шение концентрации тяжелых металлов в почве и других, гликофлавоны и флавоноловые гликозиды (рутин, кемп-
+а также играют активную роль при защите от вирусных ферол, изокверцетин) (Ishikura et al., 1981). Из экстрак-
+или бактериальных инфекций (Ohnishi et al., 1992; Ryan та листьев вида V. unguiculata были выделены кверцетин 
+et al., 2002; Moy et al., 2004; Williams et al., 2004; Berli (наибольшая концентрация), кемпферол и изорамнетин 
+et al., 2009; Takahashi et al., 2010; Agati et al., 2011; Agati (Lattanzio et al., 1996).
+et al., 2013). Эти вещества обладают сильными антиок- Основной задачей современной селекции являет-
+сидантными свойствами, а при употреблении продук- ся создание высокопродуктивных сортов с повышенной 
+тов, богатых антиоксидантами, значительно уменьшают- диетической ценностью. Сорта с окрашенными семе-
+ся риски развития сердечно-сосудистых, онкологических, нами, бобами и проростками имеют большой потенци-
+а также возрастных нейроденегеративных заболеваний, ал как продукты, оказывающие положительный эффект 
+улучшается синтез зрительных пигментов, активируют- на здоровье человека (Cardador-Martínez et al., 2002; 
+ся процессы обмена веществ (Korkina, Afanase’Ev, 1996; Beninger, Hosfield, 2003; Madhujith et al., 2004; Espinosa-
+Burak et al., 1999; Beninger, Hosfield, 2003; Fritz et al.,2003; Alonso et al., 2006; Chávez-Santoscoy et al., 2013). 
+Nassourou et al.,2016). В связи с этим антоцианы пред- В последнее время отмечается повышенный интерес 
+ставляют особый интерес как один из компонентов функ- к изучению генетических механизмов, лежащих в осно-
+ционального питания. ве контроля признаков окраски у растений. В настоящем 
+
+Биологически активные вещества, в том числе обзоре представлены данные о генетическом контроле 
+и фенольные соединения, обнаружены у представите- биосинтеза фенольных соединений у основных предста-
+лей семейства Fabaceae Lindl. (Stanton, Francis, 1966; вителей фасолиевых, при этом особое внимание уделено 
+Ndakidemi, Dakora, 2003; Makoi et al., 2010; Perchuk et al., исследованиям антоцианов в качестве функциональных 
+2020; Saigo et al., 2020). В состав трибы Phaseoleae DC. компонентов продуктов питания.
+входят виды, имеющие экономическое значение, многие 
+из них являются наиболее важными продовольственными Особенности регуляции биосинтеза 
+бобовыми культурами во многих странах (Boukar et al., флавоноидных пигментов у модельного объекта 
+2015). Соя (Glycine max (L.) Merr.) – одна из экономиче- Arabidopsis thaliana L.
+ски важных зернобобовых культур, которая обеспечивает 
+большую часть растительного белка. Фасоль обыкновен- Разнообразие флавоноидов образуется в результате 
+
+Plant Biotechnology and Breeding 2021;4(3)
+17
+
+
+
+фенилпропаноидного и флавоноидного путей биосинтеза, теза, а регуляторные гены ‒ транскрипционные факто-
+которые контролируют две группы генов (Cheynier et al., ры (Рисунок), контролирующие экспрессию структурных 
+2013). Структурные гены кодируют ферменты биосин- генов (Adzhieva et al., 2015; Zhang et al., 2017) (Рисунок).
+
+Рисунок. Схема биосинтеза флавоноидов у растений.
+Ферменты, кодируемые структурными генами: 4CL – 4-кумарат КоА лигаза;
+ANR – антоцианидинредуктаза; ANS – антоцианидинсинтаза; АT – ацетилтрансфераза; CHI – халконфлаванонизо-
+мераза; С4H – циннамат-4-гидроксилаза; CHS – халконсинтаза; DFR – дигидрофлавонол-4 -редуктаза; F3H – флава-
+нон-3-гидроксилаза; FLS – флавонолсинтаза; FNS – флавонсинтаза; GT – гликозилтрансфераза; LAC15 – лакказа 15; 
+LAR – лейкоантоцианидинредуктаза; МТ – метилтрансфераза;. PAL – фенилаланинаммонийлиаза; Ogly – гликозидная 
+связь; R2R3-Myb, bHLH-Myc, WDR – транскрипционные факторы, кодируемые регуляторными генами. Схема постро-
+ена с использованием данных Li (2014)
+
+Figure. Flavonoid biosynthesis pathway in plants.
+Enzymes coded by structural genes: 4CL – 4-coumarate CoA ligase;
+ANR – anthocyanidin reductase; ANS – anthocyanidin synthase; АT – acetyltransferase; CHI – chalcone isomerase; С4H – 
+cinnamate 4-hydroxylase; CHS – chalcone synthase; DFR – dihydroflavonol 4-reductase; F3H – flavanone 3-hydroxylase; 
+FLS – flavonol synthase; FNS – flavone synthase; GT – glycosyltransferase; LAC15 – laccase 15; LAR – leucoanthocyanidin 
+reductase; МТ – methyltransferase;. PAL – phenylalanine ammonia-lyase; Ogly – glycosidic bond; R2R3-Myb, bHLH-Myc, 
+WDR – transcription factors coded by regulatory genes. The scheme is based on the data from Li (2014)
+
+Биотехнология и селекция растений 2021;4(3)
+18
+
+
+
+Ключевую роль в биосинтезе вторичных метаболи- ционные факторы GL3 и EGL3, помимо контроля био-
+тов растений играют дезаминазы ароматических амино- синтеза флавоноидов, участвуют в регуляции развития 
+кислот. В частности, реакция дезаминирования фенил- трихом и корневых волосков, взаимодействуя с Myb, тог-
+аланина до транс-коричной кислоты под действием да как TTG1 в основном выполняет роль стабилизатора 
+фенилаланинаммонийлиазы (PAL) предшествует образо- общего комплекса MBW как результата взаимодействия 
+ванию основных фенольных соединений в ходе фенил- транскрипционных факторов Myb и bHLH (Stracke et al., 
+пропаноидного пути (Saito et al., 2013; Barros, Dixon, 2007; Qi et al., 2011; Xu et al., 2015).
+2020; Jun et al., 2018). При этом тканеспецифический пат- В регуляцию биосинтеза проантоцианидинов вовле-
+терн экспрессии генов определяет распределение пиг- чен комплекс MBW, включающий гены TTG1 (семейство 
+ментов (Kleindt et al., 2010). В настоящее время известно, WD40), TT2 (семейство R2R3-Myb) и TT8 (семейство 
+что регуляция экспрессии структурных генов биосинте- bHLH) (Baudry et al., 2004; Kleindt et al., 2010).
+за флавоноидов осуществляется комплексом MBW, кото- Кроме того, в ходе изучения генов транскрипционных 
+рый образуют транскрипционные факторы, относящиеся факторов группы R2R3-Myb у арабидопсиса были выяв-
+к семействам R2R3-Myb, bHLH-Myc и WDR (Buer et al., лены гены-репрессоры биосинтеза антоцианов: AtMYB3, 
+2010; Cheynier et al., 2013). Различные факторы окружа- AtMYB4, AtMYB7, AtMYB32 и AtMYB60 (Jin, 2000; Stracke 
+ющей среды, такие как УФ-излучение, засуха, экстре- et al., 2007; Park et al., 2008; Dubos et al., 2010). CPC-по-
+мальные температуры, недостаток азота, а также фито- добный ген (CAPRICE), кодирующий белки, относящиеся 
+гормоны (жасмонаты, цитокинины, абсцизовая кислота) к группе R3-Myb, вовлечен в процессы дифференциации 
+вызывают накопление в тканях пигментов флавоноид- корневых волосков и развития трихом у арабидопсиса, 
+ной природы посредством активации транскрипционного а также влияет на накопление антоцианов, уменьшая их 
+трёхкомпонентного комплекса MBW (Christie et al., 1994; концентрацию в растительных тканях (Zhu et al., 2009).
+Lea et al., 2007). Транскрипционные факторы связывают-
+ся с цис-активными элементами в промоторной области Особенности регуляции биосинтеза 
+гена-мишени (Katiyar et al., 2012). У семейства Myb выде- флавоноидных пигментов у основных 
+ляют 3 группы транскрипционных факторов: R1R2R3- представителей трибы Phaseoleae
+Myb, R2R3-Myb и R1-Myb, в зависимости от количества 
+мотивов в ДНК-связывающем домене (Dubos et al., 2010). Фасоль  обыкновенная,  коровий  горох,  адзу-
+Наиболее многочисленным семейством является R2R3- ки. Геномы многих представителей трибы фасолие-
+Myb. Оно, совместно с bHLH и WDR, вовлечено в регу- вых секвенированы (соя G. max, виды рода Vigna (адзуки 
+ляцию биосинтеза большинства вторичных метаболитов, V. angularis, маш V. radiata, коровий горох V. unguiculata), 
+в частности и флавоноидных пигментов (Nesi et al., 2000; голубиный горох (Cajanus cajan (L.) Millsp.), фасоль 
+Nesi et al., 2001; Dubos et al., 2010; Xu et al., 2015). Соглас- обыкновенная P. vulgaris) (Schmutz et al., 2010; 2014; 
+но литературным данным, у покрытосеменных растений Varshney et al., 2012; Kang et al., 2014; Lonardi et al., 2019). 
+гены, кодирующие транскрипционные факторы R2R3- Коровий горох, маш, адзуки, фасоль обыкновенная, кая-
+Myb, bHLH-Myc и WDR, представлены множественными нус являются диплоидами (2n=22), соя – палеополипло-
+копиями (Lloyd et al., 2017). ид (2n=40), хромосомы которого претерпели множество 
+
+Важно отметить, что структурные гены флавоноидно- перестроек (Schmutz et al., 2010). Результаты сравнитель-
+го пути биосинтеза делятся на ранние и поздние, в зави- ного картирования свидетельствуют о высокой степени 
+симости от этапа биосинтеза, на котором они задейство- коллинеарности геномов перечисленных видов (Lonardi 
+ваны. У представителей класса двудольных экспрессию et al., 2019). Важно отметить, что высокий уровень макро-
+ранних генов активируют гены, кодирующие белки синтении был обнаружен между геномами описанных 
+семейства Myb, в то время как активация поздних осу- видов рода Vigna, а также с геномом фасоли обыкно-
+ществляется совместным действием всех компонентов венной (Vasconcelos et al., 2015; Muñoz-Amatriaín et al., 
+комплекса MBW (Koes et al., 2005; Petroni, Tonelli, 2011; 2017). Расширение программ селекции этих видов связа-
+Li, 2014). но с результатами полногеномного секвенирования, кото-
+
+Механизмы регуляции биосинтеза антоцианов и про- рые позволили выделить системы генов биосинтеза фла-
+антоцианидинов подробно описаны у модельного рас- воноидов.
+тительного объекта Arabidopsis thaliana L. (Walker et al., Семена фасоли обыкновенной P. vulgaris отличаются 
+1999; Kleindt et al., 2010; Jaakola, 2013). У арабидопси- разнообразием по окраске и форме. В окрашенных семе-
+са накопление антоцианов транскрипционно активиру- нах фасоли обнаружены различные антоцианы, а также 
+ется непосредственно комбинаторным действием бел- флавоны и флавонолы, такие как кверцетин, кемпферол, 
+ков семейства R2R3-Myb (PAP1 / MYB75, PAP2 / MYB90, катехин и другие соединения, проявляющие антиокси-
+MYB113 и MYB114), bHLH (GL3 / bHLH001, дантную активность (Hungria et al., 1991; De Mejı́a et al., 
+EGL3 / bHLH002 и TT8 / bHLH042), а также белками 1999; Beninger, Hosfield, 2003; Aparicio-Fernandez et al., 
+семейства WD40 (TTG1) (Walker et al., 1999; Gonzalez 2005; Aisyah et al., 2016). Цвет семян фасоли определя-
+et al., 2008; Kleindt et al., 2010; Qi et al., 2011). Транскрип- ется природой и концентрацией антоцианов и конден-
+
+Plant Biotechnology and Breeding 2021;4(3)
+19
+
+
+
+сированных таннинов (проантоцианидинов) (Beninger, личный паттерн экспрессии. Для гена Vigun05g039800 
+Hosfield, 2003). Проантоцианидины ‒ наиболее рас- самый высокий уровень накопления транскриптов был 
+пространенная группа флавоноидов в семенах фасо- отмечен в листьях, экспрессия гена Vigun05g039700 
+ли, в то время как антоцианы были обнаружены только не была детектирована. Для гена Vigun05g039300 высо-
+в семенах, имеющих черную и сине-фиолетовую окраску кий уровень экспрессии зафиксирован в развивающих-
+(Beninger, Hosfield, 2003; Guzmán-Maldonado et al., 1996; ся бобах, цветках и листьях, а для генов Vigun05g039400 
+Romani et al., 2004). Так, из экстракта кожуры черных и Vigun05g039500 ‒ в семенах. В качестве гена-кандидата, 
+семян фасоли обыкновенной методом высокоэффектив- контролирующего черную окраску семян коровьего горо-
+ной жидкостной хроматографии с масс-спектрометричес- ха, предложен ген Vigun05g039500 (Herniter et al., 2018). 
+ким детектированием, были впервые выделены олигоме- При анализе образцов экспериментальной выборки авто-
+ры проантоцианидина, содержащие мономерные звенья рами исследования была обнаружена протяженная деле-
+эпигаллокатехина и гликозид мирицетина (Aparicio- ция, захватывающая полностью три гена Vigun05g039400, 
+Fernandez et al., 2005). При изучении антоциановой пиг- Vigun05g039500, Vigun05g039600, а также часть генов 
+ментации проростков представителей родов Phaseolus Vigun05g039300 и Vigun05g039700. В другой работе 
+(6 видов) и Vigna (12 видов) было показано, что мальви- при изучении регуляции антоциановой окраски бобов 
+дин является основным составляющим у большинства коровьего гороха (Li et al., 2020) также были выделе-
+изученных видов фасоли, в то время как дельфинидин ны гены-кандидаты Vigun05g030700, Vigun05g039300, 
+и цианидин у трех видов Vigna. Для большинства изу- Vigun05g039400, Vigun05g039700 и Vigun05g039800. Ген 
+ченных образцов было отмечено накопление антоцианов Vigun05g030700 относится к структурным генам и коди-
+в субэпидермальном слое стебля и гипокотиля. рует антоцианин 5-ароматическую ацилтрансферазу, 
+
+В первых работах по изучению наследования окраски а другие гены, кодирующие белки семейства Myb, кон-
+семян фасоли обыкновенной стало известно еще в начале тролируют развитие антоциановой окраски у бобов. Три 
+прошлого века. С использованием классического генети- гена, кодирующих белки семейста R2R3-Myb, а имен-
+ческого анализа было выделено шесть генов, определяю- но VuMYB90-1, VuMYB90-2, VuMYB90-3 (Vigun05g039700, 
+щих окраску семян, а также характер рисунка семенной Vigun05g039300, Vigun05g039800) имеют высокую сте-
+кожуры (Smith, 1939). Ген Р является основным, необ- пень сходства с регуляторными генами антоцианов 
+ходим для развития любой окраски семян (Smith, 1939; AtPAP2 / AtMYB90 у арабидопсиса (Li Y. et al., 2020). Кро-
+Prakken, 1970) и кодирует транскрипционный фактор ме этого, в настоящее время выделены два гена, ортоло-
+семейства bHLH (McClean et al., 2018). Ген Р является гичные генам AtCPC и AtMYB4 арабидопсиса, VuCPC 
+гомологом гена AtTT8 арабидопсиса, и у многих бобовых и VuMYB4, которые являются антагонистами биосинтеза 
+обнаружены ортологи этого гена, которые контролируют антоцианов (Vigun11g115400, Vigun01g142900) (Jin, 2000; 
+наличие или отсутствие окраски семян. В настоящее вре- Zhu et al., 2009; Li et al., 2020).
+мя с использованием транскриптомного анализа у фасо- У коровьего гороха идентифицированы и другие регу-
+ли обыкновенной идентифицировано 169 генов белков ляторные гены (Herniter et al., 2019). Ген, расположенный 
+семейства Myb и 75 генов, кодирующих белки семейства на 7 хромосоме (Vigun07g110700), кодирует белок семей-
+bHLH (Kalavacharla et al., 2011). ства bHLH, в то время как ген Vigun09g139900 коди-
+
+Первые работы по изучению наследования окраски рует белок из семейства WD40. Авторами исследова-
+семян коровьего гороха были начаты еще в начале XX ния была предложена модель взаимодействия белков, 
+века с использованием классических методов генетики в результате чего развивается окраска и контролируется 
+(Spillman, 1911; Harland, 1919; 1920). Спиллман пытался ее распределение по растению. Vigun09g139900 (WD40) 
+проанализировать характер наследования окраски семян и Vigun10g163900 (белок У3 убиквитин-лигаза) отвеча-
+коровьего гороха. Он выделял два фактора, W и H, опре- ют за паттерн окраски, в то время как Vigun07g110700 
+деляющих окраску семян (Spillman, 1911). В дальнейшем (bHLH) рассматривается как основной белок, контроли-
+изучение характера наследования антоциановой окрас- рующий интенсивность окраски. Ранее Vigun07g110700 
+ки цветков, семян, а также бобов коровьего гороха были был предложен как ген-кандидат, отвечающий также 
+продолжены Харландом (Harland, 1919; 1920). Он считал, за окраску цветков у коровьего гороха (Lo et al., 2018). 
+что сочетание четырех факторов (В, N, M и R) определя- Гомолог этого гена идентифицирован и у P. vulgaris 
+ет окраску семян, а фактор P обуславливает фиолетовый (McClean et al., 2018).
+цвет бобов, при этом Харланд отмечал, что, возможно, Помимо молекулярно-генетического анализа груп-
+окраску бобов определяет и большее число факторов. пой исследователей проведен подробный анализ тран-
+
+С использованием комплекса молекулярно-гене- скриптома и метаболома, уточняющий особенности 
+тических методов у V. unguiculata описаны несколь- накопления антоцианов и других флавоноидов у образ-
+ко генов-кандидатов, относящихся к регуляторным цов вида V. unguiculata. В качестве материала исследо-
+генам, кодирующим факторы семейства R2R3-Myb. вания были использованы два сорта с зеленой (Chinese 
+Группа генов, кодирующих белки семейства Myb, рас- light green) и фиолетовой (Chinese red noodle) окраской 
+положена на 5 хромосоме, при этом гены имеют раз- бобов (Li Y. et al., 2020). По результатам биохимическо-
+
+Биотехнология и селекция растений 2021;4(3)
+20
+
+
+
+го анализа бобы коровьего гороха фиолетового цвета Как известно, флавоноиды синтезируются в цито-
+содержат производные антоцианов (дельфинидин-3-гли- плазме, а затем транспортируются в вакуоли, где проис-
+козид и цианидин-3-гликозид) и кверцетина, в то время ходит их накопление и хранение (Kitamura, 2006; Petrussa 
+как в зеленых бобах зафиксировано минимальное содер- et al., 2013). Процессы синтеза и транспорта этих вторич-
+жание вышеперечисленных соединений. В ходе метабо- ных метаболитов регулируют транскрипционные фак-
+ломного анализа были обнаружены: антоцианы, халко- торы, некоторые из которых были идентифицированы 
+ны, дигидрофлавоны, дигидрофлавонолы, флаванолы, у сои (Yang et al., 2021). Так, описан транскрипционный 
+флавоны, флавонолы, изофлавоны и проантоцианиди- фактор, кодируемый геном GL3 и входящий в состав 
+ны. Кроме этого в работе выделены структурные гены, семейства bHLH. Компоненты последнего участвуют 
+вовлеченные в пути биосинтеза антоцианов и ряда фла- в формировании комплекса MBW (Myb–bHLH–WD40), 
+воноидов (Li Y. et al., 2020). Таким образом, из набора контролирующего биосинтез флавоноидов, включая анто-
+дифференциально экспрессирующихся генов, идентифи- цианы (Xu et al., 2015). Более того, у сои идентифициро-
+цированных по результатам транскриптомного анализа вано два GST гена, GSTT1 и GSTL3, кодирующих белок 
+V. unguiculata, были аннотированы некоторые гены-кан- глутатион S-трансферазу, которая, в свою очередь, ката-
+дидаты, вовлеченные в регуляцию биосинтеза флавоно- лизирует связывание флавоноидов с глутатионом. Обра-
+идов, но при этом не установлены тканеспецифичные зовавшийся комплекс транспортируется ABC-переносчи-
+закономерности их экспрессии. ком в вакуоли клетки (Braidot et al., 2008; Petrussa et al., 
+
+В настоящее время активно ведутся работы по изуче- 2013).
+нию системы генов биосинтеза флавоноидных пигмен- Таким образом, в настоящее время активно ведутся 
+тов у адзуки V. angularis (Chu et al., 2021a; 2021b). На хро- работы по исследованию генетического контроля биосин-
+мосоме 3 был выделен ген VaSDC1, кодирующий белок теза флавоноидных пигментов у зернобобовых, а также 
+семейства R2R3-Myb, предположительно определяющий и у ряда других важнейших культур сельскохозяйствен-
+красную или черную окраску семян адзуки. VaSDC1 име- ного назначения. Ранее результаты фундаментальных 
+ет высокую степень сходства с AtMYB75/90 арабидопсиса. исследований системы генов биосинтеза флавоноидных 
+
+пигментов у пшеницы позволили разработать научно 
+Соя. У сои G. max, входящей в общую с родом Vigna обоснованную ускоренную и экономически эффективную 
+
+трибу Phaseoleae, был проведен полногеномный анализ схему маркер-ориентированной селекции сортов с повы-
+генов, кодирующих белки семейства Myb, в ходе кото- шенным содержанием флавоноидов, а также успешно 
+рого идентифицировано 244 гена, отвечающих за синтез применить ее на практике (Gordeeva et al., 2015; 2020).
+белков семейства R2R3-Myb, а также 390 генов для бел-
+ков семейства bHLH (Kalavacharla et al., 2011; Du et al., Заключение
+2012). Помимо этого, у сои описан ген GmMYB176, бел-
+ковый продукт которого регулирует экспрессию гена хал- Здоровый образ жизни ‒ один из главных трендов раз-
+консинтазы GmCHS8 и влияет на синтез изофлавоноидов вития современного общества. Системный анализ и мар-
+в семенах (Yi et al., 2010a; 2010b). Посредством полно- кирование генов, влияющих на диетическую ценность 
+геномного анализа ассоциаций (GWAS) было выявле- и уровень биологически активных соединений, имеют 
+но 28 однонуклеотидных полиморфизмов (SNP), которые не только важное фундаментальное значение, но и высо-
+в большей степени связаны с повышенными концентра- кую практическую ценность.
+циями изофлавонов в растительных тканях сои. Из всех В обзоре представлены особенности регуляции био-
+генов, содержащих SNP, лишь у одного GmMYB29, коди- синтеза фенольных соединений у основных предста-
+рующего фактор транскрипции Myb типа R2R3, был вителей трибы Phaseoleae, которые являются наиболее 
+выявлен полиморфизм в 5’-нетранслируемой области важными продовольственными бобовыми культурами 
+(5’- UTR). Этот ген и был выбран для дальнейшего ана- во многих странах мира и составляют 27% от мирового 
+лиза. Ряд молекулярно-генетических подходов проде- производства сельскохозяйственных культур, при этом 
+монстрировал принадлежность этого гена к кодирующим обеспечивая 33% белка, потребляемого человеком. Кор-
+белки семейства R2R3-Myb и активное участие его бел- реляция окраски растительных тканей и содержания фла-
+кового продукта в контроле накопления изофлавонои- воноидов достаточно подробно исследованы у сои, одна-
+дов в семенах сои (Chu et al., 2017). Позднее было пока- ко у других представителей фасолиевых информации 
+зано, что GmMYB176, относящийся к группе R1-Myb, об этом недостаточно. В настоящее время интенсифици-
+взаимодействуя с транскрипционным фактором семей- руются работы по изучению генетической регуляции био-
+ства лейциновая молния GmbZIP5 (Basic leucine zipper, синтеза фенольных соединений у этих видов.
+bZIP), повышает уровень изофлавоноидов в корнях сои, Понимание механизмов, лежащих в основе биосин-
+в то время как подавление экспрессии гена GmbZIP5 теза флавоноидов, необходимо для повышения эффек-
+с помощью РНК-интерференции приводило к противо- тивности селекции сортов с повышенной диетической 
+положному эффекту (Dubos et al., 2010; Anguraj Vadivel ценностью. Выявление закономерностей накопления фла-
+et al., 2021). воноидов необходимо и для решения проблемы расшире-
+
+Plant Biotechnology and Breeding 2021;4(3)
+21
+
+
+
+ния разнообразия продукции растениеводства. Разработка Klin Tip Bil Derg. 1999;19:296-304.
+Burlyaeva M.O., Gurkina M.V., Chebukin P.A., Perchuk I.N., Mirosh-
+
+новых молекулярных маркеров позволит перейти к более nichenko E.V. New varieties of vegetable cowpea (Vigna unguic-
+эффективному и быстрому созданию новых сортов ulata subsp. sesquipedalis (L.) Verdc.) and prospects of their 
+посредством маркер-ориентированной селекции. cultivation in southern Russia. Vegetable crops of Russia. 
+
+2019;(5):33-37. [In Russian] (Бурляева М.О., Гуркина М.В., 
+Чебукин П.А., Перчук И.Н., Мирошниченко Е.В. Новые 
+
+Литература/References сорта вигны (Vigna unguiculata subsp. sesquipedalis (L.) Verdc.) 
+овощного использования, перспективные для возделывания 
+
+Adzhieva V.F., Babak O.G., Shoeva O.Y., Kilchevsky A.V., Khlest- в южных регионах России. Овощи России. 2019;(5):33-37). 
+kina E.K. Molecular-genetic mechanisms underlying fruit DOI: 10.18619/2072-9146-2019-5-33-37
+and seed coloration in plants. Vavilov Journal of Genetics and Cardador-Martínez A., Loarca-Piña G., Oomah B.D. Antioxidant activi-
+Breeding. 2015;19(5):561-573. [In Russian] (Аджиева В.Ф., ty in common beans (Phaseolus vulgaris L.). Journal of Agricul-
+Бабак О.Г., Шоева О.Ю., Кильчевский А.В., Хлесткина Е.К. tural and Food Chemistry. 2002;50(24):6975-6980. DOI: 10.1021/
+Молекулярно-генетические механизмы формирования jf020296n
+окраски плодов и семян растений. Вавиловский журнал Chávez-Santoscoy R.A., Gutiérrez-Uribe J.A., Serna-Saldívar S.O. 
+генетики и селекции. 2015;19(5):561-573). DOI: 10.18699/ Effect of flavonoids and saponins extracted from black bean 
+VJ15.073 (Phaseolus vulgaris L.) seed coats as cholesterol micelle dis-
+
+Agati G., Biricolti S., Guidi L., Ferrini F., Fini A., Tattini M. The bio- ruptors. Plant Foods for Human Nutrition. 2013;68(4):416-423. 
+synthesis of flavonoids is enhanced similarly by UV radiation and DOI: 10.1007/s11130-013-0384-7
+root zone salinity in L. vulgare leaves. Journal of Plant Physiolo- Cheynier V., Comte G., Davies K.M., Lattanzio V., Martens S. Plant 
+gy. 2011;168(3):204-212. DOI: 10.1016/j.jplph.2010.07.016 phenolics: Recent advances on their biosynthesis, genetics, and 
+
+Agati G., Azzarello E., Pollastri S., Tattini M. Flavonoids as antioxidants ecophysiology. Plant Physiology and Biochemistry. 2013;72:1-20. 
+in plants: location and functional significance. Plant Science. DOI: 10.1016/j.plaphy.2013.05.009
+2012;196:67-76. DOI: 10.1016/j.plantsci.2012.07.014 Christie P.J., Alfenito M.R., Walbot V. Impact of low-temperature stress 
+
+Agati G., Brunetti C., Di Ferdinando M., Ferrini F., Pollastri S., Tatti- on general phenylpropanoid and anthocyanin pathways: enhance-
+ni M. Functional roles of flavonoids in photoprotection: new evi- ment of transcript abundance and anthocyanin pigmentation in 
+dence, lessons from the past. Plant Physiology and Biochemistry. maize seedlings. Planta. 1994;194(4):541-549. DOI: 10.1007/
+2013;72:35-45. DOI: 10.1016/j.plaphy.2013.03.014 BF00714468
+
+Aisyah S., Gruppen H., Andini S., Bettonvil M., Severing E., Vinck- Chu S., Wang J., Zhu Y., Liu S., Zhou X., Zhang H., Wang C.E., 
+en J.-P. Variation in accumulation of isoflavonoids in Phaseoleae Yang W., Tian Z., Cheng H., Yu D. An R2R3-Type MYB tran-
+seedlings elicited by Rhizopus. Food Chemistry. 2016;196:694- scription factor, GmMYB29, regulates isoflavone biosynthesis in 
+701. DOI: 10.1016/j.foodchem.2015.09.110 soybean. PLOS Genetics. 2017;13(5):e1006770. DOI: 10.1371/jour-
+
+Anguraj Vadivel A.K., McDowell T., Renaud J.B., Dhaubhadel S. A nal.pgen.1006770
+combinatorial action of GmMYB176 and GmbZIP5 controls iso- Chu L., Zhao P., Huang X., Zhao B., Li Y., Yang K., Wan P. Genetic 
+flavonoid biosynthesis in soybean (Glycine max). Communica- analysis of seed coat colour in adzuki bean (Vigna angularis L.). 
+tions Biology. 2021;4(1):356. DOI: 10.1038/s42003-021-01889-6 Plant Genetic Resources: Characterization and Utilization. 
+
+Aparicio-Fernandez X., Yousef G.G., Loarca-Pina G., De Mejia E., 2021a;19(1):67-73. DOI: 10.1017/S1479262121000101
+Lila M.A.. Characterization of polyphenolics in the seed coat of Chu L., Zhao P., Wang K., Zhao B., Li Y., Yang K., Wan P. VaSDC1 is 
+black Jamapa bean (Phaseolus vulgaris L.). Journal of Agricul- involved in modulation of flavonoid metabolic pathways in black 
+tural and Food Chemistry. 2005;53(11):4615-4622. DOI: 10.1021/ and red seed coats in adzuki bean (Vigna angularis L.). Frontiers 
+jf047802o in Plant Science. 2021b;12(July). DOI: 10.3389/fpls.2021.679892
+
+Barros J., Dixon R.A. Plant phenylalanine/tyrosine ammonia-lyas- De Mejia E.G., Castaño-Tostado E., Loarca-Piña G. Antimutagen-
+es. Trends in Plant Science. 2020;25(1):66-79. DOI: 10.1016/j. ic effects of natural phenolic compounds in beans. Mutation 
+tplants.2019.09.011 Research/Genetic Toxicology and Environmental Mutagenesis. 
+
+Baudry A., Heim M.A., Dubreucq B., Caboche M., Weisshaar B., Lep- 1999;441(1):1-9. DOI: 10.1016/S1383-5718(99)00040-6
+iniec L. TT2, TT8, and TTG1 synergistically specify the expres- Delph L.F., Lively C.M. The evolution of floral color change: pollinator 
+sion of BANYULS and proanthocyanidin biosynthesis in Arabi- attraction versus physiological constraints in fuchsia excorticata. 
+dopsis thaliana. The Plant Journal. 2004;39(3):366-380. Evolution. 1989;43(6):1252. DOI: 10.2307/2409360
+DOI: 10.1111/j.1365-313X.2004.02138.x Du H., Yang S.S., Liang Z., Feng B.R., Liu L., Huang Y.B., Tang Y.X. 
+
+Beninger C.W., Hosfield G.L. Antioxidant activity of extracts, con- Genome-wide analysis of the MYB transcription factor super-
+densed tannin fractions, and pure flavonoids from Phaseolus vul- family in soybean. BMC Plant Biology. 2012;12(1):106. 
+garis L. seed coat color genotypes. Journal of Agricultural and DOI: 10.1186/1471-2229-12-106
+Food Chemistry. 2003;51(27):7879-7883. DOI: 10.1021/jf0304324 Dubos C., Stracke R., Grotewold E., Weisshaar B., Martin C., 
+
+Berli F.J., Moreno D., Piccoli P., Hespanhol-Viana L., Silva M.F., Lepiniec L. MYB transcription factors in Arabidopsis. 
+Bressan-Smith R., Cavagnaro J.B., Bottini R. Abscisic acid is 2010;15(10):573-581. DOI: 10.1016/j.tplants.2010.06.005
+involved in the response of grape (Vitis vinifera L.) Cv. Malbec Espinosa-Alonso L.G., Lygin A., Widholm J.M., Valverde M.E., Pare-
+leaf tissues to ultraviolet-B radiation by enhancing ultraviolet-ab- des-Lopez O. Polyphenols in wild and weedy Mexican common 
+sorbing compounds, antioxidant enzymes and membrane sterols. beans (Phaseolus vulgaris L.). Journal of Agricultural and Food 
+Plant, Cell & Environment. 2009;33(1):1-10. DOI: 10.1111/j.1365- Chemistry. 2006;54(12):4436-4444. DOI: 10.1021/jf060185e
+3040.2009.02044.x Fritz K.L., Seppanen C.M., Kurzer M.S., Csallany A.S. The in vivo 
+
+Boukar O., Fatokun C.A., Roberts P.A., Abberton M., Huynh B.L., antioxidant activity of soybean isoflavones in human subjects. 
+Close T.J., Kyei-Boahen S., Higgins T.J.V., Ehlers J.D. Cowpea. Nutrition Research. 2003;23(4):479-487. DOI: 10.1016/S0271-
+In: Grain Legumes. Antonio M. De Ron (ed.). New York: Spring- 5317(03)00005-8
+er; 2015. p.219-250. (HBPB; vol. 10). DOI: 10.1007/978-1-4939- Gonzalez A., Zhao M., Leavitt J.M., Lloyd A.M. Regulation of the 
+2797-5 anthocyanin biosynthetic pathway by the TTG1/BHLH/Myb tran-
+
+Braidot E., Zancani M., Petrussa E., Peresson C., Bertolini A., Patui S., scriptional complex in Arabidopsis seedlings. The Plant Journal. 
+Francesco M., Vianello A. Transport and accumulation of flavo- 2008;53(5):814-827. DOI: 10.1111/j.1365-313X.2007.03373.x
+noids in grapevine (Vitis vinifera L.). Plant Signaling & Behavior. Gordeeva E., Shamanin V., Shoeva O., Kukoeva T., Morgounov A., 
+2008;3(9):626-632. DOI: 10.4161/psb.3.9.6686 Khlestkina E. The strategy for marker-assisted breeding of antho-
+
+Buer C.S., Imin N., Djordjevic M.A. Flavonoids: new roles for old mol- cyanin-rich spring bread wheat (Triticum aestivum L.) cultivars 
+ecules. Journal of Integrative Plant Biology. 2010;52(1):98-111. in Western Siberia Agronomy 2020; 10(10):1603. DOI: 10.3390/
+DOI: 10.1111/j.1744-7909.2010.00905.x agronomy10101603
+
+Burak M., Imen Y. Flavonoids and their antioxidant properties. Turkiye Gordeeva E.I., Shoeva O.Y., Khlestkina E.K. Marker-assisted devel-
+
+Биотехнология и селекция растений 2021;4(3)
+22
+
+
+
+opment of bread wheat near-isogenic lines carrying vari- flavonoids. 1996;38:151-163. DOI: 10.1016/S1054-3589(08)60983-7
+ous combinations of purple pericarp (Pp) alleles. Euphytica. Kumar V., Suman U., Rubal, Kumar S.Y. Flavonoid secondary metab-
+2015;203(2):469-476. DOI: 10.1007/s10681-014-1317-8 olite: biosynthesis and role in growth and development in 
+
+Guzmán-Maldonado H., Castellanos J., De Mejía E.G. Relationship plants. In: Recent Trends and Techniques in Plant Metabol-
+between theoretical and experimentally detected tannin con- ic Engineering. Singapore: Springer Singapore; 2018 p.19-45. 
+tent of common beans (Phaseolus vulgaris L.). Food Chemistry. DOI: 10.1007/978-981-13-2251-8_2
+1996;55(4):333-335. DOI: 10.1016/0308-8146(95)00106-9 Lattanzio V., Cardinali A., Linsalata V., Perrino P., Ng N.Q. A chemosys-
+
+Harland S.C. Inheritance of certain characters in the cowpea (Vigna sin- tematic study of the flavonoids of Vigna. Genetic Resources and 
+ensis). Journal of Genetics. 1919;8(2):101–132. DOI: 10.1007/ Crop Evolution. 1996;43(6):493-504. DOI: 10.1007/BF00138826
+BF02983490 Lea U.S., Slimestad R., Smedvig P., Lillo C. Nitrogen deficiency 
+
+Harland S.C. Inheritance of certain characters in the cowpea (Vigna sin- enhances expression of specific MYB and BHLH transcription 
+ensis). II. Journal of Genetics. 1920;10(3):193-205. DOI: 10.1007/ factors and accumulation of end products in the flavonoid path-
+BF03007981 way. Planta. 2007;225(5):1245-1253. DOI: 10.1007/s00425-006-
+
+Havsteen B.H. The biochemistry and medical significance of the fla- 0414-x
+vonoids. Pharmacology & Therapeutics. 2002;96(2-3):67-202. Lepiniec L., Debeaujon I., Routaboul J-M., Baudry A., Pourcel L., 
+DOI: 10.1016/S0163-7258(02)00298-X Nesi N., Caboche M. Genetics and biochemistry of seed flavo-
+
+Herniter I.A., Muñoz-Amatriaín M., Lo S., Guo Y-N., Close T.J. Iden- noids. Annual Review of Plant Biology. 2006;57(1):405-430. 
+tification of candidate genes controlling black seed coat and DOI: 10.1146/annurev.arplant.57.032905.105252
+pod tip color in cowpea (Vigna unguiculata [L.] Walp). G3: Li S. Transcriptional control of flavonoid biosynthesis. Plant Signaling 
+Genes, Genomes, Genetics. 2018;8(10):3347-3355. DOI: 10.1534/ & Behavior. 2014;9 (1):e27522. DOI: 10.4161/psb.27522
+g3.118.200521 Li S., Bashline L., Lei L., Gu Y. Cellulose synthesis and its regulation. 
+
+Herniter I.A., Lo R., Muñoz-Amatriaín M., Lo S., Guo Y-N, The Arabidopsis Book. 2014;12:e0169. DOI: 10.1199/tab.0169
+Huynh B-L., Lucas M., Roberts P.A., Lonardi S., Close T.J. Seed Li Y., Chen Q., Xie X., Cai Y., Li J., Feng Y., Zhang Y. Integrated metab-
+coat pattern QTL and development in cowpea (Vigna unguic- olomics and transcriptomics analyses reveal the molecular mech-
+ulata [L.] Walp.). Frontiers in Plant Science. 2019;10:1-12. anisms underlying the accumulation of anthocyanins and oth-
+DOI: 10.3389/fpls.2019.01346 er flavonoids in cowpea pod (Vigna unguiculata L.). Journal 
+
+Hungria M., Joseph C.M., Phillips D.A. Anthocyanidins and flavonols, of Agricultural and Food Chemistry. 2020;68(34):9260-9275. 
+major Nod gene inducers from seeds of a black-seeded common DOI: 10.1021/acs.jafc.0c01851
+bean (Phaseolus vulgaris L.). Plant Physiology. 1991;97(2):751- Li Z., Su Q., Xu M., You J., Khan A.Q., Li J., Zhang X., Tu L., You C. 
+758. DOI: 10.1104/pp.97.2.751 Phenylpropanoid metabolism and pigmentation show divergent 
+
+Ishikura N., Iwata M., Miyazaki S. Flavonoids of some Vigna-plants in patterns between brown color and green color cottons as revealed 
+leguminosae. The Botanical Magazine Tokyo. 1981;94(3):197-205. by metabolic and gene expression analyses. Journal of Cotton 
+DOI: 10.1007/BF02488610 Research. 2020;3(1):27. DOI: 10.1186/s42397-020-00069-x
+
+Jin H. Transcriptional repression by AtMYB4 controls production of Liu R., Zheng Y., Cai Z., Xu B. Saponins and flavonoids from adzuki 
+UV-protecting sunscreens in Arabidopsis. The EMBO Journal. bean (Vigna angularis L.) ameliorate high-fat diet-induced obe-
+2000;19(22):6150-6161. DOI: 10.1093/emboj/19.22.6150 sity in ICR mice. Frontiers in Pharmacology. 2017;8:1-8. 
+
+Jaakola L. New insights into the regulation of anthocyanin biosyn- DOI: 10.3389/fphar.2017.00687
+thesis in fruits. Trends in Plant Science. 2013;18(9):477-483. Lloyd A., Brockman A., Aguirre L., Campbell A., Bean A., Cantero A., 
+DOI: 10.1016/j.tplants.2013.06.003 Gonzalez A. Advances in the MYB–bHLH–WD repeat (MBW) 
+
+Jiang N., Doseff A., Grotewold E. Flavones: from biosynthesis to health pigment regulatory model: addition of a WRKY factor and co-op-
+benefits. Plants. 2016;5(2):27. DOI: 10.3390/plants5020027 tion of an anthocyanin MYB for betalain regulation. Plant and 
+
+Jun S.-Y., Sattler S.A., Cortez G.S., Vermerris W., Sattler S.E., Cell Physiology. 2017;58(9):1431-1441. DOI: 10.1093/pcp/pcx075
+Kang C. Biochemical and structural analysis of substrate spec- Lo S., Muñoz-Amatriaín M., Boukar O., Herniter I., Cisse N., Guo Y-N., 
+ificity of a phenylalanine ammonia-lyase. Plant Physiology. Roberts P.A., Xu S., Fatokun C., Close T.J. Identification of QTL 
+2018;176(2):1452-1468. DOI: 10.1104/pp.17.01608 controlling domestication-related traits in cowpea (Vigna unguic-
+
+Kalavacharla V., Liu Z., Meyers B.C., Thimmapuram J., Melmaiee K. ulata L. Walp). Scientific Reports. 2018;8(1):6261. DOI: 10.1038/
+Identification and analysis of common bean (Phaseolus vulgar- s41598-018-24349-4
+is L.) transcriptomes by massively parallel pyrosequencing. BMC Lonardi S., Muñoz-Amatriaín M., Liang Q., Shu S., Wanamak-
+Plant Biology. 2011;11(1):135. DOI: 10.1186/1471-2229-11-135 er S.I., Lo S., Tanskanen J., Schulman A.H., Zhu T., Luo M.C., 
+
+Kang Y. J., Kim S. K., Kim M. Y., Lestari P., Kim K. H., Ha B. K., Alhakami H., Ounit R., Hasan A.Md., Verdier J., Roberts P.A., 
+Jun T. H., Hwang W. J., Lee T., Lee J., Shim S., Yoon M. Y., Santos J.R.P., Ndeve A., Dolezel J., Vrana J., Hokin S.A., Farm-
+Jang Y. E., Han K. S., Taeprayoon P., Yoon N., Somta P., Tanya P., er A.D., Cannon S.B., Close T.J. The genome of cowpea (Vigna 
+Kim K. S., Gwag J. G., Moon J. K., Lee Y. H., Park B. S., Bom- unguiculata [L.] Walp.). The Plant Journal. 2019;98(5):767-782. 
+barely A., Doyle J. J., Jackson S. A., Schafleitner R., Srinives P., DOI: 10.1111/tpj.14349
+Varshney R. K., Lee S. H. Genome sequence of mungbean and Madhujith T., Naczk M., Shahidi F. Antioxidant activity of com-
+insights into evolution within Vigna species. Nature Communica- mon beans (Phaseolus vulgaris L.). Journal of Food Lipids. 
+tions. 2014;11(5):5443. DOI: 10.1038/ncomms6443 2004;11(3):220-233. DOI: 10.1111/j.1745-4522.2004.01134.x
+
+Katiyar A., Smita S., Lenka S., Rajwanshi R., Chinnusamy V., Bansal K. Makoi J.H.J.R., Belane A.K., Chimphango S.B.M., Dakora F.D. Seed 
+Genome-wide classification and expression analysis of MYB tran- flavonoids and anthocyanins as markers of enhanced plant 
+scription factor families in rice and Arabidopsis. BMC Genomics. defence in nodulated cowpea (Vigna unguiculata L. Walp.). Field 
+2012;13(1):544. DOI: 10.1186/1471-2164-13-544 Crops Research. 2010;118(1):21-27. DOI: 10.1016/j.fcr.2010.03.012
+
+Kitamura S. Transport of flavonoids: from cytosolic synthesis to vac- McClean P.E., Bett K.E., Stonehouse R., Lee R., Pflieger S., Moghadd-
+uolar accumulation. In: The Science of Flavonoids. New York: am S.M., Geffroy V., Miklas P., Mamidi S. White seed color in 
+Springer; 2006. p.123-146. DOI: 10.1007/978-0-387-28822-2_5 common bean (Phaseolus vulgaris L.) results from convergent 
+
+Kleindt C.K., Stracke R., Mehrtens F., Weisshaar B. Expression analysis evolution in the P (Pigment) gene. New Phytologist. 2018;219 
+of flavonoid biosynthesis genes during Arabidopsis thaliana siliq- (3):1112-1123. DOI: 10.1111/nph.15259
+ue and seed development with a primary focus on the proanthocy- Medvedev S.S. Physiology of plants. St. Petersburg: BHV-Peterburg; 
+anidin biosynthetic pathway. BMC Research Notes. 2010;3(1):255. 2012. [in Russian] (Медведев С.С. Физиология растений. 
+DOI: 10.1186/1756-0500-3-255 Санкт-Петербург: БХВ-Петербург; 2012).
+
+Koes R., Verweij W., Quattrocchio F. Flavonoids: a colorful mod- Moy P., Qutob D., Chapman B.P., Atkinson I., Gijzen M. Patterns 
+el for the regulation and evolution of biochemical pathways. of gene expression upon infection of soybean plants by Phy-
+Trends in Plant Science. 2005;10(5):236–242. DOI: 10.1016/j. tophthora sojae. Molecular Plant-Microbe Interactions. 
+tplants.2005.03.002 2004;17(10):1051-1062. DOI: 10.1094/MPMI.2004.17.10.1051
+
+Korkina L.G., Afanas’Ev I.B. Antioxidant and chelating properties of Muñoz-Amatriaín M., Mirebrahim H., Xu P., Wanamaker S.I., 
+
+Plant Biotechnology and Breeding 2021;4(3)
+23
+
+
+
+Cheng L.M., Alhakami H., Alpert M., Atokple I., Batieno B.J., ki M., Tohge T., Fernie A.R. The flavonoid biosynthetic path-
+Boukar O., Bozdag S., Cisse N., Drabo I., Ehlers J.D., Farm- way in Arabidopsis: structural and genetic diversity. Plant 
+er A., Fatokun C., Gu Y.Q., Guo Y.N., Huynh B.L., Jack- Physiology and Biochemistry. 2013;72:21-34. DOI: 10.1016/j.pla-
+son S.A., Kusi F., Lawley C.T., Lucas M.R., Ma Y., Timko M.P., phy.2013.02.001
+Wu J., You F., Barkley N.A., Roberts P.A., Lonardi S., Close T.J. Schmutz J., Cannon S.B., Schlueter J., Ma J., Mitros T., Nelson W., 
+Genome resources for climate-resilient cowpea, an essential Hyten D.L., Song Q., Thelen J.J., Cheng J., Xu D., Hellsten U., 
+crop for food security. The Plant Journal. 2017;89(5):1042-1054. May G.D., Yu Y., Sakurai T., Umezawa T., Bhattacharyya M. 
+DOI: 10.1111/tpj.13404 K., Sandhu D., Valliyodan B., Lindquist E., Peto M., Grant D., 
+
+Nassourou M.A., Njintang Y.N., Noubissié T.J-B., Nguimbou R.M., Shu S., Goodstein D., Barry K., Futrell-Griggs M., Abernathy B., 
+Bell J.M. Genetics of seed flavonoid content and antioxidant Du J., Tian Z., Zhu L., Gill N., Joshi T., Libault M., Sethura-
+activity in cowpea (Vigna unguiculata L. Walp.). The Crop Jour- man A., Zhang X.-C., Shinozaki K., Nguyen H.T., Wing R.A., 
+nal. 2016;4(5):391-397. DOI: 10.1016/j.cj.2016.05.011 Cregan P., Specht J., Grimwood J., Rokhsar D., Stacey G., Shoe-
+
+Nesi N., Debeaujon I., Jond C., Pelletier G., Caboche M., Lepiniec L. maker R.C., Jackson S.A. Genome sequence of the palaeopoly-
+The TT8 gene encodes a basic helix-loop-helix domain protein ploid soybean. Nature. 2010;463(7278):178-183. DOI: 10.1038/
+required for expression of DFR and BAN genes in Arabidopsis nature08670
+siliques. The Plant Cell. 2000;12(10):1863-1878. DOI: 10.1105/ Schmutz J., McClean P.E., Mamidi S., Wu G.A., Cannon S.B., Grim-
+tpc.12.10.1863 wood J., Jenkins J., Shu S., Song Q., Chavarro C., Torres-Tor-
+
+Nesi N., Jond C., Debeaujon I., Caboche M., Lepiniec L. The Arabidop- res M., Geffroy V., Moghaddam S.M., Gao D., Abernathy B., 
+sis TT2 gene encodes and R2R3 MYB domain protein that acts as Barry K., Blair M., Brick M.A., Chovatia M., Gepts P., Good-
+a key determinant for proanthocyanidin accumulation in develop- stein D. M., Gonzales M., Hellsten U., Hyten D.L., Jia G., Kel-
+ing seed. The Plant Cell. 2001;13(9):2099. DOI: 10.2307/3871430 ly J.D., Kudrna D., Lee R., Richard M. M.S., Miklas P.N., Osor-
+
+Ndakidemi P.A., Dakora F.D. Legume seed flavonoids and nitrogenous no J.N., Rodrigues J., Thareau V., Urrea C.A., Wang M., Yu Y., 
+metabolites as signals and protectants in early seedling develop- Zhang M., Wing R.A., Cregan P.B., Rokhsar D.S., Jackson S.A. 
+ment. Functional Plant Biology. 2003;30(7):729. DOI: 10.1071/ A reference genome for common bean and genome-wide analy-
+FP03042 sis of dual domestications. Nature Genetics. 2014;46(7):707-713. 
+
+Ohnishi T., Takahashi A., Takeda K. Light-induced anthocyanin reduces DOI: 10.1038/ng.3008
+the extent of damage to DNA in UV-irradiated Centaurea cyanus Shirley B.W. Flavonoids in seeds and grains: physiological func-
+cells in culture. Mutation Research/Environmental Mutagene- tion, agronomic importance and the genetics of biosynthe-
+sis and Related Subjects. 1992;272(3):277. DOI: 10.1016/0165- sis. Seed Science Research. 1998;8(4):415-422. DOI: 10.1017/
+1161(92)91606-R S0960258500004372
+
+Panche A.N., Diwan A.D., Chandra S.R. Flavonoids: an overview. Jour- Smith F.L. A genetic analysis of red seed-coat color in Phaseo-
+nal of Nutritional Science. 2016;(5):e47. DOI: 10.1017/jns.2016.41 lus vulgaris. Hilgardia. 1939;12(9):551-621. DOI: 10.3733/hilg.
+
+Perchuk I., Shelenga T., Gurkina M., Miroshnichenko E., Burlyaeva M. v12n09p551
+Composition of primary and secondary metabolite compounds in Spillman W.J. Inheritance of the 'Eye' in Vigna. American naturalist. 
+seeds and pods of asparagus bean (Vigna unguiculata (L.) Walp.) 1911;45(537):513-523
+from China. Molecules 2020;25(17):3778. DOI: 10.3390/mole- Stanton W.R., Francis B.J. Ecological significance of anthocyanins in 
+cules25173778 the seed coats of the Phaseoleae. Nature. 1966;211(5052):970–971. 
+
+Park J-S., Kim J-B., Cho K-J., Cheon C-I., Sung M-K., Choung M-G., DOI: 10.1038/211970a0
+Roh K-H. Arabidopsis R2R3-MYB transcription factor Stracke R., Ishihara H., Huep G., Barsch A., Mehrtens F., Niehaus K., 
+AtMYB60 functions as a transcriptional repressor of anthocya- Weisshaar B. Differential regulation of closely related R2R3-
+nin biosynthesis in lettuce (Lactuca sativa). Plant Cell Reports. MYB transcription factors controls flavonol accumulation in dif-
+2008;27(6):985-994. DOI: 10.1007/s00299-008-0521-1 ferent parts of the Arabidopsis thaliana seedling. The Plant Jour-
+
+Petroni K., Tonelli C. Recent advances on the regulation of anthocyanin nal. 2007;50(4):660-677. DOI: 10.1111/j.1365-313X.2007.03078.x
+synthesis in reproductive organs. Plant Science. 2011;181(3):219- Takahashi A., Ohnishi T. The significance of the study about the biolog-
+229. DOI: 10.1016/j.plantsci.2011.05.009 ical effects of solar ultraviolet radiation using the exposed facili-
+
+Petrussa E., Braidot E., Zancani M., Peresson C., Bertolini A., ty on the international space station. Biological Sciences in Space. 
+Patui S., Vianello A. Plant flavonoids ‒ biosynthesis, trans- 2004;18(4):255-260. DOI: 10.2187/bss.18.255
+port and involvement in stress responses. International Journal Takahashi A., Ichihara Y., Isagi Y., Shimada T. Effects of acorn tan-
+of Molecular Sciences. 2013;14(7):14950-14973. DOI: 10.3390/ nin content on infection by the fungus Ciboria batschia-
+ijms140714950 na. Forest Pathology. 2010;40(2):96-99. DOI: 10.1111/j.1439-
+
+Pollastri S., Tattini M. Flavonols: old compounds for old roles. Annals of 0329.2009.00612.x
+Botany. 2011;108(7):1225-1233. DOI: 10.1093/aob/mcr234 Varshney R.K., Chen W., Li Y., Bharti A.K., Saxena R.K., Schluet-
+
+Prakken R. Inheritance of colour in Phaseolus vulgaris L. II. A critical er J.A., Donoghue M.T., Azam S., Fan G., Whaley A.M., Farm-
+review. Wageningen Mededelingen van de Landbouwhogeschool er A.D., Sheridan J., Iwata A., Tuteja R., Penmetsa R.V., Wu W., 
+te Wageningen. 1970;70:1-38. Upadhyaya H.D., Yang S-P., Shah T., Saxena K.B., Michael T., 
+
+Qi T., Song S., Ren Q., Wu D., Huang H., Chen Y., Fan M., Peng W., McCombie W.R., Yang B., Zhang G., Yang H., Wang J., Spill-
+Ren C., Xie D. The jasmonate-ZIM-domain proteins interact ane C., Cook D.R., May G.D., Xu X,.Jackson S.A.  Draft genome 
+with the WD-Repeat/bHLH/MYB complexes to regulate jasmo- sequence of pigeonpea (Cajanus cajan), an orphan legume crop 
+nate-mediated anthocyanin accumulation and trichome initiation of resource-poor farmers. Nature Biotechnology. 2012;30(1):83-
+in Arabidopsis thaliana. The Plant Cell. 2011;23(5):1795-1814. 89. DOI: 10.1038/nbt.2022
+DOI: 10.1105/tpc.111.083261 Vasconcelos E.V., de Andrade Fonsêca A.F., Pedrosa-Harand A., 
+
+Romani A., Vignolini P., Galardi C., Mulinacci N., Benedettelli S., de Andrade Bortoleti K.C., Benko-Iseppon A.M., da Costa A.F., 
+Heimler D. Germplasm characterization of Zolfino landraces Brasileiro-Vidal A.C. Intra- and interchromosomal rearrange-
+(Phaseolus vulgaris L.) by flavonoid content. Journal of Agricul- ments between cowpea [Vigna unguiculata (L.) Walp.] and com-
+tural and Food Chemistry. 2004;52(12):3838-3842. DOI: 10.1021/ mon bean (Phaseolus vulgaris L.) revealed by BAC-FISH. 
+jf0307402 Chromosome Research. 2015;23(2):253-266. DOI: 10.1007/
+
+Ryan K.G., Swinny E.E., Markham K.R., Winefield C. Flavonoid gene s10577-014-9464-2
+expression and UV photoprotection in transgenic and mutant Vishnyakova M.A., Aleksandrova T.G., Buravtseva T.V., Burlyae-
+Petunia leaves. Phytochemistry. 2002;59(1):23-32. DOI: 10.1016/ va M.O., Egorova G.P., Semenova E.V., Seferova I.V., Suvoro-
+S0031-9422(01)00404-6 va G.N. Species diversity of the VIR collection of grain legume 
+
+Saigo T., Wang T., Watanabe M., Tohge T. Diversity of anthocyanin and genetic resources and its use in domestic breeding. Proceedings 
+proanthocyanin biosynthesis in land plants. Current Opinion in on Applied Botany, Genetics and Breeding. 2019;180(2):109-
+Plant Biology. 2020;55:93-99. DOI: 10.1016/j.pbi.2020.04.001 123. [In Russian] (Вишнякова М.А., Александрова Т.Г., 
+
+Saito K., Yonekura-Sakakibara K., Nakabayashi R., Higashi Y., Yamaza- Буравцева Т.В., Бурляева М.О., Егорова Г.П., Семенова Е.В., 
+
+Биотехнология и селекция растений 2021;4(3)
+24
+
+
+
+Сеферова И.В., Суворова Г.Н. Видовое разнообразие Bioinformatics. 2021; 24:S1672-0229(21)00160-1. DOI: 10.1016/j.
+коллекции генетических ресурсов зернобобовых ВИР и gpb.2021.02.009
+его использование в отечественной селекции. Труды по Yi J., Derynck M.R., Chen L., Dhaubhadel S. Differential expression of 
+прикладной ботанике, генетике и селекции. 2019;180(2):109- CHS7 and CHS8 genes in soybean. Planta. 2010a;231(3):741-753. 
+123). DOI: 10.30901/2227-8834-2019-2-109-123 DOI: 10.1007/s00425-009-1079-z
+
+Walker A.R, Davison P.A., Bolognesi-Winfield A.C., James C.M., Yi J., Derynck M.R., Li X., Telmer P., Marsolais F., Dhaubhadel S. A 
+Srinivasan N., Blundell T.L., Esch J.J., Marks M.D., Gray J.C. single-repeat MYB transcription factor, GmMYB176, regu-
+The TRANSPARENT TESTA GLABRA1 locus, which regu- lates CHS8 gene expression and affects isoflavonoid biosyn-
+lates trichome differentiation and anthocyanin biosynthesis in thesis in soybean. The Plant Journal. 2010b;62(6):1019-1034. 
+Arabidopsis, encodes a WD40 repeat protein. The Plant Cell. DOI: 10.1111/j.1365-313X.2010.04214.x
+1999;11(7):1337-1349. DOI: 10.1105/tpc.11.7.1337 Zhang L., Xu B., Wu T., Yang Y., Fan L., Wen M., Sui J. Transcriptom-
+
+Williams R.J., Spencer J.P.E., Rice-Evans C. Flavonoids: antioxidants ic profiling of two Pak Choi varieties with contrasting anthocy-
+or signalling molecules? Free Radical Biology and Medicine. anin contents provides an insight into structural and regulato-
+2004;36(7):838-849. DOI: 10.1016/j.freeradbiomed.2004.01.001 ry genes in anthocyanin biosynthetic pathway. BMC Genomics. 
+
+Xu W., Dubos C., Lepiniec L. Transcriptional control of flavonoid bio- 2017;18(1):288. DOI: 10.1186/s12864-017-3677-7
+synthesis by MYB–bHLH–WDR complexes. Trends in Plant Sci- Zhu H-F., Fitzsimmons K., Khandelwal A., Kranz R.G. CPC, a sin-
+ence. 2015;20(3):176-185. DOI: 10.1016/j.tplants.2014.12.001 gle-repeat R3 MYB, is a negative regulator of anthocyanin bio-
+
+Yang C., Yan J., Jiang S., Li X., Min H., Wang X., Hao D. Resequencing synthesis in Arabidopsis. Molecular Plant. 2009;2(4):790-802. 
+250 soybean accessions: new insights into genes associated with DOI: 10.1093/mp/ssp030
+agronomic traits and genetic networks. Genomics, Proteomics & 
+
+Plant Biotechnology and Breeding 2021;4(3)
+25

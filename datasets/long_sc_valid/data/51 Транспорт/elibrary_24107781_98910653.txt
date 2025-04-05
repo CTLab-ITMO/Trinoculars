@@ -1,0 +1,856 @@
+﻿142
+УДК 656.222.4.004.7 ПРОБЛЕМЫ УПРАВЛЕНИЯ
+
+Определение параметров 
+«окон» при оценке 
+
+перевозочных перспектив 
+Дмитрий КАТЦЫН Кокурин Иосиф Михайло-
+Dmitry V.KATTSYN вич – доктор технических 
+
+наук, профессор, главный 
+научный сотрудник Ин-
+ститута проблем тран-
+спорта РАН им. Н. С. Со-
+ломенко, Санкт-Петер-
+бург, Россия.
+Катцын Дмитрий Влади-
+мирович – кандидат тех-
+нических наук, советник 
+первого вице-президента 
+ОАО «РЖД», Москва, 
+Россия.
+Тимченко Вячеслав 
+Сергеевич – младший 
+
+Иосиф КОКУРИН Вячеслав ТИМЧЕНКО научный сотрудник ИПТ 
+Iosif M.KOKURIN Vyacheslav S. TIMCHENKO РАН им. Н. С. Соломенко, 
+
+Санкт-Петербург, Россия.
+
+Determining Parameters of Scheduled 
+Maintenance Work-Intervals within the 
+
+Assessment of Future Transportation Задача количественной оценки воз-
+можностей пропуска перспектив-
+ных объемов грузопотоков по же-
+
+Capacity лезнодорожным направлениям при срав-
+(текст статьи на англ. яз. – English text of 
+
+the article – p.149) ниваемых вариантах развития инфраструк-
+туры на длительную перспективу 5, 10 
+
+Статья содержит описание метода и более лет решается сегодня на основе 
+имитационного моделирования, метода имитационного моделирования 
+
+необходимого для количественного процессов перевозок [1], разработанного 
+обоснования этапов модернизации и постоянно развиваемого содружеством 
+
+и ремонта железнодорожной ученых академической, отраслевой и ву-
+инфраструктуры. Его применение 
+
+имеет особое значение при зовской науки.
+освоении возрастающих объемов Модернизация и ремонт железнодорож-
+
+перевозок с расчетом на длительную ной инфраструктуры требуют предостав-
+перспективу и с учетом ления длительных «окон» (перерывов 
+
+предоставления продолжительных в движении), снижающих пропускную 
+«окон» (пауз в движении), способность однопутных линий, по экс-
+
+снижающих пропускную способность пертным оценкам, на 15–20%, а двухпут-
+эксплуатируемых линий.
+
+ных – на 12–15%.
+Специалисты железных дорог, так приня-
+
+то, готовят планы модернизации и ремонта 
+Ключевые слова: железнодорожная инфраструктуры только на очередной год, 
+
+инфраструктура, модернизация, ремонт, что позволяет достоверно учитывать возмож-
+пропускная способность, имитационное 
+
+моделирование. ности обеспечения процесса рабочей силой, 
+техникой и материалами [2] лишь на ограни-
+
+• МИР ТРАНСПОРТА, том 13, №2, С.142-153 (2015) 
+
+ADMINISTRATION, MANAGEMENT AND CONTROL
+
+
+
+ченном отрезке времени. Поэтому актуаль- 1. Средний ремонт.
+ность развития метода имитационного мо- 2. Планово-предупредительный.
+делирования для обоснования этапов модер- 3. Сплошную смену рельсов и металли-
+низационных программ по-прежнему высо- ческих частей стрелочных переводов.
+ка, а забота о минимизации расходов 4. Шлифование рельсов.
+на освоение прогнозируемых объемов пере- После определения сроков выполнения 
+возок с учетом оптимизации параметров ремонтных работ для каждого их вида со-
+«окон» приобретает все больший вес на фоне ставляют графики предоставления «окон» 
+экономических проблем последних лет. с указанием мест, дат и продолжительности 
+
+перерывов в движении.
+I. Длительные «окна» с привлечением 
+
+Наибольшее количество «окон» предо- путевых машинных станций (ПМС) пре-
+ставляется путевому хозяйству железных доставляются для следующих видов работ:
+дорог, поскольку сложные по технологии 1. Модернизация (реконструкция) же-
+и продолжительные работы выполняются лезнодорожного пути.
+комплексом путевых машин и хозяйствен- 2. Капитальный ремонт на старогодных 
+ных поездов. На других объектах инфра- материалах.
+структуры в основном хватает технологи- 3. Средний ремонт.
+ческих «окон», предусматриваемых норма- 4. Замена стрелочных переводов.
+тивными графиками движения поездов для Технологии разработки графиков пре-
+путевых работ. Логично предположить, что доставления «окон» для модернизации 
+при таком раскладе количество и продол- и капитального ремонта на старогодных 
+жительность «окон» на длительную пер- материалах идентичны и касаются всех 
+спективу должно определяться по их по- объектов инфраструктуры: путь, ИССО, 
+требности именно для путевых операций. СЦБ, технологическая связь, электроснаб-
+
+Выполнение путевых работ регламен- жение и т. д.
+тируют технические условия [3], которые Для замены стрелочных переводов 
+распространяются на участки пути с обра- предусматриваются «окна», длительность 
+щением грузовых поездов с осевыми на- которых определяется по нормам с учетом 
+грузками до 25 кН/ось, скоростями местных условий. При этом проверяются 
+до 140 км/ч и пассажирских поездов со ско- возможности выполнения работ одновре-
+ростями до 200 км/ч. Виды ремонта и схе- менно с модернизацией или усиленным 
+мы его выполнения определяются в зави- средним ремонтом, если сроки их совпада-
+симости от класса, группы и категории ют, а операции по смене стрелочных пере-
+железнодорожного пути. водов не мешают передвижению путевой 
+
+Основной вид ремонта назначается техники.
+на текущий год, если наработка тоннажа Длительные «окна» предоставляются 
+(G ) достигает нормы (G ) или если насту-
+
+C CH для основных видов ремонта, а подготови-
+пил срок проведения такого ремонта при тельные и заключительные (отделочные) 
+исчислении межремонтного цикла в годах. работы укладываются в технологические 
+Для железнодорожных направлений, отно- «окна».
+сящихся к первому классу, группе А, кате- Исключение составляет срезка земля-
+гориям 1–3 и С, Gсн = 700 млн т. Проме- ного полотна, которая следует за чистовой 
+жуточные виды ремонта распределяют выправкой и динамической стабилизацией 
+между основными равномерно по годам пути. Такая отделочная операция выпол-
+или пропущенному тоннажу. няется в технологические «окна», совме-
+
+К основным видам ремонта относятся: щается с чистовой выправкой пути, но час-
+1. Модернизация (реконструкция) же- тично требует и использования длительных 
+
+лезнодорожного пути. «окон».
+2. Капитальный ремонт на старогодных Производительность здесь зависит 
+
+материалах. 143
+от профиля земляного полотна и измеря-
+
+3. Замена стрелочных переводов. ется в м 3, поэтому при переводе в метры 
+Промежуточные виды ремонта включа- железнодорожного пути ее показатели 
+
+ют: с учетом местных особенностей изменяют-
+
+• МИР ТРАНСПОРТА, том 13, №2, С.142-153 (2015)
+
+Кокурин И.М., Катцын Д.В., Тимченко В.С. Определение параметров «окон» при оценке 
+перевозочных перспектив
+
+
+
+Таблица 1 
+144 Нормативная и средняя производительность путевых работ, м
+
+Виды работ Продолжительность «окна», ч
+Нормативное значение Среднее значение
+8 ч 10 ч 8 ч 10 ч
+
+Укладка РШР 1350 1500 1150 1350
+Смена инвентарных рельсов 800 1200 600 800
+Чистовая выправка пути 700 900 700 900
+(ВПР/ВПО)
+Чистовая выправка пути (ПМ 3 км/смена
+«Доуматик»)
+Срезка земляного полотна 300-1500 500-1700 300-1500 500-1700
+
+ся в широком диапазоне от 300 до 1500 м сократить количество предоставляемых 
+в восьмичасовое «окно». «окон». Рельсовые плети режут на части 
+
+Возможность частичного выполнения по 25 м и увозят вместе со старой рельсо-
+срезки земляного полотна в технологические шпальной решеткой, а на ее место уклады-
+«окна» затрудняет расчет потребного их ко- вают новую с инвентарными рельсами.
+личества при составлении графиков работ. После этого в технологическое «окно» 
+Поэтому на основе реального опыта предла- рельсовозным составом доставляют и выг-
+гается для участков длиной менее 12 км вы- ружают внутрь колеи длинномерные рель-
+делять для срезки земляного полотна допол- совые плети, которыми в ближайшее 
+нительно три восьмичасовых или два деся- длительное «окно» заменяют инвентарные 
+тичасовых «окна». При длине участка более рельсы. Новые плети сваривают и закре-
+12 км становится возможным выполнять эту пляют, создавая бесстыковой путь.
+работу только в технологические и совме- Следующим этапом является глубокая 
+щенные «окна» без выделения длительных. очистка балласта с использованием щеб-
+
+неочистительных машин. После заверше-
+II. ния достаточного по длине фронта работ 
+
+К основным видам ремонтных работ производится чистовая выправка пути, 
+при модернизации железнодорожного одновременно с которой осуществляется 
+пути относятся [4]: его динамическая стабилизация. В финале 
+
+1. Сохранение длинномерных рельсо- происходит срезка земляного полотна, 
+вых плетей. придающая ему форму в соответствии 
+
+2. Укладка новой рельсошпальной ре- с проектом.
+шетки. После выполнения всего комплекса пу-
+
+3. Смена инвентарных рельсов на длин- тевых работ пропускается путеизмеритель-
+номерные плети. ный вагон, на основе данных которого 
+
+4. Глубокая очистка балласта. принимается решение о величине допуска-
+5. Чистовая выправка пути. емой на участке скорости движения поездов.
+В последнее время длинномерные рель- Для сокращения количества «окон» 
+
+совые плети не сохраняют, что позволяет часть ремонтных операций разрешается 
+
+Рис. 1. Последовательность выполнения работ, требующих предоставления длительных «окон», при 
+модернизации железнодорожного пути и возможность их совмещения.
+
+• МИР ТРАНСПОРТА, том 13, №2, С.142-153 (2015)
+
+Кокурин И.М., Катцын Д.В., Тимченко В.С. Определение параметров «окон» при оценке 
+перевозочных перспектив
+
+
+
+Рис. 2. График проведения модернизации железнодорожного пути с предоставлением 
+восьмичасовых «окон». 
+
+в совмещенные «окна». Условием для это- Для начала чистовой выправки пути 
+го является создание достаточного рассто- необходим участок после глубокой очистки 
+яния между концом первого и началом балласта длиной не менее 3 км, поскольку 
+второго фронта работ, чтобы исключить эта работа выполняется с самой высокой 
+задержки движущейся в одном направле- производительностью.
+нии путевой техники, обеспечить безопас- Фрагмент графика предоставления 
+ность и эффективность процесса. «окон» длительностью 8 часов для модер-
+
+Нормативная и усредненная произво- низации железнодорожного пути демон-
+дительность путевых работ указаны в таб- стрирует рис. 2.
+лице 1. На графике в восьмичасовое «окно» 
+
+При закрытии перегона итоговая про- первым на очереди фронт работ длиной 
+изводительность модернизации железно- 1350 м по укладке рельсошпальной решет-
+дорожного пути по всем видам работ ки. После завершения отрезка в 4 км начи-
+и экспертной оценке находится в диапазо- наются работы по смене инвентарных 
+не от 1,25 до 2 км/сут. рельсов, производительность на этапе 
+
+Последовательное выполнение работ, восьмичасового «окна» составляет 800 м.
+требующих предоставления длительных Смена инвентарных рельсов за два та-
+«окон», показано на рис. 1 горизонтальны- ких «окна» позволяет вести глубокую 
+ми линиями, а возможность одновремен- очистку балласта в совмещенные «окна». 
+ного их производства в совмещённые Запустить работы раньше нельзя из-за не-
+«окна» – вертикальными линиями. достаточного расстояния для размещения 
+
+Производительность глубокой очистки путевой техники.
+балласта является минимальной среди После смены инвентарных рельсов 
+видов ремонтных работ (см. таблицу 1). на фронте работ длиной 4 км даются еще 
+Поэтому следует максимально выполнять одно «окно» для укладки рельсошпальной 145
+эту операцию в совмещенные «окна», что решетки и два «окна» для смены инвентар-
+позволит иметь график с минимальным ных рельсов, которые совмещаются с глу-
+количеством «окон». бокой очисткой балласта.
+
+• МИР ТРАНСПОРТА, том 13, №2, С.142-153 (2015)
+
+Кокурин И.М., Катцын Д.В., Тимченко В.С. Определение параметров «окон» при оценке 
+перевозочных перспектив
+
+
+
+Таблица 2
+146 Зависимости затрат рабочего времени от организации ремонтных работ
+
+Длительность работ, ч Три «окна» по 8 часов Закрытие перегона
+Ремонтные работы 15 15
+Непроизводительные работы 9 3
+Общая продолжительность работ 24 18
+Занятость техники 72 18
+
+Чистовая выправка пути с производи- получаются зависимости затрат времени 
+тельностью 3 км за «окно» выполняется от продолжительности «окна», представ-
+дважды. Два «окна» с такой выправкой ленные в таблице 2.
+и динамической стабилизацией пути сов- Поскольку каждое «окно» предоставля-
+мещаются с работами по глубокой очистке ется в отдельные сутки, то при закрытии 
+балласта. перегона сокращается не только общая 
+
+Для срезки земляного полотна предо- продолжительность ремонтных работ, 
+ставляются три дополнительных «окна» но и количество суток нахождения путевой 
+по 8 часов. техники на ремонтируемом участке (с 72 
+
+до 18 часов). Это позволяет увеличить про-
+III. изводительность техники за счет исполь-
+
+На сети железных дорог РФ применя- зования ее на других участках.
+ются три технологии организации работ При закрытии перегона работы ведутся 
+по ремонту пути: круглосуточно и, как правило, с привлече-
+
+1. Выполнение программы в «окнах» нием нескольких ПМС. Эксплуатацион-
+продолжительностью 8, 10 и 12 часов. ные расходы снижаются в 1,5–2 раза, 
+
+2. Закрытие перегона на период ремонт- на 70% – потребность в локомотивах для 
+ных работ (5–6 суток). хозяйственных поездов, в 1,5–2 раза – за-
+
+3. Проведение ремонта по семисуточ- траты на порожний пробег рабочих пое-
+ному графику. здов. [5]. Недостатком применяемой тех-
+
+Выбор варианта связан с уровнем ис- нологии является снижение пропускной 
+пользования пропускной способности, способности железнодорожного участка 
+наличием параллельных железнодорожных из-за длительного пропуска поездов по од-
+линий, техническим оснащением (наличие ному пути двухпутного перегона в обоих 
+двусторонней автоблокировки) и органи- направлениях.
+зацией функционирования железнодорож- Промежуточным вариантом специали-
+ного участка (обращение тяжеловесных, стами Куйбышевской железной дороги 
+длинносоставных и соединенных поездов). признается предложенная ими организа-
+
+Наибольшая производительность ре- ция работ по семисуточному графику. Эта 
+монтных работ достигается на закрытом технология (рис. 3) предусматривает в одни 
+перегоне, а наименьшая – в условиях пре- и те же дни недели чередование «окон» 
+доставления «окон» продолжительностью большой (14–32 ч) и малой (8 ч) продол-
+8 часов. Это объясняется тем, что с увели- жительности с сутками без «окон», что 
+чением продолжительности «окна» снижа- позволяет пропускать заданное количество 
+ются потери времени и энергии на достав- поездов за неделю в промежутках между 
+ку путевых машин к месту действия «окнами» [6].
+и обратно, организацию и обслуживание На графике наклонными линиями по-
+самих производственных процессов. казаны расположения «окон», а горизон-
+
+Ситуацию с производительностью лег- тальными – места проведения ремонтных 
+ко проследить на примере глубокой очист- работ, причем на участке А-В действует 
+ки балласта, которая определяет продол- первая ПМС, а на участке В-Е – вторая.
+жительность выполнения всего комплекса В среду (разъездной день) «окна» 
+путевых работ. При суммарных затратах не предоставляются, и вариантный график 
+времени в три часа на передвижение путе- предусматривает пропуск максимального 
+вой техники туда и обратно, а также подго- количества грузовых поездов. С четверга 
+товку и проведение рабочих операций по субботу предлагаются «окна» по 8 часов, 
+
+• МИР ТРАНСПОРТА, том 13, №2, С.142-153 (2015)
+
+Кокурин И.М., Катцын Д.В., Тимченко В.С. Определение параметров «окон» при оценке 
+перевозочных перспектив
+
+
+
+Рис. 3. Семисуточный график ремонтных работ. 
+
+а в воскресенье планируется разъездной груженых и порожних поездов, а также 
+день. данные о состоянии пути на начало пери-
+
+Преимуществом такой технологии яв- ода планирования.
+ляется фиксированное количество пропу- На основании такой информации 
+скаемых поездов в течение недели за счет МПРР выдает графики проведения ре-
+цикличности работ, что сглаживает нерав- монтных работ на весь период планирова-
+номерность движения в разные дни и обес- ния, содержащие данные о местах, коли-
+печивает пропуск запланированного коли- честве, длительности предоставляемых 
+чества поездов [7]. «окон» и дополнительных ограничениях 
+
+Продолжительность большого «окна» скорости поездов. Параметры графиков 
+рассчитывается, исходя из необходимости вводятся в ИМПП совместно с перспек-
+пропуска всего поездопотока по ремонти- тивными размерами движения.
+руемому участку и параллельным линиям. В результате моделирования ИМПП 
+
+Анализ планирования, организации строит графики исполненного движения, 
+и выполнения ремонтных работ – основа рассчитывает пропускную и провозную 
+компьютерной технологии определения способности в условиях предоставления 
+потребности в «окнах» при перспективных «окон». Эта информация экспортируется 
+объемах перевозок. Она необходима для в МПРР, где рассчитывается грузонапря-
+оценки достаточности пропускной способ- женность на конец года начала моделиро-
+ности при реализации предлагаемых вари- вания, корректируется план предоставле-
+антов развития инфраструктуры с помо- ния «окон», который передается в ИМПП.
+щью имитационного моделирования Моделирование и корректировка гра-
+процессов железнодорожных перевозок фиков проведения ремонтных работ про-
+[8–9]. должаются весь заданный период плани-
+
+Системной базой этой технологии вы- рования. Если дата окончания работ 
+ступает блок-схема (рис. 4) процессов на каком-либо участке выходит за послед-
+взаимодействия модернизируемого по при- ний день последнего месяца ремонтов, 
+чине утверждения новых ТУ модуля пла- то планируется использование дополни-
+нирования ремонтных работ (МПРР) тельной ПМС.
+и модуля имитационного моделирования В случае отсутствия условий для пропу-
+процессов перевозок (ИМПП) [10–11] при ска требуемого количества грузовых пое-
+формировании графика предоставления здов по ремонтируемому участку проверя-
+«окон» большой продолжительности. ется возможность отклонения части пое-
+
+Для запуска МПРР необходимо ввести здопотока на параллельное направление. 147
+нормативно-справочную информацию 
+о классах, группах и категориях путей, ВЫВОДЫ
+нормативах и схемах проведения ремонтов, Результатом работы является развитие 
+производительности работ, параметрах метода имитационного моделирования 
+
+• МИР ТРАНСПОРТА, том 13, №2, С.142-153 (2015)
+
+Кокурин И.М., Катцын Д.В., Тимченко В.С. Определение параметров «окон» при оценке 
+перевозочных перспектив
+
+
+
+148
+
+Рис. 4. Блок-схема процессов взаимодействия МПРР и ИМПП.
+
+процессов железнодорожных перевозок 5. Сазонов В. Н. Задачи и перспективы ремонтного 
+
+в направлении учета возможности совме- комплекса путевого хозяйства // Путь и путевое хозяйст-
+во. – 2006. – № 5. – С. 2–8.
+
+щения во времени ремонтных работ при 6. Атякин Д. И., Коваленко Н. И. Сквозные «окна» как 
+определении параметров длительных ресурс ремонта // Мир транспорта. – 2011. – № 5. – 
+
+«окон», с целью количественного обосно- С. 120–123.
+7. Кутумов В. М., Романова П. Б., Муковни-
+
+вания достаточности этапов модернизации на Н. А. Проблемы организации продолжительных 
+железнодорожной инфраструктуры для «окон»// Вестник СамГУПС. – 2009. – № 6 (18) / Том 2. – 
+
+освоения возрастающих объемов перевозок С. 132–134.
+8. Кокурин И. М., Кудрявцев В. А. Оценка пропускной 
+
+на длительную перспективу. способности железнодорожных линий на основе имита-
+ционного моделирования процессов перевозок // Извес-
+
+ЛИТЕРАТУРА тия Петербургского университета путей сообщения. – 
+1. Белый О. В. Инновационные проблемы развития 2012. – № 2. – С. 18–22.
+
+транспорта // Бюллетень объединенного ученого со- 9. Кокурин И. М., Тимченко В. С. Методы определе-
+вета ОАО «РЖД». – 2010. – № 4. – С. 97–100. ния «узких мест», ограничивающих пропускную способ-
+
+2. Инструкция о порядке предоставления «окон» ность железнодорожных направлений // Известия Петер-
+для ремонтных и строительно-монтажных работ на же- бургского университета путей сообщения. – 2013. – № 1. – 
+лезных дорогах Российской Федерации. Утв. МПС РФ С. 15–22.
+16.11.2001 г., № ЦД-862. – 58 с. 10. Кокурин И. М., Тимченко В. С. Алгоритм оценки 
+
+3. Технические условия на работы по реконструк- наличной пропускной способности железнодорожных 
+ции (модернизации) и ремонту железнодорожного участков в условиях планирования «окон» большой про-
+пути. Утв. распоряжением ОАО «РЖД» от 2 мая 2012 г., должительности // Материалы Международной научно-
+№ 859р. – 308 с. практической конференции «Транспорт России: проблемы 
+
+4. Технологический процесс реконструкции пути и перспективы». – СПб: ИПТ РАН, 2013. – С. 71–75.
+с созданием и уплотнением защитного подбалластно- 11. Тимченко В. С. Алгоритмизация процессов оценки 
+го слоя путевыми машинами. Утв. главным инженером пропускной способности железнодорожных участков 
+департамента пути и сооружений ОАО «РЖД» в условиях предоставления окон // Транспорт Российской 
+29.11.2008 г. Федерации. – 2013. – № 5. – С. 34–37. •
+Координаты авторов: Кокурин И. М. – kokyrinim@mail.ru, Катцын Д. В. – kattzyn@yandex.ru, 
+Тимченко В. С. – tim4enko.via4eslav@mail.ru.
+
+Статья поступила в редакцию 03.02.2015, принята к публикации 17.04.2015.
+
+• МИР ТРАНСПОРТА, том 13, №2, С.142-153 (2015)
+
+Кокурин И.М., Катцын Д.В., Тимченко В.С. Определение параметров «окон» при оценке 
+перевозочных перспектив
+
+
+
+DETERMINING PARAMETERS OF SCHEDULED MAINTENANCE WORK-
+INTERVALS WITHIN THE ASSESSMENT OF FUTURE TRANSPORTATION 
+CAPACITY
+
+Kokurin, Iosif M., Institute of Transport Problems of Russian Academy of Sciences, St. Petersburg, 
+Russia.
+
+Kattsyn, Dmitry V., JSC «Russian Railways», Moscow, Russia.
+Timchenko, Vyacheslav S., Institute of Transport Problems of Russian Academy of Sciences, St. 
+
+Petersburg, Russia.
+
+ABSTRACT development of growing traffic volumes with the 
+The article contains a description of the simulation expectation of long-term perspective and subject of 
+
+method, required for a quantitative study of lengthy work-intervals (breaks in traffic for 
+modernization stages and repairs of the railway maintenance works), reducing the capacity of lines 
+infrastructure. Its use is particularly important in the operated. 
+
+Keywords: railway infrastructure, modernization, repair, carrying capacity, simulation.
+
+ Background. The task of quantifying opportunities The main type of repair is assigned for the current 
+of handling promising cargo volumes on railroad lines year if the running time of tonnage (G ) reaches the 
+
+C
+compared with options for infrastructure development norm (G ), or if it is time for such repairs in the 
+
+CH
+in the long- term perspective of 5, 10 or more years calculation of inter-repair cycle in years. For railway 
+is decided today on the basis of simulation of directions relating to the first class, group A, 
+transportation process [1], developed and constantly categories 1–3 and C, Gсн = 700 million tons. The 
+modified by the community of scholars in academic, intermediate repairs are distributed evenly between 
+industry and university research. years or missed tonnage.
+
+Modernization and repair of rail infrastructure The main types of repair include:
+require the provision of long-term work-intervals 1. Modernization (reconstruction) of railway track.
+(breaks in traffic), reducing the capacity of single- 2. Overhaul on used materials.
+track lines, according to expert estimates, by 15– 3. Replacement of switches.
+20%, and of double- track lines – by 12–15%. Intermediate repairs include:
+
+Railway specialists, so it is accepted, prepare 1. Mid-life repair.
+plans to upgrade and repair the infrastructure only for 2. Preventative maintenance.
+the next year that can reliably take into account the 3. Complete interchange of rails and metal parts 
+possibility of providing workforce, equipment and of switches.
+materials [2] only for a limited period of time. 4. Grinding of rails.
+Therefore, the relevance of the simulation method to After determining the timing of repairs for each of 
+study the stages of modernization programs is still their kind schedules are formed for provision of work-
+high, and taking care of minimizing the costs of intervals showing locations, dates and duration of 
+development of the projected traffic volumes in view interruptions in motion.
+of optimizing the parameters of breaks is gaining more Long-term work-intervals with the involvement of 
+weight on the background of the economic problems station track machines (STM) are available for the 
+in recent years. following types of work:
+
+Objective. The objective of the authors is to 1. Modernization (reconstruction) of railway track.
+present a simulation method, required for a 2. Overhaul on used materials.
+quantitative study of modernization stages and repair 3. Mid-life repair.
+of the railway infrastructure. 4. Interchange of switches.
+
+Methods. The authors use analysis, comparative Technology of formation of schedules of work-
+method, evaluation, simulation and mathematical intervals for modernization and overhaul on used 
+methods. materials are identical and apply to all infrastructure 
+
+Results. facilities: track, man-made facilities, signaling, 
+I. technological communication, electrical power 
+
+The greatest number of breaks is available for supply, etc.
+track facilities of railways as complex in technology To replace switches work-intervals are provided, 
+and duration works are carried out by the complex of the duration of which is determined by the rules with 
+track machines and service trains. On the other account of local conditions. Opportunities to carry out 
+infrastructure facilities there are enough technological works simultaneously with modernization or enhanced 
+intervals, provided for by regulatory train timetable mid-life repair are checked, if their terms coincide 
+for engineering works. It is logical to assume that in with each other, and operations on replacement of 
+this case the number and duration of intervals in the switches do not interfere the movement of track 
+long term should be defined according to the needs equipment.
+of track operations. Long-term work-intervals are available for main 
+
+Performance of track works is regulated by repairs and preparation and final (finishing) works fit 
+technical conditions [3], which apply to the sections into the technological intervals.
+with handling of freight trains with axle loads of up to An exception is the crop of roadbed, which follows 
+25 kN / axis, speeds of up to 140 km / h and passenger the final surfacing and dynamic track stabilization. 149
+trains at speeds of up to 200 km / h. Types of repair Such a finishing operation is performed during 
+and its implementation scheme are determined technological breaks, combined with a final surfacing, 
+depending on class, group and category of the railway but partly also requires the use of long-term work-
+track. intervals.
+
+•  WORLD OF TRANSPORT AND TRANSPORTATION, Vol. 13, Iss.2, pp.142-153 (2015)
+
+Kokurin, Iosif M., Kattsyn, Dmitry V., Timchenko, Vyacheslav S. Determining Parameters of Scheduled 
+Maintenance Work-Intervals within the Assessment of Future Transportation Capacity
+
+
+
+Table 1
+150 Regulatory and average performance of track works, m
+
+Types of works Duration of work-interval, h
+Regulatory value Average value
+8 h 10 h 8 h 10 h
+
+Laying of the track panel 1350 1500 1150 1350
+Replacement of inventory rails 800 1200 600 800
+Final surfacing of the track 700 900 700 900
+Final surfacing of the track 3 km/shift
+(TM “Doumatik”)
+Crop of the roadbed 300–1500 500–1700 300–1500 500–1700
+
+Laying of the Replacement Deep cleaning Final Crop of the 
+track panel of inventory of ballast surfacing of roadbed
+
+rails the track
+
+Deep Deep Final surfacing Crop of the 
+cleaning of cleaning of of the track roadbed
+ballast ballast
+
+Pic. 1. The sequence of works, requiring the provision of long-term work-intervals in the modernization of railway 
+track and the possibility of their combination.
+
+ 
+
+Date
+
+TU
+WE
+TH
+FR
+SA
+SU
+
+MO
+TU
+
+WE
+TH
+
+FR
+SA
+
+SU
+MO
+TU
+
+WE
+TH
+FR
+SA
+SU
+
+MO
+TU
+
+WE
+
+Laying of the new track panel
+Replacement of inventory rails with long rail bars
+
+Deep cleaning of the ballast
+Final surfacing of the track
+
+From 11 to 13 of August work-intervals are provided to complete the crop of the 
+roadbed
+
+Pic. 2. Schedule of modernization of the railway track with the provision of eight-hour work-interval.
+
+•  WORLD OF TRANSPORT AND TRANSPORTATION, Vol. 13, Iss.2, pp.142-153 (2015)
+
+Kokurin, Iosif M., Kattsyn, Dmitry V., Timchenko, Vyacheslav S. Determining Parameters of Scheduled 
+Maintenance Work-Intervals within the Assessment of Future Transportation Capacity
+
+August
+
+
+
+Table 2
+Dependence of working time from the organization of repair works
+
+Duration of works, h Three work-intervals of 8 hours Closing the haul
+Repair works 15 15
+Nonproductive operations 9 3
+Total duration of operations 24 18
+Occupation of equipment 72 18
+
+Performance is dependent on the profile of the The performance of deep cleaning of ballast is 
+roadbed and is measured in m 3, so when transferred the minimum among other types of repairs (see. Table 
+into meters of railway track its performance based on 1). Therefore it is necessary to perform this operation 
+local conditions vary over a wide range from 300 to as much as possible in the combined work-intervals 
+1500 m in the eight-hour work-intervals. that will have a schedule with a minimum number of 
+
+The possibility of partial implementation of crop intervals.
+of the roadbed during the technological work-intervals To begin the final surfacing of the track a section 
+complicates calculation of the required amount in the is required after deep cleaning of ballast with the 
+preparation of their work schedules. Therefore, based length of no less than 3 km, because this work is done 
+on the real experience it is offered for sections of less with the highest performance.
+than 12 km to allocate for crop of the roadbed The fragment of schedule of work-intervals, 
+additional three eight-hour or two ten-hour intervals. lasting 8 hours for the modernization of the railway 
+With a section length of more than 12 km it is possible track, is demonstrated in Pic. 2.
+to perform this work only in the technological and In the schedule in the eight-hour work-intervals 
+combined work-intervals without allocation of long the first is the field of operations with the length of 
+work-intervals. 1350 m on laying of the track panel. After completion 
+
+II. of the section of 4 km works on replacement of 
+The main types of repair work in the modernization inventory rails begin, the performance on the stage 
+
+of the railway track are [4]: of the eight-hour work-intervals is 800 m.
+1. Preservation of long rail bars. Replacement of inventory rails for two such work-
+2. Laying new track panels. intervals allows deep cleaning of ballast in combined 
+3. Change of inventory rails on long rail bars. work-intervals. It is impossible to start works earlier 
+4. Deep cleaning of ballast. due to insufficient distance to place track equipment.
+5. Final surfacing of the track. After the replacement of inventory rails at the field 
+Recently long rail bars are not kept, thereby of works with the length of 4 km another work-intervals 
+
+reducing the number of available intervals. Rail bars is provided to lay a track panel and two work-intervals 
+are cut into pieces of 25 m and taken together with to replace inventory rails, which are combined with 
+the old track panel, and in its place a new one is laid the deep cleaning of ballast.
+with new inventory rails. The final surfacing of the track with capacity of 3 
+
+After that, during technological work-intervals a km during the work-intervals is performed twice. Two 
+rail-carrying train delivers and unloads inside the work-intervals with the final surfacing and the dynamic 
+gauge long rail bars, which in the coming long work- track stabilization are combined with works on the 
+intervals replace inventory rails. New rail bars are deep cleaning of ballast.
+welded and fixed, creating a continuous welded rail. For the crop of the roadbed three additional work-
+
+The next step is the deep cleaning of ballast using intervals of 8 hours are provided.
+reclamation plants. After completion of sufficient III.
+works the final surfacing of the track is performed, at On the railway network of the Russian Federation 
+the same time its dynamic stabilization is carried out. three technologies to organize track repairs are used:
+In the final crop of the roadbed is made, giving it the 1. Execution of the program in the work-intervals 
+form in accordance with the project. of 8, 10 and 12 hours.
+
+After the full range of track works a track 2. Closing the haul for the period of repair work 
+measurement car moves, on the basis of which the (5–6 days).
+decision on the amount of permissible speed of trains 3. Repairs on a seven-day schedule.
+on the site is made. The choice of the option is related to the level of 
+
+To reduce the number of work-intervals a part of carrying capacity usage, the presence of parallel rail 
+the repair operations is permitted during combined lines, technical equipment (presence of bilateral auto-
+work-intervals. The condition for this is to create a lock) and the operation of the railway section (handling 
+sufficient distance between the end of the first and of heavy, long and combined trains).
+beginning of the second field of operations to avoid The highest performance is achieved by repair 
+delay of track equipment moving in the same direction work on the closed haul, and the lowest – in terms of 
+of, to ensure security and efficiency of the process. work-intervals of 8 hours. This is due to the fact that 
+
+Regulatory and average performance of track with increasing duration of the work-intervals reduce 
+works is listed in Table 1. loss of time and energy delivery of track machines to 
+
+When closing the final haul the performance of the scene and back, the organization and maintenance 
+railway track modernization on all types of works and of the production processes themselves.
+expert evaluation is in the range of 1, 25 to 2 km / day. The situation with the performance is easily seen 151
+
+The consistent performance of works, requiring in the deep cleaning of ballast, which determines the 
+the provision of long-term work-intervals is shown in duration of the full range of track works. With total 
+Pic. 1 by horizontal l ines, and the ability to investment of time of three hours on the movement 
+simultaneously produce them in the combined work- of track equipment back and forth, as well as the 
+intervals – by vertical lines. preparation and conduction of work operations are 
+
+•  WORLD OF TRANSPORT AND TRANSPORTATION, Vol. 13, Iss.2, pp.142-153 (2015)
+
+Kokurin, Iosif M., Kattsyn, Dmitry V., Timchenko, Vyacheslav S. Determining Parameters of Scheduled 
+Maintenance Work-Intervals within the Assessment of Future Transportation Capacity
+
+
+
+Monday Tuesday Wednesday Thursday Friday Saturday Sunday Monday Tuesday
+
+152 Staon A
+
+Staon B
+
+Pic. 3. The seven-day Staon C
+
+schedule of repairs.
+
+Staon D
+
+Staon E
+
+Staon F
+
+Entering in MRP the reference Entering in MRP the informaon Entering in MTS the informaon 
+informaon of the track state at the beginning on addional parameters of the 
+
+of the planning period model
+
+Calculaon of the number of 
+
+Formaon in MRP of a preliminary schedule of repairs for the enre loaded and empty trains
+
+planning period
+
+Formaon in MRP of a schedule of repair for the current planning year
+
+Construcon in MTS of a graphics of the completed train schedule
+
+Calculaon in MRP of achieved working capacity
+
+A final schedule of repairs for the enre planning period
+
+Pic. 4. Flow chart of interaction processes of MRP and MTS.
+
+obtained depending on the length of work-intervals Specialists of Kuibyshev Railway recognize as 
+duration, presented in Table 2. an intermediate option the organization of works 
+
+Since each work-intervals is available in some day, on a seven-day schedule, which they proposed. 
+in case of haul closing not only the total duration of This technique (Pic. 3) provides at the same 
+repairs reduces, but also the number of days when weekdays alteration of work-intervals of large 
+the track equipment is at the repair area (from 72 to (14–32 h) and low (8 h) length with days without 
+18 hours). This technique allows increasing intervals, that allows to handle a predetermined 
+productivity by using it in the other sections. number of trains per week in intervals between the 
+
+In  case of  haul  c los ing operat ions are work-intervals [6].
+conducted twenty-four-hour, usually involving On the graph inclined lines show the location of 
+several STM. Operating expenses decrease by 1,5 work-intervals and horizontal – the venue of repairs, 
+to 2 times, by 70% – the need for locomotives for and at the section A-B the first STM operates, and at 
+service trains, by 1,5–2 times – the costs of empty the section B-E – the second.
+runs of service trains [5]. The disadvantage of the On Wednesday (field day) work-intervals are not 
+technology used is the reduction in the capacity available, and the alternate schedule provides 
+of the railway section caused by the long handling handling of the maximum number of freight trains. 
+of trains on the same track of double-track haul in From Thursday to Saturday work-intervals of 8 hours 
+both directions. are offered, and on Sunday a field day is planned.
+
+•  WORLD OF TRANSPORT AND TRANSPORTATION, Vol. 13, Iss.2, pp.142-153 (2015)
+
+Kokurin, Iosif M., Kattsyn, Dmitry V., Timchenko, Vyacheslav S. Determining Parameters of Scheduled 
+Maintenance Work-Intervals within the Assessment of Future Transportation Capacity
+
+
+
+The advantage of this technology is a fixed number On the basis of such information MRP gives graphics 
+of handling trains for a week due to the cyclicality of of repairs for the entire planning period, containing 
+works that smoothes uneven movement on different information about the places, the amount, duration of 
+days and provides handling of the planned number of provided work-intervals and additional restrictions of 
+trains [7]. train speed. Graphics settings are entered in MTS, 
+
+The duration of large work-intervals is calculated together with promising traffic volumes.
+based on the need to handle the entire train stream on As a result of simulation MTS builds the schedule of 
+the repaired section and parallel lines. the completed train traffic schedule, calculates capacity 
+
+The analysis of planning, organizing and carrying and carrying capacity in terms of intervals. This 
+out repairs is a basis of computer technology, information is exported to MRP where working capacity 
+determining the need for work-intervals with projected is calculated at the end of the year of the simulation 
+traffic volume. It is necessary to assess the adequacy beginning, a plan of work-intervals is adjusted, which is 
+of carrying capacity in the implementation of the then transmitted to MTS.
+proposed options for the infrastructure development Modeling and adjustment of schedule for repair 
+with the help of rail transportation process simulation works is going on all the specified planning period. If the 
+[8–9]. date of completion of the work in any area goes beyond 
+
+A system basis of this technology is a flow chart the last day of the last month of repairs, it is planned to 
+(Pic. 4) of interaction processes of modernized due use an additional STM.
+to the adoption of new technological conditions of If there are no conditions for the handling of the 
+the module of repairs planning (MRP) and module required number of freight trains on the repair area the 
+of transportation simulation (MTS) [10–11] in the deflection of the train stream to parallel tracks is tested.
+formation of the schedule of work-intervals of large Conclusion. The study resulted in development of 
+duration. a method of simulation of processes of rail traffic that 
+
+To start MRP it is necessary to enter the reference takes into account possibility to combine different 
+data of classes, groups and categories of tracks, maintenance and repair works in order to better define 
+regulations and schemes of repairs, performance of parameters of scheduled lengthy work-intervals, and 
+work, parameters of loaded and empty trains, as well as that is suitable to numerically substantiate sufficiency of 
+data on the state of the track at the beginning of the modernization stages of rail infrastructure to enable 
+planning period. growing transportation for a long future period.
+
+REFERENCES 7. Kutumov, V.M., Romanova, P.B., Mukovnina, 
+1. Belyj, O. V. Innovative problems of transport N. A. Problems of organization of long work-intervals 
+
+development [Innovatsionnye problemy razvitiya transporta]. [Problemy organizatsii prodolzhitel’nyh «okon»]. Vestnik 
+Bulletin of the Joint Scientific Council of JSC «Russian SamGUPS, 2009, Iss. 6 (18), Vol. 2, pp. 132–134.
+Railways», 2010, Iss. 4, pp. 97–100. 8. Kokurin, I.M., Kudryavtsev, V. A. Assessment of the 
+
+2. Instructions on how to provide work-intervals for capacity of railway lines on the basis of transportation 
+repair and construction works on the railways of the Russian s i m u l a t i o n  [ O t s e n k a  p r o p u s k n o y  s p o s o b n o s t i 
+Federation [Instruktsiya o poryadke predostavleniya «okon» zheleznodorozhnyh liniy na osnove imitatsionnogo 
+dlya remontnyh i stroitel’no-montazhnyh rabot na zheleznyh modelirovaniya protsessov perevozok]. Proceedings of St. 
+dorogah Rossiyskoy Federatsii]. Approved by Railway Petersburg University of Railways, 2012, Iss. 2, pp. 18–22.
+Ministry of 16.11.2001, № TsD-862. 58 p. 9. Kokurin, I.M., Timchenko, V. S. Methods for 
+
+3. Specifications for reconstruction (modernization) determination of «bottlenecks» that limit the capacity of 
+and repair of railway tracks [Tehnicheskie usloviya na raboty railway directions [Metody opredeleniya «uzkih mest», 
+po rekonstruktsii (modernizatsii) i remontu zheleznodorozhnogo o g r a n i c h i v a y u s c h i h  p r o p u s k n u y u  s p o s o b n o s t ’ 
+puti]. Approved by the Order of JSC «Russian Railways» zheleznodorozhnyh napravleniy]. Proceedings of St. Petersburg 
+dated May 2, 2012, № 859r., 308 p. University of Railways, 2013, Iss 1, pp. 15–22.
+
+4. The technological process of track reconstruction 10. Kokurin, I.M., Timchenko, V. S. Algorithm for 
+with creation and consolidation of a protective sub- estimating available capacity of railway sections in terms of 
+ballast layer by track machines [Tehnologicheskiy planning work-intervals of long duration [Algoritm otsenki 
+protsess rekonstruktsii puti s sozdaniem i uplotneniem nalichnoy propusknoy sposobnosti zheleznodorozhnyh 
+zaschitnogo podballastnogo sloya putevymi mashinami]. uchastkov v usloviyah planirovaniya «okon» bol’shoy 
+Approved by the chief engineer of the Department of prodolzhitel’nosti]. Proceedings of the International 
+track and structures of JSC «Russian Railways» on Scientific and Practical Conference «Transport of Russia: 
+29.11.2008. Problems and Prospects». St. Petersburg, IPT RAN, 2013, 
+
+5. Sazonov, V. N. Challenges and prospects for the pp. 71–75.
+repair complex of track facilities [Zadachi i perspektivy 11. Timchenko, V. S. Algorithmization of processes for 
+remontnogo kompleksa putevogo hozyaystva]. Put’ i putevoe assessing the capacity of railway sections in terms of work-
+hozyaystvo, 2006, Iss. 5, pp. 2–8. intervals [Algoritmizatsiya protsessov otsenki propusknoy 
+
+6. Atyakin, D.I., Kovalenko, N. I. Throurh Time sposobnosti zheleznodorozhnyh uchastkov v usloviyah 
+Intervals as a Resource for Repairs. World of Transport and predostavleniya okon]. Transport Rossiyskoy Federatsii, 2013, 
+Transportation, 2011, Iss. 5, Vol.38, pp. 120–123. Iss. 5, pp. 34–37. •
+Information about the authors:
+Kokurin, Iosif M. – D. Sc. (Eng.), professor, chief researcher at the Institute of Transport Problems n. a. 
+N. S. Solomenko, Russian Academy of Sciences, St. Petersburg, Russia, kokyrinim@mail.ru. 
+Kattsyn, Dmitry V. – Ph.D.(Eng.), advisor to the first vice president of JSC «Russian Railways», Moscow, 153
+Russia, kattzyn@yandex.ru. 
+Timchenko, Vyacheslav S. – junior researcher at the Institute of Transport Problems n. a. N. S. Solomenko, 
+Russian Academy of Sciences, St. Petersburg, Russia, tim4enko.via4eslav@mail.ru. 
+
+Article received 03.02.2015, accepted 17.04.2015.
+
+•  WORLD OF TRANSPORT AND TRANSPORTATION, Vol. 13, Iss.2, pp.142-153 (2015)
+
+Kokurin, Iosif M., Kattsyn, Dmitry V., Timchenko, Vyacheslav S. Determining Parameters of Scheduled 
+Maintenance Work-Intervals within the Assessment of Future Transportation Capacity

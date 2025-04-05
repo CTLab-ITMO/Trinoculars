@@ -1,0 +1,401 @@
+﻿УДК 796.012.266:612.886            DOI: 10.14529/hsm190208
+ 
+ДИНАМИКА СТАБИЛОМЕТРИЧЕСКИХ ПАРАМЕТРОВ  
+В ПРОБЕ С ПОВОРОТОМ ГОЛОВЫ У СТУДЕНТОВ-СПОРТСМЕНОВ
+ 
+С.В. Седоченко, А.В. Черных, О.Н. Савинкова 
+Воронежский государственный институт физической культуры, г. Воронеж, Россия 
+
+ 
+ 
+
+Цель: изучить динамику стабилометрических параметров при повороте головы в сто-
+роны у студентов колледжа, занимающихся динамическими симметричными видами спор-
+та. Материал и методы. В исследовании приняли участие студенты 3-го курса колледжа
+(n = 24), занимавшиеся динамичными, симметричными видами спорта (волейбол, баскет-
+бол, гребля на байдарке, плавание). Средний возраст 18,2 года. Изучение стабилометриче-
+ских параметров проводилось по методике «Тест с поворотом головы». Результаты.
+В стандартной европейской стойке у испытуемых наблюдалось смещение общего центра
+давления назад и влево, параметры удержания равновесия имели среднестатистические
+значения. Качество функции равновесия имело значение 89,43 %; оценка движения
+63,08 Рад/с. При повороте головы направо отмечалось увеличение показателей средне-
+квадратического отклонения центра давления по фронтали. При повороте головы налево
+обнаружено статистически достоверное увеличение девиации центра давления по фронта-
+ли с отклонением общего центра давления назад, а также статистически достоверное
+ухудшение качества функции равновесия до 79,35 %, параллельно с увеличением значений
+оценки движения до 74,08 Рад/с, свидетельствующей об ухудшении устойчивости. За-
+ключение. Поворот головы вправо/влево вызывает различную динамику изучаемых пока-
+зателей, в частности вариации значений девиации, оценки движения и качества функции
+равновесия имели статистически значимые различия лишь при повороте головы налево,
+что подтверждает ухудшение устойчивости в этой позе у студентов колледжа, занимаю-
+щихся динамичными видами спорта. Анализ параметров среднеквадратического отклоне-
+ния центра давления позволяет заключить, что у студентов имеется нарушение кровотока
+в сосудах вертебробазилярного бассейна справа. 
+
+Ключевые слова: стабилометрические параметры, студенты-спортсмены, устойчи-
+вость, равновесие. 
+
+ 
+ 
+
+Введение. Равновесие является двига- действия вестибулярным проблемам [13]. Ус-
+тельно-координационным качеством, основан- тановлено, что стабильность голеностопного 
+ным на оптимальной оперативной позе, спо- сустава имеет решающее значение для посту-
+собствующей минимизации микроколебаний рального контроля, а интенсивная физическая 
+для поддержания устойчивости, а также про- подготовка является решающим фактором для 
+странственной ориентации и рационального дифференцированной характеристики стаби-
+перераспределения нагрузки на мышцы для лометрических параметров тренированных и 
+снижения инерционного эффекта с определен- не занимающихся спортом испытуемых [10, 
+ными критериями для оценки статодинамиче- 14]. Подтверждено ухудшение стабиломет-
+ской устойчивости [1, 2]. В результате срав- рических параметров сразу после и спустя  
+нения устойчивости спортсменов различных 30 минут после окончания анаэробной трени-
+видов спорта было замечено, что смещение ровки, восстановление прежних значений ус-
+общего центра давления в характерную сторо- тойчивости происходит спустя 24 часа [7]. 
+ну имеет зависимость, а показатели амплитуды Рассмотрен тренировочный эффект, оказы-
+не имеют зависимости от вида спорта [3, 4]. ваемый на постуральный контроль и изокине-
+
+По мнению иностранных специалистов, тическую силу нижних конечностей спорт-
+любое воздействие, и особенно проприоцеп- сменов [8, 15]. Установлено, что нестабиль-
+тивная тренировка вызывает различные изме- ность положения вызывает немедленное 
+нения в параметрах стабилометрии, а также увеличение мышечной активации, направлен-
+снижение устойчивости, обусловленное утом- ное на стабилизацию вертикального положе-
+лением спортсменов [6, 11, 12]. Введена сис- ния и удержание центра давления, для сохра-
+тема спортивных мероприятий для противо- нения равновесия [9].  
+
+Человек. Спорт. Медицина  
+2019. Т. 19, № 2. С. 63–68 63
+
+
+
+Спортивная тренировка 
+Материалы и методы. В исследовании и сагиттали (у = –1,21 ± 1,07) относительно 
+
+приняли участие студенты 3-го курса коллед- общего центра давления (ЦД) были невысокие 
+жа ВГИФК (n = 24), занимавшиеся динамич- значения смещения ЦД назад и влево. Средне-
+ными, симметричными видами спорта (волей- квадратическое отклонение ЦД (Q) по соот-
+бол, баскетбол, гребля на байдарке, плавание). ветствующим направлениям (х = 1,48 ± 0,16;  
+Средний возраст 18,2 года. у = 2,23 ± 0,23) имело преобладание в сагит-
+
+Для оценки динамики статической устой- тальном направлении. Оценка движения  
+чивости при поворотах головы применялся (OD = 63,1 ± 1,57), рассчитываемая исходя из 
+стабилоанализатор компьютерный с биологи- отношения длины статокинезиограммы к сред-
+ческой обратной связью «Стабилан-01-2» по нему разбросу, с учетом времени исследова-
+методике «Тест с поворотом головы», которая ния, соответствовала среднестатистическим 
+относится к диагностическим и позволяет вы- показателям для спортсменов. Качество 
+явить изменения функции равновесия, свя- функции равновесия (КФР = 89,43 ± 1,57) 
+занные с нарушением кровообращения в вер- имело значения, соответствующие средним 
+тебробазилярном бассейне. Выявление разни- нормативам для спортсменов динамичных 
+цы показателей при выполнении теста более симметричных видов спорта (см. таблицу).  
+чем в 1,5 раза свидетельствует о нарушении При повороте головы направо было заме-
+кровотока в пережатых сосудах шейного от- чено: смещение МО по сагиттали (что вызва-
+дела позвоночника со стороны, противопо- ло еще большее отклонение на левую ногу)  
+ложной повороту головы [1].  (–3,41 ± 1,61), по фронтали изменения показа-
+
+Для оценки динамики устойчивости при телей незначительны; прирост показателей 
+поворотах головы анализировались следую- среднеквадратического отклонения ЦД (Q) по 
+щие показатели: математическое ожидание фронтали (2,05 ± 0,27), а по сагиттали девиа-
+(МО, мм) положения центра давления по ция несущественна; незначительное умень-
+фронтали (х) и сагиттали (у); cреднеквадра- шение показателя «оценка движения» (OD = 
+тическое отклонение центра давления (Q, мм) = 60,64 ± 4,82) свидетельствовало о стабилиза-
+по направлениям (х; у); оценка движения (OD, ции устойчивости; а также статистически дос-
+Rad/s); качество функции равновесия (КФР, %).  товерный регресс значений КФР = 80,08 ± 4,37 
+
+Результаты. В таблице представлены (согласно t-критерию Стьюдента значение  
+данные стабилометрического тестирования = 2,013, при р = 0,05) являющийся признаком 
+студентов-спортсменов колледжа.  снижения способности к поддержанию равно-
+
+Из представленной таблицы видно, что в весия (см. таблицу). 
+фоновой пробе у студентов, согласно пара- При повороте головы налево выявлено: 
+метрам (МО) по фронтали (х = –0,21 ± 0,57)  статистически достоверное смещение МО по 
+
+Результаты стабилографии по методике «Тест с поворотом головы»  
+студентов-спортсменов колледжа (n = 24) 
+
+Results of the “Head turn test” in college students (n = 24) 
+
+Среднеквадратическое 
+Оценка  Качество функции 
+
+Координаты положения  отклонение центра  
+движения равновесия 
+
+центра давления давления 
+Параметр Movement Quality of balance 
+
+Center of pressure coordinates CP root-mean-square  
+Parameter values function 
+
+deviation 
+MO(x), MO(y), Q(x), Q(y), OD, Рад/с КФР, % 
+мм / mm мм / mm мм / mm мм / mm Rad/s QBF, % 
+
+Фон 
+Normal –0,21 ± 0,57 –1,21 ± 1,07 1,48 ± 0,16* 2,23 ± 0,23 63,08 ± 4,20* 89,43 ± 1,57* 
+conditions 
+Вправо 
+
+–0,21 ± 1,10 –3,41 ± 1,61 2,05 ± 0,27 2,73 ± 0,31 60,64 ± 4,82 80,08 ± 4,37* 
+To the right  
+Влево 
+
+–2,73 ± 1,04* –1,46 ± 1,61 2,25 ± 0,21* 2,43 ± 0,20 74,08 ± 3,49* 79,35 ± 4,48* 
+To the left  
+
+Примечание. * – р ≤ 0,05 изменения достоверны относительно фона. 
+Note. * – p ≤ 0.05 changes are significant for students under normal conditions. 
+
+Human. Sport. Medicine 
+64 2019, vol. 19, no. 2, pp. 63–68 
+
+
+
+Седоченко С.В., Черных А.В., Савинкова О.Н.          Динамика стабилометрических параметров 
+    в пробе с поворотом головы…  
+
+фронтали (–2,73 ± 1,04) (что вызвало увели- биологические проблемы физического воспи-
+чение отклонения ЦД назад), по сагиттали тания. – 2007. – № 2. – С. 9–12. 
+изменения показателей незначительны; девиа- 2. Болобан, В.Н. Критерии оценки ста-
+ция показателей среднеквадратического от- тодинамической устойчивости тела спорт-
+клонения ЦД (Q) во фронтали имела статисти- смена и системы тел в видах спорта, слож-
+чески значимый прирост в 1,5 раза (2,25 ± 0,21), ных по координации / В.Н. Болобан, Ю.В. Лит-
+что является признаком нарушения кровотока виненко, А.П. Оцупок // Физическое воспита-
+в вертебробазилярном бассейне справа, а по ние студентов. 2012. – № 4.– С. 17–24. 
+сагиттали изменение значений несущественно; 3. Литвиненко, Ю. Биомеханическая ха-
+статистически достоверное увеличение пока- рактеристика статодинамической устойчи-
+зателя «оценка движения» (OD = 74,08 ± 3,49), вости спортсменов высокой квалификации 
+свидетельствующее об ухудшении устойчиво- (на материале спортивной гимнастики) /  
+сти; также выявлен статистически достовер- Ю. Литвиненко, Е. Садовски, Т. Нижковски, 
+ный регресс значений КФР = 79,35 ± 4,48 (см. В. Болобан // Наука в олимпийском спорте. – 
+таблицу). 2014. – № 4. – С. 74–78. 
+
+Заключение. Установлено, что устойчи- 4. Ложкина, Н.И. Показатели вестибу-
+вость студентов колледжа, занимающихся лярной устойчивости у спортсменов различ-
+симметричными динамичными видами спор- ных специализаций / Н.И. Ложкина, Т.П. Зам-
+та, находится в среднестатистических значе- чий // Успехи современного естествознания. – 
+ниях; отмечено смещение центра давления у 2013. – № 2. – С. 120–121. 
+основной массы испытуемых назад (на пятки). 5. Переяслов, Г.А. Методическое обеспе-
+Качество функции равновесия и оценка дви- чение стабилоанализатора «Стабилан 01» / 
+жения имеют средние показатели.  Г.А. Переяслов, С.С. Слива // Известия ТРТУ. 
+
+Выявлена динамика стабилометрических Технические науки. – 2002. – № 5. – С 82–88. 
+параметров при поворотах головы впра- 6. Comparison of proprioceptive training 
+во/влево: так, смещение центра давления уси- and muscular strength Training to improve  
+ливается на левую ногу при повороте головы balance ability of taekwondo poomsae athletes: 
+направо, а при повороте налево увеличивает a randomized controlled trials / S. Yoo, S.K. Park, 
+отклонение центра давления назад. Статисти- S. Yoon et al. // Journal of Sports Science  
+чески значимое снижение значений качества & Medicine. – 2018. – Vol. 14; 17 (3). –  
+функции равновесия отмечалось при повороте P. 445–454.  
+головы в обе стороны. Незначительная дина- 7. Effects of an anaerobic lactic training 
+мика показателей оценки движения при пово- session on the postural stability of athletes /  
+роте головы направо сопровождалась стаби- N. Romero-Franco, E.J. Martínez-López, F. Hita-
+лизацией устойчивости, а при повороте нале- Contreras et al. // The Journal of Sports Medi-
+во – статистически достоверным ухудшением. cine and Physical Fitness. – 2015. – Vol. 55 (6). – 
+Также при повороте головы налево выявлена Р. 578–586. 
+статистически значимая девиация параметров 8. Effects of proprioceptive training pro-
+центра давления по фронтали. gram on core stability and center of gravity con-
+
+Таким образом, поворот головы налево trol in sprinters / N. Romero-Franco, E. Martínez-
+вызывает достоверные и наиболее значимые López, R. Lomas-Vega et al. // Journal of 
+изменения в изучаемых параметрах и прово- Strength and Conditioning Research. – 2012. – 
+цирует ухудшение устойчивости студентов Vol. 26 (8). – P. 2071–2077. DOI: 10.1519/ 
+колледжа, занимающихся симметричными JSC.0b013e31823b06e6 
+динамичными видами спорта. Исходя из ана- 9. Fundamentos de fisiologíadelejercicio / 
+лиза показателей девиации центра давления, W. McArdle, F. Katch, V. Katch. – 2nd Edición. – 
+также можно заключить, что у студентов Mardrid: McGrawHill-interamericana, 2004. – 
+справа имеется нарушение кровотока в сосу- 37 p. 
+дах вертебробазилярного бассейна. 10. Postural balance in rowing athletes / 
+
+ Taian de Mello Martins, Vieira and Líliam Fer-
+Литература nandes de Oliveira // Revista Brasileira de Medi-
+
+1. Богачук, Л.П. Контроль устойчивости cina do Esporte. – 2006. – Vol. 12, No. 3. –  
+тела спортсменов / Л.П. Богачук, Н.Г. Бы- P. 122e–125e. 
+шевец // Педагогика, психология и медико- 11. Short-term effects of a proprioceptive 
+
+Человек. Спорт. Медицина  
+2019. Т. 19, № 2. С. 63–68 65 
+
+
+
+Спортивная тренировка 
+training session with unstable platforms on the Medicine & Doping Studies. – 2013. – Vol. 3. – 
+monopodalstabilometry of athletes / N. Romero- Р. 129. DOI: 10.4172/2161-0673.1000e129 
+Franco, A. Martínez-Amat, F. Hita-Contreras, 14. Stabilometry recordings in functional 
+E.J. Martínez-López // Journal of Physical The- and mechanical instability of the ankle joint /  
+rapi Science. – 2014. – Vol. 26 (1). – P. 45–51. H. Tropp, P. Odenrick, J. Gillquist // International 
+DOI: 10.1589/jpts.26.45. Epub 2014 Feb 6 journal of sports medicine. – 1985. – Vol. 6 (3). – 
+
+12. Short-term effects of proprioceptive P. 180–182. DOI: 10.1055/s-2008-1025836 
+training with unstable platform on athletes' sta- 15. The effect of 8-weeks proprioceptive 
+bilometry / N. Romero-Franco, E.J. Martínez- exercise program in postural sway and isokinetic 
+López, R. Lomas-Vega et al. // Journal of strength of ankle sprains of Tunisian athletes / 
+Strength and Conditioning Research. – 2013. – Ben A. Moussa Zouita, O. Majdoub, H. Ferchichi 
+Vol. 27 (8). – P. 2189–2197. DOI: 10.1519/ et al. // Annals of Physical and Rehabilitation 
+JSC.0b013e31827de04c Medicine. – 2013. – Vol. 56 (9–10). – Р. 634–643. 
+
+13. Stabilometry in Sports Medicine & DOI: 10.1016/j.rehab.2013.08.003. Epub 2013 
+Doping Studies/ H. Takada // Journal Sports Sep 26. 
+
+Седоченко Светлана Владимировна, кандидат педагогических наук, доцент кафедры тео-
+рии и методики физической культуры, педагогики и психологии, Воронежский государственный
+институт физической культуры. 394036, г. Воронеж, ул. Карла Маркса, 59. E-mail: 02051970@
+mail.ru, ORCID: 0000-0002-2509-3704. 
+
+Черных Анна Витальевна, кандидат медицинских наук, доцент кафедры медико-биоло-
+гических, естественно-научных и математических дисциплин, Воронежский государственный
+институт физической культуры. 394036, г. Воронеж, ул. Карла Маркса, 59. E-mail: annaavilova@
+mail.ru, ORCID: 0000-0001-6218-996X. 
+
+Савинкова Ольга Николаевна, кандидат педагогических наук, профессор кафедры теории и
+методики физической культуры, педагогики и психологии, Воронежский государственный инсти-
+тут физической культуры. 394036, г. Воронеж, ул. Карла Маркса, 59. E-mail: nauka.vgifk@mail.ru,
+ORCID: 0000-0002-1147-0070. 
+
+ 
+Поступила в редакцию 30 апреля 2019 г.
+
+ 
+_________________________________________________________________ 
+ 
+
+DOI: 10.14529/hsm190208
+ 
+
+DYNAMICS OF STABILOMETRIC PARAMETERS  
+IN THE HEAD TURN TEST IN STUDENT-ATHLETES 
+ 
+S.V. Sedochenko, 02051970@mail.ru, ORCID: 0000-0002-2509-3704, 
+A.V. Chernykh, annaavilova@mail.ru, ORCID: 0000-0001-6218-996X, 
+O.N. Savinkova, nauka.vgifk@mail.ru, ORCID: 0000-0002-1147-0070 
+Voronezh State Institute of Physical Training, Voronezh, Russian Federation 
+
+ 
+ 
+Aim. The article deals with studying the dynamics of stabilometric parameters during head
+
+turns in college students involved in symmetrical sports. Materials and methods. Third-year
+college students (n = 24) involved in symmetrical sports (volleyball, basketball, rowing, swim-
+ming) participated in the study.  The average age is 18.2 years.  The study of stabilometric para-
+meters was carried out following the procedure of the “Head turn test”. Results. In a basic Euro-
+pean stance, we registered a shift of the common center of pressure (CP) to the back and the left.
+The parameters of balance had average values. The quality of balance function was 89.43%;
+movement values were 63.08 rad/s. During right head turns we registered the increase of the CP
+
+Human. Sport. Medicine 
+66 2019, vol. 19, no. 2, pp. 63–68 
+
+
+
+Седоченко С.В., Черных А.В., Савинкова О.Н.          Динамика стабилометрических параметров 
+    в пробе с поворотом головы…  
+
+root-mean-square deviation along the frontal line. During left head turns we registered a statisti-
+cally significant increase of the CP root-mean-square deviation along the frontal line with a shift 
+of the common center of pressure to the back, a statistically significant decrease of balance func-
+tion to 79.35%, and a parallel increase of movement values to 74.08 rad/s, which prove balance
+worsening. Conclusion. Left and right head turns provoke different dynamics of the parameters
+studied. In particular, there are changes in deviation values. Movement values and the quality
+of balance function had statistically significant differences only during left head turns. It proves
+balance worsening in a European stance in college students involved in dynamic sports.
+The analysis of the CP root-mean-square deviation allows us to conclude that students had circu-
+lation disturbance in the vessels of the vertebrobasilar artery to the right. 
+
+Keywords: stabilometric parameters, students, athletes, balance. 
+ 
+ 
+
+References 
+1. Bogachuk L.P., Byshevets N.G. [Control of the Stability of the Body of Athletes]. Pedagogika,
+
+psikhologiya i mediko-biologicheskiye problemy fizicheskogo vospitaniya [Pedagogy, Psychology and
+Biomedical Problems of Physical Education], 2007, no. 2, pp. 9–12. (in Russ.) 
+
+2. Boloban V.N., Litvinenko Yu.V., Otsupok A.P. [Criteria for Assessing the Static-Dynamic Sta-
+bility of an Athlete's Body and Body System in Sports that are Complex in Coordination]. Fizicheskoye
+vospitaniye studentov [Physical Education of Students], 2012, no. 4, pp. 17–24. (in Russ.) 
+
+3. Litvinenko Yu., Sadovski E., Nizhkovski T., Boloban V. [Biomechanical Characteristics of Sta-
+todynamic Stability of Highly Qualified Athletes (Based on Gymnastics Material)]. Nauka v olimpiyskom
+sporte [Science in Olympic Sport], 2014, no. 4, pp. 74–78. (in Russ.) 
+
+4. Lozhkina N.I., Zamchiy T.P. [Indicators of Vestibular Stability in Athletes of Various Speciali-
+zations]. Uspekhi sovremennogo estestvoznaniya [Successes of Modern Science], 2013, no. 2, pp. 120–121.
+(in Russ.) 
+
+5. Pereyaslov G.A., Sliva S.S. [Methodical Support of the Stabilan 01 Stabilization Analyzer].
+Izvestiya TRTU. Tekhnicheskiye nauki [News TSURE. Technical Science], 2002, no. 5, pp. 82–88.
+(in Russ.) 
+
+6. Yoo S., Park S.K., Yoon S., Lim H.S., Ryu J. Comparison of Proprioceptive Training and Mus-
+cular Strength Training to Improve Balance Ability of Taekwondo Poomsae Athletes: a Randomized
+Controlled Trials. Journal of Sports Science & Medicine, 2018, vol. 14, no. 17 (3), pp. 445–454.  
+
+7. Romero-Franco N., Martínez-López E.J., Hita-Contreras F., Lomas-Vega R., Martínez-Amat A.
+Effects of an Anaerobic Lactic Training Session on the Postural Stability of Athletes. The Journal of
+Sports Medicine and Physical Fitness, 2015, vol. 55 (6), pp. 578–586. 
+
+8. Romero-Franco N., Martínez-López E., Lomas-Vega R., Hita-Contreras F., Martínez-Amat A.
+Effects of Proprioceptive Training Program on Core Stability and Center of Gravity Control in Sprin-
+ters. Journal of Strength and Conditioning Research, 2012, vol. 26 (8), pp. 2071–2077. DOI:
+10.1519/JSC.0b013e31823b06e6 
+
+9. McArdle W., Katch F., Katch V. Fundamentos de Fisiologíadelejercicio. 2nd Edición. Mardrid:
+McGraw Hill-interamericana, 2004. 37 p. 
+
+10. Taian de Mello Martins, Vieira and LíliamFernandes de Oliveira. Postural Balance in Rowing
+Athletes. RevistaBrasileira de Medicina do Esporte, 2006, vol. 12, no. 3, pp. 122–125. 
+
+11. Romero-Franco N., Martínez-Amat A., Hita-Contreras F., Martínez-López E.J. Short-Term
+Effects of a Proprioceptive Training Session with Unstable Platforms on the Monopodalstabilometry
+of Athletes. Journal of Physical Therapi Science, 2014, vol. 26(1), pp. 45–51. DOI: 10.1589/jpts.26.45.
+Epub 2014 Feb 6 
+
+12. Romero-Franco N., Martínez-López E.J., Lomas-Vega R., Hita-Contreras F., Osuna-Pérez M.C.,
+Martínez-Amat A. Short-Term Effects of Proprioceptive Training with Unstable Platform on Athletes'
+Stabilometry. Journal of Strength and Conditioning Research, 2013, vol. 27 (8), pp. 2189–2197. DOI:
+10.1519/JSC.0b013e31827de04c 
+
+13. Takada H. Stabilometry in Sports Medicine & Doping Studies. Journal Sports Medicine &
+Doping Studies, 2013, vol. 3, 129 p. DOI: 10.4172/2161-0673.1000e129 
+
+ 
+Человек. Спорт. Медицина  
+2019. Т. 19, № 2. С. 63–68 67 
+
+
+
+Спортивная тренировка 
+
+14. Tropp H., Odenrick P., Gillquist J. Stabilometry Recordings in Functional and Mechanical 
+Instability of the Ankle Joint. International Journal of Sports Medicine, 1985, vol. 6 (3), pp. 180–182. 
+DOI: 10.1055/s-2008-1025836 
+
+15. Moussa Zouita B.A., Majdoub O., Ferchichi H., Grandy K., Dziri C., Ben Salah F.Z. The Effect 
+of 8-Weeks Proprioceptive Exercise Program in Postural Sway and Isokinetic Strength of Ankle Sprains 
+of Tunisian Athletes. Annals of Physical and Rehabilitation Medicine, 2013, vol. 56 (9-10), pp. 634–643. 
+DOI: 10.1016/j.rehab.2013.08.003. Epub 2013 Sep 26. 
+
+ 
+Received 30 April 2019 
+
+ 
+ 
+
+ОБРАЗЕЦ ЦИТИРОВАНИЯ  FOR CITATION 
+
+Седоченко, С.В. Динамика стабилометрических  Sedochenko S.V., Chernykh A.V., Savinkova O.N. 
+параметров в пробе с поворотом головы у студентов- Dynamics of Stabilometric Parameters in the Head Turn 
+спортсменов / С.В. Седоченко, А.В. Черных, О.Н. Са- Test in Student-Athletes. Human. Sport. Medicine, 2019, 
+винкова // Человек. Спорт. Медицина. – 2019. – Т. 19, vol. 19, no. 2, pp. 63–68. (in Russ.) DOI: 
+№ 2. – С. 63–68. DOI: 10.14529/hsm190208 10.14529/hsm190208 
+
+  
+ 
+ 
+
+ 
+ 
+ 
+
+Human. Sport. Medicine 
+68 2019, vol. 19, no. 2, pp. 63–68

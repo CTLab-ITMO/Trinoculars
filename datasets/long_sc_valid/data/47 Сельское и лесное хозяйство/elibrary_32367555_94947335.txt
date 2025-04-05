@@ -1,0 +1,570 @@
+﻿ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2018. № 1 
+
+ 
+
+ ЛЕСНОЕ ХОЗЯЙСТВО 
+
+ 
+УДК: 630*232.12:582.475.2 
+DOI: 10.17238/issn0536-1036.2018.1.9  
+
+ 
+ОЦЕНКА ФИЗИОЛОГИЧЕСКОГО СОСТОЯНИЯ ПРЕДСТАВИТЕЛЕЙ 
+РОДА ЛИСТВЕННИЦА (Larix Mill.)  
+
+
+В УСЛОВИЯХ НИЖЕГОРОДСКОЙ ОБЛАСТИ  
+
+ 
+В.П. Бессчетнов, д-р биол. наук, проф. 
+Н.Н. Бессчетнова, д-р с.-х. наук, доц. 
+А.О. Есичев, асп. 
+Нижегородская государственная сельскохозяйственная академия, просп. Гагарина, 
+д. 97, г. Нижний Новгород, Россия, 603107; e-mail: lesfak@bk.ru, 
+besschetnova1966@mail.ru, andrey.esichev@mail.ru 
+ 
+Формирование вновь создаваемых насаждений предполагает возможность расшире-
+ния их породного состава и биологического разнообразия лесной растительности. 
+Интродукция давно признана успешным инструментом пополнения местной флоры 
+перспективными видами. Устойчивость видов в новых для них условиях непосред-
+ственно связана с их физиологическими особенностями. Практика интродукции 
+представителей рода лиственница подтверждает широкие биологические возмож-
+ности, высокую устойчивость и продуктивность созданных из них насаждений. 
+Показатели сезонных изменений содержания запасных веществ в тканях годичных 
+побегов выступают важной характеристикой физиологического состояния древесных 
+растений, как аборигенных представителей рода лиственница, так и ее экзотов. Цель 
+исследования – выявление межвидовой и индивидуальной фенотипической измен-
+чивости различных видов лиственницы в условиях интродукции по показателям их 
+физиологического состояния. Объект исследования – коллекционные посадки 
+лиственницы на территории дендрологического комплекса «Явлейка» в Сергачском 
+межрайонном лесничестве Нижегородской области. Наличие крахмала (цветная 
+реакция на раствор Люголя) и жиров (реакция на Судан III) в тканях однолетних 
+побегов исследовано у трех видов лиственницы. Содержание этих компонентов 
+оценивали в условных баллах по разработанным нами шкалам. Первичной единицей 
+выборки в гистохимическом опыте была принята разовая фиксация количества 
+анализируемого вещества в учетной ткани побега. Визуальный отсчет значений 
+выполняли на временных препаратах поперечных срезов из средней части годичного 
+прироста. Срезы после окрашивания и фиксации анализировали с помощью мик-
+роскопа «Микмед-2». Для статистического и дисперсионного анализов использовали 
+общепринятые методики. Установлена степень генотипической обусловленности 
+характеристик физиологического состояния исследуемых растений, определено 
+влияние факторов среды на формирование фенотипических различий между ними. 
+Виды рода лиственница существенно различались по способности образовывать 
+запасы жироподобных веществ в годичных побегах разных фенологических фаз. 
+Наиболее высокое содержание жиров в марте отмечено у лиственниц Сукачева  
+(18,33 балла) и даурской (17,50 балла), лиственница сибирская значительно отставала 
+
+                                                          
+
+Для цитирования: Бессчетнов В.П., Бессчетнова Н.Н., Есичев А.О.  Оценка физиоло-
+гического состояния представителей рода лиственница (Larix Mill.) в условиях Ниже-
+городской области // Лесн. журн. 2018. № 1. С. 9–17. (Изв. высш. учеб. заведений). 
+DOI: 10.17238/issn0536-1036.2018.1.9 
+
+9 
+
+
+
+ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2018. № 1 
+
+ 
+от них по этому показателю (7,84 балла). В период активного отрастания побегов 
+(конец мая) содержание жиров в тканях исследуемых видов снижалось, различия 
+между ними выравнивались. Существенно различались рассматриваемые виды рода 
+лиственница по способности образовывать запасы крахмала в годичных побегах  
+в разные фенологические фазы. Наиболее высокое содержание крахмала (конец мая) 
+характерно для лиственницы даурской, наиболее низкое – для лиственницы Сукачева. 
+Диапазоны значений тестируемых признаков у разных видов лиственницы неоди-
+наковы и варьируют по фенологическим фазам. Фенотипические различия по ис-
+следуемым показателям определяются как видовой принадлежностью, так и внеш-
+ними факторами. Влияние среды на формирование запасов жироподобных веществ  
+и крахмала зависит от фенологического состояния растений.  
+ 
+Ключевые слова: род лиственница, запасные вещества, жиры, крахмал, интродукция, 
+изменчивость, физиологическое состояние, однолетние побеги, генотипическая 
+обусловленность, адаптация. 
+
+Введение 
+
+Устойчивость лесных экосистем во многом определяется биологиче-
+скими особенностями видов-лесообразователей, входящих в них. В полной 
+мере это относится и к искусственным насаждениям. Опыт интродукции 
+представителей рода лиственница свидетельствует о широких биологических 
+возможностях, высокой устойчивости и продуктивности созданных насажде-
+ний [5]. Изучение физиологических особенностей и совершенствование агро-
+техники создания и выращивания культур представителей рода лиственница, 
+повышение их устойчивости и интенсивности роста актуально и содействует 
+расширению биоразнообразия лесных экосистем Среднего Поволжья, подвер-
+гающихся значительному техногенному и рекреационному воздействию.  
+
+Запасные вещества в клетках древесных растений имеют большое фи-
+зиологическое, адаптационное и идентификационное значение [1–3]. Харак-
+тер сезонных изменений их содержания в тканях побегов служит важным по-
+казателем соответствия биологии представителей рода лиственница суще-
+ствующим экологическим условиям. Необходимость оценки успешности ин-
+тродукции видов лиственницы на территории Нижегородской области для 
+привлечения их в состав создаваемых насаждений различного целевого 
+назначения определяет направление работ.  
+
+Цель проводимого исследования – выявление межвидовой и индивиду-
+альной фенотипической изменчивости аборигенных и интродуцированных 
+видов лиственницы по содержанию крахмала и жиров в однолетних побегах, а 
+также оценка степени генотипической обусловленности указанных характе-
+ристик и влияния факторов среды на формирование различий. 
+
+Объекты и методы исследования 
+
+Объектами исследований выступали коллекционные деревья лиственни-
+цы сибирской (Larix sibirica Ledeb.), лиственницы даурской (Larix gmelinii 
+(Rupr.) Kuzen.) и лиственницы Сукачева (Larix Sukaczewii Djil.), произрастаю-
+щие на территории дендрологического комплекса «Явлейка» в г. Сергач Ниже-
+городской области. В список учетных включали одновозрастные деревья се-
+менного происхождения общим количеством 30 шт. (по 10 деревьев каждого 
+вида), достигшие генеративной фазы и размещенные в пределах одного участка 
+при одинаковых площадях питания на выровненном экофоне. Методы выявле-
+ния физиологической изменчивости растений достаточно широко используются 
+
+10 
+
+
+
+ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2018. № 1 
+
+ 
+для гистохимических исследований [11, 12]. Наличие крахмала в тканях побе-
+гов, связанное с устойчивостью растений к неблагоприятным зимним условиям 
+[9, 10, 13], оценивали по реакции на раствор Люголя [8] в условных баллах по 
+предложенной нами шкале [2, 4]. Учет по сердцевине, перимедуллярной зоне 
+ксилемы, ранней и поздней ксилеме, сердцевинным лучам ксилемы, смоляным 
+ходам, флоэме вели раздельно и по общей сумме в соответствии с существую-
+щими разработками [1, 2, 4]. Жиры обнаруживали качественной реакцией на 
+Судан III по традиционным методикам [8]. В качестве контроля в обоих случа-
+ях использовали неокрашенные срезы, не подвергавшиеся воздействию тести-
+рующих реагентов. По принятой системе [2–4] контролировали содержание 
+крахмала и жиров в баллах. Статистический и дисперсионный анализы выпол-
+няли по общепринятым схемам [6], изменчивость анализируемых показателей 
+оценивали коэффициентами вариации по шкале С.А. Мамаева [7]. 
+
+Результаты исследования и их обсуждение 
+
+Оценка содержания крахмала в годичных побегах представителей рода 
+лиственница в последней декаде марта и мая представлена на рис. 1. 
+
+ 
+Рис. 1. Содержание крахмала в годичных  побегах  представителей  рода  лиственница  
+
+в марте и мае (Д-1, ..., Д-10 – учетные деревья по видам) 
+ 
+
+Как видно на рис. 1, синтез крахмала в последней декаде марта при от-
+сутствии хвои находился на минимальном уровне и происходил за счет хло-
+рофилла в периферийных тканях побегов. В этот период содержание крахмала 
+в среднем у лиственницы даурской было выше, чем у лиственниц сибирской  
+и Сукачева. Среднее суммарное по тканям содержание крахмала по всем дере-
+вьям у лиственниц сибирской, даурской и Сукачева – соответственно 5,64; 6,78  
+и 5,33 балла. Уровень изменчивости по комплексу из 30 деревьев повышенный 
+(33,7) %. Оказалось, что внутривидовая изменчивость лиственниц сибирской и 
+даурской была выше: соответственно 37,1 % (высокий уровень) и 32,2 % (по-
+вышенный). Содержание крахмала у лиственницы Сукачева по учетным дере-
+вьям было самым стабильным. Это средний уровень изменчивости по шкале 
+Мамаева (24,8 %). Наибольшее значение суммарного содержания крахмала по 
+всем тканям в марте отмечено у учетного дерева Д-3 лиственницы даурской 
+(9,6 балла),  наименьшее – у дерева Д-4 лиственницы сибирской (4,4 балла). 
+
+11 
+
+
+
+ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2018. № 1 
+
+ 
+Очевидно, такая картина накопления крахмала в период начала выхода из со-
+стояния покоя связана с тем, что естественный ареал лиственницы даурской 
+характеризуется даже более суровыми условиями по сравнению с естествен-
+ным ареалом лиственницы сибирской. Возможно, в условиях Нижегородской 
+области она способна выходить из состояния покоя в более ранние сроки по 
+сравнению с другими исследуемыми видами. Накопление крахмала в по-
+следней декаде мая, когда на побегах уже заметно отросла хвоя, было более 
+значительным у всех видов. 
+
+Рис. 2. Содержание жироподобных веществ в годичных побегах  представителей  рода 
+ лиственница в марте и мае (Д-1, ..., Д-10 – учетные деревья по видам) 
+ 
+
+Как видно на рис. 2, в начале марта больше всего жиров зафиксировано 
+в побегах лиственниц Сукачева и даурской. Средние значения показателя по 
+видам – соответственно 18,33 и 17,50 балла. Меньше всего жиров в марте ока-
+залось в побегах лиственницы сибирской  (7,84 балла). Суммарное по всем 
+тканям количество жиров в мае по видам было сопоставимым, балл: листвен-
+ница сибирская – 4,66; лиственница даурская – 5,40; лиственница Сукачева – 
+4,94. В этот период наиболее высокая внутривидовая изменчивость отмечена 
+у лиственниц сибирской (33,60 %) и даурской (26,30 %). Самые стабильные 
+показатели оказались лиственницы Сукачева (9,99 %). 
+
+Причин низкого содержания жиров у лиственницы Сукачева в начале 
+весны несколько:  
+
+вид лучше адаптирован к климатическим условиям Нижегородской об-
+ласти, для которой характерны умеренно холодные зимы, что не требует вы-
+соких запасов жиров для перезимовки;  
+
+вид более приспособлен к продолжительности светового дня в марте, 
+поэтому снижение жиров в это время – результат более быстрого перехода его 
+к теплому периоду; 
+
+вид в целом содержит меньше жиров, чем другие виды лиственниц.  
+В настоящее время лиственница Сукачева является недостаточно изу-
+
+ченным видом, ее таксономическое положение в составе рода лиственница 
+остается дискуссионным. Требуют дальнейшего развития вопросы, связанные 
+с оценкой соответствия динамики ее физиологических показателей изменени-
+ям погодных условий.  
+
+12 
+
+
+
+ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2018. № 1 
+
+ 
+Точность определения всех изученных показателей не превышала уста-
+
+новленного в лесном хозяйстве 5 %-го уровня значимости. Характер формиро-
+вания различий между объектами комплекса зафиксирован при проведении 
+двухфакторного независимого дисперсионного анализа, в котором фактором А 
+выступала видовая принадлежность объектов, фактором B – различия между 
+отдельными деревьями семенного происхождения, фактором АВ – влияние 
+взаимодействия факторов А и В на формирование фенотипических различий 
+по тестируемому признаку (см. таблицу). 
+
+ 
+Результаты двухфакторного дисперсионного анализа  
+
+физиологических показателей годичных побегов видов рода лиственница 
+
+Критерий  Доля влияния фактора (h2 ± mh) 
+Фактор  Фишера по Плохинскому по Снедекору 
+влияния 
+
+Fоп F05 h2 ±mh2 h2 ±mh2 
+
+Суммарное по тканям содержание жиров  
+476,68 3,04 0,6873 0,0042 0,7086 0,0039 
+
+Вид (А) 
+4,74 3,04 0,0430 0,0128 0,0442 0,0128 
+9,22 1,92 0,0598 0,0126 0,0408 0,0129 
+
+Учетные деревья (В) 
+3,78 1,92 0,1544 0,0114 0,1095 0,0120 
+
+12,82 1,62 0,1664 0,0112 0,1761 0,0111 
+Взаимодействие (АВ) 
+
+3,15 1,62 0,2578 0,0100 0,2548 0,0100 
+0,0865 0,0123 0,0745 0,0124 
+
+Остаток (Z) – – 
+0,5448 0,0061 0,5915 0,0055 
+
+Суммарное по тканям содержание крахмала  
+8,84 3,04 0,0985 0,0121 0,1236 0,0118 
+
+Вид (А) 
+160,02 3,04 0,5429 0,0061 0,5821 0,0056 
+
+2,57 1,92 0,1291 0,0117 0,0827 0,0123 
+Учетные деревья (В) 
+
+3,35 1,92 0,0511 0,0127 0,0286 0,0130 
+1,04 1,62 0,1038 0,0120 0,0056 0,0133 
+
+Взаимодействие (АВ) 
+6,63 1,62 0,2025 0,0107 0,2062 0,0107 
+
+0,6686 0,0044 0,7881 0,0028 
+Остаток (Z) – – 
+
+0,2035 0,0107 0,1830 0,0110 
+
+П р и м еч а н и е .  В числителе приведены данные на 23 марта 2015 г., в знаменателе – 
+на 28 мая 2015 г. 
+
+ 
+Как видно из данных таблицы, для всех исследованных признаков су-
+
+щественные различия установлены почти по всем факторам. Опытные значения 
+критериев Фишера (Fоп) в подавляющем большинстве случаев оказались выше  
+их критических значений и не превышали установленного 5 %-го уровня 
+значимости. Исключением стало суммарное по тканям содержание крахмала  
+в марте по фактору АВ. В этом случае данные оказались недостоверными   
+(F05 > Fоп).  
+
+Удалось вычислить долю влияния каждого из факторов на 
+формирование зафиксированной дисперсии. Преобладающее влияние 
+оказывает фактор А – межвидовые различия выявлены для веществ в период, 
+когда их значения приближаются к максимуму. По содержанию жиров это 
+соответствовало пребыванию растений в состоянии покоя, по содержанию 
+крахмала – в периоде активного роста. Так, в марте доля влияния фактора А 
+по содержанию жиров составила по методу Плохинского (68,73±0,42) %, по 
+алгоритму Снедекора – (70,86±0,39) %, по содержанию крахмала – всего 
+(9,85±1,21) % (по Плохинскому) и (12,36±1,18) % (по Снедекору). В мае влияние 
+
+13 
+
+
+
+ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2018. № 1 
+
+ 
+фактора А преобладало по содержанию крахмала: (54,29±0,61) % (по Пло-
+хинскому) и (58,21±0,56) % (по Снедекору); в этот же срок по содержанию 
+жиров: (4,30±1,28) % (по Плохинскому) и (4,42±1,28) % (по Снедекору). 
+
+Заключение 
+
+Установлено, что изученные виды рода лиственница существенно разли-
+чаются по способности образовывать жироподобные вещества в тканях годич-
+ных побегов в разные фенологические фазы. Более высоким суммарным содер-
+жанием жиров в марте характеризуются лиственницы Сукачева (18,33 балла) и 
+даурская (17,5 балла); лиственница сибирская значительно отстает по этому 
+показателю (7,84 балла). В период активного роста в мае содержание жиров  
+в годичных побегах приближается к своему минимуму, дифференциация ис-
+следуемых видов сглаживается. 
+
+Кроме того, эти виды существенно различаются и по способности 
+накапливать крахмал в годичных побегах в разные фенологические фазы. 
+Наиболее высокое содержание крахмала в период активного роста (конец мая) 
+характерно для лиственницы даурской, наиболее низкое – для лиственницы 
+Сукачева. В марте наиболее высокие значения демонстрирует лиственница 
+даурская (хотя этот показатель более выровненный). 
+
+Таким образом, различия по исследуемым показателям определяются 
+как видовой принадлежностью, так и фенотипической спецификой деревьев 
+семенного происхождения. Влияние факторов среды на формирование дис-
+персии по содержанию жиров и крахмала зависит от фенологического состоя-
+ния растений.  
+
+ 
+СПИСОК ЛИТЕРАТУРЫ  
+
+ 
+1. Бессчетнова Н.Н. Сравнительная оценка плюсовых деревьев сосны 
+
+обыкновенной по содержанию крахмала в побегах // Вестник МарГТУ. Сер. Лес. 
+Экология. Природопользование. 2010. № 2. С. 49–56.  
+
+2. Бессчетнова Н.Н. Сосна обыкновенная (Pinus sylvestris L.). Селекционный 
+потенциал плюсовых деревьев.  Саарбрюккен: LAP LAMBERT Academic Publishing 
+GmbH & Сo. KG, 2011. 402 c. 
+
+3. Бессчетнова Н.Н. Содержание жиров в клетках побегов плюсовых деревьев 
+сосны обыкновенной // Лесн. журн. 2012. № 4. С. 48–55. (Изв. высш. учеб. заведений). 
+
+4. Бессчетнова Н.Н. Сосна обыкновенная (Pinus sylvestris L.). Эффективность 
+отбора плюсовых деревьев: моногр. Н. Новгород: НГСХА, 2016. 464 с. 
+
+5. Газизуллин А.X., Грачев В.М. Почвенно-экологические условия произрастания 
+высокопроизводительных культур лиственницы в лесостепи Среднего Поволжья // 
+Лиственница и ее использование в народном хозяйстве: межвуз. сб. науч. тр. 
+Красноярск: КГУ, 1980. С. 40–46. 
+
+6. Лакин Г.Ф. Биометрия. 3-е изд., перераб. и доп. М.: Высш. шк., 1980.  293 с. 
+7. Мамаев С.А. О проблемах и методах внутривидовой систематики древесных 
+
+растений. Амплитуда изменчивости // Закономерности формообразования и диффе-
+ренциации вида у древесных растений: тр. Ин-та экологии растений и животных. 
+Свердловск, 1969. С. 3–38. 
+
+8. Прозина М.Н. Ботаническая микротехника. М.: Высш. шк., 1960. 205 с. 
+9. Andersone U., Ievinsh G. Changes of Morphogenic Competence in Mature Pinus 
+
+sylvestris L. Buds in vitro // Annals of Botany. 2002. Vol. 90, iss. 2. Pp. 293–298.  
+DOI: 10.1093/aob/mcf176 
+
+14 
+
+
+
+ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2018. № 1 
+
+ 
+10. Brahim M.B., Loustau D., Gaudillère J.P., Saur E. Effects of Phosphate 
+
+Deficiency on Photosynthesis and Accumulation of Starch and Soluble Sugars in 1-Year-
+Old Seedlings of Maritime Pine (Pinus pinaster Ait) // Annals of Forest Science. 1996.  
+Vol. 53, no. 4. Pp. 801–810. DOI: http://dx.doi.org/10.1051/forest:19960401 
+
+11. Mencuccini M., Hölttä T. The Significance of Phloem Transport for the Speed 
+with which Canopy Photosynthesis and Belowground Respiration are Linked //  New 
+phytologist. 2010. Vol. 185, iss. 1. Pp. 189–203. DOI: 10.1111/j.1469-8137.2009.03050.x 
+
+12. Mencuccini M., Hölttä T., Sevanto S., Nikinmaa E. Concurrent Measurements of 
+Change in the Bark and Xylem Diameters of Trees Reveal a Phloem-Generated Turgor 
+Signa // New phytologist. 2013. Vol. 198, iss. 4. Pp. 1143–1154. DOI: 10.1111/nph.12224 
+
+13. Woodruff D.R., Meinzer F.C. Water Stress, Shoot Growth and Storage of Non-
+Structural Carbohydrates along a Tree Height Gradient in a Tall Conifer // Plant, Cell & 
+Environment. 2011. Vol. 34, iss. 11. Pp. 1920–1930. DOI: 10.1111/j.1365-
+3040.2011.02388.x 
+
+ 
+Поступила 17.05.17 
+
+ 
+ 
+
+UDC: 630*232.12:582.475.2 
+DOI: 10.17238/issn0536-1036.2018.1.9 
+ 
+Physiological State Evaluation of Representatives of the Genus Larch (Larix Mill.)  
+
+
+in the Nizhny Novgorod Region  
+ 
+V.P. Besschetnov, Doctor of Biological Sciences, Professor 
+N.N. Besschetnova, Doctor of Agricultural Sciences, Associate Professor 
+A.O. Esichev, Postgraduate Student 
+Nizhny Novgorod State Agricultural Academy, pr. Gagarina, 97, Nizhny Novgorod, 
+603107, Russian Federation; е-mail: lesfak@bk.ru, besschetnova1966@mail.ru, 
+andrey.esichev@mail.ru 
+ 
+The formation of newly created plantations assumes the possibility of expanding their 
+species composition and biological diversity of forest vegetation. The introduction has long 
+been recognized as a successful tool for replenishing the local flora with promising species. 
+Stability of species in new conditions is directly related to their physiological characteristics. 
+The practice of introducing representatives of the genus larch confirms wide biological 
+possibilities, high stability and productivity of plantations created from them. The indicators 
+of seasonal changes of the storage compound content in the tissues of one-year shoots are an 
+important characteristic of the physiological state of woody plants as native representatives 
+of the genus larch and its exotics. The goal of research is to identify the interspecific and 
+individual phenotypic variability of various species of larch under the conditions of 
+introduction according to the indices of their physiological state. The object of the study is 
+the collection of larch plantations in the territory of the dendrological complex “Yavleika” 
+in the Sergachskiy interdistrict forestry of the Nizhny Novgorod region. We investigate the 
+presence of starch (staining reaction to Lugol's solution) and fats (Sudan III reaction) in the 
+tissues of one-year shoots of three species of larch. The content of these components is 
+assessed in terms of the developed scales. The primary sampling unit in the histochemical 
+experiment is a one-time fixation of the amount of the analyzed matter in the shoot's 
+recording tissue. Visual reading of values is performed on temporary preparations of 
+
+                                                          
+
+For citation: Besschetnov V.P., Besschetnova N.N., Esichev A.O. Physiological State 
+Evaluation of Representatives of the Genus Larch (Larix Mill.) in the Nizhny Novgorod 
+Region. Lesnoy zhurnal [Forestry journal], 2018, no. 1, pp. 9–17. DOI: 10.17238/issn0536-
+1036.2018.1.9 
+
+15 
+
+
+
+ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2018. № 1 
+
+ 
+transverse sections from the middle part of the annual increment. Sections after staining and 
+fixation are analyzed using a micrometer “Mikmed-2”. Common methods are used for the 
+statistical and variance analyses. We have determined the degree of genotypic conditioning 
+of characteristics of the physiological state of plants, the influence of environmental factors 
+on the formation of phenotypic differences between them. The species of a genus larch 
+essentially differ in ability to form lipoid stocks in one-year shoots of different phenological 
+phases. The highest content of fats in March was observed in Sukachev’s larch  
+(18.33 points) and Dahurian larch (17.50 points), Siberian larch had the less indicator  
+(7.84 points). During the period of active shoot growth (in the end of May), the content of fats 
+in their tissues decreased in the studied species, the differences between them were equalized. 
+Considered species of the genus larch differ significantly by the ability to form starch stocks 
+in one-year shoots in different phenological phases. The highest content of starch (in the end 
+of May) was characteristic of Dahurian larch, the lowest − for Sukachev’s larch. The ranges 
+of values of the test characters in different species of larch are not the same and vary 
+according to the phenological phases. Phenotypic differences in the studied indicators are 
+determined both by species and by external factors. The environmental effect on the 
+formation of stocks of fat-like substances and starch depends on the phenological state  
+of plants. 
+
+ 
+Keywords: genus larch, storage compound, fats, starch, introduction, variability, 
+physiological state, one-year shoot, genotypic conditioning, adaptation. 
+
+ 
+
+REFERENCES 
+
+ 
+1. Besschetnova N.N. Sravnitel'naya otsenka plyusovykh derev'ev sosny 
+
+obyknovennoy po soderzhaniyu krakhmala v pobegakh [Comparative Estimation of Starch 
+Content in the Sprouts of Scotch Pine Plus-Trees]. Vestnik MarGTU. Ser. Les. Ekologiya. 
+Prirodopol'zovanie [Vestnik of Mari State Technical University. Ser.: Forest. Ecology. 
+Nature Management], 2010, no. 2, pp. 49–56.  
+
+2. Besschetnova N.N. Sosna obyknovennaya (Pinus sylvestris L.). Selektsionnyy 
+potentsial plyusovykh derev'ev [Pine (Pinus sylvestris L.). The Breeding Potential of Plus-
+Trees]. Saarbrücken, Lap Lambert Academic Publishing GmbH & Co. KG, 2011. 402 p.  
+(In Russ.) 
+
+3. Besschetnova N.N. Soderzhanie zhirov v kletkakh pobegov plyusovykh derev'ev 
+sosny obyknovennoy [Fat Content in Shoot Cells of Scotch Pine Elite Trees]. Lesnoy 
+zhurnal [Forestry journal], 2012, no. 4, pp. 48–55.  
+
+4. Besschetnova N.N. Sosna obyknovennaya (Pinus sylvestris L.). Effektivnost' 
+otbora plyusovykh derev'ev: monogr. [Pine (Pinus sylvestris L.). Efficiency of Selection of 
+Plus-Trees]. Nizhny Novgorod, NSAA Publ., 2016. 464 p. (In Russ.) 
+
+5. Gazizullin A.Kh., Grachev V.M. Pochvenno-ekologicheskie usloviya 
+proizrastaniya vysokoproizvoditel'nykh kul'tur listvennitsy v lesostepi Srednego Povolzh'ya 
+[Soil-Ecological Conditions of Growth of High-Productivity Larch Cultures in the Forest-
+Steppe of the Middle Volga Region]. Listvennitsa i ee ispol'zovanie v narodnom 
+khozyaystve: mezhvuz. sb. nauch. tr. [Larch and Its Use in the National Economy]. 
+Krasnoyarsk: KSU Publ., 1980, pp. 40–46. (In Russ.) 
+
+6. Lakin G.F. Biometriya [Biometrics]. Moscow, Vysshaya shkola Publ., 1980.  
+293 p. 
+
+7. Mamaev S.A. O problemakh i metodakh vnutrividovoy sistematiki drevesnykh 
+rasteniy. Amplituda izmenchivosti [On the Problems and Methods of Intraspecific 
+Systematics of Woody Plants. Amplitude of Variability]. Zakonomernosti 
+formoobrazovaniya i differentsiatsii vida u drevesnykh rasteniy: tr. In-ta ekologii rasteniy i 
+zhivotnykh [Regularities of Form-Formation and Species Differentiation in Woody Plants: 
+Trans. Inst. Plant and Animal Ecology]. Sverdlovsk, 1969, pp. 3–38. (In Russ.) 
+
+16 
+
+
+
+ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2018. № 1 
+
+ 
+8. Prozina M.N. Botanicheskaya mikrotekhnika [Botanical Microelectronics]. 
+
+Moscow, Vysshaya shkola Publ., 1960. 205 p. (In Russ.) 
+9. Andersone U., Ievinsh G. Changes of Morphogenic Competence in Mature Pinus 
+
+sylvestris L. Buds in vitro. Annals of Botany, 2002, vol. 90, iss. 2, pp. 293–298.  
+DOI: 10.1093/aob/mcf176 
+
+10. Brahim M.B., Loustau D., Gaudillère J.P., Saur E. Effects of Phosphate 
+Deficiency on Photosynthesis and Accumulation of Starch and Soluble Sugars in 1-Year-
+Old Seedlings of Maritime Pine (Pinus pinaster Ait). Annals of Forest Science, 1996,  
+vol. 53, no. 4, pp. 801–810. DOI: http://dx.doi.org/10.1051/forest:19960401 
+
+11. Mencuccini M., Hölttä T. The Significance of Phloem Transport for the Speed 
+with which Canopy Photosynthesis and Belowground Respiration are Linked. New 
+phytologist, 2010, vol. 185, iss. 1, pp. 189–203. DOI: 10.1111/j.1469-8137.2009.03050.x 
+
+12. Mencuccini M., Hölttä T., Sevanto S., Nikinmaa E. Concurrent Measurements of 
+Change in the Bark and Xylem Diameters of Trees Reveal a Phloem-Generated Turgor 
+Signal. New phytologist, 2013, vol. 198, iss. 4, pp. 1143–1154. DOI: 10.1111/nph.12224 
+
+13. Woodruff D.R., Meinzer F.C. Water Stress, Shoot Growth and Storage of Non-
+Structural Carbohydrates along a Tree Height Gradient in a Tall Conifer. Plant, Cell & 
+Environment, 2011, vol. 34, iss. 11, pp. 1920–1930. DOI: 10.1111/j.1365-
+3040.2011.02388.x 
+
+ 
+Received on May 17, 2017 
+
+ 
+ 
+ 
+
+17

@@ -1,0 +1,785 @@
+﻿Стандартные образцы / Reference materials
+
+DOI: 10.20915/2687-0886-2021-17-1-35-45
+УДК 664:620.11:006.91:53.089.68
+
+ПРИМЕНЕНИЕ СИСТЕМЫ ЛИОФИЛЬНОЙ СУШКИ ДЛЯ 
+ПОДГОТОВКИ МАТЕРИАЛА СТАНДАРТНЫХ ОБРАЗЦОВ 
+
+СОСТАВА ПИЩЕВЫХ ПРОДУКТОВ
+© М. Ю. Медведевских1, Н. Л. Вострикова2, А. С. Сергеева1, В. В. Студенок1
+
+1Уральский научно-исследовательский институт метрологии –  филиал ФГУП «Всероссийский научно-исследовательский 
+институт метрологии им. Д. И. Менделеева» 
+
+(УНИИМ –  филиал ФГУП «ВНИИМ им.Д.И.Менделеева»), г. Екатеринбург, Россия
+Researcher ID: G-6171–2017, e-mail: lab241@uniim.ru
+
+2ФГБНУ «Федеральный научный центр пищевых систем им. В. М. Горбатова» Российской Академии Наук
+(ФГБНУ «ФНЦ пищевых систем им. В. М. Горбатова» РАН), г. Москва, Россия
+
+Поступила в редакцию –  19 февраля 2021 г., после доработки –  03 марта 2021 г.
+Принята к публикации –  20 марта 2021 г.
+
+Статья посвящена применению системы лиофильной сушки для подготовки материала стандартных об-
+разцов (СО) состава пищевых продуктов. Целью исследования являлась разработка методики лиофильной 
+сушки для приготовления материала СО состава мяса птицы с аттестованными значениями массовой 
+доли влаги, азота (белка) и жира.
+В качестве исходного материала для приготовления СО использовали мясо птицы: белое (грудка, образец 1) 
+и красное (бедро, образец 2). Процедура приготовления СО включала измельчение, варку, замораживание 
+и лиофильную сушку. Исследование однородности материала выполняли с помощью эталонной установки 
+воздушно-тепловой сушки из состава Государственного первичного эталона ГЭТ 173-2017. Измерение массо-
+вой доли азота (белка) осуществляли на Государственном вторичном эталоне ГВЭТ 176-1-2010. Измерения 
+массовой доли жира проводили в соответствии с Государственной первичной референтной методикой 
+измерений.
+Общее время лиофильной сушки для образцов № 1 и № 2 составило 19 и 28 часов соответственно. Общая 
+потеря массы образца № 1 – о коло 63 %, образца № 2 – о коло 65 %. Разница в значениях массовой доли влаги 
+материала, высушенного на разных полках сублимационной сушилки, являлась статистически значимой, т. е. 
+материал был неоднородным. Для получения однородного материала проводили дополнительную процедуру 
+гомогенизации: измельчение на лабораторной мельнице, просеивание через сито, тщательное перемешива-
+ние и кондиционирование. Аттестованные значения массовой доли влаги, азота, белка, жира для образца 
+№ 1 составили 4,5 %, 14,74 %, 92,1 %, 7,9 % соответственно, для образца № 2 – 6 ,3 %, 12,21 %, 76,3 %, 23,8 %.
+Разработана методика лиофильной сушки для производства СО состава мяса птицы вареного сублима-
+ционной сушки. Применение системы лиофильной сушки позволило обеспечить срок годности СО, равный 
+6 месяцам, при температуре окружающего воздуха (7±3) °C и относительной влажности не более 60 %. 
+По результатам испытаний СО состава мяса птицы вареного сублимационной сушки внесен в реестр 
+утвержденных типов под номером ГСО 11276–2019.
+
+Ссылка при цитировании:
+Применение системы лиофильной сушки для подготовки материала стандартных образцов состава пищевых продуктов / 
+
+М. Ю. Медведевских [и др.] // Эталоны. Стандартные образцы. 2021. Т. 17. № 1. С. 35–45. http://dx.doi.org/10.20915/2687-0886-2021-17-1-35-45
+For citation:
+Medvedevskikh M. Yu., Vostrikova N. L., Sergeeva A. S., Studenok V. V. Application of the lyophilization system for preparation of 
+
+reference materials for composition of nutrition products. Measurement standards. Reference materials. 2021;17(1): 35–45. http://dx.doi.
+org/10.20915/2687-0886-2021-17-1-35-45 (In Russ.).
+
+Measurement standards. Reference Materials   Vol. 17.   № 1,   2021 35
+
+
+
+Стандартные образцы / Reference materials
+
+Ключевые слова: пищевые продукты, стандартные образцы, эталоны, первичные референтные методики изме-
+рений, лиофильная сушка, сублимационная сушка, показатели пищевой ценности
+
+DOI: 10.20915/2687-0886-2021-17-1-35-45
+
+APPLICATION OF THE LYOPHILIZATION SYSTEM FOR 
+PREPARATION OF REFERENCE MATERIALS FOR COMPOSITION 
+
+OF NUTRITION PRODUCTS
+© Мaria Y. Medvedevskikh1, Natalia L. Vostrikova2, Anna S. Sergeeva1, Valeriya V. Studenok1
+
+1UNIIM –  Affiliated Branch of the D. I. Mendeleev Institute for Metrology, Ekaterinburg, Russia
+Researcher ID: G-6171–2017, e-mail: lab241@uniim.ru
+
+2V. M. Gorbatov Federal Research Center for Food Systems of Russian Academy of Sciences, Moscow, Russia
+
+Received –  19 February, 2021. Revised –  03 March, 2021.
+Accepted for publication –  20 March, 2021.
+
+The article presents the application of the lyophilization system for preparation of reference materials (RM) for 
+composition of nutritive products samples. The purpose of the research was the development of lyophilization pro-
+cedure of RM for composition of poultry meat samples preparation with certified values of mass fraction of moisture, 
+nitrogen (protein) and fat.
+The poultry meat of two types was used as the primary material for RM for poultry meat composition preparation – 
+1) white meat (chicken breast); 2) red meat (chicken thigh). The procedure included pounding, boiling, freezing and 
+lyophilisation (syn. freeze drying). The researches for homogeneity were implemented with hot air dryer standard sys-
+tem from the State primary standard GET 173-2017. Measurement of nitrogen (protein) mass fraction was performed 
+on State secondary standard GVET 176-1-2010. Measurements of fat mass fraction were performed with accordance 
+to State Primary Reference Measurement Procedure.
+The total time of lyophilization process for samples № 1 and № 2 was 19 and 28 hours, respectively. The total mass 
+loss for sample № 1 was about 63 %, for sample № 2 was about 65 %. The difference in material moisture mass 
+fraction values of materials dried on different trays of freeze dryer was statistically significant, i. e., material was 
+non-homogeneous. To obtain a homogeneous material, an additional homogenization procedure was performed: 
+grinding in a laboratory mill, sieving through a sieve, thorough mixing and conditioning. The certified values of 
+moisture, nitrogen, protein, fat mass fraction for the sample № 1 were accordingly 4,5 %, 14,74 %, 92,1 %, 7,9 %. 
+The same values in the same sequence were 6,3 %, 12,21 %, 76,3 %, 23,8 %.
+The procedure of lyophilisation was developed for production of reference materials for composition of boiled and 
+freeze-dried poultry meat. The usage of this lyophilisation system allowed to ensure a RM expiration date of six months 
+at ambient temperature of (7±3) °C and relative humidity no more than 60 %. The Reference Materials for composition of 
+boiled and freeze-dried poultry meat was added into Register of certified RMs under № GSO 11276–2019 by the results.
+
+Key words: nutritive products, reference materials, standards, primary reference measurement procedures, lyophilisation, 
+freeze drying, nutritive values
+
+Введение Поэтому при создании СО необходимо минимизиро-
+В соответствии с Руководством ISO Guide 35 [1] во- вать содержание воды. Это особенно актуально при 
+
+да является основной мешающей примесью при разра- разработке СО состава пищевых продуктов, посколь-
+ботке стандартных образцов (далее – С О). Повышенное ку массовая доля воды в исходных материалах может 
+содержание воды приводит к увеличению неодно- достигать 80 % и более. При этом важно не только уда-
+родности материала СО и снижает срок его годности. лить избыточную воду, но и сохранить структурную 
+
+36 Эталоны. Стандартные образцы   Т. 17.   № 1,   2021
+
+
+
+Стандартные образцы / Reference materials
+
+целостность продукта, его белковый состав, содержа- пищевых продуктов на примере СО состава мяса пти-
+ние микро- и макроэлементов. Данную задачу позво- цы с аттестованными значениями массовой доли вла-
+ляет решить применение лиофильной (сублимацион- ги, азота (белка) и жира.
+ной) сушки.
+
+Лиофильная сушка –  это способ сушки веществ, Материалы и методы
+при котором перед высушиванием вещество в жидком В качестве исходного материала для приготовления 
+или твердом агрегатном состоянии подвергается глу- СО использовали мясо птицы: белое (грудка, образец 1) 
+бокой заморозке (температура от минус 25 °C до ми- и красное (бедро, образец 2). Для проведения лиофи-
+нус 105 °C), а потом помещается в камеру, в которой лизации применяли морозильную камеру LCexv 4010–
+под действием вакуума и низкой температуры проис- 23В-001 производства фирмы «Liebherr» (Австрия) 
+ходит удаление замороженного растворителя (возгон- и сублимационную сушилку Scientz-10ND производ-
+ка), т. е. растворитель переходит в газообразное состоя- ства фирмы Scientz (Китай). Сушилка Scientz-10ND име-
+ние из твердого, минуя жидкое. Это позволяет получать ет три полки для сушки (1 –  верхняя, 2 –  средняя, 3 – 
+сухие ткани, препараты, продукты и т. п. без потери их нижняя) на разном расстоянии от основного устройства, 
+структурной целостности и биологической активности, условия высушивания которых могут варьироваться. 
+достигать высокой однородности, значительно увели- Основные технические параметры испытательного обо-
+чивать сроки хранения [2]. рудования, используемого для лиофилизации, приве-
+
+Лиофильную сушку широко используют для про- дены в табл. 1.
+изводства СО состава пищевого сырья и продуктов пи- Перед проведением процедуры лиофилизации об-
+тания. При этом решается две задачи. Во-первых, по- разцы мяса отваривали в течение 1 часа, освобожда-
+вышение стабильности и увеличение сроков годности ли от костей, разрезали на кусочки размером сторон 
+СО, например, при производстве СО состава сока [3, 4], не более 5 мм. Измельченное мясо распределяли тон-
+мясных продуктов [5]. Во-вторых, применение лио- ким слоем в три лотка из комплекта сублимационной 
+фильной сушки позволяет вводить в процессе приго- сушилки Scientz-10ND. Лотки с мясом помещали в мо-
+товления в состав СО дополнительные компоненты: ви- розильную камеру LCexv 4010–23В-001 при температу-
+тамины, тяжелые металлы, микотоксины, полицикли- ре минус 25 °C. На каждой стадии подготовки проводи-
+ческие ароматические углеводороды (ПАУ), пестициды, ли взвешивание получаемого материала. Процесс лио-
+антибиотики и т. д. [6–12]. Однако до настоящего вре- фильной сушки проводили в несколько этапов (три или 
+мени в Российской Федерации данный способ приго- четыре в зависимости от массы исходного материала 
+товления материала СО не применялся. и начального содержания влаги). Каждый этап вклю-
+
+В связи с этим актуальным является разработка чал в себя предварительное замораживание в моро-
+методик лиофильной сушки для производства одно- зильной камере в течение не менее 12 часов и последу-
+родных и стабильных СО состава пищевых продуктов. ющую лиофильную сушку. После первого этапа выпол-
+Настоящая работа посвящена применению системы ли- няли измельчение материала на лабораторной мельни-
+офильной сушки для подготовки материала СО состава це «Вьюга» производства фирмы ООО «ЭКАН» (Россия) 
+
+Та б л и ц а  1 .  Основные технические параметры оборудования для лиофилизации
+Ta b l e  1 .  Main technical parameters of lyophilization equipment
+
+Испытательное 
+Параметр Значение
+
+оборудование
+
+Температура конденсатора до -55 °C (без загрузки)
+
+Scientz-10ND Предельное остаточное давление до 10 кПа (без загрузки)
+
+Производительность 3 кг/24 часа
+
+Диапазон рабочих температур (7…-30) °C
+LCexv
+
+Нестабильность поддержания температуры ±0,6 °C
+4010–23В-001
+
+Отклонение температуры от заданной при –25 °C +1,5 °C
+
+Measurement standards. Reference Materials   Vol. 17.   № 1,   2021 37
+
+
+
+Стандартные образцы / Reference materials
+
+в течение 60 с при скорости вращения 12 500 об/мин Результаты и обсуждения
+и повторное размещение измельченного материала Исследование процесса лиофильной сушки при 
+в лотках для сушки. При проведении лиофильной суш- приготовлении материала стандартных образцов
+ки в лоток с исследуемым материалом помещали тер- На каждом этапе приготовления материала СО 
+мопару, которая позволяла отслеживать его темпера- происходило уменьшение его массы (табл. 2). Как 
+туру. За окончание процесса лиофильной сушки при- видно из табл. 2, убыль массы в процессе варки 
+нимали время достижения образцом температуры око- для образца № 1 составила около 40 %, для образца 
+ло 20 °C. После последнего этапа лиофилизированное № 2 –  около 60 %.
+мясо растирали пестиком в ступке, просеивали через В процессе лиофильной сушки наблюдалось изме-
+сито с номинальными размерами ячеек 500 мкм, тща- нение температуры образцов. Особенностью анализа 
+тельно перемешивали, помещали в герметично закры- является размещение охлажденного образца (из мо-
+тый контейнер и выдерживали в термостате при темпе- розильной камеры) на лотках из комплекта сублима-
+ратуре (7±3) °C в течение 24 ч. ционной сушилки Scientz-10ND, имеющих комнатную 
+
+Измерения массовой доли влаги в высушенном температуру. При этом датчик термометра помещали 
+материале осуществляли с применением эталон- в слой образца, размещенного непосредственно на по-
+ной установки воздушно-тепловой сушки из соста- верхности лотка. В связи с этим на границе материа-
+ва Государственного первичного эталона единиц мас- ла образца и лотка в начале эксперимента наблюдался 
+совой доли и массовой (молярной) концентрации во- максимальный градиент температур. В течение анали-
+ды в твердых и жидких веществах и материалах за температуры лотка и образца выравнивались. Далее 
+ГЭТ 173-2017 [13]. Измерения массовой доли азота (бел- по тексту эта температура идентифицирует температу-
+ка) выполняли методом Кьельдаля на Государственном ру образца. На рис. 1 представлено изменение темпе-
+вторичном эталоне единиц массовой доли и массо- ратуры образца № 2 (бедро куриное) на каждом этапе 
+вой (молярной) концентрации компонентов в твердых лиофильной сушки.
+и жидких веществах и материалах на основе объемного За окончание процесса лиофильной сушки прини-
+титриметрического метода анализа ГВЭТ 176-1-2010 [14]. мали время достижения образцом температуры око-
+Измерения массовой доли жира проводили в соответ- ло 20 °C. Дальнейшее повышение температуры будет 
+ствии с Государственной первичной референтной мето- приводить к разрушению материала и выходу отлич-
+дикой измерений (ПРМИ) массовой доли жира в пище- ных от воды компонентов. Общее время лиофильной 
+вых продуктах и продовольственном сырье 1. сушки для образцов № 1 и № 2 составило 19 и 28 ча-
+
+сов соответственно.
+1 Государственная первичная референтная методика из- Процесс лиофильной сушки сопровождался значи-
+
+мерений массовой доли жира в пищевых продуктах и про- тельными потерями массы образцов. Результаты расче-
+довольственном сырье М.241.01/RA.RU.311866/2018 (ФР.
+
+та потери массы образцов № 1 и № 2 для каждой пол-
+ПР1.31.2019.00001) // Федер. информац. фонд по обеспеч. един-
+ства измерений [сайт]. URL: https://fgis.gost.ru/fundmetrology/ ки в процессе лиофильной сушки представлены соот-
+registry/6/items/595556 ветственно в табл. 3 и 4.
+
+Та б л и ц а  2 .  Изменение массы материала кандидата СО на различных стадиях приготовления
+Ta b l e  2 .  Material of the RM claimant mass changes on different stages
+
+Исходная масса образца Масса образца после Номер Масса образца после варки на каждой полке 
+№ п/п
+
+до варки, г варки, г полки сублимационной сушилки, г
+
+1 229,08
+
+1 1300 786,03 2 276,98
+
+3 279,97
+
+1 210,45
+
+2 1752 697,30 2 233,15
+
+3 253,70
+
+38 Эталоны. Стандартные образцы   Т. 17.   № 1,   2021
+
+
+
+Стандартные образцы / Reference materials
+
+25,0
+20,0
+15,0
+10,0
+5,0
+0,0
+
+-5,0 0 100 200 300 400 500
+-10,0
+-15,0
+-20,0
+-25,0
+-30,0
+
+Рис. 1. Изменение температуры образца № 2 (бедро куриное)
+
+Fig. 1. Sample 2 temperature changes
+
+Та б л и ц а  3 .  Результаты расчета потери массы образца № 1 (мясо птицы: белое (грудка))
+Ta b l e  3 .  Results of sample 1 mass loss estimation (breast)
+
+Масса лотка с образ- Масса лотка с образ- Потеря массы образ- Относительное СКО 
+№ Масса пустого лотка, 
+
+цом до лиофилиза- цом после лиофили- ца после лиофилиза- потери в массе меж-
+полки г
+
+ции, г зации, г ции, % ду полками, %
+
+1 ЭТАП
+
+1 242,67 467,65 372,30 42,38
+
+2 245,37 518,05 422,10 35,19 9,6
+
+3 241,13 516,45 413,00 37,57
+
+2 ЭТАП
+
+1 243,85 305,95 296,95 14,49
+
+2 245,55 344,55 331,10 13,59 10,4
+
+3 242,30 315,45 303,30 16,61
+
+3 ЭТАП
+
+1 243,85 296,95 284,55 23,35
+
+2 245,55 331,10 299,85 36,53 22,6
+
+3 242,30 303,30 285,95 28,44
+
+Общая потеря массы образца № 1 в процессе сушки метод, из состава Государственного первичного этало-
+составила около 63 %, образца № 2 –  около 65 %. на единиц массовой доли и массовой (молярной) кон-
+
+центрации воды в твердых и жидких веществах и ма-
+Оценивание однородности материала СО териалах ГЭТ 173-2017. От материала, высушенного 
+Следующим этапом проводили оценивание однород- на каждой полке (m = 3) отбирали навески (n = 4) и про-
+
+ности материала, высушенного на разных полках, по по- водили измерение массовой доли влаги. Результаты 
+казателю массовая доля влаги с применением эталон- измерений массовой доли влаги в образце № 1 и № 2 
+ной установки, реализующей термогравиметрический представлены соответственно в табл. 5.
+
+Measurement standards. Reference Materials   Vol. 17.   № 1,   2021 39
+
+°
+
+
+
+Стандартные образцы / Reference materials
+
+Та б л и ц а  4 .  Результаты расчета потери массы образца № 2 (мясо птицы: красное (бедро))
+Ta b l e  4 .  Results of sample 2 mass loss estimation (thigh)
+
+Масса лотка с образ- Масса лотка с образ- Потеря массы образ- Относительное СКО 
+№ Масса пустого лотка, 
+
+цом до лиофилиза- цом после лиофили- ца после лиофилиза- потери в массе меж-
+полки г
+
+ции, г зации, г ции, % ду полками, %
+
+1 ЭТАП
+
+1 245,20 455,65 389,95 31,22
+
+2 246,70 479,85 418,85 26,16 14,1
+
+3 243,65 497,35 437,05 23,77
+
+2 ЭТАП
+
+1 245,00 386,95 339,70 33,29
+
+2 246,00 414,70 362,25 31,09 7,5
+
+3 243,20 432,65 378,40 28,64
+
+3 ЭТАП
+
+1 245,00 340,35 319,80 21,55
+
+2 246,00 362,60 329,70 28,22 15,2
+
+3 243,20 378,55 339,85 28,59
+
+4 ЭТАП
+
+1 245,00 320,75 319,25 1,98
+
+2 246,00 330,40 326,65 4,44 67,4
+
+3 243,20 340,40 331,95 8,69
+
+Та б л и ц а  5 .  Результаты измерений массовой доли влаги в образцах № 1 и № 2 на ГЭТ 173-2017
+Ta b l e  5 .  Measurement results of moisture mass fraction in both samples by GET 173-2017
+
+В процентах
+
+№ навески
+№ полки Среднее Отн. СКО
+
+1 2 3 4
+
+Образец № 1
+
+1 3,596 3,493 3,473 3,524 3,52 1,5
+
+2 3,206 3,221 3,195 3,270 3,22 1,0
+
+3 3,634 3,679 3,695 3,778 3,70 1,6
+
+Образец № 2
+
+1 5,125 5,117 5,106 5,155 5,13 0,4
+
+2 5,321 5,289 5,413 5,416 5,36 1,2
+
+3 5,488 5,553 5,531 5,542 5,53 0,5
+
+40 Эталоны. Стандартные образцы   Т. 17.   № 1,   2021
+
+
+
+Стандартные образцы / Reference materials
+
+Обработку результатов по табл. 5 проводили по ал- 2
+
+горитму, изложенному в работе [15]. F = S 02
+0 ,                     (8)
+
+Рассчитывали величины S 2          
+
+01
+
+n
+W 1 i
+
+i = ∑W       
+n ij,                       (1) где n –  количество навесок в m группах
+
+W –  
+i j среднее значение массовой доли влаги по всем 
+
+−1
+группам, %
+
+ni S 201 –  средняя внутригрупповая дисперсия
+S 2 1
+
+i = ∑ (W )2
+               (2)
+
+n − ij −     Wi ,    S 202 –  дисперсия между группами
+i 1 j=1 Wi и S 2i –  рассчитывают по формулам (1) и (2) соот-
+
+для каждого i = 1…m ветственно. Если выполняется неравенство
+Wi –  среднее значение массовой доли влаги i-груп-
+
+F
+пы, % 0 ≤ Fα, m-1, n-m,                              (9)
+
+Wij –  результат измерения массовой доли влаги где Fα, m-1, n-m –  квантиль распределения Фишера 
+j-навески из i-группы, % с m-1 и n-m степенями свободы и уровнем зна-
+
+S 2i –  внутригрупповые дисперсии. чимости α = 0,05 [16], то пробоподготовка матери-
+На следующем этапе по критерию Кохрена прове- ала для дальнейших исследований принималась 
+
+ряли гипотезу о равенстве дисперсий S 2i, для чего рас- удовлетворительной.
+считывали величину: Результаты оценки однородности материала образ-
+
+S 2 цов № 1 и № 2 представлены в табл. 6.
+
+G Как видно из табл. 6, разница в значениях массовой 
+0 = max
+
+m ,                               (3)
+
+∑ доли влаги материала, высушенного на разных пол-
+S 2
+
+i ках, статистически значима, следовательно, матери-
+i=1
+
+ал неоднороден. С целью снижения неоднородности 
+где S 2max –  максимальное значение внутригрупповой проводили дополнительную процедуру гомогенизации 
+дисперсии, путем растирания пестиком, просеивания через сито, 
+
+S 2i –  внутригрупповые дисперсии. тщательного перемешивания и кондиционирования.
+Если выполнялось неравенство: 
+
+G0 ≤ G Испытания стандартного образца
+α, m, n-1
+
+Полученный лиофилизированный и гомогенизиро-
+где Gα, m, n-1 –  коэффициент Кохрена с уровнем зна- ванный материал был расфасован по 50 г в двойные 
+чимости α = 0,05 [16], то гипотеза о равенстве диспер- герметичные полиэтиленовые пакеты. Для оценки ат-
+сий не отвергается. Если гипотеза о равенстве диспер- тестованного значения и характеристики неоднород-
+сий не принимается, то необходима более тщательная ности материала СО использовали 6 экземпляров СО. 
+пробоподговка. В каждом из шести экземпляров СО, случайным обра-
+
+Если гипотезу о равенстве дисперсий принимали, зом отобранных отобранных от подготовленных пар-
+то вычисляли следующие величины: тий, проводили по 8 параллельных определений массо-
+
+m вой доли влаги и 5 параллельных определений массо-
+
+n = ∑n вой доли азота (белка), жира. Обработку результатов из-
+i,                                 (4)
+
+i=1 мерений, выполненных для 6 экземпляров СО, с целью 
+оценки однородности материала СО проводили по схеме 
+
+n
+1 m i
+
+W = ∑∑W однофакторного дисперсионного анализа согласно по-
+,         
+
+n ij                  (5)
+ложениям ISO Guide 35 [1]. Исследование стабильности 
+
+i=1 j=1
+при температуре окружающего воздуха (7±3) °C и отно-
+сительной влажности не более 60 % проводили класси-
+
+S 2 1 m
+( ) 2
+
+01 = − S ,                   
+n − m ∑ ni 1 i (6) ческим методом согласно положениям ISO Guide 35 [1], 
+
+i=1
+обработку результатов –  методом регрессионного ана-
+лиза. Срок годности СО составил 6 месяцев.
+
+S 2 = 1 m
+n W − 2
+
+02 i (m − ∑ i    W ) ,                 (7) Результаты измерений значений аттестуемых харак-
+1 i=1 теристик представлены в табл. 7.
+
+Measurement standards. Reference Materials   Vol. 17.   № 1,   2021 41
+
+
+
+Стандартные образцы / Reference materials
+
+Та б л и ц а  6 .  Результаты оценки однородности материала состава мяса птицы: белое (грудка, образец 
+1) и красное (бедро, образец 2)
+Ta b l e  6 .  Results of homogeneity estimation of material of composition of poultry meat: white (breast, sample 
+1) and red (thigh, sample 2)
+
+Параметр Значение параметра
+
+Образец № 1 Образец № 2
+
+G0 0,478 0,771
+
+G(0,05;3;3) 0,798 0,798
+
+W 3,48 5,34
+
+S 201 0,0025 0,0018
+
+S 202 0,2295 0,1641
+
+F0 90,097 91,029
+
+F(0,05;3;9) 4,256 4,459
+
+Та б л и ц а  7.  Результаты измерений массовых долей влаги, азота (белка) и жира в мясе птицы варенном 
+сублимационной сушки
+Ta b l e  7.  Measurement results of mass fraction of moisture, nitrogen (protein) and fat in boiled freeze-dried 
+poultry meat
+
+Значение показателя
+Показатель
+
+Образец 1 Образец 2
+
+Массовая доля влаги, % 4,5 6,3
+
+Массовая доля азота*, % 14,74 12,21
+
+Массовая доля белка*, % 92,1 76,3
+
+Массовая доля жира*, % 7,9 23,8
+
+* в пересчете на абсолютно-сухое вещество
+
+Дополнительные измерения значений аттесту- сушки, с использованием термогравиметрической уста-
+емых характеристик были проведены в Научно- новки из состава ГЭТ 173-2017.
+исследовательском испытательном центре (НИИЦ) Разработана методика лиофильной сушки для произ-
+ФГБНУ «ФНЦ пищевых систем им. В. М. Горбатова» водства СО состава мяса птицы вареного сублимацион-
+РАН (г. Москва) с использованием стандартизован- ной сушки с различным содержанием влаги, азота (бел-
+ных методик измерений [17]. Согласованность резуль- ка) и жира. Применение системы лиофильной сушки по-
+татов УНИИМ и НИИЦ подтвердили применимость СО зволило обеспечить срок годности СО, равный 6 меся-
+для контроля точности результатов измерений показа- цам, при температуре окружающего воздуха (7±3) °C 
+телей пищевой ценности мясных продуктов. и относительной влажности не более 60 %. По резуль-
+
+татам испытаний СО состава мяса птицы вареного субли-
+Заключение мационной сушки внесен в реестр утвержденных типов 
+Проведены экспериментальные исследования про- под номером ГСО 11274–2019/ ГСО 11276–2019 2.
+
+цесса лиофильной сушки при подготовке материала 
+2 
+
+стандартных образцов. Оценено содержание воды (вла- ГСО 11274–2019/ ГСО 11276–2019 Стандартный образец состава 
+мясных продуктов сублимационной сушки (набор МП-1 СО УНИИМ) // 
+
+ги) и неоднородность материала стандартного образца, Федер. информац. фонд по обеспеч. единства измерений [сайт]. 
+подготовленного с применением системы лиофильной URL: https://fgis.gost.ru/fundmetrology/registry/19/items/537358
+
+42 Эталоны. Стандартные образцы   Т. 17.   № 1,   2021
+
+
+
+Стандартные образцы / Reference materials
+
+Данные исследования лиофилизации для приготов- Студенок В. В.: сбор и анализ литературных данных, 
+ления материала СО будут продолжены в связи с выяв- в том числе на иностранных языках, критический ана-
+ленной необходимостью выбора параметров лиофили- лиз материалов статьи.
+зации для каждого конкретного вещества.
+
+Конфликт интересов
+Вклад соавторов Материал статьи подготовлен на основе доклада, 
+Медведевских М. Ю.: концепция и инициирование представленного на IV Международной научной конфе-
+
+исследования, определение замысла и методологии ренции «Стандартные образцы в измерениях и техно-
+статьи, курирование экспериментальных исследований. логиях» (С.-Петербург, 1–3 декабря 2020 г.). Материал 
+
+Вострикова Н. Л.: курирование эксперименталь- статьи допущен к публикации после доработки тези-
+ных исследований, критический анализ материалов сов доклада, оформления статьи и проведения проце-
+статьи. дуры рецензирования.
+
+Сергеева А. С.: сбор и анализ литературных дан- Переводная версия статьи на английском языке 
+ных, в том числе на иностранных языках, подготов- планируется к публикации в книге Medvedevskikh S., 
+ка первоначального варианта текста статьи, компью- Sobina E., Kremleva O., Okrepilov M. (eds.). Reference 
+терная работа с текстом, написание текста, доработка Materials in Measurement and Technology. RMMT 2020. 
+текста. Switzerland: Springer, Cham.
+
+ЛИТЕРАТУРА
+1. ISO Guide 35:2017 Reference materials – G uidance for characterization and assessment of homogeneity and stability. Geneve: ISO, 
+
+2017.
+2. Панфилов В. А. Теоретические основы пищевых технологий. В 2-х кн. Кн. 2. М.: Колос, 2009. 800 с. 
+3. Comparison of some additives used in the preparation of freeze-dried lemon juice candidate reference materials / W. Ooghe [et all.] // 
+
+Fresenius journal of analytical chemistry. 1998. Vol. 360. № 3–4. P. 445–448. https://doi.org/10.1007/s002160050734.
+4. The freeze-drying of orange juice for the preparation of reference materials / G. N. Kramer [et all.] // Fresenius’ zeitschrift für 
+
+analytische chemie. 1988. № 332. P. 694697. https://doi.org/10.1007/BF00472671.
+5. Ihnat M., Cloutier R., Wood D. Reference materials for agricultural and food analysis: preparation and physical characterization 
+
+of a bovine muscle powder candidate reference material // Fresenius’ zeitschrift für analytische chemie. 1987. № 326. P. 627–633. 
+https://doi.org/10.1007/BF00473517.
+
+6. Joy M., Rufino-Moya P. J., Lobón S., Blanco M. Simultaneous determination of carotenoids, tocopherols, retinol and cholesterol in 
+ovine lyophilised samples of milk, meat, and liver and in unprocessed raw samples of fat / J. R. Bertolín [et all.] // Food Chemistry. 
+2018. Vol. 257. P. 182–188. https://doi.org/10.1016/j.foodchem.2018.02.139.
+
+7. Carron P., Emteborg H., Hess P. Freeze-drying for the stabilisation of shellfish toxins in mussel tissue (Mytilus edulis) reference 
+materials // Analytical and bioanalytical chemistry. 2007. Vol. 387. № 7. P. 2475–2486. https://doi.org/10.1007/s00216–006–1104-z.
+
+8. Aflatoxin M1 in milk powders: Processing, homogeneity and stability testing of certified reference materials / R. Josephs [et all.] // 
+Food Additives and Contaminants. 2005. Vol. 22. № 9. P. 864–874. https://doi.org/10.1080/0265203050016653.
+
+9. Pahs in baby food: assessment of three different processing techniques for the preparation of reference materials / J. F. Huertas-
+Pérez [et all.] // Analytical and bioanalytical chemistry. 2015. Vol. 407. P. 3069–3081. https://doi.org/10.1007/s00216–015–8490-z.
+
+10. Olsen S. B., Ulberth F., Emons H., Zeleny R., Grimalt S. Development of a new cucumber reference material for pesticide residue 
+analysis: feasibility study for material processing, homogeneity and stability assessment / H. Saldanha [et all.] // Analytical and 
+bioanalytical chemistry. 2015. Vol. 407. P. 3083–3091. https://doi.org/10.1007/s00216–015–8476-x.
+
+11. Emteborg H., Charoud-Got J., Schimmel H., Nia Y., Mutel I., Ostyn A., Herbin S., Hennekinne J.-A. Development of a reference 
+material for staphylococcus aureus enterotoxin А in cheese: feasibility study, processing, homogeneity and stability assessment / 
+R. Zeleny [et all.] // Food Chemistry. 2015. Vol. 168. P. 241–246. https://doi.org/10.1016/j.foodchem.2014.07.066.
+
+12. Won S. H., Lee С-H., Kim B. Development of certified reference materials for accurate determination of fluoroquinolone antibiotics 
+in chicken meat. Food Chemistry. 2017. Vol. 229. P. 472–478. https://doi.org/10.1016/j.foodchem.2017.02.112. 
+
+13. Создание эталонов сравнения для реализации Государственной поверочной схемы средств измерений содержания воды / 
+М. Ю. Медведевских [и др.] // Измерительная техника. 2019. № 6. С. 70–80. https://doi.org/10.32446/0368–1025it.2019-6-3-10.
+
+14. Оценка метрологических характеристик стандартного образца состава молока сухого с использованием первичного и вто-
+ричного государственных эталонов / М. П. Крашенинина [и др.] // Измерительная техника. 2013. № 9. С. 67–71.
+
+15. Иванов В. П., Медведевских С. В. Обработка результатов измерений содержаний воды в твердых веществах. Методические 
+рекомендации. Свердловск: Уро АН СССР, 1988. 200 с.
+
+16. Большев Л. Н., Смирнов Н. В. Таблицы математической статистики. М.: Наука. Главная редакция физико-математической 
+литературы, 1983. 416 c.
+
+Measurement standards. Reference Materials   Vol. 17.   № 1,   2021 43
+
+
+
+Стандартные образцы / Reference materials
+
+17. About the development of reference materials of meat and meat product composition / M. Yu. Medvedevskikh [et all.] // Journal of 
+Physics: Conference Series. 2019. 1420 012030. https://doi.org/10.1088/1742–6596/1420/1/012030.
+
+REFERENCES
+1. ISO Guide 35:2017 Reference materials –  Guidance for characterization and assessment of homogeneity and stability. Geneve: 
+
+ISO; 2017.
+2. Panfilov V. A. Theoretical foundations of food technologies. In 2 books. Of book 2. Moscow: Kolos; 2009. 800 p. (In Russ.).
+3. Ooghe W., Kramer G. N., Schimmel H., Pauwels J. Comparison of some additives used in the preparation of freeze-dried lemon 
+
+juice candidate reference materials. Fresenius journal of analytical chemistry. 1998;360(3–4):445–448. https://doi.org/10.1007/
+s002160050734.
+
+4. Kramer G. N., Angelis L. D., Pauwels J., Ooghe W., Belliardo J. J. The freeze-drying of orange juice for the preparation of reference 
+materials. Fresenius journal of analytical chemistry. 1988;332: 694–697. https://doi.org/10.1007/BF00472671.
+
+5. Ihnat M., Cloutier R., Wood D. Reference materials for agricultural and food analysis: preparation and physical characterization of 
+a bovine muscle powder candidate reference material. Fresenius’ zeitschrift für analytische chemie. 1987;326:627–633. https://doi.
+org/10.1007/BF00473517.
+
+6. Bertolín J. R., Joy M., Rufino-Moya P. J., Lobón S., Blanco M. Simultaneous determination of carotenoids, tocopherols, retinol 
+and cholesterol in ovine lyophilised samples of milk, meat, and liver and in unprocessed raw samples of fat. Food Chemistry. 
+2018;257:182–188. https://doi.org/10.1016/j.foodchem.2018.02.139.
+
+7. Carron P., Emteborg H., Hess P. Freeze-drying for the stabilisation of shellfish toxins in mussel tissue (Mytilus edulis) reference 
+materials. Analytical and bioanalytical chemistry. 2007;387(7):2475–2486. https://doi.org/10.1007/s00216–006–1104-z.
+
+8. Josephs R., Ulberth F. E., Van Egmond H. P, Emons H. Aflatoxin M1 in milk powders: Processing, homogeneity and stability testing of 
+certified reference materials. Food Additives and Contaminants. 2005;22(9):864–874. https://doi.org/10.1080/0265203050016653.
+
+9. Huertas-Pérez J. F., Bordajandi L. R., Sejerøe-Olsen B., Emteborg H., Baù A., Schimmel H., Dabrio M. Pahs in baby food: assessment 
+of three different processing techniques for the preparation of reference materials. Analytical and bioanalytical chemistry. 
+2015;407:3069–3081. https://doi.org/10.1007/s00216–015–8490-z.
+
+10. Saldanha H., Olsen S. B., Ulberth F., Emons H., Zeleny R., Grimalt S. Development of a new cucumber reference material for pesticide 
+residue analysis: feasibility study for material processing, homogeneity and stability assessment. Analytical and bioanalytical 
+chemistry. 2015;407:3083–3091. https://doi.org/10.1007/s00216–015–8476-x.
+
+11. Zeleny R., Emteborg H., Charoud-Got J., Schimmel H., Nia Y., Mutel I., Ostyn A., Herbin S., Hennekinne J.-A. Development of a 
+reference material for staphylococcus aureus enterotoxin А in cheese: feasibility study, processing, homogeneity and stability 
+assessment. Food chemistry. 2015;168:241–246. https://doi.org/10.1016/j.foodchem.2014.07.066.
+
+12. Won S. H., Lee С-H., Kim B. Development of certified reference materials for accurate determination of fluoroquinolone antibiotics 
+in chicken meat. Food Chemistry. 2017;229:472–478. https://doi.org/10.1016/j.foodchem.2017.02.112.
+
+13. Medvedevskikh M. Y., Sergeeva A. S., Krasheninina M. P., Shokhina O. S. Creating reference standards for the implementation of 
+the State verification scheme for water content measurement. Measurement Techniques. 2019;62(6):475–483. (In Russ). https://
+doi.org/10.1007/s11018-019-01649-3.
+
+14. Krasheninina M. P., Medvedevskikh M. Yu., Medvedevskikh S. V., Sobina E. P., Neudachina L. K. An estimate of the metrological 
+characteristics of a standard sample of the composition of dried whole milk using primary and secondary state standards. 
+Measurement Techniques. 2013;56(9):1076–1082. (In Russ). https://doi.org/10.1007/s11018-013-0333-8.
+
+15. Ivanov V. P., Medvedevskikh S. V. Processing of the measurement results of water content in solid substances. Guidelines. 
+Sverdlovsk: Uro AN SSSR; 1988. 200 p. (In Russ).
+
+16. Bol’shev L. N., Smirnov N. V. Tables of mathematical statistics. Moscow: Science. Main editorial office of physical and mathematical 
+literature; 1983. 416 p. (In Russ).
+
+17. Medvedevskikh M. Yu., Sergeeva A. S., Krasheninina M. P., Vostrikova N. L., Semenova A. A., Kuznetsova O. A. About the 
+development of reference materials of meat and meat product composition. Journal of physics: conference series. 2019;1420:012030. 
+https://doi.org/10.1088/1742–6596/1420/1/012030.
+
+44 Эталоны. Стандартные образцы   Т. 17.   № 1,   2021
+
+
+
+Стандартные образцы / Reference materials
+
+ИНФОРМАЦИЯ ОБ АВТОРАХ INFORMATION ABOUT THE AUTHORS
+
+Медведевских Мария Юрьевна –  канд. техн. наук, заве- Mary Yu. Medvedevskikh –  PhD (Eng.), head of laboratory for 
+дующий лабораторией метрологии влагометрии и стан- metrological support of moisture measurement and reference 
+дартных образцов УНИИМ –  филиал ФГУП «ВНИИМ materials, UNIIM –  Affiliated Branch of the D. I. Mendeleev 
+им. Д. И. Менделеева». Institute for Metrology.
+620075, Россия, г. Екатеринбург, 4 Krasnoarmeyskaya str., Ekaterinburg,
+ул. Красноармейская, д. 4 620075, Russian Federation
+Тел: (343) 350-60-63 e-mail: lab241@uniim.ru
+e-mail: lab241@uniim.ru Researcher ID: G-6171–2017
+Researcher ID: G-6171–2017
+
+Наталья Леонидовна Вострикова –  док. тех. наук, руково- Natalia L. Vostrikova –  D. Sc. (Eng.), head of the research and 
+дитель научно-исследовательского испытательного центра development center V. M. Gorbatov Federal Research Center for 
+ФГБНУ «ФНЦ пищевых систем им. В. М. Горбатова» РАН Food Systems of Russian Academy of Sciences.
+109316, Россия, г. Москва, 26 Talalikhina str., Moscow,
+ул. Талалихина, д. 26 109316, Russia
+e-mail: n.vostrikova@fncps.ru e-mail: n.vostrikova@fncps.ru
+Researcher ID: D-3058–2014 Researcher ID: D-3058–2014
+ORCID: 0000–0002–9395–705X ORCID: 0000–0002–9395–705X
+
+Анна Сергеевна Сергеева –  канд. хим. наук, старший на- Anna S. Sergeeva –  PhD (Chem.), senior researcher,
+учный сотрудник лаборатории метрологии влагометрии laboratory for metrological support of moisture measurement 
+и стандартных образцов УНИИМ –  филиал ФГУП «ВНИИМ and reference materials, UNIIM –  Affiliated Branch of the 
+им. Д. И. Менделеева». D. I. Mendeleev Institute for Metrology.
+620075, Россия, г. Екатеринбург, 4 Krasnoarmeyskaya str., Ekaterinburg,
+ул. Красноармейская, д. 4 620075, Russia
+e-mail: sergeevaas@uniim.ru e-mail: sergeevaas@uniim.ru
+Researcher ID: AAE-7942–2021 Researcher ID: AAE-7942–2021
+ORCID: 0000-0001-8347-2633 ORCID: 0000-0001-8347-2633
+
+Студенок Валерия Владимировна –  инженер отдела Valeriya V. Studenok –  engineer of the department of the state 
+Государственной службы стандартных образцов УНИИМ – service of reference materials, UNIIM –  Affiliated Branch of the 
+филиал ФГУП «ВНИИМ им. Д. И. Менделеева». D. I. Mendeleev Institute for Metrology.
+620075, Россия, г. Екатеринбург, 4 Krasnoarmeyskaya str., Ekaterinburg,
+ул. Красноармейская, д. 4 620075, Russia
+e-mail: studenok@list.ru e-mail: studenok@list.ru
+ORCID: 0000-0002-3363-3133 ORCID: 0000-0002-3363-3133
+
+Measurement standards. Reference Materials   Vol. 17.   № 1,   2021 45

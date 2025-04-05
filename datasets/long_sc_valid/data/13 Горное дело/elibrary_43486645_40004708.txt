@@ -1,0 +1,601 @@
+﻿ОРИГИНАЛЬНЫЕ СТАТЬИ / ORIGINAL PAPERS 
+
+DOI: 10.17073/2500-0632-2020-2-92-103 
+
+Оценка гравитационной обогатимости золотосодержащей руды – GRG 
+
+Суримбаев Б. Н., Каналы Е. С., Болотова Л. С., Шалгымбаев С. Т. 
+
+Филиал Республиканского государственного предприятия «Национальный центр по комплексной пере-
+работке минерального сырья Республики Казахстан» Государственное научно-производственное 
+
+объединение промышленной экологии «Казмеханобр» 
+(Филиал РГП «НЦ КПМС РК» ГНПОПЭ «Казмеханобр»), г. Алматы, Казахстан 
+
+Аннотация: Гравитационные методы широко применяются при переработке золотосодержащих руд. Но мно-
+гие аспекты этого направления обогащения требуют совершенствования. В работе использованы методы про-
+бирно-гравиметрического, химического, минералогического анализов золотосодержащей руды. Золотосодер-
+жащая руда по содержанию сульфидной серы и степени окисления серы отнесена к убогосульфидному типу 
+руды первичной зоны. По данным минералогического анализа, руда представлена глинисто-слюдистыми слан-
+цами. Золото в рудах находится в виде свободных крупных и мелких зерен, преобладает золото свободное. 
+Мелкое золото тесно ассоциируется с пиритом. Для оценки гравитационной обогатимости золотосодержащей 
+руды проведен GRG-тест. Суммарное извлечение золота составляет более 41 %. Наиболее высокие показатели 
+извлечения золота получены на первой стадии при крупности 100 % класса –1,6 мм и третьей стадии при круп-
+ности 80 % класса –0,071 мм. Это указывает на то, что в руде присутствуют и относительно крупные золотины, 
+и мелкие свободные, что подтверждается минералогическим анализом. Результаты GRG-теста показали, что 
+золотосодержащая руда эффективно обогащается на центробежных концентраторах. Уровень извлечения зо-
+лота гравитацией при стадиальном измельчении руды достаточно высок. При разработке технологической 
+схемы обогащения руды необходимо предусмотреть гравитационное обогащение на центробежных концен-
+траторах. 
+
+Ключевые слова: гравитационные методы обогащения, GRG-тест, золотосодержащая руда, оценка гра-
+витационной обогатимости руды, обогащение золота, центробежные концентраторы. 
+
+Для цитирования: Суримбаев Б. Н., Каналы Е. С., Болотова Л. С., Шалгымбаев С. Т. Оценка гравитаци-
+онной обогатимости золотосодержащей руды – GRG. Горные науки и технологии. 2020;5(2):92-103. 
+DOI: 10.17073/2500-0632-2020-2-92-103. 
+
+Assessment of Gravity Dressability of Gold Ore – GRG Test 
+
+B. N. Surimbayev, E. S. Kanaly, L. S. Bolotova, S. T. Shalgymbayev  
+
+"State Scientific and Production Concern for Industrial Ecology "Kazmekhanobr" (Branch of Republican State 
+Enterprise "National Center for Integrated Processing of Mineral Resources of the Republic of Kazakhstan”), 
+
+Almaty, Kazakhstan 
+
+Abstract: Gravity methods are widely used for processing of gold ores. But many aspects of these processing techniques 
+require improvement. In the study, methods of fire assay, gravimetric, chemical, mineralogical analyses of gold ores 
+were used. In terms of sulfide sulfur content and degree of sulfur oxidation, the gold ore is assigned to the low-sulfide 
+type of ore in the primary zone. Mineralogical analysis showed the ore-bearing rock is represented by phyllite. Gold in 
+the ore occurs mainly in the form of free large and fine particles. The fine gold is closely associated with pyrite. GRG 
+test was carried out for assessing gravity dressability of the gold ore. The total gold recovery is more than 41 %. The 
+highest gold recoveries were achieved at the first stage at 100 % of –1.6 mm ore grain size, and at the third stage at 80 % 
+of –0.071 mm ore grain size. This indicates that both relatively large gold and fine free gold particles are present in the 
+ore. This is also confirmed by mineralogical analysis. The GRG test results showed that the gold ore can be effectively 
+concentrated using centrifugal concentrators. The level of gold recovery by gravity at the multi-stage ore grinding is 
+quite high. When developing the ore concentration process flow sheet, gravity separation in centrifugal concentrators 
+should be included. 
+
+Keywords: gravity separation methods, GRG test, gold ore, assessment of gravity dressability of gold ore, gold 
+ore concentration, centrifugal concentrators. 
+
+ОБОГАЩЕНИЕ, ПЕРЕРАБОТКА МИНЕРАЛЬНОГО И ТЕХНОГЕННОГО СЫРЬЯ 92 
+
+
+
+ 
+
+For citation: Surimbayev B. N., Kanaly E. S., Bolotova L. S., Shalgymbayev S. T. Assessment of gravity dressability 
+of gold ore – GRG test. Gornye nauki i tehnologii = Mining Science and Technology (Russia). 2020;5(2):92-103. 
+(In Russ.). DOI: 10.17073/2500-0632-2020-2-92-103. 
+
+Введение позднее методика была усовершенствована 
+Гравитационное обогащение – это разде- компанией Нельсона (Knelson) [15–22]. 
+
+ление минералов на основе разницы в плотно- По данной методике количество золота, 
+сти. Техника гравитационного обогащения су- извлекаемого в GRG-тесте, характеризует обо-
+ществует уже тысячелетия [1, 2]. Несмотря на гатимость руды гравитационными методами. 
+широкое применение флотационных методов Схема GRG-теста базируется на факте, что сту-
+обогащения, а также магнитной и электриче- пенчатое измельчение руды позволяет прово-
+ской сепарации, гидрометаллургических про- дить извлечение благородных металлов при их 
+цессов, гравитационные методы обогащения не раскрытии без переизмельчения и истирания 
+теряют своей актуальности, а технологические крупных частиц металла. GRG-тест состоит из 
+схемы и аппаратура непрерывно совершенству- трех последовательных стадий раскрытия мине-
+ются [3, 4]. Все методы гравитационного обога- ралов и трех стадий обогащения. При ступенча-
+щения реализуются при сравнительно низких том измельчении максимально точно определя-
+капитальных и эксплуатационных расходах, яв- ется содержание гравитационно-извлекаемого 
+ляются высокопроизводительными и экологи- золота [17–19, 23, 24]. 
+чески чистыми. Гравитационное обогащение Целью работы является оценка гравитаци-
+практически не имеет альтернативы при перера- онной обогатимости золотосодержащей руды 
+ботке руд россыпных месторождений, значи- методом GRG-теста. 
+тельно удаленных от инфраструктуры [5–7].  Объект и методы исследования 
+
+За последние десятилетия все большее Объектом исследований является золото-
+распространение находят центробежные аппа- содержащая руда одного из месторождений Ка-
+раты для более глубокой переработки минераль- захстана в Костанайской области. По результа-
+ного сырья [3–5]. Для определения доли золота, там пробирно-гравиметрического анализа сред-
+извлекаемого из руды (песков) при помощи гра- нее содержание золота в руде составляет 
+витации, используется центробежный концен- 1,60 г/т, серебра – 3,49 г/т.  
+тратор Нельсона (Knelson). Данный метод, став- Для выполнения анализа по другим эле-
+ший стандартным в обогащении, предоставляет ментам использовали химическое разложение и 
+ценную информацию по извлекаемости золота определение атомно-абсорбционным методом 
+гравитацией, а также возможность сравнения содержания сопутствующих металлов. Для фа-
+обогатимости различных руд. При исследова- зового анализа на серу использовали химиче-
+ниях определяется не только доля гравитацион- ский весовой метод. Химический состав руды 
+ного золота, но и его реальная крупность [8–14]. представлен в табл. 1. 
+
+При гравитационной переработке золото- Комплексный минералогический анализ 
+содержащих руд возможны потери на стадии из- проведен с использованием рентгенофазового, 
+мельчения, так как крупные частицы золота пе- микроскопического и оптического методов. 
+реизмельчаются и наклепываются на стенки Пробы изучались под микроскопом в прозрач-
+мельницы. Впервые, чтобы уменьшить потери ных шлифах, аншлифах, искусственных брике-
+на стадии измельчения, профессором канад- тах и иммерсионных средах. Зерна золота изу-
+ского Университета Макгилла  Андре Лаплан- чали на электронном микроанализаторе марки 
+том (Andre Laplante) был разработан специаль- JEOL JXA-8230 Electron Probe Microanalyzer.  
+ный GRG-тест (Gravity recoverable gold test), 
+
+ОБОГАЩЕНИЕ, ПЕРЕРАБОТКА МИНЕРАЛЬНОГО И ТЕХНОГЕННОГО СЫРЬЯ 93 
+
+
+
+ 
+
+Таблица 1 
+
+Химический состав золотосодержащей руды 
+
+Chemical composition of gold ore 
+
+Компонент Содержание, % Компонент Содержание, % 
+Cu 0,004 K2O 1,58 
+Ni 0,001 SiO2 67,29 
+Co 0,003 Al2O3 12,38 
+Zn 0,005 As 0,02 
+Pb 0,002 Sb 0,01 
+Fe 3,67 Sобщ. 0,30 
+
+CaO 1,96 Sсульфидная 0,29 
+MgO 1,10 Sсульфатная 0,01 
+Na2O 2,07 Степень окисления серы 3,33 
+
+Примечание.  Note.  
+Тип руды:  Ore type: 
+– по степени окисления серы – первичная; – based on sulfur oxidation degree – primary; 
+– по количеству сульфидной серы – убогосульфидная. – based on sulfide sulfur content – low-sulfide. 
+
+ 
+
+Рентгенодифрактометрический анализ 10 кг на концентраторе Нельсона (KC-MD3). 
+средних проб выполнен на дифрактометре Данный тест проводят в три стадии. На 1-й 
+ДРОН-4 с CuKa-излучением, β-фильтр. Усло- стадии руду массой 10 кг дробили до крупно-
+вия съемки дифрактограмм: U = 35 кВ; сти 100 % класса –1,6 мм и дробленую руду 
+I = 20 мА; съемка θ–2θ; детектор – 2 град/мин.  пропускали через концентратор Нельсона. Да-
+
+Рентгенофазовый анализ на полуколиче- лее хвосты первой стадии доизмельчали до 
+ственной основе проведен по дифрактограм- крупности 80 % класса –0,3 мм и пропускали 
+мам порошковых проб с применением метода через концентратор Нельсона. На 3-й стадии 
+равных навесок и искусственных смесей. хвосты 2-й стадии доизмельчали до крупности 
+Определялись количественные соотношения 80 % класса –0,071 мм. Во время процесса на 
+кристаллических фаз. Интерпретация дифрак- всех стадиях из хвостов отбирали пробы для 
+тограмм проводилась с использованием дан- анализа и составления технологического ба-
+ных картотеки ICDD: база порошковых ди- ланса. Полученные продукты обогащения 
+фрактометрических данных PDF2 (Powder (концентраты и хвосты) анализировались про-
+Diffraction File) и дифрактограмм чистых от бирно-гравиметрическим методом [18, 23]. 
+примесей минералов. Для основных фаз про- Схема проведения GRG-теста дана на 
+водился расчет содержаний. рис. 1. 
+
+Оценку гравитационной обогатимости Результаты исследований и их обсуж-
+золотосодержащей руды методом GRG-теста дение 
+проводили на центробежном концентраторе Золотосодержащая руда по содержанию 
+Нельсона (KC-MD3) при следующих сульфидной серы и степени окисления серы 
+режимах: центробежное ускорение – 60G; рас- отнесена к убогосульфидному типу руды пер-
+ход флюидизирующей воды – 3,5 дм3/мин; вичной зоны.  
+производительность по твердому – 0,5–0,6 По данным минералогического анализа, 
+кг/мин; избыточное давление флюидизирую- руда представлена глинисто-слюдистыми 
+щей воды – 10–14 кПа; содержание твердого в сланцами, в различной степени измененными: 
+пульпе, подаваемой на гравитационное обога- окварцованными, альбитизированными, кали-
+щение, – 25–30 %. шпатизированными и карбонатизированными 
+
+Методика проведения GRG-теста. (рис. 2–4).
+GRG-тест проводился на пробе руды массой 
+
+ОБОГАЩЕНИЕ, ПЕРЕРАБОТКА МИНЕРАЛЬНОГО И ТЕХНОГЕННОГО СЫРЬЯ 94 
+
+
+
+ 
+
+          Исходная руда 10 кг
+(Крупность 100 % класса –1,6 мм)
+
+1-я стадии гравитации КС-МD3 
+
+   Концентрат              Хвосты
+
+    Доизмельчение
+(80 % класса –0,3 мм)
+
+2-я стадии гравитации КС-МD3 
+
+       Концентрат          Хвосты
+
+      Доизмельчение
+(80 % класса –0,071 мм)
+
+3-я стадии гравитации КС-МD3 
+
+   Концентрат             Хвосты
+
+ 
+
+Рис. 1. Схема проведения GRG-теста 
+
+Fig. 1. GRG test design 
+
+ 
+
+ 
+
+Рис. 2. Глинисто-слюдистый сланец; прозрачный шлиф, ×40 
+
+Fig. 2. Phyllite; thin section, ×40 
+
+ 
+
+ОБОГАЩЕНИЕ, ПЕРЕРАБОТКА МИНЕРАЛЬНОГО И ТЕХНОГЕННОГО СЫРЬЯ 95 
+
+
+
+ 
+
+ 
+Рис. 3. Окварцованный, альбитизированный и калишпатизированный сланец; прозрачный шлиф, ×40 
+
+Fig. 3. Silicified, albitized and feldsparized shale; thin section, ×40 
+
+ 
+
+Рис. 4. Сланец глинисто-слюдистый, окварцованный и доломитизированный; шлиф, ×100: 
+1 – кварц; 2 – доломит; 3 – мусковит  
+
+Fig. 4. Silicified and dolomitized phyllite; thin section, ×100: 
+1 – quartz; 2 – dolomite; 3 – muscovite 
+
+ 
+Рис. 5. Дифрактограмма средней пробы 
+
+Fig. 5. X-ray diffraction pattern of averaged sample 
+
+ОБОГАЩЕНИЕ, ПЕРЕРАБОТКА МИНЕРАЛЬНОГО И ТЕХНОГЕННОГО СЫРЬЯ 96 
+
+
+
+ 
+
+ 
+Рис. 6. Пирит удлиненный, ориентированный вдоль слоистости породы; аншлиф, ×200 
+
+Fig. 6. Pyrite: elongated, oriented along the rock bedding; polished section, ×200 
+
+ 
+Рис. 7. Золото (1) в пирите (2); аншлиф, ×200 
+
+Fig. 7. Gold (1) in pyrite (2); polished section, ×200 
+
+Идентификация минеральных фаз по дан- что большая часть железа в пробе представлена в 
+ным рентгендифрактометрического анализа при- окисленной форме. 
+ведена на дифрактограмме (рис. 5).  Золото в рудах находится в виде свобод-
+
+Минеральный состав средней пробы сле- ных крупных и мелких зерен. Преобладает зо-
+дующий (%): рудные: пирит – 0,5–1,0; арсенопи- лото свободное пластинчатое размером от 0,06 
+рит – 0,1–0,2; оксиды и гидроксиды железа – до 0,20 мм. Мелкое золото тесно ассоциируется с 
+6–7; халькопирит и сульфосоли свинца – знако- пиритом, образуя в нем дисперсные включения 
+вые значения; породообразующие: кварц – 46–47, размером 0,005, 0,007, 0,015 мм (рис. 7).  
+каолинит – 20–21, слюда – 9–10, калишпат – 2, По результатам пробирного, химического 
+альбит – 9–10, доломит – 5–6. В рудном веществе и минералогического анализов, промышленно-
+средней пробы пирит образует кристаллически- ценным компонентом является только золото. 
+зернистые агрегаты, которые имеют зерна удли- Для оценки гравитационной обогатимости 
+ненной формы, ориентированные в направлении золотосодержащей руды проведен GRG-тест. Ре-
+сланцеватости пород (рис. 6). Следует отметить, зультаты GRG-теста приведены в табл. 2.
+  
+
+ОБОГАЩЕНИЕ, ПЕРЕРАБОТКА МИНЕРАЛЬНОГО И ТЕХНОГЕННОГО СЫРЬЯ 97 
+
+
+
+ 
+
+Таблица 2 
+Результаты GRG-теста 
+
+GRG test results 
+
+Выход 
+Продукт Содержание Au, г/т Распределение Au, % 
+
+г % 
+1-я стадия 100 % класса –1,6 мм 
+
+Концентрат 1 115,9 1,16 25,57 17,53 
+
+Хвосты 1 9884,1 98,84 1,41 82,47 
+
+Руда 10 000,0 100,00 1,69 100,00 
+
+2-я стадия  80 % класса –0,3 мм 
+
+Концентрат 2 113,8 1,15 17,60 14,48 
+
+Хвосты 2 9770,3 98,85 1,21 85,52 
+
+Питание (хвосты 1) 9884,1 100,00 1,40 100,00 
+
+3-я стадия 80 %  класса –0,071 мм 
+
+Концентрат 3 119,6 1,22 17,15 17,10 
+
+Хвосты 3 9650,8 98,78 1,03 82,90 
+
+Питание (хвосты 2) 9770,3 100,00 1,23 100,00 
+
+Суммарно 
+
+Концентрат 1 115,90 1,16 25,57 17,48 
+
+Концентрат 2 113,78 1,14 17,60 11,81 
+
+Концентрат 3 119,56 1,20 17,15 12,09 
+
+Суммарно Концентраты 349,24 3,49 20,09 41,38 
+
+Хвосты 9650,76 96,51 1,03 58,62 
+
+Руда 10 000,00 100,00 1,696 100,00 
+ 
+
+18
+
+17,5
+
+17
+
+16,5
+
+16
+
+15,5
+
+15
+
+14,5
+
+14
+1 2 3
+
+Стадии обогащения
+
+ 
+Рис. 8. Извлечение золота по стадиям обогащения (от операции) 
+
+Fig. 8. Recovery of gold by concentration stage 
+ 
+
+ОБОГАЩЕНИЕ, ПЕРЕРАБОТКА МИНЕРАЛЬНОГО И ТЕХНОГЕННОГО СЫРЬЯ 98 
+
+Извлечение Au, %
+
+
+
+ 
+
+Из данных табл. 2 видно, что суммарное тельно крупные золотины, и мелкие свобод-
+извлечение золота составляет более 41 %. Эф- ные (от 0,06 до 0,20 мм), что подтверждается 
+фективность каждой стадии обогащения (из- минералогическим анализом (рис. 9–11).  
+влечение от операции) в GRG-тесте показана На рис. 12 приведено суммарное извле-
+на рис. 8. чение золота, извлекаемого гравитацией при 
+
+Наиболее высокие показатели извлече- различной крупности. 
+ния золота получены на 1-й стадии при круп- На рис. 12 видно, что самый высокий 
+ности 100 % класса –1,6 мм и 3-й стадии при процент извлечения золота достигается при 
+крупности 80 % класса –0,071 мм. Это указы- измельчении руды до крупности 80 % класса –
+вает на то, что в руде присутствуют и относи- 0,071 мм.
+
+ 
+
+Рис. 9. Пластинчатое золото (1); тяжелая фракция гравиоконцентрата, ×200 
+
+Fig. 9. Platy gold (1); heavy fraction of gravity concentrate, ×200 
+
+ 
+
+Рис. 10. Пластинчатое золото (1), не полностью вскрытое, в плоскости аншлифа и пирит (2); 
+тяжелая фракция гравиоконцентрата, ×200 
+
+Fig. 10. Platy gold (1), not fully released, in the plane of polished section, and pyrite (2); 
+heavy fraction of gravity concentrate, ×200 
+
+ОБОГАЩЕНИЕ, ПЕРЕРАБОТКА МИНЕРАЛЬНОГО И ТЕХНОГЕННОГО СЫРЬЯ 99 
+
+
+
+ 
+
+ 
+
+Рис. 11. Микрорентгеноспектральный анализ золота; состав (%): Au – 96,54; Ag – 2,78; Fe – 0,68 
+
+Fig. 11. Electron microprobe analysis for gold; composition (%): Au – 96.54; Ag – 2.78; Fe – 0.68 
+
+ 
+
+Рис. 12. Общий процент золота, извлекаемого гравитацией, в зависимости от крупности руды 
+
+Fig. 12. Total percentage of gold recovered by gravity depending on the ore grain size 
+ 
+
+Заключение диальном измельчении руды достаточно вы-
+Результаты GRG-теста показали, что зо- сок. При разработке технологической схемы 
+
+лотосодержащая руда эффективно обогаща- обогащения руды необходимо предусмотреть 
+ется на центробежных концентраторах. Уро- гравитационное обогащение на центробежных 
+вень извлечения золота гравитацией при ста- концентраторах.
+
+Библиографический список 
+ 
+
+1. Wills B. A., Finch J. A. Gravity Concentration. Wills’ Mineral Processing Technology. Elsevier; 2016. 
+P. 223–244. DOI: 10.1016/B978-0-08-097053-0.00010-8. 
+
+2. Gravity Concentration. Chapter 4.GMP – Manual for Training Artisanal and Small-Scale Gold Miners. 
+P. 34–52. Available from: http://artisanalmining.org/Repository/01/The_CASM_Files/ CASM_Projects/Topic_Mer-
+cury/Pg34-52Ch4GravityConcentration.pdf [Accessed 07.03.2020]. 
+
+3. Верхотуров М. В. Гравитационные методы обогащения: учебник для вузов. М.: МАКС Пресс, 2006. 
+С. 7–9. 
+
+4. Шохин В. И., Лопатин А. Г. Гравитационные методы обогащения. М.: Недра; 1993. С. 5–6. 
+
+ОБОГАЩЕНИЕ, ПЕРЕРАБОТКА МИНЕРАЛЬНОГО И ТЕХНОГЕННОГО СЫРЬЯ 100 
+
+
+
+ 
+
+5. Глембоцкая Т. В. Возникновение и развитие гравитационных методов обогащения полезных иско-
+паемых. М.: Наука; 1991. С. 121. 
+
+6. Habashi F. Gold – An historical introduction. Developments in Mineral Processing. 2005;15:XXV–XLVII. 
+7. Surimbayev B. N., Baikonurova A. O., Bolotova L. S. Prospects for the development of the process of 
+
+intensive cyanidation of gold-containing products in the Republic of Kazakhstan. News Natl. Acad. Sci. Repub. Ka-
+zakhstan, Ser. Geol. Tech. Sci. Almaty, Kazakhstan. 2017;4(424):133–141. 
+
+8. Мельников В., Роговой А., Ястребов К. Анализ опыта отечественных и зарубежных исследователей 
+в направлении гравитационного и центробежного обогащения дисперсных полезных ископаемых. Вестник 
+ИрГТУ. 2009;2(38):178–181. 
+
+9. Coulter T., Subasinghe G. K. N. A mechanistic approach to modelling Knelson concentrators. Miner. Eng. 
+2005;18(1):9–17. DOI: 10.1016/j.mineng.2004.06.035. 
+
+10. Sakuhuni G. et al. A novel laboratory procedure for predicting continuous centrifugal gravity con-
+centration applications: The gravity release analysis . Int. J. Miner. Process. Elsevier B.V. 2016;(154):66–74. 
+DOI: 10.1016/j.minpro.2016.07.004. 
+
+11. Knelson T. M. Gravity Concentrator – for maximising gold recovery. Available from: https://www.fls-
+midth.com/en-gb/products/precious-metals-recovery/knelson-semi-continuous-gravity-concentrator. [Accessed 
+07.03.2020]. 
+
+12. Ghaffari A., Farzanegan A. An investigation on laboratory Knelson Concentrator separation performance: 
+Part 1: Retained mass modelling. Miner. Eng. Elsevier Ltd. 2017;112:57–67. DOI: 10.1016/j.mineng.2017.07.006. 
+
+13. Surimbayev B., Bolotova L., Mishra B., Baikonurova A. Intensive cyanidation of gold from gravity concen-
+trates in a drum-type apparatus. News Natl. Acad. Sci. Repub. Kazakhstan, Ser. Geol. Tech. Sci. 2018;5(431):32–37. 
+DOI: 10.32014/2018.2518-170X.7. 
+
+14. Noaparast M., Laplante A. R. Free gold particles selection and breakage functions estimation. Iran. J. Sci. 
+Technol., Trans. B Eng. 2004;28(6B):667–677. 
+
+15. Fullam M. et al. Advances in Gravity Gold Technology. Gold Ore Processing. Elsevier; 2016. P. 301–314. 
+DOI: 10.1016/B978-0-444-63658-4.00019-0. 
+
+16. Laplante A., Gray S. Advances in gravity gold technology. Developments in Mineral Processing. Elsevier. 
+2005;15:280–307. DOI: 10.1016/S0167-4528(05)15013-3. 
+
+17. Koppalkar S. et al. Understanding the discrepancy between prediction and plant GRG recovery for improving 
+the gold gravity performance. Miner. Eng. Pergamon. 2011;24(6):559–564. DOI: 10.1016/j.mineng.2010.09.007. 
+
+18. Laplante A. R. A Standardized Test to Determine Gravity Recoverable Gold. Available from: http://knel-
+sonrussian.xplorex.com/sites/knelsongravity/files/reports/report21s.pdf [Accessed: 07.03.2020]. 
+
+19. Laplante A. R., Dunne R. C. The Gravity recoverable gold test and flash flotation. In: Proceeding 34th 
+Annual Meeting of the Canadian Mineral Processors. Ottawa, Canada; 2002. Available from: http://seprosys-
+tems.com/language/wp-content/uploads/2016/09/laplante.pdf. [Accessed: 10.03.2020]. 
+
+20. Woodcock F.C., Frederick C. Use of a Knelson unit to quantify gravity recoverable gold in an ore. 1996. 
+P. 1674–1674. 
+
+21. Clarke J. A simplified gravity-recoverable-gold test. ProQuest, 2007. 
+22. Laplante A. R. et al. Practical considerations in the operations of gold gravity circuits. In: Proceedings 
+
+26th Annual Mineral Processors Conference. Ottawa, Paper. 1994;23. 
+23. Суримбаев Б., Болотова Л., Есенгараев Е., Мазяркина Л. Исследование гравитационного 
+
+обогащения золотосодержащих руд месторождения «Райгородок». Промышленность Казахстана. 
+2017;101(2):40–42. 
+
+24. Myrzaliev B., Nogaeva K., Molmakova M. Determination of Jamgyr Deposit Ore Gravity Concentration 
+Feasibility. Proc. Irkutsk State Tech. Univ. 2018;22(10):153–165. DOI: 10.21285/1814-3520-2018-10-153-165. 
+  
+
+ОБОГАЩЕНИЕ, ПЕРЕРАБОТКА МИНЕРАЛЬНОГО И ТЕХНОГЕННОГО СЫРЬЯ 101 
+
+
+
+ 
+
+References 
+
+1. Wills B. A., Finch J. A. Gravity Concentration. Wills’ Mineral Processing Technology. Elsevier; 2016. 
+P. 223–244. DOI: 10.1016/B978-0-08-097053-0.00010-8. 
+
+2. Gravity Concentration. Chapter 4.GMP – Manual for Training Artisanal and Small-Scale Gold Miners. 
+P. 34–52. Available from: http://artisanalmining.org/Repository/01/The_CASM_Files/ CASM_Projects/Topic_Mer-
+cury/Pg34-52Ch4GravityConcentration.pdf. [Accessed 07.03.2020]. 
+
+3. Verkhoturov M.V. Gravity concentration methods: Textbook for universities and colleges. Moscow: MAKS 
+Press Publ.; 2006. P. 7–9. (In Russ.). 
+
+4. Shokhin V.I., Lopatin A.G. Gravity concentration methods. Moscow: Nedra Publ.; 1993. P. 5–6. (In Russ.). 
+5. Glembotskaya T.V. The emergence and development of gravitational methods of mineral processing. Mos-
+
+cow: Nauka; 1991. P. 121. (In Russ.). 
+6. Habashi F. Gold – An historical introduction. Developments in Mineral Processing. 2005;15:XXV–XLVII. 
+
+DOI: 10.1016/S0167-4528(05)15045-5. 
+7. Surimbayev B. N., Baikonurova A. O., Bolotova L. S. Prospects for the development of the process of 
+
+intensive cyanidation of gold-containing products in the Republic of Kazakhstan. News Natl. Acad. Sci. Repub. Ka-
+zakhstan, Ser. Geol. Tech. Sci. Almaty, Kazakhstan. 2017;4(424):133–141. 
+
+8. Melnikov V., Rogovoy A., Yastrebov K. Analysis of the experience of domestic and foreign researchers in 
+gravitational and centrifugal concentration of dispersed minerals. Vestnik Irkutskogo gosudarstvennogo tehniceskogo 
+universiteta. 2009;2(38):178–181. (In Russ.). 
+
+9. Coulter T., Subasinghe G. K. N. A mechanistic approach to modelling Knelson concentrators. Miner. Eng. 
+2005;18(1):9–17. DOI: 10.1016/j.mineng.2004.06.035. 
+
+10. Sakuhuni G. et al. A novel laboratory procedure for predicting continuous centrifugal gravity con-
+centration applications: The gravity release analysis. Int. J. Miner. Process. Elsevier B.V. 2016;(154):66–74. 
+DOI: 10.1016/j.minpro.2016.07.004. 
+
+11. Knelson T. M. Gravity Concentrator – for maximising gold recovery. Available from: https://www.fls-
+midth.com/en-gb/products/precious-metals-recovery/knelson-semi-continuous-gravity-concentrator [Accessed 07.03.2020]. 
+
+12. Ghaffari A., Farzanegan A. An investigation on laboratory Knelson Concentrator separation performance: 
+Part 1: Retained mass modelling. Miner. Eng. Elsevier Ltd. 2017;112:57–67. DOI: 10.1016/j.mineng.2017.07.006. 
+
+13. Surimbayev B., Bolotova L., Mishra B., Baikonurova A. Intensive cyanidation of gold from gravity concen-
+trates in a drum-type apparatus. News Natl. Acad. Sci. Repub. Kazakhstan, Ser. Geol. Tech. Sci. 2018;5(431):32–37. 
+DOI: 10.32014/2018.2518-170X.7. 
+
+14. Noaparast M., Laplante A. R. Free gold particles selection and breakage functions estimation. Iran. J. Sci. 
+Technol., Trans. B Eng. 2004;28(6B):667–677. 
+
+15. Fullam M. et al. Advances in Gravity Gold Technology. Gold Ore Processing. Elsevier; 2016. P. 301–314. 
+DOI: 10.1016/B978-0-444-63658-4.00019-0. 
+
+16. Laplante A., Gray S. Advances in gravity gold technology. Developments in Mineral Processing. Elsevier. 
+2005;15:280–307. DOI: 10.1016/S0167-4528(05)15013-3. 
+
+17. Koppalkar S. et al. Understanding the discrepancy between prediction and plant GRG recovery for improving 
+the gold gravity performance. Miner. Eng. Pergamon. 2011;24(6):559–564. DOI: 10.1016/j.mineng.2010.09.007. 
+
+18. Laplante A. R. A Standardized Test to Determine Gravity Recoverable Gold. Available from: http://knel-
+sonrussian.xplorex.com/sites/knelsongravity/files/reports/report21s.pdf [Accessed: 07.03.2020]. 
+
+19. Laplante A. R., Dunne R. C. The Gravity recoverable gold test and flash flotation. In: Proceeding 34th 
+Annual Meeting of the Canadian Mineral Processors. Ottawa, Canada; 2002. Available from: http://seprosys-
+tems.com/language/wp-content/uploads/2016/09/laplante.pdf. [Accessed: 10.03.2020]. 
+
+20. Woodcock F.C., Frederick C. Use of a Knelson unit to quantify gravity recoverable gold in an ore. 1996. 
+P. 1674–1674. 
+
+21. Clarke J. A simplified gravity-recoverable-gold test. ProQuest, 2007. 
+22. Laplante A. R. et al. Practical considerations in the operations of gold gravity circuits. In: Proceedings 
+
+26th Annual Mineral Processors Conference. Ottawa, Paper. 1994;23. 
+
+ОБОГАЩЕНИЕ, ПЕРЕРАБОТКА МИНЕРАЛЬНОГО И ТЕХНОГЕННОГО СЫРЬЯ 102 
+
+
+
+ 
+
+23. Surimbayev B., Bolotova L., Esengaraev E., Mazyarkina L. A study of gravity separation of gold ores of the 
+Raigorodok deposit. Industry of Kazakhstan. 2017:101(2):40–42. (In Russ.). 
+
+24. Myrzaliev B., Nogaeva K., Molmakova M. Determination of Jamgyr Deposit Ore Gravity Concentration 
+Feasibility. Proc. Irkutsk State Tech. Univ. 2018;22(10):153–165. DOI: 10.21285/1814-3520-2018-10-153-165. 
+
+ОБОГАЩЕНИЕ, ПЕРЕРАБОТКА МИНЕРАЛЬНОГО И ТЕХНОГЕННОГО СЫРЬЯ 103

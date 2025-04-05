@@ -1,0 +1,905 @@
+﻿Geology and Geophysics of Russian South  11 (1) 2021 Геология и геофизика Юга России 81
+
+=====================  ГЕОТЕКТОНИКА И ГЕОДИНАМИКА =====================
+
+УДК 551.2.01 
+DOI: 10.46698/VNC. 2021.15.66.007
+
+Оригинальная статья
+
+Зонирование высокогорных территорий  
+по геоэкологическим нагрузкам, обусловленным 
+
+геодинамическими и климатическими 
+воздействиями
+
+Х. О. Чотчаев , О. Г. Бурдзиева , В. Б. Заалишвили
+
+Геофизический институт Владикавказского научного центра  
+Российской академии наук, Россия, 362002, РСО-Алания, г. Владикавказ,  
+
+ул. Маркова, 93а, e-mail: chotho@yandex. ru
+
+Статья поступила: 26.01.2021, после рецензирования: 25.02.2021, принята к публикации: 05.03.2021
+
+Резюме: Актуальность работы. Геотектонические, литологические и ландшафтно-морфологиче-
+ские особенности территорий, функционирующих туристско-рекреационных комплексов Центрального 
+Кавказа, определяют платформенный характер развития Скифской плиты, южной окраиной вовлеченной 
+совместно с причлененными микроплитами-террейнами (Предкавказская, Бечасынская, Восточно-Кав-
+казская) в горообразовательный процесс Большого Кавказа. Иной характер геологического развития пре-
+терпели территории южного склона Большого Кавказа, вовлеченные в горообразовательный процесс как 
+океанические плиты – террейны (Закавказская плита, Южная микроплита – сложенные толщей чередую-
+щегося флиша глинистых сланцев с прослоями песчаников, мергелей, известняков). Прижатая к жесткой 
+Скифской плите с юга Закавказской плитой, подпираемой Аравийской платформой, Южная микроплита 
+подверглась интенсивной деформации, глубинным тектоническим проявлениям субширотной ориенти-
+ровки, являющимся каналами активного проявления эндогенных геодинамических процессов. Создание 
+туристско-рекреационного комплекса на Южном склоне Центрального Кавказа предполагает прогноз тем-
+пов геоэкологической эволюции в условиях активной геодинамики и интенсивного проявления опасных 
+геологических процессов. Цель исследований – зонирование интенсивностей уровней геоэкологических 
+нагрузок геодинамических и климатических воздействий для дифференцированного целевого исполь-
+зования соответствующих площадей. В процессе исследований выявлены геодинамические и климати-
+ческие факторы, характерные для территории и реализовано ранжирование интегральных воздействий 
+на исследуемой территории. Методика заключалась в разбиении территории на элементы площади раз-
+мерами 4×4 кв. км, учете значимых факторов воздействия на элемент площади и суммировании интен-
+сивностей, определяемых экспертными оценками ранжирования, обусловленных каждым из природных 
+воздействий. В процессе решения задач были определены геодинамические и климатические факторы, 
+характерные для территории; дифференцированы геотектонические и геоморфологические условия их 
+проявления; проведена экспертная оценка интенсивности воздействия каждого фактора по пятибалльной 
+системе и установлен суммарный максимально возможный потенциал воздействия. Результаты исследо-
+ваний стали основой составления соответствующей карты – схемы зонирования исследуемой территории 
+на зоны с интенсивностями, характеризующими различные уровни геоэкологической нагрузки.
+
+Ключевые слова: Южный склон, Центральный Кавказ, опасные геодинамические процессы, геоэко-
+логическая нагрузка, зонирование.
+
+Для цитирования: Чотчаев Х. О., Бурдзиева О. Г., Заалишвили В. Б. Зонирование высокогорных тер-
+риторий по геоэкологическим нагрузкам, обусловленным геодинамическими и климатическими воздей-
+ствиями. Геология и геофизика Юга России. 2021. 11 (1): 81 – 94. DOI: 10.46698/VNC. 2021.15.66.007.
+
+
+
+82 Geology and Geophysics of Russian South 11 (1) 2021 Геология и геофизика Юга России
+
+===================== GEOTECTONICS AND GEODYNAMICS ====================
+
+DOI: 10.46698/VNC. 2021.15.66.007
+
+Original paper
+
+Zoning of high mountainous areas by geoecological 
+loads caused by geodynamic and climatic 
+
+influences
+
+Kh. O. Chotchaev , O. G. Burdzieva , V. B. Zaalishvili
+
+Geophysical Institute, Vladikavkaz Scientific Centre, Russian Academy of Sciences, 93a 
+Markova Str., Vladikavkaz 362002, Russian Federation, e-mail: chotho@yandex. ru
+
+Reseived: 26.01.2021, revised: 25.02.2021, accepted: 05.03.2021
+
+Abstract: Relevance. The geotectonic, lithological and landscape-morphological features of the territories 
+where tourist and recreational complexes are functioning in the Central Caucasus determine the platform nature 
+of the development of the Scythian plate. The southern margin of this plate is involved, together with the attached 
+microplate-terranes (Ciscaucasia, Bechasynskaya, East Caucasian), in the mountain-forming process of the 
+Greater Caucasus. The territories of the southern slope of the Greater Caucasus, involved in the mountain-forming 
+process as oceanic plates – terranes (Transcaucasian plate, South microplate – folded by a layer of alternating 
+flysch of clay shales with interlayers of sandstones, marls, limestones) have undergone a different character of 
+geological development. The Southern microplate is pressed against the rigid Scythian plate from the south by 
+the Transcaucasian plate, supported by the Arabian platform. It has undergone intense deformation, deep tectonic 
+manifestations of sublatitudinal orientation, which are channels for the active manifestation of endogenous 
+geodynamic processes. The creation of a tourist and recreational complex on the southern slope of the Central 
+Caucasus presupposes a forecast of the geoecological evolution rate in conditions of active geodynamics and 
+intensive manifestation of dangerous geological processes. The Aim of the study is the zoning of the intensity 
+levels of the geoecological loads of geodynamic and climatic influences for the differentiated target use of the 
+corresponding areas. In the course of research, geodynamic and climatic factors characteristic for the territory 
+were identified and the ranking of integral impacts on the studied territory was implemented. The methods 
+consisted in dividing the territory into area elements of 4×4 square km., taking into account the significant 
+factors of influence on the element of the area and summing up the intensities determined by expert estimates of 
+the ranking caused by each of the natural impacts. In the process of solving the problems, the geodynamic and 
+climatic factors characteristic for the territory were determined; differentiated geotectonic and geomorphological 
+conditions of their manifestation; an expert assessment of the intensity of the impact of each factor was carried 
+out according to a five-point system and the total maximum possible impact potential was established. Results of 
+the study became the basis for the compilation of the corresponding map – the zoning scheme of the study area 
+into zones with intensities characterizing different levels of geoecological load.
+
+Keywords: Southern slope, Central Caucasus, dangerous geodynamic processes, geoecological load, zoning.
+For citation: Chotchaev Kh. O., Burdzieva O. G., Zaalishvili V. B. Zoning of high mountainous areas by 
+
+geoecological loads caused by geodynamic and climatic influences. Geologiya I Geofizika Yuga Rossii = Geology 
+and Geophysics of Russian South. (in Russ.). 2021. 11 (1): 81 – 94. DOI: 10.46698/VNC. 2021.15.66.007.
+
+Введение
+Рассматривая земную поверхностную оболочку не только как среду генериру‑
+
+ющую энергию за счет биологической деятельности [Вернадский, 1967], но и как 
+область воздействия активных неорганических агентов эндогенной природы, не‑
+
+
+
+Geology and Geophysics of Russian South  11 (1) 2021 Геология и геофизика Юга России 83
+
+трудно объяснить природу, масштабы и темпы возникновения современной коры 
+выветривания, широкое развитие четвертичных образований, составляющих осно‑
+ву большинства опасных геологических процессов.
+
+Длительное разрушающее воздействие статических напряжений и физико‑хи‑
+мических полей на породы определяют причинно‑следственную зависимость эн‑
+догенных и экзогенных геодинамических процессов, подтверждением чего служит 
+повсеместная приуроченность очагов опасных экзогенных процессов к активным 
+тектоническим нарушениям и их линеаментам. Активные тектонические наруше‑
+ния обладают к тому же биологическим действием через физические поля‑инди‑
+каторы, влияющие не только на геоэкологию территории, но и на экологическую 
+эволюцию [Cesnulevicius, 2005; Gentili et al., 2010; Pope et al., 2010].
+
+Интенсивность геодинамического воздействия зависит от геодинамической ак‑
+тивности литосферы (эндогенная геодинамика), литологического состава осадоч‑
+ного чехла, условий взаимодействия геологической среды с атмосферой, климати‑
+ческих изменений (экзогенная геодинамика). Геодинамические и климатические 
+процессы определяют геоэкологическое состояние среды обитания и эволюцию 
+Земли в целом. Критериями такой оценки рассматриваются сейсмичность (редко 
+и тектонические подвижки) и пораженность территории экзогенными процессами 
+[Абалаков, 2007; Спивак, Кишкина, 2004; Яроцкий, Чотчаев, 2016] как факторы до‑
+ступные человеку для исследования. Но связь даже этих двух проявлений земной 
+эволюции на тонком уровне (комплекса физических полей – деформационных, дис‑
+локационных, электромагнитных, геохимических, тепловых) остается неясной.
+
+Анализ любого экзогенного природного геологического процесса, независимо 
+от агента воздействия, показывает, что объект к событию длительно подготавлива‑
+ется эндогенным геодинамическим воздействием, выраженным различными фак‑
+торами [Persaud, Pfiffner, 2004].
+
+Одним из главных факторов широкого развития четвертичных отложений явля‑
+ется длительное воздействие эндогенных процессов на коренные породы и форми‑
+рование современной коры выветривания. Далее начинается экзогенный процесс ее 
+разрушения и переотложения [Dill, 1994; Пхарое, Евдокимов, 2020].
+
+Уровень воздействия на геоэкологическую среду эндогенных и экзогенных гео‑
+динамических процессов характеризуют широко развитые по площади различные 
+генетические типы четвертичных образований, формирующие многочисленные 
+очаги опасных экзогенных процессов [Guzzetti et al., 1999].
+
+Эндогенная активность является причинным фактором активизации экзоген‑
+ных процессов и одним из признаков этого является устойчивая приуроченность 
+последних к тектоническим нарушениям и узлам разноранговых разрывных струк‑
+тур, очаговым зонам сейсмической и вулканоплутонической активности [Шемпе‑
+лев, 2007; Шемпелев и др., 2015], отмечаемая на всем пространстве развития Аль‑
+пийской складчатости.
+
+Влиянием эндогенных процессов можно объяснить не только активизацию 
+экзогенных геологических процессов, но и многие климатические изменения (ло‑
+кальные парниковые эффекты, альбедо, экспозиция, поглощение, рассеивание и 
+многое другое) [Folguera et al., 2004]. Концепция климатических изменений за счет 
+озоновых дыр, возникающих из‑за выброса в атмосферу хлор‑ и фторсодержащих 
+фреонов, выглядит уже не столь догматично, и параллельно рассматриваются гео‑
+динамические факторы климатической зависимости [Безверхний, 2019].
+
+Объекты, представляющие очаги опасных геологических процессов, связанные 
+с ледниками и ледовокаменными глетчерами типичны для высокогорных районов 
+
+
+
+84 Geology and Geophysics of Russian South 11 (1) 2021 Геология и геофизика Юга России
+
+современных альпид. Они в геоэкологических преобразованиях играют значитель‑
+ную роль динамическим воздействием разрушительного характера (глубокие рыт‑
+вины, оголенные склоны, скучивание крупнообломочного материала).
+
+Постледниковый этап активного геодинамического воздействия отчетливо про‑
+является на участках абляции ледников, где обнажаются активные глубинные раз‑
+ломы. В их пределах, в виде коротких разрывов трещинного типа, возникают на‑
+рушения, кулисообразно расположенные к глубинному разлому, и составляющие 
+с ними единые линеаменты, ориентированные согласно орогену. Эти нарушения 
+возникают не за счет землетрясений, а как остаточные деформации в периоды сейс‑
+мического затишья. Наблюдения в Швейцарских Альпах показали, что максималь‑
+ной скорости подъёма поверхности (1,6 мм/год), подвержены участки последними 
+сбросившие ледяной панцирь [Newsome et al., 2013].
+
+Новейшими проявлениями глубинных геодинамических процессов являются и 
+сейсмотектонические разрывы, которые, как правило, тяготеют к крупнейшим текто‑
+ническим разрывам. Максимальная их концентрация фиксируется по Тибскому и Нар‑
+скому разломам. По протяженности и ширине полосы развития Нарская зона новей‑
+ших сейсмотектонических разрывов не имеет себе равных на всем Северном Кавказе.
+
+Основные геодинамические факторы и интенсивность  
+их влияния на геоэкологическую ситуацию
+
+Для количественной оценки геоэкологического воздействия геодинамических 
+факторов сделана выборка всех проявляющихся геодинамических и климатиче‑
+ских факторов [Masek et al., 1994; Sobel, Strecker, 2003; Hilley, Coutand, 2010; Varga 
+et al., 2011; Yang, Eitel, 2016], интенсивность воздействия каждого из которых на 
+окружающую среду оценена по пятибалльной системе. При этом в основе балль‑
+ности рассматривается не сила сотрясения, а способность геодинамического фак‑
+тора к ускорению денудации пород, ослаблению их инженерных свойств, развитию 
+четвертичных отложений, опасных геологических процессов и, в конечном счете, 
+ускоренному изменению геоэкологической ситуации.
+
+Максимальный ранг воздействия отдельного фактора устанавливался на основе 
+методологии экспертных оценок [Гольцман, 1976, 1980] в виде учета массоперено‑
+са (обвалы‑осыпи, сели, оползни и т. п.) ландшафтно‑геоморфологических измене‑
+ний (подвижки ледников, сход лавин) ожидаемых длительных или краткосрочных 
+последствий (тектонические, вулкано‑плутонические проявления, землетрясения, 
+сейсмдислокации). Принято, что воздействие на геоэкологическую ситуацию N 
+факторов каждая интенсивностью в один ранг или единичный ранг соответствует 
+наименьшему влиянию данного фактора на геоэкологическое состояние, а уровень 
+5 ранга – наибольшему.
+
+Необходимо отметить, что при ранжировании геодинамических факторов при‑
+сутствует элемент субъективизма, но с увеличением их числа, суммарная ошибка за 
+субъективизм приближается к минимуму.
+
+Для расчета риска R реализации воздействия использовалось следующее соот‑
+ношение:
+ R = W x D (1)
+
+где: W – суммарное, максимально возможное воздействие всех учтенных фак‑
+торов W= Σ Wmaxi, ранг;
+
+
+
+Geology and Geophysics of Russian South  11 (1) 2021 Геология и геофизика Юга России 85
+
+D – уязвимость или геоэкологическое состояние конкретной локальной пло‑
+щадки, ранг.
+
+Ri – риск проявления воздействия отдельного фактора Wi и реакция локальной 
+площадки на воздействие данного фактора Di, соответственно,
+
+Ri = Wi x Di, ранг.
+ R = Σ Ri  (2)
+
+Необходимо отметить, что при ранжировании геодинамического фактора при‑
+сутствует элемент субъективизма, но с увеличением их числа, суммарная ошибка за 
+субъективизм приближается к минимуму.
+
+На основе геодинамических факторов, распространенных на исследуемой тер‑
+ритории, составлены две таблицы. В таблице 1 приведены количественные харак‑
+теристики воздействий геодинамических процессов на геоэкологическое состояние 
+площадки, обусловленных литологическими, геоморфологическими, эндогенными, 
+экзогенными геологическими и природно‑климатическими факторами. В таблице 2 
+приведены результаты расчетов риска Ri проявления воздействия отдельного фак‑
+тора с потенциалом Wi на площадку и ее геоэкологической уязвимостью Di на со‑
+ответствующий фактор.
+
+Таблица 1 / Table 1
+Факторы воздействия геодинамических и климатических процессов 
+на геоэкологическое состояние высокогорных территорий / Factors of 
+
+geodynamic and climatic processes influence on the geoecological state  
+of high-mountainous territories
+
+№ Уровень воздействия / Influence level
+п/п 
+
+/ Виды воздействия / Types of influence Слабый / Средний Высокий Регрес‑
+No. Weak / Mean / High сивный / 
+
+Regressive
+1 2 3 4 5 6
+1 Землетрясения в ближней зоне (R=50 км), сейс‑
+
+мическая интенсивность в баллах / Earthquakes in <6 6‑7 7‑8 8‑9
+the near zone (R = 50 km), seismic intensity in points
+
+2 Зона активного нарушения (плотность нару‑
+шений в км/км2) / Active rupture zone (density of 0,01 0,02 0,03 0,04
+ruptures in km/km2) 
+
+3 Зона пересечения субширотных и субмериди‑
+ональных нарушений от одного до четырех и 
+выше (пересечение) / Zone of intersection of sub‑ 1 2 3 4
+latitudinal and sub‑meridional ruptures from one to 
+four and above (intersection) 
+
+4 Зона развития трещинной тектоники различной 
+плотности в км/км2 / Zone of fractural tectonics of 0,03 0,05 0,07 0,09
+different density propagation in km/km2
+
+5 Зоны, подверженные воздействию статических 
+геофизических, геохимических полей в ради‑
+усе действия событий до 50 км, расстояние в 
+км:10‑20; 20‑30; 30‑40; 40‑50 / Zones exposed to 3 4 5 6
+static geophysical, geochemical fields within the 
+range of events up to 50 km, distance in km: 10‑20; 
+20‑30; 30‑40; 40‑50
+
+
+
+86 Geology and Geophysics of Russian South 11 (1) 2021 Геология и геофизика Юга России
+
+6 Зоны проявления от одного до трех и более события 
+сейсмодислокации в пределах структурного блока 
+/ Zones of one to three or more seismic dislocation 1 2 3 3
+events manifestation within a structural block
+
+7 Распространение четвертичных образований 
+на интервалах высот: 1700‑2000; 2000‑2300; 
+2300‑2600; 2600 и выше / Distribution of Quaternary 1700‑ 2000‑ 2300‑ 
+
+2000 2300 2600 >2600
+formations at the altitude intervals: 1700‑2000; 
+2000‑2300; 2300‑2600; 2600 and higher
+
+8 Коренные породы мягкие (до 50 МПа), обнажен‑
+ность 40 %; 50 %; 60 %; 70 % и более / Soft bedrock 
+(up to 50 MPa) with the exposure 40 %; 50 %; 60 %; 40 % 50 % 60 % 70 % и >
+70 % and more
+
+9 Базис эрозии 1000 м и более, на высотах от 2000 
+и выше, с учетом оледенения / Baselevel is 1000 m 2000‑ 2500‑ 3300‑ 3500‑ 
+and more, at an altitude of 2000 and higher, taking 2500 3000 3500 4000
+glaciation into account
+
+10 Базис эрозии 500 м на высотах от 1500 и выше / 1500‑ 1700‑ 1800‑ 1900‑ 
+Baselevel is 500 m at an altitude of 1500 and higher 1700 1800 1900 2000
+
+11 Базис эрозии до 500 м на высотах от 1500 м и 
+ниже / Baselevel is 500 m at an altitude of 1500 and 1300‑ 1100‑ 1000‑ 
+lower 1500 1300 1100 >1000
+
+12 Рельеф с углами наклона поверхности до 15° по обваль‑ морен‑
+генетическим типам грунтов / Relief with surface но‑осып‑ ные отло‑ селевые / оползне‑
+slope angles up to 15 ° according to genetic soil types ные / жения / вые /
+
+13 Рельеф с углами наклона поверхности 15‑20° по обваль‑ обваль‑
+генетическим типам грунтов / Relief with surface но‑осып‑ но‑осып‑ селевые / оползне‑
+slope angles of 15‑20° according to genetic soil types ные / ные / вые /
+
+14 Рельеф с углами наклона поверхности >20° по обваль‑ обваль‑
+генетическим типам грунтов / Relief with surface но‑осып‑ но‑осып‑ селевые / оползне‑
+slope angles > 20° according to genetic types of soils ные / ные / вые /
+
+15 Мощность четвертичных отложений 0‑5 м, при 
+различных углах наклона, град. / Thickness of 
+Quaternary sediments 0‑5 m at different slope angles, 12‑15 15‑20 20‑25 25 и >
+degrees
+
+16 Мощность четвертичных отложений 5‑12 м при 
+различных углах наклона, град. / Thickness of 
+the Quaternary sediments 5‑12 m at different slope 12‑15 15‑20 20‑25 25 и >
+angles, degrees
+
+17 Мощность четвертичных отложений более 12 м, 
+при различных углах наклона, град. / Thickness 
+of the Quaternary sediments more than 12 m, at 12‑15 15‑20 20‑25 25 и >
+different slope angles, degrees
+
+18 Сели, от одного до 5 и выше за сезон, объемом от 
+10 тыс. м3 и более / Mudflows, from one to 5 and 
+more per season, with a volume of 10 thousand m3 2 3 4 5
+and more
+
+19 Оползни в общем объеме за год от 10 тыс. м3 до 2 
+млн м3 / Landslides in total volume for the year from 50 75 100 150
+10 thousand m3 to 2 million m3
+
+20 Обвалы – осыпи до 5000 м3 тыс. м3 / Landslides – 
+debris streams up to 5000 thousand m3 75 100 150 200
+
+21 Плоскостной смыв, площадью от 0,05 до 0,10 км2 
+и выше на км2 площади / Sheet wash, with an area 0,05 0,06 0,07 >0,1
+of 0.05 to 0.10 km2 and more per km2 of area
+
+
+
+Geology and Geophysics of Russian South  11 (1) 2021 Геология и геофизика Юга России 87
+
+22 Эрозионная деятельность рек от 1 до 5 м/ч боко‑
+вой эрозии / Erosivity of rivers from 1 to 5 m/h of 1,0 2,5 4,0 5,0
+lateral erosion
+
+23 Солифлюкция при мощности захвата процессом 
+по вертикали от 1‑го до 4‑х метров / Solifluction 1,0 2,0 3,0 4,0
+with a vertical capture thickness from 1 to 4 meters
+
+24 Струйная эрозия на склонах 20ο и более / Channel 
+erosion on the slopes of 20ο or more 20 25 30 35 и >
+
+25 Карстообразование, от одного до трех и выше 
+проявлений на км2 площади / Karstification from 1 2 3 >3
+one to three and more events per km2 area
+
+26 Лавины, до 4‑х и более сходов за сезон / 
+Avalanches, up to 4 and more falls per season 1 2 3 4
+
+27 Ледники и глетчеры до трех и выше событий 
+паводкового типа на территорию / Glaciers and 
+gletchers up to three and more flood‑type events per 1 2 3 >3
+territory
+
+Таблица 2 / Table 2
+Ранжирование воздействий геодинамических климатических процессов 
+на геоэкологическое состояние высокогорных территорий / Ranking the 
+
+influences of geodynamic climatic processes on the geoecological state  
+of high-mountainous areas
+
+Весовой Уровень воздействия / Influence level
+рейтинг 
+
+№ события, 
+п/п Виды воздействия /  W Слабый, Средний, Высокий, Регрес‑
+
+maxi / 
+/ Types of influence Weight Wi x Di / Wi x Di / Wi x Di / сивный, 
+
+i / 
+No. rating of Weak, Wi Mean, Wi High, Wi Wi x D
+
+s ive, 
+an event, x Di x Di x Di Regres
+
+Wi x Di
+Wmaxi
+
+1 2 3 4 5 6 7
+I Факторы эндогенного воздействия / Factors of the endogenous influence
+
+1 Землетрясения в ближней зоне 
+(R=50 км), сейсмическая интен‑
+сивность в баллах / Earthquakes 5 1 2 3,5 5
+in the near zone (R = 50 km), 
+seismic intensity in points
+
+2 Зона активного нарушения 
+(плотность нарушений в км/км2) 
+/ Active rupture zone (density of 3 1 1,5 1 3
+ruptures in km/km2) 
+
+3 Зона пересечения субширотных 
+и субмеридиональных нару‑
+шений от одного до четырех и 
+выше (пересечение) / Zone of 4 1 2 3 4
+intersection of sub‑latitudinal and 
+sub‑meridional ruptures from one 
+to four and above (intersection) 
+
+4 Зона развития трещинной тек‑
+тоники 0,03 до 0,10 км/км2 и 
+выше / Zone of fractural tectonics 5 1 2 3,5 5
+of different density propagation in 
+km/km2
+
+
+
+88 Geology and Geophysics of Russian South 11 (1) 2021 Геология и геофизика Юга России
+
+5 Зоны, подверженные воздей‑
+ствию статических геофизиче‑
+ских, геохимических полей в 
+радиусе действия событий до 
+50 км, расстояние в км: 10‑20; 
+20‑30; 30‑40; 40‑50 / Zones 2 1 1 2 2
+exposed to static geophysical, 
+geochemical fields within the 
+range of events up to 50 km, 
+distance in km: 10‑20; 20‑30; 
+30‑40; 40‑50
+
+6 Зоны проявления от одного до 
+трех и более события сейсмо‑
+дислокации в пределах струк‑
+турного блока / Zones of one to 3 1 2 3 3
+three or more seismic dislocation 
+events manifestation within a 
+structural block
+
+II Литологические факторы / Lithological factors
+7 Коренные породы мягкие (до 50 
+
+МПа), обнаженность 40 %; 50 %; 
+60 %; 70 % и более / Soft bedrock 3 1 1,5 2 3
+(up to 50 MPa) with the exposure 
+40 %; 50 %; 60 %; 70 % and more
+
+8 Базис эрозии 1000 м и более, 
+на высотах от 2000 и выше, с 
+учетом оледенения / Baselevel is 
+1000 m and more, at an altitude of 3 1 1,5 2 3
+2000 and higher, taking glaciation 
+into account
+
+III Геоморфологические факторы / Geomorphological factors
+9 Базис эрозии до 500 м на высо‑
+
+тах от 1500 м и ниже / Baselevel 
+is 500 m at an altitude of 1500 and 4 4 3 2 1,5
+lower
+
+10 Рельеф с углами наклона по‑
+верхности до 15° по генетиче‑
+ским типам грунтов / Relief with 3 1 1,5 2 3
+surface slope angles up to 15 ° 
+according to genetic soil types
+
+11 Рельеф с углами наклона по‑
+верхности 15‑20° по генетиче‑
+ским типам грунтов / Relief with 2 1 1,5 2 2
+surface slope angles of 15‑20° 
+according to genetic soil types
+
+12 Рельеф с углами наклона по‑
+верхности >20° по генетиче‑
+ским типам грунтов / Relief 
+with surface slope angles > 20° 2 1 1 2 2
+according to genetic types of 
+soils
+
+13 Рельеф с углами наклона по‑
+верхности >20° по генетиче‑
+ским типам грунтов / Relief 3 1 1,5 2,5 3
+with surface slope angles > 20° 
+according to genetic types of soils
+
+
+
+Geology and Geophysics of Russian South  11 (1) 2021 Геология и геофизика Юга России 89
+
+14 Зона активного нарушения
+(плотность нарушений в км/км2) 
+/ Active rupture zone (density of 4 2 2,5 3 4
+ruptures in km/km2) 
+
+IV Факторы экзогенного и природно-климатического характера / Factors of exogenous and 
+natural-climatic character
+
+15 Мощность четвертичных отло‑
+жений 0‑5 м, при углах наклона 
+12‑25° и более / Thickness of 2 1 1 1,5 2
+Quaternary sediments 0‑5 m at 
+slope angles of 12‑25° and more
+
+16 Мощность четвертичных отло‑
+жений 5‑12 м, при углах наклона 
+12‑25° и более / Thickness of 3 1 1 2 3
+Quaternary sediments 5‑12 m at 
+slope angles of 12‑25° and more
+
+17 Мощность четвертичных отло‑
+жений более 12 м, при углах на‑
+клона 12‑25° и более / Thickness 
+of Quaternary sediments over 12 3 1 1,5 1,5 3
+m at slope angles of 12‑25° and 
+more
+
+18 Сели, от одного до 5 и выше за 
+сезон, объемам от 10 тыс. м3 
+и более / Mudflows, from one 
+to 5 and more per season, with 5 2 3 4 5
+a volume of 10 thousand m3 and 
+more
+
+19 Оползни в общем объеме за 
+год от 10 тыс. м3 до 2 млн. м3 
+
+/ Landslides in total volume for 3 1 1,5 2 3
+the year from 10 thousand m3 to 2 
+million m3
+
+20 Обвалы – осыпи до 5000 м3
+
+тыс. м3 / Landslides – debris 4 1,5 2 3 4
+streams up to 5000 thousand m3
+
+21 Плоскостной смыв, площадью 
+от 0,05 до 0,10 км2 и выше на 
+км2 площади / Sheet wash, with 3 1 1 2 3
+an area of 0.05 to 0.10 km2 and 
+more per km2 of area
+
+22 Эрозионная деятельность рек от 
+1 до 5 м /час боковой эрозии / 4 1,5 2,5 3 4
+
+23 Солифлюкция при мощности 
+захвата процессом по верти‑
+кали от 1‑го до 4‑х метров / 3 1 1,5 2,5 3
+Solifluction with a vertical capture 
+thickness from 1 to 4 meters
+
+24 Струйная эрозия на склонах 20° 
+
+и более / Channel erosion on the 3 1 1,5 2,5 3
+slopes of 20ο or more
+
+25 Карстообразование, от одного 
+до трех и выше проявлений на 
+км2 площади / Karstification from 3 1 1,5 2 3
+one to three and more events per 
+km2 area
+
+
+
+90 Geology and Geophysics of Russian South 11 (1) 2021 Геология и геофизика Юга России
+
+26 Лавины, до 4‑х и более сходов 
+за сезон / Avalanches, up to 4 and 5 2 3 4 5
+more falls per season
+
+27 Ледники и глетчеры до трех 
+и выше событий паводкового 
+типа на территорию / Glaciers 4 1,5 2,5 3 4
+and gletchers up to three and more 
+flood‑type events per territory
+
+Сумма максимальных воздействий 
+факторов W=ΣWmaxi и суммы рисков 
+R= ΣRi, ранг / The sum of the maximum 95 34,5 48,0 64,0 91,5
+impacts of factors W=ΣWmaxi and the 
+sum of the risks R = ΣRi, rank
+Уязвимость D = R/W или геоэко‑
+логическое состояние площадки / 
+Vulnerability D = R/W or geoecological 1 0,363 0,505 0,674 0,964
+state of the site
+
+Зонирование геоэкологической нагрузки (рис. 1) проведено на основе весового 
+вклада каждого из факторов, которые составили 4 центроидные группы: нагруз‑
+ка слабая, 30‑40 %; нагрузка средняя, 40‑55 %; нагрузка высокая, 55‑70 %; нагрузка 
+регрессивная, выше 70 %. Расчеты выполнялись для 105 таксонов (4×4 км) в ГИС‑
+технологиях [Zaalishvili, 2020a, 2020b].
+
+Рис. 1. Схема зонирования интенсивности геоэкологической нагрузки на высокогорной 
+территории.
+
+Уровни геоэкологической нагрузки от геодинамических воздействий: 1 – слабый; 2– средний; 3 – 
+высокий; 4 – регрессивный /
+
+Fig. 1. Zoning scheme of the intensity of the geoecological load in the high-mountainous territories.
+Levels of geoecological load from geodynamic influences: 1 – weak; 2 – mean; 3 – high; 4 – regressive
+
+
+
+Geology and Geophysics of Russian South  11 (1) 2021 Геология и геофизика Юга России 91
+
+При зонировании территории по степени геоэкологической нагрузки исполь‑
+зованы данные блоковой дифференциации территории и развития активных текто‑
+нических нарушений [Несмеянов, 2003] Казбекского сегмента мегасвода Большого 
+Кавказа и современная неотектоника, выявленная под покровом четвертичных от‑
+ложений геофизическими исследованиями [Чотчаев, 2020].
+
+Выводы
+1. Устойчивая приуроченность проявлений опасных экзогенных геологических 
+
+процессов к активным глубинным тектоническим нарушениям и связанной с ними 
+трещинной тектонике постледникового проявления неотектонической активности 
+подтверждает определяющую роль эндогенных процессов в активизации экзоген‑
+ных процессов и в интенсификации геоэкологической эволюции.
+
+2. Зоны активных разломов территории представляют собой ослабленные зоны 
+из‑за повышенной раздробленности, трещиноватости, флюидопроницаемости, раз‑
+уплотнения горных пород за счет массопереноса движущимися водами, выщелачи‑
+вания, в пределах которых активно развиваются процессы эрозионного разруше‑
+ния. Трещины и особенно зоны повышенной их концентрации, как и разломы, сни‑
+жают прочностные свойства и повышают проницаемость рассекаемых ими пород и 
+по этой причине благоприятствуют развитию вдоль них целого генетического ряда 
+экзогенных процессов и, как следствие, значительных геоэкологических нагрузок.
+
+3. В табличном формате разработан комплекс типичных для территории геодина‑
+мических факторов эндогенного, экзогенного типов геологической природы и клима‑
+тического характера, классифицированных по их максимальным расчетным воздей‑
+ствиям на геоэкологическую ситуацию в пятибалльной системе, сумма которых пред‑
+ставляет потенциал возможной геоэкологической нагрузки на определенный таксон.
+
+4. Для каждого из 105 таксонов (4×4 кв. км) территории на основе экспертных 
+оценок рассчитана суммарная интенсивность геоэкологической нагрузки под воз‑
+действием геодинамических процессов с учетом геологических и геоморфологиче‑
+ских условий развития. Объединение таксонов с близкими величинами позволило 
+построить карту – схему, включающую четыре зоны с различной интенсивностью 
+геоэкологической нагрузки. Особо выделяется зона с регрессивным проявлением 
+воздействия, где уровень геоэкологической нагрузки значительно возрастает в ре‑
+зультате одновременного воздействия геологических факторов различной природы.
+
+Литература
+1. Абалаков А. Д. Экологическая геология. – Иркутск: Изд‑во Иркутского гос. ун‑та, 
+
+2007. – С. 28‑32.
+2. Безверхний В. А. О 100 тысячелетней ритмичности в геодинамике и палеоклимате. 
+
+// Институт физики атмосферы им. А. М. Обухова РАН. – 2019. – № 3. – С. 117‑125.
+3. Вернадский В. И. Биосфера. – М.: Мысль, 1967. – 227 с.
+4. Гольцман Ф. М. Комплексирование наблюдений при распознавании геофизических 
+
+объектов. // Физика Земли. – 1976. – № 7. – С. 40‑54.
+5. Гольцман Ф. М. Информационная содержательность эксперимента и учет корреля‑
+
+ции нечисловых признаков при распознавании геофизических объектов. // Физика Земли. 
+– 1980. – № 10. – С. 71‑85.
+
+6. Спивак А. А., Кишкина С. Б. Исследование микросейсмического фона с целью 
+определения активных тектонических структур и геодинамических характеристик среды. 
+// Физика Земли. ‒ 2004. ‒ № 7. ‒ С. 35‑49.
+
+
+
+92 Geology and Geophysics of Russian South 11 (1) 2021 Геология и геофизика Юга России
+
+7. Шемпелев А. Г. Результаты глубинных геофизических исследований вдоль Генал‑
+донского профиля. // Труды Международной научно‑практической конференции. Влади‑
+кавказ. – 2007. – С. 457‑463.
+
+8. Шемпелев А. Г., Кухмазов С. У., Чотчаев Х. О., Невский Л. Н. Структура Большого 
+Кавказа – результат пологого надвига земной коры Скифской плиты на консолидирован‑
+ную кору микроплит южного Кавказа. // Геология и геофизика юга России. – 2015. – № 4. 
+– С. 129‑145.
+
+9. Несмеянов С. А., Боголюбова Н. П., Воейкова О. А., Миндель И. Г. Активные раз‑
+рывы и разрывный крип на горной части трассы магистрального трубопровода «Голубой 
+поток». // Геоэкология. – 2003. – № 5. – С. 387‑404.
+
+10. Пхарое Б. Л., Евдокимов А. Н. Состав и реконструкция источников сноса терриген‑
+ных отложений на северо‑западе ЮАР. // Геология и геофизика Юга России. – 2020. – Т. 10. 
+№ 4. – С. 124‑149. DOI: 10.46698/VNC. 2020.48.31.008.
+
+11. Чотчаев Х. О., Бурдзиева О. Г., Заалишвили В. Б. Влияние геодинамических процес‑
+сов на геоэкологическое состояние высокогорных территорий. // Геология и геофизика Юга 
+России. – 2020. – Т. 10. № 4. – С. 70‑100.
+
+12. Яроцкий Г. П., Чотчаев Х. О. Тектоническая предопределенность Хаилинского зем‑
+летрясенния на Юго‑Западе Корякского нагорья. // Геология и геофизика Юга России. – 
+2016. – № 4. – С. 129‑140.
+
+13. Cesnulevicius A. Relief dynamic state of urban territories and tendency of its development. 
+// 6Th International Conference Environmental Engineering. – 2005. – Vol. 1‑2. – pp. 63‑68.
+
+14. Dill H. G. Facies variation and mineralization in central‑Europe from the late Paleozoic 
+through the Cenozoic. // Economic Geology and the Bulletin of the Society of Economic 
+Geologists. – 1994. – Vol. 89 (2). – pp. 268‑287. https://doi. org/10.2113/gsecongeo. 89.2.268
+
+15. Folguera A., Ramos V. A., Hermanns R. L., Naranjo J. A. Neotectonics in the foothills of 
+the southernmost central Andes (37–38S): evidence of strike – slip displacement along the Atinir 
+Copahue fault zone. // Tectonics. – 2004. – No. 23. doi:10.1029/2003TC001533.
+
+16. Gentili R., Armiraglio S., Rossi G., Sgorbati S., & Baroni C. Floristic patterns, ecological 
+gradients and biodiversity in the composite channels (Central Alps, Italy). // Flora. – 2010. – Vol. 
+205 (6). – pp. 388‑398. https://doi. org/10.1016/j. flora. 2009.12.013
+
+17. Guzzetti F., Carrara A., Cardinali M., & Reichenbach P. Landslide hazard evaluation: 
+a review of current techniques and their application in a multi‑scale study. // Central Italy. 
+Geomorphology. – 1999. – Vol. 31 (1–4). – pp. 181‑216; 1787, 2014.
+
+18. Hilley G. E., Coutand I. Links between topography, erosion, rheological heterogeneity, 
+and deformation in contractional settings: Insights from the central Andes. // Tectonophysics. – 
+2010. – Vol. 495 (1‑2). – pp. 78‑92. https://doi. org/10.1016/j. tecto. 2009.06.017
+
+19. Masek J. G., Isacks B. L., Gubbels T. L., Fielding E. J. Erosion and tectonics at the margins 
+of continental plateaus. // Journal of Geophysical Research. – 1994. – Vol. 99. – pp. 13941‑13956.
+
+20. Newsome D., Moore S. A., & Dowling R. K. Natural area tourism: Ecology, impacts and 
+management (2nd ed.). – Bristol: Channel View Publications, 2013.
+
+21. Persaud M., Pfiffner O. A. Active deformation in the eastern Swiss Alps: post‑glacial 
+faults, seismicity and surface uplift. // Tectonophysics. – 2004. – Vol. 385. – pp. 59‑84.
+
+22. Pope N., Harris T. B., & Rajakaruna N. Vascular plants of adjacent serpentine and granite 
+outcrops on the Deer Isles, Maine, USA. // Rhodora. – 2010. – Vol. 112 (950). – pp. 105‑141
+
+23. Sobel E. R., Strecker M. R. Uplift, exhumation, and precipitation: tectonics and climatic 
+control of Late Cenozoic landscape evolution in the northern Sierras Pampeanas, Argentina. // 
+Basin Research. – 2003. – No. 15.
+
+24. Varga A., Ujvari G., Raucsik B. Tectonic versus climatic control on the evolution of a 
+loess‑paleosol sequence at Beremend, Hungary: An integrated approach based on paleoecological, 
+clay mineralogical, and geochemical data. // Quaternary International. – 2011. – Vol. 240 (1). – 
+pp. 71‑86. https://doi. org/10.1016/j. quaint. 2010.10.032
+
+
+
+Geology and Geophysics of Russian South  11 (1) 2021 Геология и геофизика Юга России 93
+
+25. Yang, X. P., & Eitel, B. Understanding the Interactions between Climate Change, 
+Landscape Evolution, Surface Processes and Tectonics in the Earth System: What Can the Studies 
+of Chinese Deserts Contribute? [Article]. // Acta Geologica Sinica‑English Edition. – 2016. – Vol. 
+90 (4). – pp. 1444‑1454. https://doi. org/10.1111/1755‑6724.12778
+
+26. Zaalishvili V. B., Pinar A., Erdik M., Burdzieva O. G., Melkov D. A. Issues of seismic risk 
+assessment of Vladikavkaz city. // Geology and Geophysics of Russian South. – 2020a. – Vol. 10 
+(3). – pp. 94‑113. DOI: 10.46698/VNC. 2020.47.51.006.
+
+27. Zaalishvili V. B., Kanukov A. S., Fidarova M. I. GIS‑technologies in geophysical 
+information databases processing. // IOP Conference Series: Materials Science and Engineering. 
+913. – 2020b. – pp. 052050. doi:10.1088/1757‑899X/913/5/052050
+
+References
+1. Abalakov A. D. Environmental geology. Irkutsk. Publishing house of the Irkutsk state 
+
+University, 2007. pp. 28‑32. (In Russ.)
+2. Bezverkhnii V. A. About 100 thousand‑year rhythm in geodynamics and paleoclimate. 
+
+Institute of Atmospheric Physics after A. M. Obukhov RAS. 2019. No. 3. pp. 117‑125. (In Russ.)
+3. Vernadskii V. I. Biosphere. Moscow. Mysl’, 1967. 227 p. (In Russ.)
+4. Gol’tsman F. M. Integration of observations in ther ecognition of geophysical objects. 
+
+Physics of the Earth. 1976. No 7. pp. 40‑54. (In Russ.)
+5. Gol’tsman F. M. Information content of the experiment and taking in to account the 
+
+correlation of non‑numerical features in there cognition of geophysical objects. Physics of the 
+Earth. 1980. No. 10. pp. 71‑85. (In Russ.)
+
+6. Spivak A. A., Kishkina S. B. Study of the microseismic background in order to determine 
+the active tectonic structures and geodynamic characteristics of the environment. Physics of the 
+Earth. 2004. No. 7. pp. 35‑49. (In Russ.)
+
+7. Shempelev A. G. Results of deep geophysical surveys along the Genaldon profile. In: 
+Proceedings of the International Scientific and Practical Conference. Vladikavkaz. 2007. pp. 
+457‑463. (In Russ.)
+
+8. Shempelev A. G., Kukhmazov S. U., Chotchaev Kh. O., Nevskii L. N. The structure of the 
+Greater Caucasus is the result of a low‑angle overthrust of the earth’s crust of the Scythian plate 
+onto the consolidated crust of the microplates of the South Caucasus. Geology and Geophysics of 
+Russian South. 2015. No. 4. pp. 129‑145. (In Russ.)
+
+9. Nesmeyanov S. A., Bogolyubova N. P., Voeikova O. A., Mindel’ I. G. Active faults and 
+ruptural creep on the mountainous part of the Blue Stream trunk pipeline. Geoecology. 2003. No. 
+5. pp. 387‑404. (In Russ.)
+
+10. Pkharoe B. L., Evdokimov A. N. Composition and reconstruction of drift sources for 
+terrigenous deposits in the north‑west of South Africa. Geology and Geophysics of Russian South. 
+2020. Vol. 10. No. 4. pp. 124‑149. DOI: 10.46698 / VNC. 2020.48.31.008. (In Russ.)
+
+11. Chotchaev Kh. O., Burdzieva O. G., Zaalishvili V. B. The influence of geodynamic 
+processes on the geoecological state of high‑mountainous territories. Geology and Geophysics of 
+Russian South. 2020. Vol. 10. No. 4. pp. 70‑100. (In Russ.)
+
+12. Yarotskii G. P., Chotchaev Kh. O. Tectonic predetermination of the Khailin earthquake in 
+the Southwest of the Koryak Upland. Geology and Geophysics of Russian South. 2016. No. 4. 
+pp. 129‑140. (In Russ.)
+
+13. Cesnulevicius A. Relief dynamic state of urban territories and tendency of its development. 
+6th International Conference Environmental Engineering. 2005. Vol. 1‑2. pp. 63‑68.
+
+14. Dill H. G. Facies variation and mineralization in central‑Europe from the late Paleozoic 
+through the Cenozoic. Economic Geology and the Bulletin of the Society of Economic Geologists. 
+1994. Vol. 89 (2). pp. 268‑287. https://doi. org/10.2113/gsecongeo. 89.2.268
+
+15. Folguera A., Ramos V. A., Hermanns R. L., Naranjo J. A. Neotectonics in the foothills of 
+the southernmost central Andes (37–38S): evidence of strike – slip displacement along the Atinir 
+Copahue fault zone. Tectonics. 2004. No. 23. doi:10.1029/2003TC001533.
+
+
+
+94 Geology and Geophysics of Russian South 11 (1) 2021 Геология и геофизика Юга России
+
+16. Gentili R., Armiraglio S., Rossi G., Sgorbati S., & Baroni C. Floristic patterns, ecological 
+gradients and biodiversity in the composite channels (Central Alps, Italy). Flora. 2010. Vol. 205 
+(6). pp. 388‑398. https://doi. org/10.1016/j. flora. 2009.12.013
+
+17. Guzzetti F., Carrara A., Cardinali M., Reichenbach P. Landslide hazard evaluation: a review 
+of current techniques and their application in a multi‑scale study. Central Italy. Geomorphology. 
+1999. Vol. 31 (1‑4). pp. 181‑216; 1787, 2014.
+
+18. Hilley G. E., Coutand I. Links between topography, erosion, rheological heterogeneity, 
+and deformation in contractional settings: Insights from the central Andes. Tectonophysics. 2010. 
+Vol. 495 (1‑2). pp. 78‑92. https://doi. org/10.1016/j. tecto. 2009.06.017
+
+19. Masek J. G., Isacks B. L., Gubbels T. L., Fielding E. J. Erosion and tectonics at the margins 
+of continental plateaus. Journal of Geophysical Research. 1994. Vol. 99. pp. 13941‑13956.
+
+20. Newsome D., Moore S. A., & Dowling R. K. Natural area tourism: Ecology, impacts and 
+management (2nd ed.). – Bristol: Channel View Publications, 2013.
+
+21. Persaud M., Pfiffner O. A. Active deformation in the eastern Swiss Alps: post‑glacial 
+faults, seismicity and surface uplift. Tectonophysics. 2004. Vol. 385. pp. 59‑84.
+
+22. Pope N., Harris T. B., Rajakaruna N. Vascular plants of adjacent serpentine and granite 
+outcrops on the Deer Isles, Maine, USA. Rhodora. 2010. Vol. 112 (950). pp. 105‑141
+
+23. Sobel E. R., Strecker M. R. Uplift, exhumation, and precipitation: tectonics and climatic 
+control of Late Cenozoic landscape evolution in the northern Sierras Pampeanas, Argentina. 
+Basin Research. 2003. No. 15.
+
+24. Varga A., Ujvari G., Raucsik B/ Tectonic versus climatic control on the evolution of a 
+loess‑paleosol sequence at Beremend, Hungary: An integrated approach based on paleoecological, 
+clay mineralogical, and geochemical data. Quaternary International. 2011. Vol. 240 (1). pp. 71‑86. 
+https://doi. org/10.1016/j. quaint. 2010.10.032
+
+25. Yang, X. P., Eitel, B. Understanding the Interactions between Climate Change, Landscape 
+Evolution, Surface Processes and Tectonics in the Earth System: What Can the Studies of Chinese 
+Deserts Contribute? [Article]. Acta GeologicaSinica‑English Edition. 2016. Vol. 90 (4). pp. 
+1444‑1454. https://doi. org/10.1111/1755‑6724.12778
+
+26. Zaalishvili V. B., Pinar A., Erdik M., Burdzieva O. G., Melkov D. A. Issues of seismic risk 
+assessment of Vladikavkaz city. Geology and Geophysics of Russian South. 2020a. Vol. 10 (3). 
+pp. 94‑113. DOI: 10.46698/VNC. 2020.47.51.006.
+
+27. Zaalishvili V. B., Kanukov A. S., Fidarova M. I. GIS‑technologies in geophysical 
+information databases processing. IOP Conference Series: Materials Science and Engineering. 
+913. 2020b. pp. 052050. doi:10.1088/1757‑899X/913/5/052050

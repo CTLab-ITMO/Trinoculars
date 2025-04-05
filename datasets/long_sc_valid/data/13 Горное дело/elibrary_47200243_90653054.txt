@@ -1,0 +1,572 @@
+﻿Innovative technologies
+
+Оригинальная статья / Original Paper
+
+Кузбасский государственный технический университет им. Т.Ф. Горбачева, г. Кемерово, Российская Федерация
+ ddm.tm@kuzstu.ru
+
+Резюме:  С целью получения информации о формируемых текущих траекториях беспилотных карьерных самосвалов в 
+программно-аппаратных комплексах автоматизированной системы диспетчеризации, установленной на борту автоном-
+ных тяжелых платформ, текущим траекториям платформ ставятся в соответствие одномерные (скалярные) непрерыв-
+ные сигналы (далее преобразуемые в дискретные цифровые) с время-зависимой мгновенной частотой, так называемые 
+чирп-сигналы. В качестве рабочего инструмента для проведения вычислительных процедур в программно-аппаратном 
+модуле выбрано распределение Вигнера-Вилле. В основу данного распределения положены вейвлет-функции бази-
+са Габора и алгоритм вейвлет-поиска соответствия. Выбор вейвлетов Габора объясняется их синусоидально-подобной 
+формой, поскольку они представляют собой промодулированные окном Гаусса синусоидальные сигналы. Анализи-
+руемые 1D-сигналы, свидетельствующие о текущем положении автономных тяжелых платформ на маршруте, также 
+являются синусоидально-подобными. Полученный в результате аппроксимации вейвлет-ряд далее преобразуется во 
+время-частотное распределение Вигнера, по которому формируется соответствующая текущих траекторий. В качестве 
+примера приведены реконструкции время-частотных распределений, соответствующие отклонению текущих траекто-
+рий влево и вправо от номинальной осевой траектории. На основании полученных результатов приводятся выводы о 
+том, что наиболее целесообразными способами для осуществления мониторинга текущих траекторий движения авто-
+номных тяжелых платформ и процедурами обработки соответствующих сигналов являются операции, реализуемые в 
+автоматизированных подсистемах внешнего и автономного управления и базирующиеся на таких понятиях, как вей-
+влет-распределения класса Коэна, избыточный словарь вейвлет-функций Габора, алгоритм вейвлет-поиска соответствия 
+и отображение чирп-сигналов, а также стационарных по частоте сигналов о текущих траекториях автономных тяже-
+лых платформ, представленных в вейвлет-среде. Представленные процедуры реализации текущего мониторинга пере-
+мещения автономных тяжелых платформ по карьерным маршрутам и процесса обработки сигналов о динамическом 
+изменении текущих траекторий, заложенные в программно-аппаратные комплексы подсистем автономного и внешнего 
+управления системы «Умный карьер», обеспечивают адекватное выполнение требуемых функций. Внедрение принципов 
+автоматизированного управления беспилотными карьерными транспортными средствами позволяет оптимизировать 
+трудозатраты на эксплуатацию горного оборудования, снижать расходы на текущие работы, привлекать высококвали-
+фицированных специалистов для освоения и рабочей эксплуатации инновационной транспортной техники.
+Ключевые слова: автономные тяжелые платформы, текущие траектории, вейвлеты Габора, алгоритм вейвлет-поиска 
+соответствия, чирп-сигналы, распределения класса Коэна
+Благодарности: Работа выполнена при финансовой поддержке Министерства науки и высшего образования Российской 
+Федерации в рамках соглашения № 075-11-2019-034 от 22.11.2019 г. с ПАО «КАМАЗ» по комплексному проекту «Разработка 
+и создание высокотехнологичного производства автономных тяжелых платформ для безлюдной добычи полезных иско-
+паемых в системе “Умный карьер”», при участии ФГБОУ ВО «Кузбасский государственный технический университет имени 
+Т.Ф. Горбачева» в части выполнения научно-исследовательских, опытно-конструкторских и технологических работ.
+Авторы выражают благодарность сотрудникам института информационных технологий, машиностроения и автотран-
+спорта ФГБОУ ВО «Кузбасский государственный технический университет имени Т.Ф. Горбачева» за содействие в разме-
+щении рукописи статьи в редакции журнала.
+Для цитирования: Чичерин И.В., Федосенков Б.А., Дубинкин Д.М. Мониторинг текущих траекторий перемещения ав-
+тономных тяжёлых платформ по карьерным маршрутам горнорудных предприятий. Горная промышленность. 2021;(5): 
+76–83. DOI: 10.30686/1609-9192-2021-5-76-83.
+
+T.F. Gorbachev Kuzbass State Technical University, Kemerovo, Russian Federation
+ ddm.tm@kuzstu.ru
+
+Abstract:  In order to obtain information about the generated current trajectories (CT) of unmanned mining dump trucks, in the 
+software and hardware complexes of the computer-aided dispatching system (in the external control subsystem   and the auton-
+omous control subsystem) installed on-board of an (AHP), one-dimensional (scalar) continuous signals (hereinafter converted 
+
+76 | «Горная Промышленность» №5 / 2021
+
+
+
+Innovative technologies
+into discrete digital ones) with a time-dependent instantaneous frequency, the so-called chirp signals, are put in accordance with 
+the current trajectories of the AHP. This approach makes it possible to continuously monitor and manage the dynamics of current 
+AHP trajectories with a high degree of efficiency. Note that for the purpose of information-rich and semantically transparent rep-
+resentation of information about the current state of the AHP CT, the chirp signals of the CT are converted into multidimensional 
+Cohen’s class time-frequency wavelet distributions. The Wigner-Ville distribution (hereinafter referred to as the Wigner distribu-
+tion) is selected as a working tool for performing computational procedures in the hardware / software module. This distribution 
+is based on the Gabor basis wavelet functions and the wavelet matching pursuit algorithm. The choice of Gabor wavelets as the 
+main ones is explained by their sinusoidal-like shape, since they are sinusoidal signals modulated by the Gauss window. On the 
+other hand, the analyzed 1D-signals indicating the current position of the AHP on the route are also sinusoidal-like. This makes it 
+possible to approximate current signals with high accuracy based on their comparison with the wavelet functions selected from 
+the redundant wavelet dictionary. This approximation is adaptive, since it is performed on separate local fragments of the signal 
+analyzed depending on approximating wavelets. This is the essence of the wavelet matching pursuit algorithm. The resulting 
+wavelet series is then transformed into the Wigner time-frequency distribution, which is used to form a corresponding CT. As an 
+example, reconstructions of time-frequency distributions (TFD) are given, corresponding to the deviation of a certain CT to the 
+left (the trajectory signal decreases exponentially) and to the right (the CT-signal increases) from the nominal axial trajectory 
+(NAT). The calculated scalar signal and its TFD for the AHP CT deviating to the left from NAT are also presented. In addition, on 
+the basis of theoretical explanations the calculated linear-increasing TFD is demonstrated, corresponding to the CT-deviation to 
+the right from NAT, and the time invariant stationary TFD characterizing the movement of AHP along the NAT line. In conclusion, 
+based on the results obtained, it is concluded that the most appropriate ways to monitor the current trajectories of AHP move-
+ment and procedures for processing the corresponding signals are the operations implemented in computer-aided subsystems 
+of external and autonomous control and based on such concepts as the Cohen’s class wavelet distributions, Gabor redundant 
+dictionary of wavelet functions, the wavelet matching pursuit algorithm, and the representation of technological chirp-signals, 
+as well as frequency-stationary signals about the current AHP trajectories represented in the wavelet medium. In this connec-
+tion, the authors concluded that the procedures realizing the current monitoring of AHP movement on open pit mine   routes and 
+implementing the process of analyzing a relevant dynamic change in current trajectories, described in the article and embedded 
+in software and hardware autonomous and external control subsystems of “Smart quarry” are adequate for performing required 
+functions. The introduction of the principles of computer-aided controlling the unmanned mining vehicles allows you to opti-
+mize labor costs for the operation of mining equipment, reduce the cost of current work, and attract highly qualified specialists 
+for the development and operation of innovative transport equipment. 
+Keywords: autonomous heavy platforms, current trajectories, Gabor wavelets, wavelet matching pursuit algorithm, chirp signals, 
+Cohen’s class distributions
+Acknowledgments: The work was financially supported by the Ministry of Science and Higher Education of the Russian 
+Federation under Agreement No. 075-11-2019-034 dated 22.11.2019 with KAMAZ PTC on the ‘Development and creation of high-
+tech production of autonomous heavy platforms for unmanned mining operations within the Smart Open-Pit system’ Integrated 
+Project with the participation of the T.F. Gorbachev Kuzbass State Technical University with respect to research, development and 
+technological activities.
+The authors express their gratitude to the staff of the T.F. Gorbachev Kuzbass State Technical University (Institute of Information 
+Technologies, Mechanical Engineering, and Motor Transport) in promoting to place the article manuscript in the periodical 
+editorial office.
+For citation: Shestakov K.I., Sokolov I.M., Pirogov M.A., Solovyov S.G. Monitoring the current trajectories of autonomous 
+heavy platforms moving along the quarry routes of mining enterprises. Gornaya promyshlennost = Russian Mining Industry. 
+2021;(5):76–83. (In Russ.) DOI: 10.30686/1609-9192-2021-5-76-83.
+
+Введение автоматизации для движущихся по дорогам общего поль-
+В ранее опубликованных исследованиях по автономным зования транспортных средств [9]; методологии, проекти-
+
+транспортным средствам (в том числе и по беспилотным рования, разработки логических основ искусственного 
+карьерным самосвалам) были проанализированы вопро- интеллекта для систем управления движением БТС [10; 11] 
+сы: формирования маршрутных параметров и моделей и исследования возможностей технического зрения для 
+перемещения карьерных автономных тяжелых платформ беспилотных автомобилей [12]. 
+(АТП), сформулированные в рамках интегративной си- Вопросы, проанализированные в этих проектах, будучи 
+стемы управления «Умным карьером» [1]; мониторинга приложенными к горнорудным предприятиям, иницииру-
+окружающей среды с помощью наземных колесных транс- ют приток высококвалифицированной рабочей силы, спо-
+портных модулей [2]; современного состояния техники и собной внедрять и обслуживать инновационную технику, 
+технологий в области автономного управления движени- требующую знаний и умений нового уровня: информа-
+ем транспортных средств на горнорудных карьерах [3; 4]; ционных технологий и автоматизации на базе цифровой 
+повышения технических характеристик карьерных само- электроники и компьютерно-интегрированных систем, 
+свалов [5]; наблюдения за окружающей обстановкой при широкой цифровизации административно-хозяйственных 
+движении беспилотных транспортных средств (БТС) [6]; комплексов. Такого рода технологии широко применяются 
+интеллектуализации БТС [7]; теории, алгоритмизации и в том числе и при разработке проектов, связанных с созда-
+реализации технологических процедур в программно-ап- нием беспилотной, автономной горранспортной техники, 
+паратном комплексе интеллектуальных БТС [8]; система- предназначенной для работы в системах безлюдной техно-
+тизации и выработки терминологии относительно систем логии. 
+
+«Горная Промышленность» №5 / 2021 | 77
+
+
+
+Innovative technologies
+В представленном исследовании, в частности, рассмо- Концепция текущего мониторинга 
+
+трены принципы управления передвижением АТП по траекторий АТП
+прямым и искривлённым технологическим маршрутам, С целью информативно-полной и семантически-про-
+заданным в так называемом формате сплайн-фреймов – зрачной обработки сигналов в программно-аппаратных 
+S-фреймов [1]. комплексах подсистем автономного и внешнего управ-
+
+На рис. 1 схематично изображены на прямом S-фрейме ления [1], в программные комплексы последних введены 
+две девиационные текущие траектории с указанием пря- фрагменты, обеспечивающие формирование так называе-
+мых (отклоняющихся от номинальной осевой траектории мых вейвлет-функций [13; 14] и квадратичных вейвлет-рас-
+– НОТ) и обратных (возвращающихся к НОТ) текущих тра- пределений класса Коэна [15; 16].
+екторий (ТТ). В программно-аппаратном комплексе, входя- На рис. 2 представлен вид-реконструкция вейвлет-кар-
+щем в состав автоматизированной системы диспетчериза- ты (W-карты, карты Вигнера) [17; 18], на которой в форма-
+ции, прямым и обратным переходным процессам ставятся те время-частотных распределений Вигнера изображен 
+в соответствие одномерные (скалярные) информационные сигнал ухода ТТ АТП влево от НОТ, а на рис. 3 – сигнал от-
+чирп-сигналы [13], [2] то есть сигналы x(t) с время-зависи- клонения ТТ АТП вправо. При этом девиации ТТ влево от 
+мой частотой. НОТ соответствует задаваемое в программно-аппаратном 
+
+Через x(t)l и x(t)r обозначим обобщенную координату комплексе АСД снижение частоты сигнала обобщенной 
+движения АТП при девиации траектории соответственно переменной x(t)l, а девиации ТТ вправо от НОТ – повыше-
+влево и вправо от номинальной осевой траектории по ходу ние частоты сигнала x(t)r. На рис. 2 и 3 моменты l и r соот-
+движения. ветствуют началу девиации ТТ АТП влево / вправо от НОТ 
+
+под действием автономно-спорадических возмущений, 
+вызываемых возникновением на маршруте АТП каких-ли-
+бо препятствий.
+
+Рис. 1 Fig. 1
+Схема возникновения Diagram of occurrence of Рис. 2 Fig. 2
+возмущенных прямых disturbed forward (deviation) Карта Вигнера, отображающая Wigner map displaying 
+(девиационных) и and formation of reverse в вейвлет-среде стационарный stationary signal and non-
+формирования обратных recovery paths of AHP on сигнал и нестационарный с stationary with a decreasing 
+восстанавливающих траекторий the direct section of S-frame понижающейся частотой, frequency, corresponding to 
+АТП на прямом участке of some route when TT leave соответствующий уходу ТТ АТП the AHP CT moving to the 
+S-фрейма некоторого маршрута to the left and right of the влево от НОТ left of the NAT
+при уходе ТТ влево и вправо от NAT:
+НОТ: АТП – autonomous heavy 
+АТП – автономная тяжелая platform (AHP); LSF – Local 
+платформа; LSF (Local Spline Spline Frame; LSSF – Local Распределение Вигнера, определяющее в нашем иссле-
+Frame) – локальный S-фрейм; Sub-Spline Frame; НОТ – довании, является многомерно-квадратичным и имеет вид 
+LSSF (Local Sub-Spline Frame) – nominal axial trajectory интегральной функции:
+локальный суб-S-фрейм; (NAT) of AHP; LFTP / RFTP 
+НОТ – номинальная осевая (Left Forward Transient 
+траектория движения АТП; Process / Right Forward 
+LFTP / RFTP (Left Forward Transient Process) – the 
+Transient Process / Right Forward forward transient processes Отсюда видно, что распределение Вигнера представляет 
+Transient Process) – of the current AHP trajectory собой взаимно-корреляционную функцию сигнала с вре-
+соответственно прямые deviation to the left / right мя-частотным атомом (вейвлет-функцией) из определен-
+переходные процессы девиации from the NAT, respectively; ной совокупности (вейвлет-тезауруса, или словаря) при 
+текущей траектории движения LRTP / RRTP (Left Reverse его временном и частотном смещении относительно этих 
+АТП влево / вправо от НОТ; Transient Process / Right 
+LRTP / RRTP (Left Reverse Reverse Transient Process) – атомов. Таким образом, функция распределения Вигнера 
+Transient Process / Right Reverse the reverse transient является двумерной или даже трехмерной функцией, по-
+Transient Process) – processes of the NAT скольку интенсивность сигнала (значение взаимно-кор-
+соответственно обратные recovery in case of the реляционной функции) в двумерной время-частотной 
+переходные процессы current AHP trajectory (ТТ / плоскости может быть охарактеризована как третья коор-
+восстановления НОТ при CT) deviation to the left / 
+девиации текущей траектории right from the NAT, дината. Следовательно, функция распределения Вигнера 
+(ТТ) движения АТП влево / respectively характеризует распределение плотности энергии (интен-
+вправо от НОТ сивности) сигнала.
+
+78 | «Горная Промышленность» №5 / 2021
+
+
+
+Innovative technologies
+вейвлет-отображения стационарного по частоте f сигна-
+ла. Подобная процедура реализуется и для сигнала, соот-
+ветствующего уходу ТТ влево от НОТ (см. рис. 2).
+
+Процедуры обработки сигналов 
+о текущих траекториях АТП
+
+Визуально-графическое отображение технологического 
+сигнала, характеризующего динамику ТТ АТП на марш-
+руте, формируется в многомерной вейвлет-среде, что по-
+зволяет информационно ёмко и семантически прозрачно 
+представлять перемещение АТП в карьере.
+
+Для того чтобы отслеживать движение АТП по текущим 
+траекториям, предложен способ соответствия специфиче-
+ского 1D-информационного сигнала с время-зависимой 
+
+Рис. 3 Fig. 3 мгновенной частотой – чирп-сигнала – процессу форми-
+Карта Вигнера, отображающая Wigner map displaying the рования ТТ.
+в вейвлет-среде стационарный stationary signal and non- Так, процессу отклонения ТТ от НОТ влево ставится в 
+сигнал и нестационарный с stationary with an increasing соответствие экспоненциальный чирп-сигнал с уменьша-
+повышающейся частотой, frequency, corresponding to ющейся частотой, а процессу отклонения ТТ от НОТ впра-
+соответствующий уходу ТТ АТП the AHP CT departure to the 
+вправо от НОТ right of the NAT во – экспоненциальный сигнал с возрастающей частотой. 
+
+При этом начальный участок ТТ, обусловленный её деви-
+ацией от НОТ вследствие наличия (обнаружения радар-
+но-лидарно-сонарной системой) какого-либо препятствия 
+
+Время-частотный атом-аппроксимант – вещественный или встречной АТП на маршруте, описывается двухэкспо-
+вектор, имеющий вид: ненциальной зависимостью вида (см. рис. 3):
+
+x(t) = k  [1 – (T3 / (T3 – T4)) (exp(–t /T3) + (T4 / (T–t /T3 – T4)) 
+(exp(–t /T4)].
+
+Этот участок ТТ именуется автономно-спорадическим, 
+где K  задает единичную норму вектора I [n], а началь- поскольку определяется случайными, возникающими вре-
+
+ная фаза  оптимизируется так, чтобы максимизировать мя от времени, внешними возмущениями.
+скалярное произведение атома с остатком сигнала. Конечный участок ТТ формируется принудительно (на-
+
+пример, под действием динамического модального регу-
+лятора [22]; в этом случае его уместно именовать прину-
+дительно-модальным). Таким образом, принудительное 
+техническое средство устраняет возникшую на начальном 
+автономно-спорадическом участке ТТ девиацию её от НОТ, 
+приводя ТТ к номинальной осевой траектории. Конечный 
+участок ТТ может характеризоваться как двухэкспоненци-
+альным сигналом, так и одноэкспоненциальным (см. рис. 2): 
+
+x(t) = k  [1 – (exp(–t / T)],
+
+Рис. 4 Fig. 4 где T3, T4, T, k , k  – соответственно постоянные времени 
+Переходные процессы в Transient processes in one- сигнала начального участка ТТ и конечного; k  и k  – ко-
+одномерном формате и в виде dimensional format and in the эффициенты передачи для сигнала, соответствующего на-
+отображения Вигнера, form of Wigner чальному и конечному участкам ТТ.
+соответствующие отклонению representation, corresponding При отображении чирп-сигналов в вейвлет-среде ис-
+ТТ АТП от НОТ влево to the AHP CT deviation from пользуются квадратичные вейвлет-распределения класса 
+
+the NAT to the left
+Коэна. В наших исследованиях в качестве рабочего ин-
+струмента применяется вейвлет-распределение Вигнера, в 
+
+На рис. 4 слева показан переходный процесс, соответ- качестве вспомогательного (настроечного) – вейвлет-рас-
+ствующий девиации ТТ АТП влево от НОТ в 1D-формате; пределение Чуи-Уилльямса. 
+кроме того, здесь же представлены реконструированные Для преобразования 1D-чирп-сигналов в вейвлет-рас-
+по алгоритму вейвлет-поиска соответствия (ВПС) [13; 18; 19] пределения в работе используется адаптивная аппрокси-
+сигнал, а также ошибка аппроксимации сигнала. Справа мация на базе алгоритма вейвлет-поиска соответствия. В 
+представлено многомерное отображение того же сигнала качестве базисных вейвлет-функций используются вей-
+в виде распределения Вигнера. влеты в составе избыточного словаря [13; 18], в котором, 
+
+Характер 1D-сигнала ТТ, девиирующей вправо от НОТ помимо вейвлетов Габора, содержатся вейвлеты из базисов 
+(рис. 3), определяется апериодикой 2-го порядка и сформи- Хевисайда, Гаусса, Дирака и Фурье. 
+рован из отдельных время-частотных атомов (ВЧА) [20; 21] При этом габоровская вейвлет-фукция, представляющая 
+в соответствии с алгоритмом вейвлет-поиска соответствия. собой модулированную функцией Гаусса (с конечным но-
+
+По параметрам отображения такого нестационарного сителем) гармоническую структуру, имеет вид:
+процесса определяются параметры предстоящего режима, 
+режима динамического модального управления, возвра- ,
+щающего ТТ к НОТ. Кроме того, здесь же приведена форма 
+
+«Горная Промышленность» №5 / 2021 | 79
+
+
+
+Innovative technologies
+где g0(t)– модулирующая материнская вейвлет-функция руется эллипсообразно вдоль линии с частотой 0 + , 
+
+Гаусса;  и  – текущие частота и смещение;  – начальная являющейся производной фазы d[( 2 + 0)]/dt. При  
+фаза гармонического сигнала. (при единичной модуляции) получаем частотно-время- 
+
+Использование вейвлет-функций Габора в качестве ос- зависимый сигнал:
+новных продиктовано их синусоидально-подобной фор-
+мой. С учетом того что вейвлеты Габора представляют со- ,
+бой модулированные функцией Гаусса синусоидальные  
+сигналы, достижение критерия оптимального выбора из распределение Вигнера которого вырождается в дельта- 
+словаря соответствующего вейвлета (что соответствует функцию с наклоном  на время-частотной плоскости 
+оптимизации процедуры аппроксимации чирп-сигналов) (рис. 5, а):
+является достаточно очевидным и комфортным.
+
+Оптимизация процедуры аппроксимации определяется 
+максимизацией скалярного произведения:  .                                                     (1)
+
+Отсюда видно, что вся энергия локализуется вдоль мгно-
+ венной частоты ( 0). При =0 (и =0 ) энергия кон-
+
+где x(t) – аппроксимируемый фрагмент чирп-сигнала; центрируется вдоль горизонтальной линии на частоте 
+g(t  – выбираемая из словаря вейвлет-функция. При этом 0  = const (рис. 5, б):
+достижение указанного критерия обеспечивается варьи-
+рованием четырёх параметров вейвлета Габора: .                                                                      (2)
+
+–  – смещение вейвлета по оси времени t;  
+– s – масштаб вейвлета (величина поддержки вейвлета 
+
+на оси t);
+– (здесь обозначено через ) – частота вписанной в 
+
+функцию Гаусса синусоиды;
+–  – начальная фаза синусоиды.
+Пятый параметр – мгновенная амплитуда вейвлета – ис-
+
+ключается из списка варьируемых параметров, посколь-
+ку при проецировании анализируемого сигнала на вей-
+влет-словарь все отбираемые из него вейвлеты, так же, как 
+и анализируемые чирп-сигналы, нормализуются по ква-
+дратичной единичной норме: 
+
+где квадратичная норма сигнала есть расширенное по-
+нятие модуля на бесконечномерное пространство.
+
+При этом частота варьирования значений параметров 
+вейвлетов Габора возрастает от  к . Отметим, что значе-
+ния параметров , s,  содержатся в соответствующих раз-
+делах избыточного словаря Габора, а параметр  варьиру-
+ется вне словаря в диапазоне . 
+
+В результате аппроксимации определенного чирп-сиг-
+нала получаем его аппроксиманту в виде вейвлет-ряда
+
+где x(t)i – i-й анализируемый участок чирп-сигнала x(t); Рис. 5 Fig. 5
+Распределение Вигнера для: Wigner distribution for: 
+
+g (t Ii – вейвлет-функция Габора, выбранная на i-й ите- а – гармонического сигнала а – a harmonic signal with 
+рации и обладающая индексом параметров Ii = . с время-зависимой частотой; a time-dependent frequency; 
+
+Для вейвлет-сигналов словаря Габора вида б – гармонического сигнала б – a harmonic signal with 
+с постоянной частотой a constant frequency
+
+,
+ 
+
+т.е. сигналов, представляющих собой гармоники, мо- Фактическая расчетная дискретность и частотно-вре-
+дулированные функцией Гаусса, распределение Вигнера менной разброс отображения одномерного сигнала в виде 
+определяется как его представления в 2D-пространстве (МСД-карты, то есть 
+
+карты модифицированного сигнала динамики текущей 
+. траектории АТП) (рис. 6) объясняется спецификой алго-
+
+ ритма вейвлет-поиска соответствия, особенностями ис-
+При использовании словаря с вейвлет-функциями Га- пользуемых вейвлет-функций и исходной дискретностью 
+
+бора распределение Вигнера всегда положительно [13; 18]. анализируемых сигналов [18].
+Данное свойство позитивности распределения соответ- Сигналу, представленному на рис. 6, а, соответствует дви-
+ствует его семантической особенности – способности ото- жение АТП по девиационной текущей траектории с её от-
+бражать энергетическую плотность исследуемого сигнала. клонением вправо от НОТ, а сигналу на рис. 6, б – движение 
+Если коэффициент – мал, то энергия сигнала концентри- АТП по номинальной осевой траектории. 
+
+80 | «Горная Промышленность» №5 / 2021
+
+
+
+Innovative technologies
+Заключение
+
+Описанные в исследовании способы мониторинга теку-
+щих траекторий движения АТП и процедуры обработки 
+соответствующих сигналов основаны на следующих поня-
+тиях и результатах: 
+
+1. вейвлет-распределения класса Коэна;
+2. избыточный словарь вейвлет-функций Габора;
+3. алгоритм вейвлет-поиска соответствия;
+4. отображения чирп-сигналов с линейно-возрастаю-
+
+щей частотой и стационарного по частоте сигнала 
+о текущих траекториях АТП, представленные в вей-
+влет-среде;
+
+5. исполнение на предварительном этапе обработки 
+сигналов процедур центрирования, дискретизации 
+и нормализации анализируемых сигналов о теку-
+щих траекториях АТП, а также отбираемых из сло-
+варя вейвлетов на каждой итерации определенных 
+вейвлет-функций.
+
+Представленные процедуры реализации текущего мо-
+ниторинга перемещения АТП по карьерным маршрутам и 
+процесса обработки сигналов о динамическом изменении 
+текущих траекторий, заложенные в программно-аппарат-
+ные комплексы подсистем автономного и внешнего управ-
+ления системы «Умный карьер», обеспечивают адекватное 
+
+Рис. 6 Fig. 6 выполнение требуемых функций. 
+Расчетные распределения Estimated Wigner Внедрение подобных структур автоматизации гор-
+Вигнера реальных сигналов distributions of real signals for 
+для случаев: the cases: нотранспортной техники в технологическое хозяйство 
+а – формула (1) и б – (2) а – formula (1) and б – (2) горнорудных предприятий, расположенных в горных ре-
+
+гионах, дает возможность привлекать квалифицирован-
+ных специалистов для внедрения и эксплуатации нового 
+высокотехнологичного оборудования, что, в свою очередь, 
+способствует формированию условий для перспективного 
+
+Заметим, что с целью адекватного выполнения проце- устойчивого социально-экономического развития горных 
+дур по проецированию текущих чирп-сигналов на словарь территорий. 
+вейвлет-функций на предварительном этапе обработки 
+чирп-сигналов последние подвергаются следующим опе- Конфликт интересов
+рациям: Авторы заявляют об отсутствии конфликта интересов.
+
+1. центрирования (исключения из сигналов постоян-
+ной составляющей); Conflict of interests 
+
+2. дискретизации (преобразования центрированных The authors state that there is no conflict of interest.
+сигналов посредством АЦП); 
+
+3. нормализации («выравнивания» мгновенных ам- Вклад авторов
+плитуд дискретизированных сигналов о ТТ движе- В написании статьи авторы приняли участие в равных 
+ния АТП, а также отбираемых вейвлет-функций из долях. 
+словаря, то есть приведения их к единичной норме 
+– см. выше). Contribution of authors
+
+The authors participated in writing the article in equal parts.
+
+Список литературы
+1. Чичерин И.В., Федосенков Б.А., Сыркин, И.С., Садовец В.Ю., Дубинкин Д.М. Концепция управления беспилотными транспортны-
+ми средствами в условиях открытых горных работ. Известия вузов. Горный журнал. 2020;(8):109–120. https://doi.org/10.21440/0536-
+1028-2020-8-109-120 
+2. Алешин Б.С., Черноморский А.И., Курис Э.Д. Наземные колесные транспортные модули для решения задач мониторинга окру-
+жающей среды горных территорий. Устойчивое развитие горных территорий. 2018;10(4):566–576. https://doi.org/10.21177/1998-
+4502-2018-10-4-566-576 
+3. Дубинкин Д.М. Обоснование необходимости создания тяжелых платформ для открытых горных работ. Горное оборудование и 
+электромеханика. 2020;(4):59–64. https://doi.org/10.26730/1816-4528-2020-4-59-64 
+4. Дубинкин Д.М. Современное состояние техники и технологий в области автономного управления движением транспортных 
+средств угольных карьеров. Горное оборудование и электромеханика. 2019;(6):8–15. https://doi.org/10.26730/1816-4528-2019-6-8-15 
+5. Voronov Yu., Voronov A., Grishin S., Bujankin A. Increasing the technical level of mining haul trucks. In: Tyulenev M., Zhironkin 
+
+«Горная Промышленность» №5 / 2021 | 81
+
+
+
+Innovative technologies
+S., Khoreshok A., Vöth S., Cehlár M., Nuray D. (eds) E3S Web of Conferences. The Second International Innovative Mining Symposium 
+(Devoted to Russian Federation Year of Environment), Kemerovo, November 20–22, 2017. 2017;21:03015. https://doi.org/10.1051/
+e3sconf/20172103015 
+6. Naranjo J.E., Clavijo M., Jimenez F., Gomez O., Rivera J.L., Anguita M. Autonomous vehicle for surveillance missions in off-road 
+environment. In: IEEE Intelligent Vehicles Symposium (IV), Gotenburg, Sweden, June 19–22, 2016. P. 98–103. https://doi.org/10.1109/
+IVS.2016.7535371 
+7. Nonami K., Kartidjo M., Yoon K.-J., Budiyono A. (eds) Autonomous Control Systems and Vehicles. Intelligent Unmanned Systems. 
+Springer; 2013. 315 p. https://doi.org/10.1007/978-4-431-54276-6 
+8. Cheng H. Autonomous Intelligent Vehicles. Theory, Algorithms, and Implementation. Springer-Verlag London; 2011. 154 p. https://doi.
+org/10.1007/978-1-4471-2280-7 
+9. Taxonomy and Definitions for Terms Related to Driving Automation Systems for OnRoad Motor Vehicles. SAE International in United 
+States; 2016. 30 p. https://doi.org/10.4271/j3016_201609 
+10. Шадрин С.С. Методология создания систем управления движением автономных колесных транспортных средств, инте-
+грированных в интеллектуальную транспортную среду: дис. … д-ра техн. наук: 05.05.03. М.; 2017. 400 с. 
+11. Shadrin S.S., Varlamov O.O., Ivanov A.M. Experimental autonomous road vehicle with logical artificial intelligence. Journal of 
+Advanced Transportation. 2017:2492765. https://doi.org/10.1155/2017/2492765 
+12. Saykin A.M., Buznikov S.E., Karpukhin K.E. The analysis of technical vision problems typical for driverless vehicles. Research Journal 
+of Pharmaceutical, Biological and Chemical Sciences. 2016;7(4):2053–2059. Available at: http://www.rjpbcs.com/pdf/2016_7(4)/[263].pdf 
+13. Mallat S. A wavelet tour of signal processing. 2nd ed. Academic Press, Springer; 1999. 664 p. Available at: https://www.elsevier.com/
+books/a-wavelet-tour-of-signal-processing/mallat/978-0-12-466606-1 
+14. Добеши И. Десять лекций по вейвлетам. Ижевск: НИЦ «Регулярная и хаотическая динамика», 2001. 464 с. 
+15. Auger F., Chassande-Mottin E. Quadratic time-frequency analysis I: Cohen’s class. In: Timef requency analysis: concepts and methods. 
+ISTE; 2008. P. 131–163.
+16. Fedosenkov D.B., Simikova A.A., Kulakov S.M., Fedosenkov B.A. Cohen's class time-frequency distributions for measurement signals as 
+a means of monitoring technological processes. Steel in Translation. 2019;49(4):252–256. https://doi.org/10.3103/S0967091219040065   
+17. Debnath L. Recent Developments in the Wigner-Ville Distribution and Time-Frequency Signal Analysis. PINSA. 2002;68(1):35–36.
+18. Федосенков Б.А., Федосенков Д.В. Автоматизированное управление смесеприготовительными процессами в вейвлет-среде. 
+Кемерово: Кемеровский технологический институт пищевой промышленности; 2015. 188 с.
+19. Mallat S, Zhang Z. Matching pursuits with time-frequency dictionaries. IEEE Transactions on Signal Processing. 1993;41(12):3397–
+3415. https://doi.org/10.1109/78.258082 
+20. Boashash B., Touati S., Auger F., Flandrin P., Chassande-Mottin E., Stankov  L.J. et al. Measures, performance assessment, and 
+enhancement TFDs. In: Boashash B. (ed.) Time-Frequency Signal Analysis and Processing. 2nd ed. Academic Press, Elsevier; 2016. Chapter 
+7, pp. 387–452. https://doi.org/10.1016/B978-0-12-398499-9.00007-8 
+21. Townsend S., Lee B. Sparse approximation and atomic decomposition: Considering atom interactions in evaluating and building 
+signal representations. Dissertation … PhD. 2009. 260 p.
+22. Федосенков Д.Б., Симикова А.А., Федосенков Б.А. Синтез системы модального управления блоком дозирующих устройств. В: 
+Жуков И.А. (ред.) Машиностроение: инновационные аспекты развития: материалы 2-й международной научно-практиче-
+ской конференции, Санкт-Петербург, 15 марта 2019 г. СПб.: СПбФ НИЦ МС; 2019. С. 162–166. https://doi.org/10.26160/2618-6810-
+2019-2-162-166  
+
+References
+1. Chicherin I.V., Fedosenkov B.A., Syrkin I.S., Sadovets V.Iu., Dubinkin D.M.  The concept of controlling the unmanned vehicles in open pit 
+mining. Izvestiya vysshikh uchebnykh zavedenii. Gornyi zhurnal = News of the Higher Institutions. Mining Journal. 2020;(8):109–120. (In 
+Russ.) https://doi.org/10.21440/0536-1028-2020-8-109-120 
+2. Aleshin B.S., Chernomorskiy A.I., Kuris E.D. Ground vehicle modules for solving the tasks of environmental monitoring in the 
+mountainous areas. Ustoichivoe razvitie gornykh territorii = Sustainable Development of Mountain Territories. 2018;10(4):566–576. (In 
+Russ.) https://doi.org/10.21177/1998-4502-2018-10-4-566-576 
+3. Dubinkin D.M. Justification of the need to create heavy platforms for open-pit mining. Gornoe oborudovanie i elektromekhanika = 
+Mining Equipment and Electromechanics. 2020;(4):59–64. (In Russ.) https://doi.org/10.26730/1816-4528-2020-4-59-64
+4. Dubinkin D.M. Current state of technics and technologies in the field of autonomous control movement vehicles of coal mine 
+caree Gornoe oborudovanie i elektromekhanika = Mining Equipment and Electromechanics. 2019;(6):8–15. (In Russ.) https://doi.
+org/10.26730/1816-4528-2019-6-8-15 
+5. Voronov Yu., Voronov A., Grishin S., Bujankin A. Increasing the technical level of mining haul trucks. In: Tyulenev M., Zhironkin 
+S., Khoreshok A., Vöth S., Cehlár M., Nuray D. (eds) E3S Web of Conferences. The Second International Innovative Mining Symposium 
+(Devoted to Russian Federation Year of Environment), Kemerovo, November 20–22, 2017. 2017;21:03015. https://doi.org/10.1051/
+e3sconf/20172103015
+6. Naranjo J.E., Clavijo M., Jimenez F., Gomez O., Rivera J.L., Anguita M. Autonomous vehicle for surveillance missions in off-road 
+environment. In: IEEE Intelligent Vehicles Symposium (IV), Gotenburg, Sweden, June 19–22, 2016, pp. 98–103. https://doi.org/10.1109/
+IVS.2016.7535371 
+7. Nonami K., Kartidjo M., Yoon K.-J., Budiyono A. (eds) Autonomous Control Systems and Vehicles. Intelligent Unmanned Systems. 
+Springer; 2013. 315 p. https://doi.org/10.1007/978-4-431-54276-6 
+8. Cheng H. Autonomous Intelligent Vehicles. Theory, Algorithms, and Implementation. Springer-Verlag London; 2011. 154 p. https://doi.
+org/10.1007/978-1-4471-2280-7 
+9. Taxonomy and Definitions for Terms Related to Driving Automation Systems for OnRoad Motor Vehicles. SAE International in United 
+States; 2016. 30 p. https://doi.org/10.4271/j3016_201609 
+10. Shadrin S.S. Methodology of autonomous road vehicles, integrated in intellectual transport environment, driving control systems 
+design: Dissert. Dr. Sc. (Engineering). 05.05.03 [Bauman State Technical University]. Moscow; 2017.  400 p. (In Russ.)
+
+82 | «Горная Промышленность» №5 / 2021
+
+
+
+Innovative technologies
+11. Shadrin S.S., Varlamov O.O., Ivanov A.M. Experimental autonomous road vehicle with logical artificial intelligence. Journal of 
+Advanced Transportation. 2017:2492765. https://doi.org/10.1155/2017/2492765 
+12. Saykin A.M., Buznikov S.E., Karpukhin K.E. The analysis of technical vision problems typical for driverless vehicles. Research Journal 
+of Pharmaceutical, Biological and Chemical Sciences. 2016;7(4):2053–2059. Available at: http://www.rjpbcs.com/pdf/2016_7(4)/[263].pdf 
+13. Mallat S. A wavelet tour of signal processing. 2nd ed. Academic Press, Springer; 1999. 664 p. Available at: https://www.elsevier.com/
+books/a-wavelet-tour-of-signal-processing/mallat/978-0-12-466606-1 
+14. Daubechies I. Ten lectures on wavelets. Philadelphia: Society for Industrial and Applied Mathematics (SIAM); 1992. 357 p.
+15. Auger F., Chassande-Mottin E. Quadratic time-frequency analysis I: Cohen’s class. In: Timef requency analysis: concepts and methods. 
+ISTE; 2008, pp. 131–163.
+16. Fedosenkov D.B., Simikova A.A., Kulakov S.M., Fedosenkov B.A. Cohen's class time-frequency distributions for measurement signals 
+as a means of monitoring technological processes. Steel in Translation. 2019;49(4):252–256. https://doi.org/10.3103/S0967091219040065 
+17. Debnath L. Recent Developments in the Wigner-Ville Distribution and Time-Frequency Signal Analysis. PINSA. 2002;68(1):35–36.
+18. Fedosenkov B.A., Fedosenkov D.B. Automated control of mixture preparation processes in wavelet medium. Kemerovo: Kemerovo 
+Technological Institute of Food Industry; 2015. 188 p. (In Russ.)
+19. Mallat S, Zhang Z. Matching pursuits with time-frequency dictionaries. IEEE Transactions on Signal Processing. 1993;41(12):3397–
+3415. https://doi.org/10.1109/78.258082 
+20. Boashash B., Touati S., Auger F., Flandrin P., Chassande-Mottin E., Stankov  L.J. et al. Measures, performance assessment, and 
+enhancement TFDs. In: Boashash B. (ed.) Time-Frequency Signal Analysis and Processing. 2nd ed. Academic Press, Elsevier; 2016. Chapter 
+7, pp. 387–452. https://doi.org/10.1016/B978-0-12-398499-9.00007-8 
+21. Townsend S., Lee B. Sparse approximation and atomic decomposition: Considering atom interactions in evaluating and building 
+signal representations. Dissertation … PhD. 2009. 260 p.
+22. Fedosenkov D.B., Simikova A.A., Fedosenkov B.A. The synthesis of the modal system for controlling the feeding devices unit. In: 
+Zhukov I.A. (ed.) Mechanical Engineering: Innovative Aspects of Development: Proceedings of the 2nd International Scientific-Practical 
+Conference, St. Petersburg, March 15, 2019. St. Petersburg: SPbB SRC MS; 2019, pp. 162–166. (In Russ.) https://doi.org/10.26160/2618-
+6810-2019-2-162-166 
+
+ 
+Информация об авторах Information about the authors
+Чичерин Иван Владимирович – кандидат технических Ivan V. Chicherin – Candidate of Technical Sciences, Associate 
+наук, доцент, заведующий кафедрой информационных и ав- Professor, Head of the Department of Information and Computer-
+томатизированных производственных систем, Кузбасский aided Manufacturing Systems, T.F. Gorbachev Kuzbass State 
+государственный технический университет имени Т.Ф. Гор- Technical University, Kemerovo, Russian Federation; e-mail: 
+бачева, Кемерово, Российская Федерация; e-mail: chicivan@ chicivan@yandex.ru
+yandex.ru Boris A. Fedosenkov – Professor, Doctor of Technical 
+Федосенков Борис Андреевич – доктор технических наук, Sciences (Dr. Sc. – Engineering), Professor of the Department 
+профессор, профессор кафедры информационных и автома- of Information and Computer-aided Manufacturing Systems, 
+тизированных производственных систем, Кузбасский госу- T.F. Gorbachev Kuzbass State Technical University, Kemerovo, 
+дарственный технический университет имени Т.Ф. Горбаче- Russian Federation; e-mail: rafwaveletsve@mail.ru
+ва, Кемерово, Российская Федерация; e-mail: rafwaveletsve@ Dmitry M. Dubinkin – Candidate of Technical Sciences, 
+mail.ru Associate Professor, Associate Professor of The Metal Cutting 
+Дубинкин Дмитрий Михайлович – кандидат техни- Machines and Tools Department, T.F. Gorbachev Kuzbass State 
+ческих наук, доцент, доцент кафедры металлорежущих Technical University, Kemerovo, Russian Federation; e-mail: 
+станков и инструментов, Кузбасский государственный тех- ddm.tm@kuzstu.ru
+нический университет имени Т.Ф. Горбачева, Кемерово, Рос-
+сийская Федерация; e-mail: ddm.tm@kuzstu.ru
+
+Article info
+Received: 19.08.2021
+
+Информация о статье Revised: 15.09.2021
+Поступила в редакцию: 19.08.2021 Accepted: 16.09.2021
+Поступила после рецензирования: 15.09.2021
+Принята к публикации: 16.09.2021
+
+«Горная Промышленность» №5 / 2021 | 83

@@ -1,0 +1,863 @@
+﻿ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2017. № 4 
+
+ 
+УДК 630*232.12:582.475.2 
+DOI: 10.17238/issn0536-1036.2017.4.57 
+
+ 
+СОДЕРЖАНИЕ КРАХМАЛА В ТКАНЯХ ПОБЕГОВ РАЗНЫХ ВИДОВ 
+
+
+ЕЛИ (PICEA A. DIETR.) В УСЛОВИЯХ ИНТРОДУКЦИИ  
+
+ 
+1
+
+Н.Н. Бессчетнова , д-р с.-х. наук, доц. 
+1
+
+В.П. Бессчетнов , д-р биол. наук, проф. 
+1
+
+А.В. Кулькова , асп. 
+2
+
+И.В. Мишукова , вед. биолог  
+1
+Нижегородская государственная сельскохозяйственная академия, пр. Гагарина, д. 97, 
+
+г. Нижний Новгород, Россия, 603107; e-mail: lesfak@bk.ru 
+2
+Ботанический сад Нижегородского государственного университета им. Н.И. Лоба-
+
+чевского, ул. Ботанический Сад, д. 1, г. Нижний Новгород, Россия, 603062;  
+e-mail: mishukowa.ir@yandex.ru 
+ 
+Интродукция является одним из наиболее эффективных методов пополнения местной 
+дендрофлоры ценными видами растений. Для диагностики успешности интродукции 
+растений необходимо выяснить природу их адаптации в новых условиях произраста-
+ния. Весьма значимыми для оценки акклиматизации растений являются состав и со-
+отношение запасных веществ и метаболитов в клетках тканей. Из запасных питатель-
+ных веществ наиболее важен для  развития древесных растений крахмал. Повышение 
+температуры значительно влияет на содержание этого питательного вещества. Увели-
+чение содержания крахмала в клетках тканей связано с выходом растений из состоя-
+ния покоя и подготовкой к вегетационному периоду. Исследована биологическая спе-
+цифичность 13 видов ели, интродуцированных в Нижегородскую область. Установле-
+на их неоднородность по содержанию крахмала в клетках тканей годичных побегов, 
+что может иметь адаптационное значение. Содержание крахмала в клетках тканей 
+годичных побегов выявляли цветной реакцией с раствором Люголя. Срезы после 
+окрашивания соответствующими реактивами и фиксации анализировали с помощью 
+микроскопа «Микмед-2». Оценку содержания запасных веществ на поперечном срезе 
+побега давали по каждой учетной зоне отдельно и в сумме баллов по всем учетным 
+зонам. Статистический и дисперсионный анализы выполняли по общепринятым ме-
+тодикам. По каждому ботаническому виду, включенному в схему анализа, вычисляли 
+средние значения. Соотношение между видами рода ель по содержанию крахмала  
+в разных тканях было неодинаковым. Различия между интродуцентами проявились на 
+выровненном фоне экологических условий. Дисперсионный анализ подтвердил суще-
+ственность различий, обнаруженных между исследованными видами ели, в содержа-
+нии крахмала.  
+ 
+Ключевые слова: ель, интродукция, адаптация, резистентность, крахмал, ткани побегов. 
+
+ 
+
+                                                          
+ 
+Для цитирования: Бессчетнова Н.Н., Бессчетнов В.П., Кулькова А.В., Мишукова  И.В. 
+Содержание крахмала в тканях побегов разных видов ели (Picea А. Dietr.) в условиях 
+
+
+интродукции  // Лесн. журн. 2017. № 4. С. 57–68. (Изв. высш. учеб. заведений).  
+DOI: 10.17238/issn0536-1036.2017.4.57 
+
+57 
+
+
+
+ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2017. № 4 
+
+ 
+Введение 
+
+Интродукция как одна из традиционных в лесном хозяйстве сфер прак-
+тической деятельности сохраняет свою актуальность и на современном этапе. 
+Большой опыт в направлении активного привлечения многочисленных видов 
+ели в состав различных по целевому назначению и конструкции искусствен-
+ных насаждений накоплен в Среднем Поволжье, в частности в Нижегород-
+ской области [8, 9]. Здесь проходит граница естественных ареалов елей евро-
+пейской и сибирской, сосредоточены значительные площади естественных 
+еловых насаждений, создано большое количество лесных культур, защитных 
+насаждений и озеленительных посадок этой породы. Широкие возможности 
+применения результатов интродукции в лесокультурном производстве Ниже-
+городской области во многом обусловлены тем, что на ее территории пред-
+ставлена значительная часть лесотипологического разнообразия России, по-
+скольку здесь можно встретить основные природные зоны. В такой ситуации 
+ресурсы адаптации видов неодинаковы, что при организации их изучения вы-
+двигает в число задач оценку соответствия их биологии существующим при-
+родным условиям. Привлечение для этих целей методов гистохимических ис-
+следований принято достаточно широко [1, 10]. Признаки физиологического 
+состояния растений (морозостойкость, сроки выхода из состояния покоя, ско-
+рость роста, сроки макро- и микроспорогенеза и др.) определяют приспособ-
+ленность организма к среде и его выживаемость [4, 5, 7, 19, 21]. Наличие 
+крахмала в тканях побегов связывают с устойчивостью растений к неблаго-
+приятным зимним условиям. Исследования в территориальном плане по это-
+му направлению проводятся широко и достаточно активно [13–20, 22–25]. 
+
+С учетом вышеизложенных фактов была определена цель исследований – 
+выявление факта наличия и оценка масштаба межвидовой изменчивости со-
+держания крахмала в тканях побегов различных видов, входящих в таксономи-
+ческую систему рода ель, для установления видов и форм, наиболее приспособ-
+ленных к существующему экологическому фону. 
+
+Объекты и методы исследования 
+
+Объектом исследования служили посадки 13 видов и форм ели, пред-
+ставленных в интродукционной коллекции ботанического сада Нижегород-
+ского государственного университета им. Н.И. Лобачевского. Предметом ис-
+следования являлась изменчивость содержания крахмала в тканях побегов 
+интродуцированных и аборигенных видов рода ель. Методологической осно-
+вой работы выступал принцип единственного логического различия, согласно 
+которому в сравнениях участвовали одновозрастные растения,  в пределах 
+опытного участка обеспечивалась элиминация дифференцирующего влияния 
+факторов среды, способных вызвать возникновения флуктуаций в проявлени-
+ях анализируемых показателей. 
+
+Первичная лесоводственная информация была получена в ходе реализации 
+полевых стационарных и лабораторных методов исследования с привлечением 
+
+58 
+
+
+
+ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2017. № 4 
+
+ 
+общепризнанных методических схем организации работ и построения выборок. 
+В составе обследованного пицетума представлены 13 видов и форм рода ель, 
+различающиеся своими ареалами. Их размещение в границах участка рендоми-
+зированно. В рамках проводимого исследования им были присвоены следую-
+щие условные обозначения: вид 1 – ель Глена (Picea glehnii (F. Schmidt) Mast.); 
+вид 2 – ель канадская (Picea glauca (Moench) Voss); вид 3 – ель шероховатая 
+(Picea asperata Masters); вид 4 – ель черная (Picea mariana Mill., Britton, Sterns & 
+Poggenburg); вид 5 – ель колючая, форма серебристая (Picea pungens Engelm.,  
+f. argentea); вид 6 – ель колючая, форма голубая (Picea pungens Engelm.,  
+f. glauca); вид 7 – ель сербская (Picea omorika (Pančić) Purk.); вид 8 – ель обык-
+новенная (Picea abies (L.) H. Karst.); вид 9 – ель Энгельмана (Picea engelmannii 
+Parry ex Engelm.); вид 10 – ель колючая (Picea pungens Engelm.); вид 11 – ель 
+аянская (Picea jezoensis (Siebold & Zucc.) Carrière); вид 12 – ель корейская (Picea 
+koraiensis Nakai); вид 13 – ель сибирская (Picea obovata Ledeb.).  
+
+В рабочую группу включены только одновозрастные деревья, имеющие 
+одинаковую площадь питания и прочие равные условия произрастания. Коли-
+чество учетных растений в пределах вида составляло от 1 до 4 в соответствии 
+с их онтогенетической однотипностью и сохранностью на коллекционном 
+участке. С каждого учетного растения заготовлено по 5 нормально развитых 
+однолетних побегов, равномерно размещенных на периферии среднего яруса 
+хорошо освещенного участка кроны. Всего протестировано 145 образцов, за-
+готовленных в марте 2016 г.  
+
+Первичной единицей выборки в гистохимическом опыте была принята 
+разовая фиксация количества крахмала в учетной ткани побега на временных 
+препаратах поперечных срезов из средней части годичного прироста. Срезы 
+после окрашивания и фиксации анализировали с помощью микроскопа 
+«Микмед-2». Для анализа и количественной оценки были выделены следую-
+щие учетные зоны [3, 7]: сердцевина, перимедуллярная зона ксилемы, сердце-
+винные лучи, ранняя ксилема, поздняя ксилема, смоляные ходы ранней кси-
+лемы, смоляные ходы поздней ксилемы, смоляные ходы флоэмы, прикамби-
+альная зона флоэмы, прифеллогенная зона флоэмы, средняя зона флоэмы, 
+корковая зона (зона паренхимных клеток, лежащая на периферии побега меж-
+ду феллогеном и внешней границей побега). Крахмал выявляли цветной реак-
+цией на раствор Люголя [10, 12] и оценивали его содержание в условных бал-
+лах по предложенной нами [3, 7] шкале:  
+
+0 – крахмал отсутствует полностью, т. е. не удается обнаружить ни од-
+ного крахмального зерна ни в одной клетке учетной зоны ткани;  
+
+1 – крахмал в ограниченном количестве присутствует в единичных (до 
+10 %) клетках учитываемой ткани;  
+
+2 – крахмал присутствует в меньшем, чем половина, числе клеток, окра-
+шенные крахмальные зерна удается зафиксировать примерно у 20…30 % клеток;  
+
+3 – крахмал фиксируется примерно в половине (40…60 %) всех учиты-
+ваемых клеток ткани;  
+
+4 – крахмал отмечается в большей части (70…90 %) клеток;  
+
+59 
+
+
+
+ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2017. № 4 
+
+ 
+5 – крахмал в большом количестве присутствует во всех клетках (100 %) 
+
+учитываемой ткани. 
+Оценку давали по каждой учетной ткани отдельно и в сумме баллов по 
+
+всем учетным зонам. По каждому ботаническому виду, включенному в схему 
+анализа, вычисляли средние значения. В качестве контроля визирования ис-
+пользовали неокрашенные срезы, не подвергавшиеся воздействию тестирую-
+щих реагентов [2, 3, 7]. С ними сравнивали срезы, обработанные соответ-
+ствующими реактивами. Окраска их клеток указывает на отсутствие запасных 
+веществ. Гистохимический анализ выполняли в лаборатории кафедры лесных 
+культур Нижегородской государственной сельскохозяйственной академии, 
+статистический и дисперсионный анализы – по общепринятым схемам, а так-
+же с применением алгоритмов, разработанных авторами [6, 7]. Для оценки 
+уровней изменчивости анализируемых показателей использовали шкалу С.А. 
+Мамаева [11]. 
+
+Результаты исследования и их обсуждение 
+
+В ходе проведения опытов установлены хорошо заметные различия 
+между анализируемыми видами ели по содержанию крахмала в клетках тка-
+ней 1-летних побегов (табл. 1–3). 
+
+Т а б л и ц а  1  
+
+Статистики суммарного содержания крахмала в 1-летних побегах 
+
+Вариант Счет Среднее СКО max min Δlim ±m Cv, % t05 P, % 
+1 10 7,55 0,69 8,50 6,50 2,00 0,22 9,07 34,85 2,87 
+2 15 9,53 0,79 10,50 7,50 3,00 0,20 8,28 46,75 2,14 
+3 10 9,00 0,53 10,00 8,50 1,50 0,17 5,86 54,00 1,85 
+4 5 7,00 0,35 7,50 6,50 1,00 0,16 5,05 44,27 2,26 
+5 5 7,90 0,55 8,50 7,00 1,50 0,24 6,93 32,25 3,10 
+6 5 9,20 0,76 10,00 8,00 2,00 0,34 8,24 27,13 3,69 
+7 5 8,60 0,74 9,50 7,50 2,00 0,33 8,62 25,93 3,86 
+8 20 8,40 0,62 9,50 7,50 2,00 0,14 7,38 60,61 1,65 
+9 15 8,47 0,97 10,00 7,00 3,00 0,25 11,48 33,73 2,96 
+10 20 9,28 0,75 11,00 8,00 3,00 0,17 8,11 55,18 1,81 
+11 20 9,10 0,68 10,50 8,00 2,50 0,15 7,48 59,80 1,67 
+12 10 7,80 1,64 10,50 5,50 5,00 0,52 20,98 15,07 6,63 
+13 5 9,20 0,91 10,50 8,00 2,50 0,41 9,87 22,65 4,42 
+
+Total 145 8,68 1,04 11,00 5,50 5,50 0,09 11,93 100,95 0,99 
+
+П р и м е ч а н и е . Здесь и далее, в табл. 2, 3, использованы сокращенные обозначения ста-
+тистик: СКО – среднеквадратическое отклонение; max – максимальное значение анализи-
+руемого показателя; min – минимальное значение анализируемого показателя; Δlim – раз-
+мах изменчивости, или диапазон значений анализируемого показателя; ±m – ошибка ре-
+презентативности выборочного среднего (абсолютная ошибка); Cv, % – коэффициент 
+изменчивости значений анализируемого показателя; t05 – критерий Стьюдента при 5 %-м 
+уровне значимости; P – точность опыта, или относительная ошибка (номер варианта сов-
+падает с порядковым номером вида).  
+
+60 
+
+
+
+ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2017. № 4 
+
+ 
+Т а б л и ц а  2  
+
+Статистики содержания крахмала в сердцевине 1-летних побегов 
+
+Вариант Счет Среднее СКО max min Δlim ±m Cv, % t05 P, % 
+1 10 1,75 0,26 2,00 1,50 0,50 0,08 15,06 21,00 4,76 
+2 15 2,57 0,37 3,00 2,00 1,00 0,10 14,48 26,75 3,74 
+3 10 2,15 0,47 3,00 1,50 1,50 0,15 22,06 14,33 6,98 
+4 5 1,60 0,42 2,00 1,00 1,00 0,19 26,15 8,55 11,69 
+5 5 2,20 0,27 2,50 2,00 0,50 0,12 12,45 17,96 5,57 
+6 5 2,60 0,65 3,00 1,50 1,50 0,29 25,07 8,92 11,21 
+7 5 2,20 0,27 2,50 2,00 0,50 0,12 12,45 17,96 5,57 
+8 20 2,00 0,32 2,50 1,50 1,00 0,07 16,22 27,57 3,63 
+9 15 2,37 0,58 3,00 1,50 1,50 0,15 24,57 15,76 6,34 
+
+10 20 2,53 0,41 3,00 2,00 1,00 0,09 16,35 27,36 3,66 
+11 20 1,95 0,48 3,00 1,50 1,50 0,11 24,82 18,02 5,55 
+12 10 1,90 0,52 2,50 1,00 1,50 0,16 27,18 11,64 8,59 
+13 5 2,20 0,45 2,50 1,50 1,00 0,20 20,33 11,00 9,09 
+
+Total 145 2,18 0,51 3,00 1,00 2,00 0,04 23,38 51,50 1,94 
+ 
+ 
+
+Т а б л и ц а   3  
+
+Статистики содержания крахмала в сердцевинных лучах  
+
+Вариант Счет Среднее СКО max min Δlim ±m Cv, % t05 P, % 
+1 10 1,20 0,26 1,50 1,00 0,50 0,08 21,52 14,70 6,80 
+2 15 1,77 0,32 2,50 1,50 1,00 0,08 18,11 21,38 4,68 
+3 10 1,60 0,21 2,00 1,50 0,50 0,07 13,18 24,00 4,17 
+4 5 1,30 0,27 1,50 1,00 0,50 0,12 21,07 10,61 9,42 
+5 5 1,50 0,00 1,50 1,50 0,00 0,00 0,00 99(9) 0,00 
+6 5 1,70 0,27 2,00 1,50 0,50 0,12 16,11 13,88 7,20 
+7 5 1,40 0,22 1,50 1,00 0,50 0,10 15,97 14,00 7,14 
+8 20 1,70 0,25 2,00 1,50 0,50 0,06 14,78 30,25 3,31 
+9 15 1,67 0,36 2,00 1,00 1,00 0,09 21,71 17,84 5,61 
+
+10 20 1,60 0,26 2,00 1,00 1,00 0,06 16,35 27,36 3,66 
+11 20 1,83 0,24 2,00 1,50 0,50 0,05 13,41 33,36 3,00 
+12 10 1,70 0,35 2,00 1,00 1,00 0,11 20,56 15,38 6,50 
+13 5 1,70 0,27 2,00 1,50 0,50 0,12 16,11 13,88 7,20 
+
+Total 145 1,63 0,31 2,50 1,00 1,50 0,03 19,16 62,84 1,59 
+ 
+Полученный в ходе статистической обработки материал достоверен  
+
+и вполне надежен. Опытные t-критерии Стьюдента намного превышают кри-
+тическое значение, равное 1,96 при 5 %-м уровне значимости. Показатели 
+точности опыта (относительная ошибка Р) в анализе суммарного количества 
+крахмала не преодолевают допустимый уровень в 5 %. Вместе с тем в анализе 
+содержания крахмала по отдельным тканям в ряде случаев они оказываются 
+выше указанного предела, что связано с ограниченным числом определений 
+при существующем уровне дисперсии признаков. 
+
+61 
+
+
+
+ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2017. № 4 
+
+ 
+ 
+ 3,5
+
+ 3,0
+
+ 2,5
+
+ 2,0
+1,5
+
+ 
+1,0
+
+ 
+0,5
+
+ 
+0,0
+
+ 
+ 
+ 
+ 
+
+а 
+ 
+ 1,0
+ 1,0
+ 
+
+1,0
+ 
+
+1,0
+ 
+ 1,0
+
+ 1,0
+
+ 1,0
+ 
+ 
+ 
+
+б 
+ 
+ 
+
+1,4
+ 
+ 1,2
+
+ 1,0
+
+ 0,8
+ 
+
+0,6
+ 
+ 0,4
+
+ 0,2
+
+ 0,0
+ 
+ 
+ 
+
+в 
+ 
+Соотношение между видами ели по содержанию крахмала в тканях годичных  
+
+побегов: а – флоэма; б – феллоген; в – корка 
+
+62 
+
+Крахмал, бал Крахмал, балл 
+Крахмал, балл 
+
+Вид 1 Вид 1 
+Вид 1 
+
+Вид 2 Вид 2 
+Вид 2 
+
+Вид 3 Вид 3 
+Вид 3 
+
+Вид 4 Вид 4 Вид 4 
+
+Вид 5 Вид 5 Вид 5 
+
+Вид 6 
+Вид 6 Вид 6 
+
+Вид 7 
+Вид 7 Вид 7 
+
+Вид 8 Вид 8 
+Вид 8 
+
+Вид 9 Вид 9 
+Вид 9 
+
+Вид 10 Вид 10 
+Вид 10 
+
+Вид 11 Вид 11 
+Вид 11 
+
+Вид 12 Вид 12 
+Вид 12 
+
+Вид 13 Вид 13 
+
+Вид 13 Total Total
+
+Total
+
+
+
+ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2017. № 4 
+
+ 
+Оценки изменчивости анализируемых показателей по шкале С.А. Ма-
+
+маева в обобщенном массиве данных соответствуют низкому и среднему 
+уровню: суммарное содержание крахмала Cv = 11,93 % (низкий); содержание 
+крахмала в сердцевине Cv = 23,38 % (средний); содержание крахмала в серд-
+цевинных лучах Cv = 19,16 % (средний).  
+
+В анализируемом составе видов ели средние значения изучаемых харак-
+теристик были достаточно стабильны. В частности, по суммарному содержа-
+нию крахмала наибольшее среднее превосходило наименьшее в 1,36 раза; по 
+содержанию крахмала в сердцевине – в 1,62 раза; по содержанию крахмала  
+в сердцевинных лучах – в 1,52 раза. Соотношение абсолютных значений ука-
+занных показателей было несколько выше и соответственно составляло: в 2,0; 
+3,0 и 2,5 раза. 
+
+Наглядное представление о соотношении между рассматриваемыми ви-
+дами ели по показателю наличия крахмала в разных тканях 1-летних побегов 
+дают диаграммы (см. рисунок). Зафиксированные между исследуемыми ви-
+дами различия в содержании крахмала в тканях побегов проявились на фоне 
+выровненных условий произрастания, что позволяет признать причиной их 
+возникновения межвидовую изменчивость. 
+
+Достоверность указанных различий была подтверждена результатами 
+однофакторного дисперсионного анализа (табл. 4).  
+
+ 
+Т а б л и ц а  4  
+
+Существенность различий между видами ели по содержанию крахмала  
+
+Доля влияния фактора (h2 ± s
+Критерий h2) Критерий  
+
+Учетные ткани существенности 
+Фишера по Плохинскому по Снедекору 
+
+побегов различий 
+Fоп F05 h2 ± sh2 h2 ± sh2 НСР05 D05 
+
+Суммарное содержание 8,05 1,83 0,4225 0,0525 0,3929 0,0552 0,697 1,195 
+Сердцевина 5,26 1,83 0,3237 0,0615 0,2814 0,0653 0,371 0,636 
+Сердцевинные лучи 4,38 1,83 0,2848 0,0650 0,2369 0,0694 0,235 0,402 
+Флоэма 8,78 1,83 0,4439 0,0506 0,4168 0,0530 0,380 0,651 
+Феллоген 0,70 1,83 0,0602 0,0854 – – 0,036 0,061 
+Корка 1,75 1,83 0,1374 0,0784 – – 0,176 0,302 
+ 
+
+Сравниваемые образцы существенно различались между собой по со-
+держанию крахмала в большинстве изученных тканей побегов. В случаях  
+с подтвержденной существенностью различий опытные F-критерии Фишера 
+заметно больше соответствующих табличных значений при 5 %-м уровне зна-
+чимости.  
+
+Не установлено наличие существенных различий по содержанию крахма-
+ла в феллогене и корковой зоне. Здесь значения критерия Фишера оказались 
+меньше критических значений. Влияние собственно различий между видами  
+в вариантах опыта с подтвержденной существенностью различий достоверно  
+и значительно. Суммарное содержание крахмала в тканях побегов в расчетах  
+
+63 
+
+
+
+ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2017. № 4 
+
+ 
+по алгоритму Плохинского составило (42,25±5,25) %. А эффект по ряду тканей 
+был несколько ниже: (32,37±6,15) % (сердцевина) и (28,48±6,50) % (сердце-
+винные лучи). При этом оценки по флоэме оказались выше: (44,39±5,06) %. 
+Во всех вариантах опыта замечено преобладающее влияние факторов среды, 
+которое формирует остаточную дисперсию. На его долю приходится от 55,61 % 
+(флоэма) до 93,98 % (феллоген) общего эффекта.  
+
+Оценки, полученные с помощью алгоритма Снедекора, оказались близ-
+кими по значениям. Критерии существенности различий (НСР05 и D05) позво-
+ляют установить, между какими именно видами различия по анализируемым 
+показателям (см. табл. 1–3) могут быть причислены к категории существен-
+ных. В частности, по суммарному содержанию крахмала ель черная суще-
+ственно отличалась от  остальных 9 видов, участвующих в испытании. Ели 
+Глена и корейская имели по 6 существенных различий с другими видами. 
+Оставшиеся виды более сходны между собой по данному показателю. Так, 
+ели сербская, европейская и Энгельмана проявили существенные различия 
+только в одном случае их парных сравнений с другими. 
+
+Заключение 
+
+Полученный материал позволил выделить группы наиболее сходных 
+ранней весной по физиологическому состоянию видов елей. Данный показа-
+тель является индикатором завершения сроков заготовки черенков елей для 
+размножения. Известно, что одревесневшие черенки демонстрируют более 
+высокие темпы укоренения при их заготовке в состоянии покоя. Очевидно, 
+что виды, обладающие в середине марта достаточно высоким запасом крах-
+мала, характеризуются более ранними сроками начала вегетации и, следова-
+тельно, более ранними сроками завершения заготовки черенков. К таким от-
+несены следующие виды ели: канадская (Picea glauca (Moench) Voss); шеро-
+ховатая (Picea asperata Masters); колючая, форма голубая (Picea pungens 
+Engelm., f. glauca); колючая (Picea pungens Engelm.); аянская (Picea jezoensis 
+(Siebold & Zucc.) Carrière); сибирская (Picea obovata Ledeb.). 
+
+ 
+СПИСОК ЛИТЕРАТУРЫ  
+
+ 
+1. Барская Е.И. Изменения хлоропластов и вызревание побегов в связи с моро-
+
+зоустойчивостью древесных растений. М.: Наука, 1967. 223 с. 
+2. Бессчетнова Н.Н. Сравнительная оценка плюсовых деревьев сосны обыкно-
+
+венной по содержанию крахмала в побегах // Вестн. МарГТУ. Серия: Лес. Экология. 
+Природопользование. 2010. № 2(9).  С. 49–56.  
+
+3. Бессчетнова Н.Н. Сосна обыкновенная (Pinus sylvestris L.). Селекционный 
+потенциал плюсовых деревьев.  Саарбрюккен: Lap Lambert Academic Publishing, 2011. 
+402 c. 
+
+4. Бессчетнова Н.Н. Содержание жиров в клетках побегов плюсовых деревьев 
+сосны обыкновенной  // Лесн. журн.  2012.  № 4.  С. 48–55. (Изв. высш. учеб. заве-
+дений). 
+
+64 
+
+
+
+ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2017. № 4 
+
+ 
+5. Бессчетнов В.П., Бессчетнова Н.Н. Образование и лигнификация ксилемы 
+
+плюсовых деревьев сосны обыкновенной // Лесн. журн. 2013. № 2.  С. 45–52. (Изв. 
+высш. учеб. заведений). 
+
+6. Бессчетнов В.П., Бессчетнова Н.Н., Храмова О.Ю., Орнатский А.Н., Горе-
+лов Н.И. Дисперсионный анализ многоуровневых иерархических комплексов: метод. 
+указания для студ. и асп. Н. Новгород: НГСХА, 2012. 33 с. 
+
+7. Бессчетнова Н.Н. Сосна обыкновенная (Pinus sylvestris L.). Эффективность 
+отбора плюсовых деревьев: моногр. Н. Новгород: Нижегород. ГСХА, 2016. 464 с. 
+
+8. Воробьев Р.А., Тебенькова Д.Н. Развитие вегетативных и генеративных орга-
+нов представителей рода ель (Picea L.), интродуцированных в Нижегородской обла-
+сти // Вестн. МГУЛ–Лесн. вестн.  2013.  № 7. С. 97–105. 
+
+9. Воробьев Р.А., Тебенькова Д.Н. Содержание основных пигментов в однолет-
+ней и двухлетней хвое интродуцентов рода ель (Picea L.) в условиях подзоны южной 
+тайги (на примере Нижегородской области) // Лесоведение.  2013.  № 3.  С. 8–15. 
+
+10. Гродзинский А.М., Гродзинский Д.М.  Краткий справочник по физиологии 
+растений. Киев: Наук. думка, 1964.  288 с. 
+
+11. Мамаев С.А. О проблемах и методах внутривидовой систематики растений. 
+II. Амплитуда изменчивости // Закономерности формообразования и дифференциации 
+вида у древесных растений: тр. Ин-та экологии растений и животных Урал. фил. АН 
+СССР. Свердловск, 1969. Вып. 64. С. 3–38. 
+
+12. Прозина М.Н. Ботаническая микротехника: учеб. пособие.  М.: Высш. шк., 
+1960. 205 с. 
+
+13. Andersone U., Ievinsh G. Changes of Morphogenic Competence in Mature  
+Pinus sylvestris L. Buds in vitro. Ann. Bot., 2002. Vol. 90, no. 2, pp. 293–298.  
+DOI: 10.1093/aob/mcf176 
+
+14. Bergström B. Chemical and Structural Changes during Heartwood Formation  
+in Pinus sylvestris // Forestry. 2003. Vol. 76, no. 1. Pp. 45–53. DOI: 10.1093/forestry/76.1.45. 
+
+15. Brahim B.M., Loustau D., Gaudillère J.P., Saur E. Effects of Phosphate Defi-
+ciency on Photosynthesis and Accumulation of Starch and Soluble Sugars in 1-Year-Old 
+Seedlings of Maritime Pine (Pinus pinaster Ait) // Ann. Sci. For. 1996. Vol. 53, no. 4.  
+Pp. 801–810. DOI: http://dx.doi.org/10.1051/forest:19960401 
+
+16. Ericsson A., Lindgren A., Mattsson A. Effects of Cold-Storage and Planting Date 
+on Subsequent Growth, Starch and Nitrogen Content in Scots Pine (Pinus sylvestris) and 
+Norway Spruce (Picea abies) Seedlings // Studia Forestalia Suecia. 1983. No. 165. Pp. 1–17. 
+
+17. Jiménez M.D., Pardos M., Puértolas J., Kleczkowski L.A., Pardos J.A. Deep 
+Shade Alters the Acclimation Response to Moderate Water Stress in Quercus suber L. // 
+Forestry. 2009. Vol. 82, no. 3. Рp. 285–298. DOI: 10.1093/forestry/cpp008 
+
+18. Kakei M., Clifford P.E. Effects of Lime Application and Test Branch Position on 
+14
+
+C-Photosynthate Partitioning in 3-Year-Old Sitka Spruce (Picea sitchensis) Plants Grow-
+ing in Pots Containing Peat Soils // Forestry. 1999. Vol. 72, no. 3. Pp. 223–235.  
+DOI: 10.1093/forestry/72.3.223 
+
+19. Ludlow A.R. Some Factors Influencing the Increment of Forests // Forestry. 1997. 
+Vol. 70, no. 4. Pp. 381–388. DOI:10.1093/forestry/70.4.381 
+
+20. Mencuccini M., Hölttä T. The Significance of Phloem Transport for the Speed 
+with which Canopy Photosynthesis and Belowground Respiration are Linked // New Phytol. 
+2010. Vol. 185, no. 1. Pp. 189–203. DOI: 10.1111/j.1469-8137.2009.03050.x 
+
+21. Mencuccini M., Hölttä T., Sevanto S., Nikinmaa E. Concurrent Measurements of 
+Change in the Bark and Xylem Diameters of Trees Reveal a Phloem-Generated Turgor Sig-
+nal // New Phytol. 2013. Vol. 198, no. 4. Pp. 1143–1154. DOI: 10.1111/nph.12224 
+
+65 
+
+
+
+ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2017. № 4 
+
+ 
+22. Pardos M., Royo A., Gil L., Pardos J.A. Effect of Nursery Location and Outplant-
+
+ing Date on Field Performance of Pinus halepensis and Quercus ilex Seedlings // Forestry. 
+2003. Vol. 76, no. 1. Pp. 67–81. DOI: 10.1093/forestry/76.1.67 
+
+23. Rodríguez-Calcerrada J., Pardos J.A., Aranda I. Contrasting Responses Facing 
+Peak Drought in Seedlings of Two Co-Occurring Oak Species // Forestry. 2010. Vol. 83,  
+no. 4. Pp. 369–378. DOI:10.1093/forestry/cpq019 
+
+24. Schaberg P.G., Snyder M.C., Shane J.B., Donnelly J.R. Seasonal Patterns of Carbo-
+hydrate Reserves in Red Spruce Seedlings // Tree Physiology. 2000. Vol. 20, no. 8. Pp. 549–555.  
+
+25. Woodruff D.R., Meinzer F.C. Water Stress, Shoot Growth and Storage of Non-
+structural Carbohydrates Along a Tree Height Gradient in a Tall Conifer // Plant, Cell & 
+Environment. 2011. Vol. 34, no.  11. Pp. 1920–1930. DOI: 10.1111/j.1365-
+3040.2011.02388.x 
+
+ 
+Поступила 19.03.17 
+
+ 
+
+UDС 630*232.12:582.475.2 
+DOI: 10.17238/issn0536-1036.2017.4.57 
+ 
+
+Starch Content in Shoot Tissues of Different Spruce Species (Picea A. Dietr.)  
+
+
+in Introduction  
+ 
+
+1
+N.N. Besschetnova , Doctor of Agricultural Sciences, Associate Professor 
+
+1
+V.P. Besschetnov , Doctor of Biological Sciences, Professor 
+
+1
+A.V. Kul'kova , Postgraduate Student 
+
+2
+I.V. Mishukova , Leading Biologist  
+1
+State agricultural academy of Nizhny Novgorod, pr. Gagarina, 97, Nizhny Novgorod, 
+
+603107, Russian Federation; e-mail: lesfak@bk.ru 
+2
+Botanical Garden of the N.I. Lobachevsky State University of Nizhny Novgorod,  
+
+ul. Botanicheskiy Sad, 1, Nizhny Novgorod, 603062, Russian Federation; 
+e-mail: mishukowa.ir@yandex.ru  
+ 
+Introduction is one of the most effective methods of afterculture of local dendroflora with val-
+uable plant species. To diagnose the success of plants introduction we should clarify the nature 
+of their adaptation to the new growth conditions. The composition and the ratio of reserve con-
+stituents and metabolites in tissue cells are highly important for assessing the plant establish-
+ment. Starch is the most important reserve constituent in the development of woody plants. 
+The increase of temperature significantly affects the content of this nutrient. The increase of 
+the starch content of tissue cells is associated with the release of plants from quiescence and 
+preparation for the growing season. We have investigated the biological specificity of  
+13 spruce species, introduced in the Nizhny Novgorod region, and have established their het-
+erogeneity in the starch content in tissue cells of the annual shoots, which could have the adap-
+tation significance. Determination of starch in tissue cells of the annual shoots was detected  
+by the Lugol staining reaction. Sections after staining with appropriate reagents and fixation 
+were analyzed using a micrometer “Mikmed-2”. The estimation of the content of reserve  
+
+                                                          
+ 
+
+For citation: Besschetnova N.N., Besschetnov V.P., Kul'kova A.V., Mishukova I.V. Starch 
+Content in Shoot Tissues of Different Spruce Species (Picea A. Dietr.) in Introduction. Le-
+snoy zhurnal [Forestry journal], 2017, no. 4, pp. 57–68. DOI: 10.17238/issn0536-
+1036.2017.4.57 
+
+66 
+
+
+
+ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2017. № 4 
+
+ 
+constituents on the transverse section of the shoot was given for each accounting area separate-
+ly and in the score in all accounting areas. Statistical and dispersion analyses were performed 
+according to the common methods. We calculated the mean values for each botanical species 
+included in the analysis scheme. The ratio between the species of the genus Spruce by the 
+starch content in different tissues was not the same. The differences between the exotic species 
+appeared under the same environmental conditions. The variance analysis confirmed the sig-
+nificance of differences between the studied spruce species in the starch content.  
+
+ 
+
+Keywords: spruce, introduction, adaptation, resistance, starch, shoot tissue. 
+ 
+
+REFERENCES 
+ 
+
+1. Barskaya E.I. Izmeneniya khloroplastov i vyzrevanie pobegov v svyazi s moro-
+zoustoychivost'yu drevesnykh rasteniy [Chloroplast Changes and Shoots Ripening Due to 
+the Frost Resistance of Woody Plants]. Moscow, 1967. 223 p.  
+
+2. Besschetnova N.N. Sravnitel'naya otsenka plyusovykh derev'ev sosny obyknovennoy 
+po soderzhaniyu krakhmala v pobegakh [Comparative Estimation of Starch Content in the 
+Sprouts of Scotch Pine Plus-Trees]. Vestnik Mariyskogo gosudarstvennogo tekhnicheskogo uni-
+versiteta. Seriya: Les. Ekologiya. Prirodopol'zovanie [Vestnik of Mari State Technical Universi-
+ty. Series “Forest. Ecology. Nature management”], 2010, no. 2(9), pp. 49–56. 
+
+3. Besschetnova N.N. Sosna obyknovennaya (Pinus sylvestris L.). Selektsionnyy po-
+tentsial plyusovykh derev'ev [Scots Pine (Pinus sylvestris L.). Breeding Potential of Plus-
+Trees]. Saarbrücken, Germany, 2011. 402 p.  
+
+4. Besschetnova N.N. Soderzhanie zhirov v kletkakh pobegov plyusovykh derev'ev 
+sosny obyknovennoy [Fat Content in Shoot Cells of Scotch Pine Elite Trees]. Lesnoy zhur-
+nal [Forestry journal], 2012, no. 4, pp. 48–55.  
+
+5. Besschetnov V.P., Besschetnova N.N. Obrazovanie i lignifikatsiya ksilemy 
+plyusovykh derev'ev sosny obyknovennoy [Formation and Lignification of Xylem of Scotch 
+Pine Elite Trees]. Lesnoy zhurnal [Forestry journal], 2013, no. 2, pp. 45–52. 
+
+6. Besschetnov V.P., Besschetnova N.N., Khramova O.Yu., Ornatskiy A.N., Gorelov N.I. 
+Dispersionnyy analiz mnogourovnevykh ierarkhicheskikh kompleksov: metod. ukazaniya 
+dlya stud. i asp. [Dispersion Analysis of Multilevel Hierarchical Complexes]. Nizhny Nov-
+gorod, 2012. 33 p.  
+
+7. Besschetnova N.N. Sosna obyknovennaya (Pinus sylvestris L.). Effektivnost' ot-
+bora plyusovykh derev'ev: monogr. [Scots Pine (Pinus sylvestris L.). The Efficiency of Se-
+lection of Plus-Trees]. Nizhny Novgorod, 2016. 464 p. 
+
+8. Vorob'ev R.A., Teben'kova D.N. Razvitie vegetativnykh i generativnykh organov 
+predstaviteley roda el' (Picea L.), introdutsirovannykh v Nizhegorodskoy oblasti [Results 
+for the Development Phenological Observations of Vegetative and Generative Organs of 
+Representatives of Spruce (Picea L.) Introduced in Nizhny Novgorod Region]. Vestnik 
+Moskovskogo gosudarstvennogo universiteta lesa ‒ Lesnoy vestnik [Moscow State Forest 
+University Bulletin – Lesnoy Vestnik], 2013, no. 7, pp. 97–105. 
+
+9. Vorob'ev R.A., Teben'kova D.N. Soderzhanie osnovnykh pigmentov v odnoletney 
+i dvukhletney khvoe introdutsentov roda el' (Picea L.) v usloviyakh podzony yuzhnoy taygi 
+(na primere Nizhegorodskoy oblasti) [The Main Pigment Content in Needles of Introduced 
+Spruce in the Southern Taiga (Nizhny Novgorod Region)]. Lesovedenie [Russian Journal of 
+Forest Science], 2013, no. 4, pp. 22–31.  
+
+10. Grodzinskiy A.M., Grodzinskiy D.M. Kratkiy spravochnik po fiziologii rasteniy 
+[A Quick Reference Guide on Plant Physiology]. Kiev, 1964. 288 p. 
+
+11. Mamaev S.A. O problemakh i metodakh vnutrividovoy sistematiki drevesnykh 
+rasteniy. II. Amplituda izmenchivosti [On the Problems and Methods of Intraspecific  
+
+67 
+
+
+
+ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2017. № 4 
+
+ 
+Systematics of Plants. II. Amplitude of Variability]. Zakonomernosti formoobrazovaniya i 
+differentsiatsii vida u drevesnykh rasteniy: Trudy instituta ekologii rasteniy i zhivotnykh 
+Ural'skogo filiala AN SSSR [Patterns of Species Formation and Species Differentiation in 
+Woody Plants: Proc. Institute of Ecology of Plants and Animals of the Ural Branch of the 
+Academy of Sciences of the USSR]. Sverdlovsk, 1969, iss. 64, pp. 3–38. 
+
+12. Prozina M.N. Botanicheskaya mikrotekhnika: ucheb. posobie [Botanical Micro-
+engineering]. Moscow, 1960. 205 p. 
+
+13. Andersone U., Ievinsh G. Changes of Morphogenic Competence in Mature  
+Pinus sylvestris L. Buds in vitro. Ann. Bot., 2002, vol. 90, no. 2, pp. 293–298.  
+DOI: 10.1093/aob/mcf176. 
+
+14. Bergström B. Chemical and Structural Changes during Heartwood Formation in 
+Pinus sylvestris. Forestry, 2003, vol. 76, no. 1, pp. 45–53. DOI: 10.1093/forestry/76.1.45. 
+
+15. Brahim B.M., Loustau D., Gaudillère J.P., Saur E. Effects of Phosphate Deficien-
+cy on Photosynthesis and Accumulation of Starch and Soluble Sugars in 1-Year-Old Seed-
+lings of Maritime Pine (Pinus pinaster Ait). Ann. Sci. For., 1996, vol. 53, no. 4,  
+pp. 801–810. DOI: http://dx.doi.org/10.1051/forest:19960401. 
+
+16. Ericsson A., Lindgren A., Mattsson A. Effects of Cold-Storage and Planting Date 
+on Subsequent Growth, Starch and Nitrogen Content in Scots Pine (Pinus sylvestris) and 
+Norway Spruce (Picea abies) Seedlings. Studia Forestalia Suecia, 1983, no. 165, pp. 1–17. 
+
+17. Jiménez M.D., Pardos M., Puértolas J., Kleczkowski L.A., Pardos J.A. Deep 
+Shade Alters the Acclimation Response to Moderate Water Stress in Quercus suber L. For-
+estry, 2009, vol. 82, no. 3, pp. 285–298. DOI: 10.1093/forestry/cpp008. 
+
+18. Kakei M., Clifford P.E. Effects of Lime Application and Test Branch Position on 
+14
+
+C-Photosynthate Partitioning in 3-Year-Old Sitka Spruce (Picea sitchensis) Plants Grow-
+ing in Pots Containing Peat Soils. Forestry, 1999, vol. 72, no. 3, pp. 223–235.  
+DOI: 10.1093/forestry/72.3.223. 
+
+19. Ludlow A.R. Some Factors Influencing the Increment of Forests. Forestry, 1997, 
+vol. 70, no. 4, pp. 381–388. DOI: 10.1093/forestry/70.4.381. 
+
+20. Mencuccini M., Hölttä T. The Significance of Phloem Transport for the Speed 
+with which Canopy Photosynthesis and Belowground Respiration are Linked. New Phytol., 
+2010, vol. 185, no. 1, pp. 189–203. DOI: 10.1111/j.1469-8137.2009.03050.x. 
+
+21. Mencuccini M., Hölttä T., Sevanto S., Nikinmaa E. Concurrent Measurements of 
+Change in the Bark and Xylem Diameters of Trees Reveal a Phloem-Generated Turgor Sig-
+nal. New Phytol., 2013, vol. 198, no. 4, pp. 1143–1154. DOI: 10.1111/nph.12224. 
+
+22. Pardos M., Royo A., Gil L., Pardos J.A. Effect of Nursery Location and Outplant-
+ing Date on Field Performance of Pinus halepensis and Quercus ilex Seedlings. Forestry, 
+2003, vol. 76, no. 1, pp. 67–81. DOI: 10.1093/forestry/76.1.67. 
+
+23. Rodríguez-Calcerrada J., Pardos J.A., Aranda I. Contrasting Responses Facing 
+Peak Drought in Seedlings of Two Co-Occurring Oak Species. Forestry, 2010, vol. 83, no. 4, 
+pp. 369–378. DOI: 10.1093/forestry/cpq019. 
+
+24. Schaberg P.G., Snyder M.C., Shane J.B., Donnelly J.R. Seasonal Patterns of Carbo-
+hydrate Reserves in Red Spruce Seedlings. Tree Physiology, 2000, vol. 20, no. 8, pp. 549–555.  
+
+25. Woodruff D.R., Meinzer F.C. Water Stress, Shoot Growth and Storage of Non-
+structural Carbohydrates Along a Tree Height Gradient in a Tall Conifer. Plant, Cell & En-
+vironment, 2011, vol. 34, no. 11, pp. 1920–1930. DOI: 10.1111/j.1365-3040.2011.02388.x. 
+
+ 
+Received on March 19, 2017 
+
+68

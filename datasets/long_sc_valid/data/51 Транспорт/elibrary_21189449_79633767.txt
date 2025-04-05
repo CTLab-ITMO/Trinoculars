@@ -1,0 +1,279 @@
+﻿УДК: 625.17: 656.072 ВОПРОСЫ ТЕОРИИ
+
+Интегральное управление 
+высокоскоростной 
+
+магистралью 
+Виктор цВЕТкОВ
+
+Цветков Виктор Яковлевич – доктор технических 
+наук, доктор экономических наук, профессор ка-
+федры навигации и геоинформатики Московского 
+государственного университета путей сообщения 
+(МИИТ), советник директора НИИ «Аэрокосмос», 
+Москва, Россия.
+
+Victor ya.tsVetkoV
+
+Транспортные сети являются осново-
+Выбор новой модели управления  полагающим элементом инфра-
+
+скоростным транспортом на основе  структуры народного хозяйства, 
+ее определения в пространстве  материальные коммуникации обеспечива-
+
+параметров. Применение шаблонов  ет именно транспорт [1]. Для управления 
+графика движения. Сравнение  транспортом широко используют методы 
+
+интервальных характеристик  геоинформатики и цифровые модели.
+реальной ситуации транспортного 
+
+объекта с эталонной, заданной  Классические цифровые модели под-
+графиком. Использование  вижных объектов вычисляют по коорди-
+
+модели для анализа и управления  натам в точке их нахождения. Фактиче-
+интеллектуальной транспортной  ски это означает, что подобные модели, 
+
+системой. п р и м е н я е м ы е  в  г е о и н ф о р м а т и к е 
+и на транспорте, содержат только коор-
+динатную информацию и определены 
+в реальном трехмерном пространстве. 
+Временная привязка координат в них 
+присутствует, но лишь как фиксация 
+времени измерения точки пространства, 
+в которой находится объект.
+
+Управление, основанное на таком 
+принципе, включает оценку характери-
+стик объекта в некоторой точке и при-
+нятие решений на этой основе. При 
+
+Ключевые слова: высокоскоростная высокоскоростном движении подобный 
+железная дорога, интеллектуальное подход замедляет анализ ситуации, что 
+управление, интервальные модели, повышает уязвимость объекта и риск 
+
+цифровые модели, график движения, 
+модели геоданных для управления неверного принятия решений [2].
+
+транспортом. Для устранения названного недостат-
+ка предлагается использовать интеграль-
+
+•МИР ТРанСПОРТа 05’13
+
+
+
+ное управление, основанное на новом 
+типе цифровых моделей. При этом необ- L
+ходимо определять цифровые модели 
+не только в пространстве координат, но 
+и в более емком пространстве параме-
+тров, которое, кроме координатных, 
+включает данные о скорости и ускорении.
+
+Второе отличие моделей состоит 
+в том, что они являются интервальными, 
+определяются не в точке, а характеризу-
+ют интервалы измеряемых величин «от 
+и до». Такие интервалы вычисляются для t
+расстояний, скоростей и ускорений. Рис. 1. График движения в расстояниях.
+
+Третье отличие предполагает, что за-
+ранее, в соответствии с графиком дви-
+жения скоростного объекта, создается 
+эталонная интервальная модель движе- V
+ния, которая представляет собой набор 
+масок (допустимых интервалов расстоя-
+ний, допустимых интервалов скоростей, 
+допустимых интервалов ускорений). 
+Управление осуществляется посредством 
+сравнения реальной интервальной циф-
+ровой и эталонной интервальной моде-
+лей движения.
+
+На рис. 1 приведен график движения 
+в расстояниях (L – расстояние; t – время).
+
+Сплошная линия показывает график t
+штатного движения. Вертикальные линии – 
+шаблоны или маски. Они показывают до- Рис. 2. График движения в скоростях.
+
+пустимый интервал отклонения от графика. 
+Пунктирная линия – пример линии движе- чены стрелками. Стрелки показывают 
+ния допустимого отклонения от графика. отрицательное или положительное уско-
+Если график движения (пунктирная линия) рение. Двойная стрелка соответствует 
+выходит за рамки шаблонов – ситуация нулевому ускорению или изменению его 
+критична и надо принимать экстренные направления.
+меры. Для оперативного определения уско-
+
+При принятии управленческого ре- рений и скоростей непосредственно 
+шения кроме модели,  отраженной на объекте возможно применение авто-
+на рис. 1, учитывают и другие факторы: матических устройств [3, 4].
+скорости и ускорения. На рис. 2 приве- Все три рассмотренных компонента 
+ден график движения в скоростях (V – (рис. 1–3) входят в динамическую модель 
+скорость; t – время). геоданных [5, 6]. Различие в том, что они 
+
+Отличие рис. 2 от рис. 1 в том, что характеризуют интервалы, а не отдельные 
+маски (шаблоны) для скоростей сущест- точки пространства. Для обработки три 
+венно различаются. компонента объединяются в модель, ко-
+
+На рис. 3 показан график движения торая называется «интегрированная ин-
+того же объекта в ускорениях( (а) – уско- формационная основа» [7].
+рение; t – время). По существу, такой подход является 
+
+Для ускорения важным параметром развитием идей интегрированного 
+7
+
+является направление, поэтому оно от- управления транспортными объектами 
+ражено в модели. [8], но с включением в динамическую 
+
+Отличие рис. 3 от рис. 2 в том, что модель геоданных интервальных пере-
+маски (шаблоны) для ускорений обозна- менных и системы шаблонов.
+
+•МИР ТРанСПОРТа 05’13
+
+
+
+8 a
+
+Рис. 3. График движения 
+в ускорениях.
+
+t
+
+В методологическом плане демон- интервальных цифровых моделей на-
+стрируемый подход развивает идеи си- правлена на улучшение эффективности 
+туационного управления транспортны- работы железнодорожного транспорта 
+ми объектами или, как его именуют за счет повышения пропускной способ-
+за рубежом, «школы управления при ности линий, сокращения эксплуатаци-
+непредвиденных обстоятельствах» [9]. онных расходов и энергопотребления, 
+
+В аспекте информационной поддер- а также износа пути и подвижного соста-
+жки и информационного обеспечения ва
+речь при таком подходе идет о примене-
+нии понятий информационной ситуации лИТЕРаТуРа
+и информационной позиции при приня- 1. Якунин В. И., Макаров В. Л., Бахтизин А. Р., 
+
+Сулакшин С. С. Государственная инвестиционная 
+тии решений [10]. политика на транспорте и её экономические по-
+
+Процесс управления осуществляется следствия // Вестник Российской академии наук. – 
+в информационном пространстве. Сравни- 2007. – Том 77, № 6. – С. 483–497.
+
+2. Методика проведения оценки уязвимости 
+вается текущая информационная ситуация, объектов транспортной инфраструктуры и тран-
+включающая интегрированную модель спортных средств железнодорожного транспорта. 
+с тремя компонентами, и реальная инфор- Утверждена ОАО «РЖД» 28.07.2010 г. № 309.
+
+3. Розенберг Е. И., Розенберг И. Н., Цвет-
+мационная ситуация, определяемая с помо- ков В. Я., Шевцов Б. В. Устройство контроля 
+щью автоматических средств и навигацион- подвижного объекта. Патент на полезную модель. 
+ных систем. Процесс сравнения может № RU 95851 U1. Зарегистр. 10.07.2010.
+
+4. Вихрова Н. Ю., Кисельгоф Г. К., Розен-
+выполняться только интеллектуальной берг Е. И., Розенберг И. Н., Сазонов Н. В., Цвет-
+транспортной системой или автоматизиро- ков В. Я., Шевцов Б. В. Система контроля и управ-
+ванной системой для повышения оператив- ления скоростным электропоездом. Патент на по-
+
+лезную модель. RU94939 U1. Заявка: 2010107335/22, 
+ности контроля и управления. Человек срок действия с 01.03.2010.
+не в состоянии за требуемый период оценить 5. Цветков В. Я. Модель геоданных для управ-
+эти три интервала параметров и оперативно ления транспортом //Успехи современного есте-
+
+ствознания. – 2009. – № 4. – С. 50–51.
+принять адекватное решение. 6. Розенберг И. Н., Цветков В. Я., Создание 
+
+Определение местоположения под- динамической пространственно-временной моде-
+вижных единиц происходит посредством ли управления железной дорогой // Геодезия 
+
+и картография. – 2010. – № 8. – С. 48–51.
+спутниковой навигации ГЛОНАСС/GPS 7. Цветков В. Я. Создание интегрированной 
+или мобильных систем соответствующе- информационной основы ГИС// Геодезия и аэро-
+го назначения. фотосъемка. – 2000. – № 4. – С.150–154.
+
+8 .  Р о з е н б е р г  И .  Н . ,  То н и  О .  В . ,  Ц в е т -
+Система интегрального управления ков В. Я. Интегрированная система управления 
+
+высокоскоростными объектами на осно- железной дорогой с применением спутниковых 
+ве использования трехкомпонентных технологий// Транспорт Российской Федерации. – 
+
+2010. –№ 6. – С.54–57.
+
+•МИР ТРанСПОРТа 05’13
+
+
+
+9. Васютинский И. Ю., Шингарева К. Б., Бо- 10. Tsvetkov V. Ya. Information Situation and 
+лотин В. В. и др. Тенденции развития основных Information Position as a Management Tool // 
+школ управления // Геодезия и аэрофотосъемка. – European Researcher, 2012, Vol. (36), № 12–1, 
+2012. – № 1. – С. 90–95. p.2166–2170. •
+integrated Control of high speed railway
+
+Tsvetkov, Victor Ya. – D. Sc. (Tech), D. Sc. (Economics), professor of the department of navigation and 
+geoinformatics of Moscow State University of Railway Engineering (MIIT), advisor to the director of Research 
+Institute Aerocosmos, Moscow, Russia.
+
+The article is devoted to the choice of a new model In order to overcome such a default the author 
+of control for high speed transport which is based on suggests using integrated control, based on a new 
+its definition in the space of parameters. It studies type of digital models. Such digital model should be 
+application of traffic schedule patterns and compares determined not only in the space of coordinates, but 
+interval parameters of a real positioning of a transport in a more capacious space of parameters including 
+object with a sample situation, set by schedule. The coordinate, speed and acceleration data.
+author suggests the ways how to use the described The second feature of the new model consists in 
+model to analyze and control intelligent transport the interval character, the models are determined 
+system. not for a point but for a certain interval of evaluated 
+Classical digital models of moving objects are values «from… till…» for distances, speeds, and 
+computed on the basis of the coordinates in the accelerations. The third feature supposes simulating 
+point of their current situation. It means that such of reference sample interval model of traffic 
+models, once they are applied for geoinformatics according to traffic schedule of a rapidly moving 
+and transport, contain information on coordinates object, that represents a set of mask (allowable 
+only and are determined in real 3D space. Temporal intervals of distances, speeds, accelerations). 
+referencing of coordinates exists only as a form of Control is accomplished via comparison of real 
+recording of the time of measuring of a spatial point digital interval traffic model and of reference interval 
+where the object is situated. traffic model.
+The control, based on such approach, includes Such an approach is a development of the ideas 
+evaluation of the features of an object in a given оf integrated control of transport objects but the 
+point and decision making referred to such a point. described dynamic model includes moreover 
+While when high speed traffic is concerned, such geoinformatics data of interval variables and a sample 
+an approach delays analysis of a situation, causing system. Methodologically the suggested approach 
+growing risks of object vulnerability and incorrect develops ideas of situation control of transport objects 
+decisions. or of control under unforeseen circumstances.
+
+Key words: high speed railway, intelligent control, interval models, digital models, traffic schedule, models of 
+geoinformatics data for transport control.
+
+referenCes 
+ 1. Yakunin V.I., Makarov V.L., Bahtizin A.R., Sulak- Uspehi  sovremennogo  estestvoznaniya, 2009, №4, pp. 
+
+shin S.S. Transport public investment politics and its effects 50-51.
+for economics [Gosudarstvennaya investitsionnaya politika  6. Rozenberg I.N., Tsvetkov V.Ya., Engineering of 
+na  transporte  i  ee  ekonomicheskie  posledstviya].  Vestnik  dynamic spatial-temporal model of rail control [Sozdanie 
+Rossiyskoy akademii nauk [Transactions of Russian acad- dinamicheskoy  prostranstvenno-vremennoy  modeli 
+emy of sciences], 2007, Vol.77, № 6, pp. 483-497. upravleniya zheleznoy dorogoy]. Geodeziya  i kartografiya, 
+
+2. Methods of assessment of vulnerability of 2010, №8, pp. 48-51.
+infrastructure objects and rolling stock of railways [Metodika  7. Tsvetkov V.Ya. Engineering of integrated information 
+provedeniya  otsenki  uyazvimosti  obektov  transportnoy  basis of geoinformatics systems [Sozdanie integrirovannoy 
+infrastruktury  i  transportnyh  sredstv  zheleznodorozhnogo  informatsionnoy osnovy GIS]. Geodeziya i aerofotosyemka, 
+transporta], adopted OAO «RZD» 28.07.2010, № 309. 2000, №4, pp. 150-154.
+
+3. Rozenberg E.I., Rozenberg I.N., Tsvetkov V.Ya., 8. Rozenberg I.N., Toni O.V., Tsvetkov V.Ya. 
+Shevtsov B.V. Device to control moving object [Ustroystvo  Integrated system of railway control with the help of 
+kontrolya  podvizhnogo  obekta]. Patent for utility model satellite technology [Integrirovannaya sistema upravleniya 
+№ RU 95851 U1. Reg. 10.07.2010. zheleznoy dorogoy s primeneniem sputnikovyh tehnologiy]. 
+
+4. Vihrova N.Yu., Kisel’gof G.K., Rozenberg E.I., Transport Rossiyskoy Federatsii, 2010, № 6, pp. 54-57.
+Rozenberg I.N., Sazonov N.V., Tsvetkov V.Ya., Shevtsov 9. Vasyutinskiy I.Yu., Shingareva K.B., Bolotin V.V. 
+B.V. Control system for rapid electric train [Sistema  et al. Trends of development of main schools of control 
+kontrolya i upravleniya skorostnym elektropoezdom]. Patent [Tendentsii razvitiya osnovnyh shkol upravleniya]. Geodeziya 
+for utility model № RU94939 U1. Deposed application i aerofotosemka, 2012, №1, pp. 90-95.
+2010107335/22 valid from 01.03.2010. 10. Tsvetkov V.Ya. Information Situation and 
+
+5. Tsvetkov V.Ya. Model of geodata for transport Information Position as a Management Tool. European 
+control [Model’ geodannyh dlya upravleniya transportom]. Researcher, 2012, Vol.(36), № 12-1, pр.2166-2170.
+
+9
+Координаты автора (contact information): Цветков В. Я. (Tsvetkov V. Ya.) – cvj2@yandex.ru
+
+Статья поступила в редакцию / article received 10.04.2013
+Принята к публикации / article accepted 03.05.2013
+
+•МИР ТРанСПОРТа 05’13

@@ -1,0 +1,338 @@
+﻿Уронефрология
+DOI: 10.51793/OS.2022.25.9.003
+Оригинальная статья / Original article
+
+Патология почек у пациентов 
+с COVID-19
+А. В. Киселева, ORCID: 0000-0003-2303-074X, kiseleva.anastas1a@yandex.ru
+А. В. Лескова, ORCID: 0000-0003-1556-3271, leskova_anastasiia@mail.ru
+В. В. Скворцов, ORCID: 0000-0002-2164-3537, vskvortsov1@ya.ru
+Федеральное государственное бюджетное образовательное учреждение высшего образования Волгоградский 
+государственный медицинский университет Министерства здравоохранения Российской Федерации; 
+400131, Россия, Волгоград, пл. Павших Борцов, 1 
+Резюме. Коронавирусы обладают высокой контагиозностью и высокой тропностью к почечной ткани. Новая коронавирусная 
+инфекция способна вызывать широкий спектр патологических аномалий почек, что обусловлено содержанием в органах РНК 
+ангиотензинпревращающего фермента типа 2, трансмембранной сериновой протеазы 2 и катепсина L, которые считаются 
+мишенью для SARS-CoV-2. Клинические проявления варьируют от легких форм острой респираторной вирусной инфек-
+ции до тяжелых полиорганных поражений. Различные клинические формы поражения почек при COVID-19 обусловлены 
+многочисленными патогенетическими механизмами, такими как прямое цитопатическое действие вируса на структуры 
+почек, эндотелиальная дисфункция, цитокиновый шторм, нарушения гемодинамики и водного обмена, поражение ренин-
+ангиотензин-альдостероновой системы. SARS-CoV-2 взаимодействует с расположенными на эндотелии кровеносных сосудов 
+АПФ2-рецепторами, оказывая неблагоприятное влияние на микрососудистое русло. Кроме того, повреждение почеч-
+ной ткани вызвано синтезом провоспалительных интерлейкинов, а также гиповолемией и накоплением ангиотензина II 
+и брадикинина. Поражение почек у пациентов с COVID-19 включает такие нозологические формы, как коллапсирующая 
+нефропатия, болезнь минимальных изменений, мембранозная гломерулопатия, анти-ГБМ-нефрит, острый тубулярный 
+некроз, обострение аутоиммунного гломерулонефрита, отторжение аллотрансплантата. В ходе клинических наблюдений 
+учеными из разных стран была установлена связь между подтвержденным COVID-19 и следующими лабораторными дан-
+ными: гематурия, протеинурия, повышенные уровни азота мочевины крови, креатинина сыворотки, мочевой кислоты, 
+D-димера. Недавние исследования продемонстрировали, что пациенты с COVID-19 часто страдают почечной недостаточно-
+стью, которая тесно связана с более высоким уровнем смертности и заболеваемости и является показателем выживаемости 
+при коронавирусной инфекции. Кроме того, наличие у пациента таких факторов риска, как хроническая болезнь почек, 
+сердечно-сосудистая патология, наличие иммунодефицитных состояний, прием нефротоксичных лекарственных средств, 
+сахарный диабет, гипертоническая болезнь, ожирение, атеросклероз, пожилой возраст, осложняет течение инфекции 
+и ухудшает прогноз заболевания. Таким образом, патологическое влияние коронавируса на организм в целом и на почки 
+в частности, а также высокая смертность среди пациентов с почечной патологией обуславливают актуальность изучения 
+этой проблемы и поиск путей ее решения.
+Ключевые слова: COVID-19, почки, поражение почек, ассоциированное с коронавирусом, нефропатии, мишень SARS-CoV-2.
+Для цитирования: Киселева А. В., Лескова А. В., Скворцов В. В. Патология почек у пациентов с COVID-19 // Лечащий Врач. 
+2022; 9 (25): 19-23. DOI: 10.51793/OS.2022.25.9.003
+
+Kidney pathology in COVID-19 patients
+Anastasiya V. Kiseleva, ORCID: 0000-0003-2303-074X, kiseleva.anastas1a@yandex.ru
+Anastasiya V. Leskova, ORCID: 0000-0003-1556-3271, leskova_anastasiia@mail.ru
+Vsevolod V. Skvortsov, ORCID: 0000-0002-2164-3537, vskvortsov1@ya.ru
+Federal State Budgetary Educational Institution of Higher Education Volgograd State Medical University of the Ministry of Health of the 
+Russian Federation; 1 Pavshikh Bortsov Square, Volgograd, 400131, Russia
+
+Abstract. Coronaviruses are highly contagious and highly tropic to the kidney tissue. A new coronavirus infection can cause a wide range 
+of pathological abnormalities of the kidneys, which is due to the content in the organs of angiotensin converting enzyme type 2 (ACE2), 
+transmembrane serine protease 2 and cathepsin L, which are considered a target for SARS-CoV-2. Clinical manifestations vary from mild 
+forms of acute respiratory viral infection to severe multiple organ lesions. Various clinical forms of kidney damage in COVID-19 are due 
+to numerous pathogenetic mechanisms, such as the direct cytopathic effect of the virus on kidney structures, endothelial dysfunction, 
+cytokine storm, hemodynamic and water metabolism disorders, and damage to the renin-angiotensin-aldosterone system. SARS-CoV-2 
+interacts with ACE2 receptors located on the endothelium of blood vessels, adversely affecting the microvascular bed. In addition, damage 
+to the renal tissue is caused by the synthesis of pro-inflammatory interleukins, as well as hypovolemia and the accumulation of angiotensin 
+II and bradykinin. Kidney damage in patients with COVID-19 includes such nosological forms as collapsing nephropathy, minimal change 
+disease, membranous glomerulopathy, anti-GBM nephritis, acute tubular necrosis, exacerbation of autoimmune glomerulonephritis, 
+allograft rejection. During clinical observations, scientists from different countries have established a relationship between confirmed 
+COVID-19 and the following laboratory data: hematuria, proteinuria, elevated levels of blood urea nitrogen, serum creatinine, uric acid, 
+
+LECHASCHI VRACH, VOL. 25, № 9, 2022, https://journal.lvrach.ru/ 19
+
+
+
+Уронефрология
+
+D-dimer. Recent studies show that patients with coronavirus often suffer from kidney failure, which is closely associated with higher 
+mortality and morbidity and is an indicator of survival in coronavirus infection. In addition, the presence of such risk factors in a patient 
+as chronic kidney disease, cardiovascular pathology, the presence of immunodeficiency states, the use of nephrotoxic drugs, diabetes mel-
+litus, hypertension, obesity, atherosclerosis, and advanced age complicate the course of infection and worsen the prognosis of the disease. 
+Thus, the pathological effect of coronavirus on the body and on the kidneys, in particular, as well as high mortality among patients with 
+renal pathology, determines the relevance of studying this problem and finding ways to solve it.
+Keywords: COVID-19, kidneys, kidney damage associated with coronavirus, nephropathy, SARS-CoV-2 target.
+For citation: Kiseleva A. V., Leskova A. V., Skvortsov V. V. Kidney pathology in COVID-19 patients // Lechaschi Vrach. 2022; 9 (25): 19-23. 
+DOI: 10.51793/OS.2022.25.9.003
+
+В конце 2019 г. человечество столкнулось со вспыш- пизм SARS-CoV и подтверждающие, что ренальный тропизм 
+кой новой коронавирусной инфекции (НКИ), кото- является частой причиной поражения почек у пациентов 
+рая приобрела характер пандемии. Характерными с COVID-19. Секвенирование одноклеточной РНК показало, 
+чертами SARS-CoV-2 являются высокая контагиоз- что клетки почек содержат РНК АПФ2, трансмембранной 
+
+ность вируса, тропность к различным тканям человеческого сериновой протеазы 2 и катепсина L, которые, как счита-
+организма, способность вызывать целый ряд заболеваний – ется, являются мишенью для SARS-CoV-2. Также при коли-
+от легких форм острых респираторных вирусных инфекций чественном определении вирусной нагрузки SARS-CoV-2 
+до тяжелых полиорганных поражений. в определенных почечных структурах, полученных с помо-
+
+Несмотря на то, что основной мишенью вируса является щью микродиссекции ткани, у трех из шести пациентов, 
+легочная ткань, почка – один из наиболее часто поражаемых подвергшихся аутопсии, вирусная нагрузка SARS-CoV-2 опре-
+органов. Механизмы повреждения почек при инфекции раз- делялась во всех исследованных отделах почек с преимуще-
+нообразны, как и формы нефропатий. ственным поражением гломерулярных клеток [9].
+
+Появляется все больше данных, свидетельствующих 2. Эндотелиальная дисфункция
+о том, что COVID-19 может вызывать поражение почек, Является ключевым фактором риска развития коагулопа-
+на что указывают возникновение протеинурии, гематурии тии, связанной с COVID-19. SARS-CoV-2 взаимодействует 
+и повышенный уровень креатинина в сыворотке крови при с расположенными на эндотелии кровеносных сосудов 
+поступлении. Высокая частота острого поражения почек АПФ2-рецепторами, вызывая эндотелиальную дисфункцию, 
+и спектр патологических аномалий, включая острый тубу- что приводит к развитию вазоконстрикции, гиперпроница-
+лярный некроз, повреждение эндотелия и закупорку капил- емости сосудов, нарушению микроциркуляции, развитию 
+ляров, отложение комплекса комплемента в канальцах и гло- сосудистой тромбофилии, множественным микротромбо-
+мерулярные поражения, выявленные в отчетах о вскрытии, зам и в конечном итоге может вызвать отек, кровоизлия-
+также позволяют установить связь между заражением коро- ние, некроз, геморрагический инфаркт различных органов. 
+навирусом и патологией почек. Причем наиболее выраженные изменения наблюдаются 
+
+Недавние исследования демонстрируют, что пациенты в органах, чье микрососудистое русло уже имеет предсуще-
+с COVID-19 часто страдают почечной недостаточностью, кото- ствующие нарушения [10, 11]. 
+рая тесно связана с более высоким уровнем смертности и забо- Z. Varga, A. J. Flammer, P. Steiger и соавт. в ходе исследования 
+леваемости и является показателем выживаемости при НКИ [1]. получили данные о том, что повреждение почек и других 
+
+Все это обуславливает актуальность изучения механизмов органов при COVID-19 происходит в результате индукции 
+и клинических проявлений заболеваний почек при COVID-19. эндотелиита вследствие прямого вирусного поражения 
+
+и воспалительной реакции хозяина. При электронной 
+Патогенез поражения почек при COVID-19 микроскопии среза пересаженной почки пациента, умер-
+
+Многочисленные патогенетические механизмы поражения шего от полиорганной недостаточности, развившейся 
+почек у пациентов с COVID-19 можно разделить на несколько на фоне НКИ, в эндотелиальных клетках сосудов выявлены 
+групп: включения вирионов. Гистологическое исследование пока-
+
+1. Прямое цитопатическое действие на структуры почек зало инфильтрацию эндотелия воспалительными клетками. 
+Как известно, основным рецептором для проникновения Исследование гистологических препаратов, полученных 
+
+в клетку вируса SARS-CoV-2 является рецептор ангиотен- от других пациентов, также подтверждает наличие эндоте-
+зинпревращающего фермента типа 2 (АПФ2), который экс- лиита в различных органах – легких, сердце, почках, печени, 
+прессируется в различных органах, включая легкие, сердце, кишечнике. Полученные данные свидетельствуют о том, 
+кишечник и почки [2-6]. В почках этот рецептор расположен что эндотелиальная дисфункция является основной детер-
+в подоцитах, мезангиальных клетках, париетальном эпите- минантой микрососудистой дисфункции с последующими 
+лии капсулы Боумена, клетках проксимальных канальцев полиорганными нарушениями [12]. В соответствии с этими 
+и собирательных трубочек [7]. представлениями COVID-19 является генерализованным 
+
+База данных PubMed показывает, что, по результатам секве- вирусным васкулитом с патогенетически значимым пора-
+нирования РНК тканей человека, экспрессия AПФ2 в органах жением артериол [12]. 
+желудочно-кишечного тракта (ЖКТ) и почках почти в 100 раз 3. Цитокиновый шторм и острая почечная недостаточность, 
+выше, чем в органах дыхания [8]. Следовательно, заболевание ассоциированная с острым респираторным дистресс-синдромом 
+почек может быть вызвано попаданием коронавируса в клетки В ответ на распространение и репликацию вируса проис-
+почек через рецептор AПФ2. ходит развитие аномального иммунного ответа, характеризу-
+
+V. G. Puelles, M. Lütgehetmann, M. T. Lindenmeyer и соавт. ющегося синтезом огромного количества провоспалительных 
+получили данные, указывающие на широкий органотро- интерлейкинов (ИЛ-1β, ИЛ-6, фактора некроза опухоли и др.) 
+
+20 ЛЕЧАЩИЙ ВРАЧ, ТОМ 25, № 9, 2022, https://journal.lvrach.ru/
+
+
+
+Uronephrology
+
+и хемокинов при одновременном снижении содержания Т-лим- Клинические проявления патологии почек 
+фоцитов в крови (цитокиновый шторм). Развивающийся при COVID-19
+порочный круг вызывает разрушение тканей очага воспаления, Поражение почек при НКИ включает такие нозологи-
+распространяясь при этом на соседние ткани и приобретая ческие формы, как коллапсирующая нефропатия, болезнь 
+системный характер. Предполагается, что цитокиновый шторм минимальных изменений, мембранозная гломерулопатия, 
+также является ключевым фактором, определяющим развитие анти-ГБМ-нефрит, острый тубулярный некроз, обострение 
+и течение внелегочной полиорганной недостаточности [6, 10]. аутоиммунного гломерулонефрита, отторжение аллотранс-
+
+Острая почечная недостаточность (ОПП), развивающаяся плантата. К такому выводу пришли ученые из Нью-Йорка, 
+на фоне острого респираторного дистресс-синдрома (ОРДС), осуществившие оценку серии биопсий 14 нативных и 3 алло-
+наблюдается примерно у 35-50% пациентов и значительно трансплантированных почек пациентов с COVID-19 [21]. 
+увеличивает вероятность летального исхода. Выделяют Результаты исследования 220 пациентов из Москвы позволя-
+несколько причин развития ОПП при ОРДС: гемодинами- ют также судить о наличии ХБП у больных НКИ (15% иссле-
+ческие эффекты (приводят к повышению давления в легочной дуемых). При этом частота острой почечной патологии не 
+артерии, правожелудочковой недостаточности, венозному имела значимой взаимосвязи с исходной функцией почек [18].
+застою и повышению внутрибрюшного/внутригрудного В исследовании, включавшем 1280 госпитализирован-
+давления), нарушение газообмена – гипоксемия/гиперкап- ных больных с COVID-19, развитие острого повреждения 
+ния (ведет к снижению почечного кровотока и нарушению почек наблюдалось почти у трети (28,9%). При этом были 
+кислотно-щелочного баланса), гипервоспаление и нейрогор- получены следующие лабораторные данные: умеренная про-
+мональные эффекты (например, активация ренин-ангиотен- теинурия (от 0,3 до 3 г/л) определялась у 648 (50,6%) паци-
+зин-альдостероновой системы; РААС) [13, 14]. ентов с COVID-19, гематурия – у 77 (6,0%), лейкоцитурия – 
+
+В 2019 г. A. Panitchote, O. Mehkri, A. Hastings, T. Hanane у 282 (22,0%) [19].
+и соавт. в ходе ретроспективного исследования, включавшего Ученым из Китая также удалось установить у пациентов 
+357 пациентов с ОРДС, у которых не было хронической болез- с COVID-19 в критическом состоянии осложнение в виде 
+ни почек (ХБП) или ОПП до появления ОРДС, установили, острого поражения почек. Преобладающей патологической 
+что у 244 (68,3%) пациентов развилась ОПП после дебюта находкой было острое повреждение канальцев. Пожилой 
+ОРДС. Кроме того, тяжесть ОПП ассоциировалась с пожилым возраст и повышенный уровень ИЛ-6 в сыворотке были фак-
+возрастом, высоким индексом массы тела, сахарным диабе- торами риска ОПП. Острое поражение почек в 3-й стадии 
+том, сердечной недостаточностью в анамнезе, более высоким неизбежно приводило к смерти [20]. 
+пиковым давлением в дыхательных путях и более высокой Данные лабораторных исследований, клинических сим-
+последовательной оценкой органной недостаточности [15]. птомов, функционального состояния органов 193 взрослых 
+
+4. Нарушения гемодинамики пациентов с лабораторно подтвержденным COVID-19 были 
+ОПП может вызывать и другие осложнения COVID-19, получены в еще одном китайском исследовании. Полученные 
+
+такие как право- и левожелудочковая недостаточность. результаты сравнили между тремя группами: нетяжелые (128) 
+Первая приводит к застою крови в почках, а вторая – к сни- и тяжелые пациенты с COVID-19 (65) и контрольная группа. 
+жению сердечного выброса и развитию почечной гипопер- Исследователи выявили частую дисфункцию почек и воз-
+фузии [14, 16]. никновение ОПП у пациентов с COVID-19. Однофакторный 
+
+5. Нарушения водного обмена регрессионный анализ Кокса показал, что протеинурия, 
+Гиповолемия, возникающая как следствие лихорадки гематурия и повышенные уровни азота мочевины крови, 
+
+и тахипноэ, может поражать почки по преренальному меха- креатинина сыворотки, мочевой кислоты, а также D-димера 
+низму. Это состояние вызывает почечную гипоперфузию были в значительной степени связаны со смертью пациентов 
+и, как следствие, почечную недостаточность. Рабдомиолиз, с COVID-19. Регрессионный анализ Кокса также показал, что 
+метаболический ацидоз и гиперкалиемия также связаны у пациентов с ОПП, развившейся на фоне COVID-19, риск 
+с этим состоянием. Это оказывает существенное влияние смерти в 5,3 раза превышал таковой у пациентов без ОПП, 
+на ухудшение функции почек и впоследствии – на возник- что намного выше, чем при сопутствующих хронических 
+новение ОПП [14]. заболеваниях [3].
+
+6. Поражение ренин-ангиотензин-альдостероновой системы В Ухане было произведено проспективное когортное 
+Оно также происходит в результате взаимодействия вируса исследование 701 пациента с COVID-19, поступившего 
+
+с рецептором АПФ2, что приводит к нарушению работы в клиническую больницу третичного уровня, из числа 
+РААС, накоплению ангиотензина II и брадикинина, вызы- которых 113 (16,1%) умерли в больнице. При поступле-
+вающему ОРДС, отек легких, миокардит, и индуцирует вазо- нии у 43,9% больных отмечалась протеинурия, у 26,7% — 
+дилатацию, вызывает натрийурез [7, 10]. гематурия. Распространенность повышенного уровня 
+
+К заболеваниям почек при COVID-19 приводит наличие креатинина в сыворотке, азота мочевины в крови и рас-
+у пациента следующих факторов риска: ХБП, сердечно-сосу- четной клубочковой фильтрации ниже 60 мл/мин/1,73 м2 
+дистая патология, застойная сердечная недостаточность и, составила 14,4%, 13,1% и 13,1% соответственно. За период 
+как следствие, развитие кардиоренального синдрома, нали- исследования ОПП возникла у 5,1% пациентов. Анализ 
+чие иммунодефицитных состояний, прием нефротоксичных Каплана – Мейера показал, что пациенты с заболеванием 
+лекарственных средств. Сахарный диабет, гипертоническая почек имели значительно более высокий риск внутриболь-
+болезнь, ожирение, атеросклероз, пожилой возраст также ничной смерти [16].
+относятся к факторам риска инфицирования SARS-CoV-2, 
+к тому же их наличие осложняет клиническое течение и ухуд- Заключение
+шает исходы заболевания. По данным Международного обще- Таким образом, изучив российские и зарубежные научные 
+ства нефрологов поражение почек наблюдается при тяжелом статьи, можно сделать вывод о том, что почки часто стано-
+течении COVID-19 в 25-50% случаев [10, 14, 17]. вятся мишенью вируса SARS-CoV-2.
+
+LECHASCHI VRACH, VOL. 25, № 9, 2022, https://journal.lvrach.ru/ 21
+
+
+
+Уронефрология
+
+В развитии патологического процесса участвует несколько [Kogan Ye. A., Berezovskiy Yu. S., Protsenko D. D., Bagdasaryan T. R., 
+взаимосвязанных патогенетических механизмов, приво- Gretsov Ye. M., Demura S. A., Demyashkin G. A., Kalinin D. V., Kukleva A. D., 
+дящих к развитию порочного круга: цитопатическое дей- Kurilina E. V., Nekrasova T. P., Paramonova N. B., Ponomarev A. B., 
+ствие вируса на почечную ткань и сосуды, обусловленное Radenska-Lopovok S. G., Semenova L. A., Tertychnyy A. S. Pathological anatomy 
+экспрессией АПФ2-рецептора; формирование цитокинового of infection caused by SARS-CoV-2 // Sudebnaya meditsina. 2020; 2. 
+шторма и системного воспалительного ответа, приводящих URL: https://cyberleninka.ru/article/n/patologicheskaya-anatomiya-infektsii-
+к коагулопатии с образованием множественных микротром- vyzvannoy-sars-cov-2.]
+бов, развитием системного васкулита органов и тканей. 8.  https://www.ncbi.nlm.nih.gov/gene/?term=59272.
+
+Многим экспертам со всего мира удалось установить связь 9.  Puelles V. G., Lütgehetmann M., Lindenmeyer M. T., Sperhake J. P., Wong M. N., 
+между воздействием коронавируса и возникновением раз- Allweiss L., Chilla S., Heinemann A., Wanner N., Liu S., Braun F., Lu S., Pfefferle S., 
+личных форм нефропатий в ходе исследований: от острого Schröder A. S., Edler C., Gross O., Glatzel M., Wichmann D., Wiech T., Kluge S., 
+повреждения почек до почечной недостаточности. Особенно Pueschel K., Aepfelbacher M., Huber T. B. Multiorgan and Renal Tropism 
+неблагоприятен прогноз при наличии у пациента факторов of SARS-CoV-2 // N Engl J Med. 2020; 383 (6): 590-592. DOI: 1056/
+риска. Как следствие, изучение влияния НКИ на состояние NEJMc2011400. Epub 2020 May 13. PMID: 32402155; PMCID: PMC7240771.
+почек и поиск путей снижения смертности от тяжелых форм 10.  Выхристенко Л. Р., Счастливенко А. И., Бондарева Л. И., Сидоренко Е. В., 
+нефропатий остается актуальным. Музыка О. Г. Поражение почек при инфекции COVID-19 // Вестник 
+
+ВГМУ. 2021; 1. URL: https://cyberleninka.ru/article/n/porazhenie-pochek-
+КОНФЛИКТ ИНТЕРЕСОВ. Авторы статьи подтвердили отсутствие pri-infektsii-covid-19.
+конфликта интересов, о котором необходимо сообщить. [Vykhristenko L. R., Schastlivenko A. I., Bondareva L. I., Sidorenko Ye. V., 
+CONFLICT OF INTERESTS. Not declared. Muzyka O. G. Kidney damage in COVID-19 infection // Vestnik VGMU. 
+
+2021; 1. URL: https://cyberleninka.ru/article/n/porazhenie-pochek-pri-
+Литература/References infektsii-covid-19.]
+1.  Valizadeh R. et al. Coronavirus-nephropathy; renal involvement in COVID-19 // 11.  Кубанов А. А., Дерябин Д. Г. Новый взгляд на патогенез COVID-19: 
+
+J Renal Inj Prev. 2020; 2 (9): e18. заболевание является генерализованным васкулитом,а возникающее 
+2.  Werion A. et al. SARS-CoV-2 causes a specific dysfunction of the kidney при этом поражение легочной ткани – вариантом ангиогенного 
+
+proximal tubule // Kidney international. 2020; 5 (98): 1296-1307. отека легкого // Вестник РАМН. 2020; 2. URL: https://cyberleninka.ru/
+3.  Li Z. et al. Caution on kidney dysfunctions of COVID-19 patients // article/n/novyy-vzglyad-na-patogenez-covid-19-zabolevanie-yavlyaetsya-
+
+MedRxiv. 2020. generalizovannym-virusnym-vaskulitom-a-voznikayuschee-pri-etom.
+4.  Мустафин Р. Н., Хуснутдинова Э. К. Вероятные механизмы патогенеза [Kubanov A. A., Deryabin D. G. A new look at the pathogenesis of COVID-19: 
+
+COVID-19 // Креативная хирургия и онкология. 2020; 4. the disease is a generalized vasculitis, and the resulting damage to the lung 
+URL: https://cyberleninka.ru/article/n/veroyatnye-mehanizmy-patogeneza- tissue is a variant of angiogenic pulmonary edema // Vestnik RAMN. 2020; 
+covid-19. 2. URL: https://cyberleninka.ru/article/n/novyy-vzglyad-na-patogenez-
+[Mustafin R. N., Khusnutdinova E. K. Probable mechanisms of COVID-19 covid-19-zabolevanie-yavlyaetsya-generalizovannym-virusnym-vaskulitom-
+pathogenesis // Kreativnaya khirurgiya i onkologiya 2020; 4. URL: https:// a-voznikayuschee-pri-etom.]
+cyberleninka.ru/article/n/veroyatnye-mehanizmy-patogeneza-covid-19.] 12.  Varga Z., Flammer A. J., Steiger P., et al. Endothelial cell infection 
+
+5.  Грановская М. В., Заславская К. Я. COVID-19 – набор симптомов and endotheliitis in COVID-19 // Lancet. 2020; 395 (10234): 1417-1418. 
+или системная патология? Клиническая лекция. Часть 1. Особенности DOI: 10.1016/S0140-6736(20)30937-5.
+полиорганных нарушений // Инфекционные болезни: Новости. 13. J oannidis M., Forni L. G., Klein S. J., Honore P. M., Kashani K., Ostermann M., 
+Мнения. Обучение. 2020; S3 (34). URL: https://cyberleninka.ru/article/n/ Prowle J., Bagshaw S. M., Cantaluppi V., Darmon M., Ding X., Fuhrmann V., 
+covid-19-nabor-simptomov-ili-sistemnaya-patologiya-klinicheskaya-lektsiya- Hoste E., Husain-Syed F., Lubnow M., Maggiorini M., Meersch M., Murray P. T., 
+chast-1-osobennosti-poliorgannyh-narusheniy. Ricci Z., Singbartl K., Staudinger T., Welte T., Ronco C., Kellum J. A. Lung-
+[Granovskaya M. V., Zaslavskaya K. Ya. Is COVID-19 a set of symptoms or kidney interactions in critically ill patients: consensus report of the Acute 
+a systemic pathology? Clinical lecture. Part 1. Features of multiple organ Disease Quality Initiative (ADQI) 21 Workgroup // Intensive Care Med. 2020; 
+disorders // Infektsionnyye bolezni: Novosti. Mneniya. Obucheniye.2020; 46 (4): 654-672. DOI: 10.1007/s00134-019-05869-7. Epub 2019 Dec 9. 
+S3 (34). URL: https://cyberleninka.ru/article/n/covid-19-nabor-simptomov- PMID: 31820034; PMCID: PMC7103017.
+ili-sistemnaya-patologiya-klinicheskaya-lektsiya-chast-1-osobennosti- 14.  Ahmed A. R., Ebad C. A., Stoneman S., Satti M. M., Conlon P. J. Kidney injury 
+poliorgannyh-narusheniy.] in COVID-19 // World J Nephrol. 2020; 9 (2): 18-32. DOI: 10.5527/wjn.
+
+6.  Баклаушев В. П., Кулемзин С. В., Горчаков А. А., Юсубалиева Г. М., v9.i2.18. PMID: 33312899; PMCID: PMC7701935.
+Лесняк В. Н., Сотникова А. Г. COVID-19. Этиология, патогенез, 15. P anitchote A., Mehkri O., Hastings A., Hanane T., Demirjian S., Torbic H., 
+диагностика и лечение // Клиническая практика. 2020; 1. Mireles-Cabodevila E., Krishnan S., Duggal A. Factors associated with acute 
+URL: https://cyberleninka.ru/article/n/covid-19-etiologiya-patogenez- kidney injury in acute respiratory distress syndrome // Ann Intensive Care. 
+diagnostika-i-lechenie. 2019; 9 (1): 74. DOI: 10.1186/s13613-019-0552-5. Erratum in: Ann Intensive 
+[Baklaushev V. P., Kulemzin S. V., Gorchakov A. A., Yusubaliyeva G. M., Care. 2019 Jul 23; 9 (1): 84. PMID: 31264042; PMCID: PMC6603088.
+Lesnyak V. N., Sotnikova A. G. COVID-19. Etiology, pathogenesis, diagnosis and 16.  Cheng Y. et al. Kidney disease is associated with in-hospital death of patients 
+treatment // Klinicheskaya praktika. 2020; 1. URL: https://cyberleninka.ru/ with COVID-19 // Kidney international. 2020; 5 (97): 829-838.
+article/n/covid-19-etiologiya-patogenez-diagnostika-i-lechenie.] 17.  Wu C., Chen X., Cai Y., Xia J., Zhou X., Xu S., Huang H., Zhang L., Zhou X., 
+
+7.  Коган Е. А., Березовский Ю. С., Проценко Д. Д., Багдасарян Т. Р., Du C., Zhang Y., Song J., Wang S., Chao Y., Yang Z., Xu J., Zhou X., 
+Грецов Е. М., Демура С. А., Демяшкин Г. А., Калинин Д. В., Куклева А. Д., Chen D., Xiong W., Xu L., Zhou F., Jiang J., Bai C., Zheng J., Song Y. Risk 
+Курилина Э. В., Некрасова Т. П., Парамонова Н. Б., Пономарев А. Б., Factors Associated With Acute Respiratory Distress Syndrome and Death in 
+Раденска-Лоповок С. Г., Семенова Л. А., Тертычный А. С. Патологическая Patients With Coronavirus Disease 2019 Pneumonia in Wuhan, China // JAMA 
+анатомия инфекции, вызванной SARS-CoV-2 // Судебная медицина. Intern Med. 2020; 180 (7): 934-943. DOI: 10.1001/jamainternmed.2020.0994. 
+2020; 2. URL: https://cyberleninka.ru/article/n/patologicheskaya-anatomiya- Erratum in: JAMA Intern Med. 2020 Jul 1; 180 (7): 1031. PMID: 32167524; 
+infektsii-vyzvannoy-sars-cov-2. PMCID: PMC7070509.
+
+22 ЛЕЧАЩИЙ ВРАЧ, ТОМ 25, № 9, 2022, https://journal.lvrach.ru/
+
+
+
+Uronephrology
+
+18.  Столяревич Е. С. и др. Поражение почек при Covid-19: клинические Лескова Анастасия Викторовна, студентка Федерального 
+и морфологические проявления почечной патологии у 220 пациентов, государственного бюджетного образовательного учреждения 
+умерших от Covid-19 // Нефрология и диализ. 2020. Т. 22. высшего образования Волгоградский государственный медицинский 
+Спецвыпуск. С. 46. университет Министерства здравоохранения Российской 
+[Stolyarevich Ye. S. i dr. Kidney damage in Covid-19: clinical and Федерации; 400131, Россия, Волгоград, пл. Павших Борцов, 1; 
+morphological manifestations of renal pathology in 220 patients who died from leskova_anastasiia@mail.ru
+Covid-19 // Nefrologiya i dializ. 2020. T. 22. Spetsvypusk. P. 46.] Скворцов Всеволод Владимирович, д. м. н., профессор кафедры 
+
+19.  Чеботарева Н. В., Бернс С. А., Мясников А. Л. и др. Частота, факторы внутренних болезней Федерального государственного бюджетного 
+риска и прогностическое значение острого повреждения почек у образовательного учреждения высшего образования Волгоградский 
+больных c COVID19: ретроспективное когортное исследование // Клин. государственный медицинский университет Министерства 
+фармакол. тер. 2021; 30 (1): 30-35. здравоохранения Российской Федерации; 400131, Россия, Волгоград, 
+[Chebotareva N. V., Berns S. A., Myasnikov A. L. i dr. Frequency, risk factors, пл. Павших Борцов, 1; vskvortsov1@ya.ru
+and prognostic value of acute kidney injury in patients with Information about the authors: 
+COVID19: a retrospective cohort study. // Klin. farmakol. ter. 2021; Anastasiya V. Kiseleva, student of the Federal State Budgetary Educational 
+30 (1): 30-35.] Institution of Higher Education Volgograd State Medical University of the 
+
+20.  Xia P. et al. Clinicopathological features and outcomes of acute kidney injury Ministry of Health of the Russian Federation; 1 Pavshikh Bortsov Square, 
+in critically ill COVID-19 with prolonged disease course: a retrospective Volgograd, 400131, Russia; kiseleva.anastas1a@yandex.ru
+cohort // Journal of the American Society of Nephrology. 2020; 9 (31): Anastasiya V. Leskova, student of the Federal State Budgetary Educational 
+2205-2221. Institution of Higher Education Volgograd State Medical University of the 
+
+21.  Kudose S. et al. Kidney biopsy findings in patients with COVID-19 // Journal Ministry of Health of the Russian Federation; 1 Pavshikh Bortsov Square, 
+of the American Society of Nephrology. 2020; 9 (31): 1959-1968. Volgograd, 400131, Russia; leskova_anastasiia@mail.ru
+
+Vsevolod V. Skvortsov, Dr. of Sci. (Med.), Professor of the Department 
+Сведения об авторах: of Internal Diseases at the Federal State Budgetary Educational Institution 
+Киселева Анастасия Валерьевна, студентка Федерального of Higher Education Volgograd State Medical University of the Ministry 
+государственного бюджетного образовательного учреждения of Health of the Russian Federation; 1 Pavshikh Bortsov Square, Volgograd, 
+высшего образования Волгоградский государственный 400131, Russia; vskvortsov1@ya.ru
+медицинский университет Министерства здравоохранения 
+Российской Федерации; 400131, Россия, Волгоград, Поступила/Received 19.08.2022
+пл. Павших Борцов, 1; kiseleva.anastas1a@yandex.ru Принята в печать/Accepted 22.08.2022
+
+LECHASCHI VRACH, VOL. 25, № 9, 2022, https://journal.lvrach.ru/ 23

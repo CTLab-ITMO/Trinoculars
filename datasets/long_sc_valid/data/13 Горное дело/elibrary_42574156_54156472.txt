@@ -1,0 +1,686 @@
+﻿ОРИГИНАЛЬНЫЕ СТАТЬИ / ORIGINAL PAPERS 
+
+DOI: 10.17073/2500-0632-2019-4-251-261 
+
+Исследование ослабленности массива пород при подземной добыче руд 
+Голик В. И.1, Масленников С. А.2, Нуньес 3 4 
+
+Родригес Альберто Мартин , Анищенко В. И.
+1
+Северо-Кавказский горно-металлургический институт (СКГТУ), Владикавказ, Россия 
+
+2
+Донской государственный технический университет (филиал), Шахты, Россия 
+
+3
+Технический университет, Восточный Сибао, Доминиканская  республика 
+
+4
+LLC "Spetsmodulproekt", Нью-Йорк, США 
+
+Аннотация: Оптимизация процессов подземной разработки месторождений осуществляется за счет рацио-
+нального использования энергии для получения заданной крупности руд. Ее успех зависит от учета свойств 
+разрушаемой среды. Важную роль в управлении энергией играет ослабленность пород природными и тех-
+ногенными силовыми полями. Для внесения коррективов в общую модель управления энергией нужны све-
+дения о строении массива, получаемые геофизическими методами.  Поскольку для уменьшения выхода не-
+габаритных или излишне измельченных фракций минералов в процессе отбойки используют регулирование 
+затрат энергии взрыва на степень разупрочнения пород, целью исследования является определение эффек-
+тивности использования геофизических методов для оперативной и корректной оценки состояния породных 
+и закладочных массивов при подземной разработке месторождений твердых полезных ископаемых. Ослаб-
+ленность массивов пород оценивается методом электрометрических исследований в бескерновых разведоч-
+ных скважинах. Сопоставлением данных о степени ослабленности установлено наличие корреляционной 
+связи между участвующими параметрами, что позволяет выразить зависимость между ними. Дана оценка 
+эффективности использования геофизических методов для дифференциации природных и искусственных 
+массивов по ослабленности геологическими и технологическими силовыми полями. Для определения ко-
+эффициента ослабления по кажущемуся сопротивлению пород использованы материалы электрометриче-
+ского каротажа. На основе выявленной зависимости породный массив дифференцирован по степени ослаб-
+ленности пород. Дифференцированы и детализированы особенности составляющих комплекса геофизиче-
+ских методов исследований. Приведены методология и результаты подземного электрозондирования после-
+довательной градиент-установкой с помощью теоретических кривых на конкретном металлическом место-
+рождении с определением проводимости пород и расстояния до выработки. Дифференцированно дана 
+оценка корректности геофизических методов: ослабленности пород электрометрическим каротажем сква-
+жин, а опережающее оконтуривание зон неоднородностей в массивах месторождений –
+электрозондированием вдоль стенок выработок. На основании проведенных опытных работ по выявлению 
+структурных границ в массиве метод электрозондирования вдоль стенок выработок рекомендован для прак-
+тического применения. При использовании скважинного электрозондирования сходимость эксперимен-
+тальных кривых с теоретическими недостаточна. 
+
+Ключевые слова: разработка месторождения, порода, ослабленность, геофизические методы, электромет-
+рия, электрозондирование. 
+
+Для цитирования: Голик В. И., Масленников С. А., Нуньес Родригес Альберто Мартин, Анищенко В. И. 
+Исследование ослабленности массива пород при подземной добыче руд. Горные науки и технологии. 
+2019;4(4):251-261. DOI: 10.17073/2500-0632-2019-4-251-261. 
+
+ 
+  
+
+СВОЙСТВА ГОРНЫХ ПОРОД. ГЕОМЕХАНИКА И ГЕОФИЗИКА 251 
+
+
+
+ 
+
+Study of Rock Mass Stability Decrease due to Underground Mining 
+V. I. Golik1, S. A. Maslennikov 2, Alberto Martin Nunez Rodriguez4, V. I. Anischenko4 
+
+1North-Caucasian Mining and Metallurgical Institute (SKGTU), Vladikavkaz, Russia 
+2Don State Technical University, Shakhty, Russia 
+3Technical University, East Sibao, Dominican Republic 
+4LLC "Spetsmodulproekt", New York, USA 
+
+Abstract: The optimization of underground mining processes is carried out based on rational use of energy for ob-
+taining preset broken ore size. The effective optimization requires correct assessment of the properties of the rock 
+mass to be broken. Energy management requires assessment of rock mass stability decrease due to impact of natu-
+ral and technogenic stresses. To make adjustments to the general energy management model, information on the 
+rock mass structure is required to be obtained by geophysical methods. To optimize broken rock/ore size (to mini-
+mize oversized or excessively crushed mineral fraction yield during breaking), blasting energy application should 
+be regulated and smart. The study is aimed at assessing the effectiveness of using geophysical methods for the 
+prompt and correct assessment of rock and backfill mass condition during underground mining of mineral deposits. 
+Decreasing stability of rock masses is assessed using the method of electrometric surveys in noncore exploratory 
+boreholes. Rock mass stability study allowed revealing correlation and dependencies between the studied parame-
+ters. Effectiveness of using geophysical methods for differentiating natural and technogenic masses by degree of 
+decreasing their stability due to geological and technogenic stresses. To determine the coefficient of decreasing 
+rock mass stability based on rock apparent resistivity data, electrometric logging was used. This allowed to differ-
+entiate rock mass by the degree of decreasing rock mass stability based on the revealed dependency. The features 
+of the geophysical survey components are described in details. The methodology and findings of the underground 
+electric sounding using a sequential gradient electrode system at specific metal deposit are presented, including 
+using theoretical curves and determining rock conductivity and the distance to workings. Besides, correctness of 
+the geophysical method findings was assessed differentially. The assessment was prepared for decreasing rock 
+mass stability based on electrometric logging data, and for advance outlining heterogeneity zones in rock masses by 
+electric sounding along working walls. Based on findings of the conducted experimental work on revealing struc-
+tural boundaries within rock mass, the method of electric sounding along working walls was recommended for ap-
+plication in practice. As for the studied borehole electric sounding application, the convergence of the experimental 
+and theoretical curves is insufficient to recommend the method for practical application. 
+
+Keywords: deposit development, rock, decreasing stability, geophysical methods, electrometry, resistivity 
+sounding. 
+
+For citation: Golik V. I., Maslennikov S. A., Nunez Rodriguez Alberto Martin, Anischenko V. I. Study of rock 
+mass stability decrease due to underground mining. Mining Science and Technology. 2019;4(4):251-261 (in Russ.). 
+DOI: 10.17073/2500-0632-2019-4-251-261. 
+
+Введение Для достижения этого параметры взры-
+Для оптимизации процессов подземной ва должны определяться в зависимости от 
+
+разработки месторождений, например выще- свойств разрушаемой среды. Чтобы умень-
+лачивания металлов из руд, нужны надежные шить выход негабаритных или излишне из-
+методы управления энергией взрыва для по- мельченных фракций минералов, в процессе 
+лучения заданной крупности руд [1–3]. Каче- отбойки регулируют затраты энергии взрыва 
+ство дробления оценивают по распределению на степень разупрочнения пород [4–7].  
+отбитой руды по фракциям крупности и ха- Разрушение массива горных пород при 
+рактеру проработки поверхности отрыва, взрывании заряда происходит под воздейст-
+причем основным показателем является сум- вием изменяющихся в пространстве и време-
+марная площадь образованных в результате ни напряжений. В новых условиях параметры 
+взрыва кусков.  взрыва должны обеспечивать равномерное 
+
+дробление с минимальным выходом негаба-
+
+СВОЙСТВА ГОРНЫХ ПОРОД. ГЕОМЕХАНИКА И ГЕОФИЗИКА 252 
+
+
+
+ 
+
+ритных фракций, равномерное разрыхление рии для изучения структуры и ослабленности 
+взорванной руды и полную проработку руд- массива пород. 
+ного массива.  Сопоставление данных о степени ос-
+
+Увеличение выхода машинного класса лабленности по керну и электрометрическому 
+имеет первостепенное значение для всех тех- каротажу было установлено наличие корре-
+нологий добычи руд, поэтому приоритетное ляционной связи между коэффициентом ос-
+значение приобретает проблема учета одно- лабления пород в массиве (K0) и эффектив-
+родности массива при организации взрывной ным кажущимся сопротивлением горных по-
+отбойки руд. Основную роль в управлении род (ρк). Существование такой связи может 
+взрывом играет ослабленность пород при- быть объяснено зависимостью обоих этих по-
+родными и техногенными силовыми полями. казателей от одной характеристики массива – 
+Для внесения коррективов в общую модель трещиноватости пород. 
+действия взрыва нужны сведения о внутрен- Сопоставление значений K0 и средних 
+нем строении массива или о влиянии на него интегральных значений кажущегося сопро-
+горно-геологических и горнотехнических тивления пород позволяет выразить зависи-
+факторов [8–13]. мость между этими параметрами функцией 
+
+Решить эти проблемы могут геофизиче- вида: 
+K0(ρк) = {–2,148·10–7 2
+
+ρк  + 3,84·10–4
+ские методы исследования природных и тех-  + 0,7} 
+ногенных массивов [14–19].  для 0 < (ρк) < 1·10–3 Ом·м; 
+
+Цели и задачи. Целью исследования K0(ρк) = {–1,545·10–8 2 
+ρ + 1,556·10–4
+
+к  +1,114} 
+для 1·10–3 < (ρк) < 2,6·10–3
+
+является определение в натурных условиях  Ом·м. 
+эффективности использования геофизических Апроксимация функции, заданной таб-
+методов для оперативной оценки состояния лично, проводилась способом наименьших 
+породных и закладочных массивов при под- квадратов. Оценка найденной зависимости 
+земной разработке месторождений твердых K0(ρк) дана с помощью корреляционного от-
+полезных ископаемых. Для достижения по- ношения, которое составляет не менее 0,94. 
+ставленной цели экспериментально получен- Таким образом, данная связь является реаль-
+ные данные сравниваются с данными расче- ной и позволяет определить коэффициент ос-
+тов. Задачей исследования является органи- лабления пород в массиве по кажущемуся со-
+зация экспериментов по применению геофи- противлению. Зависимость K0(ρк) приведена 
+зических методов в условиях конкретного на рис. 1. 
+металлического месторождения. Для определения коэффициента ос-
+
+Результаты лабления по кажущемуся сопротивлению по-
+Изучение ослабленности массивов род материалы электрометрического карота-
+
+пород электрометрическим методом. Опре- жа предварительно обрабатывали по сущест-
+деление ослабленности массивов пород мето- вующим методикам. Результаты каротажа 
+дом извлеченного керна предполагает керно- скважин гор. –155 м, –180 м, –202 м приведе-
+вое бурение, что не всегда возможно. Воз- ны на рис. 2–5. 
+можность изучения ослабленности массивов Данные графиков (ρк) свидетельствуют 
+пород увеличивается применением геофизи- о различии в трещиноватости пород. По ним 
+ческих методов электрометрических исследо- возможно выделение интервалов скважин, 
+ваний в бескерновых разведочных скважинах, различающихся значениями (ρк), а значит, 
+в ходе чего получены подтверждения целесо- определенной степенью трещиноватости по-
+образности применения метода электромет- род и значением K0.  
+ 
+
+СВОЙСТВА ГОРНЫХ ПОРОД. ГЕОМЕХАНИКА И ГЕОФИЗИКА 253 
+
+
+
+ 
+
+K0 
+
+0,4 
+
+0,3 
+
+00,2,2  
+
+0,1 
+
+ρк, Ом·м 
+
+500 1000 1500 2000 2500 
+
+ 
+Рис. 1. График зависимости коэффициента ослабления пород в массиве (K0) от кажущегося сопротивления (ρк) 
+
+Fig. 1. The dependence of coefficient of decreasing rock mass stability (K0) on apparent resistivity (ρк) 
+ 
+
+ρк, Ом·м 
+
+H, м 
+ 
+
+Рис. 2. Результаты электрометрического каротажа в скважинах 644…646 
+Fig. 2. Results of electrometric logging in boreholes 644 ... 646 
+
+ 
+
+СВОЙСТВА ГОРНЫХ ПОРОД. ГЕОМЕХАНИКА И ГЕОФИЗИКА 254 
+
+
+
+ 
+
+ρк, Ом·м 
+
+H, м 
+ 
+
+Рис. 3. Результаты электрометрического каротажа в скважинах 649 и 651 
+
+Fig.3. Results of electrometric logging in boreholes 649 and 651 
+
+ρк, Ом·м 
+
+H, м  
+Рис. 4. Результаты электрометрического каротажа в скважинах 650 и 655 
+
+Fig. 4. Results of electrometric logging in boreholes 650 and 655 
+
+СВОЙСТВА ГОРНЫХ ПОРОД. ГЕОМЕХАНИКА И ГЕОФИЗИКА 255 
+
+
+
+ 
+
+ρк, Ом·м 
+
+H, м 
+ 
+
+Рис. 5. Результаты электрометрического каротажа в скважинах 652 и 654 
+
+Fig. 5. Results of electrometric logging in boreholes 652 and 654 
+
+ 
+
+Так, интервалы 28…38, 43…53, 63…80 явленной зависимости K0(ρк) дифференциро-
+м скважины № 650 характеризуются низко- вать массив по степени ослабленности пород 
+проводящими породами с невысокой степе- (таблица). 
+нью трещиноватости и более высоким значе- Выявление зон неоднородностей в 
+нием K0. В скважине № 655 четко выделяется массиве пород геофизическими методами. 
+зона пород, имеющих сравнительно низкую На месторождениях руд развиты мощные ли-
+проводимость (интервал 28–42 м).  нейные глинисто-щебнистые обводненные 
+
+Важно, что мощность этой зоны значи- коры выветривания, глубина развития кото-
+тельно превышает расстояние между парны- рых достигает 200…400 м от поверхности 
+ми электродами электрометрического зонда, земли. При отработке таких месторождений 
+в связи с чем значения уменьшаются. Кроме актуален опережающий прогноз таких полос-
+того, уменьшение значений кажущегося со- тей. 
+противления на контакте разных по проводи- Задача выявления зон тектонических 
+мости пород объясняется эффектом экранной нарушений, линейных зон выветривания, 
+аномалии, которая связана с переходом пи- карстовых полостей, контактов различных 
+тающих электродов через контакт сущест- литотипов пород в подземных условиях ре-
+венно различающихся по проводимости по- шается комплексом геофизических методов, в 
+род. том числе акустическим, радиоволнового 
+
+Анализ результатов электрометрическо- просвечивания, электрометрии. 
+го каротажа скважин позволил на основе вы-
+
+СВОЙСТВА ГОРНЫХ ПОРОД. ГЕОМЕХАНИКА И ГЕОФИЗИКА 256 
+
+
+
+ 
+
+Результаты электрометрического каротажа скважин 
+
+Results of electrometric borehole logging 
+Номера скважин 
+
+644 645 646 649 651 652 654 650 655 
+Интервал глубин, м/коэффициент ослабления 
+
+1…9 1…27 1…14 1…15 1…8 1…42 1…17 1…28 1…23 
+0,15 0,16 0,12 0,18 0,13 0,14 0,20 0,12 0,14 
+
+9…14 27…38 15…39 1…35 …35 4…47 1…23 2…38 2…28 
+0,12 0,22 0,18 0,22 0-16 0,18 0,19 0,20 0,22 
+
+14…34 38…52 39…43 35…39 35…71 47…80 23…45 38…46 28…42 
+0,21 0,09 0,16 0,16 0,18 0,13 0,40 0,12 0,40 
+
+34…38 52…60 43…53 39…41 71…77   45…56 46…53 42…69 
+0,16 0,19 0,26 0,23 0,14 0,18 0,24 0,20 
+
+38…50 _ 53…58 _ 77…80 _ _ 53…63 60…78 
+0,22 0,13 0,16 0,13 0,14 
+
+50…65 _ 58…75 _ _ _ _ 63…80  
+0,18 0,18 0,19 
+
+ 
+Сущность акустического метода заклю- доставляется возможность проводить ПЭЗ в 
+
+чается в измерении кинематических и дина- двух модификациях: 
+мических характеристик различных типов  опережающее скважинное зондирова-
+волн. Основные модификации этого метода: ние – разведка зон с различной проводимо-
+прозвучивание между скважинами, профили- стью впереди забоя; 
+рование вдоль стенок выработок и акустиче-  зондирование по стенкам выработок 
+ский каротаж. для определения контакта двух сред, распо-
+
+Метод радиоволнового просвечивания ложенных параллельно горной выработке или 
+является лучевым. В одной скважине (выра- под углом не более 15°. 
+ботке) устанавливается передатчик радио- Скважинное электрозондирование. 
+волн, а в соседних скважинах (выработках) Наибольшие искажения ρк при опережающем 
+измеряется напряженность электромагнитно- электрозондировании имеют место в случае, 
+го поля. Интерпретация результатов основана когда питающий либо приемный электрод 
+на повышении коэффициента поглощения находятся как можно ближе к контакту раз-
+радиоволн карстовыми полостями и зонами. нородных пород. В этом случае целесообраз-
+
+Метод электрометрии основан на выде- но трехэлектродное градиент-зондирование, в 
+лении пород с различной электропроводно- котором из-за малой величины приемной ли-
+стью. Особого внимания при этом заслужи- нии помехи невелики. Вблизи забоя скважи-
+вают участки пониженного электрического ны оставляют неподвижным приемный ди-
+сопротивления. Резким сменам значений поль МN, а питающий электрод А с определен-
+электрического сопротивления могут соот- ным шагом перемещают к устью скважины. 
+ветствовать контакты пород с сильно разли- Другой питающий электрод относят в беско-
+чающимися свойствами. Существует множе- нечность, т.е. чтобы его влияние меньше ска-
+ство модификаций этого метода, среди кото- зывалось на величину потенциала при раз-
+рых наиболее широкое применение имеют личных поведениях градиент-установки. Та-
+электрометрический каротаж и электропрофи- кую установку называют «последовательная 
+лирование по стенкам выработок. Исследования градиент-установка» AMN (по аналогии со 
+методом подземного электрозондирования скважинным электрокаротажем). Наиболее 
+(ПЭЗ) проведены на месторождении Север- удачной эта установка является еще из-за то-
+ного Казахстана. В отличие от поверхностно- го, что один лишь питающий электрод пере-
+го зондирования, в шахтных условиях пре- мещается в процессе измерений, а три других 
+
+СВОЙСТВА ГОРНЫХ ПОРОД. ГЕОМЕХАНИКА И ГЕОФИЗИКА 257 
+
+
+
+ 
+
+остаются неподвижными, чем достигается зондирования проводится аналогично опи-
+высокая точность измерений, поскольку пе- санной выше. 
+реходные сопротивления неподвижных элек- Симметричное последовательное элек-
+тродов остаются постоянными. Для такой ус- трозондирование проводилось по стенкам ор-
+тановки величина коэффициента K:  тов, а скважинное опережающее зондирова-
+
+ ние – по скважине № 90. Скважинным зонди-
+к  U/I  
+
+определяется из выражения рованием определяли расстояние до контакта 
+
+AM  AN известняков, которые отличаются по прово-
+K  4π  
+
+MN димости от вмещающих их алевролитов и 
+
+где  U – разность потенциалов на приемных порфиритов на порядок. От контакта извест-
+
+электродах MW; I – ток питающих электродов няков на различном расстоянии ставились 
+
+АД; AM, AN, MN – расстояния между питаю- трехэлектродные зонды последовательной и 
+
+щими приемными электродами. обращенной установки. Полученные кривые  
+
+Интерпретация экспериментальных интерпретировались с помощью специальных 
+
+кривых зондирования последовательной гра- палеток.  Однако экспериментальные кривые 
+
+диент-установкой проводится с помощью лишь частично совмещались с теоретически-
+
+теоретических кривых (палеток). Для этого ми. Соответственно линия глубин на палетке 
+
+интерпретируемая кривая строится на било- в большинстве случаев не соответствовала 
+
+гарифмическом бланке. По оси ординат от- истинному расстоянию до контакта извес-
+
+кладывается (  ), по оси абсцисс – АО, рас- тняков. Для соответствия экспериментальных 
+стояние от питающего электрода до центра и теоретических кривых в формулы теорети-
+
+приемного диполя MN. Накладывая на па- ческих кривых необходимо вводить коэффи-
+
+летку и добиваясь наилучшего совмещения циенты, учитывающие влияние горных выра-
+
+экспериментальной кривой с теоретической, боток, углы наклона и простирания контак-
+
+определяют количественные результаты про- тов. 
+
+водимости пород и расстояние до контакта, По результатам электрозондирования 
+
+ближайшего к выработке. вдоль стенок выработок проводился качест-
+
+При электрозондировании по стенкам венный анализ наблюдаемых кривых (  ), по-
+
+выработок методика измерений отличается. зволивший выделить геоэлектрические зоны, 
+
+Измерения выполняются симметричной соответствующие контакту высокопроводя-
+
+четырехэлектродной градиент-установкой щего массива из затвердевшей бетонной сме-
+
+AМNB. Величина остается постоянной (0,5 м), си. Подъем правой ветви кривой объясняется 
+
+а расстояние между питающими электродами тем, что с увеличением разносов питающих 
+
+(разносы) постепенно увеличиваются с гео- линий на геоэлектрическое поле существенно 
+
+метрической прогрессией 1,3. Зная разность влияют низкопроводящие зоны известняков.  
+
+потенциала на MN и силу тока I в АВ    рас- В целом данные электрозондирований 
+
+считывают из выражения совпадают с результатами маркшейдерских 
+данных в контурах камер, заполненных твер-
+
+к  U/I , 
+деющей закладкой. 
+
+где K определяется по формуле 
+Результаты исследований по существу 
+
+(AB2 / 2)2  (MN / 2)2
+
+K  π C.  рассматриваемой проблемы могут быть вос-
+MN требованы при решении проблем охраны ок-
+
+Входящий в формулу поправочный ружающей среды от агрессивного воздейст-
+множитель С учитывает влияние выработки. вия горного производства [20…24]. 
+Его величина определяется по ВНИМИ. Ин- Использование технологий дифференци-
+терпретация кривых симметричного электро- рованного назначения параметров добычи руд 
+
+СВОЙСТВА ГОРНЫХ ПОРОД. ГЕОМЕХАНИКА И ГЕОФИЗИКА 258 
+
+
+
+ 
+
+при соответствующих условиях формирует На основании проведенных опытных 
+эколого-экономический эффект [25…27]. работ по выявлению структурных границ в 
+
+Выводы массиве электрозондированием вдоль стенок 
+Экспериментально обоснована возмож- выработок метод можно рекомендовать для 
+
+ность производить оценку ослабленности по- практического использования. 
+род электрометрическим каротажем скважин, Результаты же скважинного электро-
+а электрозондированием вдоль стенок выра- зондирования не позволяют судить об эффек-
+боток – опережающее оконтуривание зон не- тивности этого метода, поскольку экспери-
+однородностей в массивах месторождений. ментальные кривые имеют недостаточную 
+
+сходимость с теоретическими расчетами. 
+
+Библиографический список 
+1. Goodarzi A., Oraee-Mirzamani N. Assessment of the Dynamic Loads Effect on Underground Mines Sup-
+
+ports // 30th International Conference on Ground Control in Mining. 2011. Pp. 74–79.  
+2. Woodward K., Wesseloo J. Observed spatial and temporal behaviour of seismic rock mass response to 
+
+blasting // Journal of the Southern African Institute of Mining and Metallurgy. 2015. Vol. 115. No 11. 
+Pp. 1044–1056.  
+
+3. Голик В. И., Савелков В. И., Гашимова З. А., Келехсаев В. Б. Модели взаимодействия природных и 
+технических систем на основе геомеханической сбалансированности при добыче руд // Вектор 
+ГеоНаук/Vector of Geosciences. 2018. № 1(2). С. 21–28. 
+
+4. Голик В., Комащенко В., Моркун В., Ирина Г. Повышение эффективности взрывного разрушения 
+на руднике новых методов инициирования скважинных зарядов в карьерах // Металлургическая и горнодо-
+бывающая промышленность. 2015. Т. 7. № 7. С. 383–387. 
+
+5. Cardu M., Seccatore J., Vaudagna A., Rezende A., Galvão F., Bettencourt J. S., Tomi de G. Evidences of 
+the influence of the detonation sequence in rock fragmentation by blasting. Part I // REM: Revista Escola de Minas. 
+2015. Vol. 68. No 3. Pp. 337–342. 
+
+ 6. Khani A., Baghbanan A., Norouzi S., Hashemolhosseini H. Effects of fracture geometry and stress on the 
+strength of a fractured rock mass // International Journal of Rock Mechanics & Mining Sciences. 2013. No. 60. 
+Рp. 345–352.  
+
+7. Kidybinski A. The role of geo-mechanical modelling in solving problems of safety and effectiveness of 
+mining production // Archives of Mining Sciences. 2010. Vol. 55. No. 2. Pp. 263–278. 
+
+8. Najafi A. B., Saeedi G. R., Farsangi M. A. E. Risk analysis and prediction of out-of-seam dilution in 
+longwall mining // International Journal of Rock Mechanics and Mining Sciences. 2014. Vol. 70. Pp. 115–122. 
+
+9. Oraee-Mirzamani K., Ping Y. J., Zhong C. W., Sen Y. D., Qiang Y. J. Numerical determination of 
+strength and deformability of fractured rock mass by FEM modeling//Computers and Geotechnics. 2015. Vol. 64. 
+Pp. 20–31.  
+
+10. Golik V., Komashchenko V., Morkun V., Irina G. Improving the effectiveness of explosive breaking on 
+the bade of new methods of borehole charges initiation in quarries // Metallurgical and Mining Industry. 2015. Т. 7. 
+№ 7. С. 383–387. 
+
+11. Молев М. Д., Страданченко С. Г., Масленников С. А. Теоретическое и экспериментальное обос-
+нование построения региональных систем мониторинга безопасности техносферы // Журнал инженерных и 
+прикладных наук АРПН. 2015. Т. 10. № 16. С. 6787–6792. 
+
+12. Golik V., Komashchenko V., Morkun V., Zaalishvili V. Enhancement of lost ore production efficiency 
+by usage of canopies // Metallurgical and Mining Industry. 2015. Т. 7. № 4. С. 325–329. 
+
+13. Molev M. D., Stradanchenko S. G., Maslennikov S. A. Theoretical and experimental substantiation of 
+construction regional security monitoring systems technospheric // ARPN Journal of Engineering and Applied Sci-
+ences. 2015. Vol.10. No.16. Pp. 6787–6792.  
+
+14. Голик В. И., Савелков В. И. Гашимова З. А., Келехсаев В. Б. К мониторингу состояния массива 
+пород при освоении недр в течение неопределенно долгого периода времени // Вектор ГеоНаук/Vector of 
+Geosciences. 2018. № 1(2). С. 48–60.  
+
+15. Семенова И. Э., Аветисян И. М., Земцовский А. В. Геомеханическое обоснование отработки запа-
+сов глубокого горизонта в сложных горно-геологических и геодинамических условиях // Горный информа-
+ционно-аналитический бюллетень. 2018. № 12. С. 65–73. 
+
+СВОЙСТВА ГОРНЫХ ПОРОД. ГЕОМЕХАНИКА И ГЕОФИЗИКА 259 
+
+
+
+ 
+
+16. Куранов А. Д. Методика прогнозирования напряженно-деформированного состояния горного 
+массива при комбинированной разработке Коашвинского месторождения // Горный журнал. 2015. № 1. 
+С. 67–71. 
+
+17. Заалишвили В. Б., Бурдзиева О. Г., Закс Т. В., Кануков А. С. Информационный мониторинг рас-
+пределённых физических полей в пределах урбанизированной территории // Геология и геофизика Юга 
+России. 2013. № 4. С. 8-16.   
+
+18. Плешко М., Панкратенко А., Ревякин А., Щекина Е., Холодова С. Новые технологии подземных 
+сооружений в условиях сдержанных городских условий, E3S Web of Conferences, 33, 02036 (2018) doi .org / 
+10,1051 / e3sconf / 20183302036. 
+
+19. Дмитрак Ю. В., Логачева В. М., Подколзин А. А. Геофизическое прогнозирование нарушенности 
+и обводненности массива горных пород // Горный информационно-аналитический бюллетень. 2006. № 11. 
+С. 35–36. 
+
+20. Геомеханические и аэрогазодинамические последствия подработки территорий горных отводов 
+шахт Восточного Донбасса/ Н.М. Качурин, Г.В. Стась, Т.В. Корчагина, М.В. Змеев // Известия Тул. гос. ун-
+та. Сер. «Науки о Земле». Вып. 1. 2017. С. 170–182. 
+
+21. Геоэкологическая оценка эффективности защиты окружающей среды и природо-охранительных 
+мероприятий при подземной добыче угля/ Н.М. Качурин, Г.В. Стась, С.З. Калаева, Т.В. Корчагина// Извес-
+тия Тульского государственного университета. Сер. Науки о Земле. Вып. 3. 2016. С. 62-79. 
+
+22. Дмитрак Ю. В., Логачева В. М., Подколзин А. А. Геофизическое прогнозирование нарушенности 
+и обводненности массива горных пород // Горный информационно-аналитический бюллетень. 2006. № 11. 
+С. 35–36. 
+
+23. Заалишвили В. Б., Бурдзиева О. Г., Закс Т. В., Кануков А. С. Информационный мониторинг рас-
+пределенных физических полей в пределах урбанизированной территории // Геология и геофизика Юга 
+России. 2013. № 4. С. 8–16. 
+
+24. Комащенко В. И., Васильев П. В., Масленников С. А. Технологиям подземной разработки место-
+рождений КМА – надежную сырьевую основу // Известия Тул. гос. ун-та. Сер. «Науки о Земле». 2016. № 2. 
+С. 101-114. 
+
+25. Snelling P. E., Godin L., McKinnon S. D. The role of geologic structure and stress in triggering remote 
+seismicity in Creighton Mine, Sudbury, Canada // International Journal of Rock Mechanics & Mining Sciences. 
+2013. Vol. 58. Pp. 166–179.  
+
+26. Каплунов Д. Р., Рыльникова М. В., Радченко Д. Н. Расширение сырьевой базы горнорудных пред-
+приятий на основе комплексного использования минеральных ресурсов месторождений // Горный журнал. 
+2013. № 12. С. 29–33. 
+
+27. Грязев М. В., Качурин Н. М., Захаров Е. И. Тульский государственный университет: 85 лет на 
+службе отечеству // Горный журнал. 2016. № 2. С. 25–29. 
+
+References 
+1. Goodarzi A., Oraee-Mirzamani N. Assessment of the Dynamic Loads Effect on Underground Mines Sup-
+
+ports // 30th International Conference on Ground Control in Mining. 2011. Pp. 74–79.  
+2. Woodward K., Wesseloo J. Observed spatial and temporal behaviour of seismic rock mass response to 
+
+blasting // Journal of the Southern African Institute of Mining and Metallurgy. 2015. Vol. 115, No 11. Pp. 1044–
+1056.  
+
+3. Golik V.I., Savelkov V.I., Gashimova Z.A., Kelekhsaev V.B. Models of natural and technical systems in-
+teraction based on geotechnical sustainability in ore mining // Vector of Geosciences (Vector GeoNauk). 2018, No1 
+(2), pp. 21–28 (in Russ.)   
+
+4. Golik V., Komashchenko V., Morkun V., Irina G. Increasing effectiveness of explosive rock breakage at 
+mines using new methods for initiating blasthole charges in open pits // Metallurgical and Mining Industry 
+(Metallurgicheskaya i gornodobyvayushchaya promyshlennost'). 2015, Vol. 7, No. 7, pp. 383–387 (in Russ.)    
+
+5. Cardu M., Seccatore J., Vaudagna A., Rezende A., Galvão F., Bettencourt J. S., Tomi de G. Evidences of 
+the influence of the detonation sequence in rock fragmentation by blasting. Part I // REM: RevistaEscola de Minas. 
+2015. Vol. 68. No 3. Pp. 337–342. 
+
+6.Khani A., Baghbanan A., Norouzi S., Hashemolhosseini H. Effects of fracture geometry and stress on the 
+strength of a fractured rock mass // International Journal of Rock Mechanics & Mining Sciences. 2013. No. 60.Pp. 
+345–352.  
+
+7. Kidybinski A. The role of geo-mechanical modelling in solving problems of safety and effectiveness of 
+mining production // Archives of Mining Sciences. 2010. Vol. 55. No. 2. Pp. 263–278. 
+
+СВОЙСТВА ГОРНЫХ ПОРОД. ГЕОМЕХАНИКА И ГЕОФИЗИКА 260 
+
+
+
+ 
+
+8.Najafi A. B., Saeedi G. R., Farsangi M. A. E. Risk analysis and prediction of out-of-seam dilution in 
+longwall mining // International Journal of Rock Mechanics and Mining Sciences. 2014. Vol. 70. Pp. 115–122. 
+
+9.Oraee-Mirzamani K., Ping Y. J., Zhong C. W., Sen Y. D., Qiang Y. J. Numerical determination of strength 
+and deformability of fractured rock mass by FEM modeling//Computers and Geotechnics. 2015. Vol. 64. Pp. 20–
+31.  
+
+10.Golik V., Komashchenko V., Morkun V., Irina G. Improving the effectiveness of explosive breaking on 
+the bade of new methods of borehole charges initiation in quarries // Metallurgical and Mining Industry. 2015, V. 7. 
+No.7, pp. 383–387 (in Russ.).    
+
+11. Molev M. D., Stradanchenko S. G., Maslennikov S.  A. Theoretical and experimental substantiation for 
+creating regional systems for technosphere safety monitoring // Journal of Engineering and Applied Sciences of 
+Russian Academy of Technologies (Zhurnal inzhenernykh i prikladnykh nauk ARPN), 2015, V. 10, No. 16, pp. 
+6787–6792 (in Russ.).   
+
+12. Golik V., Komashchenko V., Morkun V., Zaalishvili V. Enhancement of lost ore production efficiency 
+by usage of canopies // Metallurgical and Mining Industry. 2015. Vol. 7, No. 4, pp. 325–329 (in Russ.).   
+
+13. Molev M. D., Stradanchenko S. G.,Maslennikov S. A. Theoretical and experimental substantiation of 
+construction safety regional monitoring systems //ARPN Journal of Engineering and Applied Sciences. 2015. 
+Vol.10, No.16, pp. 6787–6792  (in Russ.)   
+
+14. Golik V. I., Savelkov V. I. Gashimova Z. A., Kelekhsaev V. B. On monitoring of rock mass conditions 
+during subsoil use for indefinite period of time // Vector of Geosciences (Vector GeoNauk). 2018, No. 1 (2), pp. 
+48–60 (in Russ.).  
+
+15. Semenova I. E., Avetisyan I. M., Zemtsovsky A. V. Geotechnical substantiation of extraction of deep 
+level reserves under complicated mining, geological and geodynamic conditions. Mining Informational and Analyt-
+ical Bulletin (Gornyy informatsionno-analiticheskiy byulleten'), 2018, no. 12, pp.65–73 (in Russ.)  
+
+16. Kuranov A. D. Technique for predicting rock mass stress-strain state during combined mining of the 
+Koashvinskoye deposit // Mining Journal (Gorny Zhurnal), 2015, No. 1, pp. 67–71 (in Russ.).  
+
+17. Zaalishvili V. B., Burdzieva O. G., Zaks T. V., Kanukov A. S. Informational monitoring of distributed 
+physical fields within an urbanized area // Geology and Geophysics of the South of Russia (Geologiya i geofizika 
+Yuga Rossii). 2013, No. 4, pp. 8-16 (in Russ.). 
+
+18. Pleshko M., Pankratenko A., Revyakin A., Schekina E., Kholodova S. New technologies for under-
+ground structures in restrained urban conditions, E3S WebofConferences, 33, 02036 (2018) doi .org / 10,1051 / 
+e3sconf / 20183302036 (in Russ.). 
+
+19. Dmitrak Yu.V., Logacheva V.M., Podkolzin A.A. Geophysical prediction of broken condition and water-
+ing of rock mass. Mining Informational and Analytical Bulletin (Gornyy informatsionno-analiticheskiy byulleten'), 
+19, no. 2006, pp. 11-35 (in Russ.). 
+
+20. Kachurin N.M., Stas G.V., Korchagina T.V., Zmeev M.V.. Geotechnical and gas dynamic consequences 
+of undermining of mining lease areas for Eastern Donbass mines. Proceedings of Tula State University, Series 
+"Earth Sciences", Issue 1, 2017, pp. 170–182 (in Russ.).  
+
+21. Kachurin N.M., Stas G.V., Kalayeva S.Z., Korchagina T.V. Geoecological assessment of environmental 
+protection effectiveness and environmental protection measures in the process of underground coal mining // Pro-
+ceedings of Tula State University, Series "Earth Sciences", Issue 3, 2016, pp. 62-79 (in Russ.).  
+
+22. Dmitrak Yu. V., Logacheva V. M., Podkolzin A.A. Geophysical prediction of broken condition and wa-
+tering of rock mass. Mining Informational and Analytical Bulletin Gornyy informatsionno-analiticheskiy 
+byulleten'), 19, no. 2006, pp. 11-35 (in Russ.).  
+
+23. Zaalishvili V.B., Burdzieva O. G., Zaks T. V., Kanukov A. S. Informational monitoring of distributed 
+physical fields within an urbanized area // Geology and Geophysics of the South of Russia Gornyy informatsionno-
+analiticheskiy byulleten'), 2013, No. 4, pp. 8 (in Russ.).  
+
+24. Komashchenko V.I., Vasiliev P.V., Maslennikov S.A. Reliable raw material base for KMA deposit un-
+derground mining// Proceedings of Tula State University, Series "Earth Sciences", 24, No. 2016, pp. 2–101-114 (in 
+Russ.). 
+
+25. Snelling P. E., Godin L., McKinnon S. D. The role of geologic structure and stress in triggering remote 
+seismicity in Creighton Mine, Sudbury, Canada // International Journal of Rock Mechanics & Mining Sciences. 
+2013. Vol. 58.Pp. 166–179.  
+
+26. Kaplunov D. R., Rylnikova M. V., Radchenko D. N. Expansion of resources base of mining enterprises 
+based on multiple use of deposit mineral resources// Mining Journal (Gorny Zhurnal), 2013, No. 12, pp. 29–33 
+(in Russ.). 
+
+27. Gryazev M. V., Kachurin N. M., Zakharov E. I. Tula State University: 85 years in the service of the 
+motherland // Mining Journal (Gorny Zhurnal), 2016, No. 2, pp. 25–29 (in Russ.). 
+
+СВОЙСТВА ГОРНЫХ ПОРОД. ГЕОМЕХАНИКА И ГЕОФИЗИКА 261

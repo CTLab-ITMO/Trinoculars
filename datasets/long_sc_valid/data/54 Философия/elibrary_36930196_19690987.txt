@@ -1,0 +1,1735 @@
+﻿УДК 1(091):101.2
+
+ПРИРОДА ЯВЛЕНИЯ THE NATURE OF APPEARANCE 
+В ТРАНСЦЕНДЕНТАЛИЗМЕ КАНТА: IN KANT’S TRANSCENDENTALISM:
+
+СЕМАНТИКО-КОГНИТИВНЫЙ АНАЛИЗ A SEMANTICO-COGNITIVE ANALYSIS
+
+С. Л. Катречко1 S. L. Katrechko1
+
+Концепт явления в рамках различения «явление vs. вещь The concept of appearance within the framework of the 
+сама по себе» — краеугольный концепт для трансценденталь­ transcendental distinction between “appearance” and “thing in 
+ной философии Канта. Однако концептуальный статус явле­ itself” is the cornerstone of Kant’s transcendental philosophy. 
+ния у Канта представляется мне во многом неопределенным, с However, its conceptual status seems largely uncertain. This 
+чем связан, на мой взгляд, большой разброс в интерпретациях uncertainty is the reason for a wide range of interpretations of 
+трансцендентального идеализма, парадигмальным примером Kant’s transcendental idealism. A paradigmatic example is the 
+которого выступает современное противостояние теорий contemporary confrontation between the “two objects” theory 
+«двух объектов» vs. «двух аспектов». Предлагаемый мной ког­ and the “two aspects” theory. In this paper, I develop a seman­
+нитивно­семантический подход к интерпретации как кан­ tico­cognitive approach to Kant’s transcendentalism in general 
+товского трансцендентализма вообще, так и кантовской кон­ as well as to his conception of appearance in particular. Its use 
+цепции явления в частности позволяет уточнить метафизи­ makes it possible to clarify both the metaphysical and ontological 
+ческий и онтологический статус явления. Я показываю, что status of appearance. I show that, from the metaphysical point of 
+в метафизическом плане специфика явления задается тран­ view, the specificity of appearance is given by the transcendental 
+сцендентальной триадой «предмет — явление — представле­ triad “object (thing in itself) — appearance — representation.” 
+ние», в рамках которой явление, с одной стороны, отличается Within this triad, on the one hand, appearance differs from both 
+как от вещи самой по себе (вне нас), так и от представления thing in itself (external to us) and the representation (within us). 
+(в нас), а с другой — в качестве предмета эмпирического со­ On the other hand, appearance as an object of empirical intuition 
+зерцания опосредует объективный предмет и его субъективное mediates the objective thing and its subjective representation. 
+представление. Тем самым введение концепта явления позво­ The introduction of the concept of appearance allows Kant to 
+ляет решить поставленную Кантом семантическую пробле­
+му соответствия представления предмету. Выясняется так­ solve the semantic problem of the conformity of the representa­
+же, что в онтологическом плане явление выступает не как объ­ tion to the object. In this case, appearance is not an object, but 
+ект, а лишь как обозначение объекта (В 235), что не позволяет just a designation of the object (KrV, B 235). Thus, appearance 
+онтологизировать явление в качестве физического объекта cannot be understood ontologically as a physical object or a re­
+и/или отношения. Вместе с тем явление не тождественно и lation. At the same time, an appearance is not identical to its 
+представлению, поскольку выступает предметом (содержани­ representation, since the former is an object or content of the 
+ем) представления. Привлекая к анализу кантовского концеп­ latter. Applying G. Frege’s “semantic triangle” to the analysis 
+та явления «семантический треугольник» Г. Фреге, я обосно­ of Kant’s concept of appearance, I show that the transcendental 
+вываю тезис, согласно которому смыслом явления выступает object functions as the sense (Sinn) of the appearance and that 
+трансцендентальный предмет, а его значением — вещь сама the empirical thing in itself is its reference (Bedeutung).
+по себе.
+
+Keywords: transcendentalism, transcendental reflection, 
+Ключевые слова: трансцендентализм, трансценден­ appearance, the theory of two aspects, the theory of appearing, 
+
+тальная рефлексия, явление, теория двух аспектов, теория the adverbial theory of perception, semantics.
+являющегося, адвербальная теория восприятия, семантика.
+
+1. The Metaphysics of Appearance: 
+1. Метафизика явления: Kant’s Semantic Problem of Conformity
+
+кантовская семантическая проблема соответствия
+The cornerstone of transcendental philosophy is 
+
+Для трансцендентальной философии Канта кра- the distinction between thing in itself and appearance. 
+еугольным является различение вещей самих по себе и It is impossible to enter into Kant’s philosophical sys-
+явлений, без которого нельзя войти в кантовскую фи- tem without accepting this distinction (a paraphrase 
+1 Государственный академический университет гуманитар- 1 State Academic University of the Humanities (SAUH), 26 Ma-
+ных наук (ГАУГН), 119049, Москва, Мароновский пер., д. 26. ronovskiy Lane, Moscow, Russia, 119049.
+Поступила в редакцию 31.05.2018 г. Received: 31.05.2018
+doi: 10.5922/0207-6918-2018-3-2 doi: 10.5922/0207-6918-2018-3-2
+© Катречко С. Л., 2018. © Katrechko S. L., 2018.
+
+Кантовский сборник. 2018. Т. 37, № 3. С. 31—55. Kantian Journal, 2018, vol. 37, no. 3, pp. 31­55.
+
+
+
+С. Л. Катречко
+
+лософию (парафраз максимы Ф. Якоби2). Точнее, спе- of Jacobi’s maxim).2 More precisely, the specificity of 
+цифика кантовского идеализма задается (трансцен- Kant’s idealism consists in the conceptual triad “object* 
+дентальной) триадой «предмет (вещь сама по себе; Ding (Gegenstand; or thing in itself, Ding an sich)3 — appear­
+an sich) — явление (предмет опыта; Erscheinung) — пред­ ance (Erscheinung) — representation (Vorstellung)” and 
+ставление (Vorstellung)» и постулируемым в ней двой- the double distinction it postulates between appearance 
+ным различением явления как от вещи самой по себе, так and thing in itself, on the one hand, and, on the oth-
+и от представления. В триаде за счет включения в нее er hand, between appearance and representation. In the 
+нового концепта — явления — происходит трансфор- “transcendental” triad, due to the inclusion of a new 
+мация классического для Нового времени различения concept — that of appearance — in it, a transformation 
+(диады) «предмет [объект] — представление [субъект]»3. of the “object* — representation” opposition (metaphysi-
+
+Заметим, что в своем письме к М. Герцу (21.02.1772), cal dyad), classical for the Modern age, takes place.
+где Кант впервые эксплицирует замысел своей «Кри- Let us note that Kant still uses the classical dyad 
+тики» в виде семантической проблемы соответствия, он in his February 21, 1772 letter to M. Hertz, in which he 
+еще использует классическую диаду: «Продумывая describes the main task of transcendental philosophy 
+теоретическую часть [своей философии]… поставил for the first time as a solution of the following semantic 
+перед собой вопрос: на чем основывается отношение problem of conformity (correspondence): “As I thought 
+того, что мы называем представлением в нас (in uns through the theoretical part [of my system], [...] I asked 
+Vorstellung), к предмету (Gegenstand)?» (АА 10, S. 129— myself this question: What is the ground of the relation 
+130; Кант, 1994а, с. 487). А к трансцендентальной три- of that in us which we call ‘representation’ to the ob-
+аде Кант обращается уже позже, когда он находит ре- ject* (Gegenstand)?” (Br, AA 10, pp. 129-130; Kant, 2009, 
+шение этой проблемы, поскольку вводимый им новый p. 312). Kant will refer to the triad only later, in the Cri­
+концепт явления выступает «ключом» к разрешению tique of Pure Reason. The introduced concept of appear-
+«всей тайны метафизики»: именно явление опосреду- ance is key to solving the semantic problem, because 
+ет (в качестве «среднего термина») отношение между appearance mediates (as the middle term) the object and 
+предметом (вне нас) и представлением (в нас). the representation.
+
+В этой триаде кантовское явление, которое нахо- In this triad, Kant’s concept of appearance has an 
+intermediate status since it is located between objec-
+
+дится между объективным предметом и субъективным tive things and subjective representations. However, the 
+представлением, имеет промежуточный статус. Одна- conceptual — metaphysical and ontological — status4 
+ко его метафизический и онтологический статусы4 
+нуждаются в уточнении, поскольку сам Кант не дает 2 F. Jacobi is here talking about the fact that the thing in itself 
+четкого (однозначного) ответа на этот вопрос, а в на- affects our sensibility: “without this presupposition [of affec-
+
+tion by the thing in itself] I could not enter into the [i.e., Kant’s] 
+2 В своей максиме Ф. Якоби говорит о вещах самих по себе, system, and with this presupposition I could not remain there.” 
+которые аффицируют нас: «...без этой предпосылки [аффи- But the concept of thing in itself is introduced by Kant in the 
+
+framework of the opposition “thing in itself vs. appearance” 
+цирования] я не могу войти в [кантовскую] систему…» (Яко- (Jacobi, 1787, p. 304).
+би, 2006, с. 203), но вещь сама по себе вводится Кантом в рам- 3 In English, there is only one term, namely ‘object’, with which 
+ках его различения «вещь сама по себе vs. явление», поэтому it is impossible to express the difference between Gegenstand 
+комплементарный концепт явления не менее важен для кан- and Objekt. Here and in what follows, I use the term ‘object*’ 
+товского трансцендентализма. as an analogue of the German term Gegenstand, in contrast to 
+3 Обратим внимание на то, что в «Критике» Кант исполь- the term ‘object.’ Generally speaking, Kant uses the word ‘ob-
+зует два термина — «объект» (das Objekt) и «предмет» (der ject’ (Objekt) in the first Critique to refer to an epistemological 
+Gegenstand), которые в принципе имеют несколько разные “something” that is opposed to the subject in one way or anoth-
+смысловые значения. Говоря в общем, объект — это то, что er (distinction “object vs. subject”; cf.: “An object, however, is 
+противостоит субъекту (в том или ином отношении), то есть that in the concept of which the manifold of a given intuition is 
+объект — это эпистемологическое нечто в рамках противопо- united” (KrV, B 137; Kant, 1998, p. 249), and an ‘object*’ (Gegen­
+ставления «объект vs. субъект». А предмет — это семантиче­ stand) is a semantic (or “intentional”) something, the object of 
+ское нечто, то есть предмет представления в рамках противо- representation in the framework of the distinction “object* (Ge­
+поставления «предмет vs. представление» (А 108—109). Вме- genstand) vs. representation (Vorstellung),” cf.: “All representa-
+сте с тем общим смысловым полем для «объекта» и «предме- tions, as representations, have their object* (Gegenstand)” (KrV, 
+та» является то, что они указывают на объективное в противо- A 108; Kant, 1998, p. 233). At the same time, the general se-
+вес субъективному, поэтому нередко эти термины использу- mantic core for the words ‘object’ and ‘object*’ is that they de-
+ются Кантом синонимично. note something objective as opposed to something subjective. 
+4 Под метафизическим статусом я, опираясь на кантовское Therefore, these terms are often used by Kant as synonymous.
+письмо к Герцу, понимаю объективный (область «предме- 4 By metaphysical status, I understand, relying Kant’s letter to 
+тов») или субъективный (область «представлений») статус Hertz, an objective (area of ‘objects’) or subjective (area of ‘re-
+той или иной сущности, в данном случае — кантовского яв- presentations’) status of any entity, e.g., Kant’s appearance. By 
+ления. Под онтологическим статусом я понимаю ответ на во- ontological status, I understand the answer to the question of 
+прос о «том, что есть» эта сущность (например, вещь или от- “what is” this entity (e.g., thing or relation) within a particular 
+ношение) в рамках той или иной метафизической области. metaphysical field.
+
+32
+
+
+
+S. L. Katrechko
+
+стоящее время существует несколько различных ин- of appearance needs to be clarified, since Kant himself 
+терпретаций кантовской философии, различающихся does not give a clear answer to this question, and at 
+прежде всего в трактовке концепта явления, и в пер- present there are several interpretations, differing pri-
+вую очередь конкурирующие друг с другом теории marily in the definition of the concept of appearance. 
+«двух объектов/миров» и «двух аспектов»: в первой These are the competing (alternative) theories of “two 
+из них явление в качестве ментального представления objects/worlds” and “two aspects”: in the first of them, 
+и вещь сама по себе понимаются как два разных онто- appearance and thing in itself are understood as two dif-
+логических объекта, принадлежащих, соответственно, ferent ontological objects, belonging to different worlds, 
+двум разным мирам, а во второй — концепты вещи са­ while in the second theory, the concepts of thing in itself 
+мой по себе и явления рассматриваются лишь как «две and appearance are considered only as the “two differ-
+стороны [аспекта]», или «двоякая точка зрения» (В XIX ent sides” — sensible and reasonable — or “twofold 
+прим.; Кант, 1994б, с. 25) — чувственная и рассудоч- standpoint” (KrV, В XVIII footnote; Kant, 1998, p. 111) 
+
+of the same object.5 The first early interpretation of “two 
+ная — рассмотрения одного и того же предмета. objects/worlds” has been presented in the first review 
+
+Свое первое выражение теория «двух объектов/ of the Critique — the so-called Göttingen review by 
+ми ров» находит в гёттингенской рецензии Х. Феде- Ch. Garve (1742—1798) and J. G. Feder (1740—1821). 
+ра — И. Г. Гарве на кантовскую «Критику», напеча- This interpretation identifies appearance and representa­
+танной в «Göttingische Anzeigen von gelehrten Sachen» tion (shifting appearance to the right and “gluing” it to 
+от 19 января 1782 г. В теории «двух объектов/миров» representation), thereby opposing the objective world of 
+трансцендентализм Канта концептуально сближается things and the subjective world of mental representa-
+с феноменализмом Беркли. Основанием для этого вы- tions and bringing Kant’s transcendentalism closer to 
+ступает трактовка явления как ментального представ- Berkeley’s phenomenalism.6 For a long time, until the 
+ления, которая имеет текстологическую поддержку middle of the 20th century, this interpretation was do-
+в текстах Канта5. Долгое время, вплоть до середины minant. The later “two-aspects” (or “double aspect”) 
+ХХ в., данная интерпретация была господствующей. interpretation was developed primarily in the works of 
+Интерпретация «двух аспектов» свое решающее раз- H. Allison (1983), which largely relied upon linguistic 
+витие получает в первую очередь в работах Г. Эллисо- analysis (Prauss, 1974). At the same time, some thinkers, 
+на (Allison, 1983), который во многом опирался на тек- in particular, J. G. Fichte, H. Prichard, M. Heidegger, 
+стологический анализ Г. Праусса (Prauss, 1974). При and others, have written about the validity of the theory 
+этом ранее о справедливости теории «двух аспектов» of “two aspects.” This theory gets its explicit expression, 
+писал ряд мыслителей, начиная с И. Г. Фихте, Г. При- first of all, in the preface to the second edition of the Cri­
+чарда, М. Хайдеггера и др. Эксплицитное выражение tique (KrV, B XVIII-XIX, B XIX footnote, B XХVII), which 
+теория «двух аспектов» получает прежде всего в пре- is one of the main arguments in favour of it. Textual 
+
+support for it is also to be found in the Critique.7 Kant 
+дисловии ко 2-му изданию «Критики» (В XVIII—XIX, writes quite clearly in favour of this reading in his late 
+В XIX примеч., В XXVII), что является одним из важ- Opus Postumum.8 The confrontation of these theories 
+ных аргументов в ее пользу, хотя ее текстологическая was explained in the early 1980s by K. Ameriks (1982), 
+поддержка есть и в тексте «Критики»6. Достаточно and the most active supporter of the “two-aspect” theo-
+однозначно в пользу теории «двух аспектов» Кант го- ry was H. Allison (2004).9
+
+ворит и в своей поздней рукописи «Opus Postumum»7. 
+Противостояние этих теорий было эксплицировано в 5 See also: “[T]he critique has not erred in teaching that the ob-
+начале 1980-х гг. (Ameriks, 1982), а наиболее активным ject should be taken in a twofold meaning, namely as appear-
+
+ance or as thing in itself” (KrV, В XXVII; Kant, 198, p. 115).
+его сторонником выступил Г. Эллисон (Allison, 2004)8. 6 There are grounds for such “gluing,” as in the first Critique, 
+
+where Kant repeatedly states that appearances are our re-
+5 См.: A 101, A 104, A 109, A 113, B 164, A 190 / B 236, presentations or “representations in us.” Many passages sup-
+A 191 / B 236, A 250, A 369, A 372, A 373, A 375, A 377, A 383, port such identification of appearance and representation. 
+A 386, A 390, A 391, A 490 / B 518, A 492 / B 520, A 493 / B 521, See, e.g., KrV, A 101, A 104, A 109, A 113, B 164, A 190 / B 236, 
+A 494 / B 523, A 498 / B 527, A 507 / B 535, A 563 / B 591, A 191 / B 236, A 250, A 369, A 372, A 373, A 375, A 377, A 383, 
+A 193 / B 821, а также A 36—37, A 37 прим., A 125, A 126—127, A 386, A 390. A 391, A 490 / B 518, A 492 / B 520, A 493 / B 521, 
+A 374—375 прим., A 379—380, A 491. См. также фрагменты A 494 / B 523, A 498 / B 527, A 507 / B 535, A 563 / B 591, 
+из кантовских «Пролегомен» (Кант, 1994б, с. 43, 44, 49, 63, 65, A 193 / B 821; see also A 36—37 footnote, A 125, A 126—127, 
+79, 103, 104). A 374—375 footnote, A 379—380, A 491, and Proleg AA 04, 
+6 См.: A 38—39 / B 55—56, A 42 / B 59, A 247 / B 303, A 490— p. 288, 289, 292, 305, 307, 319, 341, 342.
+491 / B 518—519, а также A 45 / B 62, B 164 и др. 7 See KrV, A 38—39 / B 55—56, A 42 / B 59, A 247 / B 303, 
+7 См.: AA 22, S. 26, 31, 33, 34, 43, 44, 414 и др. A 490—491 / B 518—519, see also A 45 / B 62, B 164, etc.
+8 О современном видении этого противостояния см.: (Rohlf, 8 See AA 22, p. 26, 31, 33, 34, 43, 44, 414, 415, and others.
+2010). 9 About this opposition see more: Rohlf, 2010.
+
+33
+
+
+
+С. Л. Катречко
+
+И хотя в настоящее время градус этого противо- The intensity of this confrontation is now decreas-
+стояния снижается: например, Р. Уолкер утверждает, ing. R. Walker, for instance, argues that these theories 
+что эти трактовки — всего лишь метафоры, а не кон- are not clearly articulated and mutually exclusive alter-
+цептуально противоположные теории (Walker, 2010), natives, but mere metaphors (Walker, 2010). Although 
+а некоторые современные исследователи предлагают the confrontation’s intensity is diminishing, a number of 
+подходы к объединению этих интерпретаций9, — тем contemporary Kant scholars are proposing versions of 
+не менее это противостояние определяет современные the synthesis of these theories.10 It is this opposition that 
+дебаты по трансцендентальному идеализму (Schult- determines the modern understanding of transcendental 
+ing, 2011). Его суть состоит в разной — объективной или idealism (Schulting, 2011). The essence of this confronta-
+субъективной — трактовке явления: в первом случае яв- tion is the different — objective or subjective — interpre-
+ление трактуется субъективно как некоторое менталь- tation of the Kantian concept of appearance. In the first 
+ное представление, а во втором — объективно как один case, appearance is treated subjectively, as some mental 
+из аспектов рассмотрения реально существующего datum, or representation. In the second, it is considered 
+предмета, или вещи самой по себе. objectively, as one of the aspects from which may be ob-
+
+Обратимся к анализу этой триады с целью более served an actual and really existing thing (thing in itself).
+точной экспликации метафизического статуса кантов- Let us now return to the analysis of the transcen-
+ского явления в его отличии как от вещи самой по себе, dental triad and try to grasp the conceptual status of 
+так и от представления. appearance more accurately in its essential difference 
+
+Во-первых, Кант отличает явление от вещи самой по from both thing in itself and representation.
+себе и критикует предшествующую метафизику за ее Firstly, while distinguishing appearance from thing 
+наивный реализм, не проводящий трансценденталь- in itself, Kant criticised the old metaphysics for its naive 
+ного различия между вещью самой по себе и данным realism, which did not consider this distinction. How-
+нам в опыте ее явлением. Заметим при этом, что опре- ever, a similar merging of the two concepts is charac-
+деленное тождество явления и вещи самой по себе пола- teristic of the theory of “two aspects,” the strong ver-
+гается и теорией «двух аспектов», основой для которой sions of which contain an indication of the numerical 
+выступают пассажи следующего типа: «один и тот же identity of appearance and thing in itself. At the same 
+предмет (курсив мой. — С. K.) мог бы рассматриваться time, the weak versions of the “two aspects” theory 
+с двух различных сторон» (B XIX примеч.; Кант, 1994б, also imply a certain identity of appearance and thing 
+с. 25), то есть как явление и как вещь сама по себе: in itself, because they are based on Kant’s claim that 
+
+“the same objects can be considered from two different 
+«предмет  =  явление  — представление» sides” (KrV, В XIX footnote; Kant, 1998, p. 111), i.e., as 
+
+(вещь сама по себе) appearance or as thing in itself.
+Схема 1
+
+object*(Gegenstand)  = appearance — representation
+Во-вторых, не менее важным является также раз- (thing-in-itself)
+
+личие между явлением и представлением, ибо только Schema 1
+объективированный статус явления, его отличие от субъ-
+ективного представления гарантирует объективный ха- Secondly, the difference between appearance and 
+рактер нашего знания, или объективную значимость representation is equally important, for only the “objec-
+априорных принципов, и поэтому ошибкой было бы tified” status of appearance,11 its difference from a men-
+отождествление («склеивание» между собой в транс- tal representation, guarantees the objective nature of our 
+цендентальной триаде, или шкале) явления и представ­ knowledge, or the objective value of a priori principles 
+ления, как это происходит в традиционной интерпре- and, therefore, it would be a mistake to identify (“glue” 
+тации «двух миров/объектов», вследствие чего и обра- together within the transcendental triad, or spectrum) 
+зуются два мира: реальный мир вещей самих по себе и appearance and representation, as in the traditional in-
+феноменальный мир явлений. terpretation of the “two worlds/objects,” as a result 
+
+of which two worlds are formed — the real world of 
+«предмет —  явление  = представление» things in themselves and the phenomenal world of ap-
+
+(вещь сама по себе) pearances:
+Схема 2
+
+10 Among them are such works as Marshall, 2013; Oberst, 2015; 
+9 Среди них см. работы К. Маршалла (Marshall, 2013), Stang, 2017, to the analysis of which I turn below.
+М. Оберста (Oberst, 2015), Н. Штанга (Stang, 2017), к более 11 For my arguments in favour of the objectivity of appearances, 
+подробному обсуждению которых я обращусь ниже. see: Katrechko, 2018a.
+
+34
+
+
+
+S. L. Katrechko
+
+Тем самым следует избегать крайностей отождест- object*(Gegenstand) — appearance = representation
+вления явления как с вещью самой по себе, так и с пред­ (thing-in-itself)
+ставлением, что превращает трансцендентальную три- Schema 2
+аду обратно в диаду. Для более точной экспликации 
+концептуального статуса кантовского явления нужно Thus, it is necessary to avoid the extremes of iden-
+принять во внимание следующее. tifying appearances with both thing in itself and re-
+
+Мы не должны забывать, что под явлением Кант presentation, which turns the transcendental triad back 
+понимает не какие-то ментальные сущности, а то, что into a metaphysical dyad. And, in order to more accu-
+в докритической мысли рассматривалось как реально rately explain the conceptual status of the Kantian ap-
+существующие вещи. Маркировку в качестве явлений 
+физические объекты (уже как предметы опыта) при- pearance, one should take into account the following.
+обретают лишь в ходе трансцендентальной рефлексии We should not forget that under the concept of 
+нашего «способа познания», однако это не отменяет appearance, in the Critique Kant understands not some 
+реального статуса существования являющихся нам в mental entities, but what in pre-critical thought were 
+опыте вещей. Поэтому при ответе на вопрос о статусе considered actually existing objects. Physical objects 
+явлений необходимо принимать во внимание их объ­ are marked as appearances only in transcendental reflec­
+ективированный характер10, который состоит в том, что tion (analysis) of our “mode of cognition,” or within 
+кантовские явления как предметы опыта находятся не the transcendental perspective. But this does not cancel 
+в уме, а в пространственно-временном мире. the actual status of the existence of objects in experi-
+
+Тезис об объективной природе явления наглядно ence (within the empirical perspective). Therefore, it 
+проясняет аналогия телескопа, восходящая к Г. Фре- is necessary to take into account the objectified nature 
+ге11. Допустим, мы рассматриваем Луну при помощи of Kant’s concept of appearance, which is that, as an 
+телескопа. Саму Луну (как предмет) можно соотнести object of experience, it does not exist in the mind, but 
+с вещью самой по себе, ее ментальный образ в нашем со- rather in the spatiotemporal world.
+знании — с ее представлением. Спросим себя: каков он-
+тологический статус изображения (явления) Луны на The analogy of the telescope, which goes back to 
+линзе телескопа? Понятно, что это не реальная Луна G. Frege, clearly illustrates the thesis of the objective 
+сама по себе (вещь сама по себе), но это и не ее субъек- nature of appearance.12 Suppose that we observe the 
+тивный (ментальный) образ в нашем сознании, то есть moon by means of a telescope. The moon itself has an 
+«представление в нас». Явление (изображение) Луны в objective status, which corresponds to Kant’s thing in 
+телескопе имеет объективно­предметный статус, хотя и itself. The mental image of the moon in our conscious-
+отличается от объективного статуса реально существу- ness is already subjective. It can thus be associated with 
+ющей Луны как спутника Земли. Наши органы чувств Kant’s representation. Let us then ask the following 
+представляют собой подобные устройства «ввода ин- question: what is the ontological status of the image of 
+формации» (Falkenstein, 1991), на «экране» которых the moon in the telescope (that can be associated with 
+конституируются объективные (объективированные) Kant’s appearance), which is between the objective (real) 
+явления предметов12. moon itself and its subjective (mental) image in our 
+
+consciousness? It is clear that the image of the moon 
+10 Мои аргументы в пользу объективированности (объек-
+тивности) явлений см.: (Катречко, 2017а). in the telescope is neither the real (objective) moon in 
+11 В своей работе «Смысл и значение» Г. Фреге использует itself (thing in itself), nor a mental (subjective) image in 
+аналогию телескопа для пояснения своего тезиса об объек- our consciousness, i.e., Kant’s “representation in us.” 
+тивности вводимого им концепта «смысл» («смыслы» не су-
+ществуют в нашей голове, как образы — на сетчатке нашего Our answer is that this telescope­appearance (the moon’s 
+глаза) (Фреге, 1997, с. 29). Здесь я использую аналогию теле- image in the telescope) has a specific intermediate on-
+скопа для других целей, а именно для иллюстрации объек­ tological status, a quasi-objective status, although it 
+тивности кантовского явления. В том же самом смысле объ-
+ективными — физическими, а не ментальными (субъектив- differs from the objective status of the real moon in 
+ными) — являются другие изображения («образы») предме- itself. Our sense organs are similar devices of “input 
+тов, например в зеркале или фотоаппарате, телевизионные 
+«картинки» и т. п., хотя с семантической точки зрения это не 12 Frege uses the telescope analogy to explain his thesis of the 
+сами вещи, а лишь их знаки (см. ниже). objectivity of “sense” (“sense” does not exist in our mind as, for 
+12  Метафора телескопа может быть дополнена аналогом example, mental images) in his work Über Sinn und Bedeutung 
+метафоры «очков с голубыми стеклами» Б. Рассела (Рассел, (Frege, 1948, p. 213). Here I use this analogy for other purposes, 
+1987, с. 190). Если бы линза телескопа была окрашена в си- namely, to illustrate the objectivity of Kant’s appearance. In the 
+ний цвет, то изображение Луны на линзе телескопа тоже same sense, objective — physical, rather than mental (subjec-
+было бы синим (resp. пространственным), но синева (resp. tive) — appearances are other “images” of objects, as, for exam-
+пространственные характеристики) характеризует не саму ple, in a mirror or camera, or movie “pictures,” etc. Although 
+Луну (вещь саму по себе), а лишь ее явление, каковым высту- from the semantic point of view, all these are not objects, but 
+пает «телескопный» образ Луны. only signs of objects (see below).
+
+35
+
+
+
+С. Л. Катречко
+
+При этом Кант хотя и различает явление и вещь саму of information” generating objective appearances (see 
+по себе, но не рассматривает их в отрыве друг от друга, Falkenstein, 1991).13
+
+а явление — как самостоятельную сущность. Кантов- However, although Kant distinguishes appearance 
+ское явление — это лишь явление (являющегося нам) and thing in itself, he does not consider them separately 
+предмета, или эмпирической вещи самой по себе (В 306), (in isolation) from each other, and he does not consider 
+поскольку явление как таковое, то есть в качестве толь­ appearance to be an independent entity. Kant’s appear­
+ко представления, «[не] существует без того, чтó через ance is only the appearance of an object appearing to 
+него является» (В XXVI—ХХVII; Кант, 1994б, с. 29), то us, or an empirical thing in itself (B 306), because there 
+есть без вещи самой по себе. Тем самым Кант развивает is no appearance in itself, i.e., only as representation, 
+не феноменалистскую теорию явлений (appearance the- “without anything that appears” (KrV, В XXVI-ХХVII; 
+ory), а реалистическую теорию являющегося (appearing Kant, 1998, p. 115), i.e., without a thing in itself. Thus, 
+theory)13, в рамках которой термин явление выступает Kant’s transcendentalism appears to be, not a theory 
+сокращенной формой таких выражений, как «являю- of phenomenal appearance, but a realistic theory of ap­
+щийся предмет» или «предмет, как он нам является»14. pearing,14 within which the Kantian term ‘appearance’ is 
+
+Вместе с тем, когда мы говорим, что явление есть та the abbreviated form of such expressions as ‘appearing 
+же вещь, что и вещь сама по себе, взятая в модусе своей objects’ or ‘objects as they appear’.15
+
+данности (явленности), то это не означает (в силу са- At the same time, when we say that appearance 
+мого факта наличия явлений), что явление есть тот же is the same as thing in itself taken in the mode of its 
+самый предмет, что вещь сама по себе, то есть, что яв­ appearing, it does not mean (because of the very fact 
+ление и вещь сама по себе численно тождественны/иден- of the existence of appearance) that appearance and 
+тичны друг другу: «мы отличаем предмет как явление thing in itself are one and the same object, that they are 
+от того же предмета как объекта самого по себе» (B 69; numerically identical to each other, since the “object as 
+Кант, 1994б, с. 85)15. appearance is to be distinguished from itself as object 
+
+in itself” (KrV, B 69; Kant, 1998, p. 190).16
+
+13 Так, если у нас есть фотография человека (в качестве его 
+явления), то в соответствии с теорией явлений предметом по- 13 
+знания будет выступать фотография, то есть представление, This can be supplemented by B. Russell’s metaphor of 
+а по теории являющегося предметом познания будет высту- “coloured glasses” (Russell, p. 130): the moon’s image in the 
+пать являющийся на фото человек, то есть предмет представ- telescope is not the moon itself, and if the telescope’s lens is 
+ления (см.: Хауэлл, 2008, с. 11 примеч.). painted blue (resp. spatial), the perceived objects will be blue 
+14 Впервые о теории являющегося стал говорить Г. Причард (resp. spatial), although this is characteristic not of the object it-
+(Prichard, 1909, p. 74). Позже эта теория была развита в ра- self, but of its appearance.
+
+14 
+ботах Р. Чизолма (Chisholm, 1950) и др. (она соотносима с According to R. Howell, if we take a photography of a person 
+адвербальной теорией восприятия; см. ниже). Отметим так- (as his representation), then according to the appearance-theory, 
+же, что если С. Баркер (Barker, 1967) противопоставляет язы- the photo itself is the object of our cognition here, and accord-
+ки явления и являющегося у Канта, то М. Оберст (Oberst, ing to the appearing-theory, the appearing here person, i.e., an 
+2015) говорит об их возможной совмещенности. Основанием appearance of this person, is the object (or object*) of cognition 
+для этого выступает то, что немецкий (кантовский) термин (see Howell, 2008, p. 11, footnote).
+
+15 
+«Erscheinung» используется для обозначения как процесса The distinction between “appearance theory” and “appear-
+(акта) явления вещи, так и результата этого процесса — соб- ing theory” was made for the first time by H. Prichard (1909, 
+ственно явления, и в зависимости от контекста может быть p. 74). The appearing theory was developed in the works of 
+переведен и как герундий являющееся, и/или как существи- R. Chisholm (1950) and others (see also the adverbial interpre-
+тельное явление. Подобная двусмысленность термина «явле- tation of Kant based on the adverbial theory of perception; see be-
+ние» есть и в русском языке, для прояснения которой мож- low). Whereas S. Barker (1967) opposes the Kantian terminolo-
+но было бы процессуальность явления фиксировать, напри- gy of appearance and appearing, M. Oberst (2015) writes about 
+мер, с помощью терминов по­явление или даже про­явление: their possible consistency. The reason for this is that the Ger-
+вещь сама по себе появляется или проявляет себя в явлении. man (Kantian) term/noun Erscheinung (resp. verb erscheinen) 
+Заметим также, что амбивалентность присуща и кантовско- denotes both the process (act) of the thing’s appearance and 
+му термину «представление» (Vorstellung) (см. ниже сн. 18). the result of this process — appearance itself and, depending 
+15 Когда Кант говорит, что явление есть тот же самый пред- on the context, can be translated both as the verb ‘to appear’ or 
+мет, что вещь сама по себе (см. B XVIII примеч., B 69 и др.), the gerund (verbal noun) ‘appearing’ (it is the basis for appear-
+он использует термин «derselbe» и его производные. Одна- ing theory) and as a noun ‘appearance’ (is the basis for appear-
+ко это не означает полную идентичность явления и вещи ance theory) (Oberst, 2015, pp. 58, 72-73). This ambiguity of the 
+самой по себе в смысле принципа тождества неразличимых term ‘appearance’ exists in the Russian language, too, for the 
+Лейбница: α ≡ β =Df Pх(P(α) ≡ P(β)). Какие-то свойства явле- removal of which it would be possible to fix the processuality 
+ния и самой вещи могут различаться, например простран- of the word ‘appearance’ with the help of the terms ‘emersion’ or 
+ственно-временные характеристики явления не принадле- even ‘manifestation’: the thing in itself emerges or manifests itself 
+жат вещи самой по себе, хотя и свойства вещи также могут раз- in appearance (compare with the ambiguity of Kant’s term ‘re-
+личаться (изменяться) в разные моменты времени. Заметим presentation’; see below footnote 18).
+в этой связи, что когда А. Вуд обсуждает идентичность явле­ 16 When Kant says that an appearance is the same thing as a 
+ния и вещи самой по себе (Wood, 2005, p. 62—76), он опирает- thing in itself (see B XVIII footnote, B 69, etc.), he uses the Ger-
+
+36
+
+
+
+S. L. Katrechko
+
+Воспользуемся аналогией зеркала (в развитие ана- Let us supplement the analogy of the telescope with 
+логии телескопа). Если явление — это образ предмета that of the mirror. If appearance is the image of a thing, 
+(например, стола) в зеркале, то в зеркале представ- for example, the image of a table in a mirror, then the 
+лен тот же самый стол, который является прообразом same empirical table is presented, which is the prototype 
+(= вещью самой по себе) стола. Но «зеркальный» стол (= thing in itself) of the mirror-table. But the mirror-ta-
+(= явление стола) не идентичен реально существую- ble (= appearance of the table) is numerically different 
+щему столу (= вещи самой по себе). Поэтому хотя яв­ from the actual table. Therefore, although the appear­
+ление и связано с вещью самой по себе и является той же ance is connected with the thing in itself, and although 
+самой вещью, но явление численно не тождественно they are the same thing, the appearance is nevertheless 
+вещи самой по себе, это разные объекты16. not numerically identical to the thing in itself, they are 
+
+Тем не менее связь («связанность») между явлением different objects.17 The relation between appearance and 
+и вещью самой по себе имеет место: thing in itself can thus be represented as follows:
+
+«вещь сама по себе — явление — представление» object* —  appearance  — representation
+Схема 3 (thing-in-itself) Schema 3
+
+Вместе с тем в «Критике» Кант нередко позицио- At the same time, in the Critique Kant often de-
+нирует явление как «представление в нас»17. В рамках scribes appearance as a representation within us (see 
+зеркальной аналогии явление — например, образ сто- footnote 6). Appearance, e. g., the image of a table, has 
+ла — имеет тот же статус, что и отражение в зеркале. the same status as a reflection in a mirror. However, in 
+Однако при этом явление не тождественно представле­ this case the appearance is not identical with the rep-
+нию, а как «неопределенный предмет эмпирического 
+созерцания (интуиции)» (B 34; Кант, 1994б, с. 63) яв- resentation, but with the “undetermined object of an 
+ляется лишь предметом (содержанием) представления18. empirical intuition” (KrV, B 34; Kant, 1998, p. 135); it is 
+Отождествление представления и его предмета высту- man term derselbe and its derivatives. However, this does not 
+пает следствием неявного метонимического перено- mean the complete (numerical) identity of appearance and 
+
+thing in itself in the sense of Leibniz’s principle of the identity of 
+ся на принцип относительной идентичности Р. Гича (Geach, indiscernibles: α ≡ β =Df ѴPх(P(α) ≡ P(β)). Some characteristics of 
+1973), а К. Маршалл (Marshall, 2013) различает термины «the the appearance and the thing itself can be different. For exam-
+same» (= то же самое; «слабая идентичность») и «the identical» 
+(= тождественный; «сильная идентичность»). ple, the spatiotemporal characteristics of an appearance are not 
+16 Кант использует в «Критике» целый ряд «предметных» the characteristics of the thing itself, although the properties of 
+терминов, которые, наряду с общим смысловым ядром the thing itself can also change at different points in time. We 
+(«предметность»), имеют отличающиеся смысловые оттенки note in this connection that when A. Wood discusses the iden-
+и/или значения: «объект» (das Objekt), «предмет» (der Ge- tity of an appearance and things in themselves (Wood, 2005, 
+genstand), «вещь» (das Ding), «вещь сама по себе» (Ding an pp. 62-76), he relies on R. Geach’s relative identity (Geach, 1973), 
+sich selbst) и др. Вопросу о точной экспликации как сход- and K. Marshall (2013) distinguishes between the term/notion 
+ства, так и смысловых различий этих «предметных» кан- “the same” (the same as “weak identity”) and “the identical” 
+товских концептов посвящены специальные исследования (identical as “strong identity”).
+(см., напр.: Palmquist, 1986; Buchdahl, 1992; Катречко, 2017б). 17 Kant uses a number of objective terms: thing (Ding), thing 
+Выше я ввел различие между «предметом» и «объектом». (Ding an sich), object (Objekt), object* (Gegenstand), which, along 
+Здесь же я различаю «вещь» и «объект» (ср.: Stang, 2017). with the general semantic core (“objectness”), have differ-
+Если вещь — это некая автономная данность сама по себе, ent semantic nuances. Some special researches were devoted 
+то объект — это вещь в рамках ее противопоставления субъ- to this problem (see, for example, Palmquist, 1986; Buchdahl, 
+екту, то есть то, что противостоит субъекту в том или ином 1992; Katrechko, 2017). Above, I have introduced the distinc-
+отношении («объект vs. субъект»). Ср.: «Объект есть то, в по- tion between ‘object’ (Objekt) and ‘object*’ (Gegenstand). Here, 
+нятии чего объединено многообразное, охватываемое данным I distinguish between a thing and an object (cf. Stang, 2017). If a 
+созерцанием» (B 137; Кант, 1994б, с. 130). Соответственно, thing is an autonomous entity (something), then an object (Ob­
+одна и та же вещь может относиться к субъекту различным jekt) is the thing within its opposition (or relation) to the sub-
+образом, как разные объекты: например, круглая вещь может ject, i.e., the object (something), which opposes the subject in 
+представляться и как круг (сама вещь), и как эллипс (явление one way or another (distinction ‘object vs. subject’). Cf.: “An 
+вещи). Ср. различение божественной и человеческой точек зре- object, however, is that in the concept of which the manifold of 
+ния в трактовке двух аспектов Х. Робинсона (Robinson, 1994). a given intuition is united” (B 137; Kant, 1998, p. 249). Accord-
+17 Ссылки на фрагменты, подтверждающие «тождество» яв- ingly, the same thing can refer to the subject in different ways, 
+ления и представления, приведены в сн. 5.
+18 Заметим, что различение представление vs. предмет пред­ as different objects. For example, a round thing can be repre-
+ставления (явление) соотносимо с введенным ранее различе- sented both as a circle (or thing in itself) and as an ellipse (or ap-
+нием между теорией явления и теорией являющегося: теория pearance). Compare this with the adverbial theory of perception, 
+являющегося и есть акцентирование предмета представления. or with the distinction between divine and human perspectives in 
+
+H. Robinson’s interpretation of two aspects (Robinson, 1994).
+
+37
+
+
+
+С. Л. Катречко
+
+са, когда целое называют по имени его части (в нашем only an object* (or content) of representation.18 The iden-
+случае, именуя, как это и делает Кант, представление tification of the representation with its object* is the result 
+по имени его предмета как его части, то есть явления). of an implicit metonymical transfer, whereby the whole 
+Например, представление о столе (где «стол» является is named by the name of its part, which Kant does, not 
+предметом представления) мы можем назвать «сто- quite accurately calling the representation itself by the 
+лом», то есть именем его предмета, или явления, — name of its object*, i.e., appearance. For instance, we can 
+создавая тем самым ложное впечатление о (полном) call the representation of a table (where the table is the 
+тождестве явления и представления19. object* of this representation) by the name ‘table’, i.e., 
+
+Тем не менее связь («связность») между явлением и by the name of its object*, or appearance, thereby pos-
+представлением также имеет место: tulating a false thesis about the identity of appearance 
+
+and representation.19 Nevertheless, the relation between 
+appearance and representation exists and can be repre-
+
+«вещь сама по себе — явление — представление» sented as follows:
+Схема 4
+
+Если же совместить предложенные выше схемы object* —  appearance  — representation
+связности явления с предметом и представлением: (thing-in-itself)
+
+Schema 4
+
+«предмет —  явление  — представление» If we combine the two schemas suggested above, 
+(вещь сама по себе) we obtain the following:
+
+Схема 5
+
+то можно получить решение основополагающей для object* —  appearance  — representation
+трансцендентальной метафизики семантической про- (thing-in-itself)
+блемы соответствия, или своеобразную трансценден­
+тальную дедукцию (обоснование), основой для которой Schema 5
+выступает тезис о предметном характере наших пред-
+ставлений20. Абрис этой дедукции таков. Представление This solves the semantic problem of conformity, 
+стола (например, его образ), предметом которого вы- which is fundamental to transcendental metaphysics, 
+ступает явление «стол», соотносится — в силу того, что or a kind of transcendental deduction, based on the thesis 
+явление есть явление стола, то есть предметом явления of the objective­objectual (gegenständlich) nature of our 
+выступает являющийся стол (теория являющегося) — representation.20 We shall carry out the outline of this 
+
+deduction (using our analogy of the mirror). The “mir-
+19 С учетом введенного различения между представлением и ror” representation of the table, where the appearance 
+предметом представления можно говорить также о двух смыс-
+лах (resp. словоупотреблении) кантовского концепта пред- 18 Note that the distinction between ‘representation’ and ‘ob-
+ставления: о «просто представлении» (представление-1, или ject of representation (= appearance)’ is consistent with the dis-
+репрезентация; bloße Vorstellung) и «представлении чего­то», то tinction introduced earlier between the theory of appearance 
+есть представлении в генитиве (представление-2, или пре­ and the theory of appearing; the theory of appearing is focused 
+зентация). Тем самым Кант использует термин «представле- on the object* of representation.
+ние» также амбивалентно (ср. с амбивалентностью термина 19 Taking into account the difference between representation 
+«явление» (см. сн. 13 выше)): как «объективную» презента- (Vorstellung) and object* of representation, we can also speak 
+цию и/или как «субъективную» репрезентацию (ср. с «объ- both of “mere representation” (representation-1; [als] bloße Vor­
+ективным представлением» и «субъективным представле- stellung) and “representation of something,” i.e., representation 
+нием» из фрагмента В 207—208). Соответственно, кантов- in the genitive sense (presentation, or representation-2). Thus, 
+ское явление может быть отождествлено с презентацией, или Kant uses his term ‘Vorstellung’ also ambiguously (compare 
+представлением-2, а не представлением-1. Подробнее об with the ambiguity of Kant’s term ‘appearance’; see footnote 
+этом см.: (Катречко, 2017а). 16): both as objective-objectual (gegenständlich) presentation 
+20 Формулировка, а тем более решение Кантом проблемы (representation-1), and/or as a subjective re­presentation (re-
+соответствия указывает на то, что он развивает причинную те- presentation-2). Cf. ‘objective representation’ and ‘subjective 
+орию восприятия, хотя и использует общепринятый репре- representation’ from B 207—208. Accordingly, for Kant, ap­
+зентатистский язык: мы воспринимаем не идеи вещей (Де- pearance can be equated with presentation-2, but not with re-
+карт, Локк), а лишь их явления, которые в общем случае не presentation-1. For more details on this, see Katrechko, 2018a.
+изоморфны вещам. Заметим, что если бы Кант был сторон- 20 Kant’s formulation and solution of the problem of conform-
+ником теории репрезентаций, то в этом случае проблема со- ity assume that he accepts not a representational, but a causal 
+ответствия предметов и репрезентаций решалась бы триви- theory of perception: we perceive not ideas (Locke, Descartes), 
+ально. but only appearances that are different from things.
+
+38
+
+
+
+S. L. Katrechko
+
+с реально существующей вещью (предметом) — столом “table” functions as an object*, is correlated to the actu-
+как вещью самой по себе. Таким образом, поскольку во ally existing thing, the table (as thing in itself), because 
+всех членах трансцендентальной триады речь идет об the appearance ‘table’ is the appearance of the table, i.e., the 
+одном и том же предмете — столе, то имеет место пред- appearing table is the object* of the appearance. Thus, 
+метная идентичность (тождественность) между собой since in all the elements of our schema (i.e., transcen-
+1) представления, 2) явления и 3) вещи самой по себе. dental triad) we are talking about the same object*: (1) 
+При этом явление (явление стола), которое сходно по the table, then there is the objective* identity of the rep­
+содержанию как с самой вещью, так и с нашим пред- resentation, (2) the appearance, and (3) the thing in itself, 
+ставлением о ней в сознании, играет роль «среднего which underlies the relation between object* and rep­
+термина», который выступает основанием и опосре- resentation. In this case, the appearance, i.e., the appear-
+дует отношение между «крайними членами» отноше- ance of the table, which is similar in content both to the 
+ния — предметом (вне нас) и представлением (в нас). thing in itself and to our mental representation of it, 
+
+Тем самым вводимый Кантом в «Критике» концепт functions as the “middle term” in the relation between 
+явления в качестве медиума между предметом и пред­ an object* (external to us) and a representation (within 
+ставлением лежит в основании решения поставленной us).
+им в письме к Герцу ключевой для метафизики семан- Thus, the concept of appearance introduced by Kant 
+тической проблемы соответствия. Кант возвращается к as a medium between object* and representation lies at 
+обсуждению этой проблемы в предисловии ко второму the basis of the solution of the semantic problem of 
+изданию «Критики» и описывает два возможных спо- conformity introduced in the letter to Hertz (Br, AA 10, 
+соба ее решения. Свое решение, которое Кант связыва- p. 130). Kant returns to the discussion of this problem in 
+ет с «измененным методом мышления» (B XVIII; Кант, the Preface to the second edition of the Critique, where 
+1994б, с. 24) в метафизике и соотносит с «коперникан- he describes two possible ways of solving it. Kant ex-
+ским переворотом» (B XXI примеч.; Кант, 1994б, с. 26)21, plains his view as follows: “we can cognize of things 
+он описывает так: «мы a priori познаем в вещах (Ding- (Dingen) a priori only what we ourselves have put into 
+en) лишь то, что сами в них вложили» (B XVIII; Кант, them” (KrV, B XVIII; Kant, 1998, p. 111). For him, this 
+1994б, с. 24). Понятно, что в случае кантовского спосо- solution is connected to his “Copernican revolution” 
+ба решения можно говорить о соответствии предметов (KrV, B XXI footnote; Kant, 1998, p. 112) and to “the 
+нашим представлениям, поскольку предметы уже не altered method of our way of thinking” (KrV, B XVIII; 
+даны нам, а заданы нами. Но эти вещи уже не вещи сами Kant, 1998, p. 111) in metaphysics.21 It is clear that, in 
+по себе, а предметы опыта, то есть сконструированные the case of Kant’s solution, it is possible to speak of the 
+нами из эмпирической материи и априорной формы conformity of objects* (Gegenstände) to our representa-
+явления, опосредующие отношение между субъектив- tions, since objects* are no longer given to us, but are 
+ными представлениями и существующими независимо given by us. But these objects* or things (Dinge) are no 
+от ума объективными предметами. longer things in themselves, but only objects of experi­
+
+ence, i.e., constructed through empirical matter and a 
+2. Онтологический статус явления: priori forms of appearance, mediating representation 
+
+вещь (субстанция) и/или отношение and objective mind-independent objects*.
+
+В результате проведенного анализа я сформули- 2. The Ontological Status of Appearance: 
+ровал тезисы (1) о «промежуточном» метафизическом Thing (Substance) and/or Relation
+статусе кантовских явлений в рамках трансценден-
+тальной триады «вещь сама по себе (Ding an sich) — As a result of this analysis, we may formulate the 
+
+theses about (1) the “intermediate” status of Kant’s ap-
+21 Примером для Канта выступает не столько гипотеза Ко- pearance as an independent entity within the transcen-
+перника (или «коперниканский переворот»), сколько тео­
+рия гравитации Ньютона, которая доказывает гипотезу Ко- 21 For Kant, it is not the Copernican hypothesis (or ‘Copernican 
+перника (см. В XXII прим.). Ньютоновская «гравитация» вы- revolution’) that functions as an example, but it is rather New-
+ступает сущностью, или ноуменальной вещью самой по себе ton’s theory of gravity that proves the hypothesis of Coperni-
+наблюдаемых явлений. Причем это более точный пример cus (see KrV, B XXII footnote). Gravity is an entity, or thing in 
+соотношения явления и вещи самой по себе, чем кантовская эм- itself, of the observed appearances. And this is a more reveal-
+пирическая аналогия «радуга vs. капли дождя» из фрагмен- ing example of the relation of appearance and thing in itself, 
+та B 63, поскольку гравитация есть ничто на феноменальном than Kant’s analogy “rainbow vs. drops of rain” from B 63, be-
+уровне (она невидима) и совершенно ни на что непохожа cause gravity is nothing at a phenomenal level (it is invisible) 
+(пример с гравитацией В. Веркмейстера (Werkmeister, 1981)). and does not resemble anything. See, for example, W. H. Werk-
+Это говорит о том, что различие между явлением и вещью са­ meister (1981). Therefore, the difference between the appear-
+мой по себе является, возможно, более радикальным. ance and the thing in itself is perhaps more radical.
+
+39
+
+
+
+С. Л. Катречко
+
+явление (Erscheinung) — представление (Vorstellung)» dental triad “thing in itself (Ding an sich) — appearance 
+и (2) о необходимости удержания вводимого в триаде (Erscheinung) — representation (Vorstellung)” and (2) the 
+двойного отличения явления как от вещи самой по себе, need to retain in the triad the introduced double dif-
+так и от представления. Диалектика явления такова: с ferentiation of appearance both from thing in itself and 
+одной стороны, явление сходно как с предметом, так from representation. The dialectics of appearance is as 
+и представлением, а с другой — оно отлично как от follows: on the one hand, the appearance itself in some 
+объективного предмета, так и от субъективного представ- sense can be considered as similar both to an object* 
+ления. Этими тезисами определяется метафизический and a representation and, on the other hand, the ap-
+статус явления как самостоятельной сущности в кан- pearance itself is different both from the objective ob-
+товской системе. ject* and its subjective representation. These theses 
+
+Однако вопрос об онтологическом статусе кантов- determine the metaphysical state of appearance as an 
+ского явления пока остается неопределенным. В част- independent essence in Kant’s system.
+ности, доказанность самостоятельности концепта яв- However, the problem of the ontological status of 
+ления еще не означает онтологической самостоятель- Kant’s appearance remains uncertain and requires a 
+ности (то есть субстанциональности) самого явления. solution. In particular, the proof of the independence of 
+Если для решения вопроса о метафизическом стату- the concept of appearance does not entail the ontolog-
+се явления мы опирались на кантовское различение ical independence (i.e., substantiality) of appearance 
+«предмет — представление», то для его уточнения itself. If we relied on the Kantian distinction “object* — 
+будем использовать онтологическую шкалу «вещь/ representation” to solve the problem of the metaphys-
+предмет — отношение». ical status of appearance, we use the ontological spec-
+
+В настоящее время можно выделить два основных trum “object/thing — relation” to solve the problem of 
+подхода к решению данной проблемы. Первую (более the ontological status of appearance.
+многочисленную) группу исследователей составляют There currently are two main contending ap-
+те, кто рассматривает кантовское явление субстанци- proaches to solving this problem. The first, more nu-
+онально, то есть как вещь (предмет), по аналогии с фи- merous, group of researchers is that of those who 
+зическим предметом (см. ниже, например Р. Лэнгтон). consider Kant’s appearance as an object/thing (i.e., as 
+Основание для этого дает сам Кант, когда говорит о яв- a substance), by analogy with a physical object (see 
+лении как о таком же самом предмете, что и вещь сама по below, for example, R. Langton). The basis for this is 
+себе. Вторую группу исследователей составляют те, кто given by Kant himself (this is emphasised by the ad-
+считает кантовское явление чем-то относительным или herents of the “two aspects” theory) when he speaks 
+даже отношением (см. ниже, например Дж. Ван Клив), of appearance as about the same thing as the thing in 
+поскольку, как говорит Кант, «в явлении объекты и itself. The second group of researchers includes those 
+даже свойства, которые мы им приписываем, всегда who consider the Kantian appearance as something 
+рассматриваются как нечто действительно данное, но relative (= relative thing), or even as a relation itself (for 
+поскольку эти свойства зависят только от способа со- such an interpretation, see, for example, J. Van Cleeve). 
+зерцания субъекта в отношении (курсив мой. — С. К.) к As Kant writes: “in the appearance the objects indeed 
+нему данного предмета, то мы отличаем предмет как even properties that we attribute to them, are always 
+явление от того же предмета как объекта самого по себе» regarded as something really given, only insofar as this 
+(B 69; Кант, 1994б, с. 85). property depends only on the kind of intuition of the 
+
+На относительность явления указывает уже само subject in the relation of the given object to it then this 
+противопоставление явление vs. вещь сама по себе, по- object as appearance is to be distinguished from itself 
+скольку терминологически выражение «само по as object in itself” (KrV, B 69; Kant, 1998, p. 190).
+себе (an sich)» во времена Канта означает, что такая The relationality of appearance is indicated by the 
+вещь определяется «без отношения к другой [вещи]» very opposition between appearance and thing in itself, 
+(Oberst, 2015, p. 56), то есть как автономная сущность because terminologically the expression “in itself” (an 
+сама по себе, сущность вне отношений22, в то время как sich) meant, in Kant’s times, that a thing is determined 
+кантовское явление относительно и отсылает если не “without relation to another [thing]” (Oberst, 2015, 
+к онтологическому, то, по крайней мере, к эпистемо- p. 56), i.e., as an indication of an autonomous entity in 
+логическому отношению между объектом и субъектом. itself, an entity beyond all relations,22 while the Kantian 
+Тем самым вводимый Кантом концепт явления пара- appearance is a result, if not of an ontological, at least 
+доксален: с одной стороны, сопоставление явления с ве­ of a cognitive relation between an object and a subject. 
+22 Без­относительный характер кантовской вещи самой по себе 22 The non-relational nature of Kant’s thing in itself is con-
+подтверждают, например, фрагменты B 336, В 339 и др. firmed by B 336 and B 339.
+
+40
+
+
+
+S. L. Katrechko
+
+щью самой по себе говорит о его предметном характере, Thus, one can speak of the paradoxical nature of Kant’s 
+с другой стороны, противопоставление явления и вещи concept of appearance: on the one hand, its comparison 
+самой по себе указывает на его не-предметный (не-суб- with the thing in itself is about the objective nature of 
+станциональный) характер. Причем как для первой, the appearance and, on the other hand, the opposition 
+так и для второй трактовки есть подтверждающие тек- of appearance and of the thing in itself indicates its 
+стологические фрагменты. non­objective (i.e., subjective) character. And there are 
+
+Приступая к нашему анализу, обратим внимание corresponding textual confirmations both for the first 
+прежде всего на то, что сторонники как теории «двух and for the second approach to appearance.
+объектов», так и теории «двух аспектов» в своем боль- At the beginning of our analysis, we must first of 
+шинстве принимают (по умолчанию) предметный под­ all pay attention to the fact that the supporters of both 
+ход к трактовке явления: он прямо прописан в названии the “two objects” theory and the “two aspects” theory 
+теории «двух объектов», а теория «двух аспектов» го- mostly accept (by default) an object/thing approach to the 
+ворит о том, что явление выступает другим аспектом interpretation of appearance (it is actually written in 
+рассмотрения того же самого предмета, каковым для the name of the theory of “two objects”), and the theory 
+Канта выступает вещь сама по себе. Основанием для of “two aspects” is based on the fact that appearance is 
+этого становится следующее: явление вводится Кантом another aspect of consideration of the same object/thing, 
+для фиксации того, что с предкритической (эмпири- which, for Kant, is a thing in itself.23 The reason for this 
+ческой) точки зрения позиционировалось как реально is that the concept of appearance is introduced by 
+существующая вещь (тело), а в трансцендентальной Kant to indicate what from the pre-critical (empirical) 
+рефлексии выступает уже как явление предмета (тео- point of view was considered a really existing object/
+рия являющегося), поскольку теперь «мы отличаем thing (= body), but in the transcendental perspective 
+предмет как явление от того же предмета как объекта already appears as the appearance of an object* (theory 
+самого по себе» (B 69; Кант, 1994б, с. 85). А далее Кант с of appearing), because now we distinguish “object as 
+целью различения предметов как явлений и предметов appearance […] from itself [= the same object] as an 
+как вещей самих по себе соотносит явления с предметами object in itself” (KrV, B 69; Kant, 1998, p. 190). And then 
+опыта / чувств / знания (В 125—126 и др.23), или пред­ Kant, in order to distinguish objects as appearances from 
+метами возможного опыта (B 148). Как я уже отмечал objects in themselves (things in themselves), connects 
+выше, для кантовского реализма важен предметный appearances to the objects of experience / objects of 
+(объективированный) характер явления (Катречко, senses / objects of cognition (KrV, B 125-127, etc.), or 
+2017а), и поэтому в рамках развиваемой Кантом тео­ the objects of possible experience (KrV, B 148).24 As 
+рии являющегося явление определяется как «неопре- we have already noted above, for Kantian realism, 
+деленный предмет эмпирического созерцания» (В 34; the objective nature of appearance and the theory of 
+Кант, 1994б, с. 63), или интуиции24. В рамках введенной appearing that he himself developed are important. 
+ранее трансцендентальной триады подобную «вещ- He therefore defines appearance as the “undetermined 
+ную» трактовку явления как автономной (субстанци- object of an empirical intuition” (KrV, B 34; Kant, 1998, 
+ональной) сущности можно представить так: p. 172). In the framework of the transcendental triad 
+
+introduced earlier, such an objective interpretation of 
+«предмет — | {явление} | — представление» appearance as an independent substantive entity can 
+(вещь сама по себе) be represented as follows:
+
+Схема 6 object*(Gegenstand) — | {appearance} | — representation
+Однако будет ли правомерным логически обра- (thing-in-itself)
+
+тить выражающее центральный тезис трансценден- Schema 6
+тализма суждение «[эмпирические] предметы — это 
+явления» в обсуждаемое здесь суждение «явление — However, is it logically valid to turn the judgment 
+это предмет»? Является ли явление самостоятельным, that “[empirical] objects are appearances,” which ex-
+онтологически независимым предметом с трансцен- presses the central thesis of transcendentalism, into 
+
+the judgment that we are interested in, namely that 
+23 См. также названия §§ 22 и 24 в «Трансцендентальной де-
+дукции...» из 2-го издания «Критики чистого разума». 23 Such is the approach of R. Langton (1998), which treats thing 
+24 Русский перевод термина «Anschauung» как «созерца- in itself and appearance as one and the same thing, but with a 
+ния» не всегда удачен, и поэтому я перевожу это понятие, different — “internal” (for thing in itself) and “external” (for 
+восходящее к латинскому термину intuitus, как «интуиция» appearance) — set of properties.
+(см. В 337), подчеркивая тем самым процессуальный харак- 24 See also the titles of §§ 22 and 24 of Kant’s “Transcendental 
+тер интуиции как акта схватывания. Deduction...”
+
+41
+
+
+
+С. Л. Катречко
+
+дентальной точки зрения и каковы основания для это- “appearances are objects”? Is appearance a self-suffi-
+го? Отрицательные ответы на эти и подобные вопросы cient, ontologically independent object from the tran-
+склоняют исследователей к выбору другой альтер- scendental point of view? And what are the reasons for 
+нативы — к не-субстанциональной (относительной) this? Negative answers to these and similar questions 
+трактовке явления. lead Kant scholars to choose another alternative — a 
+
+Относительность явления связана с его промежу- non-substantial (relational) interpretation of appear-
+точным расположением между предметом и представ- ance.
+лением: с одной стороны, явление — это явление пред- The relationality of appearance is connected with 
+мета и поэтому оно определенным образом относится its intermediate location in the transcendental triad: on 
+к объекту/предмету (вещи самой по себе), а с другой the one hand, appearance is an appearance of an object 
+стороны, явление — это представление о предмете, и and, therefore, it is in a certain way (1) related to the 
+поэтому оно имеет определенное отношение к нашей object of cognition (i.e., thing in itself) and, on the other 
+чувственности, то есть к субъекту познания. hand, appearance is a representation of the object and, 
+
+В ряде мест «Критики», «Пролегомен» и «Opus therefore, appearance has a certain (2) relation to our 
+Postumum» Кант подчеркивает эту двойственную от- sensibility, i.e., to the subject of cognition.
+носительность своего концепта явления. С одной сто- In a number of places in the Critique, Prolegomena, 
+роны, «явление есть то, что вовсе не находится в объек- and Opus Postumum, Kant emphasises this dual rela-
+те самом по себе, а всегда встречается в его отношении tionality of appearance. On the one hand, appearance 
+(курсив мой. — С. К.) к субъекту» (B 70 примеч.; Кант, “is not to be encountered in the object in itself at all, but 
+1994б, с. 86), и «явления существуют не сами по себе, is always to be encountered in its relation [my italics — 
+а только в отношении (курсив мой. — С. К.) к… суще- S. K.] to the subject” (KrV, B 70 footnote; Kant, 1998, 
+ству [, имеющему чувства]» (B 164; Кант, 1994б, с. 148)25. p. 190) and “appearances do not exist in themselves, but 
+С другой стороны, явление нельзя мыслить как нечто only relative [my italics — S. K.] to the same being, in-
+самостоятельное и автономное, без его отношения к яв- sofar as it has senses” (KrV, B 164; Kant, 1998, p. 263).25 
+ляющемуся предмету (вещи самой по себе), поскольку On the other hand, appearance cannot be thought of as 
+«явление [не] существует без того, что в нем является» something independent and autonomous, without its 
+(B XXVII), и «из понятия же явления вообще естествен- relation to the appearing object (thing in itself), since 
+но вытекает вот что: явлению должно соответствовать there is no “appearance without anything that appears” 
+(курсив мой. — С. К.) нечто… [а] слово явление уже (B XXVII) and “it also follows naturally from the con-
+указывает на отношение (Beziehung) к [этому] неч- cept of an appearance in general that something must 
+то»26 (A 251—252; Кант, 2006, с. 327—329), а именно — к correspond [my italics — S. K.] to it which is not in itself 
+трансцендентальному предмету (A 108—109). appearance […], [and] the word ‘appearance’ must al-
+
+Обратим в этой связи внимание на фрагмент ready indicate a relation (Beziehung) [my italics — S. K.] 
+В 66—67 из добавленного во 2-м издании «Критики» to something” (KrV, A 251-252; Kant, 1998, p. 348),26 
+примечания к «Трансцендентальной эстетике», где more precisely, to the transcendental object (see KrV, 
+Кант последовательно говорит о двойственном ха- A 108-109).
+рактере относительности своего явления. Сначала он In connection with this, we refer to B 66—67 from 
+пишет, что «всё, что в нашем познании принадлежит 
+созерцанию [то есть области явлений]… содержит the second edition, where Kant consistently speaks of 
+одни лишь отношения» (В 66; Кант, 1994б, с. 84; ср. the dual nature of the relativity of appearances. First-
+В 67; Кант, 1994б, с. 84: «созерцание не содержит ни- ly, he writes that “everything in our cognition that be-
+чего, кроме отношений»), а потом заключает, что, по- longs to intuition [i.e., the field of appearances — S. K.] 
+скольку «внешнее чувство дает нам лишь представле- [...] contains nothing but mere relations [my italics  — 
+
+S. K.]” (KrV, B 66; Kant, 1998, pp. 188-189; cf. KrV, 
+25 Ср. также с § 13 «Пролегомен», где Кант говорит о том, что B 67; Kant, 1998, p. 189); that “intuition […] contains 
+возможность явлений основывается «на отношении (Verhält­
+nis) (курсив мой. — С. К.) некоторых самих по себе неизвест- nothing but relations,” and then concludes that “since 
+ных вещей к чему-то другому, а именно к нашей чувствен- nothing is given to us through […] sense except mere 
+ности» (АА 4, S. 286; Кант, 1994в, с. 41; cр. AA 22, S. 43—44).
+26 В своем переводе я заменил выражение «заключает в себе 25 Cf. also § 13 of Prolegomena, where Kant writes that the pos­
+указание» выражением «указывает на отношение (Bezie- sibility of appearance is based on relation (Verhältnis) (Proleg, 
+hung)» с целью подчеркнуть обозначенное здесь Кантом от­ AA 04, p. 286). See also AA 22, pp. 43-44.
+ношение [референции] явления к чему-то, причем понятно 26 Here I emphasised the relation of appearance to something, 
+из контекста, что это отношение явления к «конечному» ре- and it is clear that this is the referential (representational) rela-
+ференту (денотату), каковым, согласно фрагменту A 108, яв- tion of appearance to its ultimate denotation, and according to 
+ляется трансцендентальный предмет. A 108, transcendental object stands as such. 
+
+42
+
+
+
+S. L. Katrechko
+
+ния об отношении, оно может содержать в своем пред- representations of relation, […] sense can also contain 
+ставлении только отношение предмета к субъекту, а не in its representation only the relation of an object to the 
+то внутреннее, что присуще объекту самому по себе» subject [here and before my italics — S. K.], and not that 
+(курсив мой. — С. К.) (В 67; Кант, 1994б, с. 84)27. Если which is internal to the object in itself” (KrV, B 67; Kant, 
+же мы усиливаем концептуальную относительность 1998, p. 189).27 If we strengthen the relationality of the 
+кантовского явления посредством радикального тези- Kantian appearance by means of the radical thesis that 
+са «явление — это отношение (Beziehung, Verhältniß)»28, “appearance is a relation (Beziehung, Verhältniß),”28 then 
+то тогда явление в рамках трансцендентальной триады 
+можно представить так: appearance in the transcendental triad can be represent-
+
+ed as follows.
+
+«предмет — | {явление} | — представление»
+(вещь сама по себе) object*(Gegenstand) — | {... ... ... } | — representation
+
+Схема 7 (thing-in-itself)
+Schema 7
+
+Введенное мной онтологическое различение 
+«вещь/предмет — отношение» задает таблицу возмож- The above-mentioned ontological distinction be-
+ных трактовок концепта явления, причем при оценке tween “object/thing” and “relation” sets the table of 
+данного концепта надо учитывать также объектив- possible interpretations of Kant’s concept of appear-
+ную или субъективную трактовки явления, представ- ance and entails that in the evaluation of this concept 
+ленные, соответственно, теориями «двух аспектов» и we shall take into account the objective or subjective 
+«двух объектов». character of its interpretations, represented respective-
+
+При этом некоторые из позиций являются лишь ly by the theories of “two aspects” and of “two objects.”
+логически возможными и их нельзя приписывать However, some of these positions (for example, 
+кантовскому трансцендентализму. Например, Кант position 1 or 3) are only logically possible and cannot 
+отрицает трансцендентальный реализм (ноуменализм), be attributed to Kant’s transcendentalism. So, Kant de-
+постулирующий наличие ноуменальных предметов, nies, for example, transcendental realism (or noumenal­
+или наивный реализм, не различающий явление и вещь ism), postulating the presence of noumenal objects, or 
+саму по себе и приписывающий явлению статус реаль-
+но существующего предмета. Несмотря на разный ме- naive realism, which does not distinguish appearance 
+тафизический статус явления  в этих трактовках, они from thing in itself and attribute the status of a real-life 
+соответствуют позиции №1 таблицы. В кантовской он- object to appearance. The metaphysical status of ap-
+тологии невозможна также позиция №3 (релятивизм), pearance is different in these interpretations, but they 
+поскольку Кант (и его современники) не рассматрива- both correspond to position 1 in the table. In Kant’s 
+ет возможность реляционной онтологии, представлен- ontology, position 3 (i.e., relationalism) is also impossi-
+ной в истории мысли значительно позже: например, в ble, since Kant and his contemporaries do not consider 
+«Познании и действительности. Понятие о субстанции the possibility of the relational ontology that will lat-
+и понятие о функции» (1910) Э. Кассирера или «Логи- er be developed by E. Cassirer in Substance and Func­
+ко-философском трактате» (1914) Л. Витгенштейна29. tion (1910) or L. Wittgenstein in Tractatus Logico­Philo­
+Кантовский мир — это классический мир вещей (самих sophicus (1914).29 Although Kant’s philosophy offers 
+27 Во фрагменте В 66—67 Кант говорит о двойной относи- 27 Thus, in B 66—67 Kant speaks of the double relativity of ap-
+тельности явлений: объективной относительности области pearances: the objective relativity of the field of appearances as 
+явлений как пространственно-временных отношениях меж- the space-time relations between objects (objects of experience) 
+ду предметами опыта и субъективной относительности явле- and subjective relativity of appearances in relation to the subject. 
+ний по отношению к субъекту. В своем анализе данного пас- In his analysis, Van Cleve justifies the acceptability of only the 
+сажа Дж. Ван Клив обосновывает приемлемость лишь второ- second variant (which he connects with his syllogism-2) and re-
+го варианта, он связывает его с силлогизмом-2 и отвергает jects the first one (corresponding to the views of J.S. Mill). In a re-
+силлогизм-1, соответствующий взглядам А. Милля. Однако view of Van Cleve’s book, R. Langton (2001) emphasises that syl-
+в рецензии на книгу Ван Клива Р. Лэнгтон (Langton, 2001) logism-2 is fully compatible with syllogism-1, which is consistent 
+подчеркивает, что силлогизм-2 вполне совместим с силло- with the theory of two aspects. Here, I agree with Langton, since 
+гизмом-1, то есть с теорией двух аспектов. Здесь я солидарен both modes of relativity of appearance, indicated in this fragment 
+с Р. Лэнгтон, поскольку оба модуса относительности кантов- by Kant, do not oppose, but, rather, complement each other.
+ского явления в данном фрагменте не противостоят, а, ско- 28 This position is currently upheld by Van Cleve (1999). For 
+рее, дополняют друг друга. more details, see below in the section 2.
+28 В настоящее время эту позицию последовательно прово- 29 Cf. “The world is the totality of facts, not of things” (“Die 
+дит Дж. Ван Клив (Van Cleve, 1999). Подробнее см. в разде- Welt ist die Gesamtheit der Tatsachen, nicht der Dinge”) (TLP, 1.1); 
+ле 2 ниже. “In a state of affairs objects stand in a determinate relation to 
+29 См.: «Мир есть совокупность фактов, а не вещей» (аф. 1.1); one another” (“Im Sachverhalt verhalten sich die Gegenstände in 
+«В атомарном факте объекты сочетаются определенным об- bestimmter Art und Weise zueinander”) (TLP, 2.031). For further 
+разом» (аф. 2.031). Подробнее см.: (Katrechko, 2008). details, see Katrechko, 2008.
+
+43
+
+
+
+С. Л. Катречко
+
+по себе), а не отношений, хотя определенные предпо- grounds for a relational interpretation of the world, 
+сылки для реляционной трактовки мира у Канта есть Kant’s world is the world of things themselves, not of 
+(см. В 66—67; Кант, 1994б, с. 84). relations (see, for example, KrV, B 66—67).
+
+Объективный Субъективный 
+ЯВЛЕНИЕ статус статус Objective Subjective
+
+(теория двух (теория двух Appearance (two-aspect (two-object 
+аспектов) объектов) theory) theory)
+
+Субстанция (1) Наивный  (4) Феномена-
+(абсолютный реализм, транс- лизм: И. Федер — Substance (1) Naive realism, (4) phenomenalism:
+предмет) цендентальный Х. Гарве, П. Стро- (absolute transcendental Ch. Garve — 
+
+реализм сон thing) realism J. Feder, 
+P. Strawson
+
+Квази-предмет (2а) Р. Лэнгтон, (5) Интенциона-
+лизм:
+
+Относитель- (2б) Н. Штанг, Р. Аквила Quasi-thing (2a) R. Langton (5) Intentionalism:
+ный предмет К. Маршалл Relative thing (2b) N. Stang, R. Aquila
+
+C. Marshall
+Отношение (3) Релятивизм (6) Субъектив-
+
+но-реляционная Relation (3) Relationalism (6) Subjective-rela-
+трактовка: tional interpreta-
+Дж. Ван Клив tion:
+
+J. Van Cleve
+Начнем с обсуждения современных субъективи-
+
+стских трактовок явления30. Выше я отверг по кон- Let us start the analysis of this table with a con-
+цептуальным соображениям (сильную) феномена­ temporary subjectivist (phenomenalist) interpretation 
+листскую трактовку трансцендентализма Канта (см. of Kant’s concept of appearance.30 For conceptual rea-
+№ 4 в таблице), которая рассматривает явление как sons, we have thus far rejected the “strong” phenom-
+ментальный предмет, состоящий из «материи» на- enalist interpretation of Kant’s transcendentalism (see 
+ших ощущений (ср. с теорией «двух объектов»). Такое position 4), which considers appearance as a mental 
+
+object consisting of the “matter” of our sensations (cf. 
+(феноменалистское) понимание было характерно, на- the theory of “two objects”). Such understanding of 
+пример, для широко распространенной в британской Kant’s concept was typical, for example, for the British 
+философии с 1920-х до 1940-х гг. теории «чувственных philosophical theory of “sensory data” of the period 
+данных», хотя сейчас уже ушло в прошлое31: Кант не from the 1920s to the 1940s, although it is now a thing 
+является феноменалистом типа Беркли, о чем говорят of the past.31 Kant is not a phenomenalist à la Berkeley, 
+его «Опровержения идеализма» в «Критике» и «Реф- as testifies his “Refutation of Idealism” in the Critique 
+лексиях»32. and the Reflections.32
+
+Если же мы принимаем во внимание «субъектив- If we take into account the subjective relationali-
+ty of appearance, i.e., the fact that the appearance is 
+
+30 В наши задачи здесь не входит подробный анализ различ-
+ных концепций (трактовок) трансцендентализма, а скорее 30 My task here does not include a detailed analysis of various 
+лишь их классификация в рамках предложенной таблицы. interpretations of Kant’s transcendentalism, but rather only 
+31 Как пишет Т. Янковиак, «феноменалистские трактовки their classification within the framework of the proposed table.
+Канта сейчас не в моде» (Jankowiak, 2017, р. 205). 31 As T. Jankowiak writes, “the phenomenalist interpretations 
+32 См.: (B 274—276; Кант, 1994б, с. 220—221), а также (AA 18, of Kant are out of fashion now” (Jankowiak, 2017, p. 205).
+S. 603—612 (Refl. 5653), 312—313 (Refl. 5654), 610—623 (Refl. 32 See KrV, B 274-276; Refl. 5653, AA 18, pp. 603-612; Refl. 5654, 
+6311—6316), 643 (Refl. 6323)). Подробнее см.: (Werkmeister, pp. 312-313; Refl. 6311-6316, pp. 610-623, Refl. 6323, p. 643. For 
+1977). Вместе с тем в настоящее время некоторые исследо- further details, see Werkmeister, 1977. However, nowadays 
+ватели развивают также и «слабые» версии феноменализ- some Kant scholars have developed weak versions of phenom-
+ма без постулирования явления в качестве ментального объ- enalism without postulating appearance as a mental object, 
+екта, или феноменализм без берклианского идеализма (см. or phenomenalism without Berkeleyan idealism (see Haag, 
+Haag, 2007; Oberst, 2015; Jankowiak, 2017). Ниже я рассмотрю 2007; Oberst, 2015; Jankowiak, 2017). Below we consider the 
+и феноменалистские (более точно — интенциональные) phenomenalist (more precisely, intentional) interpretations of 
+трактовки трансцендентализма Дж. Ван Клива и Р. Аквилы. Kant by J. Van Cleave and R. Aquila. For an overview of the 
+Концептуальный обзор разных типов феноменализма см.: different types of phenomenalistic interpretations of Kant, see 
+(Stang, 2016). Stang, 2016.
+
+44
+
+
+
+S. L. Katrechko
+
+ную» относительность явления, иными словами, что not the object itself, but only the relation of the object 
+явление — это не сам предмет, а лишь только отноше­ to the subject (KrV, B 67, 70, 164), then such a radical 
+ние (предмета) к субъекту (B 67; В 70; В 164), то подоб- subjective­relational interpretation of the concept of ap-
+ную радикальную субъективно­реляционную трактовку pearance (see position 6 in the table) has already been 
+явления (см. № 6 в таблице) развивает Дж. Ван Клив developed by J. Van Cleve (1999). At the same time, 
+(Van Cleve, 1999). При этом он все же оставляет мини- Van Cleave nevertheless leaves a minimum “objec-
+мальный «предметный» остаток в своей трактовке, по- tive” remainder in his relational interpretation of ap-
+зиционируя явление как виртуальный (супервентный33) pearance and positions it as a virtual (supervenient)33 
+предмет, хотя и подчеркивает, что концепт «виртуаль- object, although he emphasises that this concept plays 
+ного объекта» играет лишь номинальную роль в ходе only a nominal role in the transcendental analysis of 
+трансцендентального анализа познания, поскольку, cognition, since, according to Van Cleve, the appear-
+по Ван Кливу, явление-предмет позволяет говорить со- ance-object allows us to speak briefly about appearance 
+кращенно о явлении как акте познания (восприятия). as an act of perception. The appearance of red, for ex-
+Например, явление красного означает то, что в нашем ample, entails that in our act of perception we perceive 
+акте восприятия мы видим что-то как красное (или something as red (or red) and not that we perceive a red 
+красным), а не то, что мы воспринимаем что­то красное, object.34
+
+то есть красный предмет34. In his analysis of subjectivist interpretations of 
+В своем анализе субъективистских трактовок яв- appearance, Van Cleve identifies and supports the in-
+
+ления Ван Клив выделяет и поддерживает трактовку tentionalist interpretation of the Kantian appearance 
+явления в качестве брентановского интенционального as a Brentanian intentional object (see position 5 in the 
+предмета (см. № 5 в таблице), развиваемую в работах table), developed in the works of R. Aquila (1979).35 But 
+Р. Аквилы (Aquila, 1979)35, хотя и ратует за то, что явле­ he advocates the thesis that appearance should be more 
+ние все же точнее понимать не предметным (как пони- accurately understood not in an “objective” (as Aquila 
+мает Аквила; явление как предмет), а процессуальным does; appearance as object), but in a “processual” way 
+образом (явление как акт). (appearance as act).
+
+Вслед за Г. Прауссом (Prauss, 1971) Р. Аквила выде- Following G. Prauss (1971), R. Aquila distinguishes 
+ляет два типа кантовских явлений: объективные (тран- two types of Kantian appearance: objective (transcen-
+сцендентальные) явления, соответствующие предме- dental) appearance corresponding to the objects of ex-
+там опыта, и субъективные (эмпирические) явления в 
+качестве «предметов сознания» (ментальных образов) perience (as bodies) and subjective (empirical) appear-
+(B 235; Кант, 1994б, с. 195), или «феноменологические ance as “objects of consciousness” (KrV, B 235; Kant, 
+явления» (Aquila, 1981, p. 16), полученные посредством 1998, p. 305) or “phenomenological appearances” (Aq-
+синтеза схватывания чувственного многообразия. Далее uila, 1981, p. 16) obtained through the synthesis of the 
+он сосредоточивает анализ на кантовских субъектив- apprehension of the perception of the sensual manifold. 
+ных (или «феноменологических») явлениях, соотно- Aquila further focuses his analysis on Kant’s subjec-
+симых им с интенциональными предметами, при этом tive, or “phenomenological,” appearance, which he 
+оставляя за бортом интересующий нас здесь вопрос о associates with intentional objects. But he does not in-
+статусе (природе) кантовских объективных явлений и vestigate the theme of the status of Kant’s objective ap-
+связи кантовских явлений первого и второго типа. pearance and the relation between the different kinds 
+
+В этой связи следует обратить внимание на фраг- of appearance in Kant.
+мент А 108—109, где говорится, что любое представле­ In this regard, let us turn to A108-109, where it 
+ние (resp. явление) не самостоятельно, а семантически is said that any representation (resp. appearance) is not 
+относительно: оно полагает свой предмет посредством absolute, but semantically relative and puts its ob-
+референциального отношения. Заметим, что этот тезис ject* through a referential relation. Note that this the-
+
+sis about the intermediate character of appearance-re- 
+33 Концептуальной основой для виртуального объекта у Ван 
+Клива выступает супервентный объект Е. Сосы (Sosa, 1987). 33 The conceptual basis for the virtual object of Van Cleve is the 
+34 Это так называемый адвербальная (наречная) трактовка по- supervenient object of E. Sosa (1987).
+знания (восприятия), которая развивается, например, в ра- 34 This is the so-called adverbial interpretation of cognition 
+боте Р. Чизолма (Chisholm, 1950) и др. Одну из радикальных (perception), which is developed in the work of R. Chisholm 
+ее трактовок применительно к кантовскому трансцендента- (1950) and others. One of the most radical interpretations of 
+лизму можно найти у К. Балднера (Baldner, 1990): явление — it, applied to transcendentalism, is developed by K. Baldner. 
+это не предмет, то есть не чтó процесса восприятия, а способ According to him, the appearance is not the object of the ex-
+процесса восприятия, то есть кáк мы воспринимаем тот или perience (the what-modus), but the way of our experience (the 
+иной предмет (свойство). how-modus) (see Baldner, 1990, p. 9).
+35 См. также его другие работы: (Aquila, 1981; 2003; 2016). 35 See also Aquila, 2003; 2013; 2016.
+
+45
+
+
+
+С. Л. Катречко
+
+о промежуточном характере явлений-представлений  presentation is crucial for criticising any phenome-
+является решающим для критики любых феномена- nalist (in a broad sense) interpretations of the Kantian 
+листских (в широком смысле) трактовок кантовско- appearance. But, because of that, any subjective inter-
+го явления. Но в силу этого любая субъективистская pretation of appearance — whether it be Aquila’s con-
+трактовка явления — будь то понимание явления как ception of appearance as an intentional object or Van 
+виртуального предмета (Ван Клив), интенционального Cleve’s virtual object — is in principle incomplete. Such 
+предмета (Р. Аквила) и др. — в принципе неполна, по- interpretations emphasise the relativity of appearance 
+скольку хотя и подчеркивает относительность явления as a mental phenomenon/representation, its relation to 
+как ментального феномена/репрезентации, его от- our sensibility, i.e., intentional nature of appearances, 
+ношение к нашим органам чувств, то есть интенцио- but they ignore the relation of the appearance to the 
+нальную природу явления, но игнорирует отношение thing in itself as object of cognition and, thereby, the 
+явления к вещи самой по себе как объекту познания и intermediate or relational semantic status of appearance 
+тем самым — промежуточный / относительный семан­ as an object* of representation. Accordingly, such inter-
+тический статус явления в качестве предмета представ- pretations do not explain the complete structure of the 
+ления. Соответственно, она не эксплицирует полную referential relation of representation (or appearance) 
+структуру референциального отношения представле- to the ultimate object*, which, according to A 109, is 
+ния (или явления) до финального предмета, каковым, the transcendental object. The intentional relationship 
+согласно фрагменту А 109, выступает трансценденталь­ between consciousness (perception) and its intentional 
+ный предмет: интенциональное отношение между со- object/object* is only part of a broader (global) seman-
+знанием и интенциональным предметом представле- tic (referential) relationship between the representa-
+ния является лишь частью более широкого (глобаль- tion of consciousness (as a sign) and the real object/
+ного) семантического / референциального отноше- thing (transcendental object or/and thing in itself).
+ния между представлением сознания (как знаком) и Let us now return to the discussion of contempo-
+реальным предметом / вещью (трансцендентальным rary objectivist interpretations of appearance. The un-
+предметом и/или вещью самой по себе). derstanding of appearance as a quasi­object located in 
+
+Обратимся к анализу современных объективист- the middle of the ontological spectrum “object — rep-
+ских трактовок явления. Общим трендом выступает resentation” is the prevailing trend here. It is clear that 
+здесь понимание явления в качестве квази­предмета, appearance as an object of experience is not a full-fledged 
+расположенного в средней части онтологической шка- object in itself, which implies the need to solve the dia-
+лы «предмет — отношение». Понятно, что явление как lectical problem of the relation of appearance and thing 
+предмет опыта не является полноценным субстанцио- in itself: both their similarity and their difference. Our 
+нальным предметом самим по себе, что подразумевает tasks here do not include a detailed analysis of such 
+необходимость решения диалектической проблемы interpretations of Kant’s concept of appearance, which 
+соотношения явления и вещи самой по себе: как их сход- is due, inter alia, to the fact that we basically reject the 
+ства, так и их различия. В наши задачи здесь не входит “objective” ontological approach to the interpreta-
+детальный анализ подобных интерпретаций явления, tion of this concept. Nevertheless, I would like to note 
+что связано в том числе и с тем, что я в принципе (как the most interesting modern approaches to answer 
+покажу ниже) отвергаю «предметный» онтологический the question of the ontological status of appearance. 
+подход к трактовке явления. Тем не менее хотелось бы Firstly, we may mention the two-aspect (2a) position 
+обозначить наиболее интересные современные подхо- of R. Langton (Langton, 1998), which regards the ap-
+ды, отвечающие на вопрос об онтологическом статусе pearance as an object with “external” relative proper-
+явления. Здесь, во-первых, можно выделить интерес- ties, while taking the thing in itself to express the same 
+ную двухаспектную (2а) трактовку Р. Лэнгтон (Lang- object with absolute “internal properties.” We will also 
+ton, 1998), которая рассматривает явление как предмет select the (2b) approaches of N. Stang (2016; 2017) and 
+с «внешними» относительными свойствами (первый C. Marshall (2013), which, in their interpretation of 
+аспект), в то время как вещь сама по себе представляет the Kantian appearance, while basing on the results of 
+собой тот же предмет, но взятый в модусе абсолютных modern logic, use, respectively, the concepts of q­ob­
+«внутренних» свойств (второй аспект). Во-вторых, вы- ject and qua­object.36 This allows them to offer original 
+делим также (2б) подходы Н. Штанга (Stang, 2016; 2017) 
+и К. Маршалла (Marshall, 2013), которые в своих интер- 36 The specificity of the appearance in comparison with the 
+претациях кантовского явления, взяв за основу техни- thing-object, i.e., thing in itself, is determined by means of the 
+
+q-object and qua-object in the framework of the above-men-
+ческие наработки современной логики, используют tioned problem of the identity of an appearance and thing 
+концепты, соответственно, q­предмета (англ. q-object) in itself.
+
+46
+
+
+
+S. L. Katrechko
+
+и qua­предмета (англ. qua-object)36. Это позволяет пред- solutions to the Kantian problem of conformity (ap-
+ложить оригинальные варианты решения кантовской pearance and thing in itself). In the table above, these 
+проблемы идентичности явления и вещи самой по себе. approaches (2b) take a lower position in comparison 
+Такие подходы (2б) занимают в таблице более низкое with the approach of R. Langton (2a), because they are 
+положение по сравнению с подходом Р. Лэнгтон (2а), nearer to the pole “relation,” although they also refer 
+поскольку находятся ближе к полюсу отношения, to the level of a quasi-object. From an ontological point 
+хотя они также принадлежат уровню квазипредмет- of view, both q­object and qua­object are not full-fledged 
+ности. С онтологической точки зрения как q­предмет, 
+так и qua­предмет являются не «чистыми» предметами “strong” objects (by the type of physical things), but 
+(или полноценными физическими вещами), а высту- quasi-objects or objects in a weaker sense. A q­object is 
+пают концептами предмета в более слабом смысле. an object that, according to Quine’s criterion of onto-
+Q­предмет — это концепт вещи / предмета, который су- logical commitment, i.e., “To be is to be the value of 
+ществует в силу того, что является значением кванти- a bound variable,” means a broader class of reference 
+фицируемой переменной (У. Куайн), то есть обознача- objects, any “state of affairs” including, among others, 
+ет более широкий класс предметов референции, любое ordinary physical objects. A qua­object is an object, giv-
+реальное положение дел, включающее в себя в том числе en through some fixed qua­property, which can change 
+и обычные физические вещи. А qua­предмет — это кон- over time (and after which there will be another qua­ob­
+цепт вещи/предмета, задаваемый через свое определяю- ject) — appears from the ontological point of view as 
+щее (qua-)свойство, которое может измениться с тече- an intermediate object between object and property, or 
+нием времени (и тогда будет уже другой qua­предмет); object­property.37
+
+в онтологическом смысле qua­предмет выступает как An implicit presupposition of the considered 
+промежуточный между вещью и свойством предмет, то objectivist interpretations of appearance is a return 
+есть как некая вещь-свойство37. to a classical metaphysical approach, while Kant 
+
+Неявной предпосылкой рассмотренных объек-
+тивистских трактовок кантовского концепта явления develops the new (critical) transcendental approach 
+оказывается некий возврат к классическому метафизи- as “the altered method of our way of thinking” (KrV, 
+
+B XVIII; Kant, 1998, p. 111) in metaphysics.38
+ческому подходу, в то время как Кант развивает новый  At the 
+(критический) трансцендентальный подход в качестве same time, let us pay attention to the fact that the 
+«измененного метода мышления» (В XVIII; Кант, 1994б, transcendental shift, postulated by Kant in B 25 (Kant, 
+с. 24)38. Следует обратить внимание на то, что предла- 1998, p. 149), is not the postulation of any particular 
+гаемый Кантом в дефиниции трансцендентальной ontological reality, as it happens in the transcendental 
+философии из фрагмента В 25 трансцендентальный realism (or idealism in the modern sense of the word) 
+сдвиг — это не постулирование какой-то особой (но- criticised by Kant. According to Kant, “the difference 
+вой) онтологической реальности, как это происходит в between the transcendental and the empirical therefore 
+критикуемом Кантом трансцендентальном реализме (то belongs only to the critique of cognitions and does 
+есть идеализме в современном смысле слова). Согласно not concern their relation to their object” (KrV, B 81; 
+Канту, «различие между трансцендентальным и эмпи-
+рическим причастно только к критике знаний и не ка- Kant, 1998, p. 196). Transcendental idealism does not 
+сается их отношения к их предмету» (B 81; Кант, 1994б, introduce new ontological entities as it does in the old 
+с. 93). Трансцендентальный идеализм (трансценден- metaphysics (for example, in Leibniz’s Monadology) 
+тализм) не вводит новых онтологических сущностей, and, accordingly, “the proud name of an ontology, 
+как это происходит в прежней метафизике (например, which presumes to offer synthetic a priori cognitions of 
+в «Монадологии» Лейбница), и, соответственно, онто­ things in general in a systematic doctrine [i.e., Wolff’s 
+логия, «притязающая на то, чтобы давать априорные ontology — S. K.], must give way to the modest one 
+синтетические знания о вещах вообще [то есть онто- of a mere analytic of the pure understanding” (KrV, 
+логия Вольфа]…, заменяется [в трансцендентализ- A 247 / B 303; Kant, 1998, p. 358). The transcendental 
+
+postulated by Kant is the area of (meta-level) me-
+36 В рамках затронутой выше проблемы идентичности явле­
+ния и вещи самой по себе посредством q­объекта и qua­объекта thodo logical analysis of cognition. Therefore, the 
+задается специфика явления по сравнению с вещью-объек-
+том, то есть вещью самой по себе. 37 The concept of qua-object was proposed by K. Fine. In his 
+37 Концепция qua­object была предложена К. Файном, утвер- work, he says that “the qua object should be regarded as some 
+ж дающим, что qua­object может быть представлен как амаль- sort of amalgam of the given object and the property” (Fine, 
+гама вещи (объекта) и свойства (Fine, 1982, р. 100). 1982, р. 100).
+38 Поэтому я критически отношусь к подобным — онтоло- 38 I am therefore critical of similar — ontological — interpreta-
+гическим — трактовкам как концепта явления, так и кантов- tions of both the concept of the phenomenon and transcenden-
+ского трансцендентализма в целом. talism as a whole.
+
+47
+
+
+
+С. Л. Катречко
+
+ме] простой аналитикой чистого рассудка» (вставки Kantian concepts have, first of all, a methodological, 
+мои. — С. К.) (A 247 / B 304; Кант, 1994б, с. 239). Посту- and not an ontological meaning. Accordingly, when 
+лируемое Кантом трансцендентальное — это область interpreting the concept of appearance, we should take 
+методологического анализа познания, и поэтому кан- into account this methodological anti-ontological and 
+товские «трансцендентальные» концепты (явления, anti-metaphysical intent of Kant’s transcendentalism, 
+вещи самой по себе, вещи вообще, трансценденталь-
+ного предмета) имеют прежде всего методологический as Allison remarks (Allison, 1983; 2004 and others).
+смысл. Соответственно, при трактовке концепта явле-
+ния мы должны учитывать (что я и буду делать ниже) 3. Semantico-Cognitive Interpretation 
+эту методологическую, то есть антиметафизическую of Appearance. Appearance as a Sign-Image
+(анти-онтологическую) интенцию трансцендентализ-
+ма Канта, на что настойчиво обращает внимание в сво-
+их работах Г. Эллисон (Allison, 1983; 2004 и др.). We now turn to the semantico-cognitive inter-
+
+pretation of Kant.39 Considering the topic under 
+3. Семантико-когнитивная трактовка явления. discussion, it consists in the fact that appearance is 
+
+Явление как знак-образ semantically not an object/object*, but a sign that 
+does not exist without its reference (‘thing’ in a broad 
+
+Перейдем теперь к развиваемой нами когнитив­ sense). The key here is A 188-189/B234-235, in which 
+но­семантической интерпретации Канта39. Согласно Kant describes appearance as the designation of an 
+этой интерпретации, семантически явление есть не object*. At the same time, we should keep in mind that 
+какой-то объект, а знак, который не существует без сво- appearance is not a linguistic, but a transcendental 
+его денотата («вещи» в широком смысле). Ключевым entity, a specific sign-image: “Now one can, to be sure, 
+здесь выступает фрагмент А 189 / B 235, в котором call everything, and even every representation, insofar 
+Кант позиционирует явление как «обозначение какого­ни­ as one is conscious of it, an object;40 only what this 
+будь объекта», хотя при этом не следует забывать, что word is to mean in the case of appearances, not insofar 
+явление — это не только лингвистическая, но и транс- as they are (as representations) objects [i.e., things in 
+цендентальная сущность, не просто лингвистический themselves — S. K.], but rather only insofar as they 
+знак, а специфический трансцендентальный знак­образ: designate [my italics — S. K.] an object requires a deeper 
+«Мы можем, конечно, называть объектом40 всё, и даже investigation” (KrV, A 188-189 / B 234-235; Kant, 1998, 
+всякое представление, поскольку мы сознаем его; од- p. 305).41
+
+нако, чтобы решить, что означает это слово, когда речь A similar semantic understanding of appearances 
+идет о явлениях, поскольку они (как представления) can be found in the reflection on “an object* of 
+не [суть] объекты [то есть вещи сами по себе], а только representation” in A 104-109 and in the reflection on 
+обозначают какой-нибудь объект, требуется более глу-
+бокое исследование» (вставки в квадратных скобках и the transcendental object in A 250-253. In A 104-109, 
+курсив мои. — С. Kant writes that appearances “must not be regarded 
+
+ К.)41.
+Подобный семантический анализ концепта явле- in themselves […], as objects” (KrV, A 104; Kant, 1998, 
+
+ния можно найти в кантовском рассуждении о предме­ p. 231), but are “themselves only representations [or 
+те представлений из фрагмента A 104—109 и транс­ signs — S. K.], which in turn have their object, which 
+
+39 
+39 Ранее семантический подход к прочтению Канта развивал- Earlier semantic interpretations of Kant can be found in 
+ся в той или иной мере в работах У. Селларса (Sellars, 1968), W. Sellars (1968), A. Coffa (1991), R. Hanna (2001), K. Tolly 
+А. Коффы (Coffa, 1991), Р. Ханны (Hanna, 2001), К. Толли (2014).
+(Tolley, 2014). 40 See the definition of ‘object’ above in B 137.
+40 См. определение объекта в фрагменте B 137 (см. выше). 41 Characteristics of sign, in light of A 108-109, can be trans-
+41 Характеристику знака в свете фрагмента А 108—109 мож- ferred to any ‘objective’ representation (or presentation/re-
+но перенести и на любое предметное представление. Но пред­ presentation-2; see above). But any representation in general is 
+ставление вообще является знаком знака (знаком второго по- a sign of the sign (a sign of the second order), and only appear­
+рядка), и только явление, которое «непосредственно относит- ance “are the only objects* [Gegenstände] that can be given to us 
+ся к предмету» (А 109), является собственно знаком, то есть immediately” (KrV, A 109; Kant, 1998, p. 233), is not a sign of 
+обозначением реального предмета. Вместе с тем, подчер- the sign, but actually a sign, i.e., the designation of a real thing 
+кнем это снова, явление в силу своей знаковой природы не (= transcendental object). At the same time, I emphasise this 
+является простой ментальной данностью, то есть представ- again, the appearance, by virtue of its symbolic nature, is not 
+лением-1. Это обозначающее, или объективированное пред­ a simple mental phenomenon itself, i.e., representation-1. An 
+метное представление-2. Или, как я это отметил выше, явле­ appearance is denoting, or the objectified (objective-objectual) 
+ние является предметом представления, указывающим (на) presentation (representation-2), or, as I noted above, it is the ob-
+или обозначающим реальный предмет/вещь. Подробнее ject* of presentation, denoting a real thing. For more on this is-
+см.: (Катречко, 2016; 2017a). sue, see (Katrechko, 2016; 2018a).
+
+48
+
+
+
+S. L. Katrechko
+
+цендентальном предмете из фрагмента A 250—253, по- […] may therefore be called the non-empirical, i.e., 
+скольку «явления… сами по себе должны рассматри- transcendental object = X” (KrV, A 109; Kant, 1998, 
+ваться… не как предметы» (A 104; Кант, 1994б, с. 629), p. 233; see also А 251-252, cited in §2 of this article).
+а как «представления, имеющие свой предмет, кото- Thus, the Kantian appearance is not an ontologi-
+рый... мы хотим назвать... неэмпирическим, то есть cal entity. Therefore, neither the theory of the “two 
+трансцендентальным, предметом = Х» (A 109; Кант, worlds” and of the “two aspects,” nor any interpreta-
+1994б, с. 631; см. также цитированный в § 2 настоящей 
+статьи фрагмент А 251—252). tion in which the Kantian appearance is attributed an 
+
+Тем самым кантовское явление само по себе (в ontological — mental or physical — status can be cor-
+трансцендентальном смысле) не является какой-либо rect. Appearance is not an absolute ontological entity, 
+автономной онтологической сущностью. Поэтому не- but a relative semantic one; it is not an object, but a mere 
+правомерными будут не только теории «двух миров» и sign signifying the object (real thing).
+«двух аспектов» (что я уже показал выше), но и любая Given the transcendental—signific character of ap-
+интерпретация, в рамках которой кантовскому явлению pearance, its relation to the object (the thing in itself) 
+приписывается некий онтологический — либо мен- and the representation can be represented by the fol-
+тальный, либо физический — статус предмета и/или 
+отношения. Явление — это не онтологическая, или аб- lowing transcendental triangle:
+солютная, а семантическая, то есть относительная, про- appearance 
+межуточная сущность; явление есть не объект (реально (transcendental level)
+существующая вещь), а лишь обозначающий его знак.
+
+С учетом трансцендентально-знакового характера 
+явления его соотношение с предметом (вещью самой object* representation 
+по себе) и представлением можно представить в виде (thing-in-itself) (empirical level)
+следующего трансцендентального треугольника: 
+
+Schema 8
+
+Явление In this schema, I took into account both the objec-
+(трансцендентальный уровень) tive and the relational nature of appearance. Appear-
+
+ance here functions as a “sign” (i.e., a transcendental) 
+entity. And the arrows indicate the relationality of ap-
+
+Предмет Представление pearance. The arrow on the left indicates the inter-
+(вещь сама по себе) (эмпирический уровень) mediate nature of appearance, its dependence on the 
+
+Схема 8 ultimate object, which is the cause/ground (Ursache/
+Grund) of affection, our sensibility, i.e., the start of the 
+
+В схеме 8 я учел как предметный, так и относитель- process of cognition (cf.: in appearance something is 
+ный характер явления в рамках трансцендентальной given). The arrow on the right indicates the relation 
+перспективы. Явление выступает как некоторая тран- between appearance and representation, its epistemic 
+сцендентальная (знаковая) сущность, предмет пред- dependence on consciousness (cf.: appearance is given 
+ставления, а имеющиеся здесь стрелки указывают на to someone).
+относительность явления: с одной стороны (стрелка Such semantic interpretation of appearance allows 
+слева), это указание на промежуточный характер явле- us to propose a solution to the Kantian problem of identi­
+ния, его семантическую зависимость от вещи самой по ty. On the one side, we can talk about the identity of ap-
+себе, которая выступает причиной / основанием (нем. pearance and thing in itself, although it is not the iden-
+Ursache / Grund) аффицирования нашей чувственно- tity of two objects, but the reference identity of an object 
+сти, то есть «запуска» процесса познания (ср.: в явле-
+нии дано что­то); с другой (стрелка справа) — указа- (thing) and the sign indicating this object (thing): the 
+ние на связь/связность явления с представлением, его sign is the designation of this same thing. On the oth-
+эпистемологическую зависимость по отношению к со- er side, because of its “sign” and non-objective nature, 
+знанию (ср.: явление дано кому­то). appearance is “equal” to the subjective re presentation, 
+
+Предложенная семантическая трактовка явления or rather to its (non-ultimate) object, although the 
+позволяет предложить решение проблемы идентично­ status of appearance as a sign, unlike the mental rep-
+сти. С одной стороны, идентичность явления и вещи resentation, does not have a subjective, but rather an 
+самой по себе имеет место, хотя это не идентичность inter-subjective character.
+
+49
+
+
+
+С. Л. Катречко
+
+двух предметов, а референциальная идентичность предме­ In conclusion, let us briefly touch upon a problem 
+та и его знака (указывающего на предмет): знак являет- that arose in the course of our analysis. I have shown 
+ся обозначением вот этого предмета. С другой стороны, that Kant’s appearance is to be understood in a 
+в силу своей знаковой (то есть не-объектной) природы 
+явление родственно с представлением: оно является double opposition: in the “causal” (metaphysical) 
+предметом представления для сознания вообще, который aspect, appearance is opposed to thing in itself (and 
+тем самым имеет интерсубъективный характер. is connected to it; see schemas 1, 3, 5 above), and in 
+
+В заключение обратимся к разрешению одной the “semantic” (transcendental) aspect, appearance is 
+проблемы, возникшей в ходе нашего исследования. opposed to the transcendental object. Accordingly, Kant 
+Выше я показал включенность кантовского явления в 
+двойное противопоставление: в «причинном» (мета- claims the “referential” nature of appearance twice in 
+физическом) аспекте явление противостоит вещи са- the Critique. Indeed, in A 108-109 Kant says that the 
+мой по себе (и связано с ней, см. № 1, 3, 5 в таблице), transcendental object acts as the object* of appearance, 
+а в «семантическом» (трансцендентальном) аспекте — and in B 235 he writes that “appearance designates an 
+трансцендентальному предмету. Соответственно, в object” and specifies that the thing in itself acts as such 
+«Критике» Кант дважды говорит о референциальной an object.42
+природе явления: во фрагменте А 108 он утверждает,  Kant himself does not give clear instructions 
+что предметом явления (как представления) выступа- on how to solve this problem. At the same time, he still 
+ет трансцендентальный предмет (предмет вообще), во distinguishes between the concepts of transcendental 
+фрагменте В 235 он пишет, что «явление обозначает object and thing in itself, although one can speak in 
+какой-нибудь объект», и далее уточняет, что таким terms of a certain (functional) similarity between them. 
+объектом выступает вещь сама по себе42. Причем, с од-
+ной стороны, у самого Канта нет четких указаний по The use of the apparatus of modern semantics allows 
+разрешению этой неоднозначности, а с другой — он solving this problem. G. Frege postulates the presence 
+все же различает концепты «трансцендентальный of two semantic characteristics of signs: sense (Sinn) 
+предмет» и «вещь сама по себе», хотя можно говорить and reference (Bedeutung). Accordingly, he admits two 
+об определенном (функциональном) сходстве меж- types of relation of reference: (1) from sign to sense 
+ду этими концептами. Привлечение аппарата совре-
+менной семантики позволяет решить эту проблему. and (2) from sign (through sense) to the reference. The 
+Г. Фреге постулирует наличие у любого знака двух triad “sign — sense — reference” thus forms a semantic 
+семантических характеристик: значения (Bedeutung) и triangle (Frege, 1948). This approach is quite applicable 
+смысла (Sinn), — и, соответственно, наличие двух ти- to the Kantian appearance-sign; transcendental object 
+пов референции: от знака к смыслу и от знака к де- from A 108-109 is a sense of appearance, and empirical 
+нотату. Триада «знак — смысл — денотат» образует, thing in itself from B 30643 is its reference.44 One can thus 
+согласно Фреге, семантический треугольник (Фреге, 
+1997). Этот подход вполне применим к кантовскому form the following transcendental-semantic triangle 
+явлению как знаку: трансцендентальный предмет из “appearance — sense — reference”:
+фрагмента А 108 является смыслом явления, а эмпири­
+ческая вещь сама по себе из фрагмента В 30643 является transcendental appearance 
+его денотатом44. Тем самым можно образовать следую- object
+щий трансцендентально-семантический треугольник 
+«явление — смысл — денотат»:
+
+object (empirical thing-in-itself)
+42 Можно отметить, что чуть ниже, во фрагменте B 236, в 
+кантовском рассуждении появляется как выражение «транс-
+цендентальное значение [своего] понятия о предмете», так и Schema 9
+концепт «трансцендентальный предмет». 
+43 В анализе фрагмента В 306 (см. Катречко, 2017б) я пока- 42 However, the “concept of an object to transcendental signif-
+зал, что можно говорить о двух модусах вещи самой по себе: icance” and the concept of “transcendental object” also appear 
+эмпирической вещи самой по себе, выступающей причиной аф- later, in B 236.
+фицирования нашей чувственности, и ноуменальной вещи са­ 43 In my analysis of B 306 (Katrechko, 2017), I have shown that 
+мой по себе, являющейся результатом абстрагирования от ус- we can talk about the two modes of the thing in itself: the em­
+ловий чувственного восприятия (эмпирической вещи самой pirical thing in itself as a cause of affection of our sensibility and 
+по себе). the noumenal thing in itself as an abstraction from the conditions 
+44 К. Толли также обращается к семантике (треугольнику) of sensibility-construct of our understanding.
+Фреге и соотносит кантовское явление с фрегевским смыслом 44 K. Tolley also uses Frege’s semantics (triangle) and links 
+(Tolley, 2014). Kant’s appearance to the Fregean meaning (Tolley, 2014). 
+
+50
+
+
+
+S. L. Katrechko
+
+Conclusion
+Трансцендентальный Явление 
+
+предмет In this paper, I have confined myself to the seman-
+tic analysis of the concept of the appearance and the 
+
+Предмет substantiation of the thesis that this concept (from a 
+(эмпирическая вещь сама по себе) transcendental perspective) is not an object, but only 
+
+the “designation [= sign. — S. K.] of an object” (KrV, 
+Схема 9
+
+B 235; Kant, 1998, p. 305). At the same time, appearance 
+is not only a linguistic, but also a cognitive sign of a 
+
+Послесловие special kind — a sign­image that has a definite cognitive 
+В данном исследовании я сосредоточился на се- structure. Therefore, if we want to give a full analysis 
+
+мантическом анализе концепта явления и обоснова- of Kant’s concept of appearance as image, then its se-
+нии тезиса о том, что явление (в трансцендентальной mantic analysis should be supplemented by a cogni-
+перспективе) — это не объект, а лишь «обозначение tive one. I will give a brief outline of such an analysis 
+(= знак. — С. К.) объекта» (B 235; Кант, 1994б, с. 194). below.
+Вместе с тем явление — это не лингвистический, а ког-
+нитивный знак особого рода, который можно специ- According to Kant, an image­appearance is the 
+фицировать как знак­образ и который имеет опреде- result of imagination synthesising the given sensual 
+ленную когнитивную структуру. Поэтому если мы manifold into a unified whole (intuition). Kant calls 
+хотим дать полный анализ данного кантовского кон- the “active faculty of the synthesis of this manifold 
+цепта, то семантический анализ явления должен быть in us… imagination, [or] apprehension” (KrV, A 120; 
+дополнен когнитивным анализом внутренней струк- Kant, 1998, p. 239), or “synthesis of apprehension” 
+туры явления. Приведу ниже его краткий абрис. (KrV, A 99-100; Kant, 1998, p. 229).45 Kant also speaks 
+
+Согласно Канту, образ является результатом дея- about this in B 235, where he says that appearances 
+тельности воображения по синтезу чувственного мно- are “at same time objects of consciousness, they do 
+гообразия в одно созерцание, а «деятельную способ-
+ность синтеза этого многообразного» Кант называет not differ from their apprehension, [or] the synthesis 
+синтезом схватывания (A 120). Об этом же Кант говорит of the imagination” (Kant, 1998, p. 305).46 Thus, Kant’s 
+и в анализируемом выше фрагменте B 235: явления appearance is synthesised (constructed) as an image.
+«суть также предметы сознания, [и поэтому] их вовсе Kant’s transcendental constructivism is manifested 
+нельзя отличить от схватывания, то есть от включения on two levels. At the meta-level, appearances are 
+в синтез воображения» (Кант, 1994б, с. 195)45. Тем са- formed perceived manifold by means of a priori 
+мым кантовское явление представляет собой синтези- forms of sensuality, as a result of which the object of 
+рованный (сконструированный) образ. experience functions as a thing or body extended in 
+
+Кантовский трансцендентальный конструктивизм space and time. In addition to that, the appearance 
+проявляется на двух уровнях. На метауровне явления itself as an image is not a primary given, but it is a 
+синтезируются посредством оформления восприни- synthesis of given sensual manifold. Accordingly, the 
+маемого чувственного многообразия априорными analogies of the mirror and the telescope are too simple 
+формами чувственности, в результате чего предмет and do not quite accurately express the constructive-
+опыта выступает как пространственно-временная synthetic nature of Kant’s appearance, and it would 
+вещь, или тело. В то же время явление как образ не be more appropriate to compare it with the image of a 
+является первичной данностью, а представляет собой television screen, which is successively synthesised from 
+синтез чувственного многообразия. luminous points when the kinescope is bombarded 
+
+Соответственно, аналогии зеркала или телескопа by electrons. Thus, the image-appearance (or rather, 
+являются слишком простыми, а более точно (аккурат- our consciousness’s apprehension of it) is formed 
+но) конструктивно-синтетическую природу явления 
+
+45 See also: “For the imagination is to bring the manifold of in-
+45 А далее в этом фрагменте Кант приводит пример тако- tuition into an image” (KrV, A 120; Kant, 1998, p. 239).
+го — последовательного во времени — схватывания мно- 46 Further, in B 235, Kant gives an example of such — succes-
+гообразия, как дом (см. также фрагмент B 162, где Кант го- sive (in time) — apprehension of the manifold as a house. See 
+ворит о рисовании образа дома). В «Критике» Кант приводит also B 162, where Kant writes about drawing the image of a 
+еще ряд примеров такого последовательного конструирова- house. Kant gives also other examples of such temporally suc-
+ния, например поточечное рисование (путем проведения) cessive construction in the Critique. For example, point-by-
+линии (B 138). point drawing direct line (see B 138).
+
+51
+
+
+
+С. Л. Катречко
+
+передает телевизионная картинка, которая образуется on the TV screen. It is the result of a complex of 
+путем последовательного синтеза множества светящих- technical procedures: the shooting of objects — signal 
+ся точек, полученных при бомбардировке экрана элек- transmission — reproduction (as the realisation of 
+тронами. Тем самым явление-образ (точнее, схватыва- Kant’s synthesis of the manifold). And the glowing 
+ние этой «картинки» нашим сознанием) синтезируется points of the kinescope act on the matter of the 
+на экране телевизора в результате комплекса техниче- constructed TV image (cf. with Kant’s reasoning about 
+ских процедур съемка предмета — передача сигнала — вос­ the form and sensation as a matter of the appearance in 
+произведение (в качестве реализации кантовского синте- B 34). However, this cognitive analysis of appearance 
+за схватывания многообразного), а светящиеся точки does not cancel my semantic analysis conducted here, 
+на экране кинескопа при этом выполняют роль сенсор- the result of which is that the Kantian appearance has 
+ной материи (материала) данного образа-явления (ср. с an objectified (objective­objectual, gegenständlich) nature 
+рассуждением Канта о форме и ощущении как материи and “presents” the real object that we experience.47
+явления из фрагмента B 34). Вместе с тем когнитивный 
+анализ явления не отменяет проведенного его семанти­ References
+ческого анализа, итогом которого выступает следующий 
+тезис: кантовское явление имеет объективированный Ameriks, K., 1982. Recent Work on Kant’s Theoretical 
+(предметный) характер и «представляет» являющийся Philosophy. American Philosophical Quarterly, 19(1), pp. 1-24.
+нам в опыте реально существующий предмет, то есть Allison, H., 1983. Transcendental Idealism: A Defense. New 
+кантовскую вещь саму по себе46. Haven & London: Yale University Press.
+
+Allison, H., 2004. Kant’s Transcendental Idealism: An Inter­
+Список литературы pretation and Defense. Revised and enlarged ed. New Haven & 
+
+London: Yale University Press.
+Кант И. Избранные письма. 8 (70) Кант — Герцу // Собр. Aquila, R., 1979. Things in Themselves and Appearances: 
+
+соч.: в 8 т. М. : Чоро, 1994а. Т. 8. С. 486—493. Intentionality and Reality. Archiv für Geschichte der Philoso­
+Кант И. Критика чистого разума // Собр. соч. в 8 т. М. : phie, 61(3), pp. 293-308.
+
+Чоро, 1994б. Т. 3. Aquila, R., 1981. Intentional Objects and Kantian Ap-
+Кант И. Пролегомены ко всякой будущей метафизике, pearances. Philosophical Topics, 12(2), pp. 9-37.
+
+которая может появиться как наука // Собр. соч.: в 8 т. М. : Aquila, R., 2003. Hans Vaihinger and Some Recent Inten-
+Чоро, 1994в. Т. 4. С. 5—152. tionalist Readings of Kant. Journal of the History of Philosophy, 
+
+Кант И. Критика чистого разума, 1-е (A) изд. // Соч. на 41(2), pp. 231-250.
+русском и немецком языках. М. : Наука, 2006. Т. 2, ч. 2. Aquila, R., 2016. The Transcendental Idealisms of Kant 
+
+Катречко С. Л. Трансцендентализм Канта как реалисти- and Sartre. In: S. Baiasu, eds. 2016. Comparing Kant and Sartre, 
+ческая теория опыта / познания (анализ структуры кантов- London & New York: Palgrave Macmillan, pp. 217-255.
+ского коперниканского переворота) // Философия и наука: Baldner, K., 1990. Is Transcendental Idealism Coherent? 
+проблемы соотнесения. Алёшинские чтения — 2016 : матер. Synthese, 85(1), pp. 1-23.
+междунар. конф. Москва, 7—9 декабря 2016 г. / под ред. Barker, S. F., 1967. Appearing and appearances in Kant. 
+Т. А. Шияна. Кн. 1. М. : РГГУ, 2016. С. 213—226. URL: http:// The Monist, 51(3), pp. 426-441.
+ff-rggu.ru/filemanager/download/1271 (дата обращения: Buchdahl, G., 1992. Kant and the Dynamics of Reason: Es­
+26.05.2018). says on the Structure of Kant’s Philosophy. Oxford: Blackwell.
+
+Катречко С. Л. Кантовское явление как объективно-объ- Chisholm, R., 1950. The Theory of Appearing. In: M. 
+ектное (предметное) представление // Кантовский сборник. Black, ed. 1950. Philosophical Analysis. Ithaca & NY: Cornell 
+2017a. Т. 36, № 3. С. 7—20. University Press, pp. 102-118.
+
+Катречко С. Л. Специфика кантовского трансцендента- Coffa, A., 1991. The Semantic Tradition from Kant to Car­
+лизма и концепт «вещь сама по себе» // Кантовский сбор- nap: To the Vienna Station. Ed. by L. Wessels. Cambridge: 
+ник. 2017б. Т. 36, № 4. С. 68—87. Cambridge University Press.
+
+Катречко С. Л. Природа кантовского явления: семан- Falkenstein, L., 1991. Kant’s Account of Intuition. 
+тический анализ (расширенные тезисы) // Трансценден- Canadian Journal of Philosophy, 21(2), pp. 165-193.
+
+Fine, К., 1982. Acts, Events and Things. In: W. Leinfellner, 
+46 Данная статья представляет собой расширенный и пере- E. Kraemer, J. Schank, eds. 1982. Proceedings of the 6th Interna­
+работанный текст моего доклада на международной конфе- tional Wittgenstein Symposium. Wien: Hölder-Pichler-Temps-
+ренции «Трансцендентальный поворот в современной фи- ky, pp. 97-105.
+лософии — 3: природа (cпецифика) трансцендентальной 
+философии» (https://gaugn. ru/en-us/faculties/philosophy/ 47 This is the advanced and extended text of my presentation 
+seminar), прочитанный 20 апреля 2018 г. Расширенные те- for the workshop “Transcendental Turn in Philosophy (3): 
+зисы доклада опубликованы в сборнике материалов конфе- the Nature and the Specificity of Transcendental Philosophy” 
+ренции (Катречко, 2018). В содержательном плане данная (Moscow, April 21, 2018): https://gaugn.ru/en-us/faculties/
+статья выступает продолжением и развитием результатов philosophy/seminar. For the expanded theses of the presenta-
+моих исследований, опубликованных в статье: (Катречко, tion, see: Katrechko, 2018b. This paper develops further the 
+2017а). ideas expounded in the previous paper (Katrechko, 2018a).
+
+52
+
+
+
+S. L. Katrechko
+
+тальный поворот в современной философии (3): природа Frege, G., 1948. Sence and Reference [Über Sinn und Be­
+(cпецифика) трансцендентальной философии : тезисы меж- deutung]. The Philosophical Review, 57(3), pp. 209-230.
+дународного научного семинара (сборник тезисов) / отв. Geach, P. T., 1973. Ontological Relativity and Relative 
+ред. С. Л. Катречко, А. А. Шиян. М. : ГАУГН, 2018. С. 36—48. Identity. In: M. K. Munitz, ed. 1973. Logic and Ontology. New 
+
+Рассел Б. Религия и наука // Рассел Б. Почему я не хри- York: New York University Press, pp. 287-302.
+стианин: Избранные атеист. произведения. М. : Политиздат, Jankowiak, T., 2017. Kantian Phenomenalism without 
+1987. С. 132—206. Berkeleyan Idealism. Kantian Review, 22(2), pp. 205-231.
+
+Фреге Г. Смысл и значение // Избранные работы. М. : Jacobi, F. H., 2004. Über den transzendentalen Idealis-
+Дом интеллектуальной книги, 1997. С. 25—49. mus, Appendix to David Hume über den Glauben, oder Idea-
+
+Хауэлл Р. Кантовские предметы: проблемы и перспекти- lismus und Realismus. Ein Gespräch. In: F. H. Jacobi, 2004. 
+вы исследования // Кантовский сборник. 2008. № 1. С. 6—21. Werke. Volume 2, edited by W. Jaeschke. Hamburg: Meiner, 
+
+Якоби Ф. О трансцендентальном идеализме // Гаман pp. 291-310.
+И. Г., Якоби Ф. Г. Философия чувства и веры / сост., вступ. ст., Haag, J., 2007. Erfahrung und Gegenstand. Frankfurt a. M: 
+пер. с нем., прилож., коммент., примеч. С. В. Волжина. СПб. : Klostermann.
+б. и., 2006. С. 198-205. Hanna, R., 2001. Kant and the Foundations of Analytic Phi­
+
+Allison H. Transcendental Idealism: A Defense. New Haven ; losophy. Oxford: Oxford University Press.
+L. : Yale University Press, 1983. Howell, R., 2008. Kant’s Subjects: Problems and Prospects 
+
+Allison H. Kant’s Transcendental Idealism: An Interpretation of the Research. Kantian Journal, 1(27), pp. 6-21. (In Russ.)
+and Defense. Revised and enlarged ed. New Haven ; L. : Yale Kant, I., 2009. Fourth Letter: From Kant to Herz, Febru-
+University Press, 2004. ary 21, 1772. In: E. Watkins, ed. 2009. Kant’s Critique of Pure 
+
+Ameriks K. Recent Work on Kant’s Theoretical Philosophy // Reason: Background Source Materials. Translated by E. Watkins. 
+American Philosophical Quarterly. 1982. Vol. 19, № 1. P. 1—24. Cambridge: Cambridge University Press, pp. 312-316.
+
+Aquila R. Things in Themselves and Appearances: Intention- Kant, I., 1998. Critique of Pure Reason, translated and edit-
+ality and Reality // Archiv für Geschichte der Philosophie. 1979. ed by P. Guyer, A. Wood. Cambridge: Cambridge University 
+Vol. 61, № 3. P. 293—308. Press.
+
+Aquila R. Intentional Objects and Kantian Appearan.ces // Kant, I., 2002. Prolegomena to any Future Metaphysics: 
+Philosophical Topics. 1981. Vol. 12, № 2. P. 9—37. That Will Be Able to Come Forward as Science. In: I. Kant, 2002. 
+
+Aquila R. Hans Vaihinger and Some Recent Intentionalist Theoreti cal Philosophy after 1781, edited by H. Allison, P. Heath. 
+Readings of Kant // Journal of the History of Philosophy. 2003. Cambridge: Cambridge University Press, pp. 29-171.
+Vol. 41, № 2. P. 231—250; Katrechko, S. L., 2008. Ding-Ontology of Aristotle vs. 
+
+Aquila R. The Transcendental Idealisms of Kant and Sar- Sachverhalt-Ontology of Wittgenstein. In: A. Hieke and 
+tre // Comparing Kant and Sartre / ed. S. Baiasu. L. ; N. Y. : Pal- H. Leitgeb, eds. 2008. Reduction and Elimination in Philosophy 
+grave Macmillan, 2016. P. 217—255. and the Sciences. Papers of the 31st International Wittgenstein 
+
+Baldner K. Is Transcendental Idealism Coherent? // Syn- Symposium, August 10—16, 2008. Kirchberg am Wechsel: 
+these. 1990. Vol. 85, № 1. P. 1—23. Austrian Ludwig Wittgenstein Society, pp. 169-172, [online]. 
+
+Barker S. F. Appearing and appearances in Kant // The Mo- Available at: https://www.alws.at/alws/wp-content/up 
+nist. 1967. Vol. 51, № 3. Р. 426—441. loads/2018/06/papers-2008.pdf [Accessed 25 May 2018].
+
+Buchdahl G. Kant and the Dynamics of Reason: Essays on the Katrechko, S. L., 2016. Does the Kant’s Copernican Rev-
+Structure of Kant’s Philosophy. Oxford: Blackwell, 1992. olution Lead to Idealism? (Structure and Dialectic of Kant’s 
+
+Chisholm R. The Theory of Appearing // Philosophical Anal- Copernican Revolution. In: T. A. Shiyan, ed. 2016. Filosofiya i 
+ysis. Ed. by M. Black. Ithaca, N. Y. : Cornell University Press, 1950. nauka: problemy sootneseniya. [Philosophy and Science: the Prob­
+Р. 102—118. lem of Correlation]. Volume 1. M.: RGGU, pp. 213-226, [online]. 
+
+Coffa A. The Semantic Tradition from Kant to Carnap: To the Available at: http://ff-rggu.ru/filemanager/download/1271 
+Vienna Station / ed. by L. Wessels. Cambridge : Cambridge Uni- [Accessed 26 May 2018]. (In Russ.)
+versity Press, 1991. Katrechko, S. L., 2017. The Specificity of Kant’s Transcen-
+
+Falkenstein L. Kant’s Account of Intuition // Canadian Jour- dentalism and The Concept of The Thing Itself. Kantian Jour­
+nal of Philosophy. 1991. Vol. 21, № 2. Р. 165—193. nal, 36(4), pp. 68-87. (In Rus.)
+
+Fine К. Acts, Events, and Things // Proceedings of the 6th Katrechko, S., 2018a. Kant’s Appearance as an Objectual 
+International Wittgenstein Symposium / ed. by W. Leinfellner, Representation. Con-Textos Kantianos. International Journal of 
+E. Kraemer, and J. Schank. Wien : Hölder-Pichler-Tempsky, 1982. Philosophy, 7, pp. 44-59, jun. doi: https://doi.org/10.5281/ze 
+P. 97—105. nodo.1298600, [online]. Available at: https://www.con-texto 
+
+Geach P. T. Ontological Relativity and Relative Identity // skantianos.net/index.php/revista/article/view/310 [Acces-
+Logic and Ontology / ed. by M. K. Munitz. N. Y. : New York Uni- sed 31 July 2018].
+versity Press, 1973. P. 287—302. Katrechko, S. L., 2018b. Nature of Kant’s Appearance: 
+
+Haag J. Erfahrung und Gegenstand. Frankfurt a/M : Kloster- Semantic Analysis (expanded theses). In: S. L. Katrechko, 
+mann, 2007. A. A. Shiyan, eds. 2018. Proceedings of the International Work­
+
+Hanna R. Kant and the Foundations of Analytic Philosophy. shop “Transcendental Turn in Contemporary Philosophy­3: nature 
+Oxford : Oxford University Press, 2001. (specificity) of transcendental philosophy” (Moscow, April 19—
+
+Jankowiak T. Kantian Phenomenalism without Berkeleyan 21, 2018). Moscow: Foundation for Humanities, pp. 36-48. (In 
+Idealism // Kantian Review. 2017. Vol. 22, № 2. Р. 205—231. Russ.)
+
+53
+
+
+
+С. Л. Катречко
+
+Katrechko S. L. Ding-Ontology of Aristotle vs. Sachverh- Langton, R., 1998. Kantian Humility. Our Ignorance of 
+alt-Ontology of Wittgenstein // Reduction and Elimination in Things in Themselves. Oxford: Oxford University Press.
+Philosophy and the Sciences. Papers of the 31st International Langton, R., 2001. Problems from Kant by James Van Cleve 
+Wittgenstein Symposium, August 10-16, 2008 / ed. by A. Hieke, [Review]. The Philosophical Review, 110(3), pp. 451-454.
+H. Leitgeb. Kirchberg am Wechsel : Austrian Ludwig Wittgen- Marshall, C., 2013. Kant’s Appearances and Things in 
+stein Society, 2008. P. 169-172. URL: https://www.alws.at/alws/ Themselves as Qua-Objects. Philosophical Quarterly, 63(252), 
+wp-content/uploads/2018/06/papers-2008.pdf (дата обраще- pp. 520-545.
+ния: 25.05.2018). Oberst, M., 2015. Two Worlds and Two Aspects: on 
+
+Langton R. Kantian Humility. Our Ignorance of Things in 
+Themselves. Oxford : Oxford University Press, 1998. Kant’s Distinction between Things in Themselves and Ap-
+
+Langton R. “Problems from Kant” by James Van Cleve [Re- pearances. Kantian Review, 20(1), pp. 53-75.
+view] // The Philosophical Review. 2001. Vol. 110, № 3. P. 451—454. Palmquist, S. R., 1986. Six Perspectives on the Object in 
+
+Marshall C. Kant’s Appearances and Things in Themselves Kant’s Theory of Knowledge. Dialectica, 40(2), pp. 121-151.
+as Qua-Objects // Philosophical Quarterly. 2013. Vol. 63 (252). Prauss, G., 1971. Erscheinung bei Kant: Ein Problem der 
+P. 520—545. “Kritik der reinen Vernunft”. Berlin: de Gruyter & Co.
+
+Oberst M. Two Worlds and Two Aspects: on Kant’s Distinc- Prauss, G., 1974. Kant und das Problem der Dinge an sich. 
+tion between Things in Themselves and Appearances // Kantian Bonn: Bouvier.
+Review. 2015. Vol. 20, № 1. P. 53—75. Prichard, H. A., 1909. Kant’s Theory of Knowledge. Oxford: 
+
+Palmquist S. R. Six Perspectives on the Object in Kant’s The- Oxford Claredon Press.
+ory of Knowledge // Dialectica. 1986. Vol. 40, № 2. P. 121—151. Robinson, H., 1994. Two Perspectives on Kant’s Appear-
+
+Prauss G. Erscheinung bei Kant: Ein Problem der „Kritik der ances and Things in Themselves. Journal of the History of Phi­
+reinen Vernunft“. Berlin : De Gruyter, 1971. losophy, 33(4), pp. 411-441.
+
+Prauss G. Kant und das Problem der Dinge an sich. Bonn : Rohlf, M., 2010. Immanuel Kant. In: Stanford Encyclopedia 
+Bouvier, 1974.
+
+Prichard H. A. Kant’s theory of knowledge. Oxford : Oxford of Philosophy, [online]. Available at: https://plato.stanford. 
+Clarendon Press, 1909. edu/entries/kant/#TraIde [Accessed 25 May 2018].
+
+Robinson H. Two Perspectives on Kant’s Appearances and Russell, B., 1974. Religion and Science. London, Oxford, 
+Things in Themselves // Journal of the History of Philosophy. and New York: Oxford University Press.
+1994. Vol. 33, № 4. P. 411—441. Sellars, W., 1968. Science and Metaphysics: Variations on 
+
+Rohlf M. Immanuel Kant // Stanford Encyclopedia of Kantian Themes. London and New York: Routledge & Kegan 
+Philosophy [2010]. URL: https://plato.stanford.edu/entries/ Paul Ltd & The Humanities Press.
+kant/#TraIde (дата обращения: 25.05.2018). Schulting, D., 2011. Kant’s Idealism: The Current Debate. 
+
+Schulting D. Kant’s Idealism: The Current Debate // Kant’s In: D. Schulting, J. Verburgt, eds. 2011. Kant’s Idealism: New 
+Idealism: New Interpretations of a Controversial Doctrine / Interpretations of a Controversial Doctrine. Dordrecht: Springer, 
+ed. by D. Schulting and J. Verburgt. Dordrecht : Springer, 2011. pp. 1-25.
+P. 1—25. Sosa, E., 1987. Subjects among Other Things. Philosophical 
+
+Sellars W. Science and Metaphysics: Variations on Kantian Perspectives, l, pp. 155-87.
+Themes. N. Y. : Routledge & Kegan Paul Ltd, 1968. Stang, N., 2017. An Ecumenal Approach to Kant’s Ideal-
+
+Sosa E. Subjects among Other Things // Philosophical Per- ism. In: S. L. Katrechko, ed. 2017. Proceedings of the International 
+spectives. 1987. Vol. l. P. 155—187.
+
+Stang N. An Ecumenal Approach to Kant’s Idealism // Workshop “Transcendental Turn in Contemporary Philosophy 
+Трансцендентальный поворот в современной философии (2): Kant Appearance, its Ontological and Epistemological Sta­
+(2): кантовское явление, его онтологический и эпистемоло- tus” (Moscow, April 26—30, 2018). M.: Foundation center for 
+гический статус : cб. матер. междунар. науч. семинара. М. : Civic Initiatives, pp. 26-27, 79-86, [online]. Available at: https://
+Фонд ЦГИ, 2017. С. 26—27, 79—86. URL: https://elibrary.ru/ elibrary.ru/item.asp?id=30560029 [Accessed 11 May 2018].
+item.asp?id=30560029 (дата обращения: 11.05.2018). Stang, N., 2016. Kant’s Transcendental Idealism. In: Stan­
+
+Stang N. Kant’s Transcendental Idealism // Stanford En- ford Encyclopedia of Philosophy, [online]. Available at: https://
+cyclopedia of Philosophy, 2016, URL: https://plato.stanford. plato.stanford.edu/entries/kant-transcendental-idealism/ 
+edu/entries/kant-transcendental-idealism (дата обращения: [Accessed 5 April 2018].
+05.04.2018). Tolley, C., 2014. Kant’s Appearances as Object-Depen-
+
+Tolley C. Kant’s Appearances as Object-Dependent Sens- dent Senses. In: N. Stang, K. Schafer, eds. On the Sensible and 
+es [2014] // On the Sensible and Intelligible Worlds / ed. by Intelligible Worlds. Oxford: Oxford University Press (forth-
+N. Stang, K. Schafer. Oxford : Oxford University Press (forthcom- coming), [online]. Available at: http://philosophyfaculty.
+ing). URL: http://philosophyfaculty.ucsd.edu/faculty/ctolley/ ucsd.edu/faculty/ctolley/publications/tolley-KAODS-
+publications/tolley-KAODS-ms-2014.pdf (дата обращения: 
+10.05.2018). ms-2014.pdf [Accessed 11 May 2018].
+
+Van Cleve J. Problems From Kant. N. Y. ; Oxford : Oxford Uni- Van Cleve, J., 1999. Problems from Kant. New York & 
+versity Press, 1999. Oxford: Oxford University Press.
+
+Walker R. Kant on the Number of Worlds // British Journal Walker, R., 2010. Kant on the Number of Worlds. British 
+for the History of Philosophy. 2010. Vol. 18. P. 821—843. Journal for the History of Philosophy, 18, pp. 821-843.
+
+Werkmeister W. H. Kant’s Refutation of Idealism // Southern Werkmeister, W. H., 1977. Kant’s Refutation of Idealism. 
+Journal of Philosophy. 1977. Vol. 15, № 4. P. 551—565. Southern Journal of Philosophy, 15 (4), pp. 551-565.
+
+Werkmeister W. H. The complementarity of phenomena and Werkmeister, W. H., 1981. The complementarity of phe-
+things in themselves // Synthese. 1981. Vol. 47, No. 2. P. 301—311. nomena and things in themselves. Synthese, 47(2), pp. 301-311.
+
+Wood A. Kant. Hoboken, NJ : Wiley Blackwell, 2005. Wood, A., 2005. Kant. Hoboken, NJ: Wiley-Blackwell.
+
+54
+
+
+
+S. L. Katrechko
+
+Об авторе The author
+
+Сергей Леонидович Катречко, канд. филос. наук, Dr Sergey L. Katrechko, associate professor, head of 
+доцент, зав. кафедрой философии и теологии, Мо- the Department of Philosophy and Theology, St. John 
+сковский православный институт св. Иоанна Богосло- the Theologian Moscow Orthodox Institute; associate 
+ва; доцент философского факультета, Государствен- professor of the Faculty of Philosophy, State Academic 
+ный академический университет гуманитарных наук University of the Humanities (SAUH), Moscow, Russia.
+(ГАУГН), Москва, Россия. E-mail: skatrechko@gmail.com
+
+E-mail: skatrechko@gmail.com
+To cite this article:
+
+Для цитирования: Katrechko, S. L., 2018. The Nature of Appearance in Kant’s 
+Катречко С. Л. Природа явления в трансцендентализме Transcendentalism: A Semantico-Cognitive Analysis. Kantian 
+
+Канта: семантико-когнитивный анализ // Кантовский сбор- Journal, 37(3), pp. 31-55. http://dx.doi.org/10.5922/0207-6918-
+ник. 2018. Т. 37, № 3. С. 31—55. doi: 10.5922/0207-6918-2018-3-2 2018-3-2

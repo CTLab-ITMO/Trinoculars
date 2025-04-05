@@ -1,0 +1,707 @@
+﻿МАТЕРИАЛОВЕДЕНИЕ ОБРАБОТКА  МЕТАЛЛОВ
+
+Обработка металлов (технология • оборудование • инструменты). 2022 Том 24 № 1 с. 73–86
+ISSN: 1994-6309 (print) / 2541-819X (online)
+DOI: 10.17212/1994-6309-2022-24.1-73-86
+
+Обработка металлов
+(технология • оборудование • инструменты)
+
+Сайт журнала: http://journals.nstu.ru/obrabotka_metallov
+
+Влияние степени деформации в условиях низких температур на превращения
+и свойства метастабильных аустенитных сталей
+
+Светлана Вологжанина 1, a,*, Алексей Иголкин 2, b, Алексей Перегудов3, c, Игорь Баранов 2, d,
+Никита Мартюшев 4, e
+
+1 Санкт-Петербургский горный университет, Васильевский остров, 21 линия, 2, Санкт-Петербург, 199106, Россия
+2 Университет ИТМО, Кронверкский пр., 49, Санкт-Петербург, 197101, Россия
+3 ГУП «Петербургский метрополитен», Московский пр., 28, Санкт-Петербург, 190013, Россия
+4 Национальный исследовательский Томский политехнический университет, пр. Ленина, 30, г. Томск, 634050, Россия
+a  https://orcid.org/0000-0001-7675-865X,  svet_spb@mail.ru , b  https://orcid.org/0000-0001-8287-1851,  igolkin47@mail.ru,
+с  https://orcid.org/0000-0002-1273-0743,  mikki435@gmail.com, d  https://orcid.org/0000-0003-0595-368X,  ivbaranov@itmo.ru, 
+e  https://orcid.org/0000-0003-0620-9561,  martjushev@tpu.ru
+
+И Н Ф О РМ А Ц И Я  О  С ТАТ Ь Е А Н Н О ТА Ц И Я
+
+УДК 669.1.017 Введение. Для надежной работы низкотемпературного оборудования необходимо применение мате-
+риалов, способных обеспечить работоспособность в широком температурном интервале в условиях зна-
+
+История статьи: копеременных нагрузок, воздействия коррозионных сред и т.п. Чаще всего в таких случаях применяют 
+Поступила: 30 декабря 2021 метастабильные аустенитные стали (МАС) различных систем легирования. К настоящему времени мало 
+Рецензирование: 21 января 2022 данных о поведении таких материалов в условиях низких температур, включая фазово-структурные пре-
+Принята к печати: 15 февраля 2022 вращения, особенности таких превращений в разных температурных зонах, в том числе при приложении 
+Доступно онлайн: 15 марта 2022 нагрузки как статической, так и динамической. Предметом исследования в данной работе выбраны МАС 
+
+марок 10Х14АГ20 и 10Х14Г14Н4Т. Цель работы – оценить работоспособность промышленно применяемых 
+Ключевые слова: МАС для возможного их применения взамен стали 12Х18Н10Т. Методика исследований. Фазовый состав 
+Метастабильная аустенитная сталь образцов исследовали на рентгеновском дифрактометре ДРОН-3.0. Механические испытания проводили в 
+Низкие температуры интервале температур от +20 до –196 °С. Испытания на статическое одноосное растяжение проводили по 
+Фазово-структурные превращения ГОСТ 11150–75, испытания на динамический изгиб – по ГОСТ 9454–78. Результаты работы. На основании 
+Скорость деформации полученных данных установлено, что повышение скорости деформации при низких температурах способ-
+Мартенсит охлаждения ствует снижению количества мартенситных фаз в исследуемых сталях. Выявлено, что способность к упроч-
+Механические свойства нению при упругопластическом деформировании уменьшается и исчезает при температуре перехода мате-
+
+риала в хрупкое состояние. Показано, что увеличение скорости низкотемпературной деформации образцов 
+препятствует развитию в сталях фазовых мартенситных превращений. Область применения. Полученные 
+результаты могут быть рекомендованы к применению при выборе материалов для изготовления оборудова-
+ния, эксплуатируемого при температурах до –196 °С. Выводы. Показано, что полученные значения характе-
+ристик механических свойств позволяют рекомендовать исследованные МАС в качестве заменителя стали 
+12Х18Н10Т вплоть до температуры -196 °С.
+
+Для цитирования: Влияние степени деформации в условиях низких температур на превращения и свойства метастабильных 
+аустенитных сталей / С.А. Вологжанина, А.Ф. Иголкин, А.А. Перегудов, И.В. Баранов, Н.В. Мартюшев // Обработка металлов 
+(технология, оборудование, инструменты). – 2022. – Т. 24, № 1. – С. 73–86. – DOI:10.17212/1994-6309-2022-24.1-73-86.
+
+Введение энергетика и многих других. В последние годы 
+активно развиваются такие отрасли, как крио-
+
+Низкотемпературная техника широко при- биология, криомедицина, криоэнергетика, в ко-
+меняется в самых различных отраслях промыш- торых необходимо использовать оборудование, 
+ленности: металлургия, химия, ракетостроение, способное обеспечивать работоспособность до 
+______ температур, близких к абсолютному нулю [1–9]. 
+*Адрес для переписки Для такого оборудования необходимо ис-
+Вологжанина Светлана Антониновна, д.т.н., профессор
+Санкт-Петербургский горный университет, пользовать материалы, способствующие рабо-
+Васильевский остров, 21 линия, 2, тоспособности в условиях низких температур. 
+199106, Санкт-Петербург, Россия
+Тел.: +79213491682, e-mail: svet_spb@mail.ru К ним предъявляют особые требования по со-
+
+Том 24 № 1 2022 73
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+четанию характеристик прочности, вязкости и во-структурного состояния и механических 
+пластичности, коррозионной стойкости, устой- характеристик, традиционно применяемых в 
+чивости к разрушению при резких изменениях низкотемпературной технике метастабильных 
+температуры и скоростях приложения нагрузки аустенитных сталей. Накопленные сведения по 
+[1–4].  Кроме того, следует учитывать особенно- поведению материалов позволят дать уточнения 
+сти изготовления оборудования: в ряде случаев по рекомендациям при выборе материала для 
+необходимо изготовление деталей литьем, до- низкотемпературного, в том числе криогенного 
+статочно часто применяется обработка матери- оборудования, а также его надежности в ходе 
+алов давлением, важно учитывать применение длительной эксплуатации. 
+сварочных технологий в процессе сборки [4]. Цель исследования – оценить работоспо-
+Чаще всего для изготовления низкотемператур- собность промышленно применяемых мета-
+ного оборудования применяют метастабильные стабильных аустенитных сталей (далее МАС) 
+аустенитные стали различных систем легирова- для возможного их применения взамен стали 
+ния. Несмотря на достаточный опыт применения 12Х18Н10Т.  
+таких материалов, к настоящему времени не на- Задачи исследования:
+коплена база данных об их поведении в условиях • оценить совместное влияние низких темпе-
+низких температур, включая фазово-структур- ратур и деформаций на процессы фазово-струк-
+ные превращения, особенности таких превраще- турных превращений в метастабильных аусте-
+ний в разных температурных зонах, в том числе нитных сталях различных систем легирования;
+при приложении нагрузки как статической, так • исследовать влияние способа изготовления 
+и динамической. Недостаточно информации о (литое или деформированное состояние), нали-
+влиянии концентраторов напряжений, которые чия концентраторов напряжений, скорости при-
+всегда возникают в деталях оборудования на ложения нагрузки и изменения температур на 
+разных этапах его изготовления, на изменения комплекс свойств аустенитных сталей;
+физико-механических свойств метастабильных • дать заключение о возможности замены 
+аустенитных сталей [1–3, 5–20]. традиционно применяемой стали 12Х18Н10Т 
+
+Для заключения о возможности использова- для изготовления оборудования низкотемпера-
+ния материалов при низких, а также криогенных турной, в том числе криогенной техники.
+температурах необходимо проведение исследо-
+ваний по оценке изменения структуры и ком- Методика исследований
+плекса свойств сталей в ходе охлаждения, в том 
+числе при резких перепадах температур, напри- В качестве объектов исследования были вы-
+мер, в процессе заполнения емкостей жидким браны традиционно применяемые метастабиль-
+криопродуктом. Анализ структуры и свойств ные аустенитные стали Cr-Ni-Mn и Cr-N-Mn 
+материалов после длительной эксплуатации систем легирования. Химический состав про-
+низкотемпературного оборудования позволил мышленных плавок исследуемых сталей приве-
+сделать заключение, что традиционно применя- ден в таблице. Состав определяли рентгеноспек-
+емый комплекс исследований для выбора мате- тральным методом.
+риала, как правило, является недостаточным и Стали выплавляли в индукционной сталепла-
+не может гарантировать надежную эксплуата- вильной. Полученные слитки проковывали на за-
+цию установок. Это связано с тем, что много- готовки сечением 30×40 мм и диаметром 20 мм. 
+численные технологические разогревы в ходе Температуру ковки выбрали 1000…1250 °С. 
+длительной эксплуатации могут приводить к из- Полученные заготовки подвергали термической 
+менениям фазово-структурного состава. Это, в обработке, состоящей из аустенитизации для 
+свою очередь, может стать причиной нештатных стали 10Х14АГ20 при температуре 900…950 °С 
+ситуаций и приводить к преждевременным раз- и 1000…1050 °С – для стали 10Х14Г14Н4Т, ох-
+рушениям низкотемпературного оборудования, лаждение осуществляли в воде. 
+например емкостей и трубопроводов [5, 21–24]. На рентгеновском дифрактометре ДРОН-3.0 
+
+В связи с этим важным является вопрос исследовали фазовый состав образцов. Механи-
+получения информации об изменении фазо- ческие испытания проводили в интервале темпе-
+
+74 Том 24 № 1 2022
+
+
+
+MATERIAL SCIENCE OBRABOTKA METALLOV
+
+Химический состав сталей 10Х14АГ20, 10Х14Г14Н4Т
+Chemical composition of steels 10Cr14NMn20, 10Cr14Mn14Ni4Ti
+
+Химический элемент, масс. % / Chemical element, wt. %
+Марка стали / Steel grade
+
+C Si Mn Ni S P Cr N Ti Cu
+10Х14АГ20 / 10Cr14NMn20 0,10 0,5 20,3 – 0,011 0,012 14,8 0,3 0,45 –
+10Х14Г14Н4Т / 10Cr14Mn14Ni4Ti 0,10 0,7 14,9 – 0,019 0,020 14,6 – 0,23 –
+
+ратур от +20 до –196 °С. На разрывной машине твор остается стабильным вплоть до разруше-
+Р-20 образцы сталей испытывали на статическое ния образцов (рис. 1).
+одноосное растяжение, для чего применяли ци-
+линдрические образцы с резьбовыми головками 
+по ГОСТ 11150–84 «Металлы. Методы испыта-
+ния на растяжение при пониженных темпера-
+турах», а также образцы с кольцевым надрезом. 
+На маятниковом копре проводились испытания 
+на динамический изгиб с применением образцов 
+по ГОСТ 9454–78 «Металлы. Метод испытания 
+на ударный изгиб при пониженных, комнатной и 
+повышенных температурах». 
+
+Результаты и их обсуждение
+Известно, что в метастабильных аустенит-
+
+ных сталях возможно протекание фазовых пре-
+вращений в процессе изготовления изделий с 
+применением ковки, штамповки и других видов 
+воздействия, а также в ходе эксплуатации в ус- Рис. 1. Зависимость мартенситных превращений  
+ловиях динамического нагружения при низких в стали 10Х14АГ20 от скорости деформации  
+температурах. С учетом степени ответствен- при температуре испытания 20 °С 
+
+ности низкотемпературного оборудования был Fig. 1. Dependence of martensitic transformations  
+проведен комплекс исследований для определе- in steel 10Cr14NMn20 on the strain rate at a test 
+ния зависимости мартенситных превращений в temperature of 20 °C
+промышленно применяемых метастабильных 
+аустенитных сталях 10Х14АГ20 и 10Х14Г14Н4Т Понижение температуры испытания до –100 °С 
+от скорости деформации и температуры испы- и далее до –196 °С сопровождается появлени-
+тания. ем α-мартенсита. Характерно, что при –100 °С 
+
+В процессе проведения оценки фазовых пре- α-мартенсит появляется после 10…15 % дефор-
+вращений, происходящих под воздействием низ- мации, а его количество увеличивается при даль-
+ких температур и деформаций в стали 10Х14АГ20 нейшей деформации. Количество ε-мартенсита 
+при разных скоростях деформирования, было в этих условиях сначала увеличивается, а затем 
+выявлено следующее. При деформации стали уменьшается (рис. 2). Это может свидетельство-
+10Х14АГ20 при 20 °С со скоростью ε  = вать о том, что фазовые превращения идут в по-
+= 0,34 · 10–4с–1 ε-мартенсит образуется сразу следовательности γ→ε→α. Характерным явля-
+же. В то же время увеличение скорости до ε  = ется также то, что увеличение скорости в 103 раз 
+= 0,34 · 10–1с–1 вызывает образование ε-мар- уменьшает степень распада γ-твердого раствора.
+тенсита только после деформации на 25 %, а при Мартенситные превращения γ-твердого рас-
+скорости, равной ε  = 0,34 · 102с–1, твердый рас- твора при –196 °С и тех же скоростях происхо-
+
+Vol. 24 No. 1 2022 75
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+щения аустенита в мартенсит и не влияет на его 
+кинетику. 
+
+При проведении оценки фазовых превраще-
+ний, происходящих под воздействием низких 
+температур и деформаций в стали 10Х14Г14Н4Т 
+при разных скоростях деформирования, было 
+выявлено следующее.
+
+В результате охлаждения ниже 20 °С появля-
+ются две мартенситные фазы α- и ε-мартенсит 
+охлаждения. По мере снижения температуры 
+количество этих фаз увеличивается, однако не 
+превышает 12 % для ε-мартенсита и 8 % – для 
+α-мартенсита (рис. 4).
+
+При низкотемпературной деформации стали 
+10Х14Г14Н4Т по мере понижения температуры 
+количество аустенита и ε-мартенсита уменьша-
+
+Рис. 2. Зависимость мартенситных превращений  ется, а α-мартенсита увеличивается. Следует 
+в стали 10Х14АГ20 от скорости деформации  отметить, что в температурном интервале де-
+
+при температуре испытания –100 °С формации от 20 до –100 °С интенсивность обра-
+Fig. 2. Dependence of martensitic transformations  зования α-мартенсита невелика и, по-видимому, 
+in steel 10Cr14NMn20 on the strain rate at a test  в этом температурном диапазоне превращение 
+
+temperature of –100 °С происходит по схеме γ→ε→α, а при дальнейшем 
+понижении температуры количество α-фазы рез-
+
+дят аналогично, как при –100 °С, за исключени- ко возрастает. С повышением скорости деформа-
+ем того, что наблюдается совместное появление ции уменьшается превращение аустенита в мар-
+ε- и α-мартенсита (рис. 3). тенсит (рис. 5).
+
+Таким образом, установлено, что увеличение Показано, что уменьшение количества вто-
+скорости деформации снижает степень превра- ричных структурных α- и ε-фаз с увеличением 
+
+Рис. 3. Зависимость мартенситных превращений в стали 10Х14АГ20 
+от скорости деформации при температуре испытания –196 °С
+
+Fig. 3. Dependence of martensitic transformations in steel 10Cr14NMn20 
+on the strain rate at a test temperature of –196 °С
+
+76 Том 24 № 1 2022
+
+
+
+MATERIAL SCIENCE OBRABOTKA METALLOV
+
+Рис. 4. Зависимость мартенситных Рис. 5. Зависимость мартенситных превращений  
+превращ ений в стали 10Х14АГ20  в стали 10Х14Г14Н4Т от скорости деформации  
+
+от температуры испытания при температуре испытания –196 °С
+Fig. 4. Dependence of martensitic Fig. 5. Dependence of martensitic transformations  
+
+transformations in steel 10Cr14Mn14Ti on in steel 10Cr14Mn14Ni4Ti on the strain rate  
+test temperature at a test temperature of –196 °C
+
+скорости деформации метастабильных аусте- напряжений, вызванная кольцевым надрезом, 
+нитных сталей может быть связано с разогревом привела к более существенному повышению 
+образцов. характеристик временного сопротивления, 
+
+Авторами [4, 13–17] было показано, что вы- особенно при снижении температуры. Необхо-
+сокоскоростная деформация приводит к резкому димо отметить, что исследуемые стали выгод-
+повышению температуры на плоскостях сдвига. но отличаются от традиционно применяемой 
+Области высокотемпературного разогрева, как 12Х18Н10Т [4] более высоким уровнем вре-
+правило, группируются в тонких слоях сдвига, менного сопротивления во всем температурном 
+в результате чего соседние зоны нагреваются диапазоне. Кроме того, сравнение свойств ли-
+медленно. Из этого следует, что снижение коли- того и деформированного состояния показало, 
+чества мартенситных фаз, связанное с увеличе- что в деформированном состоянии обе стали 
+нием скорости деформации, можно объяснить имеют более высокие значения временного со-
+увеличением температуры образцов за счет те- противления (рис. 6).
+плоты, выделяющейся в процессе деформации. В настоящей работе проведена оценка вли-
+В то же время повышение доли α-фазы при уве- яния низких температур и концентраторов 
+личении скорости деформации может быть свя- напряжений на величину значений предела 
+зано с тем, что растяжение образцов производи- текучести исследуемых сталей в деформиро-
+ли в изотермических условиях. Таким образом, ванном и литом состоянии. Из проведенных 
+при изотермическом растяжении увеличение исследований видно, что с понижением тем-
+скорости деформации приводит к повышению пературы величина временного сопротивле-
+доли образующегося α- мартенсита, а при возни- ния повышается. Концентрация напряжений, 
+кающем нагреве образца препятствует образова- вызванная кольцевым надрезом, привела к 
+нию вторичных структурных фаз. более существенному повышению характери-
+
+В данной работе проведена оценка влияния стик предела текучести, особенно при сниже-
+низких температур и концентраторов напряже- нии температуры. Необходимо отметить, что 
+ний на величину значений временного сопро- исследуемые стали выгодно отличаются от 
+тивления исследуемых сталей в деформиро- 12Х18Н10Т более высоким уровнем предела 
+ванном и литом состоянии. Установлено, что с текучести, а также то, что стали в деформиро-
+понижением температуры величина временно- ванном состоянии имеют более высокие значе-
+го сопротивления повышается. Концентрация ния предела текучести (рис. 7).
+
+Vol. 24 No. 1 2022 77
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+                                             а                                                                                                  б
+
+в
+Рис. 6. Влияние низких температур и наличия концентраторов напряжения на величину значений 
+
+временного сопротивления сталей:
+а – 12Х18Н10Т [4]; б – 10Х14АГ20; в – 10Х14Г14Н4Т
+
+Fig. 6. The infl uence of low temperatures and the presence of stress concentrators
+on the value of the ultimate strength of steels:
+
+a – 12Cr18Ni10Ti [4]; б – 10Cr14NMn20; в – 10Cr14Mn14Ni4Ti
+
+Кроме этого в работе проведена оценка влия- тие пластической деформации, начинающейся у 
+ния низких температур и концентраторов напря- его вершины, так как доля касательных напряже-
+жений на величину относительного сужения ис- ний резко убывает от надреза к центру образца. 
+следуемых сталей в деформированном и литом Влияние острого глубокого надреза проявляется 
+состоянии. Значение относительного сужения на для всех сталей, независимо от уровня их проч-
+образцах с надрезом существенно ниже, чем без ности, типа кристаллической решетки, вязкости 
+него. Известно [4], что надрез затрудняет разви- и пластичности. 
+
+78 Том 24 № 1 2022
+
+
+
+MATERIAL SCIENCE OBRABOTKA METALLOV
+
+деформир
+литая без 
+без надреза
+надреза литая
+
+дефдоерфмоиррмир без
+безб ез надреза
+наднраедзраеза литая
+
+литая с над-
+с над- резом
+резом
+
+деформир деформир
+с надрезом с надрезом
+
+                                          а                                                                                                   б
+
+в
+
+Рис. 7. Влияние низких температур и наличия концентраторов напряжения на величину значений 
+предела текучести стали:
+
+а – 12Х18Н10Т [4]; б – 10Х14АГ20; в – 10Х14Г14Н4Т
+Fig. 7. The infl uence of low temperatures and the presence of stress concentrators on the value of the ultimate 
+
+strength of steels:
+a – 12Cr18Ni10Ti [4]; б – 10Cr14NMn20; в – 10Cr14Mn14Ni4Ti
+
+Установлено, что по характеристикам относи- С учетом сложных условий эксплуатации 
+тельного сужения сталь 10Х14Г14Н4Т не усту- материалов низкотемпературного оборудова-
+пает стали 12Х18Н10Т (рис. 8). Данные по стали ния в работе проведена оценка влияния низ-
+10Х14АГ20 находятся на допустимом уровне, ких температур и концентраторов напряжений 
+хотя для литого состояния несколько ниже ана- на значения ударной вязкости исследованных 
+логичных показателей для стали 12Х18Н10Т. сталей в деформированном состоянии (рис. 9).
+
+Vol. 24 No. 1 2022 79
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+                                    а                                                                                              б
+
+в
+
+Рис. 8. Влияние низких температур и наличия концентраторов напряжения на относительное  
+сужение стали:
+
+а – 12Х18Н10Т [4]; б – 10Х14АГ20; в – 10Х14Г14Н4Т
+Fig. 8. Effect of low temperatures and the presence of stress concentrators on the percentage reduction  
+
+of area of steel:
+a – 12Cr18Ni10Ti [4]; б – 10Cr14NMn20; в – 10Cr14Mn14Ni4Ti
+
+Проведенный всесторонний анализ по- температурном интервале. При этом важным 
+казал, что для стали 10Х14АГ20 и стали является сохранение достаточно высоких зна-
+10Х14Г14Н4Т, находящихся в деформиро- чений ударной вязкости при температуре ис-
+ванном состоянии, характерно резкое паде- пытания –196 °С.
+ние значений ударной вязкости в небольшом 
+
+80 Том 24 № 1 2022
+
+
+
+MATERIAL SCIENCE OBRABOTKA METALLOV
+
+                                  а                                                                                                 б
+
+в
+
+Рис. 9. Влияние низких температур и вида концентратора напряжения на значения ударной вязкости 
+сталей в деформированном состоянии:
+
+а – 12Х18Н10Т[4]; б – 10Х14АГ20; в – 10Х14Г14Н4Т
+Fig. 9. Effect of low temperatures and the type of stress concentrator on the values of impact strength  
+
+of steels in the deformed state:
+a – 12Cr18Ni10Ti [4]; б – 10Cr14NMn20; в – 10Cr14Mn14Ni4Ti
+
+Выводы тании на статическое растяжение обеспечивало 
+повышение значений прочности при снижении 
+
+Установлено, что повышение скорости де- значений вязкости и пластичности.
+формации с 0,34·10-4 с-1 до 0,34·10–1 с–1 и далее 
+до 0,34·102 с–1 Выявлено, что способность к упрочнению 
+
+ при температурах ниже 0 °С спо- при упругопластическом деформировании 
+собствует снижению количества мартенситных уменьшается, и при температуре перехода мате-
+фаз в исследуемых сталях. риала в хрупкое состояние полностью исчезает.
+
+Подтверждено, что наличие концентратора Опытным путем определено, что для мета-
+напряжений на цилиндрических образцах в де- стабильных аустенитных сталей работа разру-
+формированном и литом состоянии при испы- шения образцов при статическом изгибе ока-
+
+Vol. 24 No. 1 2022 81
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+залась меньше, чем при динамическом изгибе. С.Ю. Кондратьев, М.И. Оленин, В.В. Рогожкин // Ме-
+Увеличение скорости низкотемпературной де- талловедение и термическая обработка металлов. – 
+формации образцов препятствует развитию 2014. – № 10 (712). – С. 32–38.
+в сталях фазовых мартенситных превращений. 9. Горынин В.И., Кондратьев С.Ю., Оленин М.И. 
+
+Установлено, что полученные значения ха- Повышение сопротивляемости хрупкому разруше-
+рактеристик механических свойств позволяют нию перлитных и мартенситных сталей при термиче-
+
+ском воздействии на морфологию карбидной фазы // 
+рекомендовать исследованные метастабильные Металловедение и термическая обработка метал-
+аустенитные стали в качестве заменителя широ- лов. – 2013. – № 10 (700). – С. 22–29.
+ко применяемой аустенитной стали 12Х18Н10Т 10. Рыбин В.В., Малышевский В.А., Хлусова Е.И. 
+вплоть до температуры –196 °С как для дефор- Структура и свойства хладостойких сталей для кон-
+мированного, так и для литого состояния. струкций северного исполнения // Вопросы материа-
+
+ловедения. – 2006. – № 1 (45). – С. 24–44.
+Список литературы 11. Костина М.В., Банных О.А., Блинов В.М. Но-
+
+вый немагнитный Fe–Cr–N высокопрочный коррози-
+1. Трещиностойкость и механические свой- онно- и износостойкий сплав. Ч. 1. Влияние хрома 
+
+ства конструкционных материалов технических и азота на структуру и фазовый состав Fe–Cr–N 
+систем / В.В. Москвичев, Н.А. Махутов, А.П. Чер- сплавов // Электрометаллургия. – 2005. – № 12. – 
+няев, А.А. Букаемский, А.Е. Буров, И.А. Зырянов, С. 26–32.
+А.Г. Козлов, И.И. Кокшаров, Г.Г. Крушенко, А.М. Ле- 12. Production technology for arctic pipeline 
+пихин, А.С. Мишин, Л.Ф. Москвичева, Е.Н. Федоро- and marine steel / V.V. Orlov, V.A. Malyshevskii, 
+ва, А.Н. Цыплюк; отв. ред. Ю.И. Шокин. – Новоси- E.I. Khlusova, S.A. Golosienko // Steel in Translation. – 
+бирск: Наука, 2002. – 334 с. 2014. – Vol. 9, iss. 44. – P. 696–705. – DOI: 10.3103/
+
+2. Peregudov A.А., Vologzhanina S.A., Igolkin A.F. S0967091214090113.
+Research of properties of austenitic steels // Key Engi- 13. Structure and mechanical properties of high-
+neering Materials. – 2021. – Vol. 887. – P. 242–246. – strength structural steels / O.A. Bannykh, I.O. Ban-
+DOI: 10.4028/www.scientific.net/KEM.887.242. nykh, E.I. Lukin, A.M. Sorokin // Russian Metallurgy 
+
+3. Солнцев Ю.П., Титова Т.И. Стали для Се- (Metally). – 2018. – N 6. – P. 528–532. – DOI: 10.1134/
+вера и Сибири. – СПб.: Химиздат, 2002. – 352 с. – S0036029518060046.
+ISBN 5-93808-049-5. 14. Industrial use of austenitic and duplex HNS- 
+
+4. Вологжанина С.А., Иголкин А.Ф., Петкова А.П. manufacture, application and properties / T. Schneiders, 
+Исследование влияния низких температур и дефор- R. Ritzenhoff, H. Jung, C. Herrera, A. Bauch // Proceed-
+маций на свойства аустенитной стали 12Х18Н10Т // ings of 12th International Conference on High Nitrogen 
+Научно-технические ведомости СПбПУ. Естествен- Steels. – Hamburg, 2014. – P. 120–127.
+ные и инженерные науки. – 2019. – Т. 25, № 4. – 15. Kostina M.V., Bannykh O.A., Blinov V.M. New 
+P. 83–93. – DOI: 10.18721/JEST.25407. nonmagnetic chromium-nitrogen iron-based steel // Pro-
+
+5. Resistance to brittle fracture and availability of ceedings of 7th International Conference “High Nitrogen 
+austenitic steels / B.S. Ermakov, S.A. Vologzhanina, Steels”, Belgium, Ostende, 19–22 September, 2004. – 
+I.N. Bobrovskij, N.M. Bobrovskij, Y. Erisov // IOP Con- Belgium, 2004. – P. 395–403.
+ference Series: Materials Science and Engineering. – 16. High strength stainless austenitic Cr-Mn-C-N 
+2018. – Vol. 450, iss. 3. – P. 032041. – DOI: 10.1088/1757- steels – Part I: Alloy design and properties / H. Berns, 
+899X/450/3/032041. V.G. Gavriljuk, S. Riedner, A. Tyshchenko // Steel Re-
+
+6. Разработка перспективных образцов кри- search International. – 2007. – Vol. 78, N 9. – P. 714–719.
+огенных сталей для газовозов и стационарных 17. Высокоазотистые стали / Ц.В. Рашев, 
+танков-хранилищ сжиженного природного газа, А.В. Елисеев, Л.Ц. Жекова, П.В. Богев // Известия 
+предназначенных для использования в условиях Ар- вузов. Черная металлургия. – 2019. – Т. 62, № 7. – 
+ктики / М.Ю. Матросов, В.Н. Зикеев, П.Г. Марты- С. 503–510.
+нов, Е.В. Шульга, В.С. Никитин, В.Н. Половинкин, 18. The effect of cold rolling regime on microstruc-
+Ю.А. Симонов, А.А. Семин // Арктика: экология и ture and mechanical properties of AISI 304L stainless 
+экономика. – 2016. – № 4 (24). – С. 80–89. steel / A. Hedayati, A. Najafizadeh, A. Kermanpur, F. Fo-
+
+7. Горынин В.И., Оленин М.И. Пути повышения rouzan // Journal of Materials Processing Technology. – 
+хладостойкости стали и сварных соединений. – СПб.: 2010. – Vol. 210, iss. 8. – P. 1017–1022. – DOI: 10.1016/j.
+Прометей, 2017. – 341 с. jmatprotec.2010.02.010.
+
+8. Концепция карбидного конструирования ста- 19. Получение мартенситной стали 10Х3А со 
+лей повышенной хладостойкости / В.И. Горынин, сверхравновесной концентрацией азота методом 
+
+82 Том 24 № 1 2022
+
+
+
+MATERIAL SCIENCE OBRABOTKA METALLOV
+
+ЭШПД / М.В. Костина, Л.Г. Ригина, В.М. Блинов, 22. Stein G., Hucklenbroich I. Manufacturing and ap-
+С.О. Мурадян // Сборник трудов XV Международ- plications of high nitrogen steels // Materials and Manu-
+ного конгресса сталеплавильщиков. – Тула, 2018. – facturing Processes. – 2004. – Vol. 19, iss. 1. – P. 7–17. – 
+С. 166–172. DOI: 10.1081/AMP-120027494.
+
+20. Corrosion stability of austenitic steels 23. Gavriljuk V.G., Berns H. High nitrogen steels: 
+05Kh22AG15N8M2F and 12Kh18N10T in chloride- structure, properties, manufacture, applications. – Ber-
+containing media / S.V. Gnedenkov, S.L. Sinebryukhov, lin; Heidelberg; New York: Springer, 1999. – 378 p. – 
+V.S. Egorkin, I.E. Vyaliy, I.M. Imshinetskiy, M.V. Kosti- DOI: 10.1007/978-3-662-03760-7. – ISBN 978-3-
+na, S.O. Muradyan, V.I. Sergienko // Protection of Metals 642-08567-3 (softcover). – ISBN 978-3-540-66411-6 
+and Physical Chemistry of Surfaces. – 2017. – Vol. 53, (hardcover). – ISBN 978-3-662-03760-7 (ebook).
+N 5. – P. 910–915. 24. Fretting fatigue behaviour of Ni-free high-
+
+21. Сравнительный анализ данных при оценке nitrogen stainless steel in a simulated body fluid / 
+свойств материалов сварных соединений / С.А. Во- N. Maruyama, S. Hiromoto, E. Akiyama, M. Naka-
+логжанина, А.П. Петкова, А.Ф. Иголкин, А.А. Пере- mura // Science and Technology of Advanced Ma-
+гудов // Научно-технический вестник Поволжья. – terials. – 2013. – Vol. 14, iss. 2. – Art. 025002. – 
+2019. – № 8. – С. 23–27. DOI: 10.1088/1468-6996/14/2/025002.
+
+Конфликт интересов
+Авторы заявляют об отсутствии конфликта интересов.
+
+ 2022 Авторы. Издательство Новосибирского государственного технического университета. Эта статья доступна по 
+лицензии Creative Commons «Attribution» («Атрибуция») 4.0 Всемирная (https://creativecommons.org/licenses/by/4.0/)
+
+Vol. 24 No. 1 2022 83
+
+
+
+OBRABOTKA METALLOV MATERIAL SCIENCE
+
+Obrabotka metallov (tekhnologiya, oborudovanie, instrumenty) = Metal Working and Material Science. 2022 vol. 24 no. 1 pp. 73–86
+ISSN: 1994-6309 (print) / 2541-819X (online)
+DOI: 10.17212/1994-6309-2022-24.1-73-86
+
+Obrabotka metallov - 
+Metal Working and Material Science
+
+Journal homepage: http://journals.nstu.ru/obrabotka_metallov
+
+Effect of the deformation degree at low temperatures on the phase 
+transformations and properties of metastable austenitic steels
+
+Svetlana Vologzhanina 1, a,*, Alexey Igolkin 2, b , Alexey Peregudov 3, c, Igor Baranov 2, d,
+Nikita Martyushev 4, e
+
+1 Saint Petersburg Mining University, 2, 21st Line, St Petersburg, 199106, Russian Federation
+2 ITMO University, 49 Kronverksky Pr., St. Petersburg, 197101, Russian Federation
+3 SUE “Petersburg Metro”, 28 Moskovskiy Prospekt, St. Petersburg, 190013, Russian Federation
+4 National Research Tomsk Polytechnic University, 30 Lenin Avenue, Tomsk, 634050, Russian Federation
+a  https://orcid.org/0000-0001-7675-865X,  svet_spb@mail.ru , b  https://orcid.org/0000-0001-8287-1851,  igolkin47@mail.ru,
+с  https://orcid.org/0000-0002-1273-0743,  mikki435@gmail.com, d  https://orcid.org/0000-0003-0595-368X,  ivbaranov@itmo.ru, 
+e  https://orcid.org/0000-0003-0620-9561,  martjushev@tpu.ru
+
+A RT I C L E  I N F O A B S T R A C T
+
+Article history: Introduction. For reliable operation of low-temperature equipment, it is necessary to use materials capable 
+Received: 30 December 2021 of ensuring operability in a wide temperature range under conditions of alternating loads, exposure to corrosive 
+Revised: 21 January 2022 media, etc. Most often, in such cases, metastable austenitic steels (MAS) of various alloying systems are used. De-
+Accepted: 15 February 2022 spite suffi cient experience in the use of such materials, not enough information is collected on the behavior of such 
+Available online: 15 March 2022 materials at low temperatures, including phase-structural transformations, the features of such transformations in 
+
+different temperature zones, including when a load is applied, both static and dynamic. The subject of the study in 
+Keywords: this work is selected MAS 10Cr14NMn20 and 10Cr14Mn14Ni4Ti grades. The purpose of the study is to evaluate 
+Metastable austenitic steel the performance of industrially used metastable austenitic steels for its possible use instead of steel 12Cr18Ni10Ti. 
+Low temperatures Research methodology. The phase composition of the samples was studied on a DRON-3.0 X-ray diffractometer. 
+Phase-structural transformations Mechanical tests were carried out in the temperature range from +20 to –196 °C. Static uniaxial tensile tests were 
+Strain rate carried out on a R-20 tensile testing machine; cylindrical specimens with threaded heads were prepared according 
+Martensite to GOST 11150–75, as well as samples with a circumferential notches. Dynamic bending tests were carried out on 
+Mechanical properties a pendulum impact tester, using samples according to GOST 9454–78. Results and Discussion. Based on the data 
+
+obtained, it is found that an increase in the strain rate at low temperatures contributes to a decrease in the number 
+of martensitic phases in the steels under study. It is found that the hardenability during elastic-plastic deformation 
+decreases and completely disappears at the temperature of the material transition to a brittle state. It is shown that 
+an increase in the rate of low-temperature deformation of samples prevents the development of phase martensitic 
+transformations in steels. The results obtained can be recommended for use in the selection of materials for the 
+manufacture of equipment operating at temperatures down to –196 °C. Conclusions. It is shown that the obtained 
+values of the characteristics of mechanical properties make it possible to recommend the studied MAS as a substitute 
+for steel 12Cr18Ni10Ti, down to a temperature of –196 °C.
+
+For citation: Vologzanina S.A., Igolkin A.F., Peregudov A.A., Baranov I.V., Martyushev N.V. Effect of the deformation degree at low 
+temperatures on the phase transformations and properties of metastable austenitic steels. Obrabotka metallov (tekhnologiya, oborudovanie, 
+instrumenty) = Metal Working and Material Science, 2022, vol. 24, no. 1, pp. 73–86. DOI: 10.17212/1994-6309-2022-24.1-73-86. (In Russian).
+
+References
+1. Shokin Yu.I., ed., Moskvichev V.V., Makhutov N.A., Chernyaev A.P., Bukaemskii A.A., Burov A.E., 
+
+Zyryanov I.A., Kozlov A.G., Koksharov I.I., Krushenko G.G., Lepikhin A.M., Mishin A.S., Moskvicheva L.F., 
+Fedorova E.N., Tsyplyuk A.N. Treshchinostoikost’ i mekhanicheskie svoistva konstruktsionnykh materialov 
+
+______
+* Corresponding author
+Vologzhanina Svetlana A., D.Sc. (Engineering), Professor
+Saint Petersburg Mining University
+2, 21st Line, St Petersburg, 199106, Russian Federation
+Tel.: +79213491682, e-mail: svet_spb@mail.ru
+
+84 Vol. 24 No. 1 2022
+
+
+
+MATERIAL SCIENCE OBRABOTKA METALLOV
+
+tekhnicheskikh sistem [Crack resistance and mechanical properties of structural materials of technical systems]. 
+Novosibirsk, Nauka Publ., 2002. 334 p.
+
+2. Peregudov A.А., Vologzhanina S.A., Igolkin A.F. Research of properties of austenitic steels. Key Engineering 
+Materials, 2021, vol. 887, pp. 242–246. DOI: 10.4028/www.scientific.net/KEM.887.242.
+
+3. Solntsev Yu.P., Titova T.I. Stali dlya Severa i Sibiri [Steels for the North and Siberia]. St. Petersburg, Khimizdat 
+Publ., 2008. 352 p. ISBN 5-93808-049-5.
+
+4. Vologjanina S.A., Igolkin A.F., Petkova A. Issledovanie vliyaniya nizkikh temperatur i deformatsii na 
+svoistva austenitnoi stali 12Kh18N10T [Study of the effect of low temperatures and deformations on the properties 
+of austenitic steel 12Kh18N10T]. Nauchno-tekhnicheskie vedomosti SPbPU. Estestvennye i inzhenernye nauki = 
+St. Petersburg Polytechnic University Journal of Engineering Science and Technology, 2019, vol. 25, no. 4, pp. 83–
+93. DOI: 10.18721/JEST.25407.
+
+5. Ermakov B.S., Vologzhanina S.A., Bobrovskij I.N., Bobrovskij N.M., Erisov Y. Resistance to brittle fracture 
+and availability of austenitic steels. IOP Conference Series: Materials Science and Engineering, 2018, vol. 450, 
+iss. 3, p. 032041. DOI: 10.1088/1757-899X/450/3/032041.
+
+6. Matrosov M.Yu., Zikeev V.N., Martynov P.G., Shulga E.V., Nikitin V.S., Polovinkin V.N., Simonov Yu.A., 
+Semin A.A. Razrabotka perspektivnykh obraztsov kriogennykh stalei dlya gazovozov i statsionarnykh tankov-
+khranilishch szhizhennogo prirodnogo gaza, prednaznachennykh dlya ispol’zovaniya v usloviyakh Arktiki 
+[Development of advanced patterns of cryogenic steels for gas vessels and stationary storage tanks of liquefied 
+natural gas designed for Arctic conditions]. Arktika: ekologiya i ekonomika = Arctic: Ecology and Economy, 2016, 
+vol. 4 (24), pp. 80–89.
+
+7. Gorynin V.I., Olenin M.I. Puti povysheniya khladostoikosti stali i svarnykh soedinenii [Ways to increase cold 
+resistance of steel and welded joints]. St. Petersburg, Prometei Publ., 2017. 341 p.
+
+8. Gorynin V.I., Kondrat’ev S.Yu., Olenin M.I., Rogozhkin V.V. Kontseptsiya karbidnogo konstruirovaniya stalei 
+povyshennoi khladostoikosti [A concept of carbide design of steels with improved cold resistance]. Metallovedenie i 
+termicheskaya obrabotka metallov = Metal Science and Heat Treatment, 2014, no. 10 (712), pp. 32–38. (In Russian).
+
+9. Gorynin V.I., Kondrat’ev S.Yu., Olenin M.I. Povyshenie soprotivlyaemosti khrupkomu razrusheniyu perlitnykh 
+i martensitnykh stalei pri termicheskom vozdeistvii na morfologiyu karbidnoi fazy [Raising the resistance of pearlitic 
+and martensitic steels to brittle fracture under thermal action on the morphology of the carbide phase]. Metallovedenie 
+i termicheskaya obrabotka metallov = Metal Science and Heat Treatment, 2013, no. 10 (700), pp. 22–29. (In Russian).
+
+10. Rybin V.V., Malyshevskiy V.A., Khlusova E.I. Struktura i svoistva khladostoikikh stalei dlya konstruktsii 
+severnogo ispolneniya [Structure and the properties of cold-resistant steels for the constructions of Northern design]. 
+Voprosy materialovedeniya, 2006, no. 1 (45), pp. 24–44. (In Russian).
+
+11. Kostina M.V., Bannykh O.A., Blinov V.M. Novyi nemagnitnyi Fe–Cr–N vysokoprochnyi korrozionno- i 
+iznosostoikii splav. Ch. 1. Vliyanie khroma i azota na strukturu i fazovyi sostav Fe–Cr–N splavov [New non-magnetic 
+Fe–Cr–N high strength corrosion and wear resistant alloy. Part I. Influence of chromium and nitrogen on the structure 
+and phase composition of Fe–Cr–N alloys]. Elektrometallurgiya, 2005, no. 12, pp. 26–32. (In Russian).
+
+12. Orlov V.V., Malyshevskii V.A., Khlusova E.I., Golosienko S.A. Production technology for arctic pipeline and 
+marine steel. Steel in Translation, 2014, vol. 9, iss. 44, pp. 696–705. DOI: 10.3103/S0967091214090113.
+
+13. Bannykh O.A., Bannykh I.O., Lukin E.I., Sorokin A.M. Structure and mechanical properties of high-strength 
+structural steels. Russian Metallurgy (Metally), 2018, no. 6, pp. 528–532. DOI: 10.1134/S0036029518060046.
+
+14. Schneiders T., Ritzenhoff R., Jung H., Herrera C., Bauch A. Industrial use of austenitic and duplex HNS- 
+manufacture, application and properties. Proceedings of 12th International Conference on High Nitrogen Steels, 
+Hamburg, 2014, pp. 120–127.
+
+15. Kostina M.V., Bannykh O.A., Blinov V.M. New nonmagnetic chromium-nitrogen iron-based steel. Proceedings 
+of 7th International Conference “High Nitrogen Steels”, Belgium, Ostende, 19–22 September, 2004, pp. 395–403.
+
+16. Berns H., Gavriljuk V.G., Riedner S., Tyshchenko A. High strength stainless austenitic Cr-Mn-C-N steels – 
+Part I: Alloy design and properties. Steel Research International, 2007, vol. 78, no. 9, pp. 714–719.
+
+17. Rashev Ts.V., Eliseev A.V., Zhekova L.Ts., Bogev P.V. Vysokoazotistye stali [High-nitrogen steels]. Izvestiya 
+vysshikh uchebnykh zavedenii. Chernaya metallurgiya = Izvestiya. Ferrous Metallurgy, 2019, vol. 62, no. 7, 
+pp. 503–510.
+
+18. Hedayati A., Najafizadeh A., Kermanpur A., Forouzan F. The effect of cold rolling regime on microstructure 
+and mechanical properties of AISI 304L stainless steel. Journal of Materials Processing Technology, 2010, vol. 210, 
+iss. 8, pp. 1017–1022. DOI: 10.1016/j.jmatprotec.2010.02.010.
+
+19. Kostina M.V., Rigina L.G., Blinov V.M., Muradyan S.O. [Obtaining martensitic steel 10Kh3A with 
+superequilibrium nitrogen concentration by the ESHPD method]. Sbornik trudov XV Mezhdunarodnogo kongressa 
+
+Vol. 24 No. 1 2022 85
+
+
+
+OBRABOTKA METALLOV MATERIAL SCIENCE
+
+staleplavil’shchikov [Proceedings of the XV International Congress of Steelworkers]. Tula, 2018, pp. 166–172. 
+(In Russian).
+
+20. Gnedenkov S.V., Sinebryukhov S.L., Egorkin V.S., Vyaliy I.E., Imshinetskiy I.M., Kostina M.V., 
+Muradyan S.O., Sergienko V.I. Corrosion stability of austenitic steels 05Kh22AG15N8M2F and 12Kh18N10T 
+in chloride-containing media. Protection of Metals and Physical Chemistry of Surfaces, 2017, vol. 53, no. 5, 
+pp. 910–915.
+
+21. Vologzhanina S.A., Petkova A.P., Igolkin A.F., Peregudov A.A. Sravnitel’nyi analiz dannykh pri otsenke 
+svoistv materialov svarnykh soedinenii [Comparative analysis of data in assessing the properties of materials of 
+welded joints]. Nauchno-tekhnicheskii vestnik Povolzh’ya = Scientific and Technical Volga region Bulletin, 2019, 
+no. 8, pp. 23–27.
+
+22. Stein G., Hucklenbroich I. Manufacturing and applications of high nitrogen steels. Materials and Manufacturing 
+Processes, 2004, vol. 19, iss. 1, pp. 7–17. DOI: 10.1081/AMP-120027494.
+
+23. Gavriljuk V.G., Berns H. High nitrogen steels: structure, properties, manufacture, applications. Berlin, 
+Heidelberg, New York, Springer, 1999. 378 p. DOI: 10.1007/978-3-662-03760-7. ISBN 978-3-642-08567-3. ISBN 
+978-3-540-66411-6. ISBN 978-3-662-03760-7.
+
+24. Maruyama N., Hiromoto S., Akiyama E., Nakamura M. Fretting fatigue behaviour of Ni-free high-nitrogen 
+stainless steel in a simulated body fluid. Science and Technology of Advanced Materials, 2013, vol. 14, iss. 2, 
+art. 025002. DOI: 10.1088/1468-6996/14/2/025002.
+
+Conflicts of Interest
+The authors declare no conflict of interest.
+
+ 2022 The Authors. Published by Novosibirsk State Technical University. This is an open access article under the CC BY 
+license (http://creativecommons.org/licenses/by/4.0/).
+
+86 Vol. 24 No. 1 2022

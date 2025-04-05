@@ -1,0 +1,841 @@
+﻿УДК 620.9:681.011.56 DOI: 10.14529/power190410 
+  
+
+К ПРОБЛЕМЕ ОПРЕДЕЛЕНИЯ ВЕКТОРОВ ТОКА И НАПРЯЖЕНИЯ  
+В РАСПРЕДЕЛИТЕЛЬНОЙ СЕТИ ПО ДАННЫМ АИИС КУЭ 
+ 
+М.И. Данилов, И.Г. Романенко 
+Северо-Кавказский федеральный университет, г. Ставрополь, Россия 
+ 
+ 
+
+Рассматривается вопрос определения векторов тока и напряжения в трехфазной распределительной 
+электрической сети (РЭС) напряжением 0,4 кВ. Считается, что сопротивления межабонентских участков 
+РЭС являются неизвестными вследствие того, что они могут существенным образом зависеть от внеш-
+них факторов (температура, влажность и др.). В распределительной сети функционирует автоматизиро-
+ванная информационно-измерительная система контроля и учета электроэнергии (АИИС КУЭ), средст-
+вами которой производятся одновременные измерения для одного и того же интервала наблюдения дей-
+ствующих значений тока и напряжения, а также активной и реактивной мощностей в начале РЭС и у 
+каждого ее абонента. Проведен анализ предложенного ранее «метода идентификации недоступных для 
+измерения и контроля токов и напряжений», который базируется на определении векторов тока и на-
+пряжения путем синтеза идентификатора динамики нагрузки с использованием относительных величин 
+и констант для их формирования. Показаны его недостатки, и представлен новый метод решения ука-
+занной задачи. Полученные результаты могут быть полезны при разработке специального программного 
+обеспечения подсистем мониторинга электрического состояния, реализуемых в составе АИИС КУЭ. 
+
+Ключевые слова: вектор тока, метод идентификации, распределительная сеть, трехфазная цепь. 
+ 
+ 
+
+Введение настоящем этапе развития науки и техники за-
+Вопрос определения векторов тока и напря- труднительно, так как экономический результат не 
+
+жения в распределительной электрической сети покрывает их стоимость. Важным приложением 
+(РЭС) на основе полученных одновременно за определения векторов тока и напряжения в РЭС 
+один и тот же интервал наблюдения измерений является их использование для разработки мето-
+действующих значений токов и напряжений, а дов обнаружения несанкционированного отбора 
+также активных и реактивных мощностей в начале электроэнергии (НОЭ) – его координат и объема. 
+линии и у каждого абонента РЭС, выполняемых Вопросу обнаружения НОЭ в РЭС посвящен ряд 
+автоматизированной информационно-измеритель- работ [15–24], в которых отмечается необходи-
+ной системой контроля и учета электроэнергии мость применения интеллектуальных счетчиков 
+(АИИС КУЭ), рассматривался в ряде работ [1–4]. электроэнергии, входящих в состав Smart-Grid. 
+При этом отмечается возможность получения ука- Поэтому вопрос определения векторов тока и на-
+занных векторов без использования значений со- пряжения в распределительной сети по данным 
+противлений межабонентских участков магист- АИИС КУЭ является актуальным и требует своего 
+ральной линии (МЛ), которые являются неопреде- развития. Отметим, что необходимость синхрон-
+ленными параметрами, изменяющимися в зависи- ных векторных измерений обусловлена трудно-
+мости от внешних условий (температура, влаж- стью однозначного определения режима РЭС дру-
+ность). Таким образом, по мнению авторов, стано- гими способами. 
+вилось возможным нахождение (идентификация) В представленной нами работе дано теорети-
+параметров схемы замещения РЭС, что является ческое обоснование и практический расчет, указы-
+очень важным обстоятельством, поскольку может вающий на неработоспособность предложенной в 
+позволить осуществлять оперативную диагностику работе [3] методики определения векторов тока и 
+функционального состояния сети с целью контро- напряжения в РЭС по данным АИИС КУЭ. Пред-
+ля ее уровня надежности [5, 6] и проводить мони- ложен метод, позволяющий преодолеть выявлен-
+торинг потерь электроэнергии в режиме реального ные недостатки. 
+времени. В работах [7–10] рассматривается задача  
+
+определения параметров схемы замещения линий Постановка задачи 
+сети с использованием векторов токов и напряже- Рассматривается трехфазная распределитель-
+ний в РЭС, получаемых от устройств PMU (Phasor ная сеть напряжением 0,4 кВ, в которой установ-
+Measurement Unit), которые осуществляют син- лена АИИС КУЭ (рис. 1), состоящая из головного 
+хронные векторные измерения [11, 12]. Отметим, счетчика электроэнергии (ГСЭ)    и счетчиков 
+что разработаны и менее затратные способы [13, электроэнергии абонентов (СЭА):   
+
+      
+ , 
+
+14] синхронных векторных измерений. Однако   
+      
+
+ ,   
+      
+
+ , где       – фазы элек-
+широкое внедрение достижений в области син- трической сети;   – числовой индекс, обозна-
+хронных векторных измерений в АИИС КУЭ на чающий количество ответвлений абонентов сети. 
+
+Вестник ЮУрГУ. Серия «Энергетика».  
+2019. Т. 19, № 4. С. 87–94 87  
+
+
+
+Электроэнергетика 
+
+~
+
+~
+
+~
+
+ 
+Рис. 1. Схема контролируемого участка трехфазной РЭС с установленной АИИС КУЭ 
+
+ 
+
+ГСЭ выполняет измерительные, вычислительные и     для несимметричной трехфазной сети можно 
+коммуникационные функции, дистанционно взаи- записать следующим образом: 
+модействуя с СЭА. Остальные обозначения:    ,         , 
+   ,     – трехфазная система питающих ЭДС,              , 
+представленная в комплексном виде;   
+
+      
+   ,              , 
+
+          ,          
+    ,            – комплексные         ,          (1) 
+
+сопротивления межабонентских участков питаю-              , 
+щей линии;   
+
+      
+ ,   
+
+      
+ ,   
+
+      
+  – ком-              , 
+
+плексные сопротивления нагрузки абонентов (по- где              ,      ,        . 
+требителей).   
+
+Приняты следующие допущения. Теоретическая часть 
+1. В рассматриваемом интервале времени рас- Построим векторную диаграмму (рис. 2) то-
+
+пределительная сеть функционирует в нормальном ка и напряжения первого абонента (   ) одно-
+(безаварийном) несимметричном режиме. именной фазы   сети. Примем   
+
+          
+2. Каждый из счетчиков по командному сиг-
+
+(       ), т. е. на входе цепи (сети) действуют 
+налу от ГСЭ за интервал времени порядка 0,1 с 
+
+номинальные симметричные напряжения с моду-
+может измерить активную   
+
+   и реактивную   
+   
+
+лями            , которые измеряются 
+мощность, а также действующие значения напря- ГСЭ (  ).  
+жения     и тока     у соответствующего  -го по-  
+
+требителя (абонента) электроэнергии (     ) и в Im
+начале контролируемого участка:   
+
+  ,   
+  ,    ,    , 
+
+где   – переменная, обозначающая фазы       
+рассматриваемой сети. 
+
+3. Одновременно измеренные данные СЭА: 
+
+  
+  ,   
+
+  ,    ,    , (     ,         ) по каналам 
+связи передаются в ГСЭ, где имеются данные:   
+
+  , 
+
+  
+  ,    ,     (       ) для того же момента вре-
+
+мени. 
+Задача заключается в том, чтобы на основе O Re  
+
+указанных измеренных данных определить ком- Рис. 2. Представление на комплексной плоскости пере-
+
+плексные векторы токов                    и на- менных     ,     ,     ,     , записанных для первых (   )  
+ абонентов одноименных фаз   сети и их связь с    ,     
+
+пряжений                   , советующих дейст-
+ 
+
+вующему в РЭС режиму, где          
+    , Определим согласно [3]      следующим обра-
+
+         
+     – комплексные напряжения и токи в зом:        
+
+      , где             – модуль 
+РЭС (     ,        ). Начальные фазы    , комплексного сопротивления первого абонента, 
+
+Bulletin of the South Ural State University. Ser. Power Engineering. 
+88 2019, vol. 19, no. 4, pp. 87–94 
+
+
+
+Данилов М.И., Романенко И.Г.        К проблеме определения векторов тока и напряжения 
+                 в распределительной сети по данным АИИС КУЭ 
+
+известный на основе измерений его напряжения  
+(               ). Комплексы входного тока       
+
+ 
+    и тока    , выполняемых СЭА (  ). (               ) известны (измеряются ГСЭ): 
+
+Согласно [3] далее вводятся новые комплекс-    
+ 
+   
+
+          
+       , 
+
+ные переменные:  
+        
+
+    
+   ,             ,      (8) 
+
+     
+     ,   
+
+ 
+ 
+
+       ,         .      (2) 
+                  
+
+    
+ 
+   . 
+
+Так как  Тогда запишем напряжения в нулевом конту-
+  
+     
+
+ ре (   ) так: 
+  
+
+    ,         ,      (3) 
+       
+
+  
+                      
+
+            ,    (9) 
+очевидно, что 
+
+ где  
+  
+
+             
+      
+
+  ,  
+                 
+
+      ,        
+    , 
+
+  
+     
+
+      
+  
+
+     
+    ,       (4)   
+
+ 
+    
+                 
+
+            , 
+  
+
+  
+       ,         .     
+
+    
+    
+
+  
+  
+   ,                . 
+
+Таким образом, в треугольнике ОАВ (см. рис. 2) Тогда согласно (9) неизвестными для нулево-
+сторона ОА равна ОB. го контура (   ) всех фаз   являются:            
+
+Рассмотрим полученные в [3] коэффициенты           . При этом параметры                од-
+ 
+
+   ,    , используемые для нахождения    : нозначно определяются через      . Поэтому не-
+ 
+
+                                 , обходимы только два уравнения для нахождения 
+                            ,     (5) неизвестных. 
+
+   Для этого запишем (9) для двух произвольных 
+            ,         . 
+
+   фаз, например,   и   в виде: 
+Согласно рис. 2 можно записать:   
+
+             
+    
+
+    
+ 
+
+    
+ 
+      
+
+ ,  (10) 
+                   
+
+ 
+           
+
+ 
+       
+
+      
+,  
+
+тогда согласно рис. 3 можно получить систему из 
+              ,  
+
+двух уравнений с неизвестными      : 
+       
+
+,          (6) 
+   
+
+   
+  
+
+    
+                          ,        .       
+
+    
+         
+
+          
+ 
+
+    
+  
+
+Очевидно, что при         (       ) ко-     
+
+      , 
+эффициенты    ,     равны нулю:   
+
+  
+    
+
+  
+  
+      
+
+            
+        
+
+     ,       ,         .      (7)       (11) 
+ 
+
+    
+Таким образом, не удастся найти    , а, со-   
+
+    
+   , 
+
+ответственно, и            , где            
+
+         
+    
+
+ 
+   
+
+где 
+ является известным (измеряется 
+
+                 , 
+СЭА  ). Вследствие этого методика определения  
+
+           
+     . 
+
+комплексных векторов токов и напряжений, пред-  
+
+ставленная в [3], не позволяет решить сформули- Решив систему (11), найдем искомые       
+ 
+
+рованную задачу. и, соответственно,               . Далее с учетом 
+Предлагаемый метод. Рассмотрим нулевой (1) станут известны комплексы:          
+
+     
+ 
+
+контур (   ) РЭС при условии             (       ).  
+
+ 
+Рис. 3. Графическая интерпретация уравнений (10) и (11) 
+
+ 
+Вестник ЮУрГУ. Серия «Энергетика».  
+2019. Т. 19, № 4. С. 87–94 89  
+
+
+
+Электроэнергетика 
+Затем определим комплексы токов первых або- частоте 50 Гц согласно [26] с учетом расположе-
+
+нентов следующим образом:   ния его жил в одной плоскости на расстоянии двух 
+       
+
+          , 
+где    ,      – известные параметры, которые из- диаметров. 
+
+Для расчетов использованы исходные данные 
+меряются СЭА. Далее найдем токи:    
+
+  
+           ; нагрузок сети (табл. 1). Расчет цепи проводился в 
+
+    
+  
+
+            (       ) и продолжим расчет Mathcad методом узловых напряжений. Результа-
+аналогично описанному для нулевого контура. ты расчета представлены в табл. 2. Следует отме-
+
+ тить, что фазовые углы в табл. 2 записаны с уче-
+том выражений (1). Результаты расчета коэффици-
+
+Практическая часть 
+Рассмотрим трехфазную электрическую цепь ентов    ,     (     ,        ) согласно мето-
+
+(рис. 4). Модули действующих значений питаю- дике [3] представлены в табл. 3.  
+
+щих напряжений фаз зададим так:          Таким образом, сделанные в теоретической 
+
+  части представленной работы выводы, касающие-
+      В. Комплексные сопротивления фаз-
+
+ных и нулевых проводников межабонентских уча- ся неработоспособности методики [3], подтвер-
+ ждаются результатами практических расчетов. 
+
+стков одинаковы        на всех участках   каж-
+На основе результатов табл. 2, которые бра-
+
+ 
+дой из фаз   и заданы в следующем виде:     лись в качестве исходных данных, был выпол-
+                        Ом (       ), нен символьный расчет [27] уравнений (11) в 
+что соответствует трем метрам кабеля АПВ сече- Mathcad. Получены следующие результаты: мо-
+
+2
+нием 70 мм  [25]. Индуктивное сопротивление дуль –             Ом; аргумент –     
+
+ 
+
+одножильного кабеля 5АПВ 170 определялось на            эл. град. 
+
+~
+
+~
+
+~
+ 
+
+Рис. 4. Трехфазная электрическая цепь с тремя (   ) ответвлениями  
+абонентов сети на фазу 
+
+ 
+Таблица 1 
+
+Исходные данные 
+
+Абоненты фаз сети Модули   и начальные фазы   сопротивлений нагрузки абонентов 
+№  
+
+Фаза сети   , А  , Ом  , эл. град         
+абонента 
+
+  40 5,5 45,0000000 0,707 
+1   2 110,0 11,4783400 0,980 
+
+  10 22,0 66,4218215 0,400 
+  20 11,0 11,4783400 0,980 
+
+2   20 11,0 45,0000000 0,707 
+  4 55,0 66,4218215 0,400 
+  10 22,0 11,4783400 0,980 
+
+3   5 44,0 66,4218215 0,400 
+  22 10,0 66,4218215 0,400 
+
+ 
+
+Bulletin of the South Ural State University. Ser. Power Engineering. 
+90 2019, vol. 19, no. 4, pp. 87–94 
+
+
+
+Данилов М.И., Романенко И.Г.        К проблеме определения векторов тока и напряжения 
+                 в распределительной сети по данным АИИС КУЭ 
+
+Таблица 2 
+Результаты расчетов режима работы трехфазной электрической цепи 
+
+Абоненты фаз сети Модули и фазы расчетных значений токов и напряжений абонентов 
+№ або-
+
+Фаза сети  , В   , эл. град  , А   , эл. град 
+нента 
+
+  219,858025 0,0086987 39,974186 –44,9913013 
+1   220,004804 –0,0103061 2,000044 –11,4886470 
+
+  220,012421 0,0240840 10,000565 –66,3977375 
+  219,799021 0,0048309 19,981729 –11,4735100 
+
+2   220,007315 –0,0082293 20,000665 –45,0082293 
+  219,992511 0,0382397 3,999864 –66,3835818 
+  219,76858 –0,0010251 9,989481 –11,4793660 
+
+3   220,033083 –0,8034686 5,000752 293,5701438 
+  219,967363 0,0512243 21,996736 –66,3705972 
+
+ 
+Таблица 3 
+
+Результаты расчетов коэффициентов   и   
+
+Абоненты фаз сети Модули расчетных переменных по методике [3] для абонентов сети 
+№ або-
+
+Фаза сети                      
+нента 
+
+  0,999355 0,999355 0,764873 0 0 
+1   1,000022 1,000022 0,200004 0 0 
+
+  1,000056 1,000056 1,095507 0 0 
+  0,999086 0,999086 0,199817 0 0 
+
+2   1,000033 1,000033 0,765392 0 0 
+  0,999966 0,999966 1,095408 0 0 
+  0,998948 0,998948 0,199790 0 0 
+
+3   1,000150 1,000150 1,095610 0 0 
+  0,999852 0,999852 1,095283 0 0 
+
+ 
+
+Таким образом, предлагаемый в настоящей участков РЭС неизвестны, а сопротивления фаз-
+работе метод, представляющий собой систему ных и нулевого проводов в пределах одного межа-
+уравнений (11), имеет аналитическое решение и бонентского участка являются одинаковыми. 
+дает значения сопротивлений межабонентских Полученные результаты помогут в дальней-
+участков РЭС, соответствующие фактическим. шем развитии подсистем мониторинга электриче-
+
+ ского состояния в составе АИИС КУЭ. 
+Заключение  
+Рассмотрена проблема определения векторов Литература 
+
+токов и напряжений в трехфазной распредели- 1. Оморов, Т.Т. Идентификация и мониторинг 
+тельной сети напряжением 0,4 кВ при неизвестных потерь электроэнергии в распределительной сети 
+сопротивлениях межабонентских участков РЭС на в составе АСКУЭ / Т.Т. Оморов, Б.К. Такырбашев // 
+основе выполняемых АИИС КУЭ одновременных Электричество. – 2016. – № 11. – С. 4–11. 
+измерений за один и тот же интервал наблюдения 2. Оморов, Т.Т. Определение параметров рас-
+действующих значений токов и напряжений, а пределительных сетей 0,4 кВ по данным АСКУЭ / 
+также активной и реактивной мощностей в начале Т.Т. Оморов, Б.К. Такырбашев, Р.Ч. Осмонова // 
+распределительной сети и у каждого ее абонента. Энергетик. – 2017. – № 6. – C. 37–40. 
+
+Представлено теоретическое обоснование и 3. Оморов, Т.Т. К проблеме моделирования не-
+практический расчет, указывающий на неработо- симметричных распределительных электрических 
+способность предложенного ранее [3] метода сетей в составе АСКУЭ / Т.Т. Оморов, Б.К. Та-
+идентификации недоступных для измерения и кырбашев, Р.Ч. Осмонова // Вестник ЮУрГУ. Се-
+контроля токов и напряжений, определяющих рия «Энергетика». – 2017. – Т. 17, № 1. – С. 21–28. 
+электрическое состояние межабонентских участ- DOI: 10.14529/power170103. 
+ков магистральной линии в режиме реального 4. Оморов, Т.Т. Параметрическая идентифи-
+времени. кация распределительной сети в составе АСКУЭ / 
+
+Предложен новый метод вычисления векто- Т.Т. Оморов, Р.Ч. Осмонова, Т.Ж. Койбагаров // 
+ров тока и напряжения в распределительной сети Вестник ЮУрГУ. Серия «Энергетика». – 2018. – 
+при условии, что сопротивления межабонентских Т. 18, № 1. – С. 46–52. DOI: 10.14529/power180106 
+
+Вестник ЮУрГУ. Серия «Энергетика».  
+2019. Т. 19, № 4. С. 87–94 91  
+
+
+
+Электроэнергетика 
+5. Power System Reliability Importance Measu- the detection of electricity theft in smart grid envi-
+
+res / M. Čepin, M. Demin, M. Danilov et al. // 29th ronment / A. Tanveer, C. Huanxin, W. Jiangyu,  
+European Safety and Reliability Conference, Hanno- G. Yabin // Renewable and Sustainable Energy Re-
+ver. – 2019. – P. 1633–1637. DOI: 10.3850/978-981- views. – 2018. – Vol. 82. – P. 2916–2933. DOI: 
+11-2724-3 0156-cd. 10.1016/j.rser.2017.10.040 
+
+6. Rejc, Ž.B. Estimating theadditional opera- 17. Detection of energy theft and defective smart 
+ting reserve in power systems with installed renew- meters in smart grids using linear regression / S.-C. Yip, 
+able energy sources / Ž.B. Rejc, M. Čepin // Inter- K.Sh. Wong, W.-P. Hew et al. // International Journal of 
+national Journal of Electrical Power & Energy Sys- Electrical Power & Energy Systems. – 2017. – Vol. 91. – 
+tems. – 2014. – Vol. 62. – P. 654–664. DOI: P. 230–240. DOI: 10.1016/j.ijepes.2017.04.005 
+10.1016/j.ijepes.2014.05.019 18. Tanveer, A. Non-technical loss analysis and 
+
+7. Transmission line identification using PMUs / prevention using smart meters / A. Tanveer // Renewa-
+E. Janeček, P. Hering, P. Janeček, A. Popelka //  ble and Sustainable Energy Reviews. – 2017. – Vol. 72. – 
+10th International Conference on Environment and P. 573–589. DOI: 10.1016/j.rser.2017.01.100 
+Electrical Engineering, Rome. – 2011. – P. 1–4. DOI: 19. Minimizing non-technical losses with point-
+10.1109/EEEIC.2011.5874682 to-point measurement of voltage drop between 
+
+8. Wu, Z. Simultaneous transmission line pa- “SMART” meters / I. Bula, V. Hoxha, M. Shala,  
+rameter and PMU measurement calibration / Z. Wu, E. Hajrizi // IFAC-PapersOnLine. – 2016. – Vol. 49, 
+L.T. Zora, A.G. Phadke // IEEE Power & Energy So- iss. 29. – P. 206–211. DOI: 10.1016/j.ifacol.2016.11.103 
+ciety General Meeting, Denver. – 2015. – P. 1–5. 20. Сапронов, А.А. Оперативное выявление 
+DOI: 10.1109/PESGM.2015.7286115. неконтролируемого потребления электроэнергии в 
+
+9. Zelenskii, E.G. Identification of the parameters электрических сетях напряжением до 1 кВ /  
+of distribution networks by synchronized current and А.А. Сапронов, С.Л. Кужеков, В.Г. Тынянский // 
+voltage measurements / E.G. Zelenskii, Y.G. Kononov, Изв. вузов. Электромеханика. – 2004. – № 1. –  
+I.I. Levchenko // Russian Electrical Engineering. – C. 55–58. 
+2016. – Vol. 87, no. 7. – P. 363–368. DOI: 21. Patent no. 106405276 CN. Low voltage net-
+10.3103/S1068371216070129 work electricity theft detection method based on AMI 
+
+10. Кононов, Ю.Г. Уточнение параметров data / L. Wenpeng, Zh. Lei, Y. Yixin et al. – 2016. 
+участков линий сети среднего напряжения по 22. Пат. 2651610 Российская Федерация. 
+данным синхронных измерений / Ю.Г. Кононов, Способ выявления мест возникновения и величин 
+О.С. Рыбасова, В.С. Михайленко // Известия выс- нетехнических потерь энергии в электрических 
+ших учебных заведений. Электромеханика. – 2018. – сетях по данным синхронных измерений / Ю.Г. Ко-
+Т. 61, № 1. – С. 77–84. DOI: 10.17213/0136-3360- нонов, Е.Г. Зеленский, М.В. Жуков, Р.Н. Липский. – 
+2018-1-77-84 2016. 
+
+11. IEEE Standard for Synchrophasor Measure- 23. Пат. 2700869 Российская Федерация. 
+ments for Power Systems, [IEEE Std C37.118.1-2011 Способ определения мест неконтролируемого по-
+(Revision of IEEE Std C37.118-2005)], Dec. 28, 2011. требления электроэнергии в электрической сети 
+
+12. Baumgartner, В. [The Impact of GPS Vulner- 0,4 кВ / М.И. Данилов, И.Г. Романенко, С.С. Яст-
+abilities on the Electric Power Grid / В. Baumgartner, ребов. – 2019. 
+С. Riesch, W. Schenk // XX IMEKO World Symposi- 24.  Данилов, М.И. Метод выявления мест не-
+um, Benevento, Italy. – 2014. – P. 183–188. контролируемого потребления электроэнергии в 
+
+13. Load Monitoring Using Distributed Voltage электрических сетях 0,4 кВ / М.И. Данилов,  
+Sensors and Current Estimation Algorithms /  И.Г. Романенко // Изв. вузов. Электромеханика. – 
+A.P. Grilo, P. Gao, W. Xu, M.C. de Almeida // IEEE 2019. –Т. 62. – № 4. – C. 90–96. 
+Trans. Smart Grid. – 2014. – Vol. 5, no. 4. – P. 1920– 25. Провода установочные. – http:// 
+1928. DOI: 10.1109/tsg.2014.2304011 kabelmag2012.narod.ru/Kab_ustanovS.html (дата 
+
+14. Пат. 2619134 Российская Федерация. обращения: 19.10.2019). 
+Способ синхронизации измерений в электрических 26. Каменский, М. Силовые кабели 1–10 кВ  
+сетях по частоте и фазе напряжения силовой с пластмассовой изоляцией. Расчет активного  
+сети / Ю.Г. Кононов, П.А. Звада. – 2015. и индуктивного сопротивлений / М. Каменский,  
+
+15. Solutions for detection of non-technical losses С. Холодный // Новости Электротехники. – 2005. – 
+in the electricity grid: A review / L.V. Joaquim,  № 4 (34). – http://www.news.elteh.ru/arh/2005/ 
+R.E. Paulo, R. Melício et al. // Renewable and Sus- 34/15.php (дата обращения: 19.10.2019). 
+tainable Energy Reviews. – 2017. – Vol. 80. –  27. Гурский, Д.А. Вычисления в Mathcad 12 / 
+P. 1256–1268. DOI: 10.1016/j.rser.2017.05.193 Д.А. Гурский, Е.С. Турбина. – СПб.: Питер, 2006. – 
+
+16. Review of various modeling techniques for 544 с. 
+
+ 
+
+Bulletin of the South Ural State University. Ser. Power Engineering. 
+92 2019, vol. 19, no. 4, pp. 87–94 
+
+
+
+Данилов М.И., Романенко И.Г.        К проблеме определения векторов тока и напряжения 
+                 в распределительной сети по данным АИИС КУЭ 
+
+Данилов Максим Иванович, канд. физ.-мат. наук, доцент, доцент кафедры «Автоматизированные 
+электроэнергетические системы и электроснабжение», Северо-Кавказский федеральный университет,  
+г. Ставрополь; mdanilov@ncfu.ru. 
+
+Романенко Ирина Геннадьевна, канд. техн. наук, доцент кафедры «Автоматизированные электро-
+энергетические системы и электроснабжение», Северо-Кавказский федеральный университет, г. Ставро-
+поль; irina_romanenko_@mail.ru. 
+
+ 
+
+Поступила в редакцию 2 ноября 2019 г. 
+
+__________________________________________________________________ 
+ 
+
+DOI: 10.14529/power190410 
+ 
+
+ON DETERMINATION OF CURRENT AND VOLTAGE VECTORS  
+IN THE DISTRIBUTION NETWORK ACCORDING TO AIMS EMA 
+ 
+M.I. Danilov, mdanilov@ncfu.ru, 
+I.G. Romanenko, irina_romanenko_@mail.ru 
+North-Caucasus Federal University, Stavropol, Russian Federation 
+ 
+
+The paper deals with the problem of determining current and voltage vectors in a three-phase distribution 
+electric network (DEN) with 0.4 kV voltage. It is believed that the resistances of the inter-subscriber DEN sec-
+tions are unknown due to the fact that they can substantially depend on external factors (temperature, humidity, 
+etc.). An automated information-measuring system of electricity monitoring and accounting (AIMS EMA)  
+is functioning in the distribution network. Effective values of current and voltage, active and reactive power at 
+the beginning of the monitored section of the DEN and at each of its subscribers are measured with AIMS EMA 
+means simultaneously for the same observation interval. The authors analyzed the previously proposed “method 
+of identifying currents and voltages inaccessible for measuring and monitoring”, which is based on the determi-
+nation of current and voltage vectors by synthesizing an identifier of load dynamics using relative values and 
+constants for their formation. Its shortcomings are shown and a new method for solving this problem is presented. 
+The results obtained can be useful in the development of special software of subsystems for monitoring the elec-
+trical state, implemented as part of AIMS EMA. 
+
+Keywords: current vector, identification method, distribution network, three-phase circuit. 
+ 
+
+References 
+1. Omorov T.T., Takyrbashev B.K. [Identification and Monitoring of Electric Power Losses in Distributive 
+
+Network as a Part of ASCAE]. Elektrichestvo [Electricity], 2016, no. 11, pp. 4–11. (in Russ.) 
+2. Omorov T.T., Takyrbashev B.K., Osmonova R.Ch. [Finding the Parameteres of 0.4 kV Distribution Grids 
+
+Based on AEMS Data]. Energetik [Power Engineer], 2017, no. 6, pp. 37–40. (in Russ.) 
+3. Omorov T.T., Takyrbashev B.K., Osmonova R.Ch. [On Modelling Unbalanced Distributive Networks In-
+
+corporated in ASCAE]. Bulletin of the South Ural State University. Ser. Power Engineering, 2017, vol. 17, no. 1, 
+pp. 21–28. (in Russ.) DOI: 10.14529/power170103 
+
+4. Omorov T.T., Osmonova R.Ch., Koibagarov T.Zh. [Parametric Identification of a Distribution Network  
+as Part of ASCME]. Bulletin of the South Ural State University. Ser. Power Engineering, 2018, vol. 18, no. 1,  
+pp. 46–52. (in Russ.) DOI: 10.14529/power180106 
+
+5. Čepin M., Demin M., Danilov M., Romanenko I., Afanasyev V. [Power System Reliability Importance 
+Measures]. 29th European Safety and Reliability Conference, Hannover, 2019, pp. 1633–1637. DOI:10.3850/978-
+981-11-2724-3 0156-cd. 
+
+6. Rejc Ž.B., Čepin M. [Estimating the Additional Operating Reserve in Power Systems with Installed Re-
+newable Energy Sources]. International Journal of Electrical Power & Energy Systems, 2014, vol. 62, pp. 654–
+664. DOI: 10.1016/j.ijepes.2014.05.019 
+
+7. Janeček E., Hering P., Janeček P., Popelka A. [Transmission Line Identification Using PMUs,]. 10th In-
+ternational Conference on Environment and Electrical Engineering , Rome, 2011, pp. 1–4. DOI: 
+10.1109/EEEIC.2011.5874682. 
+
+8. Wu Z., Zora L.T., Phadke A.G. Simultaneous Transmission Line Parameter and PMU Measurement 
+Calibration. IEEE Power & Energy Society General Meeting, Denver, 2015, pp. 1–5. DOI: 
+10.1109/PESGM.2015.7286115 
+
+9. Zelenskii E.G., Kononov Y.G., Levchenko I.I. Identification of the Parameters of Distribution Networks by 
+Synchronized Current and Voltage Measurements. Russian Electrical Engineering, 2016, vol. 87, no. 7, pp. 363–368. 
+DOI: 10.3103/S1068371216070129 
+
+ 
+Вестн ик ЮУрГУ. Серия «Энергетика».  
+2 019. Т. 19, № 4. С. 87–94 93  
+ 
+
+
+
+Электроэнергетика 
+
+10. Kononov Yu.G., Rybasova O.S., Mikhailenko V.S. [Refinement of the Parameters of the Medium-Voltage 
+Network Lines Sections on the Basis of the Synchronous Measurements Data]. Izvestija vuzov. Elektromekhanika 
+[Russian Electromechanics], 2018, vol. 61, no. 1, pp. 77–84. (in Russ.) DOI: 10.17213/0136-3360-2018-1-77-84 
+
+11. IEEE Standard for Synchrophasor Measurements for Power Systems, [IEEE Std C37.118.1-2011 (Revi-
+sion of IEEE Std C37.118-2005)], Dec. 28, 2011. 
+
+12. Baumgartner В., Riesch С., Schenk W. The Impact of GPS Vulnerabilities on the Electric Power Grid.  
+XX IMEKO World Symposium, Benevento, Italy, Sept, 2014, pp. 183–188. 
+
+13. Grilo A.P., Gao P., Xu W., de Almeida M.C. Load Monitoring Using Distributed Voltage Sensors and 
+Current Estimation Algorithms. IEEE Trans. Smart Grid, vol. 5, Jul. 2014, no. 4, pp. 1920–1928. DOI: 
+10.1109/tsg.2014.2304011 
+
+14. Kononov Yu.G., Zvada P.A. Sposob sinkhronizatsii izmereniy v elektricheskikh setyakh po chastote i faze 
+napryazheniya silovoy seti [Method of Measurement Synchronization in Electric Networks by Frequency and 
+Voltage Phase of Power Network]. Patent RF, no. 2619134, 2015. 
+
+15. Joaquim L.V., Paulo R.E., R. Melício, V.M.F. Mendes, Susana M.V. Solutions for Detection of Non-
+technical Losses in the Electricity Grid: A Review. Renewable and Sustainable Energy Reviews, 2017, vol. 80,  
+pp. 1256–1268. DOI: 10.1016/j.rser.2017.05.193 
+
+16. Tanveer A., Huanxin C., Jiangyu W., Yabin G. Review of Various Modeling Techniques for the Detection 
+of Electricity Theft in Smart Grid Environment. Renewable and Sustainable Energy Reviews, 2018, vol. 82,  
+pp. 2916–2933. DOI: 10.1016/j.rser.2017.10.040 
+
+17. Yip S.-C., Wong K.Sh., Hew W.-P., Gan M.-T., Phan R.C.-W., Tan S.-W. Detection of Energy Theft and 
+Defective Smart Meters in Smart Grids Using Linear Regression. International Journal of Electrical Power &  
+Energy Systems, 2017, vol. 91, pp. 230–240. DOI: 10.1016/j.ijepes.2017.04.005 
+
+18. Tanveer A. Non-Technical Loss Analysis and Prevention Using Smart Meters. Renewable and Sustaina-
+ble Energy Reviews, 2017, vol. 72, pp. 573–589. DOI: 10.1016/j.rser.2017.01.100 
+
+19. Bula I., Hoxha V., Shala M., Hajrizi E. Minimizing Non-Technical Losses with Point-to-Point Measure-
+ment of Voltage Drop Between “SMART” Meters. IFAC-PapersOnLine, 2016, vol. 49, iss. 29, pp. 206–211. DOI: 
+10.1016/j.ifacol.2016.11.103 
+
+20. Sapronov A.A., Kuzhekov S.L., Tynyanskiy V.G. [Expeditious Identification of Uncontrollable Electricity 
+Consumption in Electric Networks up to 1 kV]. Izvestija vuzov. Elektromekhanika [Russian Electromechanics], 
+2004, no. 1, pp. 55–58. (in Russ.) 
+
+21. Wenpeng L., Lei Zh., Yixin Y. et al. Low voltage network electricity theft detection method based on AMI 
+data. Patent CN, no. 106405276, 2016. 
+
+22. Kononov Yu.G., Zelenskij E.G., Zhukov M.V. Lipskij R.N. Sposob vyyavleniya mest vozniknoveniya i 
+velichin netekhnicheskikh poter' energii v elektricheskikh setyakh po dannym sinkhronnykh izmereniy [Method for 
+Revealing the Places of Origin and Magnitude of Non-Technical Losses of Energy in Electrical Networks by Data 
+of Synchronous Measurements]. Patent RF, no. 2651610, 2016. 
+
+23. Danilov M.I., Romanenko I.G., Yastrebov S.S. Sposob opredeleniya mest nekontroliruemogo potrebleniya 
+elektroenergii v elektricheskoy seti 0,4 kV [Method of Determining Places of Uncontrolled Electric Power Con-
+sumption in Electric Network 0,4 kV]. Patent RF, no. 2700869, 2019. 
+
+24. Danilov M.I., Romanenko I.G. [A Method to Identify Locations of Uncontrolled Electricity Consumption 
+in Electric Networks 0,4 kV]. Izvestija vuzov. Elektromekhanika [Russian Electromechanics], 2019, vol. 61, no. 4, 
+pp. 90–96. (in Russ.) 
+
+25. Provoda ustanovochnye [Installation Wires] Available at: http://kabelmag2012.narod.ru/  
+Kab_ustanovS.html (accessed 19.10.2019)/ 
+
+26. Kamenskiy M., Kholodnyy S. [1–10 kV Power Cables with Plastic Insulation. Calculation of Active and 
+Inductive Resistances]. Novosti Elektrotekhniki [], 2005, no. 4 (34). Available at: http://www.news.elteh.ru/ 
+arh/2005/34/15.php (accessed 19.10.2019). 
+
+27. Gurskiy D.A., Turbina E.S. Vychisleniya v Mathcad 12 [Calculations in Mathcad 12]. St. Petersburg, Piter 
+Publ., 2006. 544 p. 
+
+ 
+
+Received 2 November 2019 
+ 
+ 
+
+ОБРАЗЕЦ ЦИТИРОВАНИЯ  FOR CITATION 
+
+Данилов, М.И. К проблеме определения векторов  Danilov M.I., Romanenko I.G. On Determination of 
+тока и напряжения в распределительной сети по дан- Current and Voltage Vectors in the Distribution Network 
+ным АИИС КУЭ / М.И. Данилов, И.Г. Романенко // According to AIMS EMA. Bulletin of the South Ural 
+Вестник ЮУрГУ. Серия «Энергетика». – 2019. –  State University. Ser. Power Engineering, 2019, vol. 19, 
+Т. 19, № 4. – С. 87–94. DOI: 10.14529/power190410 no. 4, pp. 87–94. (in Russ.) DOI: 10.14529/power190410 
+
+ 
+ Bulletin of the South Ural State University. Ser. Power Engineering. 
+
+94  
+ 2019, vol. 19, no. 4, pp. 87–94

@@ -1,0 +1,652 @@
+﻿ВОПРОСЫ ВИРУСОЛОГИИ. 2020; 65(2)
+DOI: https://doi.org/10.36233/0507-4088-2020-65-2-62-70
+ОБЗОРЫ
+
+ОБЗОРЫ
+
+© ЛЬВОВ Д.К., АЛЬХОВСКИЙ С.В., 2020
+
+Истоки пандемии COVID-19: экология и генетика 
+коронавирусов (Betacoronavirus: Coronaviridae)  
+SARS-CoV, SARS-CoV-2 (подрод Sarbecovirus),  
+MERS-CoV (подрод Merbecovirus)
+Львов Д.К., Альховский С.В.
+Институт вирусологии им. Д.И. Ивановского ФГБУ «Национальный центр эпидемиологии и микробиологии  
+имени почётного академика Н.Ф. Гамалеи» Минздрава России, 123098, Москва, Россия
+
+С начала 2000-х годов зарегистрировано три независимых случая появления новых зооантропонозных 
+коронавирусов (Betacoronavirus) человека, обладающих эпидемическим и пандемическим потенциалом. 
+Первая вспышка инфекции (ТОРС, SARS), вызванная вирусом SARS-CoV, возникла осенью 2002 г. в КНР 
+(провинция Гуандун). Вторая вспышка (БВРС, MERS), связанная с новым вирусом MERS-CoV, появилась 
+осенью 2012 г. в Саудовской Аравии. Третья эпидемия, переросшая в пандемию COVID-19, вызванная ви-
+русом SARS-CoV-2, возникла осенью 2019 г. в КНР (провинция Хубэй). В настоящем обзоре рассмотрены 
+экологические и генетические аспекты, обусловившие появление новых зооантропонозных коронавирусов 
+человека. Основным механизмом адаптации зоонозных бетакоронавирусов к человеку является измене-
+ние структуры рецептор-связывающего домена поверхностного белка S, в результате чего он приобретает 
+способность связывать клеточные рецепторы эпителиальных клеток респираторного и пищеварительного 
+трактов человека. Этот процесс определяется высокой генетической изменчивостью коронавирусов и их 
+способностью к рекомбинации в процессе межпопуляционных взаимоотношений вирусов и их природных 
+резервуаров – летучих мышей (Microchiroptera, Chiroptera). Появление вирусов SARS-CoV, SARS-CoV-2 
+(подрод Sarbecovirus) и MERS-CoV (подрод Merbecovirus) связано с эволюцией этих и других вирусов, про-
+текающей в популяциях летучих мышей, с их дальнейшей передачей человеку напрямую или через проме-
+жуточных позвоночных хозяев, экологически связанных с летучими мышами.
+Статья подготовлена по материалам доклада на заседании Научного совета РАН «Науки о жизни» «Корона-
+вирус – глобальный вызов науке»: Львов Д.К., Альховский С.В., Бурцева Е.И. Истоки пандемии COVID-19: 
+происхождение, биология и генетика коронавирусов SARS-CoV, SARS-CoV-2, MERS-CoV (16 апреля 2020 г.,  
+зал заседаний Президиума РАН, Москва Ленинский проспект, д. 14).
+Ключевые слова: коронавирус; SARS-CoV; MERS-CoV; SARS-CoV-2; летучие мыши; экология; секвени-
+
+рование; филогенетика; рецептор-связывающий домен.
+Для цитирования: Львов Д.К., Альховский С.В. Истоки пандемии COVID-19: экология и генетика корона-
+вирусов (Betacoronavirus: Coronaviridae) SARS-CoV, SARS-CoV-2 (подрод Sarbecovirus), MERS-CoV (подрод 
+Merbecovirus). Вопросы вирусологии. 2020; 65(2): 62-70.
+DOI: https://doi.org/10.36233/0507-4088-2020-65-2-62-70
+Для корреспонденции: Львов Дмитрий Константинович, д-р мед. наук, проф., акад. РАН, руководитель 
+отдела экологии вирусов с научно-практическим центром по экологии и эпидемиологии гриппа, Институт 
+вирусологии им. Д.И. Ивановского ФГБУ «Национальный центр эпидемиологии и микробиологии имени 
+почётного академика Н.Ф. Гамалеи» Минздрава России, 123098, Москва. E-mail: dk_lvov@mail.ru
+Финансирование. Работа не имела целевого финансирования.
+Конфликт интересов. Авторы декларируют отсутствие конфликта интересов.
+Поступила 20.04.2020
+Принята в печать 29.04.2020
+
+Source of the COVID-19 pandemic: ecology and genetics of coronaviruses 
+(Betacoronavirus: Coronaviridae) SARS-CoV, SARS-CoV-2 (subgenus 
+Sarbecovirus), and MERS-CoV (subgenus Merbecovirus)
+Dmitry K. Lvov, Sergey V. Alkhovsky
+D.I. Ivanovsky Institute of Virology of National Research Centre for Epidemiology and Microbiology named  
+after the honorary academician N.F.Gamaleya,  Moscow, 123098, Russia
+Since the early 2000s, three novel zooanthroponous coronaviruses (Betacoronavirus) have emerged. The first outbreak 
+of infection (SARS) caused by SARS-CoV virus occurred in the fall of 2002 in China (Guangdong Province). A second 
+
+62
+
+
+
+PROBLEMS OF VIROLOGY (VOPROSY VIRUSOLOGII). 2020; 65(2)
+DOI: https://doi.org/10.36233/0507-4088-2020-65-2-62-70
+
+REVIEWS
+
+outbreak (MERS) associated with the new MERS-CoV virus appeared in Saudi Arabia in autumn 2012. The third epi-
+demic, which turned into a COVID-19 pandemic caused by SARS-CoV-2 virus, emerged in China (Hubei Province) in 
+the autumn 2019. This review focuses on ecological and genetic aspects that lead to the emergence of new human 
+zoanthroponous coronaviruses. The main mechanism of adaptation of zoonotic betacoronaviruses to humans is to 
+changes in the receptor-binding domain of surface protein (S), as a result of which it gains the ability to bind human 
+cellular receptors of epithelial cells in respiratory and gastrointestinal tract. This process is caused by the high genetic 
+diversity and variability combined with frequent recombination, during virus circulation in their natural reservoir – bats 
+(Microchiroptera, Chiroptera). Appearance of SARS-CoV, SARS-CoV-2 (subgenus Sarbecovirus), and MERS (subge-
+nus Merbecovirus) viruses is a result of evolutionary events occurring in bat populations with further transfer of viruses 
+to the human directly or through the intermediate vertebrate hosts, ecologically connected with bats.
+This review is based on the report at the meeting «Coronavirus – a global challenge to science» of the Scientific 
+Council «Life Science» of the Russian Academy of Science: Lvov D.K., Alkhovsky S.V., Burtseva E.I. COVID-19 
+pandemic sources: origin, biology and genetics of coronaviruses of SARS-CoV, SARS-CoV-2, MERS-CoV (Con-
+ference hall of Presidium of RAS, 14 Leninsky Prospect, Moscow, Russia. April 16, 2020)
+Keywords: Coronaviridae; Betacoronavirus; SARS-CoV; MERS-CoV; SARS-CoV-2; bats; ecology; sequencing; 
+
+phylogenetic; receptor-binding domain.
+For citation: Lvov D.K., Alkhovsky S.V. Source of the COVID-19 pandemic: ecology and genetics of coronaviruses 
+(Betacoronavirus: Coronaviridae) SARS-CoV, SARS-CoV-2 (subgenus Sarbecovirus), and MERS-CoV 
+(subgenus Merbecovirus). Voprosy Virusologii (Problems of Virology). 2020; 65(2): 62-70. (In Russian).
+DOI: https://doi.org/10.36233/0507-4088-2020-65-2-62-70
+For correspondence: Dmitry K. Lvov, Doctor of Medical Sciences, Professor, Academician of RAS, Head of 
+the Department of Ecology of Viruses, Head of Ecology and Epidemiology of Influenza Center, D.I. Ivanovsky 
+Institute of Virology of National Research Centre for Epidemiology and Microbiology named after the honorary 
+academician N.F. Gamaleya, Moscow, 123098, Russia. E-mail: dk_lvov@mail.ru 
+Information about the authors:
+Lvov D.K., https://orcid.org/0000-0001-8176-6582
+Alkhovsky S.V., https://orcid.org/0000-0001-6913-5841
+Acknowledgments. The study had no sponsorship. 
+Conflict of interest. The authors declare no conflict of interest.
+Received 20 April  2020
+Accepted 29 April  2020
+
+Введение
+Коронавирусы (CoV, семейство Coronaviridae) До 2002 г. коронавирусы человека рассматривались 
+
+представляют собой обширное семейство зоонозных как вирусы сезонного ОРВИ, не вызывающие серьёз-
+РНК-содержащих вирусов, инфицирующих широкий ных осложнений. В ноябре 2002 г. в сельской местно-
+круг позвоночных, включая млекопитающих, птиц сти провинции Гуандун (КНР) возникла вспышка за-
+и земноводных. Семейство Coronaviridae принад- болевания, получившего название «тяжёлый острый 
+лежит к отряду Nidovirales и по современной таксо- респираторный синдром» (ТОРС, SARS), с 11% ле-
+номии включает два подсемейства и 8 родов. Коро- тальностью, вызванная новым, неизвестным ранее 
+навирусы человека и животных принадлежат подсе- коронавирусом. Вирус – возбудитель ТОРС получил 
+мейству Orthocoronavirinae, в которое входят 5 родов название SARS-CoV и позднее был отнесён к новому 
+и 33 подрода (рис. 1) [1]. Многие короновирусы вы- виду Severe acute respiratory syndrome-related corona-
+зывают тяжёлые заболевания домашних и сельскохо- virus в составе рода Betacoronavirus (подрод Sarbe-
+зяйственных животных, тогда как у своих основных covirus) [5]. В сентябре 2012 г. на Ближнем Востоке 
+хозяев в дикой природе вызывают в основном бес- (Саудовская Аравия, Оман), с последующим заносом 
+симптомную, персистирующую инфекцию. Корона- в ряд других стран, начали регистрировать случаи 
+вирусы двух родов (Alphacoronavirus и Betacorona- тяжёлого респираторного заболевания, названного 
+virus) способны инфицировать человека и вызывать «ближневосточный респираторный синдром» (БВРС, 
+у людей тяжёлые заболевания [1, 2]. MERS), вызванного другим ранее неизвестным коро-
+
+Альфакоронавирусы (HCoV-229E) активно цирку- навирусом (MERS-CoV), классифицированным как 
+лируют среди людей и участвуют в сезонном подъ- новый вид (Middle East respiratory syndrome related 
+ёме заболеваемости острыми респираторными ви- coronavirus) в составе рода Betacoronavirus (подрод 
+русными инфекциями (ОРВИ), наряду с другими ре- Merbecovirus) [6]. Случаи инфекции MERS регистри-
+спираторными вирусами [3, 4]. По разным оценкам, руются и в настоящее время. На декабрь 2019 г. были 
+доля коронавирусов в структуре ОРВИ может дости- подтверждены 2484 случая, из них 857 (34%) закон-
+гать 10–15%, особенно среди детей. В России в эпи- чились летально [2]. В конце ноября 2019 г. в г. Ухань 
+демический сезон с октября 2018 г. по апрель 2019 г. (провинция Хубэй, КНР) зарегистрирована вспышка 
+доля коронавирусов среди лабораторно диагностиро- респираторного заболевания, позднее получившего 
+ванных случаев ОРВИ составляла 4,6–9,4% [2]. название COVID-19 (от англ. Coronavirus infectious 
+
+63
+
+
+
+ВОПРОСЫ ВИРУСОЛОГИИ. 2020; 65(2)
+DOI: https://doi.org/10.36233/0507-4088-2020-65-2-62-70
+ОБЗОРЫ
+
+desease), вызванная третьим, ранее неизвестным ко- Кавказ, Черноморское побережье и Крым, южные 
+ронавирусом [7, 8]. Генетические исследования пока- регионы азиатской части РФ. 
+зали, что этиологический агент COVID-19 является Первичным источником инфицирования людей 
+близкородственным вирусу SARS-CoV (2002–2003 гг.) MERS являются одногорбые верблюды-дромадёры 
+и относится к тому же виду Severe  acute  respiratory  [21]. От верблюдов были выделены штаммы MERS-
+syndrome-related  coronavirus рода Betacoronavirus. CoV, практически идентичные эпидемическим штам-
+В этой связи вирус получил название SARS-CoV-2 мам, изолированным от людей [22–24]. На основе серо-
+[9]. В настоящее время ВОЗ объявлена пандемия логических исследований показано, что вирус MERS-
+COVID-19. На 25 апреля 2020 г. общее число инфи- CoV активно циркулирует в популяциях верблюдов 
+цированных в мире превысило 2,7 млн человек, число в Африке, Азии и на Ближнем Востоке как минимум 
+летальных случаев превысило 196 тыс. с 1983 г. [25]. В отличие от SARS-CoV-подобных ви-
+
+русов у летучих мышей пока не обнаружены вирусы, 
+Экология зооантропонозных коронавирусов 
+
+SARS-CoV, SARS-CoV-2, MERS-CoV обладающие уровнем схожести, достаточным для от-
+несения их к одному виду с MERS-CoV. Однако опи-
+
+Источником первичного инфицирования людей сано несколько близкородственных видов вирусов, 
+во всех трёх случаях новых коронавирусных ин- входящих вместе с MERS-CoV в подрод Merbecovirus. 
+фекций были животные. Исследования, проведён- Резервуаром этих видов в Европе, Китае и на Ближнем 
+ные в КНР и в других странах, показали, что схожие Востоке являются в основном гладконосые летучие 
+с SARS-CoV вирусы активно циркулируют в попу- мыши (Vespertilionidae), такие как нетопыри (Pipistrel-
+ляциях летучих мышей (Microchiroptera, Chiroptera) lus) и кожаны (Eptesicus), всего до 14 видов. Родствен-
+и именно летучие мыши являются их природным ре- ные MERS-CoV виды вирусов найдены также в Афри-
+зервуаром [10, 11]. Основным природным резервуа- ке у щелеморды (Nycteris, Nycteridae) [20]. 
+ром SARS-CoV-подобных вирусов являются подко- За последние годы у различных видов рукокрылых 
+воносые летучие мыши – ринолофиды (Rhinolophus: (Chiroptera) было обнаружено множество штаммов, 
+Rhinolophidae). В КНР в циркуляцию вовлечены эволюционно близких практически ко всем извест-
+многие виды, но главное значение имеют китайский ным группам коронавирусов. В циркуляцию аль-
+(R.  sinicus), большой (R.  ferrumequinum), средний фа- и бетакоронавирусов вовлечены не менее 30 раз-
+(R. affinis) и королевский (R. rex) подковоносы [12]. личных видов из 11 семейств этого отряда [20]. Это 
+В Европейских странах циркуляция родственных позволяет рассматривать представителей отряда Chi-
+SARS-CoV вирусов обнаружена у большого, мало- roptera как очень древний природный резервуар всех 
+го (R.  hipposideros), южного (R.  euryale), очкового альфа- и бетакоронавирусов млекопитающих. Кроме 
+(Rh.  mehelyi) и средиземноморского (R.  blasii) под- коронавирусов, летучие мыши являются резервуаром 
+ковоносов [13–16]. Общую заражённость популя- и источником множества других зоонозных вирусов, 
+ций подковоносов в пределах их ареала оценивают включая вирусы геморрагических лихорадок Эбола, 
+в 10%, но в некоторых колониях-пещерах это значе- Марбург, Нипах, Хендра, а также рабдовирусов, бу-
+ние может достигать 60% [12, 15, 17–20]. Ареал ви- ньявирусов и др. [26], что объясняется экологически-
+дов – носителей SARS-CoV-подобных вирусов охва- ми и биологическими особенностями этих животных. 
+тывает южные регионы России, включая Северный К ним относятся высокая численность и плотность по-
+
+Рис. 1. Структура родов подсемейства Orthocoronavirinae семейства Coronaviridae с указанием видов животных,  
+которых они инфицируют. 
+
+Fig. 1. List of genera of the subfamily Orthocoronavirinae of the family Coronaviridae, indicating vertebrate animals they infect.
+64
+
+
+
+PROBLEMS OF VIROLOGY (VOPROSY VIRUSOLOGII). 2020; 65(2)
+DOI: https://doi.org/10.36233/0507-4088-2020-65-2-62-70
+
+REVIEWS
+
+пуляций во время днёвок и зимовок, перемешивание ся S-протеином, который формирует на поверхности 
+популяций во время ежегодных сезонных миграций, вириона характерные выросты – пепломеры. S-белок 
+особенности биологии и иммунитета [27, 28]. В од- несёт специальный рецептор-связывающий домен, 
+ной, часто смешанной, колонии летучих мышей мо- который расположен в N-терминальной части белка 
+гут одновременно циркулировать несколько зооноз- и состоит из 190 аминокислот [1]. Главные различия 
+ных вирусов, которые выделяются в большом титре между SARS-CoV и близкородственными вируса-
+с фекалиями и мочой и заражают ближайших особей. ми летучих мышей связаны со структурой данного 
+Поскольку многие виды селятся непосредственно домена. Это очень вариабельный регион, в котором 
+вблизи жилищ человека (и на чердаках), выделяемые встречаются многочисленные замены, делеции и ин-
+ими вирусы могут или напрямую инфицировать лю- серции. SARS-подобные вирусы в качестве рецепто-
+дей и домашних животных, или же инфицировать жи- ра используют ангиотензин-конвертирующий фер-
+вотных, которые их ловят и поедают. мент-2 (ACE2) (рис. 2) [29]. Большинство вирусов 
+
+летучих мышей не способно связывать человеческий 
+Филогения рода Betacoronavirus ACE2-рецептор [30]. Таким образом, несмотря на вы-
+
+К настоящему времени описаны несколько десят- сокую схожесть геномов подавляющее большинство 
+ков бетакоронавирусов летучих мышей, филогенети- вирусов летучих мышей не могут инфицировать клет-
+чески близких к зооантропонозным эпидемическим ки человека. 
+вирусам. На филогенетических деревьях эти вирусы Изменение рецепторной специфичности у вирусов 
+формируют две ветви, которые представляют два SARS-CoV и SARS-CoV-2 связано с определёнными 
+подрода (Sarbecovirus и Merbecovirus) в составе рода мутациями в рецептор-связывающем домене белка 
+Betacoronavirus. Геном коронавирусов представлен S [31]. Вероятно, рецепторная адаптация возможна 
+одной нитью РНК позитивной полярности, которая в промежуточном хозяине, в качестве которого могли 
+кодирует от 11 до 14 генов, включая белки полиме- выступать циветы (в случае с SARS-CoV), панголи-
+разного комплекса, структурные белки вириона и не- ны (в случае с SARS-2) и верблюды (в случае MERS-
+сколько неструктурных белков. В целом геномы виру- CoV). Адаптация SARS и SARS-2 происходила не-
+сов летучих мышей на 75–95% схожи с геномами ви- зависимо друг от друга, и эти вирусы имеют разные 
+русов SARS, SARS-2 и MERS. Все они имеют схожую аминокислоты в ключевых для связывания рецептора 
+структуру генома, с некоторыми вариациями в со- позициях. Уровень гомологии рецептор-связывающе-
+ставе неструктурных, вспомогательных протеинов. го домена между вирусами SARS-CoV и SARS-CoV-2 
+Генетический анализ показывает, что между извест- составляет только 75% а.к. ACE2-рецептор челове-
+ными штаммами SARS-подобных вирусов летучих ка имеет практически одинаковый уровень отличий 
+мышей происходили многочисленные рекомбинации, (82% схожести) от рецепторов летучих мышей, цивет 
+в результате чего осуществляется постоянный обмен и панголинов.
+фрагментами различных генов. Способность связывать ACE2-рецептор человека, 
+
+а также некоторые особенности в структуре генов 
+Механизм адаптации бетакоронавирусов  ORF3 и ORF8, которые, как предполагается, играют 
+
+летучих мышей к человеку роль в патогенезе вируса, долго считались уникаль-
+Тропизм коронавирусов к клеткам тканей живот- ными свойствами SARS-CoV. В результате масштаб-
+
+ных, которых они могут инфицировать, определяет- ных исследований китайских популяций летучих мы-
+
+а б
+
+Рис. 2. Особенности вируса SARS-CoV-2: а – основные этапы проникновения вируса в клетку (адаптировано по G. Simmons et al. [40]); 
+б – сравнение сайта нарезания S1/S2 белка S вирусов SARS-CoV, RaTG13 и SARS-CoV. Стрелкой указано место расщепления белка S 
+
+клеточными протеазами. Дополнительный сайт для фуриновых протеаз PRRA вируса SARS-CoV-2 выделен жирным шрифтом. 
+Fig. 2. A. Features of the SARS-CoV-2 virus: a - schematic representation of the virus penetration into the cell (adapted from G. Simmons et 
+al. [40] ). b -comparison of S1/S2 cleavage site (arrow) in S protein of SARS-CoV, RaTG13 and SARS-CoV viruses. Additional site (PRRA) 
+
+for cellular furin proteases is bolded.
+65
+
+
+
+ВОПРОСЫ ВИРУСОЛОГИИ. 2020; 65(2)
+DOI: https://doi.org/10.36233/0507-4088-2020-65-2-62-70
+ОБЗОРЫ
+
+Рис. 3. Карта Китая с указанием мест возникновения новых коронавирусных инфекций SARS (2002 г.), COVID-19 (2019) г.). Указана 
+провинция Юньнань, где в колониях китайского подковоноса (R. sinicus) выделены штаммы – предшественники вируса SARS-CoV. 
+
+Fig. 3. Map of China showing the sites of origin coronavirus infections SARS (2002) and COVID-19 (2019). Yunnan province, where 
+viruses - precursors of SARS-CoV were isolated from horseshoe bats (R. sinicus), are shown.
+
+шей были изолированы несколько вирусов, схожих лась в 2002 г. в сельской местности в окрестностях 
+с SARS-CoV по структуре рецептор-связывающего г. Фошань (провинция Гуандун, КНР) и была связана 
+домена. Было показано, что эти штаммы способны с фермами и рынками животных, наиболее вероятным 
+использовать рецептор и человека, и летучих мышей, местом появления вируса рассматриваются колонии 
+и цивет для проникновения в клетку [32]. Ряд других китайского подковоноса, в частности в провинции 
+штаммов имели схожее строение генов ORF3 и ORF8 Юньнань, где вирус возник в результате серии реком-
+[33, 34]. Таким образом, среди циркулирующих в ко- бинаций. Более того, серологические исследования 
+лониях летучих мышей вирусов встречаются вариан- показали, что в этой провинции в сельской местности 
+ты, уже обладающие необходимым тропизмом и спо- вблизи пещер с колониями летучих мышей антитела 
+собностью инфицировать людей без необходимости к SARS встречаются у 2,7% жителей [36]. 
+дополнительной адаптации в промежуточном хозя- Вирус SARS-CoV-2 имеет только 75% схожести 
+ине. Вирусы, способные использовать человеческий с вирусом SARS-CoV и, соответственно, его проис-
+рецептор, и вирусы со схожим с SARS-CoV строе- хождение является независимым. Наиболее близ-
+нием генов ORF3 и ORF8 были найдены пока только кий к вирусу SARS-CoV-2 штамм был обнаружен 
+у китайского подковоноса (Rh.  sinicus) в китайской в 2013 г. у среднего подковоноса (Rh.  affinis) в про-
+провинции Юньнань (рис. 3). Тогда как в других про- винции Юньнань (КНР) [8]. Этот штамм, названный 
+винциях и у других видов подковоносов обнаружи- RaTG13, имеет в среднем 96% идентичности с SARS-
+вались только вирусы, не способные инфицировать CoV-2 при сравнении полных геномов. При этом не-
+связывать ACE2-рецептор человека. При этом много- которые структурные белки RaTG13 (N, M, E, ORF8) 
+летнее наблюдение за одной из пещер в данной про- имеют 100% совпадение с SARS-CoV-2 по амино-
+винции выявило в ней весь спектр вариантов вирусов, кислотному составу. Другие близкие к SARS-CoV-2 
+обнаруженных в других регионах КНР, что говорит штаммы были изолированы от малайских панголинов 
+о постоянном перемешивании вирусных популяций (Pholoidota) [37]. Эти вирусы также имеют высокую 
+[33, 35]. Несмотря на то что вспышка SARS нача- степень гомологии с SARS-CoV-2 (94%). Отсюда воз-
+66
+
+
+
+PROBLEMS OF VIROLOGY (VOPROSY VIRUSOLOGII). 2020; 65(2)
+DOI: https://doi.org/10.36233/0507-4088-2020-65-2-62-70
+
+REVIEWS
+
+никло предположение, что именно панголины явля- чих мышей, и с их дальнейшей передачей человеку 
+ются источником вируса SARS-CoV-2 [38]. Однако или напрямую или через промежуточных хозяев.
+если рассматривать отдельные белки, то их схожесть 
+оказывается несколько ниже, чем у штамма RaTG13. Генетическая изменчивость вируса SARS-CoV-2 
+Вместе с тем структура рецептор-связывающего (COVID-19) во время пандемии
+домена у вирусов панголина более близка к SARS- Попав в человеческую популяцию, вирус SARS-
+CoV-2, чем у вирусов летучих мышей. Таким образом, CoV-2 начал стремительно распространяться 
+так же как и в случае с SARS-CoV, можно заключить, по странам и континентам. Сравнительный анализ 
+что предшественник SARS-CoV-2 или его отдельные генетических данных, полученных из разных стран, 
+гены циркулировали в популяциях подковоносов уже показывает, что вирусная популяция остаётся отно-
+в 2013 г., а сам вирус появился вследствие рекомби- сительно гомогенной. К настоящему времени в мире 
+нации между различными вирусами летучих мышей секвенировано более 10 000 штаммов (https://www.
+и, возможно, вирусами других животных. gisaid.org/). При этом максимальная разница между 
+
+Характерной особенностью вируса SARS-CoV-2, ними составляет до 20 нуклеотидных замен по всей 
+которая отличает его от других коронавирусов, явля- длине генома. Рассчитанная скорость накопления 
+ется вставка дополнительного сайта нарезания для мутаций вируса сопоставима с таковой у других 
+фуриновых протеаз в месте протеолитического рас- РНК-содержащих вирусов, но несколько ниже, чем 
+щепления S-протеина (см. рис. 2) [39]. Нарезание у вирусов гриппа. Анализ накопления мутаций и рас-
+S-протеина на две субъединицы (S1 и S2) необходимо считанная скорость изменчивости позволили сде-
+для проникновения вируса в клетку. Эту функцию вы- лать важный вывод: все циркулирующие в настоя-
+полняют клеточные сериновые (TMPRSS2) и цистеи- щее время штаммы происходят из одного источника, 
+новые (CatB/L) протеазы [40]. Привлечение дополни- т.е. проникновение вируса в человеческую популя-
+тельных протеаз для нарезания S-протеина, вероятно, цию было единичным событием. А первый штамм, 
+расширяет спектр чувствительных клеток и является от которого происходят все остальные варианты, по-
+одним из факторов патогенности вируса. Здесь ви- явился в КНР в период с середины октября до сере-
+рус использует механизм, схожий с появлением вы- дины ноября 2019 г., т.е. в период осенней миграции 
+сокопатогенных штаммов вируса птичьего гриппа A/ летучих мышей. Таким образом, эволюция вируса 
+H5N1, связанных с изменением сайта протеолитиче- в настоящее время интенсивно продолжается, начи-
+ского нарезания гемагглютинина [41]. нают формироваться его географические варианты, 
+
+В отличие от SARS-подобных вирусов, чьи непосред- которые, возможно, лягут в основу его будущей ге-
+ственные предшественники найдены в летучих мы- терогенности.
+шах, вирус MERS-CoV имеет более сложную историю 
+происхождения. Его резервуаром являются верблюды, Заключение
+от которых изолированы штаммы, практически иден- Пандемия COVID-19 – частный случай проблемы 
+тичные эпидемическим. Вирусная популяция у верблю- новых и возвращающихся инфекций (emerging and 
+дов неоднородна и состоит из двух генотипов (L1 и L2), reemerging infections). Все возбудители вирусных 
+из которых только L1 (от верблюдов Ближнего Востока: инфекций проникли в популяцию людей от живот-
+Объединённые Арабские Эмираты, Саудовская Аравия, ных. Процесс происходил на протяжении по край-
+Оман, Иордания) инфицируют людей. Тогда как вирусы ней мере 10 тыс. лет и будет продолжаться в обо-
+генотипа L2 (Северная Африка) инфекции у человека зримом будущем [27, 28, 46]. Возникающие новые 
+не вызывают. Филогенетические исследования показы- инфекции зоонозного происхождения, подобные 
+вают, что MERS-CoV эволюционно происходит от виру- COVID-19, пандемии гриппа А(H1N1)pdm09 и др., 
+сов летучих мышей, с которыми он обладает до 85% схо- служат причиной непредсказуемых эпидемических 
+жести при сравнении полных геномов [42, 43]. Вирус катаклизмов с тяжёлыми последствиями. Именно 
+MERS использует для связывания с клеткой рецептор поэтому в Советском Союзе существовала мощная 
+DPP4 (CD26) [44]. Схожесть рецептор-связывающего система мониторинга вирусных популяций в раз-
+домена у MERS-CoV с вирусами летучих мышей со- личных экосистемах, направленная на минимиза-
+ставляет только 60–70% а.к. Различия в рецептор-связы- цию последствий чрезвычайных ситуаций, возни-
+вающем домене S-белка определяют торопизм вируса кающих, в частности, в связи с пандемиями гриппа 
+к клеткам определённых видов [45]. [47]. Возобновление подобной системы с исполь-
+
+Таким образом, основным механизмом адаптации зованием современных методов анализа вирусных 
+зоонозных бетакоронавирусов к человеку являются геномов для мониторинга генофондов вирусных 
+мутации в рецептор-связывающем домене поверх- популяций необходимо на национальном и между-
+ностного белка S, определяемые высокой генетиче- народном уровнях [48].
+ской изменчивостью коронавирусов, их способностью 
+к рекомбинации, а также экологическими особенно- Л И Т Е РАТ У РА
+
+стями их природного резервуара – летучих мышей. По- 1. de Groot R.J., Baker S.C., Baric R., Enjuanes L., Gorbalenya A.E., 
+явление зооантропонозных вирусов SARS-CoV, SARS- Holmes K.V., et al. Family Coronaviridae. In: King A.M., Adams M.J., 
+CoV-2 и MERS связано с эволюционными процессами, Carstens E.B., Lefkowitz E.J., eds. Virus Taxonomy: Classification and 
+
+Nomenclature of Viruses. Ninth Report of the International Committee 
+протекающими непосредственно в популяциях лету- on Taxonomy of Viruses. London: Elsevier; 2012: 806-28.
+
+67
+
+
+
+ВОПРОСЫ ВИРУСОЛОГИИ. 2020; 65(2)
+DOI: https://doi.org/10.36233/0507-4088-2020-65-2-62-70
+ОБЗОРЫ
+
+2. Львов Д.К., Альховский С.В., Колобухина Л.В., Бурцева Е.И. 20. Drexler J.F., Corman V.M., Drosten C. Ecology, evolution and clas-
+Этиология эпидемической вспышки COVID-19 в г. Ухань sification of bat coronaviruses in the aftermath of SARS. Antiviral 
+(провинция Хубэй, Китайская Народная Республика), ассоци- Res. 2014; 101: 45-56. 
+ированной с вирусом 2019-nCoV (Nidovirales, Coronaviridae, DOI: http://doi.org/10.1016/J.ANTIVIRAL.2013.10.013
+Coronavirinae, Betacoronavirus, подрод Sarbecovirus): уроки 21. Haagmans B.L., Al Dhahiry S.H.S., Reusken C.B.E.M., Raj V.S., 
+эпидемии SARS-CoV. Вопросы вирусологии. 2020; 65(1): 6-16. Galiano M., Myers R., et al. Middle East respiratory syndrome 
+DOI: http://doi.org/10.36233/0507-4088-2020-65-1-6-15 coronavirus in dromedary camels: An outbreak investigation. Lan-
+
+3. Hamre D., Procknow J.J. A new virus isolated from the human cet Infect. Dis. 2014; 14(2): 140-5. 
+respiratory tract. Proc. Soc. Exp. Biol. Med. 1966; 121(1): 190-3. DOI: http://doi.org/10.1016/S1473-3099(13)70690-X
+DOI: http://doi.org/10.3181/00379727-121-30734 22. Sabir J.S., Lam T.T., Ahmed M.M., Li L., Shen Y., Abo-Aba S.E., et al. 
+
+4. McIntosh K., Dees J.H., Becker W.B., Kapikian A.Z., Chanock Co-circulation of three camel coronavirus species and recombination 
+R.M. Recovery in tracheal organ cultures of novel viruses from of MERS-CoVs in Saudi Arabia. Science. 2016; 351(6268): 81-4. 
+patients with respiratory disease. Proc. Natl. Acad. Sci. USA. 1967; DOI: http://doi.org/10.1126/science.aac8608
+57(4): 933-40. DOI: http://doi.org/10.1073/pnas.57.4.933 23. Raj V.S., Farag E.A., Reusken C.B., Lamers M.M., Pas S.D., Vo-
+
+5. Drosten C., Gunther S., Preiser W., van der Werf S., Brodt H.R., Becker ermans J., et al. Isolation of MERS coronavirus from dromedary 
+S., et al. Identification of a novel coronavirus in patients with severe camel, Qatar, 2014. Emerg. Infect. Dis. 2014; 20(8): 1339-42. 
+acute respiratory syndrome. N. Engl. J. Med. 2003; 348(20): 1967-76. DOI: http://doi.org/10.3201/eid2008.140663
+DOI: http://doi.org/10.1056/NEJMoa030747 24. Paden C.R., Yusof M.F.B.M., Al Hammadi Z.M., Queen K., Tao 
+
+6. Zaki A.M., van Boheemen S., Bestebroer T.M., Osterhaus A.D., Y., Eltahir Y.M., et al. Zoonotic origin and transmission of Middle 
+Fouchier R.A., et al. Isolation of a novel coronavirus from a man East respiratory syndrome coronavirus in the UAE. Zoonoses Pub-
+with pneumonia in Saudi Arabia. N. Engl. J. Med. 2012; 367(19): lic Health. 2018; 65(3): 322-33. 
+1814-20. DOI: http://doi.org/10.1056/NEJMoa1211721 DOI: http://doi.org/10.1111/zph.12435
+
+7. Zhu N., Zhang D., Wang W., Li X., Yang B., Song J., et al. A novel 25. Müller M.A., Corman V.M., Jores J., Meyer B., Younan M., Liljander A., 
+coronavirus from patients with pneumonia in China, 2019. N. Engl. et al. MERS coronavirus neutralizing antibodies in camels, eastern 
+J. Med. 2020; 382(8): 727-33. Africa, 1983-1997. Emerg. Infect. Dis. 2014; 20(12): 2093-5. 
+DOI: http://doi.org/10.1056/NEJMoa2001017 DOI: http://doi.org/10.3201/eid2012.141026
+
+8. Zhou P., Yang X.L., Wang X.G., Hu B., Zhang L., Zhang W., et al. A 26. Calisher C.H., Childs J.E., Field H.E., Holmes K.V., Schountz T. 
+pneumonia outbreak associated with a new coronavirus of probable Bats: important reservoir hosts of emerging viruses. Clin. Microbi-
+bat origin. Nature. 2020; 579(7798): 270-3. ol. Rev. 2006; 19(3): 531-45. 
+DOI: http://doi.org/10.1038/s41586-020-2012-7 DOI: http://doi.org/10.1128/CMR.00017-06
+
+9. Lu R., Zhao X., Li J., Niu P., Yang B., Wu H., et al. Genomic character- 27. Lvov D.K., Shchelkanov M.Y., Alkhovsky S.V., Deryabin P.G. Zoo-
+isation and epidemiology of 2019 novel coronavirus: implications for notic Viruses of Northern Eurasia. Taxonomy and Ecology. London: 
+virus origins and receptor binding. Lancet. 2020; 395(10224): 565-74. Academic Press, Elsevier; 2015.
+DOI: http://doi.org/10.1016/S0140-6736(20)30251-8 28. Львов Д.К. Экология вирусов. В кн.: Львов Д.К., ред. 
+
+10. Lau S.K., Woo P.C., Li K.S., Huang Y., Tsoi H.W., Wong B.H., Руководство  по  вирусологии.  Вирусы  и  вирусные  инфекции 
+et al. Severe acute respiratory syndrome coronavirus-like virus in человека и животных. М.: МИА; 2013: 66-86.
+Chinese horseshoe bats. Proc. Natl. Acad. Sci. USA. 2005; 102(39): 29. Li W., Moore M.J., Vasllieva N., Sui J., Wong S.K., Berne M.A., et 
+14040-5. DOI: http://doi.org/10.1073/pnas.0506735102 al. Angiotensin-converting enzyme 2 is a functional receptor for the 
+
+11. Li W., Shi Z., Yu M., Ren W., Smith C., Epstein J.H., et al. Bats SARS coronavirus. Nature. 2003; 426(6965): 450-4. 
+are natural reservoirs of SARS-like coronaviruses. Science. 2005; DOI: http://doi.org/10.1038/nature02145
+310(5748): 676-9. 
+DOI: http://doi.org/10.1126/science.1118391 30. Ren W., Qu X., Li W., Han Z., Yu M., Zhou P., et al. Difference in 
+
+12. Fan Y., Zhao K., Shi Z.L., Zhou P. Bat coronaviruses in China. receptor usage between severe acute respiratory syndrome (SARS) 
+Viruses. 2019; 11(3): pii E210. coronavirus and SARS-like coronavirus of bat origin. J. Virol. 2008; 
+DOI: http://doi.org/10.3390/v11030210 82(4): 1899-907. 
+
+13. Rihtaric D., Hostnik P., Steyer A., Grom J., Toplak I. Identification DOI: http://doi.org/10.1128/jvi.01085-07
+of SARS-like coronaviruses in horseshoe bats (Rhinolophus 31. Wan Y., Shang J., Graham R., Baric R.S., Li F. Receptor recogni-
+hipposideros) in Slovenia. Arch. Virol. 2010; 155(4): 507-14. tion by the novel coronavirus from Wuhan: an analysis based on 
+DOI: http://doi.org/10.1007/s00705-010-0612-5 decade-long structural studies of SARS coronavirus. J. Virol. 2020; 
+
+14. Ar Gouilh M., Puechmaille S.J., Diancourt L., Vandenbogaert M., 94(7): pii e00127-20. 
+Serra-Cobo J., Lopez Roïg M., et al. SARS-CoV related Betacoro- DOI: http://doi.org/10.1128/jvi.00127-20
+navirus and diverse Alphacoronavirus members found in western 32. Ge X.Y., Li J.L., Yang X.L., Chmura A.A., Zhu G., Epstein J.H., et 
+old-world. Virology. 2018; 517: 88-97. al. Isolation and characterization of a bat SARS-like coronavirus 
+DOI: http://doi.org/10.1016/j.virol.2018.01.014 that uses the ACE2 receptor. Nature. 2013; 503(7477): 535-8. 
+
+15. Balboni A., Palladini A., Bogliani G., Battilani M. Detection of a DOI: http://doi.org/10.1038/nature12711
+virus related to betacoronaviruses in Italian greater horseshoe bats. 33. Lau S.K., Feng Y., Chen H., Luk H.K., Yang W.H., Li K.S., et al. Se-
+Epidemiol. Infect. 2011; 139(2): 216-9. vere acute respiratory syndrome (SARS) coronavirus ORF8 protein 
+DOI: http://doi.org/10.1017/S0950268810001147 is acquired from SARS-related coronavirus from greater horseshoe 
+
+16. Drexler J.F., Gloza-Rausch F., Glende J., Corman V.M., Muth D., bats through recombination. J. Virol. 2015; 89(20): 10532-47. 
+Goettsche M., et al. Genomic characterization of severe acute re- DOI: http://doi.org/10.1128/jvi.01048-15
+spiratory syndrome-related coronavirus in European bats and clas- 34. Hu B., Zeng L.P., Yang X.L., Ge X.Y., Zhang W., Li B., et al. Dis-
+sification of coronaviruses based on partial RNA-dependent RNA covery of a rich gene pool of bat SARS-related coronaviruses pro-
+polymerase gene sequences. J. Virol. 2010; 84(21): 11336-49. vides new insights into the origin of SARS coronavirus. PLoS Pat-
+DOI: http://doi.org/10.1128/jvi.00650-10 hog. 2017; 13(11): e1006698. 
+
+17. Donaldson E.F., Haskew A.N., Gates J.E., Huynh J., Moore C.J., DOI: http://doi.org/10.1371/journal.ppat.1006698
+Frieman M.B. Metagenomic analysis of the viromes of three North 35. Ge X.Y., Wang N., Zhang W., Hu B., Li B., Zhang Y.Z., et al. Co-
+American bat species: viral diversity among different bat species existence of multiple coronaviruses in several bat colonies in an 
+that share a common habitat. J. Virol. 2010; 84(24): 13004-18. abandoned mineshaft. Virol. Sin. 2016; 31(1): 31-40. 
+DOI: http://doi.org/10.1128/JVI.01255-10 DOI: http://doi.org/10.1007/s12250-016-3713-9
+
+18. Wang L.F., Shi Z., Zhang S., Field H., Daszak P., Eaton B.T. Review 36. Wang N., Li S.Y., Yang X.L., Huang H.M., Zhang Y.J., Guo H., et 
+of bats and SARS. Emerg. Infect. Dis. 2006; 12(12): 1834-40. al. Serological evidence of bat SARS-related coronavirus infection 
+DOI: http://doi.org/10.3201/eid1212.060401 in humans, China. Virol. Sin. 2018; 33(1): 104-7. 
+
+19. Tong S., Conrardy C., Ruone S., Kuzmin I.V., Guo X., Tao Y., et al. DOI: http://doi.org/10.1007/s12250-018-0012-7
+Detection of novel SARS-like and other coronaviruses in bats from 37. Lam T.T., Shum M.H., Zhu H.C., Tong Y.G., Ni X.B., Liao Y.S., 
+Kenya. Emerg. Infect. Dis. 2009; 15(3): 482-5. et al. Identifying SARS-CoV-2 related coronaviruses in Malayan 
+DOI: http://doi.org/10.3201/eid1503.081013 pangolins. Nature. 2020.
+
+68
+
+
+
+PROBLEMS OF VIROLOGY (VOPROSY VIRUSOLOGII). 2020; 65(2)
+DOI: https://doi.org/10.36233/0507-4088-2020-65-2-62-70
+
+REVIEWS
+
+DOI: http://doi.org/10.1038/s41586-020-2169-0 acute respiratory syndrome. N. Engl. J. Med. 2003; 348(20): 1967-76. 
+38. Zhang T., Wu Q., Zhang Z. Probable pangolin origin of SARS- DOI: http://doi.org/10.1056/NEJMoa030747
+
+CoV-2 associated with the COVID-19 outbreak. Curr. Biol. 2020; 6. Zaki A.M., van Boheemen S., Bestebroer T.M., Osterhaus A.D., 
+30(7): 1346-51.e2. Fouchier R.A., et al. Isolation of a novel coronavirus from a man 
+DOI: http://doi.org/10.1016/j.cub.2020.03.022 with pneumonia in Saudi Arabia. N. Engl. J. Med. 2012; 367(19): 
+
+39. Coutard B., Valle C., de Lamballerie X., Canard B., Seidah 1814-20. DOI: http://doi.org/10.1056/NEJMoa1211721
+N.G., Decroly E. The spike glycoprotein of the new coronavirus 7. Zhu N., Zhang D., Wang W., Li X., Yang B., Song J., et al. A novel 
+2019-nCoV contains a furin-like cleavage site absent in CoV of the coronavirus from patients with pneumonia in China, 2019. N. Engl. 
+same clade. Antiviral Res. 2020; 176: 104742. J. Med. 2020; 382(8): 727-33. 
+DOI: http://doi.org/10.1016/j.antiviral.2020.104742 DOI: http://doi.org/10.1056/NEJMoa2001017
+
+40. Simmons G., Zmora P., Gierer S., Heurich A., Pöhlmann S. Proteo- 8. Zhou P., Yang X.L., Wang X.G., Hu B., Zhang L., Zhang W., et al. A 
+lytic activation of the SARS-coronavirus spike protein: Cutting en- pneumonia outbreak associated with a new coronavirus of probable 
+zymes at the cutting edge of antiviral research. Antiviral Res. 2013; bat origin. Nature. 2020; 579(7798): 270-3. 
+100(3): 605-14. DOI: http://doi.org/10.1038/s41586-020-2012-7
+DOI: http://doi.org/10.1016/j.antiviral.2013.09.028 9. Lu R., Zhao X., Li J., Niu P., Yang B., Wu H., et al. Genomic 
+
+41. Claas E.C.J., Osterhaus A.D., van Beek R., De Jong J.C., Rimmelz- characterisation and epidemiology of 2019 novel coronavirus: 
+waan G.F., Senne D.A., et al. Human influenza A H5N1 virus re- implications for virus origins and receptor binding. Lancet. 2020; 
+lated to a highly pathogenic avian influenza virus. Lancet. 1998; 395(10224): 565-74. 
+351(9101): 472-7. DOI: http://doi.org/10.1016/S0140-6736(20)30251-8
+DOI: http://doi.org/10.1016/S0140-6736(97)11212-0 10. Lau S.K., Woo P.C., Li K.S., Huang Y., Tsoi H.W., Wong B.H., 
+
+42. Corman V.M., Ithete N.L., Richards L.R., Schoeman M.C., Preiser W., et al. Severe acute respiratory syndrome coronavirus-like virus in 
+Drosten C., et al. Rooting the phylogenetic tree of Middle East re- Chinese horseshoe bats. Proc. Natl. Acad. Sci. USA. 2005; 102(39): 
+spiratory syndrome coronavirus by characterization of a conspecific 14040-5. DOI: http://doi.org/10.1073/pnas.0506735102
+virus from an African bat. J. Virol. 2014; 88(19): 11297-303. 11. Li W., Shi Z., Yu M., Ren W., Smith C., Epstein J.H., et al. Bats 
+DOI: http://doi.org/10.1128/jvi.01498-14 are natural reservoirs of SARS-like coronaviruses. Science. 2005; 
+
+43. Yang L., Wu Z., Ren X., Yang F., Zhang J., He G., et al. MERS-re- 310(5748): 676-9. 
+lated betacoronavirus in Vespertilio superans bats, China. Emerg. DOI: http://doi.org/10.1126/science.1118391
+Infect. Dis. 2014; 20(7): 1260-2. 12. Fan Y., Zhao K., Shi Z.L., Zhou P. Bat coronaviruses in China. 
+DOI: http://doi.org/10.3201/eid2007.140318 Viruses. 2019; 11(3): pii E210. 
+
+44. Raj V.S., Mou H., Smits S.L., Dekkers D.H., Müller M.A., Dijkman DOI: http://doi.org/10.3390/v11030210
+R., et al. Dipeptidyl peptidase 4 is a functional receptor for the emerg- 13. Rihtaric D., Hostnik P., Steyer A., Grom J., Toplak I. Identification 
+ing human coronavirus-EMC. Nature. 2003; 495(7440): 251-4. of SARS-like coronaviruses in horseshoe bats (Rhinolophus 
+DOI: http://doi.org/10.1038/nature12005 hipposideros) in Slovenia. Arch. Virol. 2010; 155(4): 507-14. 
+
+45. van Doremalen N., Miazgowicz K.L., Milne-Price S., Bushmaker DOI: http://doi.org/10.1007/s00705-010-0612-5
+T., Robertson S., Scott D., et al. Host species restriction of middle 14. Ar Gouilh M., Puechmaille S.J., Diancourt L., Vandenbogaert M., 
+East respiratory syndrome coronavirus through its receptor, dipepti- Serra-Cobo J., Lopez Roïg M., et al. SARS-CoV related Betacoro-
+dyl peptidase 4. J. Virol. 2014; 88(16): 9220-32. navirus and diverse Alphacoronavirus members found in western 
+DOI: http://doi.org/10.1128/JVI.00676-14 old-world. Virology. 2018; 517: 88-97. 
+
+46. Львов Д.К. Рождение и развитие вирусологии – история изуче- DOI: http://doi.org/10.1016/j.virol.2018.01.014
+ния новых и возвращающихся инфекций. Вопросы вирусологии. 15. Balboni A., Palladini A., Bogliani G., Battilani M. Detection of a 
+2012; (S1): 5-20. virus related to betacoronaviruses in Italian greater horseshoe bats. 
+
+47. Львов Д.К., ред. Методические рекомендации. Организация Epidemiol. Infect. 2011; 139(2): 216-9. 
+эколого-эпидемиологического мониторинга территорий Рос- DOI: http://doi.org/10.1017/S0950268810001147
+сийской Федерации с целью противоэпидемической защиты 16. Drexler J.F., Gloza-Rausch F., Glende J., Corman V.M., Muth 
+населения и войск. М.; 1993. D., Goettsche M., et al. Genomic characterization of severe 
+
+48. Львов Д.К., Борисевич С.В., Альховский С.В., Бурцева Е.И. acute respiratory syndrome-related coronavirus in Europe-
+Актуальные подходы к анализу вирусных геномов в интересах an bats and classification of coronaviruses based on partial 
+биобезопасности. Инфекционные болезни: новости, мнения, об- RNA-dependent RNA polymerase gene sequences. J. Virol. 
+учение. 2019; 8(2): 96-101. 2010; 84(21): 11336-49. 
+DOI: http://doi.org/10.24411/2305-3496-2019-12012 DOI: http://doi.org/10.1128/jvi.00650-10
+
+17. Donaldson E.F., Haskew A.N., Gates J.E., Huynh J., Moore C.J., 
+R E F E R E N C E S Frieman M.B. Metagenomic analysis of the viromes of three North 
+
+American bat species: viral diversity among different bat species 
+1. de Groot R.J., Baker S.C., Baric R., Enjuanes L., Gorbalenya that share a common habitat. J. Virol. 2010; 84(24): 13004-18. 
+
+A.E., Holmes K.V., et al. Family Coronaviridae. In: King A.M., DOI: http://doi.org/10.1128/JVI.01255-10
+Adams M.J., Carstens E.B., Lefkowitz E.J., eds. Virus Taxonomy: 18. Wang L.F., Shi Z., Zhang S., Field H., Daszak P., Eaton B.T. Review 
+Classification  and  Nomenclature  of  Viruses.  Ninth  Report  of  the  of bats and SARS. Emerg. Infect. Dis. 2006; 12(12): 1834-40. 
+International Committee on Taxonomy of Viruses. London: Elsevier; DOI: http://doi.org/10.3201/eid1212.060401
+2012: 806-28. 19. Tong S., Conrardy C., Ruone S., Kuzmin I.V., Guo X., Tao Y., et al. 
+
+2. L’vov D.K., Al’khovskiy S.V., Kolobukhina L.V., Burtseva Detection of novel SARS-like and other coronaviruses in bats from 
+E.I. Etiology of epidemic outbreaks covid-19 in Wuhan (Hubei Kenya. Emerg. Infect. Dis. 2009; 15(3): 482-5. 
+province, People’s Republic of China) associated with 2019-nCoV DOI: http://doi.org/10.3201/eid1503.081013
+(Nidovirales, Coronaviridae, Coronavirinae, Betacoronavirus, 20. Drexler J.F., Corman V.M., Drosten C. Ecology, evolution and 
+subgenus Sarbecovirus): lessons of SARS-CoV outbreak. Voprosy classification of bat coronaviruses in the aftermath of SARS. 
+virusologii. 2020; 65(1): 6-16. DOI: http://doi.org/10.36233/0507- Antiviral Res. 2014; 101: 45-56. 
+4088-2020-65-1-6-15 (in Russian) DOI: http://doi.org/10.1016/J.ANTIVIRAL.2013.10.013
+
+3. Hamre D., Procknow J.J. A new virus isolated from the human 21. Haagmans B.L., Al Dhahiry S.H.S., Reusken C.B.E.M., Raj V.S., 
+respiratory tract. Proc. Soc. Exp. Biol. Med. 1966; 121(1): 190-3. Galiano M., Myers R., et al. Middle East respiratory syndrome 
+DOI: http://doi.org/10.3181/00379727-121-30734 coronavirus in dromedary camels: An outbreak investigation. 
+
+4. McIntosh K., Dees J.H., Becker W.B., Kapikian A.Z., Chanock Lancet Infect. Dis. 2014; 14(2): 140-5. 
+R.M. Recovery in tracheal organ cultures of novel viruses from DOI: http://doi.org/10.1016/S1473-3099(13)70690-X
+patients with respiratory disease. Proc. Natl. Acad. Sci. USA. 1967; 22. Sabir J.S., Lam T.T., Ahmed M.M., Li L., Shen Y., Abo-Aba S.E., et al. 
+57(4): 933-40. DOI: http://doi.org/10.1073/pnas.57.4.933 Co-circulation of three camel coronavirus species and recombination 
+
+5. Drosten C., Gunther S., Preiser W., van der Werf S., Brodt H.R., Becker of MERS-CoVs in Saudi Arabia. Science. 2016; 351(6268): 81-4. 
+S., et al. Identification of a novel coronavirus in patients with severe DOI: http://doi.org/10.1126/science.aac8608
+
+69
+
+
+
+ВОПРОСЫ ВИРУСОЛОГИИ. 2020; 65(2)
+DOI: https://doi.org/10.36233/0507-4088-2020-65-2-62-70
+ОБЗОРЫ
+
+23. Raj V.S., Farag E.A., Reusken C.B., Lamers M.M., Pas S.D., 36. Wang N., Li S.Y., Yang X.L., Huang H.M., Zhang Y.J., Guo H., et 
+Voermans J., et al. Isolation of MERS coronavirus from al. Serological evidence of bat SARS-related coronavirus infection 
+dromedary camel, Qatar, 2014. Emerg. Infect. Dis. 2014; 20(8): in humans, China. Virol. Sin. 2018; 33(1): 104-7. 
+1339-42. DOI: http://doi.org/10.1007/s12250-018-0012-7
+DOI: http://doi.org/10.3201/eid2008.140663 37. Lam T.T., Shum M.H., Zhu H.C., Tong Y.G., Ni X.B., Liao Y.S., 
+
+24. Paden C.R., Yusof M.F.B.M., Al Hammadi Z.M., Queen K., Tao Y., et al. Identifying SARS-CoV-2 related coronaviruses in Malayan 
+Eltahir Y.M., et al. Zoonotic origin and transmission of Middle East pangolins. Nature. 2020.
+respiratory syndrome coronavirus in the UAE. Zoonoses Public DOI: http://doi.org/10.1038/s41586-020-2169-0
+Health. 2018; 65(3): 322-33. 38. Zhang T., Wu Q., Zhang Z. Probable pangolin origin of SARS-
+DOI: http://doi.org/10.1111/zph.12435 CoV-2 associated with the COVID-19 outbreak. Curr. Biol. 2020; 
+
+25. Müller M.A., Corman V.M., Jores J., Meyer B., Younan M., Liljander A., 30(7): 1346-51.e2.
+et al. MERS coronavirus neutralizing antibodies in camels, eastern DOI: http://doi.org/10.1016/j.cub.2020.03.022
+Africa, 1983-1997. Emerg. Infect. Dis. 2014; 20(12): 2093-5. 39. Coutard B., Valle C., de Lamballerie X., Canard B., Seidah 
+DOI: http://doi.org/10.3201/eid2012.141026 N.G., Decroly E. The spike glycoprotein of the new coronavirus 
+
+26. Calisher C.H., Childs J.E., Field H.E., Holmes K.V., Schountz T. 2019-nCoV contains a furin-like cleavage site absent in CoV of the 
+Bats: important reservoir hosts of emerging viruses. Clin. Microbiol. same clade. Antiviral Res. 2020; 176: 104742. 
+Rev. 2006; 19(3): 531-45. DOI: http://doi.org/10.1016/j.antiviral.2020.104742
+DOI: http://doi.org/10.1128/CMR.00017-06 40. Simmons G., Zmora P., Gierer S., Heurich A., Pöhlmann S. Proteo-
+
+27. Lvov D.K., Shchelkanov M.Y., Alkhovsky S.V., Deryabin P.G. lytic activation of the SARS-coronavirus spike protein: Cutting en-
+Zoonotic Viruses of Northern Eurasia. Taxonomy and Ecology. zymes at the cutting edge of antiviral research. Antiviral Res. 2013; 
+London: Academic Press, Elsevier; 2015. 100(3): 605-14. 
+
+28. L’vov D.K. Ecology of viruses. In: L’vov D.K., ed. Virology Guide. DOI: http://doi.org/10.1016/j.antiviral.2013.09.028
+Viruses and Viral Infections of Humans and Animals [Rukovodstvo 41. Claas E.C.J., Osterhaus A.D., van Beek R., De Jong J.C., Rimmelz-
+po virusologii. Virusy i virusnye infektsii cheloveka i zhivotnykh]. waan G.F., Senne D.A., et al. Human influenza A H5N1 virus re-
+Moscow: MIA; 2013: 66-86. (in Russian) lated to a highly pathogenic avian influenza virus. Lancet. 1998; 
+
+29. Li W., Moore M.J., Vasllieva N., Sui J., Wong S.K., Berne M.A., et 351(9101): 472-7. 
+al. Angiotensin-converting enzyme 2 is a functional receptor for the DOI: http://doi.org/10.1016/S0140-6736(97)11212-0
+SARS coronavirus. Nature. 2003; 426(6965): 450-4. 42. Corman V.M., Ithete N.L., Richards L.R., Schoeman M.C., Preiser W., 
+DOI: http://doi.org/10.1038/nature02145 Drosten C., et al. Rooting the phylogenetic tree of Middle East respi-
+
+30. Ren W., Qu X., Li W., Han Z., Yu M., Zhou P., et al. Difference in ratory syndrome coronavirus by characterization of a conspecific virus 
+receptor usage between severe acute respiratory syndrome (SARS) from an African bat. J. Virol. 2014; 88(19): 11297-303. 
+coronavirus and SARS-like coronavirus of bat origin. J. Virol. 2008; DOI: http://doi.org/10.1128/jvi.01498-14
+82(4): 1899-907. 43. Yang L., Wu Z., Ren X., Yang F., Zhang J., He G., et al. MERS-re-
+DOI: http://doi.org/10.1128/jvi.01085-07 lated betacoronavirus in Vespertilio superans bats, China. Emerg. 
+
+31. Wan Y., Shang J., Graham R., Baric R.S., Li F. Receptor recognition by 
+the novel coronavirus from Wuhan: an analysis based on decade-long Infect. Dis. 2014; 20(7): 1260-2. 
+structural studies of SARS coronavirus. J. Virol. 2020; 94(7): pii DOI: http://doi.org/10.3201/eid2007.140318
+e00127-20. 44. Raj V.S., Mou H., Smits S.L., Dekkers D.H., Müller M.A., Dijkman 
+DOI: http://doi.org/10.1128/jvi.00127-20 R., et al. Dipeptidyl peptidase 4 is a functional receptor for the emerg-
+
+32. Ge X.Y., Li J.L., Yang X.L., Chmura A.A., Zhu G., Epstein J.H., et ing human coronavirus-EMC. Nature. 2003; 495(7440): 251-4. 
+al. Isolation and characterization of a bat SARS-like coronavirus DOI: http://doi.org/10.1038/nature12005
+that uses the ACE2 receptor. Nature. 2013; 503(7477): 535-8. 45. van Doremalen N., Miazgowicz K.L., Milne-Price S., Bushmaker 
+DOI: http://doi.org/10.1038/nature12711 T., Robertson S., Scott D., et al. Host species restriction of middle 
+
+33. Lau S.K., Feng Y., Chen H., Luk H.K., Yang W.H., Li K.S., et al. East respiratory syndrome coronavirus through its receptor, dipepti-
+Severe acute respiratory syndrome (SARS) coronavirus ORF8 dyl peptidase 4. J. Virol. 2014; 88(16): 9220-32. 
+protein is acquired from SARS-related coronavirus from greater DOI: http://doi.org/10.1128/JVI.00676-14
+horseshoe bats through recombination. J. Virol. 2015; 89(20): 46. L’vov D.K. Birth and development of Virology – the history of 
+10532-47. emerging-reemerging viral infection investigation. Voprosy viruso-
+DOI: http://doi.org/10.1128/jvi.01048-15 logii. 2012; (S1): 5-20. (in Russian)
+
+34. Hu B., Zeng L.P., Yang X.L., Ge X.Y., Zhang W., Li B., et al. 47. L’vov D.K., ed. Guidelines. Organization of environmental and ep-
+Discovery of a rich gene pool of bat SARS-related coronaviruses idemiological monitoring of the territories of the Russian Federa-
+provides new insights into the origin of SARS coronavirus. PLoS tion with the aim of anti-epidemic protection of the population and 
+Pathog. 2017; 13(11): e1006698. troops. Moscow; 1993. (in Russian)
+DOI: http://doi.org/10.1371/journal.ppat.1006698
+
+35. Ge X.Y., Wang N., Zhang W., Hu B., Li B., Zhang Y.Z., et al. Co- 48. L’vov D.K., Borisevich S.V., Al’khovskiy S.V., Burtseva E.I. Rel-
+existence of multiple coronaviruses in several bat colonies in an evant approaches to analysis of viral genomes for biosafety. Infekt-
+abandoned mineshaft. Virol. Sin. 2016; 31(1): 31-40. sionnye bolezni: novosti, mneniya, obuchenie. 2019; 8(2): 96-101. 
+DOI: http://doi.org/10.1007/s12250-016-3713-9 DOI: http://doi.org/10.24411/2305-3496-2019-12012 (in Russian)
+
+70

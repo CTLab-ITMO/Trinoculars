@@ -1,0 +1,1283 @@
+﻿18
+УДК 656 .073: 658 .8 ВОПРОСЫ ТЕОРИИ
+
+Методика построения 
+сетевого графа структуры 
+
+логистического объекта 
+
+Оксана ПОКРОВСКАЯ
+Oksana D. POKROVSKAYA
+
+Маликов Олег Борисович –  доктор технических 
+наук, профессор кафедры «Логистика 
+и коммерческая работа» Петербургского 
+государственного университета путей сообщения, 
+Санкт-Петербург, Россия.
+Покровская Оксана Дмитриевна –  кандидат 
+технических наук, доцент кафедры «Логистика, 
+коммерческая работа и подвижной состав» 
+Сибирского государственного университета путей 
+сообщения, Новосибирск, Россия.
+
+Олег МАЛИКОВ
+Oleg B. MALIKOV Дальнейшее развитие терминаль-
+
+но-складской инфраструктуры 
+железнодорожного транспорта 
+
+Method of Constructing a Network Graph of the 
+Logistic Object Structure страны предусматривает формирование 
+(текст статьи на англ. яз. – логистических объектов (ЛО), которые 
+
+English text of the article –  p. 24) обеспечат эффективную реализацию 
+От качества решений при проектировании транспортно-логистического сервиса 
+
+и эксплуатации отдельных логистических объектов и инфраструктурную основу транспорт-
+зависит эффективность всей терминально- ных систем доставки грузов потребите-
+
+складской инфраструктуры железных дорог 
+страны. В предлагаемом методе исследования лям .
+
+структуры логистического объекта в виде графа Очевидно, что от качества проектиро-
+его структуры синтезированы положения общей вания и эксплуатации ЛО на региональ-
+
+теории систем, теории графов, динамического 
+программирования и поиска кратчайшего ном уровне зависят результаты работы 
+
+расстояния. Отличительной чертой является всей терминально-складской инфра-
+универсальность метода при использовании структуры железных дорог . Об актуаль-
+
+показателей различного измерения (стоимостного, 
+временного, относительного выражения). ности темы также свидетельствует следу-
+
+Теоретическая основа методики –  совокупность ющее: 1) отсутствие общепринятого, 
+экономико-математических методов единого иерархического подхода к клас-
+
+и концептуальных положений, позволяющих 
+из множества допустимых решений находить сификации логистических объектов, что 
+
+оптимальное. Проведено категорирование усложняет понимание всеми участниками 
+и классификация логистических объектов, дано процесса перевозок роли ЛО; 2) необхо-
+
+параметрическое описание и формализованное 
+моделирование их структуры. димость комплексного планирования 
+
+развития ЛО по целому ряду параметров 
+Ключевые слова: общая теория систем, теория 
+
+графов, логистический объект, логистический район, с различной размерностью в условиях 
+логистическая область, математическая модель, недостаточной проработки вопроса об 
+
+сетевой граф структуры, параметры логистических универсальной методике многокритери-
+объектов, классификация, железная дорога, транспорт, 
+
+терминально-складская инфраструктура. ального проектирования оптимальной 
+структуры логистического объекта [2] .
+
+•  МИР ТРАНСПОРТА, том 15, № 1, С. 18–27 (2017)
+
+THEORY
+
+
+
+К ЛА ССИФИК А ЦИЯ  ЛОГ ИСТ ИЧЕ СК ИХ  ОБЪЕ К Т ОВ  И ИХ  ИЕ РА РХ ИЯ
+
+ЛОГИСТИЧЕСКИЕ ОБЛАСТИ – это территориальные логистические ЛОГИСТИЧЕСКИЕ РАЙОНЫ  – это совокупность логистических ЛОГИСТИЧЕСКИЕ ОБЪЕКТЫ – это объекты 
+образования мега- и глобального масштаба, занимающие значительную объектов определенной степени экономического и инфраструктуры, физически обеспечивающие 
+часть транспортно-логистической инфраструктуры страны (ее региона, технологического взаимодействия, расположенных в реализацию транспортно-складского обслуживания 
+территории) и интегрированные в национальные и международные географической близости для комплексного логистического различных клиентов, сосредоточенные по совокупности 
+
+процессы грузодвижения обеспечения грузодвижения признаков в  пространственно определенном районе  
+
+МТЛЦ
+Уровень Страна Терминальная сеть Грузовая деревня / Логистический 
+
+город / Гейтвей-порт
+Уровень  ТРАНСПОРТНО-ЛОГИСТИЧЕСКИЙ УЗЕЛ
+
+Агломерация
+
+Уровень Логистический парк / Логопарк / 
+Локальная
+
+Уровень Регион Логистическая платформа Дистрибуционный парк
+Инфраструктура ЛОГИСТИЧЕСКИЙ ЦЕНТР
+
+Сухой порт ТРАНСПОРТНЫЙ ТЕРМИНАЛ
+
+Транспортно-логистическая система 
+
+Уровень РАСПРЕДЕЛИТЕЛЬНЫЙ ЦЕНТР
+Уровень Территория Грузовой / логистический хаб Предприятие
+
+Транспортно-логистический кластер СКЛАД, ТСК
+
+ГРУЗОВЫЕ РАЙОНЫ И 
+СПЕЦИАЛИЗИРОВАННЫЕ ПЛОЩАДКИ
+
+НАПРАВЛЕНИЕ ТРАНСПОРТНОГО КОРИДОРА
+
+Рис. 1. Предлагаемая система иерархии и классификации ЛО.
+
+Целью нашего исследования является Логистическая область –  территориаль-
+разработка методики формирования гра- ные логистические образования глобального 
+фа ЛО для формирования его структуры масштаба, занимающие значительную часть 
+с наилучшими параметрами . При этом транспортно-логистической инфраструкту-
+решаются следующие задачи: 1) катего- ры страны и интегрированные в националь-
+рирование и классификация ЛО; 2) пара- ные и международные процессы перевозок 
+метрическое описание и формализован- [3] .
+ное моделирование структуры логисти- В соответствии с этими определениями 
+ческого объекта; 3) разработка сетевого авторы разработали классификацию ЛО, 
+графа структуры ЛО для выбора наилуч- изображенную на рис . 1 .
+ших параметров . Так, согласно классификации, к логи-
+
+стическим относятся (в порядке увеличе-
+1. КАТЕГОРИРОВАНИЕ ния иерархического значения с учетом 
+И КЛАССИФИКАЦИЯ количественных показателей и комплекс-
+
+Под логистическим объектом будем ности логистического сервиса, см . стрелку 
+понимать любой объект, включенный слева) объекты, находящиеся на уровне 
+в транспортно-складскую инфраструкту- отдельных предприятий (грузовые районы 
+ру локального масштаба, физически и специализированные площадки, склады, 
+обеспечивающий реализацию транспорт- терминально-складские комплексы 
+но-складского обслуживания различных и транспортные терминалы) и на уровне 
+клиентов и сосредоточенный по совокуп- городской/узловой агломерации (логисти-
+ности признаков в пространственно ческий центр, транспортно-логистический 
+определенном районе . узел, мультимодальный транспортно-ло-
+
+С учетом иерархии его положения гистический центр) . Затемненные блоки, 
+в транспортно-логистической системе соединенные стрелкой, представляют со-
+объект трансформируется в более слож- бой последовательность трансформации 
+ные образования –  район и область (см . (эволюции) логистического объекта до 
+рис . 1) . логистической области и выхода на гло-
+
+Логистический район – с овокупность бальный уровень по схеме «Логистический 
+ЛО определенной степени экономиче- Объект (МТЛЦ)» → «Логистический Район 
+ского и технологического взаимодейст- (Гейтвей)» → «Логистическая Область 19
+вия, расположенных в географической (Терминальная Сеть)» . Этому соответствует 
+близости для комплексного логистиче- н4 аправление развития транспортного ко-
+ск ого обеспечения процессов перевозок . ридора (см . стрелка внизу) .
+
+•  МИР ТРАНСПОРТА, том 15, № 1, С. 18–27 (2017)
+
+Маликов О. Б., Покровская О. Д. Методика построения сетевого графа структуры логистического 
+объекта
+
+КОМПЛЕКСНОСТЬ ЛОГИСТИЧЕСКОГО СЕРВИСА И ОБЪЕМ ЛОГИСТИКИ ДОБАВЛЕННОЙ СТОИМОСТИ
+
+
+
+К логистическим районам предлага- где S –  модульная структура i-го логи-
+ЛО 
+
+20 ется относить объекты уровня локальной стического объекта, состоящая из n ти-
+инфраструктуры: грузовой/логистиче- повых элементов; S  – г руппа параме-
+
+простр
+ский хаб, «сухой порт», логистический/ тров пространственного модуль-блока; 
+дистрибуционный парк и гейтвей . S  –  общая площадь территории, зани-
+
+тер
+К логистическим областям –  объекты маемой i-ым логистическим объектом, га;
+
+ 
+уровня территории (транспортно-логи- S  –  общая площадь хранения i-го логи-
+
+хр
+стический кластер, транспортно-логи- стического объекта, кв . м; S  –  группа 
+
+ тран
+стическая система), региона (логистиче- параметров транспортного модуль-блока; 
+ская платформа) и страны (терминальная Q  –  общая перерабатывающая способ-
+
+гр
+сеть) . ность всех специализированных склад-
+
+Эта классификация может использо- ских площадок и помещений для хране-
+ваться для: 1) идентификации ЛО с уче- ния груза в составе i-го логистического 
+том конструкции, вида складирования, объекта, тонн/год; N  –  количество ви-
+
+ тр
+размеров, технической оснащенности дов транспорта, обслуживаемых i-ым 
+и др .; 2) выбора ЛО с учетом его функци- логистическим объектом, ед .; S  – г руп-
+
+серв
+ональных возможностей, дислокации па параметров сервисного модуль-блока; 
+и др .; 3) определения роли и места ЛО N  –  ассортимент логистических услуг, 
+
+усл
+в процессах перевозок; 4) систематизации предоставляемых i-тым логистическим 
+и удобства интегрированного представ- объектом, ед .; Q  –  объем добавленной 
+
+VAL
+ления сущности и видового многообразия стоимости оказываемых ЛО транспортно-
+ЛО; 5) унификации, простоты и удобства логистических и складских услуг, Value 
+идентификации типа ЛО [4] . added logistics –  «логистика добавленной 
+
+стоимости», %; S  – г руппа параметров 
+экон
+
+2. ПАРАМЕТРИЧЕСКОЕ ОПИСАНИЕ организационно-экономического мо-
+И ФОРМАЛИЗОВАННАЯ МОДЕЛЬ дуль-блока; Т  –  стоимость аренды 
+
+хр
+СТРУКТУРЫ 1 кв . м складского хранения, руб .; Т  – 
+
+гр
+Параметрическую структуру ЛО лю- стоимость переработки 1 тонны груза на 
+
+бого формата можно описать математи- складе, руб .; Т  –  тарифы стыкуемых 
+тр
+
+ческим выражением ряда значимых ха- в ЛО видов транспорта (включая услугу 
+рактеристик . «последняя миля») и сопутствующих пе-
+
+Формализованная модель структуры ревозке транспортных услуг (пользование 
+ЛО в общем модульно-блочном виде вы- вагонами, инфраструктурой, локомоти-
+глядит следующим образом: вами), руб .; S  –  группа параметров 
+
+тех
+n
+
+∑S конструкционно-технического модуль-
+ЛО öi = Sпростр;Sтран;Sсерв;Sэкон;Sтех ,   (1)
+
+i=1 блока; N  –  количество специализиро-
+скл
+
+ванных складских площадок и помеще-
+где SЛО − модульная структура i-го логи-
+
+ний для хранения груза в составе i-го 
+стического объекта, состоящая из n ти- логистического объекта, ед .; Q  –  обес-
+
+прм
+повых элементов; S  – п ространствен-
+
+простр печенность ЛО погрузочно-разгрузочны-
+ный модуль-блок; S  –  транспортный 
+
+тран ми механизмами ПРМ соответствующей 
+модуль-блок; S  –  сервисный модуль-
+
+серв производительности, % .
+блок; S  –  организационно-экономи-
+
+экон В развернутом виде:
+ческий модуль-блок; S  –  конструкци-
+
+тех
+онно-технический модуль-блок . n N
+
+∑ скл;Sхр;Sтер;Qгр;Nтр; 
+В поблочном виде: SЛО öi =   ,   (3)
+
+n i =1 N усл;QVAL;Tхр;Tгр;Tтр;Qпрм 
+∑SЛО öi = [Sпростр ö(öSтер;Sхр );ö где S –  модульная структура i-го логи-
+i =1 ЛО 
+
+стического объекта, состоящая из n ти-
+Sтран (Qгр; Nтр ); 
+  повых элементов; N  –  количество 
+
+скл
+
+Sсерв (N усл; QVAL );  специализированных складских площа-
+ док и помещений для хранения груза 
+Sэкон (Tхр; Tгр; T 
+
+тр );  в составе i-го логистического объекта, ед .; 
+Sтех (Nскл;ö Qпрм )  , (2) S  – о бщая площадь объёма хранения i-го 
+
+хр
+
+•  МИР ТРАНСПОРТА, том 15, № 1, С. 18–27 (2017)
+
+Маликов О. Б., Покровская О. Д. Методика построения сетевого графа структуры логистического 
+объекта
+
+
+
+Названное позволяет сформировать многофакторную модель эволюции 
+ЛО, состоящую из значащих признаков Xj  и влияющих на них факторов Zi . 
+
+F =Х1Z1 +Х2Z2 +…+ХnZn                                  (8)  
+
+Оптимизация параметров ЛО проходит поэтапно в соответствии с 
+пирамидой оптимизации (рис . 2).  Так, на  низшем уровне принимаются 
+локальные решения, направленные на оптимизацию внутренних параметров. На 
+высшем уровне осуществляется глобальное позиционирование ЛО в составе 
+терминальной сети .
+
+ Оптимизация 
+внешних С Е Т Ь
+
+параметров К онфигурирование 
+морфологии Т С и построение 
+эффективных логистических 1
+схем с использованием ЛО
+
+Оптимизация
+П РОС Т РА Н С Т В О   Т С
+
+1. В ыбор количества, мощности и дислокации ЛО 2
+2. Совершенствование работы элементов и участков цепи поставок Оптимизация 
+
+ Оптимизация отдельны х 
+внутренних  Т Е Х Н ОЛ ОГ И Я  И  С Е РВ И С 3 Л О
+параметров 1. В ыбор рационального технологического зонирования площади и территории ЛО
+
+2. Формирование ассортимента транспортно-логистического и дополнительного сервиса
+3. В ыбор технологии складирования
+
+Т Е Х Н И К А
+1. В ыбор технического оснащения, ПРМ и оборудования
+
+2. В ыбор складского здания 4
+3. Расчёт мощностей грузопереработки
+
+П ирамида оптимизации 
+Рис. 2. ПРииср. а2.м Пиирдаам иодпат оиптмимииззааццииии Л ЛО.О. 
+
+логистического объекта, т или м3
+Далее рассмотрим методик;уS  – (выдачи) груза; W  –  модуль сортиров-
+
+ терпостроения сетевогсор т графа ЛО для 
+общая площадь территории, занимаемой ки груза; W  –  модуль хранения груза; 
+
+хран
+
+оптиi-мтаылмь лноггиос тпичаерсакмиемт робиъчеексткоомг,о г фа;оQ  – W  –  модуль дополнительного сервиса, 
+ ргмр ировадонпия его структуры. В кач стве 
+
+общий грузооборот всех специализиро- реализуемого ЛО для отдельного груза; 
+примваенрнаы вхз сяктл надисзкшиих йп луорщоавдеонкь  ио пптоиммещизеа-циWи пара–м е мтордоуовлб ьъ теекхтна и–ч теесхкноигчое бслкоокеа ; 
+
+технич 
+ний для хранения груза в составе i-го W тран
+
+решение (выбор наилучшего типа ПРМ – погрвунезшо ч–н  мо-ордаузлгьр вунзеошчннеыгох  ммаегхиаснтиразлмьонво -
+логистического объекта, тонн/год; N  – 
+
+ тр го транспорта приема и отправления 
+для квонлуитчреисстквлоа вдисдкоовй т орабнрсапбоортткаи,  огбрсулзуа)ж.  и-
+
+ваемых i-ым логистическим объектом, груза; Wкомпл  – модуль комплектации 
+
+3. Меедт .;о Nди  –  ассортимент логистических 
+услка исследования структуры  с пргирмузеан; еWниПеРМм  с–е тмеовдоуглоь  гПраРфМа  приемки-
+
+услуг, предоставляемых i-ым логистиче-
+выдачи, размещения и внутрискладской 
+
+ским объектом, ед .; Q  –  объем добав-
+VAL переработки груза .
+
+леВн нпорйе дслтаогиамеомсотми  моектаоздыев аиесмсылехд ЛоОва ния структуры ЛО в виде графа его 
+Состояние ЛО –  это совокупность 
+
+струткртаунрсыпо рстиннот-елзоигриоствиачнеыск ипхо ил оскжлеандискяи хо бщпеойк атзеатоерлиеий , сиидсетнетми, фтиецоирриуию щгриахф еогво, 
+услуг, Value added logistics – «логистика 
+
+в общей иерархической системе (опреде-
+сетедвообгаов лгернанфойи ксато, идмионсатми»и,ч %ес; кТо  –  стои-
+
+хрго програлмямюищриохв еагнои тяи пи)  ип хоаирсаккате ркирзаутючщайишх ееггоо  
+мость аренды 1 квв . ымр сакжлеандисяк)о, го тхероарнеет-ическую значимость – совокупность экономико-
+
+расс работу в целом .
+нтиояя,н риуяб  .; [Т5,  –6 с ]е.б емУсатнтоеимвмаеотрситсчьае лпсьекринехор сатбмьое тт-омдеотво даи  хакроанкцтеепртиуазлуьенты хи сппооллоьжзоенвиайн,и  е
+
+гр Состояние любого ЛО выражаетсяп озволяющих 
+покакзиа 1т етолнейны р гарзулзиач ннаэо
+
+ с
+фг
+
+к
+фо
+л
+е 
+аид
+кзетим
+
+, 
+ве
+ру
+нр
+
+б
+ое .
+
+ нн
+; Т
+аихя – т а-
+
+тор д(исттьо иизм мсоонсвотонжкоеусгпотнв, аов сдртоеьпмюуес птноингкмоаы,з хоа тренелошесйеин (тирейелсурсов):
+рифы стыкуемых в ЛО видов транспорта  оьпнтоигмоа льное .
+
+8 Х = (Х , Х , Х , Х , Х ).   (6)
+(включая услугу «последняя миля») ЛО i 1 2 3 4 5
+
+ Диаграмма выделенияО пярдердае лряеюшщеинеи сйо сдтлояя нпиоес ЛтрОо пенариаям ес-етевого графа 
+и сопутствующих перевозке транспорт-
+
+тры (факторы его эволюции):
+ных услуг (пользоваснтиреу квтаугроын амЛиО,  иднафнраа -на рис. 3, где: Lgen – множество вариантов решений 
+структурой, локомотивами), руб .; Q  – X эвол
+
+ЛО = (Z1,Z 2,öZ3,Z 4 ) .öööööööö   (7)
+структуры ЛО; L прм– предметная область поиска решнеий при построении 
+
+обеспеченность ЛО ПРМ соответствую- Названное позволяет сформировать 
+щей производительснтроускттиу,р %ы .; L1 – множемстнвоог овфааркитаонртноувю д мляо дпеларь аэмвеотлрюац 1и ;иL 2Л О–,  множество 
+
+Структура ЛО кавка рслиоажнтноовй д млояд пуалрьанмоейт ра 2 ;L3 – искомая область принимаемого решения .
+системы в общем виде:
+WЛО = {Wтехнич |Wтехнолог }  .   (4) L g en
+
+В развернутом виде: L   
+W ;W ; 
+ пог/прием разгр/выд
+  L1 
+
+=  Рис. 3. 
+WЛО W  L3 
+
+сорт;Wхран; ,   (5) Диаграмма ядра 
+
+   решений для 
+
+Wдоп;Wтран;Wкомпл;WПРМ    сетевого графа 
+
+L структуры ЛО.
+2 21
+
+где W  –  модуль технологического 
+технолог
+
+блока; W  –  модуль погрузки (при-
+пог/прием  
+
+ёмки) груза; W  –  модуль разгрузки 
+разгр/выд
+
+Рис. 3. Диаграмма ядра решений для сетевого графа структуры ЛО. 
+•  МИР ТРАНСПОРТА, том 15, № 1, С. 18–27 (2017)
+
+Сетевые графы структуры при выборе оптимального решения по 
+Маликов О. Б., Покровская О. Д. Методика построения сетевого графа структуры логистического 
+объекта техническому оснащению объекта (с учетом стоимостных показателей) задают 
+
+допустимое множество параметров и позволяют проектировать ЛО с 
+оптимальными параметрами структуры (рис. 4). 
+
+Множеством вершин Х такого графа является отображение допустимых 
+генеральных вариантов структурных элементов от 1 доm , х – допустимых 
+альтернативных  генеральных вариантов от 1 доn , а множеством дуг Z – 
+логических связей возможности последовательного объединения этих 
+элементов в оптимизируемую внутреннюю структуру ЛО. Каждой дуге 
+(стрелке) Z соответствует определенное значение (например, это может быть 
+стоимость, время, грузоподъемность, производительность или другой 
+измеритель, в зависимости от специфики решаемой задач иоптимизации) Y  
+
+9 
+ 
+
+
+
+(Y (Х m-хn),  Y (Х m-Xm),  Y (хn-хn).  Локальное решение  М на i-ом участке графа INT  
+принимается в соответствии со следующим условием :
+
+INT  (Mi )=min∑ [ Yi ].                                                                                   (9)  
+При этом дуги низшего порядка (идущие от ключевого параметра Х, не 
+
+направленные стрелкой) не имеют стоимости, поскольку указывают на D – 
+направление оптимизации (в примере это грузоподъемность ПРМ) , а дуги 
+высшего порядка (результирующие сумму стоимости по каждому 
+альтернативному варианту прохождения сетевого графа) имеют итоговые 
+стоимости, равные сумме минимальных значений маршрут.а 
+
+Сетевой граф проектирования внутренней структуры логистического объекта 
+22 D = грузоподъемность Y Z
+
+11-1  i
+
+ Х Y 1-11
+11 х1 х11
+
+D1
+I NT  (M i) 
+
+Y 11-2 
+Y 1-12
+
+Х 1 D  I NT  (M i) 
+ 2 Y 12-1 х12  Х 2
+
+Х 12 Y 2-12
+I NT  (M i) 
+
+X = 1...m D 3 Y 13-1 
+
+Y Y
+13-2 2-21
+
+х2 х21
+
+Х 13 Y = 1...n 
+
+ 
+Рис. 4. ОбщийР иссл.у 4ч.а Ойб щсеитйе свлоучгаой  гсреатефвао гпоо грсатфроа епонситяро сетнриуяк сттуррукыту ЛрыО Л . О.
+
+состоящуюБо лиезе з нсалчоажщнаиях  пстрриузкнтуаркао вт Xак огои скгра акфраа тчмаойжшеетг об рыатсьс топяонлуичяе [н5а,  6]п .р Уин и-
+j
+
+и влияющих на них факторов Z  . версальность метода характеризует ис-
+i
+
+F = ХодZн о+вХреZме +нн…о+мХ Zра. ссмотрении  (8н) ескоплоьлкьизхо вапнаиреам пеотркоавз атестлреуйк труарзыл ичЛнОо. го 
+1 1 2 2 n n
+
+ОУпптриомщиезанцниыяй  прариаммеерт –р овб щЛиОй  впирдо хгро-афаи нзам реирсе. н4и (яр а(зсртыовиоммо сптонкоазгаон,  пвреремехеондн ко го, 
+дит поэтапно в соответствии с пирамидой относительного выражения), теоретиче-
+
+рассмотрению нового параметра) ич астн
+оптимизации (рис . 2) . Так, на низшем сыкуйю с лзунчаачйи пмооссттрьо –ен  сиояв соектуепвонгоос тгьр аэфкао но-
+уровднлея п прииниятмиаяю тетхсняи лчоекскаолгьон рыееш рееншияе (-см. мриикс.о 5-)м.  атематических методов и концеп-
+ния, направленные на оптимизацию туальных положений, позволяющих эф-
+
+Аналогичным способом можно 
+внутренних параметров . На высшем фстеркотиитвьн ог рнаафхо ддилтяь  ирзе шменноижяе слтюваб одгооп у-
+уровнвое порсоусщае сктавслаяюещтсеяго гсляо бЛаОль, нноаеч пионзаия- отс тиемгоы хт ерхеншиечнеискйо ойп тоисмналщьеннонео .сти и 
+ционирование ЛО в составе терминаль- Диаграмма выделения ядра решений 
+
+заканчивая внутренним технологическим
+ной сети . д злоян пиорсотвраонеинеимя,  пслетаенвиоргоов гкроайф иа  .тс дт.р уктуры 
+
+Да лее рассмотрим методику построе- ЛО дана на рис . 3, где: L  –  множество 
+gen
+
+ния сетевого графа ЛО для оптимального вариантов решений структуры ЛО; L – 
+параметрического формирования его предметная область поиска решений при 
+структуры . В качестве примера взят низ- построении структуры; L  –  множество 
+
+1
+
+ший уровень оптимизации параметров вариантов для параметра 1; L  –  множе-
+2
+
+объекта –  техническое решение (выбор ство вариантов для параметра 2; L  – 
+3
+
+наилучшего типа ПРМ –  погрузочно- искомая область принимаемого решения .
+разгрузочных механизмов для внутри- 10 Сетевые графы структуры при выборе 
+склад ской обработки груза) . оптимального решения по техническому 
+
+оснащению объекта (с учетом стоимост-
+3. МЕТОДИКА ИССЛЕДОВАНИЯ ных показателей) задают допустимое 
+СТРУКТУРЫ С ПРИМЕНЕНИЕМ множество параметров и позволяют про-
+СЕТЕВОГО ГРАФА ектировать ЛО с оптимальными параме-
+
+В предлагаемом методе исследования трами структуры (рис . 4) .
+структуры ЛО в виде графа его структуры Множеством вершин Х такого графа 
+синтезированы положения общей теории является отображение допустимых гене-
+систем, теории графов, сетевого графика, ральных вариантов структурных элемен-
+динамического программирования и по- тов от 1 до m, х –  допустимых альтерна-
+
+Сетевой граф выбора типа и количества ПРМ для логистического объекта 
+Одного 2 
+
+2 т 5 ед. 100 у.е. типа и 50 у.е. грузовых INT (M1) 
+производст фронта
+
+100 у.е. ва
+75 у.е.
+
+ПРМ 
+J-того 3,2 т 95 у.е. 3 INT (M2) 
+типа 200 у.е. грузовых 
+
+10 ед. фронта
+200 у.е. 80 у.е.
+
+4,2 т 105 у.е.
+250 у.е. Разного 
+
+типа и 130 у.е. 4 INT (M3) 
+производст грузовых 
+
+250 у.е. ва фронта
+
+15 ед.
+
+Рис. 5. ЧаРситсн.ы й5 .с лЧуачсатйн –ы  сйе тселвуочйа гйр а–ф  всыетбеовроай т игпраа иф к овлыибчоерстав ат иПпРаМ  ид лкяо ллоигичсетситчвеас кПоРгоМ о бдълеяк та.
+
+логистического объекта. 
+•  МИР ТРАНСВПыОвРоТдАы,  том 15, № 1, С. 18–27 (2017)
+
+Маликов О. Б.1, .П окрФовосркмаяа лОи. зДа.ц Мияе тодифкау нпдоасмтреонетнаиляь снеытхе вогов горпарфоас сотвр уктуэрфыф леокгтиисвтничоессткио го 
+объекта
+
+проектирования и эксплуатации логистических объектов любого формата в 
+составе терминально-складской инфраструктуры железных дорог позволяет 
+получить целевые функции и параметрические описания ЛО как сложных 
+систем, ключевых элементов терминальной сети, систем доставки отдельных 
+грузов и транспортной системы страны в целом. Формализованная модель 
+логистического объекта должна выражаться в трех аспектах, группирующих 
+основные параметры ЛО как сложной системы и требующих разных 
+направлений оптимизации. 
+
+2. Для ОАО «РЖД» наличие собственной системы классификации и 
+иерархии ЛО решит системную проблему взаимодействия в узлах при 
+организации перевозок грузов, упростит идентификацию объектов 
+транспортно-логистической инфраструктуры с учетом 
+клиентоориентированности и обеспечит рациональное проектирование 
+объектов опорной терминальной сети. 
+
+3. Математическое моделирование позволяет при проектировании 
+логистических объектов формализовать ряд значимых параметров. Это 
+поможет выстроить для железных дорог терминальную сеть, работающую в 
+
+11 
+ 
+
+
+
+тивных генеральных вариантов от 1 до n, ЛО как сложных систем, ключевых эле-
+а множеством дуг Z –  логических связей ментов терминальной сети, систем до-
+возможности последовательного объеди- ставки отдельных грузов и транспортной 
+нения этих элементов в оптимизируемую системы страны в целом . Формализован-
+внутреннюю структуру ЛО . Каждой дуге ная модель логистического объекта долж-
+(стрелке) Z соответствует определенное на выражаться в трех аспектах, группи-
+значение (например, это может быть рующих основные параметры ЛО как 
+стоимость, время, грузоподъемность, сложной системы и требующих разных 
+производительность или другой измери- направлений оптимизации .
+тель, в зависимости от специфики реша- 2 . Для ОАО «РЖД» наличие собствен-
+емой задачи оптимизации) Y (Y( ), 
+
+Хm-хn ной системы классификации и иерархии 
+Y( ), Y( ) . Локальное решение М на 
+
+Хm-Xm хn-хn ЛО решит системную проблему взаимо-
+i-ом участке графа INT принимается действия в узлах при организации пере-
+в соответствии со следующим условием: возок грузов, упростит идентификацию 
+INT (Mi) = min∑ [Yi] .   (9) объектов транспортно-логистической 
+
+При этом дуги низшего порядка (иду- инфраструктуры с учетом клиентоориен-
+щие от ключевого параметра Х, не на- тированности и обеспечит рациональное 
+правленные стрелкой) не имеют стоимо- проектирование объектов опорной тер-
+сти, поскольку указывают на D – н аправ- минальной сети .
+ление оптимизации (в примере это гру- 3 . Математическое моделирование 
+зоподъемность ПРМ), а дуги высшего позволяет при проектировании логисти-
+порядка (результирующие сумму стоимо- ческих объектов формализовать ряд зна-
+сти по каждому альтернативному вариан- чимых параметров . Это поможет выстро-
+ту прохождения сетевого графа) имеют ить для железных дорог терминальную 
+итоговые стоимости, равные сумме ми- сеть, работающую в режиме, необходи-
+нимальных значений маршрута . мом и достаточном для грузопереработки 
+
+Более сложная структура такого графа соответствующего качества .
+может быть получена при одновременном 4 . Предложенная методика может 
+рассмотрении нескольких параметров найти применение при решении широ-
+структуры ЛО . Упрощенный пример – о б- кого спектра вопросов в ходе проектиро-
+щий вид графа на рис . 4 (разрывом пока- вания и эксплуатации объектов терми-
+зан переход к рассмотрению нового па- нально-складской инфраструктуры на 
+раметра) и частный случай построения любом виде транспорта, поскольку отли-
+сетевого графа для принятия техническо- чается универсальностью и комплексно-
+го решения (см . рис . 5) . стью .
+
+Аналогичным способом можно стро-
+ить граф для решения любого вопроса ЛИТЕРАТУРА
+касающегося ЛО, начиная от его техни- 1 . Транспортная стратегия Российской Федера-
+ческой оснащенности и заканчивая вну- ции на период до 2030 года . –  М ., 2008 . – 183 с .
+
+2 . Покровская О . Д ., Маликов О . Б . Нелогичная 
+тренним технологическим зонировани- логистика // Гудок . – 2016 . – № 122 . –  С . 4 . [Элек-
+ем, планировкой и т . д . тронный ресурс]: http://www .gudok .ru/newspaper/? 
+
+ID=1344429&archive=2016 .07 .21 . Доступ 20 .08 .2016 .
+3 . Покровская О . Д . Терминалистика: общие 
+
+ВЫВОДЫ вопросы: Монография . – К азань: Бук, 2016 . – 142 с .
+1 . Формализация фундаментальных 4 . Маликов О . Б . Перевозки и складирование 
+
+вопросов эффективности проектирова- товаров в цепях поставок: Монография . – М  .: УМЦ 
+по образованию на ж . –  д . транспорте, 2014 . – 537 с .
+
+ния и эксплуатации логистических объ- 5 . Микони С . В . Многокритериальный выбор 
+ектов любого формата в составе терми- на конечном множестве альтернатив . – С Пб .: Лань, 
+нально-складской инфраструктуры же- 2009 . – 156 с .
+
+лезных дорог позволяет получить целевые 6 . Вентцель Е . С . Исследование операций . За-
+дачи, принципы, методология . – М  .: Дрофа, 2004 . – 
+
+функции и параметрические описания 208 с . • 23
+
+Координаты авторов: Маликов О. Б. –  stadnitskey@mail.ru, Покровская О. Д. –  insight1986@inbox.ru.
+
+Статья поступила в редакцию 06.12.2016, принята к публикации 12.01.2017.
+
+•  МИР ТРАНСПОРТА, том 15, № 1, С. 18–27 (2017)
+
+Маликов О. Б., Покровская О. Д. Методика построения сетевого графа структуры логистического 
+объекта
+
+
+
+METHOD OF CONSTRUCTING A NETWORK GRAPH OF THE LOGISTIC OBJECT 
+24 STRUCTURE
+
+Malikov, Oleg B., Emperor Alexander I St. Petersburg State Transport University, St. Petersburg, Russia.
+Pokrovskaya, Oksana D., Siberian Transport University, Novosibirsk, Russia.
+
+ABSTRACT universality of the method when using indicators of 
+The quality of solutions in the design and different dimensions (cost, time, relative expression). 
+
+operation of individual logistic objects influences the The theoretical basis of the methodology is a 
+efficiency of the entire terminal-storage infrastructure combination of economic and mathematical methods 
+of the country’s railways. In the proposed research and conceptual provisions that make it possible to 
+method the structure of a logistic object in the form find an optimal solution from a set of feasible 
+of a graph of its structure, the positions of the general solutions. The categorization and classification of 
+theory of systems, graph theory, dynamic logistics objects was carried out, a parametric 
+programming and the search for the shortest description and a formalized modeling of their 
+distance are synthesized. A distinctive feature is the structure were given.
+
+Keywords: general theory of systems, graph theory, logistic object, logistic district, logistic area, 
+mathematical model, network graph of a structure, parameters of logistic objects, classification, railways, 
+transport, terminal-warehouse infrastructure.
+
+Background. Further development of terminal- 3) development of a network graph of the LF structure 
+warehouse infrastructure of the country’s railway for selecting the best parameters.
+transport envisages the formation of logistic objects Methods. The authors use general scientific and 
+(LO), which will ensure the effective implementation engineering methods, mathematical apparatus, 
+of transport and logistics services and the graph construction, categorization and systematization 
+infrastructure basis of transport systems for the methods.
+delivery of goods to consumers. Results.
+
+Obviously, the results of the entire terminal- 1.Categorization and classification
+warehouse infLraosgtirsutcictu dreis otrf ircatilwisayas c doempbeninda otino nth oe f LO oUf nad ecre rtthaein l odgeigsrteice  oobfj eeccto nwoem uincd aenrdst and any 
+quality of design and operation of LO at the regional object included in the transport-warehouse 
+level. tTehceh nreolelovgainccael  oifn ttheer atocptiiocn is  laolscoa teevdid einn cgedeo bgyr apihnifcraasl trpurcotuxriem oitf ya  lofocar l sinctaeleg,r patheyds iclaolglyi sptriocv iding the 
+the following: 1) the absence of a generally accepted, implementation of transport and warehousing 
+unifiedsu hpieproarrtc ohfic tarla anpspprooratacthi oton  tphreo ccelasssseisfi.cation of services for various clients and focused on the totality 
+logist ics  faci l i t ies,  which compl icates the of the characteristics in a spatially defined area.
+understanding of all participants in the transport Taking into account the hierarchy of its position in 
+process of the rLooleg oisf LtiOc; 2a)r tehae nise ead  tfeorrr ciotomrpiarle hloegnsisivteic al tehnet ittrya nosf pao rgtl oabnadl  lsocgaisleti cthsa st yosctecmup, iethse a  object is 
+planning for the development of LO for a number of transformed into more complex entities –  district and 
+paramseigtenrisf iwciathn td piffaerrte onft  dthime ecnosuionntrsy in’s c tornadnistipoonrst  oafn d aloregais. t(iSces ei nPfirca. s1t)r.ucture and is integrated 
+insuffiicnieton tn caotniosindaelr aatniodn i onft tehren qatuieosntaioln t roaf nas upnoivret rpsraol methodology for multi-criteria design of the optimal cessesL [o3g]i.stic district is a combination of LO of a certain 
+
+degree of economic and technological interaction 
+structure of a logistic object [2]. located in geographical proximity for integrated 
+
+ObjectiveI.n T haec coobrjedcatnivcee o wf thiteh s tthuedsye is d toe fdienviteiloonps , thloeg iasutitch sourps pdoervt eolfo tpraends pao crltaastisoinfi pcraoticoens soefs .
+a methodology for forming a graph of LO for formation Logistic area is a territorial logistical entity of a 
+of its sLtrOuc, tdureep wicitthe dth ien b Peisct .p 1a.rameters. The following global scale that occupies a significant part of the 
+tasks are solved: 1) categorization and classification country’s transport and logistics infrastructure and is 
+of LF; 2) parametric description and formalized integrated into national and international transport 
+modeling of the structure of the logistics facility; processes [3].
+
+CLASSIFICATION OF LOGISTIC OBJECTS AND THEIR HIERARCHY
+
+LOGISTIC AREAS-territorial logistic entities of mega- and global scale, 
+occupying a significant part of transport-logistics infrastructure of the country LOGISTIC DISTRICTS-set of logistic objects of a certain degree of LOGISTIC OBJECTS-infrastructure facilities, physically 
+
+(its region, territory) and integrated into national and international cargo economic and technological interaction, located in a geographical ensuring implementation of transport-warehouse service 
+of various clients, concentrated according to a set of 
+
+traffic processes proximity for complex transport-logistic support of cargo traffic features in a spatially certain district
+
+ITLC
+Level Country Terminal network
+
+Cargo village/logistic city/Gateway-port
+
+Level Transport-logistic hub
+Agglomeration
+
+Level
+Local Logistic park/Logopark/Distribution park
+
+Level Region Logistic platform infrastructure Logistic center
+
+Dry port Transport terminal
+
+Transport-logistic system
+
+Level Distribution center
+Level Territory Cargo/logistic hub Enterprise
+
+Transport-logistic cluster Warehouse.TWC
+
+Cargo districts and specialized sites
+TRANSPORT CORRIDOR DIRECTION
+
+ 
+Pic. 1.P Tich. 1e .p Trhoep porsoepdo sseyds tseymst eomf  ohfi ehriearracrhcyh ya anndd c cllaassssiiffiiccaattiioonn o of LfO L.O.
+
+•  WORLTDh uOsF, TaRcAcoNrSdPinOgR Tto A NthDe  TcRlAasNsSifPicOaRtiToAnT,I OthNe, Vooblj.e 1c5ts, Itshsa.t 1 a, rpep .a 1t 8th–e2 7le (v2e0l1 o7f) individual 
+Menatleikrpovri,s Oelse g(c Ba.r,g Poo akroeavsk anyda,  sOpkescainalai zDe.d M seitheso,d  wofa Creohnosutrsuecst,i ntegr am Nineatwl-owrakr Gehraopuhs eo fc tohme Lpolegxisetsic  Object 
+Structure
+and transport terminals) and at the level of the city / node agglomeration (logistic center, 
+transport and logistics hub, multimodal transport and logistics center) belong to logistic 
+objects (in the order of increasing the hierarchical value, taking into account the quantitative 
+indicators and complexity of the logistics service, see the arrow on the left). The darkened 
+
+3 
+ 
+
+COMPLEXITY OF LOGISTICS SERVICES AND OBJECTS OF VALUE ADDED LOGISTICS
+
+
+
+In accordance with these definitions, the authors on the i-th logistic object, tons/year; N  is a number 
+ tr
+
+developed a classification of LO, depicted in Pic. 1. of modes of transport serviced by the i-th logistic 
+Thus, according to the classification, the objects object, units; S  is a group of parameters of a service 
+
+ser
+that are at the level of individual enterprises (cargo module-block; N  is a range of logistics services 
+
+ser
+areas and specialized sites, warehouses, terminal- provided by the i-th logistics objects; Q  is a volume 
+
+VAL
+warehouse complexes and transport terminals) and of added value of transport-logistics and warehouse 
+at the level of the city / node agglomeration (logistic services rendered by LO, Value added logistics is 
+center, transport and logistics hub, multimodal «logistics of added value», %; S  is a group of 
+
+econ
+transport and logistics center) belong to logistic parameters of an organizational-economic module-
+objects (in the order of increasing the hierarchical block; Т  is a cost of rent of 1 sq. m of storage, rub.; 
+
+st
+value, taking into account the quantitative indicators Т  is a cost of processing of 1 ton of cargo at the 
+
+cargo
+and complexity of the logistics service, see the arrow warehouse, rub.; Т  is tariffs of modes of transport 
+
+tr
+on the left). The darkened blocks connected by an to be joined in the LO (including the service of the 
+arrow represent the sequence of the transformation «last mile») and the services accompanying 
+(evolution) of the logistics object to the logistics area transportation (use of cars, infrastructure, 
+and the entrance to the global level according to the locomotives), rub.; S  is a group of parameters of 
+
+tech
+scheme «Logistic Object (ITLT)» → «Logistics District the structural-technical module-block; N  is a 
+
+st
+(Gateway)» → «Logistic Area (Terminal Net)». This number of specialized storage areas and storage 
+corresponds to the direction of the development of objects in the i-th logistics object, units; Q  is 
+
+lum
+the transport corridor (see arrow below). provision of LO with loading-unloading mechanisms 
+
+It is proposed to attribute to the logistics districts LUM of appropriate capacity, %.
+objects of the level of the local infrastructure: cargo In the expanded form:
+/ logistics hub, dry port, logistics / distribution park n N st;Sst;Ster ;Qcargo;N tr ; 
+and gateway. ∑SLOöi =   ,  3
+
+The logistic areas are objects of the territory level i=1 N ser ;QVAL;Tst;Tcargo;Ttr ;Q  ( )
+lum 
+
+(transport and logistics cluster, transport and logistics 
+system), region (logistics platform) and countries where SLO  is a modular structure of the i-th logistic 
+(terminal network). object, consisting of n typical elements; N  is a 
+
+st
+
+This classification can be used for: 1) identification number of specialized storage areas and premises 
+of LO taking into account the design, type of storage, for storage of cargo in the i- th logistic object, units; 
+size, technical equipment, etc.; 2) the choice of LO S  is a total area of storage volume of the i-th logistic 
+
+st
+
+with regard to its functional capabilities, dislocation, object, t or m3; S  is total area of the territory, 
+ ter
+
+etc.; 3) determining the role and place of LO in the occupied by the i-th logistic object, ha; Q  isa total 
+ cargo
+
+transportation processes; 4) systematization and cargo turnover of all specialized storage sites and 
+convenience of an integrated representation of the premises for storage of cargo in the i-th logistic object, 
+entity and species diversity of LO; 5) unification, ton/year; N  is a number of modes of transport, 
+
+ tr
+
+simplicity and convenience of identification of type of serviced by the i-th logistic object, units; N  is a range 
+ser
+
+LO [4]. of logistic services, rendered by the i-th logistic object, 
+2. Parametric description and formalized units; Q  is a volume of added value of transport and 
+
+VAL
+
+model of structure. logistics services and storage services rendered by 
+The parametric structure of LO of any format can LO, Value added logistics is «logistics of added 
+
+be described by the mathematical expression of a value», %; Т  is a cost of rent of 1 sq. m of storage, 
+st
+
+number of significant characteristics. rub.; Т  is a cost of processing of 1 ton of cargo at 
+cargo
+
+The formalized model of the LO structure in the the warehouse, rub.; Т  is tariffs of modes of transport 
+tr
+
+general modular-block form looks as follows: to be joined in the LO (including the service of the «last 
+n mile») and the services accompanying transportation 
+
+∑S (use of cars, infrastructure, locomotives), rub.; Q  
+LOöi = Sspat;Stran;Sser ;Secon;Stech  ,   (1) lum
+
+i=1 is provision of LO with loading-unloading mechanisms 
+LUM of appropriate capacity, %.
+
+where SLO −  is the modular structure of the i-th The structure of the LO as a complex modular 
+logistics object, consisting of n typical elements; S  
+
+spat system in the general form:
+is a spatial module-block; S  is a transport module 
+
+tran
+block; S  is a service module block; S  is an WLO = {Wtechnical |Wtechnological} .  (4)
+
+ser econ
+organizational and economic module-block; S  is a 
+
+tech In the expanded form:
+structural and technical module-block.
+
+In block form: Wload/accept;Wunload/deliv;Wsort; 
+= 
+
+W
+n LO  ,
+
+∑S Wst;Wadd;Wtran;Wpack;WLUM    (5)
+LOöi = [Sspat ö(öSter ;Sst );ö
+
+i=1
+where Wtechnological  is a module of a technological block; 
+
+Stran(Qcargo;N tr );Sser (N ser ;QVAL ); W
+  load/accept  is a module of loading (acceptance) of 
+Secon(Tst;Tcargo;Ttr ); ,ö  (2) cargo; Wunload/deliv  is a module of unloading (delivery) 
+
+S of cargo; Wsort  is a module of cargo sorting; W
+
+tech(N st;öQlum ) 
+ st  is a 
+
+module of cargo storage; Wadd  is a module of 
+where SLO ö is a modular structure of the i-th logistic additional service, realized by LO for a separate type 
+object, consisting of n typical elements; S  is a 
+
+spat of cargo; Wtechnical  is a module of a technical block; 
+group of a spatial module-block; S  is a total area 
+
+ter W tran
+ext  is a module of external trunk transport of 
+
+of the territory, occupied by the i-th logistic object, 25
+ha;S  is a total storage area of the i-th logistic object, acceptance and delivery of cargo; Wpack  is a module 
+
+ st
+sq. m.; S  is a group of parameters of a transport 
+
+ tran of cargo packaging arrangement; WLUM  is a module 
+module-block; Q  is a total processing capacity of 
+
+cargo of LUM acceptance-delivery, arrangement and intra-
+all specialized storage areas and storage facilities warehouse processing of cargo.
+
+•  WORLD OF TRANSPORT AND TRANSPORTATION, Vol. 15, Iss. 1, pp. 18–27 (2017)
+
+Malikov, Oleg B., Pokrovskaya, Oksana D. Method of Constructing a Network Graph of the Logistic Object 
+Structure
+
+
+
+ХLO 𝑖𝑖 =(𝑋𝑋1,𝑋𝑋2,𝑋𝑋3,𝑋𝑋4,𝑋𝑋5).                                                                                 (6)
+
+The parameters determining the state of LO (the factors of its evolution):
+
+𝑋𝑋evolLO = (𝑍𝑍1,𝑍𝑍2,𝑍𝑍3,𝑍𝑍4).                                                                                      (7)
+
+In the proposed method of stTuhdisy ailnlogw st htoe f osrtmru ac mtuurlteif aocfto rLiaOl m iond etlh oef  tfhoe remvo loutfi oan  ogfr tahpe hL O, consisting 
+of meaningful signs Xj and influencing factors Zi.
+
+of its structure, the positions of the general theory of systems, graph theory, network 
+𝐹𝐹 = 𝑋𝑋1𝑍𝑍1 + 𝑋𝑋2𝑍𝑍2 + ⋯+ 𝑋𝑋𝑛𝑛𝑍𝑍𝑛𝑛                                                                         (8)
+
+graphics, dynamic programming and the search for the shortest distance are 
+synthesized [5, 6]. The universalityO potifm tihzaeti omn eotfh LoOd  pcahraamraetcetres rpirzoecsee dths es teups eb yo sft eipn idni caacctoorrdsa nce with the 
+
+optimization pyramid (Pic. 2). So, at the lowest level, local decisions are made aimed 
+of different dimensions (cost, tiamt oep,t imreizlaintgiv inet eernxapl rpeasrasmioente)r,s . tAhte  ththe ehoigrheetsitc laevl esl,i gglnoibfailc paonscitieo n–ing of the LO 
+a set of economic and mathemina tthiec atelr mmineatl hneotdwso rka nisd c acrroiendc oeupt.tual provisions that allow 
+one to effectively 2f6ind optimal solutions from a Ospteimtiz aotionf o ff easible solutions.
+
+NETW
+external ORK
+
+parameters Configuration of TS 
+morphology and construction of 
+efficient logistic schemes using 1
+
+A diagram of the selection of the solution core for cLoO nstructing the network Optimization of 
+SPACE TS
+
+1. Choice of quantity, power and dislocation of LO 2
+graph of the LO structure is given in Pic. 3, w2h. Imeprroveeme:nt  of Lopergatioen onf ele meintss an d saupply schaein pta rticoipanfts variants of Optimization of 
+
+Optimization of separate LO
+internal TECHNOLOGY  AND 
+
+SERVICE 3
+decisions of structure of LO; L is the pasraumebterjsect area f1.oChoice of rational technical zoning of area and territory of LO
+
+2.rFo rmfaitionn odf trainsnporgt-log issticos anld uaddittioinoal senrvicse when building 
+3. Choice of warehouse technology
+
+TECHNIQUE
+
+a structure; L1 is set of options for parameter 1; L2 is a1.Cshoeicet of  toechnfiq ueo, LUpMt anido equnipmsent for parameter 2; 
+2. Choice of warehouse building 4
+
+3. Calculation of capacity of cargo processing
+
+L3 is the desired domain of the decision. Optimization pyramid
+PiPci.c 2. .2 O. Opptitmimizizaattioionn  pyramid  off  LLOO. .
+
+Next, we wil l  consider the technique of 
+NLexgte,n we will consider the technique ocf ocnosntrsutrcutcintign gth teh ne entwetowrok rgkr agprahp ohf  LoOf  LfoOr the optimal 
+
+parametric formation of its structure. As an example, 
+for the optimal parametric formation of its sttrhuec tlouwree. sAt sle avne le oxfa ompptilme,i zthatei olonw oef sotb ljeevcetl p arameters 
+of optimization ofL object parameters is takeni s– tathkee nte –ch  thneic tael cshonluictiaol ns o(lsuetlieocnt i(osne loefc ttihoen  of the best 
+
+type of LUM –  loading and unloading mechanisms for 
+best typeL of LUM – loading and unloadingi nmtreac-hwaanrieshmosu sfoer c ainrtgroa- pwraorceehsosuinseg )c.argo 
+
+1 L3 3. Methodology for studying the structure 
+processing). using the network graph
+
+In the proposed method of studying the structure 
+3. Methodology for studying the structure usoifn LgO th ien  ntehtew oforkrm g roafp ha graph of its structure, the 
+
+L2 positions of the general theory of systems, graph 
+theory, network graphics, dynamic programming and 
+the search for the shortest distance are synthesized 
+[5, 6]. The universality of the method characterizes 
+
+7 the use of indicators of different dimensions (cost, 
+ t ime, relat iv e expression),  the theoret ical 
+
+Pic. 3. The diagram of the solution’s core 
+Pic. 3. The diagram of the solution’s core for the network graph soigfn tifhicea nLceO – s  at rsuect touf reec.onomic and mathematical 
+
+for the network graph of the LO structure. methods and conceptual provisions that allow one to 
+effectively find optimal solutions from a set of feasible 
+solutions.
+
+The network graphsT hoef s ttahtee  osft LrOuc ist ua rsee tw ofh inednic cahtoorso tshiant gid etnhteify o ptimAa ld isaogrlaumti ofn th efo sre lethcteio n of the solution core for 
+it in the general hierarchical system (defining its type) constructing the network graph of the LO structure is 
+
+technical equipment ofa ntdh ceh afraaccitelirtizye  i(tisn wcolruk daisn ag w hcooles.t indicators) segti vtehne i np Peircm. 3is, swihbelree :s Let  is a set of variants of 
+The state of any LO is expressed by a set of gen
+
+corresponds to a certain value (for exampled, eitc imsiaoyn sb oef  csotrsut,c ttuimree ,o fl oLaOd;  Lc aisp athciety s, ubject area for 
+of parameters and alloindicators (resources):
+
+Хw d
+LOöi =es
+
+( Xig1,nXin2, Xg 
+3,tXh4,eX LO with optimal paramefitnedrinsg  osof lutthioen ss wtrhuecnt buurield ing a structure; L  is set 
+
+performance 1
+5)o.r   another meter, depend (i6n)g on othf eo sppteiocnifsi cfiotyr  poaf rtahme eotpetirm 1i;z Lati oisn  at assekt of options for 
+
+2
+
+(Pic. 4). The parbaeminegt esrosl vdeedt)e Yrm(iYni(nХgm -tхhn)e, sYt(aХtme- Xomf )L, OY (хthn-eхn ).  Tphaera lmoceatle sro 2lu; Ltio ins  tMhe o dne tshiere id-t hd osemcatiionn o f the decision.
+3
+
+factors of its evolution): The network graphs of the structure when 
+choosing the optimal solution for the technical 
+
+X evol of the INT graph is taken in accordance with the following condition:
+LO = (Z1, Z 2,öZ3, Z 4 ) .öööööööö    (7) equipment of the facility (including cost indicators) 
+
+The set of verticesT hXis  aollof wssu toc hfIo NramT  (gaM rmia)u=plmthifi anic∑sto  [rYtihail]e .m    mo   d  ae  lp   o p f  i t n h  eg       o  s f e   t a   dt h  m e    ip  s e s r im b   il s e s   i bg  l e   n  s e   rt   i oc  f     p  a  r  a (m9)eters and allow 
+evolution of the LO, consisting of meaningful signs Xj designing the LO with optimal parameters of the 
+
+variants of structural ealenmd inefnlutesn fcrinogm fa c1to tros  Zmi. , x –admissible alternasttriuvcetu gree (At the same time, arcs of the lowest order nPeicr.a 4l) .variants 
+F = X Z + X Z +…+ X Z T(ghoei nsge tf roomf v tehret ikceeys  pXa roamf setuecr hX a,  graph is the 
+
+.   (8)
+from 1 to n, and the set of a1rc1 s Z2 –2 logican l nnot directed by cano narnroewc)t ido nnso t ohfa vteh ae v palousem,s siaibnpicpleii ntghye  oyof  ifan ddsmiuciacstscei ebthlsees  giDve–nede irreicc tvioanri aonf ts of structural 
+
+Optimization of LO parameters proceeds step by elements from 1 to m, x – admissible alternative 
+
+union of these elementsst eipn  inth aec coopprtdtimiamnizciaezti eowndit  h(ii nnth tteeh ero npeaxtialm msizptarletu iotchnti usp riyser a tohmefi  dLL UOMg.e  lEnoeaardac lch va apaarricacint yt(s)a,  frarornomd w t1h )et  oZh ni g, haenr-do trhder  set of arcs Z – 
+(Pic. 2). So, at the lowest level, local decisions are logical connections of the possibility of successive 
+made aimeda racts o (pthtiem rizeisnuglt iinntge rsnuaml  poafr athme ectoesrts .f oArt  tehaec h alutnerinoant iovef  tvhaerisaen te olef mtheen ntse tiwno trhke g orappthim ized internal 
+highest level, global pos8it passage ) have totiaoln vinalgu eosf  etqhuea lL tOo  thine  tshuem  ofs tthreu cmtuinriem oufm LO v.a Eluaecsh o af rtch e( arorruotew.) Z corresponds to a 
+
+ terminal network is carried out. certain value (for example, it may be cost, time, load 
+Network graph of design of logistic object internal structure
+
+D = load capacity Y Z
+11-1 i
+
+Х Y1-11
+11 х1 х
+
+D 11
+1
+
+INT (Mi)
+Y11-2
+
+Y1-12
+Х1 D INT (Mi)
+
+2 Y12-1 х12 Х2
+Х12 Y2-12 INT (Mi)
+
+X = 1...m D 3 Y13-1
+
+Y Y
+13-2 2-21
+
+х2 х21
+
+Х13 Y = 1...n
+
+Pic. 4P. iTc.h 4e .g Tehnee rgael ncearsael  ocfa tshee o nfe tthweo nrekt gwroarpkh g oraf pcho nosft cruocntsintrgu tchtein Lg Oth est rLuOc tsutrrue.cture.
+
+A more complex structure of such a graph can be obtained by considering 
+•  WOseRvLeDr aOl Fp TarRaAmNeStePrOs RoTf AthNeD L TOR AsNtrSucPtOurReT AatT ItOheN ,s aVmole. 1ti5m, eIs. sA.  1s,i mppp.l i1f8ie–d2 e7x (a2m01pl7e) is the 
+
+Malikogve, nOelreagl  Bf.o, rPmo kroofv stkhaey ag, rOapksha nina  DP. iMc.e t4h od(t hoef  Cbornesatkru csthinogw as  Ntehtew otrrakn Gsirtaiopnh  otfo t heth Leo gistic Object 
+Structucorensideration of a new parameter) and a special case of constructing a network graph 
+
+for making a technical decision (see Pic. 5).
+
+In a similar way, it is possible to build a graph to solve any issue related to LO,
+starting from its technical equipment and ending with internal technological zoning, 
+planning, etc.
+
+9 
+ 
+
+
+
+Network graph of selection of a type and quantity of LUM for a logistic object
+
+Same type 
+5 un. 100 c.u. 50 c.u. 2 cargo INT (M1)
+
+2 t and fronts
+100 c.u. production
+
+75 c.u..
+LUM
+
+J-th type 3,2 t 200 c.u. 95 c.u. INT (M2)
+3 cargo 
+fronts
+
+10 un. 200 c.u. 80 c.u.
+4,2 t 105 c.u.
+
+250 c.u. Different 
+type and 130 c.u. INT (M3)
+
+4 cargo 
+250 c.u. production fronts
+
+15 un.
+
+Pic. 5. A special case is a network graph of the type and quantity of LUM for a 
+Pic. 5. A special case is a network graph of the type and quantity of LUM for a logistic object.
+
+logistic object.
+capacity, performance or another meter, depending solve the systemic problem of interaction in the nodes 
+on the specificity of the optimization task being solved) when arranging the transportation of goods, simplify 
+Y C(Y(onc)l,u Ys( ion)s, .Y( ). The local solution M on the 
+
+Хm-хn Хm-Xm хn-хn the identification of objects of the transport and 
+i-th section of the INT graph is taken in accordance logistics infrastructure taking into account the client 
+with the following condition: orientation and ensure rational design of the objects 
+INT (Mi) = min∑ [Yi].   (9) of the core terminal network.
+1.A tF toherm samliez attimioen, aorfc st hoef tfhuen ldoawmeset notradle ri ssues3 o. Mf adtheesmigantic aln mdo doeplinegr aatlliowns uesf ftoic foiermnaclyiz e 
+
+(going from the key parameter X, not directed by a number of significant parameters when designing 
+of loagni satrircowo) bdoje ncotts haovfe  aa vnaylu ef,o srinmcea tt hewy iitnhdiicna tteh e lotgeirsmtici noabjle-cwtsa. rTehiso uwsille h einlpf rtoa sbturiuldc tau treer moinfa l 
+
+the D–direction of optimization (in the example this network for railways, operating in a mode that is 
+railwais the LUM load capacity), and the higher-order necessary and sufficient for cargo processing of the 
+
+arycss  m(thaek erse siutl tpinogs ssiubmle o tf ot hoeb ctoasint  ftoarr geaect hf unctions and parametric descriptions of 
+appropriate quality.
+
+LO aalternative variant of the network graph passage) 4. The proposed methodology can be applied in 
+hsa cveo tmotpall evaxl useys setqeumals t,o  kthey s uemle omf tehen tmsi noimf utmhe  tseorlmvinign aal  wnideetw raonrgke,  odf eislsivueesr yin  sthyes tdeemsisg nf oanrd  
+values of the route. operation of terminal-warehouse infrastructure 
+
+individuAa lm goroeo cdoms palenxd s ttruhcetu trrea onf supcohr at gsryapshte cman boef  thfaec iclitoieusn otnr ayn ya ms oad ew ofh toralnes.p oTrht, esi nfcoer imt isa vleirzseadtil e 
+obtained by considering several parameters of the LO and complex.
+
+modeslt roucft utrhee a t ltoheg siasmtiec  tiombej. eAc stim sphliofieudl edx abmep leex isp three ssed in three aspects, grouping the main 
+general form of the graph in Pic. 4 (the break shows 
+the transition to the consideration of a new parameter) REFERENCES
+
+paramanedte ar ssp eocfia l tchaes e LofO c onasst ruac tincgo ma npeltewxor ks gyrsatpehm  and1 . Traenqspuoirrt isntragt egdy iofff teher eRnusts iadni Fredcetriaotionns f oro tfh e 
+for making a technical decision (see Pic. 5). period until 2030 [Transportnaja strategija Rossijskoj 
+
+optimizaInti ao nsim. ilar way, it is possible to build a graph to Federacii na period do 2030 goda] . Moscow, 2008, 183 p .
+solve any issue related to LO, starting from its 2 . Pokrovskaya, O . D ., Malikov, O . B . Illogical logistics 
+technical equipment and ending with internal [Nelogichnaja logistika] . Gudok, 2016, Iss . 122, p . 4 . URL: 
+tech2n.oFloogirc aJl SzoCn inRg,u pslsainannin gR, eaticl.ways the availahbttipl:i/t/yw wowf . giutdso ok .wrun/n ecwlaspsaspiefri/c?a ItDio =n  1s3y4s4t4e2m9 &  
+
+Conclusions. archive = 2016 .07 .21 . Last accessed 20 .08 .2016 .
+
+and the 1L. OFo rmhiaelirzaatriconh yo f wthiel lf usnodalvmee ntthale i sssuyesst eomf ic pr3o . Pbolkermovs koayfa , iOn .t Der . aTcertmioinna lisitnic s:t hgeen enraol idsseuses : 
+design and operation efficiency of logistic objects of Monograph [Terminalistika: obshhie voprosy: Monografija] . 
+any format within the terminal-w arehouse Kazan, Buk publ ., 2016, 142 p .
+
+wheni nafrrarsatrnugctiunreg  otfh raei lwtraaysn mspaokersta itt pi onssibolfe  tgoo oobdtasin,  simp4l .i Mfya litkhove,  Oi .d Be . nTrtainfispcoart iaonnd w oarfe hobusjiengc otsf g oofd s 
+target functions and parametric descriptions of LO as in supply chains: Monograph [Perevozki i skladirovanie 
+
+the trcaonmsploerxt  saynstde mlos,g kisetyi cesle imnefnratss torfu tchteu trer mtainkailn g toinvatrov  av cecpojauh pnots tathvoek : cMloineongrta ofijrai]e . Mntoasctoiow,n T ManCd o n 
+network, delivery systems for individual goods and education on railway transport, 2014, 537 p .
+
+ensurteh er atrtainosnpaorlt  dsyessteigmn o of tfh eth ceo uonbtrjye acst sa  wohfo tleh.e T hceo re ter5m . Minikaoln in, Se .t Vw . Moruklti.criteria choice on a finite set of 
+formalized model of the logistic object should be alternatives [Mnogokriterial’nyj vybor na konechnom 
+expressed in three aspects, grouping the main mnozhestve al’ternativ] . St . Petersburg, Lan publ ., 2009, 
+parameters of the LO as a complex system and 156 p .
+req3ui.r inMg daiftfhereemnt adtirieccatlio nms oofd oepltiimnigza taiolnl.ows us to 6f .o Vrenmtzaell, iEz . eS .  Rae senaruchm ofb oeperr atoiofn s .s Tiagskns,i pfriicncaipnlets , 
+
+2. For JSC Russian Railways the availability of its methodology [Issledovanie operacij. Zadachi, principy, 
+paramowente crlsa swsifhiceantio dn essyisgtenmin agn dl othgei sLtOi ch ioerbajrechcyt sw. ilTl himse twodiololg ihjae] .l Mp otsoco bw,u Dirlodfa  ap utbel .r, m200i4n, a2l0 8n pe . twork• 
+for railways, operating in a mode that is necessary and sufficient for cargo processing
+
+Information about the authors:
+
+of theM aaplikporvo,p Orlieagt eB .q –u  Da.Slict.y (.Eng.), professor of the department of Logistics and commercial work of Emperor 27
+Alexander I St. Petersburg State Transport University, St. Petersburg, Russia, stadnitskey@mail.ru.
+Pokrovskaya, Oksana D. –  D.Sc. (Eng.), associate professor of the department of Logistics, commercial 
+work and rolling stock of Siberian Transport University, Novosibirsk, Russia, insight1986@inbox.ru.
+
+Article received 06.12.2016, accepted 12.01.201170. 
+ 
+
+•  WORLD OF TRANSPORT AND TRANSPORTATION, Vol. 15, Iss. 1, pp. 18–27 (2017)
+
+Malikov, Oleg B., Pokrovskaya, Oksana D. Method of Constructing a Network Graph of the Logistic Object 
+Structure
