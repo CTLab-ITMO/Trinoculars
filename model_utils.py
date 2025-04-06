@@ -6,10 +6,19 @@ from sklearn.impute import SimpleImputer
 from NN_classifier.simple_binary_classifier import Medium_Binary_Network
 from feature_extraction import extract_features
 import pandas as pd
+from NN_classifier.neural_net_t import Neural_Network
 
 DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-def load_model(model_dir='models/medium_binary_classifier'):
+def load_model(model_type='binary', model_dir=None):
+    if model_dir is None:
+        if model_type == 'binary':
+            model_dir = 'models/medium_binary_classifier'
+        elif model_type == 'three-class':
+            model_dir = 'models/neural_network'
+        else:
+            raise ValueError(f"Unknown model type: {model_type}")
+    
     model_path = os.path.join(model_dir, 'nn_model.pt')
     scaler_path = os.path.join(model_dir, 'scaler.joblib')
     encoder_path = os.path.join(model_dir, 'label_encoder.joblib')
@@ -29,7 +38,14 @@ def load_model(model_dir='models/medium_binary_classifier'):
     
     input_size = scaler.n_features_in_
     
-    model = Medium_Binary_Network(input_size, hidden_sizes=[256, 192, 128, 64], dropout=0.3).to(DEVICE)
+    if model_type == 'binary':
+        model = Medium_Binary_Network(input_size, hidden_sizes=[256, 192, 128, 64], dropout=0.3).to(DEVICE)
+    elif model_type == 'three-class':
+        num_classes = len(label_encoder.classes_)
+        model = Neural_Network(input_size, [128, 96, 64, 32], num_classes, dropout_rate=0.1).to(DEVICE)
+    else:
+        raise ValueError(f"Unknown model type: {model_type}")
+    
     model.load_state_dict(torch.load(model_path, map_location=DEVICE))
     model.eval()
     

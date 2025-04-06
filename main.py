@@ -11,6 +11,8 @@ def main():
     parser.add_argument('--file', type=str, help='Path to file with text')
     parser.add_argument('--analysis', action='store_true', help='Show detailed text analysis')
     parser.add_argument('--compute-scores', action='store_true', help='Compute score_chat and score_coder')
+    parser.add_argument('--model-type', type=str, choices=['binary', 'three-class'], default='binary',
+                       help='Type of classification model to use (binary or three-class)')
     args = parser.parse_args()
     
     bino_chat = None
@@ -18,8 +20,9 @@ def main():
     if args.compute_scores:
         bino_chat, bino_coder = initialize_binoculars()
     
-    print("Loading binary classifier model...")
-    model, scaler, label_encoder, imputer = load_model()
+    model_type = args.model_type
+    print(f"Loading {model_type} classifier model...")
+    model, scaler, label_encoder, imputer = load_model(model_type=model_type)
     
     if args.text:
         text = args.text
@@ -43,6 +46,11 @@ def main():
     print("Class probabilities:")
     for cls, prob in result['probabilities'].items():
         print(f"  - {cls}: {prob:.4f}")
+    
+    if model_type == 'three-class':
+        print("\nThree-class model explanation:")
+    else:
+        print("\nBinary model explanation:")
     
     if scores:
         print("\nComputed scores:")
