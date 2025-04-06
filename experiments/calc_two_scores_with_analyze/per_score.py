@@ -6,50 +6,55 @@ import datetime
 import argparse
 import pandas as pd
 import subprocess
+import glob
 
-def read_coat_data(sample_limit=None):
-    csv_path = "./CoAT/datasets/binary/val.csv"
+def read_json_dataset(sample_limit=None):
+    data_path = "./datasets/long_sc_valid/"
     
-    if not os.path.exists(csv_path):
-        if not os.path.exists("./CoAT"):
-            print("CoAT repository not found. Cloning...")
-            try:
-                subprocess.run(["git", "clone", "https://github.com/RussianNLP/CoAT.git"], check=True)
-                subprocess.run(["git", "lfs", "pull"], cwd="./CoAT", check=True)
-            except subprocess.CalledProcessError as e:
-                print(f"Error cloning repository: {str(e)}")
-                return None
-            except FileNotFoundError:
-                print("Git is not installed or not in PATH. Please install Git and Git LFS.")
-                return None
-    
-    if not os.path.exists(csv_path):
-        print(f"File {csv_path} not found even after cloning the repository.")
+    if not os.path.exists(data_path):
+        print(f"Directory {data_path} not found.")
         return None
     
-    try:
-        print(f"Reading file {csv_path}...")
-        df = pd.read_csv(csv_path)
-        
-        print(f"Total number of rows: {len(df)}")
-        print(f"Columns in dataset: {', '.join(df.columns)}")
-        
-        if sample_limit and sample_limit < len(df):
-            df = df.head(sample_limit)
-            print(f"Taking first {sample_limit} samples")
-        
-        data_list = []
-        for _, row in df.iterrows():
-            data_list.append({
-                "text": row["text"],
-                "is_artificial": row["label"] == 1
-            })
-        
-        return data_list
+    json_files = glob.glob(os.path.join(data_path, "*.json"))
     
-    except Exception as e:
-        print(f"Error reading file: {str(e)}")
+    if not json_files:
+        print(f"No JSON files found in {data_path}")
         return None
+    
+    print(f"Found {len(json_files)} JSON files in {data_path}")
+    
+    data_list = []
+    for file_path in json_files:
+        try:
+            print(f"Reading file {file_path}...")
+            with open(file_path, 'r', encoding='utf-8') as f:
+                json_data = json.load(f)
+            
+            if not isinstance(json_data, list):
+                print(f"Warning: Data in {file_path} is not a list. Skipping...")
+                continue
+            
+            for item in json_data:
+                if 'text' in item and item['text']:
+                    source = item.get('source', 'human')
+                    
+                    data_list.append({
+                        "text": item["text"],
+                        "source": source
+                    })
+            
+            print(f"Loaded {len(json_data)} records from {file_path}")
+            
+        except Exception as e:
+            print(f"Error reading file {file_path}: {str(e)}")
+    
+    print(f"Total loaded records: {len(data_list)}")
+    
+    if sample_limit and sample_limit < len(data_list):
+        data_list = data_list[:sample_limit]
+        print(f"Taking first {sample_limit} samples")
+    
+    return data_list
 
 def main():
     chat_model_pairs = [
@@ -67,8 +72,6 @@ def main():
             "name": "Pair 2 - deepseek-llm-7b-base and deepseek-coder-7b-instruct-v1.5"
         }
     ]
-    output_dir = "./results_two_scores"
-    os.makedirs(output_dir, exist_ok=True)
 
     print(f"\nTesting pairs")
     print("-" * 50)
@@ -87,17 +90,17 @@ def main():
         max_token_observed=2048
     )
 
-    sample_limit = 10000
-    data_to_process = read_coat_data(sample_limit)
+    sample_limit = None
+    data_to_process = read_json_dataset(sample_limit)
     
     if data_to_process is None:
-        print("Failed to load CoAT data. Exiting program.")
+        print("Failed to load data from JSON files. Exiting program.")
         return
     
     total_samples = len(data_to_process)
     print(f"Loaded {total_samples} samples for processing")
     
-    output_dir = "./results_coat"
+    output_dir = "./results_long_sc_valid"
     os.makedirs(output_dir, exist_ok=True)
     
     results = run_dataset(bino_chat, bino_coder, data=data_to_process)
@@ -106,7 +109,7 @@ def main():
     results["sampled_size"] = total_samples
     
     timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-    output_file = os.path.join(output_dir, f"coat_results_{timestamp}.json")
+    output_file = os.path.join(output_dir, f"long_sc_valid_results_{timestamp}.json")
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
     print(f"\nResults saved to: {output_file}")
