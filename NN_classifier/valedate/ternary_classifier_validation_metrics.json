@@ -1,0 +1,44 @@
+{
+    "overall": {
+        "accuracy": 0.804707150556953,
+        "precision": 0.807904261282674,
+        "recall": 0.804707150556953,
+        "f1": 0.7993325375649897,
+        "total_texts": 5566,
+        "correct_predictions": 4479,
+        "avg_confidence": 0.9113613788414635
+    },
+    "class_report": {
+        "Human": {
+            "precision": 0.8962716869693614,
+            "recall": 0.9798224374495561,
+            "f1-score": 0.9361866203971467,
+            "support": 2478.0
+        },
+        "Raw AI": {
+            "precision": 0.8268858800773694,
+            "recall": 0.5844155844155844,
+            "f1-score": 0.6848217861433721,
+            "support": 1463.0
+        },
+        "Rephrased AI": {
+            "precision": 0.6560614371914427,
+            "recall": 0.736,
+            "f1-score": 0.6937354988399071,
+            "support": 1625.0
+        },
+        "accuracy": 0.804707150556953,
+        "macro avg": {
+            "precision": 0.7930730014127246,
+            "recall": 0.76674600728838,
+            "f1-score": 0.7715813017934753,
+            "support": 5566.0
+        },
+        "weighted avg": {
+            "precision": 0.807904261282674,
+            "recall": 0.804707150556953,
+            "f1-score": 0.7993325375649897,
+            "support": 5566.0
+        }
+    }
+}
