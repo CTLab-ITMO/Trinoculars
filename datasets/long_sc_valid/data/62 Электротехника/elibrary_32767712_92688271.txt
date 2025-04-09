@@ -1,0 +1,602 @@
+﻿УДК 621.313.3 + 621.313.333 DOI: 10.14529/power180114
+  
+ПРИМЕНЕНИЕ СИСТЕМЫ АВТОМАТИЧЕСКОГО 
+ПРОЕКТИРОВАНИЯ ANSYS MAXWELL ДЛЯ КОЛИЧЕСТВЕННОЙ 
+ОЦЕНКИ ВЛИЯНИЯ ЭФФЕКТА ВЫТЕСНЕНИЯ ТОКА  
+В ЭЛЕКТРИЧЕСКИХ МАШИНАХ ПЕРЕМЕННОГО ТОКА 
+ 
+Н.И. Неустроев, А.А. Котов, И.Е. Киесш 
+Южно-Уральский государственный университет, г. Челябинск, Россия 
+ 
+ 
+
+В данной работе рассмотрен вопрос количественной оценки эффекта вытеснения тока в шинах, 
+уложенных в пазах электрических машин переменного тока на примере магнитоэлектрического генера-
+тора большой мощности. Также указаны основные аспекты, оказывающие влияние на увеличение эф-
+фекта вытеснения тока в шинах электрических машин. Приведены примеры расчетов среднего увеличе-
+ния сопротивления шины по методикам, описанным в классической литературе и проверенных годами 
+при проектировании стандартных электрических машин переменного тока. Также был рассмотрен во-
+прос моделирования электромагнитных процессов в системе автоматического проектирования ANSYS
+Maxwell. Особое внимание уделено возможностям программного обеспечения ANSYS Maxwell в части 
+графического представления информации по результатам моделирования работы электромеханических 
+преобразователей. Приведена графическая интерпретация результатов моделирования работы генерато-
+ра, упрощающая понимание физических основ оговариваемых явлений, а также упрощающих взаимо-
+действие с программным обеспечением. Проведено сравнение двух указанных способов количественной 
+оценки эффекта вытеснения тока на основании экспериментальных данных, полученных силами 
+АО «НПО «Электромашина», снятых с макетных образцов рассчитанного магнитоэлектрического гене-
+ратора большой мощности. На основании результатов сравнения двух способов количественной оценки 
+эффекта вытеснения тока в обмотке магнитоэлектрического генератора переменного тока сделано за-
+ключение о наиболее предпочтительном способе расчета суммарных электрических потерь в обмотках 
+электромеханических преобразователей. Также был рассмотрен вопрос потерь в магнитоэлектрических 
+генераторах большой мощности, существенно влияющих на коэффициент полезного действия электри-
+ческой машины. Оговорено условие максимального коэффициента полезного действия электрической 
+машины большой мощности. 
+
+Ключевые слова: электрическая машина, эффект вытеснения тока, система автоматического 
+проектирования, ANSYS Maxwell, коэффициент полезного действия. 
+
+ 
+ 
+
+Введение  магнитные потери на перемагничивание, 
+В настоящее время проектирование электри- гистерезис и вихревые токи в стали статора; 
+
+ческих машин достаточно автоматизировано. Свя-  электрические потери в обмотке статора, 
+зано это с ростом промышленных мощностей и вызванные протеканием тока нагрузки. 
+конкуренцией на рынке. Проектирование требует- Остальные потери, такие как: поверхностные 
+ся производить быстро и точно, с минимальными потери в постоянных магнитах вследствие зубцо-
+погрешностями. вости статора, механические потери в подшипни-
+
+На АО «НПО «Электромашина» был разрабо- ках, потери на трение ротора о воздух и т. д., в 
+тан генератор переменного тока, работающий в данной статье будут опущены, ввиду их малой 
+паре с выпрямителем, номинальной мощностью величины в сравнении с основными потерями и 
+1000 кВт. Краткие характеристики проектируемо- небольшого влияния на суммарный КПД электри-
+го генератора приведены в таблице. ческой машины [2, 3]. 
+
+Машина подобного рода обладает следующи- Электромагнитный расчет производился дву-
+ми основными видами потерь [1]: мя методами. По классическим методикам, с ис-
+
+Краткие характеристики проектируемого генератора 
+
+Номинальная Номинальное  
+выходная элек- Номинальный Напряжение  
+
+Параметр трическая мощ- ток нагрузки  Частота  напряжение  
+(после  вращения вала постоянного  холостого хода, 
+
+ность (после  после  не более 
+выпрямителя) выпрямителя) генератора тока (
+
+выпрямителя) 
+Ед. изм. кВт А Об/мин В В 
+Знач. 1000 1100 2100 900 1200 
+ 
+112 Bulletin of the South Ural State University. Ser. Power Engineering. 
+
+2018, vol. 18, no. 1, pp. 112–121 
+
+
+
+Неустроев Н.И., Котов А.А.,         Применение системы автоматического проектирования 
+Киесш И.Е.               ANSYS Maxwell для количественной оценки… 
+пользованием пакета Mathcad на основе методиче- оговорено принимать в расчет лишь основные 
+ской литературы [4]. И методом конечных элемен- (существенно влияющие на КПД) потери электри-
+тов с использованием пакета ANSYS Maxwell. ческой машины (электрические и магнитные). 
+
+Согласно проведенным расчетам, КПД полу- Таким образом, рассчитанный генератор име-
+ченного генератора составляет 97 %. Из 30 кВт ет максимальный КПД 97 % в точке, соответст-
+суммарных основных потерь (без учета эффекта вующей номинальной мощности. 
+вытеснения тока) 15 кВт потерь, по расчетам, со- С целью проверки расчетов на наличие гру-
+ставляют магнитные, и 15 кВт составляют элек- бых ошибок проводится моделирование работы 
+трические потери. Полученный результат соответ- проектируемого изделия в среде ANSYS Maxwell. 
+ствует условию работы машины с максимальным  
+КПД, как показано ниже.  Моделирование работы генератора  
+
+ в ANSYS Maxwell 
+Условие работы электрической машины  При расчете генератора в пакете ANSYS 
+с максимальным КПД Maxwell была создана двухмерная модель генера-
+Запишем коэффициент полезного действия тора (разрез поперек оси вала), скриншот из про-
+
+через коэффициент нагрузки: граммы представлен на рис. 1. 
+Магниты в модели намагничиваются по осям 
+
+ к P
+ к г   нг 2н
+
+н 2 ,      (1) 
+к относительных систем координат, которые созда-
+
+нг P2н  Pмаг  кнг Pэл ются отдельно для каждого магнита и вращаются 
+где кнг  P2 P2н  – коэффициент нагрузки элек- вместе с ротором. Обмотка в модели соединяется в 
+трической машины (при неизменном напряжении катушки, а катушки в фазы [7, 8]. 
+то же, что отношение текущей токовой нагрузки к Фазы обмотки соединены в многоугольник и 
+номинальной, то есть к подключены к девятифазному мостовому двух-
+
+нг  I2 I2н ); 
+P полупериодному выпрямителю, как показано на 
+
+2н  – номинальная выходная мощность (прямо рис. 2. В схему также подключены элементы, обо-
+пропорциональна коэффициенту нагрузки, так как значающие активные сопротивления и индуктив-
+мощность от тока зависит практически линейно); ности рассеяния лобовых частей обмотки, которые 
+
+Pмаг  – магнитные потери при номинальной можно получить из расчета электрической маши-
+нагрузке (от тока практически не зависят, поэтому ны в подпрограмме RMxprt Desing или ориентиро-
+множитель отсутствует); вочным расчетом с применением стандартных ме-
+
+Pэл  – электрические потери при номинальной тодик [9, 10]. 
+нагрузке (зависят от тока нагрузки во второй сте- В процессе моделирования работы генератора 
+пени, поэтому множитель во второй степени). в пакете ANSYS Maxwell сначала была рассмотрена 
+
+Условием максимума функции коэффициента работа генератора в режиме холостого хода [11, 12]. 
+полезного действия электрической машины явля- Так как генератор магнитоэлектрический, для ре-
+ется равенство нулю производной данной функции гулирования напряжения на выходе генератора 
+[5, 6]. необходимо изменять частоту вращения его вала. 
+
+Запишем производную функции КПД и опре- В связи с этим имеет смысл провести расчет вы-
+делим условие равенства ее нулю: ходного напряжения генератора при холодных 
+
+магнитах (20 °С) и при нагретых. Осциллограмма 
+'кнг    напряжения при работе с холодными магнитами 
+
+P показана на рис. 3. Было получено значение 1130 В. 
+2н к P 2
+
+нг 2н Pмаг кнгPэл кнгP2н P2н 2кнгPэл 
+ . (2) Производитель постоянных магнитов норми-
+
+к P рует уменьшение параметра остаточной индукции 
+н Pмаг к2
+
+нг 2 нгPэл 2 Br на каждые 100 °С не более 15 %. Таким обра-
+Из условия равенства производной нулю, по- зом, имея поверочный тепловой расчет, можно 
+
+лучаем: рассчитать лишь минимально возможное напря-
+P жение [13]. При этом точно оценить уменьшение 
+
+2н к  P 2
+нг P2н маг  кнг Pэл    
+
+потока возможно лишь эмпирическим путем, так 
+кнг P2н P2н  2кнг Pэл   0 ;       (3) как второй предел уменьшения потока производи-
+
+тель не ограничивает. С использованием данных 
+2 P
+
+к  маг
+нг .          (4) теплового расчета было проведено моделирование 
+
+Pэл работы генератора на холостом ходу с нагретыми 
+Следовательно, при номинальной нагрузке, магнитами [14]. Осциллограмма напряжения изо-
+
+когда коэффициент нагрузки равен единице, усло- бражена на рис. 4. Было получено значение 1064 В. 
+вием максимума КПД будет являться равенство Далее в пакете ANSYS Maxwell был проверен 
+магнитных и электрических потерь. Строго говоря, номинальный режим работы генератора. Осцилло-
+в общем виде зависимость КПД от коэффициента граммы напряжения и тока представлены на рис. 5 
+нагрузки является более сложной, однако было и 6 соответственно.  
+Вестник ЮУрГУ. Серия «Энергетика».  
+2018. Т. 18, № 1. С. 112–121 113 
+
+
+
+Электромеханические системы 
+
+ 
+Рис. 1. Двухмерная модель проектируемого генератора в программе ANSYS Maxwell 
+
+ 
+
+ 
+Рис. 2. Схема соединения обмотки генератора и подключения выпрямителя к нагрузке 
+
+  
+114 Bulletin of the South Ural State University. Ser. Power Engineering. 
+
+2018, vol. 18, no. 1, pp. 112–121 
+
+
+
+Неустроев Н.И., Котов А.А.,         Применение системы автоматического проектирования 
+Киесш И.Е.               ANSYS Maxwell для количественной оценки… 
+
+ 
+Рис. 3. Осциллограмма напряжения холостого хода при холодных магнитах 
+
+ 
+ 
+
+ 
+Рис. 4. Осциллограмма напряжения холостого хода при нагретых магнитах 
+
+ 
+ 
+ 
+
+Вестн ик ЮУрГУ. Серия «Энергетика».  
+2018. Т. 18, № 1. С. 112–121 115 
+
+
+
+Электромеханические системы 
+
+ 
+Рис. 5. Осциллограмма напряжения на выходе выпрямителя под нагрузкой  
+
+(полученное значение 980 В) 
+ 
+
+ 
+Рис. 6. Осциллограмма тока на выходе выпрямителя при номинальной нагрузке  
+
+(полученное значение составляет 1100 А) 
+ 
+
+Также была проведена количественная оценка Количественная оценка влияния эффекта  
+влияния эффекта вытеснения тока в пазу [15].  вытеснения тока по стандартным методикам 
+В паз генератора был заложен провод, представ- Вначале рекомендуется вычислить условную 
+ляющий из себя цельную медную шину. Под на- глубину проникновения тока в стержне, при этом 
+грузкой неизбежно возникает эффект вытеснения принимается, что ток на данной глубине распреде-
+тока. Для стандартных асинхронных двигателей лен равномерно.  
+выбранные соотношения сторон провода и паза Условная глубина проникновения тока: 
+являются абсолютно приемлемыми, так как в 
+
+h a
+стандартных асинхронных двигателях частота тока r  , 
+50 Гц. В полученном генераторе частота тока в 1 
+фазах составляет 350 Гц, вследствие чего эффект где a – высота провода в пазу, мм; 
+вытеснения тока в пазу усиливается, что приводит   – коэффициент, определяемый по эмпири-
+к резкому возрастанию потерь [16]. ческому графику в зависимости от безразмерного 
+
+116 Bulletin of the South Ural State University. Ser. Power Engineering. 
+2018, vol. 18, no. 1, pp. 112–121 
+
+
+
+Неустроев Н.И., Котов А.А.,         Применение системы автоматического проектирования 
+Киесш И.Е.               ANSYS Maxwell для количественной оценки… 
+коэффициента ξ, называемого «численной» высо- Рассчитаем коэффициент увеличения сопро-
+той стержня. тивления: 
+
+Определим коэффициент: Kr 111,4  2, 4 . 
+
+ 2 a 101 b f м, согласно расчетам по эмпи-
+   105  2 0,01 Таким образо
+
+101  
+b рическим формулам получено, что электрические 
+
+п 
+потери вследствие вытеснения тока должны уве-
+
+0,003 350
+ 105 2,37 . личиться в 2,4 раза. Точка максимального КПД 
+
+0,0041 0,018106  
+должна сместиться в область значений ниже но-
+
+По эмпирическому графику определим коэф- минальной нагрузки, ориентировочно 650 кВт. 
+фициент:  1, 4 . Максимальный КПД изменится по значению и 
+
+составит 95,5 % [18, 19]. 
+Отсюда определим условную глубину про-  
+
+никновения тока: Моделирование эффекта вытеснения тока  
+h 0,01 3
+
+r   4,167 10 ,  м . в ПО ANSYS Maxwell 
+11,4 Далее был проведен расчет в ANSYS Maxwell 
+
+Следующим шагом будет расчет сопротивле- с учетом вытеснения тока в пазу. 
+ния стержня с учетом вытеснения тока [17]. Из- На рис. 7 изображена картина пазового рас-
+вестно, что от сопротивления потери в обмотке сеяния машины. Видно, что существенная часть 
+зависят прямо пропорционально: потока замыкается по пути рассеяния и не сцепля-
+
+ется с основным потоком [20]. Эти потоки рассея-
+P 2
+
+эл  I R .          (6) ния наводят ЭДС, различную по высоте шины, что 
+Следовательно, коэффициент увеличения со- приводит к возникновению различных по высоте 
+
+противления вследствие вытеснения тока будет шины плотностей тока. 
+равен коэффициенту увеличения потерь по ука- На рис. 8 показано распределение плотностей 
+занной причине. Коэффициент увеличения сопро- тока в пазу электрической машины вследствие 
+тивления стержня определяется по формуле: эффекта вытеснения тока. Таким образом, получа-
+
+K l2п ем нерациональное использование меди в пазу, 
+r 1  ,         (7) 
+
+l часть провода не работает, а другая часть сильно 
+2
+
+где l2  – длина стержня; перегружена. 
+Далее была получена осциллограмма суммар-
+
+l2п  – длина пазовой части стержня без длины ных потерь в шинах обмотки, называемых в ПО 
+в радиальных каналах. ANSYS Maxwell «SolidLoss». Осциллограмма потерь 
+
+Так как в исследуемом случае радиальные ка- представлена на рис. 9. На рисунке можно увидеть, 
+налы отсутствуют, то описанные длины равны, а что суммарные потери в меди составляют 45 кВт, как 
+как следствие, их отношение равно 1. и было получено во время испытаний машины. 
+
+ 
+Рис. 7. Картина магнитного потока машины 
+
+ 
+Вестник ЮУрГУ. Серия «Энергетика».  
+2018. Т. 18, № 1. С. 112–121 117 
+
+
+
+Электромеханические системы 
+
+ 
+Рис. 8. Картина вытеснения тока в пазу 
+
+ 
+
+ 
+Рис. 9. Осциллограмма суммарных потерь в шинах обмотки генератора 
+
+ 
+Исходя из расчетов, проведенных в ANSYS римента) и с использованием расщепленной обмот-
+
+Maxwell, следует вывод о том, что точка макси- ки. Макетные образцы были испытаны. Получен-
+мального КПД сместится в область более низких, ные результаты испытаний макетного образца с 
+относительного номинальной, нагрузок, ориенти- шинной обмоткой показали: магнитные потери (оп-
+ровочно 580 кВт. И величина максимального КПД ределяемые на холостом ходу) соответствуют рас-
+в этом случае составит 95,1 %. четным, электрические потери в обмотке при номи-
+
+ нальной нагрузке соответствуют значениям, полу-
+Заключение ченным при расчете в ANSYS Maxwell, и, как след-
+На основании результатов проектирования ге- ствие, превышают величину, полученную по стан-
+
+нератора на АО «НПО «Электромашина» было из- дартным методикам. Максимальный КПД находил-
+готовлено два макетных образца с использованием ся в области 580 кВт, что дополнительно подтвер-
+шин в пазах (с целью проведения научного экспе- ждает верность расчетов в ПО ANSYS Maxwell. 
+
+118 Bulletin of the South Ural State University. Ser. Power Engineering. 
+2018, vol. 18, no. 1, pp. 112–121 
+
+
+
+Неустроев Н.И., Котов А.А.,         Применение системы автоматического проектирования 
+Киесш И.Е.               ANSYS Maxwell для количественной оценки… 
+
+Также были проведены испытания второго 7. Новожилов, М.А. Разработка математи-
+макетного образца с расщепленной обмоткой.  ческой модели глубокопазного асинхронного дви-
+По результатам испытаний было подтверждено гателя для исследования переходных процессов / 
+исключение влияния эффекта вытеснения тока М.А. Новожилов, В.А. Пионкевич // Вестник Ир-
+при использовании в пазу расщепленной обмот- кутского государственного технического универ-
+ки. Максимальный КПД, согласно опытным дан- ситета. – 2014. – № 11. – С. 245–251. 
+ным, составил 97,4 % и был получен в номиналь- 8. Sivokobylenko, V.F. Design-experimental es-
+ной точке. timation of induction motors equivalent circuit pa-
+
+Таким образом, можно сделать вывод о том, rameters and characteristics / V.F. Sivokobylenko, 
+что применение системы автоматического проек- S.V. Vasylets // Scientific Bulletin of National Mining 
+тирования ANSYS Maxwell при расчетах количе- University. – 2014. – No. 5. – P. 76–82.  
+ственного влияния эффекта вытеснения тока в об- 9. Tatevosyan, A.A. The study of the electro-
+мотке машин переменного тока дает заведомо бо- magnetic field of the synchronous magnetoelectric 
+лее точный результат, нежели ориентировочная generator / A.A. Tatevosyan, V.V. Fokina // Interna-
+оценка по стандартным методикам. Продемонст- tional Siberian conference on control and commu-
+рирована легкость интерпретации всех результа- nications. Institute of Electrical and Electronics 
+тов, получаемых при проектировании в ANSYS Engineers Inc. – 2015. – P. 714–725. DOI: 
+Maxwell, ввиду наглядности графического предос- 10.1109/SIBCON.2015.7147255 
+тавления информации. 10. Chalmers, B.J. Developments in electrical 
+
+Также было показано, что электромагнитные machines using permanent magnets / B.J. Chalmers // 
+расчеты в программном обеспечении ANSYS Journal of magnetism and magnetic materials. – 
+Maxwell аналогично подтверждаются при прове- 1996. – Vol. 157–158. – P. 131–132. DOI: 
+дении испытаний изготовленных образцов в части 10.1016/0304-8853(95)01038-6 
+всех характеристик, получаемых в процессе моде- 11. Vesa Ruuskanen. Determining electrical effi-
+лирования работы электромеханического преобра- ciency of permanent magnet synchronous machines 
+зователя.  with different control methods / Vesa Ruuskanen, Pau-
+
+ la Immonen, Janne Nerg, Juha Pyrhonen // Electrical 
+Литература Engineering. – 2012. – Vol. 94, no. 2. – P. 97–106. 
+
+1. Вольдек, А.И. Электрические машины: DOI: 10.1007/s00202-011-0223-5 
+учеб. для студентов высш. техн. учебн. заведений / 12. Gandzha, S.A. The comparative analysis of 
+А.И. Вольдек. – 3-е изд., перераб. – Л.: Энергия, permanent magnet electric machines with integer and 
+1978. – 832 с. fractional number of slots per pole and phase /  
+
+2. Копылов, И.П. Проектирование электриче- S.A. Gandzha, A.I. Sogrin, I.E. Kiessh // Procedia  
+ских машин: учеб. / И.П. Копылов. – М.: Высшая Engineering. – 2015. – Vol. 129. – P. 408–414. DOI: 
+школа, 2005. – 767 с. 10.1016/j.proeng.2015.12.137 
+
+3. Сергеев, П.С. Проектирование электриче- 13. Zapadnya, M.F. Special-purpose high-
+ских машин / П.С. Сергеев. – 3-е изд., перераб. и velocity permanent magnet synchronous generator / 
+доп. – М.: Энергия, 1969. – 632 с. M.F. Zapadnya, A.P. Shikhtin // Russian Electrical 
+
+4. Мартьянов, А.С. Анализ электромеханиче- Engineering. – 2016. – Vol. 87, no. 11. – P. 647–650. 
+ских систем с помощью Ansys Maxwell / А.С. Мар- DOI: 10.3103/S1068371216110134 
+тьянов, Н.И. Неустроев // Международный науч- 14. Трещев, И.И. Электромеханические про-
+ный журнал Альтернативная энергетика и эколо- цессы в машинах переменного тока / И.И. Трещев. – 
+гия. – 2014. – № 19 (159). – С. 47–52. Л.: Энергия, 1980. – 344 с. 
+
+5. Татевосян, А.С. Исследование индуктиро- 15. Zhang Yuejin. 3D magnetic field computation 
+ванной электродвижущей силы в обмотке магни- of a permanent magnet disc-type generator using sca-
+тоэлектрического генератора / А.С. Татевосян, lar potential method / Zhang Yuejin, Xie Guodong,  
+А.А. Татевосян, В.В. Фокина // Электротехника. Tu Guanzhen // Journal of Shanghai University (Eng-
+Электротехнология. Энергетика: сб. науч. тр. VII lish Edition). – 1997. – Vol. 1, no. 3. – P. 237–241. 
+Междунар. науч. конф. молодых ученых. Ч. 1. Сек- DOI: 10.1007/s11741-997-0030-4 
+ция «Электротехника». – Новосибирск: НГТУ, 16. Bing Guo. Calculation of rated load voltage 
+2015. – С. 67–71.  for permanent magnet motor by finite element me-
+
+6. Александров, Е.В. Математическое описа- thod / Bing Guo, XinZhen Wu // Unifying Electrical 
+ние асинхронного электродвигателя с учетом по- Engineering and Electronics Engineering. – 2013. –  
+терь в стали, поверхностного эффекта, насыще- P. 757–765. DOI: 10.1007/978-1-4614-4981-2_82 
+ния магнитной системы основным потоком и по- 17. Schieber, D. Electrodynamics of polyphase 
+токами рассеяния / Е.В. Александров // Известия windings / D. Schieber // Electrical Engineering. – 
+Тульского государственного университета. Серия 1976. – Vol. 58, no. 2. – P. 117–127. DOI: 
+«Технические науки». – 2010. – Вып. 2, ч. 2. –  10.1007/BF01574197 
+С. 243–250. 18. Hatziathanassiou, V. Electrical-thermal cou-
+
+Вестник ЮУрГУ. Серия «Энергетика».  
+2018. Т. 18, № 1. С. 112–121 119 
+
+
+
+Электромеханические системы 
+pled calculation of an asynchronous machine /  Wiley-IEEE Press. – 2014. – Vol. 1. – P. 488. DOI: 
+V. Hatziathanassiou, J. Xypteras, G. Archontoulakis // 10.1002/9781118824603.ch09 
+Electrical Engineering. – 1994. – Vol. 77, no. 2. –  20. Seung-Ki Sul. Basic Structure and Modeling 
+P. 117–122. DOI: 10.1007/BF01578534 of Electric Machines and Power Converters / Seung-
+
+19. Scott D. Sudhoff. Introduction to Permanent Ki Sul // Wiley-IEEE Press. – 2011. – Vol. 1. – P. 512. 
+Magnet AC Machine Design / Scott D. Sudhoff // DOI: 10.1002/9780470876541.ch2 
+
+ 
+ 
+
+Неустроев Николай Игоревич, ассистент, кафедра «Теоретические основы электротехники», Южно-
+Уральский государственный университет, г. Челябинск; neustroev.nikolai@mail.ru. 
+
+Котов Антон Андреевич, аспирант, кафедра «Теоретические основы электротехники», Южно-Ураль-
+ский государственный университет, г. Челябинск; aakot@mail.ru. 
+
+Киесш Ирина Егоровна, старший преподаватель, кафедра «Теоретические основы электротехники», 
+Южно-Уральский государственный университет, г. Челябинск; kiesshie@susu.ru. 
+ 
+
+Поступила в редакцию 12 декабря 2017 г.
+ 
+__________________________________________________________________
+ 
+
+DOI: 10.14529/power180114
+ 
+USING THE ANSYS MAXWELL CAD SYSTEM  
+FOR QUANTITATIVE EVALUATION OF THE CURRENT 
+DISPLACEMENT EFFECT IN AC MACHINES 
+ 
+N.I. Neustroev, neustroev.nikolai@mail.ru, 
+A.A. Kotov, aakot@mail.ru, 
+I.E. Kiessh, kiesshie@susu.ru 
+South Ural State University, Chelyabinsk, Russian Federation 
+ 
+ 
+
+This paper dwells upon quantitative evaluation of the current displacement effect occurring in the buses lo-
+cated in AC machine bars, with evidence collected from a high-power magneto-electric generator. We herein 
+specify the basic factors affecting the increase in currents observed in electric-machine buses. The paper pre-
+sents examples of calculating the mean bus resistance increase by time-tested methods described in recognized 
+scientific sources. We have also investigated the problem of modeling electromagnetic processes in ANSYS
+Maxwell, a CAD system. We make a specific emphasis on the functionality ANSYS Maxwell provides for gra-
+phical rendering of information derived from the simulation of electromechanical transducers. The presented 
+graphical interpretation of generator simulation results makes it easier to understand the physics behind 
+this phenomenon while also facilitating the use of the software. The two mentioned methods for quantitative 
+current-displacement evaluation are herein further compared based on the experimental data AO NPO 
+Elektromashina has obtained from the samples of a calculated high-power magnetoelectric generator. Judging 
+from this comparison of two methods for quantitative evaluation of current displacement in AC generator win-
+dings, we find the preferable method for calculating the total energy loss in the windings of electromechanical 
+transducers. We also analyze the losses occurring in high-power magneto-electric generators, which losses af-
+fect considerably the efficiency of electric machines. We thus find the condition of maximizing the efficiency of 
+high-power electric machines. 
+
+Keywords: electric machine, current displacement effect, computer-aided design system, ANSYS Maxwell, 
+efficiency. 
+
+ 
+ 
+
+References 
+1. Vol'dek A.I. Elektricheskie mashiny: uchebnik dlya studentov vysshikh tekhnicheskikh uchebnykh zavedeniy
+
+[Electrical Machines]. Leningrad, Energiya Publ., 1978. 832 p. 
+2. Kopylov I.P. Proektirovanie elektricheskikh mashin: uchebnik [Designing Electrical Machines]. Moscow, 
+
+Vysshaya shkola, 2005. 767 p. 
+3. Sergeev P.S. Proektirovanie elektricheskikh mashin [Designing Electrical Machines]. Moscow, Energiya 
+
+Publ., 1969. 632 p. 
+ 
+
+120 Bulletin of the South Ural State University. Ser. Power Engineering. 
+2018, vol. 18, no. 1, pp. 112–121 
+
+
+
+Неустроев Н.И., Котов А.А.,         Применение системы автоматического проектирования 
+Киесш И.Е.               ANSYS Maxwell для количественной оценки… 
+
+4. Mart'yanov A.S., Neustroev N.I. [Analyzing Electromechanical Systems by Means of Ansys Maxwell]. 
+Mezhdunarodnyy nauchnyy zhurnal Al'ternativnaya energetika i ekologiya [International Scientific Journal for 
+Alternative Energy and Ecology], 2014, no. 19 (159), pp. 47–52. (in Russ.) 
+
+5. Tatevosyan A.S., Tatevosyan A.A., Fokina V.V. [Investigating the Induced Electromotive Force in Magne-
+to-Electric Generator Windings]. Elektrotekhnika. Elektrotekhnologiya. Energetika: sbornik nauchnykh trudov VII 
+Mezhdunarodnoy nauchnoy konferentsii molodykh uchenykh [Electrical Engineering. Electrotechnology. Energy: 
+Collected Papers International Scientific Conference of Young Scientists]. Novosibirsk, NGTU Publ., 2015, vol. 1, 
+pp. 67–71. (in Russ.) 
+
+6. Aleksandrov, E.V. [Mathematical Description of an Asynchronous Electric Motor: Accounting for Losses 
+in Steel, the Surface Effect, and the Saturation of the Magnetic System With Main and Stray Fluxes]. Izvestiya 
+Tul'skogo gosudarstvennogo universiteta. Seriya “Tekhnicheskie nauki” [News of Tula State University. Ser. 
+Technical Sciences], 2010, vol. 2, no. 2, pp. 243–250. (in Russ.) 
+
+7. Novozhilov M.A., Pionkevich V.A. [Modeling a Deep Bar Asynchronous Motor to Study Transient Pro-
+cesses]. Vestnik Irkutskogo gosudarstvennogo tekhnicheskogo universiteta [Bulletin of the Irkutsk State Technical 
+University], 2014, no. 11, pp. 245–251. (in Russ.) 
+
+8. Sivokobylenko V.F., Vasylets S.V. Design-experimental Estimation of Induction Motors Equivalent Circuit 
+Parameters and Characteristics. Scientific Bulletin of National Mining University, 2014, no. 5, pp. 76–82.  
+
+9. Tatevosyan A.A., Fokina V.V. The Study of the Electromagnetic Field of the Synchronous Magnetoelectric 
+Generator. International Siberian Conference on Control and Communications. Institute of Electrical and Elec-
+tronics Engineers Inc., 2015, pp. 714–725. DOI: 10.1109/SIBCON.2015.7147255 
+
+10. Chalmers B.J. Developments in Electrical Machines Using Permanent Magnets. Journal of Magnetism 
+and Magnetic Materials, 1996, vol. 157–158, pp. 131–132. DOI: 10.1016/0304-8853(95)01038-6 
+
+11. Vesa Ruuskanen, Paula Immonen, Janne Nerg, Juha Pyrhonen. Determining Electrical Efficiency of Per-
+manent Magnet Synchronous Machines with Different Control Methods. Electrical Engineering, 2012, vol. 94,  
+no. 2, pp. 97–106. DOI: 10.1007/s00202-011-0223-5  
+
+12. Gandzha S.A., Sogrin A.I., Kiessh I.E. The Comparative Analysis of Permanent Magnet Electric Ma-
+chines with Integer and Fractional Number of Slots per Pole and Phase. Procedia Engineering, 2015, vol. 129,  
+pp. 408–414. DOI: 10.1016/j.proeng.2015.12.137 
+
+13. Zapadnya M.F., Shikhtin A.P. Special-purpose High-velocity Permanent Magnet Synchronous Generator. 
+Russian Electrical Engineering, 2016, vol. 87, no. 11, pp. 647–650. DOI: 10.3103/S1068371216110134 
+
+14. Treshchev, I.I. Elektromekhanicheskie protsessy v mashinakh peremennogo toka [Electromechanical Pro-
+cesses in Alternating-Current Machines], Leningrad, Energiya Publ., 1980. 344 p. 
+
+15. Zhang Yuejin, Xie Guodong, Tu Guanzhen. 3D Magnetic Field Computation of a Permanent Magnet 
+Disc-Type Generator Using Scalar Potential Method. Journal of Shanghai University (English Edition), 1997, vol. 1, 
+no. 3, pp 237–241. DOI: 10.1007/s11741-997-0030-4 
+
+16. Bing Guo, XinZhen Wu. Calculation of Rated Load Voltage for Permanent Magnet Motor by Finite 
+Element Method. Unifying Electrical Engineering and Electronics Engineering, 2013, pp. 757–765. DOI: 
+10.1007/978-1-4614-4981-2_82 
+
+17. Schieber D. Electrodynamics of Polyphase Windings. Electrical Engineering, 1976, vol. 58, no. 2,  
+pp. 117–127. DOI: 10.1007/BF01574197 
+
+18. Hatziathanassiou V., Xypteras J., Archontoulakis G. Electrical-thermal Coupled Calculation of an Asyn-
+chronous Machine]. Electrical Engineering, 1994, vol. 77, no. 2, pp. 117–122. DOI: 10.1007/BF01578534 
+
+19. Scott D. Sudhoff. Introduction to Permanent Magnet AC Machine Design. Wiley-IEEE Press, 2014,  
+vol. 1, pp. 488. DOI: 10.1002/9781118824603.ch09 
+
+20. Seung-Ki Sul. Basic Structure and Modeling of Electric Machines and Power Converters. Wiley-IEEE 
+Press, 2011, vol. 1, pp. 512. DOI: 10.1002/9780470876541.ch2 
+
+ 
+Received 12 December 2017 
+
+ 
+ 
+
+ОБРАЗЕЦ ЦИТИРОВАНИЯ  FOR CITATION 
+Неустроев, Н.И. Применение системы автома-  Neustroev N.I., Kotov A.A., Kiessh I.E. Using  
+
+тического проектирования ANSYS Maxwell для ко- the ANSYS Maxwell Cad system for Quantitative Eva-
+личественной оценки влияния эффекта вытеснения luation of the Current Displacement Effect in AC Ma-
+тока в электрических машинах переменного тока / chines. Bulletin of the South Ural State University. Ser. 
+Н.И. Неустроев, А.А. Котов, И.Е. Киесш // Вестник Power Engineering, 2018, vol. 18, no. 1, pp. 112–121.  
+ЮУрГУ. Серия «Энергетика». – 2018. – Т. 18, № 1. – (in Russ.) DOI: 10.14529/power180114 
+С. 112–121. DOI: 10.14529/power180114  
+
+  
+Вестник ЮУрГУ. Серия «Энергетика».  
+2018. Т. 18, № 1. С. 112–121 121

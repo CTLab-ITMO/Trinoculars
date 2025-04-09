@@ -1,0 +1,1065 @@
+﻿Мелиорация и гидротехника. 2022. Т. 12, № 4. С. 367–383. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 4. P. 367–383. 
+
+ 
+ГИДРАВЛИКА И ИНЖЕНЕРНАЯ ГИДРОЛОГИЯ 
+
+Научная статья  
+УДК 626.860.41, 627.1:627.133 
+doi: 10.31774/2712-9357-2022-12-4-367-383 
+
+Максимальные годовые расходы воды малых рек 
+Славского района Калининградской области 
+
+Владимир Аркадьевич Наумов  
+Калининградский государственный технический университет, Калининград,  
+Российская Федерация, van-old@mail.ru, https://orcid.org/0000-0003-0560-5933 
+
+Аннотация. Цель: восстановить ряды максимальных годовых расходов воды 
+(МГРВ) малых рек Славского района Калининградской области и определить расчет-
+ные значения МГРВ с необходимой для проектировщиков обеспеченностью. Материа-
+лы и методы. Исходные материалы – данные наблюдений Росгидромета за расходами 
+воды на р. Злой, Осе и Немонинке (бассейн р. Немонин) и на р. Инструч. Река Инструч 
+была использована в качестве аналога для восстановления МГРВ р. Злой за несколько 
+пропущенных лет наблюдений. У р. Осы имеется самый короткий ряд наблюдений, для 
+его восстановления, как и для р. Немонин, аналогом послужила р. Злая. Была выдвину-
+та гипотеза, что МГРВ рек Славского района подчиняются трехпараметрическому гам-
+ма-распределению (Крицкого – Менкеля). Для решения системы интегральных уравне-
+ний был использован ранее разработанный численный метод. Результаты. Установле-
+на тесная стохастическая связь между МГРВ притоков р. Немонин за годы совместных 
+наблюдений. Это позволило получить восстановленные ряды МГРВ за 1955–2019 гг. 
+Были построены кривые обеспеченности трех малых рек, подтвердилась гипотеза 
+о возможности применения распределения Крицкого – Менкеля. По аналитическим 
+выражениям указанного распределения были найдены расчетные значения МГРВ за-
+данных вероятностей превышения. Выводы. На гидрологические характеристики ис-
+следованных рек бассейна Немонина сильное влияние оказывают функции водоприем-
+ников осушительных мелиоративных систем. Из-за невозможности разделения пико-
+вых годовых расходов на максимумы дождевых и талых вод для каждой реки были 
+восстановлены единые ряды МГРВ, независимо от их происхождения. У притоков 
+р. Немонин отношение максимальных расходов к средним годовым заметно ниже, чем 
+у р. Инструч, которая находится в сходных гидрологических условиях, но не подвер-
+жена столь сильному антропогенному воздействию. Рассчитанные модули МГРВ за-
+данных вероятностей превышения могут быть использованы при проектировании осу-
+шительных систем и гидротехнических сооружений. 
+
+Ключевые слова: мелиоративные осушительные системы, водоприемники, реки 
+Злая, Оса, Немонинка, максимальные годовые расходы, восстановление рядов, вероят-
+ность превышения 
+
+Благодарности: работа выполнена при финансовой поддержке Российского 
+научного фонда и Правительства Калининградской области в рамках научного проекта 
+№ 22-27-20016. 
+
+Для цитирования: Наумов В. А. Максимальные годовые расходы воды малых 
+рек Славского района Калининградской области // Мелиорация и гидротехника. 2022. 
+Т. 12, № 4. С. 367–383. https://doi.org/10.31774/2712-9357-2022-12-4-367-383. 
+
+___________________ 
+© В. А. Наумов, 2022 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 4. С. 367–383. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 4. P. 367–383. 
+
+ 
+HYDRAULICS AND ENGINEERING HYDROLOGY 
+
+Original article 
+
+Maximum annual water discharges of small rivers 
+in Slavsky district Kaliningrad region 
+
+Vladimir A. Naumov 
+Kaliningrad State Technical University, Kaliningrad, Russian Federation, van-old@mail.ru, 
+https://orcid.org/0000-0003-0560-5933 
+
+Abstract. Purpose: to restore the series of maximum annual water discharges (MAWD) 
+of small rivers in Slavsky district Kaliningrad region and determine the calculated values of 
+MAWD with the necessary availability for designers. Materials and methods. The basic mate-
+rial – observational data of Roshydromet for water discharges on the Zlaya, Osa and Nemon-
+inka (Nemonin river basin) rivers and on the Instruch river. The Instruch river was used as an 
+analogue for the restoration of the MAWD on the Zlaya river for a few missed years of obser-
+vation. The river Osa has the shortest series of observations, for its restoration, as well as for 
+the Nemonin river, the Zlaya river served as an analogue. A hypothesis that the MAWD of the 
+rivers of the Slavsky district obey a three-parameter gamma distribution (Kritsky-Menkel) 
+was put forward. To solve the system of integral equations, a previously developed numerical 
+method was used. Results. A close stochastic relationship between the MAWD of the tribu-
+taries of the Nemonin river has been determined for years of joint observations. This made it 
+possible to obtain the restored MAWD series for 1955–2019. The probability curves of three 
+small rivers were constructed, and the hypothesis on possibility of using the Kritsky-Menkel 
+distribution was confirmed. According to the analytical expressions of the specified distribu-
+tion, the calculated values of the MAWD of the given exceedance probabilities were found. 
+Conclusions. The hydrological characteristics of the studied rivers of the Nemonin basin are 
+strongly influenced by the functions of water intakes of draining reclamation systems. Due to 
+the impossibility of dividing the peak annual discharges into the maxima of rain and melt wa-
+ter for each river, a single series of MAWD was restored, regardless of their origin. At the 
+tributaries of the Nemonin river, the ratio of maximum discharges to average annual ones is 
+noticeably lower than that of the Instruch river, which is under the similar hydrological condi-
+tions, but is not subject to such a strong anthropogenic impact. The calculated MAWD mod-
+ules of the given exceedance probabilities can be used in the design of drainage systems and 
+hydraulic structures. 
+
+Keywords: reclamation draining systems, water intakes, the Zlaya, the Osa, the 
+Nemoninka rivers, maximum annual water discharge, row restoration, exceedance probability  
+
+Acknowledgments: the work was supported financially by the Russian Science Foun-
+dation and the Government of Kaliningrad Region within the framework of the scientific pro-
+ject no. 22-27-20016. 
+
+For citation: Naumov V. A. Maximum annual water discharges of small rivers in Slav-
+sky district Kaliningrad region. Land Reclamation and Hydraulic Engineering. 2022;12(4): 
+367–383. (In Russ.). https://doi.org/10.31774/2712-9357-2022-12-4-367-383. 
+
+Введение. Мелиоративные осушительные системы относятся к клас-
+
+су природно-технических комплексов (ПТК), в которых осуществляется 
+
+взаимосвязь и взаимодействие «природная среда – объект деятельности – 
+
+население» [1, 2]. Малые реки являются наиболее уязвимым звеном в по-
+
+2 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 4. С. 367–383. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 4. P. 367–383. 
+
+ 
+добных комплексах. Строительство гидротехнических сооружений (ГТС), 
+
+осушение болот, введение в эксплуатацию мелиоративных систем, сброс 
+
+сточных вод могут заметно повлиять на экологическое состояние и гидро-
+
+логические характеристики таких водотоков. Поэтому изучению различ-
+
+ных вопросов состояния малых рек посвящено много публикаций ([3–6] и 
+
+библиография в них). 
+
+Наряду с общими закономерностями, присущими малым рекам в со-
+
+ставе ПТК Северо-Западного федерального округа России, водотоки Кали-
+
+нинградской области имеют существенные особенности. Эти особенности 
+
+связаны с деятельностью в течение нескольких веков в Восточной Пруссии 
+
+переселенцев из Нидерландов. Было построено большое количество осу-
+
+шительных систем с механическим подъемом воды – польдеров. Часть ма-
+
+лых рек стала водоприемниками вод с осушаемых земель, их русла были 
+
+углублены и спрямлены. В настоящее время на территории Калининград-
+
+ской области расположено около 20 % всех мелиорированных земель и 
+
+70 % польдеров России. 
+
+Как известно, в 60–70-е гг. прошлого века в нашей стране было раз-
+
+вернуто строительство большого количества осушительных мелиоратив-
+
+ных систем. В Калининградской области также вкладывались значитель-
+
+ные средства в эту отрасль, включая расширение и реконструкцию уже 
+
+существующих осушительных систем. Весьма интересным представляется 
+
+анализ влияния осушительных мероприятий на гидрологические характе-
+
+ристики водотоков [7]. Но, к сожалению, он практически не применим 
+
+к водотокам Калининградской области, так как осушительные системы бы-
+
+ли созданы раньше начала систематических гидрологических наблюдений. 
+
+Самый крупный в Калининградской области (и в России) массив 
+
+польдерных земель, площадь которого составляет примерно 68 тыс. га, 
+
+расположен в Славском районе. Этим объясняется повышенный научный 
+
+интерес к состоянию водотоков этой территории [8–13]. Для анализа со-
+
+3 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 4. С. 367–383. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 4. P. 367–383. 
+
+ 
+стояния бассейнов малых рек важно иметь многолетнюю, достоверную 
+
+гидрологическую информацию. Во время интенсивных работ по осуше-
+
+нию на малых реках Славского района действовало три гидрологических 
+
+поста (ГП) (рисунок 1, таблица 1). Реки Злая, Оса и Немонинка относятся 
+
+к бассейну р. Немонин, впадающей в Куршский залив Балтийского моря. 
+
+ 
+1 – р. Инструч (Ульяново); 2 – р. Злая (Приозерье);  
+
+3 – р. Оса (Краснознаменское); 4 – р. Немонинка (Тимирязево).  
+За основу взята схема из атласа Д. А. Домнина, Б. В. Чубаренко [14] 
+
+1 – the Instruch river (Ulyanovo); 2 – the Zlaya river (Priozerie); 3 – the Osa river 
+(Krasnoznamenskoe); 4 – the Nemoninka river (Timiryazevo).  
+
+Based on the scheme from the D. A. Domnin and B. V. Chubarenko atlas [14] 
+
+Рисунок 1 – Схема расположения гидрологических постов  
+
+Figure 1 – Hydrological posts layout  
+
+Таблица 1 – Сведения о гидрологических постах 
+
+Table 1 – Information on hydrological posts 
+Площадь  Расстояние  
+
+Река – ГП  
+до ГП, км2 Год наблюдения 
+
+от истока, км 
+Инструч – пос. Ульяново 587 51 1885 – настоящее время 
+Злая – пос. Краснознаменское 142 50 1961 – настоящее время 
+Оса – пос. Приозерье 68,5 26 1962–1972 
+Немонинка – пос. Тимирязево 75,0 25 1962–1986 
+
+4 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 4. С. 367–383. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 4. P. 367–383. 
+
+ 
+В настоящее время действует только один ГП на р. Злой. В связи 
+
+с этим представляются весьма актуальными работы [12, 13], в которых бы-
+
+ла предпринята попытка восстановления гидрологических рядов на ГП ма-
+
+лых рек Славского района. Однако весьма спорным является выбор [12] рек 
+
+в Польше, Германии и Шотландии в качестве аналогов для малых рек 
+
+в Славском районе Калининградской области. Нарушено требование геогра-
+
+фической близости расположения водосборов, а также ряд условий гидроло-
+
+гического подобия. В работе Ю. А. Спирина (2021) [12] рассматриваются 
+
+средние годовые расходы воды, в исследовании Ю. А. Спирина (2020) [13] – 
+
+средние месячные. Тогда как проектировщиков ГТС и осушительных ме-
+
+лиоративных систем интересуют в первую очередь пиковые расходы воды. 
+
+Ни в одной из перечисленных работ максимальные годовые расходы воды 
+
+(МГРВ) не рассматриваются. 
+
+Цель данной статьи – восстановить ряды МГРВ малых рек Славского 
+
+района и определить расчетные значения МГРВ с необходимой для проек-
+
+тировщиков обеспеченностью. 
+
+Материалы и методы. В качестве исходных материалов использо-
+
+вались данные наблюдений Росгидромета за расходами воды на ГП, ука-
+
+занных в таблице 1. До 1986 г. они публиковались в Гидрологических еже-
+
+годниках. Автоматизированная информационная система государственно-
+
+го мониторинга водных объектов (АИС ГМВО)1 в настоящее время предо-
+
+ставляет данные наблюдений в электронной форме по 2019 г.  
+
+Как видно из данных таблицы 1, самый длинный ряд наблюдений 
+
+за расходами воды на реках Славского района – на р. Злой (с 1961 г.). Од-
+
+нако отсутствуют данные наблюдений за 1987–1989, 1992, 2005–2007 гг. 
+
+Кроме того, ранее нами была показана целесообразность изучения тенден-
+
+                                                          
+1Автоматизированная информационная система государственного мониторинга 
+
+водных объектов [Электронный ресурс]. URL: https:gmvo.skniivh.ru/ (дата обращения: 
+15.07.2022). 
+
+5 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 4. С. 367–383. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 4. P. 367–383. 
+
+ 
+ций гидрологических характеристик на реках региона с середины 50-х гг. 
+
+прошлого века [15]. Поэтому кроме указанных лет будем восстанавливать 
+
+ряд МГРВ р. Злой за 1955–1960 гг. 
+
+В качестве аналога для восстановления ряда МГРВ р. Злой целесооб-
+
+разно выбрать р. Инструч. Она относится к бассейну р. Преголи, но дей-
+
+ствующий на р. Инструч ГП в пос. Ульяново расположен всего в 51 км 
+
+от ее истока и в непосредственной близости к бассейну р. Немонин 
+
+(см. рисунок 1). Поэтому схожесть гидрологических условий обеспечена. 
+
+Также выполнены все требования свода правил2 к рекам-аналогам, в част-
+
+ности, число лет совместных наблюдений не менее шести, в нашем слу-
+
+чае – 52; коэффициент парной корреляции равен 0,702. 
+
+Для восстановления пропущенных данных использовался метод, 
+
+описанный в работе Е. Г. Иванова [16]. Так как статистическая связь МГРВ 
+
+р. Инструч Q1 , м3/с, и р. Злой Q2 , м3/с, формируется за счет присутствия 
+
+случайной составляющей в структуре обеих сравниваемых величин, то за ее 
+
+оценку нужно принимать линию, соответствующую центральной оси эллип-
+
+са рассеяния переменных [16]. Эта линия занимает среднее положение меж-
+
+ду регрессиями Q2  по Q1  (1) и Q1  по Q2  (2) и описывается уравнением (3): 
+
+
+ Q  2
+
+2 Qm2  r   Q1  Qm  , (1) 
+1
+
+1
+
+
+ Q  1  
+
+1 Qm1  r   Q2  Qm (2)
+2  , 
+
+2
+
+
+ Q 2
+
+2  Qm2   Q1  Qm (3)
+1,  
+
+1
+
+где Qm2 , Qm1  – средние значения МГРВ соответственно р. Злой и Иструч 
+
+за годы совместных наблюдений, м3/с;  
+
+r  – коэффициент парной корреляции;  
+
+                                                          
+2Определение основных расчетных гидрологических характеристик: СП 33-101-
+
+2003. М.: Госстрой России, 2004. 73 с. 
+
+6 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 4. С. 367–383. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 4. P. 367–383. 
+
+ 
+2 , 1  – средние квадратичные отклонения МГРВ р. Злой и Иструч со-
+
+ответственно, м3/с.  
+
+Особенность приведенного уравнения (3) заключается в том, что 
+
+в указанных условиях оно характеризует связь не исходных величин, а их 
+
+детерминированных составляющих МГРВ. 
+
+Для проверки применимости модели случайной величины для каж-
+
+дого ряда МГРВ рассчитаем оценку коэффициента автокорреляции между 
+
+смежными членами по формулам из СП 33-101-2003: 
+
+ r  2 1
+1 0,01 0,98  rc  0,06  rc  1,66  6,46  rc  5,66  rc2 , (4) 
+
+n
+
+где r1 – несмещенная оценка коэффициента автокорреляции; 
+
+rc  – смещенная оценка коэффициента автокорреляции; 
+
+n – длина ряда, лет; 
+
+n
+
+ Qi QP1  Qi1 QP2 
+rc  i2 ,  
+
+n n1
+2 2
+
+ Qi QP1    Qi QP2  
+i2 i1
+
+1 n 1 n1
+QP1   Qi , QP2   Qi . 
+
+n  1 i2 n1 i1
+
+где i  – порядковый номер члена ряда; 
+
+Qi  – годичное значение расхода воды, м3/с; 
+
+QP1, QP2  – вспомогательные средние значения, м3/с. 
+
+Как известно, одним из наиболее подходящих распределений для 
+
+МГРВ является трехпараметрический закон (Крицкого – Менкеля) с плот-
+
+ностью вероятности [17]: 
+
+ / b 1/ b
+1   b 
+
+ / b1   b  
+ f ki       k
+
+  i  exp   ki   , (5) 
+b           
+
+где ki  Qi /Qm – модульные коэффициенты МГРВ; 
+
+Qm  – среднее многолетнее значение МГРВ, м3/с; 
+
+7 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 4. С. 367–383. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 4. P. 367–383. 
+
+ 
+b ,   – два безразмерных параметра распределения, определяемых 
+
+по ряду наблюдений; 
+
+  – гамма-функция.  
+
+Третьим параметром является Qm  – среднее многолетнее значение 
+
+МГРВ. 
+
+Функция обеспеченности Pk  выражается через функцию распреде-
+
+ления Fk: 
+
+Pk :1 Fk . 
+
+Как известно, функцию распределения Fk можно найти интегри-
+
+рованием плотности вероятности f k: 
+k
+
+Fk:  f x dx . 
+0
+
+Параметры теоретического закона распределения будем искать с по-
+
+мощью системы уравнений (метод наибольшего правдоподобия) [17]: 
+
+  b b  
+   ln    t1   lnt  exp tdt  0 , (6) 
+
+     0 
+
+1 / b
+   b  1 n
+
+1 / b 
+          lnki   ki    b  0 , (7) 
+
+   n  1 i1 
+
+где   – вспомогательный параметр; 
+
+t  – безразмерная переменная интегрирования. 
+
+Вспомогательный параметр   рассчитывается по формуле: 
+
+1 n
+
+   lnki  . 
+n 1 i1
+
+Система уравнений (6), (7) решалась численным методом с помощью 
+
+ранее разработанных компьютерных программ, описанных нами ранее [18]. 
+
+В СП 33-101-2003 предписано определять расчетные характеристики 
+
+максимального стока воды рек весеннего половодья и дождевых паводков 
+
+раздельно. Но при невозможности разделения максимальных за год расхо-
+
+8 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 4. С. 367–383. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 4. P. 367–383. 
+
+ 
+дов воды на максимумы дождевых и талых вод допускается построение 
+
+кривых распределения ежегодных вероятностей превышения МГРВ неза-
+
+висимо от их происхождения. Именно такая ситуация на реках Калинин-
+
+градской области наиболее ярко проявляется с середины 50-х гг. прошлого 
+
+века [15]. Поэтому далее будем рассматривать единые кривые распределе-
+
+ния МГРВ для каждой реки. 
+
+Результаты и обсуждение. Для совместных наблюдений р. Инструч 
+
+и Злой были рассчитаны параметры формул (1)–(3): Qm1  = 40,56 м3/с; 1  =  
+
+= 24,50 м3/с; Qm2  = 11,49 м3/с;  3
+2  = 5,35 м /с. Результаты расчета по фор-
+
+мулам (1)–(3) в сравнении с данными наблюдений показаны на рисунке 2. 
+
+ 
+Точки – данные наблюдений; линии – результаты расчетов: 
+1 – по формуле (1); 2 – по формуле (2); 3 – по формуле (3) 
+
+Points are observational data; lines are results of calculations: 
+1 – according to the formula (1); 2 – according to the formula (2); 
+
+3 – according to the formula (3) 
+
+Рисунок 2 – Связь между максимальными годовыми 
+расходами воды р. Инструч (Q1 ) и р. Злой (Q2 ) 
+
+Figure 2 – Relationship between the maximum annual water 
+discharges of the Instruch (Q1 ) and the Zlaya (Q2 ) rivers 
+
+Восстановленный ряд МГРВ р. Злой показан на рисунке 3. Линейный 
+
+тренд показывает снижение МГРВ с 1955 по 2019 г. на 3,9 м3/с, что состав-
+
+ляет 29,3 % от среднего многолетнего значения. 
+
+9 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 4. С. 367–383. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 4. P. 367–383. 
+
+ 
+
+ 
+Точки: 1 – данные наблюдений; 2 – восстановленные; 3 – линейный тренд 
+
+Points: 1 – observational data; 2 – restored; 3 – linear trend 
+
+Рисунок 3 – Максимальные годовые расходы 
+воды р. Злой (гидропост Приозерье) 
+
+Figure 3 – The maximum annual water discharges 
+of the river Zlaya (hydraulic station Priozerie) 
+
+Коэффициент корреляции между МГРВ р. Злой и Осы за 11 лет сов-
+
+местных наблюдений (1962–1972 гг.) весьма высок ( r  = 0,889). Точки 
+
+на рисунке 4 хорошо согласуются с уравнением линейной регрессии: 
+
+ Q3  1,962 0,379 Q2 , (8) 
+
+где Q3  – МГРВ р. Осы, м3/с; 
+
+Q2  – МГРВ р. Злой, м3/с. 
+
+ 
+Точки – данные наблюдений; прямая линия 1 – расчет по формуле (8)  
+
+Points are observational data; straight line 1 is calculation by formula (8) 
+
+Рисунок 4 – Связь между максимальными годовыми 
+расходами воды р. Злой (Q2 ) и р. Осы (Q3 ) 
+
+Figure 4 – Relationship between the maximum annual water 
+discharges of the Zlaya (Q2 ) and the Osa rivers (Q3 ) 
+
+10 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 4. С. 367–383. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 4. P. 367–383. 
+
+ 
+Формула (8) была использована для восстановления ряда МГРВ 
+
+р. Осы. Аналогичным образом был восстановлен ряд МГРВ р. Немонинки, 
+
+который обозначим Q4 , м
+3/с. Коэффициент автокорреляции смежных чле-
+
+нов, рассчитанный по формуле (4), у всех рассматриваемых рядов МГРВ 
+
+не превышал 0,03. Поэтому модель случайной величины вполне примени-
+
+ма. Кроме того, была выдвинута гипотеза об однородности рядов МГРВ. 
+
+В таблице 2 представлены результаты решения системы уравне-
+
+ний (6), (7) численным методом для отдельных рек. 
+
+Таблица 2 – Параметры распределения максимальных годовых 
+расходов воды (1955–2019 гг.) 
+
+Table 2 – Distribution parameters of the maximum annual water 
+discharges (1955–2019) 
+
+Название реки Qm,  м3/с   b  
+Злая 12,3 0,529 0,271 
+Оса 6,59 1,369 0,345 
+Немонинка 2,73 1,244 0,361 
+
+Теоретические кривые обеспеченности были построены с использо-
+
+ванием формулы (5) и числовых параметров из таблицы 2. Эмпирические 
+
+значения вероятности превышения МГРВ были рассчитаны по формуле, 
+
+предписанной СП 33-101-2003:  
+
+i
+Pi  100, 
+
+n  1
+
+где Pi  – эмпирические значения вероятности превышения МГРВ, %; 
+
+i  – порядковый номер члена ряда по убыванию; 
+
+n  – общее число членов ряда.  
+
+По данным рисунков 5–7 видно вполне удовлетворительное согласие 
+
+теоретической и эмпирической обеспеченности МГРВ для трех рек. Это 
+
+было подтверждено с помощью критериев Пирсона и Колмогорова.  
+
+Сравним средние и максимальные годовые расходы. Результаты вне-
+
+сены в таблицу 3: Qm  – средние многолетние значения, рассчитанные 
+
+11 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 4. С. 367–383. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 4. P. 367–383. 
+
+ 
+по МГРВ, м3/с; Qs  – средний многолетний расход (норма расхода), м3/с; 
+
+Mm, Ms  – соответствующие модули стока, м3/с.  
+
+ 
+Рисунок 5 – Теоретическая (линия) и эмпирическая (точки) кривая 
+
+обеспеченности максимальных годовых расходов воды р. Злой 
+
+Figure 5 – Theoretical (line) and empirical (points) probability  
+curve for the maximum annual water discharges of the Zlaya river 
+
+ 
+Рисунок 6 – Теоретическая (линия) и эмпирическая (точки) кривая 
+
+обеспеченности максимальных годовых расходов воды р. Осы 
+
+Figure 6 – Theoretical (line) and empirical (points) probability  
+curve for the maximum annual water discharges of the Osa river 
+
+ 
+Рисунок 7 – Теоретическая (линия) и эмпирическая (точки) кривая 
+
+обеспеченности максимальных годовых расходов воды р. Немонинки 
+
+Figure 7 – Theoretical (line) and empirical (points) probability  
+curve for the maximum annual water discharges of the Nemoninka river 
+
+12 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 4. С. 367–383. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 4. P. 367–383. 
+
+ 
+Таблица 3 – Сравнение средних и максимальных годовых расходов 
+
+воды 
+
+Table 3 – Comparison of average and maximum annual water discharges 
+Название реки Qs , м3/с Ms , л/(с·км2) Mm , л/(с·км2) Mm / Ms  
+
+Инструч 3,73 6,35 74,1 11,7 
+Злая 1,40 9,83 86,5 8,78 
+Оса 0,77 11,3 96,3 8,55 
+Немонинка 0,56 7,46 36,4 4,87 
+
+По данным таблицы 3 отношение Mm / Ms  существенно отличается 
+
+у разных рек. Такое положение, скорее всего, связано с особенностями 
+
+названных рек. Река Немонинка служит водоприемником многочисленных 
+
+мелиоративных систем с механическим водоподъемом, расположенных в ее 
+
+бассейне. Следствием этого является снижение пиковых годовых расходов 
+
+воды, отношение Mm / Ms  самое маленькое. На МГРВ р. Злой и Осы такое 
+
+антропогенное влияние несколько меньше, а отношение Mm / Ms  – больше. 
+
+В бассейне р. Инструч антропогенное влияние на сток наименьшее, поэтому 
+
+МГРВ не сглажены, а отношение Mm / Ms  – наибольшее. 
+
+В СП 58.13330.20193 указано, что при проектировании постоянных 
+
+речных ГТС расчетные максимальные расходы воды в реке следует при-
+
+нимать исходя из ежегодной вероятности превышения, устанавливаемой 
+
+в зависимости от класса ответственности сооружений. Для ГТС 2, 3 и  
+
+4-го классов предписаны следующие обеспеченности Pj  = 0,1; 0,5; 1; 3; 5. 
+
+Чтобы найти соответствующие расходы Qj , численным методом решалось 
+
+уравнение: 
+
+Pj  100 1 FQj /Qm, 
+где j  – индекс, принимает значения от 1 до 5; 
+
+F  – функция распределения модульных коэффициентов МГРВ; 
+
+Qj  – расчетный МГРВ заданной обеспеченности Pj , м
+3/с; 
+
+                                                          
+3Гидротехнические сооружения. Основные положения СНиП 33-01-2003: 
+
+СП 58.13330.2019: утв. М-вом стр-ва и жилищ.-коммун. хоз-ва Рос. Федерации 
+16.12.19: введ. в действие с 17.06.20. М.: Стандартинформ, 2020. 34 с. 
+
+13 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 4. С. 367–383. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 4. P. 367–383. 
+
+ 
+Qm  – средние многолетние значения, рассчитанные по МГРВ, м3/с. 
+
+Полученные расходы были пересчитаны на модули стока и пред-
+
+ставлены в таблице 4. 
+
+Таблица 4 – Модули максимальных годовых расходов воды заданной 
+обеспеченности 
+
+В л/(с·км2) 
+
+Table 4 – Modules of maximum annual water discharges of a given 
+probability 
+
+In l/(s·km2) 
+
+Река М0,1%  М0,5%  М1%  М3%  М5%  
+
+Немонинка 76,4 69,9 66,6 60,8 57,7 
+Злая 197,6 181,5 173,4 158,3 150,0 
+Оса 191,1 175,7 168,2 154,5 147,3 
+
+Выводы. На гидрологические характеристики малых рек Славского 
+
+района Калининградской области оказывает сильное влияние то, что они 
+
+служат водоприемниками мелиоративных систем с механическим водо-
+
+подъемом. Из-за невозможности разделения пиковых годовых расходов 
+
+на максимумы дождевых и талых вод для каждой реки были восстановле-
+
+ны единые ряды МГРВ, независимо от их происхождения. Линейный 
+
+тренд восстановленных рядов МГРВ показывает некоторое снижение 
+
+за рассмотренный период (1955–2019 гг.). У рек Славского района отно-
+
+шение максимальных расходов к средним годовым заметно ниже, чем 
+
+у р. Инструч, которая находится в сходных гидрологических условиях, 
+
+но не подвержена столь сильному антропогенному воздействию. Рассчита-
+
+ны модули МГРВ для вероятностей превышения, предписанных норма-
+
+тивным документом по проектированию ГТС. 
+
+Список источников 
+
+1. Bondarenko V. L., Semenova E. A., Aliferov A. V. Methodological basics of as-
+sessing ecological safety in the zones where waterworks units influence natural habitats with 
+the use of water resources // IOP Conference Series: Materials Science and Engineering. 
+2019. Vol. 483(1). DOI: 10.1088/1757-899X/483/1/012111. 
+
+2. Методологические основы развития специализированного типа природно-
+технических систем использования водных ресурсов / Е. А. Семёнова, В. Л. Бондарен-
+ко, Е. Д. Хецуриани, М. И. Штавдакер // Вестник Волгоградского государственного ар-
+
+14 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 4. С. 367–383. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 4. P. 367–383. 
+
+ 
+хитектурно-строительного университета. Серия: Строительство и архитектура. 2020. 
+Вып. 2(79). С. 63–73. 
+
+3. Великанов Н. Л., Наумов В. А. Сброс сточных вод в малые водотоки // Вода: 
+химия и экология. 2017. № 10. С. 86–93. 
+
+4. Формирование русел малых рек Приволжской возвышенности в условиях 
+многовекового сельскохозяйственного освоения / Р. С. Чалов, Д. В. Ботавин, А. Л. Ва-
+рёнов, А. С. Тарбеева, А. М. Завадский // География и природные ресурсы. 2018. № 3. 
+С. 86–94. DOI: 10.21782/GIPR0206-1619-2018-3(86-94). 
+
+5. Assessment of characteristics and distinguished hydrological periods of a river re-
+gime / M. A. Faiz, D. Liu, Q. Fu, M. I. Khan, T. Li, S. Cui // Environmental Earth Sciences. 
+2018. Vol. 77. P. 1–12. DOI: 10.1007/S12665-018-7913-5. 
+
+6. Sagdeev N. Z., Yunusov G. Kh., Khamzaeva J. T. On the problem of calculation of 
+water resources of small low-mountain rivers // International Journal of Psychosocial Rehabil-
+itation. 2020. Vol. 24, iss. 8. P. 6276–6291. DOI: 10.37200/IJPR/V24I8/PR280649. 
+
+7. Назаров Н. Н. Гидрологические последствия осушительной мелиорации и 
+русловые процессы // Географический вестник. 2014. № 1(28). С. 4–9. 
+
+8. Нагорнова Н. Н., Берникова Т. А., Цупикова Н. А. Гидрогеохимическая харак-
+теристика малых рек Калининградской области // Вестник Балтийского федерального 
+университета им. И. Канта. Серия: Естественные и медицинские науки. 2011. № 7. 
+С. 160–166. 
+
+9. Результаты натурных исследований малых водотоков на мелиорированных 
+землях региона / Н. Л. Великанов, В. А. Наумов, Л. В. Маркова, А. А. Смирнова // Вода: 
+химия, экология. 2013. № 7. С. 18–26. 
+
+10. Наумов В. А. Зависимость коэффициента шероховатости русла малой реки 
+Злой от глубины // Вестник науки и образования Северо-Запада России [Электронный 
+ресурс]. 2018. Т. 4, № 1. С. 79–87. URL: http:vestnik-nauki.ru/wp-content/uploads/2018/01/ 
+2018-N1-Naumov.pdf (дата обращения: 15.07.2022). 
+
+11. Спирин Ю. А. Улучшение мелиоративного состояния осушаемых сельскохо-
+зяйственных земель польдерного массива в Славском районе Калининградской области // 
+Научный журнал Российского НИИ проблем мелиорации [Электронный ресурс]. 2019. 
+№ 1(33). С. 39–54. URL: http:www.rosniipm-sm.ru/article?n=986 (дата обращения: 
+15.07.2022). DOI: 10.31774/2222-1816-2019-1-39-54. 
+
+12. Спирин Ю. А. Гидрологические характеристики речного стока в геоэкологи-
+ческих исследованиях поверхностных вод Славского района Калининградской области // 
+Вестник Удмуртского университета. Сер. Биология. Науки о Земле. 2021. Т. 31, № 2. 
+С. 185–197. DOI: 10.35634/2412-9518-2021-31-2-185-197. 
+
+13. Спирин Ю. А. Анализ внутригодового распределения стока рек Славского рай-
+она Калининградской области // Региональные геосистемы. 2020. Т. 44, № 2. С. 231–242. 
+DOI: 10.18413/2712-7443-2020-44-2-231-242. 
+
+14. Домнин Д. А., Чубаренко Б. В. Атлас трансграничных речных бассейнов Ка-
+лининградской области. Калининград: Терра Балтика, 2007. 36 с. 
+
+15. Наумов В. А., Ахмедова Н. Р. Инженерные изыскания в бассейне реки Пре-
+голи: монография. Калининград: Изд-во ФГБОУ ВО «КГТУ», 2017. 183 с. 
+
+16. Иванов Е. Г. Об особенностях формирования и способах описания статисти-
+ческих зависимостей в гидрологии // Водное хозяйство России: проблемы, технологии, 
+управление. 2007. № 2. С. 22–27. 
+
+17. Рождественский А. В., Чеботарев А. И. Статистические методы в гидроло-
+гии: монография. Л.: Гидрометеоиздат, 1974. 424 с. 
+
+18. Наумов В. А. Методы обработки гидрологической информации // Вестник 
+УМО по образованию в области природообустройства и водопользования. 2015. Вып 7. 
+С. 144–150. 
+
+15 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 4. С. 367–383. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 4. P. 367–383. 
+
+ 
+References 
+
+1. Bondarenko V.L., Semenova E.A., Aliferov A.V., 2019. Methodological basics of 
+assessing ecological safety in the zones where waterworks units influence natural habitats 
+with the use of water resources. IOP Conference Series: Materials Science and Engineering, 
+vol. 483(1), DOI: 10.1088/1757-899X/483/1/012111.  
+
+2. Semyonova E.A., Bondarenko V.L., Khetsuriani E.D., Shtavdaker M.I., 2020. 
+Metodologicheskie osnovy razvitiya spetsializirovannogo tipa prirodno-tekhnicheskikh sistem 
+ispol'zovaniya vodnykh resursov [Methodological basis for the development of a specialized 
+type of natural and technical systems for the use of water resources]. Vestnik Volgogradskogo 
+gosudarstvennogo arkhitekturno-stroitel'nogo universiteta. Seriya: Stroitel'stvo i arkhitektura 
+[Bulletin of Volgograd State University of Architecture and Civil Engineering. Series: Con-
+struction and Architecture], iss. 2(79), pp. 63-73. (In Russian).  
+
+3. Velikanov N.L., Naumov V.A., 2017. Sbros stochnykh vod v malye vodotoki [Dis-
+charge of sewage into streams]. Voda: khimiya i ekologiya [Water: Chemistry and Ecology], 
+no. 10, pp. 86-93. (In Russian). 
+
+4. Chalov R.S., Botavin D.V., Varenov A.L., Tarbeeva A.S., Zavadsky A.M., 2018. 
+Formirovanie rusel malykh rek Privolzhskoy vozvyshennosti v usloviyakh mnogovekovogo 
+sel'skokhozyaystvennogo osvoeniya [Formation of small rivers channels of the Volga Upland 
+under the conditions of centuries-long agricultural development]. Geografiya i prirodnye 
+resursy [Geography and Natural Resources], no. 3, pp. 86-94, DOI: 10.21782/GIPR0206-
+1619-2018-3(86-94). (In Russian).  
+
+5. Faiz M.A., Liu D., Fu Q., Khan M.I., Li T., Cui S., 2018. Assessment of characteris-
+tics and distinguished hydrological periods of a river regime. Environmental Earth Sciences, 
+vol. 77, pp. 1-12, DOI: 10.1007/S12665-018-7913-5.  
+
+6. Sagdeev N.Z., Yunusov G.Kh., Khamzaeva J.T., 2020. On the problem of calcula-
+tion of water resources of small low-mountain rivers. International Journal of Psychosocial 
+Rehabilitation, vol. 24, iss. 8, pp. 6276-6291, DOI: 10.37200/IJPR/V24I8/PR280649.  
+
+7. Nazarov N.N., 2014. Gidrologicheskie posledstviya osushitel'noy melioratsii i ruslo-
+vye protsessy [Hydrological consequences of drainage reclamation and channel processes]. 
+Geograficheskiy vestnik [Geographic Bulletin], no. 1(28), pp. 4-9. (In Russian). 
+
+8. Nagornova N.N., Bernikova T.A., Tsupikova N.A., 2011. Gidrogeokhimicheskaya 
+kharakteristika malykh rek Kaliningradskoy oblasti [Hydrogeochemical characteristics of 
+small rivers in Kaliningrad region]. Vestnik Baltiyskogo federal'nogo universiteta im. I. Kan-
+ta. Seriya: Estestvennye i meditsinskie nauki [Bulletin of the Immanuel Kant BFU. Series: 
+Natural and Medical Sciences], no. 7, pp. 160-166. (In Russian). 
+
+9. Velikanov N.L., Naumov V.A., Markova L.V., Smirnova A.A., 2013. Rezul'taty 
+naturnykh issledovaniy malykh vodotokov na meliorirovannykh zemlyakh regiona [Results of 
+field studies of small streams on reclaimed lands of the region]. Voda: khimiya, ekologiya 
+[Water: Chemistry, Ecology], no. 7, pp. 18-26. (In Russian). 
+
+10. Naumov V.A., 2018. Zavisimost' koeffitsienta sherokhovatosti rusla maloy reki 
+Zloy ot glubiny [Dependence of the roughness coefficient of the small river Zlaya bed on 
+depth]. Vestnik nauki i obrazovaniya Severo-Zapada Rossii [Bulletin of Science and Education 
+of the North-West of Russia], vol. 4, no. 1, pp. 79-87, available: http:vestnik-nauki.ru/wp-
+content/uploads/2018/01/2018-N1-Naumov.pdf [accessed 15.07.2022]. (In Russian). 
+
+11. Spirin Yu.A., 2019. [Improving the reclamation state of drained agricultural lands of 
+the polder massif in the Slavsky district Kaliningrad region]. Nauchnyy zhurnal Rossiyskogo NII 
+problem melioratsii, no. 1(33), pp. 39-54, available: http:www.rosniipm-sm.ru/article?n=986 
+[accessed 15.07.2022], DOI: 10.31774/2222-1816-2019-1-39-54. (In Russian). 
+
+12. Spirin Yu.A., 2021. Gidrologicheskie kharakteristiki rechnogo stoka v geoekologi- 
+
+16 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 4. С. 367–383. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 4. P. 367–383. 
+
+ 
+cheskikh issledovaniyakh poverkhnostnykh vod Slavskogo rayona Kaliningradskoy oblasti 
+[Hydrological characteristics of river runoff in geoecological studies of surface water in Slavsky 
+district Kaliningrad region]. Vestnik Udmurtskogo universiteta. Ser. Biologiya. Nauki o Zemle 
+[Bulletin of Udmurt University. Ser. Biology. Earth Sciences], vol. 31, no. 2, pp. 185-197, DOI: 
+10.35634/2412-9518-2021-31-2-185-197. (In Russian). 
+
+13. Spirin Yu.A., 2020. Analiz vnutrigodovogo raspredeleniya stoka rek Slavskogo 
+rayona Kaliningradskoy oblasti [Analysis of the intra-annual distribution of river flow in 
+Slavsky district Kaliningrad region]. Regional'nye geosistemy [Regional Geosystems], 
+vol. 44, no. 2, pp. 231-242, DOI: 10.18413/2712-7443-2020-44-2-231-242. (In Russian). 
+
+14. Domnin D.A., Chubarenko B.V., 2007. Atlas transgranichnykh rechnykh bas-
+seynov Kaliningradskoy oblasti [Atlas of Transboundary River Basins of Kaliningrad Re-
+gion]. Kaliningrad, Terra Baltica Publ., 36 p. (In Russian). 
+
+15. Naumov V.A., Akhmedova N.R., 2017. Inzhenernye izyskaniya v basseyne reki 
+Pregoli: monografiya [Engineering Surveys in the Pregoli River Basin: monograph]. Kalinin-
+grad, KSTU Publ., 183 p. (In Russian). 
+
+16. Ivanov E.G., 2007. Ob osobennostyakh formirovaniya i sposobakh opisaniya 
+statisticheskikh zavisimostey v gidrologii [On the features of the formation and methods of 
+describing statistical dependencies in hydrology]. Vodnoe khozyaystvo Rossii: problemy, 
+tekhnologii, upravlenie [Water Management of Russia: Problems, Technologies, Manage-
+ment], no. 2, pp. 22-27. (In Russian). 
+
+17. Rozhdestvensky A.V., Chebotarev A.I., 1974. Statisticheskie metody v gidrologii: 
+monografiya [Statistical Methods in Hydrology: monograph]. Leningrad, Gidrometeoizdat 
+Publ., 424 p. (In Russian). 
+
+18. Naumov V.A., 2015. Metody obrabotki gidrologicheskoy informatsii [Methods of 
+processing hydrological information]. Vestnik UMO po obrazovaniyu v oblasti prirodoo-
+bustroystva i vodopol'zovaniya [Bulletin of UMO for Education in the Field of Environmental 
+Management and Water Use], iss. 7, pp. 144-150. (In Russian). 
+
+Информация об авторе 
+В. А. Наумов – профессор кафедры техносферной безопасности и природообустрой-
+ства, доктор технических наук, профессор. 
+
+Information about the author 
+V. A. Naumov – Professor of the Department of Technosphere Safety and Environmental 
+Engineering, Doctor of Technical Sciences, Professor. 
+
+Автор несет ответственность при обнаружении плагиата, самоплагиата и других 
+нарушений в сфере этики научных публикаций. 
+
+The author is responsible for detecting plagiarism, self-plagiarism and other ethical viola-
+tions in scientific publications. 
+
+Автор заявляет об отсутствии конфликта интересов.  
+
+The author declares no conflicts of interests. 
+
+Статья поступила в редакцию 18.07.2022; одобрена после рецензирования 09.09.2022; 
+принята к публикации 26.09.2022. 
+
+The article was submitted 18.07.2022; approved after reviewing 09.09.2022; accepted for 
+publication 26.09.2022. 
+
+17

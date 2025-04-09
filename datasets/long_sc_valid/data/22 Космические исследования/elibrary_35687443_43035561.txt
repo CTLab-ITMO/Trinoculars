@@ -1,0 +1,869 @@
+﻿НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 10. № 4–2018
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+doi: 10.24411/2409-5419-2018-10092
+
+ПРОГНОЗИРОВАНИЕ ПОКАЗАТЕЛЕЙ ЖИВУЧЕСТИ  
+КОСМИЧЕСКИХ АППАРАТОВ ПО РЕЗУЛЬТАТАМ 
+ТЕЛЕМЕТРИЧЕСКОГО КОНТРОЛЯ ПАРАМЕТРОВ 
+БОРТОВОЙ АППАРАТУРЫ И НЕЧЕТКИМ ГРАНИЦАМ 
+ОБЛАСТЕЙ РАБОТОСПОСОБНОСТИ
+
+МИРОНОВ АННОТАЦИЯ
+Евгений Андреевич1 В работе описано решение задачи расчета значений показателей живучести борто-
+
+вой аппаратуры космического аппарата, заключающееся в получении количественных 
+СИЗЯКОВ оценок вероятностей невыхода параметров технического состояния бортовой аппа-
+Николай Петрович2 ратуры космического аппарата за условные границы поля допуска, определенные при 
+
+допущении о воздействии на бортовую аппаратуру космического аппарата и условия 
+ШЕСТОПАЛОВА ее эксплуатации внешних воздействующих факторов заданной интенсивности. 
+Ольга Львовна3 Отличительной особенностью настоящей работы является комплексное рассмотре-
+
+ние влияния внешних воздействующих факторов на бортовую аппаратуру космическо-
+го аппарата, включая влияние как на саму бортовую аппаратуру, так и на условия ее 
+эксплуатации. Это позволяет использовать полученные результаты для прогнозирова-
+ния остаточного срока службы бортовой аппаратуры космического аппарата с учетом 
+возможных неблагоприятных воздействий.
+Показано, что воздействия внешних естественных и искусственных факторов вслед-
+ствие неопределенного характера состава, интенсивности и степени проявления 
+воздействующих факторов могут быть адекватно учтены при описании границ полей 
+
+Сведения об авторах: допусков параметров технического состояния бортовой аппаратуры космических ап-
+1к.т.н., доцент, доцент кафедры паратов нечёткими множествами, функции принадлежности которых оцениваются на 
+метрологического обеспечения вооружения, 
+военной и специальной техники Военно- основе формализованного представления опыта экспертов с помощью нечетких линг-
+космической академии имени А.Ф.Можайского, вистических шкал и представляются в виде нечетких границ поля допуска.
+г. Санкт-Петербург, Россия, john682@mail.ru Приведена математическая модель, описан состав входных и выходных данных, пред-
+
+ставлены алгоритмы решения задачи расчета значений показателей живучести борто-
+2д.т.н., заместитель генерального директора 
+Акционерного общества «Центральный вой аппаратуры космического аппарата, пригодные для реализации на электронно-вы-
+научно-исследовательский радиотехнический числительной машине. Приведен пример расчета прогнозных значений показателей 
+институт имени академика А.И. Берга», живучести бортовой аппаратуры космического аппарата по результатам телеметри-
+г. Москва, Россия, nsizyakov@yandex.ru
+
+ческого контроля температуры внутреннего контура системы терморегулирования 
+3к.т.н., доцент, декан факультета космического аппарата.
+Испытания летательных аппаратов 
+филиала «Восход» Московского авиационного 
+института (Национального исследовательского КЛЮЧЕВЫЕ СЛОВА: телеметрический контроль; техническое состояние; бортовая ап-
+университета), г. Байконуре, Казахстан, паратура космических аппаратов; прогнозирование показателей живучести; нечеткие 
+neman2004@mail.ru множества; границы поля допуска.
+
+Для цитирования: Миронов Е. А., Сизяков Н. П., Шестопалова О. Л. Прогнозирование показателей живучести космических аппара-
+тов по результатам телеметрического контроля параметров бортовой аппаратуры и нечетким границам областей работоспособно-
+сти // Наукоемкие технологии в космических исследованиях Земли. 2018. Т. 10. № 4. С. 4–18. doi: 10.24411/2409-5419-2018-10092 
+
+4
+
+
+
+Vol. 10. No. 4-2018, H&ES RESEARCH
+
+AVIATION, SPASE-ROCKET HARDWARE
+
+- -
+-
+
+-
+-
+- -
+
+-
+-
+
+— -
+
+-
+-
+
+-
+-
+
+-
+
+- -
+-
+
+-
+
+-
+-
+
+-
+-
+
+-
+-
+
+—
+-
+
+-
+
+-
+-
+
+- -
+-
+
+-
+-
+
+- -
+
+-
+-
+
+5
+
+
+
+НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 10. № 4–2018
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+l L, L —
+
+{zti} t 1,2,..., N , i 1,n —
+i - Βi<3> = < βi1 ,βi2 ,βi3 > —
+
+N —
+n — i
+zti (l) — -
+
+zti l L
+L —
+
+Vi l l L — - -
+i
+
+B = zв.л . ,  z  в.с. в.п . . .
+j ij , z .
+
+~Δ i ij
+i ~Δ
+
+H = zн.л  
+ij ,  z  н.с
+
+ij , zн.п
+ij — - n
+
+j ij -
+i - -
+
+j
+
+-
+j j —
+
+-
+j —
+
+zti (l) Vi l
+j —
+
+-
+
+Βi<3> = < βi1 ,βi2 ,βi3 > — - -
+-
+
+-
+i
+
+—
+
+j
+-
+
+ж
+~P (l) = Pж.л.
+
+ij (l), Pж.с.
+ij (l), Pж.п.
+
+ij (l) — -
+ij
+
+i -
+-
+
+j B
+~Δ = zв.л. в.с  
+
+ij , z . 
+ij , z  в.п.
+
+ij
+- ij
+
+l
+i
+
+~P
+ж (l) = Pж.л.
+
+j (l), Pж.с.
+j (l), Pж.п.
+
+j (l) — - -
+j
+
+- j -
+-
+
+j - -
+l
+
+-
+l
+
+6
+
+
+
+Vol. 10. No. 4-2018, H&ES RESEARCH
+
+AVIATION, SPASE-ROCKET HARDWARE
+
+-
+
+H
+~Δ = zн.л .     н.с н.п
+
+ij , z .
+j , z .
+
+i ij
+ij
+
+i
+-
+
+j -
+-
+-
+
+l
+ж = ж.л.
+
+~P (l) P ij (l), Pж.с.
+ij (l), Pж.п.
+
+ij (l) , -
+ij
+
+Pж.л.  (    )   =          ij l F (  z   в . л  .ij ;< a,b >), ж
+
+Pж.с.  ~P (l) = Pж.л.
+ij (l), Pж.с.
+
+ij (l), Pж.п.
+ij (l) ,
+
+ij (
+  l  )   =     F    (  z  в.с.
+
+ij ;< a,b >), ij
+
+Pж.п. (  ij l  )   =     F    (  z   в . п  .ij ;< a,b >).
+Pж.л.
+
+ij (l) =1− F (zн.л.
+ij ;< a,b >),
+
+F (z′;< a,b >) — - Pж.с.  
+ij (
+
+  l  )   =    1   −    F     (  z   н . с  .ij ;< a,b >),
+- Pж.п.   
+
+ij (  l  ) =    1   −    F     (  z  н   .п .
+ij ;< a,b >).
+
+1 z′ ⎧
+F (z′; a,b ) e⎪ (z − a)2 ⎫
+
+< > = ⎪
+∫ ⎨− ⎬dz,
+
+2πb b i
+−∞ ⎩⎪ 2 2
+
+⎭⎪
+
+i
+a zti (l),b Vi (l),l 1,2,..., L. -
+
+i -
+
+j -
+-
+
+l
+
+-
+-
+
+-
+-
+
+— i
+
+ j
+
+7
+
+
+
+НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 10. № 4–2018
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+i
+
+-
+j
+
+l -
+
+P ж B
+~ (l) = F (~Δ ;< a,b >) − F (~Δ
+
+H;< a,b >),
+ij ij ij
+
+F ( B
+~Δ ;< a,b >) =< F в.л . 
+
+ij ,  F    в.с.
+ij , F в.п.
+
+ij >,
+ij
+
+F (Δ H;< a,b >) =< F н.л .   н.с.
+l - ~ ij ,  F  ij , F н.п.
+
+ij >,
+ij
+
+F в.л .  =         (    в.л.
+ij F zij ;< a,b >),
+
+- F в.с  .  =         
+- ij F (  z  в   . с .ij ;< a,b >),
+
+F в.п.
+ij = F (zв.п.
+
+ij ;< a,b >).
+
+- F н.л .  =     F    (    н.л.
+ij zij ;< a,b >),
+
+F н.с  .  =         (    н  . с  .ij F zij ;< a,b >),
+н.п.
+
+Δ H = zн.л . ,  z  н.с. . B . в.с    .
+~ ij ij , zн.п
+
+j ~Δ = zв.л
+ij , z .
+
+i ij , z  в.п
+ij Fij = F (zн.п.
+
+ij ;< a,b >).
+ij ij
+
+j
+1 z′ ⎧ 2
+
+F (z′;< a,b >) e⎪ (z − a) ⎫
+= ⎪
+
+⎨− ⎬dz,
+2 b ∫
+π −∞ ⎩⎪ 2b2
+
+⎭⎪
+-
+
+a = zti (l), b = Vi (l), l =1,2,..., L.
+
+P ж
+~ -
+
+ij
+
+P ж
+~ (l) = Pж.л. ж.с ж.п
+
+ij (l), P .
+ij (l), P .
+
+ij (l) ,
+ij
+
+Pж.л. (    )   =          в  . л .− н.п.
+ij l Fij Fij ,
+
+Pж.с.  (    )   =         в  . с . − н.п.
+ij l Fij Fij ,
+
+Pж.п.( ) = в.п. − н.п.
+ij l Fij Fij .
+
+8
+
+
+
+Vol. 10. No. 4-2018, H&ES RESEARCH
+
+AVIATION, SPASE-ROCKET HARDWARE
+
+-
+P ж
+~ ( l  ) P ж
+
+~ (l) = Pж.л.
+2j(l), Pж.с. l P .
+
+2j( ), ж.п
+2j(l) ,
+
+ij 2j
+
+⎧ ⎫
+
+~P
+ж (l) ⎪ ⎪
+
+= ⎨< p, p
+ij ~μ ( ) >⎬,
+
+⎪ Pж (l) ⎪ ~P
+ж (l) = ~P
+
+ж (l)⊗~P
+ж (l) =
+
+⎩ ~ j 1 j 2 j
+ij ⎭
+
+= Pж.л.
+j (l), Pж.с.
+
+j (l), Pж..
+j (l) ,
+
+⎧ 0, p ≤ Pж.л.
+⎪ ij (l)
+⎪ p − Pж.л.
+
+ij (l)
+⎪ Pж.л.
+
+j (l) = Pж.с.
+1 j (l)×Pж.л.
+
+2 j (l) +
+Pж.с. Pж.л. < < ж .
+
+(l) − Pж.л. ,
+l ij (l) p P .
+
+ij (l)
+⎪ ij ( )
+
+= ⎪~μ ( p) ij
+⎨ . +Pж.с.
+
+j (l Pж . ( ) ж с. ) .
+2 )× .л . ( ж с.
+
+1 j l − P 1 j l ×P 2 j (l),
+Pж (l) ⎪ Pж..
+~ ij (l) − p ж.с
+
+ij ж. ж.с P . ж.
+⎪P . l P . ,
+
+l ij (l) < p < P .
+ij (l)
+
+⎪ ij ( ) − ij ( )
+⎪ 0, p ≥ Pж..
+⎩⎪ ij (l) Pж.с.
+
+j (l) = Pж.с.
+1 j (l)×Pж.с.
+
+2 j (l),
+
+-
+- Pж.п.(l) = Pж.с.
+
+j 1 j (l)×Pж.п.
+2 j (l) + Pж.с.
+
+2 j (l)×
+× Pж.п. (l) − Pж.с.
+
+1 j 1 j (l)×Pж.с.
+n - 2 j (l).
+
+P ж
+~ (l) = Pж.л.
+
+ij (l), Pж.с. -
+l P .
+
+ij ( ), ж.п
+ij (l) ,
+
+ij
+
+i 1,n j 1,2,3. -
+i
+
+Βi<3> = < βi1 ,βi2 ,βi3 >
+
+-
+i
+
+6
+~P (l)
+
+j
+- Βi<3> = < βi1 ,βi2 ,βi3 > = < βi1 ,βi2 ,βi3 > .
+
+j -
+-
+
+l
+
+-
+-
+-
+
+ж
+~P (l) = Pж.л.
+
+j (l), Pж.с.
+j (l), Pж.п.
+
+j (l)
+j -
+
+-
+ж
+
+~P (l) = Pж.л. l ж.с ж.п. -
+1j( ), P .
+
+1j(l), P 1j(l) ,
+1j
+
+9
+
+
+
+НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 10. № 4–2018
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+10
+
+
+
+Vol. 10. No. 4-2018, H&ES RESEARCH
+
+AVIATION, SPASE-ROCKET HARDWARE
+
+11
+
+
+
+НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 10. № 4–2018
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+12
+
+
+
+Vol. 10. No. 4-2018, H&ES RESEARCH
+
+AVIATION, SPASE-ROCKET HARDWARE
+
+13
+
+
+
+НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 10. № 4–2018
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+H
+~Δ = zн.л . ,   .
+
+2 z н.с
+2 , zн.п.
+
+i i i2 = <17,  18,  19 >,
+i2
+
+zt t —
+B
+
+N — = н.л .     н.с. н.п.
+~Δ zi3 , zi3 , zi3 = <18,  19,  20 > —
+
+i3
+
+Δ B = zв.л . ,  z  в.с. .
+~ i1 i1 , zв.п
+
+i1 = < 31,  32,  33 >,
+i1 Βi<3> = < 0,3;0,7;0,2 >—
+
+~Δ
+B = zв.л. .
+
+i2 , zв.с., в п.
+i2 zi2 = < 30,  31,  32 >,
+
+i2 i
+
+B , , .
+~Δ = zв.л.    .
+
+i3 z  в.с
+i3 zв.п
+
+i3 = < 29,  30,  31>
+i3 Βi<3> = < 0,3;0,7;0,2 >—
+
+H = zн.л. zн.с.      н.п.
+~Δ i1 , i1 , zi1 = <16,  17,  18 >, i
+
+i1
+
+14
+
+
+
+Vol. 10. No. 4-2018, H&ES RESEARCH
+
+AVIATION, SPASE-ROCKET HARDWARE
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+0
+
+16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
+0
+
+31 32 33 34 35 36 37 38 39 40 41 42 43 44 45
+0
+
+46 47 48 49 50 51 52 53 54 55 56 57 58 59 60
+0
+
+61 62 63 64 65 66 67 68 69 70 71 72 73 74 75
+0
+
+76 77 78 79 80 81 82 83 84 85 86 87 88 89 90
+0
+
+91 92 93 94 95 96 97 98 99 100 101 102 103 104 105
+0
+
+106 107 108 109 110 111 112 113 114 115 116 117 118 119 120
+0
+
+121 122 123 124 125 126 127 128 129 130 131 132 133 134 135
+0
+
+136 137 138 139 140 141 142 143 144 145 146 147 148 149 150
+0
+
+151 152 153 154 155 156 157 158 159 160 161 162 163 164 165
+0
+
+166 167 168 169 170 171 172 173 174 175 176 177 178 179 180
+0
+
+181 182 183 184 185 186 187 188 189 190 191 192 193 194 195
+0
+
+196 197 198 199 200 201 202 203 204 205 206 207 208 209 210
+0
+
+211 212 213 214 215 216 217 218 219 220 221 222 223 224 225
+0
+
+226
+0
+
+P ж
+~ ( l )
+
+j
+
+l
+
+j
+j
+j
+
+15
+
+
+
+НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 10. № 4–2018
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+-
+— -
+
+-
+
+-
+
+- -
+
+-
+-
+
+-
+
+-
+-
+
+- -
+-
+
+-
+-
+-
+
+- -
+-
+
+-
+- -
+- -
+
+-
+
+- -
+
+-
+
+-
+- -
+
+-
+-
+-
+
+-
+- -
+
+16
+
+
+
+Vol. 10. No. 4-2018, H&ES RESEARCH
+
+AVIATION, SPASE-ROCKET HARDWARE
+
+FORECASTING THE SURVIVABILITY INDICATORS OF SPACECRAFTS 
+BY THE RESULTS OF THE BOARD EQUIPMENT TELEMETRIC CONTROL 
+USING FUZZY BORDERS OF FUNCTIONING AREA
+
+EVGENY A. MIRONOV KEYWORDS: telemetry control; technical condition; on-board 
+St-Peterburg, Russia, john682@mail.ru equipment of space vehicles; prediction of survivability indicators; 
+
+fuzzy sets; tolerance boundary.
+NIKOLAY P. SIZYAKOV
+Moscow, Russia, nsizyakov@yandex.ru
+
+OLGA L. SHESTOPALOVA
+Baikonur, Kazakhstan, neman2004@mail.ru
+
+ABSTRAСT
+This work describes the solution of the problem of calculating the paratus of a spacecraft, suitable for implementation on a PC are pre-
+values of the survivability indicators of the on-board apparatus of the sented. An example is given of calculating the predicted values of 
+spacecraft, which consists in obtaining quantitative estimates of the the survivability indices of the on-board apparatus of the spacecraft 
+probabilities of non-passing parameters of the technical state of the based on the results of telemetric control of the temperature of the 
+on-board equipment of the spacecraft for the conditional boundaries internal circuit of the spacecraft thermal control system.
+of the tolerance field determined under the assumption of an impact 
+on the airborne equipment of the spacecraft and the conditions for its REFERENCES
+operation influencing factors of a given intensity. 1. Box G., Jenkins G. Time Series Analysis: Forecasting and Control. 
+A distinctive feature of this work is a complex consideration of the San Francisco: Holden-Day, 1970. 575 p.
+influence of external factors on the airborne apparatus of the space- 2. Guzenko V. L., Mironov A. N., Mironov Ye.A., Shestopalova O. L.
+craft, including the effect on both the onboard equipment itself and Evaluation of influence accuracy of border control values tolerance 
+on the conditions of its operation. This makes it possible to use the on the quality of functioning equipment for continuous use. Modern 
+results obtained to predict the residual service life of the on-board ap- high technologies. 2016. No. 5–2. Pp. 232–238. (In Russian)
+paratus of the spacecraft taking into account possible adverse effects. 3. Dorokhov A. N., Mironov Ye.A., Platonov S. A. Polymodel reliabili-
+The work shows that the effects of external natural and artificial fac- ty prediction for on-board equipment of spacecrafts vehicles under 
+tors due to the undefined nature of the composition, intensity and conditions of ambiguity of information concerningt adverse envi-
+degree of manifestation of the influencing factors can be adequately ronmental effects. Information and Space. 2014. No. 3. Pp. 88–94. 
+taken into account when describing the limits of tolerance tolerance (In Russian)
+fields for the onboard equipment of spacecrafts by fuzzy sets whose Zadeh L. Outline of a New Approach to the Analysis of Complex
+membership functions are estimated on the basis of a formalized Systems and Decision Processes. IEEE Trans. Syst., Man, Cybern. 
+representation of experience experts with fuzzy linguistic scales and 1973. Vol. SMC-3. No. 1. Pp. 28–44.
+are presented in the form of fuzzy boundaries I admission. 5. Zadeh L. A., The concept of a linguistic variable and its applica-
+A mathematical model is presented, the composition of the input tion to approximate reasoning. Information Sciences. 1975. Vol. 8. 
+and output data is described, algorithms for solving the problem of Pp.199–249, 301–357; Vol. 9. Pp. 43–80.
+calculating the values of the survivability indices of the on-board ap- 6. Kozeyev V. A. Prognozirovaniye sostoyaniya bortovykh sistem leta-
+
+17
+
+
+
+НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 10. № 4–2018
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+tel'nykh apparatov [Forecasting of a condition of onboard systems parameters on the operating stage with fuzzy information. Funda-
+of aircraft]. Ministry of Defense of the USSR, 1981. 92 p. (In Russian) mental research. 2015. No. 2. Pp. 2819–2823. (In Russian)
+7. Lomakin M. I., Mironov A. N., Shestopalova O. L. Multimodel pro- 12. Aykozhayev N. M., Shestopalova O. L. Otsenka stepeni soglas-
+cessing of measurement data in intelligent systems for predicting ovannosti mneniy ekspertov [Assessment of degree of coherence of 
+the reliability of spaceborne equipment. Measurement techniques. opinions of experts]. Sbornik statey po materialam LI mezhdunarod-
+2014. No. 1. Pp. 8–13. (In Russian) noy studencheskoy nauchno-prakticheskoy rkonferentsii “Nauchnoye 
+8. Mironov A. N. Mnogomodel'noye prognozirovaniye pokazateley soobshchestvo studentov XXI stoletiya. Tekhnicheskiye nauki” [The 
+dolgovechnosti tekhnologicheskogo oborudovaniya startovykh collection of articles on materials LI of the international student's 
+kompleksov [Multimodelling forecasting of indicators of durability scientific and practical conference “Scientific community of students 
+of processing equipment of starting complexes]. Izvestiya vysshikh of the XXI century. Technical science”]. 2017. URL: https://sibac.info/
+uchebnykh zavedeniy. Priborostroenie [Journal of Instrument Engi- archive/technic/3(50).pdf (date of access 29.07.2018). (In Russian)
+neering]. 2000. Vol. 43. No. 8. Pp. 39–48. (In Russian) 13. Silin V. B., Zakovryashin A. I. Avtomaticheskoye prognozirovaniye 
+9. Mironov A. N., Novikov A. N., Shestopalova O. L. Zadaniye granits sostoyaniya apparatury upravleniya i nablyudeniya [Automatic fore-
+oblasti rabotosposobnosti moderniziruyemogo vooruzheniya i  voy- casting of a condition of equipment of management and supervi-
+ennoy tekhniki s uchetom neopredelennosti informatsii ob usloviyakh sion]. Moscow: Energiya, 1973. 336 p. (In Russian)
+ekspluatatsii [Task of borders of area of operability of modernized 14. Fildes R., Lusk E. J. The choice of a forecasting model. 1984. 
+arms and military equipment taking into account uncertainty of infor- Omega. Vol. 12. Issue 5. Pp. 427–435.
+mation on service conditions]. Trudy voenno-kosmicheskoi akademii 15. Makridakis S. A new approach to statistical forecasting. № 87 / 20. 
+imeni A. F. Mozhaiskogo. 2011. No. 631. Pp. 68–72. (In Russian) Fontainebleau: INSEADF, 1987. 48 p.
+10. Mironov A. N., Pen'kov M. M. Issledovaniye vliyaniya izmeneniya 
+granits poley dopuska parametrov elementov slozhnykh tekhnich- INFORMATION ABOUT AUTHORS:
+eskikh sistem na tekhnicheskuyu gotovnost' [Research of influence Mironov E.A., PhD, docent, Associate Professor at the Department of 
+of change of borders of tolerance zones of parameters of elements Military Space Academy;
+of difficult technical systems on technical readiness]. Vestnik molo- Sisyakov N.P., PhD, Deputy General Director of the JSC Central Re-
+dykh uchenykh. Seriya «Tekhnicheskiye nauki». [Messenger of young search Radio Engineering Institute named after Academician A.I. Berg;
+scientists.Technical science series]. 2001. Pp. 68–73. (In Russian) Shestopalova O.L., PhD, docent, Dean of Аircraft Testing Faculty, 
+11. Mironov Ye.A., Mironov A. N., Shestopalova O. L., Platonov S. A. A Branch «Voskhod» of the Moscow aviation institute (national re-
+Evaluation values specification limits spacecraft onboard equipment search university) in Baikonur.
+
+For citation: Mironov E.A., Sisyakov N.P., Shestopalova O.L. Forecasting the survivability indicators of spacecrafts by the results of the board 
+equipment telemetric control using fuzzy borders of functioning area. H&ES Research. 2018. Vol. 10. No. 4. Pр. 4–18. doi: 10.24411/2409-
+5419-2018-10092 (In Russian)
+
+18

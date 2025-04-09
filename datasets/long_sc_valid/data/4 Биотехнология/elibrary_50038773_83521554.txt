@@ -1,0 +1,616 @@
+﻿ГЕНЕТИЧЕСКИЕ ОСНОВЫ БИОТЕХНОЛОГИИ
+
+Научная статья
+УДК 574/577
+DOI: 10.30901/2658-6266-2022-3-o2
+
+Экспрессирующиеся последовательности генов опин-
+синтаз природных ГМО, установленные на основе анализа 
+их транскриптомов
+
+Ф. Д. Богомаз1, Т. В. Матвеева2
+
+1Лицей 281 Адмиралтейского района, Санкт-Петербург, Россия
+2Санкт-Петербургский государственный университет, Санкт-Петербург, Россия
+
+Автор, ответственный за переписку: Татьяна Валерьевна Матвеева, radishlet@gmail.com
+
+Агробактерии – это природная система доставки генетического материала, которую люди используют для получения генно-инженерно 
+модифицированных растений − ГМО. В природе тоже возникают ГМО с участием агробактерий. В 2019 году список известных природных 
+ГМО был расширен на порядок, а также были найдены факты в пользу экспрессии агробактериальных генов в природных ГМО. Частота 
+этого явления для двудольных растений была оценена величиной в 7 %. Преобладающими генами агробактериального происхождения 
+в природных ГМО оказались гены опин-синтаз. Вероятно, они выполняют важные функции в природных ГМО. В 2021 году вышла статья 
+с обновленным списком природных ГМО, однако обновления списка экспрессирующихся генов в природных ГМО с 2019 года не проводили. 
+Целью данной работы является актуализация списка экспрессирующихся генов опин-синтаз природных ГМО. Методы 
+исследования включали биоинформатический поиск с использованием запросов на основе последовательностей белков опин-
+синтаз из Agrobacterium rhizogenes, A. tumefaciens и A. vitis, их гомологов из растений Ipomoea и Nicotiana в базе данных TSA 
+Национального центра биотехнологической информации (NCBI) по алгоритму TBLASTN с настройками по умолчанию. 
+Результатом исследования стало пополнение списка природных ГМО с экспрессирующимися генами опин-синтаз еще на 
+18 видов, причем 12 из них относятся к родам, где ранее природные ГМО описаны не были (Albizia, Cenostigma, Averrhoa, 
+Gynostemma, Eurycoma, Gypsophila, Myosoton, Camptotheca, Gustavia, Eschweilera. Cestrum, Jasminum, Paulownia). 
+Анализ разнообразия обнаруженных последовательностей показал, что преобладают среди них гомологи кукумопин- и микимопин-синтаз. 
+Конечные продукты этих генов являются оптическими изомерами. В перспективе имеет смысл начать изучение функций опин-синтаз 
+в растениях именно с этих генов.
+
+Ключевые слова:  природные ГМО, опин-синтазы, транскриптомы.
+
+Благодарности: Статья подготовлена на основе исследовательской работы, представленной на «Олимпиаде школьников 
+Санкт-Петербурга по биологии» в рамках работ по гранту РНФ 21-14-00050.
+
+Для цитирования: Богомаз Ф.Д., Матвеева Т.В. Экспрессирующиеся последовательности опин-синтаз природных ГМО на осно-
+ве анализа их транскриптомов. Биотехнология и селекция растений. 2022;5(3):15-24. DOI: 10.30901/2658-6266-2022-3-o2
+
+Прозрачность финансовой деятельности. Авторы не имеют финансовой заинтересованности в представленных материалах или методах. 
+Авторы благодарят рецензентов за их вклад в экспертную оценку этой работы. Мнение журнала нейтрально к изложенным материалам, 
+авторам и их месту работы.
+
+© Богомаз Ф.Д., Матвеева Т.В., 2022
+
+Plant Biotechnology and Breeding 2022;5(3)
+15
+
+
+
+GENETIC BASIS OF BIOTECHNOLOGY
+
+Original article
+DOI: 10.30901/2658-6266-2022-3-o2
+
+Expression sequences of opine synthase genes in natural GMOs based on 
+analysis of their transcriptomes
+
+Fedor D. Bogomaz1, Tatyana V. Matveeva2
+
+1Lyceum 281 of the Admiralteysky District, St. Petersburg, Russia
+2St. Petersburg State University, St. Petersburg, Russia
+
+Corresponding author: Tatyana V. Matveeva, radishlet@gmail.com
+
+Agrobacterium is a natural genetic material delivery system that humans use to produce genetically modified plants (GMO). In nature, GMOs also occur 
+with the participation of agrobacteria. In 2019, the list of known natural GMOs was expanded by an order of magnitude, and facts were found in favor of 
+the expression of agrobacterial genes in natural GMOs. The frequency of this phenomenon for dicotyledon plants has been estimated at 7 percent. Opine 
+synthase genes turned out to be the predominant ones of agrobacterial origin in natural GMOs. They probably perform important functions in natural GMOs. 
+In 2021, an article was published with an updated list of natural GMOs, but the list of genes expressed in natural GMOs has not been updated since 2019. 
+The aim of this work is to update the list of opine synthase genes expressed in natural GMOs. The research methods included bioinformatic search using 
+queries based on the sequences of opine synthase proteins from Agrobacterium rhizogenes, A. tumefaciens and A. vitis, their homologues from Ipomoea and 
+Nicotiana plants, in the TSA database of the National Center for Biotechnology Information (NCBI) using the TBLASTN algorithm with default settings. 
+The study resulted in the addition of another 18 species to the list of natural GMOs with expressed opine synthase genes, 12 of which belong to genera 
+where natural GMOs were not previously described (Albizia, Cenostigma, Averrhoa, Gynostemma, Eurycoma, Gypsophila, Myosoton, Camptotheca, 
+Gustavia, Eschweilera, Cestrum, Jasminum, and Paulownia).
+An analysis of the diversity of the detected sequences showed that homologues of cucumopine and mikimopine synthase predominate among them. 
+The end products of these genes are optical isomers. In the future, it makes sense to start studying the functions of opine synthases in plants from 
+these genes.
+
+Key words: natural GMOs, opine synthases, transcriptomes.
+
+Acknowledgements: The article is based on research work presented at the Biological Olympiad for Schoolchildren of St. Petersburg 
+within the framework of the Grant RSF 21-14-00050
+
+For citation: Bogomaz F.D., Matveeva T.V. Expression sequences of opine synthases of natural GMOs based on analysis of their 
+transcriptomes. Biotechnology and Plant Breeding. 2022;5(3):15-24. DOI: 10.30901/2658-6266-2022-3-o2
+
+Financial transparency. The authors have no financial interest in the presented materials or methods. The authors thank the reviewers for their contribution 
+to the peer review of this work. The journal’s opinion is neutral to the presented materials, the authors, and their employers.
+
+© Bogomaz  F.D., Matveeva T.V., 2022
+
+Биотехнология и селекция растений 2022;5(3)
+16
+
+
+
+ли называть природно-трансгенными (пГМО). Первые 
+Введение пГМО, явившиеся результатом древней агробактери-
+
+альной трансформации, были описаны в пределах рода 
+Агробактерии – это природная система доставки гене- Nicotiana L., далее они были найдены молекулярно-ге-
+
+тического материала, которую люди используют для нетическими методами в пределах еще двух родов: 
+получения генетически модифицированных организмов Linaria Mill. и Ipomoea L. (Kyndt et al., 2015; Matveeva, 
+(ГМО), а точнее растений, измененных с помощью мето- Sokornova, 2017).
+дов генетической инженерии (Chilton, 1980; Gleba, 1998). Развитие методов секвенирования нового поколения 
+В группе почвенных бактерий, известных под общим открывает возможности для исследования геномов рас-
+названием агробактерии, есть несколько видов, которые тений, при этом количество данных об их структуре рас-
+могут заражать растения и вызывать образование кос- тет лавинообразно. Постоянно пополняемые базы дан-
+матых корней или опухолей. Такие опухоли называют ных являются ценным источником для поиска новых 
+корончатыми галлами. Они состоят из недифференциро- пГМО, проводимого на кафедре генетики и биотехноло-
+ванной опухолевой ткани, растущей в месте заражения. гии Санкт-Петербургского государственного университе-
+Клетки корончатых галлов и косматых корней во мно- та (Matveeva, 2021). Список видов пГМО, известных на 
+гих отношениях напоминают раковые клетки животных. сегодня, представлен в таблице 1. Приуроченности при-
+Они имеют способность к неограниченному росту даже родно-трансгенных видов двудольных растений к кон-
+при культивировании in vitro в отсутствии фитогормо- кретной таксономической группе не отмечено. Природ-
+нов. Собственно опухолеродным агентом у этих бактерий ные ГМО описаны в пределах порядков Malpighiales 
+является Ti (или Ri)-плазмида, которая частично инте- Juss. ex Bercht. & J. Presl., Fabales Bromhead, Rosales 
+грируется в хромосомы растений. Переносимая в хро- Bercht. & J. Presl., Cucurbitales Juss. ex Bercht. & J. Presl., 
+мосому ДНК называется Т-ДНК (transferred DNA), ее Fagales Engl., Brassicales Bromhead, Myrtales Juss. ex 
+длина составляет 12–22 тысяч пар оснований. Она коди- Bercht. & J. Presl., Sapindales Dumortier, Caryophyllales 
+рует онкогены и ферменты синтеза опинов – производ- Juss. ex Bercht. & J. Presl., Cornales Link, Ericales Bercht. & 
+ных аминокислот, которые используются бактерией как J. Presl., Lamiales Bromhead, Solanales Juss. ex Bercht. & 
+источник углерода, азота и энергии (Nester, 2014; Lutova, J. Presl. По предварительным оценкам, около семи про-
+2000). центов двудольных растений могут содержать в геномах 
+
+Опины – это довольно специфические соедине- следы агробактериальной трансформации. Эта оценка 
+ния, продукт конденсации аминокислот с кетокислота- основана на доле пГМО среди видов двудольных с секве-
+ми или производными сахаров. Классические опины нированными геномами (Matveeva, Otten, 2019).
+являются N-карбоксиалкиламинокислотами. К опинам Таким образом, к началу 2021 года уже было известно 
+также относят ряд других соединений, выполняющих 36 родов покрытосеменных растений, в пределах которых 
+сходные с классическими опинами функции. N-карбок- описаны природно-трансгенные виды. Среди них доми-
+сиалкиламинокислоты образуются при восстановитель- нирующее положение занимают те, в составе клеточной 
+ной конденсации аминокислоты и кетокислоты. Реакция Т-ДНК (клТ-ДНК) которых содержатся только гены син-
+происходит между аминогруппой аминокислоты и кето- теза опинов (табл. 1). Этот феномен можно объяснить 
+группой кетокислоты. На сегодня известно, что агробак- как минимум тремя способами. Во-первых, в известных 
+терии могут усваивать опины, причем только те, синтез на данный момент Т-ДНК гены синтеза опинов первыми 
+которых происходит в опухоли, индуцированной опреде- попадают в растительную клетку в ходе трансформации. 
+лённым штаммом. Иными словами, набор вырабатывае- В случае обрыва Т-ДНК в процессе ее переноса именно 
+мых опухолью опинов зависит от штамма агробактерии, гены опин-синтаз попадают в клетку-реципиент. Во-вто-
+а не от вида растения-хозяина (Vladimirov et al., 2015). рых, можно ожидать наличие штаммов агробактерий, 
+Таким образом, в результате трансформации на растении в Т-ДНК которых присутствуют только гены опин-синтаз 
+разрастаются опухоли, которые могут вырабатывать опи- и нет онкогенов, ответственных за рост опухолей. В-тре-
+ны для питания бактерии, штамм которой использован тьих, нельзя исключать возможность трансформации рас-
+для трансформации данного растения. Эти опухоли мож- тений протяженной Т-ДНК и потерю большей ее части 
+но рассматривать как трансгенные ткани на нетрансген- в ходе эволюции потомков природного трансформанта 
+ном растении, а само явление в целом получило название с сохранением только генов синтеза опинов (Matveeva, 
+генетической колонизации (Matveeva, Sokornova, 2017). 2021).
+
+Реконструированные штаммы агробактерий, содер- На втором месте по численности расположились 
+жащие неонкогенные варианты Ti-плазмид и обладаю- виды, содержащие протяженные фрагменты Т-ДНК 
+щие повышенной вирулентностью, стали основой одного с онкогенами и генами синтеза опинов. На последнем 
+из наиболее популярных методов генетической транс- месте находятся клТ-ДНК, содержащие только онкогены 
+формации (Chilton, 1980). Позже стало известно, что (Matveeva, 2021).
+трансгенные растения возникают в природе и без учас-
+тия человека (White et al., 1983). Такие растения ста-
+
+Plant Biotechnology and Breeding 2022;5(3)
+17
+
+
+
+Таблица 1. Список известных видов природных ГМО (пГМО) среди двудольных растений
+Table 1. List of known natural GMO (nGMO) species among dicotyledon plants
+
+Порядок/ Order Семейство/ Family Виды/ Species Группы генов Т-ДНК/ Источник/ 
+T-DNA gene groups Reference
+
+Malpighiales Juss. ex 
+Bercht. & J. Presl. Euphorbiaceae Juss. Euphorbia esula L. Гены опин-синтаз (Matveeva, Otten, 
+
+2019)
+Salicaceae Mirb. Populus alba L.× Populus онкогены и гены опин-
+
+glandulosa Moench синтаз (Matveeva, 2021)
+Arachis duranensis Krapov. & 
+W.C. Greg. гены опин-синтаз (Matveeva, Otten, 
+
+2019)
+Arachis ipaensis Krapov. & eeva, Otten, 
+W.C. Greg. гены опин-синтаз (Matv
+
+2019)
+Arachis monticola Krapov. & 
+Rigoni. гены опин-синтаз (Matveeva, Otten, 
+
+2019)
+Fabaceae Lindl. atveeva, Otten, 
+
+Fabales Bromhead Arachis hypogaea L. гены опин-синтаз (M
+2019)
+
+Nissolia schottii A. Gray гены опин-синтаз (Matveeva, Otten, 
+2019)
+
+Eperua falcata Aubl. гены опин-синтаз (Matveeva, 2021)
+Aeschynomene evenia C. Wright гены опин-синтаз (Matveeva, 2021)
+
+Quillajaceae D. Don Quillaja saponaria Molina онкогены и гены опин- (Matveeva, Otten, 
+синтаз 2019)
+
+Parasponia andersonii Planch онкогены и гены опин- (Matveeva, Otten, 
+синтаз 2019)
+
+Rosales Bercht. & Trema orientalis (L.) Blume онкогены и гены опин- (Matveeva, Otten, 
+J. Presl. Cannabaceae Martinov синтаз 2019)
+
+Humulus lupulus L. гены опин-синтаз (Matveeva, Otten, 
+2019)
+
+Juglans cathayensis Dode гены опин-синтаз (Matveeva, Otten, 
+2019)
+
+Fagales Engl. Juglandaceae DC. ex 
+Perleb Juglans mandshurica Maxim. гены опин-синтаз (Matveeva, Otten, 
+
+2019)
+Juglans sigillata Dode гены опин-синтаз (Matveeva, Otten, 
+
+2019)
+Brassicales Bromhead Brassicaceae Burnett Eutrema yunnanense Franch. гены опин-синтаз (Matveeva, Otten, 
+
+2019)
+Psidium guajava L. гены опин-синтаз (Matveeva, Otten, 
+
+2019)
+Myrtales Juss. ex ны опин- (Matveeva, Otten, 
+Bercht. & J. Presl. Myrtaceae Juss. Eugenia unifora L. онкогены и ге
+
+синтаз 2019)
+Eucalyptus cloeziana F. Muell гены опин-синтаз (Matveeva, 2021)
+
+Sapindales Dumortier Meliaceae Juss. Azadirachta indica A. Juss. онкогены и гены опин- (Matveeva, Otten, 
+синтаз 2019)
+
+Burseraceae Kunth. Boswellia sacra Flueck. онкогены (Matveeva, 2021)
+
+Silene latifolia Poir. гены опин-синтаз (Matveeva, Otten, 
+2019)
+
+Caryophyllaceae Juss. Silene noctiflora L. гены опин-синтаз (Matveeva, 2021)
+Caryophyllales Juss. ex 
+Bercht. & J. Presl. Dianthus caryophyllus L. гены опин-синтаз (Matveeva, Otten, 
+
+2019)
+Molluginaceae Bartl. Pharnaceum exiguum Adamson гены опин-синтаз (Matveeva, 2021)
+Kewaceae Christenh. Kewa caespitosa Christenh. гены опин-синтаз (Matveeva, 2021)
+
+Cornales Link Nyssaceae Juss. ex 
+Dumort. Nyssa sinensis Oliv. гены опин-синтаз (Matveeva, 2021)
+
+Биотехнология и селекция растений 2022;5(3)
+18
+
+
+
+Порядок/ Order Семейство/ Family Виды/ Species Группы генов Т-ДНК/ Источник/ 
+T-DNA gene groups Reference
+
+Vaccinium macrocarpon Aiton онкогены (Matveeva, Otten, 
+Ericaceae Juss. 2019)
+
+Ericales Bercht. & Vaccinium corymbosum L. онкогены (Matveeva, 2021)
+J. Presl. Ebenaceae Gürke Diospyros lotus L. cv. Kunsenshi онкогены и гены опин-
+
+синтаз (Matveeva, 2021)
+Theaceae Mirb. ex Ker 
+Gawl. Camellia sinensis (L.) Kuntze онкогены и гены опин- (Matveeva, Otten, 
+
+синтаз 2019)
+Cuscuta australis R. Br. гены опин-синтаз (Matveeva, Otten, 
+
+2019)
+Cuscuta campestris Yunck. гены опин-синтаз (Matveeva, Otten, 
+
+2019)
+Solanales Juss. ex 
+Bercht. & J. Presl. Convolvulaceae Juss.
+
+Ipomoea batatas (L.) Lam. онкогены и гены опин- (Матвеева, 2021; 
+синтаз Matveeva, Otten, 
+
+2019)
+веева, 2021; 
+
+Ipomoea trifida L. онкогены и гены опин- (Мат
+синтаз Matveeva, Otten, 
+
+2019)
+Solanaceae Juss. виды рода Nicotiana L. онкогены и гены опин-
+
+синтаз (Матвеева, 2021)
+
+Lamiales Bromhead Plantaginaceae Juss. виды рода Linaria Mill. онкогены и гены опин-
+синтаз (Матвеева, 2021)
+
+Анализ последовательностей клТ-ДНК всех трех 
+типов показывает, что часть генов в них остают- Материалы и методы
+ся неповреждёнными, в то время как другие мутиру-
+ют (Matveeva, 2021). Больше интактных последователь- Аминокислотные последовательности опин-синтаз 
+ностей сохранилось среди генов опин-синтаз (Matveeva, из агробактерий Agrobacterium rhizogenes1 Conn (Sawada 
+2021). Если говорить об изучении функций генов клТ- et al., 1993), A. tumefaciens Conn и A. vitis Ophel & Kerr 
+ДНК пГМО, то наибольший успех был достигнут при и их гомологи из растений Ipomoea и Nicotiana (табл. 3) 
+исследовании именно генов опин-синтаз. В некоторых были использованы в качестве запросов для поис-
+растениях удалось показать синтез опинов (Matveeva, ка новых последовательностей экспрессируемых генов 
+Otten, 2021). опин-ситаз из клT-ДНК в архиве компьютерных сбо-
+
+В 2019 году методами биоинформатики было найде- рок экспериментально полученных последовательностей 
+но много экспрессирующихся генов опин-синтаз в пГМО транскриптов (TSA, 2022) Национального центра био-
+(Matveeva, Otten, 2019). Их список представлен в табли- технологической информации (NCBI, 2022). Чтобы обна-
+це 2. Эта база не обновлялась с 2019 года. Данная работа ружить новые последовательности клT-ДНК, мы выпол-
+посвящена актуализации списка генов опин-синтаз, экс- нили поиск по алгоритму TBLASTN с настройками по 
+прессирующихся в пГМО. умолчанию (Matveeva, 2021).
+
+1 От редактора: в тексте сохранен aвторский вариант синонимичных названий бактерий родов Rhizobium (Young et al., 2001) и Allorhizobium 
+(Mousavi et al., 2016) Agrobacterium rhizogenes, A. tumefaciens, A. vitis / Editor’s note: the author’s version of the synonymous names of Rhizobium (Young 
+et al., 2001) and Allorhizobium (Mousavi et al., 2014) genera of bacteria Agrobacterium rhizogenes, A. tumefaciens, A. vitis were retained in the text.
+
+Plant Biotechnology and Breeding 2022;5(3)
+19
+
+
+
+Таблица 2. Экспрессирующиеся гены опин-синтаз у пГМО
+Table 2. Opine synthase genes expressed in nGMOs
+
+Порядок/ Order Семейство/ Family Вид/ Species Гены опин-синтаз/  
+Opine synthase genes
+
+Arachis hypogaea cus-like
+Fabales Fabaceae
+
+Aeschynomene evenia mis-like
+Rosales Cannabaceae Humulus lupulus vis-like
+Malpighiales Salicaceae Salix purpurea L. mas1-like, nos-like, mas2-like
+Cucurbitales Juss. ex 
+Bercht. & J. Presl. Cucurbitaceae Juss. Lufa aegyptiaca Mill. mas1-like, mas2-like
+Fagales Juglandaceae Cyclocarya paliurus (Batalin) Iljinsk. sus-like
+Sapindales Rutaceae Juss. Citrus maxima (Burm.) Merr. mas1-like, mas2-like
+
+Silene conica L., 
+Caryophyllales Caryophyllaceae S. dioica (L.) Clairv., 
+
+S. vulgaris (Moench) Garcke, S. undulate Aiton, cus-like
+S. sartorii Boiss. & Heldr.
+
+Theaceae Camellia sinensis sus-like, acs-like1, acs-like2
+acs-like
+
+Ericales
+Ebenaceae Diospyros lotus cus-like
+
+sus-like
+
+Solanales Convolvulaceae Cuscuta gronovii Willd., C. pentagona Engelm., 
+C. suaveolens Ser. mis-like
+
+Таблица 3. Последовательности запросов для поиска в NCBI генов 
+опин-синтаз, экспрессирующихся в растениях
+
+Table 3. Sequences for NCBI screening for opine synthase genes expressed in plants
+
+Цель/ Goal Белок/ Protein Учётный номер/ Accession # Организм/ Organism
+Nos CAB44644.1 A. tumefaciens C58
+Mis NP_066601 WP_010900210.1 A. rhizogenes 1724 
+
+Nicotiana glauca Graham
+Ags ASK40986.1 A. rhizogenes CBFP2692
+
+Поиск экспрессирующихся Mas2′ AIM40180.1 Nicotiana tomentosiformis L. (TB)
+генов опин-синтаз/ Search for 
+opine synthase genes expressed Acs AAK20401.1 A. tumefaciens Chry5
+in plants Sus ARU12438.1 A. tumefaciens Chry5
+
+Ocs NP_059680.1 A. tumefaciens Ach5
+Vis WP_080855286.1 A. deltaense sp. nov. (Yan et al., 
+
+2017)
+Cus BAB13344.1 A. rhizogenes 2659
+
+A. deltaense sp. nov. (Yan et al., 
+VirB1 WP_080855255.1 ACM39672.1 2017); A. vitis S4
+
+NP_066734.1 YP_001967531.1 A. rhizogenes 1724
+A. tumefaciens Bo542
+
+Изучение возможного заражения 
+видов растений-кандидатов VirB2 NP_066735.1 ACM39671.1 A. rhizogenes 1724 A. vitis S4
+агробактериями/ Study of BAA28696.1 A. tumefaciens
+possible infection of candidate VirD2 YP_001967546.1 A. tumefaciens Bo542 
+plant species with agrobacteria WP_032488282.1 ACM39658.1 A. rhizogenes 15834
+
+A. vitis S4 
+AAA98372.1 A. tumefaciens C58
+
+VirE2 GAJ95556 A. rhizogenes 13257
+ACM39679.1 A. vitis S4
+
+Биотехнология и селекция растений 2022;5(3)
+20
+
+
+
+Результаты и обсуждение Таким образом, нами описано 13 новых видов при-
+родных ГМО, содержащих и экспрессирующих гены 
+
+В результате поиска в базе TSA NCBI (TSA, 2022; опин-синтаз: Albizia julibrissin Durazz., Cenostigma 
+NCBI, 2022) среди транскриптомов двудольных расте- pyramidale (Tul.) Gagnon & G.P. Lewis, Averrhoa 
+ний нами были обнаружены экспрессирующиеся по- carambola L, Gynostemma pentaphyllum (Thunb.) Makino, 
+следовательности генов опин-синтаз, (табл. 4). Наличие Eurycoma longifolia Jack, Gypsophila paniculata L, 
+экспрессии генов свидетельствует о том, что они выпол- Myosoton aquaticum (L.) Moench, Camptotheca acuminate 
+няют в растении какие-то функции, которые предстоит Decne., Gustavia superba (Kunth) O. Berg, Eschweilera 
+из учить. coriacea (DC.) S.A. Mori, Cestrum elegans (Brongn. ex 
+
+Транскриптомные данные видов были провере- Neumann) Schltdl., Jasminum sambac (L.) Aiton, Paulownia 
+ны на предмет наличия vir-генов. Эти гены характерны tomentosa Steud.
+для агробактерий и консервативны, но они не передают- Нами показано, что изучаемые гены экспрессируют-
+ся растениям в ходе трансформации. Если бы в данных ся у растений родов: Arachis L., Juglans L., Psidium L., 
+TSA (TSA, 2022) наряду с генами опин-синтаз мы нашли Cuscuta L., ранее известных как пГМО.
+последовательности vir-генов, это могло бы указывать Выявленные пГМО с эспрессирующимися гена-
+на присутствие агробактериального загрязнения мате- ми опин-синтаз относятся к 11 порядкам покрытосе-
+риала. В нашем исследовании ни у одного из видов менных двудольных растений, что согласуется с ранее 
+в транскриптомах не было найдено последовательностей полученными данными о том, что пГМО встречаются 
+vir-генов, следовательно, это природно-трансгенные рас- в разных таксонах двудольных без четкой приуроченнос-
+тения, в которые интегрированы гены агробактериальной ти к каким-либо конкретным группам.
+Т-ДНК.
+
+Таблица 4. Новые гены опин-синтаз, экспрессирующиеся в пГМО
+Table 4. New opine synthase genes expressed in nGMOs
+
+Экспрессия 
+Порядок/ Order Семейство/ Family Вид/ Species генов/ Expression Номер в базе NCBI/ NCBI 
+
+of genes Accession number
+
+Arachis glabrata Benth.* cus-like GJAB01066626.1
+ cus-like GJAB01061014.1
+
+Fabales Fabaceae Albizia julibrissin Durazz. vis-like GHWM01098463.1
+isolate EK601 mas2-like GHWM01151614.1
+Cenostigma pyramidale cultivar 
+wild TR311231 vis/ocs-like GIYP01561462.1
+
+Oxalidales Bercht. & 
+J. Presl Oxalidaceae R.Br. Averrhoa carambola L. sus GJAU01029991.1
+
+Cucurbitales Cucurbitaceae Gynostemma pentaphyllum mas2 GHVI01017872.1
+Fagales Juglandaceae Juglans mandshurica* sus-like GJIQ01013167.1
+Myrtales Myrtaceae Psidium guajava* mas1-like GGPP01224677.1
+Sapindales Simaroubaceae DC. Eurycoma longifolia isolate TA acs-like GIIY01012481.1
+
+Gypsophila paniculata L. cus-like GILV01442654.1
+Caryophyllales Caryophyllaceae
+
+Myosoton aquaticum cus-like GGTY01082339.1
+Cornales Nyssaceae Camptotheca acuminata Decne. acs-like GACF01116648.1
+
+Gustavia superba isolate 83198 mas1-like GHLF01017064.1
+Ericales Lecythidaceae A.Rich. Eschweilera coriacea isolate tree 
+
+P6-4-421 mas1-like GHLP01090495.1
+
+Cuscuta denticulata Engelm.* mis-like GHUS01082292.1
+Convolvulaceae
+
+Solanales
+Cuscuta nevadensis I.M. Johnst.* mis-like GHUT01063207.1
+
+Solanaceae Cestrum elegans cus-like GHMO01115776.1
+
+Plant Biotechnology and Breeding 2022;5(3)
+21
+
+
+
+Экспрессия 
+Порядок/ Order Семейство/ Family Вид/ Species генов/ Expression Номер в базе NCBI/ NCBI 
+
+of genes Accession number
+
+Oleaceae Jasminum sambac sus-like GHOY01160129.1
+Lamiales
+
+Paulowniaceae Paulownia tomentosa ocs/vis-like GEFV01009460.1
+
+Примечание: 
+* – представители родов и видов растений, ранее охарактеризованные как пГМО;  
+без специальных пометок – представители родов, в пределах которых пГМО ранее обнаружено не было.
+
+Footnote: 
+* – representatives of genera and plant species previously described as nGMO;  
+without special marking – representatives of genera within which no nGMO have been previously detected
+
+A
+
+B
+
+Рисунок. Соотношение видов природных ГМО с различными экспрессирующимися 
+генами опин-синтаз (А) и структуры наиболее распространенных у природных 
+
+ГМО опинов (B): микимопина (слева) и кукумопина (справа)
+Figure. Ratio of natural GMO species with different expressed genes of opine synthases (A) and structures 
+
+of the most common opines in natural GMOs (B): mykimopine (left) and cucumopine (right)
+
+Биотехнология и селекция растений 2022;5(3)
+22
+
+
+
+Среди известных из литературы и описанных нами plants: Genes and products. Phytochemistry. 2021;189:112813. 
+DOI: 10.1016/j.phytochem.2021.112813
+
+видов пГМО преобладают те, что обладают сus-подобны- Matveeva T.V. Why do plants need agrobacterial genes? Ecological 
+ми последовательностями ДНК (см. табл. 4). На втором Genetics. 2021;19(4):365-375. DOI: 10.17816/ecogen89905, 
+месте находятся mis-подобные гены. Кодируемые этими Available from: https://journals.eco-vector.com/ecolgenet/article/
+
+view/89905/pdf_1 [accessed May 01, 2022]
+генами опины являются изомерами. Эта группа опинов Matveeva T.V. New naturally transgenic plants: 2020 update. 
+требует внимания для последующего исследования функ- Biological Communications. 2021;66 (1):36-46. DOI: 10.21638/
+ций горизонтально перенесенных генов от агробактерий spbu03.2021.105
+
+Matveeva T.V., Otten L. Widespread occurrence of natural genetic 
+к растениям. transformation of plants by Agrobacterium. Plant Molecular 
+
+Biology. 2019;101:415-437. DOI: 10.1007/s11103-019-00913-y
+Заключение Matveeva T.V., Sokornova S.V. Biological traits of naturally 
+
+transgenic plants and their evolutional roles. Russian Journal 
+of Plant Physiology. 2017;64:635-648. DOI: 10.1134/
+
+Таким образом, наиболее распространенными гена- S1021443717050089
+ми Т-ДНК пГМО являются гены опин-синтаз. В допол- Mousavi S.A., Österman J., Wahlberg N., Nesme X., Lavire C., 
+
+Vial L., Paulin L., de Lajudie P., Lindström K. Phylogeny of 
+нение к списку 2019 года выявлено 18 видов природных the Rhizobium–Allorhizobium–Agrobacterium clade supports 
+ГМО с экспрессирующимися генами опин-синтаз. Найде- the delineation of Neorhizobium gen. nov. Systematic and 
+но 13 новых видов пГМО: Albizia julibrissin, Cenostigma Applied Microbiology. 2014;37(3):208-215. DOI: 10.1016/j.
+
+syapm.2013.12.007
+pyramidale, Averrhoa carambola, Gynostemma NCBI, National Center for Biotechnology Information. Available from: 
+pentaphyllum, Eurycoma longifolia, Gypsophila paniculata, https://www.ncbi.nlm.nih.gov [accessed May 01, 2022]
+Myosoton aquaticum, Camptotheca acuminate, Gustavia Nester E.W. Agrobacterium: nature’s genetic engineer. Frontiers in 
+
+Plant Science. 2014;5:730. DOI: 10.3389/fpls.2014.00730
+superba, Eschweilera coriacea, Cestrum elegans, Jasminum Sawada H., Ieki H., Oyaizu H., Matsumoto S. Proposal for rejection 
+sambac, Paulownia tomentosa. Наиболее распространен- of Agrobacterium tumefaciens and revised descriptions for the 
+ные экспрессирующиеся опин-синтазы – это гомологи genus Agrobacterium and for Agrobacterium radiobacter and 
+
+Agrobacterium rhizogenes. International Journal of Systematic 
+микимопин- и кукумопин-синтаз. Bacteriology. 1993;43(4):694-702.
+
+TSA, Transcriptome Shotgun Assembly Sequence Database. Available 
+References/ Литература from: https://www.ncbi.nlm.nih.gov/genbank/tsa [accessed May 
+
+01, 2022]
+Vladimirov I.A, Matveeva T.V, Lutova L.A. Opine biosynthesis 
+
+Chilton MD. Agrobacterium Ti plasmids as a tool for genetic and catabolism genes of Agrobacterium tumefaciens and 
+engineering in plants. In: Rains D.W., Valentine R.C., Agrobacterium rhizogenes. Russian Journal of Genetics. 
+Hollaender A. [eds.] Genetic engineering of osmoregulation, 2015;51(2):121-129. DOI: 10.1134/S1022795415020167
+Basic life sciences. V.14. New York: Plenum Press; 1980, p.23- White F.F., Garfinkel D.J., Huffman G.A., Gordon M.T., Nester E.W. 
+31. DOI: 10.1007/978-1-4684-3725-6_3 Sequences homologous to Agrobacterium rhizogenes T-DNA in 
+
+Gleba Yu.Yu. Biotechnology of plants. Soros Educational Journal. the genomes of uninfected plants. Nature. 1983;3012:348-350. 
+1998;6:3-8. [In Russian] (Глеба Ю.Ю. Биотехнология DOI: 10.1038/301348a0
+растений. Соросовский образовательный журнал. 1998;6:3- Yan J., Li Y., Han X.Z., Chen W.F., Zou W.X., Xie Z., Li M. 
+8). Agrobacterium deltaense sp. nov., an endophytic bacteria isolated 
+
+Kyndt T, Quispe D, Zhai H, Jarret R., Ghislain M., Liu Q., Gheysen G., from nodule of Sesbania cannabina. Archives of Microbiology. 
+Kreuze J.F. The genome of cultivated sweet potato contains 2017;199(7):1003-1009. DOI: 10.1007/s00203-017-1367-0
+Agrobacterium T-DNAs with expressed genes: an example of Young J.M., Kuykendall L.D., Martínez-Romero E., Kerr A., Sawada H. 
+a naturally transgenic food crop. Proceedings of the National A revision of Rhizobium Frank 1889, with an emended 
+Academy of Sciences. 2015;112(18):5844-5849. DOI: 10.1073/ description of the genus, and the inclusion of all species of 
+pnas.1419685112 Agrobacterium Conn 1942 and Allorhizobium undicola de 
+
+Lutova L.A. Plant biotechnology: accomplishments and hopes. Lajudie et al. 1998 as new combinations: Rhizobium radiobacter, 
+Soros Educational Journal, 2000;6(10):10-17. [In Russian] R. rhizogenes, R. rubi, R. undicola, and R. vitis. International 
+(Лутова Л.А. Биотехология растений: свершения и надежды. Journal of Systematics and Evolutionary Microbiology. 
+Соросовский образовательный журнал. 2000;6(10):10-17). 2001;51(1):89-103. doi: 10.1099/00207713-51-1-89.
+
+Matveeva TV, Otten L. Opine biosynthesis in naturally transgenic 
+
+Информация об авторах
+Федор Денисович Богомаз, ученик 10 А класса, лицей 281 Адмиралтейского района, Советский переулок, дом 4 Лит. А, Санкт-Петербург, 
+190005, Россия, pickayut2006@gmail.com
+Татьяна Валерьевна Матвеева, доктор биологических наук, профессор, кафедра генетики и биотехнологии, биологический факультет, 
+Санкт-Петербургский государственный университет, Санкт-Петербург, 199034 Россия, Санкт-Петербург, Университетская наб., 7/9, radishlet@
+gmail.com, https://orcid.org/0000-0001-8569-6665
+
+Information about the authors
+Fedor Denisovich Bogomaz, 10 “Aˮ grade student, Lyceum 281 of the Admiralteisky District, Sovetsky Lane, Bldg. 4, Lit. A, St. Petersburg, 190005, 
+Russia, pickayut2006@gmail.com
+Tatiana Valeryevna Matveeva, Dr. Sci. (Biology), Professor, Department of Genetics and Biotechnology, Faculty of Biology, St. Petersburg State 
+University, 7/9, Universitetskaya Embankment, St. Petersburg, 199034 Russia, radishlet@gmail.com, https://orcid.org/0000-0001-8569-6665
+
+Plant Biotechnology and Breeding 2022;5(3)
+23
+
+
+
+Вклад авторов: все авторы сделали эквивалентный вклад в подготовку публикации. 
+Contribution of the authors: the authors contributed equally to this article.  
+Конфликт интересов: авторы заявляют об отсутствии конфликта интересов. 
+Conflict of interests: the authors declare no conflicts of interests. 
+Статья поступила в редакцию 10.07.2022; одобрена после рецензирования 09.09.2022;  
+принята к публикации 27.09.2022. 
+The article was submitted on 10.07.2022; approved after reviewing on 27.08.2022; accepted for publication on 27.09.2022.
+
+Биотехнология и селекция растений 2022;5(3)
+24

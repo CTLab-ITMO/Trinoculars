@@ -1,0 +1,609 @@
+﻿Социальная психология и общество Social psychology and society
+2018. Т. 9. № 3. С. 91—103 2018. Vol. 9, no. 3, рр. 91—103
+doi: 10.17759/sps.2018090310 doi: 10.17759/sps.2018090310 
+ISSN: 2221-1527 (печатный) ISSN: 2221-1527 (print) 
+ISSN: 2311-7052 (online) ISSN: 2311-7052 (online) 
+© 2018 ФГБОУ ВО МГППУ © 2018 Moscow State University of Psychology & Education
+
+Теоретические основы и методические подходы к изучению 
+феномена «ценность внешнего облика»
+
+В.А. ЛАБУНСКАЯ*,
+ФГАОУ ВО ЮФУ, Ростов-на-Дону, Россия, vlab@aaanet.ru
+
+Г.В. СЕРИКОВ**,
+ФГАОУ ВО ЮФУ, Ростов-на-Дону, Россия,
+
+serikovg@mail.ru
+
+В статье приводится ряд теоретических положений, лежащих в основе раз-
+работки многофакторной эмпирической модели изучения отношения к внеш-
+нему облику. В ней утверждается, что в центре этой модели должен стоять 
+такой феномен, как ценность внешнего облика. В статье отмечается, что вве-
+дение понятия «ценность внешнего облика» не только отвечает требованиям 
+современной науки, но и дополняет изучение ценностной структуры личности, 
+находящейся на различных этапах жизненного пути. В статье подчеркивается, 
+что методология изучения ценности внешнего облика предполагает не только 
+определение места ценности внешнего облика в иерархии системы ценностей 
+человека, но и его изменение под влиянием социокультурных, стратификаци-
+онных, социально-психологических и индивидно-личностных факторов. В ней 
+констатируется, что интенсивность воздействия этой совокупности факто-
+ров на выраженность ценности внешнего облика обусловлена той сферой бы-
+тия человека, которая является для него приоритетной. В статье приводится 
+набор оригинальных методик, а также модификации известных методик, диа-
+гностирующих выраженность ценностей и позволяющих определить иерархию 
+ценностных ориентаций.
+
+Ключевые слова: внешний облик, ценность, иерархия ценностей, значи-
+мость внешнего облика, эмпирическая модель, факторы.
+
+Для цитаты:
+Лабунская В.А., Сериков Г.В. Теоретические основы и методические подходы к изучению феномена «цен-
+ность внешнего облика» // Социальная психология и общество. 2018. Т. 9. № 3. С. 91—103. doi:10.17759/
+sps.2018090310
+
+* Лабунская Вера Александровна — доктор психологических наук, профессор кафедры соци-
+альной психологии, Южный федеральный университет (ФГАОУ ВО ЮФУ), Ростов-на-Дону, 
+Россия, vlab@aaanet.ru
+** Сериков Геннадий Витальевич — кандидат психологических наук, доцент кафедры социаль-
+ной психологии, Южный федеральный университет (ФГАОУ ВО ЮФУ), Ростов-на-Дону, 
+Россия, serikovg@mail.ru
+
+91
+
+
+
+Социальная психология и общество. 2018 г. Том 9. № 3
+
+Введение и личной сферах. С ними связываются 
+возможности получить лучшую работу, 
+
+Изучение ценностей и ценностных выглядеть умнее, счастливее, увереннее 
+ориентаций носит междисциплинар- и т. п. [20; 21; 25; 26]. Иными словами, 
+ный характер [7; 8; 9; 16; 17]. При этом ценность и значимость внешнего облика 
+исследование ценностных ориентаций человека стали очевидными для ученых. 
+людей, находящихся на различных эта- Однако этот факт явно недостаточно 
+пах жизненного пути, особенно молоде- представлен в отечественных социоло-
+жи, — одна из наиболее разработанных и гических и социально-психологических 
+в то же время «вечно живых» тем в совре- исследованиях. Вплоть до начала XXI в. 
+менной психологии и социологии [11; 12; отечественные исследователи не прида-
+14; 18]. Неисчерпаемость ее обусловлена вали в своих работах особого значения 
+тем, что ценности, существенно не меня- внешнему облику как ценности, и поэто-
+ясь «по тематике», меняются по своей му она не изучалась и не присутствовала 
+значимости с течением времени в зави- в обзорах, посвященных рассмотрению 
+симости от социокультурной ситуации, в ценностных ориентаций человека и об-
+которой находится исследуемая группа. щества. В наших последних работах [5; 
+Как известно, ценности — это зависимые 6; 7], посвященных рассмотрению осо-
+переменные [24], которые могут носить бенностей восприятия, оценки и самоо-
+индикативный характер [4], например ценки, интерпретации внешнего облика, 
+свидетельствовать об изменениях мас- отношений, самоотношений и пережива-
+сового сознания, о преобладании в обще- ний человека, связанных с его внешним 
+стве фрустрации, стрессов, тревог, страха обликом, был сделан ряд теоретических 
+перед будущим [1] или отражать серьез- выводов. В частности, был зафиксирован 
+ные перемены в обществе, например пе- тот факт, что в современных исследова-
+реход от одной общественной системы к ниях преобладает одно-, двух-, трехфак-
+другой [9]. торный подход к изучению различных 
+
+Несмотря на многочисленные соци- феноменов, связанных с внешним обли-
+ологические и социально-психологи- ком [5]. Кроме того, авторы работ если и 
+ческие исследования, отслеживающие употребляют такие термины, как «цен-
+динамику ценностных ориентаций, в на- ность внешнего облика» [15; 28], «инве-
+стоящее время совершенно недостаточ- стиционная сила внешнего облика» [22], 
+но уделяется внимания такой ценности, «сензитивность и ориентация на внеш-
+как «внешний облик» или «привлека- ний облик» [29], то они, как правило, со-
+тельный внешний облик». В зарубежной прягают их с изучением обеспокоенно-
+психологии после публикации одной из сти, озабоченности, удовлетворенности 
+пионерских работ [23], посвященной про- внешним обликом, самооценок внешнего 
+явлениям стереотипов и социально-пер- облика, меры фрустрации человека нега-
+цептивных искажений при восприятии тивными оценками его внешнего облика 
+носителя привлекательного внешнего другими людьми. Эти феномены дей-
+облика, появилось множество исследо- ствительно прямо или косвенно указы-
+ваний, в которых физическая привлека- вают на их связь с ценностью внешнего 
+тельность, красота рассматривались как облика и его значимостью для субъекта. 
+предикторы успеха в профессиональной Презентация ценности внешнего облика 
+92
+
+
+
+Методический инструментарий
+
+посредством переживаний, связанных понимая, что значимость ценности внеш-
+с ним, не противоречит сложившимся него облика может изменяться под влия-
+подходам. Вместе с тем было обращено нием совокупности вышеперечисленных 
+внимание на то, что явления, обозначен- факторов, мы полагаем, что интенсив-
+ные данными терминами, подвергаются, ность воздействия их совокупности мо-
+с одной стороны, влиянию социокуль- жет быть обусловлена тем, какая из сфер 
+турных, а с другой — на них воздейству- бытия человека выходит на первый план 
+ют индивидно-личностные факторы. на определенном этапе его жизнедея-
+Присоединяясь к данным выводам, мы тельности. В этой связи многофакторная 
+полагаем, что необходима разработка модель изучения отношения к внешнему 
+многофакторной эмпирической модели облику, в центре которой находится цен-
+изучения отношения к внешнему обли- ность внешнего облика, выстраивается с 
+ку. В центре этой модели должен стоять учетом различных сфер жизнедеятель-
+такой феномен, как ценность внешнего ности человека, что позволяет не только 
+облика и ценностные ориентации, свя- определять влияние ценности внешнего 
+занные с внешним обликом. Такое по- облика в сочетании с различными фак-
+строение многофакторной эмпирической торами на сферу образования, трудовой 
+модели изучения отношения к внешнему занятости и карьерного роста людей, на 
+облику объясняется следующим: «цен- семейно-брачные, романтические отно-
+ности как предмет психологического шения, на групповую динамику и т. д., но 
+исследования являются тем, что опреде- и в процессе проведения сравнительных 
+ляет субъективную значимость для че- исследований получать сведения о вли-
+ловека принципов, норм, идей, природы, янии бытия человека на повышение или 
+объектов окружающей среды» [3, с. 137]. понижение ценности внешнего облика. 
+Субъект, как правило, руководствуется Внешний облик как ценность так же, как 
+своими ценностными предпочтениями и и другие ценности, можно рассматривать 
+одновременно они открывают для него, вслед за Д.А. Леонтьевым [8] в трех из-
+по меткому выражению В.В. Знакова, мерениях, направленных на различные 
+«другой взгляд на мир, в котором значи- группы явлений, в том числе как обще-
+мы иные, чем ранее, ценности, которые ственный идеал внешнего облика, как 
+оказывают, в свою очередь, воздействие воплощение этих идеалов в поведении 
+на человека» [3, с. 139]. Следовательно, людей, как сильнейшую мотивацию, ак-
+многофакторная эмпирическая модель туализирующую действия, направлен-
+должна отражать взаимовлияния как ные на преобразование внешнего облика, 
+ценности внешнего облика на различные на формирование перфекционистского 
+феномены, связанные с внешним обли- отношения к нему или «Appearance пер-
+ком, так и интегрированной совокупно- фекционизма».
+сти факторов, способствовать определе- Таким образом, введение понятия 
+нию места ценности внешнего облика в «ценность внешнего облика» обусловле-
+иерархии системы ценностей человека но признанием многими учеными цен-
+и учитывать ее изменение под влиянием ности привлекательного внешнего об-
+социокультурных, стратификационных, лика для достижения различных целей 
+социально-психологических и индивид- и является перспективным для органи-
+но-личностных факторов. Вместе с этим, зации системных исследований, свя-
+
+93
+
+
+
+Социальная психология и общество. 2018 г. Том 9. № 3
+
+занных с изучением данного феномена. ценностей и позволяющие определить 
+Несмотря на это, до настоящего времени иерархию ценностных ориентаций. Кро-
+ценность внешнего облика не фикси- ме этого была предпринята попытка на 
+руется в опросниках, направленных на основе этих методик создать варианты 
+диагностику выраженности ценностей опросников, диагностирующих значи-
+личности и общества, не исследуется ее мость ценности внешнего облика.
+место в иерархии ценностей индивида. Первая методика, которая предлага-
+В качестве исключения можно привести ется для изучения ценности внешнего об-
+методику О.И. Моткова, основанную лика, — это «Методика определения цен-
+на теории самодетерминации личности ностных ориентаций М. Рокича» [19; 24]. 
+Э.Л. Диси и Р.М. Руаяна [10]. В этой ме- Ее модификация заключалась в том, что в 
+тодике представлена ценность «Физи- перечень терминальных ценностей (спи-
+ческая привлекательность, внешность». сок А) был внесен «привлекательный 
+Она присутствует среди 10 других уни- внешний облик», а в список инструмен-
+версальных ценностей и относится к тальных ценностей (список Б) — «стрем-
+внутренним ценностям, требующим от ление всегда быть в форме, поддержи-
+человека собственной активности. На вать и улучшать свой внешний облик». 
+наш взгляд, редукции в сторону физиче- Далее участники исследования действу-
+ского компонента внешнего облика или ют в соответствии с традиционной ин-
+его привлекательности фиксируют вни- струкцией. На основе этой методики был 
+мание участника исследования только разработан опросник, позволяющий вы-
+на одной из важных, но не единственной явить интенсивность влияния внешнего 
+характеристике внешнего облика чело- облика на реализацию терминальных 
+века [6; 7]. Исходя из этого вывода, мы ценностей по М. Рокичу. Перед участни-
+полагаем, что необходимо употребле- ками исследования стоит задача опреде-
+ние интегрального понятия — «внеш- лить на основе пятибалльной системы, 
+ний облик» для определения «ценности в какой степени они согласны с тем, что 
+внешнего облика». На рисунке приво- людям с привлекательным внешним об-
+дится фрагмент многофакторной эмпи- ликом доступна реализация определен-
+рической модели изучения отношения к ных ценностей. В таблице приводится 
+внешнему облику, который в графиче- перечень терминальных ценностей, ука-
+ском виде отражает сформулированные зываются пять вариантов согласия с тем, 
+выше теоретические положения. что людям с привлекательным внешним 
+
+обликом более доступны такие, напри-
+мер, ценности, как «активная деятельная 
+
+Методические решения проблемы жизнь (полнота и эмоциональная насы-
+диагностики выраженности щенность жизни)», «интересная работа», 
+
+и значимости ценности внешнего «любовь (духовная и физическая бли-
+облика зость с любимым человеком)», «матери-
+
+ально обеспеченная жизнь (отсутствие 
+На данном этапе разработки методи- материальных проблем)», «наличие хо-
+
+ческого репертуара была поставлена за- роших и верных друзей», «общественное 
+дача модифицировать известные мето- признание (уважение окружающих, кол-
+дики, диагностирующие выраженность лектива, коллег)»; «свобода (самостоя-
+94
+
+
+
+Методический инструментарий
+
+Рис. Фрагмент «многофакторной эмпирической модели изучения отношения 
+к внешнему облику (ВО)»
+
+95
+
+
+
+Социальная психология и общество. 2018 г. Том 9. № 3
+
+тельность, независимость в суждениях Вторая методика представляет собой 
+и поступках)», «счастливая семейная модифицированный вариант опросника 
+жизнь», «счастье других (благосостоя- С.С. Бубновой «Диагностика реальной 
+ние, развитие и совершенствование дру- структуры ценностных ориентаций лич-
+гих людей, всего народа, человечества в ности» [2]. Как известно, с помощью дан-
+целом)», «творчество (возможность за- ной методики диагностируется 11 видов 
+ниматься творчеством)», «уверенность ценностных ориентаций. По аналогии с 
+в себе (внутренняя гармония, свобода от каждым видом ценностных ориентаций, 
+внутренних противоречий, сомнений)», представленных в методике С.С. Бубно-
+«удовольствия (приятное, необремени- вой, были составлены утверждения-во-
+тельное времяпрепровождение, отсут- просы, которые отражают различные сто-
+ствие обязанностей, развлечения)». роны проявления «ценности внешнего 
+
+В следующем опроснике инструкция облика». Перечень состоит из следующих 
+изменяется: «Перед вами список, в кото- утверждений-вопросов: 1) «улучшать 
+ром перечислены те ценности, которые свой внешний облик (ухаживать, коррек-
+могут быть важными для вас, то, к чему тировать, создавать) — это важная часть 
+вы можете стремиться. Ваша задача — жизни человека?»; 2) «в жизни чрезвы-
+определить, в какой степени обладание чайно важно иметь привлекательный, 
+привлекательным внешним обликом красивый внешний облик?»; 3) «внеш-
+помогло бы вам их достичь (сделало ний облик может занимать в вашей жиз-
+бы эти ценности более доступными)». ни главное место?»; 4) «чувствовать себя 
+Предлагается четыре варианта ответов: подавленной (подавленным) из-за оце-
+1) никак не помогло бы; 2) помогло бы нок вашего внешнего облика другими 
+мне в незначительной степени; 3) по- людьми — это о вас?»; 5) «хотели бы вы, 
+могло бы мне существенно; 4) очень чтобы окружающие высоко оценивали 
+помогло бы. Цель данного опросника ваш внешний облик, восхищались им?»; 
+заключается в определении значимости 6) «на ваше отношение к другому чело-
+ценности внешнего облика. Описанные веку влияет то, как он выглядит, какой 
+выше методики дополняются инструк- у него внешний облик?». Совокупность 
+циями в соответствии с определенными этих утверждений-вопросов была отне-
+сферами жизнедеятельности человека. сена к 12-му виду ценностных ориента-
+Участникам исследования предлагают- ций — ценности внешнего облика. Под-
+ся опросники с различными вариантами счет ответов в форме «да — нет», которые 
+инструкций. В задание входит опреде- мог дать каждый участник исследования, 
+ление ценности внешнего облика для указывает на выраженность определен-
+сферы образования, сферы трудовой за- ных ценностных ориентаций, в том числе 
+нятости и карьерного роста людей, для и на выраженность ценности внешнего 
+сферы семейно-брачных, романтиче- облика. В пилотажном исследовании, 
+ских отношений и т. д. Сравнение места связанном с апробацией данного вариан-
+ценности внешнего облика в различных та методики, в котором приняли участие 
+сферах бытия дает информацию о вли- 100 молодых людей, было подтвержде-
+янии определенных сфер жизнедеятель- но, что внешний облик занимает опре-
+ности на повышение или понижение ее деленное место в иерархии ценностных 
+рейтинга. ориентаций, представленных в методи-
+96
+
+
+
+Методический инструментарий
+
+ке С.С. Бубновой. Ранги выраженности лежность, экономический статус, образо-
+ценностных ориентаций в группе участ- вательный статус и семейное положение. 
+ников исследования указывают на то, что Эти сведения в результате их система-
+в молодежной среде ценность внешнего тизации дают информацию о влиянии 
+облика занимает в иерархии ценностных стратификационных факторов на выра-
+ориентаций серединное положение вме- женность ценности внешнего облика в 
+сте с ценностью любви. различных сферах бытия человека.
+
+В комплект методик включен также 
+«Вербальный фрустрационный тест» 
+Л.Н. Собчик [13], в который входит на- Заключение
+ряду с другими ценностями такая цен-
+ность, как внешний вид. С помощью Предлагаемый комплекс методик, на-
+шкалы «внешний вид» диагностирует- правленных на диагностику ценности 
+ся выраженность фрустрации ценности внешнего облика, отражает наши подхо-
+внешнего облика, круг лиц, оказываю- ды к изучению восприятия, интерпрета-
+щих наибольшее фрустрационное влия- ции, самооценки, оценки внешнего об-
+ние, тип реакции в ситуации фрустрации, лика. В многофакторной эмпирической 
+иными словами, тип реакции на негатив- модели изучения отношения к внешнему 
+ные оценки внешнего облика значимыми облику, следуя нашим представлениям о 
+и незначимыми другими. сложной многоуровневой детерминации 
+
+Следуя эмпирической модели из- феноменов, связанных с внешним обли-
+учения отношения к внешнему облику, ком, центральное место отводится цен-
+в методический набор, направленный ности внешнего облика. Данный фено-
+на диагностику выраженности ценности мен еще недостаточно отрефлексирован 
+внешнего облика, входят также разра- в современной психологии, поэтому на 
+ботанные нами методики, цель которых пути его изучения возникают методоло-
+заключается в определении оценок и гические трудности. Они прежде всего 
+самооценок внешнего облика [7], удов- касаются традиционной проблемы раз-
+летворенности, обеспокоенности им [6], ведения понятий «ценность» и «ценност-
+представлений об оценках внешнего об- ные ориентации». Кроме того, на данном 
+лика родителями, друзьями [5]. В пред- этапе формирования комплекса методик 
+лагаемый нами комплект методик входит не до конца удалось избежать включения 
+шкала «Appearance перфекционизм», в него уже известных методик с добавле-
+созданная К. Сривастава (K. Srivastava) нием в них такой ценности, как «внеш-
+[27]. В данной методике представлено ний облик». В этой связи дальнейшей 
+10 утверждений, согласие с которыми нашей задачей является применение ка-
+определяется на основе семибалльной чественных методов, позволяющих вы-
+шкалы. С ее помощью констатируется являть формулировки ценности внеш-
+уровень выраженности «Appearance пер- него облика, ее проявления, значимость 
+фекционизма» или перфекционистского в различных контекстах взаимодействия.
+отношения к внешнему облику. С учетом динамического подхода к из-
+
+Все методики завершаются анкетны- учению ценностей становится особенно 
+ми пунктами, которые включают пол, важным исследование ценности внешнего 
+возраст, профессию, этническую принад- облика в молодежной среде на основе пред-
+
+97
+
+
+
+Социальная психология и общество. 2018 г. Том 9. № 3
+
+лагаемой многофакторной эмпирической молодежной среды, предполагает изуче-
+модели. Проведение исследований, на- ние динамики ценности внешнего облика, 
+правленных на выявление и описание со- поскольку значимость ценности внешнего 
+циально-психологической феноменологии облика постоянно возрастает.
+
+Финансирование
+Работа выполнена при финансовой поддержке Российского научного фонда, проект № 171 8 01260.
+
+ЛИТЕРАТУРА
+1. Бойков В.Э. Ценности и ориентиры общественного сознания россиян // 
+Социологические исследования. 2004. № 7. С. 46—52.
+2. Бубнова С.С. Ценностные ориентации личности как многомерная нелинейная 
+система // Психологический журнал. 1999. Т. 20. № 5. С. 38—44.
+3. Знаков В.В. Ценности как проблема психологии человеческого бытия // 
+Психология понимания мира человека. М.: Институт психологии РАН, 2016. 
+С. 136—146.
+4. Карандашев В.Н. Методика Шварца для изучения ценностей личности: 
+концепция и методическое руководство. СПб: Речь, 2004. 70 с.
+5. Лабунская В.А., Дроздова И.И. Теоретико-эмпирический анализ влияния 
+социокультурных и социально-психологических факторов на оценки и самооценки 
+молодых людей внешнего облика // Российский психологический журнал. 2017. 
+Т. 14. № 2. С. 202—226.
+6. Лабунская В.А., Капитанова Е.В. Обеспокоенность и удовлетворенность 
+студентов своим внешним обликом как предикторы самооценок его компонентов и 
+характеристик // Российский психологический журнал. 2016. Т. 13. № 1. С. 167—183.
+7. Лабунская В.А., Капитанова Е.В. Самооценка и оценка внешнего облика членов 
+студенческой группы как предикторы отношений межличностной значимости // 
+Социальная психология и общество. 2016. Т. 7. № 1. С. 72—87. doi:10.17759/
+sps.2016070106
+8. Леонтьев Д.А. Ценностные представления в индивидуальном и групповом 
+сознании: виды, детерминанты и изменения во времени // Психологическое 
+обозрение. 1998. № 1. С. 13—25.
+9. Мареева С.В. Динамика норм и ценностей россиян // Социологические 
+исследования. 2013. № 7. С. 120—130.
+10. Мотков О.И. Методика изучения внешних и внутренних ценностей личности 
+[Электронный ресурс] https://www.psychologos.ru/articles/view/metodika-
+izucheniya-vneshnih-i-vnutrennih-cennostey-lichnosti (дата обращения: 02.04.2018).
+11. Петров А.В. Ценностные предпочтения молодежи: диагностика и тенденции 
+изменений // Социологические исследования. 2008 № 2. С. 83—90.
+12. Плотникова Ю.С. Ценностные ориентации студентов на долголетие и 
+особенности самосохранительного поведения // Социологические исследования. 
+2009. № 9. С. 143—146.
+
+98
+
+
+
+Методический инструментарий
+
+13. Собчик Л.Н. Вербальный фрустрационный тест. СПб: Речь, 2002. 24 с.
+14. Соколов А.В., Щербакова И.О. Ценностные ориентации постсоветского 
+гуманитарного студенчества // Социологические исследования. 2003. № 1. С. 115—
+123.
+15. Суэми В., Фернхем А. Психология красоты и привлекательности. СПб: Питер, 
+2009. 240 с.
+16. Татарко А.Н. Взаимосвязь базовых человеческих ценностей и электорального 
+поведения // Социальная психология и общество. 2017. Т. 8. № 1. С. 17—37. 
+doi:10.17759/sps.2017080102
+17. Темницкий А.Л. Соотношение терминальных и инструментальных ориентаций на 
+труд у работающего населения России (сравнительный анализ) // Социологический 
+журнал. 2017. Т. 23. № 3. С. 144—162. https://www.psychologos.ru/articles/view/
+metodika-izucheniya-vneshnih-i-vnutrennih-cennostey-lichnosti (дата обращения: 
+02.04.2018).
+18. Федотова В.А. Взаимосвязь ценностей и инновативных установок у 
+представителей разных поколений россиян // Социальная психология и общество. 
+2016. Т. 7. № 2. С. 82—92. doi:10.17759/sps.2016070206
+19. Шварц Ш., Бутенко Т.П., Седова Д.С., Липатова А.С. Уточненная теория базовых 
+индивидуальных ценностей: Применение в России // Психология. Журнал Высшей 
+школы экономики. 2012. Т. 9. № 1. С. 43—70.
+20. Anderson C., John O., Keltner D., Kring A. Who Attains Social Status? Effects of 
+Personality and Physical Attractiveness in Social Groups // Journal of Personality and 
+Social Psychology. 2001. Vol. 81. Is. 1. Р. 116—132.
+21. Beall A. Can a New Smile Make You Look More Intelligent and Successful? // Dental 
+Clinics of North America. 2007. Vol. 51. Is. 2. Р. 289—297. doi:10.1016/j.cden.2007.02.002
+22. Chang F.M., Jarry J.L., Kong M.A. Appearance investment mediates the association 
+between fear of negative evaluation and dietary restraint // Body Image. 2014. Vol. 11. 
+Is. 1. P. 72—76. doi:10.1016/j.bodyim.2013.11.002
+23. Dion K., Berscheid E., Walster E. What Is Beautiful Is Good. // Journal of Personality 
+and Social Psychology. 1972. Vol. 24. Is. 3. P. 285—290.
+24. Schwartz S.H. An Overview of the Schwartz Theory of Basic Values. Online Readings 
+in Psychology and Culture. 2012. 2 (1). [Электронный ресурс] https://scholarworks.
+gvsu.edu/cgi/viewcontent.cgi?article=1116&context=orpc&httpsredir=1&referer (дата 
+обращения: 12.05.2018).
+25. Shahani-Denning C. Physical Attractiveness Bias in Hiring: What Is Beautiful Is 
+Good. Hofstra Horizons Spring. 2003. 15—18. [Электронный ресурс] http://www.
+hofstra.edu/pdf/orsp_shahani-denning_spring03.pdf (дата обращения: 12.05.2018).
+26. Shinners E. Effects of The “What is Beautiful is Good” Stereotype on Perceived 
+Trustworthiness // UW-L Journal of Undergraduate Research XII. 2009. [Электронный 
+ресурс] https://www.uwlax.edu/urc/jur-online/pdf/2009/shinners-erinpsy.pdf (дата 
+обращения: 20.04.2018).
+27. Srivastava K. Conceptualization and Development of the Appearance Perfectionism 
+Scale: Preliminary Evidence for Validity and Utility in a College Student Population: 
+Thesis of BS in Psychology. Michigan, 2009.
+
+99
+
+
+
+Социальная психология и общество. 2018 г. Том 9. № 3
+
+28. Trekels J., Eggermont S. Beauty is Good: The Appearance Culture, the Internalization 
+of Appearance Ideals, and Dysfunctional Appearance Beliefs Among Tweens // Human 
+Communication Research. 2017. Vol. 43. Is. 2. P. 173—192.
+29. Webb H. J., Zimmer-Gembeck M. J. A Longitudinal Study of Appearance-based Rejection 
+Sensitivity and the Peer Appearance Culture // Journal of Applied Developmental 
+Psychology. 2016. Vol. 43. P. 91—100.
+
+Theoretical foundations and methodological approaches 
+to the study of the phenomenon the «Value of appearance»
+
+V.A. LABUNSKAYA*,
+Southern Federal University, Rostov-on-Don, Russia, 
+
+vlab@aaanet.ru
+G.V. SERIKOV**,
+
+Southern Federal University, Rostov-on-Don, Russia,
+serikovg@mail.ru
+
+The article presents a number of theoretical basics for the development of «mul-
+tifactor empirical model for studying the attitude to appearance». It argues that the 
+«value of appearance» should be in the centre of this model. The article notes that the 
+introduction of «value of appearance» concept meets not only the modern science re-
+quirements, but also complements the person’s value structure study at different stages 
+of his or her life. The article emphasizes that the methodology for studying the «value 
+of appearance» involves not only its place determination in the hierarchy of human 
+values, but also includes research of its change under the influence of socio-cultural, 
+stratification, socio-psychological and individual-personal factors. The article also 
+states that the intensity of these factors impact on the explicitness of the «value of 
+appearance» in a person is determined by the sphere of human existence, which is of 
+priority for him or her. The article presents both a set of original techniques and modi-
+fications of well known ones aimed at appraisal of values representation and hierarchy 
+of value orientations in a person: a modified method of value orientations research de-
+veloped by M. Rokich; method for «Diagnosis of person’s real structure of value orien-
+
+For citation:
+Labunskaya V.A., Serikov G.V. Theoretical foundations and methodological approaches to the study of the phe-
+nomenon the «Value of appearance». Sotsial’naia psikhologiia i obshchestvo [Social Psychology and Society], 2018. 
+Vol. 9, no. 3, pp. 91—103. doi:10.17759/sps.2018090310 (In Russ., аbstr. in Engl.).
+
+* Labunskaya Vera A. — Doctor of Science in Psychology, professor, Department of Social Psychol-
+ogy, Southern Federal University, Rostov-on-Don, Russia, vlab@aaanet.ru
+** Serikov Gennady V. —PhD in Psychology, associate professor, Department of Social Psychology, 
+Southern Federal University, Rostov-on-Don, Russia, serikovg@mail.ru
+
+100
+
+
+
+Методический инструментарий
+
+tations» proposed by S.S. Bubnova; and also a list of techniques aimed at the diagnosis 
+of phenomena related to appearance and influencing or presenting the explicitness of 
+the «value of appearance».
+
+Keywords: appearance, value, hierarchy of values, importance of appearance, em-
+pirical model, factors.
+
+Funding
+The research was conducted with the financial support from Russian Scientific Foundation, project № 171801260.
+
+REFERENCES
+1. Bojkov V.Je. Cennosti i orientiry obshhestvennogo soznanija rossijan [Values and 
+reference points of the public consciousness of the Russians]. Sociologicheskie issledovanija 
+[Sociological researches], 2004, no. 7, pp. 46—52.
+2. Bubnova S.S. Cennostnye orientacii lichnosti kak mnogomernaja nelinejnaja 
+sistema [Valuable orientations of the personality as multidimensional nonlinear system]. 
+Psihologicheskij zhurnal [Psychological journal], 1999. Vol. 20, no. 5, pp. 38—44.
+3. Znakov V.V. Cennosti kak problema psihologii chelovecheskogo bytija [Values as a 
+problem of human life psychology]. Psihologija ponimanija mira cheloveka [Psychology of 
+the person̕ s world understanding]. Moscow: RAS Institute of psychology, 2016, pp. 136—
+146.
+4. Karandashev V.N. Metodika Shvarca dlja izuchenija cennostej lichnosti: koncepcija i 
+metodicheskoe rukovodstvo [Schwarz̕ s method for studying personality̕ s values: concept 
+and methodical guide]. St. Petersburg: Rech’, 2004. 70 p.
+5. Labunskaja V.A., Drozdova I.I. Teoretiko-jempiricheskij analiz vlijanija socio-
+kul’turnyh i social’no-psihologicheskih faktorov na ocenki i samoocenki molodyh 
+ljudej vneshnego oblika [A theoretical and empirical analysis of the influence of socio-
+psychological factors on young people’s assessment and self-assessment of appearance]. 
+Rossijskij psihologicheskij zhurnal [Russian psychological journal], 2017. Vol. 14, no. 2, 
+pp. 202—226.
+6. Labunskaja V.A., Kapitanova E.V. Obespokoennost’ i udovletvorennost’ studentov 
+svoim vneshnim oblikom kak prediktory samoocenok ego komponentov i harakteristik 
+[Concerns and satisfaction of students to their appearance as predictors of self-evaluations 
+of its components and characteristics]. Rossijskij psihologicheskij zhurnal. [Russian 
+psychological journal], 2016. Vol.13, no. 1, pp. 167—183.
+7. Labunskaja V.A., Kapitanova E.V. Samoocenka i ocenka vneshnego oblika chlenov 
+studencheskoj gruppy kak prediktory otnoshenij mezhlichnostnoj znachimosti [Self-
+Assessment and Appearance Evaluation in Student Group as Predictors in Relationships 
+of Interpersonal Significance]. Social’naja psihologija i obshhestvo [Social psychology and 
+society], 2016. Vol. 7, no. 1, pp. 72—87. doi:10.17759/sps.2016070106 8.
+8. Leont’ev D.A. Cennostnye predstavlenija v individual’nom i gruppovom soznanii: 
+vidy, determinanty i izmenenija vo vremeni [Values representations in individual and 
+group consciousness: types, determinants and changes in time]. Psihologicheskoe obozrenie 
+[Psychological review], 1998, no. 1, pp. 13—25.
+
+101
+
+
+
+Социальная психология и общество. 2018 г. Том 9. № 3
+
+9. Mareeva S.V. Dinamika norm i cennostej rossijan [Dynamics of norms and values of 
+the Russians]. Sociologicheskie issledovanija [Sociological researches], 2013, no. 7, pp. 120—
+130.
+10. Motkov O.I. Metodika izuchenija vneshnih i vnutrennih cennostej lichnosti 
+[Elektronnyi resurs]  [Method of external and internal values of personality̕ s studying]. 
+URL: https://www.psychologos.ru/articles/view/metodika-izucheniya-vneshnih-i-
+vnutrennih-cennostey-lichnosti (Accessed 02.04.2018).
+11. Petrov A.V. Cennostnye predpochtenija molodezhi: diagnostika i tendencii izmenenij 
+[Valuable preferences of youth: diagnostics and tendencies of change]. Sociologicheskie 
+issledovanija [Sociological researches], 2008, no. 2, pp. 83—90.
+12. Plotnikova Ju.S. Cennostnye orientacii studentov na dolgoletie i osobennosti 
+samosohranitel’nogo povedenija [Value orientations of students on longevity and features 
+of self care behavior]. Sociologicheskie issledovanija. [Sociological researches], 2009, no. 9, 
+pp. 143—146.
+13. Sobchik L.N. Verbal’nyj frustracionnyj test [Verbal frustration test]. St. Peterburg.: 
+Rech’, 2002. 24 p.
+14. Sokolov A.V., Shherbakova I.O. Cennostnye orientacii postsovetskogo gumanitarnogo 
+studenchestva [Value orientations in post-soviet humanitarian students]. Sociologicheskie 
+issledovanija [Sociological researches], 2003, no. 1, pp. 115—123.
+15. Sujemi V., Fernhem A. Psihologija krasoty i privlekatel’nosti [Psychology of beauty 
+and appeal]. St. Peterburg: Piter, 2009. 240 p.
+16. Tatarko A.N. Vzaimosvjaz’ bazovyh chelovecheskih cennostej i jelektoral’nogo 
+povedenija [Interrelationship of basic human values and electoral behavior]. Social’naja 
+psihologija i obshhestvo [Social psychology and society], 2017. Vol. 8. no. 1, pp. 17—37. 
+doi:10.17759/sps.2017080102.
+17. Temnickij A.L. Sootnoshenie terminal’nyh i instrumental’nyh orientacij na trud 
+u rabotajushhego naselenija Rossii (sravnitel’nyj analiz) [A ratio of terminal and tool 
+orientations to work in the working population of Russia (the comparative analysis)]. 
+Sociologicheskij zhurnal [Sociological journal]. 2017. Vol. 23, no. 3, pp. 144—162. Available at: 
+https://www.psychologos.ru/articles/view/metodika-izucheniya-vneshnih-i-vnutrennih-
+cennostey-lichnosti (Accessed 02.04.2018).
+18. Fedotova V.A. Vzaimosvjaz’ cennostej i innovativnyh ustanovok u predstavitelej 
+raznyh pokolenij rossijan [Interrelation of values and innovative sets in representatives of 
+different generations of Russians]. Social’naja psihologija i obshhestvo [Social psychology 
+and society], 2016. Vol. 7, no. 2, pp. 82—92. doi:10.17759/sps.2016070206.
+19. Schwartz Sh., Butenko T.P., Sedova D.S., Lipatova A.S. Utochnennaja teorija bazovyh 
+individual’nyh cennostej: Primenenie v Rossii [The corrected theory of basic individual 
+values: Application in Russia]. Psihologija. Zhurnal Vysshej shkoly jekonomiki [Psychology. 
+Journal of Higher School of Economics], 2012. Vol. 9, no. 1, pp. 43—70.
+20. Anderson C., John O., Keltner D., Kring A. Who Attains Social Status? Effects of 
+Personality and Physical Attractiveness in Social Groups. Journal of Personality and 
+Social Psychology, 2001. Vol. 81, no. 1, pp. 116—132.
+21. Beall A. Can a New Smile Make You Look More Intelligent and Successful? Dental 
+Clinics of North America, 2007. Vol. 51, Is. 2, pp. 289—297. doi: 10.1016/j.cden.2007.02.002
+
+102
+
+
+
+Методический инструментарий
+
+22. Chang F.M., Jarry J.L., Kong M.A. Appearance investment mediates the association 
+between fear of negative evaluation and dietary restraint. Body Image. 2014. Vol. 11, 
+pp. 72—76.
+23. Dion K., Berscheid E., Walster E., What Is Beautiful Is Good. Journal of Personality 
+and Social Psychology, 1972. Vol. 24, no. 3, pp. 285—290.
+24. Schwartz S.H. An Overview of the Schwartz Theory of Basic Values. Online Readings 
+in Psychology and Culture. 2012. 2 (1) [Elektronnyi resurs].  Available at: https://
+scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1116&context=orpc&httpsredir=1
+&referer (Accessed 12.05.2018).
+25. Shahani-Denning C. Physical Attractiveness Bias in Hiring: What Is Beautiful Is 
+Good. Hofstra Horizons Spring. 2003:15-18 [Elektronnyi resurs]. Available at: http://
+www.hofstra.edu/pdf/orsp_shahani-denning_spring03.pdf (Accessed 12.05.2018).
+26. Shinners E. Effects of The «What is Beautiful is Good»Stereotype on Perceived 
+Trustworthiness. UW-L Journal of Undergraduate Research XII. 2009. Available at: 
+https://www.uwlax.edu/urc/jur-online/pdf/2009/shinners-erinpsy.pdf (Accessed 
+20.04.2018).
+27. Srivastava K. Conceptualization and Development of the Appearance Perfectionism 
+Scale: Preliminary Evidence for Validity and Utility in a College Student Population: 
+Thesis of BS in Psychology. Michigan, 2009.
+28. Trekels J., Eggermont S. Beauty is Good: The Appearance Culture, the Internalization 
+of Appearance Ideals, and Dysfunctional Appearance Beliefs Among Tweens. Human 
+Communication Research, 2017. Vol. 43, Is. 2, pp. 173—192.
+29. Webb H.J., Zimmer-Gembeck M.J. A Longitudinal Study of Appearance-based 
+Rejection Sensitivity and the Peer Appearance Culture. Journal of Applied Developmental 
+Psychology, 2016. Vol. 43, pp. 91—100.
+
+103

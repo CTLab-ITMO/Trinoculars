@@ -1,0 +1,1922 @@
+﻿2020 Vol. 24 No. 2  219—252 
+Russian Journal of Linguistics http://journals.rudn.ru/linguistics
+
+DOI: 10.22363/2687‐0088‐2020‐24‐2‐219‐252 
+Introductory article 
+
+Language,	culture	and	ideology	in	discursive	practices	
+Magdaléna Bilá1 and Svetlana V. Ivanova2 
+
+1 University of Prešov 
+Prešov, Slovakia 
+
+2 Pushkin Leningrad State University 
+Saint Petersburg, Russia 
+
+Abstract 
+Discursive practices are looked upon as the core notion of discourse theory and the main instrument 
+linguists can operate with studying language in connection with society and a human being. In this 
+introductory article we will look into how language, culture and ideology are intertwined in diverse 
+discursive practices and how these practices are shaped by people representing various cultures, 
+ideologies and social entities. As part of linguistic discourse theory, we will briefly outline the major 
+objectives and tenets of discourse theory or discourse analysis and track down the reasons why 
+discourse theory turned into a dominant linguistic paradigm in the new millennium. Besides, some 
+light will be thrown on the advancements and debatable questions arising within discourse theory as 
+reflected in its methodology. Then we will give a brief synopsis of each individual paper and 
+highlight theoretical and methodological contributions and innovations proposed by our authors. 
+The results of the discussion as well as a brief outlook on future research will be summed up at the 
+end of the introductory article. 
+Keywords: discourse analysis, discursive practices, culture, ideology, identity 
+
+For citation: 
+Bilá, Magdaléna and Svetlana V. Ivanova. 2020. Language, culture and ideology in discursive 
+practices. Russian Journal of Linguistics 24 (2). 219—252. DOI: 10.22363/2687-0088-2020-
+24-2-219-252 
+
+Вступительная статья
+
+Язык,	культура	и	идеология	в	дискурсивных	практиках
+М. Била1, С.В. Иванова2 
+
+1 Прешовский университет в Прешове 
+Прешов, Словакия 
+
+2 Ленинградский государственный университет имени А.С. Пушкина 
+Санкт-Петербург, Россия 
+
+Аннотация 
+Дискурсивные практики рассматриваются в качестве основополагающего понятия теории 
+дискурса и основного инструмента, при помощи которого лингвисты могут изучать язык в 
+связи с обществом и человеком. Данная вводная статья, как и весь выпуск, посвящены 
+
+219 
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. Russian Journal of Linguistics. 2020. Т. 24. № 2. С. 219—252 
+
+вопросу о том, как язык, культура и идеология переплетаются в различных дискурсивных 
+практиках и как эти практики формируются людьми, представляющими разные культуры, 
+идеологии и социальные образования. Рассматривая дискурсивные практики как часть линг-
+вистической теории дискурса (дискурс-анализа), мы кратко опишем основные цели и прин-
+ципы теории дискурса и выделим причины, по которым это направление превратилось в до-
+минирующую лингвистическую парадигму нового тысячелетия. Кроме того, мы остановимся 
+на развитии теории дискурса и тех дискуссионных вопросах, которые возникают в ее рамках. 
+Проблемные зоны теории дискурса касаются расширения предметной области дискурс-ана-
+лиза, избираемых дискурс-аналитиками объектов исследования, стыковых дисциплин, гра-
+ничащих с теорией дискурса, и методологии анализа. В завершение мы дадим краткий обзор 
+каждой статьи номера и отметим теоретический и методологический вклад, а также новизну 
+каждой публикации. Результаты и перспективы будущих исследований очерчены в заключи-
+тельной части вводной статьи.  
+Ключевые слова: дискурс анализ, дискурсивные практики, культура, идеология, идентич-
+ность  
+ 
+
+Для цитирования: 
+Bilá, Magdaléna and Svetlana V. Ivanova. 2020. Language, culture and ideology in discursive 
+practices. Russian Journal of Linguistics 24 (2). 219—252. DOI: 10.22363/2687-0088-2020-
+24-2-219-252 
+
+ 
+To imagine a world without discourse is to 
+imagine a world without language and 
+therefore to imagine the unimaginable.  
+
+(He 2003: 428) 
+ 
+
+1. Introduction 
+The focus of this issue is discourse and the way it is molded by homo loquens 
+
+in different spheres of human activities. The authors of the issue throw light on how 
+language, culture and ideology are intertwined in diverse discursive practices and 
+how these practices are shaped by people representing various cultures, ideologies 
+and social entities. This is not the first issue of our journal that is devoted to 
+discourse and discursive practices (see issues 2006, 4; 2017, 1; 2018, 1; 2019, 4). 
+But there is a certain reason why we continue this quest. Discourse is a cover term 
+including all forms of language use, which makes discourse the only known real 
+linguistic object (Kibrik 2009: 1). Notwithstanding the fact that many a book 
+(Blommaert 2005, Fairclough 1992, 2003, Gee 2007, Johnstone 2018, Karasik 
+2002, Schiffrin 1995, van Dijk 2006, 2009, 2011 and many more) is devoted to 
+discourse, it has not lost its attraction to linguists due to several important reasons. 
+It enables researchers to focus their effort on a human engaged in any kind of 
+activity or interaction. In discourse studies speakers acquired diverse characteristics 
+as biological, social, cultural, ethnic, professional beings and, as a consequence, the 
+understanding of the significance of all types of environment in speech production 
+led to the awareness of its formative role in the use of language at large. Discourse 
+made it possible to ‘put language, action, interaction, values, beliefs, symbols, 
+objects, tools, and places together in such a way that others recognize you as a 
+particular type of who (identity) engaged in a particular type of what (activity), here 
+
+220  
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. 2020. Russian Journal of Linguistics 24 (2). 219—252 
+
+and now’ (Gee 1999: 27). Thus, le langage, the ethereal and insufficiently 
+substantiated notion which was put forward by Saussure, became more tangible.  
+
+2. Major tenets and objectives of discourse theory
+For several decades, linguists had been concentrating their effort on the 
+
+structure of language (Saussure’s la langue) until it became evident that linguistics 
+could not stay within those rigorous borders (Yule 1999: 139—140). First the 
+mesmerizing effect of language in use made scholars shift their attention to speech 
+(Saussure’s parole). Then the combination of diverse factors, including the 
+emergence of the term discourse in Harris’s work in 1952 (Harris 1952), 
+Chomsky’s revolution in linguistics with his emphasis on competence vs. 
+performance (Chomsky 1965), the study of discourse by French scholars (e.g. 
+Foucault 1981, 1994), to name just a few — all led to an understanding of discourse 
+as some kind of fabric produced by homo loquens (Hagege 1985) with two major 
+interwoven threads, those of language and reality (Foucault 1994).  
+
+A comprehensive study of discourse began with the scholars’ search for the 
+universal definition of this phenomenon which is characterized by a complex and 
+multidimensional nature. In this respect eight approaches to the definition of 
+discourse outlined by Sériot (Seriot 1999) are still quite representative and 
+expository, starting with the interpretation of discourse as an equivalent to 
+Saussure’s parole and going to the conditions under which a certain text is 
+generated, with all the restrictions set by the former (ibid.: 26—27). Eventually, 
+discourse got its interpretation as a human activity aimed at creating some 
+meaningful thought in a verbalized form. This approach brought to the fore the 
+circumstances discourse is created in and the individual it is connected with. As a 
+consequence, linguists turned to the study of an interplay of different factors that 
+operate in discourse, shaping and molding it in the speaker’s mode. In the long run, 
+a human being became the centerpiece of linguistic studies with discourse as the 
+major manifestation of human activities and their multifarious relations. 
+
+In the network of the relationships between humans, language and culture, 
+humans are defined as biological, social and cultural beings with all these aspects 
+closely bound together and constituting a single integral, inseparable package. 
+Biological characteristics of humans determined by the evolution and genetic data 
+are gradually transformed in the accommodation-assimilation processes and 
+modified through social interaction and socialization, thus converting humans into 
+social and cultural beings (Dolník 2015). The awareness that people as biological, 
+social and cultural beings use language to mediate all their activities encouraged 
+linguists to study language in various contexts, which they believed would help to 
+untie that tight knot. The statement made by Nunan (1993) that “discourse brings 
+together language, the individual producing the language, and the context within 
+which the language is used” (1999: 6—7), is shared by all those who these days 
+deal with discourse in linguistics. It is generally agreed that the term “discourse 
+usually refers to the interpretation of the communicative event in context” (Dijk 
+
+221 
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. Russian Journal of Linguistics. 2020. Т. 24. № 2. С. 219—252 
+
+2009: 1). This makes context an essential concept in discourse analysis (Nefedov 
+& Chernyavskaya 2020). Context as “a set of relevant properties of the 
+communicative situations of verbal interaction” (Dijk 2009: vii) refers to the 
+situation giving rise to discourse, and within which discourse is embedded. In this 
+light discourse “refers to the set of norms, preferences, and expectations relating 
+language to context, which language users draw on and modify in producing and 
+making sense out of language in context” (Saville-Troike 1994: 358). 
+
+Traditionally, linguists single out two different types of context. The first of 
+these is linguistic or verbal context (also referred to as micro-context or co-text), 
+i.e. the language that surrounds or accompanies a piece of discourse under analysis. 
+The second is non-linguistic or non-verbal or experiential context within which 
+discourse takes place (also referred to as macro-context). It is shaped by a number 
+of factors including the type of communicative event (e.g. a joke, a story, a lecture, 
+etc.); the topic; the purpose of the event; the setting; the participants and the 
+relationships between them; and the background knowledge underlying the 
+communicative event (Nunan 1993: 7—8). As Kecskes (2014) points out, in 
+linguistics “contexts usually refer to any factor — linguistic, epistemic, physical, 
+social — that affects the actual interpretation of signs and expressions” (Kecskes 
+2014: 35). He suggests distinguishing between prior context which is in our mind 
+(pragmatic context) and actual situational context, emphasizing that “meaning is 
+the result of the interplay of prior experience and current, actual situational 
+experience, which are both socio-cultural in nature” (ibid: 129). 
+
+The use of language in a variety of contexts (situational, geographic, historical, 
+structural, institutional), a discourse, is also understood as a three-dimensional 
+concept (as text, discursive practice and social practice) (Fairclough 1992). As a 
+social practice discourse is an entity embedded in social and historical context. 
+What is more, it subsequently participates in the social construction of reality and 
+is responsible for socially modeling a community and creating social identities, 
+enhancing knowledge, shaping social relations and generating complex discursive 
+practices and discourse conventions (Resta 1998, van Dijk 2006). 
+
+Another important finding that came with discourse studies was the 
+understanding of cognition and discourse closely tied together. It became clear that 
+“discourse intervenes between thought and reality” (Williams 1999: 23). Within the 
+cognitive framework of discourse theory, it is argued that humans mentally capture 
+their environment and integrate it into concepts, systems and relationships, i.e. 
+conceptualize it. Conceptualization can be understood as a mental grasp, 
+segmentation, specification and categorization of data pertaining to the material and 
+abstract world and subsequently processing it in thought and language. In individual 
+lingua-cultural communities, these processes take place within specific 
+interpretation frameworks governed by the internalized cultural patterns and 
+conventions. Thus, in different cultures, people schematize their experience and 
+knowledge of the world differently. As a result, languages differ on the basis of 
+“accumulated declarative knowledge <...> and culturally conditioned schemes” 
+
+222 
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. 2020. Russian Journal of Linguistics 24 (2). 219—252 
+
+(Kecskes & Papp 2000), in other words, languages are socially and culturally 
+embedded entities. 
+
+Discourse analysis became a dominant paradigm ranging over all the human 
+sciences, an air du temps, in Sériot’s terms (Sériot 2012: 18). Researchers 
+belonging to different linguistic schools tried to describe formal and functional 
+features of the latter (Schiffrin 1995). Later on, a third dimension of the discourse 
+was added, that was the description of topoi underlying its certain types 
+(Dobrosklonskaya 2014: 182). Thus, discourse made an overwhelming object of 
+analysis uniting the humanities in their search for semiotically expressed 
+(Fairclough 2004: 225—226) social psychological, sociological, and 
+anthropological patterns (Dijk 2009) of reproducing social identity. 
+
+3. Modern challenges for discourse theory
+Modern linguistic discourse studies develop in several directions 
+
+predetermined by a complex nature of the phenomenon under scrutiny. Scholars 
+have been trying to achieve more precision in defining the object and the subject 
+matter of discourse theory. Besides, another challenge is elaborating reliable 
+methods which could be used in linguistics to explore the sphere of analysis, to 
+describe types of discourse and discursive practices engaged in order to maintain 
+existing or emerging social relations.  
+
+In compliance with the socio-philosophical understanding of discourse, 
+initially, linguists turned to those spheres of communication where power and 
+domination in society was consistently reproduced (van Dijk 2011: xvii). These 
+were political (van Dijk 2006, Fairclough 1989), news (van Dijk 1988, Fowler 
+1991), mass media (van Dijk 1985), and legal (Goodrich 1987) discourses. Very 
+soon this list grew and linguists’ interest turned to such spheres as advertising (Cook 
+1992), marketing (Skålén et al. 2008), medical (e.g. Good, Del Vecchio Good 1981, 
+Locher 2017), classroom (e.g. Christie 2002), academic (e.g. Hyland 2009) 
+discourses. All these types of discourse retain their scholarly significance, with the 
+scope of research only widening when it comes to political (e.g. Beard 2000, 
+Chilton 2004, Ponton 2016, Sheigal 2004, Solopova & Chudinov 2018,), mass 
+media (e.g. Bell & Garett 1992, Dobrosklonskaya 2014, Dubrovskaya & 
+Kozhemyakin 2016; Larina et al 2019, Macdonald 2003, Matheson 2005, 
+Ozyumenko 2017, Talbot 2007), news (e.g. Bednarek 2006, Montgomery 2007), 
+religious (e.g. Bobyreva 2007, Naydenova 2018, Wierzbicka 2018) and judicial / 
+legal (e.g. Gotti & Williams. 2003, Dubrovskaya 2017) discourses. Moreover, 
+linguists started reconnoitering new spheres, including Internet discourse (Crystal 
+2010), entertainment / leisure and consumer discourse (e.g. Fullagar 2002, 
+Molodychenko 2016), lifestyle discourse (e.g. Ivanova 2019, Molodychenko 2020), 
+tourist discourse (e.g. Jaworski, Thurlow 2010), gender discourse (e.g. Mills 2003), 
+sports discourse (e.g. Koshkarova 2019), gastronomic discourse (e.g. Olyanich 
+2003), urban discourse (e.g. Leontovich 2019), green discourse (e.g. Alexander & 
+
+223 
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. Russian Journal of Linguistics. 2020. Т. 24. № 2. С. 219—252 
+
+Stibbe 2014) and many others. This all proves the statement made by Issers that the 
+list of types of discourse can never be complete (Issers 2011: 227).  
+
+The framework of discourse theory provided an important perspective for 
+many objects of linguistic description. One of these new fields of discourse theory 
+expansion became the study of emotions (e.g. Alba-Juez & Larina 2018, Mackenzie 
+& Alba-Juez 2019, Shahovsky 2015, 2018; among many others). Linguists saw a 
+link between emotions and certain contexts which generate “a multimodal discourse 
+process, which permeates all linguistic levels but also manifests itself in non-verbal 
+ways, presenting different stages and forms (influenced by variables such as 
+pragmatic expectations or common-ground knowledge) according as the discursive 
+situation and interaction changes and evolves” (Mackenzie & Laura Alba-Juez 
+2019: 18). The discourse approach to emotion made it possible to show this 
+phenomenon as a dynamic, discourse-pragmatic entity. This “emotional turn” 
+inevitably caused some changes in the subject matter of discourse analysis — it 
+went far beyond current knowledge of how a human being constructs their social 
+identity in different types of interaction (e.g. Langlotz & Locher 2017, Larina et al 
+2017).  
+
+A salient field of exploration discourse analysis borders on is communication. 
+What do spheres, types and forms of communication, on the one hand, and types of 
+discourse, on the other —have in common and what are their distinctive features so 
+that linguists could tell them apart? Interestingly, discourse analysis gave rise to a 
+term that unites these two notions, i.e. a discursive practice. The scope of 
+interpretation of this Foucauldian term ranges from “the production, distribution 
+and consumption of texts” (Fairclough 1992: 5, 73, 2010) to “the practices (or 
+operations) of discourses, meaning knowledge formations” without any reference 
+to linguistic practices or language use (Bacchi & Bonham 2014: 173). In spite of 
+this contradiction between scholars, the majority of linguists follow the “linguistic 
+turn” according to which discursive practices are a linguistic reflection of social 
+practices defined as “a relatively stabilised form of social activity” (Fairclough 
+2001: 231). Therefore, scholars delve into the analysis of discursive practices as 
+mechanisms of discursive construction of various types of relations, starting with 
+power distribution and going into diverse types of communication. In this respect 
+it is only logical that the study of discourse turned out to be closely connected with 
+the study of communication with its various communication strategies. 
+
+Another case of the extension of the discourse analysis field is incorporating 
+the study of im/politeness strategies converting them into discursive practices. The 
+discursive approach to politeness (Eelen 2001, Mills 2003, Watts 2003) gave a new 
+impetus to the development of the theory of politeness, significantly widening its 
+scope. The most important contributions of the discursive turn were “to remind us 
+of the evaluative and situated nature of concepts such as impoliteness or politeness, 
+the importance that emotions play in assessments and to argue for the link of 
+identity construction with these processes of judging” (Locher & Larina 2019: 
+875).The study of impoliteness also emerges from the discursive focus on language 
+
+224 
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. 2020. Russian Journal of Linguistics 24 (2). 219—252 
+
+(e.g. Bousfield & Locher 2008, Culpeper 2011, Garcés-Conejos Blitvich & 
+Sifianou 2019). As Culpepper (2011) rightly states, impoliteness is an important 
+aspect of social life and it plays a central role in many discourses which are rarely 
+described in detail (Culpeper 2011: xiii). Both politeness and impoliteness involve 
+the study of particular communicative behaviour in social interaction with the focus 
+on context (e.g. Bousfield 2008, Fernández-Amaya 2019). 
+
+Within linguistics, discourse analysis posited another set of acute questions 
+since it was necessary to fit in the new object of analysis and find its own niche in 
+relation to traditional spheres of linguistic analysis. Discourse understood as a 
+Gestalt-cognitive entity having a certain invariant model and characterized by 
+prototypical properties, was confronted with the long-existing and well-established 
+notions recognized by the scholarly community of linguists and philologists, in this 
+case that of genre as ‘as a set of expectations that a reader acquires from his/her 
+reading’, ‘a self-contained system with its own codes and conventions’ (Corbett 
+2009: 287). There was an opinion that linguistics should shun the notion of genre 
+and replace it by the term discourse. It took time to work out a balanced approach 
+and make the terminology compatible. Now genre studies within discourse analysis 
+(e.g. Dementyev 2016, Fuentes Rodríguez &  Álvarez-Benito 2016, Garcés-
+Conejos Blitvich, 2010, Ivanova 2017) is a topical issue (Dijk 2009: 8). It should 
+be understood that this seems to be not only a problem of terminology but also of 
+what we, linguists, really work with when it comes to studying units larger than 
+sentence, the embodiment of language in use. 
+
+This broadening of the subject matter and diversification of the object of 
+analysis brought about another challenge for linguists involved in discourse 
+analysis, i.e. the choice of methods and the veritability of results they yield. 
+Needless to say, the extent and the severity of the methodological problem are 
+predetermined by the multidimensional nature of discourse and its status in the 
+humanities. It is common knowledge that linguistic discourse analysis is an 
+outcropping of discourse analysis in the humanities which emerged in the 1960s. 
+Due to French structuralism discourse came into research as an object of sociology. 
+Thus, it was first studied in social sciences with the help of sociological methods. 
+It took linguistic discourse analysis some time to elaborate its own approach to 
+research. The seminal publications (Jørgensen & Phillips 2002, Titscher et al. 2000) 
+made quite a step in this respect expounding a whole array of methods which could 
+be employed by discourse analysts.  
+
+Another difficulty with methodology stems from the inter- or even 
+transdisciplinary status of discourse analysis. The focus of discourse theory or 
+discourse analysis on language, society and a human being requires research within 
+overlapping boundaries of different research fields. It brings in interdisciplinary 
+methods and interdisciplinary teams to work on the problems put to the fore. 
+Interdiciplinarity has always been an integral tenet of discourse analysis, critical 
+discourse analysis (CDA) or critical discourse studies (CDS). Unger (2016) finds 
+this approach as the manifestation of linguistic scholars’ natural need to cross “the 
+
+  225 
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. Russian Journal of Linguistics. 2020. Т. 24. № 2. С. 219—252 
+
+sometimes staid and rigid disciplinary boundaries of linguistics” (Unger 2016: 2). 
+This approach is taken at theoretical, methodological and research context levels in 
+that discourse analysis or CDS draws on other fields of inquiry (such as sociology, 
+psychology, cognitive science, philosophy, etc.), makes use of methodologies also 
+applied in different fields (text linguistics, corpus linguistics, ethnography, etc.) and 
+explores all kinds of phenomena which share an affinity with the use of language. 
+As a proponent of interdisciplinarity, he claims that “looking sideways” may be 
+beneficial for discourse analysts in making an effort to incorporate theories from 
+different disciplines into their analysis in order to better grasp discursive practices 
+in their social contexts (Unger 2016: 2). In his analysis of diverse CDS approaches, 
+Unger (2016) observes that they are aligned to three dimensions, namely textual, 
+social and cognitive/mental. These dimensions are interrelated and involved in each 
+approach, though to varying degrees, thus laying varied emphasis on investigating 
+and clarifying phenomena that are respectively textual, social or cognitive/mental.  
+
+All these problems have been actively discussed in the framework of discourse 
+theory and scholarly fields adjacent to it. In the recent years, more often than before, 
+scholarly publishing on the problems of discourse theory has significantly expanded 
+in volume and the number of conferences on this topical issue has been only 
+increasing. The idea of this issue was born at “Language in Modern Discursive 
+Practices”, within the Firsova Readings — IV, a traditional biannual conference 
+that was held on October 22—23, 2019 at the RUDN University supported by the 
+Institute of modern languages, intercultural communication and migrations. The 
+international team of plenary speakers — Miriam A. Locher (University of Basel, 
+Switzerland), Laura Alba-Juez (UNED, Madrid), Magdaléna Bilá and Ingrida 
+Vaňková (University of Prešov, Slovakia), Dániel Z. Kádár (Hungarian Academy 
+of Sciences & Dalian University of Foreign Languages), Monika Kopytowska 
+(Lodz University, Poland) — covered many of the problems addressed in this issue. 
+The reports presented showed that discursive practices are being researched in 
+different types of discourse and they could be analyzed from different perspectives: 
+the way they are employed to express emotions, politeness and impoliteness, hate 
+speech, etc. 
+
+4. Issues covered in the collection
+This issue is coming out in hard times and we are thankful to everyone who, at 
+
+this difficult time of corona virus pandemic, continues to work and share their 
+thoughts and ideas, including those related to challenges that go beyond the field of 
+linguistics. The issue opens with Anna Wierzbicka’s address to all of us united in 
+our fight against the pandemic which acquired the shape of a global social event, 
+with seven essential messages. Using her Natural Semantic Metalanguage method, 
+which allows thoughts to be accurately conveyed in all languages of the world 
+(Goddard and Wierzbicka 20014, Wierzbicka 1996), Anna Wierzbicka has found 
+simple, transparent words — words that can be understood and taken in 
+instantaneously, by anyone. We can only hope that these words can help us cope 
+
+226 
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. 2020. Russian Journal of Linguistics 24 (2). 219—252 
+
+with the hardships and difficulties of this period, find new prospects and stay 
+positive. 
+
+All the works presented on the pages of the special issue focus on the analysis 
+of discursive practices. Studying different angles of the language, culture and 
+ideology interaction through the prism of discourse, the authors thereby expand and 
+refine our knowledge about the processes of social life occurring at the micro and 
+macro levels. The basis for research of this kind stems from the idea that discourse 
+“involves focusing upon a social construction of meaning” (Williams 1999: 5).  
+
+Anna Wierzbicka’s address is followed by her article “Addressing God in 
+European languages: Different meanings, different cultural attitudes” in which she 
+investigates how speakers of different European languages tend to relate to God. 
+The aim the author sets complies with an understanding that as cultural beings, 
+humans manifest themselves through standardized manners of accommodative 
+behavior. In the course of socialization, humans develop a variety of (verbal) 
+behavior patterns and various modes of interpreting the world, which results in the 
+emergence of an array of lingua-cultural communities (Dolník 2015). The 
+relationship between humans, language and culture has been the focus of research 
+in humanities from the very beginning. This interest has been an ongoing feature of 
+modern linguistics for quite a while and it reveals the way language is used to serve 
+its purpose according to the aim of the user, the context of use and the internalized 
+cultural patterns governing its mechanisms. Thus, each lingua-culture has their own 
+characteristic ways of addressing God, encoded in certain words, phrases, 
+grammatical forms, and formulae which both reflect and shape the speakers’ 
+habitual ways of thinking about God and relating to God. Often, they also reflect 
+some other aspects of their cultural memory and historical experience. The results 
+of the study show that each European language offers its users a range of options 
+for addressing God. Some of these options are shared; others appear to be unique 
+to the language. All are underpinned by broader historical phenomena. Still as the 
+author maintains, the exact nature of all these links remains to be investigated. 
+
+During socialization, people develop different (verbal) patterns of behavior 
+and different ways of interpreting the world, which leads to the emergence of many 
+language communities (Dolník 2015). The next three articles of the current issue 
+examine the relationship between ideology, identity and language in various 
+discursive practices in different language communities. Ideologies represent social 
+groups, define and are defined by their social practices.  
+
+Language is all around us, permeating our public and private lives, 
+materialized in the form of speech sounds and displayed in texts taking the form of 
+shop signs, public and private notices, posters, commercial slogans, etc. Martin 
+Pütz explores the linguistic landscape of Cameroon sharing his reflections on 
+language policy and ideology. He dwells on linguistic landscape as a relatively 
+recent area of research, which he defines as the visual representation of languages 
+in public space. Cameroon’s linguistic landscape is composed of English, French, 
+Pidgin English, Camfranglais and, to a minor degree, indigenous African 
+
+  227 
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. Russian Journal of Linguistics. 2020. Т. 24. № 2. С. 219—252 
+
+languages. This paper shows that the field of linguistic landscapes can act as a 
+reflection of linguistic hierarchies, ideologies and acts of resistance in multilingual 
+and multicultural communities. Besides, in Cameroon the linguistic landscape 
+almost exclusively focuses on the dominant status and role of one single language, 
+i.e. French, and to a lesser extent English, whose speakers therefore feel 
+marginalized and oppressed by the French-favouring government. The paper 
+presents certain interest from the point of view of its methodology as the author 
+analyses more than 600 linguistic tokens (digital photos) that he collected in various 
+public places mainly in and around the Cameroonian capital of Yaoundé. 
+
+Stephany Moody and Zohreh Eslami turn to political discourse, code-
+switching and ideology. The authors concentrate on mechanisms of manipulation, 
+suggestion, and persuasion inherent in language. They study code-switching in 
+political discourse, which is considered as one of the discursive practices employed 
+by bi- and multilinguals. Through these practices, they utilize their entire linguistic 
+repertoires to create meaning by way of switching between two or more available 
+languages or dialects with respect to certain extralinguistic factors to gain support 
+of their political followers. Code-switching captures the historical, political and 
+social embeddedness of language practices and the manners in which these 
+practices are intertwined with ideologies. Based on language ideologies framework, 
+the paper seeks to determine how code-switching was used as political discourse by 
+Senator Kaine, and how its use varied based on the context of each speech. The 
+study illustrates how code-switching can be used to cultivate political favour, forge 
+alliances, and demonstrate cultural similarities between white politicians and bi- 
+and multilingual voters. 
+
+In their paper, Magdaléna Bilá, Alena Kačmárová and Ingrida Vaňková 
+address the encounter of two lingua-cultures through the perspective of social 
+deixis. It is a well-known fact that in most languages, mainly European ones, 
+conveying social deixis operates on a sliding scale between two extremes:  
+T and V forms. The paper reports on research on Slovak and English languages that 
+respectively have and lack overt T/V markers. The uniqueness of English vs. Slovak 
+cultural identity and/or discursive practice of the respective culture with regard to 
+expressing social distance are examined in two steps. Firstly, the related concepts 
+(a cultural identity, social distance, T/V forms) are analyzed by means of the 
+conceptualizing scheme (frame establishment, encoding/pre-understanding, 
+contextualization/salience, and code configuration). Secondly, the questionnaires 
+were designed based on the outcomes of the conceptualization process involving a 
+set of principles. The outcomes of the investigation show that conceptualization of 
+T vs V or informal vs. formal may stem from the conceptualization of social 
+distance in terms of a set of principles, the conceptualization of the specific 
+principle in terms of the relationship types, the conceptualization of the relationship 
+type in terms of a specific culture and the conceptualization of a culture-specific 
+relationship type through language means (T or V).  
+
+228  
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. 2020. Russian Journal of Linguistics 24 (2). 219—252 
+
+Various discursive practices are discussed in a number of articles. Natalia 
+Sokolova brings to the fore some methodological questions in her integrated 
+approach investigation analyses of multimodal marketing discourse. The paper 
+investigates the multimodal website marketing discourse relying on an approach 
+which makes use of multimodal critical discourse analysis, pragmatics, and text 
+linguistics. The integrated framework allows for consideration of the discourse-
+generating intention of the locutionary source, the discourse function, verbal 
+content categories and audio-visual techniques employed in the nonverbal discourse 
+contributing to the global category of ideologeme made of key ideas and aimed at 
+the locutionary target. It is of particular interest that the linguistic means in the three 
+marketing discourses under analysis are different only when it comes to 
+metaphorical expressions. The global ideologeme is made explicit by urging 
+customers to optimize data and feel IT-powered performance benefits. It is 
+conveyed through multiple antitheses, such as data challenges vs. one solution, 
+previously vs. now, old vs. new and slowly vs. fast. The antitheses in the three 
+marketing discourses are similar as are the typical manifestations of categories and 
+audio-visual techniques which may encourage further research in terms of making 
+the specific discourse of a company stand out to its customers. 
+
+Svetlana Ivanova and Gulnara Khakimova investigate celebrity gossip as a 
+genre in English-language mass media discourse. The paper studies rumours as a 
+specific communication phenomenon and the discursive practices by means of 
+which it is realized across the Anglophone mass media discourse continuum. The 
+integrative approach with various methods employed makes it possible to gain an 
+insight into media rumours, namely celebrity gossip, manifested in on-line versions 
+of the printed press and original web outlets. The study reveals restrictions imposed 
+on this text type and the range of topics discussed, i.e. what makes this genre distinct 
+from others. The structure of the celebrity gossip discourse is represented by texts 
+in different journalistic forms: ranging from informative genres to feature type 
+variations used by authors as means of constructing celebrity culture. The 
+information of trivial content and questionable validity because of its unverified 
+character is disguised as reports of high testimonial trustworthiness and epistemic 
+value with the help of a variety of language and textual resources. The authors argue 
+that within the mass media communication there exists a specific discourse which 
+is hybrid by nature and non-evidential by verification. 
+
+Aleksey Romanov and Olga Novoselova unveil pragmatic effectiveness of 
+threat statements in political communication. The aim of the article is to consider 
+pre-election statements with the meaning of threat as verbal regulative actions and 
+to propose a typology of such constructive menacives taking into account the 
+targeted orientation of their consequent component. The theoretical framework of 
+the study is made up by the theory of speech activity, speech act theory and 
+psychosemantics. The study identified 18 targeted types of menacives from the 
+point of view of their pragmatic and emotional potential for influencing voters 
+which are characterized by different frequencies in pre-election programs. The 
+
+  229 
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. Russian Journal of Linguistics. 2020. Т. 24. № 2. С. 219—252 
+
+authors conclude that politicians deliberately prefer to use threat statements with 
+consequent effect on an unfocused audience trying to win the attention and votes. 
+The analysis shows that four types of threat statements with different targeting of 
+consequent component was a pragmatically effective tool in the context of the 
+Russian pre-election campaign in 2018. The results of this study can be used to 
+predict the pragmatic effect of politicians’ threat statements on voters. 
+
+Sergey Pashkov in his work accentuates the importance of the holistic view 
+of the world that is relevant for text studies. The purpose of the article is to analyze 
+and classify the language means representing emotions which biblical characters 
+attribute to God. On the basis of theological interpretation of the antinomy ‘God’s 
+immutability-God’s emotions’ the author substantiates (1) the introduction of the 
+term ‘attribution of emotions’ in the conceptual and terminological apparatus of 
+emotiology explicating the specificity of biblical emotive meanings; (2) the analysis 
+of the depicted biblical space in the emotive aspect; (3) the interpretation of biblical 
+characters’ activity as a cause of emotions attributed to God. The language analysis 
+is carried out with the help of the notion of the emotional script. This notion helps 
+to present the systemic description of emotion development that is the cause of its 
+emergence and the corresponding response. The methodological approaches 
+employed in the study include the definitional, contextual, emotive, and lingua-
+stylistic analyses, with reference to the historical and cultural context. The study 
+results in classifying the following types of lexemes: 1) representing the cause of 
+emotions attributed to God; 2) representing emotions attributed to God; 
+3) representing the biblical space perceived by characters as a ‘reaction’ to 
+emotions attributed to God. Proceeding from the theandric nature of Jesus Christ, 
+His depicted emotions are treated as a manifestation of His human nature. The study 
+has allowed the author to give linguistic substance to one of the antinomies of 
+Christian understanding of God and to project a new prospect of further linguistic 
+research on Christian dogmata from an emotive perspective. 
+
+It is only logical that the conclusive contribution by Lara Sinelnikova puts the 
+final touch to the questions discussed. Lara Sinelnikova’s contribution delves into 
+the conceptual environment of the frontier discourse in the humanities and, thus, 
+finalizes the discussion of the problems touched upon in the current issue. The 
+author argues that frontier concept has been familiar to scholars for a long time and 
+its main characteristics, including its flexible borders, its conceptualization as a 
+zone of space development characterized by uncertainty and instability, proved 
+their importance for understanding and describing the current state of the 
+environment in its social, cultural, communicative and linguistic indicators. The 
+interdisciplinary (transcendental) potential of a frontier is realized in a 
+complementary combination of natural sciences and humanities. The author aims 
+at justifying the scientific integrity of the term ‘frontier discourse’, whose 
+conceptual environment is created through two overlapping multi-layer 
+phenomena: frontier and discourse. The article names the vectors of expanding the 
+interdisciplinary potential of frontier under the conditions of a discourse approach. 
+
+230  
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. 2020. Russian Journal of Linguistics 24 (2). 219—252 
+
+Frontier as a flexible border is presented in the internet communication, the socio-
+cultural space of the modern city, in the daily behavioural norms of the elite, in the 
+in-family relations and in many other conceptual spheres, whose list remains open 
+due to the ontological features of the concept in question. Based on the examples 
+from literature, the author demonstrates the role of the frontier modus in the 
+interpretation of literary texts, whose plot, style and images are projected onto 
+national history, culture, mentality in their by-border characteristics. Such frontier 
+features as instability, its ability to create an interaction zone, which, under certain 
+conditions, can lead to integration, are important for understanding the problems of 
+modern language, speech and genre norms. The by-border territory is a place of 
+accumulating violations of traditional norms and the material necessary to forecast 
+the arising norm changes. The transformation of traditional genres and the 
+formation of new ones also take place on the frontier territories. It is concluded that 
+frontier discourse ensures the understanding of norm shifts in genre-stylistic 
+characteristics. 
+
+The current volume contains two reviews on the issues closely connected with 
+the topic under study. Etsuko Oishi reviews the book edited by well-known 
+scholars of the theory of politeness and impoliteness Jonathan Culpeper, Michael 
+Haugh and Dániel Z. Kádár (2017) The Palgrave Handbook of Linguistic 
+(Im)politeness. In her review she underscores a desired balance between theory and 
+application which is achieved by the contributors. The book unfolds the concept of 
+impoliteness and brings a new perspective to the (im)politeness research: 
+impoliteness as well as politeness manifests as facework strategies achieved 
+discursively.  
+
+Marianna Ryshina-Pankova reviews the book edited by two prominent 
+researchers of discourse and emotions J. Lachlan Mackenzie and Laura Alba-Juez 
+(2019) Emotion in Discourse. This collection of articles instantiates what has been 
+called the “emotional turn” in the human sciences and specifically in the study of 
+language (see also Alba-Juez & Larina, 2018, a special issue of this journal devoted 
+to this theme). The volume focuses on the crucial importance of emotion in human 
+communication and on the construal of emotions through language. Presenting the 
+latest theoretical and empirical research on this matter, the book aims to provide a 
+detailed account of the interaction of emotion, language, language proficiency, 
+culture, and discourse. 
+
+ 
+5. Discussion and outlook 
+
+The emergence of discourse analysis stems from the idea to explore a human 
+being in their social environment. “Discourse analytical approaches take as their 
+starting point the claim of structuralist and poststructuralist linguistic philosophy, 
+that our access to reality is always through language” (Jørgensen & Phillips 2002: 
+8). With discourse analysis prescriptive and normative linguistics yielded its way 
+to investigating language in use as the main prerogative and indisputable priority of 
+linguistic studies. This paradigm has not exhausted itself; it still has a lot to explore 
+
+  231 
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. Russian Journal of Linguistics. 2020. Т. 24. № 2. С. 219—252 
+
+to answer the eternal question of linguistics, how the human language functions 
+when a human being uses it to achieve certain communicative aims. The current 
+issue testifies that “discourse analysis is in constant evolution, and continues to 
+expand in the range and scope of its research activities” (Ponton & Larina 2017: 
+12) and we cannot but agree more. Linguists are still elaborating and substantiating 
+a full integrative framework of the theory of discourse with many variables falling 
+into the picture.  
+
+ 
+RU	
+
+ 
+Представить себе мир без дискурса — это 
+все равно, что представить себе мир без 
+языка, то есть представить что-то невооб-
+разимое.1  
+
+(He 2003: 428) 
+ 
+
+1. Введение 
+В центре внимания этого выпуска — дискурс и то, как homo loquens, че-
+
+ловек говорящий, выстраивает его в различных сферах человеческой деятель-
+ности. Авторы выпуска отвечают на вопрос о том, как язык, культура и идео-
+логия переплетаются в различных дискурсивных практиках и как эти прак-
+тики формируются людьми, представляющими разные культуры, идеологии 
+и социальные образования. Это не первый выпуск нашего журнала, посвя-
+щенный дискурсу и дискурсивным практикам (см. Выпуски 2006, 4; 2017, 1; 
+2018, 1; 2019, 4), и на это есть веская причина. Дискурс — это явление, вклю-
+чающее все формы использования языка, что, собственно, и делает его един-
+ственным известным реальным лингвистическим объектом (Кибрик 2009: 1). 
+Несмотря на то, что дискурсу посвящены многочисленные издания (Карасик 
+2002, Blommaert 2005, Fairclough 1992, 2003, Gee 2007, Johnstone 2018, 
+Kalyango Jr. & Kopytowska 2014, Schiffrin 1995, van Dijk 2006, 2009, 2011 и 
+многие др.), он не теряет своей привлекательности для лингвистов по ряду 
+важных обстоятельств. Дискурс позволяет исследователям сосредоточить 
+свои усилия на человеке, вовлеченном в любой вид деятельности или взаимо-
+действия. Прежде всего, в дискурсивных исследованиях говорящие приобре-
+тают “осязаемость” и конкретность как биологические, социальные, культур-
+ные, этнические, профессиональные идентичности. Как следствие, понима-
+ние значимости всех типов окружения, которые участвуют в производстве 
+речи, привело к осознанию созидающей роли экстралингвистических факто-
+ров в использовании языка в целом. Дискурс позволил объединить «язык, 
+действие, взаимодействие, ценности, убеждения, символы, объекты, инстру-
+менты и местопребывание таким образом, чтобы другие распознавали вас как 
+особый тип того, кто (идентичность) участвовал в определенном типе того, 
+                                                            
+
+1 Здесь и далее перевод наш (М.Б., С.И.) 
+
+232  
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. 2020. Russian Journal of Linguistics 24 (2). 219—252 
+
+что (деятельность), здесь и сейчас происходит» (Gee 1999: 27). Таким обра-
+зом, le langage, эфемерное и требующее большего обоснования понятие, вы-
+двинутое Ф. де Соссюром, приобрело наполненность и необходимую для 
+лингвиста реальность. 
+
+ 
+2. Основные принципы и цели теории дискурса 
+
+В течение нескольких десятилетий лингвисты сосредоточивали свои уси-
+лия на структуре языка (la langue, по Соссюру), пока не стал очевидным тот 
+факт, что лингвистика не может оставаться в этих жестких границах (Yule 
+1999: 139—140). Сначала завораживающий эффект языка в его функциониро-
+вании (language in use) заставил ученых переключить свое внимание на речь 
+(la parole, по Соссюру). Затем совокупность различных факторов, в том числе 
+появление термина «дискурс» в работе Зеллига Харриса в 1952 году (Harris 
+1952), революция Хомского в лингвистике с его акцентом на competence vs 
+performance (Chomsky 1965), изучение дискурса французскими учеными 
+(Foucault 1981, 1994), и это далеко не полный перечень движущих лингви-
+стику XX в. сил — привело к пониманию дискурса как результата теснейшего 
+взаимодействия двух миров — языка и реальности (Foucault 1994), которые 
+оказываются опосредованными деятельностью человека говорящего (Hagege 
+1985). 
+
+Всестороннее изучение дискурса началось с поиска учеными универсаль-
+ного определения этого сложного и многомерного по своей природе явления. 
+В этом отношении восемь подходов к определению дискурса, изложенных 
+П. Серио (Серио 1999: 25—27), все еще актуальны и обладают объясняющей 
+силой — начиная с интерпретации дискурса как эквивалента соссюровского 
+la parole и включая формулировку, содержащую все дискурсно-обусловлен-
+ные ограничения на порождение текста (там же: 26—27). В конечном итоге 
+интерпретация дискурса предполагает деятельность человека, направленную 
+на создание мысли в словесной форме. При таком подходе на первый план 
+выходят обстоятельства бытования дискурса и индивид, бытующий в этом 
+дискурсе и/или связанный с ним. Как следствие, интерес вызывает изучение 
+разнообразных факторов, которые взаимодействуют в рамках дискурса, фор-
+мируя и форматируя его по образу и образцу говорящего. Именно человек 
+стал центром лингвистической теории дискурса, при этом дискурс понима-
+ется как основное проявление человека в рамках производимой им деятель-
+ности и в совокупности со всеми отношениями, которые в этой деятельности 
+возникают. Взаимоотношения между людьми, языком и культурой опреде-
+ляют человека как существо биологическое, социальное и культурное. При 
+этом все эти ипостаси человека тесно связаны друг с другом и составляют 
+единое нераздельное целое. Биологические характеристики людей, определя-
+емые эволюцией и генетическими данными, постепенно трансформируются в 
+процессы аккомодации и ассимиляции и изменяются посредством социаль-
+
+  233 
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. Russian Journal of Linguistics. 2020. Т. 24. № 2. С. 219—252 
+
+ного взаимодействия и социализации, превращая людей в социальные и куль-
+турные идентичности (Dolník 2015). Осознание того, что люди как биологи-
+ческие, социальные и культурные существа используют язык в качестве по-
+средника во всей своей деятельности, побуждает лингвистов изучать язык в 
+различных контекстах, что, по их мнению, поможет развязать этот гордиев 
+узел. Заявление Дэвида Нунана (Nunan 1993) о том, что «дискурс объединяет 
+язык, человека, производящего язык, и контекст, в котором этот язык исполь-
+зуется» (Nunan 1993: 6—7), разделяют все дискурсологи. Исследователи схо-
+дятся во мнении, что термин «дискурс» используется при интерпретации ком-
+муникативного события в контексте (Dijk 2009: 1). Таким образом контекст 
+приобретает концептуальное значение для дискурсивного анализа (Нефедов, 
+Чернявская 2020). Контекст как «набор соответствующих свойств коммуни-
+кативных ситуаций речевого взаимодействия» (Dijk 2009: VII) относится к 
+ситуации порождения и бытования дискурса. В свете этого понимания дис-
+курс «относится к набору норм, предпочтений и ожиданий, который пользо-
+ватели языка имеют в своем распоряжении и изменяют при создании и осмыс-
+лении языка в контексте» (Saville-Troike 1994: 358). 
+
+Традиционно лингвисты выделяют два типа контекста. Первым из них 
+является языковой или словесный контекст (также называемый микроконтек-
+стом или со-текстом), то есть язык, который окружает или сопровождает ана-
+лизируемый фрагмент дискурса. Второй — это неязыковой, невербальный 
+или эмпирический контекст (также называемый макроконтекстом), в котором 
+дискурс «происходит». Он испытывает формирующее влияние ряда факто-
+ров, включающих тип коммуникативного события (например, шутка, рассказ, 
+лекция и т.д.), тему, цель события, окружение, участников и отношения 
+между ними, а также фоновые знания, лежащие в основе коммуникативного 
+события (Nunan 1993: 7—8). Как указывает И. Кечкеш (Kecskes 2014), в линг-
+вистике «контексты обычно относятся к любому из факторов — лингвисти-
+ческому, эпистемологическому, физическому, социальному, которые влияют 
+на фактическую интерпретацию знаков и выражений» (Kecskes 2014: 35). Он 
+предлагает различать предшествующий контекст (prior context), который 
+находится в нашем сознании, и фактический ситуативный контекст, подчер-
+кивая при этом, что «значение является результатом взаимодействия предше-
+ствующего опыта и текущего, фактического ситуативного опыта, и оба имеют 
+социокультурный характер» (там же: 129).  
+
+Дискурс как использование языка в различных контекстах (ситуативный, 
+географический, исторический, структурный, институциональный) также 
+толкуется как трехмерное образование (текст, дискурсивная практика и соци-
+альная практика) (Fairclough 1992). Как социальная практика дискурс пред-
+ставляет собой сущность, встроенную в социальный и исторический кон-
+текст. Более того, впоследствии он участвует в социальном конструировании 
+реальности и отвечает за социальное моделирование сообщества и создание 
+социальных идентичностей, расширение знаний, формирование социальных 
+
+234  
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. 2020. Russian Journal of Linguistics 24 (2). 219—252 
+
+отношений и создание сложных дискурсивных практик и дискурсивных кон-
+венций (Resta 1998, van Dijk 2006). 
+
+Другим важным открытием, которое пришло с исследованиями дискурса, 
+стало понимание тесной связи познания и дискурса. Стало ясно, что дискурс 
+существует между мыслью и реальностью (Williams 1999: 23). Когнитивное 
+прочтение теории дискурса предполагает, что люди мысленно «схватывают» 
+окружающее их пространство со всеми отношениями и интегрируют все это 
+вместе взятое в концепции, системы и отношения, то есть производят опера-
+цию концептуализации. Концептуализация может пониматься как восприя-
+тие, сегментация, спецификация и категоризация данных, относящихся к ма-
+териальному и абстрактному миру, и последующая обработка их в мышлении 
+и на языке. В отдельных лингвокультурных сообществах эти процессы про-
+исходят в определенных интерпретационных рамках, регулируемых интерна-
+лизованными культурными закономерностями и соглашениями. Таким обра-
+зом, в разных культурах люди по-разному схематизируют свой опыт и знания 
+о мире. В результате языки различаются по «накопленным декларативным 
+знаниям <...> и культурно-обусловленным схемам» (Kecskes & Papp, 2000), 
+иными словами, языки становятся и являются социально и культурно встро-
+енными объектами. 
+
+Не будет преувеличением сказать, что к началу XXI века дискурс-анализ 
+стал доминирующей парадигмой, охватывающей все гуманитарные науки, 
+своеобразным духом времени, air du temps, в терминах Патрика Серио (Sériot 
+2012: 18). Представители разных лингвистических школ пытались описать 
+формальные и функциональные особенности дискурса (Schiffrin 1994). Позже 
+к этим двум добавилось третье измерение дискурса, а именно описание топо-
+сов, лежащих в основе определенных типов дискурса (Добросклонская 2014: 
+182). Таким образом, дискурс стал объектом анализа, объединяющим гумани-
+тарные науки в их поисках семиотически выраженных (Fairclough 2004: 225—
+226), социально-психологических, социологических, антропологических мо-
+делей (Dijk 2009) воспроизведения социальной идентичности. 
+
+ 
+3. Современные вызовы теории дискурса 
+
+Современные исследования лингвистического дискурса развиваются в 
+нескольких направлениях, что обусловлено сложным характером изучаемого 
+явления. Ученые пытаются достичь большей точности в определении объекта 
+и предмета теории дискурса. Еще одной проблемой является разработка 
+надежных методов анализа, которые могут быть использованы в лингвистике 
+для изучения данной предметной области, для описания типов дискурса и 
+дискурсивных практик, востребованных для поддержания существующих 
+или возникающих социальных отношений. 
+
+В соответствии с социально-философским пониманием дискурса перво-
+начально лингвисты обратились к тем сферам общения, в которых осуществ-
+ляется постоянное воспроизводство власти и господства в обществе (van Dijk 
+
+  235 
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. Russian Journal of Linguistics. 2020. Т. 24. № 2. С. 219—252 
+
+2011: xvii). Это были политический дискурс (van Dijk 2006, Fairclough 1989), 
+новостной (Fowler 1991, van Dijk 1988), дискурс масс медиа (van Dijk 1985), 
+юридический дискурс (Goodrich 1987). Очень скоро перечень дискурсов, ко-
+торые исследовали лингвисты, вырос, и его дополнили рекламный (Cook 
+1992), маркетинговый (Skålén et al. 2008,), медицинский (Good, DelVecchio 
+Good 1981, Locher 2017), учебный (Christie 2002), академический (Hyland 
+2009) дискурсы. Все эти типы дискурса остаются в поле внимания исследова-
+телей, причем объем работ только увеличивается, когда дело доходит до по-
+литического (например, Beard 2000, Chilton 2004, Ponton 2016, Солопова,  
+Чудинов 2018, Шейгал 2004), массмедийного (например, Добросклонская 
+2014, Озюменко 2017, Bell & Garett 1992, Dubrovskaya, Kozhemyakin 2016, 
+Larina, Ozyumenko, Ponton 2019, Matheson 2005, Talbot 2007), новостного 
+(Bednarek 2006, Montgomery 2007), юридического / судебного (например, 
+Дубровская 2017, Gotti & Williams 2003), религиозного (например, Бобырева 
+2007, Найденова 2018, Wierzbicka 2018). Более того, дискурс-анализу подвер-
+гаются новые области человеческой деятельности — в данном случае речь 
+идет о таких типах дискурса, как интернет-дискурс (Crystal 2010), дискурс 
+развлекательный / досуговый, именуемый также консьюмеристским (Fullagar 
+2002, Молодыченко 2016), лайфстайл-дискурс (Иванова 2019, Молодыченко 
+2020), туристический дискурс (Jaworski, Thurlow 2010), гендерный дискурс 
+(Mills 2003), спортивный дискурс (Кошкарова 2019), гастрономический дис-
+курс (Олянич 2003), урбанистический (Леонтович 2019) и многие другие. Все 
+это свидетельствует в пользу утверждения О.С. Иссерс о том, что составить 
+полный список типов дискурсов не представляется возможным (Иссерс 2011: 
+227). Более того, исследователи отмечают тенденцию к интеграции и гибри-
+дизации дискурсов (Иванова 2017). 
+
+Теория дискурса стала перспективной основой для многих направлений 
+лингвистического анализа. Одной из этих новых областей, которые подверг-
+лись экспансии теории дискурса, стало изучение эмоций (например, Шахов-
+ский 2015, 2018, Alba-Juez & Larina 2018, Mackenzie & Alba-Juez 2019 и мно-
+гие другие). Лингвисты увидели связь между эмоциями и определенными ти-
+пами контекста, порождающими «процесс мультимодального дискурса, кото-
+рый пронизывает все уровни языка, но также проявляется в невербальных 
+способах, представляя различные стадии и формы (под влиянием таких пере-
+менных, как прагматические ожидания или общие знания), по мере того, как 
+дискурсивная ситуация и взаимодействие изменяются и развиваются» 
+(Mackenzie & Alba-Juez 2019: 18). Дискурсивный подход к эмоциям позволил 
+показать это явление как динамическую, дискурсивно-прагматическую сущ-
+ность. Этот «эмоциональный поворот» неизбежно вызвал некоторые измене-
+ния предметной области дискурс-анализа — убеждение перестало быть опре-
+деляющим фактором для определения объекта исследования теории дис-
+курса, дискурс способствует пониманию того, как человек конструирует свою 
+
+236  
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. 2020. Russian Journal of Linguistics 24 (2). 219—252 
+
+социальную идентичность в различных типах взаимодействия (e.g. Langlotz 
+& Locher 2017, Larina et al 2017 и др.). 
+
+Важной областью исследований, граничащей с анализом дискурса, явля-
+ется коммуникация. Сферы, типы и формы общения, с одной стороны, и типы 
+дискурса, с другой — что у них общего и каковы их отличительные особен-
+ности? Интересно, что дискурсивный анализ породил термин, который объ-
+единяет эти два понятия: речь идет о дискурсивной практике. Диапазон ин-
+терпретации этого термина, восходящего к работам М. Фуко (Foucault 1981), 
+варьируется от «производства, распространения и потребления текстов» 
+(Fairclough 1992: 5, 73, 2010) до «практик (или операций) дискурсов, означа-
+ющих накопление знаний» без какой-либо ссылки на лингвистические прак-
+тики или использование языка (Bacchi & Bonham 2014: 173). Несмотря на это 
+противоречие, большинство лингвистов следуют «лингвистическому пово-
+роту», согласно которому дискурсивные практики являются лингвистиче-
+ским отражением социальных практик, определяемых как «относительно ста-
+билизированная форма социальной активности» (Fairclough 2001: 231). По-
+этому ученые подходят к рассмотрению дискурсивных практик как механиз-
+мов дискурсивного построения различных типов отношений, начиная с рас-
+пределения власти и включая разнообразные типы коммуникации. Таким об-
+разом, изучение дискурса оказалось тесно связанным с изучением общения и 
+его различных коммуникационных стратегий. 
+
+Еще одна область расширения области дискурс-анализа — это изучение 
+стратегий не / вежливости, превращающих их в дискурсивные практики. Дис-
+курсивный подход к вежливости (Eelen 2001, Watts 2003, Mills 2003) дал но-
+вый импульс развитию теории вежливости, значительно расширив ее диапа-
+зон. Наибольшая значимость дискурсивного поворота заключалась в том, 
+чтобы «напомнить нам об оценочном и относительном характере таких поня-
+тий, как невежливость или вежливость, о важности, которую эмоции играют 
+в оценках, и сделать вывод о связи конструирования идентичности с этими 
+процессами оценки» (Locher & Larina 2019: 875). Изучение невежливости 
+также вытекает из дискурсивного подхода к языку (например, Bousfield 2008, 
+Bousfield & Locher 2008, Culpeper 2011, Garcés-Conejos Blitvich & Sifianou 
+2019). Как справедливо утверждает Калпепер (Culpepper 2011), невежливость 
+является важным аспектом социальной жизни и играет центральную роль во 
+многих дискурсах, которые редко описываются подробно (Culpeper 2011: 
+xiii). Как вежливость, так и невежливость включают изучение конкретного 
+коммуникативного поведения в социальном взаимодействии с акцентом на 
+контекст (например, Bousfield 2008, Fernández-Amaya 2019). 
+
+Помимо перечисленных проблемных зон, необходимо обратиться к еще 
+одному вопросу, который связан с проблемой определения места дискурса по 
+отношению к традиционным сферам лингвистического анализа. Дискурс, по-
+нимаемый как когнитивная сущность на уровне гештальта (поскольку для 
+
+  237 
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. Russian Journal of Linguistics. 2020. Т. 24. № 2. С. 219—252 
+
+него присуща некая инвариантная модель и его характеризуют прототипиче-
+ские свойства), должен найти свое место по отношению к давно существую-
+щим и устоявшимся в лингвистической науке понятиям. Так, неоднократно 
+поднимался вопрос о взаимоотношении дискурса и жанра как набора ожида-
+ний, которые выстраивает зрелый читатель, как некоей автономной системы 
+со своими собственными кодексами и конвенциями (Corbett 2009: 287). 
+В ходе данной дискуссии звучали голоса о том, что лингвистика должна из-
+бавиться от понятия «жанр» и заменить его термином «дискурс». Потребова-
+лось время, чтобы выработать сбалансированный подход к решению о совме-
+стимости данных терминов. В настоящее время актуальность жанровых ис-
+следований в рамках дискурс-анализа (например, Дементьев 2016, Иванова 
+2017, Cap & Okulska 2013, Fuentes Rodríguez & Álvarez-Benito 2016, Garcés-
+Conejos Blitvich, 2010) не вызывает сомнений (Dijk 2009: 8). При этом необ-
+ходимо отдавать себе отчет в том, что эта, казалось бы, всего лишь термино-
+логическая проблема отражает трудности изучения единиц, превышающих 
+предложение и относящихся к описанию речи и речевой деятельности. 
+
+Расширение предмета и диверсификация объекта анализа поставили пе-
+ред лингвистами, занимающимися теорией дискурса, еще одну проблему, ка-
+сающуюся выбора методов и доказательства достоверности полученных ре-
+зультатов. Нет необходимости говорить, что степень остроты и серьезность 
+проблемы методологии обусловлены многомерностью дискурса и его особым 
+статусом в гуманитарных науках. Общеизвестно, что лингвистическая теория 
+дискурса стала развитием идей дискурс-анализа, которые совершили прорыв 
+в гуманитарных науках в 1960-е годы. Благодаря французскому структура-
+лизму дискурс вошел в научно-исследовательскую практику как объект со-
+циологии. Совершенно естественно, что первоначально к анализу дискурса 
+применялись социологические методы. Лингвистической теории дискурса 
+потребовалось время, чтобы выработать свой собственный подход к исследо-
+ванию. Значительным шагом в этом направлении послужили книги (Jørgensen 
+& Phillips 2002, Titscher et al. 2000), авторы которых ставили цель упорядочить 
+методологическую базу лингвистической теории дискурса как сравнительно 
+молодого направления языкознания. 
+
+Еще одна трудность методологического характера связана с междисци-
+плинарным статусом теории дискурса. Теория дискурса, или дискурс-анализ, 
+приоритизирует язык, общество и человека, а это, в свою очередь, требует 
+исследований на стыке различных областей знаний. Соответственно, теория 
+дискурса использует междисциплинарные методы анализа, к примеру работу 
+с корпусами (Чернявская 2017, 2018), для решения поставленных задач. 
+Именно междисциплинарность является неотъемлемым принципом дискурс-
+анализа, критического дискурс-анализа (CDA) или исследований критиче-
+ского дискурса (CDS). Й. Унгер (Unger 2016) считает, что в этом подходе про-
+является естественная потребность лингвистов преодолевать «иногда устой-
+чивые и жесткие дисциплинарные границы лингвистики» (Unger 2016: 2). 
+
+238  
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. 2020. Russian Journal of Linguistics 24 (2). 219—252 
+
+Этот подход используется при анализе контекста на уровне теоретического 
+осмысления, выбора методов и сбора эмпирических данных в рамках дис-
+курс-анализа или CDА. При этом используются данные разнообразных науч-
+ных областей (таких как социология, психология, когнитивная наука, фило-
+софия и т.д.). Дискурс-анализ, кроме того, применяет методологию различ-
+ных направлений лингвистических исследований (лингвистика текста, кор-
+пусная лингвистика, этнография и т. д.) и исследует все, что связано с исполь-
+зованием языка (Unger 2016: 2). 
+
+Все эти проблемы активно обсуждаются в рамках теории дискурса и 
+смежных с нею областей научного знания, о чем свидетельствует как большое 
+количество соответствующих публикаций, так и количество конференций по 
+этой актуальной тематике. Так, идею к созданию данного номера дала конфе-
+ренция "Язык в современных дискурсивных практиках", которая состоялась 
+в Москве, в РУДН, в Институте современных языков, межкультурной комму-
+никации и миграции 22—23 октября 2019 года. Выступления пленарных до-
+кладчиков, среди которых были Мириам А. Лохэр (Базельский университет, 
+Швейцария), Лаура Альба-Хуэс (UNED, Мадрид), Даниэль Кадар (Академия 
+наук Венгрии и Далянский университет иностранных языков), Магдалена 
+Била и Ингрида Ванькова (Университет Прешова, Словакия), Моника Копы-
+товска (Университет Лодзи, Польша), показали, что исследование дискурсив-
+ных практик проводится на базе самых разных типов дискурса и касается вы-
+ражения эмоций, вежливости и невежливости, языка вражды и др. Проведен-
+ные в рамках конференции дискуссии еще раз подтвердили стремление ис-
+следователей найти закономерности функционирования языка в обществе в 
+связке с человеком говорящим, думающим, чувствующим.  
+
+ 
+4. Авторы этого выпуска 
+
+Наш выпуск выходит в непростое время, и мы благодарны всем тем, кто 
+продолжает работать и делиться с нами своими идеями, мыслями, в том числе 
+далеко выходящими за рамки лингвистики. Этот выпуск начинается с обра-
+щения Анны Вежбицкой ко всем нам, объединенным в нашей общей борьбе 
+против пандемии, которая приобрела форму глобального социального собы-
+тия. Анна Вежбицкая делится семью важными мыслями, которые она выра-
+жает при помощи разработанного ею Естественного Семантического Мета-
+языка (Goddard & Wierzbicka 2014, Wierzbicka 1996), позволяющего одина-
+ково точно передавать мысли и чувства на всех языках мира. Она смогла 
+найти правильные и понятные слова, которые звучат как своего рода ориен-
+тиры. Мы можем только надеяться, что они помогут нам справиться со слож-
+ностями и трудностями этого периода, найти новые перспективы и оставаться 
+позитивными.  
+
+Все работы, представленные на страницах настоящего специального вы-
+пуска, обращены к анализу дискурсивных практик. Исследуя в различных ра-
+курсах особенности взаимодействия языка, культуры и идеологии сквозь 
+
+  239 
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. Russian Journal of Linguistics. 2020. Т. 24. № 2. С. 219—252 
+
+призму дискурса, авторы тем самым расширяют и уточняют наши знания о 
+происходящих на микро- и макроуровнях процессах общественной жизни. 
+В основе представленных исследований лежит идея о том, что дискурс сосре-
+доточен на социальной конструкции значения (Williams 1999: 5). 
+
+Выпуск открывает статья Анны Вежбицкой, в которой она анализирует, 
+как люди, говорящие на различных европейских языках, обращаются к Богу. 
+Каждая лингвокультура имеет свои характерные способы обращения к Богу, 
+закодированные в определенных словах, фразах и грамматических формах, 
+которые отражают и формируют привычные способы мышления говорящих 
+о Боге и отношения к Богу. Зачастую они также отражают и другие аспекты 
+культурной памяти и исторического опыта человека говорящего. В связи с 
+этим автор прибегает к культурному комментарию о более широких истори-
+ческих явлениях. Цель, которую ставит перед собой автор, соответствует по-
+ниманию того, что, будучи носителями культуры, люди проявляют себя через 
+стандартизированные манеры аккомодационного поведения. Результаты ис-
+следования показывают, что каждый европейский язык предлагает своим 
+пользователям различные варианты обращения к Богу. Некоторые из этих оп-
+ций являются общими; другие характеризуются лингвокультурной уникаль-
+ностью. Тем не менее, как утверждает автор, причины различий всех этих об-
+ращений еще предстоит изучить. 
+
+В ходе социализации люди развивают различные (словесные) модели по-
+ведения и различные способы интерпретации мира, что приводит к появле-
+нию множества языковых сообществ (Dolník, 2015). В трех последующих ста-
+тьях текущего номера рассматривается связь идеологии, идентичности и 
+языка в различных дискурсивных практиках в разных языковых сообществах. 
+Идеология характеризует социальные группы, определяет, но и определяется 
+их социальными практиками.  
+
+Язык окружает нас, пронизывая нашу общественную и личную жизнь, 
+материализуясь в форме речевых звуков и отображаясь в текстах в виде вы-
+весок магазинов, объявлений, плакатов, рекламных лозунгов и т.д. Мартин 
+Пютц исследует языковой ландшафт Камеруна и делится своими размышле-
+ниями о языковой политике и идеологии. Он останавливается на языковом 
+ландшафте как на относительно недавней области исследований, которую он 
+определяет как визуальную представленность языков в публичном простран-
+стве. Языковой ландшафт Камеруна репрезентирован английским, француз-
+ским, пиджин-английским, камфранглийским и, в меньшей степени, корен-
+ными африканскими языками. Исследование Мартина Пютца показывает, что 
+область языковых ландшафтов может выступать в качестве отражения языко-
+вых иерархий, идеологий и актов сопротивления в многоязычных и много-
+культурных сообществах. Кроме того, в Камеруне языковой ландшафт почти 
+исключительно сосредоточен на доминирующем статусе и роли одного от-
+дельного языка, то есть французского и, в меньшей степени, английского, по-
+
+240  
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. 2020. Russian Journal of Linguistics 24 (2). 219—252 
+
+этому англоговорящие граждане чувствуют себя в определенной степени мар-
+гинализированными. Несомненный интерес данной публикации связан с ис-
+пользуемой автором методологией: в работе анализу подвергнуты более 600 
+лингвистических токенов (цифровых фотографий), которые были собраны в 
+различных общественных местах, главным образом в и вокруг столицы Каме-
+руна Яунде. 
+
+Как известно, изучение дискурса началось со стремления исследовать по-
+литику и власть, выраженную в языке и посредством языка (Фуко 1981: 1994). 
+Это направление дискурсивных исследований не теряет своей актуальности 
+и пополняется новыми публикациями, о чем свидетельствует и статья  
+Стефани Муди и Зохрэ Еслами. Они обращаются к проблематике политиче-
+ского дискурса в той части, которая касается особенностей кодовых переклю-
+чений и выражения идеологии. Авторы сосредоточивают свое внимание на 
+механизмах манипулирования, внушения и убеждения, присущих языку. Они 
+изучают дискурсивные практики, связанные с переключением языковых ко-
+дов в процессе речевой деятельности, в рамках которых дву- и многоязычные 
+участники коммуникации гибко используют весь свой лингвистический ре-
+пертуар для создания смысла. Переключение кодов, фиксируя историческую, 
+политическую и социальную встроенность языковых практик в речевую дея-
+тельность человека в социуме, свидетельствует о том, что эти дискурсивные 
+практики напрямую связаны с идеологиями. Основываясь на концепции язы-
+ковых идеологий, авторы ставят своей целью определение того, как кодовые 
+переключения использовались сенатором Кейном в политическом дискурсе и 
+как эти случаи варьировали в зависимости от контекста каждой речи. Иссле-
+дование показывает, как можно использовать кодовые переключения для 
+формирования политического капитала, создания альянсов и демонстрации 
+культурного сходства между белыми политиками и их дву- и многоязычными 
+избирателями. Представленное исследование служит иллюстрацией глубо-
+кого замечания Т. ван Дейка о том, что «идеологии выражаются и, как пра-
+вило, воспроизводятся в социальных практиках их членов и, в частности, при-
+обретаются, подтверждаются, изменяются и увековечиваются посредством 
+дискурса» (van Dijk 2006: 115). 
+
+Проблематика социальной идентичности в дискурсивных практиках рас-
+крывается в работе Магдалены Била, Алены Качмаровой и Ингриды 
+Ваньковой. Авторы сопоставляют две лингвокультуры сквозь призму соци-
+ального дейксиса. Хорошо известен тот факт, что в большинстве языков, в 
+основном европейских, передача социального дейксиса колеблется между 
+двумя полюсами, которыми служат морфологические средства, формы ты и 
+Вы. Авторы обращаются к исследованию словацкого и английского языков, 
+которые, соответственно, различаются по наличию эксплицитных маркеров 
+ты/Вы. Весьма интересна разработанная авторами пошаговая методика ис-
+следования. Уникальность английской и словацкой культурной идентичности 
+
+  241 
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. Russian Journal of Linguistics. 2020. Т. 24. № 2. С. 219—252 
+
+и / или дискурсивная практика соответствующей культуры в отношении вы-
+ражения социальной дистанции рассматриваются в два этапа. Во-первых, свя-
+занные понятия (культурная идентичность, социальная дистанция, формы 
+ты/Вы) подвергаются анализу посредством схемы концептуализации (уста-
+новление кадра, кодирование / предварительное понимание, контекстуализа-
+ция / значимость и конфигурация кода). Процесс концептуализации, включа-
+ющий набор принципов, дал результаты, на основе которых были разрабо-
+таны вопросники для испытуемых. Результаты исследования показывают, что 
+концептуализация ты vs Вы, иначе говоря, неофициального в отличие от офи-
+циального, может проистекать из концептуализации социальной дистанции с 
+точки зрения набора принципов, концептуализации конкретного принципа с 
+точки зрения типов отношений, концептуализации типа отношений с точки 
+зрения конкретной культуры и концептуализации типа культуры с определен-
+ной спецификой через морфологические средства (ты или Вы). 
+
+Дискурсивные практики маркетингового дискурса веб-сайтов выступают 
+объектом исследования, представленного в статье Н.В. Соколовой. Работа 
+заслуживает особого внимания тех, кто интересуется сложной проблемой ме-
+тодологии анализа мультимодальности в дискурсе. Автор выстраивает свой 
+мультимодальный анализ, опираясь на положения критического дискурс-ана-
+лиза, прагматики и лингвистики текста. Комплексный подход позволяет 
+учесть ряд параметров: дискурсопорождающую интенцию адресанта, функ-
+цию дискурса, реализацию категорий в вербальном контенте мультимодаль-
+ного дискурса и использование аудиовизуальных приемов в невербальном 
+контенте, глобальную идеологему, или ключевую идею, дискурса, а также ад-
+ресата. Дискурсопорождающей интенцией является побуждение потребителя 
+к приобретению ИТ-решения, при этом дискурс реализует воздействующую 
+функцию. Текстовое наполнение веб-сайтов рассматривается в рамках таких 
+категорий, как тема (терминология сферы информационных технологий); то-
+нальность (положительно окрашенная лексика; повелительное наклонение); 
+хронотоп (экономия времени для решения глобальных задач в рамках всего 
+предприятия). Анализ показывает, что в рамках маркетинговых дискурсов 
+трех компаний используются сходные антитезы (проблемы работы с боль-
+шим количеством данных vs. одно ИТ-решение, ситуация до и после, старое 
+vs. новое), аналогична и реализация категорий и аудиовизуальных приемов, 
+что может потребовать дальнейших исследований маркетингового дискурса 
+с точки зрения восприятия его специфичности клиентами. 
+
+Дискурсивные практики, связанные с жанровыми разновидностями тек-
+стов, репрезентирующих дискурс, являются объектом анализа следующей 
+публикации. С.В. Иванова и Г.Ш. Хакимова исследуют слухи о знаменито-
+стях как жанр в англоязычном дискурсе СМИ. Цель исследования авторы ви-
+дят в выявлении специфики медиаслухов как речевого жанра англоязычной 
+медиакоммуникации. Соответственно, авторы обращаются к содержатель-
+ному (тематическому) и формальному (структурно-композиционному)  
+
+242  
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. 2020. Russian Journal of Linguistics 24 (2). 219—252 
+
+уровням исследования. В работе выявляются дистинктивные признаки изуча-
+емого жанра, включающие установленные для него ограничения, и диапазон 
+обсуждаемых тем. Анализ эмпирического материала свидетельствует, что  
+тематически изучаемые тексты отличаются широким диапазоном топосов, 
+охватывающих как публичную сферу (социальные взаимодействия), так 
+и приватную, зачастую интимную область жизни знаменитостей, с явным 
+предпочтением последней. Доминантными дискурсивными характеристи-
+ками репрезентаций исследуемого текстотипа являются сенсационность 
+и скандальность. В структурном плане дискурс светских слухов конституи-
+руется текстами, облеченными в различные журналистские формы: от жанров 
+информационного блока до публицистических вариаций категории features, 
+которые используются авторами в качестве средства конструирования реаль-
+ности, связанной с культурой селебрити. Информация, имеющая, по сути, 
+тривиальный по содержанию и сомнительный в силу своей неподтвержден-
+ности характер, с помощью разнообразных языковых и текстовых ресурсов 
+камуфлируется под сведения, обладающие высокой степенью достоверности 
+и эпистемической ценности. Полученные результаты свидетельствуют  
+о существовании в рамках обширного коммуникативного пространства  
+массмедиа специфического типа дискурса, гибридного по своей природе и 
+практически не поддающегося верификации. 
+
+А.А. Романов и О.В. Новоселова раскрывают прагматическую эффек-
+тивность реализации высказываний-угроз (менасивных высказываний или 
+менасивов) в политической коммуникации, а именно авторы ставят своей це-
+лью установить целесообразность использования угрозы в предвыборных 
+программах с тем, чтобы побудить избирателей проголосовать за конкретного 
+политика. Авторы анализируют высказывания-угрозы, реализованные в пред-
+выборных программах кандидатов на пост Президента Российской Федера-
+ции в 2018 году. При анализе применяется инструментарий теории речевой 
+деятельности, теории речевых актов и психосемантики. В ходе исследования 
+выделено 18 адресатных разновидностей высказываний-угроз, которые обла-
+дают определенным прагма-эмоциональным воздействием на избирателей и 
+характеризуются различной частотностью употребления в предвыборных 
+программах. Полученный результат свидетельствует о недостаточном знании 
+авторами предвыборных программ предпочтений массового избирателя, его 
+эмоционального состояния и переживаний. Это обусловливает ориентирован-
+ность менасивного воздействия на широкий круг потенциальных избирате-
+лей. Авторы приходят к выводу, что политики целенаправленно предпочи-
+тают использовать высказывания-угрозы, эксплицирующие последующий 
+негативный эффект для нефокусной аудитории, пытаясь таким образом заво-
+евать внимание и голоса избирателей. Кроме того, проведенный анализ пока-
+зывает, что использование политиком четырех разновидностей высказыва-
+ний-угроз с различной адресатной направленностью консеквентного  
+
+  243 
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. Russian Journal of Linguistics. 2020. Т. 24. № 2. С. 219—252 
+
+компонента является прагматически эффективным инструментом воздей-
+ствия в контексте российского предвыборного дискурса 2018 года.  
+
+Статья С.М. Пашкова раскрывает проблематику изучения эмоций и их 
+отражения в дискурсивных практиках в рамках религиозного дискурса. В ре-
+зультате анализа автор классифицирует языковые репрезентанты эмоций, ат-
+рибутируемых Богу библейскими персонажами. На основе изучения бого-
+словского понимания антиномии «неизменность Бога — эмоции Бога» в ста-
+тье обосновывается (1) введение термина «атрибуция эмоций» в понятийно-
+терминологический аппарат лингвистики эмоций, эксплицирующего специ-
+фику библейских эмотивных смыслов; (2) рассмотрение изображенного биб-
+лейского пространства в эмотивном аспекте; (3) интерпретация изображен-
+ной деятельности библейских персонажей в качестве причины эмоций, атри-
+бутируемых Богу. Языковой материал проанализирован с опорой на понятие 
+эмоционального сценария, позволяющего представить системное описание 
+развития эмоции, то есть причину ее появления и реакцию. Методы исследо-
+вания языкового материала включают дефиниционный, контекстуальный, 
+эмотивный и лингвостилистический анализы с привлечением факторов ши-
+рокого историко-культурного контекста. В результате исследования автором 
+установлены и систематизированы: 1) языковые средства, репрезентирующие 
+причины эмоций, атрибутируемых Богу; 2) языковые средства репрезентиру-
+ющие эмоции, атрибутируемые Богу; 3) языковые средства, репрезентирую-
+щие пространство, воспринимаемое библейскими персонажами как «реак-
+ция» на атрибутируемые Богу эмоции. Полученные результаты позволили 
+наполнить языковым содержанием одну из антиномий христианского пони-
+мания Бога и наметить перспективу дальнейшего лингвистического исследо-
+вания христианской догматики в эмотивном ракурсе.  
+
+Составители данного выпуска посчитали, что завершающей для этого 
+журнала должна стать статья Л.Н. Синельниковой, которая тематически 
+венчает представленную вниманию читателей коллекцию статей и выводит 
+проблему дискурса и дискурсивных практик в сопредельные области науч-
+ного знания. Данная публикация раскрывает меж- и трансдисциплинарные 
+свойства дискурсивных исследований. Автор обращается к исследованию по-
+граничных дискурсов и ставит своей целью обоснование научной состоятель-
+ности понятия фронтирного дискурса, концептуальная среда которого скла-
+дывается в условиях наложения двух многоуровневых феноменов: дискурса 
+и фронтира. Фронтир как подвижная граница представлен в интернет-комму-
+никациях, в социально-культурном пространстве современного города, в по-
+веденческих нормах элиты, во внутрисемейных отношениях и многих других 
+концептуальных сферах, список которых, по онтологическим признакам 
+фронтира, принципиально открыт. В статье названы векторы расширения 
+междисциплинарных возможностей фронтира в науке в условиях дискурс-
+ного подхода. Автор показывает роль фронтирного модуса в интерпретации 
+художественных текстов, сюжет, стиль и образы которых проектируются на 
+
+244  
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. 2020. Russian Journal of Linguistics 24 (2). 219—252 
+
+национальную историю, культуру, ментальность в их порубежных характе-
+ристиках (by-border characteristics). Нельзя не согласиться с автором, что  
+такие признаки фронтира, как неустойчивость, способность создавать кон-
+тактную зону (зону взаимодействия), при определенных условиях ведущую 
+к интеграции, важны для понимания проблемы современной языковой,  
+речевой и жанровой нормы. Территория порубежья (то, что находится между) 
+является местом сбора нарушений традиционных норм и вместе с тем мате-
+риалом для прогноза нарождающихся изменений нормы. Трансформация тра-
+диционных жанров и формирование новых также происходит на фронтирных 
+территориях.  
+
+Текущий выпуск содержит рецензии двух изданий, тесно связанных 
+с изучаемой тематикой и проблематикой. Эцуко Оиси рецензирует книгу, 
+вышедшую под редакцией известных исследователей теории не/вежливости 
+Дж. Калпепера, Майкла Хо и Даниела Кадара (Culpeper, Jonathan, Michael 
+Haugh and Dániel Z. Kádár (eds.). 2017. The Palgrave Handbook of Linguistic 
+(Im)politeness, London: Palgrave Macmillan). В своем обзоре рецензент отме-
+чает желаемый баланс между теорией и практикой, который в полной мере 
+удалось достичь авторам. Книга по-новому раскрывает концепцию невежли-
+вости: невежливость, как, собственно, и вежливость проявляются в страте-
+гиях непосредственного общения, их можно достичь в рамках дискурса.  
+
+Марианна Рышина-Панкова рецензирует книгу, вышедшую под редак-
+цией двух известных исследователей эмоций в дискурсе Дж. Лахлана  
+Маккензи и Лауры Альба-Хуэс (Mackenzie, J. Lachlan and Laura Alba-Juez 
+(eds.). 2019. Emotion in Discourse). Книга знаменует собой то, что в гумани-
+тарных науках называют «эмоциональным поворотом», особенно в том, что 
+касается изучения языка (см. также специальный выпуск этого журнала, по-
+священный данной теме — 2018,1). В книге раскрывается исключительная 
+важность эмоций в общении между людьми и показано, как посредством 
+языка и через язык создаются эмоции. Представляя последние теоретические 
+и эмпирические исследования по этому вопросу, книга призвана дать подроб-
+ный анализ взаимодействия эмоций, языка, владения языком, культурой 
+и дискурсом. 
+
+ 
+5. Обсуждение и перспективы 
+
+Появление дискурс-анализа как направления научного поиска связано 
+с осознанием необходимости исследовать главный объект гуманитарной 
+науки — человека в его социальном окружении. Дискурс-анализ в качестве 
+отправной точки базируется на утверждении структурной и постструктура-
+листской лингвофилософии о том, что мы всегда получаем доступ к реально-
+сти через язык (Jørgensen & Phillips 2002: 8). Прескриптивизм и норматив-
+ность предшествующих этапов развития лингвистики уступили место иссле-
+дованию языка в его непосредственном функционировании. Именно язык как 
+он есть здесь и сейчас стал прерогативой и безусловным приоритетом  
+
+  245 
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. Russian Journal of Linguistics. 2020. Т. 24. № 2. С. 219—252 
+
+лингвистических исследований начала XXI века. Современная исследова-
+тельская практика показывает, что эта парадигма далеко еще себя не исчер-
+пала. Дискурс-аналитикам предстоит отвечать на вечные вопросы лингви-
+стики о том, как функционирует человеческий язык, когда человек использует 
+его для достижения конкретных коммуникативных целей в той или иной со-
+циальной среде. Публикации, которые вы найдете в настоящем выпуске, сви-
+детельствуют о том, что «анализ дискурса находится в постоянной эволюции 
+и продолжает расширяться в диапазоне и масштабах своей исследовательской 
+деятельности» (Ponton, Larina 2017: 12), и мы не можем не согласиться с этим. 
+Лингвисты все еще разрабатывают и обосновывают целостную в своей  
+совокупной объяснительной силе, интегрированную с пограничными обла-
+стями теорию дискурса, которая должна свести воедино многие переменные, 
+чтобы они сложились в единую картину под названием «человек—язык— 
+общество». 
+
+ 
+© Magdaléna Bilá and Svetlana Ivanova, 2020 
+
+ 
+This work is licensed under a Creative Commons Attribution 4.0 International License 
+
+https://creativecommons.org/licenses/by/4.0/ 
+ 
+
+ 
+REFERENCES /СПИСОК ЛИТЕРАТУРЫ 
+
+Alba-Juez, Laura & Tatiana V. Larina. 2018. Language and emotion: Discourse-pragmatic 
+perspectives. Russian Journal of Linguistics 22 (1). 9—37.  
+
+Alexander, Richard & Arran Stibbe. 2014. From the analysis of ecological discourse to the 
+ecological analysis of discourse. Language Sciences 41. 104—110.  
+
+Beard, Adrian. 2000. The Language of Politics. NY: Routledge.  
+Bednarek, Monika. 2006. Epistemological positioning and evidentiality in English news 
+
+discourse: a text-driven approach. Text and Talk 26 (6). 635—660.  
+Bell, Allan & Peter Garett. 1998. Approaches of media discourse. Oxford: Blackwell 
+
+Publishers.  
+Blommaert, Jan. 2005. Discourse. Cambridge. Cambridge University Press. 
+Bacchi, Carol & Jennifer Bonham. 2014. Reclaiming discursive practices as an analytic focus: 
+
+Political implications. Foucault Studies 17. 173—192. 
+Bousfield, Derek. 2008. Impoliteness in Interaction. Amsterdam: John Benjamins Publishing 
+
+Company. 
+Bousfield, Derek & Miriam A. Locher (eds.). 2008. Impoliteness in Language. Studies on its 
+
+Inter-play with Power in Theory and Practice. Berlin: Mouton de Gruyter. 
+Cap, Piotr & Urszula Okulska. 2013. Analyzing Genres in Political Communication: Theory 
+
+and Practice. John Benjamins Publishing. 
+Chernyavskaya, Valeria E. 2017. Metodologitscheskie vosmoznosti diskursivnogo analiza v 
+
+korpusnoi lingvistike [Towards methodological application of discourse analysis in 
+corpus-driven linguistics]. Tomsk State University Journal of Philology 50. 135—148. 
+DOI: 10.17223/19986645/50/9. 
+
+246  
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. 2020. Russian Journal of Linguistics 24 (2). 219—252 
+
+Chernyavskaya, Valeria E. 2018. Diskursivnyy analiz i korpusnyye metody: neobkhodimoye 
+dokazatel'noye zveno? Ob"yasnitel'nyye vozmozhnosti kachestvennogo i 
+kolichestvennogo podkhodov [Discourse analysis and corpus approaches: a missing 
+evidence-based link? Towards qualitative and quantitative approaches]. Voprosy 
+Kognitivnoy Lingvistiki 2. 31—37. DOI: 10.20916/1812-3228-2018-2-31-37. 
+
+Chilton, Paul. 2004. Analysing Political Discourse: Theory and Practice. NY: Routledge.  
+Chomsky, Noam. 1965. Aspects of the Theory of Syntax. Cambridge, Mass.: M.I.T. Press. 
+Christie, Frances. 2002. Classroom Discourse Analysis. A Functional Perspective. London, 
+
+New York: Continuum. 
+Cook, Guy. 1992. The Discourse of Advertising. London and New York: Routledge. 
+Corbett, James. 2009. Genre and Genre Analysis. In Jacob L. Mey (eds.), Concise Encyclopedia 
+
+of Pragmatics. 2nd edn. Oxford: Elsevir Ltd. 
+Crystal, David. 2010. Internet Linguistics. London, New York: Routledge. 
+Culpeper, Jonathan. 2011. Impoliteness. Using Language to Cause Offence. Cambridge: 
+
+Cambridge University Press.  
+Culpeper, Jonathan, Michael Haugh & Dániel Z. Kádár (eds.). 2017. Palgrave Handbook of 
+
+Linguistic (Im)Politeness. London: Palgrave.  
+Dementyev, Vadim. 2016. Speech genres and discourse: Genres study in discourse analysis 
+
+paradigm. Russian Journal of Linguistics 20 (4). 103—121.  
+Dobrosklonskaya, Tatiana G. 2014. Massmedijnyj diskurs kak ob"ekt nauchnogo opisaniya 
+
+[Mass media discourse as an object of scientific description]. Nauchnye vedomosti. Seriya 
+Gumanitarnye nauki 13 (184). 22. 181—187. 
+
+Dolník, Ján. 2015. Človek — jazyk — kultúra. Kaligram.  
+Dubrovskaya, Tatiana. 2017. Metapragmatics of Аdministering Justice in Russian and English 
+
+Judicial Discourse. Russian Journal of Linguistics 21 (1). 73—90. 
+Dubrovskaya, Tatiana & Evgeniy Kozhemyakin. 2016. Media construction of Russia’s 
+
+international relations: specifics of representations. Critical Discourse Studies 14 (1).  
+90—107. DOI: 10.1080/17405904.2016.1196228. 
+
+Eelen, Gino. 2001. A Critique of Politeness Theories. Manchester: St Jerome.  
+Fairclough, Norman. 1989. Language and Power. London: Longman. 
+Fairclough, Norman. 1992. Discourse and Social Change. Cambridge: Cambridge Polity Press. 
+Fairclough, Norman. 2001. The dialectics of discourse. Textus 2 (14). 231—242. 
+Fairclough, Norman. 2003. Analysing discourse: Textual analysis for social research. London: 
+
+Routledge. 
+Fairclough, Norman. 2010. Critical Discourse Analysis: The critical study of language. 2nd 
+
+edn. Harlow: Longman. 
+Fairclough, Norman. 2014. Language and Power. 3rd edn. Routledge.  
+Fernández-Amaya, Lucía. 2019. Disagreement and (im)politeness in a Spanish family 
+
+members’ WhatsApp group. Russian Journal of Linguistics 23 (4). 1065—1087. DOI: 
+10.22363/2312-9182-2019-23-4-1065-1087. 
+
+Foucault, Michel. 1981. The Order of Discourse. In Robert Young (eds.), Untying the Text: 
+A Post-Structuralist Reader, 51—78. Boston, London and Henley: Routledge and Kegan 
+Paul.  
+
+Foucault, Michel. 1994. The Order of Things. An Archeology of the Human Sciences: 
+A translation of Les Mots et les choses. New York: Vintage Books, a Division of Random 
+House Inc. 
+
+Fowler, Roger. 1991. Language in the News. London & New York: Routledge. 
+Fuentes Rodríguez, Catalina & Gloria Álvarez-Benito. 2016. A Gender-based Approach to 
+
+Parliamentary Discourse: The Andalusian Parliament. John Benjamins.  
+
+  247 
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. Russian Journal of Linguistics. 2020. Т. 24. № 2. С. 219—252 
+
+Fullagar, Simone. 2002. Governing the healthy body: Discourses of leisure and lifestyle within 
+Australian health policy. Health: An Interdisciplinary Journal for the Social Study of 
+Health, Illness and Medicine 6 (1). 69—84. 
+
+Garcés-Conejos Blitvich, Pilar. 2010. A genre approach to the study of im-politeness. 
+International Review of Pragmatics 2. 46—94. 
+
+Garcés-Conejos Blitvich, Pilar & Maria Sifianou. 2019. Im/politeness and discursive 
+pragmatics. Journal of Pragmatics 145. 91—101. DOI: 10.1016/j.pragma.2019.03.015. 
+
+Gee, James Paul. 2007. Introduction to Discourse Analysis: Theory and Method. New York 
+and London: Routledge. 
+
+Goddard, Cliff & Anna Wierzbicka. 2014. Words and Meanings: Lexical Semantics across 
+Domains, Languages, and Cultures. Oxford: Oxford University Press. 
+
+Good, Byron J. & Mary-Jo Del Vecchio Good. 1981. The Semantics of Medical Discourse. In 
+Everett Mendelsohn & Yehuda Elkana (eds.), Sciences and Cultures. Sociology of the 
+Sciences a Yearbook. 5. Springer, Dordrecht.  
+
+Goodrich, Peter. 1987. Legal Discourse. London: Macmillan Press. 
+Gorter, Durk. 2006. Introduction: The Study of the Linguistic Landscape as a New Approach 
+
+to Multilingualism. International Journal of Multilingualism 3 (1). 1—6. 
+Gotti, Maurizio & Christopher Williams. 2003. Legal Discourse across Languages and 
+
+Cultures. Peter Lang. 
+Hagege, Claude. 1985. L'Homme de paroles. Paris: Fayard. 
+Harris, Zellig. S. 1952. Discourse Analysis. Language 28. 1—30. 
+He, Agnes Weiyun. 2003. Discourse Analysis. In Mark Aronoff & Janie Rees-Miller (eds.), 
+
+The Handbook of Linguistics. Blackwell Publishing.  
+Hyland, Ken. 2009. Academic Discourse: English in a Global Context. Continuum. 
+Issers, Oxana S. 2011. Diskursivnaya praktika kak nablyudayemaya real’nost’ [Discursive 
+
+practice as an observable reality]. Vestnik Omskogo universiteta 4. 227—232.  
+Ivanova, Svetlana V. 2017. Commencement Speech as a Hybrid Polydiscursive Practice. 
+
+Russian Journal of Linguistics 21 (1). 141—160.  
+Ivanova, Svetlana V. 2019. Stylistics and rhetoric of lifestyle discourse. Professional Discourse 
+
+& Communication 1 (2). 8—21. DOI: https://doi.org/10.24833/2687-0126-2019-1-2-8-21. 
+Jaworski, Adam & Crispin Thurlow. 2010. Tourism Discourse. Language and Global Mobility. 
+
+Palgrave Macmillan UK.  
+Johnstone, Barbara. 2018. Discourse Analysis. 3rd edn. Hoboken, NJ: John Wiley & Sons. 
+Jørgensen, Marianne & Louise Phillips. 2002. Discourse Analysis as Theory and Method. 
+
+London, Thousand Oaks, New Delhi: SAGE Publications, Ltd. 
+Kalyango Jr., Yusuf & Monika Kopytowska (eds.). 2014. Why discourse matters: Negotiating 
+
+identity in the mediatized world. Peter Lang: New York.  
+Karasik, Vladimir. 2002. Yazykovoj krug: lichnost', koncepty, diskurs [Language circle: 
+
+personality, concepts, discourse]. Volgograd: Peremena.  
+Kibrik, Andrei. A. 2009. Modus, zanr i parametry klassifikacii diskursov [Modus, genre and 
+
+other parameters of discourse classification]. Voprosy Yazykoznanyja 2. 3—21. [Electronic 
+resource]. URL: http://iling-ran.ru/kibrik/Discourse_classification@VJa_2009.pdf 
+(Accessed 01 March 2019).  
+
+Koshkarova, Natalya N. 2019. Linguistic, Pragmatic, and Stylistic Peculiarities of 2018 FIFA 
+World Cup Representation in British Media-Discourse. Russian Journal of Linguistics 
+23 (3). 802—819. DOI: 10.22363/2312-9182-2019-23-3-802-819. 
+
+Langlotz, Andreas & Miriam A. Locher. 2017. (Im)politeness and emotion. In Jonathan 
+Culpeper, Michael Haugh & Dániel Z. Kádár (eds.), Palgrave Handbook of Linguistic 
+(Im)Politeness, 287—322. London: Palgrave.  
+
+248  
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. 2020. Russian Journal of Linguistics 24 (2). 219—252 
+
+Larina, Tatiana V., Vladimir I. Ozyumenko & Svetlana Kurteš. 2017. I-identity vs we-identity 
+in language and discourse: Anglo-Slavonic perspectives. Lodz Papers in Pragmatics 
+13 (1). 195—215. 
+
+Larina, Tatiana, Vladimir Ozyumenko & Douglas Mark Ponton. 2019. Persuasion strategies in 
+media discourse about Russia: linguistic ambiguity and uncertainty. Lodz papers in 
+Pragmatics 15 (1) 3—22. DOI: https://doi .org/10.1515/lpp-2019-0002.  
+
+Larina, Tatiana & Douglas M. Ponton (forthcoming). Tact or frankness: Intercultural 
+pragmatics in the blind peer review genre. Intercultural Pragmatics. 
+
+Leontovich, Olga A. 2019. New forms of urban discourse as a reflection of social change. 
+Communication Studies (Russia) 6 (3). 645—654. DOI: 10.25513/2413-6182.2019. 
+6(3).645-654.  
+
+Locher, Miriam A. 2017. Reflective Writing in Medical Practice: A Linguistic Perspective. 
+Bristol: MultilingualMatters. 
+
+Locher, Miriam A. & Tatiana V. Larina. 2019. Introduction to politeness and impoliteness 
+research in global contexts. Russian Journal of Linguistics 23 (4). 873—903. DOI: 
+10.22363/2312-91822019-23-4-873-903. 
+
+Macdonald, Myra. 2003. Exploring Media Discourse (Understanding Media Series). London: 
+Arnold.  
+
+Mackenzie, J. Lachlan & Laura Alba-Juez (eds.). 2019. Emotion in Discourse. Pragmatics and 
+Beyond New Series 302. Amsterdam / Philadelphia: John Benjamins Publishing 
+Company. 
+
+Matheson, Donald. 2005. Media Discourses: Analysing Media Texts. Open University Press. 
+Mills, Sara. 2003. Gender and politeness. Cambridge: Cambridge University Press. 
+Molodychenko, Evgeni. 2016. Cennosti i ocenka v diskurse konsyumerizma: lingvo-
+
+pragmaticheskij i kriticheskij analiz [Values and evaluation in discourse of consumerism: 
+a pragmalinguistic analysis]. Filologiya. 122—130. DOI: 10.17238/issn2227-6564. 
+2016.3.122. 
+
+Molodychenko, Evgeni. 2020. Metasemiotic projects and lifestyle media: Formulating 
+commodities as resources for identity enactment. Russian Journal of Linguistics 24 (1). 
+117—136. DOI: 10.22363/2687-0088-2020-24-1-117-136.  
+
+Montgomery, Martin. 2007. Discourse of Broadcast News: A Linguistic Approach. Routledge. 
+Naydenova, Natalia S. 2018. Modern linguistics through post-secular perspective. Russian 
+
+Journal of Linguistics 22 (4). 988—1000. DOI: 10.22363/2312-9182-2018-22-4- 
+988-1000.  
+
+Nefedov, Sergei T. & Valeria E. Сhernyavskaya. 2020. Context in linguistics: pragmatic and 
+discourse analytical dimension. Tomsk State University Journal of Philology 63.  
+83—97. DOI: 10.17223/19986645/63/5. 
+
+Nunan David. 1993. Introducing Discourse Analysis. London: Penguin English.  
+Olyanich, Andrey V. 2003. Gastronomicheskiy diskurs v sisteme massovoy kommunikatsii: 
+
+semantiko-semioticheskiye kharakteristiki [Gastronomic discourse in the system of mass 
+communication: semantic-semiotic specifications]. Massovaya kul'tura na rubezhe  
+XX—XXI vekov: chelovek i ego diskurs, 167—201. Moscow.  
+
+Ozyumenko, Vladimir. 2017. Media discourse in an atmosphere of information warfare: From 
+manipulation to aggression. Russian Journal of Linguistics 21(1). 203—220.  
+
+Ponton, Douglas. 2016. Movement and meaning: Towards an integrated approach to political 
+discourse analysis. Russian Journal of Linguistics 20 (4). 122 —139. 
+
+Ponton, Douglas & Tatiana V. Larina. 2016. Discourse analysis in the 21st century: Theory and 
+practice (I). Russian Journal of Linguistics 21 (1). 7—25.  
+
+Ponton, Douglas & Tatiana V. Larina. 2017. Discourse analysis in the 21st century: Theory and 
+practice (II). Russian Journal of Linguistics 20 (4). 7—21.  
+
+  249 
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. Russian Journal of Linguistics. 2020. Т. 24. № 2. С. 219—252 
+
+Talbot, Mary. 2007. Media Discourse: Representation and Interaction. Edinburgh University 
+Press. 
+
+van Dijk, Teun A. (eds.). 1985. Discourse and Communication. New Approaches to the 
+Analysis of Mass Media Discourse and Communication. Series: Research in Text Theory 
+10. De Gruyter. DOI: https://doi.org/10.1515/9783110852141. 
+
+van Dijk, Teun A. 1988. News as discourse. Hillsdale, NJ: Lawrence Erlbaum.  
+van Dijk, Teun A. 2006. Ideology and discourse analysis. Journal of Political Ideologies, 
+
+Routledge, 11 (2). 115—140. 
+van Dijk, Teun A. 2009. Society and Discourse: How Social Contexts Influence Text and Talk. 
+
+Cambridge University Press.  
+van Dijk, Teun A. (eds.). 2011. Discourse Studies: A Multidisciplinary introduction. SAGE. 
+Resta, Simonetta. 1998. Words and social change. The impact of power and ideology on the 
+
+language of Economics and Law, Asp 19—22. [Electronic resource]. URL: 
+http://journals.openedition.org/asp/2760. (Accessed 14 March 2020). DOI : 
+https://doi.org/10.4000/asp.2760 
+
+Saville-Troike, Muriel. 1994. Communicative Competence. In Ronald E. Asher (eds.), The 
+Encyclopedia of Language and Linguistics 2. 538. Oxford, New York, Seoul, Tokyo: 
+Pergamon Press. 
+
+Schiffrin, Deborah. 1995. Approaches to Discourse. Blackwell. 
+Shahovsky, Victor I. 2015. Golos emotsiy v yazykovom kruge homo sentiens [Voice of emotion 
+
+in the linguistic circle of homo sentiens]. 3rd edn. Moscow: Knizhnyj dom «LIBROKOM» 
+Publ.  
+
+Shakhovsky, Victor I. 2018. The Cognitive Matrix of Emotional-Communicative Personality. 
+Russian Journal of Linguistics 22 (1). 54—79. DOI: 10.22363/2312-9182-2018-22-1-54-79. 
+
+Sheigal, Elena. 2004. Semiotika politicheskogo diskursa [Political discourse semiotics]. 
+Moscow: Gnozis.  
+
+Sériot, Patrick. 1999. Kak chitayut teksty vo Francii [How they read texts in France]. 
+Kvadratura smysla. Frantsuskaya škola analiza diskursa, 12—53. M.: Progress. 
+
+Sériot, Patrick. 2012. Structure and the Whole. East, West and Non-Darwinian Biology in the 
+Origins of Structural Linguistics / Translated from French by Amy Jacobs-Colas. Mouton 
+De Gruyter. 
+
+Skålén, Per, Martin Fougère & Markus Fellesson. 2008. Marketing Discourse: A Critical 
+Perspective. London & New York: Routledge.  
+
+Solopova, Olga & Anatoly Chudinov. 2018. Diachronic Analysis of Political Metaphors in the 
+British Corpus: from Victory Bells to Russia’s V-Day. Russian Journal of Linguistics 
+22 (2). 313—337. DOI: 10.22363/2312-9182-2018-22-2-313-337.  
+
+Titscher, Stefan, Michael Meyer, Ruth Wodak & Eva Vetter. 2000. Methods of Text and 
+Discourse Analysis: In Search of Meaning. 1st edn. SAGE Publications Ltd. 
+
+Unger, Johann W. 2016. The interdiciplinarity of critical discourse studies research. Palgrave 
+communications.  
+
+Watts, Richard. 2003. Politeness. Cambridge. Cambridge University press.  
+Williams, Glyn. 1999. French Discourse Analysis. The method of post-structuralism. London 
+
+and New York: Routledge. 
+Yule, George. 1999. The Study of Language. 2nd edn. Cambridge University Press. 
+Бобырева Е.В. Религиозный дискурс: ценности, жанры, стратегии: (на материале право-
+
+славного вероучения). Волгоград: Перемена, 2007. 
+Дементьев В.В. Жанры речи и дискурс: место жанроведческих исследований в пара-
+
+дигме дискурс-анализа // Russian Journal of Linguistics. 2016. Т. 20. № 4. С. 103—121. 
+Добросклонская Т.Г. Массмедийный дискурс как объект научного описания // Научные 
+
+ведомости. Серия Гуманитарные науки. 2014. № 13 (184). Вып. 22. С. 181—187. 
+
+250  
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. 2020. Russian Journal of Linguistics 24 (2). 219—252 
+
+Дубровская Т.В. Метапрагматика осуществления правосудия в дискурсе российских и 
+английских судей // Russian Journal of Linguistics. 2017. Т. 21. № 1. С. 73—90. 
+
+Иванова С.В. Актовая речь как гибридная полидискурсивная практика // Russian Journal 
+of Linguistics. 2017. Т. 21. № 1. С. 141—160. 
+
+Иванова С.В. Стилистика и риторика лайфстайл-дискурса // Дискурс профессиональной 
+коммуникации. 2019. № 1 (2). С. 8—21. 
+
+Иссерс О.С. Дискурсивная практика как наблюдаемая реальность // Вестник Омского 
+университета. 2011. № 4. С. 227—232. 
+
+Карасик В.И. Языковой круг: личность, концепты, дискурс. Волгоград, 2002.  
+Кибрик А.А. Модус, жанр и другие параметры классификации дискурсов. Вопросы язы-
+
+кознания. 2009. № 2. С. 3—21. [Электронный ресурс]. URL: http://iling-ran.ru/kibrik/ 
+Discourse_classification@VJa_2009.pdf (дата обращения: 01.03.2020). 
+
+Кошкарова Н.Н. Лингвопрагматические и жанрово-стилистические особенности репре-
+зентации чемпионата мира по футболу 2018 г. в британском медиадискурсе // 
+Russian Journal of Linguistics. 2019. Т. 23. № 3. С. 802—819. DOI: 10.22363/2312-
+9182-2019-23-3-802-819. 
+
+Леонтович О.А. Новые формы урбанистического дискурса и их социальные истоки // 
+Коммуникативные исследования. 2019. Т. 6. № 3. С. 645—654. DOI: 10.25513/2413-
+6182.2019.6(3).645-654. 
+
+Молодыченко Е.Н. Ценности и оценка в дискурсе консюмеризма: лингво-прагматиче-
+ский и критический анализ // Филология. 2016. С. 122—130. DOI: 10.17238/issn2227-
+6564.2016.3.122. 
+
+Молодыченко Е.Н. Метасемиотические проекты и лайфстайл-медиа: дискурсивные ме-
+ханизмы превращения предметов потребления в ресурсы выражения идентичности 
+// Russian Journal of Linguistics. 2020. Т. 24. № 1. С. 117—136. DOI: 10.22363/2687-
+0088-2020-24-1-117-136. 
+
+Найденова Н.С. Современная лингвистика в постсекулярной перспективе // Russian 
+Journal of Linguistics. 2018. Т. 22. № 4. С. 988—1000. DOI: 10.22363/2312-9182-2018-
+22-4-988-1000. 
+
+Нефедов С.Т., Чернявская В.Е. Контекст в лингвистическом анализе: прагматическая и 
+дискурсивно-аналитическая перспектива // Вестник Томского государственного 
+университета. Филология. 2020. № 63. 83—97. DOI: 10.17223/19986645/63/5.  
+
+Олянич А.В. Гастрономический дискурс в системе массовой коммуникации: семантико-
+семиотические характеристики // Московская культура на рубеже XX-XXI веков: 
+человек и его дискурс. М.: Институт языкознания РАН, 2003. С.167—201.  
+
+Озюменко В.И. Медийный дискурс в ситуации информационной войны: от манипуля-
+ции — к агрессии // Russian Journal of Linguistics. 2017. Т. 21. № 1. С. 203—220. 
+
+Серио П. Как читают тексты во Франции // Квадратура смысла: Французская школа ана-
+лиза дискурса. М.: Прогресс, 1999. С.12—53.  
+
+Солопова О.А., Чудинов А.П. Диахронический анализ метафор в британском корпусе 
+текстов: колокола победы и Russia’s V-Day // Russian Journal of Linguistics. 2018. 
+Т. 22. № 2. С. 313—337.  
+
+Чернявская В.Е. Методологические возможности дискурсивного анализа в корпусной 
+лингвистике // Вестник Томского государственного университета. Филология. 2017. 
+50. 135—148. DOI: 10.17223/19986645/50/9. 
+
+Чернявская В.Е. Дискурсивный анализ и корпусные методы: необходимое доказательное 
+звено? Объяснительные возможности качественного и количественного подходов // 
+Вопросы когнитивной лингвистики. 2018. № 2. С. 31—37. DOI: 10.20916/1812-3228-
+2018-2-31-37. 
+
+  251 
+
+
+
+Magdaléna Bilá and Svetlana V. Ivanova. Russian Journal of Linguistics. 2020. Т. 24. № 2. С. 219—252 
+
+Шаховский В.И. Голос эмоций в языковом круге homo sentiens. Изд. 3-е, стер. М.: Книж-
+ный дом «ЛИБРОКОМ», 2015.  
+
+Шаховский В.И. Когнитивная матрица эмоционально-коммуникативной личности // 
+Russian Journal of Linguistics. 2018. Т. 22. № 1. С. 54—79. DOI: 10.22363/2312-9182-
+2018-22-1-54-79. 
+
+Шейгал Е.И. Семиотика политического дискурса. М.: Гнозис, 2004. 
+
+Bionotes: 
+MAGDALÉNA BILÁ is Dr. of Philology, Full Professor at the Institute of British and 
+American Studies, Faculty of Arts, The University of Prešov in Prešov. Her research 
+interests include comparative and contrastive studies (juxtaposing English and Slovak), 
+discourse analysis, and translation studies (conceptualization in a source and a target 
+language). 
+Contact information: 
+Institute of British and American Studies, Faculty of Arts, University of Prešov, 
+17 Novembra Street 1, 080 01 Prešov, Slovakia 
+e-mail: magdalena.bila@unipo.sk 
+
+SVETLANA V. IVANOVA is Dr. of Philology, Full Professor, Head of English Philology 
+Department at Pushkin Leningrad State University. Research Interests: Media Linguistics, 
+Cultural Linguistics, Discourse Analysis of Mass Media, Political Linguistics.  
+Contact information: 
+Pushkin Leningrad State University 
+10, Peterburgskoye shosse, Saint-Petersburg, 196605, Russia 
+e-mail: svet_victoria@mail.ru 
+ORCID ID: 0000-0002-0127-9934 
+Scopus Author ID: 57194882590 
+
+Сведения об авторах: 
+МАГДАЛЕНА БИЛА — доктор филологических наук, профессор Института британ-
+ских и американских исследований гуманитарного факультета Прешовского универ-
+ситета в Прешове. Ее научные интересы включают сопоставительное языкознание (со-
+поставление английского и словацкого языков), анализ дискурса и переводоведение. 
+Контактная информация:  
+Institute of British and American Studies, Faculty of Arts, University of Prešov, 
+17 Novembra street 1, 080 01 Prešov, Slovakia 
+E-mail: magdalena.bila@unipo.sk  
+
+СВЕТЛАНА ВИКТОРОВНА ИВАНОВА — доктор филологических наук, профес-
+сор, заведующий кафедрой английской филологии Ленинградского государствен-
+ного университета им. А.С. Пушкина, член редколлегии журнала Russian Journal of 
+Linguistics. Сфера научных интересов: медиалингвистика, лингвокультурология, 
+дискурс-анализ текстов СМИ, политическая лингвистика, теория текста. 
+Контактная информация: 
+Ленинградский государственный университет имени А.С. Пушкина 
+196605, Россия, г. Санкт-Петербург, Пушкин, Петербургское шоссе, д. 10 
+e-mail: svet_victoria@mail.ru 
+ORCID ID: 0000-0002-0127-9934 
+Scopus Author ID: 57194882590

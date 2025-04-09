@@ -1,0 +1,560 @@
+﻿МАТЕРИАЛОВЕДЕНИЕ ОБРАБОТКА  МЕТАЛЛОВ
+
+Обработка металлов (технология • оборудование • инструменты). 2022 Том 24 № 2 с. 91–101
+ISSN: 1994-6309 (print) / 2541-819X (online)
+DOI: 10.17212/1994-6309-2022-24.2-91-101
+
+Обработка металлов
+(технология • оборудование • инструменты)
+
+Сайт журнала: http://journals.nstu.ru/obrabotka_metallov
+
+Влияние борирования и алитирования на структуру 
+и микротвердость низкоуглеродистых сталей
+
+Павел Гуляшинов 1, a, *, Ундрах Мишигдоржийн 2, b, Николай Улаханов 3, 2, c
+
+1
+ Байкальский институт природопользования Сибирского отделения Российской академии наук, ул. Сахьяновой, 6, г. Улан-Удэ, 670047, Россия
+
+2 Институт физического материаловедения Сибирского отделения Российской академии наук, ул. Сахьяновой 6, г. Улан-Удэ, 670047, Россия
+3 Восточно-Сибирский государственный университет технологий и управления, ул. Ключевская 40В, г. Улан-Удэ, 670013, Россия
+
+a  https://orcid.org/0000-0001-6776-9314,  gulpasha@mail.ru, b  https://orcid.org/0000-0002-7863-9045,  undrakh@ipms.bscnet.ru, 
+c  https://orcid.org/0000-0002-0635-4577,  nulahanov@mail.ru.
+
+И Н Ф О РМ А Ц И Я  О  С ТАТ Ь Е А Н Н О ТА Ц И Я
+
+УДК 669 - 15:621.793.6 Введение. Борирование и алитирование являются одними из наиболее эффективных методов 
+повышения эксплуатационных свойств (коррозионная стойкость, жаро- и износостойкость) деталей 
+
+История статьи: машин и инструментов. Твердофазные способы проведения данных методов химико-термической 
+Поступила: 15 марта 2021 обработки (ХТО) требуют длительной выдержки при высокой температуре, что отрицательно влия-
+Рецензирование: 06 апреля 2021 ет на структуру и свойства материала основы. В связи с этим подбор обоснованных температурно-
+Принята к печати: 27 апреля 2021 временных параметров процессов твердофазного борирования и алитирования является актуальной 
+Доступно онлайн: 15 июня 2021 задачей. Цель настоящей работы заключается в оценке влияния процессов низкотемпературного 
+Ключевые слова: борирования и алитирования на структуру и микротвердость диффузионных слоев на поверхности 
+Химико-термическая низкоуглеродистых сталей. В работе рассмотрены две марки сталей с содержанием углерода до 
+обработка (ХТО) 0,4 %: низкоуглеродистая сталь Ст3 и легированная сталь 3Х2В8Ф. Использование второй стали вызва-
+Борирование но необходимостью выявить влияние легирующих элементов в стали на толщину диффузионных слоев 
+Алитирование и их состав. В качестве источников бора и алюминия выбраны порошковые смеси на основе карбида 
+Карбид бора бора и алюминия. Результаты и обсуждения. Установлено, что при температуре процесса 900 °С и вы-
+Алюминий держке 2 часа после борирования на поверхности обеих сталей образуются бориды железа. При этом на 
+Углеродистая сталь стали Ст3 рентгенофазовым анализом (РФА) обнаружено два борида: FeB и Fe2B, а на стали 
+Легированная сталь 3Х2В8Ф – только фаза Fe2B. После алитирования обеих сталей образуется алюминий, содержащий 
+
+фазы, такие как Al5Fe2, Na3AlF6 и Al2O3. Толщина полученного диффузионного слоя на Ст3 после 
+Финансирование: борировании составляет 35 мкм, при алитировании – 65 мкм. Толщина диффузионного слоя на 
+Исследование выполнено при фи- стали 3Х2В8Ф равна 15 мкм после борирования и 50 мкм после алитирования, что значительно мень-
+нансовом обеспечении гранта Рос- ше, чем на углеродистой стали, и, очевидно, связано с влиянием легирующих элементов. ХТО привела 
+сийского Научного Фонда (проект к значительному повышению микротвердости поверхности образцов. Так, максимальная микротвер-
+19-79-10163). дость стали Ст3 возросла до 1920 HV, а стали 3Х2В8Ф до 1685 HV после борирования. Микротвер-
+
+дость после алитирования сопоставима для обеих сталей и равна 1000…1100 HV. Элементный анализ 
+Благодарности:
+Исследования частично выполнены верхних участков диффузионных слоев показал соответствие содержания бора (7…9 %) и алюминия 
+на оборудовании ЦКП «Структура, (50…53 %) обнаруженным РФА боридам и алюминидам железа. Во всех случаях наблюдается плавное 
+механические и физические свой- снижение диффундирующих элементов по направлению от поверхности к основе.
+ства материалов».
+
+Для цитирования: Гуляшинов П.А., Мишигдоржийн У.Л., Улаханов Н.С. Влияние борирования и алитирования на структуру 
+и микротвердость низкоуглеродистых сталей // Обработка металлов (технология, оборудование, инструменты). – 2022. – Т. 24, № 2. – 
+С. 91–101. – DOI: 10.17212/1994-6309-2022-24.2-91-101.
+
+Введение
+______
+*Адрес для переписки Важной проблемой современного материало-
+Гуляшинов Павел Анатольевич, к.т.н., научный сотрудник
+Байкальский институт природопользования ведения является повышение прочности и изно-
+Сибирского отделения Российской академии наук, состойкости инструментов и различных деталей 
+ул. Сахьяновой, 6, 
+670047, г. Улан-Удэ, Россия машин за счет применения диффузионного на-
+Тел.: 8 (3012) 43-36-76, e-mail: gulpasha@mail.ru. сыщения поверхности металлов  и сплавов раз-
+
+Том 24 № 2 2022 91
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+личными химическими элементами. При приме- Необходимо отметить, что способы упрочне-
+нении термической обработки (закалка, отпуск) ния КПЭ требуют специального дорогостояще-
+невозможно достичь заданных механических и го оборудования. Их применение оправдано в 
+эксплуатационных свойств. Альтернативой яв- случае получения свойств, недостижимых тра-
+ляется химико-термическая обработка (ХТО), диционной обработкой. Таким образом, можно 
+заключающаяся в диффузионном насыщении предложить комбинированный способ обработ-
+поверхности металлов и сплавов различными ки изделий, где на первом этапе проводится ХТО 
+химическими элементами. Детали, подвергну- с целью получения сплошного покрытия по всей 
+тые ХТО, могут заменить собой изделия из до- площади поверхности. Далее наиболее ответ-
+рогих специальных сталей и сплавов [1, 2]. ственные участки будут дополнительно подвер-
+
+В настоящее время известно несколько мето- жены ЭЛО с целью модификации диффузионных 
+дов ХТО. В зависимости от насыщающей среды слоев. Возможно также проведение электронно-
+различают: газовые, жидкостные и твердофаз- лучевого легирования (ЭЛЛ). Например, сначала 
+ные (в порошковых средах и пастах) [3, 4]. проводят порошковое алитирование с печным 
+
+Как известно, борированные слои имеют нагревом, затем ЭЛЛ карбидом бора или, наобо-
+высокую твердость, коррозионную стойкость рот, традиционное борирование с последующим 
+и износостойкость. В случае с борированием в ЭЛЛ алюминием. Совмещенный процесс насы-
+порошковых смесях и пастах наибольшее рас- щения бором и алюминием (бороалитирование) 
+пространение получили насыщающие смеси на позволяет синтезировать слои полифункцио-
+основе карбида бора [5]. Алитирование пред- нального назначения [14,15]. 
+ставляет собой насыщение поверхности алю- Данная статья содержит материалы по перво-
+минием для придания окалиностойкости при му этапу обработки как самостоятельных про-
+высоких температурах и для повышения сопро- цессов, повышающих комплекс физико-механи-
+тивлению атмосферной коррозии. Для алити- ческих свойств сталей по всей площади изделия. 
+рования используются разнообразные смеси, Цель настоящей работы заключается в уста-
+состоящие из порошков алюминия или ферро- новлении влияния борирования и алитирования 
+алюминия, оксида алюминия и др. [6, 7]. на структуру и свойства диффузионного слоя на 
+
+Необходимо отметить, что твердофазные поверхности низкоуглеродистых сталей. В рабо-
+способы проведения данных методов ХТО тре- те приведены результаты апробации низкотем-
+буют длительной выдержки при высокой темпе- пературных режимов ХТО и проведен сравни-
+ратуре, что отрицательно влияет на структуру и тельный анализ структуры и свойств на примере 
+свойства материала основы. двух марок сталей.
+
+Известны другие методы повышения по-
+верхностных свойств деталей машин, не тре- Методика исследований
+бующие длительного температурного воздей-
+ствия на материал основы. В первую очередь В качестве насыщающих смесей использова-
+это методы обработки концентрированными лись порошкообразные материалы: карбид бора 
+потоками энергии (КПЭ), такие как лазерная и B4C марки F-220, алюминиевый порошок марки 
+электронно-лучевая обработка (ЭЛО), способ- ПА-4 (ГОСТ 6058-73), оксид алюминия Al2O3 
+ные за короткий промежуток времени нагреть чда (ГОСТ 8136-85), натрий фтористый NaF чда 
+участок поверхности материала [8–10]. Извест- (ГОСТ 4463-76).
+ны способы комбинированной обработки, со- Для процесса борирования использовалась 
+четающие последовательные процессы ХТО с смесь 96 % B4C + 4 % NaF. Смесь для али-
+последующей лазерной и электронно-лучевой тирования состояла из 48 % Al (порошок) + 
+обработкой [11–13]. Последний способ позво- + 48 % Al2O3 + 4 % NaF. 
+ляет модифицировать предварительно получен- Процессы ХТО в порошках проводились в 
+ный диффузионный слой и устранить его де- лабораторной печи ПМ-16П-ТД при темпера-
+фекты (слоистость и фазовую неоднородность туре 900 °С. ХТО подверглись образцы из ста-
+по глубине слоя, хрупкость, высокую поверх- лей Ст3 и штамповой стали 3Х2В8Ф размером 
+ностную шероховатость). 20×20×10 мм. Продолжительность процесса 
+
+92 Том 24 № 2 2022
+
+
+
+MATERIAL SCIENCE OBRABOTKA METALLOV
+
+обработки составляла 2 ч. Сталь Ст3 применят- та микротвердости применялся программный 
+ся в несущих элементах сварных и несварных комплекс Nexsys ImageExpert MicroHandness 2 
+конструкций и деталей (состав, в % (весовых): (ГОСТ 9450–76). Снимки микроструктур были 
+Fe ≈ 97, С 0,14…0,22, Si 0,15…0,3, Mn 0,4…0,65). сделаны с помощью металлографического ми-
+Сталь 3Х2В8Ф применяется в тяжелонагружен- кроскопа «МЕТАМ РВ-34» с цифровой камерой 
+ном прессовом инструменте при горячем де- «Altami Studio» (Россия). Для определения тол-
+формировании легированных конструкционных щины диффузионного слоя использовали про-
+сталей и жаропрочных сплавов (состав, в % граммный комплекс Nexsys ImageExpert Pro 3.0.
+(весовых): Fe ≈ 87, С 0,3…0,4, Si 0,15…0,4, Mn 
+0,15…0,4, Cr 2,2…2,7, W 7,5…8,5, V 0,2…0,5, Результаты и их обсуждение
+Mo до 0,5). Порошковая смесь засыпалась в ти-
+гель вместе с исследуемыми образцами, далее Процессы борирования и алитирования про-
+тигель упаковывался и герметизировался сверху водились на образцах стали Ст3 и 3Х2В8Ф при 
+плавким затвором. Охлаждение тиглей проводи- температуре 900 оС с выдержкой 2 ч. 
+лось на открытом воздухе при комнатной темпе- На рис. 1 и 2 представлены микрофотогра-
+ратуре. Далее тигли вскрывались, образцы зачи- фии структуры сталей после ХТО. 
+щались от остатков насыщающей смеси. На рисунках отчетливо видна характерная 
+
+Состав и структуру диффузионного слоя для борированных слоев игольчатая структура. 
+определяли на растровом электронном микро- Толщина полученного диффузионного слоя на 
+скопе JSM-6510LV JEOL (Япония) с системой ми- Ст3 составляет 35 мкм, а на легированной ста-
+кроанализа INCA Energy 350, Oxford Instruments ли – 15 мкм. Известно, что борирование низко-
+(Великобритания) в ЦКП «Прогресс» ФГБОУ углеродистой стали при тех же температурно-вре-
+ВО Восточно-Сибирский государственный уни- менных режимах в металлотермических смесях 
+верситет технологий и управления. (на основе оксидов бора и алюминия) обеспечи-
+
+Фазовый состав на поверхности образцов вает толщину слоя 50 мкм [16]. На стали 3Х2В8Ф 
+определялся на рентгеновском дифрактометре образовался слой гораздо меньшей толщины по 
+D8 ADVANCE фирмы Bruker AXS в медном из- сравнению с низкоуглеродистой сталью. Это 
+лучении с интервалом съемки 10…70° в ЦКП связано с высокой концентрацией легирующих 
+БИП СО РАН. элементов, затрудняющих диффузию бора. Полу-
+
+Определение микротвердости насыщенных ченный слой сопоставим по толщине с бориро-
+слоев осуществлялось на микротвердомере ванными слоями, полученными жидкостным ме-
+ПМТ-3М. Нагрузка составляла 50 г. Для расче- тодом и в пастах различного состава [16]. 
+
+                                        а                                                                                              б
+Рис. 1. Микроструктуры стали Ст3 (а) и 3Х2В8Ф (б) после борирования
+
+Fig. 1. Microstructures of St3 (a) and 3Cr2W8V (б) steels after boriding
+
+Vol. 24 No. 2 2022 93
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+                                        а                                                                                              б
+Рис. 2. Микроструктуры стали Ст3 (а) и 3Х2В8Ф (б) после алитирования
+
+Fig. 2. Microstructures of St3 (a) and 3Cr2W8V (б) steels after aluminizing
+
+На рис. 2, а, б показаны структуры исследу- На рис. 3 показана диаграмма распределения 
+емых сталей после алитирования. На стали Ст3 микротвердости по глубине после процесса бо-
+образовался более ровный поверхностный слой, рирования для обеих сталей.
+состоящий в основном из Al5Fe2. На границе с Максимальная микротвердость для стали 
+основным металлом образуются по мере удале- Ст3 наблюдается на поверхности слоя и на глу-
+ния от поверхности фазы AlFe, AlFe3 и твердый бине до 10…15 мкм и достигает 1919,6 HV, что 
+раствор в α-Fe [17–19]. Толщина диффузионного характерно для борирования за счет образования 
+слоя на стали Ст3 равна 65 мкм, что сопостави- твердых боридов железа. На стали 3Х2В8Ф мак-
+мо со слоями, полученными алитированием, на- симальное значение (1684,8 HV) наблюдается на 
+пылением и в расплавах солей (гальванический глубине 15 мкм от поверхности, вероятно, в зоне 
+способ) [17]. с самой высокой концентрацией боридов.
+
+На образце из стали 3Х2В8Ф виден слой сред- На рис. 4 представлена диаграмма распреде-
+ней толщины 50 мкм с неравномерной границей ления микротвердости по глубине после процес-
+раздела с основным металлом. Локальные участ- са алитирования для обеих сталей. 
+ки экстремумов толщины слоя, по-видимому, Интерес вызывают полученные диаграммы 
+являются местами проплавления поверхности распределения микротвердости после процесса 
+стали и частичного перехода в жидкое состояние алитирования для стали 3Х2В8Ф. Максималь-
+на данных участках, что также сопровождается ное значение микротвердости для Ст3 составило 
+повышенной диффузией пропорционально по- 996 HV, а для стали 3Х2В8Ф оно достигло доста-
+вышению температуры. Последнее может быть точно высоких показателей – 1119 HV. На данной 
+вызвано прохождением экзотермической реак- диаграмме присутствует характерное увеличе-
+ции восстановления металлов. При этом фазо- ние микротвердости на глубине 150…180 мкм 
+вый состав аналогичен составу на углеродистой от поверхности. Локальное увеличение микро-
+стали Ст3, где алюминиды железа дополнитель- твердости соответствует переходной зоне не-
+но легированы Cr, W и V. посредственно под слоем, что может указывать 
+
+Низкое качество поверхности после алити- на повышенное содержание карбидов хрома 
+рования связано с высокой реакционной способ- и вольфрама. Повышение концентрации по-
+ностью алюминия, сопровождающейся взаимо- следних является результатом их вытеснения 
+действием с кислородом и другими элементами диффундирующим с поверхности алюми-
+атмосферного воздуха [20]. нием. Вытеснение карбидов в глубь основного 
+
+94 Том 24 № 2 2022
+
+
+
+MATERIAL SCIENCE OBRABOTKA METALLOV
+
+Рис. 3. Распределение микротвердости по глубине слоя на сталях  
+после борирования
+
+Fig. 3. Microhardness distribution over the layer depth on steels after boriding
+
+Рис. 4. Распределение микротвердости по глубине слоя на сталях  
+после алитирования
+
+Fig. 4. Microhardness distribution over the layer depth on the steels after  
+aluminizing
+
+металла связано с их взаимной нерастворимо- На рис. 6, а представлена рентгенограмма 
+стью с алюминидами [21]. после процесса алитирования стали Ст3, на по-
+
+Образцы после ХТО были направлены на верхности образуются фазы Al5Fe2, Na3AlF6, 
+РФА для определения фазового состава поверх- Al2O3. При алитировании стали 3Х2В8Ф иден-
+ностного диффузионного слоя. На рис. 5, а изо- тифицируются фазы Al5Fe2, Na3AlF6, Al2O3.
+бражена рентгенограмма при борировании ста- Дальнейшие исследования заключались в 
+ли Ст3, на поверхности образуются фазы FeB и определении содержания B и Al в диффузион-
+Fe2B. При борировании стали 3Х2В8Ф (рис. 5, б) ном слое и переходных зонах. На рис. 7, а по-
+образуется только фаза Fe2B. казано распределение B для Ст3 и 3Х2В8Ф со-
+
+Vol. 24 No. 2 2022 95
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+                                                а                                                                                              б
+Рис. 5. Рентгенограммы поверхности после борирования: 
+
+а – Ст3; б – 3Х2В8Ф
+Fig. 5. XRD-pattern of the surface after boriding: 
+
+a – St3; б – 3Cr2W8V
+
+                                                а                                                                                               б
+Рис. 6. Рентгенограммы поверхности сталей после алитирования: 
+
+а – Ст3; б – 3Х2В8Ф
+Fig. 6. XRD-pattern of the steel surface after aluminizing: 
+
+а – St3; б – 3Cr2W8V
+
+ответственно. На рис. 7, б представлен график что для стали 3Х2В8Ф в местах проплавления 
+распределения Al. Из полученных диаграмм основного металла содержание алюминия на 
+видно, что при борировании в одинаковых усло- 3…5 % выше, чем в основном слое.     
+виях содержание бора в диффузионном слое на 
+Ст3 несколько больше (на 1–2 %) и зависит от Выводы
+глубины слоя для обеих сталей (см. рис. 7, а). По-
+хожая картина наблюдается при алитировании На основании выполненных исследований 
+исследуемых образцов. На стали Ст3 содержа- установлено, что при температуре процесса 
+ние алюминия выше на 2...7 % в зависимости 900 °С и выдержке в течение двух часов после 
+от глубины слоя (см. рис. 7, б). Установлено, борирования на поверхности обеих сталей об-
+
+96 Том 24 № 2 2022
+
+
+
+MATERIAL SCIENCE OBRABOTKA METALLOV
+
+                                               а                                                                                            б
+Рис. 7. Распределение бора и алюминия по глубине слоя на сталях после борирования (а) 
+
+и алитирования (б) соответственно 
+Fig. 7. Distribution of boron and aluminum over the layer thickness on the steels after boriding (a) 
+
+and aluminizing (б) respectively
+
+разуются бориды железа. При этом на стали Ст3 4. Nakajo H, Nishimoto A. Boronizing of CoCrFeMn-
+рентгенофазовым анализом (РФА) обнаружено Ni high-entropy alloys using spark plasma sintering // 
+два борида FeB и Fe2B, а на стали 3Х2В8Ф – толь- Journal of Manufacturing and Materials Processing. – 
+ко фаза Fe2B. После алитирования обеих сталей 2022. – Vol. 6. – P. 29. – DOI: 10.3390/jmmp6020029.
+образуются алюминийсодержащие фазы, такие 5. Campos-Silva I.E., Rodriguez-Castro G.A. Borid-
+как Al5Fe2, Na3AlF6 и Al2O3. Толщина полученно- ing to improve the mechanical properties and corrosion 
+го диффузионного слоя на легированной стали resistance of steels // Thermochemical Surface Engineer-
+
+ing of Steels. – 2015. – Vol. 62. – P. 651–702. – DOI: 
+меньше, чем на углеродистой стали, что связано 10.1533/9780857096524.5.651.
+с влиянием легирующих элементов, тормозящих 6. Effect of aluminizing and oxidation on the thermal 
+диффузию бора и алюминия. Максимальная ми- fatigue damage of hot work tool steels for high pressure 
+кротвердость наблюдается на стали Ст3, она со- die casting applications / M. Salem, S. Le Roux, G. Dour, 
+ставляет 1920 HV после борирования, что объяс- P. Lamesle, K. Choquet, F. Rézaï-Aria // International 
+няется присутствием в ее составе двух боридов Journal of Fatigue. – 2019. – Vol. 119. – P. 126–138. – 
+железа, на стали 3Х2В8Ф максимальное значе- DOI: 10.1016/j.ijfatigue.2018.09.018.
+ние микротвердости достигло 1620 HV. Микро- 7. Formation and phase transformation of alumi-
+твердость после алитирования сопоставима для nide coating prepared by low-temperature aluminizing 
+обеих сталей, она равна 1000…1100 HV. process / Y. Sun, J. Dong, P. Zhao, B. Dou // Surface 
+
+and Coatings Technology. – 2017. – Vol. 330. – P. 234–
+Список литературы 240. – DOI: 10.1016/j.surfcoat.2017.10.025.
+
+1. Ворошнин Л.Г., Менделеева О.Л., Сметкин В.А. 8. Повышение электрической прочности ускоря-
+Теория и технология химико-термической обработ- ющего зазора в источнике электронов с плазменным 
+ки. – М.: Новое знание, 2010. – 304 с. – ISBN 978-5- катодом / В.И. Шин, П.В. Москвин, М.С. Воробьев, 
+94735-149-1. В.Н. Девятков, С.Ю. Дорошкевич, Н.Н. Коваль // 
+
+2. Kulka M. Trends in thermochemical techniques of Приборы и техника эксперимента. – 2021. – № 2. – 
+boriding // Kulka M. Current trends in boriding: Tech- С. 69–75. – DOI: 10.31857/S0032816221020191.
+niques. – Cham, Switzerland: Springer, 2019. – P. 17– 9. Разработка физических основ комплексного 
+98. – (Engineering materials). – DOI: 10.1007/978-3- электронно-ионно-плазменного инжиниринга по-
+030-06782-3_4. верхности материалов и изделий / Ю.Ф. Иванов, 
+
+3. Atul S.C., Adalarasan R., Santhanakumar M. Study Н.Н. Коваль, Е.А. Петрикова, О.В. Крысина, В.В. Шу-
+on slurry paste boronizing of 410 martensitic stainless гуров, Ю.Х. Ахмадеев, И.В. Лопатин, А.Д. Тересов, 
+steel using taguchi based desirability analysis (TDA) // О.С. Толкачев // Наукоемкие технологии в проектах 
+International Journal of Manufacturing, Materials, and РНФ. Сибирь / под ред. С.Г. Псахье, Ю.П. Шаркее-
+Mechanical Engineering. – 2015. – Vol. 5. – P. 64–77. – ва. – Томск, 2017. – Гл. 1. – С. 5–35. – ISBN 978-5-
+DOI: 10.4018/IJMMME.2015070104. 89503-607-5.
+
+Vol. 24 No. 2 2022 97
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+10. Эволюция структуры поверхностного слоя малоуглеродистых сталей // Обработка металлов 
+стали, подвергнутой электронно-ионно-плазменным (технология, оборудование, инструменты). – 2020. – 
+методам обработки / под ред. Н.Н. Коваля, Ю.Ф. Ива- Т. 22, № 4. – С. 151–162. – DOI: 10.17212/1994-6309-
+нова. – Томск: Изд-во НТЛ, 2016. – 298 с. – ISBN 978- 2020-22.4-151-162.
+5-89503-577-1. 16. Рябов В.Р. Алитирование стали. – М.: Метал-
+
+11. Sizov I.G., Smirnyagina N.N., Semenov A.P. The лургия, 1973. – 240 с.
+structure and properties of boride layers obtained as a 17. Даненко В.Ф., Гуревич Л.М., Понкратова Г.В. 
+result of electron-beam chemical-thermal treatment // О влиянии алитирования на структуру и свойства 
+Metal Science and Heat Treatment. – 2001. – Vol. 11. – стали Ст3 // Известия ВолгГТУ. – 2014. – № 9. – 
+P. 45–46. С. 30–34.
+
+12. Zenker R. Electron beam surface technologies // 18. Скориков А.В., Ульяновская Э.В. Кинетика 
+Encyclopedia of Tribology / Q.J. Wang and Y.-W. Chung процесса поверхностного алитирования порошковых 
+(Eds.). – Boston, MA: Springer, 2013. – ISBN 978-0- сталей // Известия высших учебных заведений. Севе-
+387-92898-2. – DOI: 10.1007/978-0-387-92897-5_723. ро-Кавказский регион. Технические науки. – 2018. – 
+
+13. Microstructural and mechanical properties of № 3 (199). – С. 134–139. – DOI: 10.17213/0321-2653-
+B-Cr coatings formed on 145Cr6 tool steel by laser re- 2018-3-134–139.
+melting of diffusion borochromized layer using diode 19. Структура и фазовый состав защит-
+laser / A. Bartkowska, D. Bartkowski, D. Przestacki, ных покрытий на стали, полученных метода-
+J. Hajkowski, A. Miklaszewski // Coatings. – 2021. – ми жидкофазного алитирования / И.Г. Бродо-
+Vol. 11. – P. 608. – DOI: 10.3390/coatings11050608. ва, И.Г. Ширинкина, Ю.П. Зайков, В.А. Ковров, 
+
+14. Microstructure and wear behavior of tungsten Ю.М. Штефанюк, В.В. Пингин, Д.А. Виноградов, 
+hot-work steel after boriding and boroaluminizing / М.В. Голубев, Т.И. Яблонских, В.В. Астафьев // Физи-
+U. Mishigdorzhiyn, Y. Chen, N. Ulakhanov, H. Li- ка металлов и металловедение. – 2015. – Т. 116, № 9. – 
+ang // Lubricants. – 2020. – Vol. 8, iss. 3. – P. 26. – С. 928–936. – DOI: 10.7868/S0015323015090041.
+DOI: 10.3390/lubricants8030026. 20. Jurči P., Hudáková M. Diffusion boronizing of 
+
+15. Гуляшинов П.А., Мишигдоржийн У.Л., Ула- H11 hot work tool steel // Journal of Materials Engineer-
+ханов Н.С. Влияние механоактивации порошковой ing and Performance. – 2011. – Vol. 20. – P. 1180–1187. 
+смеси на структуру и свойства бороалитированных – DOI: 10.1007/s11665-010-9750-x.
+
+Конфликт интересов
+Авторы заявляют об отсутствии конфликта интересов.
+
+ 2022 Авторы. Издательство Новосибирского государственного технического университета. Эта статья доступна по 
+лицензии Creative Commons «Attribution» («Атрибуция») 4.0 Всемирная (https://creativecommons.org/licenses/by/4.0/)
+
+98 Том 24 № 2 2022
+
+
+
+MATERIAL SCIENCE OBRABOTKA METALLOV
+
+Obrabotka metallov (tekhnologiya, oborudovanie, instrumenty) = Metal Working and Material Science. 2022 vol. 24 no. 2 pp. 91–101
+ISSN: 1994-6309 (print) / 2541-819X (online)
+DOI: 10.17212/1994-6309-2022-24.2-91-101
+
+Obrabotka metallov - 
+Metal Working and Material Science
+
+Journal homepage: http://journals.nstu.ru/obrabotka_metallov
+
+Infl uence of boriding and aluminizing processes on the structure 
+and properties of low-carbon steels
+
+Pavel Gulyashinov 1, a, *, Undrakh Mishigdorzhiyn 2, b, Nikolay Ulakhanov 3, 2, c
+
+1 Baikal Institute of Nature Management Siberian branch of the Russian Academy of sciences, 6 Sakhyanovoy str., Ulan-Ude, 670047, Russian Federation
+2 Institute of Physical Material Science of the Siberian Branch of the RAS, 6 Sakhyanovoy str., Ulan-Ude, 670047, Russian Federation
+3 East Siberia State University of Technology and Management, 40V Kluchevskaya str, Ulan-Ude, 670013, Russian Federation
+
+a  https://orcid.org/0000-0001-6776-9314,  gulpasha@mail.ru, b  https://orcid.org/0000-0002-7863-9045,  undrakh@ipms.bscnet.ru, 
+c  https://orcid.org/0000-0002-0635-4577,  nulahanov@mail.ru.
+
+A RT I C L E  I N F O A B S T R A C T
+
+Article history: Introduction. Boriding and aluminizing are among the effective methods for improving the performance 
+Received: 15 March 2021 properties (corrosion resistance, heat resistance and wear resistance) of machine parts and tools. Solid-phase 
+Revised: 06 April 2021 methods of carrying out techniques of thermochemical treatment (TCT) require long-term exposure at elevated 
+Accepted: 27 April 2021 temperatures, which negatively affects the structure and properties of the base material. From these positions, the 
+Available online: 15 June 2021 selection of reasonable temperature-time parameters of solid-phase boriding and aluminizing processes is an urgent 
+
+task. The purpose of this work is to assess the effect of low-temperature boriding and aluminizing processes on the 
+Keywords: structure and microhardness of diffusion layers on the surface of low-carbon steels. The paper considers two grades 
+Thermochemical treatment (TCT) of steels with a carbon content of up to 0.4 %: low-carbon steel St3 and alloy steel 3Cr2W8V. The use of the second 
+Boriding steel is due to the need to identify the effect of alloying elements in steel on the thickness of diffusion layers and 
+Aluminizing its composition. Powder mixtures based on boron carbide and aluminum carbide are selected as sources of boron 
+Boron carbide and aluminum. Results and discussions. It is found at a process temperature of 900 °C and holding for 2 hours 
+Aluminum after boriding, iron borides are formed on the surface of both steels. At the same time, two borides FeB and Fe2B 
+Carbon steel are detected on St3 steel by X-ray phase analysis (XRD), and only the Fe2B phase is detected on 3Cr2W8V steel. 
+Alloy steel After aluminizing, aluminum-containing phases such as Al5Fe2, Na3AlF6 and Al2O3 are formed in both steels. The 
+
+thickness of the resulting diffusion layer on St3 after boriding is 35 μm, after aluminizing – 65 μm. The thickness 
+Funding of the diffusion layer on 3Cr2W8V steel is equal to 15 μm after boriding and 50 μm after aluminizing, which is 
+The research was supported by a grant signifi cantly less than on carbon steel and is obviously due to the effect of alloying elements. It is established that 
+from the Russian Science Foundation TCT leads to a signifi cant increase in the microhardness of the samples surface. Thus, the maximum microhardness 
+(project 19-79-10163). of St3 steel increased to 2,000 HV, and the maximum microhardness of 3Cr2W8V steel increased to 1,700 HV after 
+
+boriding. The microhardness after aluminizing is comparable for both steels and is equal to 1,000–1,100 HV. Elemental 
+Acknowledgements analysis of the upper sections of the diffusion layers shows that the content of boron (7–9 %) and aluminum (50–
+Research were partially conducted at 53 %) corresponds to the detected XRD iron borides and aluminides. In all cases, there is a gradual decrease in the 
+core facility “Structure, mechanical diffusing elements in the direction from the surface to the base.
+and physical properties of materials”
+
+For citation: Gulyashinov P.A., Mishigdorzhiyn U.L., Ulakhanov N.S. Infl uence of boriding and aluminizing processes on the structure and 
+properties of low-carbon steels. Obrabotka metallov (tekhnologiya, oborudovanie, instrumenty) = Metal Working and Material Science, 2022, 
+vol. 24, no. 2, pp. 91–101. DOI: 10.17212/1994-6309-2022-24.2-91-101. (In Russian).
+
+References
+1. Voroshnin L.G., Mendeleeva O.L., Smetkin V.A. Teoriya i tekhnologiya khimiko-termicheskoi obrabotki 
+
+[Theory and technology of chemical and heat treatment]. Moscow, Novoe znanie Publ., 2010. 304 p. ISBN 978-5-
+94735-149-1.
+______
+* Corresponding author
+Gulyashinov Pavel A., Ph.D. (Engineering), Scientifi c Associate
+Baikal Institute of Nature Management Siberian
+branch of the Russian Academy of sciences
+6 Sakhyanovoy str.,
+670047, Ulan-Ude, Russian Federation
+Tel.: 8 (3012) 43-36-76, e-mail: gulpasha@mail.ru
+
+Vol. 24 No. 2 2022 99
+
+
+
+OBRABOTKA METALLOV MATERIAL SCIENCE
+
+2. Kulka M. Trends in thermochemical techniques of boriding. Kulka M. Current trends in boriding: Techniques. 
+Cham, Switzerland, Springer, 2019, pp. 17–98. DOI: 10.1007/978-3-030-06782-3_4.
+
+3. Atul S.C., Adalarasan R., Santhanakumar M. Study on slurry paste boronizing of 410 martensitic stainless 
+steel using taguchi based desirability analysis (TDA). International Journal of Manufacturing, Materials, and 
+Mechanical Engineering, 2015, vol. 5, pp. 64–77. DOI: 10.4018/IJMMME.2015070104.
+
+4. Nakajo H, Nishimoto A. Boronizing of CoCrFeMnNi high-entropy alloys using spark plasma sintering. 
+Journal of Manufacturing and Materials Processing, 2022, vol. 6, p. 29. DOI: 10.3390/jmmp6020029.
+
+5. Campos-Silva I.E., Rodriguez-Castro G.A. Boriding to improve the mechanical properties and corrosion 
+resistance of steels. Thermochemical Surface Engineering of Steels, 2015, vol. 62, pp. 651–702. DOI: 10.1533/9
+780857096524.5.651.
+
+6. Salem M., Le Roux S., Dour G., Lamesle P., Choquet K., Rézaï-Aria F. Effect of aluminizing and oxidation 
+on the thermal fatigue damage of hot work tool steels for high pressure die casting applications. International 
+Journal of Fatigue, 2019, vol. 119, pp. 126–138. DOI: 10.1016/j.ijfatigue.2018.09.018.
+
+7. Sun Y., Dong J., Zhao P., Dou B. Formation and phase transformation of aluminide coating prepared by low-
+temperature aluminizing process. Surface and Coatings Technology, 2017, vol. 330, pp. 234–240. DOI: 10.1016/j.
+surfcoat.2017.10.025.
+
+8. Shin V.I., Moskvin P.V., Vorobyev M.S., Devyatkov V.N., Doroshkevich S.Yu., Koval’ N.N. Povyshenie 
+elektricheskoi prochnosti uskoryayushchego zazora v istochnike elektronov s plazmennym katodom 
+[Increasing the electrical strength of the accelerating gap in an electron source with a plasma cathode]. Pribory 
+i tekhnika eksperimenta = Instruments and Experimental Techniques, 2021, no. 2, pp. 69–75. DOI: 10.31857/
+S0032816221020191.
+
+9. Ivanov Yu.F., Koval’ N.N., Petrikova E.A., Krysina O.V., Shugurov V.V., Akhmadeev Yu.Kh., Lopatin I.V., 
+Teresov A.D., Tolkachev O.S. Razrabotka fizicheskikh osnov kompleksnogo elektronno-ionno-plazmennogo 
+inzhiniringa poverkhnosti materialov i izdelii [Development of the physical foundations of complex electron-
+ion-plasma engineering of the surface of materials and products]. Naukoemkie tekhnologii v proektakh RNF. 
+Sibir’ [High technologies in RSF projects. Siberia]. Tomsk, NTL Publ., 2017, ch. 1, pp. 5–35. ISBN 978-5- 
+89503-607-5.
+
+10. Koval’ N.N., Ivanov Yu.F., eds. Evolyutsiya struktury poverkhnostnogo sloya stali, podvergnutoi elektronno-
+ionno-plazmennym metodam obrabotki [Evolution of the structure of the surface layer of steel subjected to electron-
+ion-plasma processing methods]. Tomsk, NTL Publ., 2016. 298 p. ISBN 978-5-89503-577-1.
+
+11. Sizov I.G., Smirnyagina N.N., Semenov A.P. The structure and properties of boride layers obtained 
+as a result of electron-beam chemical-thermal treatment. Metal Science and Heat Treatment, 2001, vol. 11, 
+pp. 45–46.
+
+12. Zenker R. Electron beam surface technologies. Encyclopedia of Tribology. Wang Q.J, Chung Y.-W. (Eds.). 
+Boston, MA, Springer, 2013. DOI: 10.1007/978-0-387-92897-5_723.
+
+13. Bartkowska A., Bartkowski D., Przestacki D., Hajkowski J., Miklaszewski A. Microstructural and 
+mechanical properties of B-Cr coatings formed on 145Cr6 tool steel by laser remelting of diffusion borochromized 
+layer using diode laser. Coatings, 2021, vol. 11, p. 608. DOI: 10.3390/coatings11050608.
+
+14. Mishigdorzhiyn U., Chen Y., Ulakhanov N., Liang H. Microstructure and wear behavior of tungsten hot- 
+work steel after boriding and boroaluminizing. Lubricants, 2020, vol. 8, iss. 3, p. 26. DOI: 10.3390/
+lubricants8030026.
+
+15. Gulyashinov P.A., Mishigdorzhiyn U.L., Ulakhanov N.S. Vliyanie mekhanoaktivatsii poroshkovoi 
+smesi na strukturu i svoistva boroalitirovannykh malouglerodistykh stalei [Effect of mechanical activation of 
+the powder mixture on the structure and properties of boro-aluminized low-carbon steels]. Obrabotka metallov 
+(tekhnologiya, oborudovanie, instrumenty) = Metal Working and Material Science, 2020, vol. 22, no. 4, pp. 151–
+162. DOI: 10.17212/1994-6309-2020-22.4-151-162.
+
+16. Ryabov V.R. Alitirovanie stali [Aluminizing steel]. Moscow, Metallurgiya Publ., 1973. 240 p.
+17. Danenko V.F., Gurevich L.M., Ponkratova G.V. O vliyanii alitirovaniya na strukturu i svoistva stali St3 [On 
+
+the effect of aluminizing on the structure and properties of steel St3]. Izvestiya Volgogradskogo gosudarstvennogo 
+tekhnicheskogo universiteta = Izvestia of Volgograd State Technical University, 2014, no. 9, pp. 30–34.
+
+100 Vol. 24 No. 2 2022
+
+
+
+MATERIAL SCIENCE OBRABOTKA METALLOV
+
+18. Skorikov A.V., Ul’yanovskaya E.V. Kinetika protsessa poverkhnostnogo alitirovaniya poroshkovykh stalei 
+[Kinetics of the process of surface aluminizing of powder steels]. University News. North-Caucasian Region. 
+Technical Sciences Series, 2018, no. 3 (199), pp. 134–139. DOI: 10.17213/0321-2653-2018-3-134-139.
+
+19. Brodova I.G., Shirinkina I.G., Zaikov Yu.P., Kovrov V.A., Shtefanyuk Yu.M., Pingin V.V., Vinogradov D.A., 
+Golubev M.V., Yablonskikh T.I., Astaf’ev V.V. Struktura i fazovyi sostav zashchitnykh pokrytii na stali, 
+poluchennykh metodami zhidkofaznogo alitirovaniya [Structure and phase composition of protective coatings 
+on steel obtained by liquid-phase aluminizing]. Fizika metallov i metallovedenie = The Physics of Metals and 
+Metallography, 2015, vol. 116, no. 9, pp. 928–936. DOI: 10.7868/S0015323015090041.
+
+20. Jurči P., Hudáková M. Diffusion boronizing of H11 hot work tool steel. Journal of Materials Engineering 
+and Performance, 2011, vol. 20, pp. 1180–1187. DOI: 10.1007/s11665-010-9750-x.
+
+Conflicts of Interest
+The authors declare no conflict of interest.
+
+ 2022 The Authors. Published by Novosibirsk State Technical University. This is an open access article under the CC BY 
+license (http://creativecommons.org/licenses/by/4.0/).
+
+Vol. 24 No. 2 2022 101

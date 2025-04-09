@@ -1,0 +1,645 @@
+﻿ВЕСТНИК ТОМСКОГО ГОСУДАРСТВЕННОГО УНИВЕРСИТЕТА 
+2022                                                 Математика и механика                                                 № 80 
+
+Tomsk State University Journal of Mathematics and Mechanics 
+ 
+ 
+
+ 
+ 
+Научная статья 
+УДК 523.681.8 
+doi: 10.17223/19988621/80/9 
+
+ 
+
+Оценка траектории метеороидов по марсианским кластерам 
+ 
+
+Елена Дмитриевна Подобная1, Ольга Петровна Попова2,  
+Дмитрий Олегович Глазачев3 
+
+ 
+1, 2, 3 Институт динамики геосфер им. академика М.А. Садовского РАН, Москва, Россия 
+
+1 epodobnaya@gmail.com 
+2 olga@idg.chph.ras.ru 
+
+3 glazachevd@gmail.com 
+
+ 
+
+Аннотация. С 2006 г. на Марсе было обнаружено около 1 200 мест недавних падений 
+метеороидов, примерно половина которых разрушается при пролете через атмо-
+сферу и приводит к образованию кратерных полей (кластеров). Анализ кластеров 
+позволяет изучать плохо различимые на Земле детали взаимодействия метеороидов 
+с атмосферой. Ранее предлагалось оценивать траекторию метеороида по эллипсу 
+рассеяния кластеров и по выбросам из кратеров, однако оценки, полученные этими 
+методами, согласуются только в 30% случаев. В данной работе представлены первые 
+результаты применения модели фрагментации к описанию кластеров; мы надеемся, 
+что в дальнейшем эта модель позволит описать кластеры и предложить методы 
+определения направления полета и свойств ударника. 
+Ключевые слова: кратеры, метероиды, кратерные выбросы, фрагментация, чис-
+ленное моделирование 
+ 
+
+Для цитирования: Подобная Е.Д., Попова О.П., Глазачев Д.О. Оценка траекто-
+рии метеороидов по марсианским кластерам // Вестник Томского государствен-
+ного университета. Математика и механика. 2022. № 80. С. 97–107. doi: 
+10.17223/19988621/80/9 
+
+ 
+ 
+Original article 
+
+ 
+
+Estimation of the trajectory of meteoroids from Martian clusters 
+ 
+
+Elena D. Podobnaya 1, Olga P. Popova2, Dmitry O. Glazachev3 
+ 
+
+1, 2, 3 Sadovsky Institute of Geosphere Dynamics Russian Academy of Science 
+1 epodobnaya@gmail.com 
+
+2 olga@idg.chph.ras.ru 
+3 glazachevd@gmail.com 
+
+ 
+
+Abstract. Recently, about 1200 fresh meteoroid impact sites were discovered on Mars, 
+they are single craters and crater fields with crater sizes up to 50 m. Atmosphere density 
+on the surface of Mars corresponds to about 30 km height of the Earth's atmosphere. 
+Thus, scattering fields of craters on Mars allow one to study fragmentation details, which 
+are hidden in terrestrial conditions. 
+
+© Е.Д. Подобная, О.П. Попова, Д.О. Глазачев, 2022 
+
+
+
+Механика / Mechanics 
+
+Previously, data on 77 Martian clusters were analyzed. To estimate the trajectory of me-
+teoroids, the scattering ellipses were constructed. The ellipse size determines the angle of 
+the meteoroid entry into the atmosphere and provides information about the height of de-
+struction and the density of a space object. For more than 70% of clusters, the obtained 
+azimuth estimations are within 20° of those determined by independent evaluations. For 
+some clusters, the flight direction can be specified from crater ejecta on Martian HiRISE 
+images. Estimations of azimuth angles for 42 clusters coincide with previous results  
+obtained for 70% of clusters, while the data on the flight direction fit only for 30%. The 
+discrepancy between different estimations of azimuth angles requires the use of other ap-
+proaches. 
+Continuing on the topic, this work presents numerical modeling of the flight and frag-
+mentation of a meteoroid in the atmospheres of two planets, Mars and Earth. It is as-
+sumed that the simulation results will allow one to determine meteoroid parameters, in 
+particular, the trajectory parameters. 
+The main purpose of the presented work is to demonstrate the efficiency of the fragmen-
+tation model, its applicability to Martian clusters, and the difference in the scattering 
+fields on the Earth and Mars: the atmospheric sorting effect is weak on Mars, and the 
+scattering field is mainly dependent on fragmentation and the lateral spreading of frag-
+ments. The area of the simulated cluster is described with an accuracy of about 10%; the 
+size of the maximum crater, with an accuracy of about 35%. The ratios of crater diame-
+ters to the maximum crater diameter for the model and real cluster are close to each other. 
+In the future, it is planned to implement a series of numerical simulations with different 
+initial data and to compare the results with real clusters on Mars, which have already 
+been analyzed in previous works. The aim is to propose the advanced methods for deter-
+mining the direction of the flight of meteoroids and the properties of impactors such as 
+density and strength. 
+Keywords: craters, meteoroids, crater ejecta, fragmentation, numerical modeling 
+ 
+
+For citation: Podobnaya, E.D., Popova, O.P., Glazachev, D.O. (2022) Estimation of the 
+trajectory of meteoroids from Martian clusters. Vestnik Tomskogo gosudarstvennogo 
+universiteta. Matematika i mekhanika – Tomsk State University Journal of Mathematics 
+and Mechanics. 80. pp. 97–107. doi: 10.17223/19988621/80/9 
+ 
+
+Введение 
+ 
+
+В течение последних лет на Марсе было обнаружено около 1 200 свежих мест 
+падения метеороидов [1–4], приведших к образованию одиночных ударных крате-
+ров и кратерных полей (кластеров) с диаметрами отдельных кратеров от 1 до 50 м. 
+Кластер определяется как скопление в одной и той же области нескольких крате-
+ров, которые образовались почти одновременно в результате атмосферной фраг-
+ментации ударника. Метеороидом принято называть твердый природный объект 
+размером примерно от 30 мкм до 1 м, движущийся в межпланетном пространстве 
+или прибывающий из него. Метеорит – это космический объект, который проле-
+тел атмосферу, не испарившись полностью, и достиг поверхности планеты. 
+
+Благодаря более разреженной (в сравнении с Землей) атмосфере Марса, па-
+дающие метеороиды меньше фрагментируются. Тем не менее около половины 
+метеороидов разрушается в марсианской атмосфере и образует кратерные поля [2–
+5]. На Земле, как правило, метеороиды наблюдаются во время недолгого пролета 
+через атмосферу, в редких случаях находятся их фрагменты в виде метеоритов. 
+На Марсе в 40–50% случаев аналогичные объекты привели бы к образованию 
+кластеров. Плотность атмосферы у поверхности Марса соответствует примерно 
+
+98 
+
+
+
+Подобная Е.Д., Попова О.П., Глазачев Д.О. Оценка траектории метеороидов  
+
+30 км высоты земной атмосферы; таким образом, исследование кратерных полей 
+на Марсе позволяет увидеть результаты менее существенной фрагментации, ко-
+торые не могут быть обнаружены в земных условиях. Свойства космических 
+объектов оцениваются по наблюдательным данным в рамках тех или иных пред-
+положений с не очень высокой точностью, исследование марсианских кластеров 
+дает возможность оценить свойства метеороидов независимым образом. 
+
+Цель данной работы – предложить модель фрагментации метеороидов на 
+Марсе, которая позволит описать реальные кластеры и определить для них ха-
+рактеристики фрагментации (прочность и плотность ударников, распределение 
+фрагментов, параметры траектории метеороидов и др.). 
+
+В первом разделе приводится описание обнаруженных кластеров, представ-
+лены полученные ранее результаты. Второй раздел посвящен разрабатываемой 
+модели фрагментации метеороидов и сопоставлению первых результатов моде-
+лирования с реальным кластером, сравнению фрагментации в атмосфере Земли и 
+Марса для одного и того же модельного метеороида. 
+
+ 
+
+Кластеры и кратерные выбросы 
+ 
+
+Недавно были опубликованы подробные данные для 77 марсианских класте-
+ров, содержащих от 2 до 465 отдельных кратеров [3], которые включают инфор-
+мацию о размере и расположении кратеров в кластере. Средний диаметр кратеров 
+для этих кластеров составляет 2.5 м, наибольшее расстояние между двумя крате-
+рами в кластере – от 16.5 м до 3.8 км (среднее значение 350 м), характерный раз-
+мер кластера – 50–500 м. 
+
+Для получения различных оценок параметров траектории космических объек-
+тов, образовавших марсианские кластеры, содержащие более 5 кратеров, в работе [3] 
+предложено построить минимальный эллипс, покрывающий 90% кратеров в кла-
+стере (эллипс рассеяния). Ориентация траектории ударника в пространстве опре-
+деляется двумя углами – углом входа (угол между траекторией ударника и гори-
+зонтальной плоскостью) и наклоном проекции траектории на плоскости (рис. 1). 
+Азимут полета метеороида определяется наклоном проекции на плоскости с уче-
+том направления движения метеороида и отсчитывается от направления на север 
+по часовой стрелке. 
+
+Размер эллипса определяет угол входа метеороида в атмосферу, содержит ин-
+формацию о высоте разрушения и плотности космического объекта [6]. Непонят-
+но, насколько достоверными являются полученные оценки углов и размеров кла-
+стеров, поэтому в работах [7, 8] мы воспроизвели тот же алгоритм самостоятельно, 
+а также построили эллипсы рассеяния для рассматриваемых кластеров еще од-
+ним способом. Для каждого кластера, исходя из эллипса рассеяния, определялся 
+азимут его траектории как угол наклона главной оси эллипса рассеяния, направ-
+ление полета выбиралось в сторону большего суммарного диаметра фрагментов 
+(от центра эллипса) [7, 8]. В более чем 70% случаев оценки углов, полученных по 
+эллипсам рассеяния и описывающих траекторию ударника, отличаются от неза-
+висимых оценок [3] не более чем на 20°. Эллипсы рассеяния позволяют оценить 
+разброс кратеров в кластере – площадь поля рассеяния была оценена с точностью 
+± 50% в сравнении с независимой оценкой [3]. Кроме того, были построены  
+эллипсы рассеяния для двух известных полей рассеяния метеоритов на Земле. 
+Показано, что возможно оценить азимут и угол входа с точностью до 15° для по-
+
+99 
+
+
+
+Механика / Mechanics 
+
+логой траектории и наличия достаточного количества крупных фрагментов, на 
+чье падение мало влияет ветровой снос [7, 8]. Поле рассеяния (территория, по 
+которой разлетаются метеоритные осколки, образованные в результате падения 
+космического тела) маленьких фрагментов метеороида (< 1 кг) с почти верти-
+кальной траекторией входа определяется только ветровым сносом [7, 8]. 
+
+ 
+
+Up 
+
+Entry 
+angle 
+
+Azimuth 
+
+East North  
+Рис. 1. Схематическое изображение углов, определяющих траекторию метеороида  
+
+в атмосфере. Черная линия со стрелкой обозначает направление полета метеороида;  
+серые линии – система координат 
+
+Fig. 1. Schematic representation of the angles determining the meteoroid trajectory  
+in the atmosphere. The black line with an arrow indicates the direction of the meteoroid  
+
+flight; the gray arrows, the coordinate system 
+ 
+
+Изображения Марса, полученные проектом HiRISE (High Resolution Imaging 
+Science Experiment), позволяют детально рассмотреть выбросы из кратеров для 
+ряда кластеров и найти соответствующую траекторию ударника [7, 8]. В случае 
+косых ударов выбросы из образующегося кратера распределены ассиметрично и 
+более выражены по направлению полета [9]. Кроме того, в ряде случаев для 
+определения направления полета метеороида можно использовать пылевые сле-
+ды на поверхности Марса – параболические элементы, которые рассматриваются 
+как поверхностные записи взаимодействия атмосферных ударных волн [10, 11]. 
+Определить направление полета по расположению кратерных выбросов оказа-
+лось возможным для 42 из 77 рассмотренных кластеров [8], в остальных случаях 
+изображения кластеров не дают возможности получить однозначную оценку 
+направления кратерных выбросов. Направление полета определялось прибли-
+женно, с точностью ± 45°. Кратерные выбросы не дают возможности определить 
+угол входа метеороида в атмосферу. 
+
+Направление полета, определяемое выбросами, сравнивалось с оценками, полу-
+ченными по эллипсам рассеяния. Кластер ESP_013655_1710 (рис. 2) демонстрирует 
+совпадение оценок направления полета: азимут, вычисленный по эллипсам рассея-
+ния, составляет 300°, как и полученный по расположению кратерных выбросов. 
+Направление полета метеороида, образовавшего кластер PSP_009305_1830 (рис. 3), 
+составляет 315° при оценке траектории по эллипсам рассеяния и 220° – исходя из 
+выбросов из кратеров. Таким образом, полученные направления полета различа-
+ются на 95°, т.е. полученные оценки направления полета расположены практиче-
+ски перпендикулярно. 
+
+100 
+
+
+
+Подобная Е.Д., Попова О.П., Глазачев Д.О. Оценка траектории метеороидов  
+
+ 
+Рис. 2. Изображение, полученное камерами HiRISE для кластера ESP_013655_1710. Эллипсы 
+рассеяния, построенные двумя различными способами [7, 8], показаны белой сплошной и 
+пунктирной линиями. Стрелки показывают направление полета метеороида, полученное  
+с помощью эллипсов рассеяния (белая стрелка) и по расположению выбросов из кратеров 
+(черная стрелка); границы кратерных выбросов и кратеров отмечены черными линиями  
+                                           и белыми окружностями соответственно 
+Fig. 2. Image made by a HiRISE camera for ESP_013655_1710 cluster. Scattering ellipses (white 
+solid and dashed lines) are constructed by two different methods [7, 8]. The meteoroid flight  
+direction obtained from scattering ellipses (white arrow) and from crater ejecta location (black 
+arrow) are shown; areas of crater ejecta and craters are indicated by black lines and white circles,  
+                                                            respectively 
+                                                                     
+
+ 
+Рис. 3. Изображение, полученное камерами HiRISE для кластера PSP_009305_1830. Эллип-
+сы рассеяния, построенные двумя различными способами [7, 8], показаны белой сплошной  
+и пунктирной линиями. Стрелки показывают направление полета метеороида, полученное 
+с помощью эллипсов рассеяния (белая стрелка) и по расположению выбросов из кратеров 
+(черная стрелка); границы кратерных выбросов и кратеров отмечены черными линиями и  
+                                              белыми окружностями соответственно 
+Fig. 3. Image made by a HiRISE camera for PSP_009305_1830 cluster. Scattering ellipses (white 
+solid and dashed lines) are constructed by two different methods [7, 8]. The meteoroid flight 
+direction obtained from scattering ellipses (white arrow) and from crater ejecta location (black 
+arrow) are shown; areas of crater ejecta and craters are indicated by black lines and white circles,  
+                                                                    respectively 
+
+101 
+
+
+
+Механика / Mechanics 
+
+Для азимутов, полученных по кратерным выбросам, азимут метеороида без 
+учета направления полета соответствует предыдущим оценкам примерно для 
+70% кластеров [8], направление полета соответствует примерно в 30%. Различие 
+оценок, полученных разными способами, показывает необходимость рассмотре-
+ния иных способов нахождения азимута. 
+
+ 
+
+Модель фрагментации метеороидов 
+ 
+
+В качестве следующего шага рассматривается численное моделирование по-
+лета и фрагментации метеороида в атмосферах двух планет – Марса и Земли, 
+поскольку популяция метеороидов для обеих планет общая [12]. Мы предполага-
+ем, что результаты моделирования позволят определять параметры метеороидов, 
+в том числе параметры траектории. 
+
+Взаимодействие метеороида с атмосферой планеты описывается системой диф-
+ференциальных уравнений [13]. В качестве примера рассматривается каменный 
+ударник диаметром 1 м (анализ 77 кластеров на Марсе показал, что диаметр соот-
+ветствующих метеороидов примерно 0.2–3 м [7]) и плотностью 2 650 кг/м3, входя-
+щий в атмосферы Земли и Марса под углом 45° и азимутом 45°. Поверхность пла-
+неты в месте падения метеороида считалась каменной, с плотностями 2 650 кг/м3 
+для Земли и 2 000 кг/м3 для Марса. Скорость входа метеороида в атмосферу 
+предполагалась примерно равной средней для каждой планеты – 10 км/с для 
+Марса и 20 км/с для Земли. 
+
+ 
+
+ 
+Рис. 4. Расположение фрагментов 1 м метеороида (v0 = 20 км/с; ρ=2 650 кг/м3), входящего 
+в атмосферу Земли под углом 45° и азимутом 45° и разрушающегося при давлении 0.1 МПа. 
+Траектория метеороида совпадает с вертикальной осью. Фрагменты долетают до поверх-
+ности Земли; их финальные массы от 1.5 кг до 29 кг (обозначены цифрами). Длина отрезков  
+                             пропорциональна диаметру соответствующего фрагмента 
+Fig. 4. Location of fragments of a 1 m meteoroid (v0 = 20 km/s; ρ = 2650 kg/m3), which enters 
+the atmosphere of the Earth at an angle of 45° and azimuth angle of 45°, and explodes at a pressure 
+of 0.1 MPa. Meteoroid trajectory coincides with the vertical axis. Fragments reach the Earth surface; 
+their final masses are in the range of 1.5 – 29 kg (indicated by numbers). The length of line  
+                      segments is proportional to the diameter of the corresponding fragment 
+
+102 
+
+
+
+Подобная Е.Д., Попова О.П., Глазачев Д.О. Оценка траектории метеороидов  
+
+В рассматриваемом варианте предполагалось, что фрагментация проходила в од-
+ну стадию, боковой разлет фрагментов происходил под случайным углом к тра-
+ектории метеороида (дополнительная скорость разлета перпендикулярно к траек-
+тории возникает за счет начального взаимодействия ударных волн фрагментов 
+сразу после разрушения [14]), разрушение метеороида происходило на высоте, 
+где прочность метеороида достигала 0.1 МПа [15] (это значение соответствует 
+разрушению на Земле примерно на высоте 60 км, на Марсе – 30 км). Во время 
+фрагментации метеороид распадается на некоторое количество сферических 
+фрагментов, количество и размеры которых определяются распределением по 
+усеченному степенному закону с фиксированной массой максимального фрагмен-
+та [16]. Анализ оценок массы наибольшего фрагмента для 77 кластеров показал, 
+что можно выделить несколько групп ударников: с отношением массы наиболь-
+шего фрагмента к массе метеороида до разрушения > 0.8, отношением масс при-
+мерно 0.6–0.7 и 0.2–0.4 [16]. В данной работе было выбрано значение в 0.6 (60%). 
+
+Фрагменты рассматриваемого метрового метеороида на Земле (рис. 4) доле-
+тают до поверхности, но не образуют кратеров, разлет фрагментов вдоль траек-
+тории составляет примерно 5 км, поперек траектории – менее 100 м. В условиях 
+достаточно плотной земной атмосферы происходит атмосферная сортировка, 
+крупные фрагменты образуют головную часть поля рассеяния, фрагменты распо-
+лагаются вдоль траектории в зависимости от своей массы, как и наблюдается  
+в многочисленных земных полях рассеяния метеоритов [17].  
+
+ 
+
+ 
+Рис. 5. Расположение кратеров (обозначены кругами в масштабе осей) от 1 м метеороида 
+(v0 = 10 км/с; ρ = 2 650 кг/м3), входящего в атмосферу Марса под углом 45° и азимутом 45° 
+и разрушающегося при давлении 0.1 МПа. Фрагменты долетают до поверхности Марса  
+                   с массами от 30 кг до 735 кг. Линия обозначает траекторию ударника  
+Fig. 5. Location of craters (indicated by circles in the scale of the axes) made by a 1 m meteoroid 
+(v0 = 10 km/s; ρ = 2650 kg/m3), which enters the atmosphere of Mars at an angle of 45° and azimuth 
+angle of 45°, and explodes at a pressure of 0.1 MPa. The mass of the fragments reaching the Mars  
+              surface ranges from 30 to 735 kg. The solid line indicates the impactor trajectory  
+
+       
+
+В случае разрушения идентичного метрового метеороида в марсианской атмо-
+сфере (рис. 5) фрагменты достигают поверхности планеты со скоростью, доста-
+точной для образования кратеров. Диаметр кратеров вычислялся исходя из соот-
+
+103 
+
+
+
+Механика / Mechanics 
+
+ношений подобия [18] и для рассматриваемого ударника составил от 4.5 до 13.5 м, 
+разлет фрагментов составил примерно 60 м вдоль траектории и 40 м – поперек. 
+
+Соотношение между размерами кратеров и размером поля рассеяния хорошо 
+соответствуют реальному кластеру на Марсе: кластер ESP_037706_1765 с макси-
+мальным кратером диаметром 10 м имеет площадь примерно 75 м на 35 м (рис. 6), 
+отношение диаметров кратеров к диаметру максимального кратера в модели и 
+реальном кластере близки друг к другу. Направление полета для рассматривае-
+мого реального кластера, полученное по эллипсам рассеяния и по кратерным вы-
+бросам, отличается на 190°, т.е. практически противоположно. Направление по-
+лета, полученное по выбросам, совпадает с заданным в моделировании кластера. 
+В головной части поля рассеяния оказываются не наиболее крупные фрагменты, 
+как происходит на Земле и как предполагалось при построении эллипсов рассеяния. 
+
+ 
+
+ 
+
+Рис. 6. Снимок камерой HiRISE кластера ESP_037706_1765 на поверхности Марса. Эллипсы 
+рассеяния, построенные двумя различными способами [7, 8], показаны белой сплошной  
+и пунктирной линиями. Стрелки показывают направление полета метеороида, полученное 
+с помощью эллипсов рассеяния (белая стрелка) и по расположению выбросов из кратеров 
+(черная стрелка); границы кратерных выбросов и кратеров отмечены черными линиями  
+                                           и белыми окружностями соответственно 
+Fig. 6. Image made by a HiRISE camera for ESP_037706_1765 cluster on the Martian surface. 
+Scattering ellipses (white solid and dashed lines) are constructed by two different methods [7, 8]. 
+The meteoroid flight direction obtained from scattering ellipses (white arrow) and from crater 
+ejecta location (black arrow) are shown; areas of crater ejecta and craters are indicated by black  
+                                                 lines and white circles, respectively 
+
+ 
+На Марсе эффект атмосферной сортировки выражен слабо, поле рассеяния  
+
+в основном определяется фрагментацией и боковым разлетом осколков. Сравне-
+ние результатов моделирования фрагментации для Земли и Марса показало, что 
+благодаря различию в плотности атмосфер при одинаковых исходных данных 
+ударник образует на Марсе кратерное поле, во много раз меньшее, чем поле рас-
+сеяния метеоритов на Земле, и с кратерами размером до 13.5 м. 
+
+Реализованная модель разрушений метеороида в атмосфере дает возможность 
+описать кратерные кластеры и позволит предложить методы определения 
+направления полета и свойств ударника. 
+
+104 
+
+
+
+Подобная Е.Д., Попова О.П., Глазачев Д.О. Оценка траектории метеороидов  
+
+Заключение 
+ 
+
+Основным результатом представленной работы является демонстрация рабо-
+тоспособности модели фрагментации, ее применимости к марсианским кластерам 
+и отличия характера полей рассеяния на Земле и на Марсе (атмосферная сорти-
+ровка и разлет фрагментов за счет начального взаимодействия их ударных волн). 
+
+Проведенное численное моделирование показало, что примененная модель 
+описывает кластеры на Марсе и дает возможность определить параметры удар-
+ника, образовавшего кластер. Площадь моделированного кластера описывается  
+с точностью около 10%, размер максимального кратера – с точностью около 35%. 
+Отношение диаметров кратеров к диаметру максимального кратера в модели и 
+реальном кластере близки к друг другу. В будущем планируется провести серий-
+ное применение численного моделирования с различными начальными данными 
+и сравнить его результаты с рассмотренными в предыдущих работах реальными 
+кластерами на Марсе. Это позволит предложить более точные методы определения 
+направления полета метеороида и определить свойства ударников, в том числе 
+плотность и прочность. 
+
+ 
+Список источников 
+
+ 
+1. Malin M.C., Edgett K.S., Posiolova L.V., McColley S.M., Noe Dobrea E.Z. Catalog of new 
+
+impact sites on Mars formed May 1999–March 2006. San Diego, CA : Malin Space Science 
+Systems. Inc., 2006. 
+
+2. Daubar I.J., McEwen A.S., Byrne S., Dundas C.M., Kennedy M., Ivanov B.A. The current Mar-
+tian cratering rate // 41th Lunar and Planetary Science Conference. 2010. Abstract 1978. 
+
+3. Daubar I.J., Banks M.E., Schmerr N.C., Golombek M.P. Recently formed crater clusters  
+on Mars // Journal of Geophysical Research 2019. V. 124 (4). P. 958–969. doi: 
+10.1029/2018JE005857 
+
+4. Daubar I.J., Dundas C.M., McEwen A.S., Gao A., Wexler D., Piqueux S., Collins G.S., 
+Miljkovic K., Neidhart T., Eschenfelder J., Bart G.D., Wagstaff K.L., Doran G., Posiolova L., 
+Malin M., Speth G., Susko D., Werynski A. New Craters on Mars: An Updated Catalog // 
+Journal of Geophysical Research (Planets). 2022. V. 127 (7). e2021JE007145. doi: 
+10.1029/2021JE007145 
+
+5. Hartmann W.K., Daubar I.J., Popova O.P., Joseph Emily C.S. Martian cratering 12. Utilizing 
+primary crater clusters to study crater populations and meteoroid properties // Meteoritics & 
+Planetary Science. 2018. V. 53 (4). P. 672–686. doi: 10.1111/maps.13042 
+
+6. Ivanov B.A., Melosh H.J., McEwen A.S. and the HiRISE team. New small impact craters in 
+high resolution HiRISE images – IV // 45th Lunar and Planetary Science Conference. 2014. 
+Abstract 1812. 
+
+7. Подобная Е.Д., Попова О.П., Глазачев Д.О. Эллипсы рассеяния для недавно образован-
+ных кластеров кратеров на Марсе // Динамические процессы в геосферах. 2020. № 12. 
+С. 89–98. doi: 10.26006/IDG.2020.24.10.011 
+
+8. Podobnaya E.D., Popova O.P., Glazachev D.O. Trajectory estimation for fresh impacts  
+on Mars // Contributions of the Astronomical Observatory Skalnaté Pleso. 2021. V. 51 (3). 
+P. 241–248. doi: 10.31577/caosp.2021.51.3.241 
+
+9. Shuvalov V.V. Ejecta deposition after oblique impacts: An influence of impact scale // Meteoritics 
+& Planetary Science. 2011. V. 46 (11). P. 1713–1718. doi: 10.1111/j.1945-5100.2011.01259.x 
+
+10. Ivanov B.A., Melosh H.J., McEwen A.S., Team HiRISE. New small impact craters in high 
+resolution HiRISE images – III // 41th Lunar and Planetary Science Conference. 2010. Ab-
+stract 2020. 
+
+105 
+
+
+
+Механика / Mechanics 
+
+11. Burleigh K.J., Melosh H.J., Tornabene L.L., Ivanov B.A., McEwen A.S., Daubar, I.J. Impact 
+airblast triggers dust avalanches on Mars // Icarus. 2012. V. 217 (1). P. 194–201. doi: 
+10.1016/j.icarus.2011.10.026 
+
+12. Adolfsson L.G., Gustafson B.Å., Murray C.D. The Martian atmosphere as a meteoroid detec-
+tor // Icarus. 1996. V. 119 (1). P. 144–152. doi: 10.1006/icar.1996.0007 
+
+13. Baldwin B., Sheaffer Y. Ablation and breakup of large meteoroids during atmospheric entry // 
+Journal of Geophysical Research. 1971. V. 76 (19). P. 4653–4668. doi: 10.1029/JA076i 
+019p04653 
+
+14. Passey Q.R., Melosh H.J. Effects of atmospheric breakup on crater field formation // Icarus. 
+1980. V. 42 (2). P. 211–233. doi: 10.1016/0019-1035(80)90072-X 
+
+15. Popova O., Borovička J., Hartmann W.K., Spurný P., Gnos E., Nemtchinov I., Trigo-Rodrí-
+guez J.M. Very low strengths of interplanetary meteoroids and small asteroids // Meteoritics 
+& Planetary Science. 2011. V. 46 (10). P. 1525–1550. doi: 10.1111/j.1945-5100.2011.01247.x 
+
+16. Popova O., Borovicka J., Campbell-Brown M. Modelling the entry of meteoroids // Meteor-
+oids, sources of meteor on Earth and beyond / G. Ryabova, D. Asher, M. Campbell-Brown 
+(eds). New York : Cambridge University Press, 2019. P. 9–36. 
+
+17. Frost M.J. Size and spacial distribution in meteoritic showers // Meteoritics. 1969. V. 4 (3). 
+P. 217–232. doi: 10.1111/j.1945-5100.1969.tb01270.x 
+
+18. Holsapple K.A., Housen K.R. A crater and its ejecta: An interpretation of Deep Impact // 
+Icarus. 2007. V. 191 (2). P. 586–597. doi: 10.1016/j.icarus.2006.08.035 
+
+ 
+
+References 
+ 
+
+1. Malin M.C., Edgett K.S., Posiolova L.V., McColley S.M., Noe Dobrea E.Z. (2006) Catalog of 
+New Impact Sites on Mars Formed May 1999–March 2006. Malin Space Science Systems 
+Inc.: San Diego, California. 
+
+2. Daubar I.J., McEwen A.S., Byrne S., Dundas C.M., Kennedy M., Ivanov B.A. (2010) The 
+current Martian cratering rate. 41th Lunar and Planetary Science Conference. Abstract 1978. 
+
+3. Daubar I.J., Banks M.E., Schmerr N.C., Golombek M.P. (2019) Recently formed crater  
+clusters on Mars. Journal of Geophysical Research. 124(4). pp. 958–969. doi: 
+10.1029/2018JE005857 
+
+4. Daubar I.J., Dundas C.M., McEwen A.S., Gao A., Wexler D., Piqueux S., Collins G.S., 
+Miljkovic K., Neidhart T., Eschenfelder J., Bart G.D., Wagstaff K.L., Doran G., Posiolova 
+L., Malin M., Speth G., Susko D., Werynski A. (2022) New Craters on Mars: An Updated 
+Catalog. Journal of Geophysical Research (Planets). 127(7). doi: 10.1029/2021JE007145 
+
+5. Hartmann W.K., Daubar I.J., Popova O.P., Joseph E.C.S. (2018) Martian cratering 12. Utilizing 
+primary crater clusters to study crater populations and meteoroid properties. Meteoritics & 
+Planetary Science. 53(4). pp. 672–686. doi: 10.1111/maps.13042 
+
+6. Ivanov B.A., Melosh H.J., McEwen A.S., the HiRISE team (2014) New small impact craters 
+in high resolution HiRISE images—IV. 45th Lunar and Planetary Science Conference. Ab-
+stract 1812. 
+
+7. Podobnaya E.D., Popova O.P., Glazachev D.O. (2020) Ellipsy rasseyaniya dlya nedavno obra-
+zovannykh klasterov kraterov na Marse [Scattering ellipses for fresh clusters of craters on 
+Mars]. Collection of scientific papers IDG RAS. Dynamic processes in geospheres. 12. 
+pp. 89–98. doi: 10.26006/IDG.2020.24.10.011 
+
+8. Podobnaya E.D., Popova O.P., Glazachev D.O. (2021) Trajectory estimation for fresh impacts 
+on Mars. Contributions of the Astronomical Observatory Skalnaté Pleso. 51(3). pp. 241–248. 
+doi: 10.31577/caosp.2021.51.3.241 
+
+9. Shuvalov V.V. (2011) Ejecta deposition after oblique impacts: An influence of impact scale. 
+Meteoritics & Planetary Science. 46(11). pp. 1713–1718. doi: 10.1111/j.1945-5100.2011.01259.x 
+
+10. Ivanov B.A., Melosh H.J., McEwen A.S., the HiRISE team (2010) New small impact craters 
+in high resolution HiRISE images-III. 41th Lunar and Planetary Science Conference. Ab-
+stract 2020. 
+
+106 
+
+
+
+Подобная Е.Д., Попова О.П., Глазачев Д.О. Оценка траектории метеороидов  
+
+11. Burleigh K.J., Melosh H.J., Tornabene L.L., Ivanov B.A., McEwen A.S., Daubar, I.J. (2012) 
+Impact airblast triggers dust avalanches on Mars. Icarus. 217(1). pp. 194–201. doi: 
+10.1016/j.icarus.2011.10.026 
+
+12. Adolfsson L.G., Gustafson B.Å., Murray C.D. (1996) The Martian atmosphere as a meteoroid 
+detector. Icarus. 119(1). pp. 144–152. doi: 10.1006/icar.1996.0007 
+
+13. Baldwin B., Sheaffer Y. (1971) Ablation and breakup of large meteoroids during atmospheric 
+entry. Journal of Geophysical Research. 76(19). pp. 4653–4668. doi: 10.1029/JA076i019p04653 
+
+14. Passey Q.R., Melosh H.J. (1980) Effects of atmospheric breakup on crater field formation. 
+Icarus. 42(2). pp. 211–233. doi: 10.1016/0019-1035(80)90072-X 
+
+15. Popova O., Borovička J., Hartmann W. K., Spurný P., Gnos E., Nemtchinov I., Trigo‐
+Rodríguez J.M. (2011) Very low strengths of interplanetary meteoroids and small asteroids. 
+Meteoritics & Planetary Science. 46(10). pp. 1525–1550. doi: 10.1111/j.1945-
+5100.2011.01247.x 
+
+16. Popova O., Borovicka J., Campbell-Brown M. (2019) Modelling the entry of meteoroids.  
+In: Meteoroids, Sources of Meteor on Earth and Beyond. Cambridge University Press, New 
+York. pp. 9–36. 
+
+17. Frost M.J. (1969) Size and spacial distribution in meteoritic showers. Meteoritics. 4(3). 
+pp. 217–232. doi: 10.1111/j.1945-5100.1969.tb01270.x 
+
+18. Holsapple K.A., Housen K.R. (2007) A crater and its ejecta: An interpretation of Deep  
+Impact. Icarus. 191(2). pp. 586–597. doi: 10.1016/j.icarus.2006.08.035 
+ 
+
+Сведения об авторах: 
+Подобная Елена Дмитриевна – младший научный сотрудник Института динамики гео-
+сфер им. академика М.А. Садовского РАН, Москва, Россия. E-mail: epodobnaya@gmail.com 
+Попова Ольга Петровна – кандидат физико-математических наук, старший научный 
+сотрудник Института динамики геосфер им. академика М.А. Садовского РАН, Москва, 
+Россия. E-mail: olga@idg.chph.ras.ru 
+Глазачев Дмитрий Олегович – научный сотрудник Института динамики геосфер им. ака-
+демика М.А. Садовского РАН, Москва, Россия. E-mail: glazachevd@gmail.com 
+ 
+Information about the authors: 
+Podobnaya Elena D. (Junior Researcher, Sadovsky Institute of Geosphere Dynamics Russian 
+Academy of Science, Moscow, Russian Federation). E-mail: epodobnaya@gmail.com 
+Popova Olga P. (Senior Researcher, Candidate of Physics and Mathematics, Sadovsky Institute 
+of Geosphere Dynamics Russian Academy of Science, Moscow, Russian Federation). E-mail: 
+olga@idg.chph.ras.ru 
+Glazachev Dmitry O. (Researcher, Sadovsky Institute of Geosphere Dynamics Russian Acade-
+my of Science, Moscow, Russian Federation). E-mail: glazachevd@gmail.com 
+ 
+
+Статья поступила в редакцию 09.06.2022; принята к публикации 01.12.2022 
+ 
+
+The article was submitted 09.06.2022; accepted for publication 01.12.2022 
+ 
+
+107

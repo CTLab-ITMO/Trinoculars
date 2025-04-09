@@ -1,0 +1,759 @@
+﻿50
+УДК 656 .001 .57 НАУКА И ТЕХНИКА
+
+Цифровая железная 
+дорога: принципы 
+
+и технологии 
+Виктор ЦВЕТКОВ
+Victor Ya.TSVETKOV
+
+Лёвин Борис Алексеевич –  доктор технических 
+наук, профессор, ректор Российского 
+университета транспорта (МИИТ), Москва, 
+Россия.
+Цветков Виктор Яковлевич –  доктор технических 
+наук, профессор, заместитель руководителя 
+центра стратегического анализа и развития 
+НИИАС, Москва, Россия. 
+
+Борис ЛЁВИН
+Boris A. LYOVIN Цифровые технологии перестраива-
+
+ют многие отрасли промышленно-
+сти,  включая  бизнес,  транспорт 
+
+Digital Railway: 
+Principles and Technologies и логистику [1] . Цифровая железная доро-
+
+(текст статьи на англ. яз. –  English text of га является одним из следствий появления 
+the article – p . 57) цифровой  экономики .  При  этом  следует 
+
+отметить терминологическую особенность .
+Статья посвящена исследованию Термины  «цифрование»,  «дигитализа-
+
+цифровой железной дороги как ция», «цифровизация» соответствуют ан-
+сложной технико‑технологической 
+
+системы, имеющей связь с цифровой глийскому digitalization . В России термин 
+экономикой. Показаны основные «дигитализация»  стандартизован  в  ГОСТ 
+
+технологические компоненты Р 52438-2005 . В цифровой экономике при-
+цифровой железной дороги. Описаны меняют термин digitization, который бук-
+
+принципы блокового управления, вально  означает  «отцифровка» .  Однако 
+принципы радионаблюдения, 
+
+взаимозависимости цифровой в области экономики и транспорта у него 
+логистики и цифровой железной другой русский эквивалент, нестандарти-
+
+дороги. Подчёркиваются роль зованный термин «цифровизация» . С точ-
+киберфизических систем в развитии ки зрения лингвистики это неправильно, 
+
+цифровой железной дороги, но с технологической допустимо и оправ-
+перспективы цифровизации данно . Допустимость обусловлена тем, что 
+
+в обеспечении безопасной 
+автоматизации и бесшовной классическая дигитализация связана с по-
+
+интеграции всех видов транспорта. лучением  дискретной  информации  для 
+обработки  её  на  компьютере  и  хранении 
+
+Ключевые слова: транспорт, управление, в  базе  данных .  То  есть  довольно  простое 
+цифровая железная дорога, сложные и узкое понятие .
+
+системы, цифровая экономика, Цифровизация в первоисточнике имеет 
+цифровая логистика, цифровые модели, 
+
+блоковое управление. более широкое значение, но многие рос-
+сийские публикации трактуют её содержа-
+
+• МИР ТРАНСПОРТА, том 16, № 3, С. 50–61 (2018)
+
+SCIENCE AND ENGINEERING
+
+
+
+тельно  как  дигитализацию,  чем  теряется  няты мировым сообществом и не вызыва-
+смысл  применения  термина .  Цифровая  ют критики до настоящего времени .
+железная дорога как технология возникла  Остановимся на тех признаках, которые 
+и  развивается  не  изолированно,  а  вместе  относительно редко встречаются в русско-
+с технологиями цифрового транспорта [2],  язычной  литературе .  Наиболее  важный 
+цифровой  логистики  [3],  цифровой  ком- термин –  цифровизация (digitization) или 
+муникации [4], цифрового бизнеса [5] и так  цифровка .  Ключевым  отличием  в  этом 
+далее до киберфизических систем [6] . термине являются знания .
+
+Как  сущность  цифровая  железная  до- Цифровизация  –   группа  технологий, 
+рога  (ЦЖД)  представляет  из  себя  комп- в  результате  функционирования  которых 
+лексную  систему,  содержащую  сложные  знания могут храниться в цифровой форме . 
+технологические  системы  [7],  сложные  В старой экономике, где информация оста-
+технические системы [8], системы вычис- валась аналоговой или физической, обще-
+лительной  обработки  информации,  ком- ние  было  возможным  только  благодаря 
+муникационные системы, навигационные  фактическому перемещению людей . В но-
+системы [9], технологии интернета вещей  вой экономике цифровая форма, обеспе-
+[10] и другие структурные элементы . По- чиваемая  цифровыми  устройствами,  по-
+этому с системных позиций можно харак- зволяет в кратчайшие сроки свободно пе-
+теризовать  ЦЖД  как  сложную  технико- ремещать огромное количество информа-
+технологическую  систему .  Как  феномен  ции  и  знаний  между  людьми  в  разных 
+она  связана  с  цифровой  экономикой,  частях мира .
+и именно из её особенностей проистекают  Виртуализация в цифровой экономике 
+и многие особенности ЦЖД . означает  комплекс  технологий,  с  помо-
+
+щью которых можно превращать физиче-
+ЦИФРОВАЯ ЭКОНОМИКА ские и материальные вещи в виртуальные . 
+КАК МЕТОДОЛОГИЧЕСКАЯ ОСНОВА Этим  достигаются  сжатие  информации 
+
+Новая экономика возникла после чет- и  когнитивный  эффект  обозримости 
+вёртой информационной революции [11],  и воспринимаемости [13] больших объё-
+которую  также  называли  «цифровой» .  мов  информации,  которые  в  обычных 
+Экономику, связанную с цифровой рево- технологиях созд  ают для человека инфор-
+люцией,  некоторые  представляют  новой  мационный барьер .
+или сетевой . Однако в 1994 году Дон Тап- Молекуляризация (molecularization)  – 
+скот  в  книге  «Цифровая  экономика:  на- переносное  понятие,  состоит  в  том,  что 
+дежды и опасность в эпоху интеллектуаль- традиционные организационные структуры 
+ных сетей» [12] выделил цифровую эконо- уступают  место  более  гибкой  и  мелкой 
+мику  из  прежней  сетевой  экономики .  структуре . Команды проекта являются нор-
+И она может быть рассмотрена как кластер  мой, когда люди из всех уголков мира соби-
+и  результат  развития  новой  экономики .  раются вместе . В новой экономике это будет 
+Следует отметить, что в три последующих  «светлая  организация»,  которая  выживет 
+года (1995, 1996, 1997) Тапскот написал ещё  «тяжёлые организации», которым сложнее 
+три  книги  с  точно  таким  же  названием .  измениться и адаптироваться к статическим 
+В  каждой  он  проводил  корректировку  условиям . Частично примером молекуляри-
+и уточнение, но основные принципы, из- зации могут служить стартапы .
+ложенные в [12], остались неизменными . Дезинтермедиация (disintermediation) – 
+
+Принципиальным  является  то,  что  процесс, при котором действия посредни-
+в своей книге Д . Тапскот даёт 12 признаков  ков существенно сокращаются . Примером 
+цифровой  экономики:  знание,  цифрови- является бесскладовая торговля или интер-
+зация (digitization), виртуализация, моле- нет-торговля . Этот процесс требует более 
+куляризация  (molecularization),  интегра- тесной связи предприятий с потребителя-
+ция/сетевая  работа,  дезинтермедиация  ми напрямую .
+(disintermediation), конвергенция, иннова- 51
+
+Конвергенцией называют доминирую-
+ционность, презумптивность (prosumption),  щий сектор экономики, который создаётся 
+информированность,  глобализация,  раз- путём сближения вычислений, коммуни-
+ногласия (discordance) . Эти признаки при- кации и контента .
+
+• МИР ТРАНСПОРТА, том 16, № 3, С. 50–61 (2018)
+
+Лёвин Б. А., Цветков В. Я. Цифровая железная дорога: принципы и технологии
+
+
+
+52 Цифровая 
+экономика
+
+Цифровой Цифровая Цифровые бизнес- 
+транспорт логистика модели
+
+Цифровая 
+коммуникация и Цифровая Цифровое 
+
+ЦД железная дорога управление и ЦМ
+
+Пространственный Космические 
+мониторинг ГИС технологии технологии
+
+Цифровая Киберфизические Интеллектуальное 
+безопасность системы управление
+
+Рис. 1. Место цифровой железной дороги среди сложных технико‑технологических систем.
+
+Презумптивность (prosumption) –  про- мотными – «  неимущими» растёт и может 
+цесс, который сменяет массовое производ- вызвать серьёзные проблемы для общества 
+ство традиционной экономики на массо- в ближайшем будущем . Изменения в эко-
+вую настройку (компьютерных) продуктов  номике делают возможным создание новых 
+в цифровой экономике, стирает различия  типов  организаций,  где  применение  ин-
+между производителями и клиентами . Од- формационных  технологий  для  работы 
+нако он требует высокой информационной  в области знаний повысит эффективность 
+культуры от клиента . Например, различные  потребителей и эффективность организа-
+государственные электронные услуги, по- ций .
+купка электронных билетов и регистрация 
+через  компьютер  не  доступны  лицам,  не  МЕСТО ЦЖД СРЕДИ СЛОЖНЫХ 
+имеющим компьютерной подготовки . При  СИСТЕМ
+этом  каждый  потребитель  становится  Как сложная технико-технологическая 
+участником информационной магистрали,  система ЦЖД  связана и  взаимодействует 
+создавая и отправляя сообщение на заказ  с другими сложными системами и направ-
+или определяя своё мнение о продукте или  лениями [14] (рис . 1) .
+услуге, которые он покупает . Цифровая экономика служит, уже под-
+
+Разногласия (discordance) – н  егативный  чёркивалось,  методологической  основой 
+процесс, связанный с расслоением клиен- ЦЖД .  Цифровой  транспорт  [2]  является 
+тов по признаку информационной культу- более общим понятием и включает в себя 
+ры . Для любого нового явления происходит  ЦЖД . В настоящее время существует не-
+сопротивление  среды,  части  общества  обходимость в единой транспортной поли-
+и медленная адаптация к нему . В результа- тике [15] и это требует, чтобы ЦЖД была 
+те возникают технологические конфликты .  комплементарна другим видам цифрового 
+Разрыв между технологически грамотны- транспорта .  Как  отражение  этого  факта 
+ми –  «имущими» и технологически негра- в Евросоюзе создана Европейская система 
+
+• МИР ТРАНСПОРТА, том 16, № 3, С. 50–61 (2018)
+
+Лёвин Б. А., Цветков В. Я. Цифровая железная дорога: принципы и технологии
+
+
+
+Рис. 2. Технология радионаблюдения.
+
+управления железнодорожным движением  ки  человека  и  целенаправленное  вреди-
+(ERTMS), включая Европейскую систему  тельство или внешние угрозы . Для эффек-
+управления  движением  поездов  (ETCS)  тивной  политики  информационной 
+и мобильные сети GSM-R для обеспечения  безопасности и отражения внешних и внут-
+связи между поездами и подвижными бло- ренних  угроз  широко  используют  кибер-
+ками  [16] .  В  практическом  аспекте  ЦЖД  физические системы .
+подчинена интересам цифровой логистики 
+[3] и цифрового бизнеса [5] . НЕКОТОРЫЕ ТЕХНОЛОГИЧЕСКИЕ 
+
+Цифровая коммуникация [4] является  РЕШЕНИЯ
+обязательной для ЦЖД . Её особенность  Радионаблюдение . На рис . 2 поясняется 
+в  том,  что  она  создаёт  возможности  его сущность . Для реализации технологии 
+радио наблюдения в дополнение к видео- вся  трасса  железной  дороги  должна  быть 
+наблюдению  в  обычном  транспорте .  оборудована  станциями  радиоконтроля, 
+Цифровая железная дорога требует новой  чтобы подвижный объект всегда находился 
+цифровой  (информационной)  техноло- в зоне наблюдения .
+гии управления [17], а будучи простран- Этo технология наземного наблюдения, 
+ственным объектом, нуждается в приме- и она не связана со спутниковой навигаци-
+нении геоинформационных технологий,  ей, а дополняет её . В России такой радио-
+технологий  космического  наблюдения  контроль существует в особо охраняемых 
+и комплексного пространственного мо- зонах . Поэтому распространить эту техно-
+ниторинга [18] . Многие ситуации управ- логию на железную дорогу не представля-
+ления  ЦЖД  исключают  возможность  ется сложным . Радионаблюдение включа-
+оперативной реакции человека, поэтому  ет  пеленгацию  подвижного  объекта  [19] 
+всё  большее  распространение  получают  с учётом его движения по трассе, цифровая 
+элементы интеллектуального управления  модель которой известна .
+или  интеллектуальные  транспортные  Для реализации этой технологии под-
+системы . вижные  средства  и  даже  каждый  вагон  53
+
+Цифровая коммуникация актуализиру- должны быть дополнительно к приёмни-
+ет проблему информационной безопасно- кам GPS/ГЛОНАСС оборудованы радио-
+сти в двух аспектах: неумышленные ошиб- частотными метками .
+
+• МИР ТРАНСПОРТА, том 16, № 3, С. 50–61 (2018)
+
+Лёвин Б. А., Цветков В. Я. Цифровая железная дорога: принципы и технологии
+
+
+
+54
+
+Блок Блок Блок Блок 
+Сигнал Сигнал Сигнал Сигнал
+
+Рис. 3. Принцип обычного движения.
+
+Подвижный Подвижный Подвижный Подвижный 
+блок блок блок блок
+
+Рис. 4. Принцип использования подвижных блоков сигнализации.
+
+Технология подвижных сигнальных бло- ным  управлением .  В  цифровом  аспекте 
+ков (Moving block signaling) . Эта технология  такой  механизм  предполагает  переход  от 
+поясняется на рис . 3 и 4 . Обычное движе- точечных цифровых моделей объектов к ин-
+ние можно определить как сигнально-бло- тервальным, что описано в [21] .
+ковое . Между поездами существуют блоки,  Подвижный блок эффективно поддер-
+движение по которым разрешено оптиче- живает  безопасный  «конверт»  пустой  до-
+скими  и  дополнительными  сигналами .  рожки вокруг каждого поезда (рис . 4), ко-
+Если сигнал разрешающий, то происходит  торый  перемещается  вместе  с  ним .  Этот 
+движение . При запрещающем транспорт- конверт может быть адаптирован для соот-
+ное средство стоит . ветствия  скорости  поезда,  оптимизируя 
+
+В технологии подвижных блоков сигна- пропускную способность линии в разных 
+лизации (рис . 4) подвижный объект содер- ситуациях .
+жит внутреннюю информационно-вычис-
+лительную  систему  [16]  и  представляет  ЦИФРОВАЯ ЛОГИСТИКА 
+собой для других объектов систему, которая  Цифровизация – о  дин из главных при-
+осуществляет  с  ними  информационное  оритетов  для  железнодорожного  сектора 
+взаимодействие [20] . и его будущего . Задача заключается в том, 
+
+Система подвижных сигнальных блоков  чтобы предложить своим клиентам высо-
+определяется в реальном времени компью- коэффективные и привлекательные вари-
+терами в виде безопасных зон вокруг каж- анты перевозок и максимально использо-
+дого поезда [16] . Подвижный блок позволя- вать  возможности, предлагаемые цифро-
+ет поездам сближаться, сохраняя при этом  выми преобразованиями . Рост цифровых 
+требуемые пределы безопасности, тем са- данных  приводит  к  необходимости  все 
+мым увеличивая общую пропускную спо- чаще применять технологию Big Data [22], 
+собность линии . Определение блока требу- анализировать информацию, оптимизиро-
+ет знания точного местоположения данно- вать свою деятельность, цепочки поставок .
+го  поезда,  а  также  скорости  всех  поездов  Автоматизация построения логистиче-
+в  любой  момент  времени  и  постоянной  ской  цепочки  и  оптимизация  входящего 
+связи между центральной сигнализацией  и  исходящего  движения  груза  позволяют 
+и системой сигнализации кабины . Это на- рационально  использовать  имеющиеся 
+зывают интегрированным или интеграль- ресурсы,  сокращать  отходы .  Мобильные 
+
+• МИР ТРАНСПОРТА, том 16, № 3, С. 50–61 (2018)
+
+Лёвин Б. А., Цветков В. Я. Цифровая железная дорога: принципы и технологии
+
+
+
+Рис. 5. Применение БПЛА для погрузочно‑разгрузочных работ.
+
+решения обеспечивают большую прозрач- ратов .  В  таких  странах,  как  Испания, 
+ность операций . Цифровая система управ- Франция,  Чешская  Республика,  есть  не-
+ления  запасами  и  цепочками  поставок  сколько исследовательских проектов, изу-
+облегчает сквозную видимость для инвен- чающих  возможности  беспилотных  лета-
+таризации, заказов и поставок . тельных аппаратов для управления трафи-
+
+Наряду с Big Data в бизнесе появился  ком .  Их  использование  значительно 
+новый термин «богатство данных» . Логи- ускорит работу, уменьшит трудности, на-
+стические компании применяют богатство  пряжение и неэффективность (рис . 5) .
+данных, связанных с перемещением своих  Например, AmazonPrimeAir уже реали-
+товаров и грузовых автомобилей, для оп- зует отгрузку [23] с помощью беспилотных 
+ределения  моделей,  отвечающих  тенден- летательных  аппаратов  менее  чем  за  30 
+циям клиентов и поиска того, что хорошо  минут после того, как клиенты разместили 
+работает,  чтобы  получать  конкурентные  заказ . Когда эта технология станет широко 
+преимущества . распространённой, логистика существенно 
+
+Логистические  компании  прибегают  изменится .
+к  цифровым  технологиям  не  только  для 
+повышения эффективности операций, но  В ПОРЯДКЕ ДИСКУССИИ
+и для анализа операций и их преобразова- В ряде работ ЦЖД ошибочно называют 
+ния . Использование  роботов на  больших  моделью . Это реальная технико-техноло-
+складах  и  при  обращении  с  опасными  гическая  система,  а  система  управления 
+грузами уже широко распространено, как  цифровой дорогой может быть рассмотре-
+и практика обходиться без водителя-опе- на как сложная организационно-техниче-
+ратора,  ограничиваясь  дистанционным  ская система [14] . Сводить сложную систе-
+управлением . му к модели некорректно .
+
+Следующая важная деталь в цифровой  Часто в материалах о ЦЖД не уделяют 
+логистике – п  рименение дронов [23], осо- должного  внимания  технологии  органи-
+бенно  для  доставки  груза  на  «последней  зации  данных,  хотя  по  стандартам  ISO/ 55
+миле» . Правительство США уже запустило  IEC9126–1 . 2001 и ГОСТ 28195–89 имен-
+пилотную  систему  мониторинга  трафика  но организация данных является одним из 
+на основе беспилотных летательных аппа- трёх компонентов качества любых инфор-
+
+• МИР ТРАНСПОРТА, том 16, № 3, С. 50–61 (2018)
+
+Лёвин Б. А., Цветков В. Я. Цифровая железная дорога: принципы и технологии
+
+
+
+мационных систем. Информационные 5. Brousseau E., Pénard T. The economics of digital 
+
+56 системы в составе ЦЖД –  элемент перво­ business models: A framework for analyzing the economics 
+of platforms // Review of network Economics. – 2007. – 
+
+степенный, с определяющими функция­ V. 6. –  No. 2. – P p. 81–114.
+ми. 6. Khaitan [et al]. «Design Techniques and Applications 
+
+Применительно к российским условиям of Cyber Physical Systems: A Survey», IEEE Systems 
+Journal, 2014, V. 9(2), рp. 1–16. DOI: 10.1109/
+
+упускается и столь серьёзный фактор, как JSYST.2014.2322503.
+координатные преобразования. Для неболь­ 7. Буравцев А. В. Сложные технологические сис­
+
+ших стран типа Великобритании эта проб­ темы // Славянский форум. – 2017. – № 3. – С . 14–19.
+8. Цветков В. Я. Сложные технические системы 
+
+лема не существует. Для государств с боль­ // Образовательные ресурсы и технологии. – 2017. – 
+шой территорией зональные преобразова­ № 3. – С . 86–92.
+ния становятся необходимым условием 9. Розенберг И. Н., Цветков В. Я., Рома­
+
+нов И. А. Управление железной дорогой на основе 
+точного определения местоположения спутниковых технологий // Государственный совет­
+транспортного средства в единой коорди­ ник. – 2013. – № 4. – С . 43–50.
+натной среде. Связана с ней и проблема 10. Дешко И. П., Кряженков К. Г., Цвет­
+
+ков В. Я. Устройства, модели и архитектуры Интер­
+единого времени. нета вещей: Учеб. пособие. – М .: Макс Пресс, 2017. – 
+
+88 с.
+ЗАКЛЮЧЕНИЕ 11. Поляков А. А., Цветков В. Я. Прикладная 
+
+информатика. –  М.: Янус­К, 2002. – 392 с.
+Цифровизация может и должна обеспе­ 12. Tapscott D. The Digital Economy. Promise and 
+
+чивать безопасную автоматизацию и бес­ Peril in the Age of Networked Intelligence.  McGraw­Hill 
+шовную интеграцию всех видов транспор­ Published, 1994, 368 p.
+
+13. Цветков В. Я. Когнитивное управление: Мо­
+та, а также увеличение пропускной способ­ нография. –  М.: Макс Пресс, 2017. – 72 с.
+ности и качества различных видов транс­ 14. Буравцев А. В. Функционирование сложной 
+порта.  организационно­технической системы в транспорт­
+
+Интернет вещей вносит свой вклад в вы­ ной сфере // Наука и технологии железных дорог. – 
+2017. – № 3. – С . 48–58.
+
+сокоинтегрированные решения, удобные для 15. Розенберг И. Н. О единой транспортной по­
+управления транспортом, что помогает реа­ литике // Наука и технологии железных дорог. – 
+
+лизовать проект ЦЖД и цифровой логисти­ 2017. – № 1. – С . 22–26.
+16. A digital future for Britain’s railway to benefit 
+
+ки. Приложения IoT в цифровой логистике passengers and support economic growth. [Электронный 
+широко применяются: от отслеживания ресурс]: https://www.networkrail.co.uk/our­railway­
+
+транспортных товаров с контролируемым upgrade­plan/digital­railway/. Доступ 11.02.2018.
+17. Замышляев А. М. Информационное управле­
+
+температурным режимом до обеспечения ние в транспортной сфере // Наука и технологии 
+правильной доставки пакета в нужное место железных дорог. – 2017. – № 4. –  С. 11–24.
+
+в указанное время. Проект ЦЖД целесо­ 18. Лёвин Б. А. Комплексный мониторинг транс­
+портной инфраструктуры // Наука и технологии же­
+
+образно реализовать как проект сложной лезных дорог. – 2017. – № 1. –  С. 14–21.
+интегрированной сис темы с включением 19. Розенберг Е. И., Розенберг И. Н., Цвет­
+
+в неё киберфизических систем. ков В. Я., Шевцов Б. В. Устройство контроля подвиж­
+ного объекта. Патент на полезную модель. № RU95851 
+U1. Зарегистр. 10.07.2010.
+
+ЛИТЕРАТУРА 20. Tsvetkov V. Yа. Information interaction // 
+1. Замышляев А. М. Эволюция цифрового моде­ European researcher. Series A. 2013, Iss. 11–1 (62), 
+
+лирования // Наука и технологии железных дорог. – pp. 2573–2577.
+2017. – № 1. –  С. 82–91. 21. Цветков В. Я. Интегральное управление вы­
+
+2. Keck W. H., Emberson D. A. Posting status data in сокоскоростной магистралью // Мир транспорта. – 
+digital transport stream processing: пат. 7817721 США. – 2013. – № 5. – C . 6–9.
+2010. 22. Данилов К. В., Капустин Н. И. Технологии Big 
+
+3. Digital transformation in transportation and Data в железнодорожной отрасли инфраструктуры // 
+logistics. [Электронный ресурс]: https://www.i­scoop. Наука и технологии железных дорог. – 2017. – № 4. – 
+eu/digital­transformation/transportation­logistics­supply­ С. 25–33.
+chain­management/. Доступ 11.02.2018. 23. Лёвин Б. А., Бугаев А. С., Ивашов С. И., Разе­
+
+4. Шнепс­Шнеппе М. А., Федорова Н. О., Сукон­ виг В. В. Дистанционно­пилотируемые летательные 
+ников Г. В.,  Куприяновский В. П. Цифровая железная аппараты и безопасность пути // Мир транспорта. – 
+дорога и переход от сети  GSM­R к LTE­R и 5G­R – 2013. – № 2. – С . 152–157.
+состоится ли он? International Journal of Open 24. D’Andrea R. Can drones deliver? // IEEE 
+Information Technologies. – 2017. –  V. 5. – No. 1. – Transactions on Automation Science and Engineering. – 
+Pp. 71–80. 2014. – V . 11. – No. 3. – P p. 647–648. •
+
+Координаты авторов: Лёвин Б. А. –  tu@miit.ru, Цветков В. Я. – c vj2@mail.ru.
+
+Статья поступила в редакцию 11.02.2018, принята к публикации 04.04.2018.
+
+• МИР ТРАНСПОРТА, том 16, № 3, С. 50–61 (2018)
+
+Лёвин Б. А., Цветков В. Я. Цифровая железная дорога: принципы и технологии
+
+
+
+DIGITAL RAILWAY: PRINCIPLES AND TECHNOLOGIES
+
+Lyovin, Boris A., Russian University of Transport, Moscow, Russia.
+Tsvetkov, Victor Ya., JSC Research & Design Institute for Information Technology, Signalling and 
+
+Telecommunications, Moscow, Russia. 
+
+ABSTRACT of radio monitoring, interdependence of digital logistics 
+The article is devoted to the study of a digital railway and digital railway are described. The role of cyber 
+
+as of a complex technical and technological system physical systems in development of the digital railway, 
+having a connection with the digital economy. The main the prospects of digitalization in ensuring safe 
+technological components of the digital railway are automation and seamless integration of all modes of 
+shown. The principles of block management, principles transport are emphasized. 
+
+Keywords: transport, management, digital railway, complex systems, digital economy, digital logistics, 
+digital models, block management. 
+
+Background. Digital technologies rebuild many Methods. The authors use general scientific and 
+industries, including business, transportation and engineering methods, comparative analysis, 
+logistics [1]. The digital railway is one of the evaluation approach.
+consequences of emergence of the digital economy. Results.
+In this case, the terminological feature should be Digital economy as a methodological basis
+noted. The new economy arose after the fourth information 
+
+Some Russian terms [originally cited in Russian] revolution [11], which was also called «digital». Some 
+correspond to the English digitalization. In Russia, the people consider the economy associated with the 
+term «digitalization» [Russian transliteration of English digital revolution as new or networked. However, in 
+digitalization] is standardized in GOST R52438–2005. 1994 Don Tapscott in the book «The Digital Economy. 
+In the digital economy, the term digitization is used, Promise and Peril in the Age of Networked Intelligence» 
+which literally means «transforming into digital form». [12] singled out the digital economy from the previous 
+However, in the field of economy and transport, it has network economy. And it can be considered as a cluster 
+another Russian equivalent, a non-standardized term and a result of development of a new economy. It 
+[russified equivalent of both digitalization and should be noted that during three subsequent years 
+digitization that makes no substantial difference (1995, 1996, 1997) Tapscott wrote three more books 
+between both terms]. From the point of view of with exactly the same name. He updated and modified 
+linguistics, this is wrong, but from the technological each of them, but the basic principles stated in [12] 
+point of view it is permissible and justifiable. remained unchanged.
+Admissibility is due to the fact that classical Principally, in his book, D. Tapscott gives 12 
+digitalization involves obtaining discrete information themes that differentiate digital economy from the old 
+for processing it on a computer and storing it in a ones: knowledge, digitization, virtualization, 
+database. That is a fairly simple and narrow concept. molecularization, internetworking, disintermediation, 
+
+The last term in the primary source has a broader convergence, innovation, prosumption, immediacy, 
+meaning, but many Russian publications treat it globalization, discordance. These themes are 
+meaningfully as digitalization, what makes the term accepted by the world community and have not 
+meaningless1. The digital railway as a technology has caused criticism till now.
+arisen and is developing not isolated, but along with Let us dwell on those features that are relatively 
+the technologies of digital transport [2], digital logistics rare in the Russian-language literature. The most 
+[3], digital communication [4], digital business [5] and important term is digitization. The key difference in 
+so on up to cyber physical systems [6]. this term is knowledge.
+
+As the essence, the digital railway (DR) is a Digitalization is a group of technologies through 
+complex system containing complex technological which knowledge can be stored digitally. In the old 
+systems [7], complex technical systems [8], economy, where the information remained analog or 
+information processing systems, communication physical, communication was possible only thanks to 
+systems, navigation systems [9], technologies of the actual movement of people. In the new economy, 
+Internet of things [10] and other structural elements. the digital form provided by digital devices allows the 
+Therefore, from the system positions it is possible to huge amount of information and knowledge to be 
+characterize DR as a complex technical and freely transferred in the shortest possible time 
+technological system. As a phenomenon it is between people in different parts of the world.
+connected with the digital economy and it is from its Virtualization in the digital economy means a set 
+features that many features of DR derive. of technologies that can be used to turn physical and 
+
+Objective. The objective of the authors is to material things into virtual ones. This ensures the 
+consider principles and technologies of digital railway. compression of information and the cognitive effect 
+
+of visibility and perceptibility [13] of large amounts of 
+1On  the  whole  the  authors  are  dealing  with  specific  information, which in conventional technologies 
+Russian context of terms of digitization, digitalization and  create an information barrier for a person.
+digital transformation, which is close e .g . to the positions  Molecularization is a metaphorical concept, that 
+described  in    Jason  Bloomberg’s  paper  «Digitization,  traditional organizational structures give way to a more 
+Digitalization,  And  Digital  Transformation:  Confuse  flexible and shallow structure. Project teams are the 
+Them  At  Your  Peril»  (https://www .forbes .com/sites/ norm when people from all corners of the world come 57
+jasonbloomberg/2018/04/29/digitization-digitalization- together. In the new economy, this will be a «bright 
+and-digital-transformation-confuse-them-at-your- organizat ion» that wi l l  l iv e through «heavy 
+peril/#53bcb6cb2f2c) .  Further  approach  of  the  authors  organizations», for which it is more difficult to change 
+to  digital  railway  is  described  rather  in  terms  of  digital  and adapt to static conditions. Startups can serve as 
+transformation . Ed . note . an example of molecularization.
+
+• WORLD OF TRANSPORT AND TRANSPORTATION, Vol. 16, Iss. 3, pp. 50–61 (2018)
+
+Lyovin, Boris A., Tsvetkov, Victor Ya. Digital Railway: Principles and Technologies
+
+
+
+58 Digital economy
+
+Digital transport Digital logistics Digital business 
+models
+
+Digital 
+communication and Digital railway Digital control 
+
+DD and DM
+
+Spatial monitoring Space technologies
+GIS technologies
+
+Cyber physical Intelligent 
+Digital safety systems management
+
+Pic. 1. Place of the digital railway among complex technical and technological systems.
+
+Disintermediation is a process in which the actions The digital economy serves, as already stressed, 
+of intermediaries are significantly reduced. An as a methodological basis of DR. Digital transport [2] 
+example is a stock-free trade or Internet trading. This is a more general concept and includes DR. At 
+process requires a closer and immediate connection present, there is a need for a common transport policy 
+of enterprises with consumers. [15] and this requires that DR is complementary to 
+
+Convergence is the name for the dominant sector other types of digital transport. As a reflection of this 
+of the economy, which is created by convergence of fact, the European Railway Traffic Management 
+computing, communication and content. System (ERTMS), including the European Train 
+
+Prosumption is a process that replaces the mass Control System (ETCS) and GSM-R mobile networks 
+production of the traditional economy by the mass for providing communication between trains and 
+tuning or adjustment of (computer) products to the moving blocks has been established in the European 
+digital economy, blurring the differences between Union [16]. In practical terms, DR is subordinated to 
+producers and customers. However, it requires a high the interests of digital logistics [3] and digital 
+information culture from the client. For example, business [5].
+various state electronic services, the purchase of Digital communication [4] is mandatory for DR. 
+electronic tickets and registration through a computer Its feature is that it creates the possibility of radio 
+are not available to persons who have not got monitoring in addition to video surveillance in 
+computer training. At the same time, each consumer conventional transport. The digital railway requires a 
+becomes a member of the information main line, new digital (information) control technology [17], and 
+creating and sending a message to order a product as a spatial object requires the use of geoinformation 
+or expressing his opinion about the product or service technologies, space monitoring technologies and 
+that he buys. integrated spatial monitoring [18]. Many situations of 
+
+Discordance is a negative process associated with management of DR exclude the possibility of an 
+stratification of customers on the basis of information immediate reaction of a person, therefore, elements 
+culture. Any new phenomenon comes across the of intellectual control or intelligent transportation 
+resistance of the environment, of a part of society and systems are becoming more widespread.
+a slow adaptation to it. As a result, technological Digital communication actualizes the problem of 
+conflicts arise. The gap between technologically information security in two aspects: unintentional 
+l i t e r a t e  « p r o p e r t i e d »  a n d  t e c h n o l o g i c a l l y human errors and targeted sabotage or external 
+illiterate «underprivileged» is growing and can cause threats. For an effective information security policy 
+serious problems for society in the near future. and to reflect external and internal threats, cyber 
+Changes in the economy make it possible to create physical systems are widely used.
+new types of organizations, where the use of Some technological solutions
+information technology to work in the field of Radio monitoring. Pic. 2 explains its essence. To 
+knowledge will increase the effectiveness of implement the technology, the entire railway track 
+consumers and the effectiveness of organizations. must be equipped with radio monitoring stations, so 
+
+Place of DR among complex systems that a mobile object is always in the observation zone.
+As a complex technical and technological system, This is the technology of ground-based monitoring 
+
+DR is connected and interacts with other complex and it is not connected with satellite navigation, but 
+systems and directions [14] (Pic. 1). complements it. In Russia, such radio control exists 
+
+• WORLD OF TRANSPORT AND TRANSPORTATION, Vol. 16, Iss. 3, pp. 50–61 (2018)
+
+Lyovin, Boris A., Tsvetkov, Victor Ya. Digital Railway: Principles and Technologies
+
+
+
+Pic. 2. Technology of radio monitoring.
+
+Block Block Block Block
+Signal Signal Signal Signal
+
+Pic. 3. The principle of conventional traffic.
+
+Moving block Moving block Moving block Moving block
+
+Pic. 4. The principle of using moving block signaling.
+
+in specially protected areas. Therefore, it is not frequency tags in addition to GPS/GLONASS 
+difficult to extend this technology to the railway. Radio receivers.
+monitoring includes the direction-finding of a mobile Moving block signaling technology.  This 59
+object [19], taking into account its movement along technology is explained in Pic. 3 and 4. Conventional 
+a track, the digital model of which is known. motion can be defined as a signal-block movement. 
+
+To implement this technology, vehicles and even Moving trains are  located within the range of blocks, 
+each car must be additionally equipped with radio- motion over which is allowed by optical signals and 
+
+• WORLD OF TRANSPORT AND TRANSPORTATION, Vol. 16, Iss. 3, pp. 50–61 (2018)
+
+Lyovin, Boris A., Tsvetkov, Victor Ya. Digital Railway: Principles and Technologies
+
+
+
+60
+
+Pic. 4. Application of UAV for loading and unloading operations.
+
+additional signals. If the signal is permissive, then movements allow rational use of available resources, 
+motion occurs. If the signal is restrictive, a vehicle to reduce waste. Mobile solutions provide greater 
+does not move. transparency of operations. The digital inventory and 
+
+In moving block signaling technology (Pic. 4), a supply chain management system facilitates end-to-
+mobile object contains an internal information- end visibility for inventory, orders and deliveries.
+computing system [16] and represents for other Along with Big Data, the business has a new term 
+objects a system that carries out information called «data richness». Logistics companies use 
+interaction [20] with other objects. richness of data related to the movement of their 
+
+The system of moving signal blocks is identified goods and trucks to identify models that meet 
+in real time by computers in the form of safe zones customer trends and to find what works well to gain 
+around each train [16]. A moving block allows trains competitive advantage.
+to approach each other, while maintaining the Logistic companies resort to digital technologies 
+required safety limits, thereby increasing the overall not only to increase the efficiency of operations, but 
+line capacity. The identification of the block requires also to analyze operations and transform them. The 
+knowledge about exact location of the train, as well use of robots in large warehouses and when handling 
+as about the speed of all trains at any time and the dangerous goods is already widespread, as well as 
+constant communication between the central are the practices to do without a driver operator, using 
+signaling and the driver’s compartment signaling remote control.
+system. This is called integrated or integral control. The next important detail in digital logistics is the 
+In a digital aspect, such a mechanism involves the use of drones [23], especially for last mile delivery of 
+transition from pointed digital objects models to cargo. The US government has already launched a 
+interval ones, which are described in [21]. pilot traffic monitoring system based on unmanned 
+
+A moving block effectively maintains a safe aerial vehicles. In countries such as Spain, France, 
+«envelope» of an empty track around each train the Czech Republic, there are several research 
+(Pic. 4), which moves with it. This envelope can be projects that study the capabilities of aircraft drones 
+adapted to match the train speed, optimizing the line to control traffic. Their use will significantly speed up 
+capacity in different situations. the work, reduce difficulties, stress and inefficiency 
+
+Digital logistics (Pic. 5).
+Digitalization is one of the main priorities for the For example, AmazonPrimeAir already carries out 
+
+railway sector and its future. The challenge is to offer shipping [23] with unmanned aerial vehicles in less 
+the customers highly effective and attractive than 30 minutes after customers placed the order. 
+transportation options and make the most of the When this technology becomes widespread, logistics 
+opportunities offered by digital conversions. The will change significantly.
+growth of digital data leads to the need to increasingly As a matter of discussion
+use the Big Data technology [22], analyze information, In a number of works, DR is mistakenly called a 
+optimize its activities, supply chain. model. This is a real technical and technological 
+
+Automating the construction of the supply chain system, and the digital railway management system 
+and optimizing the incoming and outgoing cargo can be considered as a complex organizational and 
+
+• WORLD OF TRANSPORT AND TRANSPORTATION, Vol. 16, Iss. 3, pp. 50–61 (2018)
+
+Lyovin, Boris A., Tsvetkov, Victor Ya. Digital Railway: Principles and Technologies
+
+
+
+technical system [14]. It is incorrect to reduce a 8 . Tsvetkov, V . Ya . Complex technical systems [Slozhnye 
+complex system to a model. tehnicheskie sistemy] . Obrazovatel’nye resursy i tehnologii, 
+
+Often in the materials about DR the authors do not 2017, Iss . 3, pp . 86–92 .
+pay due attention to data organization technology, 9 . Rozenberg, I . N ., Tsvetkov, V . Ya ., Romanov, I . A . 
+although according to ISO/IEC9126–1. 2001 and Railway management on the basis of satellite technologies 
+GOST 28195–89, the organization of data is one of [Upravlenie zheleznoi dorogoi na osnove sputnikovyh 
+three components of the quality of any information tehnologii] .  Gosudarstvenniy sovetnik,  2013,  Iss .  4, 
+system. Information systems as a part of DR are an pp . 43–50 .
+element of paramount importance, with key functions. 10 . Deshko, I . P ., Kryazhenkov, K . G ., Tsvetkov, V . Ya . 
+
+As for Russian conditions, the so important Devices, models and architecture of the Internet of things: 
+factor of coordinate transformations is missing to Study  guide  [Ustroistva, modeli i arhitektury Interneta 
+some extent. For small countries such as Great veshchei: uchebnoe posobie] .  Moscow,  Max  Press  publ ., 
+Britain, this problem does not exist. For countries 2017, 88 p .
+with a large territory, zonal transformations 11 . Polyakov, A . A ., Tsvetkov, V . Ya . Applied Informatics 
+become a prerequisite for exact location of a [Prikladnaya informatika] . Moscow, Yanus-K publ ., 2002, 
+vehicle in a single coordinate environment. The 392 p .
+problem of a single time is also connected with it. 12 . Tapscott, D . The Digital Economy . Promise and 
+
+Conclusion. Digitalization [in the meaning of Peril in the Age of Networked Intelligence . McGraw-Hill 
+digital transformation – ed.note]  can and should Published, 1994, 368 p .
+ensure the safe automation and seamless 13 . Tsvetkov, V . Ya . Cognitive management: Monograph 
+integration of all modes of transport, as well as [Kognitivnoe upravlenie: monografia] . Moscow, Max Press 
+growth in carrying capacity and quality of various publ ., 2017, 72 p .
+modes of transport.  14 .  Buravtsev,  A .  V .  Functioning  of  a  Complex 
+
+Internet  of  th ings contr ibutes to highly Organizational  and  Technical  System  in  the  Transport 
+integrated solutions that are convenient for Sphere  [Funktsionirovanie slozhnoi organizatsionno-
+transport management, which helps to realize the tehnicheskoi sistemy v transportnoi sfere] . Nauka i tehnologii 
+project of DR and digital logistics. IoT applications zheleznyh dorog, 2017, Iss . 3, pp . 48–58 .
+in digital logistics are widely used: from tracking 15 . Rozenberg, I . N . On a Unified Transport Policy 
+of transport goods with controlled temperature [O edinoi transportnoi politike] . Nauka i tehnologii zheleznyh 
+conditions to ensuring the correct delivery of the dorog, 2017, Iss . 1, pp . 22–26 .
+package to the right place at the specified time. It 16 .  A  digital  future  for  Britain’s  railway  to  benefit 
+is advisable to implement the project of DR as a passengers  and  support  economic  growth .  [Electronic 
+project of a complex integrated system with resource]:  https://www .networkrail .co .uk/our-railway-
+inclusion of cyber physical systems. upgrade-plan/digital-railway/ . Last accessed 11 .02 .2018 .
+
+17 . Zamyshlyaev, A . M . Information management in 
+the  transport  sphere  [Informatsionnoe upravlenie v 
+
+REFERENCES transportnoi sfere] . Nauka i tehnologii zheleznyh dorog, 2017, 
+1 . Zamyshlyaev, A . M . Evolution of digital modeling  Iss . 4, pp . 11–24 .
+
+[Evolyutsiya tsifrovogo modelirovaniya] . Nauka i tehnologii 18 .  Lyovin,  B .  A .  Complex  monitoring  of  transport 
+zheleznyh dorog, 2017, Iss . 1, pp . 82–91 . infrastructure  [Kompleksniy monitoring transportnoi 
+
+2 . Keck, W . H ., Emberson, D . A . Posting status data  infrastruktury] . Nauka i tehnologii zheleznyh dorog, 2017, 
+in digital transport stream processing: US patent 7817721,  Iss . 1, pp . 14–21 .
+2010 . 19 . Rozenberg, E . I ., Rozenberg I . N ., Tsvetkov, V . Ya ., 
+
+3 .  Digital  transformation  in  transportation  and  Shevtsov,  B .  V .  Device  for  monitoring  a  mobile  object . 
+logistics .  [Electronic resource]: https://www .i-scoop .eu/ Patent  for  utility  model .  No .  RU95851  U1 .  Registered 
+digital-transformation/transportation-logistics-supply- 10.07.2010 [Ustroistvo kontrolya podvizhnogo ob’ekta. Patent 
+chain-management/ . Last accessed 11 .02 .2018 . na poleznuyu model’. No. RU95851 U1.  Zaregistrirovano 
+
+4 . Sneps-Sneppe, M . [et al] . Digital Railway and the  10 .07 .2010] .
+transition from the GSM-R network to the LTE-R and  20 . Tsvetkov, V . Yа . Information interaction . European 
+5G-R-whether  it  takes  place?  International Journal of researcher. Series A . 2013, Iss . 11–1 (62), pp . 2573–2577 .
+Open Information Technologies,  2017,  Vol .  5,  No .  1,  21 .  Tsetkov,  V .  Ya .  Integrated  control  of  high  speed 
+pp . 71–80 . railway .  World of Transport and Transportation,  Vol .  11, 
+
+5 . Brousseau, E ., Pénard, T . The economics of digital  2013, Iss . 5, pp . 6–9 .
+business models: A framework for analyzing the economics  22 .  Danilov,  K .  V .,  Kapustin,  N .  I .  Big  Data 
+of platforms . Review of network economics, 2007, Vol . 6,  Technologies in the Railway Infrastructure Sector [Big Data 
+No . 2, pp . 81–114 . v zheleznodorozhnoi otrasli infrastruktury] . Nauka i tehnologii 
+
+6 . Khaitan [et al] . Design Techniques and Applications  zheleznyh dorog, 2017, Iss . 4, pp . 25–33 .
+of  Cyber  Physical  Systems:  A  Survey .  IEEE Systems 23 . Lievin, B . A ., Bugaev, A . S ., Ivashov, S . I ., Razevig, V . V . 
+Journal,  2014,  Vol .  9(2),  рp .  1–16 .  DOI:  10 .1109/ Distantly piloted aircrafts and the  track security . World of 
+JSYST .2014 .2322503 . Transport and Transportation, Vol . 11, 2013, Iss . 2, pp . 152–157 .
+
+7 .  Buravtsev,  A .  V .  Complex  technological  systems  24 .  D’Andrea,  R .  Can  drones  deliver?  IEEE 
+[Slozhnie tehnologicheskie sistemy] .  Slavyanskiy forum,  Transactions on Automation Science and Engineering, 2014, 
+2017, Iss . 3, pp . 14–19 . Vol . 11, No . 3, pp . 647–648 .  •
+Information about the authors:
+Lyovin, Boris A. –  D.Sc. (Eng), professor, rector of Russian University of Transport, Moscow, Russia,  
+tu@miit.ru. 61
+Tsvetkov, Victor Ya. –  D.Sc. (Eng), professor, deputy head of Center for Strategic Analysis and 
+Development of JSC Research & Design Institute for Information Technology, Signalling and 
+Telecommunications (NIIAS), Moscow, Russia, cvj2@mail.ru.
+
+Article received 11.02.2018, accepted 04.04.2018.
+
+• WORLD OF TRANSPORT AND TRANSPORTATION, Vol. 16, Iss. 3, pp. 50–61 (2018)
+
+Lyovin, Boris A., Tsvetkov, Victor Ya. Digital Railway: Principles and Technologies

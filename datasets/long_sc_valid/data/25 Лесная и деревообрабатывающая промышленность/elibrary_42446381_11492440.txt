@@ -1,0 +1,520 @@
+﻿190                       ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2020. № 1 
+
+ КРАТКИЕ СООБЩЕНИЯ И ОБМЕН ОПЫТОМ 
+ 
+ 
+УДК 674.812.02 
+DOI: 10.37482/0536-1036-2020-1-190-199 
+ 
+ИССЛЕДОВАНИЕ МОДИФИЦИРОВАННОЙ ДРЕВЕСИНЫ  
+МЕТОДОМ ЭЛЕКТРОННОЙ МИКРОСКОПИИ 
+ 
+Шамаев В.А., д-р техн. наук, проф.; ResearcherID: Y-9044-2018,  
+ORCID: 0000-0002-1762-7956 
+Воронежский государственный лесотехнический университет им. Г.Ф. Морозова,  
+ул. Тимирязева, д. 8, г. Воронеж, Россия, 394087; e-mail: drevstal@mail.ru 
+ 
+Модифицирование древесины – распространенный метод улучшения свойств мало-
+ценной древесины мягких лиственных пород. Для повышения прочностных свойств 
+использован метод прессования поперек волокон древесины, предварительно пласти-
+фицированной карбамидом, для улучшения антифрикционных свойств – пропитка 
+минеральным маслом Biol. В целях увеличения теплопроводности в древесину вводят 
+металлический никель в виде сплошной металлической пленки, выстилающей внут-
+реннюю поверхность полостей древесины. Исследования, проведенные на растровом 
+и прямом электронных микроскопах с образцами из каталога позволили установить 
+следующее: карбамид находится в стенках клеток и проявляется в полостях очень 
+резко в виде одиночных кристаллов; прессование древесины, пластифицированной 
+карбамидом, приводит к сплющиванию анатомических элементов без их разрушения; 
+смазка Biol при ее малом содержании растекается пленкой по стенкам клеток и не 
+визуализируется; металлический никель присутствует в древесине в виде пленки и 
+отдельных элементов на стенках клеток. Для него выполнены микроанализы весовой 
+и атомный продольного среза. 
+Для цитирования: Шамаев В.А. Исследование модифицированной древесины мето-
+дом электронной микроскопии // Изв. вузов. Лесн. журн. 2020. № 1. С. 190–199. DOI: 
+10.37482/0536-1036-2020-1-190-199 
+Финансирование: Материалы исследований, представленные в данной статье, полу-
+чены в рамках выполнения государственного задания Минобрнауки России  
+№ 11.3960.2017/4.6. 
+ 
+Ключевые слова: древесина, микростроение, модифицирование, электронная микро-
+скопия. 
+
+Введение 
+ 
+
+Модифицирование древесины – самый распространенный способ улуч-
+шения свойств малоценной древесины мягких лиственных пород [4, 8, 9, 11, 
+13]. В зависимости от назначения это может быть улучшение консервацион-
+ных и прочностных свойств, формостабильности и гидрофобности, биостой-
+кости и др. [7, 10, 19]. В последнее время усилился интерес к модифициро-
+ванной древесине как материалу для изготовления деталей трения [1, 2, 5]. 
+Для этого древесина должна обладать высокой прочностью и износостойко-
+стью, низким коэффициентом трения, хорошей теплопроводностью. 
+
+Во всем мире наиболее распространенным материалом для изготовле-
+ния железнодорожных шпал является древесина ценных твердых лиственных 
+
+
+
+                          ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2020. № 1                       191  
+
+пород. После модифицирования древесина осины и березы приобретает свой-
+ства древесины твердых пород и также применяется для этих целей [15–18, 
+20, 21]. 
+
+Наиболее эффективный способ увеличения прочности и износостойко-
+сти древесины – прессование ее с предварительной пластификацией путем 
+пропитки водным раствором карбамида. При содержании карбамида  
+5...8 % от массы сухой древесины она приобретает способность к значитель-
+ным деформациям без разрушения [14]. Так, при уменьшении объема древе-
+сины в 2 раза плотность прессованной древесины осины становится равной  
+
+3 3
+1000 кг/м , березы – 1200 кг/м . Для снижения коэффициента трения исполь-
+зуется пропитка древесины аэрозолем, содержащим смазку Biol – минераль-
+ное масло с наночастицами графита и дисульфида молибдена [12]. Коэффици-
+ент трения натуральной древесины равен 0,5, а пропитанной антифрикцион-
+ной смазкой – 0,05. Чтобы увеличить теплопроводность древесину обрабаты-
+вают карбонилами металлов, например тетракарбонилом никеля, при терми-
+ческом разложении которого образуется металлический никель в виде сплош-
+ной пленки толщиной 0,8 мк, выстилающей внутреннюю поверхность поло-
+стей древесины [3]. 
+
+Однако изменение структуры древесины в процессе модифицирования 
+и характер распределения модификатора в древесине практически не исследо-
+ваны. Между тем, опираясь на знания о микростроении древесины, получен-
+ные Фрей-Вислингом и его последователями [6, 19], можно изучить ультра-
+микростроение модифицированной древесины, пользуясь прямым (ПЭМ) и 
+растровым (РЭМ) электронными микроскопами, что и явилось целью настоя-
+щего исследования.  
+
+ 
+Объекты и методы исследования 
+
+ 
+В таблице приведен каталог образцов для исследования на электронном 
+
+микроскопе. Все образцы изготовлены из древесины березы (Betula verrucosa) 
+3
+
+и имели: влажность – 3...4 %; плотность натуральной древесины – 600 кг/м . 
+
+Образцы для исследования методом РЭМ 
+
+Номер Содержание 
+Характеристика образца Примечание 
+
+образца модификатора, % 
+
+Древесина, пропитанная стабили-
+1 9,0...9,5 Кристаллы 
+
+затором (карбамидом) 
+Прессованная древесина плотно- Изменение гео-
+
+2 3 – 
+стью 1200 кг/м метрии клеток 
+Древесина, пропитанная маслом 
+
+3 7,0...8,0 Капли 
+Biol 
+
+ 
+Исследование морфологии поверхности свежих срезов проводили на 
+
+РЭМ марки JSM-6380 LV (JEOL), элементный анализ в микрообъеме – при 
+помощи системы микроанализа на энергодисперсионном рентгеновском спек-
+трометре марки INCA Energy 250 (фирма «Oxford Instruments») с разрешением 
+более 137 эВ. В ходе РЭМ-исследований на поверхности образцов для устра-
+
+ 
+
+
+
+192                       ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2020. № 1 
+
+нения скопления заряда формировали токопроводящий слой конденсацией 
+углерода в установке Q150R («Quorum Technologies»).  
+
+Фазовый состав и структуру нанокристаллов изучали методом ПЭМ на 
+электронном микроскопе Libra 120 («Carl ZEISS»). Образцы для ПЭМ, удо-
+влетворяющие условию формирования контраста электронами с энергией  
+120 кэВ, изготавливали толщиной не более 100 нм на ультрамикротоме  
+PT-PC 75840 («RMC-Boeckeler»). Образцы дополнительно не контрастирова-
+ли. Применяли следующие методики [4, 13]: анализ структуры в светло- и 
+темнопольном режимах работы просвечивающего электронного микроскопа; 
+анализ морфологии поверхности во вторичных электронах; выявление анизо-
+тропии адсорбции металла в отраженных электронах на РЭМ. 
+
+Режимы работы РЭМ приведены в подписи на фотографиях; SEI – вто-
+ричные электроны (режим рельефа). 
+
+Исследование образцов березы, пропитанных стабилизатором (карба-
+мидом), при помощи РЭМ осуществляли следующим образом: выполняли 
+срез под острым углом относительно оси роста волокон образца. Съемку про-
+водили в режиме SEI, где программно-аппаратный комплекс микроскопа JSM-
+6380LV для формирования изображения регистрировал вторичные электроны, 
+побужденные пучком монохроматических первичных электронов с указанной 
+в информационной легенде микрофотографии энергией, т. е. карта распреде-
+ления контраста во вторичных электронах отвечает визуализации рельефа. 
+Светлые и темные участки изображения соответственно принадлежат высо-
+ким участкам и обнижениям. 
+
+ 
+Результаты исследования и их обсуждение 
+
+ 
+На рис. 1 представлены снимки с растрового электронного микроскопа 
+
+при увеличении ×150, ×500 и ×1500 (различные участки продольного среза).  
+ 
+ 
+
+  
+а б 
+
+Рис. 1. Продольный срез древесины березы, пропитанной карбамидом (начало):  
+                                                 а – увеличение ×500; б – ×150 
+
+Fig. 1. A longitudinal section of urea-impregnated birch wood: а – 500×;  
+                                                б – 150× magnification 
+
+ 
+
+
+
+                          ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2020. № 1                       193  
+
+  
+в г 
+
+  
+д е 
+
+Рис. 1. Продольный срез древесины березы, пропитанной карбамидом (окончание):  
+                                 в, е – увеличение ×150; д –×500; г – ×1500  
+
+Fig. 1. A longitudinal section of urea-impregnated birch wood: в, е – 150×; д – 500×;  
+                                                 г – 1500× magnification 
+
+ 
+Как видно из рис. 1, на всех участках отсутствуют кристаллы карбами-
+
+да. Это позволяет сделать вывод, что практически весь карбамид вошел в 
+стенки клеток и на поверхности стенок не проявляется. Наличие кристаллов 
+выявлено методом ПЭМ-микроскопии (рис. 2). 
+
+ 
+Рис. 2. ПЭМ-изображение кристаллов 
+карбамида на поверхности древесины 
+
+Fig. 2. Upright electron microscope image of 
+urea crystals on wood surface 
+
+ 
+
+ 
+
+Как видно из рис. 2, скопления кри-
+сталлов проявляются в виде темных 
+участков. Участок для съемки подго-
+товлен при помощи ультрамикрото-
+мирования без применения контра-
+стирования атомами тяжелых элемен-
+
+ тов. 
+ 
+
+ 
+
+
+
+194                       ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2020. № 1 
+
+Ствол дерева состоит из многочисленных клеток, вытянутых в основ-
+ном по его длине. Клетки определенным образом группируются и создают на 
+торце ствола систему концентрических колец. Вместе с другими элементами 
+они формируют макроструктуру древесины. 
+
+Текстура рисунка поверхности поперечного среза волокон прессован-
+ной древесины представлена на рис. 3.  
+
+а б 
+Рис. 3. Поперечный срез волокон прессованной древесины (темные участки –  
+                     полости сплющенных клеток): а – увеличение ×150; б – ×500 
+Fig. 3. Cross section of pressed wood fibers (dark areas – cavities of squashed cells):  
+                                          а – 150×; б – 500× magnification 
+
+Как видно из рис. 3, строение прессованной древесины резко отличается 
+от строения натуральной [20]. Оно становится более однородным, сосуды и 
+клетки сплющены в направлении прессования. Возросшая плотность значи-
+тельно влияет на свойства древесины, особенно на ее прочность. Истинная 
+плотность древесины изменяется в очень узких пределах, так как древесинное 
+вещество состоит в основном из целлюлозы. Уменьшение объема полостей 
+клеток пор пропорционально изменению плотности образца. 
+
+Немалый интерес представляет выявление масла Biol в древесине в 
+условиях его малого присутствия (8 %). На рис. 4 показаны участки продоль-
+ного  среза. Из-за особенностей поведения образца в условиях  вакуума в ко-
+лонне РЭМ и физики капиллярных эффектов масло не выявляется, т. е. его 
+вытягивает из древесины вакуум. 
+
+  
+а б 
+
+Рис. 4. РЭМ-изображение продольного среза образца с маслом Biol в режиме регистрации  
+                    вторичных электронов (начало): а – увеличение ×150; б – ×500 
+Fig. 4. Scanning electron microscope (SEM) image of a longitudinal section of a sample with 
+
+Biol oil in the registration mode of secondary electrons: а – 150×; б – 500× magnification 
+
+
+
+                          ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2020. № 1                       195  
+
+  
+в г 
+
+  
+д е 
+
+Рис. 4. РЭМ-изображение продольного среза образца с маслом Biol в режиме регистрации  
+     вторичных электронов (окончание): в – увеличение ×1500; д –×150; г – ×500; е – ×2000 
+
+Fig. 4. Scanning electron microscope (SEM) image of a longitudinal section of a sample 
+with Biol oil in the registration mode of secondary electrons: в – 1500×; д – 150×;  
+                                              г – 500×; е – 2000× magnification 
+
+На поперечном (торцевом) разрезе образца березы, пропитанного мас-
+лом Biol (рис. 5), видны отверстия сечения сосудов – трубок и каналов, пред-
+назначенных для проведения воды. Крупные сосуды расположены в ранней 
+древесине годичных слоев и на поперечном разрезе образуют сплошное коль-
+цо из сосудов. 
+
+  
+а б 
+
+Рис. 5. РЭМ-изображение поперечного среза образца с маслом Biol в режиме  
+               регистрации вторичных электронов (начало): а, б – увеличение ×1500 
+Fig. 5. SEM-image of a cross section of a sample with Biol oil in the registration mode of  
+                         secondary electrons: а, б – 1500× magnification 
+
+ 
+
+
+
+196                       ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2020. № 1 
+
+  
+в г 
+
+Рис. 5. РЭМ-изображение поперечного 
+среза образца с маслом Biol в режиме ре-
+гистрации вторичных электронов (оконча-
+ние): в – увеличение ×1500; г – ×500;  
+                           д – ×150 
+
+Fig. 5. SEM-image of a cross section of a 
+sample with Biol oil in the registration mode 
+of secondary electrons: в – 1500×; г – 500×; 
+                д – 150× magnification 
+ 
+
+ 
+                                   д 
+
+Аналогичные результаты получены для прессованной древесины, про-
+питанной маслом Biol (рис. 6). 
+
+Визуализация присутствия масла методом РЭМ в каналах древесины за-
+труднена из-за атомно-однородного с древесиной состава и равномерного 
+растекания слоя масла Biol в микроканалах.  
+
+ 
+
+  
+а б 
+
+Рис. 6. РЭМ-изображение поперечного среза образца спрессованной древесины с мас-
+лом Biol в режиме регистрации вторичных электронов (начало): а, б – увеличение ×500 
+
+Fig. 6. SEM-image of a cross section of a sample of pressed wood with Biol oil in the  
+                  registration mode of secondary electrons: а, б – 500× magnification 
+
+
+
+                          ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2020. № 1                       197  
+
+  
+в г 
+
+Рис. 6. РЭМ-изображение поперечного среза образца спрессованной древесины с  
+маслом Biol в режиме регистрации вторичных электронов (окончание): в – ×150;  
+                                                                  г – ×1500 
+Fig. 6. SEM-image of a cross section of a sample of pressed wood with Biol oil in the  
+             registration mode of secondary electrons: в – 150×; г – 1500× magnification 
+
+Таким образом, растекание масла Biol можно показать за счет прямого 
+наблюдения наночастиц в режиме отраженных электронов, которыми следует 
+его подкрашивать, или оценивать расчетом модели по коэффициенту смачи-
+вания древесины маслом и проходимости в микроканалах в сравнении с 
+наблюдаемым поглощенным объемом масла в образцах. 
+
+ 
+Выводы 
+
+ 
+1. Исследование модифицированной древесины на растровом и прямом 
+
+электронных микроскопах позволило выявить наличие нанокристаллов стаби-
+лизатора (карбамида) в древесине. 
+
+2. Установлено, что при прессовании древесины поперек волокон круп-
+ные сосуды сплющиваются, клетки волокон либриформа приобретают форму 
+эллипса, разрывов тканей и трещин не наблюдается. 
+
+3. Масло Biol в древесине не обнаружено из-за его эмиссии из древеси-
+ны в условиях вакуума при работе на растровом и прямом электронных мик-
+роскопах. 
+
+ 
+СПИСОК ЛИТЕРАТУРЫ / REFERENCES 
+
+ 
+1. Патент № 2339505 Российская Федерация, МПК В27К 5/06, С23С 16/16. 
+
+Способ модификации древесины / Шамаев В.А., Уэльский А.А., Гребенников А.В., 
+Стороженко П.А., Рахманов В.Г. [Shamaev V.A., Uehl’skij A.A., Grebennikov A.V., 
+Storozhenko P.A., Rakhmanov V.G. Method of Wood Modification. Patent RF, no. 
+2339505, 2008]. 
+
+2. Патент № 2539022 Российская Федерация, МПК F16C 17/12, F16C 33/12, 
+F16C 33/18. Подшипник скольжения и способ изготовления / Шамаев В.А., Медведев 
+И.Н., Галаворян Р.А., Манаев В.А. [Shamaev V.A., Medvedev I.N., Galavorjan R.A., 
+Manaev V.A. Plain Bearing and Method of Its Manufacture. Patent RF, no. 2539022, 2015]. 
+
+3. Шамаев В.А. Подшипники скольжения из модифицированной древесины // 
+Вестн. машиностроения. 2010. № 7. С. 45–48. [Shamaev V.A. Bearings of Modified 
+Wood. Vestnik mashinostroyeniya [Russian Engineering Research], 2010, no. 7, p. 45–48]. 
+
+ 
+
+
+
+198                       ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2020. № 1 
+
+4. Шамаев В.А., Медведев И.Н. Модифицированная древесина нового поколе-
+ния для деталей трения // Полимерные композиты и трибология (ПоликомТриб–2011): 
+тез. докл. междунар. науч.-техн. конф., Гомель, Беларусь, 27–30 июня 2011 г. Гомель: 
+ИММС НАНБ, 2011. С. 225–226. [Shamaev V.A., Medvedev I.N. Modified Wood of New 
+Generation for Friction Parts. Polymer Composites and Tribology (POLICOMTRIB-2011): 
+Abstracts of the International Scientific and Technical Conference, Gomel, Belarus, June 
+27–30, 2011. Gomel, IMMS NANB Publ., 2011, pp. 225–226]. 
+
+5. Шамаев В.А., Никулина Н.С., Медведев И.Н. Модифицирование древесины. 
+М.: Флинта, Наука, 2013. 448 с. [Shamaev V.A., Nikulina N.S., Medvedev I.N. Modifica-
+tion of Wood. Moscow, Nauka Publ., 2013. 448 p.]. 
+
+6. Dykstra M.J., Reuss L.E. Biological Electron Microscopy: Theory, Techniques, 
+and Troubleshooting. Springer US, 2003. 534 p. DOI: 10.1007/978-1-4419-9244-4 
+
+7. Igaz R., Macek Š., Zemiar J. The Influence of Unidirectional Cyclic Bend Loading 
+on Initial Relaxation Speed of Beech Lamellas. Acta Facultatis Xylologiae Zvolen, 2014, 
+vol. 56, pp. 27–35. 
+
+8. Kúdela J., Rešetka M. Influence of Pressing Parameters on Dimensional Stability 
+and Selected Properties of Pressed Beech Wood. I. Dimensional Stability and Density. Acta 
+Facultatis Xylologiae Zvolen, 2012, vol. 54(1), pp. 15–24. 
+
+9. Lekounougou S., Kocaefe D., Oumarou N., Kocaefe Y., Poncsak S. Effect of 
+Thermal Modification on Mechanical Properties of Canadian White Birch (Betula pa-
+pyrifera). International Wood Products Journal, 2011, vol. 2, iss. 2, pp. 101–107. DOI: 
+10.1179/2042645311Y.0000000016 
+
+10. Maunsbach A.B., Afzelius B.A. Biomedical Electron Microscopy: Illustrated 
+Methods and Interpretations. London, Academic Press, 1998. 548 p. 
+
+11. Medvedev I.N., Shamayev V.A., Parinov D.A. Resource-Saving Production 
+Sleepers of Modified Wood. Put’ i putevoye khozyaystvo [Railway Track and Facilities], 
+2018, no. 11, pp. 30–32. 
+
+12. Proceedings of IUFRO Meetings in 2006: The 5th International Symposium on 
+Wood Structure and Properties, Sliak, Slovakia, September 3–6, 2006. Ed. by S. Kurjatko,  
+J. Kúdela, R. Lagana. Zvolen, Slovakia, Arbora Publishers, 2006. 522 p. 
+
+13. Sandberg D., Haller P., Navi P. Thermo-hydro and Thermo-hydro-mechanical 
+Wood Processing: An Opportunity for Future Environmentally Friendly Wood Products. 
+Wood Material Science & Engineering, 2013, vol. 8, no. 1, pp. 64–88. DOI: 
+10.1080/17480272.2012.751935 
+
+14. Shamaev V., Medvedev I., Parinov D. Study of Modified Wood as a Bearing Ma-
+terial for Machine-Building. Proceedings of the International Conference “Aviamechanical 
+Engineering and Transport (AVENT 2018). 2018, vol. 158, pp. 478–482. DOI: 
+10.2991/avent-18.2018.92 
+
+15. Shamaev V., Medvedev I., Parinov D., Shakirova O., Anisimov M. Investigation 
+of Modified Wood as a Material Power Transmission Pole Produced by Self-Pressing Meth-
+od. Acta Facultatis Xylologiae Zvolen, 2018, vol. 60(2), pp. 25–32. DOI: 
+10.17423/afx.2018.60.2.02 
+
+16. Shamaev V., Parinov D., Medvedev I. Wood Modification by Pressing. Engi-
+neering Studies, 2018, vol. 10, iss. 3(2), pp. 708–718. 
+
+17. Šmidriaková M., Kollár M. Modification of Resorcinol Adhesives with Biopoly-
+mers for Gluing of Wood with Higher Moisture Content. Acta Facultatis Xylologiae Zvolen, 
+2011, vol. 53(1), pp. 33–41. 
+
+18. The Official Website of Accoya Company. Available at: https://www.accoya.com/ 
+(accessed 23.05.19). 
+
+19. Tshabalala M.A., McSweeny J.D., Rowell R.M. Heat Treatment of Wet Wood 
+Fiber: A Study of the Effect of Reaction Conditions on the Formation of Furfurals. Wood 
+Material Science & Engineering, 2012, vol. 7, iss. 4, pp. 202–208. DOI: 
+10.1080/17480272.2012.669406 
+
+
+
+                          ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2020. № 1                       199  
+
+20. Wagenführ R., Scheiber C. Holzatlas. Leipzig, WEB Fachbuchverlag, 1989.  
+720 S. 
+
+21. Wahyudi I., Ishiguri F., Makino K., Tanabe J., Tan L., Tuhumury A. et 
+al. Growth Characteristics and Wood Properties of 26-Year-Old Eucalyptus alba Planted in 
+Indonesia. International Wood Products Journal, 2015, vol. 6, iss. 2, pp. 84–88. 
+DOI: 10.1179/2042645315Y.0000000003 
+
+ 
+ 
+
+STUDY OF MODIFIED WOOD BY ELECTRON MICROSCOPY 
+ 
+V.A. Shamaev, Doctor of Engineering, Prof.; ResearcherID: Y-9044-2018,  
+ORCID: 0000-0002-1762-7956 
+Voronezh State University of Forestry and Technologies named after G.F. Morozov,  
+ul. Timiryazeva, 8, Voronezh, 394087, Russian Federation; e-mail: drevstal@mail.ru 
+ 
+Wood modification is a popular method for improvement of wood properties of low-value 
+deciduous species. The method of pressing across the wood fibers preliminarily plasticized 
+with urea was used in order to increase the strength properties. Impregnation with Biol min-
+eral oil was used for the improvement of anti-friction properties. Metallic nickel is intro-
+duced into wood in the form of a continuous metal film lining the inner surface of wood 
+cavities for thermal conductivity increasing. Studies carried out with the listed catalog sam-
+ples using scanning and upright electron microscopes allowed to find, that: carbamide is 
+located in the walls of cells and manifests itself in the cavities very sharply in the form of 
+single crystals; pressing of wood plasticized with urea leads to flattening of anatomical ele-
+ments without their destruction; Biol oiling with its low content spreads as a film on the cell 
+walls and is not visualized; metallic nickel is present in wood in the form of film and indi-
+vidual elements on the cell walls. Weight and atomic microanalyses of the longitudinal sec-
+tion were performed for it. 
+For citation: Shamaev V.A. Study of Modified Wood by Electron Microscopy. Lesnoy Zhur-
+nal [Russian Forestry Journal], 2020, no. 1, pp. 190–199. DOI: 10.37482/0536-1036-2020-
+1-190-199 
+Funding: The research materials presented in the article were obtained within the frame-
+work of the state assignment of the Ministry of Education and Science of the Russian Feder-
+ation No. 11.3960.2017/4.6. 
+ 
+Keywords: wood, microstructure, modification, electron microscopy. 
+
+ 
+Поступила 23.05.19 / Received on May 23, 2019

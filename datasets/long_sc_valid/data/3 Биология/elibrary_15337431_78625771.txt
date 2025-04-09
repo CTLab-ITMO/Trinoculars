@@ -1,0 +1,1346 @@
+﻿Евразиатский энтомол. журнал 9(3): 457–473 © EUROASIAN ENTOMOLOGICAL
+ JOURNAL, 2010
+
+Phylogeny of the family Nemonychidae (Coleoptera)
+with descriptions of new taxa
+
+Èñòîðè÷åñêîå ðàçâèòèå æóêîâ ñåìåéñòâà Nemonychidae
+(Coleoptera) ñ îïèñàíèåì íîâûõ òàêñîíîâ
+
+A.A. Legalov
+À.À. Ëåãàëîâ
+
+Siberian Zoological Museum, Institute of Systematics and Ecology of Animals, Russian Academy of Sciences, Siberian Branch,
+Frunze str. 11, Novosibirsk 630091 Russia. E-mail: legalov@ngs.ru.
+Сибирский зоологический музей, Институт систематики и экологии животных СО РАН, ул. Фрунзе 11, Новосибирск 630091 Россия.
+
+Key words: Coleoptera, Сurculioniformia, Obrieniidae, Nemonychidae, phylogeny, trophic links, new taxa,
+new placements, Mesozoic, Cainozoic.
+
+Ключевые слова: Coleoptera, Сurculioniformia, Obrieniidae, Nemonychidae, филогения, трофические
+связи, новые таксоны, новое положение, мезозой, кайнозой.
+
+Abstract. The phylogeny of the Nemonychidae family в трибу Probelini, Distenorrhinus (Distenorrhinus) pono-
+has been reconstructed and the composition of this family marenkoi (L. Arnoldi, 1977), comb.n., placem.n. — из рода
+and 12 subfamilies determined. Two monophyletic groups Oxycorynoides L. Arnoldi, 1977 трибы Oxycorynoidini под-
+are assigned to this family. The position of the families семейства Eobelinae в номинативный подрод рода Dis-
+Nemonychidae (Curculionoidea) and Obrieniidae (Obrieni- tenorrhinus L. Arnoldi, 1977 подсемейства Disteno-
+oidea) in Curculioniformia system is clarified. The distribu- rrhininae.
+tion of fossil evidence and recent Nemonychidae records is
+discussed. Data on trophic relations are summarised. Four
+new taxa (Martynovirhynchus Legalov, gen.n., Martynovi- Introduction
+rhynchus arnoldii Legalov, sp.n., Medmetrioxenoidesini Le-
+galov, trib.n. and Megametrioxenoidesini Legalov, trib.n.) The curculionid-beetles are the biggest group by
+are described. New systematic placements are made: the species number of the world fauna (more than 150000)
+genera Ampliceps L. Arnoldi, 1977, placem.n. and Scelo- but it is also one of a weakly studied group. On the one
+camptus L. Arnoldi, 1977, placem.n. are transferred from hand, many thousands of new taxa, mainly from tropi-
+tribe Oxycorynoidini to tribe Karataucarini, the genus Be- cal areas, are not described, and on the other hand,
+lonotaris L. Arnoldi, 1977 from tribe Oxycorynoidini to a system of this superfamily is insufficiently devel-
+tribe Probelini, and Distenorrhinus (Distenorrhinus) pono- oped. The volume of the majority of the genera, tribes,
+marenkoi (L. Arnoldi, 1977), comb.n., placem.n. from ge- subfamilies and number of the families are controver-
+nus Oxycorynoides of tribe Oxycorynoidini (Eobelinae) sial. Curculioniformia are distributed practically eve-
+to nominate subgenus of genus Distenorrhinus (Disteno- rywhere. Similar adaptive characters complicate the
+rrhininae). natural system construction. Studying of the fossil ma-
+
+Резюме. В статье реконструирована филогения жу- terial and the recent representatives of primitive groups
+ков семейства Nemonychidae. Определён объём семей- can be one of the possible ways of revealing phyloge-
+ства Nemonychidae и входящих в него 12 подсемейств. netic relationships. Promising methods of molecular
+Семейство состоит из двух монофилетических групп. researches for phylogenetic researches have not given
+Уточнено положение семейств Nemonychidae (Curculio- appreciable results yet [Wink et al., 1997; Marvaldi
+noidea) и Obrieniidae (Obrienioidea) в системе долгоно- et al., 2002, 2009; Hundsdörfer et al., 2009; McKenna
+сикообразных жуков (Сurculioniformia). Рассмотрено et al., 2009; McKenna, Farrell, 2009]. A study of the
+распространение ископаемых и современных Nemony- family Nemonychidae Bedel, 1882, the most primitive
+chidae. Обобщены данные о трофических связях. Описа- of recent Curculionoidea [Crowson, 1955; Voss, 1965;
+ны новые таксоны (Martynovirhynchus Legalov, gen.n.,
+Martynovirhynchus arnoldii Legalov, sp.n., Medmetrioxeno- Zherikhin, Egorov, 1991; Thompson, 1992; Kuschel,
+idesini Legalov, trib.n. и Megametrioxenoidesini Legalov, 1995; Gratshev, Zherikhin, 2003; Legalov, 2006,
+trib.n.). Роды Ampliceps L. Arnoldi, 1977, placem.n. 2010a, b; Oberprieler et al., 2007] should take on a
+и Scelocamptus L. Arnoldi, 1977, placem.n. перенесны из special significance. A distinct primitiveness practical-
+трибы Oxycorynoidini в трибу Karataucarini, род ly in all morphological characters attracts special at-
+Belonotaris L. Arnoldi, 1977 — из трибы Oxycorynoidini tention to them.
+
+
+
+458 A.A. Legalov
+
+Material and methods 2010]. Sufficiently primitive families Megalopodidae
+Latreille, 1802 and Orsodachnidae Thomson, 1859 sim-
+
+Studied specimens of the recent species of Nemo- ilar to this group are usually characterised by enlarged
+nychidae are stored in the following museums: metafemora with teeth, an elongated 5th ventrite and
+the Moscow State University Zoological Museum (Rus- according to data reported by Reid [1995], by absence
+sia: Moscow), the Siberian Zoological Museum of the of a spiculum gastrale at females. There is an interest-
+Institute of Animal Systematics and Ecology of the ing suggestion by Kirejtshuk [1991] that Cucujiformia
+Siberian Branch of the Russian Academy of Sciences and Chrysomeliformia are possibly monophyletic spe-
+(Russia: Novosibirsk), the Zoological Institute of the cialised group from the infraorder Cuñujiformia. This
+Russian Academy of Sciences (Russia: St. Petersburg), consolidation explains later occurrence of Chrysomel-
+Institut Royal des Sciences Naturelles de Belgique oidea in the palaeontological record.
+(Brussels), Lund University (Lund), the National Mu- The second branch is a superfamily Curculionoidea
+seum of Natural History (USA: Washington) and Staatli- (3) (Fig. 1) or a special infraorder Curculioniformia
+ches Museum für Tierkunde (Dresden). Fossil forms according to Kirejtshuk [1991], the most primitive rep-
+of Obrieniidae and Nemonychidae are kept in the Palae- resentatives of which possibly have an elongated ros-
+ontological Institute (Russia: Moscow). The author used trum, and a designated clava of antennae. As far as
+such literary sources as [Martynov, 1926; Kuschel, Obrieniidae Zherikhin et Gratshev, 1993 are known
+1954, 1959, 1989, 1993, 1994, 2003; Arnoldi, 1977; from the border of the Middle and Late Triassic, it can
+Zherikhin, 1986, 1993; Kuschel, Poinar, 1993; be supposed that their ancestor group has arisen earlier
+Zherikhin, Gratshev, 1993, 2003, 2004; Gratshev, in the Middle Triassic.
+Zherikhin, 1995, 1996, 2000; Ren, 1995; Gratshev The following stage of evolution was a separation
+et al., 1997; Kuschel, May, 1997; Liu et al., 2006a, b; of the families Obrieniidae (4) (Fig. 1) and Nemony-
+Soriano et al., 2006; Soriano, 2009; Riedel, 2010]. chidae. Obrieniidae (Fig. 2) from Obrienioidea is the
+
+The phylogenesis reconstruction was carried out most ancient family of curculionid-beetles existed from
+according to principles offered by Rasnitsyn [2002]. the Late Triassic almost to the end of the Jurassic
+The construction of cladograms was carried out with [Zherikhin, Gratshev, 1993]. After the description, its
+the programs PAUP 2.4.1 and SYNAP 500. systematic position was doubted [Zherikhin, 2002;
+
+Legalov, 2002; Gratshev, Zherikhin, 2003; Kuschel,
+Results 2003]. Kuschel [2003] has specified 9 characters which
+
+do not permit to consider it among curculionid-beetles.
+There are still a lot of questions about the origin of The Curculioniformia analysis showed that all these
+
+the suborder Polyphaga and the infraorders Chrysomeli- characters appeared in different groups of the super-
+formia and Curculioniformia, which are associated with family. We should examine those characters in details.
+insufficient safety of a known palaeontological materi- 1. «Middle coxae owing to direct contact with mesepi-
+al in the first place. In this work the author adhere to mera and metepisterna». A similar condition of a char-
+Ponomarenko’s idea [1969, 1983, 2002] that Poly- acter besides Obrieniidae is observed at the subfamily
+phaga were descended from Archostemata, similar to Cretonemonychinae Gratshev et Legalov, 2009 (Nemo-
+the family Ademosynidae Ponomarenko, 1968. Grimal- nychidae) and at primitive Ithyceridae Schoenherr,
+di and Engel [2005] also support this hypothesis. 1823. 2. «Absence of a scutellar striole». For example,
+The Ademosynidae descendants, which gave birth to the striae reduction is observed at Rhynchitidae Gistel,
+Chrysomeliformia, probably had a reduced notopleural 1848 where only primitive representatives have it. 3.
+suture (1) (Fig. 1) that was a synapomorphy for Poly- «The sutural interstria width is the same throughout,
+phaga, and they also had false 4-segmented tarsi. Per- instead of the distinctly broader in the basal area».
+haps two branches originated from this group had an This condition of a character was noticed at Dryoph-
+open pro- and metacoxa, a scutellar striole and the thoridae Schoenherr, 1825, some Anthribidae Billberg,
+absence of an antennal clava (plesiomorphic condi- 1820, Rhynchitidae and Curculionidae Latreille, 1802.
+tions of characters). 4. «A sternopleural suture touching fore coxae antero-
+
+The first branch is a superfamily Chrysomeloidea laterally, instead of fully laterally on the outer side of
+(2) (Fig. 1) with the antennae located near eyes and the the coxae». A similar character shows up at some
+absence of a hypopharyngeal bracon at a larva [Reid, Brentinae Bilberg, 1820 (Brentidae Bilberg, 1820).
+1995]. It should be noted, that a primitive group Proto- 5. «Absence of distinct tibial combs». An apex of tibi-
+scelinae Medvedev, 1968, described as a subfamily of ae is not visible on the studied typical material of
+the family Chrysomelidae Latreille, 1802 from the Obrieniidae. It should be noted, that Zherikhin and
+Middle–Late Jurassic of Karatau [Medvedev, 1968], is Egorov [1991] regarded the absence of tibial combs as
+sometimes considered as an independent family [Tan a plesiomorphic condition of a character but the pres-
+et al., 2004] characterised by reduced elytral striae, ence of them as an apomorphic one. Tibial combs are
+emarginate eyes and possibly closed procoxa. Tar- absent at many curculionid-beetles, for example,
+somegamerus mesozoicus Zhang, 2005, recently found at Allocoryninae Sharp, 1890 (Belidae Schoenherr,
+in the Middle Jurassic of China [Zhang, 2005], con- 1826), Dryophtoridae, some Brentidae and Curculion-
+cerns to Elateriform beetles [Yan, 2009; Yan, Van, idae. 6. «First three antennal segments equally robust
+
+
+
+Phylogeny of the family Nemonychidae 459
+
+instead of two at most». A similar structure is observed Billberg, 1820. 8. «Elytral striae well marked through-
+at the genus Eccoptarthrus L. Arnoldi, 1977 (Nemony- out, instead of weak or effaced posteriorly». Sharp
+chidae: Eccoptarthrinae L. Arnoldi, 1977). 7. «A com- striae probably are a plesiomorphic character preserved
+pact antennal club instead of a loosely articulated club». from an ancestral group, but weakening of striae, espe-
+A similar clava is observed at many Curculionoidea cially to the apex, and the further reduction are an
+including Anthribidae, Brentidae, Dryophtoridae, Cur- apomorphic character. Sharp striae are observed at
+culionidae, and a tendency to its compacting is traced many Brentidae, Dryophthoridae and Curculionidae
+at Ithycerinae Schoenherr, 1823 (Ithyceridae), Oxyco- (as reversions). 9. «Interstriae 2 and 3 joining 9 and 8,
+ryninae Schoenherr, 1840 (Belidae) and Attelabidae instead of joining 10 and 9». This character is noted in
+
+T2 T3 J1 J2 J3 K1 K2 P N R
+
+Doydirhynchinae
+
+18
+Cimberindinae
+
+A 17
+B Rhinorhynchinae
+
+?
+C 16
+
+Paleocartinae
+15
+
+Metrioxenoidinae
+14
+
+Selengarhynchinae
+13
+
+Eobelinae
+
+Eccoptarthrinae
+9 12
+
+10 Distenorrhininae
+11
+
+Brenthorrhininae
+
+"primitive"
+7 Nemonychidae
+
+Cretonemonychinae
+5
+
+6 Nemonychinae
+8
+
+Ithyceridae
+
+"primitive"
+Curculioniformia
+
+4
+3 Obrieniidae
+
+"descendants" of
+Ademosynidae
+
+1 2 Chrysomeloidea
+
+Ademosynidae
+
+Fig. 1. Phylogeny of the family Nemonychidae. A — hypothetical ancestral group, B — group is absent in palaeontologic record,
+C — group is present in the palaeontological record or the recent fauna; Figures — synapomorphies (see in text); T2 — Middle Triassic,
+T3 — Late Triassic, J1 — Early Jurassic, J2 — Middle Jurassic, J3 — Late Jurassic, K1 — Early Cretaceous, K2 — Late Cretaceous, P —
+Palaeogene, N — Neogene, R — Recent fauna.
+
+Ðèñ. 1. Èñòîðè÷åñêîå ðàçâèòèå ñåìåéñòâà Nemonychidae. A — ãèïîòåòè÷åñêàÿ ïðåäêîâàÿ ãðóïïà, B — ãðóïïà îòñóòñòâóåò â
+ïàëåîíòîëîãè÷åñêîé ëåòîïèñè, C — ãðóïïà ïðèñóòñòâóåò â ïàëåîíòîëîãè÷åñêîé ëåòîïèñè èëè ñîâðåìåííîé ôàóíå; öèôðû —
+ñèíàïîìîðôèè (ñì. â òåêñòå); T2 — ñðåäíèé òðèàñ, T3 — ïîçäíèé òðèàñ, J1 — ðàííÿÿ þðà, J2 — ñðåäíÿÿ þðà, J3 — ïîçäíÿÿ þðà,
+K1 — ðàííèé ìåë, K2 — ïîçäíèé ìåë, P — ïàëåîãåí, N — íåîãåí, R — ñîâðåìåííàÿ ôàóíà.
+
+
+
+460 A.A. Legalov
+
+the genus Gymnaetron Schoenherr, 1825 (Curculioni-
+dae: Curculioninae). Hereby characters, on the ground
+of which Kuschel [2003] suggested to exclude the
+family Obrieniidae from curculionid-beetles, show up
+in different including primitive families of the Curcu-
+lioniformia. As a rule, they have an adaptive character
+to life inside generative organs.
+
+The most primitive Nemonychidae (5) (Fig. 1),
+which probably lived in the Middle or Early Jurassic,
+remain unknown. This family has been already well
+differentiated and varied on the border of the Middle–
+Late Jurassic. However, the author can assume with
+what characters one should differ. In the first place,
+they are certainly plesiomorphies (average sizes of a
+rostrum with the antennae located on the middle,
+a scutellar striole of the elytra, a weakly sclerotized
+body and an open mesocoxa). We can assume the
+presence of two apomorphies (a distinct clava of the
+antennae and a closed procoxa) in this group.
+
+Probably, the first Ithyceridae (6) (Fig. 1) with an
+elongated rostrum and antennae located at its basis
+(Fig. 12), from which Belidae and other primitive fam-
+ilies of Curculionoidea were originated [Legalov,
+2009a], had been separated from this group.
+
+We suppose that two subfamilies Cretonemonychi-
+nae (7) (Fig. 1) and Eobelinae L. Arnoldi, 1977 were
+branched from «primitive» Nemonychidae. Cretone-
+monychinae (Figs 3, 9, 13) had a long rostrum (Fig. 11),
+subapical antennae (Fig. 11), reduced striae of the
+elytra and an elongated 1st or 1st and 2nd ventrites
+(among the most advanced forms) (Fig. 4). We consid-
+er that a descendant of this group is a recent subfamily
+Nemonychinae Bedel, 1820 (8) differs by the sides of
+the pronotum without a lateral carina, strongly convex
+eyes, partially closed mesocoxae and a short rostrum.
+
+The subfamily Eobelinae (9) (Fig. 1) is character-
+Fig. 2. Obrienia kuscheli Zherikhin et Gratshev, 1993 (holotype, ised by closed mesocoxae. In spite of the fact that the
+
+ventral view). majority of characters have a plesiomorphic condition
+Ðèñ. 2. Obrienia kuscheli Zherikhin et Gratshev, 1993 (ãîëîòèï, (antennae located near the middle of the rostrum
+
+âèä ñíèçó). (Fig. 23), an elongated precoxal part of the prothorax
+
+Figs 3–17. Curculionoidea gen. sp.: 3 — ventrites of Pseudonemonyx stupendus Gratshev et Legalov, 2009 (holotype, ventral view),
+4 — ventrites of Cretonemonyx profligatus Gratshev et Legalov, 2009 (holotype, ventral view), 5 — elytra of Selengarhynchus ovalis
+Gratshev et Legalov, 2009 (holotype, lateral view), 6 — head, pronotum and prothorax of Arnoldibelus sp. from Karatau (holotype, lateral
+view), 7 — pronotum and prothorax of Nanophydes ovatus L. Arnoldi, 1977 (holotype, ventral view), 8 — pronotum and prothorax
+of Arnoldibelus karatavicus (L. Arnoldi, 1977) (holotype, lateral view), 9 — mesocoxal cavity of Cretonemonyx profligatus Gratshev et
+Legalov, 2009 (holotype, lateral view), 10 — rostrum of Arnoldibelus karatavicus (L. Arnoldi, 1977) (holotype, lateral view), 11 —
+rostrum of Cretonemonyx profligatus Gratshev et Legalov, 2009 (holotype, lateral view), 12 — rostrum of Ithyceridae gen. sp. from
+Karatau (lateral view), 13 — prothorax of Cretonemonyx longirostris Gratshev et Legalov, 2009 (holotype, ventral view), 14 — prothorax
+of Distenorrhinus sinuatipes Gratshev et Zherikhin, 1995 (holotype, dorsal view), 15 — head and prothorax of Eccoptarthroides
+ponomarenkoi Legalov, 2010 (holotype, lateral view), 16 — elytra of Medmetrioxenoides prodromus Gratshev et Legalov, 2009 (holotype,
+lateral view), 17 — proleg of Eccoptarthroides ponomarenkoi Legalov, 2010 (holotype, ventral view).
+
+Ðèñ. 3–17. Curculionoidea gen. sp.: 3 — âåíòðèòû Pseudonemonyx stupendus Gratshev et Legalov, 2009 (ãîëîòèï, âèä ñíèçó), 4 —
+âåíòðèòû Cretonemonyx profligatus Gratshev et Legalov, 2009 (ãîëîòèï, âèä ñíèçó), 5 — íàäêðûëüÿ Selengarhynchus ovalis Gratshev
+et Legalov, 2009 (ãîëîòèï, âèä ñáîêó), 6 — ãîëîâà, ïåðåäíåñïèíêà è ïåðåäíåãðóäü Arnoldibelus sp. èç Êàðàòàó (ãîëîòèï, âèä ñáîêó),
+7 — ïåðåäíåñïèíêà è ãðóäü Nanophydes ovatus L. Arnoldi, 1977 (ãîëîòèï, âèä ñíèçó), 8 — ïåðåäíåñïèíêà è ïåðåäíåãðóäü Arnoldibelus
+karatavicus (L. Arnoldi, 1977) (ãîëîòèï, âèä ñáîêó), 9 — ñðåäíèå òàçèêîâûå âïàäèíû Cretonemonyx profligatus Gratshev et Legalov,
+2009 (ãîëîòèï, âèä ñáîêó), 10 — ãîëîâîòðóáêà Arnoldibelus karatavicus (L. Arnoldi, 1977) (ãîëîòèï, âèä ñáîêó), 11 — ãîëîâîòðóáêà
+Cretonemonyx profligatus Gratshev et Legalov, 2009 (ãîëîòèï, âèä ñáîêó), 12 — ãîëîâîòðóáêà Ithyceridae gen. sp. èç Êàðàòàó (âèä
+ñáîêó), 13 — ïåðåäíåãðóäü Cretonemonyx longirostris Gratshev et Legalov, 2009 (ãîëîòèï, âèä ñíèçó), 14 — ïåðåäíåãðóäü
+Distenorrhinus sinuatipes Gratshev et Zherikhin, 1995 (ãîëîòèï, âèä ñâåðõó), 15 — ãîëîâà è ïåðåäíåãðóäü Eccoptarthroides
+ponomarenkoi Legalov, 2010 (ãîëîòèï, âèä ñíèçó), 16 — íàäêðûëüÿ Medmetrioxenoides prodromus Gratshev et Legalov, 2009 (ãîëîòèï,
+âèä ñáîêó), 17 — ïåðåäíÿÿ íîãà Eccoptarthroides ponomarenkoi Legalov, 2010 (ãîëîòèï, âèä ñíèçó).
+
+
+
+Phylogeny of the family Nemonychidae 461
+
+(Figs 6, 8, 23), a convex body, homonomic ventrites (Nanophydini L. Arnoldi, 1977 and some Oxycory-
+(Fig. 23) etc.), in different genera of this extensive noidini L. Arnoldi, 1977), widened tarsi (Fig. 17) (Eobe-
+subfamily we can observe the appearance of different lini and Karataucarini Legalov, 2009) and an increase
+advanced characters, for example, an elongated of a body size (Eobelini and Probelini etc.). It should
+(Fig. 10) (Eobelini L. Arnoldi, 1977 and Probelini Le- be mentioned that a place and a structure of this group
+galov, 2009) or short rostrum (Khetanamonyx Lega- were understood differently. Arnoldi [1977], who de-
+lov, 2009), reduced elytral striae (all tribes), shorten- scribed them, considered that the representatives of
+ing of a precoxal part of the prothorax (Fig. 7) this group (with 4 subfamilies: Eobelinae, Oxycory-
+
+
+
+462 A.A. Legalov
+
+Figs 18–23. Nemonychidae gen. sp.: 18 — body of Martynovirhynchus arnoldii Legalov, sp.n. (holotype, ventral view), 19 —
+mandibles and labrum of M. arnoldii Legalov, sp.n. (holotype, dorsal view), 20 — body of Scelocamptus tenuirostris L. Arnoldi, 1977
+(holotype, lateral view), 21 — body of Ampliceps dentitibia L. Arnoldi, 1977 (holotype, lateral view), 22 — body of Distenorrhinus
+(Distenorrhinus) ponomarenkoi (L. Arnoldi, 1977) (holotype, dorsal view), 23 — body of Probelus tibialis L. Arnoldi, 1977 (holotype,
+ventral view).
+
+Ðèñ. 18–23. Nemonychidae gen. sp.: 18 — âíåøíèé âèä Martynovirhynchus arnoldii Legalov, sp.n. (ãîëîòèï, âèä ñâåðõó), 19 —
+ìàíäèáóëû è âåðõíÿÿ ãóáà M. arnoldii Legalov, sp.n. (ãîëîòèï, âèä ñâåðõó), 20 — âíåøíèé âèä Scelocamptus tenuirostris L. Arnoldi,
+1977 (ãîëîòèï, âèä ñáîêó), 21 — âíåøíèé âèä Ampliceps dentitibia L. Arnoldi, 1977 (ãîëîòèï, âèä ñáîêó), 22 — âíåøíèé âèä
+Distenorrhinus (Distenorrhinus) ponomarenkoi (L. Arnoldi, 1977) (ãîëîòèï, âèä ñâåðõó), 23 — âíåøíèé âèä Probelus tibialis L. Arnoldi,
+1977 (ãîëîòèï, âèä ñíèçó).
+
+
+
+Phylogeny of the family Nemonychidae 463
+
+noidinae L. Arnoldi, 1977, Nanophydinae L. Arnoldi, rrhinus) ponomarenkoi (L. Arnoldi, 1977), comb.n.,
+1977 and Brenthorrhininae L. Arnoldi, 1977) were an placem.n.).
+extinct family close to the family Belidae. Kuschel Subapical antennae and a short rostrum character-
+[1983] placed Eobelidae as synonyms to the family ise the subfamily Brenthorrhininae (11) (Fig. 1). The
+Nemonychidae, and later Zherikhin [1986] substantiat- genus Brenthorrhinoides Gratshev et Zherikhin, 1996
+ed this synonymy. Zimmerman [1994] disagreed with has a tooth on an exterior margin of the mandibles.
+this synonymy and considered Eobelidae as a family Procoxae located on the prothorax of the first line
+close to Belidae. While studying the hind wing vena- (Fig. 15) distinguish the subfamily Eccoptarthrinae (12)
+tion of the superfamily Curculionoidea Zherikhin and (Fig. 1). Different genera of this subfamily have an
+Gratshev [1995] paid attention to a mixed character of elongated mandible, subapical antennae, a reduction of
+this group and assumed that a part of forms should elytral striae and widened tarsi (Fig. 17).
+belong to the family Belidae. In the following works The subfamily Selengarhynchinae Gratshev et Le-
+[Soriano et al., 2006; Soriano, 2009] those authors galov, 2009 (13) (Fig. 1), probably formed in the Mid-
+considered three first subfamilies as a part of the fami- dle Jurassic, differs from Eobelinae by a strongly scle-
+ly Belidae. «The body not flattened dorsoventral, a short rotized body, large and rough points on the pronotum
+precoxal part of the prothorax, and also that the labrum and striae of the elytra, and a strongly cutout exterior
+is not visible in any impressions» [Gratshev personal margin of the elytra (Fig. 5).
+report]. It was a basic argument in favour of a place- We consider Metrioxenoidinae Legalov, 2009 (14)
+ment of these beetles in Belidae. First two characters (Fig. 1) as a subfamily originated from Selengarhynch-
+do not show the belonging to Belidae, so at the majori- inae. They have an elongated body and almost straight
+ty of Eobelinae (exceptions are specified above) can exterior margin of the elytra (Fig. 16). Most of the
+be observed an elongated precoxal part of the protho- genera of this group are characterised by subapical
+rax (Fig. 23), and not flattened body is typical for the antennae and fabiform eyes. The subfamily is well
+majority of Nemonychidae (except for the subfamilies differentiated on three tribes; two of them are de-
+Distenorrhininae L. Arnoldi, 1977, Eccoptarthrinae and scribed as new in this work. The most primitive tribe
+Brenthorrhininae). A widening of the rostrum on the Medmetrioxenoidesini Legalov, trib.n. with the genus
+apex is typical for all Nemonychidae (including re- Medmetrioxenoides Gratshev et Legalov, 2009 from
+cent). This character (Fig. 23) is well appreciable on a the Jurassic of Karatau differs by the antennae attached
+dorsal impression of Probelus (Probeloides) tibialis L. on the middle of the rostrum, roundish eyes, weak
+Arnoldi, 1977. Unfortunately, a distinct isolated la- elytral striae and a strongly elongated precoxal part of
+brum is not possible to be examined practically at any the prothorax. A distinctive tribe Megametrioxe-
+fossil species of Nemonychidae. In conclusion, a rank noidesini Legalov, trib.n is close to the tribe Medme-
+of Oxycorynoidinae and Nanophydinae was downgrad- trioxenoidini with also strongly elongated precoxal part
+ed to tribes [Legalov, 2009b] as a part of the subfamily of the prothorax and weak striae of the elytra, but with
+Eobelinae. A distinct labrum was visible on the holo- transversal widened fabiform eyes, almost subapical
+type of Archaeorrhynchoides arnoldii Legalov, sp.n., antennae and claws with teeth. The tribe Metrioxe-
+it should be noted the presence of teeth at an external noidini with 3 genera is characterised by the rough
+margin. A study of the typical species of the genera punctuate striae of the elytra, shorter precoxal part of
+Ampliceps L. Arnoldi, 1977, placem.n. and Scelocamp- the prothorax, longitudinal elongated fabiform eyes
+tus L. Arnoldi, 1977, placem.n. showed that the seg- and claws without teeth (well visible at Libanorhinus
+ments of tarsi were widened and that they belonged to Kuschel et Poinar, 1993) [Kuschel, Poinar, 1993]. It can
+the tribe Karataucarini Legalov, 2009. The genus Be- be assumed that these tribes show consecutive devel-
+lonotaris L. Arnoldi, 1977, placem.n. should be trans- opment of this subfamily.
+fered from the tribe Oxycorynoidini to the tribe Probelini. Systematic place of the subfamily Paleocartinae
+
+The two groups (Distenorrhininae and Selenga- Legalov, 2003 (15) (Fig. 1) presents some difficulties:
+rhynchinae) were separated from Eobelinae. The sub- on the one hand, lateral impressions are absent, and on
+family Distenorrhininae (10) (Fig. 1) differs by subme- the other hand, known representatives are specialised
+dial procoxae (Fig. 14) and a flattened body. In this enough and they differ by reduced striae of the elytra,
+quite varied group the most advanced representatives mandibles with a tooth on an exterior margin and a
+have a widened body,a strengthening of its sclerotiza- strongly widened profemora at the tribe Nebrenthor-
+tion, a rostrum lengthening, a displacement of a place rhinini Legalov, 2007. Probably this group is a transi-
+of an attachment of antennae from the middle, closer to tional group between Metrioxenoidinae and the recent
+the apex or to the basis, a reduction of elytral striae and subfamilies, but until new and more primitive fossil
+widened tarsi. Brenthorrhininae and Eccoptarthrinae forms are not found, this statement will not be proved,
+have stood apart from Distenorrhininae in the process as according to Cope’s law, «the evolutionary novel-
+of further divergence. A study of the type of Oxycory- ties associated with new major taxa are more likely to
+noides ponomarenkoi L. Arnoldi, 1977 has shown that originate from a generalized member of an ancestral
+coxae are located on the middle of the prothorax and it taxon rather than a specialized member».
+concerns to a nominate subgenus of the genus Disteno- A rather isolated group is formed by the recent
+rrhinus L. Arnoldi, 1977 (Distenorrhinus (Disteno- subfamilies Rhinorhynchinae Voss, 1922 (16) (Fig. 1),
+
+
+
+464 A.A. Legalov
+
+Cimberindinae des Gozis, 1882 and Doydirhynchinae Last three subfamilies are represented each of them
+Pierce, 1916 characterised by convex eyes and a re- by the one genus in the palaeontological record. The
+duction of a lateral carina of the pronotum. In the genera Chinocimberis Legalov, 2009 and Renicimberis
+palaeontological record first two appear simultaneous- Legalov, 2009 (The Late Jurassic – Early Cretaceous)
+ly (the border of the Jurassic and the Cretaceous), but are very close to the recent genera. The genus Aule-
+judging by morphological characters, it can be as- tomacer Zherikhin, 1993 is known owing to a badly
+sumed, that Rhinorhynchinae is more primitive, and remained specimen from the end of the Early Creta-
+possibly it is the ancestor for Cimberindinae because ceous (Albian) and it is conditionally placed in the
+of the following plesiomorphies: submedial attached subfamily Doydirhynchinae.
+antennae at some species (at the majority of forms In spite of the boundedness of an application of
+antennae are subbasal), the elytra with striae, simple cladistic methods in studying of fossil forms proved by
+tarsi and claws with teeth. A mesonotum with stridula- Zherikhin [1998], it has been decided to try to analyse
+tory files and the right mandible with a tuft or a brush the phylogenetic relationships with the help of the
+of setae next to mola [Kuschel, 1989] are at recent SYNAP [Baikov, 1999] and PAUP [Swofford, 1986]
+forms of this subfamily. The subfamily includes two methods. Two cladograms (Figs 24–25) have been
+close tribes Mecomacerini Kuschel, 1994 and Rhino- received. Tere were used the following 26 characters
+rhynchini Voss, 1922 differ by the setae number on a (Table 1): 1. Body convex (0) — body flattened (1);
+labrum and the antennae located closer or further from 2. Mandible without a tooth at an exterior margin (0) —
+apex of the rostrum. A specialised genus Brarus mandible with a tooth at an exterior margin at some
+Kuschel, 1997 with a reduced rostrum and wide tibiae, representatives (1); 3. Mandible located lateral (0) —
+forms the subtribe Brarina Legalov, 2009 of the tribe mandible located dorsal (1); 4. Rostrum absent (0) —
+Mecomacerini. rostrum developed (1); 5. Antennae located near the
+
+The author supposes that the subfamily Cimberind- middle of the rostrum (0) — antennae located near the
+inae (17) (Fig. 1) has separated from Rhinorhynchinae apex among the majority of representatives (1);
+in the Late Jurassic in connection with a change to 6. Antennae located not near eyes (0) — antennae
+other pabular plants (from Araucariaceae to Pinaceae). located near eyes (1); 7. Eyes not convex or weakly
+This subfamily has such characters as: subapical an- convex (0) — eyes strongly convex (1); 8. 1st and 2nd
+tennae, a reduction of elytral striae, 2nd of the tarsi segments of the funicle not widened (0) — 1st and 2nd
+medially lobed projecting over the base of a 3rd seg- segments of the funicle widened, wider than the subse-
+ment and setiferous sex patches on ventrites at fe- quent segments (1); 9. Antennae without a distinct
+males. clava (0) — antennae with a distinct clava (1); 10. Pro-
+
+The subfamily Doydirhynchinae (18) (Fig. 1) is very notum with a lateral carina (0) — pronotum without a
+close to the previous subfamily but mainly differs by lateral carina (1); 11. Elytra with weakly marked to the
+the antennae, located in the first quarter of the rostrum, apex striae (0) — sharp well marked to the apex striae (1);
+placement of the mandibles, and a spermatheca chan- 12. Elytra with a scutellar striole (0) — scutellar striole
+nel shorter than a bursa [Kuschel, 1989]. absent (1); 13. Elytra with distinct striae (0) — striae
+
+Table 1. Matrix table for subfamilies of family Nemonychidae
+Òàáëèöà 1. Ìàòðèöà äàííûõ ïîäñåìåéñòâ ñåìåéñòâà Nemonychidae
+
+Characters*
+Taxa
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26
+Megalopodidae 0 0 0 0 0 1 0 0 0 1 0 1 1 0 0 0 1 0 0 0 1 0 0 0 0 1
+Obrieniidae 0 0 ? 1 1 0 0 1 1 0 0 1 0 0 0 1 0 ? 1 0 0 0 0 ? ? ?
+Cretonemonychinae 0 0 ? 1 1 0 0 0 0 0 0 0 1 0 0 0 1 ? 0 1 0 0 0 ? 0 ?
+Nemonychinae 0 0 ? 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0
+Eobelinae 0 1 ? 1 0 0 0 0 0 0 1 0 1 0 1 0 1 ? 0 1 0 0 1 ? 1 ?
+Selengarhynchinae 0 0 ? 1 0 0 0 0 0 0 1 0 0 1 1 0 1 ? 0 1 0 0 1 ? 0 ?
+Paleocartinae ? 1 ? 1 1 0 0 0 0 0 1 0 0 0 1 0 1 ? 0 0 0 0 1 ? 0 ?
+Metrioxenoidinae 0 0 ? 1 1 0 0 0 0 0 1 0 0 1 1 0 1 ? 0 1 0 0 1 ? 0 1
+Distenorrhininae 1 1 ? 1 0 0 0 0 0 0 1 0 1 1 1 0 0 ? 0 1 1 0 1 ? 1 ?
+Brenthorrhininae 1 0 ? 1 1 0 0 0 0 0 1 0 0 0 1 0 0 ? 0 0 1 0 1 ? 1 ?
+Eccoptarthrinae 1 0 ? 1 1 0 0 1 0 0 1 0 1 0 1 0 0 ? 0 0 1 1 1 ? 1 ?
+Rhinorhynchinae 0 0 0 1 1 0 1 0 0 1 1 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0
+Cimberindinae 0 0 0 1 1 0 1 0 0 1 0 0 1 0 1 0 0 0 0 0 0 0 1 1 0 1
+Doydirhynchinae 0 0 1 1 0 0 1 0 0 1 0 0 1 0 1 0 0 0 0 0 0 0 1 1 0 1
+
+* 0 — plesiomorphic state of the character; 1 — apomorphic state of the character; ? — unknown state of the character.
+* 0 — ïëåçèîìîðôíîå ñîñòîÿíèå ïðèçíàêà; 1 — àïîìîðôíîå ñîñòîÿíèå ïðèçíàêà; ? — ñîñòîÿíèå ïðèçíàêà íåèçâåñòíî.
+
+
+
+Phylogeny of the family Nemonychidae 465
+
+reduced (1); 14. Elytra with a gentle sculpture, weak connection with the reduction of striae. Thereby the
+punctate (0) — sculpture of the elytra rough, large basic character is a structure of cavities of mesocoxae.
+punctuate (1); 15. Sutural interval of elytra of identical The subfamilies Eccoptarthrinae, Distenorrhininae
+width from the basis to the apex (0) — sutural interval and Brenthorrhininae considered by Gratshev and
+narrowed to the apex (1); 16. 2nd and 3rd intervals Zherikhin [1996] as one subfamily at the expense of a
+joining with 10th and 9th intervals (0) — 2nd and 3rd change of a position of procoxae and flattened body
+intervals joining with 9th and 8th intervals (1); 17. Pro- are sharply separated. The status of these groups has
+thorax elongated (0) — prothorax more or less short (1); been revised by the author [Legalov, 2009c]. The ex-
+18. Mesonotum without stridulatory files (0) — mes- planation can be made to the name «Eccoptarthrinae»
+onotum with stridulatory files (1); 19. Sternopleural that was used earlier [Zherikhin, Gratshev, 1995] for
+suture laterally (0) — sternopleural suture anterolater- the other subfamily. An investigation of Ithyceridae
+ally (1); 20. Ventrites homonomic (0) — 1st ventrite or Schoenherr, 1823, Ulyanidae Zherikhin, 1993, Sloni-
+1st and 2nd ventrite little elongated (1); 21. Procoxae kinae Zherikhin, 1977 and Eccoptarthridae (=Caridae
+located near the basis of the prothorax (0) — procoxae Thompson, 1992), helped the author to conclude that
+located near the middle or the apex of the protho- they assigned to one group and the oldest valid name
+rax (1); 22. Procoxae located near the middle of the for the family is Ithyceridae Schoenherr, 1823 [Lega-
+prothorax (0) — procoxae located near the apex of the lov, 2009a]. The result of studying of the typical mate-
+prothorax (1); 23. Mesocoxae opened or partially rial has shown that the name Eccoptarthrus L. Arnoldi,
+opened (0) — mesocoxae closed (1); 24. 2nd segment 1977 (type species: Eccoptarthrus crassipes L. Arnoldi,
+of tarsi medially truncate not projecting over the base 1977) refers to the genus Pseudobrenthorrhinus Grat-
+of a 3rd segment (0) — 2nd segment of tarsi medially shev et Zherikhin, 1996 (type species: Pseudobrenth-
+lobed projecting over the base of a 3rd segment (1); orrhinus crassicornis Gratshev et Zherikhin, 1996),
+25. Tarsi narrow enough (0) — tarsi wide flattened (1); and species Eccoptarthrus crassicornis (Gratshev et
+26. Claws with teeth (0) — claws without teeth (1). Zherikhin, 1996), E. crassipes L. Arnoldi, 1977,
+The families Megalopodidae and Obrieniidae were tak- E. magnus (Gratshev et Zherikhin, 1996) and E. tenui-
+en as outgroups. cornis (Gratshev et Zherikhin, 1996) from the Jurassic
+
+On the received cladogram (Fig. 24) the family of Karatau are alike. Consequently, the name Procur-
+Megalopodidae is a sisterly group to other families that culionini L. Arnoldi, 1977 has been combined in syno-
+confirms the division of this groups into two infraorders nyms to Eccoptarthrini L. Arnoldi, 1977, and the sub-
+Chrysomeliformia and Ñurculioniformia. It should be family of the family Ithyceridae, named earlier
+noted that recent Megalopodidae is an advanced group Eccoptarthrinae, has acquired the name Carinae [Lega-
+characterised by 8 apomorphic characters. lov, 2009c].
+
+First of all the Chrysomeliformia is marked by an Among other subfamilies, the primitive Eobelinae
+advanced rostrum. is sisterly to other subfamilies. The recent subfamilies
+
+The following branch is the family Obrieniidae have such synapomorphies as: strongly convex eyes
+(Obrienioidea), which is a sisterly family to Curculio- and a pronotum without a lateral carina. The Rhinor-
+noidea superfamily with widened 1st and 2nd segments hynchinae subfamily with the stridulatory files on mes-
+of the funicle, wider than the subsequent segments, anten- onotum is sisterly to other subfamilies of this group.
+nae with a distinct clava, reduced scutellar striole, The subfamilies Cimberindinae and Doydirhynchinae
+a 3rd interval of the elytra merges with an 8th interval are close to each other very much and have synapo-
+and an anterolaterally elongated sternopleural suture. morphies (the reduced elytral striae, 2nd of the tarsi
+
+The calculation algorithm of the method SYNAP medially lobed projecting over the base of a 3rd seg-
+did not reveal the synapomorphy of the Nemonychidae ment and claws without teeth). Fossil Paleocartinae,
+subfamilies but they were separated only as a sisterly Metrioxenoidinae and Selengarhynchinae are joined
+group to Obrieniidae. This statement supports the opin- because of simpleiomorphies. Metrioxenoidinae and
+ion expressed by Zherikhin and Egorov [1991], who Selengarhynchinae with a rough sculpture are a sisterly
+considered that Nemonychidae was separated in the group to Paleocartinae.
+first place on the basis of simplesiomorphies. Comparing the received cladogram (Fig. 24) with a
+
+The subfamilies are joined in two groups. The first historical development of Nemonychidae (Fig. 1),
+group is formed by Cretonemonychinae and Nemo- it should be noted that a separation of Chrysomeloi-
+nychinae with the reduced striae of the elytra and a dea, Obrieniidae and Nemonychidae is confirmed. The
+little elongated 1st ventrite. The second group (Eobe- subfamilies of Cretonemonychinae and Nemonychinae
+linae, Paleocartinae, Metrioxenoidinae, Selengarhynchi- are separated from the other subfamilies. Specific Mes-
+nae, Rhinorhynchinae, Cimberindinae, Doydirhynchinae, ozoic subfamilies such as: Eccoptarthrinae, Distenor-
+Eccoptarthrinae, Distenorrhininae and Brenthorrhini- rhininae and Brenthorrhininae are connected. Eobelinae
+nae) differs by the striae of the elytra weakly marked to show the primitiveness and the relationship with the
+the apex, narrowed to the apex sutural interval of the other subfamilies. The recent forms have synapomor-
+elytra and closed mesocoxae. It should be noted that phies and are isolated from the fossil groups.
+first two characters separate this group from Obrienii- The cladogram (Fig. 25), received with a help of
+dae. These characters are absent in the first group in the PAUP method, is similar to the previous cladog-
+
+
+
+466 A.A. Legalov
+
+ram. The family Nemonychidae is distinguished by the New Caledonia and New Zealand [Legalov, 2009b].
+basis of the reversions (elytra with scutellar striole, Fossil forms (more than 100 species from more than
+2nd and 3rd intervals of the elytra joining with 10th 50 genera) are known from the border of the Middle–
+and 9th intervals and a lateral sternopleural suture). Late Jurassic of Kazakhstan (Karatau) and China, the
+It is the basic difference of this cladogram. The con- Early Cretaceous of Brazil (Santana), Spain (Montsec,
+solidation of Nemonychinae with the subfamilies of Las Hoyas), England (Purbeck), Lebanon (Sàida), Mon-
+Rhinorhynchinae, Cimberindinae and Doydirhynchi- golia (Erdeni-Uul, Sharyn-Gol, Bon-Tsagaan, Khutuli-
+nae on the basis of the strongly convex eyes and a yn-Khira, Gurvan-Ereny-Nuruu and Hutel-Hara), China
+pronotum without a lateral carina retraces the results (Yixian, Xiazhuang), the Asian part of Russia (Baissa,
+received by Kuschel [1989] at the analysis of the re- Khasurtyi, Khetana) and also the Eocene of Green
+cent Nemonychidae genera. At the expense of the River (USA) and Baltic amber (Russia). The fauna of
+synapomorphy (more or less shorted prothorax) Cre- Karatau is the richest (27 genera and 68 species). It also
+tonemonychinae is included in a cluster with the other surpasses all known faunae (Table 2) though concedes
+fossil subfamilies. Eobelinae show a relationship with all of them together (31 genera and 46 species). In other
+the subfamilies Eccoptarthrinae and Distenorrhininae, 17 localities, there were revealed from 1 to 5 genera
+on the ground of the antennae inserted near the middle (as a rule 1–2) with 1–7 species. If we look at a parity
+of the rostrum (reversion) and wide flattened tarsi. genus/species, it acquires 1.48 that is 1 genus with 1
+Synapomorphic on the reversion of a 13th character species as a rule.
+(elytra with distinct striae), the subfamilies Selenga- An interesting question is a change of species, gen-
+rhynchinae, Metrioxenoidinae, Paleocartinae and Bren- era number and the abundance of Nemonychidae in the
+thorrhininae are united into two groups. Selengarhynch- taphocoenosis. The maximum diversity of species and
+inae and Metrioxenoidinae are differed by the rough genera were located on the border of the Middle–Late
+sculpture of the elytra and a large punctuate pronotum Jurassic and the Early Cretaceous (Fig. 26). Further,
+and the elytra. The subfamilies of Paleocartinae and the family is very poor in species comparing with the
+Brenthorrhininae are characterised by the mandible other families of Ñurculioniformia (Figs 26–27).
+with a tooth at an exterior margin (at some representa- A decrease in the number of species and genera proba-
+tives) and a little elongated 1st ventrite (reversion). bly began with the Late Jurassic. More detailed con-
+
+In spite of a certain incorrectness of this method, sideration of the Mesozoic fauna shows a decrease in
+shown in a considerable quantity of the reversion and number of the Nemonychidae genera and species to
+with no account taken of some important characters, the end of the Early Cretaceous against the backgrounds
+for example, positions of the procoxa, this cladogram of an increase in number of species of other curculionid-
+confirms some relationships (Eobelinae, Eccoptarthri- beetles (Fig. 27).
+nae and Distenorrhininae; Selengarhynchinae and Me- The Nemonychidae abundance in the taphocoeno-
+trioxenoidinae; Rhinorhynchinae, Cimberindinae and sis (Figs 28–29) was very high on the border of the
+Doydirhynchinae). These relationships were established Middle–Late Jurassic and was comparable with the
+by the previous methods. abundance of Curculionidae (in the taphocoenosis)
+
+Hereby the phylogenesis was reconstructed on the on the Eocene – Oligocene (Fig. 29). In the Cretaceous
+basis of the relations ancestor – descendant (Fig. 1), the Nemonychidae number is much less than the other
+it seems to be optimal in comparison with cladograms Curculionoidea. In the Late Cretaceous (since the Ceno-
+(Figs 24–25) that were received from the computer manian) Nemonychidae had been disappearing from
+methods. It should be noted that cladograms confirm the palaeontological record (Fig. 28) that was explained
+many phylogenetic relationships, revealed at the man- by the Cretaceous biocenotic crisis [Zherikhin, 1978].
+ual reconstruction of the phylogenesis. In the process The recent species develop in the male strobili of
+of the evolution Nemonychidae formed two mono- Araucaria and Agathis (Araucariaceae), Dacrycarpus,
+phyletic groups. The subfamilies of Nemonychidae and Dacrydium, Halocarpus, Lepidothamnus, Mamoao,
+Cretonemonychinae formed the first group, and all the Phyllocladus, Podocarpus, Prumnopitys, Saxegothaea
+other families formed the second. Crowson [1985] sug- (Podocarpaceae), Pinus (Pinaceae), the anthers of Not-
+gested to divide them into two families. The author can hofagus (Fagaceae) and the ovaries of Consolida and
+assume that if we accept Kirejtshuk’s idea [1991] about Delphinium (Ranunculaceae) [Kuschel, 1954, 1959,
+the independence of the infraorders Chrysomeliformia 1983, 1989, 1994, 2003; Dieckmann, 1974; Ter-
+and Curculioniformia, it will be possible to take into Minassian, 1984; Kuschel, May, 1997; Legalov, 2009b].
+account specificity and the earlier branch of Obrienii- More complicated situation is with trophic links of the
+dae. It should be sorted out of two superfamilies of fossil species. Crowson [1975] supposed that the first
+curculionid-beetles (Obrienioidea with Obrieniidae and beetles, which started its development on the genera-
+Curculionoidea with Nemonychidae and other fami- tive organs of plants (particularly Cycadoidea from
+lies). Bennettitales) in the Jurassic, were primitive curculio-
+
+The recent representatives of Nemonychidae nid-beetles. He supposed that «it is possible the ros-
+(72 species from 21 genera) are widely distributed in trum of early Curculionoidea was adapted to penetrat-
+the Northern, Central and South America, the greater ing between the scales on Cycadeoid receptacles»
+part of the Palaearctic region, New Guinea, Australia, [Crowson, 1975]. Crowson [1981] noted that Nemo-
+
+
+
+Phylogeny of the family Nemonychidae 467
+
+p5 Cretonemonychinae
+p13   p20
+
+p7 p10 Nemonychinae
+
+Eobelinae
+
+p17 Paleocartinae
+
+Metrioxenoidinae
+p14
+
+r5  p17  p20 Selengarhynchinae
+p5
+
+p4 18 Rhinorhynchinae
+
+11  15  23
+p7   p10 Cimberindinae
+
+m1  p13  24  p26
+3  r5 Doydirhynchinae
+
+22 Eccoptarthrinae
+
+1  p21 Distenorrhininae
+
+p5 Brenthorrhininae
+
+8  9  p12  16  p19 Obrieniidae
+
+6  p10  p12  p13  p17  p19  p21  p26 Megalopodidae
+
+Fig. 24. Cladogram of the subfamilies of the family Nemonychidae is received by the method SYNAP. Figures — apomorphic
+conditions of characters; p — parallelisms; r — reversions; m — absence of character.
+
+Ðèñ. 24. Êëàäîãðàììà ïîäñåìåéñòâ ñåìåéñòâà Nemonychidae, ïîëó÷åííàÿ ìåòîäîì SYNAP. Öèôðû — àïîìîðôíûå ñîñòîÿíèÿ
+ïðèçàíàêîâ; p — ïàðàëëåëèçìû; r — ðåâåðñèè; m — îòñóòñòâèå ïðèçíàêà.
+
+Megalopodidae
+
+8  9  11r  13r  15r  20r Obrieniidae
+
+Cretonemonychinae
+
+Eobelinae
+17 5r  25
+
+4  6r  10r17r  21r26r Doydirhynchinae
+1  17r21
+
+5  8  20r  22 Eccoptarthrinae
+23
+
+5r Selengarhynchinae
+14
+
+12r  16r  19r 26 Metrioxenoidinae
+13r
+
+Paleocartinae
+2  20r
+
+1  17r  21 25 Brenthorrhininae
+
+5r Nemonychinae
+7  10
+
+13r  18 Rhinorhynchinae
+20r  23
+
+Cimberindinae
+
+24  26
+3  5r Distenorrhininae
+
+Fig. 25. Cladogram of the subfamilies of the family Nemonychidae received by the method PAUP. Indications as in Fig. 24.
+Ðèñ. 25. Êëàäîãðàììà ïîäñåìåéñòâ ñåìåéñòâà Nemonychidae, ïîëó÷åííàÿ ìåòîäîì PAUP. Îáîçíà÷åíèÿ êàê íà ðèñ. 24.
+
+
+
+468 A.A. Legalov
+
+ex.
+500
+
+60 Nemonychidae
+
+Curculionoidea other 400
+40
+
+300
+
+20
+200
+
+0
+100
+
+ian
+rd an
+
+fo ni ian
+Ox ho m n
+
+Ti
+t 0
+
+oc
+o pt
+
+ia an n
+A bi ian
+
+e
+N Al an ia
+
+on sic s
+om as sic
+
+as ou us e e
+ce eo en en ne e e
+
+Cen Tu
+r
+
+ly 
+Ju
+
+r
+ta ac oc ce en en ne
+
+te 
+Ju
+
+r
+re et le Eo
+
+c
+io
+c ce
+
+Fig. 26. Abundance of the genera Nemonychidae and other Ea
+r
+
+La Cr Pa to
+e- ly 
+
+C
+e Olig
+
+o
+M Pl
+
+io
+c
+
+Ñurculioniformia in the Mesozoic. dl
+id Ea
+
+r
+La
+
+t Pl
+eis
+
+Ðèñ. 26. Èçìåíåíèå ÷èñëà ðîäîâ Nemonychidae è ïðî÷èõ M
+Ñurculioniformia â ìåçîçîå.
+
+500 Fig. 28. Abundance of the specimens Nemonychidae and
+other Ñurculioniformia in the Mesozoic.
+
+400 Ðèñ. 28. Èçìåíåíèå ÷èñëà ýêçåìïëÿðîâ Nemonychidae è
+ïðî÷èõ Ñurculioniformia â ìåçîçîå.
+
+300 Ex.
+
+200 400
+
+100 300
+0
+
+200
+
+100
+
+0
+Nemonychidae Curculionoidea other an
+
+di ian ian an an an
+on m tia
+
+n
+bi an
+
+i ni
+th co Ap Al m ro
+
+Fig. 27. Abundance of the genera Nemonychidae and other Oxfo
+r
+
+Ti eo
+N no Tu
+
+Ñurculioniformia in the Mesozoic and Cainozoic. Ce
+
+Ðèñ. 27. Èçìåíåíèå ÷èñëà ðîäîâ Nemonychidae è ïðî÷èõ
+Ñurculioniformia â ìåçîçîå è êàéíîçîå.
+
+Fig. 29. Abundance of the specimens Nemonychidae and
+other Ñurculioniformia in the Mesozoic and Cainozoic.
+
+nychidae were the oldest among modern pollen-eating Ðèñ. 29. Èçìåíåíèå ÷èñëà ýêçåìïëÿðîâ Nemonychidae è
+beetles. Ponomarenko and Zherikhin [1980] assumed ïðî÷èõ Ñurculioniformia â ìåçîçîå è êàéíîçîå.
+that Eobelidae were spermophages. Kuschel [1983]
+supposed that fossil Nemonychidae from Karatau were
+associated with Bennettitales. Poinar and Milki [2001]
+assumed the possibility of the development of Liba- A systematic list of supracpecific taxa
+norhinus succinus Kuschel et Poinar, 1993 on Agathis of the families Obrieniidae
+levantensis Poinar et Milki, 2001. In my opinion, the and Nemonychidae
+most primitive Nemonychidae are representatives of
+the subfamily Cretonemonychinae and the tribe Oxyc- Superfamily Obrienioidea
+orynoidini (Eobelinae). We can assume their relations Zherikhin et Gratshev, 1993
+both with the Coniferous and the Bennettitales on the Family Obrieniidae Zherikhin et Gratshev, 1993
+assumption of the fact that they probably have been
+associated with male fructifications. The following de- Subfamily Obrieniinae Zherikhin et Gratshev, 1993
+velopment of the female fructifications has led to the Genus Obrienia Zherikhin et Gratshev, 1993: 3 species; Kyrgyz-
+formation of Eobelini and Probelini, and a transition to stan (Madygen), Middle–Upper Triassic.
+the Coniferous has led to a formation of the branch of Genus Guillermia Zherikhin et Gratshev, 1993: 1 species;
+the recent subfamilies. Kyrgyzstan (Madygen), Middle–Upper Triassic.
+
+Species Genera
+
+_
+_
+
+_
+
+_ _
+
+_
+_
+
+_
+
+_ _
+
+_
+_
+
+_
+
+_
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+
+
+Phylogeny of the family Nemonychidae 469
+
+Table 2. Fossil faunae of Nemonychidae Genus Cratomacer Zherikhin et Gratshev, 2004: 2 species;
+Òàáëèöà 2. Èñêîïàåìûå ôàóíû ñåìåéñòâà Nemonychidae Brazil (Santana), Early Cretaceous.
+
+Geological periods Genus Khetanamonyx Legalov, 2009: 1 species; Russia
+and epochs Localities Genera Species (Khetana), Early Cretaceous.
+
+Middle-Late Jurassic Karatau 27 68 Genus Microprobelus Liu, Ren et Shih, 2006: 1 species; China
+(Yixian), Late Jurassic – Early Cretaceous.
+
+Late Jurassic - Yixian 3 4
+Early Cretaceous Genus Oxycorynoides L. Arnoldi, 1977
+
+Khutuliyn-Khira 1 1
+Subgenus Oxycorynoides s. str.: 5 species; Karatau,
+
+Baissa 5 7 Middle–Late Jurassic — Mongolia (Gurvan-Ereny-Nuruu),
+Khasurtyi 3 5 Early Cretaceous.
+
+Neocomian
+Hutel-Hara 2 2 Subgenus Pseudoxycorynoides Legalov, 2009: 1 species;
+
+Karatau, Middle–Late Jurassic.
+Gurvan-Ereny-Nuruu 1 2
+
+Lower Berriasian Purbeck 1 1 Tribe Karataucarini Legalov, 2009
+Berriasian -
+Barremian Montsec 3 3 Genus Karataucar Legalov, 2009: 1 species; Karatau, Middle–
+
+Late Jurassic.
+Hauterivian -
+Barremian Las Hoyas 1 1 Genus Gratshevicar Legalov, 2009: 1 species; Karatau, Middle–
+
+Sharyn-Gol 2 2 Late Jurassic.
+Middle Neocomian
+
+Erdeni-Uul 1 1 Genus Ampliceps L. Arnoldi, 1977: 2 species; Karatau, Middle–
+Late Jurassic.
+
+Middle Neocomian -
+Lower Aptian Sаida 1 1
+
+Genus Scelocamptus L. Arnoldi, 1977: 2 species; Karatau,
+Middle–Late Jurassic.
+
+?Lower Aptian Bon-Tsagaan 1 3
+
+Santana 2 3 Tribe Nanophydini L. Arnoldi, 1977
+Aptiane -Albian
+
+Xiazhuang 1 1 Genus Nanophydes L. Arnoldi, 1977: 1 species; Karatau,
+Middle Albian Khetana 2 2 Middle–Late Jurassic.
+
+Green River 1 1
+Eocene Tribe Probelini Legalov, 2009
+
+Baltic amber 1 1
+Genus Belonotaris L. Arnoldi, 1977 : 1 species ; Karatau,
+
+Middle–Late Jurassic.
+Subfamily Kararhynchinae Genus Probelus L. Arnoldi, 1977
+
+Zherikhin et Gratshev, 1993 Subgenus Probelus s. str.: 6 species; Karatau, Middle–
+Tribe Kenderlykanini Legalov, 2009 Late Jurassic.
+
+Subgenus Probeloides Legalov, 2009: 1 species; Karatau,
+Genus Madygenorhynchus Zherikhin et Gratshev, 1993: 1 spe- Middle–Late Jurassic.
+
+cies; Kyrgyzstan (Madygen), Middle–Upper Triassic.
+Genus Arnoldibelus Legalov, 2009: 10 species; Karatau,
+
+Genus Kenderlyka Zherikhin et Gratshev, 1993: 1 species; Middle–Late Jurassic.
+Kazakhstan (Kenderlyk), Upper Triassic.
+
+Tribe Eobelini L. Arnoldi, 1977
+Tribe Kararhynchini Zherikhin et Gratshev, 1993
+
+Genus Eobelus L. Arnoldi, 1977: 1 species; Karatau, Middle–
+Genus Kararhynchus Zherikhin et Gratshev, 1993: 2 species; Late Jurassic.
+
+Karatau, Middle–Late Jurassic.
+Genus Archaeorrhynchus Martynov, 1926: 6 species; Karatau,
+
+Superfamily Curculionoidea Latreille, 1802 Middle–Late Jurassic.
+Genus Archaeorrhynchoides Legalov, 2009: 3 species; Karatau,
+
+Family Nemonychidae Bedel, 1882 Middle–Late Jurassic.
+Subfamily Cretonemonychinae Genus Martynovirhynchus Legalov, gen.n.: 1 species; Karatau,
+
+Gratshev et Legalov, 2009 Middle–Late Jurassic.
+Genus Pseudonemonyx Gratshev et Legalov, 2009: 1 species;
+
+Russia (Baissa), Early Cretaceous. Subfamily Distenorrhininae L. Arnoldi, 1977
+Genus Cretonemonyx Gratshev et Legalov, 2009: 3 species; Genus Buryatnemonyx Legalov, 2010: 3 species; Russia (Khas-
+
+Karatau, Middle–Late Jurassic — Russia (Baissa), Early Cretaceous. urtyi), Early Cretaceous.
+Genus Distenorrhinus L. Arnoldi, 1977
+
+Subfamily Nemonychinae Bedel, 1820 Subgenus Distenorrhinus s. str.: 9 species; Karatau,
+Genus Nemonyx Redtenbacher, 1845: 4 species; Western and Middle–Late Jurassic — Russia (Khasurtyi), Early Cretaceous.
+
+Central Palaearctic. Subgenus Parabrenthorrhinus Gratshev et Zherikhin,
+1996: 2 species; Karatau, Middle–Late Jurassic — Spain (Las
+
+Subfamily Eobelinae L. Arnoldi, 1977 Hoyas), Early Cretaceous.
+Subgenus Astenorrhinus Gratshev et Zherikhin, 1995:
+
+Tribe Oxycorynoidini L. Arnoldi, 1977 2 species; Karatau, Middle–Late Jurassic.
+Genus Belonotaroides Legalov, 2009: 1 species; Karatau, Genus Megabrenthorrhinus Gratshev et Zherikhin, 1996: 2 spe-
+
+Middle–Late Jurassic. cies; Karatau, Middle–Late Jurassic.
+
+
+
+470 A.A. Legalov
+
+Genus Microbrenthorrhinus Gratshev et Zherikhin, 2000: 2 spe- Tribe Nebrenthorrhinini Legalov, 2007
+cies; Spain (Montsec), Russia (Khasurtyi), Early Cretaceous.
+
+Genus Nebrenthorrhinus Legalov, 2003: 1 species; Spain
+(Montsec), Early Cretaceous.
+
+Subfamily Brenthorrhininae L. Arnoldi, 1977
+Tribe Brenthorrhinoidini Legalov, 2003 Subfamily Rhinorhynchinae Voss, 1922
+
+Genus Brenthorrhinoides Gratshev et Zherikhin, 1996: 2 spe- Tribe Mecomacerini Kuschel, 1994
+cies; Karatau, Middle–Late Jurassic. Subtribe Mecomacerina Kuschel, 1994
+
+Tribe Brenthorrhinini L. Arnoldi, 1977 Genus Renicimberis Legalov, 2009: 1 species; China (Yixian),
+Late Jurassic – Early Cretaceous.
+
+Genus Abrenthorrhinus Legalov, 2009: 1 species; Karatau,
+Middle–Late Jurassic. Genus Mecomacer Kuschel, 1954: 4 species; Argentina, Chile.
+
+Genus Brenthorrhinus L. Arnoldi, 1977: 1 species; Karatau, Genus Notomacer Kuschel, 1994: 8 species; Australia, New
+Middle–Late Jurassic. Caledonia.
+
+Genus Chinabrenthorrhinus Legalov, 2009: 1 species; China Genus Aragomacer Kuschel, 1994: 5 species; Australia, Papua
+(Xiazhuang), Early Cretaceous. New Guinea.
+
+Genus Gobibrenthorrhinus Gratshev et Legalov, 2009: 1 spe- Genus Eutactobius Kuschel, 1994: 1 species; Australia.
+cies; Mongolia (Khutuliyn-Khira), Early Cretaceous. Genus Bunyaeus Kuschel, 1994: 2 species; Australia.
+
+Genus Rhynchitomacerinus Kuschel, 1954: 1 species; Argen-
+Subfamily Eccoptarthrinae L. Arnoldi, 1977 tina, Chile.
+
+Genus Eccoptarthrus L. Arnoldi, 1977: 4 species; Karatau, Genus Rhynchitoplesius Voss, 1952: 1 species; Brazil.
+Middle–Late Jurassic.
+
+Genus Eccoptarthroides Legalov, 2010: 4 species; Karatau, Subtribe Brarina Legalov, 2009
+Middle–Late Jurassic. Genus Brarus Kuschel, 1997: 1 species; Brazil.
+
+Genus Procurculio L. Arnoldi, 1977: 3 species; Karatau, Mid-
+dle–Late Jurassic. Tribe Rhinorhynchini Voss, 1922
+
+Genus Atopomacer Kuschel, 1989: 4 species; North and Cen-
+Subfamily Metrioxenoidinae Legalov, 2009 tral America.
+
+Tribe Medmetrioxenoidesini Legalov, trib.n. Genus Rhinorhynchus Sharp, 1882: 4 species; New Zealand.
+Genus Medmetrioxenoides Gratshev et Legalov, 2009: 1 spe- Genus Nannomacer Kuschel, 1954: 2 species; Argentina, Chile.
+
+cies; Karatau, Middle–Late Jurassic. Genus Basiliorhinus Kuschel, 1994: 1 species; Australia.
+Genus Basilogeus Kuschel, 1994: 2 species; Australia.
+
+Tribe Megametrioxenoidesini Legalov, trib.n.
+Genus Pagomacer Kuschel, 1994: 1 species; Australia.
+
+Genus Megametrioxenoides Gratshev et Legalov, 2009: 1 spe-
+cies; Mongolia (Hutel-Hara), Early Cretaceous. Genus Rhynchitomacer Voss, 1937: 14 species; Argentina, Chile.
+
+Tribe Metrioxenoidini Legalov, 2009 Subfamily Cimberindinae des Gozis, 1882
+Genus Metrioxenoides Gratshev, Zherikhin, Jarzembowski, Tribe Cimberindini des Gozis, 1882
+
+1998: 1 species; UK (Purbeck), Early Cretaceous. Genus Chinocimberis Legalov, 2009: 2 species; China (Yixi-
+Genus Cretoxenoides Legalov, 2010: 1 species; Mongolia an), Late Jurassic – Early Cretaceous.
+
+(Erdeni-Uul), Early Cretaceous. Genus Cimberis des Gozis, 1881
+Genus Libanorhinus Kuschel et Poinar, 1993: 1 species; Leba- Subgenus Cimberis s. str.: 4 species; Holarctic.
+
+non amber, Early Cretaceous. Subgenus Amerocimberis Legalov, 2009: 4 species; North
+Genus Brasilnemonyx Legalov, 2009: 1 species; Brazil (San- America.
+
+tana), Early Cretaceous. Genus Pityomacer Kuschel, 1989: 3 species; North America.
+Genus Acromacer Kuschel, 1989: 1 species; North America.
+
+Subfamily Selengarhynchinae
+Gratshev et Legalov, 2009 Tribe Kuschelomacerini Riedel, 2010
+
+Genus Selengarhynchus Gratshev et Legalov, 2009: 1 species; Genus Kuschelomacer Riedel, 2010: 1 species; Baltic amber,
+Mongolia (Sharyn-Gol), Early Cretaceous. Eocene.
+
+Genus Selengarhynchoides Legalov, 2010: 1 species; Mongo-
+lia (Sharyn-Gol), Early Cretaceous. Subfamily Doydirhynchinae Pierce, 1916
+
+Genus Doydirhynchus Dejean, 1821: 2 species; Western Palae-
+Subfamily Paleocartinae Legalov, 2003 arctic.
+
+Tribe Paleocartini Legalov, 2003 Genus Lecontellus Kuschel, 1989: 3 species; USA.
+Genus Paleocartus Legalov, 2003: 1 species; Karatau, Middle– Genus Auletomacer Zherikhin, 1993: 1 species; Russia (Khe-
+
+Late Jurassic. tana), Early Cretaceous.
+
+
+
+Phylogeny of the family Nemonychidae 471
+
+New taxa iae almost straight, widened to apex. Tarsi elongated, little
+shorter than tibiae, widened. 1st segment 1.46 times wider
+
+Martynovirhynchus Legalov, gen.n. than length. 2nd segment 2.67 times shorter than 1st seg-
+Figs 18–19. ment, narrower. 3rd segment narrower than 2nd segment.
+
+Material. Metafemora narrow, narrower than mesofemora. Metatibiae
+ Holotype — PIN, No. 284/508, South Kazakh- narrow, hardly widened to apex. Length of body: 9.0 mm.
+
+stan, Chimkent Oblast, Algabass District, Kara-Tau Range, out-
+crops near villages of Kitaevka and Uspenovka, right bank of Etymology. New species is named in honour of
+Kashkar-Ata River valley, Kara-Bas-Tau, Tchokhay, Mikhailovka, L.V. Arnoldi.
+Galkino; Middle–Upper Jurassic, Oxfordian, Karabastau Forma-
+tion; part and counterpart of beetle impression. Medmetrioxenoidesini Legalov, trib.n.
+
+Description. Body elongated, flattened, weak sclero- Type genus: Medmetrioxenoides Gratshev et Legalov, 2009
+tized, yellowy-brown. Head and rostrum darker. Rostrum Description. Body narrow, not dorsoventral flattened,
+long, almost straight. Mandible long, with tooth at exterior not strong chitinized. Rostrum short, very weakly and
+margin. Labrum triangular, free. Eyes roundish, flat. Frons smoothly curved, of equal length to pronotum, 4.2 times
+narrow, weakly convex. Temples short. Antennae located in longer than width at the basis, with small mandibles. Anten-
+the first thirds of the rostrum. Scapus elongated. Funicle nae located more basally the rostrum middle. Head slightly
+segments elongated. Clava compact. Pronotum wide. Disk elongated. Frons weakly convex. Eyes almost round, aver-
+flattened. Elytra longer than their width. Points in striae age size. Temples equal to third of diameter of the eye.
+small. Legs long. Procoxa basal. Pro- and mesofemora strongly, Antennae reaching pronotum apex. Scapus not widened,
+widened. Tibiae almost straight. Tarsi elongated. 1st seg- 2.0–2.5 times longer than width. Pronotum elongated, with
+ment of pro- and metatarsi strongly widened and elongated. distinct lateral carina and flattened disk. Elytra 2.6 times
+Length of body: 9.0 mm. longer than pronotum, flat in the basic half and strongly
+
+Diagnosis. This new genus differs from the close genera convex in back, with weak punctate striae. Intervals wide.
+Archaeorrhynchus Martynov, 1926 and Archaeorrhyn- Precoxal part of the prothorax strongly elongated, more
+choides Legalov, 2009 by the strongly widened pro- and than twice longer the diameter of procoxa. Procoxae basal.
+metatarsi, weaker widened rostrum and femora, and weaker Femora not widened. Tibiae straight, not thick. Length of
+convex frons. body: 3.2 mm.
+
+Диагноз. Новый род отличается от близких родов Diagnosis. This new tribe differs from the other tribes
+Archaeorrhynchus Martynov, 1926 и Archaeorrhynchoides of this subfamily by the submedial located antennae, round-
+Legalov, 2009 сильно расширенными лапками не только ed eyes, weakly elytral striae, significantly long precoxal
+передних, но и средних ног, слабее утолщёнными голо- part of the pronotum.
+вотрубкой и бёдрами, а также слабее выпуклым лбом. Диагноз. Новая триба отличается от остальных триб
+
+Etymology. New genus is named in honour of A.V. Mar- подсемейства усиками, прикреплёнными на середине
+tynov. головотрубки, округлыми глазами, слабыми бороздка-
+
+Martynovirhynchus arnoldii Legalov, sp.n. ми надкрылий и сильно удлинённой перкоксальной час-
+тью переднегруди.
+
+Figs 18–19. Composition. Genus Medmetrioxenoides Gratshev et
+Material. Holotype — PIN, No. 284/508, South Kazakh- Legalov, 2009 from Middle–Late Jurassic of Karatau.
+
+stan, Chimkent Oblast, Algabass District, Kara-Tau Range, out- Remarks. For the figure, refer to Gratshev and Lega-
+crops near villages of Kitaevka and Uspenovka, right bank of lov’s work [2009, fig. 8].
+Kashkar-Ata River valley, Kara-Bas-Tau, Tchokhay, Mikhailov-
+ka, Galkino; Middle–Upper Jurassic, Oxfordian, Karabastau Megametrioxenoidesini Legalov, trib.n.
+Formation; part and counterpart of beetle impression.
+
+Description. Body narrow, flattened dorsoventrally, not Type genus: Megametrioxenoides Gratshev et Legalov, 2009
+strong sclerotized, and yellowy-brown. Head and rostrum Description. Body narrow, more or less strongly chiti-
+brown. Rostrum long, almost straight, 1.73 times longer nized. Rostrum short, weakly and smoothly curved, 1.15
+than pronotum and 9.0 times longer than width on the basis. times shorter than pronotum and 4.1 times longer than width
+Mandible long, with tooth at exterior margin. Labrum large, on the basis, with small mandibles. Antennae located on the
+free. Head capsule little wider than length. Eyes roundish, border of the third quarter of the rostrum. Head elongated.
+flat. Frons narrow, weakly convex. Temples short, shorter Frons convex. Eyes beanlike, average size. Temples little
+than diameter of the eye. Antennae located in the first third shorter than the smallest diameter of the eye. Antennae
+of the rostrum, long and reaching the basis of the elytra. reaching pronotum apex. Clava noncompact, much wider
+Scapus elongated, 7.6 times longer than width. 1st segment than funicle. Pronotum elongated, with distinct lateral cari-
+hardly shorter and narrower than scapus. 2nd–5th segments nae and flattened disk, small and densely granular. Elytra,
+elongated, shorter. 6th and 7th segments elongated, trape- probably, with weak punctate striae, 2.7 times longer than
+zoid. Clava compact. 1st and 2nd segments trapezoid, wide. pronotum. Precoxal part of the prothorax strongly elongated,
+3rd segment tear-shaped, pointed. Pronotum wide, 1.35 times more than twice longer than the diameter of the procoxa.
+wider than length. Disk flattened, small punctate. Elytra Procoxae basal. Profemora not widened. Metafemora strong
+1.77 times longer than width and 3.19 times longer than widened. Tibiae straight and not thick. Metatarsi long, hard-
+pronotum, flattened. Striae possibly weak. Points in them ly shorter than metatibiae. 1st and 2nd segments triangular.
+small. Intervals between points little wider than diameter of 3rd segment weakly sinuate at apex and only little wider
+the points. Legs long. Procoxa basal. Profemora strongly than the 2nd segment. Clausal segment on length equal to
+widened, 2.4 times longer than width. Protibiae almost the first three segments altogether, thin and strongly curved.
+straight. 1st segment strongly widened and elongated, little Claws with teeth. Length of body: 5.8 mm.
+narrower and shorter than profemora, 3.0 times longer than Diagnosis. This new tribe is very close to the tribe
+width. Mesofemora widened, narrower than profemora. Tib- Medmetrioxenoidini but differs by very weak elytral striae,
+
+
+
+472 A.A. Legalov
+
+transversal fabiform eyes and almost subapical located an- Kuschel G. 1954. La familia Nemonychidae en la Region Neotrop-
+tennae. ical (Aporte 15 de Coleoptera, Curculionoidea) // Revista Chile-
+
+Диагноз. Новая триба близка к трибе Medmetrioxe- na de Historia Natural. Vol.54. No.9. P.97–126.
+noidini и отличается очень слабыми бороздками над- Kuschel G. 1959. Nemonychidae, Belidae y Oxycorynydae de la
+крылий, поперечно вытянутыми бобовидными глазами Fauna chilena, con algunas considerationes biogeográficas //
+
+Investigaciones Zoológicas Chilenas. Vol.5. P.229–271.
+и почти субапикальными усиками. Kuschel G. 1983. Past and present of the relict family Nemonychidae
+
+Composition. Genus Megametrioxenoides Gratshev et (Coleoptera, Curculionoidea) // GeoJournal. Vo.7. No.6. P.499–
+Legalov, 2009 from Neocomian of Mongolia. 504.
+
+Remarks. For the figure, refer to Gratshev and Lega- Kuschel G. 1989. The Nearctic Nemonychidae (Coleoptera, Curcu-
+lov’s work [2009, fig. 4]. lionoidea) // Entomologica Scandinavica. Vol.20. P.121–171.
+
+Kuschel G. 1993. The Palaearctic Nemonychidae (Coleoptera: Cur-
+culionoidea) // Annales de la Société entomologique de France.
+
+Acknowledgements Vol.29. P.23–46.
+Kuschel G. 1994. Nemonychidae of Australia, New Guinea and New
+
+The author is thankful to his colleagues for the help with Caledonia // Zimmerman E.C. Australian weevils (Coleoptera:
+the work. Curculionoidea). Vol.1. Melbourne: CSIRO Australia. P.563–637.
+
+Kuschel G. 1995. A phylogenetic classification of Curculionoidea to
+families and subfamilies // Memoirs of the Entomological Soci-
+
+References ety of Washington. No.14. P.5–33.
+Kuschel G. 2003. Nemonychidae, Belidae, Brentidae (Insecta: Co-
+
+Arnoldi L.V. 1977. [Rhynchophora. Family Eobelidae] // Mezo- leoptera: Curculionoidea) // Fauna of New Zealand. No.45.
+zoiskie zestkokrylye [Mesozoic Coleoptera]. Tudy Paleontolog- Lincoln, Canterbury: Manaaki Whenua Press. 100 p.
+icheskogo instituta [Proceeding of Palaeontological institute]. Kuschel G., May B.M. 1997. A new genus and species of Nemony-
+Vol.161. P.142–144. [In Russian]. chidae (Coleoptera) associated with Araucaria angustifolia in
+
+Baikov K.S. 1999. Osnovy modelirovaniya filogeneza po metodu Brazil // Zew Zealand Entomologist. Vol.20. P.15–22.
+SYNAP [Bases of phylogenetic modeling by the SYNAP method]. Kuschel G., Poinar G.O. 1993. Libanorhinus succinus gen. et sp.n.
+Novosibirsk. 95 p. [In Russian]. (Coleoptera: Nemonychidae) // Entomologica Scandinavica.
+
+Crowson R.A. 1955. The natural classification of the families of Vol.24. P.143–146.
+Coleoptera. London: Nathaniel Lloyd. 187 p. Legalov A. 2002. Obituary Vladimir Vasilievich Zherikhin // Curcu-
+
+Crowson R.A. 1975. The evolutionary history of Coleoptera as lio. Vol.44. P.14–16.
+documented by fossil and comparative evidence // Atti X Con- Legalov A.A. 2006. Phylogenetic reconstruction of weevils super-
+gresso Naz. Ital. Entomol. Firenze. P.47–90. family Curculionoidea (Coleoptera) using the SYNAP method
+
+Crowson R.A. 1981. The Biology of the Coleoptera. London: Aca- // Biology Bulletin. Vol.33. No.2. P.127–134.
+demic Press. 802 p. Legalov A.A. 2009a. A review of fossil and recent species of the
+
+Crowson R.A. 1985. The systematic position of Nemonyx Redten- family Ithyceridae (Coleoptera) from the world fauna // Amur-
+bacher (Coleoptera, Curculionoidea: Nemonychidae) // Entom- skii zoologicheskii zhurnal. Vol.1. No.2. P.117–131 + col. pl.I–IV.
+ologia Generalis. Vol.11. Nos 1–2. P.57–58. Legalov A.A. 2009b. Annotated checklist of fossil and recent species
+
+Dieckmann L. 1974. Beiträge zur Insektenfauna der DDR: Coleop- of the family Nemonychidae (Coleoptera) from the world fauna
+tera — Curculionidae (Rhinomacerinae, Rhynchitidae, Atte- // Amurskii zoologicheskii zhurnal. Vol.1. No.3. P.200–213 +
+labidae, Apoderinae) // Beiträge zur Entomologie. Bd 24. H.1–4. col. pl.I.
+S.5–54. Legalov A.A. 2009c. Contribution to the knowledge of the Mesozoic
+
+Gratshev V.G., Legalov A.A. 2009. [New taxa of the family Nemo- Curculionoidea (Coleoptera) // Amurskii zoologicheskii zhur-
+nychidae (Coleoptera) from Jurassic and Early Cretaceous] // nal. Vol.1. No.4. P.283–295 + col. pl.I–IV.
+Euroasian Entomological Journal. Vol.8. No.4. P.411–416. Legalov A.A. 2010a. Checklist of the Mesozoic Curculionoidea
+[In Russian]. (Coleoptera) with description of new taxa // Baltic Journal of
+
+Gratshev V.G., Zherikhin V.V. 1995. [Revision of the Late Jurassic Coleopterology. Vol.10. No.1. P.71–101.
+Nemonychid weevil of genera Distenorrhinus and Procurculio Legalov A.A. 2010b. New genus and four new species of the
+(Insecta, Coleoptera: Nemonychidae)] // Paleontologicheskii subfamily Eccoptarthrinae from Middle–Upper Jurassic (Cole-
+zhurnal. No.2. P.83–94. [In Russian]. optera: Nemonychidae) // Studies and reports of District Muse-
+
+Gratshev V.G., Zherikhin V.V. 1996 (1995). A revision of the Nemo- um Prague-East. Taxonomical series. Vol.6. Nos 1–2. P.171–
+nychid weevil subfamily Brenthorrhininae (Insecta, Coleoptera: 178.
+Nemonychidae) // Palaeontological Journal. Vol.29. P.112–127. Liu M., Ren D., Shih Ch. 2006a. A new fossil weevil (Coleoptera,
+
+Gratshev V.G., Zherikhin V.V. 2000. New Early Cretaceous weevil Curculionoidea, Belidae) from the Yixian formation of western
+taxa from Spain (Coleoptera, Curculionoidea) // Acta Geologica Liaoning, China // Progress in Nature Science. Vol.16. No.8.
+Hispanica. Vol.35. P.37–46. P.885–888.
+
+Gratshev V.G., Zherikhin V.V. 2003. The fossil record of weevils Liu M., Ren D., Tan J. 2006b. New fossil weevils (Coleoptera:
+and related beetle families (Coleoptera, Curculionoidea) // Acta Curculionoidea: Nemonychidae) from the Jehol biota of western
+Zoologica Cracoviensia. Vol.46. Supplement. P.129–138. Liaoning, China // Annales Zoologici. Vol.56. No.4. P.605–
+
+Gratshev V.G., Zherikhin V.V., Jarzembowski E.A. 1997. A new 612.
+genus and species of weevil from the Lower Cretaceous of Martynov A.V. 1926. [To the knowledge of fossil insects of Jurassic
+southern England (Insecta: Coleoptera: Curculionoidea) // Cre- beds in Turkistan. 5. Some interesting Coleoptera] // Ezhegod-
+taceous Research. Vol.19. P.323–327. nik Russkogo paleontologicheskogo obshestva. Annales de la
+
+Grimaldi D., Engel M.S. 2005. Evolution of the Insects. Cambridge Societe Paleontologie de Russie. Vol.5. Part1. P.1–38. [In Rus-
+University Press. 755 p. sian].
+
+Hundsdörfer A.K., Rheinheimer J., Wink M. 2009. Towards the Marvaldi A.E., Sequeira A.S., O’Brien C.W., Farrell B.D. 2002.
+phylogeny of the Curculionoidea (Coleoptera): Reconstructions Molecular and morphological phylogenetics of weevils (Cole-
+from mitochondrial and nuclear ribosomal DNA sequences // optera, Curculionoidea): do niche shifts accompany diversifica-
+Zoologischer Anzeiger. No.248. P.9–31. tion? // Systematic Biology. Vol.51. P.761–785.
+
+Kirejtshuk A.G. 1991. Evolution of mode of life as the basis for Marvaldi A.E., Duckett C.N., Kjer K.M., Gillespie J.J. 2009. Struc-
+division of the beetles into groups of high taxonomic rank // tural alignment of 18S and 28S rDNA sequences provides
+Zunino M., Belles X., Blas M. (Eds): Advances in Coleopterol- insights into phylogeny of Phytophaga (Coleoptera: Curculio-
+ogy. AEC. Barcelona. P.249–262. noidea and Chrysomeloidea) // Zoologica Scripta. Vol.38. P.63–77.
+
+
+
+Phylogeny of the family Nemonychidae 473
+
+McKenna D., Farrell B. 2009. Beetles (Coleoptera) // Hedges S., Familie Attelabidae sowie ein Versuch, die phylogenetischen
+Kumar S. (Eds): The Timetree of Life. Oxford University Press. Zusammenhänge innerhalb der letzteren zur Darstellung zu
+P.278–289. bringen (Coleoptera Curculionidae) // Entomologische Abhan-
+
+McKenna D.D., Sequeira A.S., Marvaldi A.E., Farrell B.D. 2009. dlungen. Bd 32. No.11. S.222–244.
+Temporal lags and overlap in the diversification of weevils and Wink M., Mikes Z., Rheinheimer J. 1997. Phylogenetic relation-
+flowering plant // Proceedings of the National Academy of ships in weevils (Coleoptera: Curculionoidea) inferred from
+Sciences. Vol.106. P.7083–7088. nucleotide sequences of mitochondrial 16S rDNA // Naturwis-
+
+Medvedev L.N. 1968. [Chrysomelid beetles from Jurassic of Karatau senschaften. Vol.84. P.318–321.
+(Coleoptera, Chrysomellidae)] // Yurskie nasekomye Karatau Yan E.V. 2009. A new genus of Elateriform beetles (Coleoptera,
+[Jurassic insects of Karatau]. Moscow: Nauka. P.155–165. Polyphaga) from the Middle–Late Jurassic of Karatau // Paleon-
+[In Russian]. tological Journal. Vol.43. No.1. P.78–82.
+
+Oberprieler R.G., Marvaldi A.E., Anderson R.S. 2007. Weevils, Yan E.V., Van B. 2010. A new genus of Elateriform beetles (Cole-
+weevils, weevils everywhere // Zootaxa. No.1668. P.491–520. optera, Polyphaga) from the Jurassic of Daohugou, China //
+
+Poinar G.O., Milki R.K. 2001. Lebanese amber: oldest insect ecosys- Paleontological Journal. Vol.44. No.3. P.297–302.
+tem in fossilized resin. Oregon State University Press. 96 p. Zhang J.-F. 2005. The first find of chrysomelids (Insecta: Coleope-
+
+Ponomarenko A.G. 1969. Istoricheskoe razvilie zhestkokrylykh- tra: Chrysomeloidea) from Callovian-Oxfordian Daohugou bi-
+arkhosiemat [Historical development of Archostemata] // Trudy ota of China // Geobios. Vol.38. P.865–871.
+Paleontologicheskogo instituta [Proceeding of Palaeontological Zherikhin V.V. 1978. Razvitie i smena melovykh i kainozoiskikh
+Institute]. Vol.125. Moscow: Nauka. 240 p. [In Russian]. faunisticheskikh kompleksov (trakheinye i khelitserovye) [Deve-
+
+Ponomarenko A.G. 1983. Istoricheskoe razvitie zhestkokrylykh lopment and changes of the Cretaceous and Cainozoic faunal
+nasekomykh [Historical development of the Coleoptera]. Avto- assemblages (Tracheata and Chelicerata)] // Tudy Paleontolog-
+referat dissertatzii ... doktora buiologicheskikh nauk. Moscow. icheskogo instituta [Proceeding of Palaeontological institute].
+47 p. [In Russian]. Vol.165. 198 p. [In Russian].
+
+Ponomarenko A.G. 2002. Superorder Scarabaeidea Laicharting, Zherikhin V.V. 1986. [Weevils, Scarabaeida, Curculionoidea] //
+1781. Order Coleoptera Linne, 1758. The beetles // History of Nasekomye v rannemelovykh ekosystemakh Zapadnoi Mon-
+Insects. Dordrecht: Kluwer. P.164–176. golii. Trudy Sovmestnoi sovetsko-mongol’skoi paleontolog-
+
+Ponomarenko A.G., Zherikhin V.V. 1980. [Superorder Scarabaei- icheskoi ekspeditzii [Transactions of the Joint Soviet-Mongo-
+dea] // Istoricheskoe razvitie klassa nasekhomykh [Historical lian palaeontological expedition]. Moscow: Nauka. Vol.28.
+development of the Insecta]. Moscow: Nauka. P.75–84. P.105–108. [In Russian].
+[In Russian]. Zherikhin V.V. 1993. [Suborder Polyphaga] // Gromov V.V., Dmitriev
+
+Rasnitsyn A.P. 2002. Scope and approach // History of Insects. V.Yu., Zherikhin V.V., Lebedev E.L., Ponomarenko A.G.,
+Dordrecht: Kluwer. P.1–8. Rasnitsyn A.P., Sukatsheva I. D. [Cretaceous insect fauna of the
+
+Reid C.A.M. 1995. A cladistic analysis of subfamilial relationships Ulya River basin, West Okhotsk Region]. Mezozoiskie naseko-
+in the Chrysomelidae sensu lato (Chrysomeloidea) // Biology, mye I ostrakody Azii [Mesozoic insects and ostracods from
+phylogeny, and classification of Coleoptera. Papers celebrating Asia]. Tudy Paleontologicheskogo instituta [Proceeding of Pal-
+the 80th birthday of Roy A. Crowson. Warszawa. P.559–631. aeontological Institute]. Vol.252. P.20–37. [In Russian].
+
+Ren D. 1995. Systematic palaeontology. Insecta // Ren D., Lu L., Zherikhin V.V. 1998. Cladistics in palaeontology: problems and
+Guo Z., Ji S. Fauna and stratigraphy of Jurassic – Cretaceous in constraints // Proceedings of the First International Palaeoento-
+Beijing and the adjacent areas. Beijing: Seismic Publ. House. mological Conference. Moscow. P.193–199.
+P.47–121, 181–197. [In Chinese]. Zherikhin V.V. 2002. Ecological history of terrestrial insects //
+
+Riedel A. 2010. A new tribe, genus and species of Nemonychidae History of Insects. Dordrecht: Kluwer. P.331–388.
+from Baltic amber (Coleoptera: Curculionoidea: Nemonychi- Zherikhin V.V., Egorov A.B. 1991. Zhuki-dolgonosiki (Coleoptera,
+dae: Cimberidinae) // Insect Systematics & Evolution. Vol.41. Curculionidae) Dal’nego Vostoka SSSR (obzor podsemeistv s
+P.29–38. opisaniem novykh taksonov) [Weevils (Coleoptera, Curculion-
+
+Soriano C. 2009. First record of the family Belidae (Insecta, Coleop- idae) from Russian Far East (review of subfamilies with descrip-
+tera) in amber. New genus and species from the uppermost tion of new taxa). Vladivostok. 1990. 164 p. [In Russian].
+Albian amber of France // Geodiversitas. Vol.31. No.1. P.99–104. Zherikhin V.V., Gratshev V.G. 1993. Obrieniidae, fam. nov., the
+
+Soriano C., Gratshev V.G., Delclòs X. 2006. New Early Cretaceous oldest Mesozoic weevils (Coleoptera, Curculionoidea) // Pale-
+weevils (Insecta, Coleoptera, Curculionoidea) from El Montsec, ontological Journal. Vol.27. No.1A. P.50–69.
+Spain // Cretaceous Research. Vol.27. P.555–564. Zherikhin V.V., Gratshev V.G. 1995. A comparative study of the
+
+Swofford D.L. 1986. PAUP. Phylogenetic Analysis Using Parsimony. hind wing venation of the superfamily Curculionoidea, with
+Version 2.4.1. Illinois Natural History Survey, Champaign. phylogenetic implications // Biology, phylogeny, and classifica-
+
+Tan J.-J., Ren D., Li N.-N., Liu Zh.-L. 2004. Current knowledge of tion of Coleoptera. Papers celebrating the 80th birthday of Roy
+Mesozoic Coleoptera fossil in China // Acta Zootaxonomica A. Crowson. Warszawa. P.633–777.
+Sinica. Vol.29. No.4. P.683–691. [In Chinese]. Zherikhin V.V., Gratshev V.G. 2003. [A new weevil-beetle (Insecta,
+
+Ter-Minassian M.E. 1984. [A review of the weevil family Nemony- Coleoptera, Nemonychidae) from the Lower Cretaceous of Spain]
+chidae (Coleoptera, Rhynchophora) of the fauna of the USSR] // Paleontologicheskii zhurnal. No.4. P.70–71. [In Russian].
+// Entomologicheskoe obozrenie. Vol.63. No.1. P.105–110. Zherikhin V.V., Gratshev V.G. 2004. [Fossil Curculionid beetles
+[In Russian]. (Coleoptera, Curculionoidea) from the Lower Cretaceous of
+
+Thompson R.T. 1992. Observations on the morphology and classi- Northeastern Brazil] // Paleontologicheskii zhurnal. No.5.
+fication of weevils (Coleoptera, Curculionoidea) with a key to P.58–68. [In Russian].
+major groups // Journal of Natural History. Vol.26. P.835–891. Zimmerman E.C. 1994. Australian weevils (Coleoptera: Curculio-
+
+Voss E. 1965. Die Unterfamilie Camarotinae, ihre Beziehungen zur noidea). Vol.1. Melbourne: CSIRO Australia. xxxii+741 p.
+
+Поступила в редакцию 8.02.2009

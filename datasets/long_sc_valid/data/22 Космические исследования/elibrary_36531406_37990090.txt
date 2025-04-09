@@ -1,0 +1,512 @@
+﻿Vol. 10. No. 5-2018, H&ES RESEARCH
+
+AVIATION, SPASE-ROCKET HARDWARE
+
+doi: 10.24411/2409-5419-2018-10164
+
+Методика оценки возможностей инфраструктуры 
+испытательного космодрома по запуску малых 
+космических аппаратов с целью наращивания 
+возможностей национальной орбитальной группировки
+
+МОСИН АННОТАЦИЯ
+Дмитрий Александрович1 В работе представлена методика оценки возможностей инфраструктуры испытательно-
+
+го космодрома по подготовке и запуску малых космических аппаратов. На современном 
+ДУГА этапе развития ракетно-космической техники существует тенденция миниатюризации 
+Вадим Вадимович2 элементной базы, применяемой при проектировании космических аппаратов. В связи 
+
+с этим, всё чаще приходится осуществлять подготовку и запуск именно малых космиче-
+ских аппаратов. Основной целью разработки приведенной методики является создание 
+научно-методического аппарата, необходимого для планирования подготовки и запуска 
+малых космических аппаратов. Отличительной особенностью данной методики являет-
+ся учет группы показателей, которые не были учтены в предыдущих работах. Данными 
+показателями являются: состояние запасов космических средств находящихся на испы-
+тательном космодроме, состояние запасов компонентов ракетного топлива, необходи-
+мого для заправки космических средств, численность личного состава участвующего в 
+подготовке космических средств. Кроме того, в данной методике предусмотрена допо-
+ставка как космических средств, так и компонентов ракетного топлива в случае, если 
+текущая обеспеченность не соответствует потребному запасу, необходимому для под-
+готовки и запуска необходимого количества ракет космического назначения. Ещё одной 
+важной особенностью данной методики является применение сетевых моделей GERT 
+для расчёта времени подготовки составных частей ракет космического назначения. В 
+существующей практике процесс подготовки составных частей ракеты космического на-
+значения описывается сетевыми графиками, в которых не учитывается вероятность воз-
+никновения неисправностей (отказов) и интенсивность выполнения операций, состав-
+ляющих указанный процесс. Применение сетевых моделей GERT, учитывая указанные 
+факторы, позволяет произвести расчёт времени подготовки составных частей ракеты 
+космического назначения с большей достоверностью.
+
+Сведения об авторах:
+1к.т.н, доцент, доктарант Военно-космической 
+академии имени А.Ф. Можайского, 
+г. Санкт-Петербург, Россия, sin-da@mail.ru КЛЮЧЕВЫЕ СЛОВА: инфраструктура испытательного космодрома; малый косми-
+
+ческий аппарат; орбитальная группировка; ракетно-космический комплекс; ракета 
+2научный сотрудник Научно-испытательного 
+центра войсковой части 13991, космического назначения; система оперативного развертывания и восполнения орби-
+г. Мирный, Россия, dugavadim@mail.ru тальных группировок; сетевая модель GERT.
+
+Для цитирования: Мосин Д.А., Дуга В.В. Методика оценки возможностей инфраструктуры испытательного космодрома по запуску 
+малых космических аппаратов с целью наращивания возможностей национальной орбитальной группировки // Наукоемкие техно-
+логии в космических исследованиях Земли. 2018. Т. 10. № 5. С. 37–44. doi: 10.24411/2409-5419-2018-10164
+
+37
+
+
+
+НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 10. № 5–2018
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+-
+- -
+
+-
+- i i – ) -
+-
+-
+
+-
+N k
+К P ,k ∈{1...n}.
+
+-
+- N k
+
+К ≥ N i
+КCP
+
+i -
+- -
+
+-
+-
+
+-
+-
+
+- N k
+К P .
+
+- -
+
+- N Б Б
+5 ≥ Nпотр , -
+
+n
+
+N Б
+- 5 = nPH ,nPH ,nРБ ,nК ,nЗC
+
+К К К К
+
+-
+nPHК
+nPHК
+
+- n Б
+К
+
+- nКК
+nЗC
+
+-
+-
+-
+
+- V К T ≥ К T
+7 Vпотр , -
+
+-
+
+-
+
+-
+-
+
+V К T = vК T , К T , К T , К T К T C ∗
+7 -1 vT-1 vO2 vAT ,v ,v Г Γ
+
+Г Д Г A ,vΓ
+
+vК T
+Г-1
+
+vК T
+T-1
+
+38
+
+
+
+Vol. 10. No. 5-2018, H&ES RESEARCH
+
+AVIATION, SPASE-ROCKET HARDWARE
+
+vК T
+O2
+
+vК T
+AT
+
+vК T
+Д Г -
+
+-
+v Г
+A
+
+v Г
+Г
+
+- -
+
+- T i -
+- -
+
+-
+
+-
+T К КH КH
+Π = T H
+
+К +TTP +T К ,
+
+T КH
+К -
+
+T КH
+TР
+
+Nn Nn −1
+Tp = ∑Ti + ∑ τi , T КH
+
+К
+i=1 i=1 -
+
+T КH
+TР
+
+p
+
+i i
+i - T КH
+
+К
+
+i
+ Nn -
+
+T КH = T CЧ +
+Π T КГЧ
+
+К Π ,
+-
+
+V - T CЧ
+Π
+
+Nn -
+
+N n
+n T CЧ
+
+v Π
+
+T КΓЧ
+Π
+
+- -
+
+i = ni i
+
+ni i T PH К
+Π ≤ TΠ ≤ T Б
+
+Π ,
+i i
+
+i
+- T PH
+
+Π
+
+T К
+Π
+
+-
+
+39
+
+
+
+НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 10. № 5–2018
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+T Б
+Π -
+
+-
+
+-
+-
+
+T Б
+Π -
+
+T Б
+Π = T Б Б Б
+
+К +TTP +TЗaпp ,
+
+T Б
+К
+
+T Б
+TP -
+
+-
+T Б
+Запр -
+
+-
+-
+- -
+
+-
+- -
+
+-
+
+-
+
+-
+-
+
+-
+-
+
+-
+
+ME s ME s -
+
+j s
+ME s s j jE
+
+∂ j [M (s
+μ E )]
+
+jE = , s = 0
+∂ sj -
+
+j
+-
+
+-
+-
+
+α,α =1,αmax - -
+
+40
+
+
+
+Vol. 10. No. 5-2018, H&ES RESEARCH
+
+AVIATION, SPASE-ROCKET HARDWARE
+
+-
+-
+
+T PКК ≥ T PКК ≥ T ККn
+П Π Π ,
+
+-
+i -
+-
+- T T -
+
+-
+
+-
+-
+
+- -
+
+41
+
+
+
+НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 10. № 5–2018
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+-
+-
+-
+
+-
+-
+
+-
+
+-
+
+42
+
+
+
+Vol. 10. No. 5-2018, H&ES RESEARCH
+
+AVIATION, SPASE-ROCKET HARDWARE
+
+-
+
+-
+-
+-
+
+-
+-
+
+-
+- -
+
+-
+- -
+-
+
+-
+-
+
+-
+-
+
+METHODOLOGY FOR ASSESSING THE INFRASTRUCTURE OF THE TEST SPACEPORT 
+FOR LAUNCHING SMALL SPACECRAFT WITH THE AIM OF INCREASING 
+THE CAPABILITIES OF THE NATIONAL ORBITAL GROUPING
+
+DMITRY A. MOSIN, KEYWORDS: test spaceport infrastructure; small spacecraft; orbital 
+St.-Petersburg, Russia, sin-da@mail.ru groupings; rocket and space complex; space rocket; system of oper-
+
+ational deployment and replenishment of orbital groupings; network 
+VADIM V. DUGA, models GERT.
+Mirny, Russia, dugavadim@mail.ru
+
+ABSTRAСT
+This work presents a methodology for assessing the capacity of the test of the space assets located on the test spaceport, the state of the stocks 
+spaceport infrastructure for preparing and launching small spacecraft. At of the propellant components necessary for fueling the space assets, the 
+the present stage of development of rocket and space technology, there number of personnel involved in the preparation of the space assets. In 
+is a tendency of miniaturization of the element base used in designing addition, this method provides for the delivery of both space assets and 
+spacecraft. In this connection, it is increasingly necessary to prepare and propellant components in the event that the current provision does not 
+launch precisely small spacecraft. A distinctive feature of this technique meet the required reserve required to prepare and launch the required 
+is the consideration of a group of indicators that were not taken into ac- number of space rockets. Another important feature of this technique is 
+count in previous works. These indicators are: the state of the reserves the use of GERT network models for calculating the preparation time for 
+
+43
+
+
+
+НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 10. № 5–2018
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+components of space rockets. In current practice, the process of prepar- parative analysis of the characteristics of domestic and foreign remote sensing 
+
+ing components of a space rocket is described by network graphs, which spacecraft]. Sbornik nauchnykh trudov V Molodezhnaya nauchno-tekhnich-
+
+do not take into account the probability of malfunctions (failures) and the eskaya konferentsiya "Innovatsionnyy arsenal molodezhi" [Proceedings of the 
+
+intensity of the operations that make up this process. The use of network VI Youth scientific and technical conference "Innovative Arsenal of Youth"]. St. 
+
+GERT models, taking into account the indicated factors, makes it possible Petersburg, 2014. Pp. 98–101. (In Russian)
+
+to calculate the preparation time for components of a space rocket with 8. Koryachko V. P., Shibanov A. P. Analiz i optimizatsiya vremennykh kharakteris-
+
+greater reliability. tik LVS slozhnoy tekhnicheskoy sistemy [Analysis and optimization of the time 
+
+characteristics of the LAN of a complex technical system]. 3-ya Vsesoyuznaya 
+
+REFERENCES konferentsiya «Lokal'nye vychislitel'nye seti» [3rd All-Union Conference “Local 
+
+1. Averkiev N. F., Vlasov S. A., Kiselev V. V., Salov V. V. Obosnovanie parametrov Area Networks”]. Riga, 1988. Pp. 165–168.
+
+orbit kosmicheskikh apparatov dlya povysheniya chisla proletov nad rayonom 9. Koryachko V.P., Shibanov A.P., Shibanov V.A. Chislennyy metod nakhozhdeni-
+
+poverkhnosti Zemli [Justification of the parameters of the orbits of spacecraft ya zakona raspredeleniya vykhodnykh velichin GERT-seti [Numerical method for 
+
+to increase the number of spans over the surface of the Earth].  Trudy Voen- finding the distribution law of the output values of the GERT-network]. Informa-
+
+no-kosmicheskoy akademii imeni A. F. Mozhayskogo [Proceedings of the Mili- cionnye tehnologii [Information technologies]. 2006. No. 7. Pp. 16–21. (In Russian)
+
+tary Space Academy named after AF. Mozhaisky]. 2016. No. 665. Pp. 48–53. 10. Methods of assessment of possibilities of testing cosmodrome in deriving 
+
+2. Abdulaev D.A., Amirsaid U. B. Simulation of local computer networks taking the orbital groups of small satellites: report NIIR (intermediate.) [Methods for 
+
+into account probability-time characteristics. Automation and Remote Control. assessing the capabilities of the test spaceport during the orbital groupings of 
+
+1994. No. 3(55). Pp. 427–434. small spacecraft: the report on the NIIR (Intermediate): 27–35 / 1 GIK MO RF]. 
+
+3. Alifanov OM, Medvedev A. A., Sokolov V. P. Formirovanie oblika malykh ko- Hands: Zotov A.S.; Execution: Duga V.V. Mirny, 2016. 58 p. Inv. No. 373 / SIC. 
+
+smicheskikh apparatov novogo pokoleniya [Formation of the appearance of (In Russian)
+
+small spacecraft of a new generation]. Nauka i tekhnologii v promyshlennosti 11. Osnovnye polozheniya Osnov gosudarstvennoy politiki Rossiyskoy Federat-
+
+[Science and Technology in Industry]. 2011. No. 7. Pp. 69–91. (In Russian) sii v oblasti kosmicheskoy deyatel'nosti na period do 2030 goda i dal'neyshuyu 
+
+4. Duga V.V. Bortovye sistemy kosmicheskikh apparatov distantsionnogo zond- perspektivu. Utv. Prezidentom RF ot 19.04.2013 N Pr-906 [The main provisions 
+
+irovaniya [Onboard systems of spacecraft for remote sensing of the earth]. of the state policy of the Russian Federation In the field of space activities for 
+
+Sbornik trudov Vsearmeyskoy voenno-nauchnoy konferentsii "Problemy postro- the period up to 2030 and beyond. Approved. The President of the Russian 
+
+eniya sistemy vozdushno-kosmicheskoy oborony Rossiyskoy Federatsii" [Collec- Federation of 19.04.2013 N PR-906]. Zakony, kodeksy i  normativno-pravovye 
+
+tion of works of the All-Army Military-Scientific Conference "Problems of build- akty v Rossiyskoy Federatsii Laws, codes and regulations in the Russian Feder-
+
+ing the system of aerospace defense of the Russian Federation]. St. Petersburg, ation]. URL: http://legalacts.ru/doc/osnovnye-polozhenija-osnov-gosudarstven-
+
+2015. Vol. 1. Pp. 285–287. (In Russian) noi-politiki-rossiiskoi-federatsii/ (date of access 15.09.2018). (In Russian)
+
+5. Duga V.V. Kapteltsev D.N. Osnovnye tendentsii razvitiya malykh kosmich- 12. Sokolov V. P., Zavalishin I. V., Milyukov I. A. Innovatsii v  aerokosmicheskoy 
+
+eskikh apparatov distantsionnogo zondirovaniya Zemli [Main trends in the de- deyatel'nosti — budushchee rossiyskoy kosmonavtiki [Innovations in aero-
+
+velopment of small spacecraft for remote sensing of the Earth]. Sbornik trudov space — the future of the Russian space industry]. Kachestvo. Innovatsii. Obra-
+
+XX nauchno-prakticheskoy konferentsii "Nauchno-prakticheskie aspekty sover- zovanie [Quality. Innovation. Education]. 2009. No. 12. Pp. 36–38. (In Russian)
+
+shenstvovaniya upravleniya kosmicheskimi apparatami i informatsionnogo obe- 13. Phillips D., Garcia-Diaz A. Fundamentals of Network Analysis. Prentice Hall, 
+
+specheniya zapuskov kosmicheskikh apparatov" [Proceedings of the XX scientif- Englewood Cliffs, NJ, 1981, 474 p.
+
+ic-practical conference "Scientific and practical aspects of improving spacecraft 14. Shibanov A.P. Nahozhdenie zakona raspredeleniya vyhodnoj velichiny 
+
+control and information support of spacecraft launches". Krasnoznamensk, 10- GERT-seti bol'shoj razmernosti [Finding the law of distribution of the output 
+
+11 November 2015]. Krasnoznamensk, 2015. Pp. 24–27. (In Russian) value of a GERT-network of large dimension]. Informacionnye tehnologii [In-
+
+6. Duga V.V. Fedorov I.V. Sovremennoe sostoyanie razvitiya malykh kosmich- formation technologies]. 2007. No. 1. Pp. 42–45. (In Russian)
+
+eskikh apparatov distantsionnogo zondirovaniya zemli [The current state of 15. Shibanov A. P. Finding the Density of the Distribution of the Runtime of a 
+
+development of small spacecraft for remote sensing of the earth]. Sbornik GERT Network Based on Equivalent Simplifying Transformations. Automation 
+
+nauchnykh trudov VI Molodezhnaya nauchno-tekhnicheskaya konferentsiya "In- and Remote Control. 2003. No. 2. Pp. 117–126. (In Russian)
+
+novatsionnyy arsenal molodezhi"  [Proceedings of the VI  Youth scientific and 
+
+technical conference "Innovative Arsenal of Youth". St. Petersburg, 27–29 may INFORMATION ABOUT AUTHOR:
+2015]. St. Petersburg, 2015. Pp. 100–102. (In Russian) Mosin D. A., PhD, Docent, Doctoral Candidate, Military Space Academy;
+
+7. Duga V.V. Sravnitel'nyy analiz kharakteristik otechestvennykh i zarubezh- Duga V.V., Research Officer of the Research and Test center, 13991 State test 
+
+nykh kosmicheskikh apparatov distantsionnogo zondirovaniya zemli [Com- spaceport Ministry of defense of the Russian Federation.
+
+For citation: Mosin D.A., Duga V.V. Methods for assessing the capacity of the test spaceport infrastructure for launching small spacecraft in order to increase 
+the capabilities of the national orbital constellation. H&ES Research. 2018.  Vol. 10. No. 5. Pр. 37–44. doi: 10.24411/2409-5419-2018-10164  (In Russian)
+
+44

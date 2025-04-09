@@ -1,0 +1,216 @@
+﻿RF TECHNOLOGY AND COMMUNICATION
+
+АВТОМАТИЗИРОВАННАЯ ОБРАБОТКА И АНАЛИЗ
+БОЛЬШИХ ПОТОКОВ ГИПЕРСПЕКТРАЛЬНОЙ 
+АЭРОКОСМИЧЕСКОЙ ИНФОРМАЦИИ
+
+Козинов При использовании гиперспектральной оптико-электронной аппаратуры 
+Игорь Александрович, современных аэрокосмических систем мониторинга появляются возмож-
+к.т.н., доцент, докторант ности «обмена» пространственного разрешения на спектральное и автома-
+Военно-космической тизированного распознавания объектов наблюдения по спектральным при-
+академии имени А.Ф.Можайского, знакам. Гиперспектральные данные характеризуются большими объемами 
+г. Санкт-Петербург, Россия, 
+
+и, вследствии ограниченных пропускной способности радиоканалов пере-
+garry-spb@yandex.ru
+
+дачи информации и производительности автоматизированных рабочих 
+мест тематической обработки видеоданных, не позволяющими реализовы-
+вать их оперативную передачу, обработку и анализ. Методы решения про-
+блемы: Объемы гиперспектральной информации можно минимизировать за 
+счет выбора наиболее информативных спектральных каналов. В результате 
+такой оптимизации формируются выборки снимков, полученных в различ-
+
+Клю че вые сло ва: ных наиболее информативных спектральных каналах, которые при размер-
+аэрокосмическая система мониторинга; ности, существенно более низкой, чем число каналов гиперспектральной 
+гиперспектральные данные; системы, обеспечивают качественное решение задачи тематической обра-
+спектральный образ; спектральный ботки. Математически задача выбора наиболее информативных спектраль-
+канал; метод максимального 
+
+ных каналов для пикселя гиперспектрального датчика формулируется как 
+правдоподобия; метод вейвлет 
+преобразования. задача обнаружения координат изменения свойств дискретного спектраль-
+
+ного образа, описываемого совокупностью спектральных составляющих. 
+Совокупность составляющих дискретного спектрального образа в области 
+анализа рассматривается как последовательность независимых случайных 
+гауссовских величин с дисперсией и кусочно-постоянным средним, которое 
+скачкообразно изменяется при переходе от одной дискретной координаты 
+к другой. Представлено решающее правило алгоритма решения поставлен-
+ной задачи с использованием методов статистического оценивания в виде 
+решающей статистики для обнаружения и оценки максимального правдо-
+подобия координаты (спектрального канала) изменения свойств (скачков, 
+разладки) анализируемого процесса. Последовательное применение дан-
+ного алгоритма к выборке значений спектральных составляющих позволяет 
+определить номера наиболее информативных спектральных каналов. Пред-
+ложено использование свойств вейвлет-преобразования для обнаружения 
+координат изменения свойств дискретного спектрального образа. Основны-
+ми операциями обработки сигналов при обнаружении их локальных свойств 
+(особенностей) является анализ вейвлет-коэффициентов малых масштабов 
+и определение интервала корреляции функции, описывающей сигнал. 
+Применение предложенных методов сокращения избыточности гиперспек-
+тральных видеоданных позволит обеспечить согласование информационной 
+производительности гиперспектральной аппаратуры с пропускной способ-
+ностью радиоканалов передачи информации и информационной произво-
+дительностью автоматизированных рабочих мест тематической обработки. 
+Практическое использование предложенных методов, демонстрирует их ра-
+ботоспособность и позволяет получить выигрыш в вероятности распознавания 
+по сравнению с выбором спектральных каналов простым равномерным «про-
+реживанием» данных.
+
+WWW.H-ES.RU H&ES RESEARCH 57
+
+АННОТАЦИЯ
+
+
+
+РАДИОТЕХНИКА И СВЯЗЬ
+
+Vu V Sgb l
+V
+
+S l
+g
+
+b
+N S l
+
+V
+
+R
+
+I N
+
+l
+
+l
+
+I L L gb l l
+L L l
+
+l
+
+58 НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ 5-2016
+
+
+
+RF TECHNOLOGY AND COMMUNICATION
+
+WWW.H-ES.RU H&ES RESEARCH 59
+
+
+
+РАДИОТЕХНИКА И СВЯЗЬ
+
+k
+
+I I I
+I IM
+
+k n
+Ik Ik n
+
+I
+
+a aj a j
+
+bjk k a j
+
+j
+f m
+
+m M k
+
+60 НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ 5-2016
+
+
+
+RF TECHNOLOGY AND COMMUNICATION
+
+|W j k j j jL
+
+k
+k
+
+L
+
+nkg
+
+WI j k
+L
+
+Для цитирования:
+Козинов И.А. Автоматизированная обработка и анализ больших потоков гиперспектральной аэрокосмической инфор-
+мации // Наукоемкие технологии в космических исследованиях Земли. 2016. Т. 8. № 5. С. 57–62.
+
+WWW.H-ES.RU H&ES RESEARCH 61
+
+
+
+РАДИОТЕХНИКА И СВЯЗЬ
+
+THE AUTOMATED PROCESSING AND THE ANALYSIS OF iz kosmosa. 2014. No 1. Pp. 3–17. (In Russian).
+LARGE FLOWS OF THE HYPERSPECTRAL AEROSPACE 2. Lyukhin A.V., Umbitaliev A.A. Tasks video information systems 
+INFORMATION and space defense. Voprosyi radioelektroniki, ser. Tehnika televid-
+
+eniya. 2013. Vol. 2. Pp. 3–14.
+Igor A. Kozinov, 3. Maltsev G.N., Kozinov I.A., Danilkin A.P. Space Systems and 
+St. Petersburg, Russia, garry-spb@yandex.ru Technologies Interned for Multispectral Remote Sensing of the Earth. 
+
+Informatsiia i kosmos, 2010, No. 1. Pp. 148–158. (In Russian).
+Abstraсt 4. Shovengerdt R.A. Distantsionnoe zondirovanie. Modeli i meto-
+At use of hyperspectral optic-electronic equipment of modern aero- dyi obrabotki izobrazheniy [Remote sensing. Models and methods 
+space systems of monitoring there are capabilities of "exchange" of the of image processing]. Moscow, Technosphere. 2010. 560 p. (In 
+space permission on spectral and the automated recognition of objects Russian). 
+of supervision to spectral signs. Hyperspectral data are characterized 5. Kozinov I.A. The transfer of remote sensing data from satellites 
+in great volumes and, owing to the radio channels of information trans- observing. Izvestiya Yugo-Zapadnogo gosudarstvennogo universi-
+fer limited to throughput and productivity of the automated workplaces teta. Seriya Upravlenie, vyichislitelnaya tehnika, informatika. 2012. 
+of thematic processing of the video data, not allowing realizing their No. 2. Part 3. Pp.102–106.
+operative transfer, processing and the analysis. Methods of a solution 6. Kozoderov V.V. Kondranin T.V., Dmitriev E.V., Kazantsev O.J., 
+of a problem: Volumes of the hyperspectral information can be mini- Perseus I.V. Shcherbakov M.V. Processing hyperspectral sensing. 
+mized at the expense of selection of the most informative spectral chan- Issledovanie Zemli iz kosmosa. 2012. No 5. Pp. 3–11.
+nels. As a result of such optimization samples of the pictures received in 7. Salomon D. Szhatie dannyih, izobrazheniya i zvuka [Data 
+various most informative spectral channels which at dimension, it is Compression, Image and Sound]. Moscow, Technosphere. 2004. 
+essential lower, than number of channels of hyperspectral system are 368 p. (In Russian).
+formed, supply the qualitative solution of a problem of thematic process- 8. Miano J. Formatyi i algoritmyi szhatiya izobrazheniy v deystvii 
+ing. Mathematically the problem of selection of the most informative [The formats and image compression algorithms in action]. Moscow, 
+spectral channels for pixel of the hyperspectral sensor is formulated as Triumph. 2003. 336 p. (In Russian).
+a problem of detection of coordinates of change of properties of the 9. Motta G., Rizzo F., Storer J.A. Hyperspectral Data Compression. 
+discrete spectral image described by set of spectral components. Set of New York. Springer Science and Business Media Inc. 2006. 421 p.
+components of a discrete spectral image in the field of the analysis is 10. Tarasov V.V., Yakushenkov U.G. Multispectral optoelectronic 
+considered as sequence independent casual Gauss values with disper- systems. Spetsialnaya tehnika. 2002. No 4. Pp.56–62.
+sion and a mean average which in steps changes at transition from one 11. Davis Sh.M. and others. Distantsionnoe zondirovanie: kolichest-
+discrete coordinate to another. The solving rule of algorithm of the solu- vennyiy podhod [Remote sensing: the quantitative approach]. 
+tion of a task in view with use of methods of statistical estimation in the Moscow, Nedra. 1983. 415 p. (In Russian).
+form of the solving statistics for detection and an estimation of the max- 12. Maltsev G.N., Kozinov I.A., Fateev V.F. Methods of Choice of 
+imum credibility of co-ordinate (the spectral channel) changes of prop- the Most Informational Spectral Channels under Remote Flexing of 
+erties (jumps) analyzed process is presented. Consecutive application the Earth from Small Spacecrafts. Izvestiia vuzov. Priborostroenie, 
+of the given algorithm to sample of values of spectral components allows 2007. No. 6. Pp. 23–31 (In Russian).
+to determine numbers of the most informative spectral channels. Use of 13. Gonzalez R., Woods, R., Eddins S. Digital image processing 
+properties of wavelet-transformation for detection of co-ordinates of environment MATLAB. Moscow, Tekhnosfera. 2006. 616 p.
+change of properties of a discrete spectral image is offered. The basic 14. Zhigliavskii A.A., Kraskovskii A.E. Obnaruzhenie izmeneniia 
+operations of processing of signals at detection of their local properties svoistv signalov i dinamicheskikh sistem [Detection of the Change-
+(features) is the analysis of wavelet-factors of small scales and definition Point in Random Processes in Problems of Radio Engineering]. 
+of an interval of correlation of the function describing a signal. Leningrad, LGU Publ., 1988. 224 p. (In Russian).
+Application of the offered methods of reduction of redundancy of 15. Basseville M., Vilski A., Banveniste A., at al. Detection of Abrupt 
+hyperspectral video data will allow to supply the coordination of Changes in Signals and Dynamical Systems. New York, Springer-
+information productivity of hyperspectral equipment with throughput Verlag, 1985. 278 p.
+of radio channels of information transfer and information productivi- 16. Kozinov I.A., Maltsev G.N. Modified Algorithm of the Detection 
+ty of the automated workplaces of thematic processing. Practical use of Abrupt Changes in Casual Process and its use for Processing of 
+of the offered methods, demonstrates their functionability and allows Multispectral Data. Informatsionno-upravliaiushchie sistemy, 2012. 
+to receive a prize in probability of recognition in comparison with No. 3. Pp. 9–17 (In Russian).
+selection of spectral channels simple uniform "thin out" data. 17. Kozinov I.A. Detection of the local properties of the analyzed 
+Keywords: aerospace system of monitoring; hyperspectral data; signal and processes using wavelet transform. Informatsionno-
+spectral image; spectral channel; maximum likelihood method; upravliaiushchie sistemy. 2015. No. 1 (74). Pp. 21–28. (In Russian).
+wavelet transformations. 18. Mallat S.A Wavelet tour of signal processing. Paris, Academic 
+
+Press, 1999. 671 p.
+References
+1. Bondur V.G. Modern approaches to the treatment of large flows Information about authors: 
+of hyperspectral and multispectral information. Issledovanie Zemli Kozinov I.A., Ph.D., doctoral student, Military Space Academy.
+
+For citation:
+Kozinov I.A. The automated processing and the analysis of large flows of the hyperspectral aerospace information. H&ES Research. 
+2016. Vol. 8. No. 5. Pр. 57–62.
+
+62 НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ 5-2016

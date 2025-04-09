@@ -1,0 +1,731 @@
+﻿Известия Томского политехнического университета. Инжиниринг георесурсов. 2020. Т. 331. № 6. 77–85 
+Малышев Д.Ю., Сыродой С.В. Обоснование ресурсоэффективности технологий сжигания водоугольных топлив с добавками биомассы 
+
+ 
+УДК 536.468 
+
+ОБОСНОВАНИЕ РЕСУРСОЭФФЕКТИВНОСТИ ТЕХНОЛОГИЙ СЖИГАНИЯ  
+ВОДОУГОЛЬНЫХ ТОПЛИВ С ДОБАВКАМИ БИОМАССЫ 
+
+Малышев Дмитрий Юрьевич1,  
+dmitry.mlv@gmail.com 
+
+Сыродой Семен Владимирович1,  
+ssyrodoy@yandex.ru 
+
+1 Национальный исследовательский Томский политехнический университет,  
+Россия, 634050, г. Томск, пр. Ленина, 30. 
+
+ 
+Одной из наиболее актуальных проблем современности является экологическая безопасность. Загрязнение атмосферы 
+Земли в последние десятилетия обусловлено в значительной степени работой тепловых электрических станций, сжигаю-
+щих уголь, на территориях наиболее развитых государств (США, Китай, Индия и др.). Использование нового класса топли-
+ва – био-водоугольного – может позволить существенно снизить выбросы антропогенных газов, образующихся при сжигании 
+углей в топках паровых и водогрейных котлов, в атмосферу Земли, расширить сырьевую базу современных тепловых элек-
+трических станций и повысить в целом ресурсоэффективность угольной теплоэнергетики.  
+Цель: исследование влияния концентрации древесной биомассы в жидких композиционных топливах на интегральные харак-
+теристики процесса зажигания капель био-водоугольных топлив в условиях высокотемпературного нагрева. 
+Объект: водоугольная суспензия на основе угля марки Т, воды и еловой хвои. Экспериментальные исследования проведены 
+при следующих массовых концентрациях угля и биомассы: 50/0 %, 45/5 %, 40/10 %, 35/15 %, соответственно (50 % – вода). 
+Метод: экспериментальное определение с использованием высокоскоростной видеокамеры Photron FASTCAM СА4 временных 
+характеристик процессов зажигания капель био-водоугольных суспензий в условиях, соответствующих по интенсивности 
+нагрева камерам сгорания паровых и водогрейных котлов; регистрация температуры среды с использованием хромель-
+алюмелевых термопар. 
+Результаты. Установлено влияние массовой концентрации лесного горючего материала на времена задержки зажигания 
+(tign) водоугольных топлив. Показано, что при содержании в топливной композиции 15 % биомассы времена задержки зажига-
+ния уменьшаются более чем в три раза по сравнению с водоугольным топливом без добавления биомассы при относительно 
+низких температурах топочной среды. Результаты выполненных экспериментальных исследований также являются базой 
+для развития моделей горения жидких композиционных топлив. 
+
+ 
+Ключевые слова: 
+Био-водоугольное топливо, биомасса, лесной горючий материал, зажигание,  
+время задержки зажигания, эксперимент, энергоэффективность.  
+
+ 
+Введение теории формирования оксидов азота [14] известно, 
+С промышленным развитием растет потребление что основным источником NOx является атомарный 
+
+электрической и тепловой энергии, основным источ- азот, содержащийся в воздухе (окислителе). При от-
+ником которой являются ископаемые ресурсы [1–3]. носительно высоких температурах среды в зоне горе-
+Наибольшая доля приходится на уголь (при его сжи- ния протекает ряд реакций [15], основные из которых: 
+гании вырабатывается около 38 % всей электрической N2+O2→2N+2O→2NO. При сжигании водосодержа-
+энергии в мире [4]). Но в то же время негативное воз- щих топлив большое количество тепла затрачивается 
+действие на окружающую среду антропогенных и на парообразование, по этой причине температура в 
+парниковых газов (оксидов серы (SOx), азота (NOx) и зоне горения факела существенно уменьшается по 
+углекислого газа (СO2)) [5], образующихся при сжи- сравнению с горением пылевидного угля. В результа-
+гании углей, создают предпосылки для поиска новых, те значительно снижается интенсивность образования 
+менее загрязняющих атмосферу Земли топлив для NOx. Кроме того, при взаимодействии водяного пара 
+тепловых электростанций. Примером такого топлива и углерода кокса (С+H2O→CO+H2) образуются оксид 
+является смесь угля и биомассы. Последняя имеет углерода и водород, которые выступают в качестве 
+низкое содержание серы и азота [6]. По результатам восстановителя NOx и SOx при термохимическом вза-
+многочисленных исследований (например, [7–9]) имодействии (NOx+H2/CO→N2+H2O/CO2; 
+установлено, что при совместном сжигании биомассы SOx+H2/CO→S+H2O/CO2) [15].  
+с углем существенно снижаются выбросы SO В связи с вышеизложенным исследования водо-
+
+x и NOх 
+[10–12].  угольных топлив, как экспериментальные [16, 17], так 
+
+Другими перспективными топливами, по экологи- и теоретические [18], в последние годы проводятся 
+ческим критериям, являются смеси на основе воды и достаточно интенсивно во многих государствах (осо-
+угля. Такую смесь в настоящее время называют водо- бенно в России). Но водоугольные суспензии пока не 
+угольным топливом (ВУТ). В работе [13] показано, нашли широкого применения в энергетике в связи с 
+что при сжигании ВУТ оксиды азота и серы снижа- тем, что в таких топливах содержание воды должно 
+ются практически в 2 и 4 раза, соответственно. Из составлять от 50 до 60 % по массе [15]. Поэтому зна-
+
+DOI 10.18799/24131830/2020/6/2677 77 
+
+
+
+Известия Томского политехнического университета. Инжиниринг георесурсов. 2020. Т. 331. № 6. 77–85 
+Малышев Д.Ю., Сыродой С.В. Обоснование ресурсоэффективности технологий сжигания водоугольных топлив с добавками биомассы 
+
+  
+чительная теплота затрачивается на термическую древесной биомассы с водой в соответствии с задан-
+подготовку топлива (прогрев и выход паров воды из ными массовыми соотношениями в гомогенизаторе. 
+топливной частицы) и времена задержки зажигания Суспензия доводилась до гомогенного (однородного) 
+столь обводнѐнных топлив могут достигать 30 с [19]. состояния в процессе перемешивания в течениe 
+Одним из путей снижения значений tign водоугольных 60 минут. 
+суспензий является добавление различного рода до- Состав исследуемых топливных композиций пред-
+бавок, ускоряющих процесс зажигания. В [20] с це- ставлен в табл. 1.  
+лью увеличения реакционной способности топлива в 
+фильтр-КЕК добавлялись отходы нефтепереработки. Таблица 1.  Состав исследуемых топливных композиций 
+Как известно [21], при сжигании нефтепродуктов об- Table 1.  Structure of the studied fuel compositions 
+разуется достаточно много антропогенных газов. По Уголь/Coal Биомасса/Biomass Вода/Water 
+результатам экспериментов [20] установлено, что 
+
+Марка Содержание/ Содержание/ Вид Содержание/ 
+добавление в состав топлива отходов лесопиления Brand Content, % Content, % Species Content, % 
+приводит к снижению антропогенных выбросов. 
+
+35 15 Еловая 
+В то же время на лесопокрытых территориях мно- «Тощий» (Т)  
+
+40 10 хвоя 
+гих государств есть большие запасы отходов жизне- Subanthracite 50 
+
+45 5 Spruce 
+(SA) 
+
+деятельности леса (опавшая листва, хвоя, ветки, сухо- 50 0 needles 
+
+стои и т. п.), так называемый лесной горючий матери-  
+ал (ЛГМ). Последний, с одной стороны, является ис-
+точником повышенной опасности в лесах (в сухую 
+погоду возможно возникновение лесных пожаров 
+вследствие природных или техногенных процессов), с 
+другой стороны – это горючие вещества, которые 
+могут в определенной степени заменить (или допол-
+нить) природные ресурсы (газ и уголь), использую-
+щиеся в качестве топлива тепловых электростанций. 
+Известны примеры (достаточно многочисленные)  
+использования различных видов биомассы в качестве Рис. 1.  Экспериментальный стенд: 1 – держатель кап-
+
+добавки к углям (например, [22]). Соответственно, ли; 2 – капля топлива; 3 – регулятор темпера-
+туры; 4 – высокотемпературная печь; 5 – по-
+
+внедрение лесного горючего материала в энергетику 
+движная площадка; 6 – высокоскоростная ви-
+
+позволит решить ряд проблем. Совместное сжигание деокамера; 7 – направляющая подвижной пло-
+биомассы и угля позволит снизить вероятность воз- щадки; 8 – термопары 
+никновения лесных пожаров путем использования Fig. 1.  Experimental stand: 1 – the drop holder; 2 – the fuel 
+отходов жизнедеятельности леса в энергетике. Также drop; 3 – the temperature controller; 4 – the high-
+сжигание ЛГМ совместно с углем позволит решить и temperature furnace; 5 – the mobile platform; 6 – 
+экологические проблемы. Но возможность использо- the high-speed video camera; 7 – the mobile 
+вания лесных горючих материалов в качестве значи- platform guide; 8 – the thermocouples 
+
+мой добавки к топливам угольных ТЭС ранее не изу-
+чалась, хотя достаточно очевидно, что времена за- На рис. 1 приведена схема экспериментальной 
+держки зажигания ЛГМ в обычном состоянии (даже установки, основными элементами которой являются 
+без измельчения) малы, а теплотворная способность высокотемпературная трубчатая печь и высокоско-
+достаточно велика. Поэтому становится актуальным ростная видеокамера Photron FASTCAM СА4, кото-
+использование лесного горючего материала в каче- рая установлена на подвижной каретке. Печь пред-
+стве ускоряющей процесс зажигания добавки к водо- ставляет собой полый керамический цилиндр, поде-
+угольным топливам. ленный на три зоны нагрева с независимым управле-
+
+нием в каждой. Температура окислителя (воздуха) 
+Методики проведения экспериментов  внутри печи контролировалась хромель-алюмелевой 
+и подготовки топлива термопарой. На внешней поверхности цилиндра за-
+С целью подготовки топлива для эксперименталь- креплялся термоэлектрический нагреватель. Вся си-
+
+ных исследований проводился ряд технологических стема нагрева теплоизолирована минеральной ватой. 
+операций. В качестве лесного горючего материала Во избежание тепловых потерь торцы печи закрыва-
+использовалась хвоя ели, которая высушивалась в лись жаростойкими заглушками, которые убирались в 
+сушильном шкафу в течении 120 минут при темпера- момент, предшествующий вводу капли топлива, за-
+туре 373 К. Затем лесной горючий материал измель- фиксированной на металлическом держателе, в по-
+чался в дисковой мельнице и просеивался через лость трубчатой печи. Следует отметить, что капля на 
+вибросито с размером ячейки 100 мкм. Крупнокуско- держателе принимала форму вытянутого по нормали 
+вой каменный уголь (размером 80…100 мм) измель- к поверхности держателя эллипсоида. Такая геомет-
+чался в щековой дробилке до фракции частиц δ≈30 мм. рия, как показали результаты экспериментов [23, 24], 
+Далее угольная крошка размалывалась в шаровой является одним из многих вариантов форм в реальной 
+мельнице до пылевидного состояния δ≤90 мкм. практике движения капель жидкости через высоко-
+Окончательный этап – смешение каменного угля и температурную газовую среду. Поэтому форма капли 
+
+78 
+
+
+
+Известия Томского политехнического университета. Инжиниринг георесурсов. 2020. Т. 331. № 6. 77–85 
+Малышев Д.Ю., Сыродой С.В. Обоснование ресурсоэффективности технологий сжигания водоугольных топлив с добавками биомассы 
+
+ 
+после ее деформации на держателе является одной из промахов определялся доверительный интервал и 
+достаточно типичных, и результаты экспериментов времена задержки зажигания при идентичных усло-
+можно оценивать как представительные. Температура виях нагрева. Значения ∆tign при доверительной веро-
+воздуха (Tg) в печи соответствовала условиям топоч- ятности 0,95 составляли не более ±7,2 %. 
+ных камер реальных котельных агрегатов и составля-
+ла от 873 до 1273 К [25]. Процессы зажигания и тер- Результаты экспериментов 
+
+мической подготовки капель топлив фиксировала На рис. 2 представлен внешний вид исследуемых 
+высокоскоростная видеокамера Photron FASTCAM смесей перед экспериментами. Установлено, что с уве-
+СА4 (скорость видеосъемки до 20000 кад/с). За время личением доли биомассы в топливе увеличивается и 
+задержки зажигания (tign) принимался период от нача- адсорбционная способность смесей. Так, например, 
+ла теплового воздействия до зажигания (появление при уменьшении массовой концентрации угля и соот-
+первого пламени).  ветствующем увеличении доли лесного горючего ма-
+
+Для капель каждой смеси в одинаковых условиях териала в составе топлива (выше 5 %) водоугольная 
+проводилась серия экспериментов не менее чем из суспензия теряет свою однородность (рис. 2). По этой 
+10 опытов. По результатам проведенных исследова- причине распыл такого существенно неоднородного 
+ний определялись средние значения tign. После этого топлива может привести к забиванию форсунок или 
+рассчитывались среднеквадратичные отклонения системы подачи топлива, а также абразивному износу 
+каждого отдельного результата измерения и довери- горелок. Соответственно для сжигания водоугольной 
+тельные интервалы ∆tign времени задержки зажигания суспензии с высоким содержанием биомассы необхо-
+при идентичных условиях нагрева. После отбраковки димы специальные технологии топливоподачи.  
+
+ 
+
+  
+
+ 
+
+а/a б/b в/c 
+
+Рис. 2.  Внешний вид водоугольного топлива при различных концентрациях биомассы: а) 15 % лесного горючего ма-
+териала; б) 10 % лесного горючего материала; в) 5 % лесного горючего материала 
+
+Fig. 2.  Appearance of water-coal fuel at different biomass concentrations: а) 15 % of forest combustible fuel; b) 10 % of 
+forest combustible fuel; c) 5 % of forest combustible fuel 
+
+На рис. 3 представлены кадры типичной видео- суспензию ЛГМ (при концентрации последнего 5 %) 
+граммы процесса нагрева капель и последующего приводит к тому, что капля такого топлива в течение 
+воспламенения частиц Био-ВУТ. Анализ кадров пока- всего периода индукции (до зажигания) сохраняет 
+зывает, что весь период термической подготовки и форму сферы в отличие от ВУТ без добавок ЛГМ 
+зажигания капли топлива можно разделить на ряд (четвертый ряд, рис. 3). Во-вторых, при концентраци-
+последовательных и взаимосвязанных (переходящих ях биомассы свыше 5 % формируется частица в фор-
+одна в другую) стадий (высокая скорость видеосъѐм- ме, как правило, многогранников с множеством вы-
+ки позволяет это сделать).  ступов и углов. Последние же являются концентрато-
+
+Кадр (а) соответствует началу теплового воздействия, рами тепловых потоков, и, соответственно, зажигание 
+которое инициирует процесс интенсивного испарения частиц Био-ВУТ начинается именно в этих точках.  
+влаги. Завершение процесса влагоудаления характеризу- Также кадры (рис. 3, в) хорошо иллюстрируют га-
+ется изменением цвета частицы Био-ВУТ (кадр (б)). зофазный механизм зажигания капель всех вариантов 
+Дальнейший ее нагрев приводит к пиролизу органиче- состава ВУТ (по концентрации ЛГМ). Зоны горения 
+ской части угля и основных компонентов биомассы (лиг- газов хорошо видны на всех четырех кадрах. При 
+нин, целлюлоза, гемицеллюлоза) с выходом горючих га- этом на кадре (в) (рис. 3) для состава ВУТ с концен-
+зов. Последующее повышение температуры поверхности трацией ЛГМ 10 % хорошо видно, что зажигание ле-
+частицы приводит к зажиганию Био-ВУТ (кадр (в)). тучих (продуктов пиролиза угля и ЛГМ) происходит 
+
+Анализ видеограмм проведенных экспериментов над частицей, хотя по всей ее поверхности распреде-
+дает основания для еще нескольких выводов. Во- лены участки, разогретые до высоких температур 
+первых, сравнение кадров третьего и четвертого ря- (скорее всего, это фрагменты лесного горючего мате-
+дов (рис. 3) показывает, что ввод в водоугольную риала, расположенные вблизи поверхности частицы). 
+
+79 
+
+
+
+Известия Томского политехнического университета. Инжиниринг георесурсов. 2020. Т. 331. № 6. 77–85 
+Малышев Д.Ю., Сыродой С.В. Обоснование ресурсоэффективности технологий сжигания водоугольных топлив с добавками биомассы 
+
+  
+Содержание  
+
+Кадры/Frames биомассы 
+Biomass content  
+
+15 % 
+
+   
+
+а б в 
+t=0 c t=2,104 c t=2,640 c 
+
+10 % 
+
+   
+
+а б в 
+t=0 c t=2,780 с t=3,128 с 
+
+5 % 
+
+   
+
+а б в 
+t=0 c t=4,240 с t=4,884 с 
+
+0 % 
+
+   
+
+а б в 
+t=0 c t=5,208 с t=6,147 с 
+
+Рис. 3.  Видеограмма процесса нагрева и последующего зажигания частицы водоугольного топлива в высокотемпе-
+ратурной среде (Tg=1273 К) 
+
+Fig. 3.  Videogram of heating and subsequent ignition of a water-coal fuel particle in a high-temperature medium (Tg=1273 К) 
+
+На рис. 4 приведены значения времен задержки нок и распыления капель водоугольного топлива 
+зажигания одиночных капель био-водоугольного топ- большую долю составляют капли малых (от 0,5 до 
+лива (в начальный момент, а затем частиц после ис- 1,0 мм) размеров. Поэтому установленные в экспери-
+парения влаги из приповерхностного слоя). Экспери- ментах значения tign можно считать верхними оцен-
+менты проведены с каплями исследуемых топлив, ками значений этой характеристики. В то же время в 
+начальные размеры которых составляли от 2 до экспериментах [26] установлено, что при движении 
+3,5 мм. В реальной практике после выхода из форсу- большой совокупности капель в условиях, близких к 
+
+80 
+
+
+
+Известия Томского политехнического университета. Инжиниринг георесурсов. 2020. Т. 331. № 6. 77–85 
+Малышев Д.Ю., Сыродой С.В. Обоснование ресурсоэффективности технологий сжигания водоугольных топлив с добавками биомассы 
+
+ 
+топочной среде, происходят процессы коагуляции Дробления же капель, сталкивающихся при однона-
+капель. Большие по размерам капли поглощают ма- правленном движении, не происходит [26], так как их 
+лые при движении в одном направлении. Также вы- скорости сближения (если вторая «догоняет» идущую 
+сока вероятность коагуляции и малых капель вслед- первой) малы. Поэтому диапазон изменения реальных 
+ствие турбулентных пульсаций в капельной струе как размеров капель в проведенных экспериментах был 
+в продольном, так и в поперечном направлениях. представительным. 
+
+ 
+
+  
+
+а/a б/b 
+ 
+
+ 
+
+ 
+
+Рис. 4. Зависимости времен задержки зажигания ка-
+пель водоугольных суспензий (массовая концен-
+трация биомассы: 1 – 15 %, 2 – 10 %, 3 – 5 %, 4 – 
+0 %) от начального размера при различных тем-
+пературах окислителя (а – 873 К, б – 1073 К, в – 
+1273 К) 
+
+Fig. 4. Dependences of the ignition delay times of drops of 
+the water-coal suspensions (mass concentration of 
+biomass: 1 – 15 %, 2 – 10 %, 3 – 5 %, 4 – 0 %) on 
+the initial size of the oxidizer at various 
+temperatures (ɑ – 873 К, b – 1073 К, c – 1273 К) 
+
+ 
+в/c 
+
+ 
+Установленные закономерности, скорее всего, сколько процессов, а интенсивность каждого зависит 
+
+обусловлены тем, что зажигание газообразных про- от характерного размера (условного диаметра) капли 
+дуктов пиролиза органической части угля происходит (в начальный период времени) и частицы (после ис-
+после полного испарения всей влаги, содержащейся в парения влаги с поверхностного слоя капли), пред-
+топливе. Чем больше размер капли топлива, тем дли- ставляющей собой двухслойную сферу (сухая обо-
+тельнее процесс влагоудаления и, соответственно, лочка и влажное ядро). Эти процессы – нагрев капли 
+больше время задержки зажигания при любых темпе- в результате излучения (в основном) и конвекции, 
+ратурах среды. С ростом Tg скорость испарения воды перенос тепла в капле, теплопроводность, испарение 
+растет, и значение tign в результате снижается. Линей- воды, фильтрация паров воды к поверхности нагрева, 
+ный вид зависимости tign(d) может быть объяснен тем, вдув паров воды в слой газов в близи поверхности 
+что в период индукции протекают одновременно не- капли, термическое разложение угля, фильтрация 
+
+81 
+
+
+
+Известия Томского политехнического университета. Инжиниринг георесурсов. 2020. Т. 331. № 6. 77–85 
+Малышев Д.Ю., Сыродой С.В. Обоснование ресурсоэффективности технологий сжигания водоугольных топлив с добавками биомассы 
+
+  
+летучих к нагреваемой поверхности, диффузия и водогрейных котлов при переходе с угольного топли-
+нагрев летучих в среде окислителя, химическое взаи- ва на водоугольные суспензии в качестве основного 
+модействие газообразного горючего и окислителя – топлива ТЭС. Кроме того, добавление 10–15 % ЛГМ 
+определяют вид зависимости tign(d) (каждый в боль- снижает потребление угля на тепловых электриче-
+шей или меньшей степени). ских станциях и стоимость электроэнергии, так как 
+
+Основным результатом проведенных эксперимен- цена ЛГМ определяется только затратами на сбор и 
+тов можно считать, что смеси с добавлением ЛГМ транспортировку таких материалов. В результате ис-
+зажигаются значительно быстрее (для смеси с добав- пользования лесных горючих материалов в качестве 
+лением 15 % биомассы времена задержки зажигания добавок к водоугольным топливам может существен-
+уменьшаются более чем в три раза) по сравнению с но повысится ресурсоэффективность угольной тепло-
+ВУТ без добавления ЛГМ (рис. 4). Это обусловлено энергетики. При этом ВУТ с добавлением ЛГМ во 
+тем, что биомасса богата летучими, по сравнению с многих случаях будут иметь преимущества (техноло-
+углем, в котором, как известно из теории формирова- гические и экономические) даже по сравнению с топ-
+ния углей, содержание горючих газов меньше, чем в ливами, которые представляют собой смесь сухих 
+древесине. С увеличением массовой доли ЛГМ при- угля (основная компонента) и биомассы (вторая ком-
+ток горючих газов в область вблизи поверхности ча- понента) [28, 29]. Такие смеси в последние годы до-
+стицы увеличивается, поэтому зажигание в газовой статочно интенсивно исследуются во многих разви-
+фазе происходит быстрее. Можно сделать обоснован- тых государствах.   
+ный вывод, что биомасса является более реакционно-
+способным топливом [27] и в составе водоугольной Заключение 
+
+смеси выступает в качестве «разгонщика» термохи- По результатам экспериментальных исследований 
+мической реакции зажигания частиц Био-ВУТ. установлена перспективность использования в каче-
+
+По результатам выполненных исследований мож- стве ускоряющей процесс зажигания капель био-
+но сделать заключение о том, что введение ЛГМ в водоугольного топлива добавки ЛГМ. Показано, что 
+состав ВУТ приводит к существенному повышению добавление 15 % биомассы по массе в состав водо-
+ресурсоэффективности технологий сжигания ВУТ. угольного топлива позволяет уменьшить времена за-
+При существенном снижении (в 2,5–3 раза) времен держки зажигания более чем в три раза по сравнению с 
+задержки зажигания капель водоугольных топлив с водоугольной суспензией без добавления биомассы.  
+добавками ЛГМ снижается и общее время термиче-
+
+Исследование выполнено за счет гранта Российского 
+ской подготовки таких топлив. Соответственно, отпа- научного фонда (проект № 18-79-10015). 
+дает необходимость реконструкции топок паровых и 
+
+СПИСОК ЛИТЕРАТУРЫ O. Karlström, A. Brink // Journal of Environmental Management. – 
+2018. – V. 227. – P. 155–161. 
+
+1. Miller B.G. Anatomy of a coal-fired power plant. Clean coal 
+11. Vicente E.D., Alves C.A. An overview of particulate emissions 
+
+engineering technology (second edition). – Pennsylvania: 
+from residential biomass combustion // Atmospheric Research. – 
+
+Butterworth-Heinemann, 2017. – 856 p. 
+2018. – V. 199. – P. 159–185. 
+
+2. Zhao S. , Alexandroff A. Current and future struggles to eliminate 
+12. Detailed Modeling of NOx and SOx formation in Co-combustion 
+
+coal // Energy Policy. – 2019. – V. 129. – P. 511–520. 
+of coal and biomass with reduced kinetics / X. Wei, X. Guo, S. Li, 
+
+3. Grigoli F., Herman A., Swiston A. A crude shock: explaining the 
+X. Han, U. Schnell, G. Scheffknecht, B. Risio // Energy &Fuels. – 
+
+short-run impact of the 2014–16 oil price decline across exporters // 
+2012. – V. 26. – P. 3117–3124. 
+
+Energy Economics. – 2019. – V. 78. – P. 481–493. 
+13. The prospects of burning coal and oil processing waste in slurry, 
+
+4. BP Statistical Review of World Energy. URL: 
+gel, and solid state / K. Vershinina, G. Nyashina, V. Dorokhov, 
+
+https://www.bp.com/en/global/corporate/news-and-insights/press-
+N. Shlegel // Applied Thermal Engineering. – 2019. – V. 156. – 
+
+releases/bp-statistical-review-of-world-energy-2019.html (дата 
+P. 51–62. 
+
+обращения 16.03.2020). 
+14. Interaction between volatile-N and char-N and their contributions 
+
+5. A review of greenhouse gas emission profiles, dynamics, and 
+to fuel-NO during pulverized coal combustion in O2/CO2 
+
+climate change mitigation efforts across the key climate change 
+atmosphere at high temperature / X. Wu, W. Fan, P. Ren, J. Chen, 
+
+players / X. Zheng, D. Streimikiene, T. Balezentis, A. Mardani, 
+Z. Liu, P. Shen // Fuel. – 2019. – V. 255. – P. 1–15. 
+
+F. Cavallaro, H. Liao // Journal of Cleaner Production. – 2019. – 
+15. Долинский А.А., Халатов А.А. Водоугольное топливо: пер-
+
+V. 234. – P. 1113–1133. 
+спективы использования в теплоэнергетике и жилищно-
+
+6. Comparative study on combustion and oxy-fuel combustion 
+коммунальном секторе // Пром. теплотехника. – 2007. – 
+
+environments using mixtures of coal with sugarcane bagasse and 
+Т. 29. – № 5. – С. 70–79. 
+
+biomass sorghum bagasse by the thermogravimetric analysis / 
+16. Antonov D.V., Kuznetsov G.V., Strizhak P.A. Comparison of the 
+
+N.R. Galina, C.M. Romero Luna, G.L.A.F. Arce, I. Ávila // 
+characteristics of micro-explosion and ignition of two-fluid water-
+
+Journal of the Energy Institute. – 2019. – V. 92. – P. 741–754. 
+based droplets, emulsions and suspensions, moving in the high-
+
+7. Furniture wood waste as a potential renewable energy source / A. Plis, 
+temperature oxidizer medium // Acta Astronautica. – 2019. – 
+
+M. Kotyczka-Morańska, M. Kopczyński, G. Łabojko // Thermal 
+V. 160. – P. 258–269. 
+
+Analysis and Calorimetry. – 2016. – V. 125. – P. 1357–1371.  
+17. Antonov D.V., Kuznetsov G.V., Strizhak P.A. Differences of two-
+
+8. Van der Stelt M.J.C., Gerhauser H., Kiel J.H.A. Biomass upgrading 
+component droplets breakup at the high temperatures // Journal of 
+
+by torrefaction for the production of biofuels: a review // Biomass 
+the Energy Institute. – 2020. – V. 93. – P. 351–366. 
+
+Bioenergy. – 2011. – V. 35. – P. 3748–3762.  
+18. Effect of high-temperature gas flow on ignition of the water-coal fuel 
+
+9. Nunes L.J.R., Matias J.C.O., Catalo J.P.S. A review on torrefied 
+particles / V. Salomatov, G. Kuznetsov, S. Syrodoy, N. Gutareva // 
+
+biomass pellets as a sustainable alternative to coal in power 
+Combustion and Flame. – 2019. – V. 203. – P. 375–385. 
+
+generation // Renew Sustain Energy Rev. – 2014. – V. 40. – 
+19. The influence of the structure heterogeneity on the characteristics 
+
+P. 153–160.  
+and conditions of the coal–water fuel particles ignition in high 
+
+10. NO and SO2 emissions from combustion of raw and torrefied 
+temperature environment / S.V. Syrodoy, G.V. Kuznetsov, 
+
+biomasses and their blends with lignite / J. Yanik, G. Duman, 
+
+82 
+
+
+
+Известия Томского политехнического университета. Инжиниринг георесурсов. 2020. Т. 331. № 6. 77–85 
+Малышев Д.Ю., Сыродой С.В. Обоснование ресурсоэффективности технологий сжигания водоугольных топлив с добавками биомассы 
+
+ 
+A.V. Zhakharevich, N.Y. Gutareva, V.V. Salomatov // A. Davidenko, A. Pavlovskaya, S. Pavlovskiy, I. Redko, 
+Combustion and Flame. – 2017. – V. 180. – P. 196–206. N. Kulikova, O. Redko // Alexandria Engineering Journal. – 
+
+20. Sawdust as ignition intensifier of coal water slurries containing 2019. – V. 58. – P. 89–101. 
+petrochemicals / K.Yu. Vershinina, G.V. Kuznetsov, P.A. Strizhak // 26. Volkov R.S., Kuznetsov G.V., Strizhak P.A. Evaporation of two 
+Energy. – 2017. – V. 140. – P. 69–77. liquid droplets moving sequentially through high-temperature 
+
+21. Liu X., Luo Z., Yu C. Effect of limestone on the emission of NO combustion products // Thermophysics and Aeromechanics. – 
+during petroleum coke combustion // Fuel. – 2018. – V. 224. – 2014. – V. 21 (2). – P. 255–258. 
+P. 1–9. 27. Thermal behaviour and kinetics of coal/biomass blends during co-
+
+22. Conditions and characteristics of mixed fuel granules ignition based combustion / M.V. Gil, D. Casal, C. Pevida, J.J. Pis, F. Rubiera // 
+on coal and finely dispersed wood / G.V. Kuznetsov, Bioresource Technology. – 2010. – V. 101. – P. 5601–5608. 
+S.A. Yankovsky, A.A. Tolokolnikov, A.V. Zenkov, I.V. Cherednik // 28. Kuznetsov G.V., Yankovskii S.A. Conditions and characteristics 
+Energy. – 2020. – V. 194. – P. 1–9. in ignition of composite fuels based on coal with the addition of 
+
+23. Volkov R.S., Kuznetsov G.V., Strizhak P.A. Influence of the wood // Thermal Engineering. – 2019. – V. 66 (2). – P. 133–137. 
+initial parameters of spray water on its motion through a counter 29. Ignition of the wood biomass particles under conditions of near-
+flow of high-temperature gases // Technical Physics. – 2014. – surface fragmentation of the fuel layer / G.V. Kuznetsov, 
+V. 59. – P. 959–967. S.V. Syrodoy, N.Y. Gutareva, A.A. Kostoreva, Zh.A. Kostoreva // 
+
+24. Kuznetsov G.V., Strizhak P.A. The motion of a manifold of finely Fuel. – 2019. – V. 252. – P. 19–36. 
+dispersed liquid droplets in the counterflow of high-temperature 
+gases // Technical Physics Letters. – 2014. – V. 40. – P. 499–502. Поступила 23.03.2020 г. 
+
+25. Aerodynamic processes and heat exchange in the furnace of a 
+steam boiler with a secondary emitter / A. Redko, R. Dzhyoiev, 
+ 
+
+Информация об авторах 
+
+Малышев Д.Ю., аспирант Инженерной школы энергетики НОЦ И.Н. Бутакова Национального исследователь-
+ского Томского политехнического университета. 
+Сыродой С.В., кандидат технических наук, научный сотрудник Инженерной школы энергетики НОЦ И.Н. Бу-
+такова Национального исследовательского Томского политехнического университета. 
+
+ 
+
+  
+
+83 
+
+
+
+Malyshev D.Yu. et al. / Bulletin of the Tomsk Polytechnic University. Geo Аssets Engineering. 2020. V. 331. 6. 77–85 
+ 
+
+  
+УДК 536.468 
+
+JUSTIFICATION OF RESOURCE EFFICIENCY OF THE TECHNOLOGIES  
+FOR BURNING WATER-COAL FUELS WITH BIOMASS ADDITIVES  
+
+Dmitry Yu. Malyshev1,  
+dmitry.mlv@gmail.com 
+
+Semen V. Syrodoy1,  
+ssyrodoy@yandex.ru 
+
+1 National Research Tomsk Polytechnic University,  
+30, Lenin avenue, Tomsk, 634050, Russia. 
+
+ 
+One of the most pressing problems of our time is environmental safety. The pollution of the Earth’s atmosphere in recent decades is 
+caused by work at thermal power plants burning coal in the territories of the most popular states (USA, China, India, etc.). The use of a 
+new class of fuel – bio-water-coal – can significantly reduce emissions of man-made gases, generated during combustion of coal in the 
+furnaces of steam and hot water boilers, into the Earth’s atmosphere, expand the raw materials base of the modern thermal power plants 
+and increase the resource efficiency of coal-fired power systems. 
+The aim of the research is to study the influence of the concentration composition on the integral characteristics of ignition of the drops of 
+the biohydrocarbon fuels under high-temperature heating. 
+Object: a water-coal suspension based on brand T coal, water and spruce needles. In the course of the experimental studies, the following 
+mass concentrations of coal and biomass were considered 50/0 %, 45/5 %, 40/10 %, 35/15 %, respectively (50 % – water). 
+Method: experimental determination using the high-speed Photron FASTCAM CA4 video camera of the temporal characteristics of ignition 
+of drops of the bio-water-coal suspensions under conditions corresponding to the heating intensity of the combustion chambers of the 
+steam and hot water boilers; registration of medium temperature using chromel-alumel thermocouples. 
+Results. The effect of mass concentration of forest combustible material on ignition delay times (tign) of water-coal fuels has been 
+established. It was shown that when the fuel composition contains 15 % of biomass, the ignition delay times are reduced by more than 
+three times compared with water-coal fuel without adding biomass at relatively low temperatures of the combustion medium. The results of 
+experimental studies are also the basis for development of combustion models of liquid composite fuels. 
+
+ 
+Key words:  
+Bio-water-coal fuel, biomass, forest combustible fuel, ignition, ignition delay time, experiment, energy efficiency. 
+
+ 
+
+The research was carried out due to the grant of the Russian Science foundation (project no. 18-79-10015). 
+ 
+REFERENCES generation. Renew Sustain Energy Rev., 2014, vol. 40, pp. 153–
+
+160.  
+1. Miller B.G. Anatomy of a coal-fired power plant. Clean coal 
+
+10. Yanik J., Duman G., Karlström O., Brink A. NO and SO2 
+engineering technology (second edition). Pennsylvania, 
+
+emissions from combustion of raw and torrefied biomasses and 
+Butterworth-Heinemann, 2017. 856 p. 
+
+their blends with lignite. Journal of Environmental Management, 
+2. Zhao S., Alexandroff A. Current and future struggles to eliminate 
+
+2018, vol. 227, pp. 155–161. 
+coal. Energy Policy, 2019, vol. 129, pp. 511–520. 
+
+11. Vicente E.D., Alves C.A. An overview of particulate emissions 
+3. Grigoli F., Herman A., Swiston A. A crude shock: explaining the 
+
+from residential biomass combustion. Atmospheric Research, 2018, 
+short-run impact of the 2014–16 oil price decline across exporters. 
+
+vol. 199, pp. 159–185. 
+Energy Economics, 2019, vol. 78, pp. 481–493. 
+
+12. Wei X., Guo X., Li S., Han X., Schnell U., Scheffknecht G., Risio 
+4. BP Statistical Review of World Energy. Available at: 
+
+B. Detailed Modeling of NOx and SOx Formation in Co-
+https://www.bp.com/en/global/corporate/news-and-insights/press-
+
+combustion of Coal and Biomass with Reduced Kinetics. Energy 
+releases/bp-statistical-review-of-world-energy-2019.html 
+
+&Fuels, 2012, vol. 26, pp. 3117–3124. 
+(accessed 16 March 2020). 
+
+13. Vershinina K., Nyashina G., Dorokhov V., Shlegel N. The prospects 
+5. Zheng X., Streimikiene D., Balezentis T., Mardani A., Cavallaro F., 
+
+of burning coal and oil processing waste in slurry, gel, and solid state. 
+Liao H. A review of greenhouse gas emission profiles, dynamics, 
+
+Applied Thermal Engineering, 2019, vol. 156, pp. 51–62. 
+and climate change mitigation efforts across the key climate 
+
+14. Wu X., Fan W., Ren P., Chen J., Liu Z., Shen P. Interaction 
+change players. Journal of Cleaner Production, 2019, vol. 234, 
+
+between volatile-N and char-N and their contributions to fuel-NO 
+pp. 1113–1133. 
+
+during pulverized coal combustion in O2/CO2 atmosphere at high 
+6. Galina N.R., Romero Luna C.M., Arce G.L.A.F., Ávila I. 
+
+temperature. Fuel, 2019, vol. 255, pp. 1–15. 
+Comparative study on combustion and oxy-fuel combustion 
+
+15. Dolinsky А.А., Khalatov А.А. Coal-water fuels: prospects for use 
+environments using mixtures of coal with sugarcane bagasse and 
+
+in the power system and housing and communal services. 
+biomass sorghum bagasse by the thermogravimetric analysis. 
+
+Industrial heat engineering, 2007, vol. 29, no. 5, pp. 70–79. 
+Journal of the Energy Institute, 2019, vol. 92, pp. 741–754. 
+
+16. Antonov D.V., Kuznetsov G.V., Strizhak P.A Comparison of the 
+7. Plis A., Kotyczka-Morańska M., Kopczyński M., Łabojko G. 
+
+characteristics of micro-explosion and ignition of two-fluid water-
+Furniture wood waste as a potential renewable energy source. 
+
+based droplets, emulsions and suspensions, moving in the high-
+Thermal Analysis and Calorimetry, 2016, vol. 125, pp. 1357–1371.  
+
+temperature oxidizer medium. Acta Astronautica, 2019, vol. 160, 
+8. Van der Stelt M.J.C., Gerhauser H., Kiel J.H.A. Biomass 
+
+pp. 258–269. 
+upgrading by torrefaction for the production of biofuels: a review. 
+
+17. Antonov D.V., Kuznetsov G.V., Strizhak P.A Differences of two-
+Biomass Bioenergy, 2011, vol. 35, pp. 3748–3762.  
+
+component droplets breakup at the high temperatures. Journal of 
+9. Nunes L.J.R., Matias J.C.O., Catalo J.P.S. A review on torrefied 
+
+the Energy Institute, 2020, vol. 93, pp. 351–366. 
+biomass pellets as a sustainable alternative to coal in power 
+
+84 
+
+
+
+Malyshev D.Yu. et al. / Bulletin of the Tomsk Polytechnic University. Geo Аssets Engineering. 2020. V. 331. 6. 77–85 
+ 
+
+ 
+18. Salomatov V., Kuznetsov G., Syrodoy S., Gutareva  N. Effect of 25. Redko A., Dzhyoiev R., Davidenko A., Pavlovskaya A., 
+
+high-temperature gas flow on ignition of the water-coal fuel Pavlovskiy S., Redko I., Kulikova N., Redko O. Aerodynamic 
+particles. Combustion and Flame, 2019, vol. 203, pp. 375–385. processes and heat exchange in the furnace of a steam boiler with a 
+
+19. Syrodoy S.V., Kuznetsov G.V., Zhakharevich A.V., secondary emitter. Alexandria Engineering Journal, 2019, vol. 58, 
+Gutareva N.Y., Salomatov V.V. The influence of the structure pp. 89–101. 
+heterogeneity on the characteristics and conditions of the coal– 26. Volkov R.S., Kuznetsov G.V., Strizhak P.A. Evaporation of two 
+water fuel particles ignition in high temperature environment. liquid droplets moving sequentially through high-temperature 
+Combustion and Flame, 2017, vol. 180, pp. 196–206. combustion products. Thermophysics and Aeromechanics, 2014, 
+
+20. Vershinina K.Yu., Kuznetsov G.V., Strizhak P.A. Sawdust as vol. 21 (2), pp. 255–258. 
+ignition intensifier of coal water slurries containing petrochemicals. 27. Gil M.V., Casal D., Pevida C., Pis J.J., Rubiera F. Thermal 
+Energy, 2017, vol. 140, pp. 69–77. behaviour and kinetics of coal/biomass blends during co-
+
+21. Liu X., Luo Z., Yu C. Effect of limestone on the emission of NO combustion. Bioresource Technology, 2010, vol. 101, pp. 5601–
+during petroleum coke combustion. Fuel, 2018, vol. 224, pp. 1–9. 5608. 
+
+22. Kuznetsov G.V., Yankovsky S.A., Tolokolnikov A.A., 28. Kuznetsov G.V., Yankovskii S.A. Conditions and characteristics 
+Zenkov A.V., Cherednik I.V. Conditions and characteristics of in ignition of composite fuels based on coal with the addition of 
+mixed fuel granules ignition based on coal and finely dispersed wood. Thermal Engineering, 2019, vol. 66 (2), pp. 133–137. 
+wood. Energy, 2020, vol. 194, pp. 1–9. 29. Kuznetsov G.V., Syrodoy S.V., Gutareva N.Y., Kostoreva A.A.,  
+
+23. Volkov R.S., Kuznetsov G.V., Strizhak P.A. Influence of the Kostoreva Zh.A. Ignition of the wood biomass particles under 
+initial parameters of spray water on its motion through a counter conditions of near-surface fragmentation of the fuel layer. Fuel, 
+flow of high-temperature gases. Technical Physics, 2014, vol. 59, 2019, vol. 252, pp. 19–36. 
+pp. 959–967. 
+
+24. Kuznetsov G.V., Strizhak P.A. The motion of a manifold of finely Received: 23 March 2020. 
+dispersed liquid droplets in the counterflow of high-temperature 
+gases. Technical Physics Letters, 2014, vol. 40, pp. 499–502. 
+ 
+
+Information about the authors 
+
+Dmitry Yu. Malyshev, post-graduate student, National Research Tomsk Polytechnic University. 
+Semen V. Syrodoy, Cand. Sc, researcher, National Research Tomsk Polytechnic University. 
+
+ 
+
+  
+
+85

@@ -1,0 +1,596 @@
+﻿УДК 669.017 
+doi: 10.18323/2782-4039-2022-3-1-106-114 
+ 
+
+О совместимости хирургических имплантатов  
+из биорезорбируемых магниевых сплавов  
+
+с медицинскими изделиями из титановых сплавов 
+© 2022 
+
+1
+Мягких Павел Николаевич* , младший научный сотрудник НИИ прогрессивных технологий 
+
+2
+Мерсон Евгений Дмитриевич , кандидат физико-математических наук,  
+
+старший научный сотрудник НИИ прогрессивных технологий 
+3
+
+Полуянов Виталий Александрович , кандидат технических наук,  
+младший научный сотрудник НИИ прогрессивных технологий 
+
+4
+Мерсон Дмитрий Львович , доктор физико-математических наук, профессор,  
+
+директор НИИ прогрессивных технологий 
+Бегун Марина Эдуардовна, студент, техник НИИ прогрессивных технологий 
+
+Тольяттинский государственный университет, Тольятти (Россия) 
+ 
+
+1
+*E-mail: feanorhao@gmail.com ORCID: https://orcid.org/0000-0002-7530-9518 
+
+2ORCID: https://orcid.org/0000-0002-7063-088X 
+3ORCID: https://orcid.org/0000-0002-0570-2584 
+4ORCID: https://orcid.org/0000-0001-5006-4115 
+
+ 
+Поступила в редакцию 01.08.2022          Принята к публикации 01.09.2022 
+
+ 
+Аннотация: Саморастворяющиеся имплантаты из магниевых сплавов, в отличие от традиционных импланта-
+
+тов из титановых сплавов и нержавеющих сталей, обладают способностью полностью растворяться в теле челове-
+ка, что позволяет обойтись без повторной операции по их извлечению. Вопрос о возможности использования маг-
+ниевых имплантатов совместно с изделиями из титановых сплавов на данный момент остается в недостаточной 
+мере изученным. В то же время широко известно, что элементы с более положительным электродным потенциа-
+лом, чем у магния, такие как титан и железо, пагубно влияют на коррозию магниевых сплавов, поскольку за счет 
+гальванического эффекта растворение магния происходит существенно быстрее. Целью работы было установить, 
+какое влияние на скорость коррозии образца из магниевого сплава ZX10 с ультрамелкозернистой структурой ока-
+зывает расстояние до титанового имплантата. Поскольку речь идет о медицинских приложениях, коррозионные 
+испытания проводились в условиях, имитирующих условия внутри человеческого тела: циркуляция коррозионной 
+среды и поддержание температуры 37±1 °C. В качестве коррозионной среды использовался физиологический рас-
+твор. Во время коррозионных испытаний титановый имплантат располагали в 3, 6 и 12 см от образца из магниево-
+го сплава. Дополнительно были проведены испытания образцов контрольной группы без титанового имплантата. 
+Согласно полученным данным при расстоянии между титаном и магнием в 3 см гальванический эффект ярко про-
+является: увеличивается скорость коррозии и размер коррозионных повреждений, однако на расстоянии в 6 см 
+титановый имплантат уже не оказывает видимого влияния на коррозию образца.  
+
+Ключевые слова: магниевые сплавы; ZX10; биорезорбируемые материалы; коррозия; медицинские имплантаты. 
+Благодарности: Исследование выполнено при финансовой поддержке РФФИ в рамках научного проекта 
+
+№ 20-38-90073, а также при финансовой поддержке Российского научного фонда, проект № 20-19-00585. 
+Для цитирования: Мягких П.Н., Мерсон Е.Д., Полуянов В.А., Мерсон Д.Л., Бегун М.Э. О совместимости хи-
+
+рургических имплантатов из биорезорбируемых магниевых сплавов с медицинскими изделиями из титановых 
+сплавов // Frontier Materials & Technologies. 2022. № 3. С. 106–114. DOI: 10.18323/2782-4039-2022-3-1-106-114. 
+
+ 
+а многие из них, например полилактид, хорошо зареко-
+
+ВВЕДЕНИЕ мендовали себя в качестве материалов для 3D-печати 
+Идея создать легкий, прочный и при этом способ- методом горячего плавления (fused deposition modeling, 
+
+ный растворяться в теле человека хирургический им- FDM). К недостаткам биорезорбируемых полимеров 
+плантат зародилась еще в XX веке. Первым материалом следует отнести их невысокие механические характе-
+для подобных изделий стали биорезорбируемые поли- ристики и рентгенопрозрачность, которая затрудняет 
+меры, такие как полилактид (PLA), полигидроксибути- отслеживание процесса растворения имплантата и оцен-
+рат (PHB), полиортоэстер, полигликоль (PGA) и многие ку его текущего состояния. На данный момент пред-
+другие [1]. Биорезорбируемые полимеры выделяются принимаются попытки решения этих проблем путем 
+доступностью и низкой стоимостью, например, поли- создания полимерных композитов с добавлением час-
+лактид является продуктом переработки сельскохозяй- тиц биорезорбируемых металлов, например магния [2]. 
+ственных отходов растительного происхождения. Сле- Некоторые виды керамики также обладают способно-
+дует отметить, что многие из них превосходно обраба- стью растворяться в теле человека, не нанося вреда 
+тываются: термопластичные полимеры (термопласты) его здоровью. Традиционно к таким материалам отно-
+широко известны способностью к горячей формовке,  сятся соединения кальция (гидроксиапатит, ортофосфат,  
+
+1 06 Frontier Materials & Technologies. 2022. № 3-1
+
+
+
+Мягких П.Н., Мерсон Е.Д., Полуянов В.А. и др.   «О совместимости хирургических имплантатов из биорезорбируемых…»  
+
+апатит-волластонит) [3; 4]. Пористая керамика имеет Цель работы – изучение влияния присутствия в элек-
+хорошую интеграцию с образовывающейся костной тролите титанового имплантата на процесс коррозии 
+тканью, однако механические свойства керамических магниевого биорезорбируемого сплава и определение 
+изделий, в частности пластичность, довольно низкие: безопасного расстояния, на котором негативный эф-
+отмечаются их высокая склонность к хрупкому разру- фект не будет проявляться. 
+шению, низкие показатели упругости и ударной вязко-  
+сти [5]. Среди металлических материалов биорезорбци-
+ей обладают сплавы на основе цинка, железа и магния. МЕТОДИКА ПРОВЕДЕНИЯ ИССЛЕДОВАНИЯ 
+
+Биорезорбируемые сплавы на основе цинка имеют хо- Для исследования был выбран сплав ZX10 с ультра-
+рошие показатели скорости коррозии (менее 0,2 мм/год), мелкозернистой структурой, полученной методом все-
+однако довольно низкие прочностные характеристики: сторонней изотермической ковки в интервале температур 
+даже после специальной термомеханической обработки 325–425 °С и последующей осадки (ВИК+О). Термомеха-
+их предел прочности редко превышает 200 МПа [6]. ническая обработка материала выполнялась в ИПСМ 
+Сплавы на основе железа, напротив, как правило, име- РАН (г. Уфа). Химический состав определялся посред-
+ют высокую прочность, но неудовлетворительные по- ством оптико-эмиссионного спектрометра Thermo 
+казатели скорости коррозии: в живом организме изде- Fisher Scientific ARL 4460 OES. 
+лия из железа и его сплавов будут растворяться не- Образцы для испытаний были вырезаны при помо-
+сколько лет. На данный момент эту проблему пытаются щи электроискрового станка с ЧПУ Sodick AG400L 
+решить путем добавления в сплавы Fe–Mn небольшого LN2W, имели плоскую прямоугольную форму и разме-
+количества палладия [7]. ры 12×7×2 мм, в верхней части образцов на сверлиль-
+
+Сплавы на основе магния имеют довольно высокие ном станке были просверлены отверстия Ø 1 мм, кото-
+механические характеристики: для сплавов с LPSO- рые служили для подвешивания в коррозионной среде. 
+структурой вполне достижимым является показатель  Образцы шлифовались насухую наждачной бумагой  
+в 600 МПа [8]. Их модуль Юнга близок к модулю Юнга с зернистостью 2500, промывались в этаноле в ультра-
+костной ткани, кроме того, путем термомеханической звуковой ванне, сушились потоком воздуха и взвеши-
+обработки удается добиться уменьшения скорости кор- вались на лабораторных весах с точностью 0,0001 г. 
+розии [9]. Одной из проблем использования магниевых Коррозионные испытания включали в себя выдерж-
+сплавов является то, что магний имеет электрохимиче- ку в течение 7 дней в водном растворе 0,9 % NaCl по  
+ский потенциал −2,37 B. Это означает, что любой эле- аналогии с [11; 12] в коррозионной ячейке емкостью 5 л 
+мент с более положительным потенциалом будет про- (рис. 1). На расстоянии 3, 6 и 12 см от образца в верти-
+воцировать ускоренную электрохимическую коррозию кальном положении размещался титановый костный 
+магния. Как правило, наиболее негативное влияние имплантат фирмы Stryker. Дополнительно были прове-
+вносят такие элементы, как Fe, Ni, Ti и Cu. Даже ты- дены испытания без титанового имплантата (контроль-
+сячные доли процента этих металлов способны сущест- ная группа). Во время испытаний обеспечивалась тем-
+венно повысить скорость коррозии магниевого сплава, пература 37±1 °С, коррозионная среда перемешивалась 
+кроме того, они плохо растворяются в магниевой мат- за счет перистальтического насоса. Скорость коррозии 
+рице, поэтому находятся в материале в виде включе- оценивалась по выходу водорода, образующегося в хо-
+ний, которые в коррозионной среде становятся очагами де растворения магния, по аналогии с работами [13; 14]. 
+локализованной питтинговой коррозии. Уровень pH измерялся трижды в день при помощи  
+
+Говоря об опасности интенсивного растворения pH-метра Mettler Toledo Delta 320. Видеомониторинг 
+магния под действием электрохимического (гальвани- осуществлялся при помощи камеры с разрешением 
+ческого) эффекта, вносимого элементами с более поло- 38 МП, частота съемки – раз в 60 с. После извлечения 
+жительным потенциалом, необходимо предусматривать образца из коррозионной среды с его поверхности 
+возможность контакта медицинских изделий из магния удалялись продукты коррозии в водном растворе 
+и традиционно применяющегося в хирургии титана.  20%CrO3+1%AgNO3 по ГОСТ Р 9.907. Далее образец 
+В некоторых случаях это может дать положительный эф- промывался в этаноле в ультразвуковой ванне, сушился 
+фект, например, в работе [10] была использована инно- потоком холодного воздуха и повторно взвешивался  
+вационная схема фиксации перелома: титановый им- с целью определить скорость коррозии по разнице массы 
+плантат крепился к кости титановыми винтами, а также до и после испытаний. Исследование поверхности об-
+дополнительно в месте перелома винтами из магния. разца, включая прецизионную оценку глубины повреж-
+Авторы отмечают, что магниевый винт не только обес- дений, выполнялось на конфокальном лазерном скани-
+печил достаточную фиксацию перелома, но и стимули- рующем микроскопе (КЛСМ) Olympus LEXT OLS 4000.  
+ровал более интенсивное заживление за счет увеличе-  
+ния костной мозоли и ускорения ее минерализации. 
+Однако скорость растворения магниевого винта не оце- РЕЗУЛЬТАТЫ ИССЛЕДОВАНИЯ  
+нивалась. На практике может возникнуть ситуация, В таблице 1 приведен общий химический состав 
+когда потребуется установить магниевый имплантат на сплава ZX10.  
+некотором расстоянии от уже установленного титано- На рис. 2 показана микроструктура сплава ZX10. 
+вого. В таком случае у хирурга должно быть четкое Средний размер зерна составил 4 мкм. Зерна равноос-
+понимание возможности возникновения гальванопары ные, явно выраженная текстура отсутствует. 
+между титаном и магнием и, соответственно, риска На рис. 3 показан график изменения уровня pH  
+преждевременного выхода из строя магниевого им- в среде. Принципиального отличия поведения pH рас-
+плантата ввиду его ускоренного растворения. твора при испытании образцов, подвешенных на разных 
+
+F rontier Materials & Technologies. 2022. № 3-1 107
+
+
+
+Мягких П.Н., Мерсон Е.Д., Полуянов В.А. и др.   «О совместимости хирургических имплантатов из биорезорбируемых…»  
+
+7 
+
+ 1 
+
+ 6 
+
+ 2 
+ 3 
+
+ 5 
+
+ 4  
+ 
+
+Рис. 1. Схема испытательной установки:  
+1 – бюретка; 2 – коррозионная ячейка; 3 – камера для видеомониторинга; 4 – образец;  
+
+5 – титановый имплантат; 6 – перистальтический насос; 7 – термостат 
+Fig. 1. Schematics of an experimental setup:  
+
+1 – burette; 2 – corrosion cell; 3 – video-monitoring camera; 4 – sample;  
+5 – titanium implant; 6 – peristaltic pump; 7 – thermostat 
+
+ 
+ 
+ 
+
+Таблица 1. Химический состав сплава ZX10, вес. % 
+Table 1. Chemical composition of the ZX10 alloy, % wt. 
+
+ 
+
+Mg Zn Zr Ca Fe Mn Si Al Cu 
+
+Основа 0,844 0,032 0,167 0,004 0,007 0,008 0,014 0,001 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Рис. 2. Структура сплава ZX10 (оптическая микроскопия) 
+Fig. 2. The ZX10 alloy structure (optical microscopy) 
+
+1 08 Frontier Materials & Technologies. 2022. № 3-1
+
+
+
+Мягких П.Н., Мерсон Е.Д., Полуянов В.А. и др.   «О совместимости хирургических имплантатов из биорезорбируемых…»  
+
+  
+
+ 
+ 
+
+Рис. 3. Изменение уровня pH коррозионной среды 
+Fig. 3. Evolution of the corrosive media pH level 
+
+ 
+ 
+ 
+
+расстояниях от титанового имплантата, не выявлено: во ных в 3 см от титанового имплантата, существенно 
+всех случаях график устремляется вверх и на третий выше, чем всех остальных. Скорость коррозии осталь-
+день выходит на плато. Прямой корреляции между ных образцов с учетом доверительных интервалов 
+уровнем pH и скоростью коррозии в данной работе не можно считать одинаковой. 
+было обнаружено. На рис. 6 приведены результаты видеомониторинга 
+
+Кривые выхода водорода приведены на рис. 4. Для образцов. Принципиальных различий между образцами 
+образцов, расположенных в 6 и 12 см от титанового в стадийности образования коррозионных повреждений 
+имплантата, а также для образцов контрольной группы не обнаружено. На образцах визуально заметны 2 вида 
+характерна кривая с резким скачком в первые 6–10 ч повреждений: многочисленные язвы небольшого раз-
+испытаний, затем плато в течение 20–30 ч и загиб мера и локализованные крупные очаги коррозии. Также 
+вверх, означающий увеличение скорости коррозии. Для отчетливо видно, что вокруг язв образца, расположен-
+образца, подвешенного в 3 см от титанового импланта- ного в 3 см от имплантата, продуктов коррозии сущест-
+та, график имеет иной вид: плато после скачка не сле- венно больше. 
+дует, кривая немного уменьшает угол наклона, и затем На рис. 7 представлены карты высот, согласно ко-
+до конца эксперимента изменения отсутствуют. торым глубокие коррозионные повреждения получи-
+
+На рис. 5 приведены значения скорости коррозии, ли все образцы, однако у образца, расположенного  
+рассчитанные двумя методами: по выходу водорода  в 3 см от титанового имплантата, они значительно 
+и по убыли массы (гравиметрический метод). Отчетли- крупнее: в верхней части присутствует крупная скво-
+во видно, что скорость коррозии образцов, подвешен- зная язва.  
+
+ 
+ 
+ 
+
+  
+
+ 
+ 
+
+Рис. 4. График выделения водорода 
+Fig. 4. Hydrogen evolution graph 
+
+ 
+ 
+
+F rontier Materials & Technologies. 2022. № 3-1 109
+
+
+
+Мягких П.Н., Мерсон Е.Д., Полуянов В.А. и др.   «О совместимости хирургических имплантатов из биорезорбируемых…»  
+
+            
+ a b 
+
+Рис. 5. Скорость коррозии, посчитанная по выходу водорода (а) и по убыли массы (b) 
+Fig. 5. Corrosion rate calculated by the hydrogen evolution (a) and weight loss (b) methods 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Рис. 6. Результаты видеомониторинга 
+Fig.6. Video-monitoring results 
+
+1 10 Frontier Materials & Technologies. 2022. № 3-1
+
+
+
+Мягких П.Н., Мерсон Е.Д., Полуянов В.А. и др.   «О совместимости хирургических имплантатов из биорезорбируемых…»  
+
+             
+ 
+
+Рис. 7. Карты высот поверхности образцов 
+Fig. 7. Height maps of the samples’ surface 
+
+ 
+ 
+ 
+ОБСУЖДЕНИЕ РЕЗУЛЬТАТОВ ждения первого типа у данного образца не намного 
+
+Полученные кривые выхода водорода, а также ко- глубже, чем у контрольной группы. Это может гово-
+
+личественные показатели скорости коррозии позволяют рить о том, что гальванический эффект усиливает раз-
+
+заключить, что влияние титанового имплантата на про- витие в первую очередь повреждений второго типа. 
+
+цесс коррозии сплава ZX10 заметно только при распо-  
+
+ложении их в 3 см относительно друг друга. Скорость 
+ОСНОВНЫЕ РЕЗУЛЬТАТЫ И ВЫВОДЫ  
+
+коррозии при этом выше в 1,5 раза по сравнению с кон-
+трольной группой, а кривая выхода водорода меняет 1. Скорости коррозии образцов сплава ZX10, распо-
+
+свой вид: характерное для данного материала плато  ложенных в 6 и более см от титанового имплантата, не 
+
+в период 6–30 ч испытаний отсутствует, что говорит  отличаются от скорости коррозии образцов контрольной 
+
+о незавершенном процессе пассивации. В остальных группы. Это указывает на то, что электрохимический 
+
+случаях влияние титана как на кинетику коррозионных эффект между магнием и титаном на этом расстоянии  
+
+процессов, так и на количественные показатели скоро- в данном растворе отсутствует или незначителен. 
+
+сти коррозии не наблюдается. При этом довольно инте- 2. Кинетика процесса коррозии образцов, располо-
+
+ресным является отсутствие какой-либо корреляции женных в 6 и более см от титанового имплантата, также 
+
+между кривыми выхода водорода и графиками измене- схожа с кинетикой коррозии образцов контрольной 
+
+ния pH, поскольку во многих исследованиях он пред- группы: на кривой выхода водорода ярко выражен ска-
+
+ставляется как косвенный метод отслеживания кинети- чок в первые 6–10 ч эксперимента, затем плато в тече-
+
+ки процессов коррозии [15–17].  ние 20–30 ч и загиб кривой вверх.  
+
+При сопоставлении результатов видеомониторинга 3. Скорость коррозии образцов, расположенных в 3 см 
+
+и КЛСМ видно, что на поверхности образцов развива- от титанового имплантата, в 1,5 раза выше, чем у ос-
+
+ется 2 типа коррозионных повреждений. Первый – мно- тальных образцов, что явно указывает на значительное 
+
+гочисленные небольшие язвы, глубина которых состав- влияние титана на коррозию магниевого сплава ZX10. 
+
+ляет 100–150 мкм (200–250 мкм для образца, располо- Кроме того, кривая выхода водорода для данных образ-
+
+женного в 3 см от титанового имплантата). Второй тип цов имеет характерные особенности: после кратковре-
+
+повреждений – крупные язвы глубиной более 1 мм менного скачка процесс коррозии протекает с постоян-
+
+(сквозные в случае образца, расположенного в 3 см от ной скоростью, а плато как у других образцов не на-
+
+титанового имплантата). Объяснить, чем обусловлен блюдается. 
+
+каждый тип повреждений, в рамках данной работы не 4. Все образцы продемонстрировали склонность  
+
+представляется возможным. Однако с большой вероят- к локализованной коррозии, однако у образца, подве-
+
+ностью можно ожидать, что небольшие язвы появляют- шенного в 3 см от титанового имплантата, повреждения 
+
+ся на участках с преобладанием определенной кристал- значительно обширнее и носят сквозной характер.  
+
+лографической ориентации, поскольку, как ранее было 5. Полученные результаты свидетельствуют о том, 
+
+установлено, коррозионная стойкость в значительной что установка имплантата из магниевого сплава в орга-
+
+мере зависит от ориентации зерен [18]. Второй тип по- низме человека ближе, чем в 6 см, к уже установленно-
+
+вреждений, возможно, обусловлен неравномерностью му титановому имплантату несет значительные риски 
+
+химического состава, поскольку частицы вторичных преждевременного выхода изделия из строя. 
+
+фаз могут провоцировать локализованную коррозию за  
+
+счет электрохимического эффекта [19; 20]. На карте 
+СПИСОК ЛИТЕРАТУРЫ 
+
+высот видно, что самому сильному коррозионному воз-
+действию подвергся образец, расположенный в 3 см от 1. Prakasam M., Locs J., Salma-Ancane K., Loca D., 
+титанового имплантата, о чем свидетельствует обшир- Largeteau A., Berzina-Cimdina L. Biodegradable mate-
+ная сквозная язва в его верхней части. При этом повре- rials and metallic implants-A review // Journal of Func-
+
+F rontier Materials & Technologies. 2022. № 3-1 111
+
+
+
+Мягких П.Н., Мерсон Е.Д., Полуянов В.А. и др.   «О совместимости хирургических имплантатов из биорезорбируемых…»  
+
+tional Biomaterials. 2017. Vol. 8. № 4. Article number 13. Song G. Control of biodegradation of biocompatable 
+44. DOI: 10.3390/jfb8040044. magnesium alloys // Corrosion Science. 2007. Vol. 49. 
+
+2. Antoniac I., Popescu D., Zapciu A., Antoniac A., № 4. P. 1696–1701. DOI: 10.1016/j.corsci.2007.01.001. 
+Miculescu F., Moldovan H. Magnesium filled polylactic 14. Xin Y., Liu C., Zhang X., Tang G., Tian X., Chu P.K. 
+acid (PLA) material for filament based 3D printing // Corrosion behavior of biomedical AZ91 magnesium al-
+Materials. 2019. Vol. 12. № 5. Article number 719. loy in simulated body fluids // Journal of Materials Re-
+DOI: 10.3390/ma12050719. search. 2007. Vol. 22. № 7. P. 2004–2011. DOI: 10. 
+
+3. Knaack D., Goad M.E.P., Aiolova M., Rey C., Tofighi A., 1557/jmr.2007.0233. 
+Chakravarthy P., Lee D.D. Resorbable calcium phos- 15. Li K.K., Wang B., Yan B., Lu W. Preparing Ca-P coat-
+phate bone substitute // Journal of Biomedical Materials ing on biodegradable magnesium alloy by hydrothermal 
+Research. 1998. Vol. 43. № 4. P. 399–409.  method: In vitro degradation behavior // Chinese Sci-
+DOI: 10.1002/(SICI)1097-4636(199824)43:4<399::AID- ence Bulletin. 2012. Vol. 57. № 18. P. 2319–2322.  
+JBM7>3.0.CO;2-J. DOI: 10.1007/s11434-012-5067-5. 
+
+4. Teramoto H., Kawai A., Sugihara S., Yoshida A., Inoue H. 16. Li L.Y., Liu B., Zeng R.C., Li S.Q., Zhang F., Zou Y.H., 
+Resorption of Apatite-wollastonite containing glass- Jiang H.G., Chen X.B., Guan S.K., Liu Q.Y. In vitro 
+ceramic and β-tricalcium phosphate in vivo // Acta corrosion of magnesium alloy AZ31 - a synergetic in-
+Medica Okayama. 2005. Vol. 59. № 5. P. 201–207. fluence of glucose and Tris // Frontiers of Materials Sci-
+DOI: 10.18926/AMO/31974. ence. 2018. Vol. 12. № 2. P. 184–197. DOI: 10.1007/ 
+
+5. Poinern G.E.J., Brundavanam S., Fawcett D. Biomedi- s11706-018-0424-1. 
+cal Magnesium Alloys: A Review of Material Proper- 17. Makkar P., Sarkar S.K., Padalhin A.R., Moon B.G.,  
+ties, Surface Modifications and Potential as a Biode- Lee Y.S., Lee B.T. In vitro and in vivo assessment of 
+gradable Orthopaedic Implant // American Journal of biomedical Mg–Ca alloys for bone implant applications // 
+Biomedical Engineering. 2021. Vol. 2. № 6. P. 218– Journal of Applied Biomaterials and Functional Materi-
+240. DOI: 10.5923/j.ajbe.20120206.02. als. 2018. Vol. 16. № 3. P. 126–136. DOI: 10.1177/ 
+
+6. Levy G.K., Goldman J., Aghion E. The Prospects of 2280800017750359. 
+Zinc as a Structural Material for Biodegradable Im- 18. Liu M., Qiu D., Zhao M.C., Song G., Atrens A. The ef-
+plants–A Review Paper // Metals. 2017. Vol. 7. № 10. fect of crystallographic orientation on the active corro-
+Article number 402. DOI: 10.3390/met7100402. sion of pure magnesium // Scripta Materialia. 2008.  
+
+7. Schinhammer M., Hänzi A.C., Löffler J.F., Uggowi- Vol. 58. № 5. P. 421–424. DOI: 10.1016/j.scriptamat. 
+tzer P.J. Design strategy for biodegradable Fe-based al- 2007.10.027. 
+loys for medical applications // Acta Biomaterialia. 19. Zhang X., Ba Z., Wang Q., Wu Y., Wang Z., Wang Q. 
+2010. Vol. 6. № 5. P. 1705–1713. DOI: 10.1016/ Uniform corrosion behavior of GZ51K alloy with long 
+j.actbio.2009.07.039. period stacking ordered structure for biomedical appli-
+
+8. Merson D., Brilevsky A., Myagkikh P., Tarkova A., cation // Corrosion Science. 2014. Vol. 88. P. 1–5.  
+Prokhorikhin A., Kretov E., Frolova T., Vinogradov A. DOI: 10.1016/j.corsci.2014.07.004. 
+The functional properties of Mg-Zn-X biodegradable 20. Pogorielov M., Husak E., Solodivnik A., Zhdanov S. 
+magnesium alloys // Materials. 2020. Vol. 13. № 3. Ar- Magnesium-based biodegradable alloys: Degradation, 
+ticle number 544. DOI: 10.3390/ma13030544. application, and alloying elements // Interventional 
+
+9. Merson D.L., Brilevsky A.I., Myagkikh P.N., Marku- Medicine and Applied Science. 2017. Vol. 9. № 1.  
+shev M.V., Vinogradov A. Effect of deformation pro- P. 27–38. DOI: 10.1556/1646.9.2017.1.04. 
+cessing of the dilute Mg-1Zn-0.2Ca alloy on the me-  
+chanical properties and corrosion rate in a simulated 
+body fluid // Letters on Materials. 2020. Vol. 10. № 2. REFERENCES 
+
+P. 217–222. DOI: 10.22226/2410-3535-2020-2-217-222. 1. Prakasam M., Locs J., Salma-Ancane K., Loca D., 
+10. Tian L., Sheng Y., Huang L., Chow D.H.K., Chau W.H., Largeteau A., Berzina-Cimdina L. Biodegradable mate-
+
+Tang N., Ngai T., Wu C., Lu J., Qin L. An innovative rials and metallic implants-A review. Journal of Func-
+Mg/Ti hybrid fixation system developed for fracture tional Biomaterials, 2017, vol. 8, no. 4, article number 
+fixation and healing enhancement at load-bearing skele- 44. DOI: 10.3390/jfb8040044. 
+tal site // Biomaterials. 2018. Vol. 180. P. 173–183. 2. Antoniac I., Popescu D., Zapciu A., Antoniac A., Micu-
+DOI: 10.1016/j.biomaterials.2018.07.018. lescu F., Moldovan H. Magnesium filled polylactic acid 
+
+11. Мягких П.Н., Мерсон Е.Д., Полуянов В.А., Мер- (PLA) material for filament based 3D printing. Materi-
+сон Д.Л. In-situ исследование процесса коррозии als, 2019, vol. 12, no. 5, article number 719. DOI: 10. 
+магниевых биорезорбируемых сплавов // Вектор 3390/ma12050719. 
+науки Тольяттинского государственного универси- 3. Knaack D., Goad M.E.P., Aiolova M., Rey C., Tofighi A., 
+тета. 2021. № 2. С. 18–25. DOI: 10.18323/2073-5073- Chakravarthy P., Lee D.D. Resorbable calcium phos-
+2021-2-18-25. phate bone substitute. Journal of Biomedical Materials 
+
+12. Мягких П.Н., Мерсон Е.Д., Полуянов В.А., Мер- Research, 1998, vol. 43, no. 4, pp. 399–409. DOI: 10. 
+сон Д.Л. In-situ исследование кинетики и эволюции 1002/(SICI)1097-4636(199824)43:4<399::AID-JBM7> 
+коррозионного разрушения чистого магния с раз- 3.0.CO;2-J. 
+ным размером зерна // Materials. Technologies. De- 4. Teramoto H., Kawai A., Sugihara S., Yoshida A., Inoue H. 
+sign. 2022. Т. 4. № 1. С. 39–47. DOI: 10.54708/ Resorption of Apatite-wollastonite containing glass-
+26587572_2022_41739. ceramic and β-tricalcium phosphate in vivo. Acta 
+
+1 12 Frontier Materials & Technologies. 2022. № 3-1
+
+
+
+Мягких П.Н., Мерсон Е.Д., Полуянов В.А. и др.   «О совместимости хирургических имплантатов из биорезорбируемых…»  
+
+Medica Okayama, 2005, vol. 59, no. 5, pp. 201–207. Materials. Technologies. Design, 2022, vol. 4, no. 1,  
+DOI: 10.18926/AMO/31974. pp. 39–47. DOI: 10.54708/26587572_2022_41739. 
+
+5. Poinern G.E.J., Brundavanam S., Fawcett D. Biomedi- 13. Song G. Control of biodegradation of biocompatable 
+cal Magnesium Alloys: A Review of Material Proper- magnesium alloys. Corrosion Science, 2007, vol. 49, 
+ties, Surface Modifications and Potential as a Biode- no. 4, pp. 1696–1701. DOI: 10.1016/j.corsci.2007. 
+gradable Orthopaedic Implant. American Journal of 01.001. 
+Biomedical Engineering, 2021, vol. 2, no. 6, pp. 218– 14. Xin Y., Liu C., Zhang X., Tang G., Tian X., Chu P.K. 
+240. DOI: 10.5923/j.ajbe.20120206.02. Corrosion behavior of biomedical AZ91 magnesium al-
+
+6. Levy G.K., Goldman J., Aghion E. The Prospects of loy in simulated body fluids. Journal of Materials Re-
+Zinc as a Structural Material for Biodegradable Im- search, 2007, vol. 22, no. 7, pp. 2004–2011. DOI: 10. 
+plants–A Review Paper. Metals, 2017, vol. 7, no. 10, ar- 1557/jmr.2007.0233. 
+ticle number 402. DOI: 10.3390/met7100402. 15. Li K.K., Wang B., Yan B., Lu W. Preparing Ca-P coat-
+
+7. Schinhammer M., Hänzi A.C., Löffler J.F., Uggowi- ing on biodegradable magnesium alloy by hydrothermal 
+tzer P.J. Design strategy for biodegradable Fe-based al- method: In vitro degradation behavior. Chinese Science 
+loys for medical applications. Acta Biomaterialia, 2010, Bulletin, 2012, vol. 57, no. 18, pp. 2319–2322.  
+vol. 6, no. 5, pp. 1705–1713. DOI: 10.1016/j.actbio. DOI: 10.1007/s11434-012-5067-5. 
+2009.07.039. 16. Li L.Y., Liu B., Zeng R.C., Li S.Q., Zhang F.,  
+
+8. Merson D., Brilevsky A., Myagkikh P., Tarkova A., Zou Y.H., Jiang H.G., Chen X.B., Guan S.K., Liu Q.Y. 
+Prokhorikhin A., Kretov E., Frolova T., Vinogradov A. In vitro corrosion of magnesium alloy AZ31 - a syner-
+The functional properties of Mg-Zn-X biodegradable getic influence of glucose and Tris. Frontiers of Materi-
+magnesium alloys. Materials, 2020, vol. 13, no. 3, arti- als Science, 2018, vol. 12, no. 2, pp. 184–197. DOI: 10. 
+cle number 544. DOI: 10.3390/ma13030544. 1007/s11706-018-0424-1. 
+
+9. Merson D.L., Brilevsky A.I., Myagkikh P.N., Mar- 17. Makkar P., Sarkar S.K., Padalhin A.R., Moon B.G.,  
+kushev M.V., Vinogradov A. Effect of deformation pro- Lee Y.S., Lee B.T. In vitro and in vivo assessment of 
+cessing of the dilute Mg-1Zn-0.2Ca alloy on the me- biomedical Mg–Ca alloys for bone implant applications. 
+chanical properties and corrosion rate in a simulated Journal of Applied Biomaterials and Functional Mate-
+body fluid. Letters on Materials, 2020, vol. 10, no. 2, rials, 2018, vol. 16, no. 3, pp. 126–136. DOI: 10.1177/ 
+pp. 217–222. DOI: 10.22226/2410-3535-2020-2-217- 2280800017750359. 
+222. 18. Liu M., Qiu D., Zhao M.C., Song G., Atrens A. The ef-
+
+10. Tian L., Sheng Y., Huang L., Chow D.H.K., Chau W.H., fect of crystallographic orientation on the active corro-
+Tang N., Ngai T., Wu C., Lu J., Qin L. An innovative sion of pure magnesium. Scripta Materialia, 2008,  
+Mg/Ti hybrid fixation system developed for fracture vol. 58, no. 5, pp. 421–424. DOI: 10.1016/j.scriptamat. 
+fixation and healing enhancement at load-bearing skele- 2007.10.027. 
+tal site. Biomaterials, 2018, vol. 180, pp. 173–183.  19. Zhang X., Ba Z., Wang Q., Wu Y., Wang Z., Wang Q. 
+DOI: 10.1016/j.biomaterials.2018.07.018. Uniform corrosion behavior of GZ51K alloy with long 
+
+11. Myagkikh P.N., Merson E.D., Poluyanov V.A., Mer- period stacking ordered structure for biomedical appli-
+son D.L. In-situ study of corrosion process of biode- cation. Corrosion Science, 2014, vol. 88, pp. 1–5.  
+gradable magnesium alloys. Vektor nauki Tolyat- DOI: 10.1016/j.corsci.2014.07.004. 
+tinskogo gosudarstvennogo universiteta, 2021, no. 2, 20. Pogorielov M., Husak E., Solodivnik A., Zhdanov S. 
+pp. 18–25. DOI: 10.18323/2073-5073-2021-2-18-25. Magnesium-based biodegradable alloys: Degradation, 
+
+12. Myagkikh P.N., Merson E.D., Poluyanov V.A., Mer- application, and alloying elements. Interventional Medi-
+son D.L. Kinetics and evolution of corrosion failure of cine and Applied Science, 2017, vol. 9, no. 1, pp. 27–38. 
+pure magnesium with various grain size: in-situ study. DOI: 10.1556/1646.9.2017.1.04. 
+ 
+
+On the compatibility of surgical implants of bioresorbable magnesium alloys  
+with medical devices of titanium alloys 
+
+© 2022 
+1
+
+Pavel N. Myagkikh* , junior researcher of the Research Institute of Advanced Technologies 
+2
+
+Evgeny D. Merson , PhD (Physics and Mathematics), 
+senior researcher of the Research Institute of Advanced Technologies 
+
+3
+Vitaly A. Poluyanov , PhD (Engineering), junior researcher of the Research Institute of Advanced Technologies 
+
+4
+Dmitry L. Merson , Doctor of Sciences (Physics and Mathematics), Professor, 
+
+Director of the Research Institute of Advanced Technologies 
+Marina E. Begun, student, a technician of the Research Institute of Advanced Technologies 
+
+Togliatti State University, Togliatti (Russia)  
+ 
+
+1
+*E-mail: feanorhao@gmail.com ORCID: https://orcid.org/0000-0002-7530-9518 
+
+2ORCID: https://orcid.org/0000-0002-7063-088X 
+3ORCID: https://orcid.org/0000-0002-0570-2584 
+4ORCID: https://orcid.org/0000-0001-5006-4115 
+
+ 
+Received 01.08.2022                     Accepted 01.09.2022 
+
+ 
+
+F rontier Materials & Technologies. 2022. № 3-1 113
+
+
+
+Мягких П.Н., Мерсон Е.Д., Полуянов В.А. и др.   «О совместимости хирургических имплантатов из биорезорбируемых…»  
+
+Abstract: Self-resorbable implants made of magnesium alloys, unlike the traditional implants made of titanium alloys 
+and stainless steels, have the ability to completely dissolve in the human body, which makes it possible to eliminate  
+the need for a recurrent operation to extract them. The issue of the possibility of using magnesium implants in the combi-
+nation with products made of titanium alloys remains insufficiently studied at the moment. At the same time, it is widely 
+known that the elements such as titanium and iron, with a potential more positive than magnesium, have a disastrous influ-
+ence on the corrosion of magnesium alloys, since magnesium dissolves much faster due to the galvanic effect. This work is 
+aimed to determine how the distance to a titanium implant affects the corrosion rate of a ZX10 magnesium alloy sample 
+with an ultra-fine grain structure. As it is an issue of medical application, the authors carried out the corrosion tests within 
+the conditions simulating the human body conditions: the corrosion medium circulation and keeping temperature within 
+37±1 °C. The authors used physiological solution as a corrosion medium. During corrosion testing, a titanium implant was 
+placed in three, six, and twelve centimeters from the magnesium alloy sample; and the control tests were also carried out 
+without a titanium implant. According to the obtained data, at a distance of 3 cm, the galvanic effect between titanium and 
+magnesium manifests itself strongly, increasing the corrosion rate and the size of corrosion damage, but at a distance of 
+6 cm, the titanium implant does not have a visible effect on the corrosion of a sample. 
+
+Keywords: magnesium alloys; ZX10; bioresorbable materials; corrosion; medical implants. 
+Acknowledgments: The study was financially supported by the Russian Foundation for Basic Research within the sci-
+
+entific project No. 20-38-90073 and by the Russian Science Foundation, project No. 20-19-00585.  
+For citation: Myagkikh P.N., Merson E.D., Poluyanov V.A., Merson D.L., Begun M.E. On the compatibility of surgi-
+
+cal implants of bioresorbable magnesium alloys with medical devices of titanium alloys. Frontier Materials & Technolo-
+gies, 2022, no. 3, pp. 106–114. DOI: 10.18323/2782-4039-2022-3-1-106-114. 
+
+1 14 Frontier Materials & Technologies. 2022. № 3-1

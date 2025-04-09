@@ -1,0 +1,680 @@
+﻿БИОТЕХНОЛОГИИ
+УДК: 615.322
+
+Разработка технологии получения фитомеланинов 
+из отходов масличного производства
+
+Иванова Людмила Афанасьевна
+ФГБОУ ВО «Московский государственный университет пищевых производств»
+
+Адрес: 125080, Москва, Волоколамское шоссе, дом 11
+E-mail: biotech@mgupp.ru
+
+Фоменко Иван Андреевич
+ФГБОУ ВО «Московский государственный университет пищевых производств»
+
+Адрес: 125080, Москва, Волоколамское шоссе, дом 11
+Институт «Прикладной биохимии и машиностроения» (ОАО «Биохиммаш»)
+
+Адрес: 127299, город Москва, ул. Клары Цеткин, дом 4
+E-mail: iv.fomenko@mail.ru
+
+Сергеева Дарья Александровна
+ФГБОУ ВО «Московский государственный университет пищевых производств»
+
+Адрес: 125080, Москва, Волоколамское шоссе, дом 11
+E-mail: d.sergeeva98@mail.ru
+
+Чурмасова Людмила Алексеевна
+ФГБОУ ВО «Московский государственный университет пищевых производств»
+
+Адрес: 125080, Москва, Волоколамское шоссе, дом 11
+E-mail: ludmila-churmasova@yandex.ru
+
+Кабаржан Женисбай Кенжетайулы 
+Казахский национальный аграрный университет
+
+Адрес: 050010, город, Алматы, проспект Абая, дом 8, Республика Казахстан
+E-mail: kabarzhan.zhenisbai@mail.ru
+
+Фитомеланин – уникальный компонент растительного происхождения, полученный из 
+лузги подсолнечника, обладающий фото- и радиопротекторным действием, эффективно 
+защищающий кожу от повреждающего воздействия УФ-лучей разной длины волны. 
+Меланин содержится в любых живых организмах, в том числе и в растениях. Выявлено, что 
+препараты с меланином предотвращают язвообразование, снижают число кровоизлияний 
+в слизистой желудка и препятствует уменьшению общей массы тела в условиях стресса. 
+Присутствие меланина в пищевых продуктах и изделиях способствует их длительному 
+хранению. Водные экстракты, стабилизированные фитомеланином, дают возможность 
+получить принципиально новую по своим свойствам лечебную косметику. Поиск путей 
+получения фитомеланинов из отходов растительного сырья является актуальной задачей, 
+стоящей перед научным сообществом. Коллективом исследователей предложен способ 
+получения водорастворимых фитомеланинов из подсолнечной лузги, являющейся отход 
+масличного производства. Основным этапом получения является щелочная экстракция, 
+протекающая при температуре 120 °С в течение 1 ч. В качестве экстрагента предложено 
+использовать раствор едкого натра различной концентрации. Полученный экстракт 
+подкисляют раствором соляной кислоты до pH pH 1,0 – 2,0, отделяют, нейтрализуют и 
+сушат. Для полученной субстанции подтвердили меланоидных характер с помощью 
+качественных реакций, определили адсорбционную способность по отношению к 
+метиленовой сини. Налучшие образцы имели активность от 50 до 79 мг/г сухого вещества. 
+С помощью модельной тест-системы из желтка куриного яйца была определена общая 
+антиоксидантная активность, которая составила от 10% до 28%. Полученная субстанция 
+может быть использована в качестве лечебно-профилактического препарата или 
+биологически активной добавки к пище.
+БИОТ Е Х НОЛОГ И И Иванова Л.А., Фоменко И.А., Сергеева Д.А., Чурмасова Л.А., Кабаржан Ж.К. Разработка технологии получения фитомеланинов
+
+Ключевые слова: фитомеланины, лузга подсолнечника, общая антиоксидантная 
+активность, адсорбционная способность, стабилизатор, фотопротектор
+
+Как цитировать
+Материал опубликован в соответствии с международной 
+лицензией Creative Commons Attribution 4.0. 136 Иванова, Л. А., Фоменко, И. А., Сергеева, Д. А., Чурмасова, Л. А., 
+
+& Кабаржан, Ж. К. (2019). Разработка технологий получения 
+фитомеланинов на отходах масличного производства. Health, Food & 
+Biotechnology, 1(2), 245. https://doi.org/10.36107/hfb.2019.i2.s245
+
+
+
+БИОТЕХНОЛОГИИ
+
+РАЗРАБОТКА ТЕХНОЛОГИИ ПОЛУЧЕНИЯ ФИТОМЕЛАНИНОВ
+
+Введение and Özdemir, 2018; Schweitzer et al., 2010). Вышеу-
+казанные факты говорят о том, что данный отход 
+
+В настоящее время ученые всего мира уделяют представляет экологическую проблему для окру-
+особое внимание вопросу биотехнологической и жающей среды и в связи с этим, научное сообще-
+химической переработки промышленных и сель- ство во всем мире разрабатывает новые способы 
+скохозяйственных отходов, в частности – остат- использования этого целлюлозосодержащего сы-
+ков целлюлозосодержащего сырья. Повышенный рья.
+интерес к этой теме связан с потребностью ути-
+лизировать внушительные объемы образующихся На сегодняшний день один из перспективных ме-
+отходов и с возможностью получения вторсырья. В тодов использования подсолнечной лузги – это по-
+качестве многофункционального вторичного ма- лучение из нее биополимера растительного про-
+териала можно использовать подсолнечную лузгу исхождения – меланина (Shin, 2000), обладающего 
+– отход масличного производства. высокой биологической активностью и рядом фар-
+
+макологических свойств (Юасифов, 1987; El-Obeid 
+Лузга является отходом 5-ого класса опасности et al., 2006; Jana and Mukherjee, 2004; Zheng et al., 
+(наименьшая угроза для окружающей среды), и 2010). Это обусловливает возможность разработки 
+представляет собой одеревеневшую раститель- на основе меланинов, выделенных из лузги подсо-
+ную ткань, однородную по физической структуре, лнечника, новых технологий получения антиокси-
+с большим постоянством химического состава и дантов, ингибиторов радикальных реакций, сор-
+физико-механических свойств (Кузнецова и др., бентов и биостимуляторов (Островский и Донцов, 
+2019; Kunwar et al., 2012; Nakata et al., 2007). Этот 1985; El-Obeid et al., 2006; Oberg et al., 2009).
+крупнотоннажный отход создает многочисленные 
+экологические проблемы., а именно, потребность Меланины – высокомолекулярные пигменты, ха-
+значительных площадей для захоронения, воз- рактеризующиеся антиоксидантной активностью, 
+можность возгорания, загрязнение территорий а также радио-, УФ-, гастро- и гепатопротектор-
+при нарушении хранения и транспортировки. ной активностью. Особая ценность этих веществ 
+
+заключается именно в их высокой антиоксидант-
+Подсолнечная лузга содержит 1,4% богатого угле- ной активности. А, значит, меланины могут быть 
+родом чрезвычайно устойчивого пигмента фито- использованы для производства лечебно-профи-
+мелана, значительное количество пентозанов (23,6 лактических препаратов, биологически активных 
+– 28%), клетчатки (52 – 66%), лигнина (24,8 – 29,6%), и пищевых добавок, а также в качестве антиок-
+целлюлозы (31 – 42,4%) и является сырьем для про- сидантов в пищевой и химической отраслях про-
+изводства кормов в сельском хозяйстве. Лузгу до- мышленности (Севрюкова & Кириченко, 2016). 
+бавляют в компост при выращивании грибов (Ива-
+нова и др., 2008; Kahlos et al., 1986; Park et al., 2007), На данный момент известно, что меланины уча-
+используют в качестве удобрения, подстилки для ствуют в репарации ДНК, процессах функциони-
+сохранения тепла и при мульчировании почвы рования дыхательной цепи (как акцептор электро-
+(Hung et al., 2002; Pugh et al., 2005), применяют в нов), участвуют в нейромедиаторных процессах 
+изготовлении декоративных материалов, исполь- при многочисленных патологических нарушениях 
+зуют как сырье для гидролизной промышленно- функциональных структур нейронов и имеют спо-
+сти, альтернативное топливо(гранулы из лузги), собность нейтрализовать продукты перекисного 
+сорбционные материалы и лигноцеллюлозное сы- окисления липидов (Shujing et al., 2015).
+рье. 
+
+Данные высокомолекулярные пигменты бывают 
+Существующие способы переработки подсолнеч- животного, микробного (в отдельную категорию 
+ной лузги, к сожалению, не столь масштабны, и выделяют меланины, полученные из грибной био-
+не способны переработать тот крупнотоннажный массы – микомеланины) и растительного проис-
+объем отходов, который вырабатывают масличные хождения (фитомеланины). 
+предприятия. Эти отходы скапливаются в колос-
+сальных количествах, загрязняют почву и требуют Для получения меланинов применяют биотехно-
+дополнительных площадей для складирования. логические способы, с использованием грибов и 
+Микробная биоконверсия подсолнечной лузги бактерий, которые обеспечивают относительно 
+затруднительна в связи с наличием большого ко- стабильный выход и хорошее качество продукта. 
+личества лигнина в ее составе, который является В качестве перспективного источника фитомела-
+ингибитором большинства гидролитических фер- нинов выступает растительное темноокрашенное 
+ментов микроорганизмов (Adams et al., 1994; Keles сырье. 
+
+137
+
+
+
+ИВАНОВА Л.А., ФОМЕНКО И.А., СЕРГЕЕВА Д.А., ЧУРМАСОВА Л.А., КАБАРЖАН Ж.К.
+
+В рационе человека фитомеланины встречаются Методика исследования
+во многих продуктах питания: черный хлеб, какао, 
+черные грибы, гречневая крупа и др., и постоянно Материалы
+поступают в организм в их естественном нераство-
+римом виде. Для производственного получения Исходным субстратом для получения водораство-
+фитомеланинов перспективным сырьем являются римых фитомеланинов была лузга, образующаяся 
+различные растительные отходы пищевых и кор- в процессе лущения семян подсолнечника, являю-
+мовых производств. Примером такого сырья явля- щихся основным сырьем в масличных производ-
+ется лузга подсолнечника, лузга гречихи, кофейная ствах. 
+гуща, виноградные и свекольные выжимки и др 
+(Chung, 2010; Shin et al., 2001)1. Оборудование
+
+Меланины малоспособны к процессу диффузии че- В исследованиях по данной тематике использова-
+рез клеточные стенки. Для полноты их извлечения лось следующее оборудование:
+при экстрагировании из растительного сырья нуж- • автоклав (стерилизатор паровой вертикаль-
+но стремиться к максимально возможному в допу- ный) ВК-75 для щелочной экстракции фитоме-
+стимых условиях измельчению материала, чтобы ланинов;
+нарушить целостность большего числа клеток для • роторная ударная мельница Retsch SR 200 ;
+максимального выхода пигмента. Измельчение • аквадистиллятор ДЭ-25 ;
+сырья улучшает его смачиваемость, что облегчает • фотоэлектроколориметр КФК-3;
+проникновение экстрагента в сырье и извлечение • центрифуга лабораторная Eppendorf Mini 
+экстрактивных веществ из сырья. Spinplus;
+
+• шкаф сушильный 2В-151;
+В щелочной среде фитомеланины обладают наи- • весы лабораторные OHAUS PX-822/E 
+большей растворимостью, то есть с увеличением • ультратермостат TW 2.02
+рН среды увеличивается диссоциация ионогенных • фотоэлектроколориметр КФК-3
+групп меланинов. При этом гидрофильные ионо-
+генные группы частиц меланина ориентируются Методы
+наружу, а гидрофобные участки внутрь частиц. 
+Наличие электрического заряда приводит к зна- Щелочную экстракцию фитомеланинов вели с ис-
+чительной гидратации и разобщению частиц ме- пользованием растворов едкого натра различной 
+ланинов и повышению их растворимости (Grossi, концентрации.Общая схема получения экстракта 
+1998). включала следующие стадии:
+
+1. Приготовление суспензии подсолнечной лузги 
+В настоящее время в России количество вырабаты- при гидромодуле 1:8,5, в качестве дисперсной 
+ваемой подсолнечной лузги достигает 200 тыс. т в среды используются растворы едкого натра, 
+год. Высокая биологическая активность фитомела- концентрацией от 0,5 до 10%;
+нинов подсолнечной лузги обусловливает возмож- 2. Выдерживание суспензии при температуре 
+ность применения этого растительного пигмента (120±1) °С в течение 1 ч;
+в пищевой промышленности в качестве антиокси- 3. Отделение экстрагента от нерастворимого 
+данта и красителя. осадка;
+
+4. Повторная экстракция при аналогичных усло-
+Настоящие разработки представляют большой на- виях;
+учный интерес, так как безопасность и функцио- 5. Объединение полученных фильтратов, содер-
+нальность пищевых продуктов являются первосте- жащих фитомеланины.
+пенными задачами промышленности (Balandaykin 
+& Zmitrovich, 2015; De-Paula et al., 2013). Для получения водорастворимых фитомеланинов 
+
+экстракты подкисляли раствором соляной кисло-
+Предлагаемое техническое решение в данной ты до pH 1 – 2, при этом наблюдалось образование 
+статье, позволит повысить эффективность ис- творожистого осадка. Осадок отделяли на центри-
+пользования отходов масличного производства и фуге в течение 10 мин при 7000 об/мин, затем раз-
+удовлетворить растущий спрос на меланин с заме- водили дистиллированной водой в соотношении 
+щением импортных поставок. 1:4, pH полученного раствора доводили до 7,0 и вы-
+
+1 Dadachova, E., Casadevall, A. Oral administration of melanin for protection against radiation. Patent. USA. - W02012129047 (À1) – 2012 
+– 09 - 27.
+
+138
+
+
+
+РАЗРАБОТКА ТЕХНОЛОГИИ ПОЛУЧЕНИЯ ФИТОМЕЛАНИНОВ
+
+сущивали суспензию при (105±1) °С до влажности 
+не более 6%. , (3)
+
+Методы качественного анализа фитомелани-
+нов (А – оптическая плотность испытуемого раствора; 
+1. При добавлении к раствору фитомеланинов АО – оптическая плотность раствора Б; P – содержа-
+
+раствора пероксида водорода должно происхо- ние метиленового синего в субстанции в пересче-
+дить обесцвечивание. те на безводное вещество, в процентах; W – потери 
+
+2. При добавлении к раствору фитомеланинов массы при высушивании испытуемой субстанции, 
+раствора перманганата калия наблюдается об- в %, аО – навеска метиленового синего в мг ; а – на-
+разование раствора с зеленой окраской, с по- веска субстанции в мг).
+следующим выпадением осадка и обесцвечи-
+ванием раствора. Определение общей антиоксидантной актив-
+
+3. При добавлении к раствору фитомеланинов ности
+хлорида железа наблюдается выпадение хло-
+пьевидного осадка и его растворение в избыт- Определение антиоксидантной активности (АОА) 
+ке реактива. осуществляли с использованием модельной систе-
+
+мы, представляющей собой суспензию липопроте-
+Адсорбционная способность идов желтка (ЖЛП) куриных яиц, помещенную в 
+
+среду для проведения реакции перекисного окис-
+Адсорбционную способность полученных фито- ления липидов (ПОЛ).
+меланинов определяли спектрофотометрическим 
+методом. Для этого 100 мг субстанции, предвари- Для приготовления модельной системы из кури-
+тельно растертой в ступке, помещали в колбу на ного яйца выделяли желток, подсушивали его на 
+100 см3 с притертой пробкой, прибавляли 20 см3 фильтровальной бумаге, а затем растворяли его в 
+раствора А метиленового синего (188 мг метилено- равном объеме фосфатного буфера (40 мМ KH2PO4 + 
+вого синего в мерной колбе доводят до объема 250 + 105 мМ KCl, pH 7,5). Полученную суспензию ЖЛП 
+см3 дистиллированной водой), закрывали пробкой перед использованием разводили в 25 раз тем же 
+и перемешивали в течение 1 ч на магнитной ме- буфером.
+шалке. Суспензию центрифугировали в течение 15 
+мин при 6000 об/мин. 1 см3 надосадочной жидко- Исследование проводили следующим образом: 
+сти помещали в мерную колбу на 100 см3, доводили к 0,6 г фитомеланинов добавляли 1 см3 суспен-
+раствор до метки дистиллированной водой (испы- зии ЖЛП, затем 3 см3 1% ортофосфорной кисло-
+туемый раствор). ты. Перекисное окисление липидов во всех про-
+
+бах инициировали добавлением 0,1 см3 раствора 
+Измеряли оптическую плотность раствора Б (1 см3 сернокислого железа (30 мг FeSO4*7H2O в 10 см3 
+раствора А доводили до 200 см3 дистиллированной дистиллированной воды). Контрольная проба не 
+водой) и испытуемого раствора на спектрофотоме- содержала образцов фитомеланинов. Пробы тща-
+тре при длине волны 655 нм в кювете с толщиной тельно перемешивали и инкубировали в ультра-
+слоя 10 мм. В качестве раствора сравнения исполь- термостате при 37 °С в течение 20 мин.
+зовали дистиллированную воду.
+
+Скорость перекисного окисления липидов опреде-
+Адсорбционную способность (Х), в миллиграммах ляли по количеству накопившихся ТБК-продуктов 
+метиленового синего в пересчете на 1 г, вычисляли (малоновый диальдегид), реагирующих с тиоб-
+по формуле: арбитуровой кислотой (ТБК). Для этого в каждую 
+
+пробирку добавляли по 1 см3 0,6% тиобарбитуро-
+, (1) вой кислоты. Содержимое пробирок снова пере-
+
+мешивали и помещали в кипяую водяную баню 
+где С – содержание метиленового синего в аликво- на 20 мин. Далее пробирки охлаждали, добавляли 
+те раствора А в мг, в них по 4 см3 бутанола, тщательно перемешива-
+
+ли и центрифугировали 10 мин при 3000 об/мин. 
+, (2) Оптическую плотность верхней (бутанольной) 
+
+фазы измеряли при длине волны 540 нм с помо-
+С1 – остаточное содержание метиленового синего в щью фотоэлектроколориметра КФК-3, длина оп-
+растворе после взаимодействия с препаратом в мг, тического пути – 5 мм. В качестве раствора срав-
+
+нения использовали чистый бутиловый спирт. 
+
+139
+
+
+
+ИВАНОВА Л.А., ФОМЕНКО И.А., СЕРГЕЕВА Д.А., ЧУРМАСОВА Л.А., КАБАРЖАН Ж.К.
+
+Расчет содержания продуктов, реагирующих с ТБК, ляли 4 объема дистиллированной воды и доводили 
+проводили с учетом коэффициента молярной экс- pH до 7,0. Полученную суспензию высушивали до 
+тинции малонового диальдегида, равного 1,56*105 остаточной влажности не более 6%. Данные о мас-
+моль*см-1: се полученных водорастворимых фитомеланинов 
+
+представлены в таблице 1.
+
+   , (4) После установления эффективного способа раз-
+мола подсолнечной лузги необходимо было опре-
+
+где А – содержание МДА (в мкмоль/л или нмоль/ делить оптимальную концентрацию экстрагента 
+см3); 4 – объем бутанольной фазы; 0,6 – масса про- фитомеланинов. С этой целью были приготовле-
+бы фитомеланинов; ЕОП – оптическая плотность. ны суспензии подсолнечной лузги,измельченной 
+
+с помощью роторной ударной мельницы Retscн SR 
+Антиоксидантную активность (АОА) в процентах 200, при гидромодуле 1:8,5. В качестве дисперсной 
+расчитывали по формуле: среды использовали растворы едкого натра сле-
+
+дующих концентраций (в %): 0,5; 1; 2; 4; 6; 8; 10. 
+ , (5) Экстрагирование и получение водорастворимых 
+
+фитомеланинов проводили аналогично условиям, 
+где Eконтр – оптическая плотность контрольного рас- указанным в первой части исследований Данные о 
+твора, Еобр – оптическая плотность испытуемого об- выходе полученных водорастворимых фитомела-
+разца. нинов и их адсорбционной способности представ-
+
+лены в таблице 2.
+Процедура исследования
+
+Для всех полученных субстанций был подтверждён 
+На первом этапе исследовали влияние степени из- меланоидный характер, определена адсорбцион-
+мельчения подсолнечной лузги на массу экстра- ная способность и антиоксидантная активность с 
+гируемых меланинов. Для этого готовили навески использованием модельной тест-системы. 
+исходной подсолнечной лузги и лузги измельчен-
+ной с использованием бытовой кофемолки Bosch 
+и роторной ударной мельницы Retsch SR 200. Были Обсуждение полученных результатов
+получены частицы 3-х различных размеров.
+
+По данным таблицы 1 можно сделать вывод об 
+Далее было проведено исследование, показавшее оптимальной степени измельчения исходного 
+зависимость между концентрацией экстрагента и субстрата для получения водорастворимых фито-
+массой полученных водорастворимых фитомела- меланинов. Очевидно, что увеличение площади со-
+нинов. прикосновения твердой и жидкой фазы повышает 
+
+степень экстрагирования фитомеланинов. При ис-
+Результаты пользовании роторной ударной мельницы Retsch 
+
+SR 200 получают частицы, позволяющие в 100 раз 
+При исследовании влияния степени измельчения увеличить выход целевого продукта по сравнению 
+подсолнечной лузги на экстракцию меланинов луз- с неизмельченной лузгой. 
+га измельчалась на бытовой кофемолке Bosch, до 
+получения частиц шириной 1-3 мм, длиной 2-5 мм. При исследовании оптимальной концентрации экс-
+и на роторной ударной мельнице Retsch SR 200 ,где трагента было определено, что наибольший выход 
+были получены частицы, размер которых не пре- меланинов по отношению к исходному субстрату 
+вышал 100 мкм. Для исследования были приготов- составляет 72,78% при использовании 10% раство-
+лены суспензии трех вариантов измельчения под- ра едкого натра, понижение концентрации при-
+солнечной лузги при гидромодуле 1:8,5, в качестве водит к снижению выхода целевого продукта. По 
+дисперсной среды использовали 4% раствор NaOH. сравнению с работой отечественных исследовате-
+Суспензии выдержали в автоклаве при (120±1) °С лей2 количество полученных водорастворимых фи-
+в течение 1 ч, затем фильтровали, pH фильтратов томеланинов в 7 - 9 раз выше. Ключевым отличием 
+доводили до значения 1,0 соляной кислотой, полу- описанного способа является использование рас-
+ченный осадок отделяли центрифугированием в творов едкого натра большей концентрации и вы-
+течение 15 мин при 7000 об/мин. К осадку добав- державание при температуре 120 °С. В тоже время, 
+
+2 Грачева, Н. В., Желтобрюхов, В. Ф., & Голованчиков, А. Б. (2017). Способ получения меланина из лузги подсолнечника. RU 2613294 
+C1 Заявка: 2016115275 от 2016.04.19.
+
+140
+
+
+
+РАЗРАБОТКА ТЕХНОЛОГИИ ПОЛУЧЕНИЯ ФИТОМЕЛАНИНОВ
+
+Таблица 1 
+Влияние степени измельчения подсолнечной лузги на выход водорастворимых фитомеланинов
+
+Вариант размола Выход водорастворимых фитомеланинов 
+по отношению к исходной массе лузги, %
+
+Неизмельченная лузга  0,25
+Измельченная с использованием бытовой кофемолки Bosch 2,91
+Измельченная с использованием роторной ударной мельницы Retsch SR 200 25,87
+
+Таблица 2 
+Влияние концентрации экстрагента на выход и свойства водорастворимых фитомеланинов 
+
+Концентрация Выход водорастворимых фитомелани- Адсорбционная способность, мг Антиоксидантная 
+NaOH, % нов по отношению к исходной лузге, % мителеновой сини/г субстанции активность, %
+
+0,5 0,53 71,35 -
+1 1,87 75,61 -
+2 9,35 77,25 -
+4 26,89 82,71 28,2
+6 34,90 75,65 26,4
+8 37,09 53,23 18,5
+10 72,78 48,38 10,9
+
+показатель общей антиоксидантной активности в 3 тать технологию получения водорастворимых фи-
+– 4 раза ниже, чем в способе описанном Грачевой и томеланинов, используя для их осаждения мине-
+др. Э то объясняется тем, при предложенной нами ральные или органические кислоты, разрешенные 
+обработке происходит экстрагирование сопутству- для применения в пищевой промышленности (ор-
+ющих веществ, не обладающих антиоксидантной тофосфорная, лимонная, яблочная, молочная кис-
+активностью. лоты). 
+
+Стоит отметить, что максимальное значение (82,71 Природные меланины, содержащиеся в животных 
+мг метиленовой сини/ г субстанции) адсорбцион- и растительных клетках, обладают высокой анти-
+ной способности получено в субстанции, где в каче- оксидантной активностью. Именно, благодаря это-
+стве экстрагента использовался 4% раствор NaOH, му свойству, они представляют большой интерес 
+это можно объяснить тем, что при использовании для производства функциональных продуктов здо-
+более концентрированного экстрагента повыша- рового питания. Подсолнечная лузга может быть 
+ется экстракция сопутствующих веществ, не отно- технологичным и экономически эффективным 
+сящихся к группе фитомеланинов. Данный пока- источником получения чистого фитомеланина в 
+затель коррелирует с данными о мелананах гриба промышленном производстве. 
+чаги, описанных Chung et al, 2018.
+
+Литература
+Заключение
+
+Иванова, Г. А., Докторов, Л. Ю., Сысоева, М. А., & Ку-
+Проведенные исследования показали возможность тырев, Г. А. (2008). Использование азотосодержа-
+использования подсолнечной лузги в качестве сы- щего гиперразветвленного полимера для повы-
+рья для получения водорастворимых фитомелани- шения антиоксидантной активности меланинов 
+нов. Предложена технология щелочной экстракции чаги. Химия растительного сырья, 2, 75–80.
+с последующим осаждением меланинов соляной Кузнецова, О. Ю., Шаехов, М. Ф., & Зиятдинова, 
+кислотой. Фитомеланины из подсолнечной лузги Г. К. (2019). Экстракты и меланины чаги, по-
+обладают высокой адсорбционной и антиоксидант- лученный после плазменной обработки сы-
+ной активностями, что позволяет использовать их рья. Ученые записки казанского университета, 
+в качестве биологически активных добавок к пище 161(2), 211-221. https://doi.org/10.26907/2542-
+или вводить в рецептуры пищевых продуктов. 064X.2019.2.211-221
+
+Островский, М. А., & Донцов, А. Е. (1985). Физиоло-
+В будущих исследованиях целесообразно разрабо- гические функции меланина в организме. Физи-
+
+141
+
+
+
+ИВАНОВА Л.А., ФОМЕНКО И.А., СЕРГЕЕВА Д.А., ЧУРМАСОВА Л.А., КАБАРЖАН Ж.К.
+
+ология человека, 11(4), 670-678. Pharmaceutical Biology, 4(3), 131–132.
+Севрюкова, Г. А., & Кириченко, М. А. (2016). Полу- Kahlos, K., Kangas, L., & Hiltunen, R. (1986). Antitumor 
+
+чение меланина на основе отходов маслоэкс- activity of triterpenes in Inonotus obliquus. Planta 
+тракционного производства. Промышленная Medica, 52, 554.
+экология и безопасность жизнедеятельности Keles, Y., & Özdemir, Ö. (2018). Extraction, purification, 
+Волгоградского государственного технического antioxidant properties and stability conditions of 
+университета, 1, 125. phytomelanin pigment on the sunflower seeds. 
+
+Юасифов, Э. Ю. (1987). Влияние меланина на сво- International Journal of Secondary Metabolite, 5(2), 
+бодно – радикальное состояние гамма – облу- 140-148. https://doi.org/10.21448/ijsm.377470
+ченных белков и липидов. Радиобиология, 27(1), Kunwar, A., Adhikary, B., Jayakumar, S., Barik, A., 
+8-11. Chattopadhyay, S., Raghukumar, S., & Priyadarsini 
+
+Adams, R., Van Bogaert,  L., & Ecken, H. (1994). K. (2012). Melanin, a promising radioprotector: 
+Striatonigral degeneration. Journal of Mechanisms of actions in a mice model. Toxicology 
+Neuropathology and Experimental Neurology, 23, and Applied Pharmacology 264(2), 202–211. https://
+584–593. doi.org/10.1016/j.taap.2012.08.002
+
+Balandaykin, M. E., & Zmitrovich, I. V. (2015). Review Nakata, T., Yamada, T., Taji, S., Ohishi, H., Wada, 
+on chaga medicinal mushroom, Inonotus obliquus S., Tokuda, H., Sakuma, K., & Tanaka, R. (2007). 
+(higher basidiomycetes): Realm of medicinal Structure determination of inonotsuoxides A and 
+applications and approaches on estimating B and in vivo anti-tumor promoting activity of 
+its resource potential. International Journal of inotodiol from the sclerotia of Inonotus obliquus. 
+Medicinal Mushrooms, 17(2), 95–104. https://doi. Bioorganic & Medicinal Chemistry, 15(1), 257–264.
+org/10.1615/intjmedmushrooms.v17.i2.10 Oberg, F., Haseeb, A., Ahnfelt, M., Pontеn, F., 
+
+Chung, M. J. (2010) Anticancer activity of subfractions Westermark, B., & El-Obeid, A. (2009). Herbal 
+containing pure compounds of Chaga mushroom melanin activates TLR 4/NF-kappa B signaling 
+(Inonotus obliquus) extract in human cancer cells pathway. Phytomedicine: international journal of 
+and in Balbc/c mice bearing Sarcoma-180 cells. phytotherapy and phytopharmacology, 16(5), 477–
+Nutrition research and practice, 4(3), 177–182. 484. https://doi.org/10.1016/j.phymed.2008.10.008
+https://doi.org/10.4162/nrp.2010.4.3.177 Park, K.I., Ishikawa, N., Morita, Y. Choi, J.D., Hoshino, 
+
+De-Paula, O. C., Marzinek, J., & Oliveira, D. M. T. A., Iida, S. (2007). A bHLH regulatory gene in 
+(2013). The role of fibres and the hypodermis in the common morning glory, Ipomoea purpurea, 
+Compositae melanin secretion. Micron, 44, 312- controls anthocyanin biosynthesis in flowers, 
+316. proanthocyanidin and phytomelanin pigmentation 
+
+El-Obeid, A., Al-Harbi, S,. AL-Jomah, N., & Hassib, A. in seeds, and seed trichome formation. The Plant 
+(2006). Herbal melanin modulates tumor necrosis Journal, 49(4), 641-654.
+factor alpha (TNF-alpha), interleukin 6 (IL-6) Pugh, N., Balachandran, P., Lata, H., Dayan, F., Joshi, 
+and vascular endothelial growth factor (VEGF) V., Bedir, E., Makino, T., Moraes, R., Khan, I., & 
+production. Phytomedicine: international journal of Pasco, D. (2005). Melanin: dietary mucosal immune 
+phytotherapy and phytopharmacology, 13(5), 324– modulator from Echinacea and other botanical 
+333. supplements. International Immunopharmacology. 
+
+El-Obeid, A., Hassib, A., Pontén, F., & Westermark, B. 5(4), 637–647.
+(2006). Effect of herbal melanin on IL-8: a possible Schweitzer, A., Revskay,a E., Chu, P., Pazo, V., Friedman, 
+role of Toll-like receptor 4 (TLR4). Biochemical and M., Nosanchuk, J., Cahill, S., Frases, S., Casadevall, 
+Biophysical research communications, 344(4), 1200– A., & Dadachova, E. (2010). Melanin-covered 
+1206. nanoparticles for protection of bone marrow during 
+
+Grossi, G.F., Durante, M., & Gvalanella, G. (1998). radiation therapy of cancer. International Journal 
+Effects of melanin on high-LET radiation of Radiation Oncology Biology Physics 78(5), 1494–
+response of human epithelial cells. Radiation and 1502. https://doi.org/10.1016/j.ijrobp.2010.02.020
+environmental biophysics, 37, 63–67. Shin, Y., Tamai Y., & Terazawa M. (2000). Chemical 
+
+Hung, Y. C., Sava, V. M., Makan, S. Y., Chen, T. H. J., constituents of Inonotus obliquus III. International 
+Hong, M. Y, & Huang, G. S. (2002). Antioxidant Journal of Medicinal Mushrooms, 2(3), 201–207.
+activity of melanins derived from tea: comparison Shin, Y., Tamai, Y., & Terazawa, M. (2001). 
+between different oxidative states. Food Chemistry, Triterpenoids, steroids and a new sesquiterpen 
+78, 233-240. from Inonotus obliquus (Pers.: Fr.) Bond, et Sing. 
+
+Jana, B., & Mukherjee, S. (2004). Notes on the International Journal of Medicinal Mushrooms, 4(3), 
+distribution of phytomelanin layer in higher 250-256.
+plants—a short communication. Journal of Shujing, S., Zhang, X., Sun, S., Zhang, L., Shan, S., & 
+
+142
+
+
+
+РАЗРАБОТКА ТЕХНОЛОГИИ ПОЛУЧЕНИЯ ФИТОМЕЛАНИНОВ
+
+Zhu, H. (2015). Production of natural melanin by active metabolites in the sclerotia of Inonotus 
+Auricularia auricula and study on its molecular obliquus and and submerged culture strategies 
+structure, Food Chemistry, 190, 801-807. for up-regulating their production. Applied 
+
+Zheng, W., Miao, K., Liu, Y., Zhao, Y., Zhang, M., Pan, S., Microbiology and Biotechnology, 87(4), 1237–1254. 
+& Dai, Y. (2010). Chemical diversity of biologically https://doi.org/10.1007/s00253-010-2682-4
+
+143
+
+
+
+BIOTECHNOLOGY
+
+Development of Technologies for Producing 
+Phytomelanines on Waste Oil Production
+
+Lyudmila A. Ivanova
+Moscow State University of Food Production
+
+11 Volokolamskoe highway, Moscow, 125080, Russian Federation
+E-mail: biotech@mgupp.ru
+
+Ivan A. Fomenko
+Moscow State University of Food Production
+
+11 Volokolamskoe highway, Moscow, 125080, Russian Federation
+JSC “Biokhimmash”
+
+4 Klara Cetkin str., Moscow, 127299, Russian Federation
+E-mail: iv.fomenko@mail.ru
+
+Darya A. Sergeeva
+Moscow State University of Food Production
+
+11 Volokolamskoe highway, Moscow, 125080, Russian Federation
+E-mail: d.sergeeva98@mail.ru
+
+Lyudmila A. Churmasova
+Moscow State University of Food Production
+
+11 Volokolamskoe highway, Moscow, 125080, Russian Federation
+E-mail: ludmila-churmasova@yandex.ru
+
+Zhenisbai Kabarzhan
+Kazakh National Agrain University
+
+8 Abay ave., Almaty, 050010, Kazakhstan
+E-mail: kabarzhan.zhenisbai@mail.ru
+
+Phytomelanin is a unique [M1] component of plant origin, obtained from the husks of 
+sunflower, having photo and radioprotective effects, effectively protecting the skin from the 
+damaging effects of UV rays of different wavelengths. Melanin is found in all living organisms, 
+including plants. Revealed that preparations with melanin prevent ulceration, reduce the 
+number of hemorrhages in the stomach mucosa and prevent a decrease total body weight in 
+stress condition. The presence of melanin in food products and products contributes to their 
+long-term storage. Water extracts stabilized with phytomelanin gives a possibility to obtain 
+healing cosmetics that are fundamentally new in their properties. The search for ways to obtain 
+phytomelanins from plant waste is an actual task facing the scientific community. A collective 
+of researchers has proposed a method for producing water-soluble phytomelanins from 
+sunflower husk, which is an oilseed waste. The main stage of obtaining is alkaline extraction, 
+continuing at a temperature of 120 ° C for 1 h. It is offered to use a solution of caustic soda 
+with various concentration as an extractant. The resulting extract acidified with a solution 
+of hydrochloric acid to a pH of 1.0 to 2.0, separated, neutralized and dried. For the obtained 
+substance confirmed the character of melanoid using qualitative reactions, and the adsorption 
+ability with relation to methylene blue was determined. The best exemplars had activity from 
+50 to 79 mg / g dry matter. Via a model test system from chicken yolk, the total antioxidant 
+activity was determined, which ranged from 10% to 28%. The resulting substance can be used 
+as a therapeutic drug or biologically active food supplement.
+
+Keywords: phytomelanin, husks of sunflower, total antioxidant activity, adsorption ability, 
+stabilizer, photoprotector
+Development of Technologies for Producing Phytomelanines Lyudmila A. Ivanova, Ivan A. Fomenko, Darya A. Sergeeva, Lyudmila A. Churmasova, Zhenisbai Kabarzhan BIOT ECH NOLOGY
+
+How to Cite
+This article is published under the Creative 
+Commons Attribution 4.0 International License. 144 Ivanova, L. A., Fomenko, I. A., Sergeeva, D. A., Churmasova, L. A., & Kabarzhan, 
+
+Z. (2019). Development of Technologies for Producing Phytomelanines on Waste 
+Oil Production. Health, Food & Biotechnology, 1(2), 245. https://doi.org/10.36107/
+hfb.2019.i2.s245
+
+
+
+BIOTECHNOLOGY
+
+DEVELOPMENT OF TECHNOLOGIES FOR PRODUCING PHYTOMELANINES
+
+References role of Toll-like receptor 4 (TLR4). Biochemical and 
+Biophysical research communications, 344(4), 1200–
+
+Ivanova, G. A., Doktorov, L. Yu., Sysoeva, M. A., & 1206.
+Kutyrev, G. A. (2008). Using a nitrogen-containing Grossi, G.F., Durante, M., & Gvalanella, G. (1998). 
+hyperbranched polymer to increase the antioxidant Effects of melanin on high-LET radiation 
+activity of chaga melanins. Himiya rastitel’nogo response of human epithelial cells. Radiation and 
+syr’yа [Chemistry of plant raw materials], 2, 75-80. environmental biophysics, 37, 63–67.
+
+Kuznetsova, O. Yu., Shaekhov, M. F., & Ziyatdinova, G. Hung, Y. C., Sava, V. M., Makan, S. Y., Chen, T. H. J., 
+K. (2019). Extracts and melanins of chaga obtained Hong, M. Y, & Huang, G. S. (2002). Antioxidant 
+after plasma processing of raw materials. Uchenye activity of melanins derived from tea: comparison 
+zapiski kazanskogo universiteta [Scientific notes of between different oxidative states. Food Chemistry, 
+Kazan University], 161(2), 211-221. https://doi. 78, 233-240.
+org/10.26907/2542-064X.2019.2.211-221 Jana, B., & Mukherjee, S. (2004). Notes on the 
+
+Ostrovsky, M. A., & Dontsov, A. E. (1985). Physiological distribution of phytomelanin layer in higher 
+functions of melanin in the body. Fiziologiya plants—a short communication. Journal of 
+cheloveka [Human physiology], 11(4), 670-678. Pharmaceutical Biology, 4(3), 131–132.
+
+Sevryukova, G. A., & Kirichenko, M. A. (2016). Kahlos, K., Kangas, L., & Hiltunen, R. (1986). Antitumor 
+Production of melanin based on waste oil activity of triterpenes in Inonotus obliquus. Planta 
+extraction production. Promyshlennaya ekologiya Medica, 52, 554.
+i bezopasnost’ zhiznedeyatel’nosti» Volgogradskogo Keles, Y., & Özdemir, Ö. (2018). Extraction, purification, 
+gosudarstvennogo tekhnicheskogo universiteta antioxidant properties and stability conditions of 
+[Industrial Ecology and Life Safety ”Volgograd phytomelanin pigment on the sunflower seeds. 
+State Technical University], 1, 125. International Journal of Secondary Metabolite, 5(2), 
+
+Yusifov,  E. Yu. (1987). Influence of melanin on the 140-148. https://doi.org/10.21448/ijsm.377470
+free radical state of gamma-irradiated proteins and Kunwar, A., Adhikary, B., Jayakumar, S., Barik, A., 
+lipids. Radiobiology [Radiobiology], 27(1), 8-11. Chattopadhyay, S., Raghukumar, S., & Priyadarsini 
+
+Adams, R., Van Bogaert,  L., & Ecken, H. (1994). K. (2012). Melanin, a promising radioprotector: 
+Striatonigral degeneration. Journal of Mechanisms of actions in a mice model. Toxicology 
+Neuropathology and Experimental Neurology, 23, and Applied Pharmacology 264(2), 202–211. https://
+584–593. doi.org/10.1016/j.taap.2012.08.002
+
+Balandaykin, M. E., & Zmitrovich, I. V. (2015). Review Nakata, T., Yamada, T., Taji, S., Ohishi, H., Wada, 
+on chaga medicinal mushroom, Inonotus obliquus S., Tokuda, H., Sakuma, K., & Tanaka, R. (2007). 
+(higher basidiomycetes): Realm of medicinal Structure determination of inonotsuoxides A and 
+applications and approaches on estimating B and in vivo anti-tumor promoting activity of 
+its resource potential. International Journal of inotodiol from the sclerotia of Inonotus obliquus. 
+Medicinal Mushrooms, 17(2), 95–104. https://doi. Bioorganic & Medicinal Chemistry, 15(1), 257–264.
+org/10.1615/intjmedmushrooms.v17.i2.10 Oberg, F., Haseeb, A., Ahnfelt, M., Pontеn, F., 
+
+Chung, M. J. (2010) Anticancer activity of subfractions Westermark, B., & El-Obeid, A. (2009). Herbal 
+containing pure compounds of Chaga mushroom melanin activates TLR 4/NF-kappa B signaling 
+(Inonotus obliquus) extract in human cancer cells pathway. Phytomedicine: international journal of 
+and in Balbc/c mice bearing Sarcoma-180 cells. phytotherapy and phytopharmacology, 16(5), 477–
+Nutrition research and practice, 4(3), 177–182. 484. https://doi.org/10.1016/j.phymed.2008.10.008
+https://doi.org/10.4162/nrp.2010.4.3.177 Park, K.I., Ishikawa, N., Morita, Y. Choi, J.D., Hoshino, 
+
+De-Paula, O. C., Marzinek, J., & Oliveira, D. M. T. A., Iida, S. (2007). A bHLH regulatory gene in 
+(2013). The role of fibres and the hypodermis in the common morning glory, Ipomoea purpurea, 
+Compositae melanin secretion. Micron, 44, 312- controls anthocyanin biosynthesis in flowers, 
+316. proanthocyanidin and phytomelanin pigmentation 
+
+El-Obeid, A., Al-Harbi, S,. AL-Jomah, N., & Hassib, A. in seeds, and seed trichome formation. The Plant 
+(2006). Herbal melanin modulates tumor necrosis Journal, 49(4), 641-654.
+factor alpha (TNF-alpha), interleukin 6 (IL-6) Pugh, N., Balachandran, P., Lata, H., Dayan, F., Joshi, 
+and vascular endothelial growth factor (VEGF) V., Bedir, E., Makino, T., Moraes, R., Khan, I., & 
+production. Phytomedicine: international journal of Pasco, D. (2005). Melanin: dietary mucosal immune 
+phytotherapy and phytopharmacology, 13(5), 324– modulator from Echinacea and other botanical 
+333. supplements. International Immunopharmacology. 
+
+El-Obeid, A., Hassib, A., Pontén, F., & Westermark, B. 5(4), 637–647.
+(2006). Effect of herbal melanin on IL-8: a possible Schweitzer A., Revskaya E., Chu P., Pazo V., Friedman 
+
+145
+
+
+
+LYUDMILA A. IVANOVA, IVAN A. FOMENKO, DARYA A. SERGEEVA, LYUDMILA A. CHURMASOVA, ZHENISBAI KABARZHAN
+
+M., Nosanchuk J., Cahill S., Frases S., Casadevall A., Journal of Medicinal Mushrooms, 4(3), 250-256.
+Dadachova E. (2010). Melanin-covered nanoparticles Shujing, S., Zhang, X., Sun, S., Zhang, L., Shan, S., 
+for protection of bone marrow during radiation Zhu, H. (2015). Production of natural melanin by 
+therapy of cancer. International Journal of Radiation Auricularia auricula and study on its molecular 
+Oncology Biology Physics 78(5), 1494–1502. https:// structure, Food Chemistry, 190, 801-807.
+doi.org/10.1016/j.ijrobp.2010.02.020 Zheng W., Miao K., Liu Y., Zhao Y., Zhang M., Pan S., 
+
+Shin Y., Tamai Y., Terazawa M. (2000). Chemical Dai Y.. (2010). Chemical diversity of biologically 
+constituents of Inonotus obliquus III. International active metabolites in the sclerotia of Inonotus 
+Journal of Medicinal Mushrooms, 2(3), 201–207. obliquus and and submerged culture strategies 
+
+Shin Y., Tamai Y., Terazawa M. (2001). Triterpenoids, for up-regulating their production. Appl Microbiol 
+steroids and a new sesquiterpen from Inonotus Biotechnol, 87(4), 1237–1254. https://doi.
+obliquus (Pers.: Fr.) Bond. et Sing. International org/10.1007/s00253-010-2682-4
+
+146

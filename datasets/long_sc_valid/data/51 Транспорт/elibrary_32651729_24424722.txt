@@ -1,0 +1,476 @@
+﻿156
+УДК 656 .051 ПРОБЛЕМЫ УПРАВЛЕНИЯ
+
+Пассажирские перевозки 
+и оптимизация городской 
+
+маршрутной сети 
+Вячеслав ТЕРЕНТЬЕВ
+Vyacheslav V. TERENTYEV
+
+Андреев Константин Петрович – м агистрант 
+Тульского государственного университета, Рязань, 
+Россия.
+Терентьев Вячеслав Викторович – м агистрант 
+Тульского государственного университета, Рязань, 
+Россия.
+
+Константин АНДРЕЕВ
+Konstantin P. ANDREEV В каждом автотранспортном пред-
+
+приятии города основной задачей 
+организации и планирования про-
+
+Passenger Transportation 
+and Optimization of the Urban изводства неизменно становится рацио-
+
+Route Network нальное сочетание и использование всех 
+(текст статьи на англ. яз. – ресурсов для выполнения максимальной 
+
+English text of the article – p . 160) транспортной работы и улучшения качест-
+ва обслуживания населения пассажирски-
+
+Авторы предлагают меры по ми перевозками . При этом естественно 
+оптимизации городской маршрутной в условиях такого города, как Касимов, 
+
+сети пассажирского транспорта. 
+В соответствии с задачами встаёт и вопрос об оптимизации городской 
+оптимизации разработаны марш рутной сети, начинается поиск орга-
+
+программа и методика обследования низационных решений и способов их во-
+пассажиропотоков, более площения .
+
+рациональная схема маршрутной Первым этапом, как свидетельствует 
+сети, транспортная макромодель опыт, является проведение обследования 
+
+города, предусмотрено внедрение пассажиропотоков на автомобильном транс-
+в сфере пассажирских перевозок 
+
+навигационной системы мониторинга порте общего пользования: изучение суще-
+ГЛОНАСС или ГЛОНАСС/GPS, ствующего пассажиропотока на маршрутах 
+
+системы мониторинга безопасности по направлению движения автобусов, по 
+и управления подвижными времени суток, в различные дни недели; 
+
+объектами. определение показателей наполняемости 
+пассажирских салонов автобусов по направ-
+
+Ключевые слова: общественный лению движения, по времени суток, в раз-
+транспорт, городская маршрутная сеть, 
+пассажирские перевозки, оптимизация, личные дни недели . Затем следует обработка 
+
+мониторинг, ГЛОНАСС, макромодель, результатов обследования пассажиропотока 
+пассажиропотоки. на маршруте, разработка мероприят ий по 
+
+оптимизации маршрутной сети [1] .
+
+• МИР ТРАНСПОРТА, том 15, № 6, С. 156–161 (2017)
+
+ADMINISTRATION, MANAGEMENT AND CONTROL
+
+
+
+При планировании и получении конеч- – маятниковая миграция, характерная 
+ного результата нужно добиваться, чтобы для города в утреннее и вечернее время, 
+все маршруты и остановочные пункты от- должна сглаживаться диспетчеризацией на 
+вечали требованиям как безопасности до- основе технологий ГЛОНАСС/GPS, пока 
+рожного движения, так и рентабельности не применяемых в Касимове [4] .
+и экономической эффективности . Посколь- В соответствии с установленными кри-
+ку рассматриваемая задача является много- териями была разработана оптимальная 
+критериальной, то предлагаются следующие схема маршрутной сети общественного 
+критерии оптимизации [2, 3]: транспорта на основе изучения корреспон-
+
+– оптимизированная схема маршрутов денций пассажиропотока и информацион-
+должна опираться на существующую оста- ной модели транспортной системы города 
+новочную сеть, по возможности использо- [5] . Одновременно создана транспортная 
+вать существующие разворотные круги, макромодель с элементами программного 
+в необходимых случаях –  новые места обеспечения, при этом её параметры на-
+разворота; строены на выполнение сугубо практиче-
+
+– существующая маршрутная сеть мо- ских задач [6] .
+жет быть изменена в разумных пределах для В качестве одного из основных в про-
+минимизации недовольства граждан, еже- цессе реализации макромодели был кри-
+дневно пользующихся общественным терий экономической целесообразности 
+транспортом; маршрутов и остановок . Поэтому система 
+
+– с целью улучшения качества обслу- отбрасывала те маршруты и остановки, 
+живания населения основная масса пасса- которые не отвечали требованиям рента-
+жиров должна вывозиться транспортом бельности, и в этом смысле созданная 
+большей вместимости; оптимальная схема общественного транс-
+
+– следует использовать принцип наи- порта носит идеалистический характер, 
+меньшего дублирования маршрутов, зо- поскольку мало учитывает политические 
+нальное их планирование призвано обес- и социальные факторы . Скажем, около 
+печить беспересадочный проезд из любой больниц и детских садов зачастую не 
+зоны в любую; бывает большого пассажиропотока, од-
+
+– целесообразно уменьшить количест- нако наличие там стоянки общественно-
+во маршрутов в городе за счёт большей го транспорта и прокладка маршрута 
+доли пассажиров, перевозимых транспор- через транспортный район, где находятся 
+том средней и большой вместимости, в том указанные социально значимые объекты, 157
+числе использовать на отдельных направ- могут являться с точки зрения админис-
+лениях маршрутные такси нового поколе- трации города совершенно необходимы-
+ния; ми [7] .
+
+• МИР ТРАНСПОРТА, том 15, № 6, С. 156–161 (2017)
+
+Андреев К. П., Терентьев В. В. Пассажирские перевозки и оптимизация городской маршрутной сети
+
+
+
+Для более качественного предоставле- – содействие по части расчётов эффек-
+158 ния услуг по обслуживанию населения тивности ценового регулирования и эко-
+
+предлагается внедрение в сфере пассажир- логичности общественного транспорта [8] .
+ских перевозок навигационной системы Система мониторинга безопасности 
+мониторинга ГЛОНАСС или ГЛОНАСС/ и управления подвижными объектами 
+GPS, а также системы мониторинга без- (Locatrans) позволяет иметь централизо-
+опасности и управления подвижными ванный контроль за соответствующей 
+объектами (Locatrans) . сферой транспорта, в том числе:
+
+В рамках внедрения навигационной – определять местоположение мобиль-
+системы мониторинга предполагается: ных объектов и отображать их на электрон-
+
+– создать центральную диспетчерскую ной карте;
+службу по регулированию движения обще- – отображать параметры движения 
+ственного транспорта, примерно такую, объектов: скорость, направление, пройден-
+как Региональный навигационно-инфор- ный маршрут, места и продолжительность 
+мационный центр (РНИЦ), целью которо- остановок;
+го является информационно-навигацион- – контролировать состояние датчиков, 
+ное обеспечение деятельности любого ав- удалённо управлять исполнительными 
+томобильного транспорта, управление устройствами, установленными на мобиль-
+движением автотранспортных средств; ном объекте;
+повышение уровня безопасности перево- – наблюдать маршрут движения, полу-
+зок пассажиров, специальных, опасных, чать своевременное оповещение о входе 
+тяжеловесных и крупногабаритных грузов; или выходе из заданных географических 
+реализация контрольно-надзорных полно- зон;
+мочий в транспортном комплексе; – пользоваться встроенными стандарт-
+
+– оборудовать все транспортные сред- ными отчётами;
+ства «тревожной кнопкой» для обеспече- – формировать отчёты по различным 
+ния дополнительной безопасности перево- показателям за любой период, а также ар-
+зок пассажиров; хивы о перемещении объектов и произо-
+
+– создать интернет-портал, на котором шедших с ними событиях .
+будут отображаться в режиме реального Используя систему Locatrans, можно 
+времени все транспортные средства, задей- стимулировать рост объёмов перевозок 
+ствованные в организации перевозок по и количества предоставляемых услуг, сни-
+тому или иному маршруту, с возможностью зить аварийность, продлить срок эксплуа-
+прогнозирования их прибытия на опреде- тации транспортных средств, повысить 
+лённый остановочный пункт; дисциплину персонала, исключить неце-
+
+– в местах расположения социальных левое использование транспорта, оптими-
+объектов на остановочных пунктах разме- зировать расход топлива и ГСМ, снизить 
+стить электронные информационные таб- число холостых пробегов транспорта [9] .
+ло, прогнозирующие в режиме реального Особое внимание должно уделяться 
+времени прибытие пассажирского марш- обеспечению безопасности перевозок пас-
+рутного транспорта . сажиров автобусами . Главными задачами 
+
+Следует отметить, что результаты мони- в этой области с точки зрения оптимизации 
+торинга обеспечивают: маршрутной сети являются:
+
+– широкое информирование граждан – выполнение установленных норма-
+о происходящих изменениях; тивными правовыми актами требований 
+
+– фиксацию резервов транспортных к уровню квалификации, состоянию здо-
+средств различной вместимости; ровья, режимам труда и отдыха водителей 
+
+– постоянную информацию о состоя- автобусов;
+нии городского общественного транс- – наличие исправных дорог с необхо-
+порта; димым обустройством;
+
+– помощь в организации работы цент- – рациональная организация дорожно-
+ральной диспетчерской службы по регули- го движения с предоставлением в нужных 
+рованию движения общественного транс- случаях приоритета общественному марш-
+порта; рутному транспорту;
+
+• МИР ТРАНСПОРТА, том 15, № 6, С. 156–161 (2017)
+
+Андреев К. П., Терентьев В. В. Пассажирские перевозки и оптимизация городской маршрутной сети
+
+
+
+– содержание автобусов в технически путём –  проводить похожие исследова-
+исправном состоянии, предупреждение ния в течение ряда лет: изучать транс-
+отказов и неисправностей при эксплуата- портную систему и своевременно коррек-
+ции их на линии; тировать её . Администрация города при 
+
+– обеспечение безопасных дорожных этом на основе исследований и с учётом 
+условий на маршрутах автобусных перевозок; социально-экономических условий опре-
+
+– замена подвижного состава на более деляет опорный вид транспорта и опор-
+вместительный и отвечающий всем совре- ную сеть . Последняя настраивается соот-
+менным требованиям к безопасности пе- ветствующим образом через количество 
+ревозок пассажиров; машин на маршруте, соотношение видов 
+
+– организация перевозочного процесса транспорта (муниципальный, коммерче-
+по технологии, обеспечивающей безопас- ский) и интервалы их движения . Создан-
+ные условия пассажирам [10] . ная схема общественного транспорта 
+
+постоянно мониторится и исследуется 
+ВЫВОДЫ специалистами, в неё постоянно вносят-
+
+Все приведённые в статье мероприя- ся изменения .
+тия по оптимизации городской маршрут-
+ной сети позитивно скажутся на развитии ЛИТЕРАТУРА
+Касимова . Данная работа проводится 1 . Кулик С . Н ., Терентьев В . В ., Андреев К . П . 
+
+Обследование пассажиропотоков на городских авто-
+совместно с ООО ПФП «Квантекс», ко- бусных маршрутах // Новая наука: Проблемы и пер-
+торая занимается разработкой програм- спективы . – 2016 . – № 11-2 . – С  . 159–161 .
+
+мы комплексного развития транспортной 2 . Андреев К . П ., Терентьев В . В . Оптимизация 
+городского маршрута в условиях МУП «Автоколонна» 
+
+инфраструктры муниципального образо- // Теория и практика современной науки . – 2016 . – 
+вания –  городской округ город Касимов № 12 . – С  . 567–570 .
+
+3 . Терентьев В . В . Анализ методов оценки матриц 
+до 2030 года [11] . Предварительные ре- корреспонденций // Новая наука: От идеи к резуль-
+зультаты выглядят следующим образом: тату . – 2016 . – № 12-3 . – С  . 162–164 .
+предлагаемая замена подвижного соста- 4 . Терентьев В . В ., Андреев К . П . Технологии 
+
+ГЛОНАСС на городском пассажирском транспорте 
+ва, задействованного в перевозке пасса- // Наука и современное общество: взаимодействие 
+жиров, позволит сократить общее коли- и развитие . – 2016 . – № 1 . – С  . 118–120 .
+чество используемых транспортных 5 . Андреев К . П ., Терентьев В . В . Информацион-
+
+ное моделирование в проектировании транспортных 
+средств на 16,5 %, тем самым улучшить сетей городов // Новая наука: Теоретический и прак-
+не только пропускную способность улич- тический взгляд . – 2016 . – № 12-2 . – С  . 108–110 .
+но-дорожной сети, но и экологию города . 6 . Агуреев И . Е ., Богма А . Е ., Пышный В . А . 
+
+Динамическая модель транспортной макросистемы 
+Кроме того, за счёт оптимизации будет // Известия Тульского государственного университе-
+
+получено: та . Технические науки . – 2013 . – № 6-2 . –  С . 139–145 .
+– уменьшение количества маршрутов; 7 . Терентьев В . В . Способы определения транс-
+
+портного спроса // Новая наука: Проблемы и пер-
+– существенное увеличение доли более спективы . – 2016 . – № 12-3 . – С  . 231–233 .
+
+вместительного транспорта в пассажир- 8 . Андреев К . П . Исследование работы РНИЦ // 
+
+ских перевозках; Новая наука: Проблемы и перспективы . – 2016 . – 
+№ 12-3 . – С  . 144–145 .
+
+– увеличение общей вместимости 9 . Андреев К . П . Мероприятия по внедрению 
+транспортных средств примерно на 10 %; системы мониторинга автотранспорта на МУП «Авто-
+
+– осуществление возможности беспе- колонна» // Проблемы исследования систем и средств 
+автомобильного транспорта: Материалы международ-
+
+ресадочного проезда транспортом между ной науч .- техн . конференции . – Вып . № 1 . –  Тула, 
+активно корреспондирующими районами 2017 . – С  . 248–251 .
+
+города; 10 . Андреев К . П . Безопасность пассажирских 
+автомобильных перевозок // Новая наука: От идеи 
+
+– снижение загрузки уличной дорож- к результату . – 2016 . – № 12-3 . – С  . 14–16 . 
+ной сети на треть и дублирования маршру- 11 . Разработка программы комплексного развития 
+
+транспортной инфраструктуры муниципального об-
+тов –  в среднем на 15 % . разования –  городской округ город Касимов до 2030 
+
+Следует заметить, что максимальный года . [Электронный ресурс]: http://www .kvantex .ru/
+результат можно достичь только опытным tpm/works .htm . Доступ 25 .06 .2017 . • 159
+
+Координаты авторов: Андреев К. П. –  kosta066@yandex.ru, Терентьев В. В. –  vvt62ryazan@yandex.ru.
+
+Статья поступила 09.03.2017, принята к публикации 25.06.2017.
+
+• МИР ТРАНСПОРТА, том 15, № 6, С. 156–161 (2017)
+
+Андреев К. П., Терентьев В. В. Пассажирские перевозки и оптимизация городской маршрутной сети
+
+
+
+PASSENGER TRANSPORTATION AND OPTIMIZATION OF THE URBAN ROUTE 
+160 NETWORK
+
+Andreev, Konstantin P., Tula State University, Ryazan, Russia.
+Terentyev, Vyacheslav V., Tula State University, Ryazan, Russia.
+
+ABSTRACT a more rational scheme for the route network, a 
+The authors propose measures to optimize the transport macro model for the city, a passenger 
+
+urban route network of passenger transport. In navigation system for the GLONASS or GLONASS/
+accordance with the tasks of optimization, a program GPS monitoring system, security monitoring systems 
+and methodology for the survey of passenger flows, and mobile objects management were developed.
+
+Keywords: public transport, urban route network, passenger transportation, optimization, monitoring, 
+GLONASS, macro model, passenger flows.
+
+Background. In each road transport enterprise of while its parameters are configured to perform purely 
+the city, the main task of organizing and planning practical tasks [6].
+production invariably is the rational combination and use As one of the main in the process of implementing 
+of all resources to perform the maximum transport work the macro model was the criterion of economic 
+and improve the quality of passenger service by the expediency of routes and stops. Therefore, the 
+passenger transportation. At the same time, naturally, in system rejected those routes and stops that did not 
+the conditions of a city like Kasimov, there is also a meet the requirements of profitability, and in this 
+question of optimizing the city’s route network, the search sense the created optimal scheme of public transport 
+for organizational solutions and ways of their is idealistic, since it takes little account of political and 
+implementation begins. social factors. For example, near hospitals and 
+
+Objective. The objective of the authors is to consider kindergartens, there is often no large passenger flow, 
+passenger transportation and optimization of the urban but the presence of public transport stop and laying 
+route network. of the route through the transport area where these 
+
+Methods. The authors use general scientific socially important objects are located may be 
+methods, comparative analysis, and evaluation approach. absolutely necessary from the point of view of the city 
+
+Results. The first stage, as experience shows, is administration [7].
+conducting a survey of passenger flows on public road For better provision of public services, it is proposed 
+transport: study of existing passenger flows on routes in to introduce the GLONASS or GLONASS/GPS navigation 
+the direction of bus traffic, on time of day, on different monitoring system, as well as the security monitoring and 
+days of the week; determination of the indices of management system for mobile objects (Locatrans) in 
+occupancy of passenger buses on the direction of traffic, the sphere of passenger transportation.
+on the time of day, on different days of the week. Then As part of the implementation of the navigation 
+there are processing of the results of a survey of monitoring system, it is assumed:
+passenger flows on the route, the development of – to establish a central dispatching service for 
+measures to optimize the route network [1]. regulating the movement of public transport, such as the 
+
+When planning and obtaining the final result, it is Regional Navigation and Information Center (RNIC), 
+necessary to ensure that all routes and stops meet the whose purpose is to provide information and navigation 
+requirements of both road safety, and profitability and support for the activities of any road transport, control the 
+cost-effectiveness. Since the problem under movement of vehicles; increasing the level of safety of 
+consideration is multicriteria, the following optimization passenger transportation, special, dangerous, heavy and 
+criteria are proposed [2, 3]: bulky cargo; implementation of control and supervisory 
+
+– an optimized route scheme should be based on the powers in the transport sector;
+existing stopping network, if possible, use existing – to equip all vehicles with an «alarm button» to 
+reversal circles, if necessary, new turn points; provide additional security for transportation of 
+
+– the existing route network can be changed within passengers;
+reasonable limits to minimize the discontent of citizens – to create an Internet portal, which will display in real 
+who use public transport daily; time all vehicles involved in the organization of 
+
+– in order to improve the quality of service to the transportation on a particular route, with the possibility of 
+population, the bulk of passengers should be transported predicting their arrival at a certain stopping point;
+by transport of a larger capacity; – in places of location of social facilities at stops, to 
+
+– the principle of the least duplication of routes should place electronic information boards predicting the arrival 
+be used, their zonal planning is designed to ensure a direct of passenger route transport in real time.
+passage from any zone to any one; It should be noted that monitoring results provide:
+
+– it is advisable to reduce the number of routes in the – wide informing of citizens about the current 
+city due to the greater share of passengers transported changes;
+by medium and large capacity transport, including using – fixing the reserves of vehicles of different capacities;
+new-generation fixed-route taxis in certain directions; – constant information on the state of urban public 
+
+– the pendulum migration, typical for the city in the transport;
+morning and in the evening, should be smoothed by – assistance in organizing the work of the central 
+dispatching based on GLONASS/GPS technologies, dispatching service for regulating the movement of public 
+which are not yet used in Kasimov [4]. transport;
+
+In accordance with the established criteria, the – assistance in calculating the effectiveness of price 
+optimal scheme of the public transport route network regulation and the environmental friendliness of public 
+was developed on the basis of the study of the transport [8].
+correspondence of passenger flows and the information The monitoring system for security and management 
+model of the city’s transport system [5]. Simultaneously, of mobile objects (Locatrans) allows to have centralized 
+a transport macro model was created using software, control over the relevant area of transport, including:
+
+• WORLD OF TRANSPORT AND TRANSPORTATION, Vol. 15, Iss. 6, pp. 156–161 (2017)
+
+Andreev, Konstantin P., Terentyev, Vyacheslav V. Passenger Transportation and Optimization of the Urban 
+Route Network
+
+
+
+– to determine the location of mobile objects and It should be noted that the maximum result can be 
+display them on an electronic map; achieved only by an experienced way –  to carry out 
+
+– to display the parameters of movement of objects: similar studies for a number of years: to study the 
+speed, direction, distance traveled, places and duration transport system and to correct it in a timely manner. 
+of stops; The city administration, on the basis of research and 
+
+– to monitor the status of sensors, remotely control taking into account socio-economic conditions, 
+the executive devices installed on the mobile site; determines the basic mode of transport and the 
+
+– to observe the traffic route, to receive timely supporting network. The latter is adjusted accordingly 
+notification of entering or exiting from the specified through the number of vehicles on the route, the ratio 
+geographical areas; of modes of transport (municipal, commercial) and the 
+
+– to use built-in standard reports; intervals of their movement. The created scheme of 
+– to generate reports on various indicators for any public transport is constantly monitored and researched 
+
+period, as well as archives on the movement of objects by specialists, it is constantly being changed.
+and events that occurred with them.
+
+Using the Locatrans system, it is possible to REFERENCES
+stimulate the growth of traffic volumes and the number 1 . Kulik, S . N ., Terentyev, V . V ., Andreev, K . P . 
+of services provided, to reduce accidents, to extend the Examination of passenger traffic on urban bus routes 
+life of vehicles, to increase the discipline of personnel, [Obsledovanie passazhiropotokov na gorodskih avtobusnyh 
+to eliminate misuse of transport, to optimize fuel marshrutah] . Novaja nauka: Problemy i perspektivy, 2016, 
+consumption, and to reduce the number of idle runs of Iss . 11-2, pp . 159–161 .
+transport [9]. 2 . Andreev, K . P ., Terentyev, V . V . Optimization of the 
+
+Particular attention should be paid to ensuring the urban route in the conditions of MUE Avtokolonna 
+safety of passenger transport by buses. The main tasks [Optimizacija gorodskogo marshruta v uslovijah MUP 
+in this area in terms of optimizing the route network are: «Avtokolonna»] .Teorija i praktika sovremennoj nauki, 2016, 
+
+– compliance with the requirements set by regulatory Iss . 12, pp . 567–570 .
+legal acts to the level of qualifications, health status, 3 . Terentyev, V . V . Analysis of the methods of evaluation 
+working and rest regimes of bus drivers; of correspondence matrices [Analiz metodov ocenki matric 
+
+– the availability of serviceable roads with the korrespondencij] . Novaja nauka: Ot idei k rezul’tatu, 2016, 
+necessary arrangement; Iss . 12-3, pp . 162–164 .
+
+–rational organization of traffic with the provision in 4 . Terentyev, V . V ., Andreev, K . P . GLONASS technologies 
+priority cases of priority to public road transport; in urban passenger transport [Tehnologii GLONASS na 
+
+– the maintenance of buses in a technically sound gorodskom passazhirskom transporte] . Nauka i sovremennoe 
+condition, the prevention of failures and malfunctions obshhestvo: vzaimodejstvie i razvitie, 2016, Iss . 1(2), 
+when operating them on the line; pp . 118–120 .
+
+– ensuring safe road conditions on the bus routes; 5 . Andreev, K . P ., Terentyev, V . Information modeling in 
+– replacement of rolling stock for a more spacious the design of city transport networks [Informacionnoe 
+
+and meeting all modern requirements for the safety of modelirovanie v proektirovanii transportnyh setej gorodov] . 
+passenger transportation; Novaja nauka: Teoreticheskij i prakticheskij vzgljad, 2016, 
+
+– organization of the transportation process using Iss . 12-2, pp . 108–110 .
+technology that provides safe conditions for 6 . Agureev, I . E ., Boga, A . E ., Pyshny, V . A . Dynamic 
+passengers [10]. model of the transport macrosystem [Dinamicheskaja model’ 
+
+Conclusions. All the measures described in the transportnoj makrosistemy] . Izvestija Tul’skogo gosudarstvennogo 
+article to optimize the city route network will have a universiteta. Tehnicheskie nauki, 2013, Iss . 6-2, pp . 139–145 .
+positive impact on the development of Kasimov.This 7 . Terentyev, V . V . Ways to determine transport demand 
+work is carried out jointly with LLC PFP Kvanteks, which [Sposoby opredelenija transportnogo sprosa] . Novaja nauka: 
+is developing a program for the integrated development Problemy i perspektivy, 2016, Iss . 12-3, pp . 231–233 .
+of the transport infrastructure of the municipal entity – 8 . Andreev, K . P . Research of the RNIC [Issledovanie 
+the urban district the city of Kasimov until 2030 [11]. raboty RNIC] . Novaja nauka: Problemy i perspektivy, 2016, 
+Preliminary results are as follows, the proposed Iss . 12-3, pp . 144–145 .
+replacement of the rolling stock involved in transportation 9 . Andreev, K . P . Measures for introduction of a vehicle 
+of passengers will reduce the total number of vehicles monitoring system at MUE Avtokolonna [Meroprijatija po 
+used by 16,5 %, thereby improving not only the capacity vnedreniju sistemy monitoringa avtotransporta na MUP 
+of the road network, but also the ecology of the city. «Avtokolonna»] . Problems of the study of systems and means of 
+
+In addition, due to the optimization were received: motor transport: Proceedings of the international scientific-
+– reduction in the number of routes; technical conference . Tula, 2017, Iss . 1, pp . 248–251 .
+– a significant increase in the share of a more 10 . Andreev, K . P . Safety of passenger road transportation 
+
+capacious transport in passenger transportation; [Bezopasnost’ passazhirskih avtomobil’nyh perevozok] . Novaja 
+– increase in the total capacity of vehicles by about nauka: Ot idei k rezul’tatu, 2016, Iss . 12-3, pp . 14–16 .
+
+10 %; 11 . Development of a program for the integrated 
+– realization of the possibility of direct transportation development of the transport infrastructure of the municipal 
+
+by means of transport between actively corresponding entity –  the urban district city of Kasimov until 2030 
+areas of the city; [Razrabotka kompleksnogo razvitiya transportnoi infrastruktury 
+
+– a decrease in the load of the street road network municipal ‘nogo obrazovaniya’ gorodskoi okrug gorod Kasimov 
+by a third and the duplication of routes –an average of do 2030 goda] . [Electronic source]: http://www .kvantex .ru/
+15 %. tpm/works .htm . Last accessed 25 .06 .2017 . •
+
+161
+Information about the authors:
+Andreev, Konstantin P. –  Master’s student of Tula State University, Ryazan, Russia, kosta066@yandex.ru.
+Terentyev, Vyacheslav V. –  Master’s student of Tula State University, Ryazan, Russia, vvt62ryazan@yandex.ru.
+
+Article received 09.03.2017, accepted 25.06.2017.
+
+• WORLD OF TRANSPORT AND TRANSPORTATION, Vol. 15, Iss. 6, pp. 156–161 (2017)
+
+Andreev, Konstantin P., Terentyev, Vyacheslav V. Passenger Transportation and Optimization of the Urban 
+Route Network

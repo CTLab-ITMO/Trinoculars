@@ -1,0 +1,742 @@
+﻿Солнечно-земная физика. 2016. Т. 2, № 1   Solar-Terrestrial Physics. 2016. Vol. 2 Iss. 1 
+ 
+УДК 523.98               Поступила в редакцию 07.12.2015 
+DOI 10.12737/16356               Принята к публикации 29.01.2016 
+
+ИНВЕРСИЯ МАГНИТНОГО ПОЛЯ СОЛНЦА В 24-м ЦИКЛЕ 
+THE REVERSAL OF THE SUN’S MAGNETIC FIELD IN CYCLE 24 
+
+ 
+A.В. Мордвинов  A.V. Mordvinov  
+Институт солнечно-земной физики СО РАН,  Institute of Solar-Terrestrial Physics SB RAS  
+Иркутск, Россия, avm@ iszf.irk.ru Irkutsk, Russia, avm@ iszf.irk.ru  
+A.A. Певцов A.A. Pevtsov 
+
+Национальная солнечная обсерватория США, National Solar Observatory, Sunspot,  
+Санспот, Нью-Мексико, США, pevtsov@noao.edu New Mexico 88349, USA, pevtsov@noao.edu  
+Л. Бертелло L. Bertello 
+
+Национальная солнечная обсерватория США,  National Solar Observatory,  
+Тусон, Аризона, США, lbertello@nso.edu Tucson, Arizona, USA, lbertello@nso.edu  
+Г.Дж.Д. Петри G.J.D. Petrie 
+
+Национальная солнечная обсерватория США, National Solar Observatory,  
+Тусон, Аризона, США, gpetrie@noao.edu Tucson, Arizona, USA, gpetrie@noao.edu 
+  
+ 
+ 
+
+ 
+
+Аннотация. Анализ синоптических данных, по- Abstract. Analysis of synoptic data from the Vector 
+лученных с помощью векторного спектромагнито- Spectromagnetograph (VSM) of the Synoptic Optical 
+графа (VSM) оптических долговременных исследо- Long-term Investigations of the Sun (SOLIS) and the 
+ваний Солнца (SOLIS) и НАСА/НСО спектромагни- NASA/NSO Spectromagnetograph (SPM) at the 
+тографа на вакуумном телескопе обсерватории NSO/Kitt Peak Vacuum Telescope facility shows that 
+Китт-Пик, показывает, что инверсия магнитных по- the reversals of solar polar magnetic fields exhibit ele-
+лей на Солнце обнаруживают элементы стохастиче- ments of a stochastic process, which may include the 
+ского процесса, который может включать развитие development of specific patterns of emerging magnetic 
+особых структур всплывающего магнитного потока flux, and the asymmetry in activity between northern 
+и асимметрию активности северного и южного по- and southern hemispheres. The presence of such irregu-
+лушарий. Присутствие таких неоднородностей делает larities makes the modeling and prediction of polar field 
+моделирование и прогнозирование переполюсовок reversals extremely hard if possible. In a classical model 
+полярного поля крайне затруднительными, если во- of solar activity cycle, the unipolar magnetic regions 
+обще возможными. В классической модели цикла (UMRs) of predominantly following polarity fields are 
+солнечной активности униполярные магнитные об- transported polewards due to meridional flows and dif-
+ласти (УМО) с полями преимущественно хвостовой fusion. The UMRs gradually cancel out the polar mag-
+полярности двигаются по направлению  к полюсу netic field of the previous cycle, and rebuild the polar 
+благодаря меридиональным потокам и диффузии. field of opposite polarity setting the stage for the next 
+УМО постепенно приводят к исчезновению поляр- cycle. We show, however, that this deterministic picture 
+ного магнитного поля предыдущего цикла и к фор- can be easily altered by the developing of a strong cen-
+мированию полярного поля противоположной по- ter of activity, or by the emergence of an extremely 
+лярности. Однако мы показываем, что эту детерми- large active region, or by a ‘strategically placed’ coronal 
+нистскую картину может легко изменить развитие hole. We demonstrate that the activity occurring during 
+мощного центра активности, или всплывание сверх- the current cycle 24 may be the result of this random-
+большой активной области, или образование ness in the evolution of the solar surface magnetic field. 
+«стратегически расположенной» корональной дыры.  
+Мы показываем, что активность, имеющая место в Keywords: Solar cycle, sunspot activity, magnetic 
+24 цикле, возможно, является результатом этой fields, coronal holes. 
+хаотичности в эволюции поверхностного магнитного  
+поля Солнца.   
+
+  
+Ключевые слова: солнечный цикл, солнечная  
+
+активность, магнитные поля, корональные дыры.  
+  
+ 
+ 
+
+ 
+
+1.  INTRODUCTION roidal configuration, giving rise to the emergence of 
+The Babcock–Leighton mechanism [Babcock, 1961; active regions in the photosphere. As the solar cycle 
+
+Leighton, 1969] outlines a basic picture of cyclic progresses, the magnetic field of active regions is dis-
+changes of the Sun’s magnetic fields. First, the solar persed by turbulent convection and meridional flow. 
+cycle starts from a poloidal field defined by the magnetic These transport mechanisms lead to the accumulation of 
+field confined in the polar areas of the Sun. Then, dif- magnetic flux of trailing polarity of decaying active re-
+ferential rotation converts this poloidal field into a to- gions at high solar latitudes, eventually reversing the po-
+
+3 
+
+
+
+A.В. Мордвинов, A.A. Певцов, Л. Бертелло, Г.Дж.Д. Петри         A.V. Mordvinov, A.A. Pevtsov, L. Bertello, G.J.D. Petrie 
+ 
+larity of the polar fields and building the next solar cycle. al., 2015]. Still, a complete understanding of the pro-
+This concept led to the development of a distinct family cesses affecting the recent polar field reversal is miss-
+of flux-transport numerical models that employ the Sun’s ing. This justifies additional studies of the peculiarities 
+differential rotation, supergranular diffusion and the me- of current solar cycle and its polar field reversals. In our 
+ridional flows, to successfully represent many properties study, we use a combination of synoptic observations 
+of observed long-term evolution of large-scale magnetic and numerical modeling as described in detail in Sec-
+fields [DeVore et al., 1985; Wang et al., 1989].  tions 2–5. Our findings are discussed in Section 6. 
+
+The flux transport models were also extensively  
+used to study effects of various parameters on the evolu- 2. DESCRIPTION OF DATA 
+tion of polar magnetic field and the solar cycle [Jiang et We use line-of-sight observations in the photospheric 
+al., 2013]. For example, Baumann et al. [2004] have spectral lines of FeI 630.15–630.25 nm taken by the 
+shown that the active region tilt described by Joy’s law Vector Spectromagnetograph (VSM) of the synoptic 
+[Pevtsov et al., 2014], the diffusion and the rate of flux optical long-term investigation of the Sun (SOLIS) fa-
+emergence have significant effect on the polar magnetic cility [Keller et al., 2003; Balasubramaniam and 
+field. The speed of the meridional flow was found to affect Pevtsov, 2011] to investigate solar activity during the 
+the strength of solar cycle with slower meridional flow declining phase of cycle 23 and current cycle 24 (Au-
+resulting in weaker solar cycles [Zhao et al., 2014]. Despite gust 2003 – present). For early cycles we employ simi-
+recent improvements, several questions remain open about 
+
+lar data taken by the NASA/NSO Spectromagnetograph 
+flux transport models including the role of the not-well 
+
+(SPM) at the NSO/Kitt Peak Vacuum Telescope [Jones 
+known variations in the speed of the meridional flow and 
+
+et al., 1992] from February 1974 to August 2003.  
+scatter in orientation of active regions (Joy’s law). 
+
+The butterfly diagram shown in Figure 1 represent 
+Both observations and numerical simulations indi- the long-term variations of large-scale magnetic field 
+
+cate the importance of polar field as a predictor for with time and latitude. It is formed from the daily full-
+strength of future solar cycle [e.g., Upton and Hatha- disk magnetograms as described in Petrie [2012]. Here 
+way, 2014]. On the other hand, the observational evi- we summarize the method. For each sky image, all pix-
+dence of the importance of active region tilts on the els with central meridian distance 30° or less are binned 
+strength of the solar cycle is inconclusive. The initial into 180 equal-size bins in sine (latitude) and the aver-
+report by Dasi-Espuig et al. [2010] about finding a rela- age of each bin is taken. This process produces a 180-
+tion between the mean active regions tilt of a given cy- element array in sine (latitude) for each image. We 
+cle and the strength of next cycle was questioned by combine these along a time axis to form the two-
+Ivanov [2012]; McClintock, Norton [2013], and later, dimensional space-time maps shown in the Figure.  
+the results were revised by Dasi-Espuig et al. [2013]. In the construction of the butterfly diagrams, two 
+Pevtsov et al. [2014] also argued that a relationship be- corrections are applied: The longitudinal field meas-
+tween the current surface activity (including active re- urements are used to derive data for the radial field 
+gion tilt, flux emergence etc.) and the strength of the component, and poorly observed and unobserved fields 
+polar field may be complicated by a prior state of the near the poles are estimated so that data are provided for 
+polar field. For example, a strong surface activity may not all latitudes at all times. The radial field component is 
+necessary lead to a stronger polar field if it has a signifi- derived from the longitudinal measurements by assuming 
+cant polar field of opposite polarity to cancel out.  that the photospheric field is approximately radial, divid-
+
+On the other hand, even a relatively modest surface ing by the cosine of the heliocentric angle ρ (the angle 
+activity may result in a strong polar field if the polar between the line of sight and the local solar radial vector).  
+field of the previous cycle is weak. The question of the Because the solar rotation axis is tilted at an angle of 
+polar field strengths dependence on history is a long- 7.25° with respect to the ecliptic plane, the fields near 
+standing issue in flux-transport research. For example, the solar poles are observed with very large viewing 
+in their long-term flux-transport simulations Schrijver et al. angles and are not observed at all for six months at a 
+[2002] found that the polar fields did not reverse during time. Also the noise level is inflated near the poles by 
+every cycle, e.g., a weak cycle would often fail to re- the radial field correction described above. For these 
+verse strong polar fields. They suggested that this prob- reasons, locations in the butterfly diagram nearest the 
+lem could be overcomed if the polar fields decayed poles are filled using estimated values for these fields. 
+away on timescales of 5–10 years. This idea of radial These estimates are based on a combination of direct 
+diffusion is not widely accepted now. Wang et al. field measurements, annual averages of high-latitude 
+[2002] showed that polar field reversals could be main- fields, and a polynomial fit across the pole for each im-
+tained if the surface flow speeds were systematically age, calculated assuming symmetry about the pole. Fi-
+higher in large-amplitude cycles than in weak ones. nally the butterfly diagram is smoothed using a 27-day 
+
+boxcar filter. White vertical stripes correspond to miss-
+Whatever this or other mechanisms can explain the ing observations. 
+complicated relationships between succeeding activity  
+cycles of different amplitudes and polar field strengths 3. ACTIVITY AT THE END  
+is still the subject of debate.  OF CYCLE 23 AND BEGINNING 
+
+The evolution of the polar magnetic field (and its re-
+versal) in the current solar cycle 24 has been recently  OF SOLAR CYCLE 24 
+studied by several researchers [Mordvinov, Yazev, The current cycle 24 started after a deep and prolonged 
+2014; Sun et al., 2015; Petrie, Ettinger, 2015; Tlatov et minimum which ended in late 2008 – early 2009 [Bertello 
+
+4 
+
+
+
+Инверсия магнитного поля Солнца в 24-м цикле                  The reversal of the Sun’s magnetic field in cycle 24  
+ 
+et al., 2011]. During that minimum, the Sun’s polar mag- 2008 till early 2010 in the southern hemisphere. In cycle 
+netic flux was significantly reduced, compared to the pre- 24, the sunspot activity appears peaking in late 2011–
+vious three cycles, and the background (non-polar) mag- 2012 in the northern hemisphere, while sunspot activity 
+netic fields were very weak (Figure 1). There was no over- in the southern hemisphere exhibits a peak in 2014. It is 
+lap between low-latitude activity of the preceding cycle 23 interesting to note that the cycle maxima in sunspot ac-
+(see Figure 1, years 2006–2008) and higher latitude sun- tivity in two hemispheres were shifted by about two 
+spot activity of cycle 24 (Figure 1, years 2010–2011). The years in cycle 23 (with activity in southern hemisphere 
+earliest signs of cycle 24 activity can be identified at Car- lasting longer). However, at the beginning of cycle 24, 
+rington Rotation (CR) 2076, approximately at 40° N lati- the phase shift between the two hemispheres was only 
+tude near the head of black arrow No. 5 in Figure 1. about a few months (with the northern hemisphere lead-
+
+From cycle 20 to cycle 23, Figure 1 shows a pattern ing in its activity). By the time of cycle 24 maximum, 
+of increasing gap between neighboring cycles as well as the difference in cycle maxima between the two hemi-
+the increasing length of periods between polar field re- spheres is again about two years, with activity in the 
+versals in each hemisphere. For example, for the north- southern hemisphere lasting longer.  
+ern pole, the periods between polar field reversals were Despite a relatively low amplitude in cycle 23, the 
+3701 days (cycles 21–22), 3771 days (cycles 22–23), asynchronicity in sunspot activity between two hemi-
+and 5191 days (cycles 23–24). For the southern pole, spheres helped in maintaining a relatively high level of 
+there were 3991 days (cycles 21–22), 3141 days (cycles magnetic activity during minimum of cycle 23. Muñoz-
+22–23), and 5021 days (cycles 23–24), accordingly. While Jaramillo et al. [2015] have shown that although the 
+at first glance it might appear that there is some correlation minimum of cycle 23 was one of the lowest in recent 
+between the period of polar field reversals and the length of history, it did not reach the lowest possible limit be-
+the following cycle, the statistics is very small; it could be cause the activity in each hemisphere reached minimum 
+just a simple consequence that the length of solar cycle at different times. At the end of cycle 23, sunspot activi-
+together with the gap between cycles will approximately ty in the southern hemisphere lasted longer, as com-
+define the periods between polar field reversals. The small pared to the northern hemisphere.  
+brown triangles mark the time of polar field reversals de- In Figure 1b, inclined patterns show magnetic flux 
+rived from WSO observations.  transport from decaying activity complexes towards the 
+
+Figure 1 also demonstrates the uncertainty in deter- Sun’s poles. Zones of intense sunspot activity resulted 
+mining the polar field reversals. Small brown triangles to extensive surges which reached the poles and led to 
+at the top and bottom edges of color panel mark the lo- the polar field reversals [Mordvinov, Yazev, 2014; Sun 
+cation of polar field reversals derived from Wilcox So- et al., 2015, Petrie, Ettinger, 2015; Petrie, 2015]. Black 
+lar Observatory (WSO) observations. While in some arrows mark episodes of flux transport from decaying 
+instances the location of triangles is in agreement with active regions during the declining phase of cycle 23 
+transition from one polarity field to the other as shown and rising phase of cycle 24. To emphasize the appearance 
+in the super synoptic map (e.g., сycles 21 and 23, in the of poleward surges, the magnetic flux is scaled between ±4 
+northern hemisphere, and cycle 21 in southern hemi- Gauss. With such scaling an unphysical negative-polarity 
+sphere), in other instances, the agreement is not very artifact appears prominent at the North Pole for 2015. It 
+good (e.g., сycles 22–24 in the southern hemisphere). looks comparable in strength to the polar fields generally, 
+Such disagreement may reflect a specifics of supermaps but it is not. Our measurements indicate that the magnetic 
+construction (e.g., averaging, or by the technique used flux in this polar area continues to be close to zero, with 
+to fill the polar field gaps) as well as the interpretation mixed polarity but with a positive bias. The artefact van-
+of direct observations of polar fields (e.g., smoothing ished as soon as good September 2015 data became avail-
+the polar field measurements and estimating the polar able (see Figure 17 [Petrie, 2015]). 
+fields for periods when either N or S poles are not ob- Between about CR2045 through CR2070 (or for 
+servable from Earth).  about year and a half) sunspot activity was limited to the 
+
+The north-south asymmetry in magnetic activity can southern hemisphere only. This extended activity may 
+be identified in all cycles shown in Figure 1, but it is helped the polar field in southern hemisphere to last 
+more pronounced in cycle 23. At the beginning of cycle 24, longer. Thus, for example, in addition to poleward surg-
+the hemispheric asymmetry may appear switching to es of negative polarity magnetic field (e.g., No. 4 and 8 
+favor the northern hemisphere (compare active regions in Figure 1) that were working to reduce the positive 
+activity in two hemispheres in 2011–2014), but later polarity flux in southern polar region, there were poleward 
+increase in sunspot activity in the southern hemisphere surges of positive polarity (e.g., No. 2, 6, and 10) that con-
+swung the asymmetry back to the southern hemisphere tinued strengthening the existing polar field of previous 
+(Figure 1). The hemispheric asymmetry can be clearly cycle. Similar behavior is observed in the northern hemi-
+seeing in the sunspot activity (Figure 1, panels a, b). For sphere with surges of negative (No. 1, 5, and 9) and posi-
+example, total area of sunspots in the northern hemi- tive (No. 3, 7, 11) polarity field. Such sequential surges of 
+sphere (AN) peaks around year 2000, and it declines to positive-negative polarity are not uncommon (see Figure 1, 
+its minimum in late 2006 (line plot at the top of Figure 1). years 1982–1986 southern hemisphere). 
+By comparison, the total sunspot area in the southern  
+
+hemisphere (AS) reaches maximum in year 2002, and 4. ORIGIN OF POLEWARD SURGES 
+then it steady declines to its minimum late in 2008 (line  OF OPPOSITE POLARITY 
+plot at the bottom of Figure 1).  Due to the preferred orientation of active regions 
+
+The solar cycle minimum lasts from about mid-2007 relative to the equator (Joy’s law), the following polari-
+till late-2009 in the northern hemisphere, and from mid- ty magnetic field of dissipating active regions is trans- 
+
+5 
+
+
+
+A.В. Мордвинов, A.A. Певцов, Л. Бертелло, Г.Дж.Д. Петри        A.V. Mordvinov, A.A. Pevtsov, L. Bertello, G.J.D. Petrie 
+ 
+
+ 
+ 
+Figure 1. Changes in sunspot areas in millionths of solar hemisphere for the northern (a) and southern (c) hemispheres. Evo-
+
+lution of the Sun’s magnetic fields from 1974 to 2015 (b). Blue/red halftones represent positive/negative polarity field. Numbered 
+arrows mark position of poleward surges discussed in Section 4 
+
+ 
+ported poleward. According to Hale polarity rule, the from the main group, and dissipated rapidly. By July 23, 
+active regions in northern hemisphere had negative this spot was reduced in size to a few small pores, which 
+(positive) trailing polarity in cycle 23 (24). The trailing had completely vanished by mid-day July 24.  
+polarity of active regions in the southern hemisphere The overall structure of active region got simplified, 
+was positive (negative) in cycle 23 (24). Thus, poleward and by July 23, the active region could be best charac-
+surges No. 1, 7, and 11 (Figure 1b, northern hemi- terized as a typical bipolar region with two well-
+sphere) and No. 2, 6, 12, and 14 (southern hemisphere) developed sunspots of opposite polarity and a few pores 
+have polarity corresponding to normal Hale’s and Joy’s in between. The region’s tilt was in agreement with 
+orientation of active regions in two cycles. Surges No. Joy’s law. After July 26, the sunspot of trailing polarity 
+3, 9, and 13 (Northern hemisphere) and No. 4, 8 and 10 begins dissipating rapidly, and by early July 28, it is 
+(Southern hemisphere) have ‘abnormal’ polarity. To reduced to a few small pores. Then, in early July 28, a 
+better understand the origin of each of these surges, we new bipolar region starts developing at the location of 
+now provide a detailed description of their evolution. decaying flux of AR11089, and by July 29, this newly 
+
+ emerging flux appears as a bipolar group with small 
+4.1.  Surge No. 10 sunspots of leading and following polarity. The orienta-
+Early indications of surge No. 10 development can tion of this region still follows the Joy’s law, by the tilt 
+
+be traced back to NOAA AR11089. This region was is smaller then the tilt of AR11089. By the time the re-
+located in the southern hemisphere and had the leading gion reaches the West limb (July 30–31), its leading 
+flux of positive polarity (see, Figure 2). Thus, the mag- polarity field combined the positive flux from its origi-
+netic field of this active region was oriented in agree- nal (but significantly dissipated) leading sunspot and the 
+ment with the Hale polarity rule for solar cycle 24. leading polarity of newly emerged region.  
+However, by CR2100 (August 21, 2010 at central me- The trailing polarity is represented mostly by the 
+ridian) the tilt of the magnetic field of this region did flux of newly emerged region. As the result, the leading 
+not follow the Joy’s law. This non-Joy’s tilt was the polarity flux is significantly larger in area as compared 
+result of a very specific evolution of active region. The with the trailing flux. By its orientation, the magnetic 
+region emerged from behind East limb on July 19–20, flux now appears as having a non-Joy’s tilt, although in 
+2010 as a complex multi-sunspot region. The overall white light the active region still follows the Joy’s law 
+orientation of active region was in agreement with Joy’s in its orientation. One rotation later (CR2101), a new 
+law (leading polarity sunspots were located closer to the bipolar region developed at the exact location of dissi-
+equator, and trailing polarity spots located father away pating remnants of AR11089. Leading and following 
+from the equator, see Figure 2). As the region evolved, polarity sunspots had a wide separation (about 15 de-
+one of the sunspots of trailing polarity moved eastward grees in longitude), and the region was oriented nearly 
+
+6 
+
+
+
+Инверсия магнитного поля Солнца в 24-м цикле                  The reversal of the Sun’s magnetic field in cycle 24  
+ 
+
+ 
+ 
+Figure 2. Evolution of active region NOAA 11089 as seen in line-of-sight magnetograms (top) and broadband pseudo-
+
+continuum images (bottom) from SDO/HMI. White/black halftones correspond to magnetic field of positive/negative polarity. 
+Brown curve marks approximate location of magnetic neutral line. Letters P and N mark polarity (positive and negative) of lead-
+ing and following parts of active region. Red oval outlines approximate location of new flux emergence at the tail of AR11089.  
+
+ 
+ 
+
+parallel to solar equator (possibly a very slight non- In addition to NOAA AR11089, development of ac-
+Joy’s orientation). Based on the appearance of magnetic tive regions NOAA 11108 (CR2101, Sept. 22 2010, 
+flux on sequential Carrington rotation maps, this com- Hale and Joy’s orientation), NOAA 11115 (CR2102, 
+plex evolution placed the leading polarity flux to higher Oct. 21, 2010, unipolar sunspot of positive polarity), 
+latitude and then the combined action of differential and NOAA 11126 (CR2103, Nov. 17, 2010, non-Hale 
+rotation and meridional flow led to formation of a ‘tong’ and non-Joy’s orientation) also contributed to formation 
+of dissipating flux of positive polarity gradually trans- of poleward surge No. 10 although this contribution is 
+ported towards southern polar region. The next solar less clear. ARs 11108, 11115, and 11126 developed at 
+rotation (Figure 3b) shows dissipating remnants of ac- about the same latitudes (≈S30 deg), and their rotation 
+tive regions shown in Figure 2 developing a non-Joy’s rate was about 4–5 % slower than typical rotation rate 
+polarity orientation. The development of this surge con- for this latitude. However, three regions developed in 
+tinued as a new flux emerge in the same area further longitudes progressively shifted much farther eastward 
+strengthening the non-Joy’s orientation (Figure 3, c).  from previous rotation to consider them as part of the 
+
+7 
+
+
+
+A.В. Мордвинов, A.A. Певцов, Л. Бертелло, Г.Дж.Д. Петри        A.V. Mordvinov, A.A. Pevtsov, L. Bertello, G.J.D. Petrie 
+ 
+
+ 
+ 
+Figure 3. Evolution of magnetic flux at the source of poleward surge No. 10 over three solar rotations. Panel (a) shows por-
+
+tion of full disk VSM/SOLIS longitudinal magnetogram taken 24 July 2010, 19:21:41 UT, (b) — 21 August 2010, 21:45:05 UT, 
+and (c) — 17 September 2010, 16:26:30 UT 
+
+ 
+same center of activity (for example, a difference be- 4.3. Surges No. 4, 3, and 9 
+tween location of AR11108 extrapolated to AR111026 Surge No. 9 originated in a large active region of 
+time and actual location of this region is larger than 120 non-Joy’s orientation. The evolution of this surge was 
+deg in longitude). The development of these three re- studied in detail (and modeled via a flux-transport mod-
+gions strengthens magnetic field of positive polarity in eling) by Yeates et al. [2015]. The reader is referred to 
+this general area, and this flux eventually contributes to this article for additional details about this surge.  
+tail of positive polarity that originated from NOAA The origin of the poleward surge 4, which starts 
+AR10089. around CR2138 cannot be traced to a single active re-
+
+ gion or activity complex. Instead, it appears to be the 
+4.2. Surge No. 13 result of evolution of several active regions spread over 
+This surge seems to develop starting from active re- a broad range of longitudes. Based on visual inspection 
+
+gion NOAA11417 (CR2120). There was a small coronal of daily magnetograms taken during CR2137-38, it ap-
+hole located south-west of that active region. On the pears that the number of regions during this period of time 
+next rotation, two new active regions (NOAA11432 and show non-Joy’s orientation in the southern hemisphere. As 
+NOAA11433) developed east of decaying magnetic flux these regions evolve, the leading polarity field is transport-
+of AR11417. AR11432 was normal Hale’s and Joy’s ed to higher latitudes. Collectively, the surges from indi-
+region, but AR11433 was mostly unipolar (negative) vidual decaying regions contribute to what we see in super-
+
+synoptic map as poleward surge No. 4.  
+polarity spot. Interaction between ARs 11432 and 11433 The origin of surge No. 3 is similar to surge No. 4: it 
+led to near dissipation of positive polarity field, and it also originated as the result of collective action of sev-
+strengthen the negative polarity flux. Coronal hole grew eral active regions, and the solar activity that took place 
+and extended to the west and north of these two ARs. around the start-time of that surge also exhibits an en-
+Over the next several rotations, new active regions de- hancement the fraction of active regions with non-Joy’s 
+veloped and dissipated to the east from this area, but the orientation. To verify the significance of active regions 
+presence of the coronal hole helped retaining negative with non-Joy’s orientation in development of poleward 
+polarity field against dissipation. The emergence of ac- surges of opposite polarity, we plotted a distribution of 
+tive regions in this area was such that even development active region tilts. Data for this plot were taken from the 
+of a large active region 11476 in CR2123 did not data set described by Györi et al. [2011]. 
+change the balance of magnetic flux. It appears that the To study evolution of zonal magnetic flux in more de-
+overall evolution led to positive field getting more tail we analyzed synoptic maps composed of high-
+fragmented and dispersed, while negative polarity field resolution SOLIS/VSM measurements. Figures 4, a, c 
+survived and contributed to the growth of area that still show changes in sunspot areas in the northern and southern 
+had coronal hole on some part of it. This evolution con- hemispheres. Figure 4, b shows a supersynoptic map 
+tinues even after the coronal hole disappeared, and by composed of longitude averaged magnetic flux (in red-
+CR2137-2139, a large area of negative polarity had ex- to-blue palette). Small gaps in these measurements were 
+tended to high latitudes, and it was later transported to filled with the use of SDO/HMI data. The zonal flux 
+the northern polar region. distribution is denoised using a wavelet decomposition 
+
+8 
+
+
+
+Инверсия магнитного поля Солнца в 24-м цикле                  The reversal of the Sun’s magnetic field in cycle 24  
+ 
+
+ 
+ 
+Figure 4. Changes in sunspot areas for the northern (a) and southern (c) hemispheres. Time-latitude evolution of zonal mag-
+
+netic flux is shown in red-to-blue (b); zones of intense sunspot activity and domains of non-Joy’s active region tilt are overplotted 
+in black and green colors 
+
+ 
+technique. This diagram shows global rearrangements of areas with non-Joy’s tilt at the beginning of most 
+of solar magnetic flux in relation to sunspot activity in surges indirectly supports the notion that majority of 
+the current cycle. Zones of intense sunspot activity are poleward surges of opposite polarity field originates 
+shown in black (>70 millionths of the solar hemi- from active regions with non-Joy’s tilt. These surges are 
+sphere). As a rule, surges of trailing polarities (marked marked with dashed arrows. 
+with solid arrows) originated after decay of long-living  
+
+activity complexes. 4.4. Surge No. 5 
+A location of active regions that disobey the Joy’s This surge that originates in near equatorial region 
+
+law (colored in green) overplotted on the supersynoptic represents example when the magnetic field (of active 
+map of magnetic flux. It appears that that the active re- region’s leading polarity) crosses the equator, and is 
+gions deviating from Joy’s law are not located randomly gradually transported to the polar areas of opposite hem-
+in latitude and time; there are large-scale patterns in isphere. The magnetic flux in this surge was quite weak, 
+their distribution. For example, in 2013–2014, majority and it is not clear if this flux was eventually transported 
+of active regions in near-equatorial area had non-Joy’s all the way to the northern polar region. This example 
+orientation (see large green area around years 2013 and suggests an interesting scenario that even if the sunspot 
+2014). Coherent areas of non-Joy’s tilts also present in activity is limited to a single hemisphere, the polar field 
+low latitude regions in late-2008-early 2009. The exist- in both hemispheres could still be created as it is the 
+ence of such coherent areas contradicts a conventional case for ‘normal’ cycles. The validity of such scenario 
+explanation that non-Joy’s tilts are the result of buffet- depends on the interplay between the lifetime of decay-
+ings of magnetic flux tubes rising through the turbulent ing flux and the time it takes to transport it across equa-
+convection zone.  tor to other hemisphere.  
+
+For most poleward surges discussed in Section 4, To further investigate this scenario for a cross-
+there is an area of non-Joy’s tilt at the time and latitude equatorial transport of magnetic flux, we employed a sim-
+when the surge had originated (see areas colored in plified flux-transport model previously used by us to study 
+green near the beginning of poleward surges No. 3, 9, the effects of sunspot emergence and the dissipation on 
+13 (northern hemisphere) and surges No. 4 and 6 detectability of solar differential rotation from sun-as-a-star 
+(Southern hemisphere). Surge No. 10 does not show observations. For additional details about this model, see 
+such association, which agrees with the description of Bertello, Pevtsov, and Pietarila [2012]. In the model, we 
+evolution of active region tilt in that area. The presence imitated the active regions using pairs of bipoles of differ-
+
+9 
+
+
+
+A.В. Мордвинов, A.A. Певцов, Л. Бертелло, Г.Дж.Д. Петри         A.V. Mordvinov, A.A. Pevtsov, L. Bertello, G.J.D. Petrie 
+ 
+ent size. The bipoles were ‘emerged’ at random longitudes tude (units of the international sunspot index). If one 
+within the latitudinal range of about 5 degrees centered at assumes that cycle 24 had reached its maximum, the 
+20 degrees of latitude in the southern hemisphere. All bi- fitted linear function can be used to estimate the length 
+poles had fixed tilt relative to the equator, and their polarity of cycle 24 as 12.3 years, which suggests that cycle 24 
+orientation corresponded to the Hale-Nicholson polarity will reach its minimum in early 2021.  
+rule for the southern hemisphere in cycle 23.  Based on direct measurements of solar magnetic 
+
+The magnetic fluxes of bipoles were varied random- field by full disk longitudinal magnetographs operated 
+ly within a preset range of fluxes. Test-runs of this by the National Solar Observatory (the 512 channel 
+model indicated that some of the magnetic flux of lead- Diode Array Magnetograph (NSO-512) at the National 
+ing polarity can be transported across the solar equator Solar Observatory/Kitt Peak Vacuum Telescope 
+as the result of active region growth (leading polarity is (NSO/KPVT, 1974–1992), the NASA/NSO Spectro-
+moving away from the center of emerging activity re- magnetograph at NSO/KPVT (SPM, 1992–2002), and 
+gion in westward and the equatorward directions, while the Vector Stokes Magnetograph on Synoptic Optical 
+at the same time, the following polarity is moving slightly Long-term Investigations of the Sun (VSM/SOLIS, 
+eastward and poleward). The diffusion of magnetic field 2003-present), we find that the total flux observed in 
+also contributes to the cross-equatorial transport of magnet- cycles 21, 22, and 23 is about the same. Difference in 
+ic flux. The simulations also showed that diffusion rate is total cycle-integrated flux in cycles 21 and 22 is about 
+important in defining if any flux will survive as a coherent –7.5 % and in cycles 22 and 23 is about 1.7 %. Slightly 
+structure by the time it is transported to the pole. Our find- larger difference in pair of cycles 21–22 is due to lack 
+ings from this model simulations are in agreement with of observations from the first two years of cycle 21. 
+Cameron et al. [2013] results.  Thus, the direct magnetic field data also support the 
+
+Running the model over the period of time corre- notion that the cycle-integrated magnetic flux on the 
+sponding to about 5 years, we were able to see a build- Sun does not change significantly from one cycle to the 
+up of magnetic flux of opposite polarity in the northern other. However, while this apparent agreement in total 
+and the southern polar areas even though the sunspot cycle-integrated magnetic flux is intriguing, the specula-
+activity was limited to the southern hemisphere. Switch- tion about the invariance of the cycle-integrated needs 
+ing the polarity orientation of bipoles (Hale-Nicholson further confirmation, e.g., via direct dynamo modeling 
+polarity rule) from one cycle to the other, led to the re- and analysis of other data sets such as WSO. 
+versal of polar fields in both hemispheres, as it would The integrated measurements of polar fields from 
+for normal cycles (with the sunspot activity in both the Wilcox Solar Observatory (WSO) and the 
+hemispheres). As other example of transequatorial flux SOLIS/VSM are shown in Figure 5. The data for this 
+transport we refer the reader to Pevtsov and Abramenko plot were computed following the recipe provided at the 
+[2010] who reported a case, when a coronal hole origi- SOLIS web site at solis.nso.edu/0/vsm/vsm plr-
+nating as an extension of a south polar coronal hole got field.html. The WSO data correspond to the line-of-
+disconnected and was gradually transported to the polar sight flux, while the VSM magnetic field measurements 
+area in the northern hemisphere. were converted to radial flux (normal to the local solar 
+
+In the next section we study changes in cycle- surface) under the assumption that the photospheric 
+integrated magnetic flux taking into account its prog- field is vertical. This and a significant difference in the 
+nostic importance. The polar field buildup quantifies the observational parameters between the two measure-
+efficiency of magnetic flux transport and characterizes ments can explain the difference in amplitudes of polar 
+its north-south asymmetry in the current cycle. flux from these two instruments. 
+
+ Table 1 provides approximate dates of polar field 
+5. CYCLE-INTEGRATED reversals derived from these two plots. Both WSO and 
+
+ MAGNETIC FLUX VSM data were filtered using a low-bandpass filter to 
+compensate for annual variations of observed polar 
+
+Solar and stellar dynamo are driven by convective field, which occur due to change in visibility of two 
+and shear flows in solar convective zone. If the cycle- poles with Earth orbital position. From these integrated 
+average properties of such flows do not change signifi- data, it appears that the magnetic field in the southern 
+cantly from one cycle to the other, one could speculate hemisphere at 60–70° latitudinal range reversed its po-
+that the total magnetic flux produced during each solar larity in mid-2013. At higher latitudes (65–75°), the 
+cycle should also show no significant variation from one reversal occurred in late 2013.  
+cycle to the other. In other words, the total magnetic The polarity reversal in the northern hemisphere is 
+flux produced in cycle n, should be about the same as in less clear: both WSO and VSM data indicate multiple 
+cycle n–1 or cycle n+1. If such cycle-integrated flux- reversals that occurred in mid-2012, mid-2014 and per-
+invariance existed, it would reveal itself in a correlation haps, late 2014 – early 2015. Since the first reversal the 
+between the length of solar cycle and its amplitude, i.e., 
+high-amplitude cycles would tend to be shorter in dura- polar field in the northern hemisphere remained weak, 
+tion, while the opposite would be true for cycles with and it was practically fluctuating around zero. Only very 
+low amplitude. In fact, the international sunspot data do recently (CR2161), with the increase in sunspot activity 
+show a presence of such correlation albeit with a signif- in the northern hemisphere we finally see a trend sug-
+icant scatter [e.g., see Figure 5 in Petrovay, 2010]. Line- gesting that the northern polar field is beginning to in-
+ar fit to the data corresponds to crease in amplitude (Figure 5, far right side of 
+
+SOLIS/VSM plot). We see this behavior to be the result 
+Acycle = (339.638 ± 85.273) – (20.988∓ 7.718) Lcycle,  of a specific pattern of activity in the northern hemi-
+
+where Lcycle is cycle length (years) and Acycle is its ampli- sphere. 
+
+10 
+
+
+
+Инверсия магнитного поля Солнца в 24-м цикле                  The reversal of the Sun’s magnetic field in cycle 24  
+ 
+
+ 
+
+Figure 5. Comparison between SOLIS/VSM radial (top) and Wilcox LOS filtered polar measurements (bottom). Note the 
+different scales. Northern hemisphere measurements are shown in blue, while the southern values are shown in red. For the case 
+of SOLIS/VSM, measurements are shown for two different latitude bands: 60° to 70° (solid lines) and 65° to 75° (dashed lines). 
+The times of polar reversals are given in Table 1. The most recent plot of polar fields can be found at solis.nso.edu 
+
+ 
+Time of polar reversals from Wilcox and VSM photospheric measurements 
+
+ 
+Wilcox SOLIS/VSM 
+
+60–70° 65–75° 
+ North South North South North South 
+
+1st 06.15.2012 06.26.2013 05.14.2012 05.10.2013 12.31.2012 10.28.2013 
+2nd 03.03.2014  03.09.2014  05.19.2014  
+3rd 10.15.2014  02.15.2015  03.13.2015  
+
+ 
+ 
+
+ 
+6. DISCUSSION AND SUMMARY hand, the polar field in the southern hemisphere got a 
+The recent development of the solar activity in the slight boost, from surge No. 10. While this surge was 
+
+current cycle made it evident that the north-south eventually the result of non-Joy’s orientation of corre-
+asymmetry of sunspot activity resulted in asynchronous sponding magnetic flux, this abnormal orientation de-
+reversal of the Sun’s polar field. We demonstrate the veloped in course of a peculiar evolution of magnetic 
+well-defined surges of trailing polarities that reached the flux in this active region as well as additional flux 
+Sun’s poles and led to the polar field reversals. We give emergence in this area in the following rotations.  
+concrete examples to demonstrate that the regular polar- In fact, Petrie and Ettinger [2015] found that pole-
+field build-up was disturbed by surges of leading polarities ward surges are almost always due to more than one 
+resulted from violations of Joy’s law at lower latitudes. region, particularly the important surges. Generally the 
+
+During the declining phase of cycles 21 and 22, the high latitudes are occupied by decayed flux of both po-
+dissipating field of active regions continued strengthen- larities from various regions at different stages of evolu-
+ing the polar field. In these cycles, the decline in polar tion. A surge develops when one polarity dominates 
+field is clearly associated with a start of the next cycles. overall, and sometimes, but not always, the dominant 
+In cycle 23, however, the polar magnetic field in the flux can be easily traced back to one, two, or a few ma-
+northern hemisphere begun declining even before active jor regions. After the first reversal, magnetic field in the 
+regions of a new cycle 24 had emerged in high latitudes. Northern hemisphere had experienced a brief reversal to 
+This decline can be associated with poleward surge No. previous polarity state, which can be contributed to 
+3 (Figure 1), which originated from location of several poleward surge No. 13. This surge has also developed 
+small active regions with non-Joy’s tilt. On the other as the result of a peculiar evolution and interaction be-
+
+11 
+
+
+
+A.В. Мордвинов, A.A. Певцов, Л. Бертелло, Г.Дж.Д. Петри         A.V. Mordvinov, A.A. Pevtsov, L. Bertello, G.J.D. Petrie 
+ 
+tween emerging active regions and long-lived coherent Balasubramaniam K.S., Pevtsov A.A. Ground-based syn-
+unipolar magnetic region which presence was outlined optic instrumentation for solar observations. Proc. SPIE 8148. 
+by a coronal hole.  Solar Physics and Space Weather Instrumentation IV, 814809. 
+
+Peculiarities appear rather random in their occur- 2011. DOI:10.1117/12.892824. 
+Baumann I.D. Schmitt D. Schüssler M. Solanki S.K. Evo-
+
+rence; we did not find any strong indication that this lution of the large-scale magnetic field on the solar surface: 
+activity can be the result of some organized process. A parameter study. Astron. Astrophys. 2004, vol. 426, pp. 1075–
+Nevertheless, a combined effect of this peculiar activity 1091. DOI:10.1051/0004-6361:20048024. 
+was sufficient to distort the process of polar field rever- Bertello L., Pevtsov A.A., Harvey J.W., Toussiant R.M. 
+sal in the northern hemisphere. The role of stochastic Improvements in the determination of ISS CaII K parameters. 
+evolution in polar field reversal can be seen in other Solar Phys. 2011, vol. 272. P. 229–242. DOI: 10.1007/ 
+
+s11207-011-9820-8. 
+cycles. Thus, for example, comparing polar field evolu- Bertello L., Pevtsov A. A., Pietarila A. Signature of differ-
+tion in cycles 21–22 with cycles 23–24, Petrie and ential rotation in Sun-as-a-star Ca II K measurements. The 
+Ettinger [2015] noted that the activity complexes were Astrophys. J. 2012, vol. 761. 11. DOI: 10.1088/0004-637X/ 
+larger, longer-lived and tended to be arranged in a few 761/1/11. 
+giant structures at the height of cycles 21 and 22, Cameron R. H., Dasi-Espuig M., Jiang J., Isik E., Schmitt D., 
+whereas the cycle 23 and 24 active regions were small- Schüssler M. Limits to solar cycle predictability: Cross-
+er, less organized and shorter-lived.  equatorial flux plumes. Astron. Astrophys. 2013. vol. 557. 
+
+A141. DOI:10.1051/0004-6361/201321981. 
+The apparently more stochastic character of the cy- Dasi-Espuig M., Solanki S.K., Krivova N.A., Cameron R., 
+
+cle 24 reversal reflects the fact that it is the cumulative Peñuela T. Sunspot group tilt angles and the strength of the 
+result of numerous relatively disorganized active re- solar cycle. Astron. Astrophys. 2010, vol. 518, no. A7. DOI: 
+gions. The elements of randomness in the polar field 10.1051/0004-6361/201014301. 
+reversals described in this paper raise questions not only Dasi-Espuig M., Solank, S.K., Krivova N.A., Cameron R., 
+about how well our current modeling can predict the Peñuela T. Sunspot group tilt angles and the strength of the 
+
+solar cycle (Corrigendum). Astron. Astrophys. 2013, vol. 56, 
+future solar cycle activity, but also if such prediction is no. C3. DOI: 10.1051/0004-6361/201014301e. 
+even possible. Based on the success of the flux-transport DeVore C.R., Sheeley N.R., Boris J.P., Young T.R., Har-
+models one can argue that the behavior of the solar cy- vey K.L. Simulations of magnetic-flux transport in solar active 
+cle can be predicted sufficiently well, but then based on regions. Solar Phys. 1985, vol. 102, pp. 41–49. DOI: 10.1007/ 
+the examples shown in this article, these predictions BF00154036. 
+
+may still be the subject of stochastic events that can Györi L., Baranyi T., Ludmany A. Photospheric data pro-
+grams at the Debrecen Observatory. Proc. of the Intern. As-
+
+significantly alter the course of the solar cycle. However, tron. Union, 6, Symp. S273. 2011. August 2010, pp. 403–407. 
+we also found that different cycles seem to produce about DOI: 10.1017/S174392131101564X. 
+the same amount of cycle-integrated magnetic flux. We Ivanov V.G. Joy’s law and its features according to the da-
+suggest that the latter could be used to estimate the ta of three sunspot catalogs. Geomagnetism and Aeronomy. 
+length of cycle 24. Finally, the hemispheric asymmetry 2012, vol. 52, no. 8, pp. 999–1004. DOI: 10.1134/ 
+
+S0016793212080130. 
+in sunspot activity may play a role in the strength of Jiang J., Cameron R.H., Schmitt D., Isik E. Modeling solar 
+solar cycle. It appears that cycles with strong asym- cycles 15 to 21 using a flux transport dynamo. Astron. Astro-
+metry tend to have a lower amplitude (e.g., cycles 23 phys. 2013, vol. 553, no. A128. DOI: 10.1051/0004-6361/ 
+and 24) in comparison with cycles in which sunspot 201321145. 
+activity in two hemispheres is more synchronized (e.g., Jones H.P., Duvall T.L., Jr., Harvey J.W., Mahaffey C.T., 
+cycles 21 and 22). Past suggestions that the sunspot Schwitters J.D., Simmons J.E. The NASA/NSO spectromag-
+
+netograph. Solar Phys. 1992, vol. 139, pp. 211. DOI: 10.1007/ 
+activity during the Maunder minimum was restricted to BF00159149. 
+only one solar hemisphere also support this notion. The Keller C.U., Harvey J.W., Giampapa M.S. SOLIS: An in-
+role of the hemispheric asymmetry in strength of solar novative suite of synoptic instruments. Innovative Telescopes 
+cycle will be the subject of future studies. and Instrumentation for Solar Astrophysics. Proc. SPIE. 2003, 
+
+This work utilizes SOLIS data obtained by the NSO vol. 4853, pp. 194–204. Eds. Stephen L. Keil, Avakyan S.V.  
+
+Integrated Synoptic Program (NISP), managed by the Leighton R.B. A Magneto-kinematic model of the solar 
+cycle. Astrophys. J. 1969, vol. 156, pp. 1–26. DOI: 10.1086/ 
+
+National Solar Observatory, which is operated by the 149943. 
+Association of Universities for Research in Astronomy McClintock B.H., Norton A.A. Recovering Joy’s Law 
+(AURA), Inc. under a cooperative agreement with the as a function of solar cycle, hemisphere, and longitude. 
+National Science Foundation. These data are freely Solar Phys. 2013, vol. 287, pp. 215–227. DOI: 10.1007/ 
+available via the SOLIS web site at solis.nso.edu. AVM s11207-013-0338-0. 
+
+Mordvinov A.V., Grigoryev V.M. Erofeev D.V. Evolution 
+acknowledges support by the project II.16.3.1 under the of sunspot activity and inversion of the Sun’s polar magnetic 
+Program of Fundamental Research of SB RAS. Data field in the current cycle. Adv. Space Research. 2015, vol. 55, 
+used in Figure 2 are courtesy of NASA/SDO and the pp. 2739–2743. 
+HMI science teams. Mordvinov A.V., Yazev S.A. Reversals of the Sun’s polar 
+
+ magnetic fields in relation to activity complexes and coronal 
+REFERENCES holes. Solar Phys. 2014, vol. 289, pp. 1971–1981. DOI: 10.1007/ 
+
+s11207-013-0456-8. 
+Babcock H.W. The topology of the Sun’s magnetic field and Muñoz-Jaramillo A., et al. The minimum of solar cycle 
+
+the 22-year cycle. The Astrophys. J. 1961, vol. 133, pp. 572–589. 23: As deep as it could be? The Astrophys. J. 2015, vol. 804, 
+DOI:10.1086/147060. iss. 1, article id. 68, 12 p. DOI: 10.1088/0004-637X/804/1/68. 
+
+  
+
+12 
+
+
+
+Инверсия магнитного поля Солнца в 24-м цикле                  The reversal of the Sun’s magnetic field in cycle 24  
+ 
+
+Karachik N.V., Pevtsov A.A., Abramenko V. Formation Sun X., Hoeksema J. T., Liu Y., Zhao J. On polar magnetic 
+of coronal holes on the ashes of active regions. The Astrophys. field reversal and surface flux transport during solar cycle 24. 
+J. 2010, vol. 714, pp. 1672–1678. DOI: 10.1088/0004-637X/ The Astrophys. J. 2015, vol. 798, p. 114. DOI: 10.1088/0004-
+714/2/1672. 637X/798/2/114. 
+
+Petrovay K. Solar Cycle Prediction. Living Rev. in Solar Tlatov A.G., Dormidontov D.V., Kirpichev R.V., Pash-
+Phys. 2010, vol. 7, pp. 6. DOI: 10.12942/lrsp-2010-6. chenko M.P., Shramko A.D., Peshcherov V.S., Grigoryev V.M., 
+
+Petrie G.J.D. Evolution of active and polar photospher- Demidov M.L., Svidskii P.M. Study of some characteristics of 
+ic magnetic fields during the rise of cycle 24 compared to large-scale solar magnetic fields during the global field polarity 
+previous cycles. Solar Phys. 2012, vol. 281, pp. 577–598. reversal according to observations at the Telescope-Magnetograph 
+DOI: 10.1007/s11207-012-0117-3. of Kislovodsk Observatory. Geomagnetism and Aeronomy. 
+
+Petrie G.J.D. Solar Magnetism in the Polar Regions // Liv- 2015, vol. 55, no. 7, pp. 969–975. 
+ing Reviews in Solar Physics. 2015, vol. 12, pp.5–102. DOI: Wang Y.-M., Lean J., Sheeley N.R., Jr. Role of a variable 
+10.1007/rsp-2015-5. meridional flow in the secular evolution of the Sun’s polar 
+
+Petrie G., Ettinger S. Polar field reversals and active re- fields and open flux. The Astrophys. J. 2002, vol. 577, pp. L53–
+gion decay. Space Sci. Rev. 2015, vol. 70. DOI: 10.1007/ L57. DOI: 10.1086/344196. 
+s11214-015-0189-0. Wang Y.M., Nash A.G., Sheeley N.R. Magnetic flux 
+
+Pevtsov A.A. Transequatorial loops in the solar corona. transport on the Sun. Science. 1989, vol. 245, pp. 712–718. 
+The Astrophys. J. 2000, vol. 531, pp. 553–560. DOI: 10.1086/ DOI: 10.1126/science.245.4919.712. 
+308467. Upton L., Hathaway D.H. Predicting the Sun’s polar mag-
+
+Pevtsov A.A., Abramenko V. I. Transport of open magnetic netic fields with a surface flux transport model. The Astrophys. J. 
+flux between solar polar regions. Solar and Stellar Variability: 2014, vol. 780, no. 5. DOI: 10.1088/0004-637X/780/1/5. 
+Impact on Earth and Planets. Proc. IAU. 2010, vol. 5, iss. Yeates A.R., Baker D., van Driel-Gesztelyi L. Source of a 
+S264. Eds. Kosovichev A., Andrei A., Rozelot J.-P. (Cam- prominent poleward surge during solar cycle 24. Solar Phys. 
+bridge Univ. Press), pp. 210–212. DOI: 10.1017/S174392 2015, vol. 290, pp. 3189–3201. DOI: 10.1007/s11207-015-
+130999264X . 0660-9. 
+
+Pevtsov A.A., Berger M.A., Nindos A., Norton A.A., van Zhao J., Kosovichev A.G., Bogart R.S. Solar meridional 
+Driel-Gesztelyi L. Magnetic helicity, tilt, and twist. Space Sci. flow in the shallow interior during the rising phase of cycle 24. 
+Rev. 2014, vol. 186, pp. 285–324. DOI: 10.1007/s11214-014- Astrophys. J. 2014, vol. 789, no. L7. DOI: 10.1088/2041-8205/ 
+0082-2. 789/1/L7. 
+
+Schrijver C.J., De Rosa M.L., Title A.M. What is missing  
+from our under-standing of long-term solar and heliospheric  
+activity? The Astrophys. J. 2002, vol. 577, pp. 1006–1012.  
+DOI: 10.1086/342247.  
+
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 13

@@ -1,0 +1,323 @@
+﻿Педиатрия
+
+DOI: 10.51793/OS.2023.26.1.002
+Оригинальная статья / Original article
+
+Функциональные запоры у детей 
+раннего возраста: современные 
+возможности использования 
+про- и пребиотиков
+С. Б. Крутихина, ORCID: 0000-0001-7516-5756, svetulkakru@gmail.com
+Н. А. Геппе, ORCID: 0000-0003-0547-3686, geppe@mail.ru 
+Е. А. Яблокова, ORCID: 0000-0003-3364-610Х, catcom@list.ru
+М. А. Кудряшова, ORCID: 0000-0001-7275-4344, xvosel@yandex.ru
+Федеральное государственное автономное образовательное учреждение высшего образования Первый 
+Московский государственный медицинский университет имени И. М. Сеченова Министерства здравоохранения 
+Российской Федерации; 119991, Россия, Москва, ул. Трубецкая, 8/2 
+
+Резюме. Одной из распространенных гастроэнтерологических патологий в детском возрасте являются запоры функционального 
+происхождения. Частота запоров у детей первого года жизни составляет от 10,7% до 17,6%. Запор рассматривают как редкое, 
+болезненное, затрудненное и/или неполное опорожнение кишечника каловыми массами различной степени плотности 
+и диаметра. При диагностировании запора у детей раннего возраста важно ориентироваться не только на частоту стула, 
+но и на его характер, используя Бристольскую шкалу оценки консистенции кала. Даже при ежедневных дефекациях, сопро-
+вождающихся болезненными ощущениями и плотным калом, состояние необходимо расценивать как запор. Предполагаемые 
+триггеры на первом году жизни чаще всего связаны с изменениями питания, перенесенной кишечной инфекцией и нали-
+чием анальных трещин. После первого года дополнительным фактором может быть неправильное обучение туалетным 
+навыкам. При неправильном обучении туалетным навыкам дети начинают удерживать кал, что приводит к болезненной 
+дефекации, а в дальнейшем формирует страх, ведущий к еще большей задержке дефекации. Для профилактики и коррекции 
+запоров у детей раннего возраста важны следующие моменты: наличие опоры для ног при дефекации; поощрение ребенка 
+к ежедневному употреблению большего количества воды, фруктов и овощей, а также достаточной физической активности. 
+В диетотерапии функциональных запоров доказана роль некоторых пробиотиков (штаммы Lactobacillus, Bifidobacterium lactis) 
+и пребиотиков (инулин, галакто- и фруктоолигосахариды).
+Ключевые слова: запоры у младенцев, запоры у детей раннего возраста, функциональные запоры, пребиотики, пробиотики.
+Для цитирования: Крутихина С. Б., Геппе Н. А., Яблокова Е. А., Кудряшова М. А. Функциональные запоры у детей раннего 
+возраста: современные возможности использования про- и пребиотиков // Лечащий Врач. 2023; 1 (26): 11-14. DOI: 10.51793/
+OS.2023.26.1.002
+
+Functional constipation in infants and toddler: modern possibilities of using 
+pro- and prebiotics
+Svetlana B. Krutikhina, ORCID: 0000-0001-7516-5756, svetulkakru@gmail.com
+Natalya A. Geppe, ORCID: 0000-0003-0547-3686, geppe@mail.ru 
+Ekaterina A. Yablokova, ORCID: 0000-0003-3364-610Х, catcom@list.ru
+Mariya A. Kudryashova, ORCID: 0000-0001-7275-4344, xvosel@yandex.ru
+Federal State Autonomous Educational Institution of Higher Education Sechenov First Moscow State University of Medicine of Ministry 
+of Health of the Russian Federation; 8/2 Trubetskaya str., Moscow, 119991, Russia
+
+Abstract. One of the most common gastroenterological pathologies in childhood is constipation of functional origin. The frequency of 
+constipation in children of the first year of life ranges from 10.7% to 17.6%. Constipation is considered as a rare, painful, difficult and/
+or incomplete bowel movement with stools of varying degrees of density and diameter. When diagnosing constipation in young children, 
+it is important to focus not only on the frequency of the stool, but also on its nature, using the Bristol stool consistency scale. Even with 
+daily bowel movements, accompanied by painful sensations and dense feces, the condition must be regarded as constipation. Suggested 
+triggers in the first year of life are most often related to dietary changes, previous intestinal infection, and the presence of anal fissures. 
+After the first year, improper toilet training may be an additional factor. When toilet training is incorrect, children begin to retain feces, 
+which leads to painful defecation, and further forms fear, leading to an even greater delay in defecation. For the prevention and correction 
+of constipation in young children, the following points are important: the presence of support for the legs during defecation; Encouraging 
+the child to consume more water, fruits and vegetables every day, as well as to get enough physical activity. In the diet therapy of functional 
+
+LECHASCHI VRACH, VOL. 26, № 1, 2023, https://journal.lvrach.ru/ 11
+
+
+
+Педиатрия
+
+constipation, the role of some probiotics (strains of Lactobacillus, Bifidobacterium lactis) and prebiotics (inulin, galacto- and fructooligo-
+saccharides) has been proven.
+Keywords: constipation in infants, constipation in young children, functional constipation, prebiotics, probiotics.
+For citation: Krutikhina S. B., Geppe N. A., Yablokova E. A., Kudryashova M. A. Functional constipation in infants and toddler: modern 
+possibilities of using pro- and prebiotics // Lechaschi Vrach. 2023; 1 (26): 11-14. DOI: 10.51793/OS.2023.26.1.002
+
+П о различным данным у детей грудного возраста ● наличие болезни Гиршпрунга у ближайших родствен-
+в течение первых месяцев жизни более чем в 50% ников;
+случаев отмечаются какие-либо функциональ- ● отставание в физическом развитии;
+ные расстройства желудочно-кишечного трак- ● лихорадка;
+
+та (ФР ЖКТ) [1]. Диагностика этих состояний опирается ● рвота с желчью;
+на Римские критерии IV (2016 г.) [2]. Основными ФР ЖКТ ● лентовидный стул;
+у младенцев являются младенческие колики, младенческая ● кровь в стуле;
+регургитация, функциональный запор или диарея, дисхезия. ● вздутие живота;
+За исключением функциональных запоров большинство ФР ● заболевания щитовидной железы;
+ЖКТ нивелируются в течение первого года жизни [3]. У детей ● изменения перианальной области (свищ, аномальное 
+от 1 года до 3 лет из ФР ЖКТ в основном встречаются синдром положение ануса, рубцы);
+циклических рвот, функциональные абдоминальные боли ● отсутствие анального или кремастерного рефлекса;
+и функциональный запор [4]. На сегодняшний день основные ● уменьшение рефлексов с нижних конечностей;
+причины развития ФР ЖКТ описываются биопсихосоциаль- ● рефрактерность запоров к лечению [10, 11]. 
+ной моделью, в которой тесно взаимосвязаны патофизиологи- При наличии тревожных симптомов необходимо допол-
+ческие механизмы (нарушение моторики ЖКТ, висцеральной нительное обследование ребенка (пассаж бария по ЖКТ, 
+чувствительности, хроническое воспаление, повышенная консультация хирурга, биопсия слизистой оболочки прямой 
+чувствительность к определенным пищевым продуктам, кишки, толстокишечная манометрия) [12].
+нарушение микробиоты кишечника) и психосоциальные 
+факторы (воздействие на ось «мозг – кишечник») [4]. Роль про- и пребиотиков
+
+В детской гастроэнтерологической практике превалируют Для профилактики и лечения запоров у детей младше-
+запоры функционального происхождения, особенно у детей го возраста необходимо донести до родителей информацию 
+грудного и раннего возраста. В зарубежных и отечественных о важности соблюдения ряда моментов: во время дефекации 
+исследованиях показано, что частота запоров у младенцев у ребенка должна быть опора для ног; его нужно поощрять к 
+составляет от 10,7% до 17,6%, у детей старше 1 года происходит ежедневному употреблению большего количества воды, фруктов 
+увеличение частоты запоров до 40% [5, 6]. и овощей, а также достаточной физической активности [10, 11].
+
+Запор рассматривают как редкое, болезненное, затрудненное В мире активно изучается роль про- и пребиотиков, а также 
+и/или неполное опорожнение кишечника каловыми массами микроэлементов в развитии запоров у младенцев и детей ран-
+различной степени плотности и диаметра. Так как у детей часто- него возраста, так как результаты этих исследований способ-
+та стула очень вариабельна и зависит от возраста, то при диа- ны помочь в коррекции запоров у педиатрических пациентов 
+гностировании запора необходимо ориентироваться не только данной возрастной группы. Роль пробиотиков изучена в боль-
+на частоту стула, но и на его характер, используя Бристольскую шей мере. В исследовании Banaszkiewicz и Szajewska оценива-
+шкалу оценки консистенции кала [7]. Даже при ежедневных ли влияние Lactobacillus rhamnosus GG у 84 детей от 2 до 16 лет 
+дефекациях, сопровождающихся болезненными ощущениями и с запорами в сравнении с плацебо. Эффект лечения (не менее 
+плотным калом, состояние необходимо расценивать как запор. 3 самостоятельных дефекаций в неделю) был сопоставим между 
+
+Триггеры, приводящие к развитию запоров на первом группами через 12 недель [13]. Bu и соавт. сравнивали действие 
+году жизни, разнообразны, но в основном они связаны Lactobacillus casei rhamnosus LCR35, оксида магния и плацебо 
+с изменениями питания: переход от грудного вскармливания у 45 детей с запорами в течение 4 недель. Пациенты, получавшие 
+к искусственному, смена адаптированной смеси, введение пробиотик и оксид магния, имели более частую дефекацию, 
+прикорма; кишечные инфекции и наличие анальных трещин меньшую частоту твердого стула и потребность в дополнитель-
+[6, 8]. Раннее введение адаптированных смесей на основе ных назначениях по сравнению с группой плацебо [14]. 
+белка коровьего молока также может вызвать сенсибилиза- Wojtyniak и другие изучили влияние Lactobacillus casei rhamnosus 
+цию к нему, что в свою очередь тоже влияет на стул ребенка LCR35 и плацебо на запоры у 94 детей с данной проблемой. 
+[9]. Еще один из важных этапов, на котором возможно раз- По крайней мере 3 самостоятельные дефекации в неделю были 
+витие запоров, – это приучение к горшку. При неправильном сопоставимы между группами, но в группе, получавшей про-
+обучении туалетным навыкам дети начинают удерживать биотик, частота стула была значительно ниже [15]. В последнем 
+кал, что приводит к болезненной дефекации, а в дальнейшем исследовании эффективность использования Lactobacillus reuteri 
+формирует страх, ведущий к еще большей задержке дефека- DSM 17938 и макрогола по сравнению только с макроголом 
+ции [4, 6]. и группой плацебо изучали у 129 детей с запором в течение 
+
+Диагностика запора обычно не представляет трудностей 8 недель. Частота стула увеличилась почти у всех пациентов 
+при тщательном расспросе родителей. Однако важно обра- в сопоставимом количестве в обеих группах. Достоверных раз-
+щать внимание на «красные флажки» (тревожные симптомы), личий между группами по частоте твердого стула, болезненной 
+к которым относятся: дефекации и боли в животе не отмечено [16]. 
+● ранний дебют запоров в возрасте до 1 мес; Coccorullo и соавт. изучали влияние Lactobacillus reuteri DSM 
+● задержка отхождения мекония (свыше 48 часов); 17938 и плацебо у 44 детей с запорами в течение 8 недель. 
+
+12 ЛЕЧАЩИЙ ВРАЧ, ТОМ 26, № 1, 2023, https://journal.lvrach.ru/
+
+
+
+Pediatry
+
+У значительно большего числа пациентов частота стула при готовых каш ТМ «ФрутоНяня», обогащенных пребиоти-
+употреблении пробиотика была выше, чем в группе плацебо. ком инулином. Каши уже готовы к употреблению, имеют 
+Консистенция стула не различалась между группами [17]. различные фруктовые вкусы, злаковый состав (глютеновые 
+
+Guerra и соавт. использовали козий йогурт, содержащий и безглютеновые) и молочную составляющую (безмолочные, 
+Bifidobacterium longum, по сравнению с необогащенным йогур- молочные и йогуртовые). Этот вид каш может быть рекомен-
+том у 59 детей с запорами в течение 10 недель. При анализе дован как продолжение прикорма для разнообразия рациона 
+данных наблюдались различия в частоте дефекации, боли при питания ребенка во втором полугодии жизни. Пребиотик 
+дефекации и в животе, но эти данные требуют уточнения [18]. инулин при этом, помимо влияния на частоту и консистен-
+
+Табберс и др. сравнивали эффективность ферментирован- цию стула у ребенка, нормализует и состав микробиоты 
+ного молока, содержащего Bifidobacterium lactis DN-173010, кишечника за счет стимуляции роста комменсалов, таких 
+и молочного продукта на основе неферментированного молока как Bifidobacterium spp. и Lactobacillus spp. [28]. 
+у 159 детей с запорами. Эффективность оказалась сопоставимой При прогрессировании запоров до субкомпенсированной 
+в обеих группах, но явления метеоризма за 3 недели исследования стадии рекомендовано назначение медикаментозной терапии, 
+значительно реже отмечались в группе Bifidobacterium lactis [19]. препараты подбираются в соответствии с возрастом ребенка, 
+
+Sadeghzadeh и соавт. в течение 4 недель исследовали влияние с учетом эффективности и безопасности их применения. Чаще 
+лактулозы и смеси 7 пробиотических штаммов по сравнению всего используются препараты лактулозы и полиэтиленгликоля.
+с использованием только лактулозы и плацебо у 56 детей с функ- В заключение важно отметить, что большинство запоров 
+циональными запорами. Частота и консистенция стула улуч- на первом году жизни носят функциональный характер, но 
+шились в обеих группах, но сильнее всего – в группах, где дети это состояние не должно оставаться без внимания педиатра 
+получали лактулозу плюс пробиотик [20]. Russo и соавт. изучали и гастроэнтеролога. Информирование родителей об этапах 
+влияние полиэтиленгликоля (ПЭГ) 4000 и комбинации трех овладения детей туалетными навыками и возможностях дие-
+бифидобактерий по сравнению с использованием только ПЭГ тической коррекции часто оказывает положительное действие 
+4000 у 55 детей с запорами за 8 недель. Частота и консистенция на частоту стула ребенка. 
+стула улучшились в обеих группах по сравнению с исходным 
+уровнем, но без существенных различий между группами [21]. КОНФЛИКТ ИНТЕРЕСОВ. Авторы статьи подтвердили отсутствие 
+
+Исследований роли пребиотиков в коррекции функциональ- конфликта интересов, о котором необходимо сообщить. 
+ных запоров у детей не так много. В нескольких из них изучалось CONFLICT OF INTERESTS. Not declared.
+влияние пребиотиков на функционирование кишечника здоро-
+вых младенцев, находящихся на искусственном вскармливании Литература/References
+[22, 23]. Выяснилось, что получавшие пребиотические смеси 1. V andenplas Y., Hauser B., Salvatore S. Functional Gastrointestinal Disorders 
+с галакто- и фруктоолигосахаридами имели более мягкий стул. in Infancy: Impact on the Health of the Infant and Family // Pediatr. 
+
+В Бразильском исследовании оценивалось влияние галак- Gastroenterol. Nutr. 2019; 22: 207.
+тоолигосахаридных пробиотиков у детей и подростков от 2.  Нofman D., Kudla U., Miqdady M., et al. Faecal Microbiota in Infants and Young 
+4 до 16 лет с запорами. Отмечался более мягкий стул, увеличе- Children with Functional Gastrointestinal Disorders: A Systematic Review // 
+ние его частоты и меньший дискомфорт при дефекации в пери- Nutrients. 2022; 14: 974. https://doi.org/10.3390/nu14050974.
+од приема пребиотиков [24]. В одном из последних клинических 3.  Zeevenhooven J., Koppen I. J. N., Benninga M. A. The New Rome IV Criteria 
+исследований было обнаружено, что употребление фрукто- for Functional Gastrointestinal Disorders in Infants and Toddlers // Pediatr. 
+олигосахаридов приводило к уменьшению запоров у младен- Gastroenterol. Hepatol. Nutr. 2017; 20: 1-13. 
+цев: увеличивалась частота более мягкого стула и уменьша- 4.  Бельмер С. В., Волынец Г. В., Горелов А. В., Гурова М. М., Звягин А. А., 
+
+лась частота дефекации с напряжением и/или затруднением, Корниенко Е. А., Новикова В. П., Печкуров Д. В., Приворотский В. Ф., 
+
+возрастало количество бифидобактерий у детей с запорами Тяжева А. А., Файзуллина Р. А., Хавкин А. И., Эрдес С. И. Функциональные 
+
+по сравнению с контрольной группой [25]. расстройства органов пищеварения у детей. Рекомендации Общества 
+
+Еще в одном двойном слепом рандомизированном контро- детских гастроэнтерологов, гепатологов и нутрициологов. Часть 1 // 
+
+лируемом клиническом исследовании оценивалась эффектив- Рос. вестн. перинатол. и педиатр. 2020; 65 (4): 150-161. 
+
+ность применения пробиотика L. reuteri DSM 17938 и пребиотика DOI: 10.21508/1027-4065-2020-65-4-150-161. 
+
+инулина для лечения запоров у детей с детским церебральным [Bel'mer S. V., Volynets G. V., Gorelov A. V., Gurova M. M., Zvyagin A. A., 
+
+параличом. Частота дефекации у детей, получавших инулин, Korniyenko Ye. A., Novikova V. P., Pechkurov D. V., Privorotskiy V. F., Tyazheva A. A., 
+
+была несколько выше, чем у получавших пробиотик [26]. Fayzullina R. A., Khavkin A. I., Erdes S. I. Functional disorders of the 
+
+Еще в одном исследовании было доказано, что смеси, обо- digestive system in children. Recommendations of the Society of Pediatric 
+
+гащенные магнием, эффективны для коррекции запоров Gastroenterologists, Hepatologists and Nutritionists. Part 1 // Ros. vestn. perinatol. 
+i pediatr. 2020; 65 (4): 150-161. DOI: 10.21508/1027-4065-2020-65-4-150-161.]
+
+у младенцев за счет увеличения частоты и мягкости стула [25]. 5.  Пахомовская Н. Л., Татьянина О. Ф., Лазарева Т. Ю. Функциональные 
+Механизм действия таких соединений, как цитрат магния, запоры у детей // Медицинский совет. 2022; 16 (1): 106-113. https://doi.
+обусловлен секрецией воды в просвет кишечника и повы- org/10.21518/2079-701X-2022-16-1-106-113. 
+шением мягкости стула. В этом исследовании отмечено, что [Pakhomovskaya N. L., Tatianina O. F., Lazareva T. Yu. Functional constipation 
+более мягкий стул и повышение частоты дефекации были in children // Meditsinskiy Sovet. 2022; 16 (1): 106–113. (In Russ.) 
+напрямую связаны с уменьшением случаев болезненной https://doi.org/10.21518/2079-701X-2022-16-1-106-113.]
+дефекации и уменьшением времени плача [27]. 6.  Turco R., Miele E., Russo M., et al. Early-life factors associated with pediatric 
+
+Таким образом, диетическая коррекция и профилактика functional constipation // J Pediatr Gastroenterol Nutr. 2014; 58 (3): 307-312. 
+запоров у младенцев и детей раннего возраста может включать 7.  Геппе Н. А., Мелешкина А. В., Яблокова Е. А., Чебышева С. Н. Достоинства 
+смеси и/или продукты, обогащенные про- и пребиотика- адаптированных смесей на основе козьего молока при функциональных 
+ми. На сегодняшний день существуют продукты детского нарушениях желудочно-кишечного тракта у детей раннего возраста на 
+питания промышленного производства, обогащенные пре- искусственном вскармливании // Лечащий Врач. 2020; 3: 43-49. 
+биотиками. В качестве примера можно привести линейку DOI: 10.26295/OS.2020.72.94.007.
+
+LECHASCHI VRACH, VOL. 26, № 1, 2023, https://journal.lvrach.ru/ 13
+
+
+
+Педиатрия
+
+[Advantages of adapted goat milk-based formulas for functional disorders of 27.  Benninga M. A. MENA Infant Constipation Study Group; Vandenplas Y. 
+the gastrointestinal tract in young children with artificial feeding Geppe N. A., Magnesium-rich formula for functional constipation in infants: A randomized 
+Meleshkina A. V., Yablokova E. A., Chebysheva S. N. // Lechaschi Vrach. comparator-controlled study // Pediatr. Gastroenterol. Nutr. 2019; 22: 270-281.
+2020; 3: 43-49. DOI: 10.26295/OS.2020.72.94.007.] 28.  Крутихина С. Б., Яблокова Е. А., Галстян Л. А., Горелов А. В. Роль пребио-
+
+8.  Walter A. W., Hovenkamp A., Devanarayana N. M., et al. Functional constipa- тиков в формировании микробиома у детей первого года жизни // 
+
+tion in infancy and early childhood: epidemiology, risk factors, and healthcare Фарматека. 2022; 2 (29): 38-41. DOI: https://dx.doi.org/10.18565/
+pharmateca.2022.2.38-41. 
+
+consultation // BMC Pediatr. 2019; 19: 285. https://doi.org/10.1186/s12887- [Krutikhina S. B., Yablokova E. A., Galstyan L. A., Gorelov A. V. The role 
+019-1652-y. of prebiotics in the formation of the microbiome in children of the first 
+
+9.  Miceli Sopo S., Arena R., Greco M., Bergamini M., Monaco S. Constipation and year of life // Farmateka. 2022; 2 (29): 38-41. (In Russ.). DOI: 10.18565/
+cow's milk allergy: a review of the literature // Int Arch Allergy Immunol. pharmateca.2022.2.38-41.]
+2014; 164 (1): 40-45.
+
+10.  Rajindrajith S., Devanarayana N. M., Lakmini C., et al. Association between Сведения об авторах: 
+child maltreatment and constipation: a school-based survey using rome Крутихина Светлана Борисовна, к.м.н., ассистент кафедры детских 
+III criteria // J Pediatr Gastroenterol Nutr. 2014; 58 (4): 486-490. болезней Клинического института детского здоровья имени 
+
+11.  Н. Ф. Филатова Федерального государственного автономного обра-
+Benninga M. A., Nurko S., Faure C., St James Roberts I., Schechter N. L., 
+
+зовательного учреждения высшего образования Первый Московский 
+Nurko S. Childhood Functional Gastrointestinal Disorders: Neonate/ государственный медицинский университет имени И. М. Сеченова 
+Toddler // Gastroenterology. 2016;S0016-5085(16)00182-7. Министерства здравоохранения Российской Федерации; 119991, 
+https://doi. org/10.1053/j.gastro.2016.02.016. Россия, Москва, ул. Трубецкая, 8/2; svetulkakru@gmail.com
+
+12.  Jeremy Meng Dao Hо, Choon How How. Chronic constipation in infants and Геппе Наталья Анатольевна, д.м.н., профессор, заведующая кафед-
+children // Singapore Med J. 2020; 61 (2): 63-68 DOI: https://doi.org/10.11622/ рой детских болезней Клинического института детского здоровья 
+smedj.2020014. имени Н. Ф. Филатова Федерального государственного автоном-
+
+13.  Banaszkiewicz A., Szajewska H. Ineffectiveness of Lactobacillus GG as an ного образовательного учреждения высшего образования Первый 
+adjunct to lactulose for the treatment of constiopation in children: A double- Московский государственный медицинский университет имени 
+blind placebo-controlled randomized trial // J. Pediatr. 2005; 146: 364-396. И. М. Сеченова Министерства здравоохранения Российской 
+
+14.  Bu L. N., Chang M. H., Ni Y. H., et al. Lactobacillus casei rhamnosus Lcr 35 Федерации; 119991, Россия, Москва, ул. Трубецкая, 8/2; geppe@mail.ru 
+in children with chronic constipation // Pediatr. Int. 2007; 49: 485-490. Яблокова Екатерина Александровна, к.м.н., доцент кафедры дет-
+
+ских болезней Клинического института детского здоровья имени 
+15.  Wojtyniak K., Horvath A., Dziechciarz P., Szajewska H. Lactobacillus casei Н. Ф. Филатова Федерального государственного автономного обра-
+
+rhamnosus Lcr35 in the management of functional constipation in children: зовательного учреждения высшего образования Первый Московский 
+A randomized trial // J. Pediatr. 2017; 184: 101-105. государственный медицинский университет имени И. М. Сеченова 
+
+16.  Wegner A., Banaszkiewicz A., Kierkus J., et al. The effectiveness of Министерства здравоохранения Российской Федерации; 
+Lactobacillus reuteri DSM 17938 as an adjunct to macrogol in the treatment 119991, Россия, Москва, ул. Трубецкая, 8/2; catcom@list.ru
+of functional constipation in children // Clin. Res. Hepatol. Gastroenterol. Кудряшова Мария Алексеевна, к.м.н., ассистент кафедры детских 
+2018; 42: 494-500. болезней Клинического института детского здоровья имени 
+
+17.  Coccorullo P., Strisciuglio C., Martinelli M., et al. Lactobacillus reuteri (17938) Н. Ф. Филатова Федерального государственного автономного 
+in infants with functional chronic constipation: A double-blind, randomized, образовательного учреждения высшего образования Первый 
+placebo-controlled study // J. Pediatr. 2010; 157: 598-602. Московский государственный медицинский университет имени 
+
+И. М. Сеченова Министерства здравоохранения Российской 
+18.  Guerra P. V. P., Lima L. N., Souza T. C., et al. Periatric functional constipation Федерации; 119991, Россия, Москва, ул. Трубецкая, 8/2; 
+
+treatment with Bifidobacterium-containing yogurt: A crossover, double-blind, xvosel@yandex.ru
+controlled trial // World J. Gastroenterol. 2011; 17: 3916-3921. Information about the authors: 
+
+19.  Tabbers M. M., Chmielewska A., Roseboom M. G., et al. Fermented milk con- Svetlana B. Krutikhina, MD, Assistant of the Department of Children's 
+taining Bifidobacterium lactis DN-173 010 in childhood constipation: A rand- Diseases at the Clinical Institute of Children's Health named after 
+omized, double-blind, controlled trial // Pediatrics. 2011; 127: 1392-1399. N. F. Filatov of the Federal State Autonomous Educational Institution 
+
+20.  Sadeghzadeh M., Rabieefar A., Khoshnevisasl P., et al. The effect of probiotics on of Higher Education I. M. Sechenov First Moscow State Medical University 
+childhood constipation: A randomized controlled double blind clinical trial // of the Ministry of Health of the Russian Federation; 19, b. 1 Bolshaya 
+Int. J. Pediatr. 2014; 2014: 937212. Pirogovskaya str., Moscow, 119435, Russia; svetulkakru@gmail.com
+
+21.  Russo M., Giugliano F. P., Quitadamo P., et al. Efficacy of a mixture of probiotic Nataliya A. Geppe, Dr. of Sci. (Med.), Professor, Head of the Department 
+agents as complimentary therapy for chronic functional constipation in child- of Children's Diseases at the Clinical Institute of Children's Health named 
+
+after N. F. Filatov of the Federal State Autonomous Educational Institution 
+hood // Ital. J. Pediatr. 2017; 43: 24. of Higher Education I. M. Sechenov First Moscow State Medical University 
+
+22.  Costalos C., Kapiki A., Apostolou M., Papathoma E. The effect of a prebiotic sup- of the Ministry of Health of the Russian Federation; 8/2 Trubetskaya str., 
+plemented formula on growth and stool microbiology of term infants // Early Moscow, 119991, Russiaa; geppe@mail.ru 
+Hum. Dev. 2008; 84: 45-49. Ekaterina A. Yablokova, MD, Associate Professor of the Department 
+
+23.  Bisceglia M., Indrio F., Riezzo G., et al. The effect of prebiotics in the manage- of Children's Diseases at the Clinical Institute of Children's Health named 
+ment of neonatal hyperbilirubinaemia // Acta Paediatr. 2009; 98: 1579-1581. after N. F. Filatov of the Federal State Autonomous Educational Institution 
+
+24. V eereman-Wauters G., Staelens S., Van de Broek H., et al. Physiological and of Higher Education I. M. Sechenov First Moscow State Medical University 
+bifidogenic effects of prebiotic supplements in infant formulae // J. Pediatr. of the Ministry of Health of the Russian Federation; 8/2 Trubetskaya str., 
+Gastroenterol. Nutr. 2011; 52: 763-771. Moscow, 119991, Russia; catcom@list.ru
+
+25. S ouza D. D. S., Tahan S., Weber T. K., et al. Randomized, Double-Blind, Mariya A. Kudryashova, MD, Assistant of the Department of Children's 
+Placebo-Controlled Parallel Clinical Trial Assessing the Effect Diseases at the Clinical Institute of Children's Health named after 
+
+N. F. Filatov of the Federal State Autonomous Educational Institution 
+of Fructooligosaccharides in Infants with Constipation // Nutrients. of Higher Education I. M. Sechenov First Moscow State Medical University 
+2018; 10: 1602. ttps://doi.org/10.3390/nu10111602. of the Ministry of Health of the Russian Federation; 8/2 Trubetskaya str., 
+
+26.  García Contreras A. A., Vásquez Garibay E. M., Sánchez Ramírez C. A., et al. Moscow, 119991, Russia; xvosel@yandex.ru
+Lactobacillus reuteri DSM 17938 and Agave Inulin in Children with Cerebral Palsy 
+and Chronic Constipation: A Double-Blind Randomized Placebo Controlled Поступила/Received 18.11.2022
+Clinical Trial // Nutrients. 2020; 12: 2971. https://doi.org/10.3390/nu12102971. Принята в печать/Accepted 02.12.2022
+
+14 ЛЕЧАЩИЙ ВРАЧ, ТОМ 26, № 1, 2023, https://journal.lvrach.ru/

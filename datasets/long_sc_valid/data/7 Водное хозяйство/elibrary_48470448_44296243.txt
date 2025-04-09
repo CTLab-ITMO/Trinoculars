@@ -1,0 +1,935 @@
+﻿Мелиорация и гидротехника. 2022. Т. 12, № 2. С. 177–191. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 2. P. 177–191. 
+
+ 
+
+ГИДРОТЕХНИЧЕСКОЕ СТРОИТЕЛЬСТВО 
+
+Научная статья 
+УДК 626.823.91 
+doi: 10.31774/2712-9357-2022-12-2-177-191 
+
+Конструктивно-технологические решения для создания и 
+восстановления покрытий оросительных каналов  
+
+Олег Андреевич Баев1, Виктория Федоровна Талалаева2 
+1, 2Российский научно-исследовательский институт проблем мелиорации, Новочеркасск,  
+Российская Федерация 
+1Oleg-Baev1@ya.ru, https://orcid.org/0000-0003-0142-4270 
+2vika-silchenko@mail.ru, https://orcid.org/0000-0002-2541-204X 
+
+Аннотация. Цель: разработка конструктивно-технических решений для созда-
+ния и восстановления разрушенных противофильтрационных бетонных облицовок 
+оросительных каналов с применением современных строительных материалов. Мате-
+риалы и методы. Для создания и восстановления покрытий оросительных каналов 
+применялись разработки усовершенствованных конструктивно-технических и техноло-
+гических решений с использованием современных материалов на основе геокомпози-
+тов и полимеров, которые позволили наиболее эффективно и быстро производить вос-
+становление защитных покрытий каналов и других водопроводящих гидротехнических 
+сооружений. Для определения удельного фильтрационного расхода через повреждения 
+применялась методика расчета водопроницаемости противофильтрационной бетонной 
+облицовки с учетом кольматации повреждений. Результаты. Разработанные на уровне 
+заявок и патентов на изобретения технические и технологические решения отличаются 
+повышенной эффективностью и надежностью, которые заключаются в устранении 
+фильтрационных потерь и фильтрационных деформаций, при этом увеличивается дол-
+говечность ремонтируемого участка за счет повышенных физико-механических харак-
+теристик применяемых в составе конструкций материалов. Представленная методика 
+расчета водопроницаемости противофильтрационной бетонной облицовки с учетом 
+кольматации повреждений позволила определить удельный фильтрационный расход 
+через повреждение, равный 0,112 м кв. в сут. На основании выполненного расчета воз-
+можно принимать решение о целесообразности реконструкции тех или иных повре-
+ждений бетонных облицовок каналов, в т. ч. при их кольматации. Выводы: примене-
+ние разработанных конструктивно-технических решений для ремонта повреждений об-
+лицовок оросительных каналов позволит повысить водонепроницаемость противо-
+фильтрационного покрытия, увеличить надежность и предотвратить образование под-
+плитных пустот под защитными бетонными и железобетонными элементами.  
+
+Ключевые слова: оросительный канал, противофильтрационная облицовка, филь-
+трация, геокомпозитный материал, полимер 
+
+Для цитирования: Баев О. А., Талалаева В. Ф. Конструктивно-технологические 
+решения для создания и восстановления покрытий оросительных каналов // Мелиора-
+ция и гидротехника. 2022. Т. 12, № 2. С. 177–191. https://doi.org/10.31774/2712-9357-
+2022-12-2-177-191. 
+
+HYDRAULIC ENGINEERING 
+
+Original article 
+
+_______________________________ 
+© Баев О. А., Талалаева В. Ф., 2022 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 2. С. 177–191. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 2. P. 177–191. 
+
+ 
+
+Design and technological solutions  
+for irrigation canal coating formation and resurfacing 
+
+Oleg A. Baev1, Viktoria F. Talalaeva2 
+1, 2Russian Scientific Research Institute of Land Improvement Problems, Novocherkassk,  
+Russian Federation 
+1Oleg-Baev1@ya.ru, https://orcid.org/0000-0003-0142-4270 
+2vika-silchenko@mail.ru, https://orcid.org/0000-0002-2541-204X 
+
+Abstract. Purpose: to develop design and technological solutions for the creation and 
+restoration of destroyed seepage control concrete linings of irrigation canals using modern 
+construction materials. Materials and methods: to create and restore the irrigation canal 
+coatings, the projects of improved structural, process and technical solutions were used with 
+modern materials based on geocomposites and polymers, which made it possible to restore the 
+protective coating of canals and other water-conducting hydraulic structures most effectively 
+and quickly. To define the specific seepage discharge through damage, a calculation method 
+of water permeability of an impervious concrete coating was used, taking into account damage 
+colmatation. Results. Process and technical solutions developed at the level of applications 
+and patents for inventions are characterized by increased efficiency and reliability, which con-
+sist in eliminating filtration losses and deformations, while increasing the repaired area dura-
+bility due to the increased physical and mechanical features of the composition material de-
+signs. The proposed calculation methodology for water permeability of an impervious con-
+crete coating, taking into account the damage colmatation, made it possible to determine the 
+specific seepage discharge through damage equal to 0.112 sq. m per day. On the basis of the 
+performed calculation, it is possible to make a decision on the feasibility of reconstructing cer-
+tain damage to the canal concrete lining, both during their clogging. Conclusions: the use of 
+the developed design and technological solutions for irrigation canal lining damage repairing 
+will increase the seepage control lining imperviousity, increase reliability and prevent the 
+formation of underfloor spaces under protective concrete and reinforced concrete elements. 
+
+Keywords: irrigation canal, seepage control lining, filtration, geocomposite material, 
+polymer 
+
+For citation: Baev O. A., Talalaeva V. F. Design and technological solutions for irri-
+gation canal coating formation and resurfacing. Land Reclamation and Hydraulic Engineer-
+ing. 2022;12(2):177–191. (In Russ.). https://doi.org/10.31774/2712-9357-2022-12-2-177-191. 
+
+Введение. Эксплуатация каналов гидромелиоративного назначения 
+
+требует длительного срока службы защитных и противофильтрационных 
+
+покрытий, как правило, составляющего срок эксплуатации гидротехниче-
+
+ских сооружений мелиоративного назначения не менее 50–60 лет [1].  
+
+В результате воздействия водного потока на оросительных каналах проис-
+
+ходит разгерметизация деформационных швов и стыков на бетонных и 
+
+железобетонных облицовках, оголение арматуры, растрескивание бетона, 
+
+образование пустот в подплитном пространстве, полное разрушение от-
+
+2 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 2. С. 177–191. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 2. P. 177–191. 
+
+ 
+
+дельных участков (карт) плит и другие разрушения, негативно влияющие 
+
+на эксплуатацию всей оросительной системы. 
+
+Одним из способов снижения фильтрационных потерь воды на оро-
+
+сительных каналах является применение высокоэффективных противо-
+
+фильтрационных мероприятий и современных строительных материалов 
+
+(например, геосинтетических и геокомпозитных) [2, 3]. Исследованиями, 
+
+посвященными применению усовершенствованных противофильтрацион-
+
+ных конструкций из геокомпозитов на каналах, занимались отечественные 
+
+ученые и специалисты: Ю. М. Косиченко, А. В. Ищенко, С. В. Сольский, 
+
+О. А. Баев, Е. О. Скляренко, М. А. Бандурин, Н. В. Ханов, Ф. К. Абдразаков, 
+
+А. А. Рукавишников и многие другие [1–10]. 
+
+За рубежом технологии устройства противофильтрационных покры-
+
+тий каналов, а также проблемы модернизации, возведения и эксплуатации 
+
+облицовок на сооружениях оросительных систем изучены такими учены-
+
+ми, как K. Ding, L. Gao [11], H. Plusquellec [12], X. Han, X. Wang [13], 
+
+H. F. Abd-Elhamid [14] и др. [15–18]. 
+
+По результатам анализа отечественных и зарубежных работ было 
+
+выявлено, что существующие на сегодняшний день технологии рекон-
+
+струкции и восстановления облицовок оросительных каналов являются 
+
+сложными, экономически не выгодными, а также требующими большого 
+
+количества специализированной техники и оборудования. Поэтому нема-
+
+ловажным остается вопрос разработки экономически выгодных и эффек-
+
+тивных конструктивно-технологических решений длительно эксплуатиру-
+
+емых бетонных и железобетонных облицовок каналов.  
+
+Традиционный ранее применяемый бетон, как правило, недолгове-
+
+чен (срок службы на облицовках каналов, по различным данным, состав-
+
+ляет до 25–28 лет), подвержен растрескиванию, технологии создания от-
+
+личаются высокой трудоемкостью выполнения работ. Такие геосинтетиче-
+
+3 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 2. С. 177–191. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 2. P. 177–191. 
+
+ 
+
+ские материалы, как геомембраны и геокомпозиты на основе бентонита и 
+
+бетона, являются высокоэффективной противофильтрационной защитой. 
+
+Но, несмотря на это, такие материалы имеют ряд недостатков. Например, 
+
+геомембраны обладают низкой прочностью, подвержены проколам как 
+
+в процессе укладки, так и в период эксплуатации (корнями растений, за-
+
+щитно-пригрузочным слоем). Помимо этого, применение геомембран тре-
+
+бует тщательной подготовки основания перед их укладкой, что значитель-
+
+но повышает проектную стоимость работ. Основным недостатком бенто-
+
+нитовых матов является необходимость в устройстве довольно мощных 
+
+пригрузочных слоев для их гидратации, а также низкая стойкость к воз-
+
+действию циклов заморозки-оттаивания.  
+
+В связи с этим целью данного исследования является разработка кон-
+
+структивно-технических решений для создания и восстановления длительно 
+
+эксплуатируемых бетонных облицовок оросительных каналов с применени-
+
+ем современных строительных материалов. 
+
+Материалы и методы. На сегодняшний день известно большое ко-
+
+личество способов и технологий восстановления бетонных покрытий оро-
+
+сительных каналов. Для этого применяются различные композитные мате-
+
+риалы, некоторые из них рассмотрены нами ниже (рисунок 1). 
+
+Одной из наиболее серьезных проблем функционирующих ороси-
+
+тельных и магистральных каналов во всем мире являются фильтрацион-
+
+ные потери, которые составляют значительную часть от общего объема 
+
+воды. Так, например, в Ираке большинство каналов мелиоративного 
+
+назначения находятся в бетонной облицовке и подвержены фильтрации 
+
+через стыки облицовочных плит [14]. Целью исследований авторов A. Al-
+
+adili, O. A. Al-ameer, A. Al-sharbati [15] было уменьшение или предотвра-
+
+щение фильтрации из открытых каналов за счет использования новых аль-
+
+тернативных традиционным материалов для заполнения швов.  
+
+4 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 2. С. 177–191. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 2. P. 177–191. 
+
+ 
+
+ 
+Рисунок 1 – Полимерные композитные материалы,  
+
+применяемые для ремонта бетонных облицовок каналов 
+
+Picture 1 – Polymer composites used for the concrete canal lining repairing 
+
+Геосинтетические цементирующие композитные маты (ГЦКМ), разра-
+
+ботанные в 2005 г., являются относительно новой технологией материалов 
+
+в мире геосинтетики и были признаны высокоэффективными для быстрого 
+
+строительства, в т. ч. объектов мелиоративного назначения. Физические 
+
+свойства материала были проверены авторами W. Crawford, M. Kujawsk [17] 
+
+путем проведения лабораторных испытаний. В рамках процесса оценки эф-
+
+фективности материал был применен на участке канала площадью около 
+
+4000 м2. Расчетный срок службы превышает 50 лет, материал прост в мон-
+
+таже и эксплуатации, а экономия затрат по сравнению с возведением бе-
+
+тонной облицовки составляет порядка 24 % [18].  
+
+Образование трещин в бетонных покрытиях, как правило, происхо-
+
+дит в результате изменения наружных и внутренних нагрузок вследствие 
+
+несоблюдения технологий эксплуатации бетонных покрытий, неверного 
+
+соотношения при приготовлении раствора и нарушения способов его 
+
+укладки, а также старения покрытия под воздействием внешних и темпе-
+
+ратурных факторов. Для устранения трещин бетонных облицовок приме-
+
+няется метод кольматации с использованием различных полимерных до-
+
+5 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 2. С. 177–191. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 2. P. 177–191. 
+
+ 
+
+бавок. Данный метод заключается в понижении капиллярного влагонасы-
+
+щения бетонных поверхностей устройством кольматации порового про-
+
+странства бетона материалами, проницаемость которых значительно 
+
+меньше бетона. Влекомые водным потоком наносы заполняют поврежде-
+
+ния, трещины, стыки и деформационные швы бетонных облицовок, тем 
+
+самым уменьшаются потери воды на фильтрацию. Кольматация ороси-
+
+тельных каналов является «простым» и в то же время достаточно эффек-
+
+тивным противофильтрационным мероприятием, снижающим потери во-
+
+ды на фильтрацию в 3–6 раз [1]. 
+
+В работе X. Han, X. Wang, Y. Zhu, J. Huang [13] были обследованы 
+
+трещины и отверстия в различных облицовочных покрытиях, а также про-
+
+ведена оценка фильтрационных потерь. Результаты показали, что трещины 
+
+в стыках двух сборных бетонных плит и отверстия в геомембране являют-
+
+ся причиной увеличения потерь на фильтрацию. Использование новой 
+
+комбинированной облицовки из бетона и геомембраны уменьшает филь-
+
+трацию на 86 % по сравнению с земляным руслом, в то время как через 
+
+3 года эксплуатации фильтрация может быть уменьшена на 68 %. Автора-
+
+ми X. Han, X. Wang, Y. Zhu, J. Huang [13] установлена статистическая 
+
+связь между уменьшением фильтрации и временем ремонта канала, что 
+
+позволило оценить потери воды на фильтрацию из облицованных каналов. 
+
+Согласно проведенным авторами расчетам (без учета влияния срока служ-
+
+бы облицовки) потери на фильтрацию недооцениваются на 58 %, а эффек-
+
+тивность использования воды в канале переоценивается. 
+
+Результаты. Для проведения ремонта повреждений бетонных обли-
+
+цовок (локальных крупных разрушений и деформационных швов) каналов 
+
+и других водопроводящих гидротехнических сооружений, выполненных 
+
+с бетонными и железобетонными покрытиями, разработан способ ремонта 
+
+повреждений облицовок каналов с применением бетононаполняемых ма-
+
+6 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 2. С. 177–191. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 2. P. 177–191. 
+
+ 
+
+териалов (по заявке на изобретение № 2021114403). Конструктивная схема 
+
+проиллюстрирована на рисунке 2. 
+
+ 
+УВ – уровень воды; b  – ширина повреждения; b  – толщина бетонной 
+
+повр. обл.
+
+облицовки; b  – толщина бетонного полотна; 1 – бетонное полотно; 2 – бетонная 
+б.п.
+
+облицовка; 3 – засыпка; 4 – саморез; 5 – слой полимерного герметика; 6 – основание 
+
+УВ – water table; b  – damage width; b  – concrete coating thickness; b  – concrete 
+повр. обл. б.п.
+
+sheet thickness; 1 – concrete cloth; 2 – concrete lining; 3 – backfill; 4 – self-tapping screw; 
+5 – sealant polymer layer; 6 – base 
+
+Рисунок 2 – Способ ремонта крупных повреждений  
+бетонной облицовки по дну (узел А) и на откосе (узел Б) 
+
+Figure 2 – Method of repairing concrete lining major damages 
+along the bottom (node A) and on the slope (node B) 
+
+Способ включает подготовку дефектного участка, которая заключает-
+
+ся в расчистке, удалении остатков разрушенного бетона и пыли. Далее осу-
+
+ществляется нанесение связующего материала, образующего адгезионный 
+
+слой, заполнение дефектного участка строительным материалом (засыпка 
+
+из гравия мелкой фракции или песка), его разравнивание и уплотнение. 
+
+Для ремонта крупных повреждений на бетонных облицовках каналов при-
+
+7 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 2. С. 177–191. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 2. P. 177–191. 
+
+ 
+
+меняется быстровозводимое бетононаполняемое покрытие, устраиваемое 
+
+в виде заплаты поверх дефектного участка и крепящееся к поверхности про-
+
+тивофильтрационной бетонной или железобетонной облицовки с помощью 
+
+саморезов, анкеров или других крепежных элементов. Для обеспечения 
+
+герметизации соединения быстровозводимого покрытия с бетонной обли-
+
+цовкой устраивается адгезионный слой из полимерного герметика. Предот-
+
+вращение провисания заплаты достигается укладкой плоской георешетки 
+
+на поверхность бетонной облицовки. Данное решение отличается простотой 
+
+монтажа, низкими трудозатратами, а также отсутствием необходимости 
+
+применения крупногабаритной специализированной техники.  
+
+Для ремонта деформационных швов и стыков бетонных и железобе-
+
+тонных покрытий разработано конструктивно-технологическое решение 
+
+для восстановления бетонных облицовок с применением фибробетона  
+
+и других композитных материалов (рисунок 3). 
+
+а) б) 
+
+  
+а – с использованием полиуретанового б – с использованием эластичной гидро-
+
+герметика / a – using polyurethane sealant изоляции на цементной основе / b – using 
+elastic cement-based waterproofing 
+
+1 – бетонная облицовка; 2 – деформационный шов;  
+3 – полиуретановый герметик; 4 – основание; 5 – геополимерный состав;  
+
+6 – фибробетон; 7 – эластичная гидроизоляция на цементной основе 
+
+1 – concrete lining; 2 – deformed joint; 3 – polyurethane sealant; 4 – base; 5 – geopolymer 
+composition; 6 – fiber-reinforced concrete; 7 – elastic cement-based waterproofing  
+
+Рисунок 3 – Конструктивно-технологические решения  
+по ремонту деформационных швов композитами 
+
+Figure 3 – Design and technological solutions  
+for repairing the deformed joints with composites 
+
+8 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 2. С. 177–191. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 2. P. 177–191. 
+
+ 
+
+Данное конструктивно-техническое решение, направленное на вос-
+
+становление бетонной облицовки оросительного канала, включает запол-
+
+нение пустот разрушенного деформационного шва фибробетоном и нане-
+
+сение на застывшую поверхность гидроизоляционного материала. При ре-
+
+монте деформационного шва бетонной облицовки необходима подготовка 
+
+ремонтируемого участка, которая заключается в очистке от мусора, удале-
+
+нии рыхлого бетона в зоне повреждения, штроблении по периметру де-
+
+формируемого участка и очистке от пыли. 
+
+Вариант а включает заполнение разрушенного подплитного про-
+
+странства геополимерным составом, стабилизирующим естественное ос-
+
+нование и препятствующим дальнейшей просадке грунта. После застыва-
+
+ния деформационный шов заполняется смесью фибробетона, поверх кото-
+
+рого наносится полиуретановый герметик. Вариант б включает заполнение 
+
+деформационного шва фибробетонной смесью, на которую после застыва-
+
+ния наносится эластичная гидроизоляция на цементной основе. 
+
+Такие технологические решения отличаются повышенной эффек-
+
+тивностью и надежностью, которые заключаются в устранении фильтра-
+
+ционных потерь, при этом увеличивается долговечность ремонтируемого 
+
+участка за счет повышенных физико-механических характеристик фиб-
+
+робетона и других композитных материалов, используемых в составе по-
+
+крытий. Помимо этого, покрытия из быстровозводимого бетононаполняе-
+
+мого материала обладают долговечностью и водонепроницаемостью. 
+
+Рассмотрим методику расчета водопроницаемости противофильтра-
+
+ционной бетонной облицовки с учетом кольматации повреждений, с по-
+
+мощью которой можно определять удельный фильтрационный расход  
+
+через повреждение, осредненный коэффициент фильтрации и градиент 
+
+напора на проницаемых границах. 
+
+Исходные данные для расчета: глубина воды в канале h0 , м; толщина 
+
+9 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 2. С. 177–191. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 2. P. 177–191. 
+
+ 
+
+повреждения повр, м; длина повреждения lповр, м; толщина облицовки 
+
+0 , м; коэффициент фильтрации закольматированного слоя в повреждении 
+
+облицовки kкол, м/сут; среднестатистическая длина повреждения облицов-
+
+ки Lповр , м; длина канала Lк , м; ширина канала Bк , м; ширина поврежде-
+
+ния m , м. 
+
+Пьезометрический напор Н , м, действующий на бетонную облицов-
+
+ку, определим по формуле [4]: 
+
+H  h0  0 . 
+
+Подставив значение пьезометрического напора в формулу удельного 
+
+расхода через повреждение облицовки, получим, м2/сут: 
+
+qф  2  k 
+кол  H  k2 , 
+
+где k2  – отношение эллиптических интегралов. 
+
+Определим фильтрационный расход через закольматированное по-
+
+вреждение бетонной облицовки из выражения, м2/сут: 
+
+  k h   
+ qф  кол 0 0 . (1) 
+
+      
+ exp 0  
+  
+
+ повр
+ln  
+ 
+  m 
+
+sin
+   
+
+  2  
+   повр  
+
+На основании подставленных исходных данных в известные формулы 
+
+В. П. Недриги и Ю. М. Косиченко получим результаты расчета (таблица 1). 
+
+Далее сравним результаты расчета коэффициента водопроницаемости 
+
+закольматированного повреждения и градиента напора в его основании.  
+
+Вычислим количество повреждений на противофильтрационной  
+
+облицовке, шт.: 
+
+L
+n  к . 
+
+lповр
+
+10 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 2. С. 177–191. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 2. P. 177–191. 
+
+ 
+
+Таблица 1 – Сравнение результатов расчета фильтрационного расхода 
+закольматированного повреждения облицовки 
+
+Table 1 – Comparison of the results of calculating the seepage control  
+of the lining colmated damage  
+
+В м2/сут 
+In m2/day 
+
+Фильтрационный расход через повреждение 
+Формула Формула  Формула Ю. М. Коси- Формула Ю. М. Косиченко 
+
+авторов (1) В. П. Недриги ченко (1980) – точная (1980) – приближенная 
+0,112 0,145 0,208 0,210 
+46,1 33,0 30,2 30,9 
+
+Примечание – В числителе приведены удельные расходы, м2/сут; в знаменате-
+ле – отклонение значений от формулы авторов, %. 
+
+Площадь противофильтрационной облицовки определим по форму-
+
+ле, м2: 
+
+F  B L . 
+0 к к
+
+Найдем осредненный коэффициент фильтрации облицовки с за-
+
+кольматированными повреждениями, см/с: 
+
+2  k
+ кол  0  Lповр  n
+
+kобл  . 
+F0
+
+По результатам расчета можно определять фильтрационные расходы 
+
+через повреждения бетонных и железобетонных облицовок оросительных 
+
+каналов и принимать решение о целесообразности реконструкции тех или 
+
+иных повреждений. 
+
+Выводы 
+
+1 По результатам исследования разработаны новые конструктивно-
+
+технические и технологические решения для ремонта и восстановления 
+
+длительно эксплуатируемых бетонных и железобетонных облицовок оро-
+
+сительных каналов. Применение таких решений позволит обеспечить во-
+
+донепроницаемость противофильтрационных покрытий, повысить надеж-
+
+ность и предотвратить образование подплитных пустот и фильтрационных 
+
+деформаций. Преимущества решений заключаются в возможности ремон-
+
+11 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 2. С. 177–191. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 2. P. 177–191. 
+
+ 
+
+та крупных разрушений бетонных и железобетонных облицовок каналов, 
+
+восстановления деформационных швов, а также более длительной даль-
+
+нейшей эксплуатации сооружений. Прогнозный срок увеличения службы 
+
+составляет от 8 до 12 лет. 
+
+2 Методика расчета водопроницаемости через закольматированные 
+
+повреждения бетонной облицовки оросительного канала позволила опре-
+
+делить фильтрационный расход через противофильтрационные элементы 
+
+бетонных покрытий при наличии в них трещин или иных повреждений. 
+
+Полученные по результатам сравнения значительные отклонения (с фор-
+
+мулами В. П. Недриги и Ю. М. Косиченко) объясняются учетом дополни-
+
+тельных параметров (пьезометрического напора в отверстии экрана и дру-
+
+гих составляющих). 
+
+Список источников  
+
+1. Косиченко Ю. М., Баев О. А. Противофильтрационные покрытия из геосинте-
+тических материалов: монография. Новочеркасск: РосНИИПМ, 2014. 239 с. 
+
+2. Kosichenko Y. M., Baev O. A. Design of impervious coatings with enhanced reliabil-
+ity made from innovative materials // Procedia Engineering. 2016. Vol. 150. P. 1503–1509. 
+DOI: 10.1016/j.proeng.2016.07.096. 
+
+3. Косиченко Ю. М., Угроватова Е. Г., Баев О. А. Обоснование расчетных зави-
+симостей фильтрационных сопротивлений конструкций облицовок каналов // Известия 
+ВНИИГ им. Б. Е. Веденеева. 2015. Т. 278. С. 35–46. 
+
+4. Косиченко Ю. М., Баев О. А., Гарбуз А. Ю. Оценка водопроницаемости бето-
+нопленочной облицовки с закольматированными швами при длительной эксплуатации 
+каналов // Вестник МГСУ. 2016. № 7. С. 114–133. 
+
+5. Сольский С. В., Быковская С. А. Анализ основных причин нарушений проти-
+вофильтрационных элементов из геомембран на гидротехнических сооружениях // 
+Гидротехническое строительство. 2021. № 2. С. 33–40. http:dx.doi.org/10.34831/EP.20 
+21.50.18.003. 
+
+6. Давиденко В. М., Штильман В. Б., Коротких И. Е. Некоторые вопросы ремон-
+та глубоких повреждений бетона с оголением арматуры на железобетонных конструк-
+циях ГТС // Гидротехника. 2021. № 3(64). С. 85–88. 
+
+7. Косиченко Ю. М., Гарбуз А. Ю. Гидравлическая модель водопроницаемости 
+бетонной облицовки при длительной эксплуатации канала // Природообустройство. 
+2018. № 4. С. 30–40. DOI: 10.26897/1997-6011/2018-4-30-40. 
+
+8. Еремеев А. В., Гурьев А. П., Ханов Н. В. Исследование фильтрационных ха-
+рактеристик геомата с заполнителем из щебня и битум-полимера // Природообустрой-
+ство. 2018. № 4. С. 48–53. DOI: 10.26897/1997-6011/2018-4-48-53. 
+
+9. Абдразаков Ф. К., Рукавишников А. А. Исключение непроизводительных по-
+терь водных ресурсов из оросительной сети за счет использования инновационных обли-
+
+12 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 2. С. 177–191. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 2. P. 177–191. 
+
+ 
+
+цовочных материалов // Аграрный научный журнал. 2019. № 10. С. 91–94. https:doi.org/ 
+10.28983/asj.y2019i10pp91-94. 
+
+10. Modelling of the optimal height of the variable edge of a volumetric anti-filtration 
+geotextile coating for restoring failed water supply structures / M. A. Bandurin, I. P. Bandurina, 
+V. V. Vanzha, P. G. Pasnichenko, V. T. Tkachenko // IOP Conference series: Materials Science 
+and Engineering. 2021. Vol. 1064. Art. № 012001. DOI: 10.1088/1757-899X/1064/1/012001. 
+
+11. Ding K., Gao L. Development in canal lining technology in China // Irrigation and 
+Drainage. 2020. Vol. 69. P. 36–40. https:doi.org/10.1002/ird.2438. 
+
+12. Plusquellec H. Overestimation of benefits of canal irrigation projects: decline of 
+performance over time caused by deterioration of concrete canal lining // Irrigation and Drain-
+age. 2019. Vol. 68. P. 383–388. https:doi.org/10.1002/ird.2341. 
+
+13. A fully coupled three-dimensional numerical model for estimating canal seepage 
+with cracks and holes in canal lining damage / X. Han, X. Wang, Y. Zhu, J. Huang // Journal 
+of Hydrology. 2021. Vol. 597. Art. № 126094. DOI: 10.1016/j.jhydrol.2021.126094. 
+
+14. Efficiency of using different lining materials to protect groundwater from leakage 
+of polluted streams / H. F. Abd-Elhamid, G. M. Abdelaal, I. Abd-Elaty, A. M. Said // Journal 
+of Water Supply: Research and Technology – AQUA. 2019. Vol. 68. P. 448–459. DOI: 
+10.2166/AQUA.2019.032. 
+
+15. Al-adili A., Al-ameer O. A., Al-sharbati A. Experimental investigation of joint fill-
+ing materials performance on preventing seepage in lined open concrete canal (laboratory and 
+field model) // KSCE Journal of Civil Engineering. 2016. Vol. 20. P. 1936–1947. DOI: 
+10.1007/s12205-015-0818-x. 
+
+16. Elkamhawy E., Zelenakova M., Abd-Elaty I. Numerical canal seepage loss evalua-
+tion for different lining and crack techniques in arid and semi-arid regions: A case study of the 
+river Nile, Egypt // Water (Switzerland). 2021. Vol. 13. Art. № 3135. https:doi.org/10.3390/ 
+w13213135. 
+
+17. Crawford W., Kujawsk M. Geosynthetic cementitious composite mats – Essential 
+characteristics and properties // 17th European Conference on Soil Mechanics and Geotech-
+nical Engineering. 2019, Sept. Art. № 167797. 
+
+18. Applications of geosynthetics to irrigation, drainage and agriculture / E. Blond, 
+S. Boyle, M. Ferrara, B. Herlin, H. Plusquellec, P. Rimoldi, T. Stark // Irrigation and Drainage. 
+2018. Vol. 68, iss. 1. P. 67–83. https:doi.org/10.1002/ird.2300. 
+
+References 
+
+1. Kosichenko Yu.M., Baev O.A., 2014. Protivofil'tratsionnye pokrytiya iz geosintetich-
+eskikh materialov: monografiya [Impervious Cover of Geosynthetics: monograph]. Novocher-
+kassk, RosNIIPM, 239 p. (In Russian). 
+
+2. Kosichenko Y.M., Baev O.A., 2016. Design of impervious coatings with enhanced re-
+liability made from innovative materials. Procedia Engineering, vol. 150, pp. 1503-1509, DOI: 
+10.1016/j.proeng.2016.07.096.  
+
+3. Kosichenko Yu.M., Ugrovatova E.G., Baev O.A., 2015. Obosnovanie raschetnykh 
+zavisimostei fil'tratsionnykh soprotivlenii konstruktsii oblitsovok kanalov [Substantiation of 
+the calculated dependences of the filtration resistances of canal lining structures]. Izvestiya 
+VNIIG im. B. E. Vedeneeva [Bull. VNIIG named after B.E. Vedeneev], vol. 278, pp. 35-46. 
+(In Russian). 
+
+4. Kosichenko Yu.M., Baev O.A., Garbuz A.Yu., 2016. Otsenka vodopronitsaemosti 
+betonoplenochnoy oblitsovki s zakolmatirovannymi shvami pri dlitelnoy ekspluatatsii kanalov 
+[Water permeability assessment of a concrete-foam lining with colmated seams in case of long-
+
+13 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 2. С. 177–191. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 2. P. 177–191. 
+
+ 
+
+term operation of channels]. Vestnik MGSU [Proceedings of Moscow State University of Civil 
+Engineering], no. 7, pp. 114-133. (In Russian). 
+
+5. Solsky S.V., Bykovskaya S.A., 2021. Analiz osnovnykh prichin narusheniy pro-
+tivofil'tratsionnykh elementov iz geomembran na gidrotekhnicheskikh sooruzheniyakh [Analysis 
+of main causes of structural failures in impermeable geomembrane liners of hydraulic struc-
+tures]. Gidrotekhnicheskoe stroitel'stvo [Hydrotechnical Construction], no. 2, pp. 33-40, 
+http:dx.doi.org/10.34831/EP.2021.50.18.003. (In Russian). 
+
+6. Davidenko V.M., Shtilman V.B., Korotkikh I.E., 2021. Nekotorye voprosy remonta 
+glubokikh povrezhdeniy betona s ogoleniem armatury na zhelezobetonnykh konstruktsiyakh GTS 
+[On some methods of repairing of deep concrete cracks with exposure of reinforcement on rein-
+forced structures of hydraulic engineering structures]. Gidrotekhnika [Hydrotechnics], no. 3(64), 
+pp. 85-88. (In Russian). 
+
+7. Kosichenko Yu.M., Garbuz A.Yu., 2018. Gidravlicheskaya model' vodopronitsaemosti 
+betonnoy oblitsovki pri dlitel'noy ekspluatatsii kanala [Hydraulic model of water permeability of 
+the concrete lining during a continuous operation of the canal]. Prirodoobustroystvo [Environmen-
+tal Engineering], no. 4, pp. 30-40, DOI: 10.26897/1997-6011/2018-4-30-40. (In Russian). 
+
+8. Eremeev A.V., Gur’ev A.P., Khanov N.V., 2018. Issledovanie fil'tratsionnykh kharak-
+teristik geomata s zapolnitelem iz shchebnya i bitum-polimera [Research of filtration character-
+istics of geomat with a crushed stone and bitum-polimer filler]. Prirodoobustroystvo [Environ-
+mental Engineering], no. 4, pp. 48-53, DOI: 10.26897/1997-6011/2018-4-48-53. (In Russian). 
+
+9.Abdrazakov F.K., Rukavishnikov A.A., 2019. Isklyuchenie neproizvoditel'nykh poter' 
+vodnykh resursov iz orositel'noy seti za schet ispol'zovaniya innovatsionnykh oblitsovochnykh 
+materialov [Elimination of unproductive losses of water resources from the irrigation network 
+through the use of innovative facing materials]. Agrarnyy nauchnyy zhurnal [Agrarian Scientific 
+Journal], no. 10, pp. 91-94, https:doi.org/10.28983/asj.y2019i10pp91-94. (In Russian). 
+
+10. Bandurin M.A., Bandurina I.P., Vanzha V.V., Pasnichenko P.G., Tkachenko V.T., 
+2021. Modelling of the optimal height of the variable edge of a volumetric anti-filtration geo-
+textile coating for restoring failed water supply structures. IOP Conference series: Proc. Sci-
+ence and Engineering, vol. 1064, art. № 012001, DOI: 10.1088/1757-899X/1064/1/012001.  
+
+11. Ding K., Gao L., 2020. Development in canal lining technology in China. Irriga-
+tion and Drainage, vol. 69, pp. 36-40, https:doi.org/10.1002/ird.2438.  
+
+12. Plusquellec H., 2019. Overestimation of benefits of canal irrigation projects: de-
+cline of performance over time caused by deterioration of concrete canal lining. Irrigation and 
+Drainage, vol. 68, pp. 383-388, https:doi.org/10.1002/ird.2341.  
+
+13. Han X., Wang X., Zhu Y., Huang J., 2021. A fully coupled three-dimensional nu-
+merical model for estimating canal seepage with cracks and holes in canal lining damage. 
+Journal of Hydrology, vol. 597, art. № 126094, DOI: 10.1016/j.jhydrol.2021.126094.  
+
+14. Abd-Elhamid H.F., Abdelaal G.M., Abd-Elaty I., Said A.M., 2019. Efficiency of 
+using different lining materials to protect groundwater from leakage of polluted streams. Jour-
+nal of Water Supply: Research and Technology – AQUA, vol. 68, pp. 448-459, DOI: 
+10.2166/AQUA.2019.032.  
+
+15. Al-adili A., Al-ameer O.A., Al-sharbati A., 2016. Experimental investigation of 
+joint filling materials performance on preventing seepage in lined open concrete canal (labora-
+tory and field model). KSCE Journal of Civil Engineering, vol. 20, pp. 1936-1947, DOI: 
+10.1007/s12205-015-0818-x.  
+
+16. Elkamhawy E., Zelenakova M., Abd-Elaty I., 2021. Numerical canal seepage loss 
+evaluation for different lining and crack techniques in arid and semi-arid regions: A case study 
+of the river Nile, Egypt. Water (Switzerland), vol. 13, art. no. 3135, https:doi.org/10.3390/ 
+w13213135.  
+
+14 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 2. С. 177–191. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 2. P. 177–191. 
+
+ 
+
+17. Crawford W., Kujawsk M., 2019. Geosynthetic cementitious composite mats – Es-
+sential characteristics and properties. 17th European Conference on Soil Mechanics and Ge-
+otechnical Engineering, Sept., art. no. 167797.  
+
+18. Blond E., Boyle S., Ferrara M., Herlin B., Plusquellec H., Rimoldi P., Stark T., 
+2018. Applications of geosynthetics to irrigation, drainage and agriculture. Irrigation and 
+Drainage, vol. 68, iss. 1, pp. 67-83, https:doi.org/10.1002/ird.2300.  
+
+Информация об авторах 
+О. А. Баев – старший научный сотрудник, кандидат технических наук; 
+В. Ф. Талалаева – младший научный сотрудник, аспирант. 
+
+Information about the authors 
+O. A. Baev – Senior Researcher, Candidate of Technical Sciences; 
+V. F. Talalaeva – Junior Researcher, Postgraduate Student. 
+
+Вклад авторов: все авторы сделали эквивалентный вклад в подготовку публикации. 
+Все авторы в равной степени несут ответственность при обнаружении плагиата, 
+самоплагиата и других нарушений в сфере этики научных публикаций. 
+
+Contribution of the authors: the authors contributed equally to this article.  
+All authors are equally responsible for detecting plagiarism, self-plagiarism and other ethical 
+violations in scientific publications. 
+
+Авторы заявляют об отсутствии конфликта интересов.  
+
+The authors declare no conflicts of interests. 
+
+Статья поступила в редакцию 15.03.2022; одобрена после рецензирования 07.04.2022; 
+принята к публикации 12.04.2022. 
+
+The article was submitted 15.03.2022; approved after reviewing 07.04.2022; accepted for 
+publication 12.04.2022. 
+
+15

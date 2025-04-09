@@ -1,0 +1,683 @@
+﻿Известия Томского политехнического университета. Инжиниринг георесурсов. 2021. Т. 332. № 8. 45–52 
+Пойлов В.З. и др. Деградация ферроцианида калия, используемого в качестве антислеживателя 
+
+ 
+УДК 661.832.321 
+
+ДЕГРАДАЦИЯ ФЕРРОЦИАНИДА КАЛИЯ,  
+ИСПОЛЬЗУЕМОГО В КАЧЕСТВЕ АНТИСЛЕЖИВАТЕЛЯ 
+
+Пойлов Владимир Зотович1,  
+vladimirpoilov@mail.ru 
+
+Кузьминых Константин Геннадьевич1,  
+kgkuz@mail.ru 
+
+Титков Станислав Николаевич2,  
+Stanislav.Titkov@uralkali.com 
+
+Алиферова Светлана Николаевна3,  
+Svetlana.Aliferova@uralkali.com 
+
+1 Пермский национальный исследовательский политехнический университет,  
+Россия, 614990, г. Пермь, Комсомольский пр., 29. 
+
+2 АО «ВНИИ Галургии»,  
+Россия, 190103, г. Санкт-Петербург, ул. 10-я Красноармейская, 22, литера А. 
+
+3 ПАО «Уралкалий»,  
+Россия, 618426, Россия, г. Березники, ул. Пятилетки, 63. 
+
+Актуальность. Повышение качества поставляемых за рубеж калийных удобрений, в показатели которых входит величина 
+слеживаемсти, представляет собой актуальную проблему. В качестве антислеживателя для хлорида калия может быть ис-
+пользован ферроцианид калия, который имеет существенный недостаток, заключающийся в том, что в процессе хранения 
+продукта KCl на складе в течение суток наблюдается деградация и снижение содержания ферроцианида калия на 20 %, что 
+впоследствии при транспортировке морским или железнодорожным транспортом приводит к слеживаемости продукта и ре-
+кламациям потребителей. Анализ причин деградации показал, что в водных растворах может происходить гидролиз ферро-
+цианидов.  
+Цель: установление причин деградации и снижения содержания ферроцианида калия на поверхности кристаллов продукта 
+хлорида калия. 
+Методы. Для установления процесса деградации водного раствора ферроцианида калия использовали теоретический ана-
+лиз литературных данных по механизму разложения ферроцианида калия, методы термодинамического, синхронного терми-
+ческого, химического анализа и электронной микроскопии. 
+Результаты. Теоретическим анализом и экспериментальным путем установлено, что химическая деградация феррроциа-
+нида калия протекает в основном при термической обработке водного раствора антислеживателя с образованием осадка 
+гидроксида железа и синильной кислоты. Поскольку в промышленных условиях раствор антислеживателя распыляют на го-
+рячий продукт KCl, проведены эксперименты, в которых растворы ферроцианида калия с различной концентрацией наносили 
+на хлорид калия и подвергали термической обработке. Установлено, что с увеличением температуры обработки продукта 
+KCl с 60 до 120 °С процесс деградации антислеживателя усиливается, а остаточное содержание ферроцианида калия в про-
+дукте снижается. С повышением температуры термообработки и концентрации ферроцианида калия в растворе антисле-
+живателя его потери на хлориде калия возрастают. При этом повышенная температура поступающего из сушильного ап-
+парата горячего продукта хлорида калия способствует ускорению высыхания раствора антислеживателя, что ухудшает 
+его распределение на поверхности кристаллов продукта KCl. 
+
+ 
+Ключевые слова:  
+Хлорид калия, антислеживатель, ферроцианид калия, водный раствор, деградация. 
+
+ 
+Введение ность кристаллов антислеживателей, в качестве кото-
+Крупнотоннажный продукт – галургический хло- рых могут использованы различные вещества [4–10], 
+
+рид калия, получаемый из сильвинитовых руд мето- в том числе ферроцианид калия [11, 12].  
+дом растворения – кристаллизации, при хранении и При обработке галургического хлористого калия 
+транспортировке слеживается, становится более гиг- на ПАО «Уралкалий» раствором антислеживателя, 
+роскопичным и теряет сыпучесть. На слеживаемость содержащего ферроцианид калия, наблюдается сни-
+хлорида калия оказывают влияние размеры и форма жение содержания данного вещества на поверхности 
+получаемых кристаллов, которые формируются в хлористого калия. Так, по данным лаборатории ПАО 
+процессе кристаллизации [1–3]. В промышленных «Уралкалий», после обработки галургического хло-
+условиях массовой кристаллизации сложно обеспечи- рида калия антислеживателем, в процессе хранения 
+вать получение крупных, однородных по форме и продукта на складе за небольшой период времени 
+размерам кристаллов. Достаточно эффективным и (менее суток) происходит снижение его содержания 
+распространенным способом устранения слеживае- на 20 % отн., что приводит к слеживаемости продукта 
+мости хлорида калия является нанесение на поверх- и ухудшает его товарные качества. 
+
+DOI 10.18799/24131830/2021/8/3304 45 
+
+
+
+Известия Томского политехнического университета. Инжиниринг георесурсов. 2021. Т. 332. № 8. 45–52 
+Пойлов В.З. и др. Деградация ферроцианида калия, используемого в качестве антислеживателя 
+
+ 
+Цель исследования: установление причин дегра- 5 град/мин в среде воздуха в интервале температур 
+
+дации антислеживателя и снижения содержания фер- 40–200 °С. Термограмма ферроцианида калия приве-
+роцианида калия на поверхности продукта хлорида дена на рис. 1. Зеленая кривая относится к изменению 
+калия.  веса образца, синяя кривая отражает эндотермиче-
+
+Для достижения указанной цели проведены иссле- ский эффект отщепления кристаллогидратной воды, 
+дования, направленные на выявление причин дегра- пунктирная кривая показывает скорость изменения 
+дации и изучение влияния температуры в процессе веса образца. 
+нанесения ферроцианида калия на галургический Из анализа термограммы следует, что при нагрева-
+хлорид калия.  
+
+нии ферроцианида калия с 40 до 68,6 °С происходит 
+Объект исследования удаление физической влаги (0,73 %), а в области тем-
+
+ператур 69–113,4 °С происходит процесс дегидратации 
+Ферроцианид калия выпускается в виде трехвод-
+
+с удалением 9,75 % кристаллогидратной воды. Теоре-
+ного кристаллогидрата [13]. С целью выявления тер-
+
+тическое содержание кристаллогидратной воды в тре-
+мического поведения ферроцианида калия был про-
+
+хводном ферроцианиде калия соответствует 12,78 %. 
+веден синхронный термический анализ на приборе 
+
+Отсюда следует, что при нагревании твердого тре-
+фирмы «Netch» (Германия), включающий дифферен-
+
+хводного ферроцианида калия до 113,4 °С произошла 
+циально-термический и термогравиметрический ме-
+
+дегидратация 76,29 % кристаллогидратной воды. 
+тоды анализа со скоростью нагрева образца 
+
+ 
+
+ 
+Рис. 1.  Термограмма твердого трехводного ферроцианида калия 
+
+Fig. 1.  Thermogram of solid three-water potassium ferrocianide 
+
+Процесс дегидратации сопровождается эндотер- Теоретический анализ 
+мическим эффектом, причем отщепление молекул во- По данным литературных источников [14–20], в 
+ды происходит ступенчато. Первая порция воды водных растворах происходит разложение ферроциа-
+(4,9 %) отщепляется в области температур 69–90,9 °С, –
+
+нидов с образованием иона CN . На процесс разложе-
+а вторая – в области температур 91–110 °С (с макси- ния ферроцианидов оказывают влияние концентрация, 
+мальной скоростью отщепления). Общая потеря мас- рН среды, температура, наличие кислорода, воздей-
+сы в указанном температурном интервале составляет ствие ультрафиолетового излучения и другие. В при-
+10,78 %. Таким образом, проведенный термический сутствии кислорода распад водных растворов 
+анализ показал, что в диапазоне температур 40– 4–
+
+[Fe(CN)6]  в нейтральных и щелочных средах сопро-
+200 °С удаляется физическая и кристаллогидратная вождается осаждением гидроксида железа (III). При 
+вода, а процессы пиролиза или термогидролиза фер- разложении возможно протекание следующих хими-
+роцианида калия не происходят. ческих реакций: 
+
+ 
+
+46 
+
+
+
+Известия Томского политехнического университета. Инжиниринг георесурсов. 2021. Т. 332. № 8. 45–52 
+Пойлов В.З. и др. Деградация ферроцианида калия, используемого в качестве антислеживателя 
+
+ 
+– +
+
+4[Fe(CN)6]
+4–+O2+2H2O→4[Fe(CN)6]
+
+3–+4OH–, роксида железа (III). Ион CN  связывается с ионом К  
+
+[Fe(CN)6]
+3–+3OH–→Fe(OH)3+6CN–. с образованием растворенного KCN. В свою очередь 
+
+KCN в водном растворе подвергается гидролизу с по-
+Для представленных химических реакций был 
+
+лучением HCN: 
+проведен термодинамический анализ, который пока-
+зал, что в температурном диапазоне от 25 до 100 °С в KCN+H2O→KOH+HCN. 
+
+нейтральных и щелочных растворах в присутствии Образующаяся в результате гидролиза HCN явля-
+кислорода воздуха (растворенного и соприкасающе- ется легколетучей. Вследствие удаления (испарения) 
+гося с поверхностью раствора) происходит разложе- HCN равновесие реакции гидролиза смещается в сто-
+
+4–
+ние иона [Fe(CN)6]  до Fe(OH)3, результаты которого рону продуктов реакции, что ведет к потерям ферро-
+представлены на рис. 2. цианида калия. Также авторы [14] отмечают, что ион 
+
+3+
+ Fe  способен образовывать комплексные соединения, 
+
+лигандами в которых выступает вода. При этом реакция 
+гидролиза может быть представлена в виде реакции: 
+
+[Fe(CN)6]
+4–+H2O→[Fe(CN)5H2O]3–+CN–. 
+
+–
+Замещение ионов CN  в комплексном соединении 
+
+может происходить до полного их замещения с обра-
+2+
+
+зованием Fe(H2O)6 . 
+
+ 
+Результаты и их анализ 
+
+Рис. 2.  Изменение энергии Гиббса в диапазоне темпе-
+ратур от 25 до 100 °С для реакции  Для качественной оценки процесса деградации 
+4[Fe(CN)6]
+
+4–+O2+2H2O→4[Fe(CN)6]
+3–+4OH– раствора ферроцианида калия был проведен экспери-
+
+Fig. 2.  Change in Gibbs energy in the temperature range мент, в котором приготовлен водный раствор с кон-
+from 25 to 100 °С for the reaction  центрацией 10 %, который в дальнейшем был под-
+4[Fe(CN)6]
+
+4–+O2+2H2O→4[Fe (CN) 6]
+3–+4OH– вергнут нагреванию до температуры 99 °С с выдерж-
+
+кой в течение 30 минут. После этого раствор подвер-
+График изменения энергии Гиббса свидетельству- гали охлаждению до комнатной температуры и вы-
+
+ет о том, что при увеличении температуры термоди- держивали в течение 3 суток. На рис. 3 представлен 
+намическая вероятность протекания данной реакции внешний вид водного раствора ферроцианида калия 
+возрастает, что приводит к увеличению выхода гид- до и после температурной обработки. 
+
+ 
+
+   
+a b c 
+
+Рис. 3.  Фотографии водного раствора ферроцианида калия до и после температурной обработки: a) свежеприго-
+товленный раствор; b) после температурной обработки при Т=99 °С; c) после температурной обработки 
+при Т=99 °С и хранении при комнатной температуре в течение трех суток 
+
+Fig. 3.  Photos of potassium ferrocyanide aqueous solution before and after heat treatment: a) freshly prepared solution; b) 
+after heat treatment at T=99 °C and cooling to room temperature; c) after heat treatment at T=99 °C and storage at 
+room temperature for three days 
+
+После хранения раствора ферроцианида калия, под- бой твердый осадок красно-коричневого цвета с про-
+–37
+
+вергнутого термической обработке, в течение трех су- изведением растворимости ПР≈10  [21]. 
+ток при комнатной температуре в нем наблюдается по- Изменение окраски и рН раствора свидетельствует 
+явление осадка (рис. 2), рН раствора при этом состав- о том, что в результате температурной обработки 
+ляет 9,75. Величина рН свежеприготовленного раство- происходит гидролиз раствора ферроцианида калия. 
+ра составила 8,88. Уменьшение величины рН раствора Увеличение величины рН раствора можно объяснить 
+в результате хранения можно объяснить образованием протеканием химической реакции: 
+гидроксида железа (III) [14], который представляет со- 4[Fe(CN)6]
+
+4–+O2+2H2O→4[Fe(CN)6]
+3–+4OH–. 
+
+47 
+
+
+
+Известия Томского политехнического университета. Инжиниринг георесурсов. 2021. Т. 332. № 8. 45–52 
+Пойлов В.З. и др. Деградация ферроцианида калия, используемого в качестве антислеживателя 
+
+ 
+Поскольку в промышленных условиях раствор анти- С целью оценки влияния концентрации ферроциа-
+
+слеживателя распыляют на горячий продукт КСl, были нида калия в растворе антислеживателя проведены 
+проведены эксперименты, в которых растворы ферроци- эксперименты с обработкой хлорида калия антисле-
+анида калия с различной концентрацией были нанесены живателем с концентрацией 5 и 10 %. Результаты 
+на хлорид калия и подвергнуты термической обработке экспериментов представлены в табл. 2. 
+при различных температурах. Методика эксперимента 
+состояла в следующем. На аналитических весах были Таблица 2.  Содержание ферроцианида калия в хлориде 
+взяты две навески хлорида калия (отобранного после калия после термической обработки при 
+
+сушки, без обработки антислеживателем) в количестве различных температурах (содержание в 
+
+66,67 г с точностью до 0,01 г. В одну навеску с исполь- растворе 5 и 10 %) 
+
+зованием пипетки внесли 0,2 мл раствора антислежива- Table 2.  Content of potassium ferrocianide in potassium 
+
+теля; во вторую – 0,4 мл раствора антислеживателя. chloride after heat treatment at various temperatures 
+(the content in the solution is 5 and 10 %) 
+
+Каждую из смесей после нанесения раствора антисле-
+живателя перемешивали в течение 15 минут для равно-
+мерного распределения антислеживателя на поверхно-
+сти кристаллов хлорида калия. Каждая из партий была 
+разделена на пять частей и помещена в чашки Петри. 
+
+№ 
+Одну из проб хлорида калия с различным содержанием 
+раствора антислеживателя оставляли на воздухе при 
+комнатной температуре, остальные подвергали терми-
+ческой обработке при 60; 80; 120; 130 °С в течение 1 ча-
+са в сушильном шкафу, предварительно разогретом до 1 5 25 162 – 
+необходимой температуры. Пробы галургического хло- 2 5 60 100 38,27 
+
+рида калия анализировали на содержание ферроцианида 3 5 80 98 39,50 
+
+калия фотоколориметрическим методом. 4 5 120 110 32,10 
+5 10 25 306 – 
+
+Результаты измерения количественного содержа- 6 10 60 171 44,12 
+ния ферроцианида калия в хлориде калия после тер- 7 10 80 163 46,73 
+мической обработки представлены в табл. 1. 8 10 120 171 44,12 
+
+ 
+
+Таблица 1.  Содержание ферроцианида калия в хлориде Из анализа данных табл. 1, 2 следует, что с увели-
+калия после термической обработки при чением температуры обработки продукта КСl с 60 до 
+различных температурах с различным коли- 120 °С остаточное содержание ферроцианида калия в 
+чеством внесенного раствора антислежи- галургическом продукте существенно снижается. 
+вателя (содержание в растворе 2 %) С повышением температуры термообработки и кон-
+
+центрации ферроцианида калия в растворе антисле-
+Table 1.  Content of potassium ferrocianide in potassium живателя его потери возрастают и составляют: 
+
+chloride after heat treatment at various  до 27 % при использовании раствора с концентра-
+temperatures with a different amount of anti-
+
+цией 2 %; 
+caking agent solution introduced (the content in 
+the solution is 2 %)  до 39,5 % при использовании раствора с концен-
+
+трацией 5 %; 
+ до 46,7 % при использовании раствора с концен-
+
+трацией 10 %. 
+Исходя из проведенного теоретического анализа и 
+
+№ полученных экспериментальных данных можно за-
+ключить, что деградация и потери ферроцианида ка-
+лия при хранении на складе продукта KCl происходят 
+за счет термогидролиза раствора ферроцианида калия 
+после нанесения антислеживателя на горячий продукт 
+
+1 0,2 25 74 – KCl, поступающий на склад после аппаратов сушки с 
+2 0,2 60 57 22,97 высокой температурой. 
+3 0,2 80 59 20,27 Следует отметить, что повышенная температура 
+4 0,2 120 54 27,02 продукта KCl влияет не только на деградацию, но и 
+5 0,4 25 122 – на равномерность распределения антислеживателя на 
+6 0,4 60 110 9,84 
+
+кристаллах продукта. На рис. 4 представлена микро-
+7 0,4 80 109 10,65 
+8 0,4 120 105 13,93 фотография поверхности кристалла галургического 
+
+ хлорида калия после нанесения раствора антислежи-
+При внесении раствора антислеживателя в 2 раза вателя на горячий продукт. Фотографии сделаны с 
+
+большем количестве (0,4 мл по сравнению с 0,2 мл, использованием сканирующего электронного микро-
+опыты 5–8) в результате термической обработки с по- скопа «S-3400N» японской фирмы «HITACHI» «Цен-
+вышением температуры также наблюдается снижение тра наукоѐмких химических технологий и физико-
+остаточного содержания ферроцианида калия. химических исследований» ПНИПУ. 
+
+48 
+
+Количество нанесенного  
+на KCl антислеживателя, мл 
+Amount of anti-caking agent  
+
+on KCl, ml 
+
+Температура обработки, °С 
+Processing temper ture, °С 
+
+Остаточное содержание  
+ферроцианида калия  
+
+в KCl, г/т 
+Residual content  
+
+of potassium ferrocianide  
+in KCl, gram/ton 
+
+Потери ферроцианида  
+калия (по сравнению с 
+
+Т=25 °С), мас. % 
+Loss of potassium  
+
+ferrocianide (compared  
+with T=25 °C), wt. % 
+
+Содержание ферроцианида 
+калия в растворе  
+
+антислеживателя, мас. % 
+Content of potassium 
+
+ferrocianide in a solution  
+of anti-caking agent, wt. % 
+
+Температура обработки, °С 
+Processing temper ture, °С 
+
+Остаточное содержание  
+ферроцианида калия  
+
+в KCl, г/т 
+Residual content  
+
+of potassium ferrocianide  
+in KCl, gram/ton 
+
+Потери ферроцианида  
+калия (по сравнению  
+с Т=25 °С), мас. % 
+Loss of potassium  
+
+ferrocianide (compared  
+with T=25 °C), wt. % 
+
+
+
+Известия Томского политехнического университета. Инжиниринг георесурсов. 2021. Т. 332. № 8. 45–52 
+Пойлов В.З. и др. Деградация ферроцианида калия, используемого в качестве антислеживателя 
+
+ 
+
+ 
+Рис. 4.  Микрофотография поверхности галургического хлорида калия после нанесения раствора антислеживателя, 
+
+содержащего ферроцианид калия, на горячий продукт, увеличение 300Х  
+
+Fig. 4.  Micrograph of galurgic potassium chloride surface after applying an anti-caking agent solution containing 
+potassium ferrocianide to a hot product, magnification 300X 
+
+Из анализа микрофотографии образца галургиче- калия, сопровождаемый образованием осадка гидрок-
+ского хлорида калия следует, что частицы ферроциа- сида железа (III). Оба этих процесса снижают эффек-
+нида калия покрывают кристаллы KCl неравномерно тивность использования ферроцианида калия в каче-
+и не сплошным слоем, а в виде островков. При этом стве антислеживателя.  
+микрокристаллы антислеживателя имеют размеры Установлено, что с увеличением температуры 
+менее 5 мкм. Неравномерное распределение ферро- продукта KCl с 60 до 120 °С деградация ферроциани-
+цианида калия по поверхности хлорида калия можно да калия усиливается и его остаточное содержание в 
+объяснить тем, что при повышенных температурах продукте снижается. Повышенная температура горя-
+продукта КСl происходит быстрое испарение воды из чего хлорида калия способствует также ускорению 
+пленки раствора антислеживателя, нанесенного на высыхания пленки раствора антислеживателя, что ве-
+KCl. дет к неравномерному распределению на поверхности 
+
+кристаллов продукта хлорида калия. 
+Выводы 
+
+Исследования проведены по проекту Министерства 
+По данным термодинамического анализа и прове-
+
+науки и образования РФ RFMEFI62120X0038 от «27» апре-
+денных экспериментов выявлено, что при нанесении ля 2020 г. № 075-15-2020-532 с использованием научного 
+раствора антислеживателя (содержащего в своем со- оборудования «Центра наукоѐмких химических техноло-
+ставе ферроцианид калия) на горячий галургический гий и физико-химических исследований» Пермского наци-
+хлорид калия, поступающий на склад после аппара- онального исследовательского политехнического универ-
+тов сушки, протекает термогидролиз ферроцианида ситета.  
+
+СПИСОК ЛИТЕРАТУРЫ 4. Позин М.Е. Физико-химические основы неорганической тех-
+нологии. – Л.: Химия, 1985. – 384 с. 
+
+1. Design and mechanism of the formation of spherical KCl particles 
+5. Кувшинников И.М. Минеральные удобрения и соли. Свойства 
+
+using cooling crystallization without additives / Shasha Jin, 
+и способы их улучшения. – М.: Химия, 1987. – 256 с. 
+
+Mingyang Chen, Zhenfang Li, Songgu Wu, Shichao Du, Shijie Xu, 
+6. ГОСТ 4568-95. Калий хлористый. Технические условия. – М., 
+
+Sohrab Rohani, Junbo Gong // Powder Technology. – 2018. – 
+2001. – 16 с. 
+
+V. 329. – P. 455–462. 
+7. Dikhtievskaya L.V., Shevchuk V.V. Inorganic modifiers 
+
+2. The time and location dependent prediction of crystal caking by a 
+controlling the physicochemical and mechanical properties of 
+
+modified crystal bridge growth model and DEM simulation 
+potassium fertilizer dispersions // Russian Journal of Applied 
+
+considering particle size and shape / Mingyang Chena, Changyou 
+Chemistry. – 2014. – V. 87. – № 9. – P. 1223–1228. 
+
+Yua, Menghui Yaoa, Xinyu Liua, Shijie Xub, Weiwei Tanga, 
+8. Hansen L.D., Hoffmann F., Graeme S. Effects of anticaking agents 
+
+Weibing Dongac, Junbo Gongacd // Chemical Engineering 
+on the thermodynamics and kinetics of water sorption by potash 
+
+Science. – 2020. – V. 214 – Article 115419. 
+fertilizers // Powder Technology. – 1998. – V. 98. – № 1. – P. 79–82. 
+
+3. Peng. H., Gudgeon J., Vaughan J. Nucleation phenomena of 
+9. Aleksandrovich Kh.M., Yanoskaya A.P., Shadskikh G.S. 
+
+supersaturated KCl solutions revealing by molecular dynamic 
+Intensification of the effect of amines as anticaking agents in 
+
+simulation: Implication of dehydration shell process // Journal of 
+potassium fertilizers // Soviet Chemical Industry. – 1990. – 
+
+Molecular Liquids. – 2019. – V. 283. – P. 108–115. 
+V. 22. – № 11. – P. 40–43. 
+
+49 
+
+
+
+Известия Томского политехнического университета. Инжиниринг георесурсов. 2021. Т. 332. № 8. 45–52 
+Пойлов В.З. и др. Деградация ферроцианида калия, используемого в качестве антислеживателя 
+
+ 
+10. Amorphous and humidity caking: a review / Mingyang Chen, 17. Meeussen J.C.L., Keizer M.G., De Haan F.A.M. Chemical 
+
+Dejiang Zhang, Weibing Dong, Zhilong Luo, Chao Kang, Haichao stability and decomposition rate of iron cyanide complexes in soil 
+Li, Gang Wang, Junbo Gong // Chinese Journal of Chemical solutions // Environmental Science & Technology. – 1992. – 
+Engineering. – 2019. – V. 27. – № 6. – P. 1429–1438. V. 26. – № 3. – P. 511–516. 
+
+11. Технология флотационного обогащения калийных руд / 18. Dzombak D.A., Ghosh R.S., Wong-Chong G.M. Cyanide in water 
+H.H. Тетерина, Р.Х. Сабиров, Л.Я. Сквирский, Л.Н. Киричен- and soil. Chemistry, risk, and management. – Great Britain: Taylor 
+ко / под ред. Н.Н. Тетериной. – Пермь: Соликамская типогра- & Francis Group, 2006. – 600 p. 
+фия, 2002. – 484 с. 19. Seri O. Kinetic parameter determination of ferri/ferrocyanide 
+
+12. Сарафанова Л.А. Пищевые добавки: энциклопедия. 2-е изд., redox reaction using differentiating polarization curve technique // 
+испр. и доп. – СПб: ГИОРД, 2004. – 808 с. Electrochimica Acta. – 2019. – V. 323. – Article 134776. 
+
+13. ГОСТ 4207-75. Калий железистосинеродистый 3-водный. 20. Reaction kinetics of sonochemical oxidation of potassium 
+Технические условия. – М., 1975 – 8 с. hexacyanoferrate(II) in aqueous solutions / P. Rajchel-Mieldzioć , 
+
+14. Химия ферроцианидов / И.В. Тананаев, Г.Б. Сейфер, В.Г. Куз- R. Tymkiewiczb, J. Sołek , W. Secomskib, J. Litniewskib, P. Fit   // 
+нецов и др. – М. Наука, 1971. – 320 с. Ultrasonics Sonochemistry. – 2020. – V. 63. – Article 104912. 
+
+15. Карякин Ю.В., Ангелов И.И. Чистые химические вещества. 21. Лидин Р.А., Молочко В.А., Андреева Л.Л. Химические свой-
+Изд. 4-е, пер. и доп. – М.: Химия, 1974. – 408 с. ства неорганических веществ. Изд. второе, испр. – М.: Наука, 
+
+16. Kuhn D.D., Young T.C. Photolytic degradation of 1997. – 480 с.  
+hexacyanoferrate (II) in aqueous media: The determination of the 
+degradation kinetics // Chemosphere. – 2005. – V. 60. – № 9. – Поступила 16.06.2021 г. 
+P. 1222–1230. 
+ 
+
+Информация об авторах 
+
+Пойлов В.З., доктор технических наук, руководитель «Центра наукоѐмких химических технологий и физико-
+химических исследований», профессор кафедры химических технологий, Пермский национальный исследова-
+тельский политехнический университет. 
+Кузьминых К.Г., старший преподаватель кафедры химических технологий, Пермский национальный исследо-
+вательский политехнический университет. 
+Титков С.Н., кандидат технических наук, директор технологической научной части, АО «ВНИИ Галургии». 
+Алиферова С.Н., кандидат технических наук, заместитель технического директора по процессам обогащения, 
+ПАО «Уралкалий». 
+
+ 
+
+  
+
+50 
+
+
+
+Poilov V.Z. et al. / Bulletin of the Tomsk Polytechnic University. Geo Аssets Engineering. 2021. V. 332. 8. 45–52 
+ 
+
+ 
+UDC 661.832.321 
+
+DEGRADATION OF POTASSIUM FERROCYANIDE USED AS AN ANTI-CAKING AGENT 
+
+Vladimir Z. Poilov1,  
+vladimirpoilov@mail.ru 
+
+Konstantin G. Kuzminykh1,  
+kgkuz@mail.ru 
+
+Stanislav N. Titkov2,  
+Stanislav.Titkov@uralkali.com 
+
+Svetlana N. Aliferova3,  
+Svetlana.Aliferova@uralkali.com 
+
+1 Perm National Research Polytechnic University,  
+29, Komsomolsky avenue, Perm, 614990, Russia. 
+
+2 JSC VNII Galurgiya,  
+22, building A, 10th Krasnoarmeyskaya street, St. Petersburg, 190103, Russia. 
+
+3 PJSC Uralkali,  
+63, Pyatiletki street, Berezniki, 618426, Russia. 
+
+ 
+The relevance. Improving the quality of potash fertilizers supplied abroad, the indicators of which include the value of caking, is an urgent 
+problem. As an anti-caking agent for potassium chloride, potassium ferrocyanide can be used, which has a significant drawback, which is 
+that during the storage of the KCl product in the warehouse during the day, degradation and decrease in the content of potassium ferrocy-
+anide by 20 % are observed, which subsequently during transportation by sea or rail transport leads to product caking and consumer com-
+plaints. Analysis of the causes of degradation showed that hydrolysis of ferrocyanides can occur in aqueous solutions. 
+The aim of the research is to determine the reasons for degradation and decrease in potassium ferrocyanide content on the surface of the 
+crystals of the potassium chloride product. 
+Methods. To establish the degradation of potassium ferrocyanide aqueous solution, a theoretical analysis of the literature data on the 
+mechanism of potassium ferrocyanide decomposition, methods of thermodynamic, synchronous thermal, chemical analysis and electron 
+microscopy were used. 
+Results. By theoretical analysis and experimentally, it has been established that the chemical degradation of potassium ferrocyanide oc-
+curs mainly during thermal treatment of aqueous solution of an anti-caking agent with the formation of a precipitate of iron hydroxide and 
+hydrocyanic acid. Since the anti-caking agent solution is sprayed on the hot KCl product under industrial conditions, experiments were car-
+ried out in which solutions of potassium ferrocyanide with different concentrations were applied to potassium chloride and subjected to heat 
+treatment. It was found that with an increase in processing temperature of the KCl product from 60 to 120 °C, the degradation of the anti-
+caking agent increases, and the residual content of potassium ferrocyanide in the product decreases. With the increase in the heat treat-
+ment temperature and the concentration of potassium ferrocyanide in the anti-caking agent solution, its losses on potassium chloride in-
+crease. At the same time, the increased temperature of the hot potassium chloride product coming from the drying apparatus accelerates 
+the drying of the anti-caking agent solution, which worsens its distribution on the surface of the KCl product crystals. 
+
+ 
+Key words:  
+Potassium chloride, anti-caking agent, potassium ferrocyanide, aqueous solution, degradation. 
+
+ 
+
+The research was carried out within the project of the Ministry of Science and Education of the RF RFMEFI62120X0038, 
+«27» April 2020, no. 075-15-2020-532 with the use of scientific equipment of the «Centre of knowledge consumptive chemical engi-
+neering and physical and chemical research» at Perm National Research Polytechnic University.  
+
+ 
+REFERENCES 4. Pozin M.E. Kerogen: Fiziko-himicheskie osnovy neorganicheskoy 
+
+tekhnologii [Kerogen: physicochemical foundations of inorganic 
+1. Shasha Jin, Mingyang Chen, Zhenfang Li, Songgu Wu, Shichao 
+
+technology]. Leningrad, Khimiya Publ., 1985, 384 p. 
+Du, Shijie Xu, Sohrab Rohani, Junbo Gong. Design and mecha-
+
+5. Kuvshinnikov I.M. Kerogen: mineralnye udobreniya i soli. 
+nism of the formation of spherical KCl particles using cooling 
+
+Svoystva i sposoby ikh uluchsheniya [Kerogen: mineral fertilizers 
+crystallization without additives. Powder Technology, 2018, and salts. Properties and ways to improve them]. Moscow, Khimi-
+vol. 329, pp. 455–462. ya Publ., 1987. 256 p. 
+
+2. Mingyang Chena, Changyou Yua, Menghui Yaoa, Xinyu Liua, 6. GOST 4568-95. Kaliy khloristy. Tekhnicheskie usloviya [State 
+Shijie Xub, Weiwei Tanga, Weibing Dongac, Junbo Gongacd. The Standard 4568-95. Potassium chloride. Technical specifications]. 
+time and location dependent prediction of crystal caking by a mod- Moscow, 2001. 16 p. 
+ified crystal bridge growth model and DEM simulation consider- 7. Dikhtievskaya L.V., Shevchuk V.V. Inorganic modifiers control-
+ing particle size and shape. Chemical Engineering Science, 2020, ling the physicochemical and mechanical properties of potassium 
+vol. 214, Article 115419. fertilizer dispersions. Russian Journal of Applied Chemistry, 2014, 
+
+3. Peng. H., Gudgeon J., Vaughan J. Nucleation phenomena of su- vol. 87, no. 9, pp. 1223–1228. 
+persaturated KCl solutions revealing by molecular dynamic simu- 8. Hansen L.D., Hoffmann F., Graeme S. Effects of anticaking agents 
+lation: implication of dehydration shell process. Journal of Molec- on the thermodynamics and kinetics of water sorption by potash 
+ular Liquids, 2019, vol. 283, pp. 108–115. fertilizers. Powder Technology, 1998, vol. 98, no. 1, pp. 79–82. 
+
+51 
+
+
+
+Poilov V.Z. et al. / Bulletin of the Tomsk Polytechnic University. Geo Аssets Engineering. 2021. V. 332. 8. 45–52 
+ 
+
+ 
+9. Aleksandrovich Kh.M., Yanoskaya A.P., Shadskikh G.S. Intensifica- 16. Kuhn D.D., Young T.C. Photolytic degradation of hexacyanofer-
+
+tion of the effect of amines as anticaking agents in potassium fertiliz- rate (II) in aqueous media: The determination of the degradation 
+ers. Soviet Chemical Industry, 1990, vol. 22, no. 11. pp. 40–43. kinetics. Chemosphere, 2005, vol. 60, no. 9, pp. 1222–1230. 
+
+10. Mingyang Chen, Dejiang Zhang, Weibing Dong, Zhilong Luo, 17. Meeussen J.C.L., Keizer M.G., De Haan F.A.M. Chemical stabil-
+Chao Kang, Haichao Li, Gang Wang, Junbo Gong. Amorphous ity and decomposition rate of iron cyanide complexes in soil solu-
+and humidity caking: a review. Chinese Journal of Chemical En- tions. Environmental Science & Technology, 1992, vol. 26, no. 3, 
+gineering, 2019, vol. 27, no. 6, pp. 1429–1438. pp. 511–516. 
+
+11. Teterina N.N., Sabirov R.H., Skvirskiy L.Ya., Kirichenko L.N. 18. Dzombak D.A., Ghosh R.S., Wong-Chong G.M. Cyanide in water 
+Kerogen: tekhnologiya flotatsionnogo obogashcheniya kaliynykh and soil. Chemistry, risk, and management. Great Britain, Taylor 
+rud [Kerogen: potassium ore flotation concentration technology]. & Francis Group, 2006, 600 p. 
+Perm, Solikamskaya tipografiya Publ., 2002. 484 p. 19. Seri O. Kinetic parameter determination of ferri/ferrocyanide re-
+
+12. Sarafanova L.A. Kerogen: pishchevye dobavki: entsiklopediya dox reaction using differentiating polarization curve technique. 
+[Kerogen: nutritional supplements: encyclopedia]. St. Petersburg, Electrochimica Acta, 2019, vol. 323, Article 134776. 
+GIORD Publ., 2004. 808 p. 20. Rajchel-Mieldzioć  P., Tymkiewiczb R., Sołek  J., Secomskib W., 
+
+13. GOST 4207-75. Kaliy zhelezistosinerodisty 3-vodny. Tekhniches- Litniewskib J., Fitaa P. Reaction kinetics of sonochemical oxida-
+kie usloviya [State Standard 4207-75. Potassium hexacyanoferrate tion of potassium hexacyanoferrate(II) in aqueous solutions. Ultra-
+3-hydrous. Technical specifications]. Moscow, 1975. 8 p. sonics Sonochemistry, 2020, vol. 63, Article 104912. 
+
+14. Tananaev I.V., Seyfer G.B., Kuznetsov V.G. Kerogen: khimiya 21. Lidin R.A., Molochko V.A., Andreeva L.L. Kerogen: khimiches-
+ferrotsianidov [Kerogen: chemistry of ferrocyanides]. Moscow, kie svoystva neorganicheskikh veshchestv [Kerogen: chemical 
+Nauka Publ., 1971. 320 p. properties of inorganic substances]. Moscow, Nauka Publ., 1997. 
+
+15. Karyakin Yu.V., Angelov I.I. Kerogen: chistye khimicheskie vesh- 480 p. 
+chestva [Kerogen: pure chemical substances]. Moscow, Khimiya 
+Publ., 1974. 408 p. Received: 16 June 2021. 
+ 
+
+Information about the authors 
+
+Vladimir Z. Poilov, Dr. Sc., professor, Perm National Research Polytechnic University. 
+Konstantin G. Kuzminykh, senior lecturer, Perm National Research Polytechnic University. 
+Stanislav N. Titkov, Cand. Sc., director of the technological scientific unit, JSC VNII Galurgiya. 
+Svetlana N. Aliferova, Cand. Sc., deputy technical director for Enrichment Processes, PJSC Uralkali. 
+  
+
+52

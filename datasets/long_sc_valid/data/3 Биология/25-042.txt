@@ -1,0 +1,834 @@
+﻿Вестник Томского государственного университета. Биология. 2014. № 1 (25). С. 42–55
+
+БиоТехнология и микРоБиология
+УДК 579.26 +632.937
+
+а.а. леляк1, м.В. Штерншис2
+
+1 Научно-производственная фирма «Исследовательский центр», 
+наукоград Кольцово, Новосибирская обл., Россия 
+
+2 Новосибирский государственный аграрный университет, г. Новосибирск, Россия
+
+антагонистический потенциал сибирских штаммов 
+Bacillus spp. в отношении возбудителей болезней 
+
+животных и растений
+Установлено, что наибольшую антагонистическую активность сибирские 
+
+штаммы бактерий Bacillus subtilis, Bacillus amyloliquefaciens и Bacillus licheni-
+formis проявляют в отношении St. aureus. Высокой активностью в отношении 
+C. albicans обладали штаммы B. subtilis ВКПМ В-16041, DSM 24613, B. amyloliq-
+uefaciens ВКПМ В-10642, DSM 24614 и B. amyloliquefaciens ВКПМ В-10643, DSM 
+24615. Все штаммы показали наличие бактерицидного действия средней и слабой 
+степени в отношении других использованных в опыте грамотрицательных бак-
+терий – C. freundii, E. coli, K. pneumonia, P. vulgaris, P. aeruginosa, Salmonella sp., 
+Sh. sonnei, Sh. flexneri IIa. Эти же штаммы бактерий-антагонистов проявили 
+ингибирующие свойства в отношении большинства использованных в опыте фи-
+топатогенов. На возбудителя альтернариоза A. solani наибольшее ингибирующее 
+действие оказали штаммы B. amyloliquefaciens Ba-1 и Ba-2, B. licheniformis ВКПМ 
+В-10561, DSM 24609 и B. subtilis Bs-1. В подавлении роста возбудителя корне-
+вых гнилей B. sorokiniana высокую активность проявили штаммы B. subtilis Bs-1, 
+B. amyloliquefaciens Ba-1 и Ba-2, которые также были максимально активными 
+по сравнению с остальными по отношению к возбудителю серой гнили растений 
+B. cinerea. В то же время установлено, что штаммы B. licheniformis не подавляли 
+роста B. cinerea. Против фитопатогенных грибов рода Fusarium и возбудителя 
+фитофтороза пасленовых культур Ph. infestans все изученные бактерии Bacillus 
+spp. показали высокий уровень ингибирующей активности. У бактерий B. licheni-
+formis Bl-1, ВКПМ В-10562, DSM 24610 и ВКПМ В-10564, DSM 24612 отсутство-
+вала антагонистическая активность в отношении F. solani ВКПМ В-163. 
+
+ключевые слова: антагонистическая активность; Bacillus subtilis; Bacillus 
+amyloliquefaciens; Bacillus licheniformis; патогенные бактерии; фитопатоген-
+ные грибы.
+
+Введение
+
+Спорообразующие бактерии рода Bacillus являются продуцентами широ-
+кого спектра биологически активных веществ (БАВ), в том числе ферментов, 
+липопептидных и других антибиотиков, спектр которых зависит от геогра-
+
+Tomsk State University Journal of Biology. 2014. № 1 (25). Р. 42–55
+
+
+
+Антагонистический потенциал сибирских штаммов 43
+
+фического происхождения изолятов [1, 2]. Продукция БАВ обусловливает 
+высокую бактерицидную и бактериостатическую активность Bacillus spp. в 
+отношении патогенных грамположительных (Clostridium spp., Corynebacte-
+rium spp., Staphylococcus aureus) и грамотрицательных (Treponema pallidum, 
+Neisseria meningitis) бактерий [3], а также фунгицидную (фунгистатическую) 
+активность в отношении фитопатогенных грибов – Rhizoctonia solani, Botrytis 
+cinerea, Aspergillus niger [4, 5]. Таким образом, представители рода Bacillus 
+обладают бактерицидной и фунгицидной активностью и рассматриваются 
+как перспективные биологические агенты для создания противомикробных 
+препаратов. Пробиотики на основе бактерий B. subtilis успешно применяют 
+в медицине для терапии инфекций различной этиологии [6–8]. В ветеринар-
+ной медицине препараты и кормовые добавки, включающие в качестве дей-
+ствующего начала бактерии рода Bacillus, используют для снижения падежа, 
+повышения привесов, снижения конверсии кормов в свиноводстве [9, 10], 
+птицеводстве [11], при выращивании крупного рогатого скота [12]. В защите 
+растений от возбудителей болезней была показана эффективность штаммов 
+B. subtilis в качестве биофунгицидов для культур открытого и защищенного 
+грунта [13, 14], а также в технологии хранения овощей [15]. 
+
+Цель работы – оценить антагонистическую активность сибирских при-
+родных штаммов бактерий рода Bacillus как потенциальной основы биопре-
+паратов для управления здоровьем животных и растений. 
+
+материалы и методики исследования
+
+Культуры микроорганизмов. Штаммы бактерий-антагонистов патогенной 
+микрофлоры – Bacillus subtilis, Bacillus amyloliquefaciens и Bacillus licheni-
+formis – были выделены из почвы лесных биоценозов Новосибирской об-
+ласти и депонированы во Всероссийской коллекции промышленных микро-
+организмов (ВКПМ, Государственный научно-исследовательский институт 
+генетики и селекции промышленных микроорганизмов, г. Москва) и Немец-
+кой коллекции микроорганизмов и клеточных культур (Deutsche Sammlung 
+von Mikroorganismen und Zellkulturen GmbH, Braunschweig, Germany). Чи-
+стые культуры фитопатогенных грибов (Bipolaris sorokiniana ВКПМ В-532, 
+Botrytis cinerea ВКПМ В-1006, Fusarium graminearum ВКПМ В-147, Fusar-
+ium solani ВКПМ В-163, Fusarium chlamydosporum ВКПМ В-899, Fusarium 
+oxysporum ВКПМ В-349, Fusarium avenacium ВКПМ В-623) были получены 
+в ВКПМ. Остальные тест-объекты (штаммы Alternaria solani A7 АКТЛ 112, 
+А7 НКЛ 2в, А7 АКТЛ 125 3б, Botrytis cinerea M-01, M-4-2, Fusarium solani 
+К 6, Phytophthora infestans, расы 3,4 и 1-11) выделены авторами из инфи-
+цированных растений, а чистые культуры патогенных бактерий (Candida 
+albicans, Citrobacter freundii, Escherichia coli, Klebsiella pneumonia, Proteus 
+vulgaris, Pseudomonas aeruginosae, Salmonella enterica subsp. enterica serovar 
+choleraesuis, Salmonella enterica subsp. enterica serovar enteritidis, Salmonella 
+
+
+
+44 А.А. Леляк, М.В. Штерншис
+
+enterica subsp. enterica serovar paratyphi B, Salmonella enterica subsp. enterica 
+serovar typhimurium, Shigella sonnei, Shigella flexneri IIa, Staphylococcus aure-
+us) – из патологического органного материала, полученного от павших сель-
+скохозяйственных животных (молодняк крупного рогатого скота, свиньи). 
+
+Изучение антагонизма. Антагонистическую активность в отношении па-
+тогенов определяли методом перпендикулярных штрихов на чашках Петри 
+с мясо-пептонным агаром (МПА, Meat Infusion Agar (Standart Infusion Agar), 
+HiMedia) и выражали в мм зоны полного угнетения роста патогена [16]. Для 
+оценки антагонистической активности штаммов в отношении C. albicans, с 
+целью формирования одинаково благоприятных условий для роста и разви-
+тия и патогена, и штамма-антагониста, в МПА добавляли 1% глюкозы (α-D 
+глюкоза (декстроза) моногидрат, Cerestar). Испытуемый штамм бактерии-ан-
+тагониста высевали штрихом (полоской) по диаметру чашки Петри с МПА, 
+посевы инкубировали в термостате при температуре (37+0,5)°С в течение 
+48+1 ч. По окончании времени инкубации перпендикулярно к штриху анта-
+гониста подсевали тест-культуры патогенов, после чего посевы помещали в 
+термостат при указанной ранее температуре еще на 20+1 ч. Если изучаемый 
+штамм-антагонист оказывал антимикробное действие в отношении изуча-
+емых патогенов, то последние росли на расстоянии от его штриха, которое 
+и являлось количественной мерой антагонистической активности. Антаго-
+нистическую активность в отношении фитопатогенов определяли модифи-
+цированным методом агаровых блоков и выражали в виде ингибирующей 
+активности [17]. Фитопатогенные грибы выращивали на картофельно-глю-
+козном агаре. Поверхность агаризованной питательной среды в чашках Пе-
+три засевалась бактериальными штаммами для получения равномерных га-
+зонов. Чашки инкубировали 48 ч при 28°С, затем на их поверхность в центр 
+помещали грибные блоки диаметром 1 см, вырезанные из колоний грибов. 
+В контроле среда использовалась без внесения бактерий. Измерение диаме-
+тров выросших грибных колоний проводилось на 5 сутки сокультивирова-
+ния при 25°С. Ингибирующую активность вычисляли, исходя из диаметров 
+колоний в контрольном и опытном вариантах, по формуле (Дк–До)/Дк, где 
+Дк – диаметр колоний в контроле, До – в опыте, выражая в %. 
+
+Данные в таблицах представлены в виде средней арифметической с до-
+верительными интервалами. Статистическая обработка полученных данных 
+выполнена в программе StatSoft STATISTICA for Windows 6.0.
+
+Результаты исследования и обсуждение
+Анализ антагонистической активности в отношении патогенных 
+
+бактерий. Результаты определения антагонистической активности изучен-
+ных штаммов в отношении патогенов представлены в табл. 1. 
+
+В зависимости от ширины зоны угнетения роста микробных тест-
+объектов можно выделить высокую (от 11 до 30 мм), среднюю (в пределах 
+4–10 мм) и слабую (до 4 мм) антагонистическую активность. 
+
+
+
+Антагонистический потенциал сибирских штаммов 45
+
+Наибольшее антагонистическое действие бацилл отмечено в отношении 
+St. aureus. 
+
+Т а б л и ц а  1
+антагонистическая активность бактерий в отношении патогенов, 
+
+зона угнетения роста, мм
+
+Наименование патогенного Штаммы бактерий-антагонистов
+ тест-микроорганизма Bs-1 Ba-1 Ba-2 Bl-1 Bl-2 Bl-3 Bl-4
+
+C. albicans 359 18+2,35 20+3,06 20+3,12 5+0,49 4+1,08 5+0,54 12+1,41
+C. albicans 604 12+0,87 30+2,19 13+1,50 8+0,76 10+0,82 10+0,90 6+0,54
+C. albicans 616 30+2,28 30+2,06 15+2,04 10+1,88 10+1,16 5+0,66 6+0,49
+C. freundii 1 2+0,12 5+0,27 7+0,60 2+0,17 2+0,28 2+0,09 2+0,32
+C. freundii 2 4+0,40 5+0,61 5+0,58 2+0,20 3+0,44 2+0,18 4+0,60
+C. freundii 17 10+0,70 5+0,56 5+0,70 2+0,19 2+0,22 3+0,30 4+0,41
+E. coli 582 6+0,61 8+0,72 10+0,86 2+0,13 2+0,21 2+0,24 2+0,20
+E. coli 2 6+0,44 10+1,09 10+1,23 2+0,33 2+0,30 2+0,22 2+0,38
+E. coli 457 7+0,50 6+1,15 11+1,42 2+0,28 3+0,46 3+0,51 5+0,67
+K. pneumonia 995 1+0,11 9+0,94 15+1,63 6+1,06 4+0,53 3+0,40 4+0,59
+K. pneumonia 47 8+0,61 8+0,70 8+0,65 6+0,49 5+0,44 6+0,56 0
+K. pneumonia 3/3 5+0,40 5+0,33 6+0,44 5+0,37 4+0,22 2+0,19 2+0,20
+P. vulgaris 14 6+0,59 3+0,27 6+0,65 2+0,20 4+0,39 2+0,30 0
+P. vulgaris 222 7+0,84 7+0,69 6+0,70 29+1,39 10+1,06 12+1,11 10+0,90
+P. vulgaris 88 6+0,70 7+0,84 10+0,93 3+0,12 3+0,29 2+0,21 2+0,31
+P. aeruginosa 884 15+1,04 2+0,19 6+0,70 3+0,31 2+0,22 2+0,19 2+0,34
+P. aeruginosa 17 8+0,92 2+0,20 6+0,45 3+0,41 3+0,32 4+0,57 4+0,60 
+P. aeruginosa 12 2+0,12 4+0,30 3+0,32 3+0,27 4+0,36 3+0,19 3+0,29
+Salmonella enterica subsp. 
+enterica serovar choleraesuis 5+0,40 6+0,53 6+0,50 5+0,44 2+0,20 2+0,23 3+0,31
+Salmonella enterica subsp. 
+enterica serovar enteritidis 8+0,66 13+1,14 30+1,43 20+1,70 20+1,65 18+1,40 20+1,59
+Salmonella enterica subsp. 
+enterica serovar paratyphi B 5+0,39 7+0,69 6+0,65 2+0,15 2+0,22 2+0,13 3+0,31
+Salmonella enterica subsp. 
+enterica serovar typhimurium 5+0,41 10+1,02 10+1,14 4+0,52 3+0,33 3+0,30 2+0,20
+Sh. sonnei 7+0,60 11+0,97 7+0,60 10+1,06 10+1,14 2+0,16 4+0,24
+Sh. flexneri IIa 12+0,71 21+1,48 18+2,03 4+0,44 2+0,35 2+0,30 2+0,19
+St. aureus 209 22+1,36 20+1,19 25+1,46 27+1,66 20+1,39 26+1,40 20+1,06
+St. aureus 211 23+1,41 24+1,56 25+1,17 28+1,69 22+1,54 24+1,19 20+1,05
+St. aureus 12 24+1,70 30+2,48 29+2,07 30+1,90 24+1,27 30+1,90 22+1,88
+
+Высокой активностью в отношении C. albicans обладали штаммы B. sub-
+tilis ВКПМ В-16041, DSM 24613 (далее по тексту Bs-1), B. amyloliquefaciens 
+ВКПМ В-10642, DSM 24614 (далее по тексту Ba-1) и B. amyloliquefaciens 
+ВКПМ В-10643, DSM 24615 (далее по тексту Ba-2). Остальные штаммы 
+бацилл проявили к данному патогену среднюю антагонистическую актив-
+ность. 
+
+
+
+46 А.А. Леляк, М.В. Штерншис
+
+Т а б л и ц а  2
+ингибирующая активность бактерий в отношении фитопатогенов, %
+
+Наименование Штаммы бактерий-антагонистов
+фитопатогенного
+
+ тест-микроорганизма Bs-1 Ba-1 Ba-2 Bl-1 Bl-2 Bl-3 Bl-4
+A. solani A7 АКТЛ 
+112 68,5+1,19 71,4
+
++2,07 71,4+1,55 71,4+1,80 65,7+2,19 68,6+2,23 37,1+1,07
+
+A. solani А7 НКЛ 2в 66,7+2,09 50,0
++1,85 56,7+1,90 66,7+2,44 66,7+2,70 66,7+2,19 66,7+2,17
+
+A. solani А7 АКТЛ 
+125 3б 66,7+2,03 66,7
+
++2,12 66,7+2,09 66,7+2,11 66,7+2,10 66,7+2,09 60,0+1,90
+B. sorokiniana ВКПМ 
+В-532 81,8+2,49 81,8
+
++2,29 81,8+2,47 36,4+1,16 41,8+1,50 67,3+2,07 27,3+1,26
+
+B. cinerea M-01 62,5+1,92 62,5
++2,05 62,5+2,13 53,3+1,88 51,1+1,80 55,6+1,94 22,2+0,98
+
+B. cinerea ВКПМ 
+В-1006 50,0+2,24 50,0
+
++2,17 50,0+2,01 0 0 0 0
+
+B. cinerea M-4-2 68,7+2,30 68,7
++2,46 68,7+2,41 68,8+2,03 48,6+2,11 68,7+1,95 37,5+0,88
+
+Fusarium 
+graminearum ВКПМ 54,5+1,74 54,5
+В-14 +1,83 54,5+1,80 50,0+1,75 31,8+1,40 45,4+1,66 31,8+1,19
+
+7
+Fusarium solani 
+ВКПМ В-163 44,4+1,33 44,4
+
++1,40 44,4+1,37 0 0 33,3+1,18 0
+A. solani A7 АКТЛ 
+112 68,5+2,20 71,4
+
++2,69 71,4+2,55 71,4+2,71 65,7+2,38 68,6+2,30 37,1+1,15
+
+A. solani А7 НКЛ 2в 66,7+2,07 50,0
++1,92 56,7+1,84 66,7+2,04 66,7+2,12 66,7+2,29 66,7+2,31
+
+A. solani А7 АКТЛ 
+125 3б 66,7+2,18 66,7
+
++2,81 66,7+2,60 66,7+2,55 66,7+2,74 66,7+2,15 60,0+2,18
+B. sorokiniana ВКПМ 
+В-532 81,8+2,96 81,8
+
++2,70 81,8+2,66 36,4+1,18 41,8+1,60 67,3+2,00 27,3+0,93
+
+B. cinerea M-01 62,5+2,45 62,5
++1,97 62,5+2,17 53,3+1,70 51,1+1,64 55,6+1,50 22,2+0,98
+
+B. cinerea ВКПМ 
+В-1006 50,0+1,74 50,0
+
++1,66 50,0+1,54 0 0 0 0
+
+B. cinerea M-4-2 68,7+2,15 68,7
++2,26 68,7+2,33 68,8+2,40 48,6+1,83 68,7+2,01 37,5+1,14
+
+Fusarium 
+graminearum ВКПМ 54,5+1,59 54,5
+В-14 +1,60 54,5+1,83 50,0+1,19 31,8+1,62 45,4+1,18 31,8+0,87
+
+7
+Fusarium solani 
+ВКПМ В-163 44,4+0,75 44,4
+
++1,13 44,4+1,04 0 0 33,3+0,60 0
+Fusarium 
+chlamydosporum 76,2+2,29 76,2
+
++2,61 64,3+2,16 52,4+1,67 47,6+1,32 61,9+1,70 16,7+0,29
+ВКПМ В-899
+Fusarium solani К 6 68,9+2,09 77,8
+
++2,73 77,8+2,44 40,0+1,90 40,0+1,33 48,9+1,12 0
+Fusarium oxysporum 
+ВКПМ В-349 76,2+2,09 76,2
+
++2,40 76,2+2,33 47,6+2,19 64,3+1,96 52,4+1,47 23,8+0,85
+Fusarium avenacium 
+ВКПМ В-623 76,1+2,44 76,2
+
++3,85 76,2+2,41 59,5+1,94 64,3+1,87 64,3+2,03 23,8+0,70
+
+Ph. infestans расы 3,4 80,0+2,55 80,0
++2,79 80,0+2,64 66,0+1,95 66,0+2,04 68,0+2,17 50,0+1,03
+
+Ph. infestans расы 
+1-11 70,0+2,69 75,0
+
++2,70 75,0+2,13 62,5+1,98 57,5+1,72 67,5+2,03 25,0+0,81
+
+
+
+Антагонистический потенциал сибирских штаммов 47
+
+Все штаммы показали наличие бактерицидного действия средней и сла-
+бой степени в отношении других использованных в опыте грамотрицатель-
+ных бактерий – C. freundii, E. coli, K. pneumonia, P. vulgaris, P. aeruginosa, 
+Salmonella sp., Sh. sonnei, Sh. flexneri IIa. Зона угнетения роста составляла в 
+среднем 2–10 мм в зависимости от вида тест-объекта. 
+
+Таким образом, все изученные штаммы бактерий B. subtilis, B. amyloliq-
+uefaciens и B. licheniformis подавляли рост патогенных бактерий, хотя и в 
+различной степени.
+
+Анализ антагонистической активности в отношении фитопатогенных 
+грибов.  Штаммы бактерий-антагонистов проявили ингибирующие свойства в 
+отношении большинства использованных в опыте фитопатогенов (см. табл. 2).
+
+На возбудителя альтернариоза A. solani наибольшее ингибирующее дей-
+ствие оказали штаммы B. amyloliquefaciens Ba-1 и Ba-2, B. licheniformis 
+ВКПМ В-10561, DSM 24609 (далее по тексту Bl-1) и B. subtilis Bs-1. В по-
+давлении роста возбудителя корневых гнилей B. sorokiniana высокую актив-
+ность проявили штаммы B. subtilis Bs-1, B. amyloliquefaciens Ba-1 и Ba-2. 
+Эти же штаммы были максимально активными по сравнению с остальны-
+ми по отношению к возбудителю серой гнили растений B. cinerea. В то же 
+время установлено, что штаммы B. licheniformis не подавляли роста B. cine-
+rea (штамм ВКПМ В-1006). Против фитопатогенных грибов рода Fusarium 
+и возбудителя фитофтороза пасленовых культур Ph. infestans все изученные 
+нами бактерии Bacillus spp. показали высокий уровень ингибирующей актив-
+ности. У бактерий B. licheniformis Bl-1; ВКПМ В-10562, DSM 24610 (далее 
+по тексту Bl-2) и ВКПМ В-10564, DSM 24612 (далее по тексту Bl-4) отсут-
+ствовала антагонистическая активность в отношении F. solani ВКПМ В-163. 
+
+Проведенные исследования показали, что помимо бактерицидного дей-
+ствия, которое штаммы B. subtilis, B. amyloliquefaciens и B. licheniformis ока-
+зывали на патогенные бактерии, они проявляют ингибирующую активность 
+в отношении фитопатогенных грибов. Ряд авторов указывал на подобное 
+антибактериальное и фунгистатическое действие спорообразующих бактерий 
+[18–21]. Как отмечено выше, это связано с тем, что перечисленные бактерии 
+в процессе жизнедеятельности выделяют антимикробные вещества широкого 
+спектра действия [22, 23]. Поэтому спорообразующие бактерии применяют в 
+качестве действующего начала как лекарственных препаратов [24, 25], так и 
+экологически безопасных средств защиты растений от болезней [26, 27].
+
+Нами установлено наличие антагонизма изученных штаммов бактерий 
+рода Bacillus в опытах in vitro в отношении бактерий – возбудителей болез-
+ней животных и человека – C. freundii, E. coli, K. pneumonia, P. vulgaris, P. ae-
+ruginosa, Salmonella sp., Sh. sonnei, Sh. flexneri IIa, St. aureus и C. albicans. 
+Что касается антагонистической активности в отношении фитопатогенных 
+грибов, то добавление изученных штаммов в питательную среду подавля-
+ло рост опасных возбудителей болезней растений A. solani, B. sorokiniana, 
+Ph. infestans и грибов рода Fusarium в большей или меньшей степени в за-
+
+
+
+48 А.А. Леляк, М.В. Штерншис
+
+висимости от штамма тест-микроорганизма. Для одного из использованных 
+в эксперименте штаммов – B. cinerea ВКПМ В-1006 – не выявлено ингиби-
+рующего действия со стороны бактерий-антагонистов B. licheniformis. Наши 
+результаты согласуются с данными, полученными другими авторами в ра-
+ботах, касающихся патогенных бактерий Corynebacterium diphteriae, St. au-
+reus, Streptococcus haemolyticus, P. aeruginosa [28] и фитопатогенных грибов 
+[29, 30]. Так, Н.И. Габриэлян с соавторами [28] показали, что штамм бакте-
+рии B. subtilis, входящий в состав препарата споробактерин, обладает вы-
+сокой антагонистической активностью в отношении стафилококков (St. au-
+reus, St. epidermidis, St. saprophyticus), дрожжеподобных грибов Candida spp. 
+и энтерококков (Enterococcus faecium). В то же время авторы отмечают, что 
+среди изученных штаммов другого вида энтерококка – E. faecalis – лишь 
+50% были чувствительны к штамму-антагонисту. Авторы указывают, что 
+изученный ими штамм B. subtilis эффективно подавлял лишь 36,8% штам-
+мов патогенных бактерий, среди которых были E. coli, Klebsiella spp., Ser-
+ratia spp. и др., тогда как изученные в нашей работе штаммы бактерий-ан-
+тагонистов B. subtilis, B. amyloliquefaciens и B. licheniformis в 100% случаев 
+ингибировали перечисленных патогенов. 
+
+Продемонстрировано наличие у B. subtilis ингибирующей активности 
+по отношению к таким фитопатогенным грибам, как A. alternata, B. cinerea, 
+B. sorokiniana, Cladosporium sp., F. avenacium, F. oxysporum и др. [31]. При 
+этом отмечено, что некоторые из изученных авторами штаммов обладали 
+100%-ной ингибирующей активностью в отношении B. cinerea и F. oxyspo-
+rum, чего не наблюдалось в наших экспериментах. 
+
+Наблюдающиеся различия в оценке антагонистической активности бак-
+териальных штаммов, представленные в разных работах, могут быть свя-
+заны с разным географическим происхождением изучаемых культур [32]. 
+Различия в антагонистической активности против штаммов патогенов одно-
+го вида можно объяснить вариабельным составом пептидогликана бактери-
+альной клетки, который является регулятором взаимоотношений в системе 
+«прокариот – прокариот», а также регулятором внутриродового и межродо-
+вого антагонизма в условиях межмикробных взаимодействий [33].
+
+Заключение
+
+Таким образом, в результате проведенных исследований был выявлен ан-
+тагонистический потенциал природных сибирских штаммов бактерий рода 
+Bacillus. Bсе изученные штаммы бактерий-антагонистов B. subtilis, B. amy-
+loliquefaciens и B. licheniformis проявили бактерицидное и фунгистатическое 
+действия in vitro на чистых культурах патогенных бактерий и фитопатоген-
+ных грибов. Подавление штаммами-антагонистами роста патогенов, вызы-
+вающих болезни сельскохозяйственных животных и растений, перспектив-
+но для создания биопрепаратов, обеспечивающих получение экологически 
+
+
+
+Антагонистический потенциал сибирских штаммов 49
+
+безопасной продукции животноводства и растениеводства, что важно для 
+решения проблем здорового питания населения. 
+
+Литература
+
+1. Price N.P.J., Rooney A.P. et al. Mass spectrometric analysis of lipopeptides from Bacillus 
+strains isolated from diverse geographical locations // FEMS Microbiology Letters. 2007. 
+№. 271. P. 83–89. 
+
+2. Balaban N.P., Mardanova A.M., Malikova L.A. et al. Isolation and characterization of Bacil-
+lus amyloliquefaciens H2 glutamyl endopeptidase that is secreted in stationary phase of 
+culture growth // Annals Microbiology. 2008. Vol. 58. № 4. P. 697–704.
+
+3. Бала С.С. Антагонистическая активность пробиотиков на основе аэробных спорообра-
+зующих бактерий // Успехи современного естествознания. 2004. № 12. С. 84.
+
+4. Chiou A.L., Wu W.S. Formulation of Bacillus amyloliquefaciens B190 for control of lily grey 
+mould (Botrytis elliptica) // Journal of Phytopathology. 2003. Vol. 151, № 1. P. 13–18.
+
+5. Chebotar V.K., Makarova N.M., Shaposhnikov A.I. Antifungal and phytostimulating charac-
+teristics of Bacillus subtilis Ch-13 rhizospheric strain, producer of biopreparations // Appl. 
+Biochem. Microbiol. 2009. № 4. P. 419–423.
+
+6. Пушкарев А.М., Туйгунова В.Г., Зайнуллин Р.Р. и др. Использование антагонистических 
+свойств бактерий Bacillus subtilis в терапии госпитальной инфекции мочевых путей // 
+Журнал микробиологии, эпидемиологии и иммунологии. 2007. № 2. C. 90–93.
+
+7. Бондаренко В.М., Воробьев А.А. Дисбиозы и препараты с пробиотической функцией // 
+Журнал микробиологии. 2004. № 3. C. 84–92.
+
+8. Лазовская А.Л., Гришина Н.В., Воробьева З.Г. и др. Антагонистическая активность 
+споровых пробиотиков и влияние на лекарственную чувствительность микобакте-
+рий туберкулеза // Вестник Российского университета дружбы народов. Сер. Меди-
+цина. 2010. № 1. C. 18–24. 
+
+9. Ушакова Н.А., Котенкова Е.В., Козлова А.А., Нифатов А.В. Изучение механизмов 
+пробиотического действия штамма Bacillus subtilis 8130 // Прикладная биохимия и 
+микробиология. 2006. Т. 42, № 3. С. 285–291.
+
+10. Федорова М.П., Тарабукина Н.П., Неустроев М.П., Кириллина В.И. Применение про-
+биотиков из штаммов бактерий Bacillus subtilis для получения здоровых поросят // 
+Зоотехния. 2011. №2. C. 16–17. 
+
+11. Беркольд Ю.И., Иванова А.Б. Влияние пробиотических препаратов на основе Bacillus 
+subtilis на физиологические показатели роста цыплят-бройлеров // Сибирский вест-
+ник сельскохозяйственной науки. 2006. № 4. С. 45–48.
+
+12. Хазиахметов Ф.С., Башаров А.А., Нугуманов Г.О. Оценка эффективности ком-
+плексного препарата пробиотика с биологически активными веществами при 
+выращивании телят // Проблемы биологии продуктивных животных. 2011. № 2. 
+С. 106–109. 
+
+13. Хайруллин Р.М., Егоршина А.А., Лукьянцев М.А. и др. Биологические особенности эн-
+дофитных штаммов Bacillus subtilis как перспективной основы новых биопрепаратов 
+// Аграрная Россия. 2011. №1. С. 49–53. 
+
+14. Пусенкова Л.И., Глез В.М., Зейрук В.Н. и др. Биопрепараты для защиты картофеля от 
+болезней // Защита и карантин растений. 2010. № 10. С. 26–28. 
+
+15. Рудаков В.О., Морозов Д.О., Седых А.Н. Способ, позволяющий сократить потери са-
+харной свеклы в кагатах // Защита и карантин растений. 2010. № 6. С. 66–67.
+
+16. Егоров Н.С. Основы учения об антибиотиках. М. : МГУ, Наука, 2004. 528 с.
+
+
+
+50 А.А. Леляк, М.В. Штерншис
+
+17. Соколова М.В. Хитинолитическая и антигрибная активность трех штаммов бактерии 
+рода Serratia // Современная биотехнология в решении проблем защиты растений. 
+СПб., 1995. С. 214–224.
+
+18. Волков М.Ю., Ткаченко Е.И., Воробейников Е.В. и др. Метаболиты Bacillus subtilis 
+как новые перспективные пробиотические препараты // Ж. микробиол. эпидемиол. и 
+иммунобиол. 2007. № 2. С. 75–80.
+
+19. Бойко Н.В., Туряница А.И., Попович Е.П. и др. Антагонистическое действие культур 
+Bacillus subtilis на бактерии рода Klebsiella // Микробиологический журнал. 1989. 
+№ 1. С. 87–91.
+
+20. Актуганов Г.Э., Мелентьев А.И., Кузьмина Л.Ю. и др. Хитинолитическая активность 
+бактерий Bacillus Cohn. – антагонистов фитопатогенных грибов // Микробиология. 
+2003. Т. 72, № 3. С. 356–360. 
+
+21. Оришак Е.А., Бойцов А.Г., Нилова Л.Ю. Изучение антагонистической активности 
+споросодержащих пробиотиков // Профилактическая и клиническая медицина. 2009. 
+№ 3. С. 199–202. 
+
+22. Кудрявцева, В.А., Осадчая А.И., Сафронова Л.А. Аэробы рода Bacillus как источник 
+продуцентов литических ферментов // Биотехнология. 2004. № 4. С. 24–33.
+
+23. Михайлова H.M, Блинкова Л.П, Гатауллин А.Г. Биологические свойства новых изо-
+лятов Bacillus subtilis // Журнал микробиологии, эпидемиологии, иммунобиологии. 
+2007. № 4. С. 41–46. 
+
+24. Осипова И.Г., Михайлова Н.А., Сорокулова И.Б. и др. Споровые пробиотики // Журнал 
+микробиологии. 2003. № 3. С. 113–119.
+
+25. Никитенко В.И. Медицинский институт Оренбурга представляет препарат споробак-
+терин // JAMA. 1991. Vol. 64. № 1. P. 31.
+
+26. Кузьмина Л.Ю., Логинов О.Н., Бойко Т.Ф. и др. Эффективность бактериальных пре-
+паратов при защите растений яровой пшеницы от твердой головни // Сельскохозяй-
+ственная биология. 2003. № 5. С. 69–73. 
+
+27. Белов Л.П., Шкаликов В.А., Дунаева Ю.С. Возможности использования препарата на 
+основе Bacillus subtilis и Bacillus licheniformis в растениеводстве // АГРО XXI. 2008. 
+№ 4–6. С. 35. 
+
+28. Габриэлян Н.И., Давыдов Д.С., Горская Е.М. и др.  Антагонизм in vitro споробактерина 
+в отношении нозокомиальных штаммов микробов // Вестник трансплантологии и ис-
+кусственных органов. 2008. № 6. С. 12–18. 
+
+29. Agarry O.O., Akinyosoye F.A., Adetuyi F.C. Antagonistic properties of microogranisms as-
+sociated with cassava (Manihot esculenta Crantz) products // African Journal of Biotech-
+nology. 2005. Vol. 4. P. 627–632.
+
+30. Chan Yiu-Kwok, Savard M.E., Reid L.M. et al. Identification of lipopeptide antibiotics of a 
+Bacillus subtilis isolate and their control of Fusarium graminearum diseases in maize and 
+wheat // BioControl. 2009. Vol. 54. P. 567–574.
+
+31. Минина Т.С., Захарова Р.Ш., Уразбахтина Н.А. и др. Новые эндофитные штаммы 
+Bacillus subtilis как основа биофунгицидов // Вестник Казанского ГАУ. 2009. № 2. 
+С. 118–123.
+
+32. Beric T., Kojic M., Stancovic S., Topisirovic L. et al. Antimicrobial Activity of Bacillus sp. 
+natural isolates and their potential use in the biocontrol of phytopathogenic bacteria // Food 
+Technology and Biotechnology. 2012. Vol. 50. P. 25–31.
+
+33. Семенов А.В. Характеристика антагонистической активности Staphylococcus aureus 
+при межмикробных взаимодействиях // Вестник Томского государственного универ-
+ситета. Биология. 2011. № 3 (15). С. 56–66. 
+
+Поступила в редакцию 01.10.2013 г.
+
+
+
+Антагонистический потенциал сибирских штаммов 51
+
+авторский коллектив:
+Леляк Анастасия Александровна – канд. биол. наук, зав. лабораторией НПФ «Исследовательский 
+центр» (наукоград Кольцово, Новосибирская область, Россия). E-mail: leliak2@yandex.ru
+Штерншис Маргарита Владимировна – д-р биол. наук, профессор кафедры энтомологии и био-
+логической защиты растений Новосибирского государственного аграрного университета (г. Ново-
+сибирск, Россия). E-mail: shternshis@mail.ru
+
+Tomsk State University Journal of Biology. 2014. № 1 (25). Р. 42–55
+
+Anastasya A. Lelyak1, Margarita V. Shternshis2
+
+1 Research Center, Ltd, Scientific Town Koltsovo, Novosibirsk region, Russian Federation. 
+E-mail: leliak2@yandex.ru
+2 Department of Entomology and Biological Control, Novosibirsk State Agrarian University, 
+Novosibirsk, Russian Federation. E-mail: shternshis@mail.ru
+
+Antagonistic potential of siberian strains of Bacillus spp. 
+towards agents causing animal and plant diseases 
+
+Bacteria of Bacillus genus are known as the producers of biologically active 
+substances (BAS) including enzymes and antibiotics, whose diversity depends 
+on geographical origin of isolation. BAS production causes high bactericidal and 
+bacteriostatic activity of Bacillus spp. towards zoopathogenic Gram-positive and 
+Gram-negative bacteria and also fungicidal and fungistatic activity towards phyto-
+pathogenic fungi. In veterinary, preparations and fodder additives, including bac-
+teria of Bacillus genus are used for cattle-plague decrease and weight increase of 
+animals. In plant protection against agents causing diseases the efficacy of Bacil-
+lus spp. as the basis of biological fungicides is shown in fields and greenhouses.
+
+The aim of this article is to evaluate Siberian wild strains of Bacillus genus 
+bacteria as potential basis of biological formulations for animal and plant health 
+management. The bacterial strains Bacillus subtilis, Bacillus amyloliquefaciens 
+and Bacillus licheniformis were isolated from forest soil of Novosibirsk region and 
+were registered in All-Russian collection of industrial microorganisms (VKPM) 
+and German collection of microorganisms and cell cultures (DSMZ). Pure cultures 
+of phytopathogenic fungi Bipolaris sorokiniana VKPM В-532, Botyrtis cinerea 
+VKPM В-1006, Fusarium graminearum VKPM В-147, F. solani VKPM В-163, 
+F. chlamydosporum VKPM В-899, F. oxysporum VKPM В-349 and F. avenacium 
+VKPM В-623 were received from VKPM. Other test-cultures including the strains 
+of phytopathogenic fungi Alternaria solani, Botrytis cinerea, Fusarium solani and 
+Phytophthora infestans, were isolated by authors from infected plants, and the 
+strains of zoopathogenic bacteria Candida albicans, Citrobacter freundii, Esch-
+erichia coli, Klebsiella pneumonia, Proteus vulgaris, Pseudomonas aeruginosae, 
+Salmonella choleraesuis, S. enteritidis, S. peretyphi, S. typhimurium, Shigella son-
+nei, Sh. flexneri Iia and Staphylococcus aureus were isolated from biological ma-
+terial of animal origin.
+
+The strongest antagonistic action of Siberian Bacillus strains towards zoopath-
+ogens was observed against St. aureus. Towards C. albicans, the strains B. subtilis 
+VKPM В-16041, DSM 24613, B. amyloliquefaciens VKPM В-10642, DSM 24614, 
+VKPM В-10643 and DSM 24615 were shown to possess high activity. The rest of 
+the bacteria revealed moderate antagonistic activity towards this pathogen. To-
+
+www.journal.tsu/biology
+
+
+
+52 А.А. Леляк, М.В. Штерншис
+
+wards other Gram-negative bacteria used in the experiments – C. freundii, E. coli, 
+K. pneumonia, P. vulgaris, P. aeruginosa, Salmonella sp., Sh. sonnei, Sh. flexneri 
+IIa all Bacillus strains revealed bactericidal action of moderate and weak degree. 
+These very strains of antagonistic bacteria were shown to have inhibitory proper-
+ties towards most phytopathogens used in the experiments. The highest inhibitory 
+effect towards A. solani causing agent was observed by strains B. amyloliquefa-
+ciens Ba-1 and Ba-2, B. licheniformis VKPM В-10561, DSM 24609 and B. subtilis 
+Bs-1. The strains B. subtilis Bs-1, B. amyloliquefaciens Ba-1 and Ba-2В revealed 
+high activity in growth suppression of root rot causing agent B. sorokiniana. The 
+same strains were very active compared with others towards plant grey mold caus-
+ing agent B. cinerea. Simultaneously, the strains B. licheniformis did not sup-
+press B. cinerea growth. All Bacillus spp., studied here, showed a high level of in-
+hibitory activity towards Solanaceae phytophtora causing agent Ph. infestans. No 
+antagonistic activity towards F. solani VKPM В-163 was displayed by bacterial 
+strains B. licheniformis Bl-1; VKPM В-10562, DSM 24610, VKPM В-10564 and 
+DSM 24612. The antagonistic potential of Siberian strains of bacteria of Bacillus 
+genus towards zoopathogenic and phytopathogenic microorganisms revealed in 
+this work testify of promising study of isolated antagonistic bacteria as a basis of 
+ecologically safe biopreparations for plant and animal health management.
+
+Key words: Bacillus subtilis; Bacillus amyloliquefaciens; Bacillus licheniformis; 
+antagonistic activity; zoopathogenic bacteria; phytopathogenic fungi.
+
+Received, October 01, 2013
+
+References
+
+1. Price NPJ, Rooney AP et al. Mass spectrometric analysis of lipopeptides from Bacillus strains 
+isolated from diverse geographical locations. FEMS Microbiology Letters. 2007;271:83-89. 
+
+2. Balaban NP, Mardanova AM, Malikova LA et al. Isolation and characterization of Bacillus 
+amyloliquefaciens H2 glutamyl endopeptidase that is secreted in stationary phase of culture 
+growth. Annals Microbiology. 2008;58(4):697-704.
+
+3. Bala SS. Antagonisticheskaya aktivnost’ probiotikov na osnove aerobnykh 
+sporoobrazuyushchikh bakteriy. Uspekhi sovremennogo estestvoznaniya. 2004. No 12. 
+PP. 84. [Bala SS. Antagonistic activity of probiotics on the basis of aerobic spore-forming 
+bacteria. Uspehi sovremennogo estestvoznanija. 2004;12:84.] In Russian 
+
+4. Chiou AL, Wu WS. Formulation of Bacillus amyloliquefaciens B190 for control of lily grey 
+mould (Botrytis elliptica). J of Phytopathology. 2003;151(1):13-18.
+
+5. Chebotar VK, Makarova NM, Shaposhnikov AI. Antifungal and phytostimulating 
+characteristics of Bacillus subtilis Ch-13 rhizospheric strain, producer of biopreparations. 
+Appl Biochem Microbiol. 2009;4:419-423.
+
+6. Pushkarev A.M., Tuygunova V.G., Zaynullin R.R. i dr. Ispol’zovanie antagonisticheskikh 
+svoystv bakteriy Bacillus subtilis v terapii gospital’noy infektsii mochevykh putey. Zhurnal 
+mikrobiologii, epidemiologii i immunologii. 2007. No 2. PP. 90-93. [Pushkarev AM, Tui-
+gunova VG, Zainullin RR, Kuznetsova ТN, Gabidullin YuZ. Use of antagonistic properties 
+of Bacillus subtilis bacteria for treating nosocomial urinary tract infections. J. of Microbiol-
+ogy, Epidemiology and Immunobiology. 2007;2:90-93.] In Russian
+
+7. Bondarenko V.M., Vorob’ev A.A. Disbiozy i preparaty s probioticheskoy funktsiey. Zhurnal 
+mikrobiologii. 2004. No 3. PP. 84-92. [Bondarenko VM, Vorobyev AA. Dysbiosis and pro-
+biotic preparations. Journal of Microbiology. 2004;3:84-92.] In Russian
+
+8. Lazovskaya A.L., Grishina N.V., Vorob’eva Z.G. i dr. Antagonisticheskaya aktivnost’ sporo-
+vykh probiotikov i vliyanie na lekarstvennuyu chuvstvitel’nost’ mikobakteriy tuberkuleza. 
+
+
+
+Антагонистический потенциал сибирских штаммов 53
+
+Vestnik Rossiyskogo universiteta druzhby narodov. Ser. meditsina. 2010. No 1. PP. 18-24. 
+[Lazovskaya AL, Grishina NV, Vorobyeva ZG, Slinina KN, Kulchidskaya MA, Vasilieva EA. 
+Antagonistic activity of bacterial spore former probiotics and effects on tuberculosis myco-
+bacteria drug susceptibility. PFUR Bulletine. Medicine. 2010;1:18-24.] In Russian
+
+9. Ushakova N.A., Kotenkova E.V., Kozlova A.A., Nifatov A.V. Izuchenie mekhanizmov pro-
+bioticheskogo deystviya shtamma Bacillus subtilis 8130. Prikladnaya biokhimiya i mik-
+robiologiya. 2006. Vol. 42, No 3. PP. 285-291. [Ushakova NA, Kotenkova EV, Kozlova 
+AA, Nifatov AV. Study of the mechanisms of Bacillus subtilis 8130 probiotic activity. Appl 
+Biochem Microbiol. 2006;42(3):285-291.] In Russian
+
+10. Fedorova M.P., Tarabukina N.P., Neustroev M.P., Kirillina V.I. Primenenie probiotikov iz 
+shtammov bakteriy Bacillus subtilis dlya polucheniya zdorovykh porosyat. Zootekhniya. 
+2011. No 2. PP. 16-17. [Fedorova MP, Tarabukina NP, Neustroev MP, Kirillina VI. Applica-
+tion of antibiotics from Bacillus subtilis strains in growing healthy hoglings. Zootechniya. 
+2011;2:16–17.] In Russian
+
+11. Berkol’d Yu.I., Ivanova A.B. Vliyanie probioticheskikh preparatov na osnove Bacil-
+lus subtilis na fiziologicheskie pokazateli rosta tsyplyat-broylerov. Sibirskiy vestnik 
+sel’skokhozyaystvennoy nauki. 2006. No 4. PP. 45-48. [Berkold YuI, Ivanova AB. Effect 
+of probiotic preparations on the basis of Bacillus subtilis on physiological growth indices 
+of chicken broilers. Siberian Herald of Agricultural Science. 2006;4:45-48.] In Russian
+
+12. Khaziakhmetov F.S., Basharov A.A., Nugumanov G.O. Otsenka effektivnosti komplek-
+snogo preparata probiotika s biologicheski aktivnymi veshchestvami pri vyrashchivanii 
+telyat. Problemy biologii produktivnykh zhivotnykh. 2011. No 2. PP. 106-109. [Khazi-
+akhmetov PhS, Basharov AA, Nugumanov GO. Efficacy assessment of complex probiotic 
+preparation with bioactive substances for milk fed calves. Problems of Productive Animal 
+Biology. 2011;2:106-109.]  In Russian
+
+13. Khayrullin R.M., Egorshina A.A., Luk’yantsev M.A. i dr. Biologicheskie osobennosti 
+endofitnykh shtammov Bacillus subtilis kak perspektivnoy osnovy novykh biopreparatov. 
+Agrarnaya Rossiya. 2011. No 1. PP. 49-53. [Khairullin RM, Egorshina AA, Luk’yantsev 
+MA, Urazbakhtina NA, Irgalina RSh, Sakhabutdinova AR. Biological features of Bacillus 
+subtilis endophytic strains as the perspective base of new biopreparations. Agrarnaya Rus-
+sia. 2011;1:49-53.] In Russian
+
+14. Pusenkova L.I., Glez V.M., Zeyruk V.N. i dr. Biopreparaty dlya zashchity kartofelya ot 
+bolezney. Zashchita i karantin rasteniy. 2010. No 10. PP. 26-28. [Pusenkova LI, Gles VM, 
+Zeiruk VN. Biopreparations for potato protection from diseases. Zashchita I Karantin Ras-
+teniy. 2010;10:26-28.] In Russian
+
+15. Rudakov V.O., Morozov D.O., Sedykh A.N. Sposob, pozvolyayushchiy sokratit’ poteri 
+sakharnoy svekly v kagatakh. Zashchita i karantin rasteniy. 2010. No 6. PP. 66-67. [Ru-
+dakov VО, Morozov DO, Sedykh AN. Method allowing to reduce losses of sugar beet in 
+clamps. Zashchita I Karantin Rasteniy. 2010;6:66-67.] In Russian
+
+16. Egorov N.S. Osnovy ucheniya ob antibiotikakh. M.: MGU, Nauka, 2004. 528 pp. [Egorov 
+NS. Fundamentals of antibiotics theory. Moscow: Moscow state university; Nauka, 2004. 
+528 p.] In Russian
+
+17. Sokolova M.V. Khitinoliticheskaya i antigribnaya aktivnost’ trekh shtammov bakterii roda Serratia. 
+Sovremennaya biotekhnologiya v reshenii problem zashchity rasteniy. SPb., 1995. PP. 214-224. 
+[Sokolova MV. Chitinolytic and antifungal activity of three Serratia strains. Modern biotechnology 
+in solving plant protection problems. Saint-Petersburg: 1995. p. 214-224.] In Russian
+
+18. Volkov M.Yu., Tkachenko E.I., Vorobeynikov E.V. i dr. Metabolity Bacillus subtilis kak 
+novye perspektivnye probioticheskie preparaty. Zh. mikrobiol. epidemiol. i immunobiol. 
+2007. No 2. PP. 75-80. [Volkov MYu, Tkachenko EI, Vorobeichikov EV, Sinitsa AV. Ba-
+cillus subtilis metabolites as a novel promising probiotic preparation. J. of Microbiology, 
+Epidemiology and Immunobiology. 2007;2:75-80.] In Russian
+
+
+
+54 А.А. Леляк, М.В. Штерншис
+
+19. Boyko N.V., Turyanitsa A.I., Popovich E.P. i dr. Antagonisticheskoe deystvie kul’tur 
+Bacillus subtilis na bakterii roda Klebsiella. Mikrobiologicheskiy zhurnal. 1989. No 1. 
+PP. 87-91. [Bojko NV, Turianitsa AI, Popovich EP, Viunitskaia VA. Antagonistic action of 
+Bacillus subtilis cultures on bacteria of the genus Klebsiella. Mikrobiologicheski zhurnal. 
+1989;1:87-91.] In Russian
+
+20. Aktuganov G.E., Melent’ev A.I., Kuz’mina L.Yu. i dr. Khitinoliticheskaya aktivnost’ bak-
+teriy Bacillus Cohn. – antagonistov fitopatogennykh gribov. Mikrobiologiya. 2003. Vol. 72, 
+No 3. PP. 356-360. [Aktuganov GE, Melentiev AI, Kuzmina LY, Galimzyanova NF, Shiro-
+kov AV. Chitinolytic activity of bacteria Bacillus Cohn. as antagonists of phytopathologic 
+fungi. Mikrobiologiya. 2003;72(3):356-360.] In Russian
+
+21. Orishak E.A., Boytsov A.G., Nilova L.Yu. Izuchenie antagonisticheskoy aktivnosti spo-
+rosoderzhashchikh probiotikov. Profilakticheskaya i klinicheskaya meditsina. 2009. No 3. 
+PP. 199-202. [Orishak EA, Boitsov AG, Nilova LY. Study of antagonistic activity of spore-
+containing probiotics. Preventivnaja I klinicheskaja medizina. 2009;3:199-202.] In Russian
+
+22. Kudryavtseva, V.A., Osadchaya A.I., Safronova L.A. Aeroby roda Bacillus kak istochnik 
+produtsentov liticheskikh fermentov. Biotekhnologiya. 2004. No 4. PP. 24-33. [Kudryavt-
+seva VA, Osadchaja AI, Safronova LA Aerobic organisms of the genus Bacillus as a source 
+of lytic enzymes producers. Biotechnologija. 2004;4:24-33.] In Russian
+
+23. Mikhaylova H.M, Blinkova L.P, Gataullin A.G. Biologicheskie svoystva novykh izoly-
+atov Bacillus subtilis. Zhurnal mikrobiologii, epidemiologii, immunobiologii. 2007. No 4. 
+PP. 41-46. [Mikhailova NM, Blinkova LP, Gataulhn A.G. Biologic characteristics of new 
+Bacillus subtilis isolates. J. of Microbiology, Epidemiology and Immunobiology. 2007;4:41-
+46.] In Russian
+
+24. Osipova I.G., Mikhaylova N.A., Sorokulova I.B. i dr. Sporovye probiotiki. Zhurnal mikro-
+biologii. 2003. No 3. PP. 113-119. [Osipova IG, Mikhailova NA, Sorokulova IB, Vasilieva 
+EA, Gaiderov AA. Spore probiotics. Zhurnal mikrobiologii. 2003;3:113-119.] In Russian
+
+25. Nikitenko V.I. Meditsinskiy institut Orenburga predstavlyaet preparat sporobakterin. 
+JAMA. 1991. Vol. 64. No 1. PP. 31. [Nikitenko VI. Orenburg medical institute presents 
+preparation “sporobakterin”. JAMA. 1991;64(1):31.] In Russian
+
+26. Kuz’mina L.Yu., Loginov O.N., Boyko T.F. i dr. Effektivnost’ bakterial’nykh preparatov 
+pri zashchite rasteniy yarovoy pshenitsy ot tverdoy golovni. Sel’skokhozyaystvennaya 
+biologiya. 2003. No 5. PP. 69-73. [Kuzmina LY, Loginov ON, Bojko TF, Isaev RF, 
+Sveshnikova EV, Melentiev AI. Effectiveness of bacterial preparations at protecting spring 
+wheat plants from stinking smut. Selskokhoziastvennaia biologiya. 2003;5:69-73.] In 
+Russian
+
+27. Belov L.P., Shkalikov V.A., Dunaeva Yu.S. Vozmozhnosti ispol’zovaniya preparata na 
+osnove Bacillus subtilis i Bacillus licheniformis v rastenievodstve. AGRO XXI. 2008. 
+No 4-6. PP. 35. [Belov LP, Shkalikov VA, Dunaeva YS. Possibilities of using prepara-
+tions on the basis of Bacillus subtilis and Bacillus licheniformis in plant science. Agro XXI. 
+2008;4-6:35.] In Russian
+
+28. Gabrielyan N.I., Davydov D.S., Gorskaya E.M. i dr. Antagonizm in vitro sporobakterina 
+v otnoshenii nozokomial’nykh shtammov mikrobov. Vestnik transplantologii i iskusstven-
+nykh organov. 2008. No 6. PP. 12-18. [Gabrielyan NI, Davydov DS, Gorskaya EM, Spirina 
+TS, Osipova IG. In vitro antagonism of Sporobacterin against nosocomial strains of mi-
+crobes. Vestnik transplantologii I iskusstvennyh organov. 2008;6:12-18.] In Russian
+
+29. Agarry OO, Akinyosoye FA, Adetuyi FC. Antagonistic properties of microorganisms 
+associated with cassava (Manihot esculenta Crantz) products. African J. Biotechnol. 
+2005;4:627-632.
+
+30. Chan Yiu-Kwok, Savard ME, Reid LM et al. Identification of lipopeptide antibiotics of a 
+Bacillus subtilis isolate and their control of Fusarium graminearum diseases in maize and 
+wheat. BioControl. 2009;54:567-574.
+
+
+
+Антагонистический потенциал сибирских штаммов 55
+
+31. Minina T.S., Zakharova R.Sh., Urazbakhtina N.A. i dr. Novye endofitnye shtammy Bacillus 
+subtilis kak osnova biofungitsidov. Vestnik Kazanskogo GAU. 2009. No 2. PP. 118-
+123. [Minina TS, Zakharova RS, Urazbakhtina NA, Khairulin RM. Novel endophytic 
+Bacillus subtilis strains as biofungicide basis. Vestnik of Kazan State Agrarian University. 
+2009;2:118-123.] In Russian
+
+32. Beric T, Kojic M, Stancovic S, Topisirovic L. et al. Antimicrobial activity of Bacillus sp. 
+natural isolates and their potential use in the biocontrol of phytopathogenic bacteria. Food 
+Technology and Biotechnology. 2012;50:25-31.
+
+33. Semenov A.V. Kharakteristika antagonisticheskoy aktivnosti Staphylococcus aureus pri 
+mezhmikrobnykh vzaimodeystviyakh. Vestnik Tomskogo gosudarstvennogo universiteta. 
+Biologiya. 2011. No 3(15). PP. 56-66. [Semenov AV. Characteristic of antagonistic activity 
+of Staphylococcus aureus in cross-species interaction between microorganisms. Tomsk 
+State University Journal of Biology. 2011;3(15):56-66.] In Russian, English summary

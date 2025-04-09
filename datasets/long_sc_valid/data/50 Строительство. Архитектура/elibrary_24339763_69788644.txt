@@ -1,0 +1,604 @@
+﻿Строительная механика инженерных конструкций и сооружений, 2015, № 6 
+АНАЛИЗ ТОЧНЫХ РЕШЕНИЙ ПРОГИБА РЕГУЛЯРНЫХ  
+
+ШАРНИРНО-СТЕРЖНЕВЫХ КОНСТРУКЦИЙ 
+ 
+
+Д.В. ТИНЬКОВ, инженер, 
+ОАО «ГосМКБ „Радуга“ им. А. Я. Березняка» 
+141981, г. Дубна, Московская обл., пр-т Боголюбова 45, кв. 88, 
+e-mail: dvtinkov@yandex.ru 
+ 
+
+Проводится анализ известных решений задачи о прогибе плоских ферменных кон-
+струкций различного вида. Исследуются качественные и количественные особенности 
+решений, выявляются характерные особенности и предельные по числу панелей харак-
+теристики. Исследования выполняются при поддержке системы компьютерной ма-
+тематики Марlе в символьном виде. Для сравнения решений и их проверки применяется 
+пакет численных вычислений Lira. 
+        КЛЮЧЕВЫЕ СЛОВА: плоская ферма, прогиб, индукция, Maple, Lira 
+ 
+
+Разнообразие ферм весьма велико, что приводит к затруднениям при выбо-
+ре конструктором оптимальной конструкции. Численные расчеты в программ-
+ных инженерных системах (MSC.Nastran, SAP2000, Lira) упрощают работу, но 
+не позволяют выявить скрытые возможности конструкции. Поэтому необходи-
+мы точные аналитические решения. Такую возможность предоставляют совре-
+менные системы компьютерной математики (Maple, Mathematica, Maxima). В 
+частности, при расчете регулярной плоской шарнирно-стержневой конструкции 
+на жесткость, возможно определить прогиб как функции не только геометриче-
+ских размеров стержней, но и количества панелей или числа стержней. При 
+большом числе панелей использование аналитических решений – единственный 
+надежный способ избежать потери точности, обусловленных неизбежным на-
+коплением ошибок округления при численном решении. 
+
+Выведем формулы прогиба нескольких характерных плоских ферм (№ 2, 6, 
+10, 12) и проведём сравнительный анализ прогиба ферм, представленных в ра-
+ботах [1-10]. В данных работах рассмотрены статически определимые плоские 
+фермы с прямыми стержнями одинаковой жесткости EF  и идеальными шар-
+нирами в узлах. Прогиб вычисляется по формуле Максвелла-Мора: 
+
+S p 1
+ i Si  i , 
+
+EF
+где S p
+
+i – силы в стержнях от действия внешних сил, S1
+i  – силы в стержнях от 
+
+единичной нагрузки, приложенной в узле в направлении,  в котором требуется 
+найти перемещение. Силы в стержнях определены  методом вырезания узлов. 
+Итоговые функции прогиба как функции числа панелей определены на основе 
+конечного числа частных функций прогиба методом индукции (в работах при-
+менялись функции rgf_findrecur, rsоlve пакета genfunc системы Maple [12]). 
+
+Исследуемые фермы разделены на три категории: 
+1. арочные (две опоры неподвижные), 
+2. балочные (одна опора неподвижная, вторая подвижная), 
+3. решетчатые (две опоры неподвижные; ферма без подъёма). 
+Для удобства сравнения всех типов ферм формулы можно записать в одной 
+
+форме. Величина прогиба для всех рассматриваемых ферм кроме №7: 
+P Aa3  Bb3 Cc3
+
+   , 
+EF Db2
+
+где для всех ферм кроме №4: c  a2  b2 , для фермы №4: c  a 22  b2 . 
+Величина прогиба фермы №7: 
+
+21 
+
+
+
+Строительная механика инженерных конструкций и сооружений, 2015, № 6 
+P nc3  d3  Aa3  nb3  n 1e3  2b2e 3e2b
+
+   , 
+EF 2b  e2
+
+где c  a2  b2 , d  a2  e2 . 
+Общие виды ферм,  коэффициенты при членах a3, b3, c3, b2 в формуле про-
+
+гиба занесены в   сводную табл. 1 (для прогибов ферм №4, 8 и 14 в статьях были 
+обнаружены опечатки,  в таблице приводятся исправленные варианты соответ-
+ствующих формул). Зададимся для всех ферм одинаковой величиной пролета 
+(L), общей высотой ферм (H) и одинаковой суммарной нагрузкой. Для фермы 
+№14 сделаем замену: 
+
+ F  P 2n  3 . 
+Таблица 1 
+
+№ Общий вид Коэффициенты 
+1 A  n 1
+
+[1] B  n  
+C  n n 12n 1 3
+D  2n2
+
+ 
+Балочные фермы 
+
+2 A  n 2n2 1 3
+B  n  
+
+ C  n
+D  2
+
+3 A  n
+[2] 2n2 1 3
+
+B  n  
+ C  n
+
+D  2
+4 A  n 8n 
+
+[ ]  2 1 24
+3
+
+B  0  
+ C  n
+
+D 1
+5 A  n 4 2 1
+
+[4]  n  
+B  2n 12n2  2n  3  
+C  n2n2 1
+D  6
+
+6 A  n 2n2 1 3
+
+B  1 
+  1n  
+
+C  n
+D  2
+
+22 
+
+
+
+Строительная механика инженерных конструкций и сооружений, 2015, № 6 
+7 A  nn12n1 3  
+
+[5] 
+
+ 
+8 A  3n
+
+[6] B  3n 2n 3 6
+ 
+
+C  n 2n2 1
+ D  6
+
+Решетчатые фермы 
+9 A  nn 1n  2
+
+[7] B  nn  2 4n 1  
+ C  n12n2  4n  3
+
+D  6
+10 A  nn 12n 1 3
+
+B  n  
+C  n 1
+
+ D  2
+11 A  nn 12n  7 3
+[8] B  n  
+
+ C  n 1
+D  2
+
+12 A  8nn 12n 1 3
+B  0  
+C  2n 1
+D  2
+
+13 
+[9] 2n43n 2n2 31 1n 
+
+A
+12
+
+B  0  
+ C  2n1 4
+
+D 1
+14 A  n2n  5n  2n 1 3
+
+[10] B  nn  4
+ 
+
+C  n 12
+ 
+
+D  2
+ 
+
+Так как в разных фермах под числом n подразумеваются разные понятия: в 
+одних n – число панелей в половине пролёта, в других n – число однотипных 
+панелей в половине пролёта за исключением крайних или центральных панелей, 
+то, для того чтобы сравнивать фермы одинакового пролёта и высоты, необхо-
+димо сделать замену переменных согласно табл. 2. 
+
+23 
+
+
+
+Строительная механика инженерных конструкций и сооружений, 2015, № 6 
+                                              Таблица 2 
+
+Арочные фермы Для дополнительной проверки 
+1 
+
+a L H формул в многофункциональном 
+  b   
+
+2n1 n программном комплексе Lira [17], 
+который предназначен для проек-
+
+Балочные фермы тирования и расчета строительных 
+2-6 a  L 2n  b  H  и машиностроительных конструк-
+7 a  L 2n  b  H  e  ций, были смоделированы соответ-
+8 ствующие фермы с параметрами: 
+
+a  L 2n  h H
+  EF 1000 кг , P 1 кг ,  
+
+n 1 a  2 м ,  b  3 м , n  3 . 
+Решетчатые фермы 
+
+9-11 b  H
+a L  Для всех типов приведенных 
+  ферм выявлено полное совпадение 
+
+2n1 численного решения программного 
+12 
+
+a L b  H  комплекса Lira и численного реше-
+  
+
+22n1 ния на основе аналитических фор-
+мул. Приведем наиболее интерес-
+
+13 
+a L H ные формы деформированного со-
+  h   
+
+2n1 2 стояния ферм и величины прогиба в 
+14 
+
+a L b  H  точках приложения сил, получен-
+  ные численно по программе Lira 
+
+2n1 (табл. 3). 
+Таблица 3 
+
+№ Общий вид в деформируемом состоянии Пролет, L, м Прогиб, мм 
+5 12 107.032 
+
+ 
+6 12 19.2565 
+
+ 
+13 14 23.3363 
+
+ 
+Построим на основе аналитических формул графики относительного вер-
+
+тикального прогиба фермы (  EF P ) для конструкций одинакового пролета 
+L  20 м  и одинаковой высоты H  3 м  – см. рис. 1-4. 
+
+На рисунках даны сравнительные кривые для прогиба в зависимости от 
+числа панелей. В найденных зависимостях обнаруживается минимум, что по-
+зволяет выбрать не только рациональное число панелей, но и тип фермы. Часть 
+кривых пересекается, следовательно, на разных интервалах значений n мень-
+шим прогибом (большей жесткостью) обладают различные типы ферм.  
+
+Заметим, что с увеличением числа панелей величина прогиба устремляется 
+к некоторой предельной величине (табл. 4).  
+
+Для больших значений n, очевидно, меньшими деформациями обладает 
+арочная ферма,  прогиб которой стремиться к константе, а прогибы остальных 
+конструкций с разной степенью возрастают. Наибольший прогиб характерен 
+для фермы №8. 
+
+24 
+
+
+
+Строительная механика инженерных конструкций и сооружений, 2015, № 6 
+
+  
+Рис. 1 Рис. 2 
+
+Рис. 3 Рис. 4 
+                                                                               Таблица 4 
+
+Арочные фермы 
+1  3/2
+
+L2 4H 2
+lim 1 P 
+
+   
+n 24 EF H 2
+
+Балочные фермы 
+2-4 
+
+lim  HP
+  
+
+n EF
+5 
+
+lim  HP
+  
+
+n3 EF
+6 
+
+lim  1 HP
+  
+
+n 2 EF
+7 
+
+ P b2 be  e2 
+lim   
+
+n EF b  e
+8 3
+
+L2  4H 2 2
+lim  1 P
+
+2   
+n 24 EF H 2
+
+Решетчатые фермы 
+9 
+
+lim  HP
+ 
+
+n3 
+EF
+
+25 
+
+
+
+Строительная механика инженерных конструкций и сооружений, 2015, № 6 
+10-12 
+
+lim  HP
+  
+
+n EF
+13, 14 
+
+lim  1 HP
+  
+
+n 2 EF
+При одинаковой топологии ферм №11 и №14 под точечной нагрузкой про-
+
+гиб больше, чем под распределенной нагрузкой – ферма №14. Для данной топо-
+логии прогиб в пределе различается в два раза. 
+
+Заметим, что найденные оптимальные величины однотипных панелей при 
+заданных геометрических параметрах не гарантируют физическую возможность 
+существования и безопасную работоспособность конструкции. Для полноцен-
+ного расчета необходимо также проверить элементы на прочность, а сжатые 
+дополнительно – на устойчивость [13].  
+
+Метод индукции, примененный в рассмотренных работах, применим также 
+для минимизации массы конструкции или даже минимизации отношения про-
+гиба к массе. Аналитические решения для прогиба плоских статических опре-
+делимых ферм даны также в работах [14-16]. 
+
+Заключение 
+Символьные вычисления значительно медленнее с ростом сложности сис-
+
+темы, чем при численном анализе. Но для регулярных конструкций символьные 
+вычисления и индуктивный метод позволяют получить формулу, которая го-
+дится без ограничения для ферм с произвольным числом стержней.  
+
+Заметим, что существует генетический метод решения некоторых задач о 
+ферме [11, 18, 19], матричный [20], а также метод на основе поисковой системы 
+[21], где метод индукции может быть также полезен.  
+
+Л и т е р а т у р а 
+1. Сайпулаев Г.Р. Расчет регулярных стержневых систем на примере арочной фер-
+
+мы //Актуальные вопросы образования и науки: сборник научных трудов по материалам 
+Международной научно-практической конференции 30 сентября 2014 г.: в 11 частях. 
+Часть 4. Тамбов: ООО «Консалтинговая компания Юком», 2014.С. 128-130. 
+
+2. Бадертдинов Р.Р. Формула для прогиба плоской балочной фермы //Актуальные 
+вопросы образования и науки: сборник научных трудов по материалам Международной 
+научно-практической конференции 30 сентября 2014 г.: в 11 частях. Часть 7. Тамбов: 
+ООО «Консалтинговая компания Юком», 2014. С. 21-22. 
+
+3. Жакетов Д.Д., Яцков В.Б. Прогиб плоской балочной фермы с треугольной ре-
+шеткой//Наука и образование в XXI веке: сборник научных трудов по материалам Меж-
+дународной научно-практической конференции 31 октября 2014 г. в 17 частях. Часть 7. 
+Тамбов: ООО«Консалтинговая компания Юком», 2014. С. 34-36. 
+
+4. Дегтярев Н.Р., Трощило А.П. Прогиб балочной фермы шпренгельного типа 
+//Актуальные вопросы образования и науки: сборник научных трудов по материалам 
+Международной научно-практической конференции 30 сентября 2014 г.: в 11 частях. 
+Часть 10. Тамбов: ООО «Консалтинговая компания Юком», 2014. С.52-54. 
+
+5. Ерзунов И.А., Гудожников Р.А. Прогиб плоской статически определимой шпрен-
+гельной фермы с произвольным числом панелей // Наука и образование в XXI веке: 
+сборник научных трудов по материалам Международной научно-практической конфе-
+ренции 31 октября 2014 г. в 17 частях. Часть 4. Тамбов: ООО«Консалтинговая компания 
+Юком», 2014. С. 55-56. 
+
+ 6. Дзабиев А.А., Черепанов С.П. Формулы для расчета прогиба арочной фермы. 
+//Вопросы образования и науки: теоретический и методический аспекты: сборник науч-
+ных трудов по материалам Международной научно-практической конференции 31 мая 
+2014 г.: в 11 частях. Часть 4. Тамбов: ООО «Консалтинговая компания Юком», 2014. С. 
+63-64. 
+
+26 
+
+
+
+Строительная механика инженерных конструкций и сооружений, 2015, № 6 
+7. Шикин К.С., Китаев С.С. Деформация составной балочной фермы шпренгельно-
+
+го типа //Актуальные вопросы образования и науки: сборник научных трудов по мате-
+риалам Международной научно-практической конференции 30 сентября 2014 г.: в 11 
+частях. Часть 7. Тамбов: ООО «Консалтинговая компания Юком», 2014. С. 154-155. 
+
+8. Афанасьев В.А., Бойко О.О. Прогиб составной плоской балочной фермы с парал-
+лельными поясами //Актуальные вопросы образования и науки: сборник научных тру-
+дов по материалам Международной научно-практической конференции 30 сентября 
+2014 г.: в 11 частях. Часть 10. Тамбов: ООО «Консалтинговая компания Юком», 2014. 
+С.15-16. 
+
+9. Кирсанов М.Н. Скрытая особенность и асимптотические свойства одной плоской 
+балочной фермы //Строительная механика и расчет сооружений. 2014. №4. С. 9-12. 
+
+10. Лебедев А.В. Аналитическое исследование деформации составной фермы с 
+прямоугольной решеткой под действием равномерной нагрузки.// Наука и образование 
+в жизни современного общества: сб. науч. тр. по материалам Междунар. науч.-практ. 
+конф. 30 апреля 2015 г.: Часть 13. Тамбов, 2015. С. 93-94. 
+
+11. Кирсанов М.Н. Генетический алгоритм оптимизации стержневых систем // 
+Строительная механика и расчет сооружений. 2010. №2. С. 60-63. 
+
+12. Кирсанов М. Н. Практика программирования в системе Maple.  М.: Издатель-
+ский дом МЭИ, 2011.  208 c. 
+
+13. Кирсанов М.Н. Аналитический расчет многорешетчатой фермы // Строительная 
+механика и расчет сооружений. 2014, N 6. с. 2-6. 
+
+14. Кирсанов М.Н. Аналитическое исследование деформаций плоской фермы ароч-
+ного типа // Вестник государственного университета морского и речного флота им. ад-
+мирала С. О. Макарова 2015. № 3 (31). С. 42-48. 
+
+15. Кирсанов М.Н. Скрытая особенность и асимптотические свойства одной плоской 
+балочной фермы // Строительная механика и расчет сооружений. 2014. № 4 (255). С. 9-13. 
+
+16. Кирсанов М.Н. Индуктивный анализ влияния погрешности монтажа на жест-
+кость и прочность плоской фермы // Инженерно-строительный журнал. 2012. № 5(31). 
+С. 38-42. 
+
+17. Городецкий Д.А., Барабаш М.С., Водопьянов Р.Ю., Титок В.П., Артамонова 
+А.Е. ЛИРА-САПР 2013. Учебное пособие. Изд-во Москва, 2013. 376 с. 
+
+18. Cazacu R., Grama L. Steel truss optimization using genetic algorithms and FEA // 
+Procadia Technology. 2014. No 12. pp. 339-346. 
+
+19. Finotto V.C., Silva W.R.L., Valasek M.,  Stemberk P. Hybrid fuzzy-genetic system for 
+optimising cabled-truss structures// Advances in Engineering Software, Vol.62–63. 2013. pp. 
+85-96 
+
+20. Hutchinson R. G., Fleck N. A. Microarchitectured cellular solids – the hunt for stati-
+cally determinate periodic trusses / / ZAMM  Z. Angew. Math. Mech. 2005. 85, No. 9. p. 607 
+– 617. 
+
+21. Kaveh A., Mirzai B., Jafarvand A. An improved magnetic charged system search for 
+optimization of truss structures with continuous and discrete variables //Applied Soft Compu-
+ting. Vol. 28. 2015. pp. 400-410. 
+
+References 
+1. Saypulayev, G.R. (2014). Raschet regulyarnykh sterzhnevykh sistem na primere arochnoy 
+
+fermy, Aktualnyye Voprosy Obrazovaniya i Nauki: Sbornik nauchnykh trudov po materialam 
+Mezhdunarodnoy nauchno-prakticheskoy konferentsii 30 sentyabrya 2014 g.: Chast 4. Tambov: OOO 
+«Konsaltingovaya kompaniya Yukom», p. 128-130. 
+
+2. Badertdinov, R.R. (2014). Formula dlya progiba ploskoy balochnoy fermy, Aktualnyye Voprosy 
+Obrazovaniya i Nauki: Sbornik nauchnykh trudov po materialam Mezhdunarodnoy nauchno-
+prakticheskoy konferentsii 30 sentyabrya 2014 g.: Chast 7. Tambov: OOO «Konsaltingovaya kompaniya 
+Yukom», p. 21-22. 
+
+3. Zhaketov, D.D., Yatskov, V.B. (2014). Progib ploskoy balochnoy fermy s treugolnoy reshetkoy, 
+Nauka i Obrazovaniye v XXI Veke: Sbornik nauchnykh trudov po materialam Mezhdunarodnoy 
+nauchno-prakticheskoy konferentsii 31 oktyabrya 2014 g.: Chast 7. Tambov: OOO«Konsaltingovaya 
+kompaniya Yukom», p. 34-36. 
+
+4. Degtyarev, N.R., Troshchilo, A.P. (2014). Progib balochnoy fermy shprengelnogo tipa, 
+Aktualnyye Voprosy Obrazovaniya i Nauki: Sbornik nauchnykh trudov po materialam Mezhdunarodnoy 
+nauchno-prakticheskoy konferentsii 30 sentyabrya 2014 g.: Chast 10. Tambov: OOO «Konsaltingovaya 
+kompaniya Yukom», p.52-54. 
+
+27 
+
+
+
+Строительная механика инженерных конструкций и сооружений, 2015, № 6 
+5. Yerzunov, I.A., Gudozhnikov, R.A. (2014). Progib ploskoy staticheski opredelimoy shprengelnoy 
+
+fermy s proizvolnym chislom paneley, Nauka i Obrazovaniye v XXI Veke: Sbornik nauchnykh trudov po 
+materialam Mezhdunarodnoy nauchno-prakticheskoy konferentsii 31 oktyabrya 2014 g.: Chast 4. Tam-
+bov: OOO «Konsaltingovaya kompaniya Yukom», p. 55-56. 
+
+6. Dzabiyev A.A., Cherepanov S.P. (2014). Formuly dlya rascheta progiba arochnoy fermy, 
+Voprosy Obrazovaniya i Nauki: Teoreticheskiy i metodicheskiy aspekty: Sbornik nauchnykh trudov po 
+materialam Mezhdunarodnoy nauchno-prakticheskoy konferentsii 31 maya 2014 g.: Chast 4. Tambov: 
+OOO «Konsaltingovaya kompaniya Yukom», p. 63-64. 
+
+7. Shikin, K.S., Kitayev, S.S. (2014). Deformatsiya sostavnoy balochnoy fermy shprengelnogo tipa, 
+Aktualnyye Voprosy Obrazovaniya i Nauki: Sbornik nauchnykh trudov po materialam Mezhdunarodnoy 
+nauchno-prakticheskoy konferentsii 30 sentyabrya 2014 g.: Chast 7. Tambov: OOO «Konsaltingovaya 
+kompaniya Yukom», p. 154-155. 
+
+8. Afanasyev, V.A., Boyko, O.O. (2014). Progib sostavnoy ploskoy balochnoy fermy s parallelnymi 
+poyasami, Aktualnyye Voprosy Obrazovaniya i Nauki: Sbornik nauchnykh trudov po materialam 
+Mezhdunarodnoy nauchno-prakticheskoy konferentsii 30 sentyabrya 2014 g.: Chast 10. Tambov: OOO 
+«Konsaltingovaya kompaniya Yukom», p.15-16. 
+
+9. Kirsanov, M.N. (2014). Skrytaya osobennost i asimptoticheskiye svoystva odnoy ploskoy 
+balochnoy fermy, Stroitelnaya Mekhanika i Raschet Sooruzheniy,  №4, p. 9-12. 
+
+10. Lebedev, A.V. (2015). Analiticheskoye issledovaniye deformatsii sostavnoy fermy s 
+pryamougolnoy reshetkoy pod deystviyem ravnomernoy nagruzki, Nauka i Obrazovaniye v Zhizni 
+Sovremennogo Obshchestva: Sb. nauch. tr. po materialam Mezhdunar. nauch.-prakt. konf. 30 aprelya 
+2015 g.: Chast 13. Tambov, p. 93-94. 
+
+11. Kirsanov, M.N. (2010). Geneticheskiy algoritm optimizatsii sterzhnevykh system, Stroitelnaya 
+Mekhanika i Raschet Sooruzheniy, №2, p. 60-63. 
+
+12. Kirsanov, M.N. (2011). Praktika Programmirovaniya v Sisteme Maple, Moscow: Izdatelskiy 
+dom MEI, 208 p. 
+
+13. Kirsanov, M.N. (2014. Analiticheskiy raschet mnogoreshetchatoy fermy, Stroitelnaya 
+mekhanika i raschet sooruzheniy, No 6, p. 2-6. 
+
+14. Kirsanov, M.N. (2015). Analiticheskoye issledovaniye deformatsiy ploskoy fermy arochnogo 
+tipa, Vestnik Gosudarstvennogo Universiteta Morskogo i Rechnogo Flota im. Admirala S. O. Makarova, 
+№ 3 (31), p. 42-48. 
+
+15. Kirsanov, M.N. (2014). Skrytaya osobennost i asimptoticheskiye svoystva odnoy ploskoy 
+balochnoy fermy, Stroitelnaya Mekhanika i Raschet Sooruzheniy,  № 4 (255), p. 9-13. 
+
+16. Kirsanov, M.N. (2012). Induktivnyy analiz vliyaniya pogreshnosti montazha na zhestkost i 
+prochnost ploskoy fermy, Inzhenerno-Stroitelnyy Zhurnal, № 5(31), p. 38-42. 
+
+17. Gorodetskiy, D.A., Barabash, M.S., Vodopyanov, R.Yu., Titok, V.P., Artamonova, A.Ye. (2013). 
+LIRA-SAPR 2013. Uchebnoye Posobiye, Izd-vo Moskva, 376 p. 
+
+18. Cazacu, R., Grama, L. (2014). Steel truss optimization using genetic algorithms and FEA, 
+Procadia Technology, No 12, pp. 339-346. 
+
+19. Finotto, V.C., Silva, W.R.L., Valasek, M.,  Stemberk, P. (2013). Hybrid fuzzy-genetic system 
+for optimising cabled-truss structures, Advances in Engineering Software, Vol.62–63, pp. 85-96. 
+
+20. Hutchinson, R.G., Fleck, N.A. (2005). Microarchitectured cellular solids – the hunt for statical-
+ly determinate periodic trusses, ZAMM  Z. Angew. Math. Mech., 85, No. 9, p. 607 – 617. 
+
+21. Kaveh, A., Mirzai, B., Jafarvand, A. (2015). An improved magnetic charged system search for 
+optimization of truss structures with continuous and discrete variables, Applied Soft Computing, Vol. 28, 
+pp. 400-410. 
+
+THE ANALYSIS OF NICE CALCULATIONS FOR DISPLACEMENTS OF 
+REGULAR JOINT-AND-ROD STRUCTURES 
+
+D.V. Tinkov 
+ОАО «GosMKB „Raduga“ im. A.Ya. Bereznyaka», Dubna 
+
+        The exact analytical expressions for deflection of plane truss structures of various kinds 
+are presented. Deflection of trusses calculated by the formula of the Maxwell-Mohr on the 
+assumption of elastic elements of its work and with the help of the method of induction on the 
+number of panels is given. A comparative analysis with known solutions is given too. We 
+study the quantitative and qualitative features of solutions. Identifies characteristics and limits 
+on the number of panels characteristics are shown. Research carried out with the support of 
+the computer mathematic program Marle in symbolic form. For comparison, solutions and test 
+were made with using a multifunctional software package Lira, which is intended for the de-
+sign and calculation of building and engineering structures. 
+
+KEY WORDS: plane truss, deflection, analytical solution, induction, Maple, Lira. 
+
+28

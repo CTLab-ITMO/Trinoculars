@@ -1,0 +1,560 @@
+﻿УДК 669.35: 539.25 
+doi: 10.18323/2782-4039-2022-3-1-69-75 
+ 
+
+Влияние старения на микротвердость и электропроводность  
+сплава Cu–2 вес. % Be 
+
+© 2022 
+1
+
+Зайнуллина Лилия Ильгизовна* , старший преподаватель кафедры материаловедения и физики металлов 
+2
+
+Саркеева Елена Александровна , старший преподаватель кафедры материаловедения и физики металлов 
+3
+
+Александров Игорь Васильевич , доктор физико-математических наук, профессор,  
+профессор кафедры материаловедения и физики металлов 
+
+4
+Валиев Руслан Зуфарович , доктор физико-математических наук, профессор,  
+
+профессор кафедры материаловедения и физики металлов 
+Уфимский государственный авиационный технический университет, Уфа (Россия) 
+ 
+
+1
+*E-mail: ZaynullinaLI@yandex.ru ORCID: https://orcid.org/0000-0001-6116-1535 
+
+2ORCID: https://orcid.org/0000-0002-0357-8161 
+3ORCID: https://orcid.org/0000-0002-4789-4713 
+4ORCID: https://orcid.org/0000-0003-4340-4067 
+
+ 
+Поступила в редакцию 04.05.2022        Принята к публикации 28.07.2022 
+
+ 
+Аннотация: Изделия из бериллиевых бронз получили широкое распространение в промышленности благода-
+
+ря уникальному комплексу свойств: высокой теплопроводности, прочности, твердости, износостойкости, корро-
+зионной стойкости. Они не магнитные и не дают искры при ударе, поэтому незаменимы для изготовления искро-
+безопасных инструментов. Сплавы данной системы применяются в электротехнической промышленности, следо-
+вательно, стоит уделять внимание повышению электропроводности материалов. Работа посвящена исследованию 
+микроструктуры, микротвердости и электропроводности сплава Cu‒2 вес. % Be, подвергнутого интенсивной пла-
+стической деформации кручением (ИПДК). Проведены исследования микроструктуры и тонкой структуры сплава 
+в различных состояниях. Показано, что ИПДК приводит к формированию ультрамелкозернистого наноструктур-
+ного (УМЗ НС) состояния со средним размером зерен/субзерен 22±1 нм. Дальнейшее старение образцов после 
+ИПДК привело к незначительному увеличению размера зерен/субзерен до 31±1 нм. В обоих состояниях просле-
+живаются наноразмерные деформационные двойники. Проведены исследования зависимости микротвердости  
+и электропроводности сплава после ИПДК от времени последующего старения. Установлено, что микротвердость 
+возрастает с 122±3 HV в исходном состоянии до 525±8 HV после ИПДК и старения. Показано, что электропро-
+водность значительно лучше восстанавливается после проведения старения УМЗ НС состояния по сравнению  
+с исходным состоянием. Электропроводность УМЗ НС состояния возросла с 14,5±0,1 % IACS до значения 
+27,5±0,6 % IACS при условиях, аналогичных случаю старения исходного состояния. Таким образом, в результате 
+данных обработок сплав Cu–2 вес. % Be характеризуется повышенными прочностными свойствами и электропро-
+водностью.  
+
+Ключевые слова: ИПДК; бериллиевая бронза; электропроводность; наноструктура. 
+Благодарности: Работа выполнена при финансовой поддержке Министерства науки и высшего образования 
+
+РФ в рамках проекта № 0838-2020-0006 «Фундаментальные исследование новых принципов создания перспектив-
+ных электромеханических преобразователей энергии с характеристиками выше мирового уровня, с повышенной 
+эффективностью и минимальными удельными показателями, с использованием новых высокоэффективных элек-
+тротехнических материалов». 
+
+Для цитирования: Зайнуллина Л.И., Саркеева Е.А., Александров И.В., Валиев Р.З. Влияние старения на мик-
+ротвердость и электропроводность сплава Cu–2 вес. % Be // Frontier Materials & Technologies. 2022. № 3. С. 69–75. 
+DOI: 10.18323/2782-4039-2022-3-1-69-75. 
+
+ 
+пазоне температур от 700 до 800 °C с последующим 
+
+ВВЕДЕНИЕ низкотемпературным старением в диапазоне темпера-
+Бериллиевые бронзы являются перспективными тур от 280 до 350 °C [4]. В процессе старения реализу-
+
+сплавами, широко применяемыми для производства ется следующая последовательность фазовых превра-
+изделий ответственного назначения. Они обладают щений: однородные зоны Гинье – Престона  коге-
+превосходными конструкционными и функциональны- рентные метастабильные γ''-фазы  последующие  
+ми свойствами, в том числе высокими прочностью, уп- γ'-фазы  равновесная γ-фаза [5–7]. В результате бе-
+ругостью, пределами текучести и усталости, а также риллиевые бронзы приобретают твердость до 400 HV, 
+электро- и теплопроводностью, сопротивлением корро- предел текучести 1100 МПа при электропроводности 
+зии и износостойкостью [1–3]. Растворимость атомов 15–20 % IACS [8; 9].  
+Be в медной матрице уменьшается при понижении тем- Методы интенсивной пластической деформации 
+пературы. В связи с этим бериллиевые бронзы относят- (ИПД) убедительно демонстрируют возможность форми-
+ся к дисперсионно-твердеющим сплавам. Классическая рования ультрамелкозернистых (УМЗ) наноструктурных 
+обработка включает закалку на твердый раствор в диа- (НС) состояний, характеризующихся привлекательными 
+
+F rontier Materials & Technologies. 2022. № 3-1 69
+
+
+
+Зайнуллина Л.И., Саркеева Е.А., Александров И.В. и др.   «Влияние старения на микротвердость и электропроводность сплава…» 
+
+свойствами, в различных металлических материалах Старение исходного состояния и постдеформационное 
+[10–12]. Результаты исследования влияния ИПД круче- старение состояний после ИПДК проводили при темпера-
+нием (ИПДК) под высоким давлением на микрострук- туре 300 °C в течение различных промежутков времени.  
+туру, механические свойства и особенности деформа- Электропроводность измеряли вихретоковым мето-
+ционного старения бериллиевой бронзы Cu–2 вес. % Be дом с использованием измерителя электропроводности 
+представлены в работах [13; 14]. Авторами [13] уста- ВЭ-27НЦ. Поверхность образцов для измерений была 
+новлено, что ИПДК, реализованная при комнатной параллельна плоскости полученных дисков. Погреш-
+температуре с числом оборотов, равным 5, и после- ность измерений составила ±2 %.  
+дующее старение обеспечивают формирование нано- Исследования тонкой структуры проводили на про-
+кристаллического (НК) состояния, характеризующегося свечивающем электронном микроскопе (ПЭМ) JEM-2100 
+максимальным значением микротвердости, равным в темном и светлом полях при ускоряющем напряжении 
+465±4 HV. Полученные значения существенно превы- 200 кВ. Исследования были выполнены в плоскости, па-
+шают значение микротвердости, равное 390 HV и харак- раллельной плоскости дисков, на расстоянии 2,5 мм от 
+терное для крупнозернистых сплавов системы Cu–Be, центра диска. Фольги для ПЭМ-исследований получали 
+подвергнутых старению при оптимальных условиях.  путем утонения образцов методом струйной электроли-
+
+Обеспечение сочетания высокой прочности и элек- тической полировки на установке Tenupоl-5 с использо-
+тропроводности не только представляет фундаменталь- ванием электролита следующего состава: 1/3 часть HNO3  
+ный интерес, но и имеет большое практическое значе- и 2/3 части метанола при температуре −30 °C.  
+ние для инновационных применений медных сплавов  Микротвердость по Виккерсу определяли с исполь-
+в электротехнике. Как показано ранее, в случае сплавов зованием микротвердомера Struers Duramin. К образ-
+системы Cu–Be основное внимание до настоящего вре- цам, поверхность которых была отшлифована с исполь-
+мени уделялось повышению прочности за счет ИПД  зованием шлифовальной бумаги мелкой зернистости, 
+и последующего старения. При этом внимания увели- прикладывали нагрузку 100 г в течение 10 с. Микро-
+чению значений электропроводности не уделялось.  твердость измеряли в точках, отстоящих от центра дис-
+
+Цель исследования – повышение электропроводно- ков на расстоянии 2,5 мм. Полученные значения усред-
+сти сплава Cu–2 вес. % Be за счет формирования нано- няли по результатам не менее 20 измерений. 
+структурного состояния методом ИПДК и обеспечения  
+более полного распада твердого раствора при последую-
+щем старении по сравнению с исходным состоянием.  РЕЗУЛЬТАТЫ ИССЛЕДОВАНИЯ 
+
+ Изображения микроструктуры сплава Cu–2 вес. % Be 
+в исходном состоянии и после старения, полученные 
+
+МЕТОДИКА ПРОВЕДЕНИЯ ИССЛЕДОВАНИЯ  растровым электронным микроскопом, представлены 
+Для проведения исследований прутки сплава  на рис. 1. Исходное состояние сплава (рис. 1 a) характе-
+
+Cu–2 вес. % Be были выдержаны в электропечи Naber- ризуется средним размером зерна, равным 51±2 мкм.  
+therm при температуре 780 °C в течение 30 мин, затем В микроструктуре наблюдаются равноосные зерна, со-
+подвергнуты закалке быстрым погружением в воду. От держащие двойники отжига. В теле зерен наблюдаются 
+прутков перпендикулярно их продольной оси методом равномерно распределенные частицы NiBe. В результа-
+электроэрозионной резки были отрезаны диски диамет- те последующего старения исходного состояния сред-
+ром 10 мм и толщиной 1,5 мм. Это состояние принято ний размер зерна практически не изменился и стал рав-
+за исходное.  ным 53±1 мкм (рис. 1 b). Характер распределения час-
+
+ИПДК реализовали при комнатной температуре под тиц NiBe также не изменился. 
+давлением 6 ГПа с числом оборотов N=10 и со скоро- Изображения тонкой структуры сплава после ИПД  
+стью вращения одного из бойков, равной 0,2 об/мин.  и последующего старения приведены на рис. 2. 
+
+ 
+ 
+ 
+
+       
+ a b 
+
+Рис. 1. Изображения микроструктуры сплава Cu–2 вес. % Be: a – в исходном состоянии; b – после старения 
+Fig. 1. Images of Cu–2 wt. % Be alloy microstructure: a – in the initial state; b – after ageing 
+
+7 0 Frontier Materials & Technologies. 2022. № 3-1
+
+
+
+Зайнуллина Л.И., Саркеева Е.А., Александров И.В. и др.   «Влияние старения на микротвердость и электропроводность сплава…» 
+
+       
+ a b 
+
+Рис. 2. Тонкая структура сплава Cu–2 вес. % Be:  
+a – после интенсивной пластической деформации кручением;  
+
+b – после интенсивной пластической деформации кручением и последующего старения 
+Fig. 2. Fine structure of the Cu–2 wt. % Be alloy:  
+
+a – after high-pressure torsion; b – after high-pressure torsion and ageing 
+ 
+ 
+ 
+В результате ИПДК в исследуемом сплаве сформи- в микроструктуре (вставки в левом верхнем углу на 
+
+ровалась сильнодеформированная микроструктура с на- рис. 2 a, 2 b). 
+норазмерными зернами и высокой плотностью дисло- На рис. 3 приведены зависимости изменения микро-
+каций, которые расположены неравномерно (рис. 2 a). твердости и электропроводности сплава для исходного 
+Дислокации служат местами зарождения для дальней- состояния и после ИПДК от времени старения. Измере-
+шего осаждения во время последующего старения. ния микротвердости исходного состояния показали 
+Средний размер зерен после 10 оборотов ИПДК состав- невысокие значения, равные 122±3 HV. В начале старе-
+ляет 22±1 нм. Дальнейшее старение образцов после ния микротвердость для обоих состояний резко увеличи-
+ИПДК привело к формированию микроструктуры со вается: в исходном состоянии с 122±3 HV до 370±6 HV. 
+средним размером зерен 31±1 нм (рис. 2 b). В обоих Дальнейшее увлечение времени старения исходного 
+состояниях прослеживаются наноразмерные деформа- состояния приводит к снижению скорости роста микро-
+ционные двойники. Двойные дифракционные точки на твердости. После 5 ч выдержки при 300 °С микротвер-
+отснятых электронограммах для данных состояний под- дость исходного состояния возросла и составила 
+тверждают присутствие деформационных двойников  396±2 HV. 
+
+ 
+ 
+ 
+
+600 35 
+
+500 30 
+
+25 
+400 
+
+20 
+300 
+
+15 
+200 
+
+10 
+
+100 5 
+
+0 0 
+0 1 2 3 4 5 6 
+
+Время, ч 
+HV ИПДК HV ИС 
+Электропроводность ИПДК Электропроводность ИС 
+
+ 
+ 
+
+Рис. 3. Микротвердость и электропроводность сплава 
+Fig. 3. Microhardness and electrical conductivity of the alloy 
+
+ 
+ 
+
+F rontier Materials & Technologies. 2022. № 3-1 71
+
+HV 
+
+IACS, % 
+
+
+
+Зайнуллина Л.И., Саркеева Е.А., Александров И.В. и др.   «Влияние старения на микротвердость и электропроводность сплава…» 
+
+Микротвердость после 10 оборотов ИПДК выросла в тонкой структуре выделений CuBe, препятствующих 
+с 122±3 HV в исходном состоянии до 452±5 HV. В ре- перемещению дислокаций, и к созданию полей боль-
+зультате старения в течение 1 ч состояния после ИПДК ших напряжений [19; 20]. Дальнейшее увеличение про-
+произошел рост микротвердости с 452±5 HV до мак- должительности времени старения не приводит к за-
+симального значения 525±8 HV. Дальнейшее увеличе- метному изменению величины электропроводности.  
+ние времени старения до 5 ч привело к разупрочнению  В данном случае наблюдается баланс между перерас-
+до 463±5 HV. пределением легирующих атомов в решетке матрицы, 
+
+Электропроводность исходного состояния оказалась связанным с формированием выделений CuBe, и вос-
+низкой и составила 17,8±0,4 % IACS. Дальнейшее старе- становительными процессами, происходящими в мате-
+ние в течение 1 ч исходного состояния практически не риале.  
+изменило величину электропроводности. Ее значение Стоит отметить, что ИПДК привела к некоторому 
+составляет 18,3±0,4 % IACS. Увеличение времени старе- снижению электропроводности по сравнению с исход-
+ния до 5 ч приводит к стабильному значению электро- ным состоянием. Несмотря на то, что в результате 
+проводности исходного состояния 20,9±0,4 % IACS.  ИПДК сформировалась более развитая сетка высокоуг-
+
+Электропроводность сплава после ИПДК составила ловых границ зерен, зернограничный и дислокацион-
+14,5±0,1 % IACS. Новым моментом является значитель- ный вклады понизили электропроводность. При этом 
+но большее повышение электропроводности в результате следует учесть возможный вклад в эволюцию электро-
+старения УМЗ состояния по сравнению с таковым, ха- проводности процесса трансформации малоугловых гра-
+рактерным для исходного состояния. Электропровод- ниц в высокоугловые границы зерен, а также формиро-
+ность УМЗ состояния возросла с 14,5±0,1 % IACS до вания сегрегаций примесных атомов на границах зерен 
+значения 27,5±0,6 % IACS при условиях, аналогичных в результате ИПДК.  
+случаю старения исходного состояния. Уменьшение Рост электропроводности в результате старения УМЗ 
+размера зерна и повышение плотности дислокаций  состояния может быть объяснен, во-первых, тем, что при 
+в процессе ИПДК способствуют увеличению скорости старении УМЗ состояния происходит более полный рас-
+зародышеобразования и росту частиц. При тех же усло- пад пересыщенного твердого раствора, высокая плот-
+виях в случае исходного состояния резкого увеличения ность дислокаций обеспечивает большое количество 
+электропроводности на начальном этапе старения не мест зарождения и, следовательно, более высокую ско-
+наблюдается. Дальнейшее увеличение времени старе- рость выделения второй фазы и ее роста. В [13] показа-
+ния приводит к снижению скорости восстановления но, что при старении после ИПДК происходит выделе-
+электропроводности, и после 5 ч в случае УМЗ состоя- ние стабильной фазы непосредственно из твердого рас-
+ния она составляет 30,1±0,6 % IACS. твора. Выделившаяся фаза не когерентна с матрицей, и, 
+
+ следовательно, электросопротивление сплава в результа-
+те старения увеличивается. Увеличение времени вы-
+
+ОБСУЖДЕНИЕ РЕЗУЛЬТАТОВ держки до 5 ч восстанавливает электропроводность до 
+Старение исходного состояния не привело в преде- 30,1±0,6 % IACS, когда концентрация растворенного 
+
+лах погрешности к изменению среднего размера зерна, вещества в меди приближается к равновесию. 
+однако привело к росту микротвердости более чем   
+в 3 раза. Это может быть связано с микроструктурными 
+превращениями и появлением на ранних этапах старе- ОСНОВНЫЕ РЕЗУЛЬТАТЫ 
+
+ния выделений CuBe, которые являются наименее ста- Показано, что в результате проведения ИПДК  
+бильными из всех метастабильных фаз в системе Cu–Be в сплаве Cu–2 вес. % Be сформировано УМЗ НС со-
+и могут служить предшественниками появления одной стояние со средним размером зерен/субзерен 22±1 нм. 
+из основных упрочняющих фаз [15].  Благодаря этому повышается микротвердость с 122±3 
+
+В результате ИПДК микроструктура стала УМЗ. до 452 HV, что в 3,7 раза больше по сравнению с ис-
+Рост микротвердости с 122±3 HV в исходном состоянии ходным состоянием. Последующее старение образцов 
+до 452±5 HV в результате 10 оборотов ИПДК обуслов- после ИПДК привело к незначительному увеличению 
+лен измельчением микроструктуры. Отметим, что по- среднего размера зерен/субзерен до 31±1 нм. Однако 
+лученные значения микротвердости для данного со- значение микротвердости возрастает до 525 МПа, что 
+стояния превышают значения микротвердости, полу- связано с дисперсионным упрочнением. Показано, что 
+ченные для состояний после ИПДК с числом оборотов в результате ИПДК электропроводность снижается  
+10 при комнатной температуре и при 150 °C, равные с 17,8 до 14,5 % IACS. Последующее старение УМЗ НС 
+400 и 430 HV, в работе [16], а также в работе [13] после состояния приводит к более высокой скорости восста-
+ИПДК с числом оборотов, равным 5, где микротвер- новления электропроводности и более высоким показа-
+дость достигла значения 390 HV. Дальнейший рост ниям электропроводности по сравнению с исходным 
+микротвердости после старения может быть объяснен состоянием.  
+главным образом дисперсионным упрочнением, выде- Таким образом, продемонстрировано положитель-
+лением частиц CuBe из твердого раствора, в том числе ное влияние ИПДК и последующего старения на фор-
+на границах зерен [17; 18].  мирование в сплаве Cu–2 вес. % Be УМЗ НС состояния, 
+
+Старение исходного состояния в начальный момент характеризующегося максимально высокими значения-
+времени приводит к повышению микротвердости до ми электропроводности 27,5±0,6 % IACS и микротвер-
+370±6 HV, что, по-видимому, связано с формированием дости 525±8 HV. 
+
+ 
+
+7 2 Frontier Materials & Technologies. 2022. № 3-1
+
+
+
+Зайнуллина Л.И., Саркеева Е.А., Александров И.В. и др.   «Влияние старения на микротвердость и электропроводность сплава…» 
+
+СПИСОК ЛИТЕРАТУРЫ als Science and Engineering A. 2021. Vol. 823. Article 
+
+1. Montecinos S., Tognana S., Gonzalez C., Salgueiro W. number 141760. DOI: 10.1016/j.msea.2021.141760. 
+
+Influence of the load on the elastic modulus determined 15. Tang Y.Ch., Kang Y.L., Yue L.J., Xiao-Liang J. Preci-
+
+from nanoindentation measurements in a Cu-2Be alloy pitation behavior of Cu-1.9Be-0.3Ni-0.15Co alloy dur-
+
+with different microstructures // Engineering Research ing aging // Acta Metallurgica Sinica (English Letters). 
+
+Express. 2021. Vol. 3. Article number 035025. DOI: 10. 2015. Vol. 28. № 3. P. 307–315. DOI: 10.1007/s40195-
+
+1088/2631-8695/ac1a5b. 014-0198-0. 
+
+2. Zinkle S.J. Evaluation of high strength, high conductivi- 16. Watanabe C., Monzen R., Ii S., Tsuchiya K. Microstruc-
+
+ty CuNiBe alloys for fusion energy applications // Jour- ture and aging behavior of Cu-Be alloy processed by 
+
+nal of Nuclear Materials. 2014. Vol. 449. № 1-3.  high-pressure torsion // Materials Science Forum. 2014. 
+
+P. 277–289. DOI: 10.1016/j.jnucmat.2013.09.007. Vol. 783-786. P. 2707–2712. DOI: 10.4028/www. 
+
+3. Zhou Y.J., Song K.X., Xing J.D., Zhang Y.M. Precipita- scientific.net/MSF.783-786.2707. 
+
+tion behavior and properties of aged Cu-0.23Be-0.84Co 17. Hillel G., Meshi L., Shimon S., Kalabukhov S., Frage N., 
+
+alloy // Journal of Alloys and Compounds. 2016.  Zaretsky E.B. Shock wave study of precipitation har-
+
+Vol. 658. P. 920–930. DOI: 10.1016/j.jallcom.2015.10.290. dening of beryllium copper // Materials Science and En-
+
+4. Мысик Р.К., Логинов Ю.Н., Сулицин А.В. Литье  gineering A. 2022. Vol. 834. Article number 142599. 
+
+и обработка бронз со специальными свойствами. DOI: 10.1016/j.msea.2022.142599. 
+
+Екатеринбург: УГТУ, 2008. 312 с. EDN: VRKUKV. 18. Kızılaslan A., Altınsoy İ. The mechanism of two-step 
+
+5. Jen K.P., Xu L., Hylinski S., Gildersleeve N. Over- increase in hardness of precipitation hardened 
+
+aging effect on fracture toughness of beryllium copper CuCoNiBe alloys and characterization of precipitates // 
+
+alloy C17200 // Journal of Materials Engineering and Journal of Alloys and Compounds. 2017. Vol. 701.  
+
+Performance. 2008. Vol. 17. № 5. P. 714–724.  P. 116–121. DOI: 10.1016/j.jallcom.2017.01.101. 
+
+DOI: 10.1007/s11665-007-9193-1. 19. Guoliang X., Qiangsong W., Xujun M., Baiqing X., 
+
+6. Khachaturyan A.G., Laughlin D.E. Structural transfor- Lijun P. The precipitation behavior and strengthening of 
+
+mations during decomposition in CuBe alloys // Acta a Cu–2.0 wt% Be alloy // Materials Science and Engi-
+
+Metallurgica Et Materialia. 1990. Vol. 38. № 10.  neering A. 2012. Vol. 558. P. 326–330. DOI: 10.1016/ 
+
+P. 1823–1835. DOI: 10.1016/0956-7151(90)90294-Q. j.msea.2012.08.007. 
+
+7. Koo Y.M., Cohen J.B. The structure of GP zones in Cu- 20. Huang X., Xie G., Liu X., Fu H., Shao L., Hao Z.  
+
+10.9 at.% Be // Acta metallurgica. 1989. Vol. 37. № 5. The influence of precipitation transformation on 
+
+P. 1295–1306. DOI: 10.1016/0001-6160(89)90159-4. Young’s modulus and strengthening mechanism of  
+
+8. Zhang H., Jiang Y., Xie J., Li Y., Yue L. Precipitation a Cu–Be binary alloy // Materials Science and Engineer-
+
+behavior, microstructure and properties of aged  ing A. 2020. Vol. 772. Article number 138592.  
+
+Cu-1.7 wt% Be alloy // Journal of Alloys and Com- DOI: 10.1016/j.msea.2019.138592. 
+
+pounds. 2019. Vol. 773. P. 1121–1130. DOI: 10.  
+
+1016/j.jallcom.2018.09.296.  
+REFERENCES 
+
+9. Zhang W., Zhao Z., Fang J., He P., Chao Z., Gong D., 
+Chen G., Jiang L. Evolution and strengthening mecha- 1. Montecinos S., Tognana S., Gonzalez C., Salgueiro W. 
+
+nism of metastable precipitates in Cu-2.0 wt% Be alloy // Influence of the load on the elastic modulus determined 
+
+Journal of Alloys and Compounds. 2021. Vol. 857. Ar- from nanoindentation measurements in a Cu-2Be alloy 
+
+ticle number 157601. DOI: 10.1016/j.jallcom.2020. with different microstructures. Engineering Research 
+
+157601. Express, 2021, vol. 3, article number 035025.  
+
+10. Valiev R.Z., Islamgaliev R.K., Alexandrov I.V. Bulk DOI: 10.1088/2631-8695/ac1a5b. 
+
+nanostructured materials from severe plastic defor- 2. Zinkle S.J. Evaluation of high strength, high conductivi-
+
+mation // Progress in Materials Science. 2000. Vol. 45. ty CuNiBe alloys for fusion energy applications. Jour-
+
+№ 2. P. 103–189. DOI: 10.1016/S0079-6425(99)00007-9. nal of Nuclear Materials, 2014, vol. 449, no. 1-3,  
+
+11. Murashkin M.Y., Sabirov I., Sauvage X., Valiev R.Z. pp. 277–289. DOI: 10.1016/j.jnucmat.2013.09.007. 
+
+Nanostructured Al and Cu alloys with superior strength 3. Zhou Y.J., Song K.X., Xing J.D., Zhang Y.M. Precipita-
+
+and electrical conductivity // Journal of Materials Sci- tion behavior and properties of aged Cu-0.23Be-0.84Co 
+
+ence. 2016. Vol. 51. № 1. P. 33–49. DOI: alloy. Journal of Alloys and Compounds, 2016,  
+
+10.1007/s10853-015-9354-9. vol. 658, pp. 920–930. DOI: 10.1016/j.jallcom.2015.10.290. 
+
+12. Sabirov I., Enikeev N., Murashkin M., Valiev R. Bulk 4. Mysik R.K., Loginov Yu.N., Sulitsin A.V. Lit’e i 
+
+Nanostructured Materials with Multifunctional Proper- obrabotka bronz so spetsialnymi svoystvami [Casting 
+
+ties. Heidellberg: Springer, 2015. 118 p. DOI: 10.1007/ and processing of bronzes with special properties]. 
+
+978-3-319-19599-5. Ekaterinburg, UGTU Publ., 2008. 312 p. 
+
+13. Lomakin I., Castillo-Rodriguez M., Sauvage X. Micro- EDN: VRKUKV. 
+
+structure, mechanical properties and aging behaviour of 5. Jen K.P., Xu L., Hylinski S., Gildersleeve N. Over-
+
+nanocrystalline copper-beryllium alloy // Materials Sci- aging effect on fracture toughness of beryllium copper 
+
+ence and Engineering A. 2019. Vol. 744. P. 206–214. alloy C17200. Journal of Materials Engineering and 
+
+DOI: 10.1016/j.msea.2018.12.011. Performance, 2008, vol. 17, no. 5, pp. 714–724.  
+
+14. Lomakin I., Nigmatullina A., Sauvage X. Mechanism of DOI: 10.1007/s11665-007-9193-1. 
+
+large strain accommodation assisted by shear localiza- 6. Khachaturyan A.G., Laughlin D.E. Structural transfor-
+
+tion in a precipitation-hardened Cu–Be alloy // Materi- mations during decomposition in CuBe alloys. Acta 
+
+F rontier Materials & Technologies. 2022. № 3-1 73
+
+
+
+Зайнуллина Л.И., Саркеева Е.А., Александров И.В. и др.   «Влияние старения на микротвердость и электропроводность сплава…» 
+
+Metallurgica Et Materialia, 1990, vol. 38, no. 10,  14. Lomakin I., Nigmatullina A., Sauvage X. Mechanism of 
+pp. 1823–1835. DOI: 10.1016/0956-7151(90) large strain accommodation assisted by shear localiza-
+90294-Q. tion in a precipitation-hardened Cu–Be alloy. Materials 
+
+7. Koo Y.M., Cohen J.B. The structure of GP zones in  Science and Engineering A, 2021, vol. 823, article num-
+Cu-10.9 at.% Be. Acta metallurgica, 1989, vol. 37,  ber 141760. DOI: 10.1016/j.msea.2021.141760. 
+no. 5, pp. 1295–1306. DOI: 10.1016/0001-6160(89)90159-4. 15. Tang Y.Ch., Kang Y.L., Yue L.J., Xiao-Liang J. Preci-
+
+8. Zhang H., Jiang Y., Xie J., Li Y., Yue L. Precipitation pitation behavior of Cu-1.9Be-0.3Ni-0.15Co alloy dur-
+behavior, microstructure and properties of aged Cu-1.7 ing aging. Acta Metallurgica Sinica (English Letters), 
+wt% Be alloy. Journal of Alloys and Compounds, 2019, 2015, vol. 28, no. 3, pp. 307–315. DOI: 10.1007/s 
+vol. 773, pp. 1121–1130. DOI: 10.1016/j.jallcom.2018. 40195-014-0198-0. 
+09.296.  16. Watanabe C., Monzen R., Ii S., Tsuchiya K. Microstruc-
+
+9. Zhang W., Zhao Z., Fang J., He P., Chao Z., Gong D., ture and aging behavior of Cu-Be alloy processed by 
+Chen G., Jiang L. Evolution and strengthening mecha- high-pressure torsion. Materials Science Forum, 2014, 
+nism of metastable precipitates in Cu-2.0 wt% Be alloy. vol. 783-786, pp. 2707–2712. DOI: 10.4028/www. 
+Journal of Alloys and Compounds, 2021, vol. 857, arti- scientific.net/MSF.783-786.2707. 
+cle number 157601. DOI: 10.1016/j.jallcom.2020. 17. Hillel G., Meshi L., Shimon S., Kalabukhov S., Frage N., 
+157601. Zaretsky E.B. Shock wave study of precipitation harde-
+
+10. Valiev R.Z., Islamgaliev R.K., Alexandrov I.V. Bulk ning of beryllium copper. Materials Science and Engi-
+nanostructured materials from severe plastic defor- neering A, 2022, vol. 834, article number 142599. DOI: 
+mation. Progress in Materials Science, 2000, vol. 45, 10.1016/j.msea.2022.142599. 
+no. 2, pp. 103–189. DOI: 10.1016/S0079-6425(99) 18. Kızılaslan A., Altınsoy İ. The mechanism of two-step 
+00007-9. increase in hardness of precipitation hardened 
+
+11. Murashkin M.Y., Sabirov I., Sauvage X., Valiev R.Z. CuCoNiBe alloys and characterization of precipitates. 
+Nanostructured Al and Cu alloys with superior strength Journal of Alloys and Compounds, 2017, vol. 701,  
+and electrical conductivity. Journal of Materials Sci- pp. 116–121. DOI: 10.1016/j.jallcom.2017.01.101. 
+ence, 2016, vol. 51, no. 1, pp. 33–49. DOI: 10.1007/ 19. Guoliang X., Qiangsong W., Xujun M., Baiqing X., 
+s10853-015-9354-9. Lijun P. The precipitation behavior and strengthening of 
+
+12. Sabirov I., Enikeev N., Murashkin M., Valiev R. Bulk a Cu–2.0 wt% Be alloy. Materials Science and Engi-
+Nanostructured Materials with Multifunctional Proper- neering A, 2012, vol. 558, pp. 326–330. DOI: 10.1016/ 
+ties. Springer, 2015. 118 p. DOI: 10.1007/978-3-319- j.msea.2012.08.007. 
+19599-5. 20. Huang X., Xie G., Liu X., Fu H., Shao L., Hao Z.  
+
+13. Lomakin I., Castillo-Rodriguez M., Sauvage X. Micro- The influence of precipitation transformation on 
+structure, mechanical properties and aging behaviour of Young’s modulus and strengthening mechanism of  
+nanocrystalline copper-beryllium alloy. Materials Sci- a Cu–Be binary alloy. Materials Science and Engineer-
+ence and Engineering A, 2019, vol. 744, pp. 206–214. ing A, 2020, vol. 772, article number 138592.  
+DOI: 10.1016/j.msea.2018.12.011. DOI: 10.1016/j.msea.2019.138592. 
+ 
+
+The influence of aging on microhardness and electrical conductivity 
+of Cu–2 wt. % Be alloy 
+
+© 2022 
+1
+
+Liliya I. Zaynullina* , senior lecturer of Chair of Materials Science and Physics of Metals 
+2
+
+Elena A. Sarkeeva , senior lecturer of Chair of Materials Science and Physics of Metals 
+3
+
+Igor V. Alexandrov , Doctor of Sciences (Physics and Mathematics), Professor,  
+professor of Chair of Materials Science and Physics of Metals 
+
+4
+Ruslan Z. Valiev , Doctor of Sciences (Physics and Mathematics), Professor,  
+
+professor of Chair of Materials Science and Physics of Metals 
+Ufa State Aviation Technical University, Ufa (Russia) 
+ 
+
+1
+*E-mail: ZaynullinaLI@yandex.ru ORCID: https://orcid.org/0000-0001-6116-1535 
+
+2ORCID: https://orcid.org/0000-0002-0357-8161 
+3ORCID: https://orcid.org/0000-0002-4789-4713 
+4ORCID: https://orcid.org/0000-0003-4340-4067 
+
+ 
+Received 04.05.2022                  Accepted 28.07.2022 
+
+ 
+Abstract: Goods made of beryllium bronzes got widespread use in the industry due to the complex of properties: high 
+
+heat conductivity, strength, hardness, wear resistance, and corrosion resistance. They are not magnesium-based and do not 
+spark on impact; therefore, they are essential for the production of non-sparking tools. The alloys of this system are used in 
+the electrical engineering industry; consequently, it is necessary to pay attention to the improvement of the material’s elec-
+trical conductivity. The paper studies the microstructure, microhardness, and electrical conductivity of the Cu–2 wt.% Be 
+alloy exposed to high-pressure torsion (HPT). The authors investigated the microstructure and fine structure of the alloy in 
+various states. The study showed that HPT leads to the formation of an ultrafine-grained nanostructured (UFG NS) state 
+with an average size of grains/subgrains of 22±1 mmn. Additional ageing of samples after HPD led to a slight increase in 
+
+7 4 Frontier Materials & Technologies. 2022. № 3-1
+
+
+
+Зайнуллина Л.И., Саркеева Е.А., Александров И.В. и др.   «Влияние старения на микротвердость и электропроводность сплава…» 
+
+the grains/subgrains size up to 31±1 mmn. In both states, the authors observed nanosized deformation twins. The authors 
+studied the dependences of microhardness and electrical conductivity of the alloy after HPD on the time of further ageing. 
+The study identified that the microhardness increases from 122±3 HV in the initial state up to 525±8 HV after HPD and 
+ageing. The investigation shows that the electrical conductivity substantially better recovers after ageing of the UFG NS 
+state compared to the initial state. The electrical conductivity of the UFG NS state increased from 14.5±0.1 % IACS up  
+to 27.5±0.6 % IACS in conditions similar to the initial state ageing. Therefore, resulting from such processing,  
+the Cu–2 wt.% Be alloy is characterized by its advanced strength properties and electrical conductivity.  
+
+Keywords: HPT; beryllium bronze; electrical conductivity; nanostructure. 
+Acknowledgements: The work was carried out under the financial support of the Ministry of Science and Higher Edu-
+
+cation of the Russian Federation within the project No. 0838-2020-0006 “Fundamental research of new principles of crea-
+tion of the advanced electromechanical energy converters with the characteristics higher than the international standards 
+with the improved efficiency and minimum specific indicators with the use of new high-performance electrotechnical ma-
+terials”. 
+
+For citation: Zaynullina L.I., Sarkeeva E.A., Alexandrov I.V., Valiev R.Z. The influence of aging on microhardness 
+and electrical conductivity of Cu–2 wt. % Be alloy. Frontier Materials & Technologies, 2022, no. 3, pp. 69–75. DOI: 10. 
+18323/2782-4039-2022-3-1-69-75. 
+
+ 
+
+F rontier Materials & Technologies. 2022. № 3-1 75

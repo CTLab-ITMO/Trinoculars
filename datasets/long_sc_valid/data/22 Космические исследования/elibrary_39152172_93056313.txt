@@ -1,0 +1,510 @@
+﻿НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 11. № 3–2019
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+doi: 10.24411/2409-5419-2018-10264
+
+МЕТОДИКА ОБОСНОВАНИЯ ПРЕДПОЧТИТЕЛЬНОГО ВАРИАНТА 
+ПРИМЕНЕНИЯ РАКЕТНО-КОСМИЧЕСКИХ КОМПЛЕКСОВ 
+ИСПЫТАТЕЛЬНОГО КОСМОДРОМА ПРИ РЕШЕНИИ ЗАДАЧ 
+ЗАПУСКА МАЛЫХ КОСМИЧЕСКИХ АППАРАТОВ
+
+АННОТАЦИЯ
+МОСИН Представлена методика позволяющая лицу принимающему решения обосновать выбор 
+Дмитрий Александрович1 предпочтительного варианта применения ракетно-космических комплексов, входящих 
+
+в состав испытательного космодрома как в условиях отсутствия предпочтений (крите-
+ДУГА риальной неопределенности), так и в случаях наличия предпочтений. Каждый вариант 
+Вадим Вадимович2 применения ракетно-космического комплекса оценивается по трем показателям: опера-
+
+тивность, стоимость, ресурсоемкость. В качестве исходных данных для методики приме-
+няется множество допустимых вариантов применения ракетно-космических комплексов, 
+получаемое с помощью научно-методического аппарата разработанного ранее. В зави-
+симости от указанных условий обстановки, задача обоснования предпочтительного ва-
+рианта применения решается в двух областях. В случае отсутствия у лица принимающего 
+решения предпочтений, задача выбора предпочтительного варианта применения ракет-
+но-космического комплекса решается с помощью метода идеальной точки, в случае от-
+сутствия у лица принимающего решения предпочтений, указанная задача решается с по-
+мощью лексикографического метода. При решении указанной задачи в первой области, 
+каждый вариант применения ракетно-космического комплекса представляется точкой в 
+конечномерном Гильбертовом пространстве. Далее находится идеальная точка, как точ-
+ка в пространстве имеющая координаты найденные, как совокупность наименьших зна-
+чений из представленного множества. Далее рассчитывается расстояние между каждой 
+из множества точек и предпочтительный вариант применения ракетно-космических ком-
+плексов испытательного космодрома. В случае наличия у лица принимающего решения 
+информации о приоритетах задача выбора предпочтительного варианта применения 
+решается с помощью лексикографического метода. Особенность этого метода заключа-
+ется в выборе наиболее приоритетного показателя и сужение множества альтернатив 
+до множества в котором максимальны значения по показателю имеющему первый при-
+оритет. В соответствии с той же логикой множество сужается по показателям имеющим 
+
+Сведения об авторах:
+приоритет два и по показателю имеющему приоритет три находится предпочтительный 
+
+1к.т.н., доцент, докторант 101 кафедры 
+Военно-космической академии вариант применения ракетно-космического комплекса. Применение указанной методи-
+имени А.Ф.Можайского, г. Санкт-Петербург, ки позволяет обосновать выбор предпочтительного вариант применения ракетно-косми-
+Россия, mosin-da@mail.ru ческих комплексов в различных условиях обстановки.
+2научный сотрудник Научно-испытательного 
+центра 1 Государственного испытательного КЛЮЧЕВЫЕ СЛОВА: испытательный космодром; ракетно-космический комплекс; ра-
+космодрома Министерства обороны 
+Российской Федерации, г. Мирный, Россия, кета космического назначения; малые космические аппараты; методы многокритери-
+dugavadim@mail.ru альной оптимизации; метод идеальной точки; лексикографический метод.
+
+Для цитирования: Мосин Д.А., Дуга В.В. Методика обоснования предпочтительного варианта применения ракетно-космических ком-
+плексов испытательного космодрома при решении задач запуска малых космических аппаратов // Наукоемкие технологии в космических 
+исследованиях Земли. 2019. Т. 11. № 3. С. 4–13. doi: 10.24411/2409-5419-2018-10264 
+
+4
+
+
+
+Vol. 11. No. 3-2019, H&ES RESEARCH
+
+AVIATION, SPASE-ROCKET HARDWARE
+
+—
+A ai , i N A N A
+
+=  |   , ..,nA 1 .  nA —
+- -
+- ai
+
+Al l
+A U Al
+
+B  b jNB B B
+j ,  | N  {1,...,n } nB — -
+
+-
+xB xBij xBij
+
+- xBij 0, bj
+ai xBj 1, bj
+
+- ai ai bj
+p i , p i , p p
+
+1 2 3i , 4i , p5i -
+
+p i p il
+- bj p jl p i -
+
+p -
+1il 0 l
+
+bj p il = —
+
+p
+2i1
+
+p
+2i p
+
+2i2
+- p
+
+2i3
+-
+
+bj
+
+- p i p il
+
+- bj l
+
+p
+4i1
+
+p
+4i2
+
+p
+4i p
+
+4i3
+
+- p
+4i4
+
+-
+-
+
+- -
+-
+-
+
+L(G),
+- 	 ,h	  ~ 
+
+
+ ,
+ 
+,h , ,F ,  
+ 
+
+-
+L G Q S —
+
+S -
+-
+- 	 — -
+
+-
+-
+
+5
+
+
+
+НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 11. № 3–2019
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+h	
+
+ 
+— - p* Argopt h± p
+
+peз
+p
+
+h  -
+-
+
+h —
+—
+
+-
+h -
+
+p
+h
+
+  — -
+
+-
+
+-
+
+h — - -
+
+h
+h -
+
+F   — -
+-
+
+h F h ,  .
+peз -
+
+-
+
+6
+
+
+
+Vol. 11. No. 3-2019, H&ES RESEARCH
+
+AVIATION, SPASE-ROCKET HARDWARE
+
+Q S R Q S R
+
+-
+-
+
+Q S R
+
+-
+-
+
+f н x f (x)
+( )  1
+
+1 fmax
+
+  Q Q   S  S    R  R 
+
+-
+-
+-
+
+Qk  Q -
+    
+
+g Sk  S k g
+
+Rk  R
+
+7
+
+
+
+НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 11. № 3–2019
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+Q S R
+
+-
+
+-
+
+- -
+
+-
+
+-
+-
+-
+
+8
+
+
+
+Vol. 11. No. 3-2019, H&ES RESEARCH
+
+AVIATION, SPASE-ROCKET HARDWARE
+
+-
+-
+
+-
+Q R S
+
+-
+
+p 
+-
+
+p   1
+,  n
+
+,... 
+
+ Q R -
+ S
+
+p  QpRpS p 
+p
+
+p
+
+Q p >Q 1
+1 1 
+Q p   Q 1  Q p Q 1
+
+,
+1 1 2  >
+
+2  
+...
+
+Q p
+m   Qm 1  ,m    p   1
+
+1, r 1 ,Qw  >Qw  
+wW
+
+9
+
+
+
+НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 11. № 3–2019
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+R p  R 1
+>
+
+1 1  -
+— -
+
+R p   R 1  p
+, R
+
+2   R 1
+>
+
+1 1 2  
+... —
+R p
+m    R 1
+
+m   m p R 1
+, 1, r 1 ,Rw  > w   -
+
+— -
+wW
+
+-
+
+S p
+1 >S
+
+1 1 
+S p   S 1  1
+
+, S
+1 1 2 p >S
+
+2  
+...
+
+S p   S 1
+m m  m  p
+
+, 1, r 1 ,Sw  >S 1
+w   -
+
+wW
+
+  arg min S arg min R arg minQ k 
+
+-
+-
+
+-
+-
+
+-
+
+-
+
+-
+—
+
+-
+-
+-
+
+-
+-
+
+-
+
+10
+
+
+
+Vol. 11. No. 3-2019, H&ES RESEARCH
+
+AVIATION, SPASE-ROCKET HARDWARE
+
+-
+-
+-
+
+-
+
+-
+
+-
+
+—
+-
+-
+
+-
+-
+-
+
+-
+- -
+-
+
+-
+
+- -
+-
+
+-
+-
+
+11
+
+
+
+НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 11. № 3–2019
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+METHOD OF JUSTIFICATION OF A PREFERRED EMBODIMENT 
+OF THE APPLICATION OF ROCKET-SPACE SYSTEMS TESTING SPACEPORT 
+IN SOLVING PROBLEMS THE LAUNCH OF SMALL SATELLITES
+
+MOSIN DMITRY ALEXANDROVICH, KEYWORDS: test spaceport; rocket and space complex; space rock-
+St.-Petersburg, Russia, sin-da@mail.ru et; small satellites; multi-criteria optimization methods; ideal point 
+
+method; lexicographic method.
+DUGA VADIM VADIMOVICH,
+Mirny, Russia, dugavadim@mail.ru
+
+ABSTRAСT REFERENCES
+The work presents a technique that allows the decision — maker to 1. Gorbunov A.V., Slobodskoy I. N. «Canopus-B» space complex for 
+justify the choice of the preferred option of using rocket and space operative monitoring technogenic and natural emergencies. Geo-
+systems that are part of the test spaceport in the absence of pref- matics. 2010. No. 1. Pp. 30–33. (In Russian)
+erences (criterion uncertainty), and in cases of preferences. Each 2. Gorbunov V. M. Teoriya prinyatiya resheniy [Decision Theory]. 
+variant of the rocket and space complex application is evaluated by Tomsk: Tomsk Polytechnic University Publ., 2010. 174 p. (In Russian)
+three indicators: efficiency, cost, resource intensity. As input data for 3. Duga V. V. Private method of formation of the initial data array for 
+the method applied a set of valid options for use of missile-space evaluation of the effectiveness of the ground space infrastructure of 
+complexes, obtained through the scientific methodological appara- the test spaceport. Information and space. 2018. No. 2. Pp. 170–172. 
+tus developed earlier. Depending on these conditions, the problem (In Russian)
+of justification of the preferred application is solved in two areas. 4. Duga V. V., Mosin D. A., Bannikov E. V. Methods of formation of a set 
+In the absence of the decision-maker's preferences, the problem of of acceptable options for the use of ground-based space infrastruc-
+choosing the preferred application of the rocket and space complex ture of the test spaceport in solving problems of launching small sat-
+is solved by the method of the ideal point, in the absence of the telites. Information and space. 2018. No. 4. Pp. 159–163. (In Russian)
+decision — maker's preferences, this problem is solved by the lex- 5. Zakharov I. G. Obosnovanie vybora. Teoriya praktiki [Rationale for 
+icographic method. In solving this problem in the first area, each the selection. Theory of practice]. St. Petersburg: Shipbuilding, 2006. 
+variant of the rocket and space complex is represented by a point 528 p. (In Russian)
+in the finite-dimensional Hilbert space. Next is the ideal point as a 6. Klyushnikov V. Y. Analiz perspektivnykh tekhnologiy narashchivani-
+point in space having the coordinates found as a set of the smallest ya i vospolneniya orbital'nykh gruppirovok malorazmernykh [Analysis 
+values of the represented set. Next, the distance between each of of perspective technologies of augmentation and replenishment of 
+the set of points and the preferred option of using rocket and space orbital groups of small size]. Sbornik statey IV Vserossiyskoy nauch-
+complexes of the test spaceport is calculated. If the decision-maker no-prakticheskoy konferentsii "Sovremennye problemy sozdaniya i ek-
+has information about priorities, the problem of choosing the pre- spluatatsii vooruzheniya, voennoy i spetsial'noy tekhniki" [Proceedings 
+ferred application option is solved using the lexicographic method. of the IV all-Russian scientific and practical conference "Modern prob-
+The peculiarity of this method is to select the highest priority indi- lems of creation and operation of arms, military and special equip-
+cator and narrowing the set of alternatives to the set in the court, ment", St. Petersburg, December 13–14, 2018]. St. Petersburg: GCA 
+the maximum values for the indicator having the first priority. In ac- named after A. F. Mozhaysky, 2018. Pp. 26–29 (In Russian)
+cordance with the same logic, the set is narrowed in terms of priority 7. Korotkov V. V., Vinogradov A. V. History of small space vehicle pro-
+two and in terms of priority three, the preferred use of the rocket gress and development at Plesetsk cosmodrome. Current problems 
+and space complex is found. Application of the specified technique of further development. Vestnik Samarskogo gosudarstvennogo 
+allows to justify the selection of a preferred option of application of aerokosmicheskogo universiteta [Vestnik of Samara State Aerospace 
+rocket-space complexes in different circumstances. University]. 2009. No. 4 (20). Pp. 57–64. (In Russian)
+
+12
+
+
+
+Vol. 11. No. 3-2019, H&ES RESEARCH
+
+AVIATION, SPASE-ROCKET HARDWARE
+
+8. Kostev Yu. V., Mezenova O. V., Pozin A. A., Shershakov V. M. Small 19.04.2013 N Pr-906 [The main provisions of the state policy of the 
+spacecraft launching system. Izvestiya vysshikh uchebnykh zave- Russian Federation in the field of space activities for the period up 
+deniy. Priborostroenie [Journal of Instrument Engineering]. 2016. to 2030 and the future. Approved. The President of the Russian Fed-
+Vol. 59. No. 6. Pp. 482–488. (In Russian) eration of 19.04.2013 N PR-906]. Zakony, kodeksy i normativno-pra-
+9. Lata V. F., Maltsev V. A. System of systems. Information-shock vovye akty v Rossiyskoy Federatsii [Laws, codes and normative le-
+weapons. Security Index. 2007. Vol. 13. No. 3 (83). Pp. 101–119. gal acts in the Russian Federation]. 2019. URL: http://legalacts.ru/
+(In Russian) doc/osnovnye-polozhenija-osnov-gosudarstvennoi-politiki-rossi-
+10. Makridenko L. A., Volkov S. N., Khodnenko V. P., Zolotoy S. A. Con- iskoi-federatsii/ (date of access: 15.09.2018). (In Russian)
+ceptual problems on creation and application of small spacecraft. 14. Safonov V. V. Osnovy sistemnogo analiza: Metody mnogovek-
+Electromechanical matters. VNIIEM studies. 2010. Vol. 114. Pp. 15–26. tornoj optimizatsii i mnogovektornogo ranzhirovaniya: Monografiya 
+(In Russian) [Тhe Fundamentals of systems analysis: Methods for multidimen-
+11. Mosin D. A., Bannikov E. V., Duga V. V. The method of formation of sional optimization and multidimensional ranking: a Monograph]. 
+a set of acceptable options for the use of the ground space infrastruc- Saratov: Nauchnaya kniga, 2009. 329 p. (In Russian)
+ture of the test spaceport in solving the problems of launching small 15. Solomatin A. N., Sokolova I. I. Metody prinyatiya resheniy [Deci-
+satellites. Information and space. 2018. No. 4. Pp. 159–163. (In Russian) sion-making methods]. M: Engineering, 2002. 120 p. (In Russian)
+12. Moskvin, B. W. Teoriya prinyatiya resheniy [The theory of deci-
+sion making]. St. Petersburg: VKA named after A. F. Mozhaisky Publ., INFORMATION ABOUT AUTHORS:
+2014. 364 p. (In Russian) Mosin D. A., PhD, Docent, Doctoral Candidate of the Military Space 
+13. Osnovnye polozheniya Osnov gosudarstvennoy politiki Rossi- Academy;
+yskoy Federatsii v oblasti kosmicheskoy deyatel'nosti na period Duga V. V., the scientific officer of the research and test center, 
+do 2030 goda i dal'neyshuyu perspektivu. Utv. Prezidentom RF ot 1 State test spaceport Ministry of defense of the Russian Federation.
+
+For citation: Mosin D.A., Duga V.V. Method of justification of a preferred embodiment of the application of rocket-space systems testing 
+spaceport in solving problems the launch of small satellites. H&ES Research. 2019. Vol. 11. No. 3. Pр. 4–13. doi: 10.24411/2409-5419-2018-
+10264 (In Russian)
+
+13

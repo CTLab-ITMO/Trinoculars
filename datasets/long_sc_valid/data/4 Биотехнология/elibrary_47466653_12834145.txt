@@ -1,0 +1,736 @@
+﻿Оригинальное исследование / Original article DOI: 10.30901/2658-6266-2021-3-o2
+
+МОЛЕКУЛЯРНОЕ МАРКИРОВАНИЕ ГЕНОВ Vrn, Ppd И РЕАКЦИЯ НА 
+ЯРОВИЗАЦИЮ УЛЬТРАСКОРОСПЕЛЫХ ЛИНИЙ ЯРОВОЙ МЯГКОЙ 
+ПШЕНИЦЫ Triticum aestivum L.
+Ригин Б. В., Зуев Е. В.*, Матвиенко И. И., Андреева А. С.
+
+Федеральный исследовательский центр Всероссийский институт генетических ресурсов растений имени Н.И. Вавилова (ВИР),
+190000 Россия, г.Санкт-Петербург, ул. Б. Морская, 42, 44;
+*  e.zuev@vir.nw.ru
+
+Актуальность. Знание о генетическом контроле реакции на яровизацию ультраскороспелых образцов будет способствовать селек-
+ции на высокую адаптивную способность мягкой пшеницы. Материалы и методы. Исследовали ультраскороспелые линии Рико 
+(к-65588) и Римакс (к-67257), как самые скороспелые среди образцов коллекции мягкой пшеницы ВИР, а также 10 линий Рифор 
+(к-67120, к-67121, к-67250-67256) с высокой скоростью развития до колошения, которые являются потомками от скрещивания 
+Рико × Forlani Roberto’ (к-42641). Изучен позднеспелый образец ‘Forlani Roberto’ к-42641) и сорт ‘Ленинградская 6’ (к-64900), рай-
+онированный в Северо-Западном регионе России. Аллели генов Vrn и Ppd идентифицировали с помощью ПЦР-анализа c исполь-
+зованием опубликованных в литературе аллель-специфичных праймеров. Реакция на яровизацию (30 суток при 3°С) и короткий 
+12-часовой день определена по методике ВИР. Результаты. Ультраскороспелые линии очень слабо реагируют на короткий 12-часо-
+вой день и 30-дневную яровизацию. Генотип ультраскороспелых линий пшеницы в основном представлен тремя доминантными 
+генами Vrn-A1, Vrn-B1a и Vrn-D1, обеспечивающие нечувствительность к яровизации на фоне экспрессии Ppd-D1a, контролирую-
+щего реакцию на фотопериод. Ультраскороспелые линии Рифор 4 и Рифор 5 имеют рецессивный аллель vrn-A1a, как и исходный 
+образец ‘Forlani Roberto’. Линии Рифор 4 и Рифор 5 нечувствительны к яровизации в условиях длинного дня и имеют очень слабую 
+реакцию при коротком дне (3,5 ±0,42 сут и 4,0 ±0,61 суток соответственно). Однако, ‘Forlani Roberto’ с геном vrn-A1a одинаково реа-
+гирует на яровизацию при любом фотопериоде (12,3±1,58 суток и 12,2±0,74 суток). Заключение. Ультраскороспелые линии яровой 
+мягкой пшеницы имеют доминантные гены Vrn-A1, Vrn-B1a и Vrn-D1 и не чувствительны к яровизации. Некоторые ультраскороспе-
+лые линии могут не реагировать на яровизацию или иметь ее низкий уровень (Рифор 4, Рифор 5), но в их генотипах имеется рецес-
+сивный ген vrn-A1a. Этот эффект может быть причиной образования комплекса генов-модификаторов наряду с доминантным геном 
+Vrn-D1, который сформировался в процессе гибридизации F7-8 Рико × ‘Forlani Roberto’. Ультраскороспелые линии мягкой пшени-
+цы Рико, Римакс и Рифор (к-67120, к-67121, к-67250-67256) могут быть эффективными источниками генов скороспелости в селекции 
+мягкой пшеницы.
+
+Ключевые слова: Яровая мягкая пшеница, ультраскороспелость, линии Рифор, реакция на яровизацию, фотопериод, аллели генов 
+Vrn и Ppd, ПЦР -анализ, селекция.
+
+Для цитирования: 
+Ригин Б.В., Зуев Е.В., Матвиенко И.И., Андреева А.С. Молекулярное маркирование генов Vrn, Ppd и реакция на яровизацию 
+ультраскороспелых линий яровой мягкой пшеницы Triticum aestivum L. Биотехнология и селекция растений. 2021;4(3):26-36. 
+DOI: 10.30901/2658-6266-2021-3-o2
+
+Прозрачность  финансовой  деятельности. Авторы не имеют финансовой заинтересованности в представленных материалах 
+или методах. Авторы  благодарят  рецензентов  за  их  вклад  в  экспертную  оценку  этой  работы. Дополнительная 
+информация. Полные данные этой статьи доступны https://doi.org/10.30901/2658-6266-2021-3-o2 Мнение журнала  нейтрально 
+к изложенным материалам, авторам и их месту работы. Все авторы одобрили рукопись. Конфликт интересов отсутствует.
+
+Благодарности: Работа выполнена в рамках государственного задания согласно тематическому плану ВИР по проекту № 0662-
+2019-0006 «Поиск, поддержание жизнеспособности и раскрытие потенциала наследственной изменчивости мировой коллекции 
+зерновых и крупяных культур ВИР для развития, оптимизированного генбанка и рационального использования в селекции 
+и растениеводстве».
+
+Биотехнология и селекция растений 2021;4(3)
+26
+
+
+
+MOLECULAR LABELING OF Vrn, Ppd GENES AND VERNALIZATION 
+RESPONSE OF THE ULTRA-EARLY LINES OF SPRING BREAD WHEAT 
+Triticum aestivum L.
+Rigin B. V., Zuev E. V.*, Matvienko I. I., Andreeva A. S.
+
+N.I. Vavilov All-Russian Institute of Plant Genetic Resources (VIR), 
+42, 44 Bolshaya Morskaya Street, St. Petersburg 190000, Russia;
+*  e.zuev@vir.nw.ru
+
+Background. The knowledge of genetic control of vernalization response in the ultra-early accessions can facilitate bread wheat breeding 
+for a high adaptive capacity. Materials and methods. The study involved the ultra-early lines Rico (k-65588) and Rimax (k-67257) as the 
+earliest maturing lines in the VIR bread wheat collection, as well as 10 Rifor lines (k-67120, k-67121, k-67250-67256) with a high rate of 
+development before heading. A late ripening accession ‘Forlani Roberto’ (k-42641) and ‘Leningradskaya 6’ variety (k-64900), regionally 
+adapted to Northwestern Russia, were also studied. The alleles of the Vrn and Ppd genes were identified by the PCR analysis using the allele-
+specific primers published in literature sources. The response to vernalization (30 days at 3°C) and a short 12-hour day were determined 
+using a methodology accepted at VIR. Results. The ultra-early lines respond to a short 12-hour day and 30-day vernalization very poorly. 
+The genotype of ultra-early wheat lines is mainly represented by three genes, Vrn-A1, Vrn-B1a, and Vrn-D1, which ensure insensitivity to 
+vernalization alongside with the expression of Ppd-D1a, which controls the response to photoperiod. The ultra-early lines Rifor 4 and Rifor 5 
+have a recessive allele vrn-A1a, like the original ‘Forlani Roberto’ accession. The lines Rifor 4 and Rifor 5 are vernalization-insensitive 
+under the long day and have a very weak response under the short day (3.5±0.42 days and 4.0±0.61 days, respectively). However, ‘Forlani 
+Roberto’ with the vrn-A1a gene responds to vernalization in the same way under any photoperiod (12.3±1.58 days and 12.2±0.74 days). 
+Conclusion The ultra-early lines of bread wheat Rifor 4 and Rifor 5 with the vrn-A1a gene can have no response to vernalization or have a 
+low level response. This effect can be a reason for the formation of a complex of modifier genes along with the dominant gene Vrn-D1, which 
+forms during the hybridization of F7-8 Rico × Forlani Roberto. The ultra-early lines of bread wheat Rico, Rimax and Rifor (k-67120, k-67121, 
+k-67250-67256) can serve as effective sources of genes for earliness in common wheat breeding.
+
+Key words: Spring bread wheat, ultra-earliness, Rifor lines, vernalization response, photoperiod, Vrn and Ppd gene alleles, PCR analysis, 
+breeding
+
+For citation:  
+Rigin B.V., Zuev E.V., Matvienko I.I., Andreeva A.S. Molecular labeling of Vrn, Ppd genes and vernalization response of the 
+ultra-early lines of spring bread wheat Triticum aestivum L. Plant Biotechnology and Breeding. 2021;4(3):26-36. (In Russ.). 
+DOI: 10.30901/2658-6266-2021-3-o2
+
+Financial transparency. The authors have no financial interest in the presented materials or methods.  
+The authors thank the reviewers for their contribution to the peer review of this work. Additional information.  
+Extended data is available for this paper at https://doi.org/10.30901/2658-6266-2021-3-o2 The journal’s opinion is neutral to the pre-
+sented materials, the author, and his or her employer. All authors approved the manuscript. No conflict of interest.
+
+ORCID ID: 
+Rigin B.V.  https://orcid.org/0000-0001-9848-5795 
+Zuev E.V.   https://orcid.org/0000-0001-9259-4384 УДК 633.11:581.132.2 
+Matvienko I.I.  https://orcid.org/0000-0001-8233-5047 Поступила в редакцию: 22.11.2021 
+Andreeva A.S.   https://orcid.org/0000-0002-6754-2897 Принята к публикации: 13.12.2021
+
+Acknowledgments: The research was performed within the framework of the State Assignment according to the Thematic Plan of VIR, 
+Project No. 0662-2019-0006 “Search for, Viability Maintenance and Disclosure of the Potential of Hereditary Variation in the VIR Global 
+Collection of Cereal and Groat Crops for the Development of an Optimized Genebank and its Sustainable Utilization in Plant Breeding and 
+Crop Production”.
+
+Plant Biotechnology and Breeding 2021;4(3)
+27
+
+
+
+на яровизирующие температуры и разный фотопериод 
+Введение (Rigin et al., 2021).
+
+Среди гибридов Рико × Forlani Roberto (к-42641, 
+Пшеницу возделывают в различных районах благода- Сан-Марино) проведен отбор фенотипов по признаку 
+
+ря ее способности адаптироваться к разнообразным поч- «высокая скорость развития до колошения» с одновре-
+венным и климатическим условиям (Flaksberger, 1935; менным учетом элементов продуктивности. Выделены 
+Razumov, 1961; Kamran et al., 2014). Наследственный ультраскороспелые линии Рифор, практически не усту-
+потенциал мягкой пшеницы Triticum aestivum L. не одно- пающие Рико по этому признаку. Быстрое развитие таких 
+роден по реакции на яровизацию и разный фотопериод. ультраскороспелых растений отмечено при испытании 
+Эти реакции относятся к основным механизмам процесса в различных экологических условиях, и не обнаруже-
+онтогенеза пшеницы (Skripchinsky, 1975). но смены рангов по этому признаку в отношении других 
+
+Заслуживает внимания группа ультраскороспелых образцов и гибридов яровой мягкой пшеницы. Возможно, 
+яровых образцов мягкой пшеницы, у которых период такие темпы развития Рико и подобных этой линии форм 
+посев–колошение проходит достаточно быстро и в усло- характеризуют предел скорости развития растений мяг-
+виях Северо-Запада России равен или меньше 51 суток. кой пшеницы в период до колошения.
+Районированный в этом регионе сорт ‘Ленинград- Ультраскороспелые линии не принадлежат к продук-
+ская 6’ относится к среднеспелым формам. Согласно тивным представителям мягкой пшеницы, но могут быть 
+ранее проведенным исследованиям (Koshkin, 2012), уль- интересны для селекции как источники эффективных 
+траскороспелые образцы яровой пшеницы обнаруже- генов скороспелости.
+ны преимущественно среди сортимента субтропических Скорость развития ультраскороспелых предста-
+и тропических стран Средиземноморского региона, рай- вителей T. aestivum находится под контролем генов 
+онов Азии, Центральной и Южной Америки. Образцы Vrn, определяющих реакцию растений на яровизацию 
+яровой мягкой пшеницы с высокой скоростью развития и тип развития, генов Ppd, контролирующих отзывчи-
+встречаются среди сортимента Канады, США, а также вость на фотопериод, а также факторов собственно ско-
+на северо-западе Европейской части России и восточных роспелости Eps (Gotoh, 1979;  Laurie et al., 1995; Rigin, 
+районов Сибири. Схожие формы, являющиеся результа- 2012; Fernandez-Calleja et al., 2021). Мы предполага-
+том рекомбинационных процессов и целенаправленного ем, что наличие высоких темпов развития ультраскоро-
+отбора в процессе селекции, обнаружены среди пшениц спелых образцов Рико и Рифор обусловлено во многом 
+и в других районах. экспрессией генов Eps, которые влияют на фенологию 
+
+В целом, образцы с высокой скоростью развития и, соответственно, на адаптацию растений.
+могут быть источником желательных генов в селекции Нечувствительность к длине дня у мягкой пшени-
+на скороспелость. Поэтому их всестороннее изучение цы находится под контролем трёх основных доминант-
+важно, как для познания биологии развития растений зла- ных генов: гены Ppd -D1 (прежний символ Ppd 1) Ppd -B1 
+ков, так и для интенсификации селекционного процесса. (Ppd 2) и Ppd -A1 (Ppd 3) (Pirasteh, Welsh, 1975; Goncharov, 
+
+В отделе генетики ВИР создан ряд ультраскороспе- 1987). Ген Ppd -D1 мягкой пшеницы, локализованный 
+лых линий мягкой пшеницы. Так, среди межсортовых в хромосоме 2D, является самым сильным по проявле-
+гибридов яровой мягкой пшеницы выделена линия Рико нию и обеспечивает способность растения не реагировать 
+(к-65588), в родословной которой имеется образец ‘СКФ’ на длину дня при переходе к цветению. Гены Ppd оказы-
+(к-67258) и изогенная линия АНК-17В (к-60314) сорта вают влияние на проявление морфологических призна-
+‘Новосибирская 67’. Ультраскороспелые линии СКФ ков и признаков продуктивности растений (Koshkin et al., 
+и АНК-17В созданы соответственно Р.М. Карамышевым 1998). Однако, не известны факты сцепления этих генов 
+(Karamyshev, 1984) и С.Ф. Ковалем (Koval, 1997). Суще- с генами, контролирующими качественные признаки 
+ственная особенность линии Рико состоит в том, что она, у пшеницы (Goncharov, 2012).
+согласно исследованиям Е.В. Зуева, по скорости разви- Реакция мягкой пшеницы на яровизацию (тип раз-
+тия от посева до колошения превосходит другие образцы вития) обусловлена экспрессией генов Vrn -A1 (Vrn 1), 
+яровой мягкой пшеницы коллекции генетических ресур- Vrn -B1 (Vrn 2), Vrn -D1 (Vrn 3), Vrn -D4 (Vrn 4) и другие. 
+сов растений ВИР. На основании данных за 16 лет, период Основные гены Vrn -A1, Vrn -B1 и Vrn -D1 локализова-
+от посева до колошения Рико в условиях Северо-Запада ны в хромосомах 5A, 5B и 5D, соответственно. Согласно 
+России был равен 39,9±1,49 дней, или короче на 14,8±1,22 литературным источникам (Pugsley,1971; Klaimi, Qualset., 
+(в отдельные годы на 13 – 19) дней, чем у районированно- 1974; Rigin, Pyzhenkova; 2011; Goncharov, 2012), отсут-
+го сорта пшеницы ‘Ленинградская 6’ (Rigin et al., 2019). ствие реакции на яровизацию может быть обеспечено 
+
+Путем отбора среди гибридов Рико × Max (к-57181, любым доминантным геном Vrn или их сочетанием. При 
+Германия) выделена константная линия Римакс (к-67257), наличии рецессивных аллелей всех генов Vrn растение 
+которая по темпам развития, как и линия Рико, относит- в различной степени реагирует на яровизацию ускорени-
+ся к ультраскороспелым формам. Линии незначительно ем перехода из вегетативного состояния в генеративное. 
+различаются по периоду посев – колошение, по реакции Согласно Пагсли (Pugsley, 1971), доминантный ген Vrn 1 
+
+Биотехнология и селекция растений 2021;4(3)
+28
+
+
+
+(синоним Vrn -A1) является эпистатичным по отношению лывания (Kamran et al., 2014; Kiss et al., 2014). В литера-
+к другим генам Vrn. туре имеется недостаточно информации о генетическом 
+
+Аллели гена Vrn -D1 могут влиять на проявление агро- контроле признака «высокая скорость развития» мяг-
+номических признаков (Tan, Yan, 2016). Процессы ярови- кой пшеницы. Выше мы отмечали особое значение такой 
+зации возможны в семенах в незрелом состоянии на мате- информации для познания биологии развития злаков 
+ринском растений (Kostyuchenko, Zarubailo, 1935). По и эффективной селекции на скороспелость. Цель наше-
+силе проявления доминантные гены можно распределить го исследования – выявить аллельный состав генов Vrn 
+в таком порядке: Vrn 1> Vrn 3> Vrn 4> Vrn 2 (Goncharov, и Ppd у линий яровой мягкой пшеницы с высокой скоро-
+Rigin, 1989). стью развития (ультраскороспелых линий) и определить 
+
+Гены Vrn и Ppd имеют серии аллелей, что способству- их реакцию на яровизацию.
+ет возможности изменения продолжительности перио-
+да вегетации соответственно экологическим условиям Материал и методы
+репродукции растений (Bespalova et al., 2010). Отмечен 
+параллелизм между аллельными вариантами генов, обе- Опыты были проведены в 2016 –2020 годах в услови-
+спечивающими изменчивость времени цветения у наибо- ях Северо-Запада России (г. Санкт-Петербург) на науч-
+лее значимых культивируемых видов ячменя и пшеницы но-производственной базе «Пушкинские и Павловские 
+(Fernandez-Calleja et al., 2021). лаборатории ВИР» Всероссийского института генети-
+
+Скорость развития является многофакторным при- ческих ресурсов растений имени Н.И. Вавилова (ВИР). 
+знаком: помимо продуктов перечисленных выше генов, Исходным материалом явились ультраскороспелые линии 
+на него оказывают влияние фитогормоны, циркадные яровой мягкой пшеницы Рико, Римакс и 10 линий Рифор 
+ритмы и другие факторы (Kiseleva, Salina, 2018). В ряде (к-67120, к-67121, к-67250-67256). Кроме того, исследо-
+экспериментов на пшенице (Potokina et al., 2012; Zaitseva, вали два сорта: позднеспелый образец ‘Forlani Roberto’ 
+Lemesh, 2015) и ячмене (Abdullaev et al., 2017) отмечено, (к-42641, Сан-Марино) и ‘Ленинградская 6’ (к-64900). 
+что разная скорость развития злаков и некоторые призна- Последний районирован в Северо-Западном регионе Рос-
+ки продуктивности могут быть связаны с определенным сии.
+сочетанием аллелей генов Vrn и Ppd, но это интересное Для идентификации аллелей генов Vrn -A1a, Vrn -B1 
+явление пока не подкреплено генетическими эксперимен- и Vrn -D1, контролирующих яровой тип развития, и гена 
+тами. Ppd -D1a, детерминирующего реакцию на фотопериод, 
+
+Выявлены факты разнообразия аллелей генов Vrn использовали аллель-специфичные праймеры (табл. 1).
+и Ppd у групп сортов пшеницы из разных районов возде-
+
+Таблица 1. Список использованных праймеров
+Table 1. Primers used in the study
+
+Ожидаемый 
+Тестируемый 
+аллель гена/ Аллель-специфичные праймеры,  Температура  размер ДНК-
+
+The tested allele of a  использованные в ПЦР/ отжига/ фрагмента, пн/ Литературный 
+Annealing  Expected size  источник/
+
+gene Allele specific primers used in PCR temperature (°C) of the DNA  Literature source
+fragment, bp
+
+Ppd1_F
+ACGCCTCCCACTACACTG 
+
+Ppd-D1a Ppd1_R1
+GTTGGTTCAAACAGAGAGC 54 288 Beales et al., 2007
+Ppd1_R2
+CACTGGTGGTAGCTGAGATT
+Ppd1_F
+ACGCCTCCCACTACACTG 
+
+ppd-D1b Ppd1_R1
+GTTGGTTCAAACAGAGAGC 54 414 Beales et al., 2007
+Ppd1_R2
+CACTGGTGGTAGCTGAGATT
+VRN1AF
+
+Vrn-A1a GAAAGGAAAAATTCTGCTCG
+VRN1-1R 55 715 + 624 Yan et al., 2004
+TGCACCTTCCCCCGCCCCAT
+
+Plant Biotechnology and Breeding 2021;4(3)
+29
+
+
+
+Ожидаемый 
+Тестируемый 
+аллель гена/ Аллель-специфичные праймеры,  Температура  размер ДНК-
+
+The tested allele of a  использованные в ПЦР/ отжига/ фрагмента, пн/ Литературный 
+Annealing  Expected size  источник/
+
+gene Allele specific primers used in PCR temperature (°C) of the DNA  Literature source
+fragment, bp
+
+VRN1AF
+vrn-A1 GAAAGGAAAAATTCTGCTCG
+
+VRN1-1R 55 484 Yan et al., 2004
+TGCACCTTCCCCCGCCCCAT
+Intr1/B/F
+
+Vrn-B1a CAAGTGGAACGGTTAGGACA
+Intr1/B/R3 58 709 Fu et al., 2005
+CTCATGCCAAAAATTGAAGATGA
+Intr1
+
+Vrn -B1c ATCATCTTCTCCACCAAGGG
+Intr1/B/R3 58 700 Shcherban et al., 
+
+2012
+CTCATGCCAAAAATTGAAGATGA
+Intr1/B/F
+
+vrn-B1 CAAGTGGAACGGTTAGGACA
+Intr1/B/R4 58 1149 Fu et al., 2005
+CAAATGAAAAGGAATGAGAGCA
+Intr1/D/F
+
+Vrn-D1 GTTGTCTGCCTCATCAAATCC
+Intr1/D/R3 65 1671 Fu et al., 2005
+GGTCACTGGTGGTCTGTGC
+Intr1/D/F 
+
+vrn-D1 GTTGTCTGCCTCATCAAATCC
+Intr1/D/R4 63 997 Fu et al., 2005
+AAATGAAAAGGAACGAGAGCG
+
+В молекулярно-генетический анализ включали Реакция растений на короткий день определена 
+по 5 растений каждой исследуемой линии. Геномную в условиях 18-часового естественного и 12-часового 
+ДНК выделяли из 3-х дневных проростков CTAB-ме- короткого дней по методике ВИР (Koshkin, 2012). Ярови-
+тодом (Graner et al., 1991). ПЦР осуществляли в объеме зацию проводили путем выращивания растений в течение 
+реакционной смеси 20 мкл. В состав смеси входили сле- 30 дней при температуре 3°С. Скорость развития каждого 
+дующие компоненты: 60 нг ДНК; 1 ×буфер для Taq-по- растения оценивали на площадке с регулируемым фото-
+лимеразы (Евроген, Россия), содержащий 2,5 мM MgCl2; периодом – от появления первого листа до колошения. 
+150-500 мкмоль dNTPs; 0,1-0,5 мкмоль каждого из прай- Статистическая обработка полученных данных выполне-
+меров и 1 е.а. Taq полимеразы (Евроген, Россия). Кон- на с помощью Microsoft Excel 2010 по стандартной мето-
+центрация dNTPs и праймеров зависела от анализируе- дике (Zaytsev, 1984). Вычисление средней арифметиче-
+мого аллеля генов Vrn -A1a, Vrn -B1, Vrn -D1 и Ppd -D1a ской для значений по каждому признаку сопровождалось 
+(Zlotina et al., 2012). Разделение фрагментов прово- определением их доверительных интервалов, рассчитан-
+дили с помощью электрофореза в 2% агарозном геле. ных при уровне значимости P, равном 0,05.
+Гели окрашивали бромистым этидием и фотографиро-
+вали в проходящем УФ свете c использованием систе- Результаты и обсуждение
+мы гель-документации Gel Doc XR (BioRad, США). Для 
+определения размеров фрагментов использовали мар- Среди образцов исследованной нами коллекции уль-
+кер молекулярного веса GeneRuler 1 kb Plus DNA Ladder траскороспелых линий яровой мягкой пшеницы линия 
+(Thermo Scientific, Россия1). Рико, как и ее производная Римакс, имели самый корот-
+
+1  От Редактора: АО «Термо Фишер Сайентифик» поставляет продукцию под брендом Thermo Scientific и явля-
+ется официальным представительством Thermo Fisher Scientific, США в России.
+1  Editor’s note: Thermo Fisher Scientific JSC delivers products under the Thermo Scientific brand and is the official 
+representative of Thermo Fisher Scientific, USA, in Russia.
+
+Биотехнология и селекция растений 2021;4(3)
+30
+
+
+
+кий период от посева до колошения. По сравнению с рай- ях длинного, так и короткого дней (табл. 2). Не отмечено 
+онированным сортом ‘Ленинградская 6’, линии Рико существенной разницы в реакции на разный фотопери-
+и Римакс в условиях регулируемого фотопериода оказа- од между линиями Рифор, образцами сортов ‘Ленинград-
+лись в среднем скороспелее на 6,3 суток (сут), что прин- ская 6’ и ‘Forlani Roberto’. Так, период посев – колошение 
+ципиально важно для селекции. у линии Рифор 1 в условиях короткого дня по сравнению 
+
+Изученные нами представители коллекции ультраско- с длинным увеличился на 2,2±0,31 сут, у линии Рифор 5 – 
+роспелых линий Рифор по скорости развития до коло- на 5,8±1,33 сут.
+шения не существенно отличаются от Рико как в услови-
+
+Таблица 2. Генотипы линий Рифор и их реакция на яровизацию при разном фотопериоде
+Table 2. Genotypes of Rifor lines and their vernalization response at different photoperiods
+
+Период от посева до 
+Номер  Фото- колошения, сутки/ 
+каталога  wing to  Реакция на  Реакция на 
+ВИР/  Линия,  период,  The period from so
+
+  earing, days яровизацию,  фотопериод, 
+VIR  сорт/  час/ сутки/  сутки/  Генотип/ 
+
+catalogue  Line, variety Photo- без  otype
+period,  яровизации/  с яровизацией/  Vernalization  Photoperiod  Gen
+
+number hour without  with  response, days response, days
+vernalization vernalization
+
+18 31,9±0,10 32,8±0,36 0,9±0.37 Vrn -A1,
+67120 Рифор 1/ 
+
+Rifor 1 2,2±0,31 Vrn -B1a,
+12 34,1±0,30 34,6±0,28 0,5±0.41 Vrn -D1,
+
+Ppd -D1a
+Vrn -A1,
+
+фор 2/ 18 35,1±0,39 33,1±0,18 2,0±0,42
+67249 Ри n -B1a,
+
+Rifor 2 1,2±0,53 Vr
+Vrn -D1,
+
+12 36,3±0,37 35,0±0,29 1,3±0.47 Ppd -D1a
+Vrn -A1,
+
+18 33,0±0,44 31,6±0,27 1,4±0.51
+67250 Рифор 3/ Vrn -B1a,
+
+Rifor 3 2,8±1,60
+12 35,8±0,61 35,2±0,13 0,6±0,62 Vrn -D1,
+
+Ppd -D1a
+3,0±0,21 33,5±0,27 0,5±0,72 vrn -A1a,
+
+67251 Рифор 4/ 18 3
+Rifor 4 5,6±0,37 Vrn -B1a,
+
+12 38,6±0,32 35,1±0,28 3,5±0,42 Vrn -D1,
+Ppd -D1a
+vrn -A1a,
+
+18 35,2±0,42 33,9±0,10 1,3±0.43
+67252 Рифор 5/ 
+
+Rifor 5 5,8±1,33 Vrn -B1a,
+12 41,0±1,27 37,0±0,60 4,0±0.61 Vrn -D1,
+
+Ppd -D1a
+Vrn -A1,
+
+2,0±0,78
+67121 Рифор 6/ 18 34,5±0,48 32,5±0,62
+
+Rifor 6 1,7±1,01 Vrn -B1a,
+12 36,2±0,89 35,0±0,39 1,2±0,91 Vrn -D1,
+
+Ppd -D1a
+Vrn -A1,
+
+18 31,7±0,21 31,0±0,27 0,7±0,34
+67253 Рифор 7/ 
+
+Rifor 7 2,8±0,33 Vrn -B1a,
+Vrn -D1,
+
+12 34,5±0,27 33,6±0,16 0,4±0,31 Ppd -D1a
+Vrn -A1,
+
+,37 35,2±0,44 2,5±0,57
+67254 Рифор 8/ 18 37,7±0 vrn -B1,
+
+Rifor 8 6,2±0,50 Vrn -D1,
+12 43,9±0,35 40,4±0,31 3,5±0,46 Ppd -D1a
+
+Plant Biotechnology and Breeding 2021;4(3)
+31
+
+
+
+Период от посева до 
+Номер  Фото- колошения, сутки/ 
+каталога  Реакция на 
+ВИР/  Линия,  период,  The period from sowing to  Реакция на 
+
+earing, days яровизацию,  фотопериод, 
+VIR  сорт/  час/  сутки/  сутки/  Генотип/ 
+
+без 
+catalogue  Line, variety Photo-
+
+period,  ции/  с яровизацией/  Vernalization  Photoperiod  Genotype
+яровиза
+
+number hour without  with  response, days response, days
+vernalization vernalization
+
+Vrn -A1,
+67255 Рифор 9/ 18 31,6±0,31 31,3±0,15 0,3±0,34 -B1a,
+
+Rifor 9 3,5±0,35 Vrn 
+Vrn -D1,
+
+12 35,1±0,18 34,1±0,23 1,0±0,29 Ppd -D1a
+Vrn -A1,
+
+18 31,6±0,56 30,5±0,17 1,1±0,58
+67256 Рифор 10/ 
+
+Rifor 10 3,9±0,97 Vrn -B1a,
+Vrn -D1,
+
+12 35,5±0,80 34,1±0,41 1,4±0,89 Ppd -D1a
+Vrn -A1,
+
+,31 30,7±0,37 1,3±0,48
+65588 Рико/ 18 29,4±0
+
+Riko 2,9±0,43 Vrn -B1a,
+Vrn -D1,
+
+12 32,3±0,30 31,5±0,27 0,8±0,40 Ppd -D1a
+18 29,8±0,31 31,7±0,35 1,9±0,48 Vrn -A1,
+
+67257 Rimax 2,5±0,43 Vrn -B1a,
+12 32,3±0,30 33,5±0,27 1,2±0,40 Vrn -D1,
+
+Ppd -D1a
+5±1,56 44,2±0,29 12,3±1,58 vrn -A1,
+
+42641 ‘Forlani 18 56, Vrn -B1a,
+Roberto’ 2,5±1,66
+
+12 59,0±0,58 46,8±0,48 12,2±0,74 Vrn -D1
+Ppd -D1a
+
+‘Ленин- Vrn -A1a,
+64900 градская 6’ 
+
+‘Leningrad- 18 36,5 ±0,31 36,3±0,76 0,2±0,81 4,7±0,36 Vrn -B1c,
+vrn -D1,
+
+skaya 6’ ppd -D1c
+
+У мягкой пшеницы реакция на предпосевную ярови- кого (12,2±0.74) дней.
+зацию является количественным признаком: отмечает- У исследованных ультраскороспелых линий Рифор, 
+ся проявление модификационной изменчивости в зави- а также у Рико, Rimax, сортов ‘Forlani Roberto’ и ‘Ленин-
+симости от неконтролируемых условий эксперимента градская 6’ с помощью молекулярных маркеров нами 
+и года репродукции (Rigin, 2012). Отмечена очень сла- идентифицированы аллели генов Vrn -A1, Vrn -B1a, 
+бая реакция на яровизацию ультраскороспелых линий Vrn -D1, Ppd -D1a (см. табл. 2, рис. 1, 2). Так, линии 
+Рифор с колебанием в условиях длинного дня от 0,3±0,34 Рифор 1 – 10 имеют гены Vrn -A1, Vrn-B1a, Vrn -D1, Ppd-
+сут. (Рифор 9) до 2,5±0,57 сут. (Рифор 8); при коротком D1a; линии Рифор 4 и Рифор 5 – vrn-A1a, Vrn -B1a, 
+дне – от 0,5±0,41 сут. (Рифор 1) до 4,0±0,61 сут. (Рифор 5). Vrn -D1, Ppd -D1a; линия Рифор 8 – Vrn -A1, vrn -B1, 
+В этих же пределах наблюдалась реакция на яровиза- Vrn -D1, Ppd -D1a4; образец ‘Forlani Roberto’ – vrn -A1, 
+цию у образцов Рико, Rimax и у сорта ‘Ленинградская 6’. Vrn -B1a, Vrn -D1, Ppd -D1a; сорт ‘Ленинградская 6’ – 
+У образца ‘Forlani Roberto’ реакция на яровизацию была Vrn -A1a, Vrn -B1c, vrn -D1, ppd -D1c.
+средней, как в условиях длинного (12,3±1,58), так и корот-
+
+Биотехнология и селекция растений 2021;4(3)
+32
+
+
+
+Рис. 1. Продукты амплификации ДНК ультраскороспелых линий Рифор яровой мягкой пшеницы с 
+аллель-специфичными праймерами. Фрагмент 288 пн характерен для доминантного аллеля Ppd -D1a, 
+
+фрагмент 414 пн – для рецессивного аллеля ppd -D1b. 
+1 – Рифор 1; 2 – Рифор 2; 3 – Рифор 3; 4 – Рифор 4; 5 – Рифор 5; 6 – Рифор 6; 
+7 – Рифор 7; 8 – Рифор 8; 9 – Рифор 9; 10 – Рифор 10; 11 – Рико 11; 12 – сорт 
+
+‘Ленинградская 6’; 13 – ‘Forlani Roberto’; М – Маркер молекулярного веса ДНК
+Fig. 1. Amplification of DNA products of the spring bread wheat Rifor ultra early line with allele-specific 
+
+primers. The 288 bp fragment is characteristic of dominant Ppd -D1a allele, the 414 bp fragment is 
+characteristic of recessive ppd -D1b allele. 
+
+1 – Rifor 1; 2 – Rifor 2; 3 – Rifor 3; 4 – Rifor 4; 5 – Rifor 5; 6 – Rifor 6; 
+7 –Rifor 7; 8 – Rifor 8; 9 – Rifor 9; 10 – Rifor 10; 11 – Rico 11; 12 – ‘Leningradskaya 6’; 
+
+13 – ‘Forlani Roberto’; М – DNA molecular weight marker
+
+Рис. 2. Продукты амплификации ДНК ультраскороспелых линий Рифор яровой мягкой пшеницы 
+с аллель-специфичными праймерами. Фрамент 715 пн характерен для доминантного аллеля Vrn -A1a, 
+
+фрагмент 624 пн характерен для рецессивного аллеля vrn -A1a 
+1 – Рифор 1; 2 – Рифор 2; 3 – Рифор 3; 4 – Рифор 4; 5 – Рифор 5; 6 – Рифор 6; 7 – Рифор 7; 8 – Рифор 8; 
+
+9 – Рифор 9; 10 – Рифор 10; 11 – Рико 11; 12 – сорт ‘Ленинградская 6’; 13 – ‘Forlani Roberto’; 
+М – маркер молекулярного веса ДНК
+
+Fig. 2. Electrophoresis of DNA amplification products of the spring bread wheat ultra early line Rifor 
+with allele-specific primers. The 715 bp fragment is characteristic of dominant Vrn -A1a allele, the 624 bp 
+
+fragment is characteristic of the recessive vrn -A1a allele 
+1 – Rifor 1; 2 – Rifor 2; 3 – Rifor 3; 4 – Rifor 4; 5 – Rifor 5; 6 – Rifor 6; 7 – Rifor 7; 8 – Rifor 8; 9 – Rifor 9; 
+
+10 – Rifor 10; 11 – Rico 11; 12 – ‘Leningradskaya 6’; 13 – ‘Forlani Roberto’; 
+М – DNA molecular weight marker
+
+Plant Biotechnology and Breeding 2021;4(3)
+33
+
+
+
+В нашем эксперименте ультраскороспелые линии Vrn -A1, Vrn -B1a и Vrn -D1, обеспечивающими нечув-
+Рифор 1 – 3, Рифор 6 – 10, Rimax и Рико имеют доминант- ствительность к яровизации на фоне экспрессии гена 
+ный аллель Vrn -A1a, наряду с доминантными аллелями Ppd -D1a, контролирующего реакцию на фотопериод.
+других генов Vrn, что способствует почти полному инги- Генотипы ультраскороспелых линий Рифор 4 
+бированию реакции этих ультраскороспелых образцов и Рифор 5, в отличие от других линий Рифор, име-
+на 30-дневную яровизацию, которая в условиях длинно- ют рецессивный аллель гена vrn -A1a, как и исход-
+го и короткого дней равна в среднем 1,09 и 3,0 сут, соот- ный образец ‘Forlani Roberto’, но линии Рико 4 и Рико 5 
+ветственно. нечувствительны к яровизации в условиях длинно-
+
+Интересным является следующий факт. Линии го дня и имеют очень слабую, но достоверную, реакцию 
+Рифор 4 и Рифор 5, так же как вышеперечисленные уль- на этот фактор при коротком 12-часовом дне (3,5±0,42 сут 
+траскороспелые образцы, не реагируют или очень слабо и 4,0±0,61 сут, соответственно).
+реагируют на яровизацию несмотря на то, что они обла- ‘Forlani Roberto’ одинаково реагирует на яровиза-
+дают рецессивным аллелем vrn -A1a. Такой же аллель цию при любом фотопериоде (12,3±1,58 сут и 12,2±0,74 
+vrn -A1a имеет и образец ‘Forlani Roberto’, который сут). Вполне возможно, отсутствие реакции на ярови-
+наряду с Рико участвовал в происхождении всех линий зацию линий Рифор 4 и Рифор 5 обеспечивает комплекс 
+Рифор. В отличие от линий Рифор 4 и Рифор 5, растения генов-модификаторов наряду с доминантным геном 
+‘Forlani Roberto’ с геном vrn -A1a имеют явно выражен- Vrn -D1, который сформировался в процессе рекомбина-
+ную реакцию на предпосевную яровизацию в условиях ции у гибридов F7-8 Рико × ‘Forlani Roberto’. Ультраскоро-
+длинного и короткого дней (соответственно 12,3±1,58 сут. спелые линии мягкой пшеницы Рифор (к-67120, к-67121, 
+и 12,2±0,74 сут). Подобные результаты получены в трёх к-67250-67256) и Римакс (к-67257) могут быть эффектив-
+независимых экспериментах. ными источниками генов скороспелости в селекции мяг-
+
+Одним из возможных объяснений может быть актив- кой пшеницы.
+ное ингибирование яровизации доминантным аллелем 
+гена Vrn -D1 в случае отсутствия в генотипе доминантно- Литература/References
+го аллеля Vrn -A1a.
+
+Другим объяснением этого явления может быть сле- Abdullaev R.A., Alpatieva N.V., Zveinek I.A., Batasheva B.A., Ani-
+дующее. Как было отмечено выше, линии Рифор 4 simova I.N., Radchenko E.E. Allelic diversity of the Ppd and 
+
+Vrn genes involved in control of the duration of shooting-ear-
+и Рифор 5 отобраны в 6–7-м поколении гибридов уль- ing stage in Dagestanian Barley accessions. Proceedings on 
+траскороспелого образца Рико с позднеспелым ‘Forlani Applied Botany, Genetics and Breeding. 2017;178(4):56-65. 
+Roberto’. По ряду морфологических признаков и ско- [in Russian] (Абдуллаев Р.А., Алпатьева Н.В., Звейнек И.А., 
+
+Баташева Б.А., Анисимова И.Н., Радченко Е.Е. Аллельное 
+рости развития, эти линии практически не различают- разнообразие генов Ppd и Vrn, участвующих в контроле 
+ся. Поэтому возможно, что линии Рифор 4 и Рифор 5 продолжительности стадии стрельбы-колошения у образцов 
+получили от ‘Forlani Roberto’ один и тот же рецессив- дагестанского ячменя. Труды по прикладной ботанике, 
+
+генетике и селекции. 2017;178(4):56-65). DOI: 10.30901/2227-
+ный аллель vrn -A1a. В процессе рекомбинации у гибри- 8834-2017-4-56-65
+дов F Beales J., Turner A., Griffiths S., Snape J., Laurie D. A pseudo response 
+
+7-8 Рико × ‘Forlani Roberto’ сформировался комплекс 
+генов-модификаторов, который наряду с доминантным regulator is misexpressed in the photoperiod insensitive Ppd-D1a 
+
+mutant of wheat (Triticum aestivum L.). Theoretical and Applied 
+геном Vrn -D1, способен ингибировать отзывчивость Genetics. 2007;115(5):721-733. DOI: 10.1007/s00122-007-0603-4
+на яровизацию линий Рифор 4 и Рифор 5. Этот эффект Bespalova L.A., Koshkin V.A., Potokina E.K., Matvienko I.I., Mitro-
+особенно заметен на фоне длинного дня, когда не наблю- fanova O.P., Gusenkova E.A., Filobok V.A. Photoperiodic sensi-
+
+tivity and molecular labeling of Ppd and Vrn genes in connection 
+дается реакции на этот фактор (0,5±0,72 и 1,3±0,43 сут, with the selection of alternative lifestyle wheat varieties. Reports 
+соответственно у Рифор 4 и Рифор 5). В условиях корот- of the Russian Academy of Agricultural Sciences. 2010;6:3-6. 
+кого дня у Рифор 4 и Рифор 5 отмечена незначительная, [in Russian] (Беспалова Л.А., Кошкин В.А., Потокина Е.К., 
+
+Матвиенко И.И., Митрофанова О.П., Гусенкова Е.А., 
+но достоверная, реакция на этот температурный фактор: Филобок В.А. Фотопериодическая чувствительность 
+3,5±0.42 сут и 4,0±0.61 сут, соответственно. и молекулярное маркирование генов Ppd и Vrn в связи 
+
+с селекцией сортов пшеницы альтернативного образа жизни. 
+Доклады Российской Академии сельскохозяйственных наук. 
+
+Заключение 2010;6:3-6).
+Fernandez-Calleja M., Casas Ana M., Igartua E. Major flowering time 
+
+Ультраскороспелые линии яровой мягкой пшени- genes of barley: allelic diversity, effects, and comparison with 
+wheat. Theoretical and Applied Genetics.2021;134:1867-897. 
+
+цы T. aestivum Рифор (к-67120, к-67121, к-67250 -67256) DOI: 10.1007/s00122-021-03824-z
+и Римакс (к-67257) по скорости развития до колоше- Flaksberger K.A. Wheat – genus Triticum L. In: Flora of cultivat-
+ния несущественно отличаются от самого скороспелого ed plants. Vol. 1. Cereals – wheat. Moscow; Leningrad: State 
+
+Agricultural Publishing Company; 1935. p.19-434. [in Rus-
+образца Рико (к-65588) в коллекции ВИР как в условиях sian] (Фляксбергер К.А. Пшеницы – род Triticum L. В кн.: 
+длинного, так и короткого дней. Эти линии очень слабо Культурная флора СССР. Т. 1. Хлебные злаки – пшеница. 
+реагируют на короткий 12-часовой день и 30-дневную Москва; Ленинград: Сельхозгиз; 1935. С.19-434).
+
+Fu D., Szucs P., Yan L. Helguera M., Skinner J.S., von Zitzewitz J. et al. 
+яровизацию. Генотип ультраскороспелых линий яровой Large deletions within the first intron in VRN-1 are associated 
+мягкой пшеницы в основном представлен тремя генами with spring growth habit in barley and wheat. Molecular Genetics 
+
+Биотехнология и селекция растений 2021;4(3)
+34
+
+
+
+and Genomics. 2005;273(1):54-65. DOI: 10.1007/s00438-004- зерна на растении в период созревания. Селекция и семено-
+1095-4 водство. 1935;3(11):39-42.)
+
+Goncharov N.P. Genetic control of photoperiodic sensitivity in soft Koval S.F. The catalog of near-isogenic lines of Novosibirskaya-67 
+wheat. Research Bulletin of the N.I. Vavilov Institute of Plant common wheat and principles of their use in experiment. Rus-
+Industry. 1987;174:7-11. [in Russian] (Гончаров Н.П. Генетиче- sian Journal of Genetics. 1997;33(8):995-1000. [in Russian] 
+ский контроль фотопериодической чувствительности у мяг- (Коваль С.Ф. Каталог изогенных линий сорта мягкой пшени-
+кой пшеницы. Научно-технический бюллетень Всесоюзного цы Новосибирская 67 и принципы их использования в экспе-
+научно-исследовательского института растениеводства им. рименте. Генетика. 1997;33(8):1168-1173).
+Н.И. Вавилова. 1987;174:7-11). Laurie D.A., Pratchett N., Snape J.W., Bezant J.H. RFLP mapping of 
+
+Goncharov N.P. Comparative genetics of wheats and their related spe- five major genes and eight quantitative trait loci controlling flow-
+cies. 2nd ed. Novosibirsk: Academic Publishing House “GEO”; ering time in a winter × spring barley (Hordeum vulgare L.) cross. 
+2012.  [in Russian] (Гончаров Н.П. Сравнительная генетика Genome. 1995;38:575-585. DOI: 10.1139/g95- 074
+пшениц и их сородичей. 2-е изд. Новосибирск: Академиче- Pirasteh B., Welsh J.R. Monosomic analysis of photoperiod response in 
+ское издание «Гео»; 2012). wheat. Crop Science. 1975;15(4):503-505.
+
+Goncharov N.P., Rigin B.V. On the number of dominant Vrn genes Potokina E.K., Koshkin V.A., Alekseeva E.A., Matvienko I.I., Filo-
+that determine the spring type of development. Proceedings on bok V.А., Bespalova L.A. The combination of the Ppd and Vrn 
+Applied Botany, Genetics and Breeding. 1989;128:71-74. [in Rus- gene alleles determines the heading date in common wheat vari-
+sian] (Гончаров Н.П., Ригин Б.В. К вопросу о числе доминант- eties. Vavilov Journal of Genetics and Breeding. 2012;2(4):311-
+ных генов Vrn, определяющих яровой тип развития. Труды по 318. DOI: 10.1134/S2079059712040089
+прикладной ботанике, генетике и селекции. 1989;128:71-74). Pugsley A.T. A genetic analysis of the spring-winter habit of growth in 
+
+Gotoh T. Genetic Studies on Growth Habit of some Important Spring wheat. Australian Journal of Agricultural Research. 1971;22:21-
+Wheat Cultivars in Japan, with Special Reference to the Identifi- 23.
+cation of the Spring Genes Involved. Japanese Journal of Breed- Razumov V.I. Environment and development of plants (Sreda i razvi-
+ing. 1979;29(2):133-145. DOI:  10.1270/jsbbs1951.29.133 tie rastenii). 2nd ed. Moscow; Leningrad: Selkhozizdat; 1961. 
+
+Graner A., Jahoor A., Schondelmaier J., Siedler H., Pillen K., Fisch- [in Russian] (Разумов В.И. Среда и развитие растений. 2-е изд. 
+beck G. et al. Construction of an RFLP map of barley. Theoret- Москва; Ленинград: Сельхозиздат; 1961).
+ical and Applied Genetics. 1991;83(2):250-256. DOI: 10.1007/ Rigin B.V. Spring type of common wheat (Triticum aestivum L.) devel-
+BF00226259 opment: phenological and genetical aspects. Proceedings on 
+
+Kamran A, Iqbal M, Spaner D. Flowering time in wheat (Triticum Applied Botany, Genetics and Breeding. 2012;170:17-33. [in Rus-
+aestivum L.): a key factor for global adaptability. Euphytica. sian] (Ригин Б.В. Яровой тип развития мягкой пшеницы 
+2014;197:1-26. DOI: 10.12983/ijsras-2014-p0016-0022 (Triticum aestivum L.): фенологический и генетический аспек-
+
+Karamyshev R.M. Inheritance in F1 and F2 of emergence-earing peri- ты. Труды по прикладной ботанике, генетике и селекции. 
+od when crossing ultra early spring soft wheat varieties differ- 2012;170:17-33).
+ing in geographical provenance: (short messages). Bulletin of Rigin B.V., Pyzhenkova Z.S. The genes controlling vernalization 
+Applied Botany, Genetics and Plant Breeding. 1984;85:97-98. response and earliness per se in ultra-early forms of spring 
+[in Russian] (Карамышев Р.М. Наследование периода от всхо- bread wheat (Triticum aestivum L.). Proceedings on Applied 
+дов до колошения в F1 и F2 при скрещивании ультраскороспе- Botany, Genetics and Breeding. 2011;168:39-49. [in Russian] 
+лых сортов яровой мягкой пшеницы разного географическо- (Ригин Б.В., Пыженкова З.С. Гены, контролирующие реак-
+го происхождения (краткие сообщения). Сборник научных цию на яровизацию и скороспелость per se ультраскороспе-
+трудов по прикладной ботанике, генетике и селекции. лых форм яровой мягкой пшеницы (Triticum aestivum L.). 
+1984;85:97-98). Труды по прикладной ботанике, генетике и селекции. 
+
+Kiseleva  A.A., Salina E.A. Genetic regulation of common wheat head- 2011;168:39-49).
+ing time. Russian Journal of Genetics. 2018;54(4):375-388. Rigin B.V., Zuev E.V., Andreeva A.S., Matvienko I.I., Pyzhenkova Z.S. 
+DOI: 10.1134/S1022795418030067 Comparative analysis of the inheritance of a high development 
+
+Kiss T., Balla K.,Veisz O., Lang L., Bedо Z., Griffiths S., Isaac P., Kar- rate in the Rimax and Rico lines of spring bread wheat (Triti-
+sai І. Allele frequencies in the VRN-A1, VRN-B1 and VRN-D1 cum aestivum L.). Proceedings on Applied Botany, Genetics and 
+vernalization response and PPD-B1 and PPD-D1 photoperi- Breeding. 2021;182(2):1-8. [in Russian]  (Ригин Б.В., Зуев Е.В., 
+od sensitivity genes, and their effects on heading in a diverse set Андреева А.С., Матвиенко И.И., Пыженкова З.С. Сравнитель-
+of wheat cultivars (Triticum aestivum L.). Molecular Breeding. ный анализ наследования высокой скорости развития линий 
+2014;34:297-310. DOI: 10.1007/s11032-014-0034-2 Римакс и Рико яровой мягкой пшеницы (Triticum aestivum L.). 
+
+Klaimi Y.Y., Qualset C.O. Genetics of heading time in wheat (Triticum Труды по прикладной ботанике, генетике и селекции. 
+aestivum L.). II. The inheritance of vernalization response. Genet- 2021;182(2):1-8). DOI: 10.30901/2227-8834-2021-2-81-88.
+ics. 1974;76(1):119-133. Rigin B.V., Zuev E.V., Andreeva A.S., Pyzhenkova Z.S., Matvienko I.I. 
+
+Koshkin V.A. Methodological approaches of diagnosis of photoperi- The line Rico is the earliest maturing accession in the VIR col-
+odic sensitivity and earliness of plants. Proceedings on Applied lection of spring bread wheat. Proceedings on Applied Bota-
+Botany, Genetics and Breeding. 2012;170:118-129. [in Russian] ny, Genetics and Breeding. 2019;180(4):94-98. [in Russian] 
+(Кошкин В.А. Методические подходы в диагностике фото- (Ригин Б.В., Зуев Е.В., Андреева А.С., Пыженкова З.С., Мат-
+периодической чувствительности и скороспелости расте- виенко И.И. Линия Рико – самая скороспелая среди предста-
+ний. Труды по прикладной ботанике, генетике и селекции. вителей коллекции яровой мягкой пшеницы ВИР. Труды по 
+2012;170:118-129). прикладной ботанике, генетике и селекции. 2019;180(4):94-
+
+Koshkin V.A., Merezhko A.F., Matvienko I.I. Influence of photoperi- 98). DOI: 10.30901/2227-8834-2019-4-94-98.
+od and Ppd genes on morphophysiological traits of homozygous Shcherban A.B., Efremova T.T., Salina E.A. Identification of a new 
+wheat lines with different photoperiodic sensitivity. Reports of the Vrn-B1 allele using two near-isogenic wheat lines with differ-
+Russian Academy of Agricultural Sciences. 1998;4:8-10. [in Rus- ence in heading time. Molecular Breeding. 2012;29(3):675-685. 
+sian] (Кошкин В.А., Мережко А.Ф., Матвиенко И.И. Влияние DOI: 10.1007/s11032-011-9581-y
+фотопериода и генов Ppd на морфофизиологические призна- Skripchinsky V.V. Photoperiodism - its origin and evolution (Fotoperi-
+ки гомозиготных линий пшеницы с различной фотопериоди- odizm - ego proiskhozhdenie i evolyutsiya). Leningrad: Nauka; 
+ческой чувствительностью. Доклады Российской академии 1975. [in Russian]  (Скрипчинский В.В. Фотопериодизм - его 
+сельскохозяйственных наук. 1998;4:8-10). происхождение и эволюция. Ленинград: Наука; 1975).
+
+Kostyuchenko I.A., Zarubailo T.Ya. Natural vernalization of grain on Tan C., Yan L. Duplicated, deleted and translocated VRN2 genes in 
+a plant during ripening (Estesnvennaya yarovizatsiya zerna na hexaploid wheat. Euphytica. 2016; 208:277-284. DOI: 10.1007/
+rastenii v period sozrevaniya). Selektsiya i Semenovodstvo = s10681-015-1589-7
+Selection and Seed Production. 1935;3(11):39-42. [in Russian]  Yan L.D., Helguera M., Kato K., Fukuyama S., Sherman J., Dubcov-
+(Костюченко И.А., Зарубайло Т.Я. Естественная яровизация sky J. Allelic variation at the VRN1 promoter region in polyploid 
+
+Plant Biotechnology and Breeding 2021;4(3)
+35
+
+
+
+wheat. Theoretical and Applied Genetics. 2004;109(8):1677- icheskaya statistika v eksperimentalnoy botanike). Moscow: Nau-
+1686. DOI: 10.1007/s00122-004-1796-4 ka; 1984. [in Russian] (Зайцев Г.Н. Математическая статистика 
+
+Zaitsev G.N. Mathematical statistics in experimental botany (Matemat- в экспериментальной ботанике. Москва: Наука; 1984).
+
+Биотехнология и селекция растений 2021;4(3)
+36

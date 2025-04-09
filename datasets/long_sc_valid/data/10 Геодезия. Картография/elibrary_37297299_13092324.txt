@@ -1,0 +1,857 @@
+﻿астрономия, гравиметрия и космическая геодезия
+
+астРономия, гРавиметРия  
+и космическая геодезия
+
+УдК 528.2 DOI: 10.30533/0536-101X-2019-63-2-125-133
+
+Эволюция орбитального метода ‒ развитие технологий высокоточного  
+автономного позиционирования
+
+© 2019 г. а.о. куприянов
+московский государственный университет геодезии и картографии, москва, россия
+
+aoku28@gmail.com
+
+orbital method evolution by Precise Point Positioning technology development
+а.o. кupriyanov
+
+Moscow state university of Geodesy and Cartography, Moscow, russia
+aoku28@gmail.com
+
+received december 7, 2018 revised March 29, 2019 accepted april 4, 2019
+Keywords: еrror balance, GlONASS, GNSS, GNSS measurements processing, GPS, IGS, PPP, RTK. 
+
+Summary. Global Navigation Satellite Systems (GNSS) are the basis for determining the coordinates of objects 
+of various classes and purposes. Modern multi-system, multi-frequency equipment operating with the use of 
+GlONASS, GPS, GAlIlEO, BEIDOU, QZSS, IRNSS signals, SBAS wide-gap add-ons (SDCM, WAAS, 
+EGNOS, MSAS, GAGAN) provide post-processing positioning with the accuracy of 2.5 mm + 0.5 ppm and up 
+centimeter accuracy in Real Time Kinamatic mode. The prospect of further development of spatial coordinate 
+support using orbital satellite constellations is an intensively developing method of high-precision autonomous 
+coordinate positioning of objects using precise ephemeris and time-frequency parameter corrections (FDPs) of 
+time scales (PPP).Over time, the above method has proven to be a powerful tool for geodetic and geodynamic 
+applications. Although the accuracy obtained as a result of its application is quite similar to that got in the 
+static mode of the relative method of satellite geodesy, the results of the method can be improved by using the 
+technique of the phase ambiguity integer resolution.
+
+Citation: кupriyanov а.o. Orbital method evolution as Precise Point Positioning technology development. Izvestiya vusov «Geodeziya i 
+aerofotosyemka». Izvestia vuzov «Geodesy and Aerophotosurveying». 2019, 63 (2). 125–133. [In Russian]. DOI: 10.30533/0536-101X-
+2019-63-2-125-133.
+
+Поступила 7 декабря 2018 г. После доработки 29 марта 2019 г. Принята к печати 4 апреля 2019 г.
+ключевые слова: баланс ошибок, высокоточное абсолютное местоопределение, ГлОнАСС, ГнСС, кинематика в 
+реальном времени, международная IGS-служба, обработка ГнСС-измерений, GPS.
+
+С позиций орбитального метода космической геодезии рассмотрен относительно новый способ реше-
+ния координатной задачи – способ высокоточного автономного спутникового позиционирования (англ. 
+Precise Point Positioning, PPP) и составляющих его ошибок, методы решения задачи Integer РРР ‒ це-
+лочисленного разрешения неоднозначности при высокоточном позиционировании с использованием 
+уточненных эфемерид и частотно-временных параметров Международной ГнСС службы IGS. Пред-
+ставлены перспективы дальнейшего развития современных методов ГнСС-наблюдений.
+
+для цитирования: куприянов а.о. Эволюция орбитального метода ‒ развитие технологий высокоточного автономного позици-
+онирования // Изв. вузов «Геодезия и аэрофотосъемка». 2019. Т. 63. № 2. С. 125–133. DOI: 10.30533/0536-101X-2019-63-2-125-
+133.
+
+125
+
+
+
+известия высших учебных заведений. геодезия и аэрофотосъемка. Т. 63. №2. 2019
+
+введение станций, распределенных по всей территории 
+Глобальные навигационные спутниковые поверхности Земли, при помощи которых обе-
+
+системы (ГнСС) — основа для определения спечиваются непрерывный мониторинг и опе-
+координат объектов различных классов и на- ративная передача данных в центры обработки. 
+значения. Современная мультичастотная аппа- Они позволяют пользователям получать акту-
+ратура, работающая по сигналам ГлОнАСС, альную информацию из ежедневно формируе-
+GPS, GAlIlEO, BEIDOU, QZSS, IRNSS [1,  2] мых архивов для уточнения спутниковых коор-
+и использующая сигналы широкозонных до- динатных определений. К ней относятся:
+полнений SBAS (СдКМ, WAAS, EGNOS, эфемериды GPS (орбиты);
+MSAS, GAGAN) [3], обеспечивает позициони- данные по часам спутников и приемников;
+рование в режиме постобработки с точностью эфемериды ГлОнАСС (орбиты);
+до 2,5±0,5 ppm и с сантиметровой точностью наборы ультракоротких бортовых эфеме-
+в реальном времени (режим RTK) [4]. в на- рид;
+стоящее время на практике широко использу- геоцентрические координаты станций сле-
+ется концепция локальных, региональных и жения IGS;
+глобальных спутниковых референцных сетей. параметры вращения Земли;
+Методы сетевого решения базовых станций – атмосферные параметры (данные по па-
+FKP, VRS, i-MAX, MAC [5] – позволяют мини- раметрам тропо- и ионосферы: оценки зе-
+мизировать количество используемых базовых нитных задержек в тропосфере, а также ста-
+станций и оптимизировать состав подвижной тистические данные, полученные на основе 
+аппаратуры при достижении высокой точности ГнСС-измерений, вертикальные карты полного 
+определения координат. Международная стан- электронного содержания ионосферы) [12, 13].
+дартизация сетевого протокола NTRIP, фор- Типы данных IGS для уточнения орбит и 
+матов RINEX и передачи дифференциальных часов спутников GPS и ГлОнАСС представле-
+коррекций RTCM SC-104 3.0, а также стандарт ны в таблице.
+протокола связи NMEAO183 [6] позволили Современный уровень развития теории 
+унифицировать технологии спутниковых гео- возмущенного орбитального движения ИСЗ, 
+дезических и кадастровых работ, навигацион- средства квантово-оптической локации спут-
+ного обеспечения и обработку результатов. ников (КОС), развитие наземных сетей не-
+
+вместе с тем перспектива дальнейшего прерывного мониторинга мультисистемных 
+развития пространственного координатного мультичастотных созвездий позволили перей-
+обеспечения с использованием орбитальных ти на принципиально новый уровень решения 
+группировок связана с интенсивно развиваю- задачи координатного обеспечения. Метод РРР 
+щимся способом высокоточного автономного представляет собой сочетание и развитие гео-
+координатного определения положения объ- метрического и динамического разделов орби-
+ектов с использованием ультракоротких эфе- тального метода, основы которого были зало-
+мерид и коррекций частотно-временных пара- жены в работах М.С. Урмаева, Ю.в. Плахова, 
+метров (ЧвП) шкал времени – РРР [6–11]. При С.н. Яшкина и других исследователей. вместе 
+этом используются данные всемирной сети с тем РРР способствует развитию собственно 
+референцных станций Международной ГнСС- орбитального метода, применение которого 
+службы (англ.: International GNSS service, IGS). можно рассматривать в двух ракурсах: получе-
+
+IGS собирает, архивирует и распространя- ние высокоточных эфемерид и, как следствие, 
+ет данные, полученные в результате обработки получение высокоточных координат пунктов.
+спутниковых наблюдений глобальной сети на- в основе орбитального метода спутнико-
+земных станций слежения с 1998 г. по насто- вой геодезии, согласно [14], лежит векторное 
+ящее время. Сеть IGS насчитывает более 400 фундаментальное уравнение, определяющее 
+
+126
+
+
+
+астрономия, гравиметрия и космическая геодезия
+
+коррекции орбит и часов спутников iGS
+Тип данных Точность Задержка Обновление Интервал данных
+
+Gps
+RTS (реального времени), орбита/ 
+часы спутника ~100 см/~5 нс СКО
+
+в реальном вре-
+мени ‒ ежедневно
+
+Ультрабыстрые, орбита/часы 
+спутника ~5 см/~3 нс СКО
+
+в 03, 09, 15, 21 UTC 15 мин
+Срочные, орбита/часы спутника ~3 см/~150 пс СКО 3–9 ч в 03, 09, 15, 21 UTC 15 мин
+Быстрые, орбита/часы спутника 15 мин
+и станции ~2,5 см/~75 пс СКО 17–41 ч в 17 UTC ежедневно
+
+5 мин
+15 мин
+
+Окончательные, орбита/часы 
+спутника и станции ~2,5 см/~75 пс RMS 12–18 дней Каждый четверг Спутника: 30 с  
+
+Станции: 5 мин
+гЛонасс
+
+Final, орбита ~3 см 12–18 дней Каждый четверг 15 мин
+
+соотношение между геоцентрическим векто-  
+ ∂r
+
+ром пункта наблюдения ri , геоцентрическим  Δr ij
+ij =  ∆  
+
+r
+r
+∂rij r
+
+∂ j−  ∆ ,
+∂r i
+
+вектором спутника rj  в инерциальной системе j i
+
+координат в момент tj и топоцентрическим век- где rj  — геоцентрический вектор спутника в 
+тором спутника r момент времени; ( r  
+
+j = rj (Ej )  — функция век-
+ij :
+r  r
+
+тора Ej  текущих элементов орбиты;
+ ij = rj− i .   
+
+на начальных этапах развития космиче-  r
+∂rij ∂rj  
+
+∂r
+Δ ij =   ∆E − ij
+
+∂rj ∂E
+j  ∆r
+
+
+i . 
+
+ской геодезии для получения топоцентриче-  j ∂ri
+ского вектора спутника на пунктах в геометри- вектор Ej  есть сложная функция вектора 
+ческом методе применялась фотографическая начальных условий E0 ,  параметров моделей 
+аппаратура наблюдений прохождения спутни- гравитационного поля, влияния тонких негра-
+ков на фоне звезд, а также лазерные и допле- витационных эффектов:
+ровские системы. в настоящее время среднеор-   
+битальные навигационные радиотехнические Ej = Ej (E0 ,∑n,m(Cnm ,Snm ),Pl | t);
+системы работают на иных физических и 
+геометрических принципах. навигационные 
+группировки России, США, Китая, евросоюза,  r∂
+
+ΔEj = j
+
+
+∆E
+∂E 0+Японии, Индии со средним радиусом орбит 0
+
+в 20 тыс. км представляют собой глобальное 
+средство координатно-временного обеспече- ∂E ⎛⎜ ⎞
+
++∑ j ⎜ ∆C ⎟
+⎜ nm ⎟⎟
+
+ния широкого спектра задач. в орбитальном n,m ⎜ ⎟+∂(Cnm ,Snm )⎝⎜ ∆S ⎟
+nm ⎠⎟
+
+методе космической геодезии были заложены ⎛
+теоретические предпосылки развития дально- ⎜⎜ ∆P
+
+⎞⎟
+ ⎜ 1 ⎟⎟
+
+мерных и референцных решений определения ∂E ⎜ ⎟
+параметров топо- и геоцентрического векторов + j ⎜ ⎟
+
+⎜ ∆P2 ⎟⎜ ⎟
+⎜ ⎟
+⎜  ⎟;∂(P1,P2 ,…,  P
+
+спутника и координат пунктов. l ) ⎟
+⎜ ⎟
+⎜ ⎟
+⎝⎜⎜ ∆P
+
+⎟
+на практике используется линеаризиро- l ⎠⎟⎟
+
+ванный вариант фундаментального уравнения 
+орбитального метода [14–19]:
+
+127
+
+
+
+известия высших учебных заведений. геодезия и аэрофотосъемка. Т. 63. №2. 2019
+
+⎡ ⎛⎜ ΔP ⎞⎢ ⎟⎤
+ ⎢    ⎜⎜ 1 ⎟⎟⎥
+
+⎢ ⎜
+Δr
+
+∂rij ∂r ∂E ⎜⎜ P ⎟⎟
+⎥ r
+
+ij = j  j
+∂E ⎛⎜⎜ ΔC
+
+⎞
+⎢ + j ⎜ nm ⎟⎟ ∂E
+
+∂rj ∂Ej ∂E
+∑ ⎟+ j Δ
+
+n,m
+0 ∂(Cnm ,S )⎜ ⎟
+
+nm ⎝⎜ ΔS ⎟
+nm ⎠⎟ ∂(P1,P2 ,…,P
+
+⎜ 2 ⎟⎥ ∂⎟⎥− ij Δ
+⎥  r
+
+⎢ ⎜ ⎟⎟ i .
+⎢ i )⎜⎜  ⎟⎟ ∂r
+
+⎥ i
+⎢ ⎜ ⎟
+
+⎝⎜⎜ ΔP
+⎟⎟⎥
+
+⎣⎢ l ⎠⎟⎦⎥
+Рассмотрим составляющие основных элементов разложения: Δrij  — компоненты топо-
+
+центрического вектора спутника и Δri  – компоненты геоцентрического вектора спутника. 
+Распространение радионавигационного сигнала от фазового центра излучателя спутника до фа-
+зового центра приемника потребителя происходит в псевдовакуумном пространстве. Общая схе-
+ма распространения сигнала представлена на рис. 1 [9].
+
+в спутниковых методах составляющая топоцентрического вектора Δrij  — сложная функция 
+эффектов прохождения волнового сигнала от антенны навигационного спутника до антенны при-
+емника через атмосферу и ряда других факторов. К основным факторам, влияющим на геометри-
+ческую дальность и вызывающим задержку во времени τqA,L ,  относятся: ионизация ионосфер-
+
+i
+ного слоя [18–23] и прохождение сигнала через нижний слой атмосферы — тропосферу [24, 25]. 
+Среди других факторов: dT GP1,dT
+
+G G
+P2 ,dTL1 ,dT
+
+G
+L1  — псевдодальностные (кодовые) и псевдофазовые 
+
+(фазовые) смещения показаний часов приемника потребителя относительно шкалы системы и 
+dtGjP ,dt
+
+Gj G
+P2 ,dt
+
+j
+L1 ,dt
+
+Gj
+1 L1  — кодовые и фазовые смещения показаний часов j-го спутника относитель-
+
+но шкалы системы (определяются из сетевого решения по результатам работы станций ICG). 
+для спутника и приемника присутствуют также трудноразделимые аппаратные межканальные 
+смещения приема-передачи сигнала. в общее уравнение также входят: целочисленные неодно-
+значности псевдофазовых измерений по j-му спутнику на частоте f Gi  (циклы); некомпенсиро-
+ванные в измерениях PG , j ,LG , ji i  релятивистские эффекты; смещения фазовых центров спутника и 
+приемника; влияние взаимной ориентации антенн приемника и спутника (wind-up смещение) на 
+фазовые измерения; тонкие приливные и гравитационные эффекты [7, 26–28].
+
+Местоположение Разрешение неоднозначности — одна из 
+спутника проблем высокоточного абсолютного позици-
+
+Z онирования. Классическим или стандартным 
+y в ГнСС называют режим высокоточного абсо-
+
+dX лютного определения координат, который осу-
+dz ществляется при использовании высокоточной 
+
+dy эфемеридно-временной информации (ЭвИ), 
+Фазовый компенсации ряда систематических смещений 
+центр  Ионосферная X
+приемника задержка в измерениях и использовании неоднозначных 
+
+Фазовый 
+центр  псевдофазовых измерений. При этом, не учи-
+
+спутника тывается целочисленная природа неоднознач-
+Тропосферная ностей псевдофазовых измерений («плаваю-
+
+задержка щее» решение режима РРР). 
+Метод Integer РРР (PPP-AR) [6–8, 13, 26–
+
+28] позволяет разрешить неоднозначности 
+Многолучёвость псевдофазовых измерений для высокоточного 
+
+абсолютного определения координат. для этого 
+Рис. 1. схема распространения сигнала используется модель измерений с разделенны-
+Fig. 1. Signal propagation layout ми часами на исходных частотах корректирую-
+
+128
+
+
+
+астрономия, гравиметрия и космическая геодезия
+
+щей информации, формируемой по измерениям сети наземных станций IGS. линеаризованная 
+модель измерений с разделенными часами на частотах системы GPS, представленная в работах 
+[6–8, 27, 28] имеет следующий вид:
+
+⎧⎪⎪ PG , j = RGj j j
+⎪ 1 C + h
+
+j
+XΔx+ hYΔy+ h
+
+j
+ZΔz+m ΔD
+
+j
+W + dT
+
+G dtG , jP1− εGP1 + I I + P1;
+⎪⎪⎪ PG , j j G
+
+2 = R
+G
+C + h
+
+j
+XΔx+ h
+
+j
+YΔy+ h
+
+jΔz+mj
+Z ΔD −dtG , j G j G
+
+⎨⎪ W + dTP2 P2 + k II + εP2;  (1)
+⎪⎪ LG , j1 = R
+
+Gj+ h jC XΔx+ h
+j
+YΔy+ h
+
+jΔz+mj
+Z ΔD G j j
+
+W + dTL1−dt
+G , −λGNG , j G
+L1 − I I 1 1 + εL1;⎪⎪⎪⎪ LG , j = RGj j
+
+⎩⎪ 2 C + h
+j
+XΔx+ hYΔy+ h
+
+j j G , j
+ZΔz+m ΔDW + dT
+
+G
+L2−dtL2 −k
+
+G I j−λGNG , j G
+I 2 2 + εL2 ,
+
+где RGjC  — геометрическая дальность от j-го спутника до точки с грубыми координатами потре-
+бителя, м; h j ,h j h jX Y , Z  — направляющие косинусы; Δx, Δy, Δz — поправки к грубым координатам 
+потребителя, м; ΔdW — некомпенсированная компонента влажной составляющей вертикальной 
+тропосферной задержки, м; dT GP1= dT
+
+G +bGREC rP1  èи dT G G G
+P2 = dTREC +brP2  — кодовые смещения пока-
+
+заний часов приемника потребителя относительно шкалы системы с учетом кодовых аппаратур-
+ных смещений bG j
+
+rP1  èи bGrP2  измерений PGj  èи bG ;  dT G G
+1 2 L1 = dT
+
+G
+REC +brL1  èи dT GL2 = dT
+
+G G
+REC +brL2  — фазовые 
+
+смещения показаний часов приемника потребителя относительно шкалы системы с учетом фазовых 
+аппаратурных смещений bGrL1  èи bGrL2  измерений LG , j
+
+1  èи bG , j
+2 ; dtG , j  
+
+P1 = dt
+G , j
+SAT +b
+
+j ,G
+P1  èи dtG , j
+
+P1 = dt
+G , j
+SAT +b
+
+j ,G
+P2
+
+— кодовые смещения показаний часов j-гo спутника с учетом аппаратурных смещений b j ,GP1 ,b
+j ,G
+P2 ; 
+
+dtG , j j
+L1 = dt
+
+G , j
+SAT +b
+
+j ,G
+L1  èи dtG ,
+
+L2 = dt
+G , j G  – фазовые смещения показаний часов j-гo спутника на ис-
+SAT +b
+
+j ,
+L2
+
+ходных частотах с учетом аппаратурных смещений b j ,GL1  èи b j ,GL2  измерений LG , j
+1  èи LG , j
+
+2 ;  I j1  — ионо-
+сферная задержка сигнала j-гo спутника (м) на первой частоте GPS f G1 , K
+
+G = (f G1 f G 2
+2 )  — кон-
+
+станта, связывающая несущие частоты f G1 и f G2 .
+К оцениваемым параметрам модели от-
+
+носятся ∆x, ∆y, ∆z, ∆d G G G ,1 G G ,MSat MSat
+W, dTP1,dT
+
+G
+P2 ,dT
+
+G
+L1 ,dTL2 ,λ
+
+G
+1 N1 ,…, λ1 N1 , I j1 , I1 .
+
+dT G G G dt T a
+A A j
+
+P1,dTP2 ,dT
+G
+L1 ,dT
+
+G
+L2 ,λ1 N
+
+G ,1 MSat
+1 ,…, λ
+
+G
+1 N
+
+G ,
+1 , I j1 , I
+
+MSat
+1 . в режиме ΦA(t0)
+
+Integer РРР разделенные поправки к показа- ri rj rij
+
+ниям спутниковых часов dtG , j , j i
+P1 ,dt
+
+G , j
+P2 ,dt
+
+G
+L1 ,dt
+
+G , j
+L2  
+
+считаются известными из сетевого решения. 
+Таким образом, топоцентрический век- e a δ ,Li δ
+
+тор спутника j в момент времени T smi a,Li a
+a,Li n a
+
+a,Li
+j кроме 
+
+геомет-рической дальности включает в себя: 
+фа(t0), фq(t0) — начальные фазы генераторов 
+приемника и спутника; T q ri rj rij
+
+A  — тропосфер- ri rj rij
+ную задержку; eqA,L  — шум измерения фазы; 
+
+i ⎛
+N q ⎜ ⎞
+
+⎜ ΔΩ ⎟
+A,L  — целочисленную начальную неодно- ⎜ 0 ⎟⎟
+
+i ⎜ ⎟
+значность фазы; ⎛ ⎜ Δi ⎟
+
+δi ⎜ Δx ⎞ ⎜ 0 ⎟
+A,L , δ
+
+q  — запаздывания сиг- ⎜ ⎟ ⎜ ⎟
+⎜ ⎟
+
+i
+налов в аппаратуре приемника и спутника; Δr ⎜ ⎟⎟
+
+⎜ ⎟ ⎜ ⎟
+Δω ⎟
+
+i =⎜ Δy ⎟ Δэ= ⎜ 0 ⎟
+⎜ ⎟⎟ j ⎜ ⎟⎟
+
+⎟ ΔY ⎟
+⎝⎜⎜ Δz ⎠⎟
+
+j =⎜⎜⎜ Δa ⎟⎟
+δmi i ⎜ 0 ⎟
+
+A,L  — влияние многолучевости на фазовые ⎜ ⎟
+i ⎜ ⎟
+
+⎜ Δe ⎟
+измерения; dt ⎜ 0 ⎟
+
+⎜ ⎟⎟
+A, dt
+
+q  — сдвиги шкал часов для ⎜ ⎟
+спутника и приемника относительно шкалы ⎝⎜ ΔM ⎟
+
+0 ⎠⎟ j
+o
+
+системного времени; Δэ=  — правки к теку-
+j
+
+щим элементам орбит (рис. 2). Рис. 2. компоненты векторов
+Fig. 2. Components of vectors
+
+129
+
+
+
+известия высших учебных заведений. геодезия и аэрофотосъемка. Т. 63. №2. 2019
+
+в формулах (1) полагается, что в измере- Технологическое развитие и постоян-
+ниях PG , ji , LG , ji  скомпенсированы систематиче- ная модернизация глобальных навигацион-
+ские смещения, связанные с релятивистким и ных спутниковых систем позволяют повы-
+гравитационным эффектом, смещениями фа- сить конечную точность позиционирования 
+зовых центров, приливными эффектами, wind- и выполнять измерения в сложных условиях. 
+up эффектом, атмосферными задержками и С 2016  г. национальный центр пространств 
+шумовыми ошибками [27, 28]. (CNES) предоставляет коррекции ЧвП и эфе-
+
+Рассматривая эволюцию методов спутни- мерид в режиме реального времени для всех 
+кового позиционирования, можно выделить ГнСС, обеспечивая фактическое моменталь-
+следующие этапы: а) автономные спутнико- ное точное мультисистемное позиционирова-
+вые определения; б) DGNSS — дифферен- ние, избавленное от ошибок времени и орбит 
+циальный метод спутникового позициониро- спутников, как при использовании финальных 
+вания; в) RTK — кинематический режим в продуктов IGS.
+реальном времени; г) сети RTK VRS — вир-
+туальные референцные станции, в которых заключение
+передача корректирующей информации осу- в настоящее время метод PPP активно со-
+ществляется по сети Интернет; д) PPP, PPP- вершенствуется, разрабатываются новые спо-
+RTK — мспользование уточненных эфемерид собы его применения. Происходит повышение 
+и ЧвП спутников; е) Fast-PPP — быстрое точ- надежности, а также доступности и оперативно-
+ное точечное позиционирование, благодаря сти решения задач позиционирования. Помимо 
+использованию внешних данных об ионосфе- рассмотренного способа совершенствования 
+ре; ж) Integer PPP. данная тенденция отраже- методики PPP через применение разрешения 
+на на рис. 3. неоднозначностей фазовых ГнСС-измерений 
+
+или их одинарных разностей, следует отметить 
+
+2020–2025 гг.
+
+Fast PPP (FPPP) → 
+2010–2020 гг. integer PPP (iPPP)
+
+PPP, PPP–rtK
+
+2000–2010 гг.
+сети rtK 
+VrS — виртуальные 
+референцные станции
+
+1990–2000 гг.
+dGNSS и rtK
+
+1980–1990 гг.
+автономные  
+спутниковые 
+определения
+
+Рис. 3. Этапы развития методов спутникового позиционирования
+Fig. 3. Milestones of satellite positioning methods evolution
+
+130
+
+
+
+астрономия, гравиметрия и космическая геодезия
+
+вопросы, требующие решения, а также ключе- 4. Повышение точности определения ме-
+вые направления дальнейшего развития метода. стоположения по методике PPP и сокращение 
+
+1. Повышение надежности определения времени сходимости могут быть достигнуты 
+местоположения в кинематическом режиме, также за счет повышения точности применя-
+определение ориентации объекта в простран- емой модели результатов ГнСС-измерений, в 
+стве и уточнение характеристик его движения частности, модели бортовой шкалы времени 
+возможно за счет совместного использова- навигационного космического аппарата.
+ния данных аппаратуры потребителя ГнСС, 5. С ростом надежности PPP-метода в ре-
+ИнС (инерциальных навигационных систем). альном времени, а также качества и доступно-
+Частный случай повышения надежности реше- сти программных и аппаратных решений сле-
+ний по рассматриваемому методу – примене- дует ожидать существенных перемен в области 
+ние данных ИнС при восстановлении потерь высокоточного спутникового позиционирова-
+счета циклов в результатах фазовых ГнСС- ния и в других сферах. Так, в случае достиже-
+измерений. ния сопоставимых по точности параметров с 
+
+2. Один из недостатков методики использо- традиционно считающимся более надежным 
+вания уточненных частотно-временных параме- относительным методом, PPP-метод будет все 
+тров и элементов орбит при использовании для чаще выбираться в качестве основного в силу 
+позиционирования подвижных объектов в кине- его удобства и низкой стоимости.
+матическом режиме – необходимость повторной 
+инициализации в случае потери видимости спут- Благодарности. Автор выражает глубокую 
+ников. для решения указанной проблемы разра- благодарность доктору технических наук, про-
+батываются способы быстрого восстановления фессору А.А. Майорову и доктору техниче-
+потерь счета циклов фазовых ГнСС-измерений. ских наук, профессору в.Б. непоклонову за 
+
+3. важный шаг в направлении повышения поддержку и ценные замечания, полученные в 
+доступности и оперативности использования процессе обсуждения данной работы.
+способа высокоточного позиционирования – acknowledgments. The author accords most 
+свободное предоставление службой IGS уточ- heartfelt thanks to Doctor of Technical Sciences, 
+ненной эфемеридно-временной информации в Professor A.A. Mayorov and Doctor of Technical 
+реальном времени через сеть Интернет по про- Sciences, Professor V.B. Nepoklonov for support and 
+токолу NTRIP. feedback received in this paper discussion process.
+литеРатУРа ReFeRenCe
+
+1. Babu r, rethika t., shuntikatte r. Onboard Atomic 1. Babu r., rethika t., shuntikatte r. Onboard Atomic 
+Clock Frequency Offset for Indian Regional Navigation Clock Frequency Offset for Indian Regional Navigation 
+Satellite System // Intern. Journ. of Applied Physics and Satellite System. Intern. Journ. of Applied Physics and 
+Mathematics. 2012. V. 2. № 4. P. 270–272. Mathematics. 2012, 2(4): 270–272.
+
+2. Электронный ресурс: https://www.glonass-iac.ru/ 2. URl: https://www.glonass-iac.ru/aboutIAC/
+aboutIAC/digest2014-SFDCB.pdf. digest2014-SFDCB.pdf.
+
+3. Электронный ресурс: http://www.gmat.unsw.edu.au/ 3. URl: http://www.gmat.unsw.edu.au/snap/gps/
+snap/gps/gpssurvey/principlesgps.htm. gpssurvey/principlesgps.htm.
+
+4. нeo y., yan t., Lim s., rizos C. International Standard 4. heo y., yan t., Lim s., rizos C. International Standard 
+GNSS Real-Time Data Formats and Protocols // Intern. GNSS Real-Time Data Formats and Protocols. Intern. Global 
+Global Navigation Satellite Systems Society IGNSS Navigation Satellite Systems Society IGNSS Symposium. 
+Symposium 2009. 17 p. 2009: 17 p. 
+
+5. teunissen p.J.G., Kleusberg a. GPS for geodesy. Berlin, 5. teunissen p.J.G., Kleusberg a. GPS for geodesy. Berlin, 
+Heidelberg: Springer, 1998. 650 p. Heidelberg: Springer, 1998: 650 p.
+
+6. povalyaev a., podkorytov a. Ambiguity resolution of 6. povalyaev a., podkorytov a. Ambiguity resolution of 
+phase measurements in Precise Point Positioning working phase measurements in Precise Point Positioning working 
+on initial frequencies // GNSS Precise Point Positioning on initial frequencies. GNSS Precise Point Positioning 
+
+131
+
+
+
+известия высших учебных заведений. геодезия и аэрофотосъемка. Т. 63. №2. 2019
+
+Workshop: Reaching Full Potential. Ottawa, Canada. 12–14 Workshop: Reaching Full Potential. Ottawa, Canada, 12–14 
+June 2013. 18 p. June 2013: 18 р.
+
+7. Laurichees d. Integer ambiguity resolution on 7. Laurichees d. Integer ambiguity resolution on 
+undifferenced GPS phase measurements and its application undifferenced GPS phase measurements and its application 
+to PPP // Proceedings of ION-GNSS-2007, Front Worth, to PPP. Proceedings of ION-GNSS-2007, Front Worth, 
+Texas. 25–28 September 2007. Р. 839–848. Texas. 25–28 September, 2007: 839–848.
+
+8. huber K., heuberger F., abart C., Karabatic a., Weber 8. huber K., heuberger F., abart C., Karabatic a., 
+r., Berglez p. PPP: Precise Point Positioning – Constraints Weber r., Berglez p., PPP: Precise Point Positioning – 
+and Opportunities // FIG Congress 2010 Facing the Constraints and Opportunities // FIG Congress 2010 Facing 
+Challenges – Building the Capacity Sydney, Australia. 11– the Challenges – Building the Capacity Sydney, Australia. 
+16 April 2010. 17 p. 11–16 April 2010: 17 p.
+
+9. Misra p.n., enge. p. Global Positioning System. Signals, 9. Misra p.n., enge p. Global Positioning System. Signals, 
+Measurements and Performance Text. USA: Ganga-Jamuna Measurements and Performance Text. USA: Ganga-Jamuna 
+Press, 2001. 390 p. Press, 2001: 390 p.
+
+10. куприянов а.о., корчагин а.с., алибин д.Ю., 10. Kupriyanov а.о., Korchagin а.с., alibin d.y., 
+морозов д.а. Проектирование модели мобильного Morozov d.а. Designing the mobile multisystem GNSS-
+мультисистемного ГнСС-приемника с возможностью receiver capable of PPP and differential correction methods 
+точного позиционирования методами РРР и дифферен- positioning. Izvestiya vuzov «Geodeziya i aerofotosyemka». 
+циальной коррекции // Изв.вузов «Геодезия и аэрофото- Izvestia vuzov «Geodesy and Aerophotosurveying». 2016, 
+съемка». 2016. Т. 60. № 1. С. 93–98. 60 (1): 93–98. [In Russian].
+
+11. Электронный ресурс: www.igs.org. 11. URl: www.igs.org.
+12. Kouba J. Guide to using international GNSS service 12. Kouba J. Guide to using international GNSS service 
+
+(IGS) products // Geodetic Survey Division. Natural (IGS) products. Geodetic Survey Division. Natural 
+Resources Canada. May 2009. 34 p. Resources Canada. May 2009: 34 р.
+
+13. урмаев м.с. Орбитальные методы космической 13. urmaev м.s. orbitalnye metody kosmicheskoy 
+геодезии. М.: недра, 1981. 256 c. geodesii. Orbital methods of space geodesy Мoscow: Nedra, 
+
+14. Плахов Ю.в., мыценко a.B., шельпов в.а. О мето- 1981: 256 p. [In Russian].
+дике численного интегрирования уравнений возмущён- 14. plakhov yu.v., Mitsenko a.B., shelpov v.a. On the methods 
+ного движения ИСЗ в задачах космической геодезии // of tabular integration of the artificial Earth satellites disturbed 
+Изв. вузов «Геодезия и аэрофотосъемка». 1989. № 4. С. motion equations into space geodesy objectives. Izvestiya vuzov 
+61–67. «Geodeziya i aerofotosyemka». Izvestia vuzov «Geodesy and 
+
+15. Плахов Ю.в. Применение теории возмущений в Aerophotosurveying». 1989, 4: 61–67. [In Russian].
+космической геодезии. М.: недра, 1983. 201 с. 15. plakhov yu.v. primeneniye teorii vozmushcheniy v 
+
+16. Плахов Ю.в. О вычислении возмущений выс- kosmicheskoy geodezii. Perturbation theory applied to space 
+ших порядков в движении небесных тел // Изв. вузов geodesy. Мoscow: Nedra, 1983: 201 p. [In Russian].
+«Геодезия и аэрофотосъемка». 1972. № 5. С. 61–66. 16. plakhov yu.v. Calculating the higher order 
+
+17. яшкин с.н. Связь спутникоцентрических коор- perturbations of celestial objects. Izvestiya vuzov 
+динат и преобразование тензора вторых производных «Geodeziya i aerofotosyemka». Izvestia vuzov «Geodesy 
+геопотенциала // Приложение к журналу Изв. вузов. and Aerophotosurveying». 1972, 5: 61–66. [In Russian].
+«Геодезия и аэрофотосъемка». Сб. статей по итогам 17. yashkin s.n. Satellite-centric coordinates relation 
+науч.-техн. конф. вып. 2. в 2-х ч. Ч. II. М.:  2009. 226 с. and the second derivatives of a geopotential tensor 
+
+18. яшкин с.н. Преобразование систем отсчета, transformation. prilozheniye k zhurnalu «Izvestiya vuzov. 
+связанных со спутником и его орбитой // Изв. вузов Geodeziya i aerofotosyemka». sbornik statey po itogam 
+«Геодезия и аэрофотосъемка». 2006. № 3. С. 44–49. nauch.-tekhn. konf. vyp. 2. v 2-kh ch. chast’ II. Supplement 
+
+19. куприянов а.о., морозов. д.а. Экспериментальный to Izvestiya vuzov «Geodesy and Aerophotosurveying» 
+мониторинг ионосферы с применением мультисистем- journal. Collected papers regarding the results of the 
+ной ГнСС-аппаратуры // Изв. вузов «Геодезия и аэро- scientific and technical conference. Release 2. In 2 parts. 
+фотосъемка». 2016. Т. 60. № 1. С. 29–33. Part II. 2009: 226 p. [In Russian].
+
+20. куприянов а.о., майоров а.а., непоклонов в.б., 18. yashkin s.n. A reference systems relevant to a satellite 
+давлатов р.а., Печерица д.с., морозов д.a. Оценка вли- and its orbit conversion. Izvestiya vuzov «Geodeziya 
+яния инструментальных погрешностей навигационного i aerofotosyemka». Izvestia vuzov «Geodesy and 
+приемника на точность определение параметров ионос- Aerophotosurveying». 2006, 3: 44–49. [In Russian].
+феры // Изв. вузов «Геодезия и аэрофотосъемка». 2015. 19. Kupriyanov a.o., Morozov d.a. Experimental 
+№ 6. С. 31–35. monitoring of the ionosphere with the use of GNSS 
+
+21. he z., zhao h., Feng W. The Ionospheric Scintillation multisystem equipment. Izvestiya vuzov «Geodeziya 
+
+132
+
+
+
+астрономия, гравиметрия и космическая геодезия
+
+Effects on the BeiDou Signal Receiver // Sensors. 2016. i aerofotosyemka». Izvestia vuzov «Geodesy and 
+№  6. 22 c. Aerophotosurveying». 2016, 60 (1): 29–33. [In Russian].
+
+22. белхановский в., джин я., милош в. Сравнение 20. Kupriyanov a.o., Mayorov a.a., nepoklonov v.B., 
+воздействия различных типов ионосферных возмуще- davlatov r.a., pecheritsa d.s., Morozov d.a. Estimation 
+ний на сцинтилляционные GPS-сигналов в высоких of the influence of instrumental errors of the navigation 
+широтах // Тр. Кольского науч. центра РАн. 2017. Т. 8. receiver on the accuracy of determining the parameters of the 
+№ 7–3. С. 81–85. ionosphere. Izvestiya vuzov «Geodeziya i aerofotosyemka». 
+
+23. saastamoinen J. Atmospheric correction for Izvestia vuzov «Geodesy and Aerophotosurveying». 2015, 
+the troposphere and stratosphere in radio randing of 6: 31–35. [In Russian].
+satellites // The Use of Artificial Satellites for Geodesy, 21. he z., zhao h., Feng W. The Ionospheric Scintillation 
+American Geophsics Union. Geophys Monogr, 1972. Effects on the BeiDou Signal Receiver. Sensors. 2016, 6: 
+V. 15. P. 247–251. 22 р.
+
+24. клыков а.о., кашкин в.б. Зенитная тропосфер- 22. Belkhanovskiy v.в., dzhin y., Milosh в. Comparison 
+ная задержка сигналов ГлОнАСС/GPS по спутниковым of the effects of various types of ionospheric disturbances on 
+данным ATOVS // Решетневские чтения, СибГУ им. ака- scintillation GPS signals at high latitudes. trydy Kol’skogo 
+демика М.Ф. Решетнева. 2014. С. 181–183. nauchnogo tsentra ran. Рroceedings of the Kola Scientific 
+
+25. Collins p. Isolating and Estimating Undifferenced Center of the Russian Academy of Sciences 2017, 8 (7-3): 
+GPS Integer Ambiguities // Proceedings of the National 81–85. [In Russian].
+Technical Meeting of the Institute of Navigation, San Diego, 23. saastamoinen J. Atmospheric correction for the 
+California. 28–30 January 2008. P. 720–732. troposphere and stratosphere in radio randing of satellites. 
+
+26. Подкорытов а.н. высокоточное местоопределе- The Use of Artificial Satellites for Geodesy, American 
+ние в глобальных навигационных спутниковых систе- Geophsics Union. Geophys Monogr. 1972, 15: 247–251.
+мах в абсолютном режиме за счет разрешения неодно- 24. Klykov а.о., Kashkin v.B. Zenith tropospheric delay 
+значности псевдофазовых измерений. дис. на соиск. уч. of GlONASS/GPS signals according to ATOVS satellite 
+степ. канд. техн. наук. М.: МАИ, 2014. 195 с. data. reshetnevskie chteniya. sibGu im. akademika 
+
+27. Поваляев а.а., Подкорытов а.н. Задача высокоточ- M.F. reshetneva. 2014: 181–183. [In Russian].
+ного определения абсолютных координат в глобальных 25. Collins p. Isolating and Estimating Undifferenced 
+навигационных спутниковых системах // Радиотехника. GPS Integer Ambiguities. Proceedings of the National 
+2014. № 1. С. 015–019. Technical Meeting of the Institute of Navigation, San Diego, 
+
+California, 28–30 January 2008: 720–732.
+26. podkorytov а. vysokotochnoye mestoopredeleniye 
+
+v global›nykh navigatsionnykh sputnikovykh sistemakh v 
+absolyutnom rezhime za schet razresheniya neodnoznachnosti 
+psevdofazovykh izmereniy. High-precision positioning in 
+global navigation satellite systems in absolute mode by 
+resolving the ambiguity of pseudo-phase measurements. 
+Dissertation PhD. Moscow: Moscow Aviation Institute 
+(National University of Technology), 2014: 195 p. [In 
+Russian].
+
+27. povalyaev а.а., podkorytov а.n.. The task of precise 
+determination of absolute coordinates in global navigation 
+satellite systems. radiotechnika. Radio engineering 2014, 1: 
+15–19. [In Russian].
+
+133

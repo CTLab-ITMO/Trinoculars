@@ -1,0 +1,1451 @@
+﻿Russian Journal of Linguistics  2021 Vol. 25 No. 3  586–610 
+
+ ISSN 2687-0088 (print), ISSN 2686-8024 (online) http://journals.rudn.ru/linguistics
+
+ 
+
+ 
+ 
+ 
+
+DOI: https://doi.org/10.22363/2687‐0088‐2021‐25‐3‐586‐610 
+Introductory article 
+
+	
+Emotionalisation	of	contemporary	media	discourse:		
+
+A	research	agenda	
+ 
+
+Franco ZAPPETTINI1, Douglas M. PONTON2, 3 and Tatiana V. LARINA3 
+ 
+
+1University of Liverpool  
+Liverpool, UK 
+
+2Catania University 
+Catania, Italy 
+
+3Peoples’ Friendship University of Russia (RUDN University) 
+Moscow, Russia 
+
+ 
+Abstract 
+This special issue continues the discussion of the role of emotion in discourse (see Russian Journal 
+of Linguistics 2015 (1) and 2018, 22 (1)) which, as testified by the burgeoning body of literature in 
+the field, has become more prominent in different spheres and contexts of public life. This time we 
+focus on emotionalisation of media discourse. We highlight the intensification of emotions in media 
+and, showcasing contributions from international authors, critically reflect on constructions, 
+functions and pragmatic purposes of emotions in media discourse. Our aim is to investigate emotions 
+in the media from semiotic, pragmatic and discursive perspectives against the contemporary socio-
+political background in which traditional notions concerning the role of media are being noticeably 
+changed. In this introductory article, we also put forward an agenda for further research by briefly 
+outlining three main areas of exploration: the logics of media production and reception, the 
+boundaries of media discourse, and the semiotic resources deployed to construct emotionality. We 
+then present the articles in this issue and highlight their contributions to the study of linguistic 
+representations of emotions. We then summarise the main results and suggest a brief avenue for 
+further research.  
+Keywords: emotions, emotionalisation, media discourse, persuasion, media linguistics, Critical 
+Discourse Analysis, Multimodal Analysis 
+
+ 
+For citation: 
+Zappettini, Franco, Douglas M. Ponton & Tatiana V. Larina. 2021. Emotionalisation of 
+contemporary media discourse: A research agenda. Russian Journal of Linguistics 25 (3).  
+586–610. https://doi.org/10.22363/2687-0088-2021-25-3-586-610 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+586 
+
+
+
+Franco Zappettini et al. Russian Journal of Linguistics 25 (3). 586–610 
+
+Вступительная статья 
+ 
+
+Эмоционализация	современного	медиадискурса:		
+исследовательская	повестка	дня	
+
+ 
+
+Ф. ЗАППЕТТИНИ1, Д.М. ПОНТОН2, 3, Т.В. ЛАРИНА3 
+ 
+
+1Ливерпульский университет 
+Ливерпуль, Великобритания 
+2Катанийский университет 
+
+Катания, Италия 
+3Российский университет дружбы народов (РУДН) 
+
+Москва, Россия 
+ 
+
+Аннотация 
+В этом специальном выпуске продолжается обсуждение роли эмоций в дискурсе (см. Russian 
+Journal of Linguistics 2015, № 1 и 2018, вып. 22, №1), которая, как свидетельствует растущий 
+объем литературы в этой области, стала более заметной в разных сферах и контекстах обще-
+ственной жизни. На этот раз мы обращаемся к эмоционализации медиадискурса. Авторы  
+статей данного выпуска анализируют способы выражения эмоций, их функции и прагмати-
+ческие цели в медийном дискурсе и приводят многочисленные факты, свидетельствующие 
+об усилении эмоционализации в средствах массовой информации. Наша цель – исследовать 
+эмоции в СМИ с семиотической, прагматической и дискурсивной точек зрения на фоне  
+современного социально-политического контекста, в котором традиционные представления 
+о роли средств массовой информации претерпевают заметные изменения. Мы также наме-
+чаем направления дальнейших исследований, выделяя три основные области, касающиеся  
+(1) логики производства и восприятия медиапродукта, (2) границ медиадискурса, (3) семио-
+тических ресурсов, используемых для создания эмоциональности. Далее в статье мы кратко 
+представляем исследования авторов этого выпуска и отмечаем их вклад в изучение лингви-
+стических репрезентаций эмоций. В заключении подводим основные итоги и предлагаем 
+пути дальнейших исследований. 
+Ключевые слова: эмоции, эмоционализация, убеждение, медиадискурс, медиалингвистика, 
+критический дискурс-анализ, мультимодальный анализ 
+ 
+Для цитирования: 
+Zappettini F., Ponton D.M., Larina T.V. Emotionalisation of contemporary media discourse:  
+A research agenda. Russian Journal of Linguistics. 2021. Vol. 25. № 3. P. 586–610. 
+https://doi.org/10.22363/2687-0088-2021-25-3-586-610 
+
+ 
+1. Introduction 
+
+Emotions are at the basis of human interaction and communication and, as 
+testified by numerous studies in the field of psychology, sociology and linguistics, 
+their role has been noticeably increasing in recent years (e.g. Alba-Juez & Larina 
+2018, Lerner & Rivkin-Fish 2021, Mackenzie & Alba-Juez, 2019, Scherer 2005, 
+Shakhovsky 2008, 2018, Wetherell 2012, 2015, Wirth & Schramm 2015). This 
+body of research has highlighted “the pervasive presence of emotionality in 
+contemporary culture, where emotions become more important and formative than 
+anything else” (Lerner & Rivkin-Fish 2021: 1), while it has shown how both 
+explicit emotional expressions and implicit means of emotional appeal have 
+broadened their functions in different social domains and discourses. The term 
+emotionalisation has thus been used to refer to the legitimization and intensification 
+
+587 
+
+
+
+Franco Zappettini et al. Russian Journal of Linguistics 25 (3). 586–610 
+
+of emotional discourse in collective spheres of life (Ahmed 2014, Holmes 2010, 
+Lerner & Rivkin-Fish 2021, Sieben & Wettergren 2010, Woodward 2009). As well 
+as in everyday interpersonal interaction, emotionalisation of institutional, 
+professional and civic domains has been identified (Lerner & Rivkin-Fish 2021). 
+Emotions are highly relevant in academic discourse (e.g. Gretzky & Lerner 2021, 
+Larina & Ponton 2020, forthcoming; Lerner, Zbenovich & Kaneh-Shalit 2021),  
+in classroom settings (e.g. El-Dakhs et al. 2019), in digital communication (e.g. 
+Maíz-Arévalo 2018, Jus 2018). Appeals to emotions have increasingly been 
+featured in what are otherwise regarded as non-emotional genres of discourses, for 
+example diplomatic, economic and financial discourses (e.g. Belyakov 2015, 
+Mackenzie 2018, Zappettini & Unerman 2016). Several scholars have also pointed 
+out that it is extremely challenging to disentangle affect from ideology, since the 
+feelings and ideas that trigger the emotions are closely bound up together 
+(Wetherell 2012, 2015). As Breeze (2020: 22) notes, emotions are therefore an 
+inherent component of political discourse too, “precisely because of [their] 
+emotional/affective impact on target audiences” (see also Breeze 2019). 
+Emotionalisation has also been pervasive in the media (e.g. Alba-Juez & Mackenzie 
+2019, Altheide 2002, 2006, Antipova et al. 2021, de Marlangeon 2018, Bartlett & 
+Gentile 2011, Döveling et al. 2011, Furedi 2018, Kopytowska & Chilton 2018, 
+Schwab & Schwender 2011, Vishnyakova & Polyakova 2017) where emotions can 
+be used as a fundamental means of persuasion, since they are essential in 
+understanding how media messages are processed, and have considerable impact on 
+individual behaviour and public social life (Döveling, von Scheve & Konijn 2011).  
+
+Our special issue focuses on the above-mentioned dynamics as they are 
+constructed by and reflected in the media. Our aim is thus to investigate emotions 
+in the media from semiotic, pragmatic and discursive perspectives, against the 
+contemporary socio-political background in which traditional notions concerning 
+the role of media, its ownership and professional practices, are being revolutionized 
+by new technologies which allow, for example, for more interactive forms of 
+communication performed through social media (Assimakopoulos 2018, Bou-
+Franch & Garcés-Conejos Blitvich 2019, Breeze 2020). On the back of these 
+changes, we see the emergence of new participatory opportunities (for example 
+citizens’ journalism), which has the potential to democratise the informative 
+function that has typically distinguished traditional forms of media. New media 
+platforms, meanwhile, pose new challenges to how information is produced, 
+distributed and consumed, as distinctions between public and private mediated 
+spaces have increasingly blurred. These issues have implications for discursive 
+affordances in all realms of social life including political debate, and the infinite 
+variety of social themes with which it is concerned.  
+
+ 
+2. Emotionalisation of media discourse: Areas of exploration 
+
+In a changed media landscape, we thus need to interrogate language and 
+society along lines of enquiry that reflect the key themes outlined so far. Our special 
+issue does this through the lens of emotionalisation, and from a critical perspective. 
+
+588 
+
+
+
+Franco Zappettini et al. Russian Journal of Linguistics 25 (3). 586–610 
+
+Our exploration of the ways in which language framing may intersect with the 
+emotionalisation of media discourse is guided by what we see as key questions that 
+need addressing in particular around the whats, whys, and hows of media discourse. 
+We would therefore like to put forward a media and emotions research agenda in 
+relation to three key areas of exploration in which the whats, whys and hows of 
+media discourse interplay significantly with each other. 
+
+The first area of exploration is concerned with the logics of media production 
+and reception. Information and entertainment goals, along with social, political and 
+commercial agendas, have always driven media production. While emotions have 
+often been mobilised by the media to achieve those goals (for example by 
+sensationalizing a piece of news to make it newsworthy, or to support one particular 
+editorial line), one key question is how the media is now performing these functions 
+in an ever-shifting social landscape. For example, how is the press performing its 
+persuasive function in relation to, for instance, new multimodal and digital forms 
+of communication? Crucially, moreover, for whose benefit or what political gain is 
+this being done? Researching the emotionalisation of media discourse should 
+therefore help us understand not only what discourses are produced by the media 
+but also why they are circulated. 
+
+The role of the media in creating and swaying public opinion can hardly be 
+overstated. Constructing and appealing to emotions must therefore largely be seen 
+as instrumental to media persuasive strategies. For example, the question of ‘moral 
+panic’, as fuelled and amplified by the media has been widely debated since the 
+Sixties (Cohen 2011) and has now re-emerged around new discursive foci such as 
+the politicization of the ‘immigration debate’, which has centered around emotional 
+responses of fear and resentment (Kopytowska & Chilton 2018, Wodak 2015, 
+Zappettini 2019, 2021). In this sense, the newsworthiness of media coverage should 
+primarily be seen as lying in specific communicative agendas that ultimately 
+respond to basic social anxieties (Delanty 2008) and fears of having ‘strangers at 
+our door’ (Bauman 2016). If “the prevalence of fear in public discourse can 
+contribute to stances and reactive social policies that promote state control and 
+surveillance” (Altheide & Michalowski 1999: 476), then we should also explain 
+how the media mobilisation of fear-mongering, and other emotions, can also serve 
+the legitimation of various political projects or commercial imperatives (see Cap 
+2017, Kopytowska & Chilton 2018, Sedláková & Kopytowska 2018, Doudaki & 
+Boubouka 2019, Koschut 2020, Ozyumenko & Larina, this issue, Trajkova 2020).  
+
+Within this first area of exploration, we believe that the emotions play a crucial 
+role, not only in how and why media discourses are produced but also in how and 
+why they are received and consumed by their audiences. Although much research 
+has shown how frequent exposure to certain media narratives can sediment into a 
+‘cumulative effect’ (Bell 1996) that would explain some readerships’ attitudes, the 
+direction of causality (who influences whom) between media and audience is not 
+linear, and the ‘media effect’ (Wirth & Schramm 2005) is better to be assumed as 
+mutually constitutive (that is, the media reinforces certain views already formed 
+
+589 
+
+
+
+Franco Zappettini et al. Russian Journal of Linguistics 25 (3). 586–610 
+
+among their audiences, who in turn select media aligned with their views). We 
+would thus need to consider different potential discursive sites of production and 
+consumption (van Dijk 1988) in which media emotionalisation is taking place. 
+
+The second area of exploration delves into the boundaries of media discourse. 
+Here we would like to draw attention to at least two significantly interrelated trends. 
+One trend is that, arguably, the tones of mediatized socio-political debates are 
+shifting away from logos towards pathos or indeed towards the realm of irrealis 
+statements. In other words, from reasoned debate about the issues of the day to a 
+more direct appeal, based often on various forms of emotionality or constructs 
+which are no longer connected with any truth-based logics, the so-called ‘fake 
+news’ which is so pervasive in a post-truth society (D’Ancona 2017). However, 
+even rejecting the claim for a diminished reliance on logos, Haidt’s (2001) social 
+intuition model tells us that moral reasoning is only subsequent to moral intuition 
+(that is, a ‘gut feeling’ evaluation based on basic emotions), thus underlining the 
+importance of pathos-oriented discourses. Emblematic of these processes are social 
+media platforms such as Facebook and Twitter, which have enabled interaction by 
+“shift[ing] the boundaries between private and public domains; [by] combin[ing] 
+reflections of individual interiority with the process of making sense of social 
+relations and the constitution of collective identity” (Lerner & Rivkin-Fish 2021: 
+6). Social media such as Facebook and Twitter are to be seen not simply as 
+platforms but rather as social and political actors/institutions in their own right, as 
+they have the power to gatekeep and polarise debates and to control our interaction 
+via algorithms which ultimately are based on our emotions. This raises questions 
+around discursive opportunities and affordances, and more generally the 
+institutionalization of social reality (Berger & Luckman 1966). 
+
+Arguably, the appeal of recent US presidents such as Barack Obama and, to an 
+even greater extent, Donald Trump, depended in no small measure to the way in 
+which their emotional appeal, transmitted via the affordances of emergent 
+technology, resonated with receivers in the intimacy of their relations with the new 
+media platforms. With Trump, in particular, a new phenomenon was witnessed, in 
+which the emotional responses of a political leader were directly transmitted to 
+subjects – in a literal sense, followers – allowing for the bypassing of all the 
+previously known filters that have always characterised traditional media. This 
+phenomenon, which also highlights pathos over logos, was not limited to Trump, 
+but has become a feature of political discourse more generally. Other social media 
+platforms such as Youtube or Facebook have effected similar alterations, enabling 
+for more direct engagement between the parties involved in the political process, 
+and at the same time permitting the expression and exchange of emotive talk, which 
+readily slips towards the high intensity end of the spectrum. Insults, critiques, 
+dismissals, ad hominem attacks, rants, diatribes and feuds are more frequently 
+encountered than their opposites – hyperbolic admiration, emoji-fuelled 
+expressions of adoration or love, exaggerated praise or abbreviations signalling 
+degrees of amusement (lol, lmao, etc.) – though the latter also feature. As Bassols, 
+
+590 
+
+
+
+Franco Zappettini et al. Russian Journal of Linguistics 25 (3). 586–610 
+
+Cros & Torrent (2013) suggest, both positive and negative emotions have the effect 
+of capturing and holding the interest.  
+
+A second trend, namely the heightened emotionalization of media language 
+regulation, also needs consideration. Ideologies and interests have been able to 
+harness the power of new media such as social networks, for better or for worse. 
+Such media affordances have the potential to appropriate the internet as a 
+propaganda tool and, in some cases to promote hate speech, seemingly shifting the 
+threshold of what is now sayable and accepted in the public sphere (Wodak 2019). 
+In response, we are seeing increasing debates around issues of political correctness 
+in language produced or allowed by the media (Assimakopoulos et al. 2018). The 
+extent to which ‘verbal hygiene’ (Cameron 2012) should be applied (if at all) is not 
+something that we can cover in the space of this article, however, as it involves the 
+larger question of prescriptivism, but would be worth further investigation. 
+
+The third area of exploration covers the semiotic resources which have been 
+deployed by the media, and their associated pragmatic implications. As linguists, 
+semioticians and social scientists we need to adapt our investigation of “affective-
+discursive practices” (Wetherell et al. 2015: 57) and strategies to the changing 
+media landscape by focusing both on verbal means of construing emotionality 
+through lexico-grammatical resources such as metaphor, simile and other rhetorical 
+devices (Emanatian 1995, Handa 2013) and non-verbal means (font size, large text 
+in headings, use of colour, pictures, etc.) recognizing thus the importance of 
+multimodality in realising discourses (e.g. Dancygier & Vandelanotte 2017, Ponton 
+2016). Arguably, the multimodal construction of meaning in the ‘image-texts’ 
+(Mitchell 1986) encountered in memes (Denisova 2019, Mina 2019, Jus 2019), 
+above all privileges the emotional dimension of communication. Indeed, through 
+the symbolic language of emoticons it is possible for skilled users to communicate 
+a range of emotional responses to posted content, and thus an interactive dimension 
+is constructed that both permits and encourages the underlining of the emotional 
+component. Though in its early stages, Multimodal theory (Kress & Van Leeuwen 
+2010, Bateman et al. 2017, etc.) represents an invaluable contribution to the 
+theoretical and practical approaches favoured in Discourse Analysis generally 
+(Alba-Juez 2009, Ponton & Larina 2016, 2017), since it aims at explicating 
+meanings in the prevalent semiotic practices of the computer age. These frequently 
+depend on the emergent codes, widely shared among the proficient, mainly young 
+users of the new generations, inherent in colour, number and other forms of 
+contemporary symbolism (Faliang et al. 2017). Finally, it is important to remember 
+that any ‘sign’ (whether it be text or image), makes sense within a communicative 
+context that must be shared by the producer and receiver of any message. As some 
+of the contributions in this issue implicitly demonstrate (e.g. Musolff, Solopova & 
+Kushneruk, Zappettini) the semiotic resources tapped into by the media analysed in 
+their studies are predicated on specific cultural repertoires that the analyst must 
+interpret from an emic perspective.  
+
+ 
+
+591 
+
+
+
+Franco Zappettini et al. Russian Journal of Linguistics 25 (3). 586–610 
+
+3. Outline of contributions to the issue 
+The contributions to this issue address some of the key issues outlined above 
+
+and they do so from a variety of methodological approaches and with different 
+analytical foci.  
+
+Bull and Waddle’s contribution focuses on emotionality in audience responses 
+to (televised) political speeches. Building on and extending Atkinson’s work on 
+interactive behaviour between speaker/audience, Bull and Waddle explore in detail 
+dynamics of invited and uninvited audience responses (e.g. applause and booing) 
+in a variety of national contexts. This study illuminates the subtle interplay between 
+rhetorical techniques used by politicians to invite responses which, as claimed by 
+the authors, may be seen to reflect differing degrees of audience emotionality. The 
+significance of Bull and Waddle’s paper is not simply based on propositional 
+content but also largely depends on affective and emotional elements. The authors’ 
+analysis can thus be extended further to corroborate our understanding of political 
+communication.  
+
+Our issue also features three papers that deal with emotionalization of media 
+discourse in the debates and unfolding of events relating to Brexit. Musolff analyses 
+a corpus of politicians’ speeches and interviews and press texts in relation to the 
+proverb ‘You cannot have your cake and eat it’ to argue that the hyperbolic use of 
+such proverb was instrumental in driving highly emotional discourses associated 
+with metaphorical scenarios of liberation (in the specific instantiation, the UK 
+liberating itself from the EU’s yoke). Musolff goes further, suggesting that the 
+escalation of the cake metaphor – upon which many Leave and Remain arguments 
+rested – “led to a polarisation and radicalisation of political discourse in Britain”. 
+
+Similar views are put forward by Zappettini who, focusing on the language of 
+the British tabloid press, shows how emotionally laden representations of Britain 
+and the EU as victim and bully respectively drove many public discourses during 
+the negotiation stages of Brexit. Zappettini also critically points to how the 
+emotional language of the tabloid press has been instrumental in shaping public 
+opinion on the UK/EU relationships not only in the context of Brexit but also in the 
+larger historical coverage of Euro-news as it effectively managed to drive the Brexit 
+agenda along ‘pathos over logos’ lines. Crucially, such emotional framing of Brexit 
+also became the dominant discourse of the Leave campaign and gained traction vis-
+a-vis the Remain arguments which were primarily perceived as based on ‘cold 
+facts’ (Zappettini 2019). 
+
+Dancygier’s contribution also focuses on discourses of Brexit during the 
+negotiation stage, looking in particular at emotional responses to narrativized 
+similes (‘Brexit is/feels like…’). However, rather than focusing on how emotions 
+are construed in/by the media, Dancygier’s analysis is concerned with how different 
+similes, or ‘patterns of figuration’ can signal different stances. Dancygier gives us 
+a detailed account of how similes were used by speakers/writers to communicate 
+their different emotional stances on specific aspects of Brexit with a focus on how 
+ordinary citizens conceptualized Brexit and how they responded to its delivery. 
+
+592 
+
+
+
+Franco Zappettini et al. Russian Journal of Linguistics 25 (3). 586–610 
+
+Like Zappettini and Musolff, Dancygier demonstrates the relationships between 
+linguistic forms and the emotional responses they are meant to convey, reasserting 
+a view of media discourses as crucial in connecting citizens’ attitudes and socio-
+political changes. 
+
+Lewandowska-Tomaszczyk and Pęzik explore the emotional impact of Polish 
+media texts within an interpretative framework that views them as exemplifying the 
+presence of an inherently persuasive, political function, which often manifests in 
+covert rather than explicit ways. The paper outlines a theoretical innovation in the 
+shape of the notion of ‘emergent impoliteness’, which is deployed to categorise 
+examples from the representation of Polish political discourse. This method allows 
+us to appreciate subtle shading in the instrumental use of the emotions in politics, 
+where instances of overt rudeness or insulting language may be supplemented by 
+nuanced innuendo which allows the politician to achieve emotional impact while 
+maintaining an apparently polite public façade.  
+
+Three contributions focus on Russia, with two articles (Dobrosklonskaya, 
+Solopova & Kushneruk) dealing with the specific topic of Russian political 
+communication and one (Ozyumenko & Larina) with that of media discourse about 
+Russia. Dobrosklonskaya’s paper analyses press coverage of the 75th anniversary 
+of victory in WWII, from a Media Linguistics, multimodal perspective, using a 
+theorization of press functioning that dates back to the influential model proposed, 
+in 1965, by Galtung and Ruge. Drawing on a previous paper of her own 
+(Dobrosklonskaya 2020), Dobrosklonskaya argues that the stage at which the press 
+‘interpret’ the events for their readers is the most relevant for focusing on emotional 
+effects. The analysis enables us to appreciate the role of emotional discourse in 
+fostering a sense of national unity; more precisely, that emotions are central in 
+mediated political interpretations of significant public events. 
+
+While Dobrosklonskaya’s study regards media discourse within Russia, 
+Solopova and Kushneruk present a diachronic study that explores the role of 
+emotional press discourse that centres on the image of Russia itself in western eyes, 
+and how variance in these patterns across time reflects alterations in the geo-
+political landscape. The study, like Dobrosklonskaya’s, focuses on the Second 
+World War, when Russia’s status as a key ally in the fight against Nazi Germany 
+encouraged the use of positive discursive frames regarding Russia, in press 
+discourse emphasizing her heroic qualities, her military might, her friendship with 
+Britain. The warmth of these representations may surprise readers more accustomed 
+to see Russia framed as a bear with the “surly, uncouth, burly, shambling, enraged, 
+violent” features of a wild animal, as she is apt to appear in contemporary press 
+discourse. The study accounts for these changes and their corresponding emotional 
+valences in terms of a theory that views press frames as subservient to wider 
+political goals of the specific national groups in question. 
+
+Following on from this paper, that of Ozyumenko and Larina enlarges on its 
+discussion of the innate social forces that drive such strategies of framing, arguing 
+that we are witnessing an authentic strategy of emotional manipulation on the part 
+
+593 
+
+
+
+Franco Zappettini et al. Russian Journal of Linguistics 25 (3). 586–610 
+
+of western media, in the service of creating fear of a so-called ‘Russian threat’, with 
+the aim of justifying hard-line policies of containment and aggression. With ample 
+reference to existing literature on the role of emotional discourse in political life, 
+the paper uses data from British and American press sources to support its  
+far-reaching thesis. As in the paper by Lewandowska-Tomaszczyk and Pęzik, the 
+authors distinguish between implicit and explicit emotional effects, and also 
+identify nuances, or degrees, of feeling in representations of political discourse 
+regarding Russia. In terms of explicit effects, they discuss the press’ use of idioms, 
+hyperboles, metaphors, word play, cultural images and animalistic symbols. What 
+emerges is a view of western media that, in recent times, has increased its reliance 
+on emotional discourse, in collusion with a political class that has its own reasons 
+for wishing to create a state of ‘panic’ about Russia amongst the general public.  
+
+Finally, the contributions of Ponton and Way point to how multimodality has 
+been deployed in social media as a form of satire, parody, and critique. Their papers 
+focus on memes as a new form of persuasive media discourse that has leveraged 
+the emotions considerably. Way looks at public reactions to former US President 
+Donald Trump as they were posted on an Alt-Right website, and finds that these 
+memes lean on emotional discourses about nationalism, racism and 
+authoritarianism. Significantly, Way reminds us that all memes are now part of a 
+new politics which does “not communicate to us in logical arguments, but 
+emotionally and affectively through short quips and images that entertain”. This, of 
+course, has often been the case with satire in the media but new ways of producing, 
+distributing and consuming such messages, as well as the capability of 
+multimodally combining different discursive forms should make us reflect on the 
+extent to which both satire and extremist discourses are entangled with emotions 
+and media. Ponton’s work explores the pragmatic potentialities of this new 
+communicative genre the meme, seeing them largely in terms of the traditional 
+canons for political satire, i.e. ‘speaking the truth to power’. Naturally, the 
+emotional mainspring of these multimodal productions tends to be laughter, though 
+nestling within this initial response are other emotions such as disgust, anger, 
+frustration, fear, etc. Ponton’s perspective on satirical political memes sees them as 
+aligned with other persuasive political artefacts, subverting the viewers’ opinions, 
+and in ideal cases producing alignment. Like the viruses to which they are 
+frequently compared, they may enter cognitive systems and produce their 
+unpredictable effects largely without reference to the viewers’ wishes or will. 
+
+ 
+4. Concluding remarks 
+
+As with many other types of scientific enquiry, our exploration of the 
+emotionalisation of media discourse has only been able to provide a snapshot, rather 
+than a full picture of the complex interplay between media, emotions and discourse. 
+Nevertheless, we believe we have provided some solid evidence for how the 
+mediatization of emotions is a feature of every-day social life and for how language 
+(in its wider interpretation as a system of signs) and discourse (in its larger social 
+ramifications) are inextricably part of it.  
+
+594 
+
+
+
+Franco Zappettini et al. Russian Journal of Linguistics 25 (3). 586–610 
+
+By way of summarising the contribution of this Special Issue to the 
+advancement of the literature in the field, we would like to highlight some of our 
+key findings. We have suggested that emotionalisation has increasingly become one 
+of the pivotal features of media discourse, and that this has primarily been achieved 
+through a discursive shift from logos to pathos whereby rational arguments give 
+way to the tendency to leverage on feelings. We have critically suggested that a 
+crucial driver of this shift, and in general of the use of emotions by media actors, 
+has been the aim of achieving effective persuasive strategies. Methodologically, we 
+have demonstrated that adopting a critical approach (such as Critical Discourse 
+Analysis) can help us understand the potential impact of such persuasive strategies 
+and their pragmatic and perlocutionary effects on audiences and, more generally, 
+on the implementation of specific political and ideological goals. These processes 
+can only be fully explicated by taking the context and its socio-political, historical 
+and cultural dimensions into account. To put it simply, an interdisciplinary 
+approach to linguistic enquiry has numerous practical advantages. We have also 
+highlighted the merit of exploring the analysis of emotional discourses via a 
+multimodal approach that looks at language in its different semiotic realisations. As 
+our studies show, such a diversity of methods and approaches should be helpful in 
+triangulating and thus corroborating the interpretation of our results. 
+
+It is our hope that this Special Issue will not represent a terminus but rather a 
+point of departure for future investigations of the emotionalisation of public 
+discourse on the back of the research agenda that we have just outlined, and in the 
+light of any topical issues that our societies will be faced with. We would 
+particularly encourage any further research on the emotionalisation of media 
+discourse that focuses on the production of emotions in different media (such as the 
+press, TV, social media), and genres (news items, commentaries, interviews, 
+political speeches, political debates, etc.), and their reception among different 
+audiences. 
+
+The editors would like to take this opportunity to thank our contributors and 
+compliment them on the quality of their contributions to this Special Issue. Thanks 
+to them, a lively, interconnected debate has been presented on this topical issue, 
+that will add to the growing body of linguistic research on these important themes. 
+We are open to suggestions of the form these might take; seminars, conferences, 
+individual or group initiatives, and so on. Most of all it is our hope that readers will 
+be inspired by these papers to contribute their own research in these areas, and that 
+they will find practical tools that will assist them with their analytical projects. 
+
+ 
+RU	
+
+ 
+1. Введение 
+
+Эмоции лежат в основе человеческого взаимодействия и общения, и, как 
+свидетельствуют многочисленные исследования в области психологии,  
+социологии и лингвистики, их роль в последние годы заметно возросла  
+
+595 
+
+
+
+Franco Zappettini et al. Russian Journal of Linguistics 25 (3). 586–610 
+
+(см. например, Alba-Juez & Larina 2018, Lerner & Rivkin-Fish 2021, Mackenzie 
+& Alba-Juez 2019, Scherer 2005, Wetherell 2012, 2015, Волкова & Панченко 
+2018, Шаховский 2008, 2018 и многие др.). Исследователи отмечают повсе-
+местное присутствие эмоциональности в современной культуре, где «эмоции 
+становятся более важными, чем что-либо еще» (Lerner & Rivkin-Fish 2021: 1). 
+Они показали, что как эксплицитные, так и имплицитные средства эмоцио-
+нальности расширили свои функции в различных социальных сферах и дис-
+курсах. Таким образом, термин эмоционализация используется для обозначе-
+ния интенсификации и легитимации эмоций и эмоционального дискурса в об-
+щественных сферах жизни (Ahmed 2014, Holmes 2010, Lerner & Rivkin-Fish 
+2021, Sieben & Wettergren 2010, Woodward 2009). Как и в повседневном меж-
+личностном взаимодействии, эмоционализация наблюдается в институцио-
+нальной, профессиональной и административной сферах (см. Lerner & Rivkin-
+Fish 2021). По наблюдениям исследователей, не являются исключением ди-
+пломатический, экономический и финансовый дискурсы, для которых обра-
+щение к эмоциям считается нехарактерным (например, Беляков 2015, 
+Mackenzie 2018, Zappettini & Unerman 2016). Эмоции играют существенную 
+роль в академическом дискурсе (Gretzky & Lerner 2021, El-Dakhsetal 2019, 
+Larina & Ponton 2020, Lerner, Zbenovich & Kaneh-Shalit 2021). Некоторые уче-
+ные отмечают, что чрезвычайно сложно отделить эмоции от идеологии, по-
+скольку чувства и идеи, которые их вызывают, тесно связаны друг с другом 
+(Wetherell et al. 2015: 57). Как подчеркивает Р. Бриз (2020: 22), эмоции явля-
+ются неотъемлемым компонентом политического дискурса именно из-за их 
+эмоционального / аффективного воздействия на целевую аудиторию  
+(см. также Breeze 2019). Эмоционализация широко распространена в сред-
+ствах массовой информации (Alba-Juez & Mackenzie 2019, Altheide 2002, 
+2006, Antipova et al. 2021, de Marlangeon 2018, Dövelingetal 2011, Furedi 2018, 
+Schwab & Schwender 2011, Vishnyakova & Polyakova 2017 и др.), где эмоции 
+используются как одно из важнейших средств убеждения. Их исследование 
+необходимо для понимания того, как создаются сообщения, а также как они 
+влияют на индивидуальное и социальное поведение и социальную жизнь  
+общества в целом (Döveling et al. 2011). 
+
+Наш специальный выпуск посвящен отмеченным выше тенденциям и их 
+проявлению в СМИ. Таким образом, наша цель состоит в том, чтобы иссле-
+довать эмоции в СМИ с семиотической, прагматической и дискурсивной  
+точек зрения на фоне современного социально-политического контекста, где 
+традиционные представления о роли СМИ, их профессиональных практиках 
+претерпевают существенные изменения в результате применения новых  
+технологий, которые создают возможности для более интерактивных форм 
+общения, осуществляемых через социальные сети (Assimakopoulos et al. 2018, 
+Bou-Franch & Garcés-Conejos Blitvich 2019, Breeze 2020 и др.).  
+
+На фоне этих изменений мы видим появление новых возможностей 
+(например, гражданская журналистика), которые демократизируют информа-
+ционную функцию, обычно реализуемую в традиционных формах. Между 
+
+596 
+
+
+
+Franco Zappettini et al. Russian Journal of Linguistics 25 (3). 586–610 
+
+тем современные медиаплатформы ставят новые задачи в отношении произ-
+водства, распространения и потребления информации, поскольку различия 
+между публичной и частной сферой становятся все более размытыми. Эти  
+вопросы находят отражение в дискурсивных возможностях во всех  
+контекстах общественной жизни, включая политические дебаты и дискуссии 
+по разнообразным социальным темам.  
+
+ 
+2. Эмоционализация медийного дискурса: области исследования 
+В изменяющемся медиаландшафте взаимодействие языка и общества 
+
+необходимо исследовать по намеченным основным направлениям. В нашем 
+специальном выпуске это делается через призму эмоционализации. Исследо-
+вание того, как языковой фрейм может пересекаться с эмоционализацией  
+медийного дискурса, строится вокруг трех, на наш взгляд, ключевых вопро-
+сов, требующих ответа, а именно ЧТО, ПОЧЕМУ и КАК. Поэтому мы хотели 
+бы предложить в качестве основных векторов исследований СМИ и эмоций 
+три ключевые области, в которых «что», «почему» и «как» в значительной 
+степени пересекаются. 
+
+Первая область исследования связана с логикой производства и восприя-
+тия медиапродукта. Информационные и развлекательные цели, наряду  
+с социальной, политической и коммерческой повесткой дня, всегда лежали в 
+основе медиапроизводства. Для достижения этих целей СМИ часто задей-
+ствуют эмоции (например, путем создания сенсации в новостном сообще-
+нии). Однако возникает вопрос, как средства массовой информации выпол-
+няют эти функции в условиях постоянно меняющегося социального и поли-
+тического ландшафта. Например, как пресса выполняет функцию убеждения 
+с учетом новых мультимодальных и цифровых форм коммуникации? И глав-
+ное, в чьих интересах и с какой политической целью? Таким образом, иссле-
+дование эмоционализации медийного дискурса должно помочь нам понять не 
+только то, какие дискурсы производятся средствами массовой информации, 
+но и почему они производятся и распространяются. 
+
+Роль СМИ в формировании общественного мнения и влиянии на него 
+трудно переоценить. В связи с этим формирование эмоций и обращение к ним 
+должно в значительной степени рассматриваться как средство реализации 
+стратегии убеждения. Например, «моральная паника» ('moral panic')  
+(т.е. наведение паники по вопросу моральных норм поведения), подпитывае-
+мая и усиливаемая средствами массовой информации, широко обсуждается с 
+шестидесятых годов (Cohen 2011). Теперь она фокусируется на новых темах, 
+например, иммиграция и эмоциональный ответ на нее в виде страха и непри-
+ятия (Kopytowska & Chilton 2018, Wodak 2015, Zappettini 2021). В этом смысле 
+информационная ценность того или иного медийного освещения должна 
+определяться в первую очередь тем, насколько она отвечает конкретной ком-
+муникативной повестке дня, которая в конечном итоге реагирует на основные 
+«социальные тревоги» (Delanty 2008) и страх перед «чужими» (Bauman 2016). 
+
+597 
+
+
+
+Franco Zappettini et al. Russian Journal of Linguistics 25 (3). 586–610 
+
+Как известно, преобладание страха в публичном дискурсе может способство-
+вать формированию определенного отношения и приводить к ответной  
+социальной политике, что в итоге способствует усилению государственного 
+контроля и надзора (Altheide & Michalowski 1999: 476). Соответственно, мы 
+также должны объяснить, как осуществляемое через СМИ нагнетание страха 
+и обращение к другим эмоциям может служить легитимации различных по-
+литических и/или коммерческих проектов (см. Cap 2017, Doudaki & Boubouka 
+2019, Kopytowska & Chilton 2018, Koschut 2020, Ozyumenko & Larina в этом 
+выпуске, Sedláková & Kopytowska 2018, Trajkova 2020). 
+
+В рамках первой проблемной области исследования одним из важней-
+ших следует считать вопрос о решающей роли эмоций в том, как и почему 
+создаются те или иные медиадискурсы. Однако не менее важным является и 
+вопрос о том, как и почему они воспринимаются и потребляются аудиторией. 
+Хотя многие исследования показали, как частое повторение определенных 
+медийных нарративов может привести к «кумулятивному эффекту» (Bell 
+1996), который в итоге вызывает определенные отношения читателей, направ-
+ление причинно-следственной связи (кто на кого влияет) между СМИ и ауди-
+торией не является линейным и его лучше рассматривать как взаимно консти-
+туирующее. То есть СМИ укрепляют определенные взгляды, уже сформиро-
+ванные среди их аудитории, а аудитория затем предпочитает те СМИ, кото-
+рые совпадают с ее взглядами. Таким образом, нам необходимо рассматри-
+вать различные потенциальные дискурсивные стороны производства и  
+потребления (van Dijk 1988), в которых имеет место эмоционализация СМИ. 
+
+Вторая исследовательская область касается границ медиадискурса. 
+Здесь мы хотели бы обратить внимание как минимум на две взаимосвязанные 
+тенденции. Одна заключается в том, что тональность социально-политиче-
+ских медиадебатов смещается от логоса к пафосу или даже ирреалису, т.е.  
+от аргументированных дебатов по актуальным проблемам – к более прямым 
+заявлениям, часто основанным на различных формах эмоциональности или 
+конструктах, которые не соответствуют действительности и не связаны с  
+какой-либо логикой. Это так называемые фейковые новости, которые довольно 
+широко распространены в «обществе постправды» (D'Ancona 2017). Однако, 
+даже отвергая аргумент ради уменьшения зависимости от логоса, модель соци-
+альной интуиции Дж. Хайдта (Haidt 2001) говорит нам, что моральный аргу-
+мент является следствием моральной интуиции (то есть оценки, основанной на 
+«внутреннем чувстве», которое в свою очередь базируется на эмоциях), тем  
+самым подчеркивается важность ориентированных на пафос дискурсов. 
+
+Отражением этих процессов являются платформы социальных сетей,  
+такие как Facebook и Twitter, сделавшие возможным взаимодействие, в кото-
+ром сдвинуты границы между частным и общедоступным, где размышления 
+о внутренней сущности сочетаются с осмыслением социальных отношений и 
+созданием коллективной идентичности (Lerner & Rivkin-Fish 2021: 6).  
+Социальные сети следует рассматривать не просто как платформы, а как  
+
+598 
+
+
+
+Franco Zappettini et al. Russian Journal of Linguistics 25 (3). 586–610 
+
+самостоятельные социальные и политические акторы / институты, поскольку 
+они обладают способностью сдерживать и поляризировать дебаты и контро-
+лировать наше взаимодействие с помощью алгоритмов, которые в конечном 
+итоге основаны на наших эмоциях. Это ставит вопросы о дискурсивных  
+возможностях и в более общем плане – об институционализации социальной 
+реальности (Berger & Luckman 1966). 
+
+Можно утверждать, что степень симпатии к недавним президентам 
+США – Бараку Обаме и, в еще большей степени, Дональду Трампу, в немалой 
+степени зависела от того, каким образом их эмоциональная привлекатель-
+ность, передаваемая через доступные новые технологии, находила отклик  
+у аудитории, и от использования ими новых медиаплатформ. В частности,  
+в случае с Трампом был зафиксирован новый феномен, когда эмоциональные 
+реакции политического лидера напрямую передавались субъектам, в букваль-
+ном смысле – последователям, минуя все известные ранее фильтры, характер-
+ные для традиционных СМИ. Это не единичный пример, который также  
+свидетельствует о доминировании пафоса над логосом. Данное явление  
+в целом стало характерной чертой политического дискурса. 
+
+Другие социальные платформы, такие как Youtube и Facebook, тоже пре-
+терпели аналогичные изменения, допуская более прямое взаимодействие 
+между сторонами, участвующими в политическом процессе, и позволяя  
+обмениваться эмоциональными репликами, которые легко скатываются к 
+крайней степени интенсивности. Оскорбления, резкая критика, нападки, лич-
+ные выпады, тирады встречаются чаще, чем гиперболическое восхищение, 
+преувеличенная похвала, выражения симпатии и любви, хотя последнее тоже 
+имеет место. Исследователи отмечают, что, как положительные, так и отри-
+цательные эмоции притягивают и удерживают интерес аудитории (Bassols, 
+Cros & Torrent 2013). 
+
+Таким образом, вторая из выделенных нами тенденций – это повышенная 
+эмоционализация языка СМИ, регулирование которого также требует изуче-
+ния. Новые медиа используются в качестве инструмента пропаганды для фор-
+мирования различных идеологических установок. В некоторых случаях, 
+например, для пропаганды языка вражды, считается возможным снижение 
+порога допустимости того, что можно говорить в общественной сфере 
+(Wodak 2019). В ответ мы наблюдаем усиление дебатов по проблеме полит-
+корректности в языке СМИ (Assimakopoulos et al. 2018). Вопрос о том,  
+до какой степени должна применяться «словесная гигиена» (Cameron 2012)  
+(и должна ли она применяться), выходит за рамки данной статьи, так как он 
+включает более широкую проблему прескриптивизма, которая заслуживает 
+отдельного изучения. 
+
+Третья область исследования охватывает семиотические ресурсы, ис-
+пользуемые СМИ, и связанные с ними прагматические импликации. Нам, линг-
+вистам, семиотикам и социологам, необходимо адаптировать исследование 
+«аффективно-дискурсивных практик» (Wetherelletal. 2015: 57) и стратегий к 
+
+599 
+
+
+
+Franco Zappettini et al. Russian Journal of Linguistics 25 (3). 586–610 
+
+изменяющемуся медиаландшафту, сосредоточив внимание на вербальных 
+средствах конструирования эмоциональности с помощью лексико-граммати-
+ческих ресурсов, таких как метафора, сравнение и другие риторические при-
+емы (Emanatian 1995, Handa 2013, Richardson 2007), и невербальных средствах 
+(размер шрифта, размер заголовка, использование цвета, изображений и т.д.), 
+тем самым признавая важность мультимодальности в реализации дискурсов 
+(см. Dancygier & Vandelanotte 2017, Ponton 2016). Мультимодальное построе-
+ние смысла в «текстах-изображениях» (Mitchell 1986), встречающееся  
+в мемах (Denisova 2019, Mina 2019), в первую очередь отдает предпочтение 
+эмоциональному параметру коммуникации. Действительно, с помощью сим-
+волического языка эмотиконов опытные пользователи могут передавать ряд 
+эмоциональных реакций на размещенный контент, и таким образом создается 
+интерактивное измерение, которое позволяет и поощряет наличие эмоцио-
+нального компонента. Хотя Мультимодальная теория (Kress & van Leeuwen 
+2010, Bateman et al. 2017 и др.) находится еще только на начальной стадии 
+развития, она представляет собой неоценимый вклад, как теоретический, так 
+и практический, в дискурс-анализ в целом (Alba-Juez 2009, Ponton & Larina 
+2016, 2017), поскольку она направлена на объяснение значений в преоблада-
+ющих семиотических практиках компьютерного века. Эти практики часто 
+связаны с новыми кодами, заложенными в цвете, числах и других знаках  
+современного символизма (Faliang et al. 2017) и широко распространены 
+среди опытных, в основном молодых, пользователей нового поколения. Нако-
+нец, важно помнить, что любой знак (будь то текст или изображение) имеет 
+смысл в определенном коммуникативном контексте, который должен быть 
+общим у создателя и получателя сообщения. Как косвенно демонстрируют 
+некоторые статьи этого выпуска (например, Музолф, Солопова и Кушнерук, 
+Заппеттини), используемые в СМИ семиотические ресурсы основаны на 
+культурно-специфичных системах, которые аналитик должен интерпретиро-
+вать с эмической позиции, т.е. с позиции носителя конкретной культуры. 
+
+ 
+3. Статьи этого выпуска 
+
+Представленные в данном выпуске исследования, основанные на различ-
+ных методологических подходах и имеющие разные аналитические фокусы, 
+рассматривают ряд сформулированных выше ключевых вопросов. 
+
+Исследование Питера Булла и Мориса Уоддла посвящено эмоциональ-
+ным реакциям телевизионной аудитории на речи политиков. Опираясь на ра-
+боты M. Аткинсона по интерактивному поведению выступающего и аудито-
+рии и расширяя его подход, Булл и Уоддл детально исследуют динамику  
+реакций аудитории (например, аплодисменты или освистывание) в различ-
+ных национальных контекстах. Это исследование проливает свет на тонкое 
+взаимодействие между риторическими приемами, используемыми полити-
+ками для получения реакции аудитории, которая, по мнению авторов, может 
+рассматриваться как проявление разной степени ее эмоциональности.  
+
+600 
+
+
+
+Franco Zappettini et al. Russian Journal of Linguistics 25 (3). 586–610 
+
+Значимость данного исследования в том, что в его фокусе не только пропози-
+ции высказываний, но и в значительной степени аффективные и эмоциональ-
+ные элементы, оно способствует пониманию политической коммуникации. 
+
+Три статьи выпуска посвящены эмоциональной окраске медийного дис-
+курса, касающегося дебатов и событий, связанных с Брекситом. Известный 
+исследователь политической метафоры Андреас Музолф (Musolff 2004, 2016, 
+2019) анализирует использование пословицы You cannot have your cake and 
+eat it1 в газетных текстах, выступлениях и интервью политиков, чтобы дока-
+зать, что гиперболическое использование пословицы способствовало разви-
+тию высокоэмоциональных дискурсов, связанных с метафорическими сцена-
+риями освобождения (в конкретном случае – освобождения Великобритании 
+от «гнета» Евросоюза). Музолф идет еще дальше и высказывает предположе-
+ние о том, что распространение данной метафоры, на которой основывались  
+многие аргументы в пользу того, чтобы выходить из Евросоюза или оста-
+ваться в нем, привело к поляризации и радикализации политического  
+дискурса Великобритании. 
+
+Аналогичные идеи выдвигает и Франко Заппеттини, который, анализи-
+руя язык британской бульварной прессы, показывает, что эмоционально 
+нагруженные представления о Великобритании как жертве и Евросоюзе как 
+притеснителе, вызвали множество публичных дискуссий на этапах перегово-
+ров по Брекситу. Заппеттини указывает на важную роль эмоционального 
+языка бульварной прессы в формировании общественного мнения об отноше-
+ниях Великобритании и ЕС не только в контексте Брексита, но и в более  
+широком историческом освещении евроновостей,  поскольку он эффективно 
+помогал повестке дня Брексита по принципу «пафос выше логоса». Важно 
+отметить, что такое эмоциональное оформление Брексита стало доминирую-
+щим дискурсом кампании по выходу из Евросоюза в отличие от дискурса  
+кампании против выхода, который был основан на «холодных фактах» 
+(Zappettini 2019). 
+
+Барбара Данцигер также рассматривает дискурс Брексита на этапе пере-
+говоров. В фокусе ее внимания – эмоциональные реакции на нарративные 
+сравнения ‘Brexit is / feels like…’2 . Она показывает, как сравнения могут сиг-
+нализировать о разном отношении к Брекситу. В статье подробно исследу-
+ется, как использовались подобные сравнения для выражения эмоциональной 
+позиции по конкретным аспектам Брексита, делается акцент на том, как  
+обычные граждане концептуализировали Брексит и как они отреагировали на 
+его реализацию. Как Заппеттини и Музолф, Данцигер демонстрирует взаимо-
+связь между языковыми формами и предполагаемыми эмоциональными  
+реакциями на них, подтверждая мнение об основополагающей роли СМИ  
+
+                                                            
+1 Букв.: Ты не можешь одновременно иметь свой пирог и съесть его. Приблизительные  
+
+русские аналоги этой пословицы – совместить несовместимое; пытаться усидеть на двух стульях. 
+2 Букв.: «Брексит – это / Брексит ощущается как …»). 
+
+601 
+
+
+
+Franco Zappettini et al. Russian Journal of Linguistics 25 (3). 586–610 
+
+в обеспечении связи между отношениями граждан и социально-политиче-
+скими изменениями. 
+
+Барбара Левандовска-Томашчик и Петр Пензик исследуют эмоциональ-
+ное воздействие польских медиатекстов, показывая, что они выполняют при-
+сущую им политическую функцию убеждения скорее при помощи скрытых, 
+чем явных средств и способов. В статье рассматривается новое в теоретиче-
+ском плане понятие «возникающая невежливость» (“emergent impoliteness”), 
+которое используется для категоризации примеров, взятых из польского  
+политического дискурса. Предложенный в исследовании метод позволил  
+увидеть тонкие оттенки в использовании эмоций в политическом дискурсе, 
+где случаи явной грубости или оскорбительной лексики могут быть допол-
+нены намеками, двусмысленными выражениями, которые позволяют поли-
+тику добиться желаемого эмоционального воздействия, сохраняя при этом 
+явно вежливую публичную тональность.  
+
+Следующие три статьи посвящены российскому политическому дис-
+курсу, а также дискурсу западных СМИ о России. В статье Т.Г. Добросклон-
+ской с позиций медиалингвистики и мультимодальности анализируется  
+освещение 75-й годовщины победы в Великой отечественной войне. Автор 
+использует теорию функционирования прессы (Galtung & Ruge 1965) и,  
+развивая идеи своей предыдущей статьи (Добросклонская 2020), утверждает, 
+что этап, на котором пресса «интерпретирует» события для своих читателей, 
+наиболее важен для эмоционального воздействия. Её анализ позволяет  
+оценить роль эмоционального дискурса в воспитании чувства национального 
+единства и показывает, что эмоции занимают центральное место в политиче-
+ской интерпретации значимых общественных событий в СМИ. 
+
+Если исследование Т.Г. Добросклонской касается медийного дискурса 
+внутри России, то О.А. Солопова и С.Л. Кушнерук представляют диахрони-
+ческое исследование, в котором рассматривается роль эмоционального пресс-
+дискурса, представляющего образ России в глазах Запада. В статье показано, 
+как изменение этого образа во времени соотносится с изменениями в геопо-
+литическом ландшафте. Исследование, так же сосредоточено на Второй  
+мировой войне, когда статус России как ключевого союзника в борьбе с 
+нацистской Германией способствовал использованию позитивных дискур-
+сивных фреймов в отношении России, в дискурсе прессы подчеркивались ее 
+героические качества, военная мощь и дружба с Великобританией. Теплота 
+этих представлений может удивить читателей, более привыкших видеть  
+Россию в дискурсе современной прессы в образе медведя и с чертами угрю-
+мого, неуклюжего, разъяренного и жестокого дикого животного. Авторы  
+объясняют эти изменения и соответствующие им эмоциональные  
+валентности с точки зрения теории, которая определяет рамки прессы как 
+подчиненные более широким политическим целям конкретных националь-
+ных групп. 
+
+В следующей статье В.И. Озюменко и Т.В. Ларина продолжают анализ 
+процессов, которые управляют стратегиями фрейминга, утверждая, что мы 
+
+602 
+
+
+
+Franco Zappettini et al. Russian Journal of Linguistics 25 (3). 586–610 
+
+являемся свидетелями реального эмоционального манипулирования со  
+стороны западных СМИ, служащих нагнетанию страха перед так называемой 
+«российской угрозой» с целью оправдания жесткой и агрессивной политики 
+сдерживания. Для подтверждения своего смелого тезиса авторы ссылаются 
+на современную литературу о роли эмоционального дискурса в сфере поли-
+тики и приводят многочисленные иллюстративные примеры из британской  
+и американской прессы. Как и в статье Б. Левандовской-Томашчик и  
+П. Пензика, авторы различают эксплицитные и имплицитные способы эмоци-
+онального воздействия, а также определяют нюансы и оттенки чувств  
+в репрезентации политического дискурса о России. Среди эксплицитных 
+средств воздействия обсуждается использование прессой идиом, гипербол, 
+метафор, игра слов, культурные образы и анималистические символы, среди 
+имлицитных рассматриваются пресуппозиция, вопросительные заголовки, 
+проксимизация и др. Развивается тезис о том, что западные СМИ в последнее 
+время все больше прибегают к эмоциональному дискурсу, обслуживая опре-
+деленный политический класс, у которого есть свои причины поддерживать 
+среди широкой публики состояние «паники» и страха в отношении России. 
+
+И, наконец, Дуглас Марк Понтон и Линдон Уэй показывают, как мульти-
+модальность используется в социальных сетях в таких жанрах, как сатира, па-
+родия и критика. В их статьях рассматриваются мемы как новая влиятельная 
+форма медиадискурса, в значительной степени использующая эмоции.  
+Понтон исследует прагматические возможности мемов, рассматривая их  
+в основном с точки зрения традиционных канонов политической сатиры. 
+Эмоциональной движущей силой этих мультимодальных сюжетов является 
+смех, хотя за этой первоначальной реакцией скрываются и другие эмоции,  
+такие как отвращение, гнев, страх и т.д. С точки зрения Понтона, сатириче-
+ские политические мемы связаны с другими средствами воздействия. Они 
+влияют на мнения зрителей и в идеальных случаях достигают своей цели. По-
+добно вирусам, с которыми их часто сравнивают, они проникают в сознание 
+и в значительной степени добиваются своих непредсказуемых результатов 
+независимо от желания или воли зрителей. Линдон Уэй рассматривает реак-
+цию общества на бывшего президента США Дональда Трампа на сайте  
+Alt-Right и показывает, что посвященные ему мемы основаны на эмоциональ-
+ных дискурсах о национализме, расизме и авторитаризме. Примечательно, 
+что Уэй напоминает нам, что мемы теперь являются частью новой политики, 
+которая «общается с нами не логическими аргументами, а эмоционально – 
+через короткие шутки и забавные образы». Сатира, конечно, часто встреча-
+ется в СМИ, но новые способы создания, распространения и потребления та-
+ких сообщений, а также возможность мультимодального комбинирования 
+различных дискурсивных форм должны заставить нас задуматься не только  
+о том, как сатира, но и как экстремистские дискурсы переплетаются  
+с эмоциями и СМИ.  
+
+ 
+
+603 
+
+
+
+Franco Zappettini et al. Russian Journal of Linguistics 25 (3). 586–610 
+
+4. Заключение 
+Мы не претендуем на то, что наш специальный выпуск, посвященный 
+
+эмоционализации медиадискурса, дает полную картину сложного взаимодей-
+ствия между медиа, эмоциями и дискурсом. Мы лишь очертили основные  
+области исследований и попытались ответить на ряд актуальных вопросов. 
+Тем не менее, мы полагаем, что представили убедительные доказательства 
+того, что медиатизация эмоций стала особенностью повседневной социаль-
+ной жизни, и показали, как эмоционализация СМИ реализуются через язык  
+(в его более широкой интерпретации как системы знаков) и дискурс (в его 
+широких социальных ответвлениях).  
+
+Подводя итоги обсуждения данной темы, мы хотели бы выделить неко-
+торые из основных результатов. Предложенные исследования свидетель-
+ствуют о том, что эмоционализация становится одной из основных черт  
+медиадискурса, и это в первую очередь достигается за счет дискурсивного 
+перехода от логоса к пафосу, когда рациональные аргументы уступают место 
+тенденции воздействовать на чувства аудитории. Мы полагаем, что решаю-
+щим фактором этого сдвига и в целом использования эмоций акторами медиа 
+является поиск эффективных стратегий убеждения. Что касается методоло-
+гии, мы продемонстрировали, что критический дискурс-анализ может помочь 
+понять потенциальное влияние стратегий убеждения и их прагматическое  
+и перлокутивное воздействие на аудиторию и, в более общем плане,  
+на реализацию конкретных политических и идеологических целей. Эти  
+процессы могут быть полностью объяснены только с учетом контекста и его 
+социально-политических, исторических и культурных аспектов, что говорит 
+о том, что междисциплинарный подход к лингвистическому исследованию 
+имеет множество практических преимуществ. Мы также подчеркнули необ-
+ходимость анализа эмоциональных дискурсов с помощью мультимодального 
+подхода, который рассматривает язык в его различных семиотических реали-
+зациях. Как показывают наши исследования, такое разнообразие методов  
+и подходов может дать надежные результаты. 
+
+Мы надеемся, что этот специальный выпуск станет стимулом для буду-
+щих исследований эмоционализации публичного дискурса в намеченных 
+нами направлениях и в свете актуальных социальных и политических про-
+блем современного общества. Представляются перспективными дальнейшие 
+исследования эмоций в различных видах СМИ (пресса, телевидение, радио, 
+социальные сети и др.) и жанрах (новости, комментарии, интервью,  
+политические выступления, политические дебаты и др.) и анализ их восприя-
+тия различными аудиториями. 
+
+Мы хотели бы воспользоваться этой возможностью, чтобы поблагода-
+рить всех авторов за поддержку нашего проекта и высокое качество прислан-
+ных статей. Благодаря вашему участию нам удалось провести живую дискус-
+сию, которая пополнит междисциплинарные лингвистические исследования 
+по этой важной теме. Мы надеемся на продолжение сотрудничества  
+
+604 
+
+
+
+Franco Zappettini et al. Russian Journal of Linguistics 25 (3). 586–610 
+
+и открыты для предложений о том, какую форму оно может принять: семи-
+нары, конференции, индивидуальные или групповые инициативы и так далее. 
+Больше всего мы надеемся, что наш специальный выпуск вдохновит читате-
+лей на проведение исследований в этих областях и что они найдут в нем  
+практические инструменты, которые помогут в реализации аналитических 
+проектов. 
+ 
+
+© Franco Zappettini, Douglas M. Ponton and Tatiana V. Larina, 2021 
+
+ 
+This work is licensed under a Creative Commons Attribution 4.0 International License  
+
+https://creativecommons.org/licenses/by/4.0/ 
+ 
+
+Acknowledgments  
+This publication has been supported by the RUDN University Strategic Academic 
+Leadership Programme.  
+
+ 
+REFERENCES 
+
+Ahmed, Sara. 2014. The Cultural Politics of Emotion. 2 ed-n. Routledge.  
+Alba-Juez, Laura. 2009. Perspectives on Discourse Analysis. Theory and practice. Cambridge 
+
+Scholars Publishing. 
+Alba-Juez, Laura & Tatiana Larina. 2018. Language and emotion: Discourse-pragmatic 
+
+perspectives. Russian Journal of Linguistics. (Special issue: The Discourse of Emotion). 
+22 (1), 9–37. https://doi.org/10.22363/2312-9182-2018-22-1-9-37 
+
+Alba-Juez, Laura & J. Lachlan Mackenzie. 2019. Emotion, lies and bullshit in journalistic 
+discourse: The case of fake news. Ibérica 38. 17–50. 
+
+Altheide, David. 2002. Creating Fear: News and the Construction of a Crisis. New York: 
+Aldine de Gruyter. 
+
+Altheide, David L. 2006. Terrorism and the Politics of Fear. Lanham, MD: Alta Mira Press. 
+Altheide, David & Sam Michalowski. 1999. Fear in the news: A discourse of control. The 
+
+Sociological Quarterly 40 (3). 475–503.  
+Antipova, Alina S., Maria D. Rabeson & Olga V. Smirnova. 2021. Semantic shift in conflict 
+
+terminology in contemporary Russian socio-cultural media discourse. Training, Language 
+and Culture 5 (2). 73–89. https://doi.org/10.22363/2521-442X-2021-5-2-73-89 
+
+Assimakopoulos, Stavros, Fabienne H. Baider & Sharon Millar. 2018. Online hate speech in 
+the European Union: a discourse-analytic perspective. Springer. 
+
+Barlett, Christopher & Douglas Gentile. 2011. Affective and emotional consequences of the 
+mass media. In Döveling, Katrin, Christian von Scheve, and Elly A. Konijn (eds.), The 
+Routledge Handbook of Emotions and Mass Media. London and New York: Routledge. 
+60–78. 
+
+Bassols, Margarida, Anna Cros & Anna M. Torrent. 2013. Emotionalization in new television 
+formats of science popularization. Pragmatics 23 (4). 605–632.  
+
+Bateman, John, Janina Wildfeuer & Tuomo Hiippala 2017. Multimodality: Foundations, 
+Research and Analysis – A Problem-Oriented Introduction. Berlin: Mouton de Gruyter. 
+
+Bauman, Zygmunt. 2016. Strangers at Our Door. Polity.  
+Bell, Alan. 1996. The language of news media. Oxford: Blackwell. 
+
+605 
+
+
+
+Franco Zappettini et al. Russian Journal of Linguistics 25 (3). 586–610 
+
+Belyakov, Mikhail V. 2015. Emotive character of diplomatic discourse. Russian Journal of 
+Linguistics 2. 11–17. (In Russ.) 
+
+Berger, Peter & Thomas Luckmann. 1966. The Social Construction of Reality: A Treatise in 
+the Sociology of Knowledge. New York: Penguin. 
+
+ Bou-Franch, Patricia & Pilar Garcés-Conejos Blitvich (eds.). 2019. Analyzing digital 
+discourse: New Insights and Future Directions, 105–131. Palgrave Macmillan, Cham. 
+
+Breeze, Ruth. 2019. Emotion in politics: Affective-discursive practices in UKIP and Labour. 
+Discourse & Society 3 (10). 24–43. 
+
+Breeze, Ruth. 2020. Angry tweets: A corpus-assisted study of anger in populist political 
+discourse. Journal of Language Aggression and Conflict 8 (1). 118–145. 
+
+Cap, Piotr (ed.). 2017. The Language of Fear: Communicating Threat in Public Discourse. 
+London: Palgrave Macmillan. https://doi.org/10.1057/978-1-137-59731-1 
+
+Cohen, Stanley. 2011. Folk Devils and Moral Panics. London: Routledge. 
+Cameron, Deborah. 1995. Verbal Hygiene. London: Routledge. 
+d'Ancona Matthew. 2017. Post-Truth: The New War on Truth and How to Fight Back. Random 
+
+House. 
+Dancygier, Barbara & Lieven Vandelanotte. 2017. Internet memes as multimodal 
+
+constructions. Cognitive Linguistics 28(3). 565–598. 
+Denisova, Anastasia. 2019. Internet Memes and Society: Social, Cultural, and Political 
+
+Contexts. NewYork&London: Routledge. 
+Delanty, Gerard. 2008. Fear of others: Social exclusion and the European crisis of solidarity. 
+
+Social Policy and Administration 42(6). 676–690. 
+de Marlangeon, Silvia Kaul. 2018. Fustigation, impoliteness, emotions and extimacy in 
+
+Argentinian media celebrities. Russian Journal of Linguistics 22(1). 161–174. 
+Dobrosklonskaya, Tatiana G. 2020. Medialingvistika: teoriya, metody, napravleniya. Moscow: 
+
+KDU “Dobrosvet” (In Russ.) 
+Doudaki, Vaia & Boubouka Angeliki. 2019. Discourses of Legitimation in the News: The Case 
+
+of the Economic Crisis in Greece (1st ed.). Routledge. https://doi.org/10.4324/ 
+9780429061325 
+
+Döveling, Katrin, Christian von Scheve & Elly A. Konijn (eds.). 2011. The Routledge 
+Handbook of Emotions and Mass Media. London and New York: Routledge. 
+
+El-Dakhs, Dina Abdel Salam, Fatima Ambreen, Maria Zaheer & Yulia Gusarova. 2019.  
+A pragmatic analysis of the speech act of criticizing in university teacher-student talk: The 
+case of English as a lingua franca. Pragmatics 29 (4). 493–520.  
+
+Emanatian, Michele. 1995. Metaphor and the expression of emotion: The value of cross-cultural 
+perspectives. Metaphor and Symbolic Activity 10 (3). 163–182. 
+
+Faliang Huang, Shichao Zhang, Jilian Zhang & Ge Yu. 2017. Multimodal learning for topic 
+sentiment analysis in microblogging. Neurocomputing 253. 144–153. 
+
+Furedi, Frank. 2018. How Fear Works: Culture of Fear in the Twenty-First Century. London: 
+Bloomsbury Publishing. 
+
+Gammerl, Benno. 2012. Emotional styles – concepts and challenges.” Rethinking History 16(2). 
+161–175. https://doi.org/10.1080/13642529.2012.681189 
+
+Gretzky, Maria & Julia Lerner. 2021. Students of academic capitalism: Emotional dimensions 
+in the commercialization of higher education. Sociological Research Online. 26 (1)  
+205–221. https://doi.org/10.1177/1360780420968117 
+
+Haidt, Jonathan. 2001. The Emotional dog and its rational tail: A social intuitionist approach to 
+moral judgment. Psychological Review 108 (4). 814–834. 
+
+Handa, Carolyn 2013. The Multimediated Rhetoric of the Internet: Digital Fusion. New York: 
+Routledge. 
+
+606 
+
+
+
+Franco Zappettini et al. Russian Journal of Linguistics 25 (3). 586–610 
+
+Holmes, Mary. 2010. The emotionalization of reflexivity, Sociology 44 (1). 139–154. 
+https://doi.org/10.1177/0038038509351616 
+
+Kopytowska, Monika & Paul Chilton. 2018. “Rivers of blood”: Migration, fear and threat 
+construction Lodz Papers in Pragmatics 14 (1). 133–161. Special issue on Narrating 
+hostility, challenging hostile narratives. https://doi.org/10.1515/lpp-2018-0007 
+
+Koschut, Simon. 2020. The power of emotions in world politics. London and New York: 
+Routledge. 
+
+Kress, Gunther, R. & Theo van Leeuwen. 2010. Reading Images: The Grammar of Visual 
+Design. London and New York: Routledge. 
+
+Larina, Tatiana, Vladimir Ozyumenko & Douglas M. Ponton. 2020. Persuasion strategies in 
+media discourse about Russia: Linguistic ambiguity and uncertainty. Lodz Papers in 
+Pragmatics 15 (1). 3–22. https://doi.org/10.1515/lpp-2019-0002 
+
+Larina, Tatiana & Douglas Mark Ponton. 2020.Tact or frankness in English and Russian blind 
+peer reviews. Intercultural Pragmatics 17 (4). 471–496. 
+
+Larina, Tatiana & Douglas Mark Ponton. (forthcoming). I wanted to honour your journal, and 
+you spat in my face: Emotive (im)politeness and face in the blind peer review genre. 
+Journal of Politeness Research. 
+
+Lerner, Lulia & Michele Rivkin-Fish. 2021. On emotionalisation of public domains. Emotions 
+and Society. 3 (1). 1–11. https://doi.org/10.1332/263169021X16149420145743 
+
+Lerner, Julia, Claudia Zbenovich & Tamar Kaneh-Shalit. 2021. Changing meanings of university 
+teaching: The emotionalization of academic culture in Russia, Israel, and the USA. Emotions 
+and Society. Special Issue Emotionalization of public domains. 3 (1). 73–93. 
+
+Mackenzie, J. Lachlan. 2018. Sentiment and confidence in financial English: A corpus study. 
+Russian Journal of Linguistics 22 (1). 80–93. 
+
+Maíz-Arévalo, Carmen. 2018. Emotional self-presentation on WhatsApp: Analysis of profile 
+status. Russian Journal of Linguistics. 22 (1). 144–160. 
+
+Mackenzie, J. Lachlan & Laura Alba-Juez (eds.). 2019. Emotion in Discourse. Amsterdam and 
+Philadelphia: John Benjamins. 
+
+Mina, An, Xiao. 2019. Memes to Movements: How the World’s Most Viral Media is Changing 
+Social Protest and Power. Ebook: Beacon Press. 
+
+Mitchell, William & Thomas John. 1986. Iconology: Image, Text, Ideology. Chicago: 
+University of Chicago Press. 
+
+Musolff, Andreas. 2004. Metaphor and political discourse: Analogical reasoning in debates 
+about Europe. Palgrave Macmillan. 
+
+Musolff, Andreas. 2016. Political Metaphor Analysis: Discourse and Scenarios. Bloomsbury 
+Publishing. 
+
+Musolff, Andreas. 2019. Creativity in metaphor interpretation. Russian Journal of Linguistics, 
+23 (1), 23–39. https://doi.org/10.22363/2312-9182-2019-23-1-23-39 
+
+Ponton, Douglas. 2016. Movement and meaning: Towards an integrated approach to political 
+discourse analysis. Russian Journal of Linguistics. Special issue: Discourse Analysis 
+in the 21st Century: Theory and Practice (I). 20 (4). 122–139. 
+
+Ponton, Douglas & Tatiana Larina. 2016. Discourse analysis in the 21-th century: Theory and 
+practice (I). Russian Journal of Linguistics. 20 (4). 7–25. 
+
+Ponton, Douglas & Tatiana Larina. 2017. Discourse analysis in the 21-th century: Theory and 
+practice (II). Russian Journal of Linguistics 21 (1). 7–21 
+
+Richardson, John E. 2007. Analysing Newspapers: An Approach from Critical Discourse 
+Analysis. London: Palgrave Macmillan. 
+
+Schwab, Frank & Clemens Schwender. 2011. The descent of emotions in media. Darwinian 
+perspectives. In K. Döveling, Ch. von Scheve, and E.A. Konijn (eds.), The Routledge 
+Handbook of Emotions and Mass Media, 15–36. London and New York: Routledge.  
+
+607 
+
+
+
+Franco Zappettini et al. Russian Journal of Linguistics 25 (3). 586–610 
+
+Scherer, Klaus R. 2005. What are emotions? And how can they be measured? Social Science 
+Information 44(4). 695–729. https://doi.org/10.1177/0539018405058216 
+
+Sedláková, Renáta & Monika Kopytowska. 2018. Different faces of the unknown: The media and 
+the semiotics of fear. In Monika Kopytowska & Artur Gałkowski (eds.), Current Perspectives 
+in Semiotics: Texts, Genres and Representations, 262–291. Frankfurt: Peter Lang.  
+
+Sieben, Barbara & Asa Wettergren (eds.). 2010. Emotionalizing Organizations and Organizing 
+Emotions. Basingstoke: Palgrave Macmillan. 
+
+Shakhovsky, Viktor. 2008. Linguistic theory of emotions. Moscow: Gnozis Publ. (In Russ.) 
+Shakhovsky, Viktor. 2018. The Cognitive Matrix of Emotional-Communicative Personality. 
+
+Russian Journal of Linguistics 22 (1). 54–79. https://doi.org/10.22363/2312-9182-2018-
+22-1-54-79 
+
+Trajkova, Zorica. 2020. Media fraiming of the Macedonia name change issue: The use of fear-
+inducing language strategies. Lodz Papers in Pragmatics 16 (2). 265–284. 
+
+Van Dijk, Teun Adrian. 1988. News as Discourse. Hillsdale, New Jersey: Lawrence Erlbaum. 
+Volkova, Yana & Panchenko, Nadezhda. 2018. Discourse variation of the concepts of 
+
+destructive emotions. Russian Journal of Linguistics 22 (1). 175–194. https://doi.org/ 
+10.22363/2312-9182-2018-22-1-175-194 (In Russ.). 
+
+Vishnyakova, Olga D. & Natalia V. Polyakova. 2017. Linguistic and functional cognitive 
+peculiarities of media language as the basis of interpretations in the communicative sphere. 
+Training, Language and Culture 1 (2). 86–101. https://doi.org/10.29366/2017tlc.1.2.6  
+
+Yus, Francisco. 2018. Attaching feelings and emotions to propositions. Some Insights on irony 
+and Internet communication Russian Journal of Linguistics 22 (1). 64–107. 
+
+Yus, Francisco. 2019. Multimodality in memes: A cyberpragmatic approach. In Patricia Bou-
+Franch Pilar Garcés-Conejos Blitvich (eds.). Analyzing digital discourse: New Insights 
+and Future Directions, 105–131. Palgrave Macmillan, Cham 
+
+Wetherell, Margaret. 2012. Affect and Emotion: A New Social Science Understanding. London: 
+Sage. https://doi.org/10.4135/9781446250945 
+
+Wetherell, Margaret. 2015. Trends in the turn to affect: A social psychological critique. Body 
+& Society 21(2). 139–166. https://doi.org/10.1177/1357034X14539020 
+
+Wirth, Werner & Holger Schramm. 2005. Media and Emotions. Communication Research 
+Trends. 24 (3). 1–39. 
+
+Wodak, Ruth. 2015. The Politics of Fear: What Right-Wing Populist Discourses Mean. 
+London: Sage. 
+
+Wodak, Ruth. 2019. ‘The boundaries of what can be said have shifted’: An expert interview 
+with Ruth Wodak (questions posed by Andreas Schulz). Discourse & Society. Online first, 
+December 2019. 1–10. 
+
+Wodak, Ruth. 2020. ‘The boundaries of what can be said have shifted’: An expert interview 
+with Ruth Wodak (questions posed by Andreas Schulz). Discourse & Society 31 (2).  
+235–244. https://doi.org/10.1177/0957926519889109 
+
+Woodward, Kathleen. 2009. Statistical Panic: Cultural Politics and Poetics of the Emotions, 
+Durham, NC: Duke University Press. 
+
+Zappettini, Franco. 2019. The Brexit referendum: How trade and immigration in the discourses 
+of the official campaigns have legitimised a toxic (inter)national logic. Critical Discourse 
+Studies 16 (4). 403–419. 
+
+Zappettini, Franco. 2021. The tabloidization of the Brexit campaign: Power to the (British) 
+people?’ Journal of Language and Politics 20 (2). 277–303. https://doi.org/10.1075/ 
+jlp.19103.zap 
+
+Zappettini, Franco & Jeffrey Unerman. 2016. “Mixing” and “Bending”: The recontextualisation 
+of discourses of sustainability in integrated reporting. Discourse & Communication 10 (5). 
+521–542. 
+
+608 
+
+
+
+Franco Zappettini et al. Russian Journal of Linguistics 25 (3). 586–610 
+
+Article history: 
+Received: 15 June 2021 
+Accepted: 30 August 2021 
+ 
+История статьи: 
+Дата поступления в редакцию: 15 июня 2021 
+Дата принятия к печати: 30 августа 2021 
+ 
+Bionotes:  
+Franco ZAPPETTINI is a Lecturer and Director of Postgraduate Research in 
+Communication and Media at the University of Liverpool, UK. His research focuses on the 
+textual/discursive analysis of different forms of political and organisational communication 
+including mediated forms of populism, such as tabloid populism and Euroscepticism in the 
+British press. He has published internationally in peer-reviewed journals and book series. 
+His latest publication is the monograph Brexit: A Critical Discursive Analysis forthcoming 
+for Palgrave MacMillan. 
+Contact information: 
+University of Liverpool 
+Foundation Building, Brownlow Hill, Liverpool, L69 7ZX, UK  
+e-mail: franco.zappettini@liverpool.ac.uk 
+ORCID: 0000-0001-7049-4454 
+ 
+Douglas Mark PONTON is Associate Professor of English Language and Translation at 
+the Department of Political and Social Sciences, University of Catania. His research 
+interests include political discourse analysis, ecolinguistics, sociolinguistics, applied 
+linguistics, pragmatics and critical discourse studies. Recent publications include For 
+Arguments Sake: Speaker Evaluation in Modern PoliticalDiscourse and Understanding 
+Political Persuasion: Linguistic and Rhetorical Aspects. As well as politics, his research 
+deals with a variety of social topics including tourism, the discourse of mediation, ecology, 
+local dialect and folk traditions, including proverbs and the Blues. 
+Contact information: 
+University of Catania 
+Via Vittorio Emanuele II 49, Catania, 95131, Italy 
+e-mail: dmponton@gmail.com 
+ORCID: 0000-0002-9968-1162 
+ 
+Tatiana V. LARINA is Doctor Habil., Full Professor at RUDN University. Her research 
+interests embrace language, culture and communication; cross-cultural pragmatics, 
+discourse analysis, communicative ethnostyles, and (im)politeness theory with the focus 
+on English and Russian languages. She has authored and co-authored over 200 publications 
+in Russian and English including monographs, course books, book chapters and articles in 
+peer-reviewed journals.  
+Сontact information: 
+Peoples’ Friendship University of Russia (RUDN University) 
+6 Miklukho-Maklaya, Moscow, 117198, Russia 
+e-mail: larina-tv@rudn.ru  
+ORCID: 0000-0001-6167-455X 
+
+609 
+
+
+
+Franco Zappettini et al. Russian Journal of Linguistics 25 (3). 586–610 
+
+Сведения об авторах: 
+Франко ЗАППЕТТИНИ имеет степень доктора, преподает в Ливерпульском  
+университете, Великобритания, руководит аспирантскими программами в области 
+коммуникации и СМИ. Его исследования сосредоточены на текстуальном/дискур-
+сивном анализе различных форм политической коммуникации, включая опосредо-
+ванные формы популизма, такие как таблоидный популизм и евроскептицизм в бри-
+танской прессе. Он публикует свои исследования в рецензируемых международных 
+журналах и монографиях. Его последняя публикация – монография Brexit: A Critical 
+Discursive Analysis (PalgraveMacMillan). 
+Контактная информация: 
+University of Liverpool 
+Foundation Building, Brownlow Hill, Liverpool, L69 7ZX, UK  
+e-mail: franco.zappettini@liverpool.ac.uk 
+ORCID: 0000-0001-7049-4454 
+
+Дуглас Марк ПОНТОН – профессор, преподаватель английского языка и перевода 
+на кафедре политических и социальных наук в Катанийском университете (Италия). 
+Сфера его научных интересов включает анализ политического дискурса, эколингви-
+стику, социолингвистику, прикладную лингвистику, прагматику и критический  
+дискурс-анализ. Его последние публикации: For Arguments Sake: Speaker Evaluation 
+in Modern Political Discourse («Во имя аргументов: оценка оратора в современном 
+политическом дискурсе») и Understanding Political Persuasion: Linguistic and 
+Rhetorical Aspects («Способы убеждения в политике: лингвистические и риториче-
+ские аспекты»). Наряду с политикой интересы Д.М. Понтона связаны с социальной 
+тематикой: туризмом, дискурсом медиации, экологией, местными диалектами, 
+народными традициями, пословицами и блюзом. 
+Контактнаяинформация: 
+University of Catania 
+Via Vittorio Emanuele II 49 Catania, 95131, Italy 
+e-mail: dmponton@gmail.com 
+ORCID: 0000-0002-9968-1162 
+
+Татьяна Викторовна ЛАРИНА – доктор филологических наук, профессор 
+Российского университета дружбы народов (РУДН). Ее исследовательские интересы 
+включают взаимодействие языка, культуры и коммуникации, кросс-культурную 
+прагматику, дискурс-анализ, межкультурную коммуникацию, коммуникативную  
+этностилистику и теорию не/вежливости. Она является автором и соавтором более 
+200 публикаций на русском и английском языках, включая монографии, учебники, 
+главы книг, а также многочисленные статьи, в том числе в ведущих международных 
+журналах. 
+Контактная информация:  
+Российский университет дружбы народов 
+Россия, 117198, Москва, ул. Миклухо-Маклая, 6 
+e-mail: larina-tv@rudn.ru  
+ORCID: 0000-0001-6167-455X

@@ -4,6 +4,9 @@ datasets
 numpy
 gradio
 gradio_client
+joblib
+spacy
+accelerate
 scikit-learn
 seaborn
 pandas

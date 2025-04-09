@@ -1,0 +1,629 @@
+﻿2018 Географический вестник 1(44) 
+
+Экономическая, социальная и политическая география 
+ 
+
+УДК 81'373.21 
+ 
+
+
+С.Н. Басик  
+
+КРИТИЧЕСКАЯ ТОПОНИМИКА КАК НАПРАВЛЕНИЕ ГЕОГРАФИЧЕСКИХ 
+ИССЛЕДОВАНИЙ: ПРОБЛЕМЫ И ПЕРСПЕКТИВЫ 
+
+ 
+Школа либеральных исследований, Конэстога Колледж, Китченер, Канада 
+
+ 
+Рассматриваются вопросы развития критической топонимики как отрасли географии. Отмечается, 
+
+что в отличие от традиционного лингвистического анализа фокус исследований здесь направлен на 
+критическое осмысление социально-политической и символической роли топонимов, политики 
+топонимической номинации и ее результатов. Выделены основные проблемы критической 
+топонимики, в том числе недостатки теоретико-методологической основы, однообразие структуры и 
+содержания работ, англоязычная гегемония в исследованиях, а также отсутствие географических 
+трудов в этом направлении на постсоветском пространстве. Предложен ряд новых направлений 
+критического анализа в геотопонимических исследованиях постсоветского пространства: выявление 
+универсальных закономерностей топонимического производства пространства (топонимических 
+универсалий);  исследование региональной пространственной символики топонимии; анализ 
+современных тенденций топонимической политики и практики топонимической номинации в 
+различных регионах и на различных уровнях, в том числе территорий с полиэтничным составом и 
+топонимии малых народов; изучение функционирования топонимов в рамках семиотического 
+ландшафта в контексте эмоциональной географии; анализ топонимии геоэкологических проблем и 
+транформации ландшафтов и роль властных структур,  субъектов хозяйствования и населения в 
+данных процессах. Резюмируется важное значение включения постсоветских географов в 
+международную повестку критического топонимического анализа. 
+
+К л ю ч е в ы е  с л о в а :  критическая география, критическая топонимика, топонимическая 
+политика, топонимическая номинация, урбаноним, геотопонимические исследования. 
+
+ 
+S.N. Basik 
+
+CRITICAL TOPONYMICS AS A DIRECTION OF GEOGRAPHIC RESEARCH: 
+PROBLEMS AND PERSPECTIVES 
+
+ 
+The School of Liberal Studies, Conestoga College, Kitchener, Canada 
+
+ 
+In this article, the main aspects of the critical toponymics development as a branch of geography are 
+
+considered. It is noted that, in contrast to the traditional linguistic analysis, the key focus of research in this 
+field of study is directed toward a critical understanding of the socio-political and symbolic role of 
+toponyms, the toponymic nomination policy and its results, as well as related processes. The main problems 
+of critical toponymics are revealed, including the shortcomings of the theoretical and methodological basis, 
+the uniformity of the structure and content of scientific works, the English-speaking hegemony in the studies, 
+and the actual absence of geographical works in this direction in the post-Soviet realm. A number of new 
+directions of critical analysis in geo-toponymic studies of the post-Soviet realm are proposed: identification 
+of universal laws of toponymic production of space (toponymic universals); the study of the regional spatial 
+symbolism of toponymy; the analysis of current trends in toponymic policy, as well as the toponymic 
+nomination practices in different regions and at various levels, including the territories with multi-ethnic 
+composition and indigenous toponymy; the study of the functioning of toponyms within the semiotic 
+landscape in the context of emotional geography; the analysis of the toponymy of geo-ecological problems 
+and landscape transformations, and the role of administrative power, business entities and the local 
+populations in these processes. The importance of including the post-Soviet geographers in the international 
+agenda of critical toponymic analysis is pointed out.   
+
+K e y w o r d s :  critical geography, critical toponymics, toponymic politics, toponymic nomination, 
+urabanonym, geo-toponymic research. 
+
+ 
+doi 10.17072/2079-7877-2018-1-56-63 
+
+                                                 
+© Басик С.Н., 2018 
+
+ 
+56 
+
+
+
+2018 Географический вестник 1(44) 
+
+Экономическая, социальная и политическая география 
+ 
+
+Введение  
+Произошедшие в последние десятилетия ХХ в., в первую очередь, в англоязычной академической 
+
+среде, концептуальные сдвиги в географических исследованиях в сторону синтеза социальных и 
+географических теоретико-методологических подходов в изучении влияния социально-политических 
+процессов на пространство привели к возникновению так называемой критической географии. 
+Опираясь на широкий диапазон философских и социологических теорий, таких как неомарксизм, 
+постмарксизм, постмодернизм и постструктурализм, современная критическая география 
+представляет собой систему разнообразных направлений науки. Кроме традиционно развитого в 
+англоязычной среде направления гуманитарной критической географии в последние годы также 
+активно обсуждается «критический» компонент в физической географии. В частности, говорится о 
+необходимости изучения взаимосвязей между процессами в окружающей среде и общественными 
+практиками, о сопряженной продукции социо-биофизических систем, что исключительно важно для 
+исследования антропоцена [19]. В настоящее время критическая география представлена на 
+различных уровнях в большинстве академических учреждений Великобритании, Канады, Австралии, 
+Новой Зеландии, США, Скандинавских государств и других стран [14]. Не осталась в стороне от этих 
+трансформационных процессов и топонимика.  
+
+Традиционно большинство топонимических исследований в мире развивалось в рамках 
+ономастики как отрасли лингвистики. Амeриканский историкогеограф У. Зелински указывал, что 
+традиционная лингвистическая топонимика практически не ушла далеко от начальной стадии 
+развития, основанной на сборе, классификации и поиске этимологии географических названий, и 
+имеются лишь отдельные попытки анализа взаимосвязей между географическими названиями и 
+явлениями человеческой деятельности [30]. Основоположник белорусской геотопонимической 
+школы, один из классиков советской топонимики В.А. Жучкевич, отмечал, что «попытки ограничить 
+решение топонимических проблем одним узкоспециальным аспектом наносят ущерб исследованиям, 
+сужают их практическую значимость и несовместимы с нынешним состоянием научной 
+проблематики» [3, с. 71]. Очевидно, что обычный анализ этимологии топонима, исходящий из 
+исключительно лингвистических позиций, не дает истинного понимания исходных посылок 
+номинации, так как для этого необходим учет географических, социально-политических и культурно-
+исторических факторов и обстоятельств, различных применительно к разным частям исследуемого 
+региона [1; 6].  
+
+Современные критические географы выделяют три основных традиционных (и до сих пор 
+играющих важную роль) направления топонимики: философское (абстрактный интерес к именам в 
+целом), техническо-управленческое (стандартизация географических названий с целью 
+технократической рационализации географического пространства в интересах государства), 
+историко-культуралистское (выявление этимологии названий и использование топонимов как 
+источников информации в интересах различных дисциплин) [29].  
+
+ 
+Развитие и современное состояние критической топонимики 
+
+Первые работы по топонимике с использованием концептуальных подходов критической 
+географии появились в англоязычной академической среде в 1980-х гг.. В этот период изучение 
+географических названий отошло от традиционных изысканий в сторону критического осмысления 
+социально-политической и символической роли топонимов, политики номинации и ее политических 
+результатов, а также связанных с ней социально-экономических и иных процессов. Здесь следует 
+выделить труды социального географа М. Азарьяху (Университет Хайфы, Израиль), 
+опубликовавшего серию исследований по критическому анализу политики урбономинации на 
+примере городов Германии, Австрии и Израиля разных периодов, где были выделены две ключевые 
+функции урбанонимов – ориентационная утилитарная и символическая коммеморативная. Он также 
+отмечал, что городская географическая номенклатура служит целям правящего политического 
+режима, и, используя названия улиц, власти могут внедрить «официальную версию прошлого в 
+семиосферу», где, таким образом, «прошлое создается настоящим» [11].   
+
+В 1990–2000-х гг. количество публикаций в русле критической топонимики возросло в связи с 
+теоретико-методологическим расширением поля исследований и использованием примеров из 
+различных регионов мира. Работы географов, построенные на применении критической социальной 
+теории, принесли значительные успехи в объяснении мотиваций и ценностей, включенных в процесс 
+номинации, к пониманию иных социокультурных и политических процессов, вовлеченных «в 
+создание, низвержение и ревизию» географических названий [17]. Особую роль в становлении 
+
+ 
+57 
+
+
+
+2018 Географический вестник 1(44) 
+
+Экономическая, социальная и политическая география 
+ 
+
+дисциплины сыграла публикация в 2009 г. под научной редакцией географов Л.Д. Берга 
+(Университет Британской Колумбии, Канада) и Я. Вуолтеенахо (Университет Хельсинки, 
+Финляндия) первого междисциплинарного сборника по критической топонимике, включавшего 
+наряду с новыми и ряд значительных работ предыдущих лет. Основная концептуальная 
+направленность статей – изучение взаимодействия между процессами «создания места», 
+местонаименования (номинации), государством и властью с точки зрения социологических и 
+культурологических теорий [29]. Далее появились новые исследования в области критической 
+топонимики, сфокусированные на вопросах национализма, колониализма и постколониализма, 
+политики самоопределения, а также пространства общественной памяти. Особое внимание уделялось 
+вопросам культурной политики наименования географических объектов, таким, например, как кто 
+контролирует процесс номинации, а кто нет [10]. Современные исследователи ищут пути 
+реполитизации топонимии, подчеркивая роль борьбы за «топонимическое производство 
+пространства» [24]. Ключевым становится понимание роли топонимов как символов, активно 
+вовлеченных в процессы «создания места»,  а не «пассивныx знаков» [12].  
+
+Детальный анализ развития дисциплины с конца ХХ в. до середины 2010-х гг. проведен в 
+диссертационной работе социолога Е.А. Терентьева, который выделил три основных подхода к 
+критическим топонимическим исследованиям: структуралистский подход (гегемонические 
+топонимические ландшафты, вопросы наименования и переименования географических объектов); 
+интеракционистский подход (сопротивление топонимической власти); феноменологический подход 
+(практики употребления топонимов в повседневной деятельности) [8, с.21–22]. 
+
+К настоящему времени определено пять категорий критических топонимических исследований в 
+англоязычной среде: постпереходные (переименование вследствие смены правительства или 
+политико-экономического строя); колониальные и постколониальные (топонимическая политика в 
+колониях и создание новых государств); постконфликтные и примирения (например, топонимы ЮАР 
+после падения системы апартеида); политической экономии и социальной справедливости (например, 
+коммерциализация топонимии); власть, независимость и международные отношения (вопросы 
+использования таких топонимов, как Мальвинские и Фолклендские острова, Японское и Восточное 
+море и т. д.) [18]. 
+
+Новейшие критические топонимические исследования конструируются на проблемах топонимии 
+как «технологии власти» внутри и вне контекста политического режима, локальных движений 
+сопротивления, официального и неофициального самоопределения населения [26]. Так, например, 
+здесь отражаются процессы использования топонимической номинации как инструмента 
+корпоративной власти, поднятия стоимости пространства, борьбы за ресурсы и собственность. В 
+частности, на примере города Нью-Йорка изучена «топонимия неравенства», взаимосвязь между 
+топонимическим переделом районов города, городским планированием, легитимацией различных 
+форм деятельности в интересах привилигерованных социальных групп (бизнес-сообщество, крупные 
+риэлторские компании, административные органы и т.д.) и дальнейшей маргинализацией наименее 
+защищенных слоев населения в результате «символического насилия» [21]. В работе [20], на примере 
+топонимии канадских провинций прерий, упоминаются такие взаимоотношения между властными 
+элитами и маргинальными слоями общества, когда крупные корпорации, в первую очередь 
+железнодорожные компании, определяли в собственных интересах топонимическую политику 
+номинации на протяжении длительного времени (например, называя географические объекты 
+именами высших должностных лиц компаний, крупных держателей акций и т.д.). Кейс нового 
+топонима море Селиш (США–Канада) показывает, как абсолютно различные группы социальных 
+акторов (защитники окружающей среды, биорегиональные активисты, представители 
+экотуристической отрасли) через практику многолетнего повторения и внедрения в общественное 
+сознание нового географического названия посредством средств массовой информации и других 
+видов деятельности сделали его общеупотребительным и добились официального признания 
+топонима [28]. Дальнейшее развитие в новейших исследованиях получили анализ процесса 
+коммерциализации топонимов («топонимия как товар») и различные региональные кейсы по 
+рассмотрению гегемонических колониальных, постколониальных и постпереходных практик 
+топонимической номинации. 
+
+ 
+Проблемы и перспективы критической топонимики 
+
+Среди основных проблем  критической топонимики как современного научного направления, в 
+первую очередь, следует назвать теоретико-методологическую. Известно, что основной сложностью 
+
+ 
+58 
+
+
+
+2018 Географический вестник 1(44) 
+
+Экономическая, социальная и политическая география 
+ 
+
+критической географии (в рамках которой и развивается критическая топонимика) является 
+отсутствие стабильной и четко сформулированной теоретико-методологической основы, и 
+современные исследователи определяют методологический прогресс в данной области в целом как 
+почти «сведенный на нет» [22]. Достаточно много дебатов имеется по поводу фундаментальных 
+аспектов науки, определения термина критическая и иных теоретических вопросов [16]. 
+
+Необходимо отметить, что в критической топонимике наметилось некое однообразие структуры и 
+содержания исследований. В основном они представляют собой кейсы, где рассматриваются 
+различные политические аспекты топонимического производства пространства на микро- или 
+мезорегиональном уровне. Объектом анализа в подавляющем большинстве работ являются 
+урбанонимы (годонимы – названия улиц, в первую очередь). Такая ограниченность связана, по 
+нашему мнению, с доступностью урбономенклатурной эмпирической информации, возможностью 
+отследить динамику урбанонимической системы в связи с политическими и социальными 
+трансформациями в обществе и наличием основного пласта коммеморативных названий. 
+Исследователями также отмечается опасность «предсказуемости» новых исследований [23]. Зачастую 
+современные работы характеризуются своего рода научным редукционизмом, так как фокусируются 
+только на «политическом значении» топонимов, рассматривая коммеморативные практики и их 
+последствия, но игнорируюя другие значимые аспекты номинации и связанные с ними процессы [12].  
+
+Еще одним проблемным моментом является англоязычная гегемония в критических 
+исследованиях, которая ограничивает международных ученых. Характерно, что это признается 
+серьезным лимитируюшим фактором и для англоязычных теоретических и эмпирических разработок 
+[13]. Неоднократно отмечалось, что необходимо приложить все усилия для «интернационализации» 
+исследований [25].  
+
+С фактом англоязычной гегемонии частично связано и отсутствие географических работ в русле 
+критического анализа топонимии на постсоветском пространстве. Почти все имеющиеся 
+исследования выполнены социологами, историками, политологами, лингвистами и другими 
+представителями гуманитарного блока наук. Отмечается, что «в отечественных представлениях 
+географии и экологии происходит “задержка” в принятии многих феноменов характерных для эпохи 
+постмодернизма, в которой мы сейчас живем» [2, с. 6]. В то же время сейчас говорится о том, что 
+важную роль в развитии гуманитарной географии будет играть  «взаимное наложение тенденций 
+“культурного поворота” в географии и “пространственного поворота” в социально-гуманитарных 
+науках» [5, с. 25].  
+
+Современные критические топонимисты отмечают необходимость научного плюрализма и 
+выделяют перспективные направления исследований: политическая экономия городской 
+урбономинации как стратегия создания городского бренда, эмоциональная география городской 
+топонимии и восприятие названий в повседневной жизни, роль топонимической номинации в 
+расовых и гендерных проблемах городского пространства, восстановление топонимии коренных 
+народов, виртуальная жизнь урбанонимов в онлайновой цифровой среде и ряд других [27]. Очевидно, 
+что некоторые из указанных направлений представляют интерес как новое поле исследований и для 
+географов-топонимистов на постсоветском пространстве.  
+
+Использование топонимики в интересах географии неоднократно рассматривалось учеными [9]. 
+На наш взгляд, заслуживают внимания следующие возможные аспекты применения подходов 
+критического анализа в геотопонимических исследованиях на постсоветском пространстве: 
+
+1. Выявление универсальных закономерностей топонимического производства пространства, 
+основанных на взаимоотношениях между топонимической системой, властью, обществом. Здесь 
+речь идет об ономастических универсалиях, по определению лингвиста А.В. Суперанской, 
+специфических чертах, свойственных всем или многим онимам разных языков, и общих 
+закономерностей, в соответствии с которыми развиваются ономастические системы [7]. Данные 
+универсалии основаны на способности людей отбирать и закреплять в собственных именах типовые 
+экстралингвистические явления, а также на типичности значений и отношений, выраженных с 
+помощью разнообразных средств в любом языке. В контексте критического анализа, на основе 
+изучения социально-политических и иных факторов борьбы за символическое содержание 
+пространства, представляется возможным определить типовые экстралингвистические явления, 
+основанные на коммеморативных приоритетах и политических дискурсах разных исторических 
+периодов, а также их роль в формировании топонимии. 
+
+2. Выявление региональной пространственной символики топонимии через анализ мотиваций, 
+культурных, социальных и политических факторов формирования территориальной 
+
+ 
+59 
+
+
+
+2018 Географический вестник 1(44) 
+
+Экономическая, социальная и политическая география 
+ 
+
+топонимической системы. Исследователями отмечалось, что изучение знаково-символической и 
+культурно-семантической сущности топонимии как средства трансляции культурно-значимой 
+информации имеет значительный научный потенциал для географических исследований [4].  
+
+3. Анализ современных тенденций топонимической политики и практики топонимической 
+номинации в различных регионах стран бывшего СССР на различных уровнях (микро-, мезо-, и 
+макрорегиональном). В особенности, представляют интерес территории с полиэтничным составом, а 
+также вопросы, касающиеся уничтожения, сохранения и возрождения топонимии малых народов.  
+
+4. Изучение функционирования географических названий вне контекста политического режима, 
+т.е. попытаться понять, как топонимия «живет» и какое она занимает место в «народном» 
+семиотическом ландшафте в контексте эмоциональной географии (например, продолжение 
+употребления населением прежнего географического названия в повседневной жизни; причины 
+принятия или непринятия нового топонима; осознанно или неосознанно это употребление и т.д.) 
+Известно, что недостаток публичных консультаций, скептицизм по поводу коммеморативной 
+культурной ценности новых названий, сложность для запоминания и другие факторы могут 
+послужить причиной принятия или непринятия топонима местным населением [15].  
+
+5. Физико-географический аспект критических топонимических исследований, фактически не 
+затронутый в современных англоязычных публикациях, дает возможность для анализа возникших, 
+переименованных, утраченных и других названий (в том числе, микротопонимов), отражающих 
+геоэкологические проблемы регионов и современные трансформации естественных ландшафтов в 
+результате хозяйственной деятельности, а также роли властных структур, субъектов хозяйствования 
+и местного населения в данных процессах. 
+
+ 
+Заключение 
+
+Резюмируя сказанное, полагаем, что критическое направление топонимики, нацеленное на поиск и 
+исследование новых сфер пространственных взаимоотношений между властью, обществом и 
+ландшафтом, способно занять свое место в ряду географических исследований на постсоветском 
+пространстве. Насколько необходимо внедрение критического подхода в фокус топонимических 
+работ географов является вопросом скорее профессионального исследовательского интереса ученых. 
+Это ни в коей мере не умаляет значение традиционных геотопонимических исследований, 
+опирающихся на богатое научное наследие советских географов-топонимистов. Очевидно, что 
+включение исследователей на постсоветском пространстве в международную повестку критического 
+топонимического анализа, а также использование концептуальных подходов и заимствование 
+терминологического аппарата социологии, культурологии, политологии, социальной антропологии и 
+других смежных наук будет играть важную роль в развитии, в первую очередь, гуманитарного 
+направления географии.  
+
+ 
+Библиографический список 
+
+1. Басик С. Н. Общая топонимика: учеб. пособие для студентов географического факультета. 
+Минск: Изд-во БГУ, 2008. 168 c. 
+
+2. Бочарников В.Н. География общая, экологическая, гуманитарная, информационная. Взят 
+социальный «заказ» на природу! Конспект. Ч. 2 // Астраханский вестник экологического образования. 
+2017. №1. C. 4–20.  
+
+3. Жучкевич В.А. Общая топонимика. Минск: Вышэйшая школа, 1968. 432 с. 
+4. Корнев И.Н. География и топонимика в контексте гуманитарного дискурса // Географический 
+
+вестник. 2014. №1. С. 41–45. 
+5. Митин И.И. Культурная география в СССР и постсоветской России: история (вос)становления и 
+
+факторы самобытности // Международный журнал исследований культуры [Электронный ресурс]. 
+2011. №4. С. 19–25. URL: http://www.culturalresearch.ru/files/open_issues/04_2011/IJCR_04(5)_2011_ 
+Mitin.pdf (дата обращения: 24.07.2017).  
+
+6. Рогалев А.Ф. Этнические и географические названия как источник изучения этноязыковой 
+истории (на материале Беларуси): автореф. дис. … д-ра филол. наук. Минск, 1996. 32 с. 
+
+7. Суперанская А.В. Ономастические универсалии // Восточнославянская ономастика. М., 1972. С. 
+346–356. 
+
+8. Терентьев Е.А. Теоретико-методологическая концептуализация топонимических практик (на 
+примере Москвы и Санкт-Петербурга): автореф. дис. ... канд. социол. наук. М., 2016. 29 с. 
+
+ 
+60 
+
+
+
+2018 Географический вестник 1(44) 
+
+Экономическая, социальная и политическая география 
+ 
+
+9. Ханмагомедов Х Л. Географические направления прикладной топонимики // Вестник 
+Удмуртского университета. Сер. Биология. Науки о Земле. 2011. №4. С. 123–131. 
+
+10. Alderman D.H., Inwood J. Street naming and the politics of belonging: spatial injustices in the 
+toponymic commemoration of Martin Luther King Jr // Social & Cultural Geography. 2013. Vol. 14. 
+Pp. 211–233. URL: http://dx.doi.org/10.1080/14649365.2012.754488 (дата обращения: 24.07.2017).  
+
+11. Azaryahu M. Renaming the Past: Changes in” City Text” in Germany and Austria, 1945-1947 // 
+History and Memory. 1990. Vol. 2. No. 2. P. 32–53.  
+
+12. Azaryahu M. The critical turn and beyond: the case of commemorative street naming // ACME: An 
+International E-Journal for Critical Geographies [Electronic].  2011. Vol. 10. No. 1. Pp. 28–33. URL: 
+http://www.acme-journal.org/index.php/acme/article/view/883/739 (дата обращения: 24.07.2017). 
+
+13. Berg L.D. Scaling knowledge: towards a critical geography of critical geographies// Geoforum. 2004. 
+Vol. 35. Pp. 553–558. 
+
+14. Berg L.D. Critical human geography// Encyclopedia of Geography /B. Wharf (ed.) Thousand oaks, 
+CA: Sage Publishers, 2010. Pp. 617–622. 
+
+15. Creţan R., Matthews P.W. Popular responses to city-text changes: street naming and the politics of 
+practicality in a post-socialist martyr city // Area. 2016. Vol. 48. No.1. Pp. 92–102. 
+
+16. Gibbons W. “Critical of what?”: Past and current issues in critical human geography // History of 
+Intellectual Culture [Electronic]. Vol. 1. No.1. Pp. 1–16. URL: http://www.ucalgary.ca/hic/files/hic/ 
+gibbons_article_2001.pdf (дата обращения: 24.07.2017).  
+
+17. Hagen J. Theorizing scale in critical place-name studies // ACME: An International E-Journal for 
+Critical Geographies [Electronic]. 2011. Vol. 10. No. 1. Pp. 23–27. URL: http://www.acme-
+journal.org/index.php/acme/article/view/882/738 (дата обращения: 24.07.2017). 
+
+18. Johnson C., Balentine M. Politics in the Landscape: Reading Toponymy in Political Geography // 
+Proceeding of the 20th International Seminar on Sea Names, Gyeongju, Korea, October 2014. The Society 
+for East Sea: Seoul, 2014. Pp. 27–36. 
+
+19. Lave R., Wilson M. W., Barron E. S., Biermann C., Carey M. A., Duvall C.S., Johnson L., Lane K. M., 
+McClintock N., Munroe D., Pain R., Proctor J., Rhoads B. L., Robertson M. M., Rossi J., Sayre N. F., Simon 
+G., Tadaki M., Van Dyke C. Intervention: critical physical geography // The Canadian Geographer. 2014. 
+Vol. 58. No. 1. Pp. 1–10. 
+
+20. Lehr J.C., McGregor B. The politics of toponymy: Naming settlements, municipalities and school 
+districts in Canada’s Prairie provinces // Prairie Perspectives: Geographical Essays [Electronic]. 2016. 
+Vol. 18. Pp. 78–84. URL: http://pcag.uwinnipeg.ca/Prairie-Perspectives/PP-Vol18/Lehr-McGregor.pdf (дата 
+обращения: 24.07.2017). 
+
+21. Madden D. J.  Pushed off the map: toponymy and the politics of place in New York City // Urban 
+Studies. 2017. Vol. 54. URL: http://journals.sagepub.com/doi/abs/10.1177/0042098017700588 (дата 
+обращения: 24.07.2017).  
+
+22. Peake L., Sheppard E. The emergence of radical/critical geography within North America // ACME: 
+An International E-Journal for Critical Geographies [Electronic]. 2014. Vol. 13. No.2. Pp. 305–327. URL: 
+http://www.acme-journal.org/index.php/acme/article/view/1009/863 (дата обращения: 24.07.2017). 
+
+23. Rose-Redwood R., Alderman D., Azaryahu M. Geographies of toponymic inscription: new directions 
+in critical place-name studies // Progress in Human Geography. 2010. Vol. 34. No. 4. Pp. 453–470.  
+
+24. Rose-Redwood R.S. Rethinking the agenda of political toponymy // ACME: An International E-
+Journal for Critical Geographies [Electronic]. 2011. Vol. 10. No. 1. Pp. 34–41. URL: http://www.acme-
+journal.org/index.php/acme/article/view/884/740 (дата обращения 24.07.2017). 
+
+ 25. Rose-Redwood R. S., D. Alderman. Critical interventions in political toponymy// ACME: An 
+International E-Journal for Critical Geographies [Electronic]. 2011. Vol. 10. No. 1. Pp. 1–
+6. URL: http://www.acme-journal.org/index.php/acme/article/view/879/735 (дата обращения 24. 07. 2017). 
+
+26. Rose-Redwood R., Alderman D., Azaryahu M. The urban streetscape as political cosmos // The 
+political life of urban streetscapes: naming, politics and space / R. Rose-Redwood, D. Alderman, M. 
+Azaryahu (ed.) Abingdon, Oxon; New York, NY: Routledge, 2017. Pp. 1–24.  
+
+27. Rose-Redwood R., Alderman D., Azaryahu M. Contemporary issues and future horizons of critical 
+urban toponymy // The political life of urban streetscapes: naming, politics and space/ Ed. R. Rose-Redwood, 
+D. Alderman, M. Azaryahu (ed.) Abingdon, Oxon; New York, NY: Routledge, 2017. Pp. 309–319.  
+
+28. Tucker B., Rose-Redwood R. Decolonizing the map? Toponymic politics and the rescaling of the 
+Salish Sea // The Canadian Geographer. 2015. Vol. 59. No. 2. Pp. 194 – 206. 
+
+ 
+61 
+
+
+
+2018 Географический вестник 1(44) 
+
+Экономическая, социальная и политическая география 
+ 
+
+29. Vuolteenaho J., Berg L. D. Towards critical toponymies // Critical toponymies: the contested politics 
+of place naming/ L. Berg and J. Vuolteenaho (ed.)  Farnham, Surrey; Burlington, VT: Ashgate Publishing, 
+2009. Pp. 1–18.  
+
+30. Zelinsky W. Along the frontiers of name geography // Professional Geographer. 1997. Vol. 49. No. 4. 
+1997. Pp. 465–466. 
+
+ 
+References 
+
+1. Basik, S.N. (2008), Obschaya toponimika: posobie dlya studentov geograficheskogo fakulteta [General 
+toponymics: a textbook for undergraduate geography students], BGU, Minsk, 2008, 168 p. 
+
+2. Bocharnikov, V.N. (2017). “Geography general, ecological, human, information…Get social “order” 
+for nature! Summary. Part 2”, Astrakhanskiy vestnik ekologicheskogo obrazovaniya [Astrakhan Bulletin for 
+Environmental Education], no. 1, pp. 4–20. 
+
+3. Zhuchkevich, V.A. (1968), Obschaya toponimika [General toponymics], Vysheyshaya shkola, Minsk, 
+USSR.  432 p. 
+
+4. Kornev, I.N. (2014), “Geography and toponymics in the context of the humanitarian discourse”, 
+Geographical bulletin, no. 1, pp. 41–45. 
+
+5. Mitin, I.I. (2011), “Cultural geography in USSR and post-soviet Russia: a history of (re)construction 
+and the factors of originality”, International journal of cultural research [Electronic], no. 4, pp. 19–25, 
+available at: http://www.culturalresearch.ru/files/open_issues/04_2011/IJCR_04(5)_2011_Mitin.pdf 
+(accessed 28. 07. 2017).  
+
+6. Rogalev, A.F. (1996), “Ethnic and geographical place-names as a source of studying of ethnolinguistic 
+history (on material of Belarus)”, Abstract of D. Sc. dissertation, General linguistics, sociolinguistics, 
+psycholinguistics, Belarusian State University, Minsk, Belarus, 32 p. 
+
+7. Superanskaya, A.V. (1972), “Onomastics universals”, Vostochnoslavayanskaya onomastika [East-
+Slavic Onomatics], Nauka, Moscow, USSR, pp. 346–356. 
+
+8. Terentiev, Ye.A. (2016), “Theoretic and methodological conceptualization of the toponymic practices 
+(on the example of Moscow and Sankt-Petersburg)”, Abstract of Ph. D. dissertation, Theory, methodology 
+and history of sociology, National Research University Higher School of Economics, Moscow, Russia, 29 p. 
+
+9. Khanmagomedov, Kh.L. (2011), “The geographic directions of applied toponymics”, Vestnik 
+Udmurtskogo universiteta, [Bulletin of Udmurt University], Biology, Earth sciences, No. 4, pp. 123–131. 
+
+10. Alderman, D.H. and Inwood, J. (2013), “Street naming and the politics of belonging: spatial injustices 
+in the toponymic commemoration of Martin Luther King Jr”, Social & Cultural Geography, vol. 14, pp. 
+211–233.  
+
+11. Azaryahu, M. (1990), “Renaming the Past: Changes in” City Text” in Germany and Austria, 1945-
+1947”, History and Memory, vol. 2, no. 2, pp. 32–53.  
+
+12. Azaryahu, M. (2011), “The critical turn and beyond: the case of commemorative street naming”, 
+ACME: An International E-Journal for Critical Geographies [Electronic], vol. 10, no. 1, pp. 28–33, 
+available at: http://www.acme-journal.org/index.php/acme/article/view/883/739 (accessed 24 June 2017).  
+
+13. Berg, L.D. (2004), “Scaling knowledge: towards a critical geography of critical geographies”, 
+Geoforum, vol.  35, pp. 553–558. 
+
+14. Berg, L.D. (2010), “Critical human geography” in B. Wharf. (ed.) Encyclopedia of Geography, Sage 
+Publishers, Thousand oaks, CA, pp. 617–622. 
+
+15. Creţan, R. and Matthews, P. W. (2016), “Popular responses to city-text changes: street naming and the 
+politics of practicality in a post-socialist martyr city”, Area, vol. 48, no.1, pp. 92–102. 
+
+16. Gibbons, W. (2001), “Critical of what?”: Past and current issues in critical human geography”, 
+History of Intellectual Culture [Electronic], vol. 1, no.1, pp. 1–16, available at: 
+http://www.ucalgary.ca/hic/files/hic/gibbons_article_2001.pdf (accessed 24 June 2017).  
+
+17. Hagen, J. (2011), “Theorizing scale in critical place-name studies”, ACME: An International E-
+Journal for Critical Geographies [Electronic], vol. 10, no. 1, pp. 23–27, available at: http://www.acme-
+journal.org/index.php/acme/article/view/882/738  (accessed 24 June 2017). 
+
+18. Johnson, C. and Balentine, M. (2014), “Politics in the Landscape: Reading Toponymy in Political 
+Geography”, Proceeding of the 20th International Seminar on Sea Names, Gyeongju, Korea, October 2014, 
+The Society for East Sea, Seoul, pp. 27 – 36. 
+
+19. Lave, R., Wilson, M.W., Barron, E.S., Biermann, C., Carey, M.A., Duvall, C.S., Johnson, L., Lane, 
+K.M., McClintock, N., Munroe, D., Pain, R., Proctor, J., Rhoads, B. L., Robertson, M. M., Rossi, J., Sayre, 
+
+ 
+62 
+
+
+
+2018 Географический вестник 1(44) 
+
+Экономическая, социальная и политическая география 
+ 
+
+N. F., Simon, G., Tadaki, M. and Van Dyke C. (2014), “Intervention: critical physical geography”,  The 
+Canadian Geographer, vol. 58, no. 1, pp. 1–10. 
+
+20. Lehr, J.C. and McGregor, B. (2016), “The politics of toponymy: Naming settlements, municipalities 
+and school districts in Canada’s Prairie provinces”, Prairie Perspectives: Geographical Essays [Еlectronic], 
+vol. 18, pp. 78–84, available at http://pcag.uwinnipeg.ca/Prairie-Perspectives/PP-Vol18/Lehr-McGregor.pdf 
+(accessed 24 June 2017). 
+
+21. Madden, D. J. (2017), “Pushed off the map: toponymy and the politics of place in New York City”, 
+Urban Studies, vol. 54, available at:  http://journals.sagepub.com/doi/abs/10.1177/0042098017700588 
+(accessed 24 June 2017). 
+
+22. Peake, L. and Sheppard E. (2014), “The emergence of radical/critical geography within North 
+America”, ACME: An International E-Journal for Critical Geographies [Electronic], vol. 13, no. 2, pp. 305–
+327, available at: http://www.acme-journal.org/index.php/acme/article/view/1009/863 (accessed 24 June 
+2017). 
+
+23. Rose-Redwood, R., Alderman, D., and Azaryahu, M. (2010), “Geographies of toponymic inscription: 
+new directions in critical place-name studies”, Progress in Human Geography, vol. 34, no. 4, pp. 453–470.  
+
+24. Rose-Redwood, R.S. (2011), “Rethinking the agenda of political toponymy”, ACME: An 
+International E-Journal for Critical Geographies [Electronic], vol. 10, no. 1, pp. 34–41, available at: 
+http://www.acme-journal.org/index.php/acme/article/view/884/740 (accessed 24 June 2017).  
+
+ 25. Rose-Redwood, R.S. and Alderman, D (2011), “Critical interventions in political toponymy”, ACME: 
+An International E-Journal for Critical Geographies [Electronic], vol. 10, no. 1, pp. 1–6, available at: 
+http://www.acme-journal.org/index.php/acme/article/view/879/735 (accessed 24 June 2017).  
+
+26. Rose-Redwood, R., Alderman, D. and Azaryahu, M. (2017), “The urban streetscape as political 
+cosmos” in Rose-Redwood, R., Alderman, M. and Azaryahu, M. (ed.), The political life of urban 
+streetscapes: naming, politics and space, Routledge, Abingdon, Oxon, New York, NY, pp. 1–24.  
+
+27. Rose-Redwood, R., Alderman, D. and Azaryahu, M. (2017), “Contemporary issues and future 
+horizons of critical urban toponymy” in Rose-Redwood, R., Alderman, M. and Azaryahu, M. (ed.), The 
+political life of urban streetscapes: naming, politics and space, Routledge, Abingdon, Oxon, New York, NY, 
+pp. 309–319.  
+
+28. Tucker, B. and Rose-Redwood, R. (2015), “Decolonizing the map? Toponymic politics and the 
+rescaling of the Salish Sea”, The Canadian Geographer, vol. 59, no. 2, pp. 194–206. 
+
+29. Vuolteenaho, J. and Berg, L. D. (2009), “Towards critical toponymies” in Berg, L. and Vuolteenaho, 
+J. (ed.), Critical toponymies: the contested politics of place naming, Ashgate Publishing, Farnham, Surrey, 
+Burlington, VT, p. 1–18.  
+
+30. Zelinsky, W. (1997), “Along the frontiers of name geography”, Professional Geographer, vol. 49, no. 
+4, pp. 465–466. 
+
+Поступила в редакцию: 27.07.2017 
+ 
+
+Сведения об авторе About the author 
+ 
+Басик Сергей Николаевич  Sergei N. Basik 
+кандидат географических наук, Candidate of Geographical Sciences, 
+профессор школы свободных исследований, Professor, School of Liberal Studies, Conestoga 
+Конэстога Колледж, Китченер; College, Kitchener;  
+Канада, N2G4M4 г. Китченер,  299, Doon Valley Drive, Room 2A131, Kitchener, 
+ул. Дун Валли Драйв 299, к. 2А131 Ontario, N2G 4M4 Canada 
+
+е-mail: sbasik@conestogac.on.ca 
+  
+Просьба ссылаться на эту статью в русскоязычных источниках следующим образом: 
+Басик С.Н. Критическая топонимика как направление географических исследований: проблемы и 
+перспективы // Географический вестник = Geographical bulletin. 2018. №1(44). С.56–63. doi 
+10.17072/2079-7877-2018-1-56-63 
+Please cite this article in English as: 
+Basik S.N. Critical toponymics as a direction of geographic research: problems and perspectives // 
+Geographical bulletin. 2018. №1(44). P. 56–63. doi 10.17072/2079-7877-2018-1-56-63 
+
+ 
+63

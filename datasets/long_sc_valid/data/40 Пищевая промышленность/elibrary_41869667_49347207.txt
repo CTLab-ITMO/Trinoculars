@@ -1,0 +1,536 @@
+﻿СЫРЬЕ И ДОБАВКИ
+УДК: 633. 14.324:004:12 doi: https://doi.org/10.36107/spfp.2019.185
+
+Особенности реологических свойств 
+теста из ржаной муки и смесей на ее 
+
+основе
+
+Кулеватова Татьяна Борисовна
+ФГБНУ «Научно-исследовательский институт сельского хозяйства Юго-Востока»
+
+Адрес: 410000, город Саратов, ул. Тулайкова, д. 7
+E-mail: Rogozhkina2008@yandex.ru
+
+Андреева Любовь Владимировна
+ФГБНУ «Научно-исследовательский институт сельского хозяйства Юго-Востока»
+
+Адрес: 410000, город Саратов, ул. Тулайкова, д. 7
+E-mail: l.v.andreeva_75@mail.ru
+
+Тугуш Асия Рафаильевна
+ФГБОУ ВО «Саратовский государственный аграрный университет имени Н.И. Вавилова»
+
+Адрес: 410003, город Саратов, Театральная пл., д .1
+E-mail: sadigova.madina@yandex.ru
+
+Садыгова Мадина Карипулловна
+ФГБОУ ВО «Саратовский государственный аграрный университет имени Н.И. Вавилова»
+
+Адрес: 410003, город Саратов, Театральная пл., д .1
+E-mail: sadigova.madina@yandex.ru
+
+Целью настоящей работы являлось комплексное изучение реологических характеристик теста и водных 
+суспензий на основе образцов муки ржаной обдирной; образцов муки, полученной из сортов белозерной ржи 
+Памяти Бамбышева и Солнышко, и композитных смесей с морковным порошком на их основе, так как известно, 
+что физические свойства изучаемых систем предопределяют качество готовой продукции. «Число падения» 
+определяли методом Хагберта-Пертена. Изучение реологических свойств водных суспензий проводили на 
+приборе «Вискограф» немецкой фирмы «Brabender». Реологические свойства ржаного теста и на основе смесей 
+с морковным порошком исследовали в протоколе Chopin+ прибора Миксолаб. Данные, полученные в ходе 
+работы Миксолаба, отражаются в профайлере – диаграмме с шестью осями, каждая из которых соответствует 
+определенному параметру качества.
+Полученные результаты исследования указывают на то, что в смесях с овощным (морковным) порошком, 
+по сравнению с чистым компонентом, увеличивается влажность и «число падения» в среднем на 15%. Тесто 
+становится менее расплывчатым и липким по сравнению с контролем (ржаной мукой), то есть структура 
+оптимальна для получения конечного продукта. Изучение реологических свойств водных суспензий в режиме 
+ротации показало, что дозировка овощного порошка повышает максимальную вязкость системы во всех 
+вариантах эксперимента в среднем на 290 единиц вискографа, что составляет примерно 35%; также были 
+установлены показатели соответствующих систем (мука ржаная обдирная и мука ржаная обдирная + морковный 
+порошок; мука из белозерного сорта озимой ржи Памяти Бамбышева и мука из белозерного сорта озимой ржи 
+Памяти Бамбышева + морковный порошок; мука из белозерной ржи сорта Солнышко и Солнышко + морковный 
+порошок).
+
+Ключевые слова: рожь; мука; тесто; реологические свойства; морковный порошок; качество зерна; комозитная 
+смесь
+
+Введение различным. Оно является выражением того, в 
+какой степени тот или иной продукт отвечает 
+цели, для которой он предназначен. Качество 
+
+Понятие о качестве зерна в зависимости от зерна – совокупность технолого-биохимических, 
+направления его использования может быть хлебопекарных и пищевых свойств, которая опре-
+
+ХИПС №4 - 2019
+118
+
+
+
+СЫРЬЕ И ДОБАВКИ
+
+деляет хозяйственную ценность сорта зерновой Как известно, для ржаной муки показатель «число 
+культуры (Мелешкина, 2017, с. 5-11). Качество не падения» является одним из самых значимых, 
+может быть выражено в показателях одного свой- он описывается ГОСТом ISO 3093-2016 Зерно и 
+ства, а зависит от целой совокупности признаков, продукты его переработки. Определение числа 
+определяющих физические и структурно-ме- падения методом Хагберга-Пертена. По количе-
+ханические, мукомольные и хлебопекарные ственной выраженности данного признака судят 
+достоинства (Злобина, 1997; Гунькин, 2011, с. об автолитической активности того или иного 
+52-53; Сайфуллин, 2014, с. 19-22; Шаймерденова, образца ржи, которая напрямую связана с хлебо-
+2017, с. 205-208). пекарными достоинствами муки (Кулеватова, 
+
+2016, с. 49; Дремучева, 2016, с. 16-19; Аникиенко, 
+В свете теории здорового питания и в связи с 2019, с. 30-31). Полученные результаты (Таблица 
+увеличивающимся интересом к использованию в 1) указывают на то, что в смесях с овощным 
+рецептурах продуктов новых видов растительного (морковным) порошком, по сравнению с чистым 
+сырья является перспективным использование компонентом, увеличивается влажность и, что 
+овощного (морковного) порошка в различных особенно интересно, число падения, в среднем 
+пищевых системах (Балуян, 2017, с. 30-34; Поно- на 15%. В связи с этим можно предположить, 
+марева, 2011, с. 54-57; Shishkina, 2019, p. 303-311). что тесто из смесей будет менее расплывчатым 
+
+и липким по сравнению с контролем (ржаной 
+Известно, что реологические свойства теста мукой), то есть структура будет оптимальной для 
+предопределяют качество готовой продукции получения конечного продукта. Пробная выпечка 
+(Нуждина, 2016, с. 35-37; Гайсина, 2016, с. 96-100; показала, что наилучшим считается смесь состава: 
+Магомедов, 2009, с. 48-49; Мударисов, 2018, с. мука из белозерной ржи сорта Солнышко + 
+55-61; Туляков, 2017, с. 174-180; Туляков, 2017, овощной порошок из моркови.
+с. 20-23; Тертычная, 2018, с. 189), в связи с этим 
+целью настоящей работы явилось комплексное Изучение реологических свойств водных 
+изучение реологических свойств теста и водных суспензий на основе ржаной муки и компо-
+суспензий на основе образцов муки ржаной зитных систем на ее основе проводили на приборе 
+обдирной; образцов муки, полученной из сортов «Вискограф» немецкой фирмы «Brabender». 
+белозерной ржи Памяти Бамбышева и Солнышко, Реограммы в протоколе «амилограф» представ-
+и композитных смесей с морковным порошком лены на Рисунках 1-3.
+на их основе.
+
+В данном протоколе вязкость определяется 
+при ротации, скорость перемешивания состав-
+
+Результаты и их обсуждение ляет 76 оборотов в минуту при планомерном 
+повышении температуры (1,5°С в минуту). 
+Напомним, что анализ реологических свойств 
+
+Исследования проводились в учебной лаборатории ржаных суспензий при ротации является одним 
+по хлебопекарному, кондитерскому производству из главных косвенных методов, которые дают 
+кафедры «Технологии продуктов питания» Сара- информацию о хлебопекарных достоинствах 
+товского ГАУ им. Н.И. Вавилова и в лаборатории изучаемой системы (Бебякин, 2008, с. 29-32). 
+качества зерна ФГБНУ «НИИСХ Юго-Востока». Установлено, что дозировка овощного порошка 
+
+повышает максимальную вязкость системы во 
+Таблица 1
+Показатели качества ржаной муки и смесей на ее основе
+№ 
+п/п Состав исследуемого образца или смеси Число падения, сек Влажность, %
+
+1. Мука ржаная обдирная 229 9,9
+2. Мука ржаная обдирная + морковный порошок 285 10,4
+3. Мука из белозерного сорта озимой ржи Памяти Бамбышева 220 9,9
+
+4. Мука из белозерного сорта озимой ржи Памяти Бамбышева + морковный 
+порошок 259 10,4
+
+5. Мука из белозерной ржи сорта Солнышко 210 10,1
+6. Мука из белозерной ржи сорта Солнышко +морковный порошок 341 10,4
+
+ХИПС №4 - 2019
+119
+
+
+
+СЫРЬЕ И ДОБАВКИ
+
+(а) (б)
+Рисунок 1. Реограммы водных суспензий на основе ржаной муки (обдирной) (а) и смеси на ее основе 
+с овощным (морковным) порошком (б).
+
+(а) (б)
+Рисунок 2. Реограммы водных суспензий на основе ржаной муки сорта Памяти Бамбышева (а) и смеси 
+на ее основе с овощным (морковным) порошком (б).
+
+(а) (б)
+Рисунок 3. Реограммы водных суспензий на основе ржаной муки сорта Солнышко (а) и смеси на ее 
+основе с овощным (морковным) порошком (б).
+
+ХИПС №4 - 2019
+120
+
+
+
+СЫРЬЕ И ДОБАВКИ
+
+всех вариантах эксперимента в среднем на 290 2008, с. 86-95). Профайлеры изучаемых образцов 
+единиц вискографа, что составляет примерно представлены на Рисунках 7-9, индексы в Таблице 
+35%. Причем на начальном этапе, сразу после 2.
+получения суспензии, наблюдаем «загустевание» 
+системы. Все вискограммы имели типичную для Известно, что увлажнение муки влияет на весь 
+ржаной муки форму кривой. процесс выпечки и особенно на физико-меха-
+
+нические свойства теста (Леонова, 2011, с. 48). 
+Данные изучения реологических свойств ржаного При чрезмерном увлажнении муки взаимодей-
+теста и на основе смесей с морковным порошком ствие между протеиновыми соединениями и 
+в протоколе Chopin+ прибора Миксолаб представ- крахмалом уменьшается. В целом, увеличение 
+лены в Таблице 2 и на Рисунках 4-6. водопоглощения муки (ВПС) приводит к лучшей 
+
+желатинизации, увеличению удельного объема 
+Из представленных графиков следует, что только и мягкости мякиша, а также меньшему загусте-
+тесто из ржаной обдирной муки и тесто из смеси ванию крахмала. Самое высокое значение этого 
+ее с морковным порошком не удалось оценить параметра зафиксировано в смеси муки ржаной 
+в полном протоколе эксперимента, так как при обдирной и овощного порошка из моркови, что 
+повышении температуры существенно измени- благоприятно с точки зрения экономии сырья, при 
+лась его структура, вследствие чего дальнейший этом повышается выход теста при наименьших 
+анализ при лопастном замесе стал проблема- затратах (Дюба, 2008, с. 86-95).
+тичен. Остальные изучаемые системы имели 
+типичную для ржаного теста форму. Индекс замешивания зависит от поведения теста 
+
+во время замешивания, а особенно от показа-
+Анализ данных (Таблица 2) показывает, что добав- теля «стабильность теста». Чем выше индекс, тем 
+ление морковного порошка положительно влияет устойчивее тесто во время замеса. Во время нагре-
+на такие показатели, как время образования теста вания теста в интервале от 30°С до 60°С крахмал 
+и его стабильность, которые напрямую связаны начинает набухать, в то же время сохраняется 
+с хлебопекарным качеством. По показателю С2 его молекулярная структура. Идет снижение 
+положительная динамика наблюдалась только консистенции теста. Высокое значение данного 
+у системы мука ржаная обдирная + морковный параметра означает лучшую устойчивость проте-
+порошок. иновой структуры. Такому тесту присуща большая 
+
+эластичность.
+Данные, полученные в ходе работы Миксолаба, 
+отражаются в профайлере (диаграмма с шестью В фазу охлаждения, снижения температуры от 
+осями, каждая из которых соответствует опреде- 90°C до 50°C, крахмал резко стремится вернуться к 
+ленному параметру качества), где каждая фаза первоначальному виду. Этот показатель напрямую 
+графика оценивается по шкале от 0 до 9 (Дюба, связан со способностью конечного продукта 
+
+Таблица 2
+Показатели качества ржаной муки и смесей на ее основе
+
+Показатель качества
+№ Состав исследуемого образца Время Стабиль- Индекс по 
+п/п или смеси ВПС, % образования ность теста, С2, н*м С5, профайлеру
+
+теста, мин мин н*м
+
+1. Мука ржаная обдирная 72,9 1,35 1,53 0,41 - 9-17-000
+
+2. Мука ржаная обдирная + 
+морковный порошок 70,1 1,70 2,67 0,46 - 9-17-040
+
+3. Мука из белозерного сорта 
+озимой ржи Памяти Бамбышева 64,5 0,95 1,35 0,42 2,60 8-07-277
+
+Мука из белозерного сорта 
+4. озимой ржи Памяти Бамбышева 63,7 1,27 1,90 0,41 1,72 8-17-163
+
++ морковный порошок
+
+5. Мука из белозерной ржи сорта 
+Солнышко 60,9 0,72 0,67 0,41 3,43 7-07-468
+
+6. Мука из белозерной ржи сорта 
+Солнышко +морковный порошок 60,4 1,08 1,70 0,41 1,72 7-17-063
+
+ХИПС №4 - 2019
+121
+
+
+
+СЫРЬЕ И ДОБАВКИ
+
+(а) (а*)
+Рисунок 4 . Миксолабограммы теста из муки ржаной обдирной (а) и смеси ее с морковным порошком 
+(а*).
+
+(б) (б*)
+Рисунок 5. Миксолабограммы теста из муки ржаной (белозерный сорт Памяти Бамбышева (б)) и ее 
+смеси с овощным (морковным) порошком (б*).
+
+(с) (с*)
+Рисунок 6. Миксолабограммы теста из муки ржаной (белозерный сорт Солнышко (с)) и ее смеси с 
+овощным (морковным) порошком (с*).
+
+ХИПС №4 - 2019
+122
+
+
+
+СЫРЬЕ И ДОБАВКИ
+
+(а) (а*)
+Рисунок 7 . Профайлеры теста на основе ржаной муки (обдирной) (а) и смеси ее с овощным (морковным) 
+порошком (а*).
+
+(б) (б*)
+Рисунок 8. Профайлеры теста на основе ржаной муки сорта Памяти Бамбышева (б) и смеси ее с 
+овощным (морковным) порошком (б*).
+
+(в) (в*)
+Рисунок 9. Профайлеры теста на основе ржаной муки сорта Солнышко (в) и смеси ее с овощным 
+(морковным) порошком (в*).
+
+ХИПС №4 - 2019
+123
+
+
+
+СЫРЬЕ И ДОБАВКИ
+
+противостоять черствению и сохранять товарный Дюба А., Рысев К. Современный ме-
+вид. На фазе охлаждения во всех образцах с тод контроля качества зерна и муки по 
+дозировкой овощного порошка наблюдается реологическим свойствам теста, определяемым 
+уменьшение показателя индекса загустевания с помощью миксолаб профайлер // Управление 
+крахмала. реологическими свойствами пищевых про-
+
+дуктов: материалы I Научно-практической 
+По результатам исследований можно сделать конференции и выставки с международным 
+следующие выводы: участием. М.: МГУПП, 2008. С. 86-95.
+• изучение 7 показателей качества ржаной муки Злобина Л.Н. Адаптивность и комбинационная 
+
+и смесей на ее основе с морковным порошком ценность сортов яровой твердой пшеницы по 
+позволяет сделать вывод о положительном качеству зерна: автореф. дисс. на соиск. ученой 
+влиянии добавки практически на все изуча- степ. канд. с.-х. наук: 06.01.05 – селекция и се-
+емые признаки; меноводство. Саратов, 1997. 22с.
+
+• по времени образования и стабильности выде- Кулеватова Т.Б., Кайргалиев Д.В., Андреева Л.В., 
+ляется смесь состава: мука из белозерной ржи Ермолаева Т.Я., Злобина Л.Н., Нуждина Н.Н. 
+сорта Солнышко + овощной порошок из моркови, Качество зерна озимой ржи. Саратов: ООО 
+что с большой долей вероятности благоприятно “РАКУРС”, 2016. 50 с.
+повлияет на качество готовой продукции; Леонова С.А. Развитие системы оценки и форми-
+
+• теоретически и экспериментально дока- рования технологических свойств пшеницы от 
+зана целесообразность применения муки из селекции до товарного производства и перера-
+зерна белозерной ржи в технологии изготов- ботки: дисс. … д.т.н. М., 2011. 48 с. 
+ления кондитерских изделий с добавлением Магомедов Г.О., Пономарева Е.И., Алейник И.А. 
+продуктов переработки овощей, в частности Реологические характеристики сбивного без-
+морковного порошка. дрожжевого теста из цельносмолотого зерна 
+
+пшеницы // Хлебопродукты. 2009. № 1. С. 48-49.
+Мелешкина Е.П. Современные требования к 
+
+Литература качеству зерна и муки из пшеницы и их стан-
+дартизация // Современные методы, средства 
+и нормативы в области оценки качества зерна 
+
+Аникиенко Т.И. Международные органические и зернопродуктов: Сборник материалов 14-й 
+стандарты DEMETER на хлебозаводах Германии Всероссийской научно-практической конфе-
+// Хлебопродукты. 2019. № 7. С. 30-31. ренции. Анапа: КФ ФГБНУ ”ВНИИЗ”, 2017. С. 
+
+Балуян Х.А., Мартиросян В.В., Малкина В.Д., 5-11.
+Жиркова Е.В. Влияние обогащенного экструда- Мударисов Ф.А., Садыгова М.К., Костин В.И. 
+та кукурузы на реологические свойства мякиша Оценка влияния агротехнических приемов воз-
+хлеба // Хлебопечение России. 2017. № 4. С. 30- делывания озимой пшеницы на качество муки 
+34. на основании реологического профиля теста // 
+
+Бебякин В.М., Кулеватова Т.Б., Великанова Н.М. Вестник Мичуринского ГАУ. 2018. № 2. С. 55-61.
+Корреляционно-факторный анализ пока- Пономарева Е.И., Шторх Л.В. Влияние обогатите-
+зателей состояния углеводно-амилазного лей на реологические свойства теста из муки 
+комплекса и хлебопекарных качеств озимой цельносмолотого зерна пшеницы // Известия 
+ржи // Хранение и переработка сельхозсырья. вузов. Пищевые технологии. 2011. № 5-6. С. 54-
+2008. № 12. С. 29-32. 57.
+
+Гайсина В.А., Козубаева Л.А., Кузьмина С.С. Нуждина Н.Н., Ермолаева Т.Я., Кулеватова Т.Б., 
+Особенности реологических свойств теста с Андреева Л.В., Злобина Л.Н. Результаты из-
+подсолнечной и кедровой мукой // Вестник учения качества зерна сортов озимой ржи // 
+Воронежского ГУИТ. 2016. Том. 78. № 1. С. 96- Аграрный Вестник Юго-Востока. 2016. № 3. С. 
+100. 35-37.
+
+Гунькин В., Суслянок Г. Основные показате- Сайфуллин Р.Г., Маркелов А.Н., Бекетова 
+ли мукомольных свойств зерна пшеницы // Г.А., Ермакова Е.М. Итоги и перспективы 
+Хлебопродукты. 2011. № 2. С. 52- 53. адаптивной селекции яровой мягкой и ози-
+
+Дремучева Г.Ф., Карчевская О.Е., Киндра Н.А., мой пшеницы в условиях засухи в Нижнем 
+Смирнова С.А. Хлебопекарные свойства пше- Поволжье (К 90-летию со дня рождения Л.Г. 
+ничной и ржаной муки из зерна урожая Ильиной) // Аграрный вестник Юго-Востока. 
+2014-2015 гг. // Хлебопечение России. 2016. № 2014. № 1-2. С. 19-22.
+4. С. 16-19.
+
+ХИПС №4 - 2019
+124
+
+
+
+СЫРЬЕ И ДОБАВКИ
+
+Тертычная Т.Н., Манжесов В.И. Современные Шаймерденова Д.А. Влияние факторов на форми-
+технологии хлебопекарного производ- рование технологического потенциала зерна 
+ства: учебное пособие. Воронеж: ФГБОУ ВО мягкой пшеницы // Вестник Воронежского го-
+Воронежский ГАУ, 2018. 189 с. сударственного университета инженерных 
+
+Туляков Д.Г., Мелешкина Е.П., Витол Е.С., Туляков технологий. 2017. № 1(71). С. 205-208.
+Д.Г.. Реологические свойства разных видов Shishkina A.N., Sadygova M.K, Shishkina A.N., 
+муки и композиционных смесей // Вестник Belova M.V., Astashov A.N., Ivanova Z.I. [Use of 
+Алтайского государственного аграрного уни- secondary raw material of animal products in the 
+верситета. 2017. № 7(153). С. 174-180. technology of production of bakery products based 
+
+Туляков Д.Г., Мелешкина Е.П., Витол И.С., on wheat amaranth mixture]. Scientific Study & 
+Панкратов Г.Н., Кандроков Р.Х. Оценка муки Research Chemistry & Chemical Engineering, 
+из зерна тритикале на основе реологических Biotechnology, Food Industry, 2019, no. 20(2), pp. 
+свойств с использованием системы Миксолаб // 303-311.
+Хранение и переработка сельхозсырья. 2017. № 
+1. С. 20-23.
+
+ХИПС №4 - 2019
+125
+
+
+
+СЫРЬЕ И ДОБАВКИ
+ doi: https://doi.org/10.36107/spfp.2019.185
+
+Features of Rheological Properties of Rye 
+Dough Flour and Mixtures Based on It
+
+Tatiana B. Kulevatova
+Agricultural Research Institute of South-East Region
+
+7 Tulaykova str., Saratov, 410000, Russian Federation
+E-mail: Rogozhkina2008@yandex.ru
+
+Lubov V. Adreeva
+Agricultural Research Institute of South-East Region
+
+7 Tulaykova str., Saratov, 410000, Russian Federation
+E-mail: l.v.andreeva_75@mail.ru
+
+Asiya R. Tugush
+Saratov State Vavilov Agrarian University
+
+1 Teatralnaya sqr., Saratov, 410003, Russian Federation
+E-mail: sadigova.madina@yandex.ru
+
+Madina K. Sadygova
+Saratov State Vavilov Agrarian University
+
+1 Teatralnaya sqr., Saratov, 410003, Russian Federation
+E-mail: sadigova.madina@yandex.ru
+
+The purpose of the current paper was a comprehensive study of the rheological characteristics of the dough and water 
+suspensions based on samples of rye flours; samples of flour obtained from the varieties of white rye bambyshev and 
+Sunny Memory, and composite mixtures with carrot powder on their basis, as it is known that the physical properties 
+of the studied systems determine the quality of the finished product. “The falling number” was determined by the 
+method of Herbert of Partena. The study of the rheological properties of water suspensions was carried out on the 
+device “Viscograph” of the German company “Brabender”. Rheological properties of rye dough and mixtures with 
+carrot powder were investigated in the Protocol Chopin + device Mixolab. The data obtained during the work of the 
+Mixolab is reflected in the Profiler-a diagram with six axes, each of which corresponds to a certain quality parameter.
+The results of the study indicate that in mixtures with vegetable (carrot) powder, in comparison with the pure component, 
+the humidity and the “number of drops” increase by an average of 15%. The dough becomes less blurry and sticky 
+compared to the control (rye flour), that is, the structure is optimal for obtaining the final product. The study of the 
+rheological properties of water suspensions in the rotation mode showed that the dosage of vegetable powder increases 
+the maximum viscosity of the system in all versions of the experiment by an average of 290 units of viscograph, which 
+is about 35%; also installed the performance of the corresponding systems (peeled rye flour and peeled rye flour + 
+carrot powder; flour belozernoe varieties of winter rye Memory Babicheva and flour from belozernoe varieties of 
+winter rye Memory Babicheva + carrot powder; flour of rye belozernoe varieties of Honey and Honey + carrot powder).
+
+Keywords: rye; flour; dough; rheological properties; carrot powder; grain quality; lumpy mixture
+
+References Baluyan Kh.A., Martirosyan V.V., Malkina V.D., 
+Zhirkova E.V. Vliyaniye obogashchennogo 
+ekstrudata kukuruzy na reologicheskiye svoystva 
+
+Anikiyenko T.I. Mezhdunarodnyye organicheskiye myakisha khleba [Influence of enriched corn 
+standarty DEMETER na khlebozavodakh Germanii extrudate on rheological properties of bread 
+[DEMETER international organic standards at crumb]. Khlebopecheniye Rossii [Breadmaking in 
+German bakeries]. Khleboprodukty [Вreadрroducts], Russia], 2017, no. 4, pp. 30-34.
+2019, no. 7, pp. 30-31. Bebyakin V.M., Kulevatova T.B., Velikanova N.M. 
+
+Korrelyatsionno-faktornyy analiz pokazateley 
+
+ХИПС №4 - 2019
+126
+
+
+
+СЫРЬЕ И ДОБАВКИ
+
+sostoyaniya uglevodno-amilaznogo kompleksa properties of wheat from breeding to commodity 
+i khlebopekarnykh kachestv ozimoy rzhi production and processing. Dr. Sci. (Technology) 
+[Correlation and factor analysis of some indicators thesis]. Moscow, 2011. 48 p.
+of the carbohydrate-amylase complex state Magomedov G.O., Ponomareva E.I., Aleynik I.A. 
+and baking qualities of winter rye]. Khraneniye i Reologicheskiye kharakteristiki sbivnogo 
+pererabotka selkhozsyria [Storage and processing of bezdrozhzhevogo testa iz tselnosmolotogo zerna 
+food production], 2004, no. 12, pp. 29–32. pshenitsy [Rheological characteristics of whipped 
+
+Gaysina V.A., Kozubayeva L.A., Kuzmina S.S. yeast-free dough from whole-wheat grain]. 
+Osobennosti reologicheskikh svoystv testa s Khleboprodukty [Breadproducts], 2009, no. 1, pp. 
+podsolnechnoy i kedrovoy mukoy [Features of 48-49.
+rheological properties of dough with sunflower Meleshkina E.P. Sovremennyye trebovaniya k 
+and cedar flour]. Vestnik Voronezhskogo GUIT kachestvu zerna i muki iz pshenitsy i ikh 
+[Bulletin of Voronezh GUIT], 2016, vol. 78, no. 1, pp. standartizatsiya [Modern requirements to 
+96-100. quality of grain and flour from wheat and their 
+
+Gunkin V., Suslyanok G. Osnovnyye pokazateli standardization]. In Sovremennyye metody. 
+mukomolnykh svoystv zerna pshenitsy [Main sredstva i normativy v oblasti otsenki kachestva 
+indicators of milling properties of wheat grain]. zerna i zernoproduktov: Sbornik materialov 14-y 
+Khleboprodukty [Breadproducts], 2011, no. 2, pp. Vserossiyskoy nauchno-prakticheskoy konferentsii 
+52- 53. [Modern methods, means and standards in the field 
+
+Dremucheva G.F., Karchevskaya O.E., Kindra of quality assessment of grain and grain products: 
+N.A., Smirnova S.A. Khlebopekarnyye svoystva Collection of materials of the 14th all-Russian 
+pshenichnoy i rzhanoy muki iz zerna urozhaya scientific and practical conference]. Anapa: KF 
+2014-2015 gg. [Baking properties of wheat FGBNU “VNIIZ”, 2017. P. 5-11.
+and rye flour from grain harvest 2014-2015]. Mudarisov F.A., Sadygova M.K., Kostin V.I. Otsenka 
+Khlebopecheniye Rossii [Bakery in Russia], 2016, no. vliyaniya agrotekhnicheskikh priyemov 
+4, pp. 16-19. vozdelyvaniya ozimoy pshenitsy na kachestvo 
+
+Duba A., Rysev К. Sovremennyy metod kontrolya muki na osnovanii reologicheskogo profilya testa 
+kachestva zerna i muki po reologicheskim [Assessment of the influence of agrotechnical 
+svoystvam testa, opredelyayemym s pomoshchyu methods of cultivation of winter wheat on the 
+Mixolab profiler [Modern method for controlling quality of flour on the basis of the rheological 
+the grain and flour quality by the rheological profile of the test]. Vestnik Michurinskogo GAU 
+properties of dough, evaluated with a Mixolab [Bulletin of Michurinsky GAU], 2018, no. 2, pp. 55-
+profiler]. In Upravleniye reologicheskimi 61.
+svoystvami pishchevykh produktov: materialy I Ponomareva E.I., Shtorkh L.V. Vliyaniye obogatiteley 
+Nauchno-prakticheskoy konferentsii i vystavki s na reologicheskiye svoystva testa iz muki 
+mezhdunarodnym uchastiyem [Management of tselnosmolotogo zerna pshenitsy [Influence of 
+the rheological properties of food products: Proc. concentrations on rheological properties of whole 
+of Ist Sci-Pract. Conference and Exhibition with wheat flour dough]. Izvestiya vuzov. Pishchevyye 
+international participation]. Moscow: MGUPP, 2008. tekhnologii [News of universities. Food technolody], 
+P. 86–95. 2011, no. 5-6, pp. 54-57.
+
+Zlobina L.N. Adaptivnost i kombinatsionnaya Nuzhdina N.N., Yermolayeva T.Ya., Kulevatova T.B, 
+tsennost sortov yarovoy tverdoy pshenitsy Andreyeva L.V., Zlobina L.N. Rezultaty izucheniya 
+po kachestvu zerna. Avtoref. diss. kand. kachestva zerna sortov ozimoy rzhi [Results of 
+selskohozyajstvennyh nauk [Adaptability and the grain quality study of winter rye varieties]. 
+combination value of spring durum wheat Agrarnyy Vestnik Yugo-Vostoka [Agrarian Bulletin of 
+varieties by grain quality. Abstract of Ph.D. the South-East], 2016. no. 1–2, pp. 35–37.
+(Agrosciences) thesis]. Saratov, 1997. 22 p. Sayfullin R.G., Markelov A.N., Beketova G.A., 
+
+Kulevatova T.B., Kayrgaliev D.V., Andreyeva L.V., Ermakova E.M. Itogi i perspektivy adaptivnoy 
+Yermolayeva T.Ya., Zlobina L.N., Nuzhdina N.N. selektsii yarovoy myagkoy i ozimoy pshenitsy 
+Kachestvo zerna ozimoy rzhi [Grain quality of v usloviyakh zasukhi v Nizhnem Povolzhye (K 
+winter rye]. Saratov: OOO “RAKURS”, 2016. 49 p. 90-letiyu so dnya rozhdeniya L.G. Ilinoy) [Results 
+
+Leonova S.A. Razvitiye sistemy otsenki i and prospects of adaptive breeding of spring soft 
+formirovaniya tekhnologicheskikh svoystv and winter wheat in drought conditions in the 
+pshenitsy ot selektsii do tovarnogo proizvodstva i Lower Volga region (To the 90th anniversary of 
+pererabotki. Diss. dokt. techn. nauk [Developing of the birth of L.G. Ilyina)]. Agrarnyy Vestnik Yugo-
+cut-off systems and the formation of technological 
+
+ХИПС №4 - 2019
+127
+
+
+
+СЫРЬЕ И ДОБАВКИ
+
+Vostoka [Agrarian Bulletin of the South-East], 2014, rheological properties with the use of Mikrolab]. 
+no. 1-2, pp. 19-22. Khraneniye i pererabotka selkhozsyria [Storage and 
+
+Tertychnaya T.N., Manzhesov V.I. Sovremennyye processing of food production], 2017, no. 1, pp. 20-
+tekhnologii khlebopekarnogo proizvodstva 23.
+[Modern technologies of bakery production]. Shaymerdenova D.A. Vliyaniye faktorov na 
+Voronezh: FGBOU VO Voronezhskiy GAU, 2018. formirovaniye tekhnologicheskogo potentsiala 
+189 p. zerna myagkoy pshenitsy [Influence of factors on 
+
+Tulyakov D.G., Meleshkina E.P., Vitol E.S., Tulyakov formation of technological potential of soft wheat 
+D.G.. Reologicheskiye svoystva raznykh vidov grain]. Vestnik Voronezhskogo gosudarstvennogo 
+muki i kompozitsionnykh smesey [Rheological universiteta inzhenernykh tekhnologi [Bulletin 
+properties of different types of flour and of Voronezh state university of engineering 
+composite mixtures]. Vestnik Altayskogo technologies], 2017, no. 1(71), pp. 205-208.
+gosudarstvennogo agrarnogo universiteta [Bulletin of Shishkina A.N., Sadygova M.K, Shishkina A.N., Belova 
+the Altai state agrarian university], 2017, no. 7(153), M.V., Astashov A.N., Ivanova Z.I. [Use of secondary 
+pp. 174-180. raw material of animal products in the technology 
+
+Tulyakov D.G., Meleshkina E.P., Vitol I.S., Pankratov of production of bakery products based on wheat 
+G.N., Kandrokov R.Kh. Otsenka muki iz zerna amaranth mixture]. Scientific Study & Research 
+tritikale na osnove reologicheskikh svoystv s Chemistry & Chemical Engineering, Biotechnology, 
+ispolzovaniyem sistemy Miksolab [Evaluation Food Industry, 2019, no. 20(2), pp. 303-311.
+of flour from grain triticale on the basis of the 
+
+ХИПС №4 - 2019
+128

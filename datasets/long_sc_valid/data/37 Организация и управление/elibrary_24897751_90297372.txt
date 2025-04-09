@@ -1,0 +1,673 @@
+﻿46 Труд l Кадры l Образование
+
+HR-сегментация в условиях 
+чешского рынка труда
+
+СТРИТЕЦКИЙ Вацлав
+Кандидат экономических наук 
+и управления, доцент кафедры 
+маркетинга Аннотация
+
+Университет экономики в Праге В статье исследуется отношение населения к трудоустройству на чешском рынке труда. Анали-
+
+130 67, Чешская Республика, г. Прага, зируются возможности сегментации чешского рынка труда. Данные, используемые в статье, предо-
+ставлены агентством Median, одним из известных исследовательских агентств в области целевого 
+
+пл. У. Черчилля, 4 маркетинга, в рамках проекта агентства MML–TGI (Market & Media & Lifestyle – TGI). В первой ча-
+Тел.: +420 224-098-703 сти статьи исследована удовлетворенность чехов осуществляемой деятельностью и оплатой труда, 
+E-mail: vaclav.stritesky@vse.cz а также преобладающее отношение к работе и лояльность компании. Во второй части выделены сег-
+
+менты чешского рынка труда в соответствии со значимостью определенных аспектов трудовой деятель-
+ности; дана характеристика этих сегментов. В маркетинге существуют разные подходы к сегментации, 
+однако в управлении человеческими ресурсами главным образом применяется психографическая 
+и поведенческая сегментация. Психографическая сегментация концентрирует внимание на психоло-
+гических и личностных характеристиках, взглядах и ценностях индивидуумов в выбранных демографи-
+ческих группах. Обе концепции должным образом отражены в статье.
+
+Результаты проведенного исследования позволяют по-новому взглянуть на вопросы подбора, 
+мотивации и удержания сотрудников, а также могут служить основой применения HR-маркетинга 
+в комплексном виде в организациях, присутствующих на чешском рынке труда.
+
+нию человеческого капитала на внешнем 
+СТРИТЕЦКИЙ Марек Концепция HR-сегментации при-
+
+надлежит к числу малоисследо- и внутреннем рынке труда организации. 
+Кандидат экономических наук ванных, а кроме того, в управленческой Это осуществляется для более эффек-
+и управления, доцент кафедры практике ей уделяется недостаточно тивного нацеливания на конкретные 
+управления персоналом внимания. С другой стороны, в реаль- сегменты, оказывая, таким образом, по-
+Университет экономики в Праге ности она встречается довольно часто – ложительное влияние на эффективность 
+130 67, Чешская Республика, г. Прага, в том, что касается типов квалификации на кадровой системы фирмы, и должно быть 
+пл. У. Черчилля, 4 рынках труда, где наблюдается отчетли- достигнуто через процедуры, дополнен-
+ Тел.: +420 224-098-611 вое превышение предложения над спро- ные в соответствии с характеристиками 
+ E-mail: marek.stritesky@vse.cz сом. В  этом смысле следует упомянуть конкретных сегментов [9]. Научные под-
+
+взаимосвязь маркетинговых подходов с ходы, подразумевающие определенную 
+областью человеческих ресурсов, в кото- сегментацию сотрудников, не могут счи-
+рой существует необходимость вырабо- таться революционной идеей в области 
+тать подход к заполнению вакансий и ста- человеческих ресурсов, поскольку они 
+билизировать трудовые ресурсы иным уже применялись, и в гораздо большем 
+способом. Этот процесс должен характе- объеме, для обучения и развития сотруд-
+ризоваться продуманной маркетинговой ников, а также при управлении таланта-
+стратегией, созданием бренда и контро- ми в организации (см., например, [1; 2; 
+лем над комплексной эффективностью 6; 7]). Эти методы также использовались 
+всех смежных процессов в пределах ор- в управлении оплатой труда [3]. Однако 
+
+КУИГЛИ Мартин Джон Дэвид ганизации [4; 5; 8; 10]. Для достижения все вышеупомянутые процедуры отно-
+Магистратура по европейскому праву, такого уровня контроля над процесса- сились в первую очередь к внутренней 
+доцент кафедры управления персоналом ми, в особенности в области управления среде организации, а также в целом к со-
+
+человеческими ресурсами, мы должны трудникам, трудоустроенным компанией 
+Университет экономики в Праге четко понимать природу факторов, опре- в данный момент. В данной работе акцент 
+130 67, Чешская Республика, г. Прага, деляющих поведение работников и вы- сделан на эффективном управлении про-
+пл. У. Черчилля, 4 ходящих на первый план в процессе их цессами в конкретной области, а  также 
+Тел.: +420 224-098-310 участия в экономической деятельности на анализе соответствующих факторов, 
+E-mail: martin.quigley@vse.cz организации. Для этого, в свою очередь, применяемых непосредственно для це-
+
+необходим обзор характерных действий лей внутренней сегментации. Некоторые 
+конкретных работников. Концепция мар- научные исследования только делали 
+кетинга, касающаяся удовлетворенности попытку обратиться к вопросу сегмента-
+работой и мотивации, представляет со- ции с точки зрения маркетинга. Эти ис-
+
+JEL classification
+бой усилия по определению взаимосвя- следования рассматривали сегментацию 
+
+M31, M51, M54 занных групп факторов и сегментирова- рынка труда с намерением использовать 
+
+УПРАВЛЕНЕЦ № 5/57/ 2015
+
+
+
+Labour l Cadres l Education 47
+
+HR Segmentation in Conditions  
+Pertaining on the Czech Labour Market Václav STŘÍTESKÝ
+
+PhD in Economics and Management, 
+Associate Professor of Marketing Dept.
+
+University of Economics, Prague
+130 67, Czech Republic, Prague, 
+W. Churchill Sq., 4
+Phone: +420 224-098-703
+
+Abstract E-mail: vaclav.stritesky@vse.cz
+The paper deals with consumer attitudes and perceptions of working life on the Czech labour market, 
+
+and analyses the possibilities for the segmentation of the Czech labour market. The research is based on an 
+analysis of the data supplied by the MML-TGI Median agency. This data source is highly regarded in target 
+marketing. In the first part, the research focuses on the satisfaction of Czech people with their jobs, and Marek STŘÍTESKÝ
+remuneration, as well as the identification of prevailing attitudes to work and employee loyalty. The next sec- PhD in Economics and Management, 
+tion identifies the segments of the Czech labour market according to the perceived importance of selected Associate Professor of 
+aspects of working life. These segments are further characterized. Segmentation can be seen in marketing HR Management Dept. 
+from different perspectives. In the field of human resources, segmentation is applicable primarily as psycho-
+graphic and behavioural. Psychographic segmentation focuses on psychological or personality character- University of Economics, Prague
+istics, attitudes and values of individuals in selected demographic groups. Both concepts are adequately 130 67, Czech Republic, Prague, 
+reflected in this study. W. Churchill Sq., 4
+
+The research results provide a new perspective on the issues of employee recruitment, motivation and Phone: +420 224-098-611
+retention, which may be the real basis for the application of HR marketing in its complexity in organizations E-mail: marek.stritesky@vse.cz 
+operating on the Czech labour market.
+
+Martin John David QUIGLEY
+
+The concept of Human Resources tive affect on the efficiency of the firm‘s HR LLM in European Law, Associate  
+
+segmentation belongs to the less system. This is to be achieved via the pro- Professor of HR Management Dept. 
+
+emphasised in managerial practice, as cedures amended in accordance with the University of Economics, Prague
+well as to the less scientifically examined, characteristics of individual segments of 130 67, Czech Republic, Prague, 
+phenomena. Yet it is even more frequently workers [9]. Approaches supporting a cer- W. Churchill Sq., 4
+reflected in practice in relation to qualifica- tain segmentation of employees are not Phone: +420 224-098-310
+tion types in the labour market, where there considered a revolutionary idea in the hu- E-mail: martin.quigley@vse.cz
+is a distinct excess of supply over demand. man resource field. They have already been 
+In this sense, it is necessary to mention the practiced to a large extent in the area of 
+interconnection of marketing approaches employee learning & development and tal-
+to the field of human resources when there ent management within the organization 
+is a need to approach the filling of vacant (see [1; 2; 6; 7]). These methods have also Ключевые слова
+positions, and to stabilize labour forces in been used in remuneration management МОТИВАЦИЯ
+another way. This must be characterized by [3]. However, all the above-mentioned pro-
+a well-thought marketing strategy, brand cedures point towards the internal environ- HR-СЕГМЕНТАЦИЯ
+
+creation and control over the complex ef- ment of the organization first and foremost, УДОВЛЕТВОРЁННОСТЬ РАБОТОЙ
+ficiency of all related processes within the and so generally towards the company’s ПЕРИОД ТРУДОВОЙ ДЕЯТЕЛЬНОСТИ
+organization [4; 5; 8; 10]. In order to achieve current workforce. Here, the emphasis is on ЧЕШСКИЙ РЫНОК ТРУДА
+such control over the processes, predomi- the efficient management of processes in a 
+nantly in the area of human resources single area, as well as on the relevant fac-
+management, we must have an explicit tors applied specifically for the purpose of 
+idea of the nature of the factors determin- the internal segmentation. Certain studies Keywords
+
+ing labour force behaviour, which comes merely approach the issue of segmentation MOTIVATION
+to the fore while the workers are engaged more from the point of view of marketing. HR SEGMENTATION
+in the economic activity of the organiza- These studies approach labour market seg-
+tion. To do this, it is necessary to observe mentation with the aim of exploiting the JOB SATISFACTION
+
+the characteristic actions of the individual cognate characteristics of recognized seg- WORKING LIFE
+employees. This marketing concept issue of ments for purposes of HR Marketing in both CZECH LABOUR MARKET
+work satisfaction and motivation is part of its internal and external aspects [9]. 
+the effort to identify related groups of key The aim of this article is to identify the 
+factors, and to segment the human capital possibilities for the segmentation of the 
+on the internal and external labour market Czech labour market, to define the known 
+of the organization. This is done with a view segments and on the basis of the data 
+to targeting the individual segments more gained, the article aims to more closely JEL classification
+efficiently, and thus to bring about a posi- identify and formulate their description M31, M51, M54
+
+UPRAVLENETS № 5/57/ 2015
+
+
+
+48 Труд l Кадры l Образование
+
+Гарантия постоянной работы
+Выполнение работы, которая приносит конкретные результаты
+
+Наличие работы, которая приносит удовлетворение и чувство самореализации
+Возможность зарабатывать как можно больше денег
+
+Возможность делать что-то полезное
+Наличие права организовывать что-то самому или быть независимым
+
+Возможность использовать мое образование
+Выполнение творческих и разнообразных заданий
+
+Наличие возможности карьерного роста
+Наличие свободы в распоряжении рабочим временем
+
+Возможность  заниматься интересным интеллектуальным трудом
+Наличие работы, которая дает мне много свободного времени
+
+Выполнение работы, которую мне кто-то объясняет
+Наличие работы, на которой никто ничего не требует
+
+0 10 20 30 40 50 60 70
+Рис. 1. Важность конкретных аспектов работы/трудоустройства (Для меня важно …), %
+
+Источник: данные проекта MML – TGI, 2012 г., N = 8 686.
+
+схожие характеристики распознанных коммуникаций (более 400 средств массо- вергнутом анализу в очерченном круге 
+сегментов в целях HR-маркетинга как во вой информации), а  кроме того, респон- населения (целевой группе). В исследова-
+внутреннем, так и во внешнем аспекте [9]. денты отвечали на вопросы об образе нии также проводилась проверка одно-
+
+В настоящей статье авторы ставят жизни. родности двух независимых выборок.
+цель выявить возможности сегменти- Таким образом, использовались за- Для выявления основных аспектов 
+рования чешского рынка труда, устано- служивающие доверия источники ин- привлекательности трудоустройства при-
+вить границы обозначенных сегментов, формации в области целевого маркетин- менялся факторный анализ. В качестве ос-
+а также на основе полученных данных га, рекламы и медиапланирования. Для новного компонента факторного анализа 
+предложить более подробное описание целей настоящего исследования авторам использовалась процедура вращения 
+сегментов с выделением их поведенче- были предоставлены данные за 2012  г. факторов методом «варимакса» (varimax 
+ских признаков. Другая, более узкая цель Данные анализировались с помощью rotation). Количество факторов отбира-
+статьи в том, чтобы проанализировать программы Data Analyser (version 4.70d). лось в соответствии с критерием Кайзера 
+декларируемую позицию работников Поскольку исследование было на- (критерий собственных чисел). Получив-
+(представителей чешского рынка труда) правлено на изучение отношения к тру- шиеся факторы в дальнейшем вводились 
+и на основе результатов анализа уста- довой деятельности и трудоустройству, как переменные в общий анализ, что по-
+новить факторы, влияющие на удовлет- рассматривалось только работающее могло разделить работающее население 
+воренность работой отдельных групп население. Иными словами, исследо- Чешской Республики на базовые, рамоч-
+сотрудников. Эти группы сформированы вание было направлено на тех респон- ные сегменты в соответствии с предпола-
+на основе демографических критериев и дентов, которые либо трудоустроены в гаемой важностью выбранных характери-
+принадлежности к разным секторам эко- компаниях, либо являются самозаняты- стик занятости и труда.
+номики. Для достижения указанных це- ми в собственном бизнесе. В  целом, оно НАИБОЛЕЕ ВАЖНЫЕ АСПЕКТЫ 
+лей используется статистический анализ коснулось группы из 8  686 респонден- ТРУДА И ЗАНЯТОСТИ
+полученных данных, а  также факторный тов, представляющих 4,69  млн жителей В исследование было включено зна-
+и общий анализ. Чешской Республики. Данные в основ- чительное количество утверждений для 
+
+МЕТОДЫ ИССЛЕДОВАНИЯ ном представлены в колоночном виде с выяснения восприятия самых разных 
+Основу исследования составляет про- указанием процентных пунктов. В  неко- аспектов работы. В общей сложности 
+
+ект Market & Media & Lifestyle – TGI компа- торых случаях применяется индекс соот- речь шла о 14 утверждениях.  На рис. 1 
+нии Median. Проект представляет собой ветствия для ориентировочной оценки показаны проанализированные аспек-
+масштабное регулярно проводящееся связи между двумя изменяемыми состо- ты трудовой деятельности в порядке 
+исследование, в котором панель по- яниями (значения меньше 100 – ниже убывания их значимости для респон-
+требителей состоит из примерно 15 000 среднего; значения выше 100 – выше дентов.
+случайно выбранных респондентов в среднего в данной категории по отноше- Для чехов самым важным аспектом 
+возрасте от 12 до 79 лет (методом стра- нию к общей совокупности). Статистиче- работы является гарантия занятости 
+тифицированной выборки). Метод сбора ская значимость различий была доказана (70,1%), затем работа, приносящая кон-
+данных – комбинация индивидуальных выборочно для некоторых изменений с кретные результаты (65,0%), и работа, 
+интервью и письменного анкетирования. помощью проверки равенства средних приносящая удовлетворение и чувство 
+В  исследовании рассматривалось пове- значений. В  частности, это касается про- наполненности жизни (64,5%). Напро-
+дение в сфере потребления (более 300 верок независимых выборок. Средние тив, к наименее важным респонденты 
+видов продуктов и услуг и более 3 000 значения в этом случае дают относитель- отнесли наличие работы, на которой от 
+брендов), поведение в сфере массовых но полное представление о явлении, под- людей не ожидают много (20,4%), а также 
+
+УПРАВЛЕНЕЦ № 5/57/ 2015
+
+
+
+Labour l Cadres l Education 49
+
+Security of a constant job
+To do work which brings concrete results
+
+To have a job which brings satisfactory and fullment
+To earn the most money possible
+
+To do something useful
+To have the power to orginize things alone and independently
+
+Use my education
+To do creative and varied tasks
+
+To have the possibility to grow in my career
+To have free working time
+
+To do interesting intellectual activities
+To have such a job as gives me a lot of free time
+
+Prefer to do smth which someone explains to me
+To have a job where nobody asks anything of you
+
+0 10 20 30 40 50 60 70 80
+
+Fig. 1. Perceived Importance of Selected Aspects of Work/Employment (It is Important for me…, %)
+Source: Taken from the data of MML – TGI, 2012, N = 8 686.
+
+and behavioural attributes. The smaller aim and employment, the analysis was limited IMPORTANT ASPECTS OF WORK 
+is to analyse the declared position of Czech only to the working population. Specifically, AND EMPLOYMENT
+employees (participants in the Czech la- it was aimed at those respondents who are Into the research was included a lot of 
+bour market) and on the basis of this analy- either employees or self employed business statements for finding out the perceptions 
+sis, define the factors influencing the job people. Overall, it concerns a group of 8,686 of various aspects of work. In total it con-
+satisfaction of individual groups of employ- respondents, representing 4.69 million in- cerned 14 statements. Fig. 1 clearly shows 
+ees. These groups are divided according to habitants of the CR. The data are, basically, the examined aspects of work according to 
+demographic criteria and branches of the presented with the help of column percent- their perceived importance.
+economy. These aims are met with the help age points. In some cases, the affinity index For Czechs the most important aspect 
+of statistical analysis of the data gained, is used for the orientation evaluation of is certainty of employment (70.1%), then 
+then by factor and overall analysis. the connection between two changeable work which brings concrete results (65.0%), 
+
+states (values lower than 100 mean below and work which brings satisfaction and 
+RESEARCH METHODS
+The research is based on the analysis average appearance of phenomena; values feelings of fulfilment (64.5%). On the con-
+
+greater than 100 mean above average ap- trary, the least important thing is to have 
+of the research project Market & Media & 
+Lifestyle – TGI. The research was carried out pearance of phenomena in the given cat- work where not much is expected from 
+
+egory as opposed to the overall group). The people (20.4%); doing activities which has 
+by the Median company. It is an extensive 
+continuous research which was done using statistical significance of the differences either explained to them or assigned to 
+
+was proven for selected changes with the them (25.2%) and to have work where one 
+a panel of consumers, consisting of about 
+15,000 randomly chosen respondents in help of the equilibrium of medium values has a lot of free time (37.0%). 
+
+test. Specifically it concerns tests for inde- Men and women differ in their percep-
+the 12–79 age group. The stratified random 
+choice method was used. The data collec- pendent selections. The medium values tions of what is important. For men, the fol-
+
+here represented the relative plenitude of lowing are the most important:
+tion method is a combination of personal 
+and written questions. The research fol- the phenomena examined in the defined 1. Certainty of a constant job (68,3%).
+
+population (target group). The homogene- 2. To do work which brings concrete re-
+lowed consumption behaviour (over 300 
+types of products and services, and more ity binomial division test was used. sults (65,0%).
+
+than 3,000 individual brands), media be- For identifying the main aspects of 3. To earn the most money possible 
+
+haviour (over 400 types of media) and life- the attractiveness of employment, factor (64,6%).
+
+style respondents. analysis was used. As its main component 4. To have work which brings me sat-
+it has the setting Varimax rotation method. isfaction and the feeling of life fulfilment 
+
+This used highly acceptable sources of 
+information in the area of targeted market- The number of factors was set according (62,5 %).
+
+ing, advertising and media planning. For to their own number (the so called Kaiser 5. The power to organise things alone 
+rule). The resulting factors further entered, and to be independent (61,3%).
+
+the purposes of this research, the research 
+project workers were supplied with data for as variables, the overall analysis, which Women’s declared ranking of impor-
+
+helped to reveal the framework segments tance of the aspects of working life are in a 
+2012. The data were analysed with the aid 
+of the programme Data Analyser (version of the working population of the CR, ac- different order. Here are the top five:
+
+cording to the perceived importance of the 1. Security of a constant job (72,7%).
+4.70d). 
+
+Because the research was aimed at the chosen characteristics of the employment 2. To have a job which brings me sat-
+and work. isfaction and the feeling of life fulfilment 
+
+positions and perceptions of working life (67,2 %).
+
+UPRAVLENETS № 5/57/ 2015
+
+
+
+50 Труд l Кадры l Образование
+
+Главные компоненты по результатам вращения по методу «варимакс» 1 мени» (108,0); «выполнение интересной 
+и интеллектуальной работы» (107,1); «вы-
+
+Компонента Фактор 1 Фактор 2 Фактор 3 Фактор 4 полнение полезной и социально важной 
+Занятие интересной интеллектуальной 
+деятельностью 0,822 –0,128   работы» (104,9) и «работа, приносящая 
+
+удовлетворение и чувство самореализа-
+Выполнение творческих и разнообраз-
+ных задач 0,753  0,103  ции» (104,2). Женщины придают намного 
+
+большее значение гарантии постоянной 
+Возможность карьерного роста 0,585 0,196  0,220 работы (103,6); использованию своего об-
+Возможность использования  
+полученного образования 0,542 0,307  –0,131 разования в работе (101,3) и свободе рас-
+
+поряжаться рабочим временем (101,1).
+Возможность организовывать что-то 
+самому и быть независимым 0,452 0,340  –0,159 Для выявления общих групп по вос-
+
+приятию отдельных аспектов работы 
+Возможность зарабатывать как можно 
+больше  0,711  0,112 был проведен более глубокий фактор-
+
+ный анализ, который позволил авто-
+Гарантия постоянной работы  0,675  0,161 рам сузить количество анализируемых 
+Выполнение работы, приносящей  факторов с  14 до 4 основных. В таблице 
+конкретные результаты 0,290 0,617  –0,193 представлены результаты вращения фак-
+Выполнение полезной и значимой торной матрицы по методу «варимакс».
+работы 0,370 0,612  –0,172 По результатам вращения основных 
+Наличие работы, приносящей удовлетво- компонент предложена следующая ин-
+рение и чувство самореализации 0,283 0,548 0,309 –0,227 терпретация выделенных факторов:
+Наличие работы, которая дает много 1 – самореализация (аспекты работы, 
+свободного времени   0,847 0,155 которые помогают самореализовыва ться);
+Наличие свободы в распоряжении  2 – полезность (аспекты трудовой де-
+рабочим временем 0,191  0,779  ятельности, которые что-то приносят лю-
+Выполнение работы, которую мне  дям, деньги или результаты, либо чувство 
+объяснили или обязали сделать    0,805 уверенности, удовлетворения и чувство, 
+Выполнение работы, на которой от меня что они живут полной жизнью);
+много не требуют  –0,113 0,287 0,727 3 – свободное время (аспекты трудо-
+
+устройства, касающиеся гибкого графика 
+1 Факторы с нагрузкой менее 0,1 не показаны. работы и достаточного количества сво-
+Источник: составлено авторами с использованием данных MML – TGI, 2012 г., N = 8 686. бодного времени);
+
+4 – нетребовательный характер рабо-
+выполнение заданий, которые кто-то им 4) выполнение полезной работы ты (аспекты трудовой деятельности, свя-
+объяснил или возложил на них, и работу (62,9%); занные с низким или полным отсутствием 
+с большим количеством свободного вре- 5) возможность зарабатывать как требований к работнику, пассивное по-
+мени (37,0%). можно больше денег (59,9%). ведение).
+
+Ответы мужчин и женщин различают- Данное сравнение сделано на основе Полученные в результате вращения 
+ся. Для мужчин наиболее важны следую- совокупных ответов мужчин и женщин. четыре фактора, таким образом, вклю-
+щие аспекты: Если говорить о принципиальных раз- чают важные для чехов характеристики 
+
+1) гарантия постоянной работы личиях в восприятии важности тех или трудоустройства. В связи с этим возни-
+(68,3%); иных аспектов трудоустройства, то для кает вопрос, какой профиль работника 
+
+2) выполнение работы, которая при- того, чтобы показать типично мужское наиболее типичен для Чехии, и можем ли 
+носит конкретные результаты (65,0%); или типично женское отношение, лучше мы на основе этих переменных сегмен-
+
+3) возможность зарабатывать как обратиться к индексу соответствия. тировать чешский рынок труда. Принци-
+можно больше денег (64,6%); В случае мужчин самые высокие ин- пиальным ответом на этот вопрос послу-
+
+4) наличие работы, которая приносит дексы соответствия для аспектов «ра- жили результаты проведенного анализа, 
+удовлетворение и чувство самореализа- бота, на которой никто ничего (многого) в котором переменными стали вышеупо-
+ции (62,5%); не требует» (105,8); «зарабатывать как мянутые факторы. Мы смогли идентифи-
+
+5) наличие права организовывать что- можно больше» (103,1) и «возможность цировать 4 сегмента работников:
+то самому или быть независимым (61,3%). организовывать что-то самому и быть не- 1) деньги и гарантия работы;
+
+Женщины ранжировали аспекты тру- зависимым» (101,6). На грани находится 2) мотивированные;
+довой деятельности по степени важности аспект «необходимость продвижения и 3) мечтатели;
+в другом порядке, среди пяти получив- построения карьеры» (101,6). В отноше- 4) «выгоревшие».
+ших наиболее высокий ранг: нии женщин можно сказать, что они более На рис. 2 изображены полученные 
+
+1) гарантия постоянной работы решительны в плане своих потребностей сегменты работающего населения Чеш-
+(72,7%); на работе, поскольку значения индексов ской Республики. Рынок труда в целом 
+
+2) наличие работы, которая приносит соответствия в их случае в целом выше. поделен примерно на равные сегменты, 
+удовлетворение и чувство самореализа- В отличие от мужчин, для женщин важны однако количество «мотивированных» 
+ции (67,2%); аспекты «выполнение работы, которую и работников, для которых важны деньги 
+
+3) выполнение работы, которая при- объяснили или возложили» (112,2); «ра- и гарантированное трудоустройство, все 
+носит конкретные результаты (64,9%); бота, которая дает много свободного вре- же больше. 
+
+УПРАВЛЕНЕЦ № 5/57/ 2015
+
+
+
+Labour l Cadres l Education 51
+
+Rotated Factor Nuts (Varimax method) 1 istics, which Czechs perceive as important. 
+This begs the question of which profile of 
+
+Variable Factor 1 Factor 2 Factor 3 Factor 4 the workers is typical of the Czech Repub-
+To do interesting intellectual activities 0,822 –0,128   lic; whether we can, on the basis of these 
+To do creative and varied tasks 0,753  0,103  variables, segment the Czech labour mar-
+To have the possibility to grow in one’s ket. The framework answer to this question 
+career 0,585 0,196  0,220 is provided by the results of the analysis 
+To use one’s education 0,542 0,307  –0,131 which was carried out. The rising variables 
+To have the power to organise things one- were the above mentioned factors. With 
+self and to be independent 0,452 0,340  –0,159 the help of the analysis, we could reveal 
+To earn the most money  0,711  0,112 4  segments of workers. According to the 
+
+discovered profiles, the following titles for 
+Security of a constant job  0,675  0,161
+
+the segments were chosen:
+It is important to do work which brings 
+concrete results 0,290 0,617  –0,193 1. Money and security.
+
+2. The motivated.
+To do useful and contributory work 0,370 0,612  –0,172 3. The dreamers.
+To have a job which brings me satisfaction 
+and the feeling of life’s fulfilment 0,283 0,548 0,309 –0,227 4. The burnt out.
+
+Fig. 2 shows the individual segments of 
+To have such a job which gives me a lot of 
+free time   0,847 0,155 the Czech working population (in %). The 
+
+segments here on display are fairly even 
+To have free working time 0,191  0,779  with the greatest difference seen in the 
+Rather to do something which someone 
+explained to me or assigned to me    0,805 segments “the motivated” and “money and 
+
+security”
+To have a job in which nobody asks too 
+much of me  –0,113 0,287 0,727 From the point of view of perceived im-
+
+portance of selected aspects of work and 
+1 Factor burden less than 0.1 are hidden. employment, these segments fairly unam-
+Source: Authors, MML – TGI, 2012, N = 8 686. biguously profile themselves. There now 
+
+follows a brief characteristic of the revealed 
+3. To have a job which brings concrete a job which brings satisfaction and the feel- segments.
+
+results (64,9%). ing of life fulfilment (affinity index 104.2). The segment “money and security” is 
+4. To do a job which is useful (62,9%). Again, unlike for the men, for women it is made up of roughly a quarter of workers. 
+5. To earn the most money possible also more important to have the security of Unlike the others they are more convinced 
+
+(59,9%). a constant job (affinity index 103.6); to use that it is most important to earn as much 
+The abovementioned comparison their education (affinity index 101.3) and money as possible (affinity index 136.6)and 
+
+comes from the agreeing answers of men to have free working time (affinity index to have the security of a constant job (affin-
+and women. If we are talking about the 101.1). ity index 124.0). On the contrary, they are not 
+greatest differences in perceived impor- For the identification of common interested at all in the chance to do creative 
+tance of employment aspects, a good groups of perceived aspects of work, fur- and varied activities (affinity index 279.4), 
+number on the affinity index can serve to ther factor analysis was carried out, which or contributory and useful activities (147.0). 
+show the typical male and typical female helped us to narrow the number of 14 ex- They are not interested in career and promo-
+attitudes, which are always the least found amined variables down to 4 common fac- tion (affinity index 203.6). They approach 
+among the second gender. tors. The Table illustrates the rotated factor employment purely as a means to live, with-
+
+In the case of men, they score highest nuts (Varimax method). out greater ambitions for self-realisation. For 
+on the affinity index where it is important On the basis of the rotated factoral nuts them it is not important to use their educa-
+to have a job where nobody wants much (see Table 1), we offer the following inter- tion at work (affinity index 207.0). This is ac-
+from you (affinity index 105.8); to earn the pretation of the factors gained: counted for by the fact that they are usually 
+most money possible (affinity index 103.1) Factor 1 – Self-realisation (aspects of people with a low level of education.
+and having the power to organise things work which help people with self-reali- The segment “Motivated“ is rising rela-
+alone and to be independent (affinity index sation). tively high (31.7). These people have high 
+103.0). On the fringes it is still necessary to Factor 2 – Utility (aspects of work which expectations from their employment. More 
+put promotion and career building (affin- bring people something, whether money than money, they are interested in the char-
+ity index 101.6). We can find with women or results, or the feelings of certainty, satis- acter of the work itself, which should en-
+more decided needs at work with higher faction and life’s fulfilment). able them to self-realisation. To a greater 
+values on the affinity indices. Unlike men, Factor 3 – Free time (aspects of employ- degree they are anxious to do interesting 
+for women is is much more important to do ment concerning flexible working time and intellectual work (affinity index 159.3); to be 
+rather a job which someone has explained sufficient free time). independent at work (affinity index 145.4); 
+to them, or assigned to them (affinity index Factor 4 – Non-demanding nature of to do creative and varied work (affinity in-
+112.2); to have such work as gives them a the job (aspects of employment which are dex 153.9) and also to do useful contributo-
+lot of free time (affinity index 108.0); to do connected with low, or no, demands on the ry work (affinity index 147.0). They want to 
+interesting intellectual work (affinity index worker, and passivity). use their education at work (affinity index 
+107.1); to do useful and socially contribut- The resulting factors, therefore, include 149.8). They do not want to do work which 
+ing work (affinity index 104.9) and to have the main areas of employment character- was assigned to them or which someone 
+
+UPRAVLENETS № 5/57/ 2015
+
+
+
+52 Труд l Кадры l Образование
+
+«Выгоревшие» бы выполнять работу, которая приносит 
+20,6% Деньги и гарантия работы удовлетворение и чувство самореализа-
+
+25,3% ции (346,9), или работать над полезными 
+и значимыми заданиями (294,4). В сущно-
+сти, они не хотят выполнять работу, при-
+носящую конкретные результаты (индекс 
+соответствия 276,8). Эти люди никогда не 
+ждали много от работы. Сегмент преиму-
+
+Мечтатели щественно состоит из людей со средним 
+22,4% образованием, часто не получивших ат-
+
+Мотивированные тестата.
+31,7%
+
+ЗАКЛЮЧЕНИЕ
+Рис. 2. Сегментация работающего населения Чешской Республики Результаты исследования, проводив-
+
+Источник: составлено авторами с использованием данных MML – TGI, 2012 г., N = 8 686. шегося с целью изучения отношения че-
+хов к работе и трудоустройству, говорят 
+
+С точки зрения восприятия важно- нять работу, которую на них возложили о том, что работа для чехов очень важна. 
+сти отдельных аспектов работы и тру- или предписали, как ее выполнять (ин- Большая часть исследования была по-
+доустройства, названия этих сегментов декс соответствия 195,1). Представители священа выявлению ключевых стиму-
+достаточно однозначно говорят сами за данного сегмента отрицательно относят- лов, мотиваторов; тех аспектов, которые 
+себя. Тем не менее представим их крат- ся к работе, где от них не требуется мно- считаются участниками чешского рынка 
+кую характеристику. гого (индекс соответствия 191,5). В этом труда наиболее значимой частью их тру-
+
+К сегменту «деньги и гарантия рабо- сегменте много людей с университетским доустройства. В целом к ним относятся 
+ты» относится примерно четверть работ- образованием. гарантия постоянной занатости, за этим 
+ников. Они больше других работающих Сегмент, получивший название «меч- следует работа, приносящая конкретные 
+убеждены в важности получения как татели», – это 22,4% работников. У «меч- результаты, а также удовлетворение и 
+можно большего вознаграждения (индекс тателей» довольно высокие ожидания чувство самореализации. К самым важ-
+соответствия 136,6) и гарантированной относительно полезности и принципов, ным аспектам также принадлежит воз-
+постоянной занятости (индекс соответ- связанных с трудоустройством, однако можность много зарабатывать. На основе 
+ствия 124,0). В отличие от представителей в отношении работы они не проявляют факторного анализа были выявлены че-
+других сегментов, они совсем не заин- абсолютно никакого энтузиазма. Для тыре главных мотивирующих фактора для 
+тересованы в возможности заниматься мечтателя идеальна работа, на которой участников чешского рынка труда: воз-
+творческой и разнообразной деятельно- никто не ожидает многого от него/нее можность самореализации, полезность, 
+стью (индекс соответствия 279,4) или по- (индекс соответствия 250,1); работа, кото- свободное время и легкость работы.
+лезной и значимой работой (индекс соот- рую объяснили и обязали сделать (265,0) Полученные мотиваторы были в 
+ветствия 147,0). Их не интересует карьера и на которой много свободного времени дальнейшем использованы в качестве 
+и продвижение по карьерной лестнице (168,0). С другой стороны, они жаждут переменных для сегментации занятых 
+(индекс соответствия 203,6). Они подходят карьерного роста и продвижения по на чешском рынке труда. С помощью ин-
+к трудоустройству только с точки зрения службе (индекс соответствия 171,9), инте- клюзивного анализа были идентифици-
+средств для жизни без каких-либо често- ресной интеллектуальной деятельности рованы четыре сегмента работающего 
+любивых стремлений к самореализации. (159,4), хотят использовать полученное населения, отличающихся друг от друга 
+Для них не важно, используется ли полу- образование в работе (134,5) и получать отношением к работе и трудоустройству. 
+ченное образование в работе (индекс со- максимальное вознаграждение (134,0). Профили выделенных сегментов дают 
+ответствия 207,0). Это объясняется и тем Совершенно не удивительно, что боль- возможность иначе взглянуть на рабо-
+фактом, что, как правило, это люди с низ- шей частью этот сегмент представлен тающее население Чехии, исследование 
+ким уровнем образования. молодыми людьми в самом начале своей которого в перспективе продолжится. 
+
+Сегмент «мотивированные» представ- карьеры и в основном людьми со сред- Научные подходы, использованные в ис-
+ляет собой довольно большую группу ним образованием. следовании, могут оказаться ценными 
+людей (31,7%). Они много ждут от свое- Сегмент, названный «выгоревшие», и применяться в области человеческих 
+го трудоустройства. Больше, чем оплата – наименьшая группа среди работающе- ресурсов, а также в маркетинге – для объ-
+труда, их интересует характер работы, го населения, составляющая одну пятую единения двух дисциплин в одну – «Мар-
+который должен способствовать их само- всех занятых. Характерным для этого кетинг человеческих ресурсов». 
+реализации. В еще большей степени их сегмента является то, что для людей, 
+волнует возможность выполнять инте- входящих в него, многие факторы не яв-
+ресную интеллектуальную работу (индекс ляются решающими и у них нет никакого 
+соответствия 159,3); быть независимым отношения к этим факторам. Скорее, они 
+на работе (145,4); выполнять творческую относятся к ним безразлично. Типичной 
+и разнообразную работу (153,9), а также характеристикой этой группы является 
+полезную и значимую работу (147,0). Они то, что они не считают значимым гаран-
+хотели бы, чтобы их образование можно тированное трудоустройство (индекс 
+было применить в  работе (индекс соот- соответствия 319,5). Они совершенно 
+ветствия 149,8). Они не хотели бы выпол- не ощущают необходимости в том, что-
+
+УПРАВЛЕНЕЦ № 5/57/ 2015
+
+
+
+Labour l Cadres l Education 53
+
+The burnt out Источники/References
+20,6% Money and security 1. Beck W. Employers’ views of learning and 
+
+25,3% training for an ageing workforce. Management 
+Learning, 2014, no. 45(2), pp. 200–215. DOI: 
+10.1177/1350507612468421.
+
+2. Boudreau J.W., Ramstad P.M. Talentship, 
+Talent Segmentation, and Sustainability: A New 
+HR Decision Science Paradigm for a New Strategy 
+
+The dreamers Definition. Human Resource Management, 2005, 
+22,4% no. 44(2), pp. 129–136. DOI: 10.1002/hrm.20054.
+
+The motivated 3. Durham G., Charman C. All Together Now? 
+31,7% Strategic Segmentation in Talent and Reward. 
+
+Strategic HR Review, 2012, no. 11(4), pp. 211–216. 
+4. Dvořáková Z., Langhamrová J. Population 
+
+Fig. 2. Representing the revealed segments in the Czech working population Aging and Its Human Resource Management 
+Source: Authors, MML – TGI, 2012, N = 8 686. Consequences. In 7th International Days of Statis-
+
+tics and Economics. Slaný, Melandrium, 2013.
+explained to them (affinity index 195.1). CONCLUSION 5. Chimhanzi J., Morgan R. Explanations from 
+They have a negative attitude to work The results of the research, which was the marketing/human resources dyad for mar-
+
+carried out with the aim of examining the keting strategy implementation effectiveness 
+where nobody wants much from them (af- in service firms. Journal of Business Research, 
+finity index 191.5). The segment has a lot of Czech attitude to work and employment, 2006, no. 58(6), pp. 787–796. DOI: 10.1016/j.jbus-
+university educated people. show that for Czechs, work is very impor- res.2003.11.003.
+
+The segment called “Dreamers“ consists tant.  A large part of the research was de- 6. Legnerová K., Fučíková J. Management Di-
+of 22.4% of the workforce. Dreamers have voted to identifying the great motivators; versity. In 8th International Days of Statistics and 
+
+fairly high expectations concerning the util- those aspects which Czechs consider to be Economics. Slaný: Melandrium, 2014.
+7. Nolan S. Talent Management. Strategic HR 
+
+ity and principles involved in the employ- the most important part of their employ- Review, 2013, no. 12(4), pp. 175–176. 
+ment but are not terribly enthusiastic work- ment. Generally it concerns constant jobs 8. Ritson M. Marketing and HR Collaborate 
+ers themselves. For the dreamer, the ideal after that it is work which brings concrete to Harness Employer Brand Power. L., Haymarket 
+job is one where nobody expects too much results but also satisfaction and feeling of Business Publications Ltd., 2002.
+from him/her (affinity index 250.1); work life fulfilment. The possibility to earn the 9. Waite A. HR’s Role in Audience Seg-
+
+most money possible also belongs to the mentation. Strategic HR Review, 2007, no. 6(2), 
+that someone has explained or assigned pp. 16–19. 
+to him/her (affinity index 265.0) and where most important aspects. On the basis of 10. Wimmers J. HR Marketing from Job Adver-
+they will have a lot of free time (affinity in- the factor analysis, we identified four main tising to Employer Branding: Scholarly Research 
+dex 168.0). On the other hand they long for a motivators of employees on the Czech la- Paper. München, GRIN Verlag, 2009.
+career and promotion (affinity index 171.9); bour market. These are: opportunity for 
+interesting intellectual activities (affinity in- self-realisation, utility, free time and ease of 
+dex 159.4); to use their education at work (af- the work.
+finity index 134.5) and to receive maximum The resulting main motivators were fur-
+earnings (affinity index 134.0). It comes as no ther used as segmentation variables of the 
+surprise that they are mostly young people Czech working population. With the aid of 
+just before the start of their career. They have the inclusive analysis, there were revealed 
+mostly a secondary education. four segments of the working population 
+
+The segment called “burnt out‘‘ are the which differ from each other in their atti-
+least common group in the working popula- tudes to work and employment. The pro-
+tion. It consists of a fifth of workers. The seg- files we discovered of the segments provide 
+ment is marked out by the fact that many a useful view of the Czech working popu-
+factors are not decisive for them and so lation, which will be the subject of further 
+they do not have a single attitude towards research. The approaches taken in the re-
+the factors. Rather, they take them neutrally. search are useful for the area of human re-
+A typical characteristic of this group is that sources, and also for marketing, namely for 
+they do not see the importance of a secure the current linking of these two disciplines 
+job (affinity index 319,5). At work they do to form “Human Resource Marketing”. 
+not feel at all that it is important to do a job 
+which brings satisfaction and the feeling of 
+life fulfilment (affinity index 346.9), or to do 
+useful contributory things (affinity index 
+294.4). Essentially, they do not want work 
+that brings concrete results (affinity index 
+276.8). These people never had any great 
+expectations from their work. This segment 
+is made up primarily of secondary school 
+educated people, often without a school 
+leaving certificate. 
+
+UPRAVLENETS № 5/57/ 2015

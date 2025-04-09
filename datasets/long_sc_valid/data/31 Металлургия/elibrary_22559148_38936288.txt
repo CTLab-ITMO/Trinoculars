@@ -1,0 +1,515 @@
+﻿МАТЕРИАЛОВЕДЕНИЕ ОБРАБОТКА  МЕТАЛЛОВ
+
+УДК 621.791.92:620.178
+
+КОНТАКТНАЯ ВЫНОСЛИВОСТЬ NiCrBSi ПОКРЫТИЙ,  
+ПОЛУЧЕННЫХ МЕТОДОМ ГАЗОПОРОШКОВОЙ ЛАЗЕРНОЙ НАПЛАВКИ*
+
+Р.А. САВРАЙ, канд. техн. наук
+А.В. МАКАРОВ, доктор техн. наук, с.н.с.
+Н.Н. СОБОЛЕВА, м.н.с.
+И.Ю. МАЛЫГИНА, канд. техн. наук
+А.Л. ОСИНЦЕВА, канд. техн. наук, с.н.с.
+(ИМАШ УрО РАН, г. Екатеринбург)
+
+Поступила: 02 ноября 2014
+Рецензирование: 10 ноября 2014
+Принята к печати: 15 ноября 2014
+
+Соболева Н.Н. – 620049, г. Екатеринбург, ул. Комсомольская, 34,
+Институт машиноведения УрО РАН,
+
+e-mail: natashasoboleva@list.ru
+
+Исследована контактная выносливость NiCrBSi покрытий, полученных методом газопорошковой лазер-
+ной наплавки из порошков с различным содержанием хрома, бора, углерода (ПГ-СР2, масс. %: 14,8 Сr – 
+2,1 В – 0,48 С; ПГ-10Н-01, масс. %: 18,2 Cr – 3,3 В – 0,92 С) и добавкой карбида титана (ПГ-СР2 + 25 масс. % TiC). 
+Средняя микротвердость составила 520 HV у покрытия ПГ-СР2, 720 HV у покрытия ПГ-10Н-01 и 770 HV у 
+покрытия TiC – ПГ-СР2. Испытания на контактную усталость проводили на сервогидравлической установке 
+Instron 8801 по схеме пульсирующего неударного контакта «шар-плоскость» с изменением нагрузки в цикле 
+по синусоидальному закону. Установлено, что наибольшей способностью сопротивляться контактному воз-
+действию в условиях повторяющегося упругопластического деформирования при механическом неударном 
+контактном нагружении обладает покрытие ПГ-10Н-01 с повышенным содержания хрома, бора и углерода 
+по сравнению с ПГ-СР2, а наименьшей – композиционное покрытие ПГ-СР2 с добавкой 25 масс. % карбида 
+титана TiC. Исследование пятен контакта методом электронной сканирующей микроскопии показало, что 
+основным механизмом разрушения при контактно-усталостном нагружении всех исследованных покрытий 
+является трещинообразование.
+
+Ключевые слова: лазерная наплавка, покрытия NiCrBSi, карбид TiC, структура, микротвердость, кон-
+тактная усталость.
+
+Введение деталей машин. В этой связи достаточно широ-
+кое применение находят покрытия на хромони-
+
+Нанесение покрытий методом газопорош- келевой основе, в частности, сплавы системы 
+ковой лазерной наплавки, когда тонкий поверх- NiCrBSi [2, 3], которые наряду с отличными тех-
+ностный слой основного металла оплавляется нологическими свойствами [4] имеют хорошие 
+лазерным лучом совместно с присадочным ма- характеристики износостойкости, коррозионной 
+териалом [1], является современным способом стойкости и теплостойкости [2, 5, 6]. Кроме того, 
+упрочнения, повышения износостойкости, а так- повышенное содержание углерода, хрома и бора 
+же восстановления изношенных поверхностей в исходном порошке системы NiCrBSi способ-
+_______________
+
+* Работа выполнена при частичной поддержке программы фундаментальных исследований РАН, проект 
+№ 12-Т-1-1010 и гранта РФФИ № 13-01-00732_а. Исследования проведены на оборудовании ЦКП «Пластоме-
+трия» ИМАШ УрО РАН.
+
+№ 4 (65) 2014 43
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+ствует формированию при наплавке покрытий с наплавки из порошков с различным содержани-
+большей твердостью и износостойкостью в ус- ем хрома, бора, углерода и добавками карбида 
+ловиях абразивного и адгезионного изнашива- титана TiC.
+ния [7–10].
+
+Известно, что одним из резервов дальней- Методика экспериментального  
+шего повышения износостойкости NiCrBSi исследования
+наплавок является создание на их основе ком-
+позиционных покрытий при введении в состав В качестве материалов для покрытий были ис-
+порошков различных добавок. В качестве упроч- пользованы порошки сплавов системы NiCrBSi 
+няющих фаз таких покрытий может быть ис- гранулометрического состава 40…160 мкм – 
+пользован карбид титана TiC, обладающий высо- ПГ-СР2 и ПГ-10Н-01 (см. таблицу). Для иссле-
+кими значениями твердости, модуля упругости, дования покрытия с добавкой карбида титана 
+температуры плавления, а также термической использовалась порошковая смесь, полученная 
+и химической стабильностью [6, 11–13]. Наши перемешиванием двух порошков: порошка ПГ-
+исследования показали возможность формиро- СР2 и порошка TiC гранулометрического соста-
+вания композиционных покрытий TiC – NiCrBSi ва 50…100 мкм в количестве 25 масс. %.
+с повышенной твердостью и абразивной износо- Наплавку порошков на пластины из ста-
+стойкостью, когда в процессе газопорошковой ли Ст.3 проводили непрерывным СО2-лазером 
+лазерной наплавки в наплавляемый NiCrBSi по- при мощ ности излучения 1,4…1,6 кВт, скоро-
+рошок марки ПГ-СР2 добавляется порошок кар- сти 160…200 мм/мин, расходе порошка 2,9… 
+бида титана TiC в количестве 15 и 25 мас. % [14]. 4,9 г/мин, размере лазерного пятна на поверхно-
+
+Наряду с износостойкостью важной харак- сти 6×1,5 мм. Порошковая смесь транспортиро-
+теристикой, определяющей качество многих валась в зону наплавки инертным газом – аргоном 
+машиностроительных материалов и покрытий, при давлении 0,5 атм. Для уменьшения поверх-
+является способность материала выдерживать ностных напряжений наплавка осуществлялась 
+контактные нагрузки [15], которую, как прави- в два прохода путем наложения одного слоя на 
+ло, оценивают по характеру разрушения после другой. Толщина покрытий составила 0,6… 
+однократного или повторяющегося (цикличе- 1,7 мм. Для устранения волнистости наплавлен-
+ского) нагружения поверхности инденторами ная поверхность подвергалась шлифованию с 
+различной формы [15–19]. Однократное нагру- интенсивным охлаждением.
+жение не всегда позволяет адекватно оценить Механические испытания на контактную 
+стойкость материала к внешнему контактному усталость проводили на сервогидравлической 
+воздействию, поскольку не учитывает процессы установке Instron 8801 с использованием спе-
+усталостной деградации [17, 18]. циальной оснастки оригинальной конструкции 
+
+В литературе имеются лишь отдельные све- по схеме пульсирующего неударного контакта 
+дения о проведении циклического нагружения «шар-плоскость» с изменением нагрузки в ци-
+NiCrBSi покрытий [15] и отсутствуют данные о кле по периодическому (синусоидальному) зако-
+влиянии химического и фазового состава порош- ну, диаметром стального шара 12,7 мм, предва-
+ков на контактную усталость таких покрытий. рительной нагрузкой P0 = 0,1 кН, максимальной 
+Целью настоящей работы явилось исследование нагрузкой Pmax = 8,7 кН, частотой нагружения 
+контактной выносливости NiCrBSi покрытий, f = 35 Гц на базе N = 106 циклов нагружения 
+полученных методом газопорошковой лазерной (рис. 1). 
+
+Химический состав исследуемых покрытий
+
+Марка порошка Содержание элементов, масс. %
+С Сr Ni Fe Si B TiC
+
+ПГ-СР2 0,48 14,8 Осн. 2,6 2,9 2,1 –
+ПГ-10Н-01 0,92 18,2 Осн. 3,4 4,2 3,3 –
+TiC – ПГ-СР2 0,36 11,1 Осн. 2,0 2,2 1,6 25
+
+44 № 4 (65) 2014
+
+
+
+МАТЕРИАЛОВЕДЕНИЕ ОБРАБОТКА  МЕТАЛЛОВ
+
+Структуру и фазо- фазы Ni3B, являющейся результатом взаимодей-
+вый состав покрытий, ствия между B и Ni в условиях быстрого нагрева 
+а также поверхности и охлаждения [21]. 
+посл е механических Средняя микротвердость покрытия ПГ-СР2 
+испытаний изучали с составляет 520±10 HV. Повышение содержа-
+при менением сканирую- ния углерода, бора и хрома приводит к повы-
+щего электронного ми- шению средней микротвердости в покрытии 
+кроскопа Tescan VEGA ПГ-10Н-01 до значений 720±30 HV. Добавление 
+II XMU с системами частиц карбида титана в количестве 25 % масс. 
+рентгеновского волно- способствует эффективному упрочнению покры-
+дисперсионного микро- тия ПГ-СР2 до уровня 770±60 HV [14]. Упроч-
+анализа INCA WAVE Рис. 1. Схема механиче- няющей фазой покрытия ПГ-СР2 является кар-
+700 и энергодисперси- ских испытаний на кон- бид Cr23C6 (микротвердостью 1000…1150 HV) 
+онного микроанализа тактную усталость (рис. 3, а). Более легированное углеродом, бором и 
+INCA ENERGY 450. хромом покрытие ПГ-10Н-01 содержит в качестве 
+Для измерения микротвердости покрытий приме- упрочняющих фаз борид CrB (1950…2400 HV) и 
+няли микротвердомеры Leica VMHT и Wilson & карбид Cr7C3 (1650…1800 HV) (рис. 3, б). Фор-
+Wolpert 402 MVD при нагрузке на индентор мирование карб и дов с разными стехиометриче-
+0,98 Н и времени нагружения 15 с. Трехмерные скими соотношениями объясняется различным 
+изображения пятен контакта получали с помо- количеством хрома и углерода в составе наплавля-
+щью оптического профилометра Wyko NT-1100. емых порошков: с увеличением отношения Cr/C 
+
+карбид Cr23C6 формируется легче, чем карбид 
+Результаты и обсуждение Cr7C3 [22]. При добавлении 25 масс. % TiC в со-
+
+став порошка ПГ-СР2 при наплавке формируется 
+Общий вид хромоникелевого покрытия, композиционное покрытие [14], в котором наря-
+
+сформировавшегося на поверхности стальной ду с дисперсными карбоборидами (Cr,Ni)23(C,B)6 
+пластины при газопорошковой лазерной наплав- и (Ti,Cr)(C,B) присутствуют крупные включения 
+ке, приведен на рис. 2. Покрытия по всей толщи- карбидов титана TiC (микротвердостью 2500… 
+не характеризуются достаточно равномерным 2900 HV) (рис. 3, в). 
+распределением структурных составляющих [8– Результаты контактно-усталостных испы-
+10, 14]. По данным рентгеноструктурного [20] таний исследованных покрытий представлены 
+и микрорентгеноспектрального методов анали- на рис. 4 и 5. В качестве критерия для оценки 
+за (рис. 3), металлическую основу всех иссле- стойкости материалов в условиях циклического 
+дованных покрытий составляет γ-твердый рас- воздействия индентора используется изменение 
+твор на основе Ni и эвтектика, состоящая из γ и размера пятна контакта на поверхности покры-
+
+тия в зависимости от числа циклов нагружения 
+[15, 19, 23]. Из данных, приведенных на рис. 4, 
+видно, что диаметр пятна контакта после 104 ци-
+клов нагружения у покрытия ПГ-СР2 несколько 
+больше, чем у покрытия ПГ-10Н-01. При этом 
+при испытаниях на базе 106 циклов с ростом чис-
+ла циклов нагружения у покрытия ПГ-СР2 на-
+блюдается более существенное увеличение раз-
+мера контактных повреждений, чем у покрытия 
+ПГ-10Н-01, где имеет место лишь незначитель-
+ный рост диаметра пятна контакта (см. рис. 4). 
+По-видимому, это обусловлено более высокой 
+твердостью покрытия ПГ-10Н-01 (720±30 HV) 
+по сравнению с менее легированным покрытием 
+
+Рис. 2. Общий вид покрытия ПГ-СР2 ПГ-СР2 (520±10 HV).
+
+№ 4 (65) 2014 45
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+                            а                                                               б                                                                в
+Рис. 3. Микроструктура покрытий после лазерной наплавки: 
+
+а – покрытие ПГ-СР2; б – покрытие ПГ-10Н-01; в – покрытие на основе ПГ-СР2 с добавкой TiC в количестве 25 масс. %
+
+того, для повышения контактно-усталостной 
+прочности сталей с покрытиями благоприятным 
+является наличие более дисперсных и плотных 
+карбидов, равномерно распределенных в матри-
+це [24]. Из рис. 3, в следует, что карбиды TiC в 
+композиционном покрытии значительно более 
+крупные, чем карбиды хрома разных стехио-
+метрических составов в покрытиях ПГ-СР2 и 
+ПГ-10Н-01. Это приводит к снижению контакт-
+ной выносливости композиционного покрытия 
+TiC – ПГ-СР2.
+
+Электронно-микроскопическое исследова-
+ние и профилометрия пятен контакта (рис. 5) 
+показало, что в процессе контактно-усталост-
+ного нагружения исследованных покрытий 
+
+Рис. 4. Влияние числа циклов нагружения N на из-
+менение диаметра пятна контакта d при контактно- развиваются процессы трещинообразования, 
+усталостных испытаниях исследованных покрытий: характеризующиеся возникновением многочис-
+1 – покрытие ПГ-СР2; 2 – покрытие ПГ-10Н-01; 3 – по- ленных кольцевых и радиальных трещин. Коль-
+крытие на основе ПГ-СР2 с добавкой TiC в количестве цевые трещины (указаны стрелками на рис. 5), 
+
+25 масс. % возникающие на поверхности покрытия в зоне 
+действия максимальных растягивающих ра-
+
+Композиционное покрытие ПГ-СР2 с диальных напряжений, способствуют снятию 
+добавкой TiC, обладающее повышенной средней остаточных напряжений внутри покрытия [19] 
+микротвердостью (770±60 HV) по сравнению с и когезионному разрушению (скалыванию по-
+покрытиями ПГ-СР2 и ПГ-10Н-01, характери- крытия у края лунки, рис. 5, б, г). У покрытий 
+зуется наибольшим диаметром пятна контакта ПГ-СР2 и TiC – ПГ-СР2 образование кольцевых 
+после 104 циклов нагружения и значительным трещин наблюдается уже после 104 циклов на-
+увеличением пятна контакта при 3×105 циклов гружения; при числе циклов 3×105 кольцевые 
+нагружения (см. рис. 4). Это может быть обу- трещины уже полностью сформированы и при 
+словлено влиянием особенностей разрушения дальнейшем нагружении наблюдается резкий 
+карбидов на характеристики контактной уста- рост диаметра пятна контакта (см. рис. 4). У по-
+лости. Известно [17], что химический состав крытия ПГ-10Н-01, напротив, при 3×105 циклов 
+и тип карбидов оказывают сильное влияние на нагружения наблюдается только начальная ста-
+контактную стойкость и трещинообразование дия образования кольцевых трещин. Слабое раз-
+материалов с карбидным упрочнением. Кроме витие кольцевых трещин у покрытия ПГ-10Н-01 
+
+46 № 4 (65) 2014
+
+
+
+МАТЕРИАЛОВЕДЕНИЕ ОБРАБОТКА  МЕТАЛЛОВ
+
+                              а                                                                                              б 
+
+                              в                                                                                             г 
+Рис. 5. Пятна контакта после контактно-усталостных испытаний с числом циклов нагружения 
+
+N = 106 исследованных покрытий: 
+а – покрытие ПГ-СР2 ; б – покрытие ПГ-10Н-01; в – покрытие на основе ПГ-СР2 с добавкой TiC 
+в количестве 25 масс. %; г – покрытие ПГ-СР2 (трехмерное изображение); а–в – электронная сканирую-
+
+щая микроскопия; г – оптическая профилометрия
+
+обусловливает незначительный рост диаметра тии ПГ-10Н-01 со средним уровнем микротвер-
+пятна контакта даже при 106 циклов нагружения дости 720±30 HV обеспечивает рост контактной 
+(см. рис. 4). выносливости по сравнению с менее легиро-
+
+ванным и твердым покрытием ПГ-СР2 (микро-
+Выводы твердость 520±10 HV). Композиционное покры-
+
+тие NiCrBSi–TiC, полученное при добавлении 
+Исследовано влияние состава NiCrBSi по- 25 масс. % карбида титана TiC в состав порошка 
+
+крытий, полученных методом газопорошковой ПГ-СР2, несмотря на максимальный средний 
+лазерной наплавки, на сопротивление контак- уровень микротвердости (770±60 HV), обладает 
+тно-усталостному разрушению при неударном наименьшей стойкостью в условиях контактно-
+циклическом нагружении по схеме контакта усталостного нагружения вследствие наличия в 
+«шар-плоскость». Установлено, что повышен- покрытии крупных карбидов TiC, способству-
+ное содержание хрома, бора и углерода в покры- ющих ускоренному трещинообразованию при 
+
+№ 4 (65) 2014 47
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+пульсирующем механическом контакте. Основ- Р.А. Саврай, А.Л. Осинцева // Дефектоскопия. – 2009. – 
+ным механизмом разрушения всех исследован- № 11. – С. 68–78.
+ных покрытий является трещинообразование, 10. Влияние микроструктуры и фазового состава 
+характеризующееся возникновением кольцевых на трибологические свойства NiCrBSi лазерных по-
+и радиальных трещин с последующим когезион- крытий / Н.Н. Соболева, И.Ю. Малыгина, А.Л. Осин-
+ным скалыванием покрытия у края лунки. цева, Н.А. Поздеева // Известия Самарского научного 
+
+центра Российской академии наук. – 2011. – Т. 13, 
+Список литературы № 4 (3). – С. 869–873.
+
+11. Characterisation of TiC–NiMo reinforced Ni-
+1. Григорьянц А.Г., Сафонов А.Н. Лазерная техни- based hardfacing / A. Zikin, E. Badisch, I. Hussainova, 
+
+ка и технология. В 7 кн. Кн. 3. Методы поверхност- C. Tomastik, H. Danninger // Surface and Coatings Tech-
+ной лазерной обработки: учеб. пособие для вузов. – nology. – 2013. – Vol. 236. – P. 36–44. – doi: 10.1016/j.
+М.: Высшая школа, 1987. – 191 с. surfcoat.2013.02.027.
+
+2. Abrasive wear behavior of laser clad and flame 12. Microstructure and wear properties of TiC/
+sprayed-melted NiCrBSi coatings / С. Navas, R. Colaco, FeCrBSi surface composite coating prepared by la-
+J. de Damborenea, R. Vilar // Surface and Coatings Tech- ser cladding / X.H. Wang, M. Zhang, X.M. Liu, S.Y. 
+nology. – 2006. – Vol. 200, iss. 24. – P. 6854–6862. – doi: Qu, Z.D. Zou // Surface and Coatings Technology. – 
+10.1016/j.surfcoat. 2005.10.032. 2008. – Vol. 202, iss. 15. – P. 3600–3606. – doi: 10.1016/j.
+
+3. Wear behaviour of laser clad NiCrBSi coating / surfcoat.2007.12.039.
+E. Fernández, M. Cadenas, R. Gonsález, C. Navas, 13. TiC reinforced composite coating produced 
+R. Fernández, J. de Damborenea // Wear. – 2005. – 
+Vol. 259, iss. 7-12. – P. 870–875. – doi: 10.1016/j. by powder feeding laser cladding / S. Yang, W.-J. Liu, 
+wear.2005.02.063. M.-L. Zhong, Z.-J. Wang // Materials Letters. – 2004. – 
+
+4. Katsich C., Badisch E. Effect of carbide degrada- Vol. 58, iss. 24. – P. 2958–2962. – doi: 10.1016/j.mat-
+tion in a Ni-based hardfacing under abrasive and com- let.2004.03.051.
+bined impact/abrasive conditions // Surface and Coatings 14. Формирование композиционного покрытия 
+Technology. – 2011. – Vol. 206, iss. 6. – P. 1062–1068. NiCrBSi – TiC с повышенной абразивной износо-
+doi: 10.1016/ j.surfcoat.2011.07.064. стойкостью методом газопорошковой лазерной на-
+
+5. Microstructural aspects of plasma transferred плавки / А.В. Макаров, Н.Н. Соболева, И.Ю. Малы-
+arc surfaced Ni-based hardfacing alloy / K. Gurumoor- гина, А.Л. Осинцева // Упрочняющие технологии и 
+thy, M. Kamaraj, K. Prasad Rao, Rao A. Sambasiva, S. покрытия. – 2013. – № 11 (107). – С. 38–44.
+Venugopal // Material Science and Engineering: A. – 15. Стойкость упрочненных материалов в ус-
+2007. – Vol. 456, iss. 1-2. – P. 11–19. – doi: 10.1016/j. ловиях контактного нагружения / Л.И. Тушинский, 
+msea.2. В.А. Батаев, В.М. Потапов, А.А. Батаев, А.П. Тимо-
+
+6. Tribological properties of TiC particles reinforced феев // Металловедение и термическая обработка ме-
+Ni-based alloy composite coatings / B. Cai, Y.-F. Tan, L. таллов. – 1988. – № 5. – С. 36–38.
+He, H. Tan, L. Gao // Transactions of Nonferrous Metals 16. Yonezu A., Xu B., Chen X. An experimental meth-
+Society of China. – 2013. – Vol. 23, iss. 6. – P. 1681– odology for characterizing fracture of hard thin films un-
+1688. – doi: 10.1016/S1003-6326(13)62648-5. der cyclic contact loading // Thin Solid Films. – 2010. 
+
+7. Liyanage T., Fisher G., Gerlich A.P. Influence – Vol. 518, iss. 8. – P. 2082–2089. – doi: 10.1016/j.
+of alloy chemistry on microstructure and properties in tsf.2009.07.199.
+NiCrBSi overlay coatings deposited by plasma trans- 17. Influence of substrate microstructure on the con-
+ferred arc welding (PTAW) // Surface and Coatings tact fatigue strength of coated cold-work tool steels / 
+Technology. – 2010. – Vol. 205, iss. 3. – P. 759–765. – G. Ramírez, A. Mestra, B. Casas, I. Valls, R. Martínez, 
+doi: 10.1016/j.surfcoat.2010.07.095. R. Bueno, A. Góez, A. Mateo, L. Llanes // Surface and 
+
+8. Влияние химического состава на трибологиче- Coatings Technology. – 2012. – Vol. 206, iss. 13. – 
+ские свойства хромоникелевых покрытий, получен- P. 3069–3081. – doi: 10.1016/j.surfcoat.2011.12.012.
+ных методом газопорошковой лазерной наплавки / 18. Contact fatigue behavior of PVD-coated 
+А.В. Макаров, Р.А. Саврай, А.Л. Осинцева, И.Ю. Ма- steel / G. Ramírez, E. Tarrés, B. Casas, I. Valls, 
+лыгина // Известия Челябинского научного центра. – R. Martínez, L. Llanes // Plasma Processes and Polymers. 
+2009. – № 2 (44). – С. 28–33. – 2009. – Vol. 6, iss. Supplement 1. – P. S588–S591. – 
+
+9. Вихретоковый контроль твердости, износо- doi: 10.1002/ppap.200931501.
+стойкости и толщины покрытий, полученных мето- 19. Contact fatigue behavior of PVD-coated 
+дом газопорошковой лазерной наплавки / А.В. Ма- hardmetals / E. Tarrés, G. Ramírez, Y. Gaillard, E. 
+каров, Э.С. Горкунов, И.Ю. Малыгина, Л.Х. Коган, Jiménez-Piqué, L. Llanes // International Journal of 
+
+48 № 4 (65) 2014
+
+
+
+МАТЕРИАЛОВЕДЕНИЕ ОБРАБОТКА  МЕТАЛЛОВ
+
+Refractory Metals and Hard Materials. – 2009. – Vol. 27, 2001. – Vol. 137, iss. 2-3. – P. 122–135. – doi: 10.1016/
+iss. 2. – P. 323–331. – doi: 10.1016/j.ijrmhm.2008.05.003. S0257-8972(00)007 32-5.
+
+20. Соболева Н.Н., Макаров А.В., Малыгина И.Ю. 23. Structure of surface layers produced by non-vac-
+Упрочняющая фрикционная обработка NiCrBSi ла- uum electron beam boriding / I.A. Bataev, A.A. Bataev, 
+зерного покрытия // Обработка металлов (технология, M.G. Golkovski, D.S. Krivizhenko, A.A. Losinskaya, 
+оборудование, инструменты). – 2013. – № 4 (61). – O.G. Lenivtseva // Applied Surface Science. – 2013. – 
+С. 79–85. Vol. 284. – P. 472–481. – doi: 10.1016/j.apsusc. 
+
+21. Dawei Z., Li T., Lei T.C. Laser cladding of Ni– 2013.07.121.
+Cr3C2/(Ni+Cr) composite coating // Surface and Coat- 24. Fatigue susceptibility under contact loading of 
+ings Technology. – 1988. – Vol. 110, 1-2. – P. 81–85. – hardmetals coated with ceramic films / L. Llanes, E. Tar-
+doi: 10.1016/S0257-8972(98)00675-6. rés, G. Ramírez, C.A. Botero, E. Jiménez-Piqué // Proce-
+
+22. Comparison of laser-clad and furnace-melted Ni- dia Engineering. – 2010. – Vol. 2, iss. 1. – P. 299–308. – 
+based alloy microstructures / Q. Li, D. Zhang, T. Lei, Ch. doi: 10.1016/j.proeng. 2010.03.033.
+Chen, W. Chen // Surface and Coatings Technology. – 
+
+OBRABOTKA METALLOV
+(METAL WORKING AND MATERIAL SCIENCE)
+
+N 4(65), October – December 2014, Pages 43–51
+
+The contact endurance of NiCrBSi coatings obtained by gas powder laser cladding
+
+Savrai R.A., Ph.D. (Engineering), e-mail: ras@imach.uran.ru
+Makarov A.V., D.Sc. (Engineering), Senior Researcher, e-mail: avm@imp.uran.ru
+Soboleva N.N., Junior Researcher, e-mail: natashasoboleva@list.ru
+Malygina I.Yu., Ph.D. (Engineering), e-mail: malygina@imach.uran.ru
+Osintseva A.L., Ph.D. (Engineering), Senior Researcher, e-mail: osintseva@imach.uran.ru
+
+Institute of Engineering Science Ural Branch of Russian Academy of Sciences, 34 Komsomolskaya str., Yekaterinburg, 
+630049, Russian Federation
+
+Abstract
+
+The contact endurance of NiCrBSi coatings obtained by gas powder laser cladding of the powders with various 
+chrome, carbon and boron content (PG-SR2, wt. %: 14.8 Сr – 2.1 В – 0.48 С; PG-10N-01, wt. %: 18.2 Cr – 3.3 В – 0.92 С) 
+and TiC addition (PG-SR2 + 25 wt. % TiC) is investigated. The average microhardness was 520 HV for PG-SR coat-
+ing, 720 HV for PG-10N-01 coating and 770 HV for TiC – PG-SR2 coating. Tests on the contact fatigue are carried 
+out using a servohydraulic testing machine (Instron 8801) circuit-wise pulsating non-impact contact «ball-plane» 
+scheme with the load variation during a cycle according to a sinusoidal law. The maximum resistance to a contact 
+impact during repetitive elastic-plastic deformation on mechanical non-impact contact loading is determined for 
+PG-10N-01 coating with increased chrome, carbon and boron content in comparison with PG-SP2, the minimal one 
+was for composite PG-SR2 coating with addition 25 wt. % TiC particles. The examination of the contact spots using 
+scanning electron microscopy shows that the main fracture mechanism of every investigated coating under contact 
+fatigue loading is cracking.
+
+Keywords:
+laser cladding, NiCrBSi coatings, TiC titanium carbide, structure, microhardness, contact fatigue.
+
+References
+
+1. Grigor’yants A.G., Safonov A.N. Lazernaya tekhnika i tekhnologiya. Kn. 3: Metody poverkhnostnoi lazernoi 
+obrabotki [Laser equipment and technology. Vol. 3: Methods of surface laser treatment]. Moscow, Vysshaya shkola 
+Publ., 1987. 191 p.
+
+№ 4 (65) 2014 49
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+2. Navas С., Colaco R., de Damborenea J., Vilar R. Abrasive wear behavior of laser clad and flame sprayed-
+melted NiCrBSi coatings. Surface and Coatings Technology, 2006, vol. 200, iss. 24, pp. 6854–6862. doi: 10.1016/j.
+surfcoat.2005.10.032
+
+3. Fernández E., Cadenas M., Gonsález R., Navas C., Fernández R., de Damborenea J. Wear behaviour of laser 
+clad NiCrBSi coating. Wear, 2005, vol. 259, iss. 7-12, pp. 870–875. doi: 10.1016/j.wear.2005.02.063
+
+4. Katsich C., Badisch E. Effect of carbide degradation in a Ni-based hardfacing under abrasive and combined 
+impact/abrasive conditions. Surface and Coatings Technology, 2011, vol. 206, iss. 6, pp. 1062–1068. doi: 10.1016/j.
+surfcoat.2011.07.064
+
+5. Gurumoorthy K., Kamaraj M., Prasad Rao K., Sambasiva Rao A., Venugopal S. Microstructural aspects of 
+plasma transferred arc surfaced Ni-based hardfacing alloy. Material Science and Engineering: A, 2007, vol. 456, 
+iss. 1-2, pp. 11–19. doi: 10.1016/j.msea.2006.12.121
+
+6. Cai B., Tan Y.-f., He L., Tan H., Gao L. Tribological properties of TiC particles reinforced Ni-based alloy 
+composite coatings. Transactions of Nonferrous Metals Society of China, 2013, vol. 23, iss. 6, pp. 1681–1688. doi: 
+10.1016/S1003-6326(13)62648-5
+
+7. Liyanage T., Fisher G., Gerlich A.P. Influence of alloy chemistry on microstructure and properties in NiCrBSi 
+overlay coatings deposited by plasma transferred arc welding (PTAW). Surface and Coatings Technology, 2010, vol. 
+205, iss. 3, pp. 759–765. doi: 10.1016/j.surfcoat.2010.07.095
+
+8. Makarov A.V, Savrai R.A., Osintseva A.L., Malygina I.Yu. Vliyanie khimicheskogo sostava na tribologicheskie 
+svoistva khromonikelevykh pokrytii, poluchennykh metodom gazoporoshkovoi lazernoi naplavki [Effect of chemical 
+composition on the tribological properties of nickel-chromium coatings produced by gas-powder laser cladding]. 
+Izvestiya Chelyabinskogo nauchnogo tsentra – Proceedings of the Chelyabinsk Scientific Center, 2009, no. 2 (44), 
+pp. 28–33.
+
+9. Makarov A.V., Gorkunov E.S., Malygina I.Yu., Kogan L.Kh., Savrai R.A., Osintseva A.L. Vikhretokovyi 
+kontrol’ tverdosti, iznosostoikosti i tolshchiny pokrytii, poluchennykh metodom gazoporoshkovoi lazernoi naplavki 
+[Eddy-current testing of the hardness, wear resistance, and thickness of coatings prepared by gas-powder laser 
+cladding]. Defektoskopiya – Russian Journal of Nondestructive Testing, 2009, no. 11, pp. 68–78. (In Russian)
+
+10. Soboleva N.N., Malygina I.Yu., Osintseva A.L., Pozdeeva N.A. Vliyanie mikrostruktury i fazovogo sostava na 
+tribologicheskie svoistva NiCrBSi lazernykh pokrytii [The influence of the microstructure and phase composition on 
+tribological performances of NiCrBSi laser coatings]. Izvestiya Samarskogo nauchnogo tsentra Rossiiskoi Akademii 
+Nauk – Proceedings of the Samara Scientific Center of the RAS, 2011, vol. 13, no. 4 (3), pp. 869–873.
+
+11. Zikin A., Badisch E., Hussainova I., Tomastik C., Danninger H. Characterisation of TiC–NiMo reinforced Ni-
+based hardfacing. Surface and Coatings Technology, 2013, vol. 236, pp. 36–44. doi: 10.1016/j.surfcoat.2013.02.027
+
+12. Wang X.H., Zhang M., Liu X.M., Qu S.Y., Zou Z.D. Microstructure and wear properties of TiC/FeCrBSi 
+surface composite coating prepared by laser cladding. Surface and Coatings Technology, 2008, vol. 202, iss. 15, pp. 
+3600–3606. doi: 10.1016/j.surfcoat.2007.12.039
+
+13. Yang S., Liu W.-j., Zhong M.-l., Wang Z.-j. TiC reinforced composite coating produced by powder feeding 
+laser cladding. Materials Letters, 2004, vol. 58, iss. 24, pp. 2958–2962. doi: 10.1016/j.matlet.2004.03.051
+
+14. Makarov A.V., Soboleva N.N., Malygina I.Yu., Osintseva A.L. Formirovanie kompozitsionnogo pokrytiya 
+NiCrBSi – TiC s povyshennoi abrazivnoi iznosostoikost’yu metodom gazoporoshkovoi lazernoi naplavki [The 
+formation of NiCrBSi–TiC composite coating with increased abrasive wear resistance by gas powder laser cladding]. 
+Uprochnyayushchie tekhnologii I pokrytiya – Hardening technology and coatings, 2013, no. 11 (107), pp. 38–44.
+
+15. Tushinskii L.I., Bataev V.A., Potapov V.M., Bataev A.A., Timofeev A.P. Stoikost’ uprochnennykh materialov 
+v usloviyakh kontaktnogo nagruzheniya [Life of hardened materials under the conditions of contact load]. 
+Metallovedenie i termicheskaya obrabotka metallov – Metal Science and Heat Treatment, 1988, no. 5, pp. 36–38. 
+(In Russian)
+
+16. Yonezu A., Xu B., Chen X. An experimental methodology for characterizing fracture of hard thin films under 
+cyclic contact loading. Thin Solid Films, 2010, vol. 518, iss. 8, pp. 2082–2089. doi: 10.1016/j.tsf.2009.07.199
+
+17. Ramírez G., Mestra A., Casas B., Valls I., Martínez R., Bueno R., Góez A., Mateo A., Llanes L. Influence 
+of substrate microstructure on the contact fatigue strength of coated cold-work tool steels. Surface and Coatings 
+Technology, 2012, vol. 206, iss. 13, pp. 3069–3081. doi: 10.1016/j.surfcoat.2011.12.012
+
+18. Ramírez G., Tarrés E., Casas B., Valls I., Martínez R., Llanes L. Contact Fatigue Behavior of PVD-Coated 
+Steel. Plasma Processes and Polymers, 2009, vol. 6, iss. Supplement 1, pp. S588–S591. doi: 10.1002/ppap.200931501
+
+19. Tarrés E., Ramírez G., Gaillard Y., Jiménez-Piqué E., Llanes L. Contact fatigue behavior of PVD-coated 
+hardmetals. International Journal of Refractory Metals and Hard Materials, 2009, vol. 27, iss. 2, pp. 323–331. doi: 
+10.1016/j.ijrmhm.2008.05.003
+
+50 № 4 (65) 2014
+
+
+
+МАТЕРИАЛОВЕДЕНИЕ ОБРАБОТКА  МЕТАЛЛОВ
+
+20. Soboleva N.N., Makarov A.V., Malygina I.Yu. Uprochnyayushchaya friktsionnaya obrabotka NiCrBSi 
+lazernogo pokrytiya [Hardening frictional treatment of NiCrBSi laser clad coating]. Obrabotka metallov (tekhnologiya, 
+oborudovanie, instrumenty) – Metal Working and Material Science, 2013, no. 4 (61), pp. 79–85.
+
+21. Dawei Z., Li T., Lei T.C. Laser cladding of Ni–Cr3C2/(Ni+Cr) composite coating. Surface and Coatings 
+Technology, 1988, vol. 110, iss. 1-2, pp. 81–85. doi: 10.1016/S0257-8972(98)00675-6
+
+22. Li Q., Zhang D., Lei T., Chen Ch., Chen W. Comparison of laser-clad and furnace-melted Ni-based alloy 
+microstructures. Surface and Coatings Technology, 2001, vol. 137, iss. 2-3, pp. 122–135. doi: 10.1016/S0257-
+8972(00)00732-5
+
+23. Bataev I.A., Bataev A.A., Golkovski M.G., Krivizhenko D.S., Losinskaya A.A., Lenivtseva O.G. Structure 
+of surface layers produced by non-vacuum electron beam boriding. Applied Surface Science, 2013, vol. 284, 
+pp. 472–481. doi: 10.1016/j.apsusc.2013.07.121
+
+24. Llanes L., Tarrés E., Ramírez G., Botero C.A., Jiménez-Piqué E. Fatigue susceptibility under contact loading 
+of hardmetals coated with ceramic films. Procedia Engineering, 2010, vol. 2, iss. 1, pp. 299–308. doi: 10.1016/j.
+proeng.2010.03.033
+
+Funding
+The reported study was partly supported by fundamental research RAS project No. 12-Т-1-1010 and RFBR, 
+research project No. 13-01-00732_а. Study was carried out on the equipment of the Collective center 
+“Plastometria”, Institute of Engineering Science, Ural Branch of Russian Academy of Sciences.
+
+Received 02 November 2014
+Revised 10 November 2014
+Accepted 15 November 2014
+
+№ 4 (65) 2014 51

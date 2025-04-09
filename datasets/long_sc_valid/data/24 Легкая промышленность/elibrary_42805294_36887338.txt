@@ -1,0 +1,914 @@
+﻿Научный журнал «Костюмология» 2020, №1, Том 5 ISSN 2587-8026 
+Journal of Clothing Science 2020, No 1, Vol 5 https://kostumologiya.ru 
+
+ 
+
+Научный журнал «Костюмология» / Journal of Clothing Science https://kostumologiya.ru 
+
+2020, №1, Том 5 / 2020, No 1, Vol 5 https://kostumologiya.ru/issue-1-2020.html 
+
+URL статьи: https://kostumologiya.ru/PDF/13TLKL120.pdf 
+
+Ссылка для цитирования этой статьи: 
+Гусева М.А., Колташова Л.Ю., Андреева Е.Г., Алибекова М.И. Анализ современного развития меховой моды 
+// Научный журнал «Костюмология», 2020 №1, https://kostumologiya.ru/PDF/13TLKL120.pdf (доступ 
+свободный). Загл. с экрана. Яз. рус., англ.  
+
+For citation: 
+Guseva M.A., Koltashova L.Yu., Andreeva E.G., Alibekova M.I. (2020). Analysis of the modern development of fur 
+fashion. Journal of Clothing Science, [online] 1(5). Available at: https://kostumologiya.ru/PDF/13TLKL120.pdf (in 
+Russian) 
+
+УДК 687.1 
+
+ГРНТИ 64.37.14 
+
+Гусева Марина Анатольевна 
+ФГБОУ ВО «Российский государственный университет им. А.Н. Косыгина 
+
+(Технологии. Дизайн. Искусство)», Москва, Россия 
+Доцент 
+
+Кандидат технических наук, доцент 
+E-mail: guseva_marina67@mail.ru 
+
+РИНЦ: http://elibrary.ru/author_profile.asp?id=829347 
+ 
+
+Колташова Людмила Юрьевна 
+ФГБОУ ВО «Российский государственный университет им. А.Н. Косыгина 
+
+(Технологии. Дизайн. Искусство)», Москва, Россия 
+Доцент 
+
+Магистр 
+Доцент 
+
+E-mail: lusia987@yandex.ru 
+РИНЦ: http://elibrary.ru/author_profile.asp?id=965264 
+
+ 
+
+Андреева Елена Георгиевна 
+ФГБОУ ВО «Российский государственный университет им. А.Н. Косыгина 
+
+(Технологии. Дизайн. Искусство)», Москва, Россия 
+Профессор 
+
+Доктор технических наук, профессор 
+E-mail: elenwise@mail.ru 
+
+РИНЦ: http://elibrary.ru/author_profile.asp?id=259825 
+ 
+
+Алибекова Марият Исмаиловна 
+ФГБОУ ВО «Российский государственный университет им. А.Н. Косыгина 
+
+(Технологии. Дизайн. Искусство)», Москва, Россия 
+Зав. кафедрой «Спецкомпозиции» 
+
+Кандидат технических наук, доцент 
+E-mail: mariyat-alibekova@yandex.ru 
+
+РИНЦ: http://elibrary.ru/author_profile.asp?id=673297 
+
+Анализ современного развития меховой моды 
+Аннотация. С доступностью ключевых инноваций в смежных отраслях (химической и 
+
+машиностроении) ускорилось развитие меховой моды. Ранее, изделия из дорогой пушнины 
+(соболь, норка, рысь, шиншилла) были востребованы лишь в аристократической и 
+артистической среде, а для широкой потребительской аудитории предлагались одежда и 
+
+Страница 1 из 15 
+13TLKL120 
+
+Издательство «Мир науки» \ Publishing company «World of science» http://izd-mn.com 
+
+
+
+Научный журнал «Костюмология» 2020, №1, Том 5 ISSN 2587-8026 
+Journal of Clothing Science 2020, No 1, Vol 5 https://kostumologiya.ru 
+
+ 
+
+головные уборы из пушно-мехового полуфабриката экономичной категории (овчина, каракуль, 
+белка, сурок, крот, песец, лисица, морской зверь и др.). С разработкой новых химических 
+красителей и технологического оборудования для стрижки волосяного покрова в производстве 
+меховой одежды сформировалось новое направление – проектирование изделий из мехов-
+имитаторов, что способствовало доступности широкому кругу потребителей одежды с 
+повышенными визуальными и тактическими характеристиками. В статье представлена 
+характеристика современных технологий воздействия на структуру меха, позволяющих 
+изменять природные свойства волосяного покрова – окрас, оптические и геометрическое 
+характеристики, соотношение волосков различных категорий, фактуру. Изменением структуры 
+кожевой ткани достигают новые физико-механические характеристики, приближенные к 
+свойствам текстильных материалов. Одним из результатов внедрения новых технологий стало 
+появление в начале ХХI века нового нетрадиционного ассортимента меховой одежды – платья, 
+юбки, брюки, топы, блузы. Мех в изделиях комбинируют с различными материалами (шерсть, 
+шелк, джинса, трикотаж, кожа, пластик). Инновационные технологии раскроя пушно-мехового 
+полуфабриката позволяют получить сложные по фактуре поверхности, порой напоминающие 
+мозаичные панно. Креативная меховая одежда становится доступной потребителям, а меховая 
+мода приобретает тенденции ежегодной сменяемости моделей. 
+
+Статья посвящена анализу развития меховой моды последнего десятилетия. В 
+результате исследования авторами выявлены преобладающие характеристики стилевого 
+решения изделий, приоритетные виды меха в дизайнерских коллекциях, проанализированы 
+инновации в отделке и тенденции сочетания в одежде материалов-компаньонов. В статье 
+представлена разработанная авторами классификация меховых изделий по ассортиментным 
+группам. 
+
+Ключевые слова: виды меха; волосяной покров; композиция; силуэтное решение; 
+ассортимент; имитаторы 
+
+ 
+
+Развитие меховой моды неотделимо от развития человечества. Первобытные люди 
+использовали шкуры животных для утепления жилья и защиты тела от непогоды, древние 
+египтяне придавали процессу ношения меха сакральный смысл, в Средневековье 
+сформировались сословные различия в выборе вида меха для одежды, в эпоху Возрождения 
+заложены композиционные основы меховой отделки гардероба модников. С приходом эры 
+индустриализации пушно-меховой полуфабрикат рассматривают как креативный материал для 
+воплощения дизайнерских приемов создания модного образа [1]. 
+
+Цикличность модных периодов прошлого века составляла 30–40 лет [2, c. 14–15]. За 
+цикл происходила полная смена образного и силуэтного решений, объема и пропорций [3], 
+формы и расположения деталей, способов раскроя. Для изготовления одежды, головных 
+уборов, аксессуаров и других видов товаров в России нормированы около 90 видов меха. На 
+приоритетность и востребованность различных видов пушно-меховых полуфабрикатов влияет 
+конъюнктура потребительского спроса [4], особенности развития индустриального 
+звероводства [5], активность зоозащитников [6] и импорто-экспортная политика государств [7]. 
+
+Мировая меховая промышленность развивается под воздействие многих факторов. Так, 
+в период 1979–1989 гг., негативно повлияла активизация движения за права животных. В 
+Голландии митингующие камнями разбивали окна меховых магазинов, а работников меховых 
+производств публично называли «убийцами». Подсчитано, что результатом действий 
+активистов стало сокращение количества скорняков с 400 до 32 [6]. Голландию стали называть 
+первой промышленно развитой страной «свободной от меха» [6]. В США меховая отрасль 
+также подверглась нападкам активистов, их агрессивность перенаправлена была от 
+
+Страница 2 из 15 
+13TLKL120 
+
+Издательство «Мир науки» \ Publishing company «World of science» http://izd-mn.com 
+
+
+
+Научный журнал «Костюмология» 2020, №1, Том 5 ISSN 2587-8026 
+Journal of Clothing Science 2020, No 1, Vol 5 https://kostumologiya.ru 
+
+ 
+
+рок-концертов к призывам отказаться от меха. Митингующие выходили на сидячие 
+демонстрации в магазинах, преследовали людей в меховой одежде, совершали воинственные 
+набеги на зверофермы. Известны случаи обливания людей в меховой одежде краской или 
+кислотой. Хулиганствующие зоозащитники преследовали цель сформировать в общественном 
+сознании установку воспринимать меховую одежду как вульгарную или бестактную. Основная 
+цель движения – это запрет забоя пушных зверьков на зверофермах, отмена лицензии на охоту 
+с помощью капканов, причиняющих боль лапам животных. Интересно отметить, что в это же 
+время в США протестное движение не повлияло на продажи натурального меха, а с 1978 по 
+1986 гг. розничные продажи меховых изделий выросли втрое, достигнув около 1,8 миллиарда 
+долларов в год [6]. В период общественного осуждения одежды из натурального меха многие 
+государства законодательно утвердили программы этичного отношения к животным. Так, 
+например, Европейским парламентом с 2009 г. введен запрет на торговлю, импорт или экспорт 
+изделий из меха кошек и собак, чтобы защитить интересы европейцев, воспринимающих этих 
+животных как домашних питомцев [8]. 
+
+В мировой меховой индустрии переломным стал 2004 год, так как с этого периода 
+началось возрождение меховой моды, когда после долгого перерыва дизайнеры ведущих 
+Модных Домов (Roberto Cavalli, Sonia Rykiel, Dolce & Gabbana) представили на подиумах 
+модели из натурального меха. Несмотря на протестные движения зоозащитников, в 
+артистической среде изделия из натурального меха всегда оставались востребованы, меховая 
+одежда воспринималась как атрибут роскоши и успеха. Потребители предпочитают одежду из 
+натурального меха благодаря сложной текстуре волосяного покрова, его декоративным 
+свойствам. Меховые изделия всегда были более дорогими и элегантными по сравнению с 
+одеждой из других материалов [9], это символ богатства и привлекательности. По словам 
+психологов, меховая одежда вызывает ассоциации чувственности и обольщения [10]. Несмотря 
+на многолетние перипетии, в мировой меховой промышленности за прошедший период 
+произошла отраслевая техническая революция, появились новые технологии в выделке и 
+отделке шкурок, придающие изделиям легкость. С приходом в отрасль новых красителей 
+расширена цветовая гамма, мех комбинируют с разнообразными материалами. Заметной 
+тенденцией современной мировой моды стало расширение ассортимента и инновационный 
+дизайн меховой одежды, учитывающий характеристики окраски и структуры волосяного 
+покрова [11]. Инновации в отделке волосяного покрова шкурок пушных зверей 
+предопределили актуальность дизайна швейных изделий из натурального меха и их место на 
+мировом рынке модных товаров [12]. Повышение потребительского спроса на меховую 
+продукцию способствовало формированию фаворитных пушно-меховых полуфабрикатов в 
+коллекциях влиятельных Домов Мод (Fendi, Prada, Chanel, Christian Dior), представляющих с 
+тех пор публике меховые изделия в ежегодных коллекциях. 
+
+Демократичность и содружество стилей сформировались в меховой моде к сезону 
+2010/11 гг., чему способствовала доступность технологий воздействия на структуру меха – 
+появились новые химические красители, позволяющие получать как смелые яркие цветовые 
+сочетания на волосяном покрове, так и имитировать окрас меха животных, занесенных в 
+Красную Книгу [11]. В цветовой палитре наблюдались сближенные и контрастные сочетания 
+[13; 14], сформированные различным окрашиванием деталей или ритмичным чередованием 
+меховых полосок (рис. 1). С 2012 г. появляются двусторонние изделия [15] с новой технологией 
+формирования поверхности плетением, а традиционные способы раскроя [16; 17] получают 
+новое звучание, благодаря сочетанию в изделиях разных видов меха, усложняющих фактуру 
+[18]. Дизайнеры ввели в моду новую технологию стрижки волосяного покрова, позволяющую 
+получать поверхности как с уравненными по длине волосами, так и новые интересные фактуры. 
+
+Страница 3 из 15 
+13TLKL120 
+
+Издательство «Мир науки» \ Publishing company «World of science» http://izd-mn.com 
+
+
+
+Научный журнал «Костюмология» 2020, №1, Том 5 ISSN 2587-8026 
+Journal of Clothing Science 2020, No 1, Vol 5 https://kostumologiya.ru 
+
+ 
+
+ 
+
+а                  б                       в                        г 
+Рисунок 1. Характерные тенденции модного периода осень–зима 2010/11: а – платье от 
+Valentino; б – пальто от Burberry; в – жакет от Michael Kors; г – полупальто от Roberto 
+
+Cavalli (из открытых источников http://www.mifur.com, http://www.vogue.ru/collection/) 
+
+Модный образ сезона 2013/14 гг. запомнился наличием обязательных меховых 
+аксессуаров (шарфов, снудов, наушников), головных уборов (шапки, кепки, косынки) и обуви 
+(сапоги, туфли, ботинки) с деталями из длинноволосой пушнины (Blumarine, Michael Kors, 
+Fendi) [13; 14]. Модные идеи коллекций осень–зима 2014/15 гг. вывели с подиума в ежедневный 
+потребительский гардероб изделия, ранее не изготавливающиеся из меха – это платья, юбки, 
+брюки. Традиционные объемы сменились новыми малыми формами с мягкими силуэтными 
+линиями, подчеркивающими фигуру оригинальным кроем (Michael Kors, Christian Dior, Gucci) 
+[19; 20]. Характерной тенденцией стало изменение пропорционального соотношения в изделии 
+меховой и текстильной частей – детали из меха укрупнились, а использованием длинноволосой 
+пушнины стремились визуально усилить декоративную функцию отделки, цветовое решение 
+стало более ярким и насыщенным (Dolce&Gabbana, Fendi). Меховая мода 2017/18 изменила 
+образы, лидерами стали комфортные модели свободного покроя стиля oversize, с объемными 
+рукавами, удлиненной плечевой линией [21; 22]. Модны фактурные поверхности, меховая 
+инкрустация, мозаичность, лоскутная узорная техника, сочетание мехов разных видов (Fendi, 
+Marc Jacobs, Nina Ricci, Louis Vuitton) [23]. Благодаря технологическим инновациям (табл. 1) 
+популяризируются анималистическое имитационное окрашивание волосяного покрова шкурок 
+(Tom Ford, Louis Vuitton, Miu Miu), монохромность (Chanel, JW Anderson, Roberto Cavall, 
+Philipp Plein), разнообразные принты и техника деграде (Emilio Pucci, Saint Laurent, Gucci), 
+металлизация и люстрирование волосяного покрова для усиления оптических свойств и блеска 
+[24]. 
+
+Таблица 1 
+Матрица инновационных технологий окрашивания меха (фрагмент) [25] 
+
+Технология Визуализация Технология Визуализация 
+
+тонирование Деградация 
+(reinforcing) (degradation) 
+
+ 
+ 
+
+крашение наведение 
+однотонное хребтов (brush 
+
+(dyeing) stripe) 
+  
+
+Страница 4 из 15 
+13TLKL120 
+
+Издательство «Мир науки» \ Publishing company «World of science» http://izd-mn.com 
+
+
+
+Научный журнал «Костюмология» 2020, №1, Том 5 ISSN 2587-8026 
+Journal of Clothing Science 2020, No 1, Vol 5 https://kostumologiya.ru 
+
+ 
+
+Технология Визуализация Технология Визуализация 
+
+крашение 
+имитация окраса 
+
+фантазийное 
+(animal fur color) 
+
+(dyeing fantastic) 
+ 
+
+ 
+
+Преобладающим дизайнерским приемом декоративного оформления меховых изделий 
+стала мозаичная инкрустация – раскрой изделия из лоскутков меха, соединенных в 
+орнаментальные композиции в виде геометрических, растительных или фантазийных узоров 
+(рис. 2). Многообразие художественных решений достигается за счет варьирования цветовых 
+сочетаний и изменения фактуры волосяного покрова стрижкой, комбинированием разных 
+видов меха и текстиля, использования новых техник расшивки меха полосками из 
+материалов-компаньонов. 
+
+    
+а б в г 
+
+   
+д е ж 
+
+Рисунок 2. Характерное декоративное оформление меховых изделий: а – пальто JC de 
+Castelbajac; б – парка Dsquared; в – пальто Gucci; г – полупальто Dsquared; д – платье Сusto-
+
+Вarcelona; е – пиджак Thom-Browne; ж – юбка Аshish (взято из открытых источников 
+http://www.mifur.com, http://www.vogue.ru/collection/) 
+
+Анализ силуэтного решения и пропорций меховой одежды последнего десятилетия 
+(табл. 2) показал, что преобладающими силуэтами являются полуприлегающий (31 %) и овал 
+(28 %); при этом сохранены тенденции влияния прямого (23 %) и трапециевидного (18 %) 
+силуэтов. Меховой декор преобладает в верхней части (67 %) изделий (воротники, капюшоны, 
+горжетки, снуды), популярна меховая опушка по низу изделия и рукавов (43 %). Крупные 
+меховые детали в одежде из кожи и текстиля могут располагаться в центральной части переда 
+(38 %), по спинке (32 %), рукавах (32 %). 
+
+Устойчивый спрос на меховую одежду сохраняется благодаря преемственности 
+дизайнерских идей в технологиях и композиционном решении промышленных аналогов. В 
+последнее десятилетие стало возможным оснащение отечественных предприятий отрасли 
+новыми технологическими и информационными ресурсами, внедрение практики 
+
+Страница 5 из 15 
+13TLKL120 
+
+Издательство «Мир науки» \ Publishing company «World of science» http://izd-mn.com 
+
+
+
+Научный журнал «Костюмология» 2020, №1, Том 5 ISSN 2587-8026 
+Journal of Clothing Science 2020, No 1, Vol 5 https://kostumologiya.ru 
+
+ 
+
+инновационной отделки пушно-меховых полуфабрикатов [26], высокая степень механизации и 
+автоматизации отделочных работ в меховой индустрии. Особенностью современного мехового 
+производства является вариативность конфекционирования [27], т. е. формирование баз 
+данных свойств пушно-меховых полуфабрикатов [28], на основе которых технологи 
+выполняют подбор на изделие нескольких видов меха со схожими визуальными и тактильными 
+характеристиками. 
+
+Таблица 2 
+Матрица силуэтных форм и декоративного оформления 
+
+меховой одежды (на примере женского пальто, период 2009–2018 гг.) 
+
+Период, 
+Характерное силуэтное решение Характерное расположение меховой отделки 
+
+год 
+
+2009 
+
+  
+
+2010 
+
+  
+
+2011 
+
+  
+
+Страница 6 из 15 
+13TLKL120 
+
+Издательство «Мир науки» \ Publishing company «World of science» http://izd-mn.com 
+
+
+
+Научный журнал «Костюмология» 2020, №1, Том 5 ISSN 2587-8026 
+Journal of Clothing Science 2020, No 1, Vol 5 https://kostumologiya.ru 
+
+ 
+
+Период, 
+Характерное силуэтное решение Характерное расположение меховой отделки 
+
+год 
+
+2012 
+
+  
+
+2013 
+
+  
+
+2014 
+
+  
+
+2015 
+
+  
+
+Страница 7 из 15 
+13TLKL120 
+
+Издательство «Мир науки» \ Publishing company «World of science» http://izd-mn.com 
+
+
+
+Научный журнал «Костюмология» 2020, №1, Том 5 ISSN 2587-8026 
+Journal of Clothing Science 2020, No 1, Vol 5 https://kostumologiya.ru 
+
+ 
+
+Период, 
+Характерное силуэтное решение Характерное расположение меховой отделки 
+
+год 
+
+2016 
+
+  
+
+2017 
+
+  
+
+2018 
+
+  
+
+Такой подход позволяет предприятиям формировать промышленные коллекции одежды 
+из меха более высокой социальной значимостью [29] в более доступной ценовой категории. 
+Например, визуальные особенности волосяного покрова (рис. 3) меха норки сопоставимы по 
+интенсивности блеска и цветовой гамме с аналогичными характеристиками шкурок соболя, 
+бобра и куницы [28]. 
+
+Существуют видовые отличия в геометрии пушно-меховых полуфабрикатов, 
+различаются густота и опушенность волосяного покрова, соотношение категорий волос 
+(остевые, пуховые, кроющие), что является знаковым для товарных свойств меха [30] и 
+определяет эксплуатационные характеристики и носкость изделий [31]. 
+
+Страница 8 из 15 
+13TLKL120 
+
+Издательство «Мир науки» \ Publishing company «World of science» http://izd-mn.com 
+
+
+
+Научный журнал «Костюмология» 2020, №1, Том 5 ISSN 2587-8026 
+Journal of Clothing Science 2020, No 1, Vol 5 https://kostumologiya.ru 
+
+ 
+
+      
+а б в г д е 
+
+Рисунок 3. Сравнение визуальных характеристик волосяного покрова 
+различных видов меха: а – соболь; б – норка коричневая; в – норка американская; г – бобр; 
+
+д – куница лесная; е – нутрия [24] 
+
+Выравниванием стрижкой высоты волосяного покрова, удалением щипкой остевых 
+волос, окрашиванием, тонированием и люстрированием можно достичь существенного 
+сходства качественных характеристик пушно-меховых полуфабрикатов разных видов [32; 33], 
+что позволяет прогнозировать и регулировать конструкторско-технологические 
+характеристики проектируемых изделий [27], расширять ассортиментные группы 
+промышленных коллекций одежды из меха. Исследование востребованности меховой одежды 
+на отечественном рынке [34] показало, что активными покупателями цельномеховых изделий 
+или моделей с деталями из меха являются работающие женщины средней возрастной группы 
+(87 %), при этом более 40 % респондентов ежегодно (или через год) меняют гардероб, поэтому 
+выбирают одежду из меха экономичной категории с измененными свойствами, имитирующими 
+волосяной покров дорогих видов (рис. 4, рис. 5). 
+
+    
+а б в г 
+
+    
+д е ж з 
+
+Рисунок 4. Сравнение визуальных характеристики мехов-имитаторов: а – шкурки норки, 
+имитирующие окрас волосяного покрова леопарда; б, в, г – варианты окраса на пластинах; 
+д – шкурка шиншиллы; е, ж, з – варианты окраса на шкурках кролика с разным раппортом 
+
+хребтов (из открытых источников http://meha-shkurki.ru/) [35] 
+
+    
+а б в г 
+
+Рисунок 5. Модели женской одежды из оригинальных видов меха и имитаторов: 
+а, б – изделия из меха норки, имитирующего окрас животных, занесенных в Красную Книгу; 
+
+в – жакет из меха шиншиллы; г – полупальто из меха кролика, имитирующего окрас 
+шиншиллы (из открытых источников https://www.greek-furs.com/) [36] 
+
+Страница 9 из 15 
+13TLKL120 
+
+Издательство «Мир науки» \ Publishing company «World of science» http://izd-mn.com 
+
+
+
+Научный журнал «Костюмология» 2020, №1, Том 5 ISSN 2587-8026 
+Journal of Clothing Science 2020, No 1, Vol 5 https://kostumologiya.ru 
+
+ 
+
+Заключение 
+
+Исследованием установлено, что в развитии меховой моды наблюдается значительное 
+сокращение цикличных периодов. За последнее десятилетие изменились силуэтные формы и 
+объемы меховой одежды, способы раскроя пушно-мехового полуфабриката, наблюдается 
+ежегодное обновление композиционных решений меховых изделий. 
+
+Внедрение на меховых предприятиях прогрессивных технологий отделки пушно-
+меховых полуфабрикатов направлено на изменение и совершенствование природных свойств 
+меха. Согласно современным модным тенденциям, изменяют визуальные, тактильные и 
+физико-механические свойства шкурок: 
+
+• отбеливают, окрашивают в яркие или анималистические цвета, наносят принты; 
+
+• люстрированием и металлизацией изменяют оптические свойства волосяного 
+покрова, добиваясь большей степени блеска; 
+
+• выполняют равномерную или фактурную стрижку волосяного покрова, удаляя 
+остевые и направляющие волосы для придания дополнительной мягкости и 
+пышности; 
+
+• комбинируют способы раскроя для достижения композиционного (изменение 
+фактуры поверхности) и технологического (увеличение площади шкурки) 
+эффектов. 
+
+Новые технологии обработки шкурок позволяют значительно уменьшать толщину 
+кожевой ткани, что придает меху большую драпируемость и снижает массу. С улучшением 
+физико-механических свойств мех стал пригоден для проектирования изделий нового 
+ассортимента – платьев, блуз, брюк, юбок. 
+
+Инновации в технологиях воздействия на структуру меха способствовали 
+формированию новой концепции конфекционирования меховой одежды. Современное 
+проектирование современной меховой одежды может опираться на управление свойствами 
+пушно-мехового полуфабриката на всех этапах его производства, что расширяет разнообразие 
+выбора меха для дизайнеров, многовариантность подбора шкурок для производителей, 
+уникальность и оригинальность меховых изделий для потребителей. 
+
+ 
+
+ЛИТЕРАТУРА 
+
+1. Цепкина И.А., Николаевская В.А. Моделирование и художественное оформление 
+меховых изделий. – М.: Легкая индустрия, 1973. – 211 с. 
+
+2. Кутюшев Ф.С. Скорняжное производство. – М.: Легпромбытиздат, 1989. – 224 с. 
+
+3. Пармон Ф.М. Одежда из кожи и меха: традиции и современность. – М.: Триада 
+плюс, 2004. – 280 с. 
+
+4. McQuaid P. Fur is everywhere this fall, but will L.A.'s Fashionistas accept it?: Warming 
+Trend // The Los Angeles Times. – 2004, August 15. 
+
+5. Балакирев Н.А., Новиков М.В., Белгородский В.С., Андреева Е.Г., Гусева М.А. 
+Основные тренды клеточного пушного звероводства // В сб. науч. трудов 
+Междунар. науч.-техн. симпозиума «Современные проблемы ключевых отраслей 
+промышленности». – М: РГУ им. А.Н. Косыгина, 2019. – С. 16–19. 
+
+Страница 10 из 15 
+13TLKL120 
+
+Издательство «Мир науки» \ Publishing company «World of science» http://izd-mn.com 
+
+
+
+Научный журнал «Костюмология» 2020, №1, Том 5 ISSN 2587-8026 
+Journal of Clothing Science 2020, No 1, Vol 5 https://kostumologiya.ru 
+
+ 
+
+6. Gibson R.W. Animal rights assaults: Activists aim to skin the fur industry // The Los 
+Angeles Times. – 1989, April 30. 
+
+7. Гусева М.А., Андреева Е.Г., Петросова И.А., Зарецкая Г.П. Перспективы развития 
+потребительского рынка меховой продукции в России // Известия вузов. 
+Технология текстильной промышленности. – 2018, №1 (373). – С. 189–191. 
+
+8. Regulation No 1523/2007 «Regulation on the ban of cat and dog fur» // appl. 
+31.12.2008 in the EU. URL: http://ec.europa.eu/food/animals/welfare/other_aspects/c
+at_dog_fur_en (дата обращения: 17.01.2020). 
+
+9. Cai L., Yu X. Fur fashion design. – Shanghai: Donghua University Press, 2009. – 249 p. 
+
+10. Harpera C. I found myself inside her fur // Textile: The Journal of Cloth and culture. – 
+2008, Vol.6, Is.3. – P. 300–313. 
+
+11. Xu T., Fang M., Li G.D. Study on the Innovative Design of Fur Clothing // Advanced 
+Materials Research. – 2011, Vol.331, Sept. – P. 586–589. 
+
+12. Mei D. Fur and fur clothing creative design. – Beijing: China Textile Press, 2005. – 
+277 p. 
+
+13. Gallery. URL: http://www.mifur.com (дата обращения 17.01.2020). 
+
+14. Voque. URL: http://www.vogue.ru/collection/ (дата обращения 17.01.2020). 
+
+15. Колташова Л.Ю., Картузова Е.Д., Алибекова М.И. Новые технологии отделки в 
+проектировании современных изделий из меха // В сб. мат. Всерос. науч.-практ. 
+конф. «Cоциально-гуманитарные инновации: стратегии фундаментальных и 
+прикладных научных исследований». – Оренбург: ОГУ, 2019. – С. 1023–1027. 
+
+16. Бужинский Ч., Дуда И., Джежа Р., Сулига А. Скорняжное производство. – М.: 
+Легпромбытиздат, 1985. – 128 с. 
+
+17. Барыкин А.М. Технология меховых скроев. – М.: Легкая индустрия, 1973. – 174 с. 
+
+18. Гусева М.А., Андреева Е.Г., Петросова И.А. Влияние метода раскроя шкурок на 
+конструктивные параметры меховых изделий // Вестник технологического 
+университета. – 2017, Т.20, №5. – С. 56–60. 
+
+19. Women s ready to wear. URL: http://www.gucci.com (дата обращения 17.01.2020). 
+
+20. Prêt-à-porter. URL: http://www.dior.com (дата обращения 17.01.2020). 
+
+21. Fall-winter. URL: http://www.dolcegabbana.com (дата обращения 17.01.2020). 
+
+22. Fendi’s fur collection URL: http://www.fendi.com/ii/woman/fur-collection.html (дата 
+обращения 17.01.2020). 
+
+23. Стаценко А.Е., Алибекова М.И., Колташова Л.Ю. Мех как композиционный 
+центр в современном решении образа // В сб. мат. Междунар. науч. студ. конф. 
+«Инновационное развитие легкой и текстильной промышленности (ИНТЕКС-
+2018)», 2018. – С. 107–109. 
+
+24. Новиков М.В., Гусева М.А., Андреева Е.Г. Шкала оценки степени блеска 
+волосяного покрова разных видов пушно-меховых шкурок // Дизайн и 
+технологии. – 2018, № 67 (109). – С. 35–43. 
+
+25. Способы обработки мехов. http://fur-auction.ru/allfur/methods.html (дата 
+обращения 17.01.2020). 
+
+Страница 11 из 15 
+13TLKL120 
+
+Издательство «Мир науки» \ Publishing company «World of science» http://izd-mn.com 
+
+
+
+Научный журнал «Костюмология» 2020, №1, Том 5 ISSN 2587-8026 
+Journal of Clothing Science 2020, No 1, Vol 5 https://kostumologiya.ru 
+
+ 
+
+26. Austin W.E. Principles and practice of fur dressing and fur dyeing. – North Charleston: 
+CreateSpace Independent Publishing Platform, 2013. – 130 p. 
+
+27. Гусева М.А., Андреева Е.Г. Систематизация требований к пушно-меховому 
+полуфабрикату для управления качеством процесса проектирования меховой 
+одежды // Физика волокнистых материалов: структура, свойства, наукоемкие 
+технологии и материалы (SMARTEX). – 2017, №1(1). – С. 301–307. 
+
+28. Гусева М.А., Новиков М.В., Андреева Е.Г., Белгородский В.С., Петросова И.А., 
+Балакирев Н.А. Базовые цифровые шкалы эстетических и геометрических 
+свойств меха // Свид-во о гос. рег. БД №2019620409 RU. Патентообладатель: РГУ 
+им. А.Н. Косыгина; опубл. 15.03.2019. 
+
+29. Гусева М.А., Андреева Е.Г., Белгородский В.С., Новиков М.В., Балакирев Н.А. 
+Шкалы социальной значимости меха на национальном и глобальном рынках // В 
+сб. науч. тр. Междунар. науч.-техн. симпозиума «Современные инженерные 
+проблемы в производстве товаров народного потребления», Часть 1. – М.: РГУ 
+им. А.Н. Косыгина, 2019. – С. 56–62. 
+
+30. Беседин А.Н., Каспарьянц С.А., Игнатенко В.Б. Товароведение и экспертиза 
+меховых товаров. – М.: Академия, 2007. – 208 с. 
+
+31. Гусева М.А., Андреева Е.Г., Новиков М.В. Шкала оценки носкости разных видов 
+пушно-меховых шкурок // В сб. мат. Междунар. науч.-практ. конф. «Качество и 
+безопасность товаров: от производства до потребления». – М.: РУК, 2019. – С. 
+163–168. 
+
+32. Новиков М.В. Показатели качества пушно-мехового полуфабриката // 
+Ветеринария, зоотехния и биотехнология. – 2015, № 8. – С. 54–63. 
+
+33. Рассадина С.П., Койтова Ж.Ю., Борисова Е.Н. К вопросу классификации 
+характеристик строения волосяного покрова пушно-меховых полуфабрикатов// 
+Известия вузов. Технология текстильной промышленности. – 2013, № 3 (345). – 
+С. 101–104. 
+
+34. Кирьянова Е.Г., Гусева М.А., Андреева Е.Г., Новиков М.В. Исследование 
+декоративных свойств пушно-мехового полуфабриката для инноваций в 
+конфекционировании одежды // В сб. «Инновационные решения в товароведении 
+сырья, продукции и рециклинг вторичных ресурсов АПК». – М.: МГАВМиБ, 
+2017. – С. 39–43. 
+
+35. Furnatur. URL: http://meha-shkurki.ru/mehovaya-kompaniya (дата обращения 
+17.01.2020). 
+
+36. GREEK-FURS. URL: https://www.greek-furs.com (дата обращения: 17.01.2020). 
+
+  
+
+Страница 12 из 15 
+13TLKL120 
+
+Издательство «Мир науки» \ Publishing company «World of science» http://izd-mn.com 
+
+
+
+Научный журнал «Костюмология» 2020, №1, Том 5 ISSN 2587-8026 
+Journal of Clothing Science 2020, No 1, Vol 5 https://kostumologiya.ru 
+
+ 
+
+Guseva Marina Anatolievna 
+Russian state university named A.N. Kosygin (Technologies. Design. Art), Moscow, Russia 
+
+E-mail: guseva_marina67@mail.ru 
+ 
+
+Koltashova Liudmila Yurievna 
+Russian state university named A.N. Kosygin (Technologies. Design. Art), Moscow, Russia 
+
+E-mail: lusia987@yandex.ru 
+ 
+
+Andreeva Elena Georgievna 
+Russian state university named A.N. Kosygin (Technologies. Design. Art), Moscow, Russia 
+
+E-mail: elenwise@mail.ru 
+ 
+
+Alibekova Mariyat Ismailovna 
+Russian state university named A.N. Kosygin (Technologies. Design. Art), Moscow, Russia 
+
+E-mail: mariyat-alibekova@yandex.ru 
+
+Analysis of the modern development of fur fashion 
+Abstract. With the availability of key innovations in related industries (chemical and 
+
+mechanical engineering), the development of fur fashion has accelerated. Previously, products from 
+expensive furs (sable, mink, lynx, chinchilla) were in demand only in an aristocratic and artistic 
+environment, and for a wide consumer audience, clothes and hats from fur-fur semi-finished products 
+of an economic category (sheepskin, astrakhan, squirrel, groundhog, mole, arctic fox, fox, sea animal, 
+etc.). With the development of new chemical dyes and technological equipment for cutting hair in the 
+manufacture of fur clothes, a new direction has emerged – the design of products made of imitation 
+furs, which contributed to the accessibility of a wide range of clothing consumers with enhanced visual 
+and tactical characteristics. The article presents the characteristics of modern technologies for 
+influencing the structure of fur, which allow changing the natural properties of the hair cover-color, 
+optical and geometric characteristics, the ratio of hairs of different categories, texture. By changing the 
+structure of the skin tissue, new physical and mechanical characteristics close to the properties of 
+textile materials are achieved. One of the results of the introduction of new technologies was the 
+appearance at the beginning of the 21st century of a new non-traditional assortment of fur clothes – 
+dresses, skirts, trousers, tops, blouses. The fur in the products is combined with various materials 
+(wool, silk, jeans, knitwear, leather, plastic). Innovative technologies for cutting fur-fur semi-finished 
+products make it possible to obtain surfaces that are complex in texture, sometimes resembling mosaic 
+panels. Creative fur clothes are becoming available to consumers, and fur fashion is acquiring the 
+trends of annual change of patterns. 
+
+The article analyzes the development of fur fashion in the last decade. As a result of the 
+research, the authors identified the predominant characteristics of the style solution of products, 
+priority types of fur in design collections, analyzed innovations in finishing and trends in the 
+combination of companion materials in clothing. The article presents the authors' classification of fur 
+products by assortment groups. 
+
+Keywords: types of fur; hairline; composition; silhouette solution; assortment; imitators 
+
+ 
+
+REFERENCES 
+
+1. Tsepkina I.A., Nikolaevskaya V.A. Modelirovanie i khudozhestvennoe oformlenie 
+mekhovykh izdeliy. – M.: Legkaya industriya, 1973. – 211 s. 
+
+2. Kutyushev F.S. Skornyazhnoe proizvodstvo. – M.: Legprombytizdat, 1989. – 224 s. 
+
+Страница 13 из 15 
+13TLKL120 
+
+Издательство «Мир науки» \ Publishing company «World of science» http://izd-mn.com 
+
+
+
+Научный журнал «Костюмология» 2020, №1, Том 5 ISSN 2587-8026 
+Journal of Clothing Science 2020, No 1, Vol 5 https://kostumologiya.ru 
+
+ 
+
+3. Parmon F.M. Odezhda iz kozhi i mekha: traditsii i sovremennostʹ. – M.: Triada plyus, 
+2004. – 280 s. 
+
+4. McQuaid P. Fur is everywhere this fall, but will L.A.'s Fashionistas accept it?: Warming 
+Trend // The Los Angeles Times. – 2004, August 15. 
+
+5. Balakirev N.A., Novikov M.V., Belgorodskiy V.S., Andreeva E.G., Guseva M.A. 
+Osnovnye trendy kletochnogo pushnogo zverovodstva // V sb. nauch. trudov 
+Mezhdunar. nauch.-tekhn. simpoziuma «Sovremennye problemy klyuchevykh otrasley 
+promyshlennosti». – M: RGU im. A.N. Kosygina, 2019. – S. 16–19. 
+
+6. Gibson R.W. Animal rights assaults: Activists aim to skin the fur industry // The Los 
+Angeles Times. – 1989, April 30. 
+
+7. Guseva M.A., Andreeva E.G., Petrosova I.A., Zaretskaya G.P. Perspektivy razvitiya 
+potrebitelʹskogo rynka mekhovoy produktsii v Rossii // Izvestiya vuzov. Tekhnologiya 
+tekstilʹnoy promyshlennosti. – 2018, №1 (373). – S. 189–191. 
+
+8. Regulation No 1523/2007 «Regulation on the ban of cat and dog fur» // appl. 31.12.2008 
+in the EU. URL: http://ec.europa.eu/food/animals/welfare/other_aspects/cat_dog_fur_
+en (data obrashcheniya: 17.01.2020). 
+
+9. Cai L., Yu X. Fur fashion design. – Shanghai: Donghua University Press, 2009. – 249 p. 
+
+10. Harpera C. I found myself inside her fur // Textile: The Journal of Cloth and culture. – 
+2008, Vol.6, Is.3. – P. 300–313. 
+
+11. Xu T., Fang M., Li G.D. Study on the Innovative Design of Fur Clothing // Advanced 
+Materials Research. – 2011, Vol.331, Sept. – P. 586–589. 
+
+12. Mei D. Fur and fur clothing creative design. – Beijing: China Textile Press, 2005. – 
+277 p. 
+
+13. Gallery. URL: http://www.mifur.com (data obrashcheniya 17.01.2020). 
+
+14. Voque. URL: http://www.vogue.ru/collection/ (data obrashcheniya 17.01.2020). 
+
+15. Koltashova L.Yu., Kartuzova E.D., Alibekova M.I. Novye tekhnologii otdelki v 
+proektirovanii sovremennykh izdeliy iz mekha // V sb. mat. Vseros. nauch.-prakt. konf. 
+«Cotsialʹno-gumanitarnye innovatsii: strategii fundamentalʹnykh i prikladnykh 
+nauchnykh issledovaniy». – Orenburg: OGU, 2019. – S. 1023–1027. 
+
+16. Buzhinskiy Ch., Duda I., Dzhezha R., Suliga A. Skornyazhnoe proizvodstvo. – M.: 
+Legprombytizdat, 1985. – 128 s. 
+
+17. Barykin A.M. Tekhnologiya mekhovykh skroev. – M.: Legkaya industriya, 1973. – 
+174 s. 
+
+18. Guseva M.A., Andreeva E.G., Petrosova I.A. Vliyanie metoda raskroya shkurok na 
+konstruktivnye parametry mekhovykh izdeliy // Vestnik tekhnologicheskogo 
+universiteta. – 2017, T.20, №5. – S. 56–60. 
+
+19. Women s ready to wear. URL: http://www.gucci.com (data obrashcheniya 17.01.2020). 
+
+20. Prêt-à-porter. URL: http://www.dior.com (data obrashcheniya 17.01.2020). 
+
+21. Fall-winter. URL: http://www.dolcegabbana.com (data obrashcheniya 17.01.2020). 
+
+22. Fendi’s fur collection URL: http://www.fendi.com/ii/woman/fur-collection.html (data 
+obrashcheniya 17.01.2020). 
+
+Страница 14 из 15 
+13TLKL120 
+
+Издательство «Мир науки» \ Publishing company «World of science» http://izd-mn.com 
+
+
+
+Научный журнал «Костюмология» 2020, №1, Том 5 ISSN 2587-8026 
+Journal of Clothing Science 2020, No 1, Vol 5 https://kostumologiya.ru 
+
+ 
+
+23. Statsenko A.E., Alibekova M.I., Koltashova L.Yu. Mekh kak kompozitsionnyy tsentr v 
+sovremennom reshenii obraza // V sb. mat. Mezhdunar. nauch. stud. konf. 
+«Innovatsionnoe razvitie legkoy i tekstilʹnoy promyshlennosti (INTEKS-2018)», 2018. 
+– S. 107–109. 
+
+24. Novikov M.V., Guseva M.A., Andreeva E.G. Shkala otsenki stepeni bleska 
+volosyanogo pokrova raznykh vidov pushno-mekhovykh shkurok // Dizayn i 
+tekhnologii. – 2018, № 67 (109). – S. 35–43. 
+
+25. Sposoby obrabotki mekhov. http://fur-auction.ru/allfur/methods.html (data 
+obrashcheniya 17.01.2020). 
+
+26. Austin W.E. Principles and practice of fur dressing and fur dyeing. – North Charleston: 
+CreateSpace Independent Publishing Platform, 2013. – 130 p. 
+
+27. Guseva M.A., Andreeva E.G. Sistematizatsiya trebovaniy k pushno-mekhovomu 
+polufabrikatu dlya upravleniya kachestvom protsessa proektirovaniya mekhovoy 
+odezhdy // Fizika voloknistykh materialov: struktura, svoystva, naukoemkie 
+tekhnologii i materialy (SMARTEX). – 2017, №1(1). – S. 301–307. 
+
+28. Guseva M.A., Novikov M.V., Andreeva E.G., Belgorodskiy V.S., Petrosova I.A., 
+Balakirev N.A. Bazovye tsifrovye shkaly ehsteticheskikh i geometricheskikh svoystv 
+mekha // Svid-vo o gos. reg. BD №2019620409 RU. Patentoobladatelʹ: RGU im. A.N. 
+Kosygina; opubl. 15.03.2019. 
+
+29. Guseva M.A., Andreeva E.G., Belgorodskiy V.S., Novikov M.V., Balakirev N.A. 
+Shkaly sotsialʹnoy znachimosti mekha na natsionalʹnom i globalʹnom rynkakh // V sb. 
+nauch. tr. Mezhdunar. nauch.-tekhn. simpoziuma «Sovremennye inzhenernye problemy 
+v proizvodstve tovarov narodnogo potrebleniya», Chastʹ 1. – M.: RGU im. A.N. 
+Kosygina, 2019. – S. 56–62. 
+
+30. Besedin A.N., Kasparʹyants S.A., Ignatenko V.B. Tovarovedenie i ehkspertiza 
+mekhovykh tovarov. – M.: Akademiya, 2007. – 208 s. 
+
+31. Guseva M.A., Andreeva E.G., Novikov M.V. Shkala otsenki noskosti raznykh vidov 
+pushno-mekhovykh shkurok // V sb. mat. Mezhdunar. nauch.-prakt. konf. «Kachestvo 
+i bezopasnostʹ tovarov: ot proizvodstva do potrebleniya». – M.: RUK, 2019. – S. 163–
+168. 
+
+32. Novikov M.V. Pokazateli kachestva pushno-mekhovogo polufabrikata // Veterinariya, 
+zootekhniya i biotekhnologiya. – 2015, № 8. – S. 54–63. 
+
+33. Rassadina S.P., Koytova Zh.Yu., Borisova E.N. K voprosu klassifikatsii kharakteristik 
+stroeniya volosyanogo pokrova pushno-mekhovykh polufabrikatov// Izvestiya vuzov. 
+Tekhnologiya tekstilʹnoy promyshlennosti. – 2013, № 3 (345). – S. 101–104. 
+
+34. Kirʹyanova E.G., Guseva M.A., Andreeva E.G., Novikov M.V. Issledovanie 
+dekorativnykh svoystv pushno-mekhovogo polufabrikata dlya innovatsiy v 
+konfektsionirovanii odezhdy // V sb. «Innovatsionnye resheniya v tovarovedenii syrʹya, 
+produktsii i retsikling vtorichnykh resursov APK». – M.: MGAVMiB, 2017. – S. 39–
+43. 
+
+35. Furnatur. URL: http://meha-shkurki.ru/mehovaya-kompaniya (data obrashcheniya 
+17.01.2020). 
+
+36. GREEK-FURS. URL: https://www.greek-furs.com (data obrashcheniya: 17.01.2020). 
+
+Страница 15 из 15 
+13TLKL120 
+
+Издательство «Мир науки» \ Publishing company «World of science» http://izd-mn.com

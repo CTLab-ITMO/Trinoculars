@@ -1,0 +1,418 @@
+﻿ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+УДК 669.15:621.793.6
+
+ВЛИЯНИЕ СОСТАВА НАСЫЩАЮЩИХ ПОРОШКОВЫХ СРЕД  
+НА СТРУКТУРУ И СВОЙСТВА ДИФФУЗИОННЫХ КАРБИДНЫХ СЛОЕВ
+
+В.А. БУТУХАНОВ, инженер
+Б.Д. ЛЫГДЕНОВ, доктор техн. наук, доцент
+(ВСГУТУ, г. Улан-Удэ)
+
+Поступила 25 апреля 2016
+Рецензирование 10 мая 2016
+Принята к печати 15 мая 2016
+
+Бутуханов В.А. – 670013, Республика Бурятия, г.Улан-Удэ, ул. Ключевская, д. 40 В,
+Восточно-Сибирский государственный университет технологий и управления,
+
+e-mail: butuhanov_vyacheslav@mail.ru
+
+Выполнена оптимизация составов насыщающих смесей в системе Cr-V по износостойкости при трении 
+скольжения без смазки диффузионных карбидных слоев, полученных на стали У7 методом химико-терми-
+ческой обработки. Математическое моделирование позволило сократить число опытов и определить опти-
+мальный состав двухкомпонентной смеси для обеспечения максимальной износостойкости. Проведены ис-
+следования структуры и свойств диффузионных слоев методами металлографического, дюрометрического и 
+микрорентгеноспектрального анализов. Установлено, что при одновременном насыщении в порошках фер-
+росплавов формируются диффузионные слои на основе карбидов ванадия и карбидов хрома. Показано, что 
+двухкомпонентные слои превосходят однокомпонентные по износостойкости. При насыщении стали У7 в 
+составе, содержащем 76 % феррованадия и 24 % феррохрома, износостойкость при трении скольжения без 
+смазки в 22,4 раза превышает износостойкость образцов после закалки и низкого отпуска. Установлено, что 
+повышение уровня износостойкости обусловлено увеличением твердости диффузионного слоя до значения 
+25 ГПа и наличием карбидной фазы типа VC.
+
+Ключевые слова: химико-термическая обработка, диффузионные слои, планирование эксперимента, 
+рентгеноспектральный анализ, износостойкость, микротвердость.
+
+DOI: 10.17212/1994-6309-2016-2-80-86
+
+Введение из преимуществ метода ХТО является высокая 
+адгезия в результате взаимной диффузии ком-
+
+Для повышения износостойкости стальных понентов. Известно, что особенно высокими 
+изделий широкое применение нашли карбид- показателями механических свойств обладают 
+ные слои. Карбиды сочетают в себе высокие многокомпонентные диффузионные слои [8, 9]. 
+физико-химические и механические свойства Экстремум свойств достигается в сложных кар-
+[1]. Анализ литературных данных о нанесении бидных системах, образованных при наличии 
+карбидных покрытий на поверхность сталей и взаимной растворимости карбидов. Оптимиза-
+твердых сплавов показал возможность получе- ция по твердости и износостойкости процесса 
+ния износостойких слоев с помощью различных диффузионного насыщения высокоуглеродистой 
+технологий (химико-термическая обработка, стали хромом, ванадием, марганцем на основе 
+PVD, CVD, электронно-лучевая обработка) [2– порошков оксидов соответствующих металлов 
+7]. Метод химико-термической обработки (ХТО) выполнялась автором работы [10]. Специаль-
+выбран авторами в связи с простотой применя- ную насыщающую смесь получали методом 
+емого технологического оборудования. Одним СВС путем восстановления оксида алюминием. 
+
+80 № 2 (71) 2016
+
+
+
+МАТЕРИАЛОВЕДЕНИЕ ОБРАБОТКА  МЕТАЛЛОВ
+
+В результате исследований установлено повы- сительной износостойкости Kи рассчитывали по 
+шение стойкости при абразивном изнашивании формуле
+до 40,5 раз по сравнению с образцом без ХТО. Dm
+Применение оксидов предполагает их предвари- K = ý
+
+è ,
+тельную подготовку (нагрев смеси с целью вос- Dmè
+
+становления) [11]. При использовании в каче- где Dmý  – потеря массы эталона; Dmè  – потеря 
+стве насыщающих сред порошков ферросплавов массы образца. В качестве эталона использовали 
+с грануляцией 0,4 мм подобная предварительная образцы стали У7 после закалки и низкого отпу-
+подготовка исключается. ска (HRC 58-60). Потерю массы определяли на 
+
+Цель настоящей работы состоит в исследова- аналитических весах WA-31.
+нии структуры и свойств диффузионных слоев Микроструктуру диффузионных слоев иссле-
+после насыщения в смесях с различным соотно- довали на оптическом микроскопе «Neophot-21». 
+шением феррохрома и феррованадия. В связи с толщиной диффузионных слоев, не 
+
+превышающей 20 мкм, для определения микро-
+Материалы и методы твердости изготавливали косые шлифы. Микро-
+
+твердость определяли на приборе ПМТ-3М при 
+Химико-термическую обработку осущест- нагрузке 0,5 Н. Микрорентгеноспектральный 
+
+вляли в контейнерах с плавким затвором при анализ проводили в Центре коллективного поль-
+1000 °С в течение 6 ч в муфельной электропечи. зования «Прогресс» на растровом электронном 
+
+Насыщающие смеси имели общий состав: микроскопе JSM-6510 LV JEOL с системой ми-
+50 [m FeCr + n FeV] + 45 Аl2O3 + 5 NH4Cl, кроанализа INCA Energy 350.
+
+где m и n – соотношения порошков феррохро- Результаты и обсуждение
+ма и феррованадия. Указанные соотношения 
+и соответствующие им составы приведены в Параметром оптимизации y являлась изно-
+табл. 1. состойкость в условиях трения скольжения без 
+
+смазки. Математическое моделирование соста-
+Т а б л и ц а  1 вов подробно описано в работе [14]. Получено 
+
+Номер состава FeCr, % FeV, % уравнение
+1 100 0 y = 19,36 + 4, 74x − 0,81x2 − 0,94x3 = f (X1).
+2 75 25  
+3 50 50 Адекватность уравнения эксперименталь-
+4 25 75 ным данным проверяли по критерию Фишера. 
+5 0 100 Подставив в уравнение безразмерные величи-
+
+ны X1и, рассчитали величины yè ðàñ÷  и невязки 
+Оксид алюминия предотвращал спекание Dи (табл. 2).
+
+частиц порошков и прилипание их к поверхно- Зависимость показателя относительной из-
+сти образцов. Хлористый аммоний, разлагаясь и носостойкости (в условиях трения скольжения 
+взаимодействуя с активными атомами насыщаю- без смазки) от состава насыщающей смеси пред-
+щих элементов, генерировал активную газовую ставлена на рис. 1.
+среду. Оптимальный состав двухкомпонентной 
+
+Оптимизацию составов насыщающих сме- смеси с максимальной износостойкостью (Kи = 
+сей по износостойкости осуществляли методом = 22,4 ед.) определили из полученного урав-
+симплекс-планирования [12, 13] по пяти экспе- нения: x1опт  = 076, т. е. 76 % феррованадия; 
+риментальным опытам. x2опт = 0,24, или 24 % феррохрома. Таким обра-
+
+Испытания на износостойкость карбидных зом, состав № 4 наиболее близок к оптимальному 
+слоев в условиях трения скольжения без смазки составу, рассчитанному методом симплекс-пла-
+по схеме «диск-плоскость» проводили на маши- нирования и обеспечивающему максимальную 
+не трения типа Амслера при нагрузке 500 Н и износостойкость в условиях трения скольжения 
+300 об/мин в течение 30 мин. Показатель отно- без смазки.
+
+№ 2 (71) 2016 81
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+Т а б л и ц а  2 
+
+№ п/п V, % x1и X1и Cr, % x2и yè ýêñï , ед y D
+è ðàñ÷ , ед и, ед
+
+1 0 0,0 –2 100 1,0 14,2 14,1 –0,1
+2 25 0,25 –1 75 0,75 14,6 14,7 0,1
+3 50 0,50 0 50 0,50 19,6 19,3 –0,3
+4 75 0,75 1 25 0,25 22,2 22,3 0,1
+5 100 1,00 2 0 0,0 18,1 18 –0,1
+
+При насыщении стали У7 в составе № 1 фор-
+мируется хромированный слой, содержащий 
+карбидные фазы типа (Cr,Fe)7C3 и (Cr,Fe)23C6 [15] 
+с микротвердостью 16…18 ГПа. Одновременное 
+насыщение двумя карбидообразующими элемен-
+тами состава № 2 (рис. 2) приводит к формирова-
+нию слоя с двумя участками: на основе карбида 
+хрома на внешней стороне слоя и карбида вана-
+дия, расположенного возле границы слой-основа. 
+Такое распределение элементов в диффузион-
+ном слое обусловлено тем, что ванадий является 
+
+Рис. 1. Зависимость показателя относительной изно- более сильным карбидообразующим элементом. 
+состойкости от состава насыщающей смеси В карбиде хрома микротвердостью 18 ГПа рас-
+
+Формирование карбидного слоя происхо- творено железо матрицы (≈ 28 вес.%) и вана-
+дит вследствие двух одновременно протекаю- дий (≈ 6 вес. %). Микрорентгеноспектральный 
+щих процессов: транспортировки атомов на-
+сыщающих элементов к поверхности образца 
+и диффузии атомов углерода из сердцевины к 
+поверхности. Таким образом, под карбидными 
+слоями наблюдаются плохо травящиеся обез-
+углероженные зоны. Анализ диаграмм состоя-
+ния систем Fe-C-Me позволяет сделать вывод, 
+что образующиеся переходные зоны представ-
+ляют собой эвтектоид, состоящий из твердо-
+го раствора V, Cr в α-железе. Микротвердость 
+переходной зоны сразу за границей раздела со 
+слоем на основе карбидов хрома и ванадия со-
+ставляет 4 ГПа.
+
+Эксплуатационные свойства карбидных 
+слоев зависят не только от состава, но и от со-
+держания и распределения углерода и леги-
+рующих элементов. Данные о распределении 
+элементов по толщине слоев представляют ин-
+терес, так как позволяют делать выводы о про-
+цессах диффузии элементов в слое.
+
+Для всех полученных слоев характерно, что 
+на границе раздела карбидный слой – матри- Рис. 2. Распределение элементов по площади шлифа 
+ца насыщаемой стали концентрация карбидо- на стали У7 после насыщения в смеси состава № 2 
+образующего элемента резко снижается, плав- (в характеристическом излучении хрома, ванадия, угле-
+но уменьшаясь по толщине переходной зоны. рода, железа)
+
+82 № 2 (71) 2016
+
+
+
+МАТЕРИАЛОВЕДЕНИЕ ОБРАБОТКА  МЕТАЛЛОВ
+
+анализ зафиксировал в карбиде ванадия при-
+сутствие хрома в количестве ≈ 8 вес. %. Дан-
+ное содержание хрома приводит к снижению 
+микротвердости карбида ванадия до значения 
+16 ГПа. Износостойкость образцов после на-
+сыщения в данном составе незначительно пре-
+вышает износостойкость образцов после хро-
+мирования в составе № 1. 
+
+После обработки в составе № 3 происходит 
+увеличение толщины участка карбида ванадия 
+по сравнению с составом № 2. Диффузионный 
+слой состоит из участка карбида ванадия и 
+тонкой кромки карбида хрома на внешней сто-
+роне. Увеличение составляющей карбида вана-
+дия приводит к повышению износостойкости. Рис. 4. Распределение элементов по площади шлифа на 
+
+При насыщении в составе № 4 (рис. 3), стали У7 после насыщения в смеси состава № 5 (в ха-
+показавшем близкие к максимальным значе- рактеристическом излучении ванадия, углерода, железа)
+ния износостойкости, формируется диффу-
+зионный слой на основе карбида ванадия, ле- Согласно фазовой диаграмме ванадий образует 
+гированный хромом в количестве ≈ 3 вес. %. с углеродом два карбида: VC и V2C. Микротвер-
+Микрорентгеноспектральный анализ показал, дость полукарбида ванадия, сформированного 
+что содержание ванадия соответствует карбиду на наружной стороне слоя, составляет 20 ГПа, а 
+типа VC. Микротвердость составляет 25 ГПа. микротвердость монокарбида, находящегося под 
+
+При насыщении в составе № 5 (рис. 4) диф- ним – 27 ГПа. Наличие полукарбида ванадия с 
+фузионный слой имеет двухслойную структуру. пониженной микротвердостью приводит к сни-
+
+жению износостойкости слоя. Отрицательную 
+роль играет слишком высокая микротвердость 
+монокарбида ванадия, приводящая к выкраши-
+ванию слоя.
+
+Выводы
+Проведены процессы диффузионного на-
+
+сыщения стали У7 в порошках ферросплавов 
+при их различных соотношениях. С помощью 
+метода симплекс-планирования выявлена об-
+ласть оптимальных составов порошковой сре-
+ды с соотношением 24…25 % феррохрома и 
+75…76 % феррованадия, ХТО в которой повы-
+шает износостойкость при трении скольжения 
+без смазки стали У7 в 22,2…22,4 раза по срав-
+нению с состоянием после закалки и низкого 
+отпуска. Установлено, что оптимизированный 
+слой состоит из легированного хромом карби-
+да VC с микротвердостью 25 ГПа. Повышение 
+износостойкости в условиях трения скольже-
+ния без смазки многокомпонентных карбид-
+
+Рис. 3. Распределение элементов по площади шлифа 
+на стали У7 после насыщения в смеси состава № 4 ных слоев обусловлено преобладанием в диф-
+(в характеристическом излучении хрома, ванадия, фузионном слое карбидов ванадия с высокой 
+
+углерода, железа) микротвердостью. Снижение уровня микро-
+
+№ 2 (71) 2016 83
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+твердости по сравнению с однокомпонентным 7. Structure of surface layers produced by non-
+насыщением ванадием (27 ГПа) оказывает бла- vacuum electeon beam boriding / I.A. Bataev, 
+гоприятное воздействие на уровень износостой- A.A. Bataev, M.G. Golkovski, D.S. Krivizhenko, 
+кости. Это обусловлено тем, что высокотвердая A.A. Losinskaya, O.G. Lenivtseva // Applied Sur-
+фаза под действием истирающей нагрузки вы- face Science. – 2013. – Vol. 284. – P. 472–481. – 
+крашивается. doi: 10.1016/j.apsusc.2013.07.121.
+
+8. Ворошнин Л.Г., Менделеева О.Л., Сметкин В.А. 
+Теория и технология химико-термической обработ-
+
+Список литературы ки. – Минск: Новое знание, 2010. – 304 с.
+1. Самсонов Г.В., Упадхая Г.Ш., Нешпор В.С. Фи- 9. Гурьев А.М., Лыгденов Б.Д., Власова О.А. Ин-
+
+зическое материаловедение карбидов. – Киев: Науко- тенсификация процессов химико-термической обра-
+ва думка, 1974. – 456 с. ботки металлов // Фундаментальные исследования. – 
+
+2. Comparison of mechanical properties of bo- 2008. – № 8. – С. 48–50.
+ronized and vanadium carbide coated AISI 1040 steels / 10. Шматов А.А. Моделирование процесса фор-
+A. Calik, F. Taylan, O. Sahin, N. Ucaf // Indian Journal of мирования карбидного слоя при диффузионном 
+Engineering and Materials Sciences. – 2009. – Vol. 16. – хромованадировании стали У8 // Вестник Полоцко-
+P. 326–330. го государственного университета. – 2011. – № 11: 
+
+3. Surface modification of the X40CrMoV5-1 Серия B: Промышленность. Прикладные науки. – 
+steel by laser alloying and PVD coatings deposition / С. 113–123.
+L.A. Dobrzanski, E. Jonda, K. Lukaszkowicz, K. Labisz, 11. Исследование процесса диффузионного насы-
+A. Klimpel // Journal of Achievements in Materials and щения в смеси, содержащей оксид ванадия и алюми-
+Manufacturing Engineering. – 2008. – Vol. 27, iss. 2. – ний / В.А. Бутуханов, А.Д. Грешилов, Б.Д. Лыгденов, 
+P. 179–182. О. Галаа // Ползуновский вестник. – 2012. – № 1-1. – 
+
+4. Dobrzanski L.A., Jonda E., Labisz K. Structure and С. 51–55.
+properties of surface layer of hot-work tool steels alloyed 12. Новик Ф.С. Математические методы пла-
+using high power diode laser // Journal of Achievements нирования экспериментов в металловедении. – М.: 
+in Materials and Manufacturing Engineering. – 2009. – МИСиС, 1970. – 106 с.
+Vol. 37, iss. 2. – P. 617–621. 13. Грачев Ю.П., Плаксин Ю.М. Математические 
+
+5. Electrolytic plasma processing for cleaning and методы планирования эксперимента. – М.: ДеЛи, 
+metal-coating of steel surfaces / E.I. Meletis, X. Nie, 2005. – 296 с. – ISBN 5-94343-096-2.
+F.L. Wang, J.C. Jiang // Surface and Coatings Tech- 14. Бутуханов В.А., Лыгденов Б.Д. Диффузион-
+nology. – 2002. – Vol. 150, iss. 2–3. – P. 246–256. – ные карбидные покрытия на стали У8А // Актуаль-
+doi: 10.1016/S0257-8972(01)01521-3. ные проблемы в машиностроении. – 2016. – № 3. – 
+
+6. Electron-beam boriding of low-carbon steel / С. 414–418.
+A.A. Novakova, I.G. Sizov, D.S. Golubok, T.Yu. Kisele- 15. Диффузионные карбидные покрытия / В.Ф. Ло-
+va, P.O. Revokatov // Journal of Alloys and Compounds. – скутов, В.Г. Хижняк, Ю.А. Куницкий, М.В. Кин-
+2004. – Vol. 383. – P. 108–112. – doi: 10.1016/j.jall- дарчук. – Киев: Технiка, 1991. – 168 с.
+com.2004.04.017.
+
+OBRABOTKA METALLOV
+(METAL WORKING AND MATERIAL SCIENCE)
+
+N 2 (71), April – June 2016, Pages 80–86
+
+The effect of powder mixtures composition on the structure and properties  
+of carbide diffusion layers
+
+Butukhanov V.A., Engineer, e-mail: butuhanov_vyacheslav@mail.ru
+Lygdenov B.D., D.Sc. (Engineering), Associate Professor, e-mail: lygdenov59@mail.ru
+
+East Siberia State University of Technology and Management, 40V Klyuchevskaya st., Ulan-Ude, 670013, Russian 
+Federation
+
+84 № 2 (71) 2016
+
+
+
+МАТЕРИАЛОВЕДЕНИЕ ОБРАБОТКА  МЕТАЛЛОВ
+
+Abstract
+
+Thick-walled cylinders (D/d ≥ 2) constitute a large group of parts with precise small diameter holes 
+(d = 1…10 mm). Improvement of surface finish and accuracy of small diameter holes is an actual task and requires 
+the development of new methods of processing and cold expansion is one of the most effective methods of finish-
+ing and hardening of holes in such parts. Along with high productivity, cold expansion helps to increase accuracy, 
+improve surface roughness, considerably work-harden surface layer and generate favorable compressive residual 
+stresses. However, residual stresses generated during cold expansion of parts such as thick-walled cylinders can be 
+undesirably high in some cases.
+
+It is supposed that in order to maintain high accuracy of holes and to reduce residual stresses after cold expan-
+sion of thick-walled cylinders, which undergo throughout plastic deformations, it is needed to perform axial plastic 
+compression with subsequent cold expansion with small interferences. To test the hypothesis, the accuracy of holes as 
+well as hoop, radial and axial residual stresses in cylinders made of steel grade 50 (0,5 % C, НВ 2170…2290 MPa) 
+with hole diameter d = 5 mm, outer diameter D = 15 and length L = 30 mm by Sachs method is studied. It is found 
+that double-cycle cold expansion with total interference аΣ/d = 5,1 % generates hoop residual stresses with largest 
+absolute value equal to 284 MPa, which, after plastic compression with strain ∆L/L equal to 0.5% and 1% and single-
+cycle cold expansion with interference a/d = 0,9 %, changed to 177 MPa. It is shown that high hole accuracy (IT7) 
+achieved through double-cycle expansion remained at the same high level after plastic compression and single-cycle 
+expansion.
+Keywords
+
+thick-walled cylinders, cold expansion, plastic compression, residual stresses
+DOI: 10.17212/1994-6309-2016-2-80-86
+
+References
+
+1. Samsonov G.V., Upadkhaya G.Sh., Neshpor V.S. Fizicheskoe materialovedenie karbidov [Physical materials 
+science of carbides]. Kiev, Naukova dumka Publ., 1974. 456 p.
+
+2. Calik A., Taylan F., Sahin O., Ucaf N. Comparison of mechanical properties of boronized and vanadium car-
+bide coated AISI 1040 steels. Indian Journal of Engineering and Materials Sciences, 2009, vol. 16, pp. 326–330.
+
+3. Dobrzanski L.A., Jonda E., Lukaszkowicz K., Labisz K., Klimpel A. Surface modification of the X40CrMoV5-1 
+steel by laser alloying and PVD coatings deposition. Journal of Achievements in Materials and Manufacturing Engi-
+neering, 2008, vol. 27, iss. 2, pp. 179–182.
+
+4. Dobrzanski L.A., Jonda E., Labisz K. Structure and properties of surface layer of hot-work tool steels alloyed 
+using high power diode laser. Journal of Achievements in Materials and Manufacturing Engineering, 2009, vol. 37, 
+iss. 2, pp. 617–621.
+
+5. Meletis E.I., Nie X., Wang F.L., Jiang J.C. Electrolytic plasma processing for cleaning and metal-coating 
+of steel surfaces. Surface and Coatings Technology, 2002, vol. 150, iss. 2–3, pp. 246–256. doi: 10.1016/S0257-
+8972(01)01521-3
+
+6. Novakova A.A., Sizov I.G., Golubok D.S., Kiseleva T.Yu., Revokatov P.O. Electron-beam boriding of low-
+carbon steel. Journal of Alloys and Compounds, 2004, vol. 383, pp. 108–112. doi: 10.1016/j.jallcom.2004.04.017
+
+7. Bataev I.A., Bataev A.A., Golkovski M.G., Krivizhenko D.S., Losinskaya A.A., Lenivtseva O.G. Structure of 
+surface layers produced by non-vacuum electeon beam boriding. Applied Surface Science, 2013, vol. 284, pp. 472–
+481. doi: 10.1016/j.apsusc.2013.07.121
+
+8. Voroshnin L.G., Mendeleeva O.L., Smetkin V.A. Teoriya i tekhnologiya khimiko-termicheskoi obrabotki [The-
+ory and technology of chemical-thermal treatment]. Minsk, Novoe znanie Publ., 2010. 304 p.
+
+9. Gur’ev A.M., Lygdenov B.D., Vlasova O.A. Intensifikatsiya protsessov khimiko-termicheskoi obrabotki 
+metallov [Intensification of metals thermochemical treatment]. Fundamental’nye issledovaniya – Fundamental Re-
+search, 2008, no. 8, pp. 48–50.
+
+10. Shmatov A.A. Modelirovanie protsessa formirovaniya karbidnogo sloya pri diffuzionnom khromovana-
+dirovanii stali U8 [Process modulation of forming diffusion Cr-V carbide coating on steel U8]. Vestnik Polotskogo 
+gosudarstvennogo universiteta. Seriya B: Promyshlennost’. Prikladnye nauki – Herald of Polotsk State University. 
+Series B. Industry. Applied Sciences, 2011, no. 11, pp. 113–123. (In Russian)
+
+11. Butukhanov V.A., Greshilov A.D., Lygdenov B.D., Galaa O. Issledovanie protsessa diffuzionnogo nasysh-
+cheniya v smesi, soderzhashchei oksid vanadiya i alyuminii [Study of diffusion saturation in a mixture of vanadium 
+oxide and aluminum]. Polzunovskii vestnik – Polzunov Bulletin, 2012, no. 1-1, pp. 51–55.
+
+№ 2 (71) 2016 85
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+12. Novik F.S. Matematicheskie metody planirovaniya eksperimentov v metallovedenii [Mathematical methods 
+for design of experiments in metal science]. Moscow, Moscow Institute of Steel and Alloys Publ., 1970. 106 p.
+
+13. Grachev Yu.P., Plaksin Yu.M. Matematicheskie metody planirovaniya eksperimenta [Mathematical methods 
+of design of experiment]. Moscow, DeLi Publ., 2005. 296 p. ISBN 5-94343-096-2
+
+14. Butukhanov V.A., Lygdenov B.D. Diffuzionnye karbidnye pokrytiya na stali U8A [Diffusion carbide coatings 
+on steel with 0,8 percent of carbon]. Aktual’nye problemy v mashinostroenii – Actual problems in machine building, 
+2016, no. 3, pp. 414–418.
+
+15. Loskutov V.F., Khizhnyak V.G., Kunitskii Yu.A., Kindarchuk M.V. Diffuzionnye karbidnye pokrytiya [Diffi-
+sion carbide coatings]. Kiev, Tehnika Publ., 1991. 168 p.
+
+Article history:
+Received 25 April 2016
+Revised 10 May 2016
+Accepted 15 May 2016
+
+86 № 2 (71) 2016

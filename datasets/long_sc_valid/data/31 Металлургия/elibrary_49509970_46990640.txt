@@ -1,0 +1,696 @@
+﻿УДК 539.4; 621.771.013 
+doi: 10.18323/2782-4039-2022-3-2-79-89 
+ 
+
+Термическая стабильность структуры стали ЭИ-961Ш  
+после комбинированной обработки 
+
+© 2022 
+1,3
+
+Фрик Александра Анатольевна* , аспирант кафедры материаловедения и физики металлов 
+1,2,4
+
+Никитина Марина Александровна , кандидат технических наук, старший научный сотрудник 
+1,5
+
+Исламгалиев Ринат Кадыханович , доктор физико-математических наук, профессор,  
+профессор кафедры материаловедения и физики металлов 
+
+1
+Уфимский государственный авиационный технический университет, Уфа (Россия) 
+
+2
+Башкирский государственный университет, Уфа (Россия) 
+
+ 
+3
+
+*E-mail: frikaleksandra@gmail.com ORCID: https://orcid.org/0000-0003-0483-2851 
+4ORCID: https://orcid.org/0000-0001-5623-6117 
+5ORCID: https://orcid.org/0000-0002-6234-7363 
+
+ 
+Поступила в редакцию 14.07.2021          Принята к публикации 28.07.2022 
+
+ 
+Аннотация: Важным аспектом при разработке материалов с повышенными функциональными свойствами яв-
+
+ляется обеспечение их способности выдерживать эксплуатационные температуры готового изделия. Для увеличе-
+ния срока службы и эффективности работы изделий, изготовленных из ферритно-мартенситных сталей, применя-
+ются различные виды деформационно-термических обработок. Исследовано влияние различных температурных 
+режимов на структуру и термическую стабильность ферритно-мартенситной стали ЭИ-961Ш, подвергнутой про-
+катке и дополнительной закалке. В качестве метода деформационно-термической обработки использовалась хо-
+лодная прокатка с последующей перезакалкой с температуры выше фазового перехода феррит/аустенит. Образцы 
+прокатывали в несколько проходов на лабораторном прокатном стане с деформацией за проход 6 % на конечную 
+толщину 4,3 мм до степени обжатия 70 %. Структурные исследования проводились методом просвечивающей 
+электронной микроскопии и растровой электронной микроскопии. Показано, что в результате прокатки формиро-
+валась бимодальная полосовая структура с распределением карбидных частиц Сr23C6 вдоль границ зерен. При 
+применении дополнительной закалки наблюдается увеличение доли глобулярных карбидов, в структуре при ис-
+следовании методом просвечивающей электронной микроскопии обнаружены нанодвойники. Ширина полос по-
+сле обжатия на 50 % составила 0,5 мкм, после холодной прокатки и дополнительной термообработки – 0,4 мкм. 
+Для изучения термической стабильности структуры ферритно-мартерситной стали после холодной прокатки  
+и дополнительной термообработки были проведены короткие отжиги в диапазоне рабочих температур. Изучение 
+термической стабильности показало, что многие структурные особенности, сформированные в результате пред-
+шествующей деформационно-термической обработки, сохраняются, однако после отжига при 600 °С в структуре 
+отсутствуют визуально наблюдаемые нанодвойники.  
+
+Ключевые слова: холодная прокатка; ферритно-мартенситная сталь; ЭИ-961Ш; мартенсит; карбиды; термиче-
+ская стабильность; деформация; термообработка; обжатие. 
+
+Благодарности: А.А. Фрик благодарит за финансовую поддержку министерство науки и высшего образования 
+РФ в рамках государственного задания ФГБОУ ВО «УГАТУ» (соглашение № 075-03-2022-318/1) «Молодежная 
+научно-исследовательская лаборатория НОЦ "Металлы и сплавы при экстремальных воздействиях"».  
+
+М.А. Никитина благодарит за финансовую поддержку министерство науки и высшего образования РФ в рам-
+ках проекта № 0838-2020-0006 «Фундаментальные исследование новых принципов создания перспективных элек-
+тромеханических преобразователей энергии с характеристиками выше мирового уровня, с повышенной эффек-
+тивностью и минимальными удельными показателями, с использованием новых высокоэффективных электротех-
+нических материалов». 
+
+Статья подготовлена по материалам докладов участников X Международной школы «Физическое материало-
+ведение» (ШФМ-2021), Тольятти, 13–17 сентября 2021 года. 
+
+Для цитирования: Фрик А.А., Никитина М.А., Исламгалиев Р.К. Термическая стабильность структуры стали 
+ЭИ-961Ш после комбинированной обработки // Frontier Materials & Technologies. 2022. № 3. С. 79–89. DOI: 10. 
+18323/2782-4039-2022-3-2-79-89. 
+
+ 
+изменения: зерна вытягиваются в направлении обра-
+
+ВВЕДЕНИЕ ботки, и вместе с формой зерен изменяется пространст-
+Как известно, холодная прокатка (Тпр<0,3 Тпл) при- венная ориентировка их кристаллической решетки [4–
+
+водит к увеличению прочностных характеристик ме- 6]. Но при нагреве прокатанных образцов происходит 
+талла, таких как предел текучести, предел прочности  рекристаллизация и аннигиляция дислокаций. 
+и твердость, однако при этом с увеличением степени Как известно, сформированные в процессе пластиче-
+деформации происходит резкое снижение пластичности ской деформации нанокристаллические и ультрамелко-
+[1–3]. В структуре металла наблюдаются значительные зернистые (УМЗ) состояния являются метастабильными, 
+
+F rontier Materials & Technologies. 2022. № 3-2 79
+
+
+
+Фрик А.А., Никитина М.А., Исламгалиев Р.К.   «Термическая стабильность структуры стали ЭИ-961Ш…» 
+
+и при нагреве теряются свойства вследствие перехода  максимальной рабочей температурой для изделий из 
+в крупнокристаллическое состояние. Исследования на данной стали является температура 600 °С, были про-
+чистых металлах, в том числе в α-Fe, показали начало ведены кратковременные (в течение 30 мин) отжиги 
+роста зерна при T/Tпл≤0,4 [7–9]. при температуре 450 и 600 °С. 
+
+В работах [10; 11] представлено воздействие терми- Цель работы – изучение термической стабильности 
+ческой обработки на количество и термическую ста- структуры стали ЭИ-961Ш, подвергнутой прокатке  
+бильность остаточного аустенита в мартенситных ста- и перезакалке.  
+лях. Температура и время выдержки при данной темпе-  
+ратуре считаются основными параметрами, влияющими 
+на количество остаточного аустенита: так, остаточный МЕТОДИКА ПРОВЕДЕНИЯ ИССЛЕДОВАНИЯ 
+
+аустенит оставался стабилен при термообработке до Объектом исследований послужила 12 % Cr фер-
+24 ч при 450 °С.  ритно-мартенситная сталь ЭИ-961Ш (таблица 1).  
+
+Ферритно-мартенситная сталь ЭИ-961Ш Для стали ЭИ-961Ш принятой термообработкой 
+(13Х11Н2В2МВ-Ш) относится к классу коррозионно- является закалка с температуры 1050 °С в масло  
+стойких жаропрочных высоколегированных сталей. и отпуск при 550–710 °С с последующим охлаждени-
+Она применяется для изготовления деталей газовых ем на воздухе. Для изучения исходной структуры 
+турбин, в том числе лопаток, работающих в условиях материала была проведена стандартная термическая 
+температур до 600 °С. В исходном состоянии сталь ЭИ- обработка (СТО). 
+961Ш содержит карбиды МС, М3С, М23С6 [12; 13]. От- В качестве метода деформации выбрана продольная 
+жиги стали после интенсивной пластической деформа- холодная прокатка (ХП). Из прутка стали ЭИ-961Ш 
+ции (ИПД) в диапазоне температур 300–700 °С показа- после стандартной термообработки были подготовлены 
+ли стабильность микроструктур до 500 °С вне зависи- пластины размером 28×14,5×85 мм. Образцы прокаты-
+мости от структурно-фазового состояния до ИПД. По- вали в несколько проходов на лабораторном прокатном 
+сле отжига при 600 °С проявляются различия в исход- стане с диаметром рабочих валков 70 мм и скоростью 
+ном структурно-фазовом состоянии [14; 15]. вращения валков 1,5 м/мин с деформацией за проход 
+
+Несмотря на большой объем исследований влияния 6 % на конечную толщину 4,3 мм. После проходов на 
+УМЗ структуры на микроструктуру и свойства различ- суммарное обжатие 30 и 50 % от образцов отрезали 
+ных металлических материалов, данных о влиянии тер- части для исследования структуры, оставшаяся часть 
+мической обработки на структуру в ферритно-мартен- подвергалась последующей деформационной обработке 
+ситных сталях марки ЭИ-961Ш недостаточно. Ранее до степени обжатия 70 %. 
+было показано, что формирование структуры методом Для дальнейшего улучшения физико-механических 
+РКУП приводит к повышению прочностных свойств свойств была применена постдеформационная термо-
+[16; 17]. В сплаве ЭИ-961Ш, подвергнутом равнока- обработка выше температуры фазового превращения 
+нальному угловому прессованию (РКУП) и последую- феррит/аустенит (850 °С) с последующей закалкой в мас-
+щей перезакалке (ПЗ), формирование УМЗ структуры ло (перезакалка).  
+приводит к улучшению механических свойств [18]. Для анализа термической стабильности структуры 
+
+Важным является изучение возможности использо- были проведены кратковременные отжиги в течение 
+вания промышленных методов деформации, таких как 30 мин в диапазоне рабочих температур при 450   
+прокатка, для достижения высоких механических ха- и 600 °С. 
+рактеристик стали ЭИ-961Ш, а также применение ново- Для изучения особенностей микроструктуры ис-
+го подхода в виде дополнительной термообработки пользовалась просвечивающая (ПЭМ) и растровая элек-
+выше температуры фазового перехода феррит/аустенит тронная микроскопия (РЭМ). Структуру стали исследо-
+к прокатанным образцам [18]. вали с помощью просвечивающего электронного микро-
+
+В работе представлены результаты изучения эво- скопа JEM-2100 с ускоряющим напряжением 200 кВ. 
+люции структуры после комбинированной обработки, Поверхность рельефа образцов изучали на растровом 
+заключающейся в прокатке и дополнительной термо- микроскопе JSM-6390 c ускоряющим напряжением 
+обработке выше температуры фазового перехода фер- 30 кВ в режиме вторичных электронов. Для приготов-
+рит/аустенит, а также во время последующего отжига ления фольг из образцов вырезали окружности диамет-
+ферритно-мартенситной стали, которые позволили ром 3 мм, используя для этого станок с ЧПУ АРТА-120. 
+оценить стабильность микроструктурных параметров Далее эти диски механически утоняли с помощью 
+и свойств при повышенных температурах. Так как шлифовальной бумаги до толщины 0,11–0,15 мм.
+
+ 
+ 
+ 
+
+Таблица 1. Химический состав стали ЭИ-961Ш, ат. %1  
+Table 1. Chemical composition of EI-961Sh steel, at. % 
+
+ 
+
+V W Si Mn Cu Mo Ni S C P Cr 
+
+0,18–0,30 1,6–2,0 до 0,6 до 0,6 до 0,3 0,35–0,5 1,5–1,8 до 0,025 0,10–0,16 до 0,03 10,5–12,0 
+
+                                                          
+1 ГОСТ 5632-2014 Нержавеющие стали и сплавы коррозионно-стойкие, жаростойкие и жаропрочные. 
+
+8 0 Frontier Materials & Technologies. 2022. № 3-2
+
+
+
+Фрик А.А., Никитина М.А., Исламгалиев Р.К.   «Термическая стабильность структуры стали ЭИ-961Ш…» 
+
+При помощи установки Tenupol-5 методом электропо- расположением, частицы также располагаются вдоль 
+лирования проводили финишное утонение. Режимы границ бывших пластин мартенсита. На фотографиях 
+полировки: температура 20±5 °С, напряжение 20–50 В. микроструктуры (рис. 1 b) присутствуют частицы раз-
+Состав электролита – 10%-й раствор химически чистой личной морфологии, расположенные как в теле зерна, 
+хлорной кислоты HClO4 в бутаноле.  так и по границам. Частицы с большим размером, вы-
+
+ тянутые вдоль своей оси, – карбиды типа М23С6, вклю-
+чения меньшего размера – частицы МХ. 
+
+РЕЗУЛЬТАТЫ ИССЛЕДОВАНИЯ  ПЭМ-изображения образцов после СТО и ПЗ де-
+В результате закалки была сформирована структура монстрируют структуру с увеличенной плотностью 
+
+пакетного мартенсита, средняя толщина пластин кото- дислокаций в объеме зерна, содержащую крупные 
+рого составила 518±30 нм. В структуре мартенсита на- карбидные частицы Сr23C6 размером до 200 нм, 
+блюдались дислокации высокой плотности, представ- имеющие преимущественно зернограничное распо-
+ленные как отдельными дислокациями, так и в виде ложение (рис. 2). 
+широких стенок дислокаций в объеме пластин мартен- Согласно РЭМ структура стали ЭИ-961Ш при обжа-
+сита. Мелкие карбидные частицы, характерные для тии до 30 % сохраняет исходные очертания бывших 
+структуры исходного состояния, после закалки не на- аустенитных зерен. Увеличение степени обжатия до 
+блюдались (рис. 1 а) – наблюдались только единичные 50 % приводит к формированию полосовой структуры 
+крупные карбидные частицы. со средней шириной полос до 2 мкм. При достижении 
+
+Проведение отпуска приводит к более равновесному степени деформации 70 % формируется текстура по 
+состоянию структуры, распределение частиц вторых направлению прокатки. При этом происходит перерас-
+фаз по объему происходит более равномерно (рис. 1 b). пределение грубых карбидов, которые выстраиваются 
+Визуализация частиц характеризуется зернограничным цепочками вдоль границ зерен (рис. 3). 
+
+ 
+ 
+
+ 
+
+       
+ a b 
+
+Рис. 1. Микроструктура стали ЭИ-961Ш после стандартной закалки (a) и отпуска (b). ПЭМ-изображения 
+Fig. 1. The microstructure of EI-961Sh steel after standard quenching (a) and tempering (b). TEM-images 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Рис. 2. Микроструктура ферритно-мартенситной стали после СТО и ПЗ с температуры 850 °С.  
+Контуром обозначены карбидные частицы. ПЭМ-изображение 
+
+Fig. 2. The microstructure of ferrite/martensite steel after standard heat treatment and re-quenching from the temperature of 850 °С. 
+Circles indicate carbide particles. TEM-images 
+
+F rontier Materials & Technologies. 2022. № 3-2 81
+
+
+
+Фрик А.А., Никитина М.А., Исламгалиев Р.К.   «Термическая стабильность структуры стали ЭИ-961Ш…» 
+
+             
+ a b c 
+
+Рис. 3. Эволюция структуры стали ЭИ-961Ш при холодной деформации: 
+a – 30 %; b – 50 %; c – 70 %. Стрелками отмечено направление прокатки. РЭМ-изображения 
+
+Fig. 3. The evolution of the EI-061Sh steel structure during cold deformation: 
+a – 30 %; b – 50 %; c – 70 %. Arrows indicate the rolling direction. SEM-images 
+
+ 
+ 
+ 
+ПЭМ-фотографии тонкой структуры стали ЭИ-961Ш и 50 % и перезакалки в структуре стали формируется 
+
+после холодной прокатки на 70 %, представленные на равноосная структура. Средний размер зерен после пе-
+рис. 4 a, также демонстрируют формирование полосо- резакалки уменьшается с повышением степени предва-
+вой структуры со средней шириной пластин 200±20 нм. рительной деформации: с 5 мкм для 30 % до 2 мкм для 
+Анализ структуры после прокатки до степени деформа- 50 %. Крупные карбиды после перезакалки сохраняют 
+ции 70 % и перезакалки (рис. 4 b) показал, что форми- свое распределение, сформированное при прокатке. 
+руется вытянутая пластинчатая структура, присутству- Согласно ПЭМ и РЭМ отжиг при температуре 
+ют равноосные зерна размером 2±0,5 мкм. Внутри мик- 450 °С образцов, полученных методами холодной про-
+ронных зерен наблюдаются пластины мартенсита, ши- катки, а также холодной прокатки с последующей пере-
+рина которых колеблется от 20 до 250 нм.  закалкой, не привел к существенным изменениям  
+
+После холодной прокатки и последующей переза- в микроструктуре (рис. 6 и 7). Так, в образцах после 
+калки отмечается увеличение доли глобулярных карби- холодной прокатки со степенью деформации 50 % со-
+дов размером 200±20 нм (рис. 4 b) по сравнению с со- храняется полосовая структура со средней шириной 
+стоянием после прокатки. Очевидно, что перезакалка пластин 200±19 нм. Внутри полос – развитая субзерен-
+способствует значительному увеличению размеров час- ная структура. По границам полос сохраняются много-
+тиц. Частицы уже перестают сдерживать движение гра- численные строчные выделения карбидов, средний 
+ниц зерен и приводят к формированию структуры  размер которых составляет 80±10 нм. На рис. 6 c видно, 
+с равноосной формой зерен. что первоначальное распределение карбидов вдоль 
+
+Анализ структуры методом РЭМ (рис. 5) показал, бывших аустенитных зерен сохранилось и имеет строч-
+что после прокатки с накопленной деформацией 30  ный характер распределения.  
+
+ 
+ 
+
+ 
+
+       
+ a b 
+
+Рис. 4. Структура образцов, подвергнутых холодной прокатке: 
+a – прокатка до деформации 70 %;  
+
+b – прокатка до деформации 70 % и дополнительная перезакалка. ПЭМ-изображения 
+Fig. 4. The structure of specimens subjected to cold rolling: 
+
+a – rolling to the deformation of 70 %;  
+b – rolling to the deformation of 70 % and additional re-quenching. TEM-images 
+
+ 
+
+8 2 Frontier Materials & Technologies. 2022. № 3-2
+
+
+
+Фрик А.А., Никитина М.А., Исламгалиев Р.К.   «Термическая стабильность структуры стали ЭИ-961Ш…» 
+
+ 
+ 
+ 
+
+             
+ a b c  
+
+Рис. 5. Влияние перезакалки на структуру стали ЭИ-961Ш после холодной прокатки на:  
+a – 30 %; b – 50 %; c – 70 %. РЭМ-изображения 
+
+Fig. 5. The influence of re-quenching on the structure of EI-961Sh steel after cold rolling by:  
+a – 30 %; b – 50 %; c – 70 %. SEM-images 
+
+ 
+ 
+ 
+ 
+
+       
+ a b 
+
+ 
+c 
+
+Рис. 6. Структура стали ЭИ-961Ш после холодной прокатки на 50 % (ХП50%)  
+и дополнительного отжига при температуре 450 °С в течение 30 мин: 
+
+a – светлопольное изображение (ПЭМ); b – темнопольное изображение (ПЭМ); c – РЭМ-изображение 
+Fig. 6. The structure of EI-961Sh steel after cold rolling by 50 % (CR50%)  
+and additional annealing at the temperature of 450 °С during 30 minutes: 
+a – bright-field image (TEM); b – dark-field image (TEM); c – SEM-image 
+
+ 
+ 
+
+F rontier Materials & Technologies. 2022. № 3-2 83
+
+
+
+Фрик А.А., Никитина М.А., Исламгалиев Р.К.   «Термическая стабильность структуры стали ЭИ-961Ш…» 
+
+       
+ a b 
+
+ 
+c 
+
+Рис. 7. Структура образцов стали ЭИ-961Ш после холодной прокатки со степенью деформации 50 %  
+и перезакалки, подвергнутых отжигу при температуре 450 °С в течение 30 мин: 
+
+a – светлопольное изображение (ПЭМ); b – темнопольное изображение (ПЭМ); c – РЭМ-изображение 
+Fig. 7. The structure of EI-961Sh steel specimens after cold rolling with the deformation degree of 50 %  
+
+and re-quenching subjected to annealing at the temperature of 450 °С during 30 minutes:  
+a – bright-field image (TEM); b – dark-field image (TEM); c – SEM-image 
+
+ 
+ 
+ 
+На рис. 7 представлена структура образцов стали (рис. 9). При этом видно, что более существенных из-
+
+после холодной прокатки со степенью деформации менений в структуре не произошло. Структура по-
+50 %, перезакалки и кратковременного отжига при тем- прежнему остается сильно деформированной с высокой 
+пературе 450 °С в течение 30 мин. Сформированные  плотностью дислокаций. Размер карбидов прежний, 
+в результате перезакалки нанодвойники сохраняют характер их распределения не меняется (рис. 9 b).  
+свои размеры 25–100 нм. Размер карбидов не меняется, Основные параметры, характеризующие структуру 
+на рис. 7 c видно их более равномерное расположение стали ЭИ-961Ш после различных видов обработки, 
+по сравнению с состоянием без перезакалки. представлены в таблице 2.  
+
+Кратковременный отжиг при температуре 600 °С Холодная прокатка до степени деформации 50 % 
+образцов после холодной прокатки со степенью дефор- приводит к уменьшению размера зерна, происходит 
+мации 50 % сохраняет структурные особенности пред- измельчение частиц вторых фаз, и, согласно структур-
+шествующей деформационной обработки. На рис. 8 ным исследованиям, их более равномерное распределе-
+изображена характерная полосовая структура со сред- ние по границам зерен. 
+ней шириной полос 200 нм, вдоль которых строчно  
+располагаются карбиды пластинчатой и сферической 
+формы. Снимок, полученный с помощью РЭМ, под- ОБСУЖДЕНИЕ РЕЗУЛЬТАТОВ 
+
+тверждает характерное строчное расположение карби- Предполагается, что достигнутый достаточно высо-
+дов (рис. 8 c). кий уровень высокотемпературной кратковременной 
+
+В микроструктуре образцов после холодной прокат- стабильности после отжигов главным образом опреде-
+ки со степенью деформации 50 %, перезакалки и до- ляется высокой плотностью наноразмерных частиц 
+полнительного отжига при температуре 600 °С в тече- вторых фаз [19], а также наличием в структуре нанод-
+ние 30 мин отсутствуют характерные нанодвойники войниковых границ [20]. Обладая высокой термической 
+
+8 4 Frontier Materials & Technologies. 2022. № 3-2
+
+
+
+Фрик А.А., Никитина М.А., Исламгалиев Р.К.   «Термическая стабильность структуры стали ЭИ-961Ш…» 
+
+       
+ a b 
+
+ 
+c 
+
+Рис. 8. Структура образцов стали ЭИ-961Ш после холодной прокатки со степенью деформации 50 %  
+и дополнительного отжига при температуре 600 °С в течение 30 мин:  
+
+a – светлопольное изображение (ПЭМ); b – темнопольное изображение (ПЭМ); c – РЭМ-изображение 
+Fig. 8. The structure of EI-961Sh steel specimens after cold rolling with the deformation degree of 50 %  
+
+and additional annealing at the temperature of 600 °С during 30 minutes:  
+a – bright-field image (TEM); b – dark-field image (TEM); c – SEM-image 
+
+ 
+ 
+ 
+
+       
+ a b 
+
+Рис. 9. Структура образцов стали ЭИ-961Ш после холодной прокатки со степенью деформации 50 %  
+и перезакалки, подвергнутых отжигу при температуре 600 °С в течение 30 мин:  
+
+a – светлопольное изображение (ПЭМ); b – РЭМ-изображение 
+Fig. 9. The structure of EI-961Sh steel specimens after cold rolling with the deformation degree of 50 %  
+
+and re-quenching subjected to annealing at the temperature of 600 °С during 30 minutes:  
+a – bright-field image (TEM); b – SEM-image 
+
+ 
+
+F rontier Materials & Technologies. 2022. № 3-2 85
+
+
+
+Фрик А.А., Никитина М.А., Исламгалиев Р.К.   «Термическая стабильность структуры стали ЭИ-961Ш…» 
+
+Таблица 2. Структурные параметры после различных видов обработки 
+Table 2. Structural parameters after different types of treatment 
+
+ 
+
+Температура, °С в течение 0,5 ч 
+
+Ширина  Средний размер  
+Состояние 450 600 
+
+пластин, мкм частиц, нм 
+
+Средний размер частиц, нм 
+
+Стандартная обработка 5,8±0,6 250±30 200±50 210±50 
+
+ХП50% 0,5±0,2 70±20 85±10 85±20 
+
+ХП50%+ПЗ 0,4±0,15 85±15 110±15 115±20 
+
+ 
+ 
+ 
+
+стабильностью при T=450 и 600 °С, эти частицы закре- of transformation of supercooled austenite for develop-
+пляют элементы дефектной субструктуры и обеспечи- ment of heat treatment modes for critical steel parts // 
+вают сохранение ферритно-мартенситной структуры  Metal Science and Heat Treatment. 2017. Vol. 58.  
+с высокой плотностью дислокаций после отжигов.  № 11-12. P. 656–661. DOI: 10.1007/s11041-017-0074-4.  
+
+Карбиды М23С6, выделившиеся по границам зерен, 4. Blinov V.M., Lukin E.I., Blinov E.V., Samoilova M.A., 
+тормозят миграцию границ зерен в условиях термиче- Seval’nev G.S. Tensile Fracture of Austenitic Corro-
+ской обработки. Вероятно, что эти частицы, сдерживая sion-Resistant Steels with an Overequilibrium Nitrogen 
+миграцию границ зерен и тормозя процессы рекристал- Content and Various Vanadium Contents // Russian 
+лизации, вносят существенный вклад в обеспечение Metallurgy (Metally). 2021. Vol. 2021. № 10. P. 1265–
+структурной стабильности в случае отжигов рассмат- 1269. DOI: 10.1134/S0036029521100062.  
+риваемой стали. 5. Celada-Casero C., Sietsma J., Santofimia M.J. The role 
+
+Таким образом, перезакалка после деформационной of the austenite grain size in the martensitic transfor-
+обработки способствует значительному увеличению mation in low carbon steels // Materials and Design. 
+размеров частиц. Частицы уже перестают сдерживать 2019. Vol. 167. Article number 107625. DOI: 10.1016/ 
+движение границ зерен, что приводит к формированию j.matdes.2019.107625. 
+структуры с равноосной формой зерен. При проведении 6. Liang Z.Y., Luo Z.C., Huang M.X. Temperature de-
+кратковременных отжигов также наблюдается незначи- pendence of strengthening mechanisms in a twinning-
+тельное увеличение размера частиц вторых фаз.  induced plasticity steel // International Journal of Plas-
+
+ ticity. 2019. Vol. 116. P. 192–202. DOI: 10.1016/j. 
+ijplas.2019.01.003. 
+
+ВЫВОДЫ 7. Altenberger I., Scholtes B., Martin U., Oettel H. Cyclic 
+Анализируя представленные выше данные о терми- deformation and near surface microstructures of shot 
+
+ческой стабильности структуры в диапазоне рабочих peened or deep rolled austenitic stainless steel AISI 304 // 
+температур стали ЭИ-961Ш после различных видов Materials Science and Engineering A. 1999. Vol. 264. 
+обработок, можно сделать вывод о том, что короткие № 1-2. P. 1–16. DOI: 10.1016/S0921-5093(98)01121-6. 
+отжиги при температурах 450 и 600 °С не приводят  8. Sun G., Zhao M., Du L., Wu H. Significant effects of 
+к существенным изменениям в структуре образцов по- grain size on mechanical response characteristics and 
+сле ХП50%, после ХП50%+ПЗ. Все сформированные deformation mechanisms of metastable austenitic 
+структурные особенности в результате предшествую- stainless steel // Materials Characterization. 2022.  
+щей деформационно-термической обработки сохраня- Vol. 184. Article number 111674. DOI: 10.1016/j. 
+ются. Однако после отжига при 600 °С в структуре от- matchar.2021.111674.  
+сутствуют визуально наблюдаемые нанодвойники. 9. Karavaeva M.V., Abramova M.M., Enikeev N.A., Ra- 
+
+ ab G.I., Valiev R.Z. Superior strength of austenitic steel 
+produced by combined processing, including equal-
+
+СПИСОК ЛИТЕРАТУРЫ channel angular pressing and rolling // Metals. 2016. 
+1. Шахова Я.Э., Янушкевич Ж.Ч., Беляков А.Н. Влия- Vol. 6. № 12. P. 310–324. DOI: 10.3390/met6120310. 
+
+ние холодной прокатки на структуру и механиче- 10. Park E.S., Yoo D.K., Sung J.H., Kang C.Y., Lee J.H., 
+ские свойства аустенитной коррозионно-стойкой Sung J.H. Formation of reversed austenite during tem-
+стали 10Х18Н8Д3БР // Металлы. 2012. № 5. С. 38– pering of 14Cr-7Ni-0,3Nb-0,7Mo-0,03C super marten-
+45. EDN: PCQHXL. sitic stainless steel // Metals and Materials International. 
+
+2. Однобокова М.В., Беляков А.Н. Влияние холодной 2004. Vol. 10. № 6. P. 521–525. DOI: 10.1007/ 
+прокатки и последующего отжига на микрострукту- BF03027413. 
+ру и микротекстуру аустенитных коррозионностой- 11. Zhang W.X., Chen Y.Z., Cong Y.B., Liu Y.H., Liu F. 
+ких сталей // Деформация и разрушение материалов. On the austenite stability of cryogenic Ni steels: micro-
+2018. № 9. C. 23–32. EDN: XZCJXV. structural effects: a review // Journal of Materials Sci-
+
+3. Anastasiadi G.P., Kondrat’ev S.Yu., Malyshevskii V.A., ence. 2021. Vol. 56. № 22. P. 12539–12558. 
+Sil’nikov M.V. Importance of thermokinetic diagrams DOI: 10.1007/s10853-021-06068-w. 
+
+8 6 Frontier Materials & Technologies. 2022. № 3-2
+
+
+
+Фрик А.А., Никитина М.А., Исламгалиев Р.К.   «Термическая стабильность структуры стали ЭИ-961Ш…» 
+
+12. Sitdikov V.D., Islamgaliev R.K., Nikitina M.A., Sitdi- 2. Odnobokova M.V., Belyakov A.N. Effect of cold rol-
+kova G.F., Wei K.X., Alexandrov I.V., Wei W. Analysis ling and subsequent annealing on the microstructure and 
+of precipitates in ultrafine-grained metallic materials //  the microtexture of austenitic corrosion-resistant steels. 
+Philosophical Magazine. 2019. Vol. 99. № 1. P. 73–91. Russian metallurgy (Metally), 2019, no. 4, pp. 315–325. 
+DOI: 10.1080/14786435.2018.1529443. DOI: 10.1134/S003602951904027X. 
+
+13. Islamgaliev R.K., Nikitina M.A., Ganeev A.V., 3. Anastasiadi G.P., Kondrat’ev S.Yu., Malyshevskii V.A., 
+Karavaeva M.V. Effect of grain refinement on mechani- Sil’nikov M.V. Importance of thermokinetic diagrams 
+cal properties of martensitic steel // IOP Conference Se- of transformation of supercooled austenite for develop-
+ries: Materials Science and Engineering. 2017.  ment of heat treatment modes for critical steel parts. 
+Vol. 194. № 1. Article number 012025. DOI: 10.1088/ Metal Science and Heat Treatment, 2017, vol. 58,  
+1757-899X/194/1/012025. no. 11-12, pp. 656–661. DOI: 10.1007/s11041-017-0074-4.  
+
+14. Jia D., Ramesh K.T., Ma E. Effects of nanocrystalline 4. Blinov V.M., Lukin E.I., Blinov E.V., Samoilova M.A., 
+and ultrafine grain sizes on constitutive behavior and Seval’nev G.S. Tensile Fracture of Austenitic Corro-
+shear bands in iron // Acta Materialia. 2003. Vol. 51.  sion-Resistant Steels with an Overequilibrium Nitrogen 
+№ 12. P. 3495–3509. DOI: 10.1016/S1359-6454 Content and Various Vanadium Contents. Russian Me-
+(03)00169-1. tallurgy (Metally), 2021, vol. 2021, no. 10, pp. 1265–
+
+15. Kecskes L.J., Cho K.C., Dowding R.J., Schuster B.E., 1269. DOI: 10.1134/S0036029521100062.  
+Valiev R.Z., Wei Q. Grain size engineering of bcc re- 5. Celada-Casero C., Sietsma J., Santofimia M.J. The role 
+fractory metals: Top-down and bottom-up – Application of the austenite grain size in the martensitic transfor-
+to tungsten // Materials Science and Engineering A. mation in low carbon steels. Materials and Design, 
+2007. Vol. 467. № 1-2. P. 33–43. DOI: 10.1016/j.msea. 2019, vol. 167, article number 107625. DOI: 10.1016/ 
+2007.02.099. j.matdes.2019.107625. 
+
+16. Lowe T.C., Davis S.L., Campbell C.R., Miles K.P., 6. Liang Z.Y., Luo Z.C., Huang M.X. Temperature de-
+LeBeau M.A., Buk G.P., Griebel A.J., Ewing B.R. pendence of strengthening mechanisms in a twinning-
+High-speed Continuous Equal Channel Angular Press- induced plasticity steel. International Journal of Plas-
+ing of 316 LVM stainless steel // Materials Letters. ticity, 2019, vol. 116, pp. 192–202. DOI: 10.1016/ 
+2021. Vol. 304. Article number 130631. DOI: 10.1016/ j.ijplas.2019.01.003. 
+j.matlet.2021.130631.  7. Altenberger I., Scholtes B., Martin U., Oettel H. Cyclic 
+
+17. Dobatkin S.V., Kopylov V.I., Pippan R., Vasil'eva O.V. deformation and near surface microstructures of shot 
+Formation of High-Angle Grain Boundaries in Iron up- peened or deep rolled austenitic stainless steel AISI 304. 
+on Cold Deformation by Equal-Channel Angular Press- Materials Science and Engineering A, 1999, vol. 264, 
+ing // Materials Science Forum. 2004. Vol. 467-470.  no. 1-2, pp. 1–16. DOI: 10.1016/S0921-5093(98)01121-6. 
+№ 2. P. 1277–1282. DOI: 10.4028/www.scientific.net/ 8. Sun G., Zhao M., Du L., Wu H. Significant effects of 
+MSF.467-470.1277. grain size on mechanical response characteristics and 
+
+18. Nikitina M., Islamgaliev R., Ganeev A., Sitdikov V. deformation mechanisms of metastable austenitic 
+Microstructure and Fatigue of Ultrafine-Grained Fer- stainless steel. Materials Characterization, 2022,  
+ritic/Martensitic Steel // Advanced Engineering Materi- vol. 184, article number 111674. DOI: 10.1016/ 
+als. 2020. Vol. 22. № 10. Article number 2000034. j.matchar.2021.111674.  
+DOI: 10.1002/adem.202000034.  9. Karavaeva M.V., Abramova M.M., Enikeev N.A., Ra- 
+
+19. Wei L.L., Gao G.H., Kim J., Misra R.D.K., Yang C.G., ab G.I., Valiev R.Z. Superior strength of austenitic steel 
+Jin X.J. Ultrahigh strength-high ductility 1 GPa low produced by combined processing, including equal-
+density austenitic steel with ordered precipitation channel angular pressing and rolling. Metals, 2016,  
+strengthening phase and dynamic slip band refinement // vol. 6, no. 12, pp. 310–324. DOI: 10.3390/met6120310. 
+Materials Science and Engineering A. 2022. Vol. 838. 10. Park E.S., Yoo D.K., Sung J.H., Kang C.Y., Lee J.H., 
+Article number 142829. DOI: 10.1016/j.msea.2022. Sung J.H. Formation of reversed austenite during tem-
+142829. pering of 14Cr-7Ni-0,3Nb-0,7Mo-0,03C super marten-
+
+20. Lechartier A., Meyer N., Estevez R., Mantel M., Mar- sitic stainless steel. Metals and Materials International, 
+tin G., Parry G., Veron M., Deschamps A. Deformation 2004, vol. 10, no. 6, pp. 521–525. DOI: 10.1007/ 
+behavior of lean duplex stainless steels with strain in- BF03027413. 
+duced martensitic transformation: role of deformation 11. Zhang W.X., Chen Y.Z., Cong Y.B., Liu Y.H., Liu F. 
+mechanisms, alloy chemistry and predeformation // On the austenite stability of cryogenic Ni steels: micro-
+Materialia. 2019. Vol. 5. Article number 100190.  structural effects: a review. Journal of Materials Sci-
+DOI: 10.1016/j.mtla.2018.100190. ence, 2021, vol. 56, no. 22, pp. 12539–12558. 
+ DOI: 10.1007/s10853-021-06068-w. 
+
+12. Sitdikov V.D., Islamgaliev R.K., Nikitina M.A., Sitdi-
+REFERENCES kova G.F., Wei K.X., Alexandrov I.V., Wei W. Analy-
+
+1. Shakhova Ya.E., Yanushkevich Zh.Ch., Belyakov A.N. sis of precipitates in ultrafine-grained metallic materials. 
+Effect of cold rolling on the structure and mechanical Philosophical Magazine, 2019, vol. 99, no. 1, pp. 73–
+properties of austenitic corrosion-resistant 91. DOI: 10.1080/14786435.2018.1529443. 
+10Kh18N8D3BR steel. Russian metallurgy (Metally), 13. Islamgaliev R.K., Nikitina M.A., Ganeev A.V., 
+2012, vol. 2012, no. 9, pp. 772–778. DOI: 10.1134/ Karavaeva M.V. Effect of grain refinement on mechani-
+S0036029512090133. cal properties of martensitic steel. IOP Conference Se-
+
+ries: Materials Science and Engineering, 2017,  
+
+F rontier Materials & Technologies. 2022. № 3-2 87
+
+
+
+Фрик А.А., Никитина М.А., Исламгалиев Р.К.   «Термическая стабильность структуры стали ЭИ-961Ш…» 
+
+vol. 194, no. 1, article number 012025. DOI: 10.1088/ sing. Materials Science Forum, 2004, vol. 467-470, no. 2, 
+1757-899X/194/1/012025. pp. 1277–1282. DOI: 10.4028/www.scientific.net/MSF. 
+
+14. Jia D., Ramesh K.T., Ma E. Effects of nanocrystalline 467-470.1277. 
+and ultrafine grain sizes on constitutive behavior and 18. Nikitina M., Islamgaliev R., Ganeev A., Sitdikov V. 
+shear bands in iron. Acta Materialia, 2003, vol. 51,  Microstructure and Fatigue of Ultrafine-Grained Fer-
+no. 12, pp. 3495–3509. DOI: 10.1016/S1359-6454(03) ritic/Martensitic Steel. Advanced Engineering Materi-
+00169-1. als, 2020, vol. 22, no. 10, article number 2000034.  
+
+15. Kecskes L.J., Cho K.C., Dowding R.J., Schuster B.E., DOI: 10.1002/adem.202000034.  
+Valiev R.Z., Wei Q. Grain size engineering of bcc re- 19. Wei L.L., Gao G.H., Kim J., Misra R.D.K., Yang C.G., 
+fractory metals: Top-down and bottom-up – Application Jin X.J. Ultrahigh strength-high ductility 1 GPa low 
+to tungsten. Materials Science and Engineering A, 2007, density austenitic steel with ordered precipitation 
+vol. 467, no. 1-2, pp. 33–43. DOI: 10.1016/j.msea. strengthening phase and dynamic slip band refinement. 
+2007.02.099. Materials Science and Engineering A, 2022, vol. 838, 
+
+16. Lowe T.C., Davis S.L., Campbell C.R., Miles K.P., article number 142829. DOI: 10.1016/j.msea.2022. 
+LeBeau M.A., Buk G.P., Griebel A.J., Ewing B.R. 142829. 
+High-speed Continuous Equal Channel Angular Press- 20. Lechartier A., Meyer N., Estevez R., Mantel M., Mar- 
+ing of 316 LVM stainless steel. Materials Letters, 2021, tin G., Parry G., Veron M., Deschamps A. Deformation 
+vol. 304, article number 130631. DOI: 10.1016/j.matlet. behavior of lean duplex stainless steels with strain in-
+2021.130631.  duced martensitic transformation: role of deformation 
+
+17. Dobatkin S.V., Kopylov V.I., Pippan R., Vasil'eva O.V. mechanisms, alloy chemistry and predeformation. 
+Formation of High-Angle Grain Boundaries in Iron up- Materialia, 2019, vol. 5, article number 100190.  
+on Cold Deformation by Equal-Channel Angular Pres- DOI: 10.1016/j.mtla.2018.100190. 
+ 
+
+Thermal stability of the ЭИ-961Ш steel structure after combined processing 
+© 2022 
+
+1,3
+Aleksandra A. Frik* , postgraduate student 
+
+1,2,4
+Marina A. Nikitina , PhD (Engineering), senior researcher 
+
+1,5
+Rinat K. Islamgaliev , Doctor of Sciences (Physics and Mathematics), Professor,  
+
+professor of Chair of Materials Science and Physics of Metals 
+1
+Ufa State Aviation Technical University, Ufa (Russia) 
+
+2
+Bashkir State University, Ufa (Russia) 
+
+ 
+3
+
+*E-mail: frikaleksandra@gmail.com ORCID: https://orcid.org/0000-0003-0483-2851 
+4ORCID: https://orcid.org/0000-0001-5623-6117 
+5ORCID: https://orcid.org/0000-0002-6234-7363 
+
+ 
+Received 14.07.2021                     Accepted 28.07.2022 
+
+ 
+Abstract: A crucial aspect in the development of materials with improved functional properties is ensuring their ability 
+
+to withstand the operating temperatures of a finished product. To increase the service life and efficiency of products made 
+of ferrite-martensite steels, various types of deformation and thermal treatments are used. The authors studied the influence 
+of different temperature regimes on the structure and thermal stability of ЭИ-961Ш ferrite-martensite steel subjected to 
+rolling and additional hardening. As a method of deformation and heat treatment, the authors used cold rolling followed by 
+re-quenching from a temperature above the ferrite/austenite phase transition. The samples were rolled during several pass-
+es on a laboratory rolling mill with the deformation of 6 % per pass for a final thickness of 4.3 mm to a reduction degree of 
+70 %. The authors carried out structural studies by transmission electron microscopy and scanning electron microscopy. 
+The study showed that as a rolling result, a bimodal band structure forms with the distribution of Cr23C6 carbide particles 
+along the grain boundaries. When using additional hardening, an increase in the globular carbides proportion is observed, 
+and during the study by transmission electron microscopy, nano-twins were found in the structure. The bands’ width after 
+the reduction by 50 % was 0.5 microns and after cold rolling and additional heat treatment – 0.4 microns. The authors car-
+ried out short annealing in the operating temperature range to study the thermal stability of ferrite/martensite steel structure 
+after cold rolling and additional heat treatment. The thermal stability study showed that many structural features formed 
+during previous deformation and heat treatment are preserved, however, after annealing at 600 °C, there are no visually 
+observable nano-twins in the structure. 
+
+Keywords: cold rolling; ferrite-martensite steel; steel ЭИ-961Ш; martensite; carbides; thermal stability; deformation; 
+heat treatment; reduction. 
+
+Acknowledgments: A.A. Frik expresses gratitude to the Ministry of Science and Higher Education of the Russian Fe-
+deration for its financial support within the state assignment of the Federal State Budgetary Educational Institution of 
+Higher Education “USATU” (agreement No. 075-03-2022-318/1) “Youth Research Laboratory of the REC “Metals and 
+Alloys under the Extreme Conditions”. 
+
+M.A. Nikitina expresses gratitude to the Ministry of Science and Higher Education of the Russian Federation for its fi-
+nancial support within the project No. 0838-2020-0006 “Fundamental research of new principles of creation of the ad-
+
+8 8 Frontier Materials & Technologies. 2022. № 3-2
+
+
+
+Фрик А.А., Никитина М.А., Исламгалиев Р.К.   «Термическая стабильность структуры стали ЭИ-961Ш…» 
+
+vanced electromechanical energy converters with the characteristics higher than the international standards with the im-
+proved efficiency and minimum specific indicators with the use of new high-performance electrotechnical materials”.  
+
+The paper was written on the reports of the participants of the X International School of Physical Materials Science 
+(SPM-2021), Togliatti, September 13–17, 2021. 
+
+For citation: Frik A.A., Nikitina M.A., Islamgaliev R.K. Thermal stability of the ЭИ-961Ш steel structure after com-
+bined processing. Frontier Materials & Technologies, 2022, no. 3, pp. 79–89. DOI: 10.18323/2782-4039-2022-3-2-79-89. 
+
+F rontier Materials & Technologies. 2022. № 3-2 89

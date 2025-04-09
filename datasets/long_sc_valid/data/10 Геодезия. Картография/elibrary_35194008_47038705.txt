@@ -1,0 +1,641 @@
+﻿Картография и геоинформатика 
+
+УДК 528.7:004.383 
+ 
+ЭКСПЕРИМЕНТАЛЬНЫЕ ИССЛЕДОВАНИЯ ТОЧНОСТИ ПОСТРОЕНИЯ  
+ПЛОТНОЙ ЦИФРОВОЙ МОДЕЛИ ПО МАТЕРИАЛАМ БЕСПИЛОТНОЙ 
+АВИАЦИОННОЙ СИСТЕМЫ 
+ 
+Татьяна Александровна Хлебникова 
+Сибирский государственный университет геосистем и технологий, 630108, Россия, 
+г. Новосибирск, Плахотного, 10, доктор технических наук, профессор кафедры инженерной 
+геодезии и маркшейдерского дела, тел. (913)474-19-70, e-mail: t.a.hlebnikova@ssga.ru 
+ 
+Ольга Анатольевна Опритова   
+Сибирский государственный университет геосистем и технологий 630108, Россия, 
+г. Новосибирск, Плахотного, 10, руководитель Сибирского учебного научно-производствен-
+ного картографического центра, тел. (913)940-08-97, e-mail: ooolg@yandex.ru 
+
+ 
+Интенсивное развитие беспилотных авиационных технологий и современный уровень 
+
+цифровой фотограмметрии сделали возможным получение пространственных данных на ин-
+тересующие территории в короткие сроки. Применяемое программное обеспечение все более 
+ориентировано на автоматизацию процессов обработки. В статье представлены результаты 
+экспериментальных работ по исследованию точности построения фотограмметрической мо-
+дели по материалам, полученным с беспилотной авиационной системы. Для проведения экс-
+периментальных исследований выбрана программа Аgisoft PhotoScan (компания Agisoft LLC, 
+г. Санкт-Петербург). Выполнено фотограмметрическое сгущение с использованием центров 
+проектирования снимков, а также опорных и контрольных точек. Значения средних квадра-
+тических погрешностей на контрольных точках позволяют судить о точности и пригодности 
+полученных моделей в измерительных целях. 
+
+ 
+Ключевые слова: аэрофотосъемка, беспилотная авиационная система (БАС), фото-
+
+грамметрическая обработка снимков, фотограмметрическая модель, плотная цифровая мо-
+дель, модель геопространства, цифровая модель рельефа (ЦМР), цифровая фотограмметри-
+ческая система (ЦФС), оценка точности. 
+
+ 
+Введение 
+
+ 
+В настоящее время использование достижений трехмерной машинной гра-
+
+фики при пространственном моделировании местности в геоинформационных 
+технологиях позволило создать и совершенствовать новые виды цифровой про-
+дукции с информацией местности – трехмерные цифровые модели. Цифровые 
+модели объектов и явлений глобального характера и простирания позволяют 
+выполнять геоинформационный анализ средствами современных ГИС, не при-
+бегая к измерениям на местности [1–13]. 
+
+В то же время интенсивное развитие беспилотных авиационных техноло-
+гий и современный уровень цифровой фотограмметрии сделали возможным 
+получение пространственных данных на интересующие участки территорий в 
+максимально короткие сроки. Результаты фотограмметрической обработки аэ-
+рофотосъемки с беспилотных авиационных систем в виде различных цифровых 
+
+119 
+
+
+
+Вестник СГУГиТ, Том 23, № 2, 2018 
+
+продуктов (ортофотопланы, плотные модели, полигональные модели, ЦМР) ис-
+пользуются для построения модели геопространства. ЦМР, в свою очередь, ис-
+пользуется как для мониторинга состояния различных природных и естествен-
+ных объектов, так и для целей, требующих обеспечения регламентированной 
+точности – создания цифровых топографических планов крупного масштаба, 
+подготовки проектов межевания, землеустроительных дел на земельные участ-
+ки и т. п. 
+
+В этой связи особенно важным представляется соблюдение требований к 
+точности на всех этапах обработки фотоснимков и получения конечного циф-
+рового продукта для моделирования геопространства. 
+
+ 
+Методы и материалы 
+
+ 
+В настоящее время ряд организаций выполняет аэросъемку с БАС 14–20.  
+
+Для обработки материалов такой съемки используют программу Аgisoft 
+PhotoScan Professional Edition компании Agisoft LLC 21. Однако сведений о 
+точностных характеристиках результатов обработки крайне мало. 
+
+В этой связи авторами данной статьи была поставлена цель – исследование 
+результатов фотограмметрической обработки материалов БАС в двух вариантах 
+использования опорных данных: 
+
+1) центров проектирования фотоснимков; 
+2) наземных опорных точек. 
+Оценка качества обработки по каждому варианту осуществлялась с помо-
+
+щью контрольных точек. 
+Материалы, рассматриваемые в данной статье, представляют собой про-
+
+должение работ 22–24. 
+Для проведения исследований выбрана программа Аgisoft PhotoScan Pro-
+
+fessional Edition (версия 1.2.0, компания Agisoft LLC, г. Санкт-Петербург), далее 
+Аgisoft PhotoScan. 
+
+Программное обеспечение Аgisoft PhotoScan, по мнению авторов, в боль-
+шей степени ориентировано на автоматизацию процесса обработки данных, что 
+имеет существенное значение для оперативного получения топографической ин-
+формации, а также ведет к удешевлению производства конечного продукта [22]. 
+
+Программа Agisoft PhotoScan в пользовательском отношении отличается 
+от известных ЦФС. В отзывах опытных пользователей встречается определение 
+этой программы – «программа нажатия одной кнопки». На самом деле это не 
+совсем так. Безусловно, степень ее автоматизации высока, но для получения ка-
+чественного конечного продукта, обеспечивающего точность измерений, необ-
+ходимо тщательное выполнение всех требуемых настроек, а также соблюдение 
+последовательности операций обработки. 
+
+Создание трехмерных моделей объектов в Agisoft PhotoScan осуществля-
+ется в четыре этапа: 
+
+120 
+
+
+
+Картография и геоинформатика 
+
+1) выравнивание снимков и построение разреженного облака точек (по 
+терминологии документации программы) (рис. 1); 
+
+2) построение плотного облака точек (рис. 2); 
+3) построение полигональной модели объекта (рис. 3); 
+4) построение текстуры модели или ортофотоплана (рис. 4). 
+ 
+
+Рис. 1. Разреженное облако точек Рис. 2. Плотное облако точек 
+ 
+ 
+
+Рис. 3. Полигональная модель Рис. 4. Ортофотоплан 
+ 
+ 
+Результаты обработки каждого этапа используются в последующих этапах, 
+
+а также могут быть экспортированы в обменный формат данных для использо-
+вания в других программах. 
+
+ 
+Результаты 
+
+ 
+В данной статье приведены результаты оценки точности построения фото-
+
+грамметрической модели, полученной по материалам аэрофотосъемки, выпол-
+ненной с использованием БАС Supercam S350. Данная БАС относится к само-
+летному типу с размахом крыла 3,2 м и предназначена для выполнения панорам-
+ной и плановой аэрофотосъемки и видеосъемки на высоте от 50 до 500 м, развивает 
+скорость полета от 65 до 120 км/ч. Допустимый вес полезной нагрузки может  
+
+121 
+
+
+
+Вестник СГУГиТ, Том 23, № 2, 2018 
+
+достигать 2,5 кг. На БАС была установлена цифровая фотокамера Sony, ILCE-6000  
+с фокусным расстоянием 20 мм и размером кадра 4 000 × 6 000 пикселей. 
+
+Аэрофотосъемка выполнена на высоте около 280 м, полученное простран-
+ственное разрешение фотоснимков составило 5 см/пиксель. 
+
+Территория съемки – равнинная, плотно застроенная, площадь съемки – 
+0,44 км2. Обработка и оценка точности выполнена по 66 фотоснимкам, входя-
+щим в 3 маршрута залета. 
+
+На рис. 5 приведена схема расположения снимков, центров проектирова-
+ния в момент съемки и контрольных точек. 
+
+ 
+
+ 
+ 
+
+Условные обозначения: 
+  центр проектирования снимка 
+  контрольная точка 
+
+  границы снимков 
+
+Рис. 5. Схема расположения снимков, центров проектирования  
+в момент съемки и контрольных точек 
+
+ 
+ 
+
+Значения средних (v) и средних квадратических погрешностей (m) координат 
+и высот центров проектирования, а также контрольных точек приведены в табл. 1. 
+
+Кроме того, выполнено фотограмметрическое сгущение с использованием 
+опорных и контрольных точек. Координаты опорных точек определены по ин-
+женерно-топографическим планам масштаба 1 : 500 с точностью 0,1 м. В каче-
+стве опорных и контрольных точек преимущественно использованы центры 
+смотровых колодцев подземных коммуникаций. 
+
+122 
+
+
+
+Картография и геоинформатика 
+
+Таблица 1 
+Результаты оценки точности фотограмметрической модели,  
+полученной с использованием центров проектирования 
+
+Число снимков WGS-84 Местная система координат 
+n, погрешности 
+
+v, m X (м) Y (м) XY (м) H (м) X (м) Y (м) XY (м) H (м) 
+
+n (центры) 66 
+v 0,12 0,08 0,16 0,16 0,10 0,22 0,26 0,26 
+m 0,15 0,10 0,17 0,19 0,13 0,34 0,37 0,32 
+
+n (контрольные) 15 
+v – – – – 0,61 0,68 1,02 0,90 
+m – – – – 0,76 0,84 1,13 1,00 
+
+ 
+Фотограмметрическое сгущение выполнено в двух вариантах расположе-
+
+ния опорных и контрольных точек. 
+На рис. 6 приведена схема расположения снимков, опорных и контрольных 
+
+точек для варианта 1. 
+ 
+
+ 
+ 
+
+Условные обозначения 
+  опорная точка 
+
+  контрольная точка 
+ границы снимков 
+
+Рис. 6. Схема расположения снимков,  
+опорных и контрольных точек для варианта 1 
+
+123 
+
+
+
+Вестник СГУГиТ, Том 23, № 2, 2018 
+
+Значения v и m координат и высот опорных точек для варианта 1 располо-
+жения опорных и контрольных точек приведены в табл. 2. 
+
+ 
+Таблица 2 
+
+Результаты оценки точности фотограмметрической модели,  
+полученной в варианте 1 на опорных и контрольных точках 
+
+Число точек n,  
+Y (м) X (м) XY (м) H (м) 
+
+погрешности v, m 
+n (опорные) 8 
+
+v 0,05 0,06 0,09 0,11 
+m 0,07 0,09 0,11 0,15 
+
+n (контрольные) 21 
+v 0,25 0,11 0,29 0,66 
+m 0,29 0,14 0,32 0,72 
+
+ 
+На рис. 7 приведена схема расположения снимков, опорных и контрольных 
+
+точек для варианта 2. 
+ 
+
+ 
+ 
+
+Условные обозначения 
+  опорная точка 
+
+  контрольная точка 
+ границы снимков 
+
+Рис. 7. Схема расположения снимков,  
+опорных и контрольных точек для варианта 2 
+
+124 
+
+
+
+Картография и геоинформатика 
+
+Значения v и m координат и высот опорных точек для варианта 2 располо-
+жения опорных и контрольных точек приведены в табл. 3. 
+
+ 
+Таблица 3 
+
+Результаты оценки точности фотограмметрической модели,  
+полученной в варианте 2, на опорных и контрольных точках 
+
+Число точек n,  
+Y (м) X (м) XY (м) H (м) 
+
+погрешности v, m 
+n (опорные) 10 
+
+v 0,08 0,05 0,11 0,11 
+m 0,09 0,08 0,12 0,16 
+
+n (контрольные) 19 
+v 0,25 0,12 0,30 0,37 
+m 0,30 0,15 0,34 0,51 
+
+ 
+ 
+
+Обсуждение 
+ 
+Необходимо отметить, что терминология и результаты уравнивания в виде 
+
+расхождений по осям координат и высот, помещаемые в протокол Аgisoft 
+PhotoScan, требуют дополнительных вычислений для сопоставления получен-
+ных результатов с допусками действующей инструкции [25]. 
+
+Результаты исследований позволяют сделать следующие выводы. 
+Программное обеспечение Agisoft PhotoScan позволило получить по вы-
+
+бранным материалам аэрофотосъемки плотную цифровую модель (облако то-
+чек), пригодную для создания трехмерных моделей геопространства. 
+
+Для получения измерительных трехмерных моделей необходимо при об-
+работке БПЛА использовать плановые координаты и высоты контрольных то-
+чек. Последние позволят судить о точности и пригодности полученной модели 
+для измерительных целей. 
+
+ 
+Заключение 
+
+ 
+Аэрофотосъемка с БАС и автоматизированная обработка полученных ма-
+
+териалов в настоящее время в ряде случаев имеют безусловное преимущество 
+перед другими методами дистанционного зондирования Земли. Однако экспе-
+риментальные исследования показали, что при фотограмметрической обработке 
+материалов, полученных с БАС средствами программного обеспечения Agisoft 
+PhotoScan, наряду с центрами проектирования снимков, для повышения точно-
+сти трехмерной модели геопространства необходимо использовать наземные 
+опорные точки. 
+
+ 
+
+125 
+
+
+
+Вестник СГУГиТ, Том 23, № 2, 2018 
+
+БИБЛИОГРАФИЧЕСКИЙ СПИСОК 
+1. Обиденко В. И., Опритова О. А. Об определении метрических параметров больших 
+
+по площади территорий средствами программного обеспечения геоинформационных 
+систем // Геодезия и картография. – 2016. – Вып. 3. – С. 41–49. 
+
+2. Геопространственный дискурс опережающего и прорывного мышления / А. П. Кар-
+пик, Д. В. Лисицкий, К. С. Байков, А. Г. Осипов, В. Н. Савиных // Вестник СГУГиТ. – 2017. – 
+Т. 22, № 4. – С. 53−67. 
+
+3. Элементы геоинформационного обеспечения инвентаризационных работ / А. В. Дуб-
+ровский, А. В. Ершов, Ю. А. Новоселов, В. Н. Москвин // Вестник СГУГиТ. – 2017. – Т. 22, 
+№ 4. – С. 78−91. 
+
+4. Бугаков П. Ю., Касьянова Е. Л., Черкас М. В. Создание геоморфологической  
+3D-карты // Вестник СГУГиТ. – 2017. – Т. 22, № 4. – С. 102−112. 
+
+5. Янкелевич С. С., Радченко Л. К., Антонов Е. С. От многоцелевого картографическо-
+го ресурса к «Умной карте» // Вестник СГУГиТ. – 2018. – Т. 23, № 1. – С. 142−155. 
+
+6. Аврунев Е. И., Дорош М. П. Разработка информационной модели для повышения 
+достоверности кадастровой информации // Вестник СГУГиТ. – 2018. – Т. 23, № 1. – 
+С. 156−166. 
+
+7. Инвентаризация городских зеленых насаждений средствами ГИС / Л. К. Трубина, 
+О. Н. Николаева, П. И. Муллаярова, Е. И. Баранова // Вестник СГУГиТ. – 2017. – Т. 22, 
+№ 3. – С. 107−118. 
+
+8. Мохирев А. П., Горяева Е. В., Егармин П. А. Создание геоинформационного ресурса 
+для планирования лесозаготовительного производства // Вестник СГУГиТ. – 2017. – Т. 22,  
+№ 2. – С. 137−153. 
+
+9. Савиных В. П., Майоров А. А., Матерухин А. В. Построение пространственной мо-
+дели загрязнения воздуха на основе использования потоков данных от сетей геосенсоров // 
+Геодезия и картография. – 2017. – Вып. 12. – С. 39–43. 
+
+10. Кравцова В. И., Чалова Е. Р. Картографирование ландшафтно-морфологической 
+структуры северо-западной части Анапской пересыпи по цифровым аэрофотоснимкам высо-
+кого разрешения // Геодезия и картография. – 2017. – № 11. – С. 29–39. 
+
+11. Красноштанова Н. Е., Черкашин А. К. Оценочное картографирование опасности 
+возникновения кризисных природно-экономических ситуаций // Геодезия и картография. – 
+2017. – № 11. – С. 40–49. 
+
+12. Корнейчук А. И., Семенов В. И. Территориальный план развития как виртуальная 
+реальность // Геодезия и картография. – 2017. – № 10. – С. 40–49. 
+
+13. Игонин А. И. Геоинформационный анализ устойчивости административных границ 
+российско-украинского порубежья // Геодезия и картография. – 2016. – № 9. – С. 54–59. 
+
+14. Шевня М. С. Использование беспилотных летательных аппаратов для получения 
+материалов дистанционного зондирования Земли // Геодезия и картография. – 2013. – Вып. 1. – 
+С. 44–50. 
+
+15. Использование многороторных БПЛА для целей ДЗЗ / В. К. Барбасов, Н. М. Гаврю-
+шин, Д. О. Дрыга, М. С. Батаев // Изв. вузов. Геодезия и аэрофотосъемка. – 2013. – № 5. – 
+С. 122–126. 
+
+16. Построение трехмерной модели гиперболической башни Шухова по материалам 
+стереофотограмметрической съемки / С. Ю. Желтов, А. П. Михайлов, Ю. Б. Блохинов, 
+С. В. Скрябин, Т. Н. Скрыпицина // Изв. вузов. Геодезия и аэрофотосъемка. – 2015. – № 1. – 
+С. 53–58. 
+
+17. Graça N., Mitishita E., Gonçalves J. Photogrammetric mapping using unmanned aerial 
+vehicle // ISPRS Technical Commission I Symposium : The International Archives of the Photo-
+grammetry, Remote Sensing and Spatial Information Sciences (17–20 November 2014). – Denver, 
+Colorado, USA, 2014. Vol. XL–1. – P. 129–133. 
+
+126 
+
+
+
+Картография и геоинформатика 
+
+18.  Gandor F., Rehak M., Skaloud J. Photogrammetric mission planner for RPAS // 2015 In-
+ternational Conference on Unmanned Aerial Vehicles in Geomatics : The International Archives of 
+the Photogrammetry, Remote Sensing and Spatial Information Sciences (30 Aug–02 Sep 2015). – 
+Toronto, Canada, 2015. Vol. XL–1/W4. – P. 61–65. 
+
+19. Mah S. B., Cryderman C. S. Implementation of an unmanned aerial vehicle system for 
+large scale mapping // International Conference on Unmanned Aerial Vehicles in Geomatics : The 
+International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences 
+(30 Aug–02 Sep 2015). – Toronto, Canada, 2015. Vol. XL–1/W4. – P. 47–54. 
+
+20. Digital elevation model from non-metric camera in UAS compared with lidar technolo-
+gy / O. M. Dayamit, M. F. Pedro, R. R. Ernestoa, B. L. Fernandoa // International Conference on 
+Unmanned Aerial Vehicles in Geomatics : The International Archives of the Photogrammetry, Re-
+mote Sensing and Spatial Information Sciences (30 Aug–02 Sep 2015). – Toronto, Canada, 2015. 
+Vol. XL–1/W4. – P. 411–413. 
+
+21. Agisoft PhotoScan Professional Edition – Руководство пользователя. Версия 1.2 
+[Электронный ресурс]. – Режим доступа : http://www.agisoft.com/pdf/photoscan-pro_1_ 
+2_ru.pdf. 
+
+22. Хлебникова Т. А., Опритова О. А. Экспериментальные исследования  технологии мо-
+делирования геопространства по материалам аэрофотосъемки // Интерэкспо ГЕО-Сибирь-2016. 
+XII Междунар. науч. конгр. : Междунар. науч. конф. «Дистанционные методы зондирования 
+Земли и фотограмметрия, мониторинг окружающей среды, геоэкология» : сб. материалов в 2 т. 
+(Новосибирск, 18–22 апреля 2016 г.). – Новосибирск : СГУГиТ, 2016. Т. 1. – C. 16–20. 
+
+23. Хлебникова Т. А., Опритова О. А. Экспериментальные исследования современных 
+программных продуктов для моделирования геопространства // Вестник СГУГиТ. – 2017. – 
+Т. 22, № 1. – С. 119−131. 
+
+24. Хлебникова Т. А., Опритова О. А. Экспериментальные исследования  современных 
+программных продуктов для моделирования геопространства по материалам БПЛА // Интер-
+экспо ГЕО-Сибирь-2017. XIII Междунар. науч. конгр. : Междунар. науч. конф. «Дистанцион-
+ные методы зондирования Земли и фотограмметрия, мониторинг окружающей среды, геоэко-
+логия» : сб. материалов в 2 т. (Новосибирск, 17–21 апреля 2017 г.). – Новосибирск : СГУГиТ, 
+2017. Т. 1. – С. 3–6. 
+
+25. ГКИНП (ГНТА)-02-036-02. Инструкция по фотограмметрическим работам при соз-
+дании цифровых топографических карт и планов. – М. : ЦНИИГАиК, 2002. – 100 с. 
+
+ 
+Получено 18.04.2018 
+
+© Т. А. Хлебникова, О. А. Опритова, 2018 
+ 
+ 
+
+EXPERIMENTAL STUDIES OF THE DENSE DIGITAL MODEL  
+ACCURACY BY USING UAV 
+ 
+Tatyana A. Khlebnikova 
+Siberian State University of Geosystems and Technologies, 10, Plakhotnogo St., Novosibirsk, 
+630108, Russia, D. Sc., Professor, Department of Engineering Geodesy and Mine Surveying, 
+phone: (913)474-19-70, e-mail: t.a.hlebnikova@ssga.ru 
+ 
+Olga A. Opritova 
+Siberian State University of Geosystems and Technologies, 10, Plakhotnogo St, Novosibirsk, 
+630108, Russia, Head of the Siberian Training Research and Production Cartographical Center, 
+phone: (913)940-08-97, e-mail: ooolg@yandex.ru 
+
+ 
+
+127 
+
+
+
+Вестник СГУГиТ, Том 23, № 2, 2018 
+
+The intensive development of unmanned aerial technologies and the current level of digital 
+photogrammetry allowed to obtain spatial data on the territories of interest in a short time. The used 
+software is more and more focused on automation of data processing. The article presents the re-
+sults of experimental studies of photogrammetric model accuracy by using UAV. The studies were 
+performed with the program Photoscan Professional software, (Agisoft LLC company, St. Peters-
+burg). A control bridging was performed with GPS coordinates and reference and check point. The 
+values of the mean square errors at the control points make it possible to judge the accuracy and 
+suitability of the obtained models for measuring purposes.  
+
+ 
+Key words: aerial photography, unmanned aerial system (UAS), photogrammetric processing 
+
+of pictures, photogrammetric model, dense digital model, geospace model, digital elevation model 
+(DEM), digital photogrammetric station (DPS), accuracy evaluation. 
+
+REFERENCES 
+1. Obidenko, V. I., & Opritova, O. A. (2016). About definition of metric parametres of Large 
+
+Terrestrial Objects by means of the GIS-software. Geodezija i kartografija [Geodesy and Cartog-
+raphy], 3, 41–49 [in Russian]. 
+
+2. Karpik, A. P., Lisitsky, D. V., Baykov, K. S., Osipov, A. G., & Savinykh, V. N. (2017). 
+Geospacial Discourse of Forward-Looking and Breaking-Through Way of Thinking. Vestnik 
+SGUGiT [Vestnik SSUGT], 22(4), 53–67 [in Russian]. 
+
+3. Dubrovskiy, A. V., Ershov, A. V., Novoselov, Yu. A., & Moskvin, V. N. (2017). Elements 
+of Geoinformation Support for Inventory Works. Vestnik SGUGiT [Vestnik SSUGT], 22(4), 78–91 
+[in Russian]. 
+
+4. Bugakov, P. Yu., Kas'yanova, E. L., & Cherkas, M. V. (2017). Creation of 3D-
+Geomorphological Map. Vestnik SGUGiT [Vestnik SSUGT], 22(4), 102–112 [in Russian]. 
+
+5. Yankelevich, S. S., Radchenko, L. K., & Antonov, Ye. S. (2018). From Multi-Purpose 
+Cartographic Resource to «Smart Map». Vestnik SGUGiT [Vestnik SSUGT], 23(1), 142–155 [in 
+Russian]. 
+
+6. Avrunev, E. I., & Dorosh, M. P. (2018). Desing of Information Model for the Purpose of 
+Increasing Reliabillity of Cadastral Information. Vestnik SGUGiT [Vestnik SSUGT], 23(1), 156–166 
+[in Russian]. 
+
+7. Trubina, L. K., Nikolaeva, O. N., Mullayarova, P. I., & Baranova, Ye. I. (2017). GIS-
+Based Inventory of Urban Green Spaces. Vestnik SGUGiT [Vestnik SSUGT], 22(3), 107–118 [in 
+Russian]. 
+
+8. Mokhirev, A. P., Goryaeva, E. V., & Egarmin, P. A. (2017). Creation of Geoinformation 
+Resource for Planning of Forest Harvesting Production. Vestnik SGUGiT [Vestnik SSUGT], 22(2), 
+137–153 [in Russian]. 
+
+9. Savinikh, V. P., Maiorov, A. A., & Materuhin, A. V. (2017). Spatial modeling of air pollu-
+tion based on data streams from geosensor networks. Geodezija i kartografija [Geodesy and Car-
+tography], 12, 39–43 [in Russian]. 
+
+10. Kravtsovа, V. I., & Chalova, E. R. (2017). Mapping of landscape-morphological structure 
+of the Northern-Western part of Anapa bay bar by digital high resolution aerial images. Geodezija i 
+kartografija [Geodesy and Cartography], 11, 29–39 [in Russian]. 
+
+11. Krasnoshtanova, N. E., & Cherkashin, A. K. (2017). Valuation mapping of hazards of the 
+crisis natural and economic situations. Geodezija i kartografija [Geodesy and Cartography], 11, 
+40–49 [in Russian]. 
+
+12. Korneichuk, A. I., & Semenov, V. I. (2017). The territorial development plan as a virtual 
+reality. Geodezija i kartografija [Geodesy and Cartography], 10, 40–49 [in Russian].  
+
+128 
+
+
+
+Картография и геоинформатика 
+
+13. Igonin, A. I (2016). Geoinformation analysis stability of administrative boundaries of the 
+Russian-Ukrainian borderlands. Geodezija i kartografija [Geodesy and Cartography], 9, 54–59. [in 
+Russian]. 
+
+14. Shevnja, M. S. (2013). Use of Unmanned Aerial Vehicles for reception of remote sensing 
+of the Earth data. Geodezija i kartografija [Geodesy and Cartography], 1, 44–50 [in Russian]. 
+
+15. Barbasov, V., Gavriushin, N., Dryga, D., Bataev, M., & Altynov, A. (2013). Using multi 
+rotor UAV for remote sensing. Izvestia vuzov. Geodeziya i aerofotos"emka [Izvestia Vuzov. Geode-
+sy and Aerophotography], 5, 122–126 [in Russian]. 
+
+16. Zheltov, S., Mikhailov, A., Blokhinov, Yu., Skryabin, S., & Skripitsina, T. (2015). Build-
+ing 3D model of Shukhov hyperbolic tower  based on stereophotogrammetric survey materials. 
+Izvestia vuzov. Geodeziya i aerofotos"emka [Izvestia Vuzov. Geodesy and Aerophotography], 1, 53–
+58 [in Russian]. 
+
+17. Graça, N., Mitishita, E., & Gonçalves, J. (2014). Photogrammetric mapping using un-
+manned aerial vehicle. In ISPRS Technical Commission I Symposium, 17 – 20 November 2014: The 
+International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences: 
+Volume XL-1 (pp. 129–133). Denver, Colorado, USA 
+
+18. Gandor, F., Rehak, M., & Skaloud, J. (2015). Photogrammetric mission planner for 
+RPAS. In  International Conference on Unmanned Aerial Vehicles in Geomatics, 30 Aug–02 Sep 
+2015: The International Archives of the Photogrammetry, Remote Sensing and Spatial Information 
+Sciences: Volume XL-1/W4 (pp. 61–65). Toronto, Canada. 
+
+19. Mah, S. B., & Cryderman, C. S. (2015). Implementation of an unmanned aerial vehicle 
+system for large scale mapping. In International Conference on Unmanned Aerial Vehicles in 
+Geomatics, 30 Aug–02 Sep 2015: The International Archives of the Photogrammetry, Remote Sens-
+ing and Spatial Information Sciences: Volume XL-1/W4 (pp. 47–54). Toronto, Canada. 
+
+20. Dayamit O. M., Pedro M. F., Ernestoa R. R., & Fernandoa B. L. (2015). Digital elevation 
+model from non-metric camera in UAS compared with lidar technology. In International Confer-
+ence on Unmanned Aerial Vehicles in Geomatics, 30 Aug–02 Sep 2015: The International Archives 
+of the Photogrammetry, Remote Sensing and Spatial Information Sciences: Volume XL-1/W4 (pp. 
+411–413). Toronto, Canada. 
+
+21. Agisoft PhotoScan Professional Edition (User guide): Version 1.2. (n. d.). Retrieved from 
+http://www.agisoft.com/pdf/photoscan-pro_1_2_ru.pdf [in Russian]. 
+
+22. Khlebnikova, T. A., & Opritova, O. A. (2016). Pilot studies of technology of modelling 
+of geospace for aerial photography materials. In Sbornik materialov Interekspo GEO-Sibir'-2016: 
+Mezhdunarodnoy nauchnoy konferentsii: T. 1. Distantsionnye metody zondirovaniya Zemli i 
+fotogrammetriya, monitoring okruzhayushchey sredy, geoekologiya [Proceedings of Interexpo GEO-
+Siberia-2016: International Scientific Conference: Vol. 1. Remote Sensing and Photogrammetry Sens-
+ing, Environmental Monitoring, Geoecology] (pp. 16–20). Novosibirsk: SSUGT Publ. [in Russian]. 
+
+23. Khlebnikova, T. A., & Opritova, O. A. (2017). Experimental studies of contemporary 
+software for modeling geospatial. Vestnik SGUGiT [Vestnik SSUGT], 22(1), 119–131 [in Russian]. 
+
+24. Khlebnikova, T. A., & Opritova, O. A. (2017). Experimental studies of contemporary 
+software for modeling geospatial by using UAV. In Sbornik materialov Interekspo GEO-Sibir'- 2017: 
+Mezhdunarodnoy nauchnoy konferentsii: T. 1. Distantsionnye metody zondirovaniya Zemli i 
+fotogrammetriya, monitoring okruzhayushchey sredy, geoekologiya [Proceedings of Interexpo GEO-
+Siberia-2017: International Scientific Conference: Vol. 1. Remote Sensing and Photogrammetry Sens-
+ing, Environmental Monitoring, Geoecology] (pp. 3–6). Novosibirsk: SSUGT Publ. [in Russian]. 
+
+25. GKINP (GNTA)-02-036-02. Instruction for photogrammetric works to create digital 
+topographic maps and plans. (2002). Moscow: TSNIIGAIK [in Russian]. 
+
+ 
+Received 18.04.2018 
+
+© T. A. Khlebnikova, O. A. Opritova, 2018
+
+129

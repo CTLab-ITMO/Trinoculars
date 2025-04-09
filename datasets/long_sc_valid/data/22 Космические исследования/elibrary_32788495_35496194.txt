@@ -1,0 +1,500 @@
+﻿НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 10. № 1–2018
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+doi 10.24411/2409-5419-2018-10014
+
+ОСНОВНЫЕ РЕЗУЛЬТАТЫ ПРИМЕНЕНИЯ 
+АВТОМАТИЗИРОВАННОЙ СИСТЕМЫ НАУЧНЫХ 
+ИССЛЕДОВАНИЙ МЕТОДОВ И АЛГОРИТМОВ АВТОНОМНОЙ 
+НАВИГАЦИИ И ОРИЕНТАЦИИ КОСМИЧЕСКИХ АППАРАТОВ
+
+КУЗНЕЦОВ АННОТАЦИЯ
+Владислав Иванович1 Представлено краткое описание автоматизированной системы научных исследований 
+
+методов и алгоритмов автономной навигации и ориентации космических аппаратов. 
+ДАНИЛОВА Автоматизированная система научных исследований — сложная система, объединяю-
+Тамара Валентиновна2 щая с одной стороны подсистему разработки и применения инструментальной среды, 
+
+ответственной за корректный учет специфики предметной области, с другой – подси-
+АРХИПОВА стему управления, создающую равные возможности исследования многих разновид-
+Марина Александровна3 ностей моделей предметной области. Автоматизированная система научных исследо-
+
+ваний построена аналогично системам управления технологическими процессами с 
+различными контурами обратной связи, с широкой степенью визуализации процесса 
+решения задачи. Созданные в инструментальной среде имитационные модели раз-
+личных методов и алгоритмов частично известны из общей практики, либо модифи-
+цированы, либо разработан. Всего рассмотрены четырнадцать методов автономной 
+навигации и четыре метода автономной навигации и ориентации. Построенные по 
+единой методике, они представляют общность возможностей анализа и синтеза си-
+стемы автономной навигации и ориентации, способствующих выбору алгоритмов при 
+
+Сведения об авторах:
+удовлетворении целей и задач полета космических аппаратов. Представлены основ-
+
+1д.т.н., с.н.с, старший научный 
+сотрудник Военно-космической ные научные результаты, полученные при моделировании и исследованиях в данной 
+академии имени А.Ф. Можайского, предметной области. Наиболее современны разработки астрономических систем ав-
+г. Санкт-Петербург, Россия, тономной навигации и ориентации на основе использования оптико-электронных при-
+vladislaw.kuzn@yandex.ru, 
+
+боров с зарядовой связью. В этом ряду перспективен разработанный метод по вирту-
+2к.т.н., старший научный сотрудник 
+Военно-космической академии альным измерениям зенитных расстояний звезд. Метод защищен двумя патентами. В 
+имени А.Ф. Можайского, этом методе удалось решать задачи навигации и ориентации, используя одинаковую 
+г. Санкт-Петербург, Россия, информацию: измерения яркости и приборных координат предварительно распознан-
+danitoma58@yandex.ru, 
+
+ных звезд. Более того, на основе этой же информации оказалось возможным построе-
+3старший научный сотрудник 
+Военно-космической академии ние многофункциональной системы автономной навигации и ориентации космических 
+имени А.Ф. Можайского,  аппаратов, позволяющей сделать определенные логические выводы из ситуационной 
+г. Санкт-Петербург, Россия, обстановки на орбите.
+marina_arhipova@mail.ru
+
+КЛЮЧЕВЫЕ СЛОВА: автономная навигация; автономная ориентация; самоопреде-
+ление; автоматизированная система научных исследований; оптимальная стратегия 
+измерений.
+
+Для цитирования: Кузнецов В. И., Данилова Т. В., Архипова М. А. Основные результаты применения автоматизированной 
+системы научных исследований методов и алгоритмов автономной навигации и ориентации космических аппаратов // 
+Наукоемкие технологии в космических исследованиях Земли. 2018. Т. 10. № 1. С. 4–14. doi 10.24411/2409-5419-2018-10014
+
+4
+
+
+
+Vol. 10. No. 1-2018, H&ES RESEARCH
+
+AVIATION, SPASE-ROCKET HARDWARE
+
+-
+- — -
+
+-
+
+- -
+-
+
+- -
+
+-
+-
+- -
+
+- -
+-
+
+-
+
+-
+-
+
+—
+
+-
+-
+
+-
+-
+
+-
+-
+
+-
+-
+-
+
+-
+-
+
+—
+
+-
+
+- —
+-
+
+-
+
+-
+-
+
+-
+-
+
+-
+
+5
+
+
+
+НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 10. № 1–2018
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+-
+-
+
+-
+-
+
+— -
+- —
+
+—
+-
+
+- -
+
+-
+- -
+
+-
+
+- -
+
+- -
+-
+
+-
+
+-
+
+-
+-
+
+- -
+-
+
+-
+
+- -
+
+-
+-
+
+-
+
+-
+- -
+- -
+
+6
+
+
+
+Vol. 10. No. 1-2018, H&ES RESEARCH
+
+AVIATION, SPASE-ROCKET HARDWARE
+
+-
+
+-
+-
+-
+
+—
+- -
+-
+
+-
+- -
+
+-
+-
+-
+
+-
+
+— — - -
+
+- -
+-
+- -
+
+-
+-
+
+-
+
+- -
+
+— -
+- -
+-
+
+-
+-
+
+-
+-
+
+-
+-
+
+-
+-
+
+7
+
+
+
+НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 10. № 1–2018
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+-
+-
+
+-
+
+-
+
+-
+-
+
+— -
+-
+
+- -
+-
+
+-
+-
+-
+
+- -
+-
+-
+
+—
+
+-
+
+-
+-
+
+- — —
+- -
+
+-
+-
+
+-
+
+-
+-
+
+-
+— -
+
+— - -
+-
+
+-
+-
+
+-
+
+- -
+-
+
+— -
+-
+
+8
+
+
+
+Vol. 10. No. 1-2018, H&ES RESEARCH
+
+AVIATION, SPASE-ROCKET HARDWARE
+
+- -
+
+- -
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+
+-
+
+-
+-
+-
+
+-
+
+-
+—
+
+-
+-
+
+-
+-
+
+- -
+-
+
+-
+
+-
+
+-
+-
+-
+
+9
+
+
+
+НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 10. № 1–2018
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+-
+-
+
+-
+
+-
+-
+-
+- -
+
+- -
+
+-
+
+-
+
+THE MAIN RESULTS OF APPLICATION OF THE AUTOMATED SYSTEM 
+OF SCIENTIFIC RESEARCH OF METHODS AND ALGORITHMS
+OF AUTONOMOUS NAVIGATION AND ORIENTATION OF SPACECRAFTS
+
+VLADISLAV I. KUZNETSOV, KEYWORDS: autonomous navigation; autonomous orienta-
+St. Petersburg, Russia, vladislaw.kuzn@yandex.ru tion; self-determination; automated system of scientific re-
+
+searches; optimum measurements strategy.
+TAMARA V. DANILOVA,
+St. Petersburg, Russia, danitoma58@yandex.ru
+
+MARINA A. ARKHIPOVA,
+St. Petersburg, Russia, marina_arhipova@mail.ru
+
+ABSTRACT
+It is presented the short description of the automated system of various methods and algorithms created in the instrumen-
+of scientific research (ASSR) of methods and algorithms of tal environment are partially known from the general prac-
+autonomous navigation and orientation of the spacecrafts tice, or are modified by us, or developed by us. The four-
+(SC). ASSR is a complex system uniting, on the one hand, teen methods of autonomous navigation and four methods 
+a subsystem of development and application of an instru- of autonomous navigation and orientation are considered. 
+mental environment responsible for correct accounting of Constructed by a uniform technique, they represent commu-
+specifics of subject domain, and on the other hand  – the nity of opportunities of the analysis and the synthesis of sys-
+subsystem of management creating equal opportunities of tem of autonomous navigation and orientation promoting 
+a research of many varieties of models of subject domain. the choice of algorithms at satisfaction of the purposes and 
+ASSR is constructed similar to process control systems with problems of flight of SC. The main scientific results received 
+various contours of feedback, with wide extent of visualiza- during the modeling and researches in this subject domain 
+tion of process of the solution of a task. The imitating models are presented. Developments of astronomical systems of au-
+
+10
+
+
+
+Vol. 10. No. 1-2018, H&ES RESEARCH
+
+AVIATION, SPASE-ROCKET HARDWARE
+
+tonomous navigation and orientation on the basis of use of formatsionnogo obespecheniya avtomatizirovannoy sistemy 
+optical-electronic devices with charge coupling instrumental nauchnykh issledovaniy metodov i  algoritmov avtonomnoy 
+are most modern. The method developed by us on virtual navigatsii i orientatsii kosmicheskikh apparatov (ASNI 1.1) [Soft-
+measurements of zenith distances of stars is perspective. The ware complex of calculation-information support of the auto-
+method is protected by two patents. In this method it was mated system of scientific research of methods and algorithms 
+succeeded to solve problems of navigation and orientation of autonomous navigation and orientation of spacecrafts 
+using the same information: measurements of brightness (ASSR1.1)]. Kuznetsov V. I., Danilova T. V., Arkhipova M. A. De-
+and instrument coordinates of previously recognizable stars. clared 19.06.2013. Published 20.09.2013. (In Russian)
+Based on the same information, it was possible to build a 6. Kozlov N. N. Ob optimizatsii protsessa traektornykh iz-
+multifunctional system of autonomous navigation and SC mereniy [About optimization of process of trajectory meas-
+orientation, which allows making certain logical conclusions urements]. Cosmic Research. 1971. Vol. 9. No 1. Pp. 3–15. 
+from the situation in orbit. (In Russian)
+
+7. Kuznetsov V. I., Danilova T. V. Algoritmy raspoznavaniya 
+REFERENCES «rabochikh» zvezd po zvezdnomu polyu [Identification al-
+1. Kuznetsov V. I. Avtomatizirovannaya sistema nauchnykh gorithms of «workers» stars on a sidereal field]. Izvestiya 
+issledovaniy metodov i  algoritmov avtonomnoy navigatsii vysshikh uchebnykh zavedeniy. Priborostroenie [Journal of 
+i orientatsii kosmicheskikh apparatov [Automated system sci- Instrument Engineering]. 2003. Vol. 46. No. 4. Pp. 16–23. 
+entific research of methods and algorithms autonomous nav- (In Russian)
+igation and orientation of spacecrafts: Monograph. In 2 vol.]. 8. Patent RF 2454631. Sposob avtonomnoy navigatsii i  ori-
+St. Petersburg: Military Space Academy of A. F. Mozhaysky, entatsii kosmicheskikh apparatov na osnove virtual'nykh 
+2010. Vol. 1. 289 p. Vol. 2. 164 p. (In Russian) izmereniy zenitnykh rasstoyaniy zvezd [Method for autono-
+2. Kuznetsov V. I., Danilova T. V. Teoriya i  praktika navigat- mous navigation and orientation of spacecraft based on virtu-
+sionnogo obespecheniya primeneniya VS RF: Monografiya. al measurements of zenith distances of stars]. Kuznetsov V. I., 
+Chast' 2. Avtonomnaya astronomicheskaya navigatsiya i ori- Danilova T. V., Kosulin D. M. Declared 28.10.2010. Published 
+entatsiya kosmicheskikh apparatov [Theory and practice of 27.06.2012. Bulletin No. 18. 12 p. (In Russian)
+navigation ensuring application of Armed Forces RF: Mono- 9. Kuznetsov V. I., Danilova T. V. A system of autonomous 
+graph. Part 2. Autonomous astronomical navigation and ori- navigation and orientation for satellites based on virtual 
+entation of spacecrafts]. Monograph. St. Petersburg: Military measurements of zenith distances of stars. Cosmic Research. 
+Space Academy of A. F. Mozhaysky, 2015. 233 p. (In Russian) 2011. Vol. 49. No. 6. Pp. 538–545. (In Russian)
+3. Kuznetsov V. I., Smolitskiy Kh.L., Silov V. N., Danilova T. V. No- 10. Kuznetsov V. I., Danilova T. V. Avtonomnaya astronomich-
+vaya sistema avtonomnoy navigatsii i orientatsii, prigodnaya eskaya sistema navigatsii i  slezheniya [Autonomous astro-
+dlya lyubykh orbit kosmicheskikh apparatov [New system of nomical system for navigation and tracking]. Izvestiya vysshikh 
+autonomous navigation and orientation, suitable for any or- uchebnykh zavedeniy. Priborostroenie [Journal of Instrument 
+bital of spacecrafts]. Sbornik trudov I Voenno-nauchnoy kon- Engineering]. 2015. Vol. 58. No. 8. Pp. 625–638. (In Russian)
+ferentsii Kosmicheskikh voysk [The collection of works of 1th 11. Patent RF 2624408. Sposob avtonomnogo otsenivani-
+Military-scientific conference of Space troops, St.-Petersburg, ya izmeneniy orbity viziruemogo kosmicheskogo appara-
+October 29–30, 2002]. The Ministry of Defence of the Russian ta [Method of autonomous estimation of orbit changes of 
+Federation, 2003. Vol. 2. Pp. 315–319. (In Russian) sighted spacecraft]. Kuznetsov V. I., Danilova T. V., Arkhipo-
+4. Kuznetsov V. I., Danilova T. V., Arkhipova M. A. Avtonomnyy va М. А. Declared 01.12.2015. Published 03.07.2017. Bulle-
+metod opredeleniya otsenok parametrov orbity i  orientatsii tin No 19. 22 p. (In Russian)
+kosmicheskogo apparata pri otsutstvii apriornoy informatsii 12. Kuznetsov V. I., Danilova T. V. Multifunctional astronomi-
+[Autonomous method of definition of estimates of parameters cal self-organizing system of autonomous navigation and ori-
+of an orbit and orientation of the spacecraft in the absence of entation for artificial Earth satellites. Cosmic Research. 2017. 
+aprioristic information]. Fundamental'noe i  prikladnoe koor- Vol. 55. No. 2. Pp. 142–158. (In Russian)
+dinatno-vremennoe i  navigatsionnoe obespechenie: sbornik 13. Kuznetsov V. I., Smolitskiy Kh.L., Danilova T. V. Metod 
+trudov VI Vserossiyskoy konferentsii [The collection of works avtonomnoy astronomicheskoy navigatsii i  orientatsii ISZ 
+of 6th All-Russian conference «Fundamental and applied co- [Method of autonomous astronomical navigation and orien-
+ordinate-time and navigation providing», St.-Petersburg, April tation for artificial Earth satellites]. Izvestiya vysshikh ucheb-
+20–24, 2015]. St.-Petersburg: Transactions of Institute of Ap- nykh zavedeniy. Priborostroenie [Journal of Instrument Engi-
+plied Astronomy RAS, 2016. Vol. 38. Pp. 38–43. (In Russian) neering]. 2003. Vol. 46. No. 4. Pp. 5–16. (In Russian)
+5. Certificate RF on the state registration of the computer pro- 14. Patent RF 2318188. Sposob avtonomnoy navigatsii i orien-
+grams 2013617182. Programmnyy kompleks raschetno-in- tatsii kosmicheskikh apparatov [The method of autonomous 
+
+11
+
+
+
+НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 10. № 1–2018
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+navigation and orientation of spacecrafts]. Kuznetsov V. I., ment Engineering]. 2003. Vol. 46. No. 4. Pp. 43–50. (In Russian)
+Danilova T. V. Declared 17.07.2006. Published 27.02.2008. 17. Smolitskiy Kh.L., Kuznetsov V. I., Danilova T. V. Model' op-
+Bulletin No. 6. 10 p. (In Russian) ticheskogo postroitelya mestnoy vertikali ISZ [Model of the 
+15. Kuznetsov V. I. Sistema avtonomnogo opredeleniya orbit optical plotter of a local vertical of the artificial Earth satellite]. 
+kosmicheskikh apparatov sputnikovykh radionavigatsion- Izvestiya vysshikh uchebnykh zavedeniy. Priborostroenie [Jour-
+nykh system [System of autonomous definition of orbits of nal of Instrument Engineering]. 2005. Vol. 48. No. 5. Pp. 45–52. 
+spacecrafts of satellite radio navigational systems]. Izvesti- (In Russian)
+ya vysshikh uchebnykh zavedeniy. Priborostroenie [Journal 
+of Instrument Engineering]. 2008. Vol. 51. No. 5. Pp. 3–9. INFORMATION ABOUT AUTHORS:
+(In Russian) Kuznetsov V. I., PhD, Senior Research Officer; Senior Research 
+16. Kuznetsov V. I., Silov V. N., Danilova T. V. Algoritmy i  pro- Officer of the Military Research Institute of Military Space 
+grammy optimal'noy strategii izmereniy v zadachakh Academy;
+avtonomnoy navigatsii kosmicheskikh apparatov [Algorithms Danilova T. V., PhD, Senior Research Officer of the Military Re-
+and programs of optimum strategy of measurements in prob- search Institute of Military Space Academy;
+lems of autonomous navigation of spacecrafts]. Izvestiya vys- Arkhipova M. A., Senior Research Officer of the Military Re-
+shikh uchebnykh zavedeniy. Priborostroenie [Journal of Instru- search Institute of Military Space Academy.
+
+FOR CITATION: Kuznetsov V. I., Danilova T. V., Arkhipova M. A. The main results of application of the automated system of sci-
+entific research of methods and algorithms of autonomous navigation and orientation of spacecrafts. H&ES Research. 2018. 
+Vol. 10. No. 1. Pр. 4–12. doi 10.24411/2409-5419-2018-10014 (In Russian)
+
+12

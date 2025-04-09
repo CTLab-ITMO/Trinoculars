@@ -1,0 +1,461 @@
+﻿Преобразовательная техника 
+ 
+УДК 621.314                   DOI: 10.14529/power180110 
+ 
+АВТОНОМНЫЙ ОДНОФАЗНЫЙ ИНВЕРТОР  
+С ВЫСОКИМ КАЧЕСТВОМ ВЫХОДНОГО НАПРЯЖЕНИЯ  
+ 
+Ю.М. Голембиовский1, Ю.Б. Томашевский1, А.А. Щербаков2,  
+Д.Ю. Луков1, А.В. Старков3 
+1 Саратовский государственный технический университет им. Гагарина Ю.А.,  
+г. Саратов, Россия, 
+2 ООО «НетКрекер», г. Саратов, Россия, 
+3 ООО «ЛионСистемс», г. Саратов, Россия 
+
+ 
+ 
+
+Представлено решение актуальной проблемы повышения качества выходного сигнала автономных 
+инверторов напряжения. В отличие от традиционно используемой для этой цели широтно-импульсной 
+модуляции (ШИМ), предложена топология, содержащая мостовой однофазный инвертор и коммутатор 
+источников постоянного тока на входе, позволяющий формировать на нагрузке восьмиступенчатое на-
+пряжение с суммарным коэффициентом гармоник 6,9 %, что удовлетворяет требованиям современного 
+стандарта на качество электроэнергии. Новизна технического решения подтверждена патентом на по-
+лезную модель. Оптимизация кривой многоступенчатого, аппроксимирующего синусоиду сигнала по 
+критерию минимума коэффициента гармоник проводилась с помощью эволюционного моделирования 
+(генетического алгоритма). Исследование электромагнитных процессов осуществлялось методом ими-
+тационного моделирования. Полученные результаты подтвердили неизменность коэффициента гармо-
+ник выходного напряжения инвертора во всем диапазоне изменения коэффициента мощности нагрузки 
+0 ≤ cos φ ≤ 1 и устойчивость системы при мгновенном увеличении и уменьшении нагрузки.  
+
+Значимость предложенного и исследованного схемного решения определяется преимуществами 
+ступенчатой модуляции по сравнению с широтно-импульсной:  
+
+– низкие динамические потери в ключевых элементах, позволяющие использовать инвертор в ши-
+роком диапазоне частот; 
+
+– независимость коэффициента гармоник от частоты и характера нагрузки; 
+– уменьшение массогабаритных показателей, вследствие отсутствия необходимости установки 
+
+фильтра на выходе инвертора, поскольку гарантируемое качество электроэнергии соответствует требо-
+ваниям стандарта; 
+
+– отсутствие по сравнению с методом широтно-импульсной модуляции негативного влияния на харак-
+теристики потребителей и сроки их эксплуатации, если не используются фильтры высших гармоник.  
+
+Область применения рассмотренной схемы инвертора включает радиоэлектронную технику, аппара-
+туру связи, электропривод. Наибольшие преимущества предложенного схемотехнического решения про-
+являются при включении инвертора в систему локального электроснабжения с возобновляемыми источни-
+ками электроэнергии (солнечные панели, аккумуляторы), поскольку в этом случае исключается установка 
+гальванически изолированных выпрямителей в качестве источников постоянного тока на входе АИН. 
+
+Ключевые слова: автономный инвертор напряжения, амплитудно-импульсная модуляция, качество 
+напряжения, коэффициент гармоник. 
+
+ 
+ 
+
+Введение напряжения повышает потери в обмотках транс-
+Известно, что классическая схема однофазно- форматоров и магнитопроводах [2, 3]. Питание 
+
+го автономного инвертора напряжения (АИН) не электродвигателей напряжением, содержащим 
+предназначена для потребителей, чувствительных высшие гармоники, приводит не только к допол-
+к качеству питающего напряжения, в частности, нительным потерям электроэнергии, но и к ухуд-
+таких как системы управления и контроля различ- шению их рабочих характеристик [4]. 
+ными технологическими аппаратами и процесса- Коэффициент гармоник напряжения Ku, гене-
+ми, вычислительные машины, телеметрия, связь и рируемого известными базовыми схемами АИН, 
+радиотехнические устройства [1]. значительно превосходит требования стандарта на 
+
+Несинусоидальность напряжения на конден- качество сетевого напряжения, допускающего зна-
+саторах вызывает дополнительные потери, что тре- чение Ku не более 8 % [5]. 
+бует увеличения установленной мощности конден- В последнее десятилетие заметно усилился 
+саторов и, следовательно, массо-габаритных пока- интерес к созданию локальных интеллектуальных 
+зателей установок. Кроме того, несинусоидальность систем электроснабжения на базе возобновляемых 
+Вестник ЮУрГУ. Серия «Энергетика».  
+2018. Т. 18, № 1. С. 75–81 75 
+
+
+
+Преобразовательная техника 
+источников электроэнергии (ветрогенераторов, одновременно количество ступенек, их амплитуды 
+солнечных панелей, аккумуляторных батарей). и длительности [16, 17, 19]. Эта задача решена  
+Основной задачей в таких сетях является органи- с помощью эволюционного алгоритма [20–22], 
+зация перетекания энергии между разнотипными обеспечивающего не только синтез топологии 
+источниками, а также между источниками и по- схемы АИН, но и получение значений напряжения 
+требителями с минимизацией возникающих при источников питания E1, E2, E3, амплитуду и дли-
+этом потерь. Главным звеном в этой сложной сис- тельности ступенек сигнала, аппроксимирующего 
+теме электроснабжения является автономный ин- синусоиду.  
+вертор напряжения, способный генерировать вы- Синтезированная схема однофазного АИН  
+ходное напряжение с параметрами, удовлетво- с восьмиступенчатым выходным напряжением, 
+ряющими требованиям ГОСТ 32144–2013. включая ступень нулевого уровня, показана на 
+
+Поскольку в локальных сетях однофазные по- рис. 1 [23]. Схема содержит однофазный инвер-
+требители занимают доминирующее положение, торный мост (Т1–Т6) и коммутатор, включающий 
+применение однофазных АИН для решения указан- три источника питания Е1, Е2, Е3 и ключи Т5–Т10. 
+ных выше задач требует кардинального улучшения Напряжения Е3, Е2, Е1 соотносятся как 1 : 2 : 3. 
+качества выходного напряжения инверторов. Тра- АИН обеспечивает питание активно-индуктивной 
+диционно эта задача решается за счёт использова- нагрузки Zн. При этом циркуляция реактивной со-
+ния широтно-импульсной модуляции (ШИМ) [6, 7], ставляющей мощности нагрузки (т. е. возврат от-
+что не всегда является лучшим решением. стающих токов нагрузки) источникам питания 
+
+Во-первых, применение ШИМ увеличивает осуществляется через ключи Т6, Т8, Т10 на ниспа-
+потери в силовых ключах АИН, поскольку частота дающем участке синусоиды.  
+ШИМ в 20–100 раз превосходит частоту первой Напряжение на нагрузке и временные диа-
+гармоники выходного напряжения инвертора [8, 9]. граммы импульсов управления ключами представ-
+
+Во-вторых, появление большого количества лены на рис. 1. 
+высших гармоник в кривой выходного напряжения Запасённая в индуктивной составляющей на-
+АИН при использовании ШИМ отрицательно ска- грузки энергия на текущей ступени передается на 
+зывается на качестве функционирования потреби- следующем интервале источникам постоянного 
+телей и их сроке службы. Для устранения этого тока, работающим на этом интервале. Суммарный 
+недостатка обычно на выходе АИН устанавливают коэффициент гармоник Ku = 6,9 %. 
+фильтры высших гармоник, что увеличивает мас- В последующих разделах данной статьи пред-
+согабаритные параметры и стоимость системы ставлены результаты исследования новой схемы 
+электроснабжения [10]. однофазного АИН (рис. 2), обеспечивающей до-
+
+Эти недостатки не устраняются даже приме- пустимую величину суммарного коэффициента 
+нением завоевывающих все большее внимание гармоник Кu в сетях до 0,38 кВ, которая может 
+многоуровневых инверторов с ШИМ [11–13]. быть использована в локальных системах электро-
+
+Альтернативным вариантом, позволяющим снабжения и в других областях, требующих высо-
+минимизировать негативные следствия широтно- кого качества напряжения. 
+импульсной модуляции, является применение ам- Значения отдельных гармонических состав-
+плитудно-импульсной модуляции (АИМ), в част- ляющих представлены в таблице. 
+ности, ступенчатой модуляции (СМ) для формиро- Таким образом, генерируемое напряжение 
+вания выходного напряжения АИН. Вопросами удовлетворяет требованиям ГОСТ 32144–2013 по 
+синтеза топологии инверторов с СМ посвящено гармоническому составу напряжения для электри-
+множество публикаций [14–18], отображающих ческих сетей низкого и среднего напряжения без 
+разные стороны этой проблемы.  установки выходного фильтра и использования 
+
+ ШИМ. 
+Амплитудно-импульсная модуляция  
+Формирование ступенчатой кривой, аппрок- Результаты моделирования 
+
+симирующей синусоидальный сигнал, позволяет Проведённые с использованием системы ими-
+при достаточном количестве ступеней достигнуть тационного моделирования PSIM исследования 
+уровня коэффициента гармоник Ku, не превы- схемы АИН с СМ показали, что она обеспечивает 
+шающего допустимого стандартом значения. При- сохранение расчётного коэффициента гармоник 
+веденные в работах [17, 18] данные показывают, выходного напряжения на уровне 7 % во всём 
+что уже при 6–7 уровневом сигнале можно полу- диапазоне изменения нагрузки от холостого хода 
+чить напряжение, несинусоидальность которого не до номинального значения. При этом коэффициент 
+превышает 8 %. При этом частота переключения несинусоидальности тока нагрузки Ki находился в 
+вентилей в силовой схеме инвертора будет сниже- пределах 1,12–2,58 % при изменении коэффициен-
+на по сравнению с ШИМ на 1–2 порядка, а значит, та мощности cos φ от 0,05 до 0,95. 
+и величина динамических потерь.  Такой низкий коэффициент гармоник тока 
+
+Для наибольшего приближения к форме сину- объясняется фильтрующими свойствами индук-
+соидального сигнала требуется оптимизировать тивной составляющей нагрузки. 
+
+76 Bulletin of the South Ural State University. Ser. Power Engineering. 
+2018, vol. 18, no. 1, pp. 75–81 
+
+
+
+Голембиовский Ю.М., Томашевский Ю.Б.,           Автономный однофазный инвертор 
+Щербаков А.А. и др.             с высоким качеством выходного напряжения 
+
+ 
+Рис. 1. Временные диаграммы: а – выходное напряжение инвертора; 
+
+б – управляющие сигналы силовых ключей 
+ 
+
+    Коммутатор          Инвертор 
+
+ 
+Рис. 2. Схема инвертора напряжения с восьмиступенчатым выходным напряжением 
+
+  
+Вестник ЮУрГУ. Серия «Энергетика».  
+2018. Т. 18, № 1. С. 75–81 77 
+
+
+
+Преобразовательная техника 
+Гармонические составляющие выходного напряжения инвертора 
+
+Порядок гармонической 
+составляющей 3 5 7 9 11 13 15 17 19 21 
+Значение гармонической 
+составляющей,  % 1,9 3,2 0,8 0,4 1,1 0,2 0,3 0,3 0,9 0,2 
+
+ 
+
+ 
+Рис. 3. Диаграммы напряжения и тока нагрузки 
+
+На рис. 3 представлены кривые мгновенных электроэнергии на промышленных предприятиях / 
+значений выходного напряжения и тока АИН с СМ И.В. Жежеленко. – М.: Энергия, 1977. – 127 с. 
+при коэффициенте мощности нагрузки cos φ = 0,8 4. Мэрфи, Д. Тиристорное управление дви-
+и мгновенном двукратном увеличении и уменьше- гателями переменного тока. – М.: Энергия, 1979. – 
+нии нагрузки. Из приведенных кривых следует, 254 с. 
+что даже такая высокая динамика потребляемой 5. ГОСТ 32144–2013 Электрическая энергия. 
+мощности не отражается на качестве напряжения и Совместимость технических средств электро-
+тока нагрузки и не вызывает неблагоприятных магнитная. Нормы качества эклектической энер-
+переходных процессов. гии в системах электроснабжения общего назна-
+
+Недостатком рассмотренной схемы является чения. – М.: Стандартинформ, 2014. – 16 с.  
+необходимость иметь три независимых источника 6. Глазенко, Т.А. Полупроводниковые пре-
+постоянного напряжения для питания АИН. Ми- образователи частоты в электроприводах /  
+нимизировать затраты можно использованием Т.А. Глазенко, Р.Б. Гончаренко. – Л.: Энергия, 
+трансформатора с тремя вторичными обмотками, 1969. – 184 с. 
+нагруженными на гальванически развязанные вы- 7. Карлов, Б. Современные преобразователи 
+прямители. Что касается локальных систем элек- частоты: методы управления и аппаратная реа-
+троснабжения, содержащих солнечные панели и лизация / Б. Карлов, Е. Есин // Cиловая электрони-
+аккумуляторные батареи, то организация трёх ис- ка. – 2004. – № 1. – C. 50–54. 
+точников постоянного напряжения на входе АИН 8. Monmasson, E. Power Electronic Convert-
+вообще не является проблемой. ers: PWM Strategies and Current Control Tech-
+
+ niques. – Wiley-ISTE Publ., 2011. – 608 p. DOI: 
+Литература 10.1002/9781118621196 
+
+1. Розанов, Ю.К. Основы силовой преобразо- 9. Linear Circuit Design Handbook / Edited by 
+вательной техники / Ю.К. Розанов. – М.: Энергия, Hank Zumbahlen. – News/Elsevier, 2008. (Also pub-
+1979. – 385 с. lished as Basic Linear Design, Analog Devices, 2007. 
+
+2. Жежеленко, И.В. Высшие гармоники в DOI: 10.1016/B978-0-7506-8703-4.00008-0 
+системах электроснабжения промпредприятий / 10. Захаров, А. Расчет выходного фильтра 
+И.В. Жежеленко. – 2-е изд. – М.: Энергоатомиз- ШИМ-инвертора на заданный коэффициент гар-
+дат, 1984. – 160 с.  моник напряжения на нагрузке / А. Захаров // Си-
+
+3. Жежеленко, И.В. Показатели качества ловая электроника. – 2005. – № 1. – C. 46–49. 
+
+78 Bulletin of the South Ural State University. Ser. Power Engineering. 
+2018, vol. 18, no. 1, pp. 75–81 
+
+
+
+Голембиовский Ю.М., Томашевский Ю.Б.,           Автономный однофазный инвертор 
+Щербаков А.А. и др.             с высоким качеством выходного напряжения 
+
+11. Derakhshanfar, M. Analysis of different to- торов модуляционного типа / В.Е. Тонкаль. – Киев: 
+pologies of multilevel inverters: master of science Наукова думка, 1979. – 207 с. 
+thesis. – Geteborg, Sweden, 2010. – 39 p. 19. Об оптимальном синтезировании ампли-
+
+12. The age of multilevel converters arrives / тудно-модулированного напряжения / В.И. Сень-
+L.G. Franqelo, О Rodrigues, J. Leon et al. // IEEE ко, В.С. Руденко, В.М. Скобченко, В.С. Смирнов // 
+Industrial Electronics Magasine. – 2008. – P. 28–39. Оптимизация полупроводниковых устройств энер-
+DOI: 10.1109/MIE.2008.923519  гетической электроники. – Киев: Наукова думка, 
+
+13. Stemmler, H. Configurations of High-Power 1980. – C. 20–30. 
+Voltage Source Inverter Drivers / H. Sremmler, P. Gug- 20. Рутковская, Д. Нейронные сети, генети-
+genbach // Proc. EPE Conf., 1993. ческие алгоритмы и нечеткие системы / пер. с 
+
+14. Моин, В.С. Стабилизированные транзи- польск. И.Д. Рудинского / Д. Рутковская, М. Пи-
+сторные преобразователи / В.С. Моин. – М.: Энер- линьский, Л. Рутковский. – М.: Горячая линия – 
+гоатомиздат, 1986. – 376 с. Телеком. – 2004. – 452 с. 
+
+15. Мыцык, Г.С. Основы теории структурно- 21. Clement, R.P. Genetic Algorithms and Bus-
+алгоритмического синтеза источников вторичного Driver Scheduling / R.P. Clement, A. Wren // 6th Inter-
+электропитания / Г.С. Мыцык. – М.: МЭИ, 1989. – national Conference for Computer-Aided Transport 
+108 с. Scheduling, Lisbon, Portugal. – 1993. – Vol. 9. 
+
+16. Анисимова, Т.В. Способы повышения ка- 22. Thompson, A. Temperature in natural and 
+чества выходного напряжения инверторов со сту- artificial systems // Fourth International Conference on 
+пенчатым выходным напряжением / Т.В. Аниси- Artificial Life. – 1997. – P. 388–397. 
+мова, А.Н. Данилина, В.В. Крючков // Вестник 23. Патент на полезную модель 130159 Рос-
+МАИ. – 2010. – Т. 17, № 1. – С. 103–112. сийская Федерация, МПК H 02 M7/48 (2007.01). Од-
+
+17. Колдаев, Р.В. Оптимизация гармониче- нофазный инвертор со ступенчатым выходным 
+ского состава выходного напряжения статических напряжением / А.А. Щербаков, Ю.М. Голембиов-
+преобразователей частоты / Ю.М. Голембиов- ский; заявитель и патентообладатель Саратов-
+ский, Р.В. Колдаев // Технiчна електродинамiка. – ский государственный технический университет 
+Киев: 2000. – Темат. випуск, ч. 8. – С. 51–54.  имени Гагарина Ю.А. – № 2013100721/07; заявл. 
+
+18. Тонкаль, В.Е. Синтез автономных инвер- 09.01.13; опубл. 10.07.13. 
+ 
+
+ 
+ 
+ 
+ 
+Голембиовский Юрий Мичиславович, д-р техн. наук, профессор кафедры «Системотехника», Сара-
+
+товский государственный технический университет им. Гагарина Ю.А., г. Саратов; yrmg_37@mail.ru. 
+Томашевский Юрий Болеславович, д-р техн. наук, профессор, зав. кафедрой «Системотехника», Са-
+
+ратовский государственный технический университет им. Гагарина Ю.А., г. Саратов; yurytomash@mail.ru.  
+Щербаков Андрей Александрович, канд. техн. наук, ведущий инженер-программист, ООО «НетКрекер»,
+
+г. Саратов; shcherband88@gmail.com. 
+Луков Дмитрий Юрьевич, аспирант кафедры «Системотехника», Саратовский государственный тех-
+
+нический университет им. Гагарина Ю.А., г. Саратов; Lukov-d@yandex.ru. 
+Старков Андрей Владимирович, инженер-конструктор, ООО «ЛионСистемс», г. Саратов; andreuha94@
+
+gmail.com. 
+ 
+
+Поступила в редакцию 16 марта 2018 г.
+
+Вестник ЮУрГУ. Серия «Энергетика».  
+2018. Т. 18, № 1. С. 75–81 79 
+
+
+
+Преобразовательная техника 
+DOI: 10.14529/power180110
+
+ 
+AUTONOMOUS SINGLE-PHASE INVERTER  
+WITH HIGH QUALITY OF OUTPUT VOLTAGE 
+ 
+Yu.M. Golembiovsky1, yrmg_37@mail.ru, 
+Yu.B. Tomashevsky1, yurytomash@mail.ru, 
+A.A. Scherbakov2, shcherband88@gmail.com, 
+D.Yu. Lukov1, Lukov-d@yandex.ru, 
+A.V. Starkov3, andreuha94@gmail.com 
+1 Yury Gagarin State Technical University of Saratov, Saratov, Russian Federation,   
+2 Netcracker LLC, Saratov, Russian Federation,  
+3 Lyonsystems LLC, Saratov, Russian Federation 
+
+ 
+ 
+
+The solution of the relevant problem of improving the quality of the output signal of autonomous voltage 
+inverters is presented. In contrast to the pulse width modulation (PWM) traditionally used for this purpose, a to-
+pology containing a single-phase bridge inverter and a direct-current source switch at the input is proposed, 
+which makes it possible to form an eight-step voltage with a total harmonic coefficient of 6.9% on the load, 
+which meets the requirements of modern standard on the quality of electricity. The novelty of the technical solution 
+is confirmed by the utility model patent. The optimization of the curve of the multistage signal approximating 
+the sinusoid, using the minimum harmonic coefficient criterion, was carried out with the help of evolutionary 
+modeling (genetic algorithm). The study of electromagnetic processes was carried out by the method of simulation. 
+
+The received results confirmed the invariance of the harmonic coefficient of the inverter output voltage 
+throughout the range of the load power factor variation 0 ≤ cos φ ≤ 1 and the stability of the system with instan-
+taneous increase and decrease of the load. The importance of the proposed and investigated circuit solution is 
+determined by the advantages of step modulation in comparison with the pulse-width modulation: 
+
+– low dynamic losses in key elements, allowing the inverter to be used in a wide frequency range; 
+– independence of the harmonic coefficient on the frequency and nature of the load; 
+– reduction of mass-dimensional parameters, due to the lack of the need to install a filter at the output 
+
+of the inverter, because the guaranteed quality of electricity meets the requirements of the standard; 
+– in comparison with the method of pulse-width modulation, absence of a negative influence on the charac-
+
+teristics of consumers and the terms of their operation, if no higher-harmonic filters are used. 
+The scope of the above inverter circuit includes radioelectronic equipment, communication equipment, 
+
+electric drives. The greatest advantages of the proposed circuit solution are manifested when the inverter is con-
+nected to the local power supply system with renewable energy sources (solar panels, batteries), since in this 
+case the installation of galvanically isolated rectifiers as the sources of direct current at the input of the AIN 
+is not necessary. 
+
+Keywords: autonomous voltage inverter, amplitude-pulse modulation, voltage quality, harmonic coefficient. 
+ 
+ 
+
+References 
+1. Rozanov Yu.K. Osnovy silovoy preobrazovatel'noy tekhniki [Basiсs of Power Conversion Technology]. 
+
+Moscow, Energiya Publ., 1979. 385 p. 
+2. Zhezhelenko I.V. Vysshie garmoniki v sistemakh elektrosnabzheniya prompredpriyatiy [Higher Harmon-
+
+ics in Power Supply Systems for Industrial Enterprises]. Moscow, Energoatomizdat Publ., 1984. 160 p. 
+3. Zhezhelenko I.V. Pokazateli kachestva elektroenergii na promyshlennykh predpriyatiyakh [Power Supply 
+
+Indicators in Industrial Enterprises]. Moscow, Energiya Publ., 1977. 127 p. 
+4. Murphy J. Thyristor control of A.C. motors. Oxford, Pergamon Publ, 1973. 202 p. 
+5. GOST 32144-2013 Elektricheskaya energiya. Sovmestimost' tekhnicheskikh sredstv elektromagnitnaya. 
+
+Normy kachestva eklekticheskoy energii v sistemakh elektrosnabzheniya obshchego naznacheniya [GOST 32144-2013
+lectric Energy. Electromagnetic Compatibility of Technical Means. Norms for the Quality of Eclectic Energy in 
+General-purpose Power Supply Systems]. Moscow, Standartinform Publ., 2014. 16 p.  
+
+6. Glazenko T.A., Goncharenko R.B. Poluprovodnikovye preobrazovateli chastoty v elektroprivodakh [Se-
+miconductor Frequency Converters in Electric Drives]. Leningrad, Energiya Publ., 1969. 184 p. 
+
+7. Karlov B., Esin E. [Modern Frequency Converters: Control Methods and Hardware Implementation]. 
+Silovaya elektronika [Power Electronics], 2004, no. 1, pp. 50–54. (in Russ.) 
+
+8. Monmasson E. Power Electronic Converters: PWM Strategies and Current Control Techniques. Wiley-ISTE 
+Publ, 2011. 608 p. DOI: 10.1002/9781118621196 
+
+ 
+ 
+
+80 Bulletin of the South Ural State University. Ser. Power Engineering. 
+2018, vol. 18, no. 1, pp. 75–81 
+
+
+
+Голембиовский Ю.М., Томашевский Ю.Б.,           Автономный однофазный инвертор 
+Щербаков А.А. и др.             с высоким качеством выходного напряжения 
+
+9. Linear Circuit Design Handbook. Hank Zumbahlen (Ed.). News/Elsevier Publ., 2008 (Also published as 
+Basic Linear Design, Analog Devices, 2007). DOI: 10.1016/B978-0-7506-8703-4.00008-0 
+
+10. Zakharov A. [Calculation of the Output Filter of the PWM Inverter for a Specified Voltage Harmonics 
+on the Load]. Silovaya elektronika [Power Electronics], 2005, no. 1, pp. 46–49. (in Russ.) 
+
+11. Derakhshanfar M. Analysis of Different Topologies of Multilevel Inverters: Master of Science Thesis. 
+Geteborg, Sweden, 2010. 39 p. 
+
+12. Franquelo L.G., Rodrigues О., Leon J., Kouro S., Portillo R. The Age of Multilevel Converters Arrives. 
+IEEE Industrial Electronics Magasine, 2008, pp. 28–39. DOI: 10.1109/MIE.2008.923519  
+
+13. Stemmler H., Guggenbach P. Configurations of High-Power Voltage Source Inverter Drivers. Proc. EPE 
+Conf., 1993. 
+
+14. Moin V.S. Stabilizirovannye tranzistornye preobrazovateli [Stabilized Transistor Transducers]. Moscow, 
+Energoatomizdat Publ., 1986. 376 p. 
+
+15. Mycyk G.S. Osnovy teorii strukturno-algoritmicheskogo sinteza istochnikov vtorichnogo elektropitaniya 
+[Fundamentals of the Theory of Structural-Algorithmic Synthesis of Secondary Power Sources]. Moscow, MJeI 
+Publ., 1989. 108 p.  
+
+16. Anisimova T.V., Danilina A.N., Kryuchkov V.V. [Methods for Improving the Quality of the Output 
+Voltage of Inverters with Stepped Output Voltage]. Vestnik MAI [Messenger of MAI], 2010, vol. 17, no. 1, pp. 103–
+112. (in Russ.) 
+
+17. Koldaev R.V., Golembiovskiy Yu.M. [Optimization of the Harmonic Composition of the Output Voltage 
+of Static Frequency Converters]. Tehnichna elektrodinamika [The Technical Electrodynamics.], 2000, vol. 8,  
+pp. 51–54. (in Russ.) 
+
+18. Tonkal' V.E. Sintez avtonomnykh invertorov modulyatsionnogo tipa [Synthesis of Autonomous Inverters 
+of Modulation Type]. Kiev, Naukova Dumka Publ., 1979. 207 p.  
+
+19. Sen'ko V.I., Rudenko V.S., Skobchenko V.M., Smirnov V.S. [On the Optimal Synthesis of Amplitude-
+modulated Voltage]. Optimizatsiya poluprovodnikovykh ustroystv energeticheskoy elektroniki [Optimization of Semi-
+conductor Devices of Power Electronics]. Kiev, Naukova dumka Publ, 1980, pp. 20–30. (in Russ.) 
+
+20. Rutkovskaya D., Pilin'skiy M., Rutkovskiy L. Neyronnye seti, geneticheskie algoritmy i nechetkie sistemy 
+[Neural Networks, Genetic Algorithms and Fuzzy Systems]. Moscow, Goryachaya liniya – Telekom Publ., 2004. 
+452 p. 
+
+21. Clement R.P., Wren A. Genetic Algorithms and Bus-Driver Scheduling. 6th International Conference 
+for Computer-Aided Transport Scheduling, Lisbon, Portugal, 1993, vol. 9. 
+
+22. Thompson A. Temperature in Natural and Artificial Systems. Fourth International Conference on Artifi-
+cial Life, 1997, pp. 388–397. 
+
+23. Shherbakov A.A., Golembiovsky Yu.M Odnofaznyj invertor so stupenchatym vyhodnym naprjazheniem 
+[Single-Phase Inverter with Stepped Output Voltage]. Patent RF, no. 130159, 2007. 
+
+ 
+Received 16 March 2018 
+
+ 
+ 
+
+ОБРАЗЕЦ ЦИТИРОВАНИЯ  FOR CITATION 
+Автономный однофазный инвертор с высоким  Golembiovsky Yu.M., Tomashevsky Yu.B., 
+
+качеством выходного напряжения / Ю.М. Голембиов- Scherbakov A.A., Lukov D.Yu., Starkov A.V. Autono-
+ский, Ю.Б. Томашевский, А.А. Щербаков и др. // mous Single-Phase Inverter with High Quality of Output 
+Вестник ЮУрГУ. Серия «Энергетика». – 2018. – Т. 18, Voltage. Bulletin of the South Ural State University. Ser. 
+№ 1. – С. 75–81. DOI: 10.14529/power180110 Power Engineering, 2018, vol. 18, no. 1, pp. 75–81.  
+ (in Russ.) DOI: 10.14529/power180110 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Вестник ЮУрГУ. Серия «Энергетика».  
+2018. Т. 18, № 1. С. 75–81 81

@@ -1,0 +1,541 @@
+﻿УДК 669.179 
+doi: 10.18323/2782-4039-2022-2-105-112 
+ 
+
+Структура и механические свойства биомедицинского  
+магниевого сплава Mg–1%Zn–0,2%Ca 
+
+© 2022 
+1,3
+
+Худододова Ганджина Дастамбуевна* , инженер Научно-исследовательского института  
+физики перспективных материалов 
+
+2,4
+Кулясова Ольга Борисовна , кандидат технических наук,  
+
+старший научный сотрудник лаборатории многофункциональных материалов 
+1,5
+
+Нафиков Руслан Камилович , инженер Молодежной научно-исследовательской лаборатории  
+НОЦ «Металлы и сплавы при экстремальных воздействиях» 
+
+1,6
+Исламгалиев Ринат Кадыханович , доктор физико-математических наук, профессор,  
+
+профессор кафедры материаловедения и физики металлов 
+1
+Уфимский государственный авиационный технический университет, Уфа (Россия) 
+
+2
+Башкирский государственный университет, Уфа (Россия) 
+
+ 
+3
+
+*E-mail: khudododova.gd@gmail.com ORCID: https://orcid.org/0000-0002-1273-8518 
+4ORCID: https://orcid.org/0000-0002-1761-336X 
+5ORCID: https://orcid.org/0000-0003-1280-6258  
+6ORCID: https://orcid.org/0000-0002-6234-7363 
+
+ 
+Поступила в редакцию 14.04.2022          Принята к публикации 10.06.2022 
+
+ 
+Аннотация: Известно, что сплавы на основе магния являются подходящими материалами для использования  
+
+в качестве биоразлагаемых металлов для изготовления медицинских имплантатов нового поколения. Магний мо-
+жет растворяться в человеческом организме в процессе заживления. Если растворение контролируется, то после 
+завершения заживления не требуется дополнительная операция по удалению имплантата. В частности, сплавы 
+системы Mg–Zn–Ca считаются наиболее подходящими для биоразлагаемых металлических имплантатов вследст-
+вие их биосовместимости. В сплавах Mg–Zn–Ca добавление Zn и Ca в качестве легирующих элементов может 
+улучшить механические свойства и повысить коррозионную стойкость по сравнению с чистым Mg без ущерба для 
+биосовместимости. Работа посвящена исследованию структуры и механических свойств магниевого сплава  
+Mg–1%Zn–0,2%Ca, подвергнутого интенсивной пластической деформации (ИПД). Исследования структуры про-
+ведены с применением растровой и просвечивающей электронной микроскопии. Исследования механических 
+свойств выполнены методами измерения микротвердости и испытаний на растяжение. Показано, что применение 
+метода равноканального углового прессования (РКУП) и дополнительной обработки методом интенсивной пла-
+стической деформации (ИПДК) к сплаву Mg–1%Zn–0,2%Ca ведет к формированию ультрамелкозернистой (УМЗ) 
+структуры со средним размером зерна менее 1 мкм. Обнаружено, что в результате сильного измельчения зеренной 
+структуры магниевого сплава происходит значительное повышение предела прочности более чем в 2 раза  
+до 283 МПа по сравнению с гомогенизированным состоянием, в котором наблюдался предел прочности 125 МПа. 
+При этом одновременно в УМЗ состоянии наблюдается существенное снижение пластичности до 3 %. 
+
+Ключевые слова: Mg–1%Zn–0,2%Ca; РКУП; ИПДК; УМЗ структура; механические свойства. 
+Благодарности: Работа выполнена при поддержке РНФ № 20-63-47027. Экспериментальная часть работы вы-
+
+полнена с использованием оборудования ЦКП «Нанотех» ФГБОУ ВО «УГАТУ». 
+Р.К. Нафиков благодарит за финансовую поддержку Министерство науки и высшего образования РФ в рамках 
+
+государственного задания ФГБОУ ВО «УГАТУ» (соглашение № 075-03-2021-014/4). 
+Статья подготовлена по материалам докладов участников X Международной школы «Физическое материало-
+
+ведение» (ШФМ-2021), Тольятти, 13–17 сентября 2021 года. 
+Для цитирования: Худододова Г.Д., Кулясова О.Б., Нафиков Р.К., Исламгалиев Р.К. Структура и механиче-
+
+ские свойства биомедицинского магниевого сплава Mg–1%Zn–0,2%Ca // Frontier Materials & Technologies. 2022.  
+№ 2. С. 105–112. DOI: 10.18323/2782-4039-2022-2-105-112. 
+
+ 
+персионного механизмов упрочнения. Вместе с тем 
+
+ВВЕДЕНИЕ дополнительно к легированию есть другая возмож-
+Магниевые сплавы привлекают повышенное внима- ность повышения прочности магния, а именно форми-
+
+ние в области исследования биомедицинских материа- рование ультрамелкозернистой (УМЗ) структуры ме-
+лов вследствие своих уникальных преимуществ: чрез- тодом интенсивной пластической деформации (ИПД) 
+вычайно низкого модуля Юнга, превосходной биосо- [1]. Как известно, применение к металлическим мате-
+вместимости и привлекательной биорезорбируемости. риалам методов интенсивной пластической деформа-
+При этом чистый магний имеет невысокие прочност- ции (ИПД), таких как кручение под высоким давлением 
+ные свойства. Чтобы повысить прочность магния, часто или равноканальное угловое прессование (РКУП), при-
+применяют легирование различными элементами для водит к образованию ультрамелкозернистых или на-
+использования потенциала твердорастворного и дис- нокристаллических структур с высокой плотностью 
+
+F rontier Materials & Technologies. 2022. № 2 105
+
+
+
+Худододова Г.Д., Кулясова О.Б. и др.   «Структура и механические свойства биомедицинского магниевого сплава…» 
+
+дефектов кристаллической решетки [2; 3]. Поскольку и свойств магниевых сплавов системы Mg–Zn–Ca, под-
+магний имеет гексагональную плотноупакованную ре- вергнутых РКУП для формирования ультрамелкозер-
+шетку (ГПУ), основным механизмом деформации явля- нистого состояния [17; 18]. Но применение метода 
+ется базальное скольжение. Из-за большой разницы  РКУП не позволяло измельчить зеренную структуру до 
+в критическом скалывающем напряжении сдвига между размеров менее нескольких микрон. 
+первичным и вторичным скольжением пластическая де- Цель работы – исследование влияния равноканаль-
+формация магния ограничена, особенно при низких тем- ного углового прессования и интенсивной пластиче-
+пературах [4], поэтому ИПД-обработка магния обычно ской деформации кручением на формирование ультра-
+проводится при повышенных температурах. Другим мелкозернистой структуры и механические свойства 
+следствием наличия ГПУ решетки является зависимость сплава Mg–1%Zn–0,2%Ca. 
+прочности и пластичности от текстуры [5]. Из-за до-  
+вольно низкой температуры плавления (Tпл=650 °C) 
+значительную роль при ИПД-обработке магния играет МЕТОДИКА ПРОВЕДЕНИЯ ИССЛЕДОВАНИЙ 
+
+динамическая рекристаллизация [6; 7]. В качестве материала для анализа и исследования 
+Обработку методом РКУП для магниевых сплавов был выбран магниевый сплав Mg–1%Zn–0,2%Ca. Ли-
+
+обычно проводят при температуре выше 200 °C, чтобы тые исходные образцы были подвергнуты гомогениза-
+избежать образования трещин [6]. В этих условиях из- ционному отжигу при температуре 430 °С и времени 
+мельчение зерна довольно ограничено из-за сильного выдержки 22 ч. Термическая обработка образцов про-
+динамического возврата и рекристаллизации [8], а раз- водилась в муфельной печи Nabertherm. К образцам 
+меры зерна ниже 1 мкм обычно не достигаются. Мень- было применено два метода интенсивной пластической 
+шие по размеру зерна могут быть сформированы только деформации: РКУП и ИПДК. Процесс РКУП проводил-
+с использованием последовательной деформации ся на образцах диаметром 20 мм в оснастке с углом 
+РКУП, где температура снижается пошагово для каж- пересечения каналов 120°. РКУП выполнялось с посте-
+дого прохода [9]. пенным понижением температуры от 400 до 300 °С  
+
+Сплавы Mg–Zn–Ca, исследуемые в настоящей рабо- (с общим количеством проходов, равным 6). Далее про-
+те, были разработаны для использования в качестве водилась деформация методом ИПДК при комнатной 
+биоразлагаемых материалов, поскольку добавление Zn температуре. Для этого от РКУП-прутка были отрезаны 
+и Ca в качестве легирующих элементов может улуч- диски диаметром 20 мм и толщиной 2 мм, которые под-
+шить механические свойства по сравнению с чистым вергали кручению под высоким давлением 6 ГПа с ко-
+Mg [10]. Известно также, что добавление Zn до 1,7 % личеством оборотов, равным 0,5 и 1. После деформации 
+способствует улучшению коррозионных свойств сплава были получены образцы диаметром 20 мм и высотой 
+Mg–xZn–0,8Ca по сравнению со сплавом Mg–0,8%Ca 1,1 мм.  
+[11], тогда как добавление Ca до 0,2 % в сплаве Mg– Для измерения микротвердости (HV) был выбран 
+2Zn–xCa ведет к небольшому росту скорости растворе- метод Виккерса, измерение проводили по диаметру 
+
+2
+ния с 0,14 до 0,17 мг/см  в день в растворе Хэнкса [10]. образца на микротвердомере Micromet 5101 с нагрузкой 
+Кроме того, Zn и Ca не токсичны для человеческого 0,49 Н и временем выдержки 10 с.  
+организма, поэтому сохраняется важное условие биосо- Плоские образцы с размерами рабочей части 
+вместимости материала.  3
+
+4×1×0,5 мм  были испытаны на одноосное растяжение 
+Известно, что легирующие элементы определяют на испытательной машине Instron 5982 при комнатной 
+
+микроструктуру и, следовательно, влияют на механиче- –3 –1
+температуре со скоростью нагружения 10  с . На каж-
+
+ские и коррозионные свойства сплавов. В частности, дое состояние было испытано минимум по 3 образца. 
+добавки легирующих элементов обычно приводят к об- Исследование и анализ микроструктуры проводили 
+разованию вторых фаз, которые вызывают локальную на растровом электронном микроскопе (РЭМ) JEM-
+гальваническую коррозию [12]. Пластическая деформа- 6390 и просвечивающем электронном микроскопе 
+ция может уменьшить размер зерна и изменить распре- (ПЭМ) JEM-2100 с ускоряющими напряжениями 10  
+деление вторых фаз для одновременного улучшения и 200 кВ соответственно. Тонкие фольги готовили ме-
+механических и коррозионных свойств [13]. Однако тодом двухсторонней струйной электрополировки на 
+деформационная способность магниевых сплавов низка установке «Тенупол-5» с использованием электролита 
+при обычных методах обработки из-за малого количе- следующего состава: азотная кислота – 30 %, метанол – 
+ства плоскостей скольжения в ГПУ решетке. 70 %. Полировку проводили при температуре −30 °С  
+
+Для получения материалов с УМЗ структурой могут и напряжении 8–14 В.  
+быть использованы методы ИПД, такие как интенсив-  
+ная пластическая деформация кручением и равнока-
+нальное угловое прессование. При этом металлические РЕЗУЛЬТАТЫ ИССЛЕДОВАНИЙ 
+материалы после деформации методом РКУП способны Исходная структура сплава Mg–1%Zn–0,2%Ca 
+демонстрировать улучшенные механические свойства (рис. 1) представляет собой крупные зерна твердого рас-
+за счет измельчения зеренной структуры [14].  твора со средним размером 250 мкм (рис. 1 a). В струк-
+
+К настоящему времени известны публикации, в ко- туре также присутствуют частицы размером 4 мкм. По 
+торых рассмотрены структура и свойства магниевых результатам рентгеноструктурного анализа на ди-
+сплавов системы Mg–Zn–Ca с различным содержанием фрактограмме были обнаружены пики от фаз Mg2Ca  
+Zn и Ca, но они выполнены на образцах с крупнозерни- и Ca2Mg6Zn3 (рис. 2), эти частицы наблюдались также 
+стой структурой [11; 15; 16]. При этом есть только еди- ранее в [15; 16]. Методом РКУП была сформирована 
+ничные работы, посвященные исследованию структуры однородная структура со средним размером 3,7 мкм 
+
+1 06 Frontier Materials & Technologies. 2022. № 2
+
+
+
+Худододова Г.Д., Кулясова О.Б. и др.   «Структура и механические свойства биомедицинского магниевого сплава…» 
+
+      
+ a b 
+
+      
+ c d 
+
+Рис. 1. Структура сплава Mg–1%Zn–0,2%Ca:  
+a – после гомогенизации; b – после РКУП; c – после РКУП+ИПДК, 0,5 оборота;  
+
+d – после РКУП+ИПДК, 1 оборот 
+Fig. 1. The structure of Mg–1%Zn–0.2%Ca alloy:  
+
+a – after homogenization; b – after ECAP; c – after ECAP+SPD, 0.5 revolutions;  
+d – after ECAP+SPD, 1 revolution 
+
+ 
+ 
+ 
+
+(рис. 1 b). В результате деформации сдвигом в процессе с исходным состоянием за счет сильного измельчения 
+РКУП произошло значительное уменьшение среднего зеренной структуры (рис. 1 d). 
+размера частиц. С целью дальнейшего измельчения Механические испытания на растяжение исследуе-
+структуры к РКУП-образцам дополнительно была при- мого сплава Mg–1%Zn–0,2%Са в гомогенизированном 
+ложена обработка методом ИПДК с числом оборотов, состоянии показали, что образцы продемонстрировали 
+равным 0,5 и 1. Структура после ИПДК трансформиро- предел прочности 125 МПа и относительное удлинение 
+валась в УМЗ со средним размером зерен около 1 мкм 8 % (рис. 3 b). Деформация методом РКУП привела 
+при 0,5 оборотах (рис. 1 c) и менее 500 нм после 1 обо- к повышению предела прочности до 225 МПа и повы-
+рота ИПДК (рис. 1 d). шению пластичности до 16 %. В результате дальнейше-
+
+В исходном гомогенизированном состоянии микро- го измельчения структуры при дополнительной дефор-
+твердость образцов составляла 405 МПа. В результате мации в 0,5 и 1 оборота ИПДК предел прочности был 
+пластической деформации методом РКУП микротвер- увеличен и составил 263,7 и 283,3 МПа соответственно 
+дость выросла до 618 МПа (рис. 3 а). Дальнейшее из- вследствие дальнейшего измельчения среднего размера 
+мельчение структуры методом ИПДК на 0,5 и 1 оборот зерна.  
+привело к увеличению значений микротвердости до 732  
+и 785 МПа соответственно. Следует отметить, что по-
+сле деформации методом РКУП и дополнительной об- ОБСУЖДЕНИЕ РЕЗУЛЬТАТОВ 
+
+работки ИПДК (1 оборот) значение микротвердости Известно, что прочностные свойства сплавов систе-
+(рис. 3 а) было повышено почти в 2 раза по сравнению мы Mg–Zn–Ca в крупнозернистом состоянии сущест-
+
+венно зависят от содержания Zn и Ca. Например, 
+
+F rontier Materials & Technologies. 2022. № 2 107
+
+
+
+Худододова Г.Д., Кулясова О.Б. и др.   «Структура и механические свойства биомедицинского магниевого сплава…» 
+
+1 2 3 
+
+ 
+a 
+
+         
+ b c d 
+
+Рис. 2. Рентгеноструктурный анализ сплава Mg–1%Zn–0,2%Ca после гомогенизации:  
+a – дифрактограмма сплава Mg–1%Zn–0,2%Ca после гомогенизации; b – увеличенный фрагмент области 1;  
+
+c – увеличенный фрагмент области 2; d – увеличенный фрагмент области 3 
+Fig. 2. X-ray diffraction analysis of Mg–1%Zn–0.2%Ca alloy after homogenization:  
+
+a – X-ray diffraction pattern of Mg–1%Zn–0.2%Ca alloy after homogenization; b – the enlarged part of area 1;  
+с – the enlarged part of area 2; d – the enlarged part of area 3 
+
+ 
+ 
+ 
+
+в работе [19] с увеличением содержания Zn с 0 до 6 % привело к повышению предела прочности до 276 МПа 
+предел прочности сплава Mg–xZn–1Ca меняется от 105 и пластичности до δ=30 %, что в 1,5–2 раза больше по 
+до 182 МПа, а относительное удлинение до разрушения сравнению с исходным состоянием [17].  
+демонстрирует значения от 4 до 9 %.  В работе [20] методом РКУП была сформирована 
+
+Применение традиционных методов деформацион- УМЗ структура в сплаве Mg–5,12%Zn–0,32%Ca со 
+но-термической обработки также позволяет повысить средним размером 0,7 мкм и получена более однород-
+прочностные свойства сплавов системы Mg–Zn–Ca.  ная структура в сравнении с работой [17]. Тем самым 
+В частности, горячая экструзия сплава Mg–4,0Zn–0,2Ca удалось повысить предел прочности до 290 МПа при 
+уменьшает средний размер зерна до 3–7 мкм и, соот- удлинении до разрушения 17 %.  
+ветственно, увеличивает предел прочности до 297 МПа В настоящей работе в сплаве Mg–1%Zn–0,2%Ca, 
+при сохранении пластичности 21 % [20]. содержащем меньшее количество легирующих эле-
+
+Дальнейшее измельчение зеренной структуры в спла- ментов по сравнению с работами [18; 20], также уда-
+вах системы Mg–Zn–Ca методом РКУП и формирова- лось повысить предел прочности до уровня 280–
+ние бимодальной структуры в сплаве Mg–4Zn–0,56Ca 290 МПа (рис. 3 b). Вместе с тем следует отметить, что 
+
+1 08 Frontier Materials & Technologies. 2022. № 2
+
+
+
+Худододова Г.Д., Кулясова О.Б. и др.   «Структура и механические свойства биомедицинского магниевого сплава…» 
+
+      
+ a b 
+
+Рис. 3. Механические свойства сплава Mg–1%Zn–0,2%Ca:  
+a – микротвердость при разных обработках;  
+
+b – механические испытания на растяжение при разных обработках:  
+1 – исходный; 2 – РКУП; 3 – РКУП +ИПДК, 0,5 оборота; 4 – РКУП+ИПДК, 1 оборот 
+
+Fig. 3. Mechanical properties of Mg–1%Zn–0.2%Ca alloy:  
+a – microhardness at different types of treatment; b – mechanical tensile tests at different types of treatment:  
+
+1 – initial; 2 – ECAP; 3 – ECAP+SPD, 0.5 revolutions; 4 –ECAP+SPD, 1 revolution 
+ 
+ 
+ 
+
+уменьшение размера зерна до значений менее 1 мкм не шением пластичности до 3 % вследствие формирования 
+привело к существенному повышению прочности, ко- сильнодеформированной УМЗ структуры, содержащей 
+торое можно было бы ожидать в соответствии с соот- большую плотность дефектов, препятствующих допол-
+ношением Холла – Петча.  нительному зарождению и движению дислокаций. 
+
+В исследуемом сплаве, имеющем ГПУ решетку,  
+пластическая деформация может быть обеспечена не-
+большим количеством благоприятно ориентированных СПИСОК ЛИТЕРАТУРЫ 
+
+плоскостей скольжения. Поскольку испытания на рас- 1. Валиев Р.З., Жиляев А.П., Лэнгдон Т.Дж. Объемные 
+тяжение были проведены на малых образцах, имевших наноструктурные материалы: фундаментальные ос-
+
+2
+площадь поперечного сечения 1×0,5 мм , то в гомоге- новы и применения. СПб.: Эко-Вектор, 2017. 479 с.  
+низированном образце со средним размером зерен 2. Shi X., Li W., Hu W., Tan Y., Zhang Zh., Tian L. Effect 
+250 мкм имелось небольшое количество зерен, в кото- of ECAP on the Microstructure and Mechanical Properties 
+рых плоскости скольжения были бы благоприятно ори- of a Rolled Mg-2Y-0.6Nd-0.6Zr. Magnesium Alloy // 
+ентированы относительно оси растяжения. Поэтому в го- Crystals. 2019. Vol. 9. № 11. Article number 586.  
+могенизированных образцах наблюдалась малая пла- DOI: 10.3390/cryst9110586. 
+стичность. В РКУП-образцах со средним размером зе- 3. Valiev R.Z., Estrin Y., Horita Z., Langdon T.G., 
+рен 3,7 мкм количество зерен с благоприятно ориенти- Zehetbauer M.J., Zhu Y.T. Producing bulk ultrafine-
+рованными плоскостями было намного больше, что grained materials by severe plastic deformation: Ten 
+обеспечило большую пластичность по сравнению с го- years later // JOM. 2016. Vol. 68. № 4. P. 33–39.  
+могенизированным образцом. DOI: 10.1007/S11837-006-0213-7. 
+
+Вместе с тем, чем больше степень деформации в про- 4. Agnew S.R., Duygulu O. A mechanistic understanding 
+цессе дополнительной обработки методом ИПДК, тем of the formability of magnesium: Examining the role of 
+меньше пластичность сплава из-за наличия сильноде- temperature on the deformation mechanisms // Materials 
+формированной структуры, содержащей большую Science Forum. 2003. Vol. 419-422. № 1. P. 177–188. 
+плотность дефектов, препятствующих дополнительно- DOI: 10.4028/www.scientific.net/MSF.419-422.177. 
+му зарождению и движению дислокаций в процессе 5. Lin J., Ren W., Wang Q., Ma L., Chen Y. Influence of 
+растяжения. grain size and texture on the yield strength of Mg alloys 
+
+ processed by severe plastic deformation // Advances in 
+Materials Science and Engineering. 2014. Vol. 2014.  
+
+ОСНОВНЫЕ РЕЗУЛЬТАТЫ  P. 356–572. DOI: 10.1155/2014/356572. 
+Исследования показали, что применение метода 6. Figueiredo R.B., Langdon T.G. Grain refinement and 
+
+РКУП и дополнительной обработки методом ИПДК  mechanical behavior of a magnesium alloy processed by 
+к сплаву Mg–1%Zn–0,2%Ca ведет к формированию УМЗ  ECAP // Journal of Materials Science. 2010. Vol. 45.  
+структуры, в результате чего микротвердость и проч- № 17. P. 4827–4836. DOI: 10.1007/s10853-010-4589-y. 
+ность образцов увеличились до 785 и 283 МПа соответ- 7. Ding S.X., Chang C.P., Kao P.W. Effects of processing 
+ственно, что более чем в 2 раза превышает значения  parameters on the grain refinement of magnesium alloy 
+в гомогенизированном состоянии. Вместе с тем значи- by equal-channel angular extrusion // Metallurgical and 
+тельное повышение прочности сопровождалось умень- Materials Transactions A: Physical Metallurgy and  
+
+F rontier Materials & Technologies. 2022. № 2 109
+
+
+
+Худододова Г.Д., Кулясова О.Б. и др.   «Структура и механические свойства биомедицинского магниевого сплава…» 
+
+Materials Science. 2009. Vol. 40. № 2. P. 415–425. 19. Zhang B., Hou Y., Wang X., Wang Y., Geng L. Me-
+DOI: 10.1007/s11661-008-9747-3. chanical properties, degradation performance and cyto-
+
+8. Yamashita A., Horita Z., Langdon T.G. Improving  toxicity of Mg-Zn-Ca biomedical alloys with different 
+the mechanical properties of magnesium and a magne- compositions // Materials Science and Engineering C. 
+sium alloy through severe plastic deformation // Materi- 2011. Vol. 31. № 8. P. 1667–1673. DOI: 10.1016/ 
+als Science and Engineering A. 2001. Vol. 300. № 1-2. j.msec.2011.07.015. 
+P. 142–147. DOI: 10.1016/S0921-5093(00)01660-9. 20. Sun Y., Zhang B., Wang Y., Geng L., Jiao X. Prepara-
+
+9. Kulyasova O., Islamgaliev R., Mingler B., Zehetbauer M. tion and characterization of a new biomedical Mg-Zn-
+Microstructure and fatigue properties of the ultrafine- Ca alloy // Materials and Design. 2012. Vol. 34. P. 58–
+grained AM60 magnesium alloy processed by equal- 64. DOI: 10.1016/j.matdes.2011.07.058. 
+channel angular pressing // Materials Science and Engi-  
+neering A. 2009. Vol. 503. № 1-2. P. 176–180. DOI: 10. 
+1016/j.msea.2008.03.057. REFERENCES 
+
+10. Li W., Guan S., Chen J., Hu J., Chen S., Wang L., Zhu S. 1. Valiev R.Z., Zhilyaev A.P., Lengdon T.Dzh. Ob’emnye 
+Preparation and in vitro degradation of the composite nanostrukturnye materialy: fundamentalnye osnovy  
+coating with high adhesion strength on biodegradation i primeneniya [Multidimensional nanostructured materi-
+Mg–Zn–Ca alloy // Materials Characterization. 2011. als: fundamental principles and applications]. Sankt Pe-
+Vol. 62. № 12. P. 1158–1165. DOI: 10.1016/j.matchar. tersburg, Eko-Vektor Publ., 2017. 479 p. 
+2011.07.005. 2. Shi X., Li W., Hu W., Tan Y., Zhang Zh., Tian L. Effect 
+
+11. Gong Ch., He X., Yan X. Corrosion behavior of Mg– of ECAP on the Microstructure and Mechanical Proper-
+Ca–Zn alloys with high Zn content // Journal of Physics ties of a Rolled Mg-2Y-0.6Nd-0.6Zr. Magnesium Alloy. 
+and Chemistry of Solids. 2021. Vol. 152. Article num- Crystals, 2019, vol. 9, no. 11, article number 586.  
+ber 109952. DOI: 10.1016/j.jpcs.2021.109952. DOI: 10.3390/cryst9110586. 
+
+12. Kim W.C., Kim J.G., Lee J.Y., Seol H.K. Influence of 3. Valiev R.Z., Estrin Y., Horita Z., Langdon T.G., 
+Ca on the corrosion properties of magnesium for bio- Zehetbauer M.J., Zhu Y.T. Producing bulk ultrafine-
+materials // Materials Letters. 2008. Vol. 62. № 25.  grained materials by severe plastic deformation: Ten 
+P. 4146–4148. DOI: 10.1016/j.matlet.2008.06.028. years later. JOM, 2016, vol. 68, no. 4, pp. 33–39.  
+
+13. Parfenov E.V., Kulyasova O.B., Mukaeva V.R., Mingo B., DOI: 10.1007/S11837-006-0213-7. 
+Farrakhov R.G., Cherneikina Ya.V., Yerokhin A., 4. Agnew S.R., Duygulu O. A mechanistic understanding 
+Zheng Y.F., Valiev R.Z. Influence of ultra-fine grain of the formability of magnesium: Examining the role of 
+structure on corrosion behaviour of biodegradable Mg- temperature on the deformation mechanisms. Materials 
+1Ca alloy // Corrosion Science. 2020. Vol. 163. Article Science Forum, 2003, vol. 419-422, no. 1, pp. 177–188. 
+number 108303. DOI: 10.1016/j.corsci.2019.108303. DOI: 10.4028/www.scientific.net/MSF.419-422.177. 
+
+14. Akash G., Chandrasekhar B., Saxena K.K. Effect of 5. Lin J., Ren W., Wang Q., Ma L., Chen Y. Influence of 
+equal-channel angular pressing on mechanical proper- grain size and texture on the yield strength of Mg alloys 
+ties: An overview // Materials Today: Proceedings. processed by severe plastic deformation. Advances in 
+2021. Vol. 45. P. 5602–5607. DOI: 10.1016/J.MATPR. Materials Science and Engineering, 2014, vol. 2014,  
+2021.02.317. pp. 356–572. DOI: 10.1155/2014/356572. 
+
+15. Cihova M., Martinelli E., Schmutz P., Myrissa A., 6. Figueiredo R.B., Langdon T.G. Grain refinement and 
+Schäublin R., Weinberg A.M., Uggowitzer P.J., Löf- mechanical behavior of a magnesium alloy processed by 
+fler J.F. The role of zinc in the biocorrosion behavior of ECAP. Journal of Materials Science, 2010, vol. 45,  
+resorbable Mg‒Zn‒Ca alloys // Acta Biomaterialia. no. 17, pp. 4827–4836. DOI: 10.1007/s10853-010-4589-y. 
+2019. Vol. 100. P. 398–414. DOI: 10.1016/j.actbio. 7. Ding S.X., Chang C.P., Kao P.W. Effects of processing 
+2019.09.021. parameters on the grain refinement of magnesium alloy 
+
+16. Ma Y.Z., Yang C.L., Liu Y.J., Yuan F.-S., Liang S.S., by equal-channel angular extrusion. Metallurgical and 
+Li H.X., Zhang J.S. Microstructure, mechanical, and Materials Transactions A: Physical Metallurgy and Ma-
+corrosion properties of extruded low-alloyed Mg-xZn- terials Science, 2009, vol. 40, no. 2, pp. 415–425.  
+0.2Ca alloys // International Journal of Minerals, Metal- DOI: 10.1007/s11661-008-9747-3. 
+lurgy and Materials. 2019. Vol. 26. № 10. P. 1274–1284 8. Yamashita A., Horita Z., Langdon T.G. Improving  
+DOI: 10.1007/s12613-019-1860-3. the mechanical properties of magnesium and a magne-
+
+17. Виноградов А.Ю., Васильев Е.В., Линдеров М.Л., sium alloy through severe plastic deformation. Materi-
+Мерсон Д.Л., Ржевская Е.О. Влияние равноканаль- als Science and Engineering A, 2001, vol. 300, no. 1-2, 
+ного углового прессования на структуру и механи- pp. 142–147. DOI: 10.1016/S0921-5093(00)01660-9. 
+ческие свойства магниевых сплавов Mg-Zn-Ca // 9. Kulyasova O., Islamgaliev R., Mingler B., Zehetbauer 
+Вектор науки Тольяттинского государственного M. Microstructure and fatigue properties of the ul-
+университета. 2015. № 4. С. 18–24. DOI: 10.18323/ trafine-grained AM60 magnesium alloy processed by 
+2073-5073-2015-4-18-24. equal-channel angular pressing. Materials Science and 
+
+18. Tong L.B., Zheng M.Y., Chang H., Hu X.C., Wu K.,  Engineering A, 2009, vol. 503, no. 1-2, pp. 176–180. 
+Xu S.W., Kamado S., Kojima Y. Microstructure and DOI: 10.1016/j.msea.2008.03.057. 
+mechanical properties of Mg-Zn-Ca alloy processed by 10. Li W., Guan S., Chen J., Hu J., Chen S., Wang L., Zhu S. 
+equal channel angular pressing // Materials and Engi- Preparation and in vitro degradation of the composite 
+neering A. 2009. Vol. 523. № 1-2. P. 289–294.  coating with high adhesion strength on biodegradation 
+DOI: 10.1016/j.msea.2009.06.021. Mg–Zn–Ca alloy. Materials Characterization, 2011, 
+
+1 10 Frontier Materials & Technologies. 2022. № 2
+
+
+
+Худододова Г.Д., Кулясова О.Б. и др.   «Структура и механические свойства биомедицинского магниевого сплава…» 
+
+vol. 62, no. 12, pp. 1158–1165. DOI: 10.1016/j.matchar. corrosion properties of extruded low-alloyed Mg-xZn-
+2011.07.005. 0.2Ca alloys. International Journal of Minerals, Metal-
+
+11. Gong Ch., He X., Yan X. Corrosion behavior of Mg– lurgy and Materials, 2019, vol. 26, no. 10, pp. 1274–
+Ca–Zn alloys with high Zn content. Journal of Physics 1284 DOI: 10.1007/s12613-019-1860-3. 
+and Chemistry of Solids, 2021, vol. 152, article number 17. Vinogradov A.Yu., Vasilev E.V., Linderov M.L., 
+109952. DOI: 10.1016/j.jpcs.2021.109952. Merson D.L., Rzhevskaya E.O. He influence of equal 
+
+12. Kim W.C., Kim J.G., Lee J.Y., Seol H.K. Influence of channel angular pressing on the structure and mechani-
+Ca on the corrosion properties of magnesium for bio- cal properties of magnesium Mg-Zn-Ca alloys. Vektor 
+materials. Materials Letters, 2008, vol. 62, no. 25,  nauki Tolyattinskogo gosudarstvennogo universiteta, 
+pp. 4146–4148. DOI: 10.1016/j.matlet.2008.06.028. 2015, no. 4, pp. 18–24. DOI: 10.18323/2073-5073-
+
+13. Parfenov E.V., Kulyasova O.B., Mukaeva V.R., Mingo B., 2015-4-18-24. 
+Farrakhov R.G., Cherneikina Ya.V., Yerokhin A., 18. Tong L.B., Zheng M.Y., Chang H., Hu X.C., Wu K.,  
+Zheng Y.F., Valiev R.Z. Influence of ultra-fine grain Xu S.W., Kamado S., Kojima Y. Microstructure and 
+structure on corrosion behaviour of biodegradable Mg- mechanical properties of Mg-Zn-Ca alloy processed by 
+1Ca alloy. Corrosion Science, 2020, vol. 163, article equal channel angular pressing. Materials and Engi-
+number 108303. DOI: 10.1016/j.corsci.2019.108303. neering A, 2009, vol. 523, no. 1-2, pp. 289–294.  
+
+14. Akash G., Chandrasekhar B., Saxena K.K. Effect of DOI: 10.1016/j.msea.2009.06.021. 
+equal-channel angular pressing on mechanical proper- 19. Zhang B., Hou Y., Wang X., Wang Y., Geng L. Me-
+ties: An overview. Materials Today: Proceedings, 2021, chanical properties, degradation performance and cyto-
+vol. 45, pp. 5602–5607. DOI: 10.1016/J.MATPR. toxicity of Mg-Zn-Ca biomedical alloys with different 
+2021.02.317. compositions. Materials Science and Engineering C, 
+
+15. Cihova M., Martinelli E., Schmutz P., Myrissa A., 2011, vol. 31, no. 8, pp. 1667–1673. DOI: 10.1016/ 
+Schäublin R., Weinberg A.M., Uggowitzer P.J., Löf- j.msec.2011.07.015. 
+fler J.F. The role of zinc in the biocorrosion behavior of 20. Sun Y., Zhang B., Wang Y., Geng L., Jiao X. Prepara-
+resorbable Mg‒Zn‒Ca alloys. Acta Biomaterialia, 2019, tion and characterization of a new biomedical Mg-Zn-
+vol. 100, pp. 398–414. DOI: 10.1016/j.actbio. Ca alloy. Materials and Design, 2012, vol. 34, pp. 58–
+2019.09.021. 64. DOI: 10.1016/j.matdes.2011.07.058. 
+
+16. Ma Y.Z., Yang C.L., Liu Y.J., Yuan F.-S., Liang S.S., 
+Li H.X., Zhang J.S. Microstructure, mechanical, and 
+ 
+
+The structure and mechanical properties  
+of biomedical magnesium alloy Mg–1%Zn–0.2%Ca 
+
+© 2022 
+1,3
+
+Gandzhina D. Khudododova* , engineer of the Science Research  
+Institute of Innovative Technologies and Materials 
+
+2,4
+Olga B. Kulyasova , PhD (Engineering),  
+
+senior researcher of the Laboratory of Multifunctional Materials 
+1,5
+
+Ruslan K. Nafikov , engineer of the Youth Research Laboratory  
+of the REC “Metals and Alloys under Extreme Impacts” 
+
+1,6
+Rinat K. Islamgaliev , Doctor of Sciences (Physics and Mathematics),  
+Professor, professor of Chair of Materials Science and Physics of Metals 
+
+1
+Ufa State Aviation Technical University, Ufa (Russia) 
+
+2
+Bashkir State University, Ufa (Russia) 
+
+ 
+3
+
+*E-mail: khudododova.gd@gmail.com ORCID: https://orcid.org/0000-0002-1273-8518 
+4ORCID: https://orcid.org/0000-0002-1761-336X 
+5ORCID: https://orcid.org/0000-0003-1280-6258  
+6ORCID: https://orcid.org/0000-0002-6234-7363 
+
+ 
+Received 14.04.2022                     Accepted 10.06.2022 
+
+ 
+Abstract: It is known, that magnesium-based alloys are the appropriate materials to be used as biodegradable metals to 
+
+produce new-generation medical implants. Magnesium can decompose in the human body during the healing process. If 
+dissolution is controlled, there is no need in additional operation for implant removal after healing completion. Particular-
+ly, Mg-Zn-Ca alloys are considered the most appropriate biodegradable metal implants due to their biocompatibility. In  
+the Mg-Zn-Ca alloys, the addition of Zn and Ca as alloying elements can improve the mechanical properties and increase 
+the corrosion resistance compared to pure Mg without affecting biocompatibility. The work covers the study of the struc-
+ture and mechanical properties of the magnesium Mg-1%Zn-0.2%Ca alloy after severe plastic deformation (SPD).  
+The research of the structure was carried out using scanning and transmission electron microscopy. The study of mechani-
+cal properties was carried out by measuring microhardness and tension tests. The study shows that applying the equal 
+channel angular pressing (ECAP) method and additional treatment with the severe plastic deformation (SPD) method to 
+the Mg–1%Zn–0.2%Ca alloy leads to the formation of the ultra-fine grain (UFG) structure with the average grain size of 
+less than 1 micron. The authors identified that, as a result of strong refinement of the magnesium alloy grain structure,  
+
+F rontier Materials & Technologies. 2022. № 2 111
+
+
+
+Худододова Г.Д., Кулясова О.Б. и др.   «Структура и механические свойства биомедицинского магниевого сплава…» 
+
+the ultimate strength increases twice up to 283 MPa compared to the homogenized state, when the ultimate strength is  
+125 MPa. At the same time, in the UFG state, the plasticity significantly decreases up to 3 %. 
+
+Keywords: Mg–1%Zn–0.2%Ca; ECAP; SPD; UFG structure; mechanical properties. 
+Acknowledgments: The work was supported by the Russian Science Foundation No. 20-63-47027. The experimental 
+
+part was carried out with the use of the equipment of the “Nanotech” Core Facility Center of the FSBI HE “USATU”. 
+R.K. Nafikov expresses his gratitude to the Ministry of Science and Higher Education of the RF for financial support 
+
+within the state assignment of the FSBI HE “USATU” (Agreement No. 075-03-2021-014/4). 
+The paper was written on the reports of the participants of the X International School of Physical Materials Science 
+
+(SPM-2021), Togliatti, September 13–17, 2021. 
+For citation: Khudododova G.D., Kulyasova O.B., Nafikov R.K., Islamgaliev R.K. The structure and mechanical 
+
+properties of biomedical magnesium alloy Mg–1%Zn–0.2%Ca. Frontier Materials & Technologies, 2022, no. 2, pp. 105–
+112. DOI: 10.18323/2782-4039-2022-2-105-112. 
+
+1 12 Frontier Materials & Technologies. 2022. № 2

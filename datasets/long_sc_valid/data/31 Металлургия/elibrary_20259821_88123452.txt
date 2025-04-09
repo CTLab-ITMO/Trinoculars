@@ -1,0 +1,425 @@
+﻿МАТЕРИАЛОВЕДЕНИЕ ОБРАБОТКА  МЕТАЛЛОВ
+
+УДК 621.791.92
+
+ПОЛУЧЕНИЕ ИЗНОСОСТОЙКИХ ПОКРЫТИЙ 
+НА ТИТАНОВЫХ СПЛАВАХ 
+
+МЕТОДОМ ВНЕВАКУМНОЙ ЭЛЕКТРОННО-ЛУЧЕВОЙ ОБРАБОТКИ*
+О.Г. ЛЕНИВЦЕВА1, аспирант
+И.А. БАТАЕВ1, канд. техн. наук, доцент
+М.Г. ГОЛКОВСКИЙ2, канд. физ.-мат. наук
+В.В. САМОЙЛЕНКО1, аспирант
+Р.А. ДОСТОВАЛОВ1, студент
+1(НГТУ, г. Новосибирск) 
+2(ИЯФ СО РАН, г. Новосибирск)
+
+Поступила 4 июля 2013 года
+Рецензирование 26 августа 2013 года
+Принята к печати 5 сентября 2013 года
+
+Ленивцева О.Г. – 630092, г. Новосибирск, пр. К. Маркса, 20, 
+Новосибирский государственный технический университет, 
+
+e-mail: lenivtseva_olga@mail.ru
+
+Исследуется структура и свойства поверхностных слоев титана ВТ1-0, полученных методом вневакуумной 
+электронно-лучевой наплавки порошковых смесей титана и графита. Методами оптической и растровой электронной 
+микроскопии исследована структура полученных покрытий. Показано, что наплавленный слой характеризуется вы-
+соким качеством и толщиной до 2 мм. Структура наплавленного слоя представляет собой высокопрочные кристаллы 
+карбида титана, распределенные в матрице α’-Ti и нерастворившиеся частицы графита. Исследуемые покрытия отли-
+чаются высокой твердостью и износостойкостью. Потеря массы при изнашивания у образцов с покрытием в 7 раз ниже 
+по сравнению с материалом без покрытия. Полученные в работе данные показывают, что технология вневакуумной 
+электронно-лучевой наплавки порошковых смесей позволяет получать покрытия на титане ВТ1-0, отличающиеся повы-
+шенной твердостью и износостойкостью.
+
+Ключевые слова: карбид титана, титан, вневакуумная электронно-лучевая обработка, структура, износ.
+
+Введение элементами, а также  методы нанесения различных 
+упрочняющих покрытий [1].
+
+В настоящее время титан и титановые сплавы Многочисленные исследования показывают, что 
+используются в аэрокосмической, судостроитель- эффективными методами поверхностного упрочне-
+ной и химической промышленности. Широкое рас- ния титановых сплавов являются обработка высоко-
+пространение этих материалов связано с такими их концентрированными источниками энергии, такими 
+свойствами, как высокая удельная прочность, малая как электрическая дуга, луч лазера, электронный луч 
+плотность и отличная коррозионная стойкость. К су- [2–6]. Результаты исследований, представленных в 
+щественным недостаткам титановых сплавов отно- работах [7–8], демонстрируют высокую эффектив-
+сятся высокий коэффициент трения, низкая износо- ность электронно-лучевой наплавки для создания за-
+стойкость, склонность к контактному схватыванию и щитных покрытий на титановых сплавах.
+образованию задиров при взаимодействии с другими В процессе облучения материала сфокусирован-
+материалами. Для повышения триботехнических и ным электронным пучком кинетическая энергия элек-
+антифрикционных свойств титана применяют ион- тронов преобразуется в тепловую, что обеспечивает 
+ное имплантирование, поверхностный переплав, нагрев зоны обработки до температуры, достаточной 
+диффузионное насыщение поверхностных слоев для плавления материала. При этом происходит рас-
+кислородом, азотом, углеродом, бором и другими плавление и перемешивание легирующих компо-
+
+_______________
+* Работа выполнена при финансовой поддержке РФФИ 12-08-31292.
+
+№ 3 (60) 2013 103
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+Т а б л и ц а  1
+Режимы наплавки
+
+Номер Скорость перемещения Частота Расстояние от выпускного 
+режима образцов сканирования окна до заготовки Диаметр пучка Энергия 
+
+электронов Ток пучка
+
+1 20 мА
+10 мм/c 50 Гц 90 мм 12 мм 1,4 МэВ
+
+2 21 мА
+
+нентов и поверхностного слоя основного материала. смесь добавляли сварочный флюс CaF2 (40 % по мас-
+Использование электронного луча, выведенного в се). Все компоненты порошковой смеси тщательно 
+атмосферу, позволяет реализовывать различные ре- перемешивались и наносились на титановую основу 
+жимы обработки и получать покрытия требуемого с плотностью насыпки 0,3 г/см2.
+качества и большой толщины (до 2 мм) с сохране- Обработка электронным лучом осуществлялась в 
+нием свойств основного металла.  Использование Институте ядерной физики им. Будкера СО РАН с ис-
+ускорителя электронов типа ЭЛВ-6, разработанного пользованием ускорителя электронов ЭЛВ-6. Схема, 
+специалистами Института ядерной физики СО РАН иллюстрирующая процесс наплавки, представлена 
+(Новосибирск) [9–14], позволяет обрабатывать дета- на рис. 1.
+ли любых размеров без применения дорогостоящих 
+вакуумных камер. 
+
+При создании покрытий на титановых сплавах 
+в качестве упрочняющих компонентов используют 
+порошок WC [15–16], смесь порошков TiB и TiC [4], 
+порошки нитридов [9] и другие материалы. В ряде 
+работ показана возможность повышения триботех-
+нических свойств титановых сплавов за счет пере-
+плава поверхностных слоев совместно с порошком 
+графита [3, 17]. Savalani с соавторами [6] показа-
+ли, что использование углеродных нанотрубок при 
+лазерной наплавке позволяет получать покрытия 
+с равномерно распределенными частицами TiC в Рис. 1. Схема электронно-лучевой 
+матрице α-титана. В результате обработки форми- наплавки порошковой смеси
+руются износостойкие поверхностные слои, содер-
+жащие высокопрочные частицы, распределенные в Выбор технологических параметров обработки 
+вязкой матрице. Однако высокая цена углеродных осуществлялся на основании выполненных ранее 
+нанотрубок и сложность работы резко снижают экспериментов [8–9, 11–12]. Режимы обработки при-
+перспективы их применения в качестве материала ведены в табл. 1. Отличия между режимом 1 и ре-
+для наплавки. жимом 2 заключались в значениях тока пучка (20 и 
+
+Цель данной работы заключалась в получении и 21 мА соответственно).
+исследовании износостойких слоев на титане ВТ1-0 Потери компонентов порошковой смеси при на-
+при наплавке углеродсодержащих смесей электрон- плавке определялись весовым методом с использова-
+ным лучом, выведенным в атмосферу. нием весов Pioneer PA 214C.  Потери порошков ти-
+
+тана и углерода в процессе обработки составили 2,4 
+и 1,9 %, потери флюса  – 18,3 и 19,8 % для режимов 
+
+1. Материалы и методы исследования 1 и 2 соответственно.
+Структура полученных образцов исследовалась 
+
+В качестве основного материала использовались на оптическом микроскопе Carl Zeiss Axio Observer 
+заготовки из технически чистого титана размерами A1m, а при увеличениях свыше 1000 крат – на рас-
+50×100×10 мм. Для получения качественной рабочей тровом электронном микроскопе Carl Zeiss EVO 50 
+поверхности заготовки подвергались шлифованию. XVP. Структура материалов выявлялась раствором 
+Наплавочная смесь состояла из порошка титана чи- Кролля. Фазовый состав полученного покрытия 
+стотой более 99,9 % производства компании Alfa Ae- определялся на рентгеновском дифрактометре ARL 
+sar и графита марки ГЛ 1 в соотношении 4:1 (по мас- X`TRA. Дифракционные картины были получены 
+се). Для предотвращения окисления и обеспечения при  использовании  Cu Kα-излучения. 
+равномерного плавления порошков в наплавочную 
+104 № 3 (60) 2013
+
+
+
+МАТЕРИАЛОВЕДЕНИЕ ОБРАБОТКА  МЕТАЛЛОВ
+
+Рис. 2. Схема испытаний по определению Рис. 3. Фазовый состав зоны переплавленного 
+износостойкости: материала (режим 2)
+
+1 – резиновый ролик; 2 – образец; 3 – емкость с абразивом (речной 
+песок); Р – усилие прижатия ролика к образцу; V – направление тить, что разделение α' и α-фаз титана методом рент-
+
+вращения ролика генофазового анализа весьма затруднительно. Тем не 
+менее, учитывая высокую скорость охлаждения на-
+
+Микротвердость образцов оценивалась на твер- плавленного слоя, можно предположить, что титано-
+домере Wolpert Group 402 MVD под нагрузкой 100 г вая матрица представлена именно α'-фазой.
+(при измерениях вдоль линии) и 25 г (при измере- Строение наплавленных слоев в поперечном се-
+нии твердости отдельных фаз). Твердость карбидных чении представлено на рис. 4. На полученных сним-
+частиц оценивалась методом наноиндентирования с ках можно выделить ряд характерных зон: зону рас-
+использованием прибора  НаноСкан 3Д. плавленного металла (~2 мм для режимов 1 и 2), 
+
+Износостойкость покрытий определялась по зону термического влияния (ЗТВ), образованную в 
+схеме трения о нежестко закрепленные частицы результате теплопередачи от расплавленной области, 
+абразива (ГОСТ 23.208-79). Абразивом являлся а также зону основного металла, температура кото-
+речной песок. Песок подавался между трущимися рой была недостаточной для развития структурных 
+поверхностями и захватывался вращающимся ре- превращений.
+зиновым роликом (D = 50 мм), который с постоян- В структуре наплавленного слоя зафиксированы 
+ным усилием прижимался к испытуемому образцу включения нерастворившегося графита. При увели-
+(50×25×10 мм) (рис. 2). Степень износа оценивалась 
+по потере веса образца. Общая длина пути трения 
+составила 942,5 м. После изнашивания поверхность 
+образцов исследовалась на растровом электронном 
+микроскопе.
+
+2. Результаты исследований и их обсуждение
+В процессе вневакумной электронно-лучевой на-
+
+плавки углеродсодержащей порошковой смеси на 
+образцах из технически чистого титана ВТ1-0 были 
+получены качественные покрытия. При обработ-
+ке электронным лучом первым расплавлялся флюс 
+(температура плавления 1424 °С). Это способствова-
+ло равномерному плавлению присутствующих в сме-
+си  порошков. Флюс не оказывает влияния на состав 
+наплавленного слоя. На поверхности заготовок он 
+образует корку шлака, которая предотвращает окис-
+ление расплавленной зоны.                             а                                                    б
+
+Фазовый состав покрытия представлен на рис. 3. 
+На рентгенограмме наплавленного слоя можно вы- Рис. 4. Поперечное сечение наплавленных слоев: 
+делить три фазы (α'-Ti, TiС и графит). Следует отме- а – 20 мА; б – 21 мА
+
+№ 3 (60) 2013 105
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+                          а                                                      б
+
+                          в                                                      г
+Рис. 5. Структура наплавленного слоя: 
+
+1 – частицы графита; 2 – дендритные кристаллы TiC; 3 – α-Ti 
+(α/-Ti); 4 – округлые частицы TiC; 5 – конгломераты частиц TiC; Рис. 6. Распределение микротвердости по глубине 
+
+6 – эвтектический TiC наплавленного слоя
+
+чении силы тока с 20 до 21 мА количество включений ла. Максимальная твердость покрытия составила 
+графита заметно сократилось, тем не менее полно- 8,5 ГПа. Это связано с высокой объемной долей ча-
+стью устранить их не удалось. Присутствие крупных стиц карбида титана TiC (~32 вес. % для режима 2). 
+выделений графита должно приводить к снижению Максимальное значение твердости карбидных частиц 
+твердости наплавленного слоя. В то же время можно TiC, зафиксированное методом наноиндентирования, 
+ожидать благоприятное влияние этих включений на составило 28 ГПа. Твердость покрытия снижается в 
+снижение коэффициента трения. Подобный эффект направлении от поверхности в глубь покрытия, что 
+наблюдался авторами работы [2], показавшими что обусловлено уменьшением размера и объемной доли 
+структура, содержащая твердые частицы карбида ти- твердых карбидных частиц. 
+тана, пластичную матрицу и графитовые включения, Наплавленные слои характеризуются высо-
+позволяет улучшить триботехнические свойства по- ким уровнем износостойкости. При проведении 
+лученного материала. электронно-микроскопических исследований тита-
+
+Некоторые особенности структуры переплавлен- новых образцов ВТ1-0 на поверхности изнашивания 
+ного слоя представлены на рис. 5. Кроме включений 
+нерастворившегося графита (рис. 5, а) структура на-
+плавленного слоя состоит из титановой матрицы и 
+распределенных в ней частиц карбида титана. Усло-
+вия охлаждения в верхней части покрытия привели 
+к ориентации карбидных кристаллов в направлении, 
+перпендикулярном плоскости шлифа (рис. 5, б). В 
+этой зоне карбидная фаза представлена в виде кон-
+гломератов частиц округлой формы средним разме-
+ром ~2,5 мкм. В ряде случаев наблюдалось слияние 
+отдельных карбидных частиц между собой и образо-
+вание плотного слоя. В более глубоких слоях покры-
+тия карбидная фаза выделялась в характерной ден-
+дритной форме (рис. 5, в). Вблизи зоны термического 
+влияния ввиду недостатка углерода зафиксировано 
+выделение эвтектического карбида титана (рис. 5, г).
+
+На рис. 6 представлены графики изменения ми-
+кротвердости по глубине наплавленного слоя. Уве-
+личение тока пучка на 1 мА приводит к увеличению 
+толщины наплавленного слоя на 0,2 мм. Средняя Рис. 7. Потеря массы образцов при воздействии 
+
+нежестко закрепленных абразивных частиц: 
+твердость покрытия находится на уровне 4,3 ГПа, образец 1 – ток пучка 20 мА; образец 2 – ток 
+что в два раза выше твердости основного материа- пучка 21 мА
+
+106 № 3 (60) 2013
+
+
+
+МАТЕРИАЛОВЕДЕНИЕ ОБРАБОТКА  МЕТАЛЛОВ
+
+gation of TiC formation on titanium sur-
+face pre-coated by graphite under pulsed 
+laser irradiation // Applied Surface Sci-
+ence. January 2012. Vol. 258. Iss. 6. 
+P. 2068–2076.
+
+4. Yun E., Lee K., Lee S. Improve-
+ment of high-temperature hardness of 
+(TiC, TiB)/Ti–6Al–4V surface compos-
+ites fabricated by high-energy electron-
+beam irradiation // Surface & Coatings 
+Technology. 2004. Vol. 184. P. 74–83.
+
+5. Ettaqi S., Hays V., Hantzper-
+Рис. 8. Микроснимки поверхности образцов после изнашивания gue J.J., Saindrenan G., Remy J.C. Me-
+
+chanical, structural and tribological prop-
+erties of titanium nitrided by a pulsed 
+
+зафиксировано наличие глубоких бороздок (рис. 8). laser // Surface & Coatings Technology. 1998. Vol. 100/101. 
+На поверхности образцов с покрытием бороздки Iss. 1–3. P. 428–432.
+подобного рода отсутствуют (рис. 8). Из графика, 6. Savalani M.M., Ng C.C., Li Q.H., Man H.C. In situ 
+представленного на рис. 7, следует, что процесс из- formation of titanium carbide using titanium and carbon-nan-
+нашивания развивается с постоянной скоростью. otube powders by laser cladding // Applied Surface Science. 
+Стойкость образцов с покрытием в семь раз выше по Vol. 258. Iss. 7. P. 3173–3177. 15 January 2012.
+сравнению с  титаном ВТ1-0. 7. Golkovski M.G., Bataev I.A., Bataev A.A., Ruktuev 
+
+A.A., Zhuravina T.V., Kuksanov N.K., Salimov R.A., Bataev 
+V.A.  Atmospheric electron-beam surface alloying of titanium 
+
+Выводы with tantalum // Materials Science & Engineering: A. 2013. 
+Vol. 578. P. 310–317.
+
+1. Вневакуумная электронно-лучевая наплавка 8. Батаев И.А., Журавина Т.В., Руктуев А.А., Ленив-
+порошка графита является эффективным методом цева О.Г., Ромашова Ю.Н. Структурные исследования 
+повышения твердости и износостойкости титановых покрытий системы «титан-тантал», полученных методом 
+сплавов. Применение этой технологии обеспечивает вневакуумной электронно-лучевой наплавки // Обработ-
+получение качественных поверхностных слоев боль- ка металлов: технология, оборудование, инструменты. – 
+шой толщины (до 2 мм). 2012. – № 3(56). – С. 56–59.
+
+2. Изменяя режимы наплавки, возможно управ- 9. Oh J.Ch., Lee S., Golkovski M.G. Improvement of the 
+лять структурой полученного слоя и контролировать hardness and ware resistance of (TiC,TiN)/Ti-6AI-4V sur-
+содержание нерастворившихся частиц графита. face-alloyed materials fabricated by high-energy electron-
+
+3. Электронно-лучевая наплавка обеспечива- beam irradiation // Metallurgical & Materials Transactions: 
+ет повышение твердости материала в два раза по A. 2001. Vol. 32. Iss. 2. P. 2995–3005.
+сравнению с исходным титаном. Средняя твердость 10. Veis M.E., Kuksanov N.K., Korabelnikov B.M., Ne-
+покрытия составляет 430 HV. Наибольший вклад в mytov P.I., Salimov R.A. High voltage electron accelerators 
+общую твердость покрытия вносят частицы карбида at a power of up to 90 kW // Radiation Physics & Chemistry. 
+титана. 1990. Vol. 35. Iss. 4–6. P. 658–661.
+
+4. В условиях трения о нежестко закрепленные 11. Golkovsky M.G., Zhuravina T.V., Bataev I.A., Ba-
+частицы абразива наплавленные покрытия обладают taev A.A., Veselov S.V., Bataev V.A., Prikhodko E.A. Cladding 
+уровнем износостойкости, в семь раз превышающим of tantalum and niobium on titanium by electron beam, in-
+стойкости титана ВТ1-0. jected in atmosphere // Advanced Materials Research. 2011. 
+
+Vol. 314–316. P. 23–27.
+Список литературы 12. Bataev V.A., Bataev A.A., Golkovsky M.G., 
+
+Ostromenskij P.I., Korotaev B.V. Hardening of side faces of 
+1. ASM Handbook. Vol. 5. Surface Engineering / eds.: railheads by electric beam treatment in air. Metal Science and 
+
+Catherine M. Cotell, James A. Sprague, and Fred A. Smidt, Heat Treatment, 2002, Vol. 44, Iss. 11-12, pp. 510–513.
+Jr. : ASM International, 1994. P. 525. (ASM Handbook). 13. Fadeev S.N, Golkovski M.G, Korchagin A.I, Kuksanov 
+
+2. Courant B., Hantzpergue J.J., Benayoun S. Surface N.K, Lavruhin A.V, Petrov S.E, Salimov R.A, Vaisman A.F. 
+Treatment of titanium by laser irradiation to improve re- Technological applications of BINP industrial electron accelerators 
+sistance to dry-sliding friction // Wear. 1999. Vol. 236. with focused beam extracted into atmosphere // Radiation Physics 
+P. 39–46. and Chemistry. 2000. Vol. 57. Iss. 3–6. P. 653-655.
+
+3. Chehrghani А., Torkamany M.J., Hamedi M.J., Sab- 14. Salimov R.A., Cherepkov V.G., Golubenko J.I., 
+baghzadeh J. Numerical modeling and experimental investi- Krainov G.S., Korabelnikov B.M., Kuznetsov S.A., Kuksa-
+
+№ 3 (60) 2013 107
+
+
+
+ОБРАБОТКА  МЕТАЛЛОВ МАТЕРИАЛОВЕДЕНИЕ
+
+nov N.K., Malinin A.B., Nemytov P.I., Petrov S.E., Prudni- 16. Çelik O.N. Microstructure and wear properties of 
+kov V.V., Fadeev S.N., Veis M.E. D.C. high power electron WC particle reinforced composite coating on Ti6Al4V alloy 
+accelerators of ELV-series: status, development, applica- produced by the plasma transferred arc method // Applied 
+tions // Radiation Physics and Chemistry. 2000. Vol. 57. Surface Science, in press.
+Iss. 3–6. P. 661-665. 17. Couranta B., Hantzpergueb J.J., Avrilb L., Benayounb S. 
+
+15. Farayibi P.K., Folkes J., Clare A., Oyelola O. Structure and hardness of titanium surfaces carburized by pulsed 
+Cladding of pre-blended Ti–6Al–4V and WC powder for laser melting with graphite addition // Journal of Materials 
+wear resistant applications // Surface & Coatings Technology. Processing Technology.- Vol. 160. Iss. 3. – P. 374-381. 30 March 
+Vol. 206. Iss. 2–3. P. 372–377. 25 October 2011. 2005.
+
+Obrabotka metallov
+N 3 (60), July–September 2013, Pages 103-109
+
+Production of wear-resistance coatings on titanium alloys by the method of non-vacuum electron-beam cladding
+1O.G. Lenivtseva, 1I.A. Bataev, 2M.G. Golkovsky, 1V.V. Samoylenko, 1R.A. Dostovalov.
+1Novosibirsk State Technical University, Prospekt K. Marksa, 20,
+Novosibirsk, 630073, Russia
+2Institute of Nuclear Physics, Prospect akademika Lavrentieva, 11,
+Novosibirsk, 630090, Russia
+
+E-mail: lenivtseva_olga@mail.ru
+
+Abstract
+
+Structure and properties of the surface layers on titanium VT1-0, produced by by the method of non-vacuum electron-beam 
+cladding of titanium and graphite powder mixtures are described in the article. The structure of the coatings is investigated by 
+the means of optical and scanning electron microscopy. It is showed that the cladded layer has a high quality and a thickness 
+of about 2 mm. The cladded layer structure is represented by high-strong crystals of a titanium carbide, distributed in a α’-Ti 
+matrix, and undissolved graphite particles. Cladded layers under consideration have high hardness and wear resistance. Clad-
+ded samples wear loss is 7-fold lower compared to the material without the coating. Data obtained indicate that the technology 
+of powder mixtures non-vacuum electron-beam cladding allows to obtain coatings with a high hardness and wear resistance 
+on titanium VT1-0.
+
+Keywords: titanium carbide, titanium, non-vacuum electron-beam cladding, structure, wear
+
+References
+1. Catherine M. Cotell, James A. Sprague, and Fred A. Smidt, Jr. ASM Handbook. Surface Engineering. ASM International, 
+
+1994, Vol. 5. 525 p.
+2. Courant B., Hantzpergue J.J., Benayoun S. Surface Treatment of titanium by laser irradiation to improve resistance to 
+
+dry-sliding friction. Wear. 1999, Vol. 236, pp. 39–46.
+3. Chehrghani А., Torkamany M.J., Hamedi M.J., Sabbaghzadeh J. Numerical modeling and experimental investigation 
+
+of TiC formation on titanium surface pre-coated by graphite under pulsed laser irradiation. Applied Surface Science, 2012, 
+Vol. 258, Iss. 6, pp. 2068–2076.
+
+4. Yun E., Lee K., Lee S. Improvement of high-temperature hardness of (TiC, TiB)/Ti–6Al–4V surface composites 
+fabricated by high-energy electron-beam irradiation. Surface & Coatings Technology, 2004, Vol. 184, pp. 74–83.
+
+5. Ettaqi S., Hays V., Hantzpergue J.J., Saindrenan G., Remy J.C. Mechanical, structural and tribological properties of 
+titanium nitrided by a pulsed laser. Surface & Coatings Technology, 1998, Vol. 100/101, Iss. 1–3, pp. 428–432.
+
+6. Savalani M.M., Ng C.C., Li Q.H., Man H.C. In situ formation of titanium carbide using titanium and carbon-nanotube 
+powders by laser cladding. Applied Surface Science, 2012, Vol. 258, Iss. 7, pp. 3173–3177.
+
+7. Golkovski M.G., Bataev I.A., Bataev A.A., Ruktuev A.A., Zhuravina T.V., Kuksanov N.K., Salimov R.A., Bataev V.A. 
+Atmospheric electron-beam surface alloying of titanium with tantalum. Materials Science & Engineering, 2013, Vol. 578, pp. 
+310–317.
+
+8. Bataev I.A., Zhuravina T.V., Ruktuev A.A., Lenivceva O.G., Romashova Yu.N. Obrabotka metallov: tehnologija, 
+oborudovanie, instrument, 2012, no. 3(56), pp. 56–59.
+
+108 № 3 (60) 2013
+
+
+
+МАТЕРИАЛОВЕДЕНИЕ ОБРАБОТКА  МЕТАЛЛОВ
+
+9. Oh J.Ch., Lee S., Golkovski M.G. Improvement of the hardness and ware resistance of (TiC,TiN)/Ti-6AI-4V surface-
+alloyed materials fabricated by high-energy electron-beam irradiation.  Metallurgical & Materials Transactions, 2001, Vol. 
+32, Iss. 2, pp. 2995–3005.
+
+10. Veis M.E., Kuksanov N.K., Korabelnikov B.M., Nemytov P.I., Salimov R.A. High voltage electron accelerators at a 
+power of up to 90 kW. Radiation Physics & Chemistry, 1990, Vol. 35, Iss. 4–6, pp. 658–661.
+
+11. Golkovsky M.G., Zhuravina T.V., Bataev I.A., Bataev A.A., Veselov S.V., Bataev V.A., Prikhodko E.A. Cladding of 
+tantalum and niobium on titanium by electron beam, injected in atmosphere. Advanced Materials Research, 2011, Vol. 314–
+316, pp. 23–27.
+
+12. Bataev V.A., Bataev A.A., Golkovsky M.G., Ostromenskij P.I., Korotaev B.V. Hardening of side faces of railheads by 
+electric beam treatment in air. Metal Science and Heat Treatment, 2002, Vol. 44, Iss. 11-12, pp. 510–513.
+
+13. Fadeev S.N, Golkovski M.G, Korchagin A.I, Kuksanov N.K, Lavruhin A.V, Petrov S.E, Salimov R.A, Vaisman A.F. 
+Technological applications of BINP industrial electron accelerators with focused beam extracted into atmosphere. Radiation 
+Physics and Chemistry, 2000, Vol. 57, Iss. 3–6, pp. 653-655.
+
+14. Salimov R.A., Cherepkov V.G., Golubenko J.I., Krainov G.S., Korabelnikov B.M., Kuznetsov S.A., Kuksanov N.K., 
+Malinin A.B., Nemytov P.I., Petrov S.E., Prudnikov V.V., Fadeev S.N., Veis M.E. D.C. high power electron accelerators of 
+ELV-series: status, development, applications. Radiation Physics and Chemistry, 2000, Vol. 57, Iss. 3–6, pp. 661-665.
+
+15. Farayibi P.K., Folkes J., Clare A., Oyelola O. Cladding of pre-blended Ti–6Al–4V and WC powder for wear resistant 
+applications. Surface & Coatings Technology, 2011, Vol. 206, Iss. 2–3, pp. 372–377.
+
+16. Çelik O.N. Microstructure and wear properties of WC particle reinforced composite coating on Ti6Al4V alloy 
+produced by the plasma transferred arc method. Applied Surface Science, in press.
+
+17. Couranta B., Hantzpergueb J.J., Avrilb L., Benayounb S. Structure and hardness of titanium surfaces carburized by 
+pulsed laser melting with graphite addition. Journal of Materials Processing Technology, 2005, Vol. 160, Iss. 3, pp. 374-381.
+
+№ 3 (60) 2013 109

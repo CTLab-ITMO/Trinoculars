@@ -1,0 +1,947 @@
+﻿Известия Томского политехнического университета. Инжиниринг георесурсов. 2020. Т. 331. № 6. 48–56 
+Перевезенцева Д.О., Горчаков Э.В. Вольтамперометрическое определение пероксида водорода c помощью сенсоров на основе ... 
+
+  
+УДК 551.5: 544.653.22 
+
+ВОЛЬТАМПЕРОМЕТРИЧЕСКОЕ ОПРЕДЕЛЕНИЕ ПЕРОКСИДА ВОДОРОДА  
+C ПОМОЩЬЮ СЕНСОРОВ НА ОСНОВЕ НАНОЧАСТИЦ СЕРЕБРА  
+
+В ОБЪЕКТАХ ТЕХНОГЕННОГО И ГЕОЛОГИЧЕСКОГО ПРОИСХОЖДЕНИЯ 
+
+ 
+Перевезенцева Дарья Олеговна1,  
+dop@tpu.ru 
+
+Горчаков Эдуард Владимирович2,  
+gorchakovedvard@mail.ru  
+
+1 Национальный исследовательский Томский политехнический университет,  
+Россия, 634050 г. Томск, пр. Ленина, 30. 
+
+2 Ставропольский государственный аграрный университет,  
+Россия, 355017 г. Ставрополь, пер. Зоотехнический, 12. 
+
+ 
+Актуальность работы связана с необходимостью определения низких содержаний пероксида водорода в объектах техно-
+генного и геологического происхождения. 
+Цель: разработать сенсор с повышенной чувствительностью на основе наночастиц серебра для контроля окружающей сре-
+ды и определить концентрацию пероксида водорода в водных объектах. 
+Объекты: артезианская и дождевая вода, собранная в черте города и пригорода.  
+Методы: просвечивающая электронная микроскопия, вольтамперометрия. 
+Результаты. Форма и размер наночастиц серебра зависят от природы восстановителя. При использовании двух восстано-
+вителей боргидрида и цитрата натрия получают частицы сферической формы наименьшего размера – от 0,5 до 17,5 нм. 
+При использовании цитрата натрия получают наночастицы серебра большего диаметра – от 10 до 55 нм, различной формы: 
+сферические, призматические и треугольные. Наночастицы серебра, полученные с использованием боргидрида натрия, аг-
+ломерированы в цепочки размером до 65 нм. Особенностью электровосстановления нанофаз серебра, полученных в присут-
+ствии цитрата натрия, на поверхности графитового электрода в 0,1 М NaOH является восстановление ионов серебра из 
+комплексных соединений [Ag(OH)2]–. Предложен механизм электрохимических процессов перехода нанофаз серебра, получен-
+ных с использованием различных восстановителей. Этот механизм не зависит от природы восстановителя. Установлено, 
+что катодный максимум при Ек=0,08 В соответствует процессу восстановления пероксида водорода. Зависимость катодно-
+го максимума от концентрации пероксида водорода, полученного с использованием сенсора на основе наночастиц серебра в 
+присутствии цитрата натрия, была линейной в диапазоне от 0,1 до 1 нМ, предел обнаружения составил 0,087 нМ. Определе-
+на концентрация пероксида водорода в дождевой и артезианской воде. Предложен простой чувствительный сенсор на основе 
+наночастиц серебра, полученный с использованием восстановителя цитрата натрия. Этот сенсор имеет широкий диапазон 
+концентраций для определения пероксида водорода.  
+
+ 
+Ключевые слова:  
+Пероксид водорода, наночастицы серебра, циклическая вольтамперометрия,  
+электрохимический сенсор, объекты техногенного и геологического происхождения, экология. 
+
+ 
+Введение В условиях повышенной влажности и перепадов 
+Пероксид водорода обладает сильными окисли- климатических температур, в морской воде, в почве и 
+
+тельными и дезинфицирующими свойствами [1]. других объектах бактерии-органотрофы биотранс-
+В небольших количествах пероксид водорода выпол- формируют кислород в пероксид водорода, продуци-
+няет роль фунгицида [2], бактерицида [1], стимулято- руют серную кислоту из серы, окисляют ионы аммо-
+ра прорастания семян [3], накопления питательных ния до азотистой, а затем в азотную кислоту [12]. 
+веществ и защиты растений на всех стадиях роста от В связи с этим необходимо проводить постоянный 
+вредного воздействия бактерий и насекомых [1, 4], мониторинг и контролировать содержание пероксида 
+повышает аэрационные свойства почвы [5]. Выбросы водорода в объектах окружающей среды. Традицион-
+фармацевтической промышленности [6], косметиче- но для определения этого токсиканта используют 
+ского производства [7], пищевой промышлености [8], титриметрию [13], колориметрию [14], cпектрофото-
+производства бумаги [9], детоксикационной обработ- метрию [15], хемилюсценцию [16], флуориметрию 
+ки против токсических, концерогенных и мутогенных [17], хроматографию [18]. Недостатками определения 
+веществ (формальдегид, фенол, амин, гербициды) содержания пероксида водорода являются: длитель-
+грунтовых водах [9–11], в овощах и фруктах приво- ная процедура определения, высокая стоимость реак-
+дит к разрушению белковых и клеточных структур, тивов и оборудования, низкая воспроизводимость и 
+торможению ключевых метаболических процессов в чувствительность методик. Вольтамперометрия ха-
+организме за счет образования гидроксильных сво- рактеризуется следующими преимуществами по 
+бодных радикалов.  сравнению с другими методами: экспрессность, низ-
+
+48 DOI 10.18799/24131830/2020/6/2674 
+
+
+
+Известия Томского политехнического университета. Инжиниринг георесурсов. 2020. Т. 331. № 6. 48–56 
+Перевезенцева Д.О., Горчаков Э.В. Вольтамперометрическое определение пероксида водорода c помощью сенсоров на основе ... 
+
+ 
+кая стоимость оборудования, удовлетворительная цами различных элементов, полученными при соот-
+воспроизводимость и высокая чувствительность. В то ветствующих условиях для определения пероксида 
+же время применение стандартных графитовых элек- водорода (табл. 1). 
+тродов не позволяет определять пероксид водорода с Сравнительные характеристики электрохимических 
+заданной чувствительностью. В настоящее время ис- сенсоров на основе наночастиц металлов для опреде-
+пользуют электроды, модифицированные наночасти- ления пероксида водорода представлены в табл. 1. 
+
+Таблица 1.  Эффективность некоторых электродов для определения концентрации пероксида водорода 
+
+Table 1.  Efficiency of certain electrodes for hydrogen peroxide detection 
+Диапазон определяе-
+
+Предел обнару-
+мых концентраций, 
+
+Электрод Модификатор жения, (μM), Ссылки 
+pH (μM) 
+
+Electrode Modifier Detection limit, References 
+Range of detectable 
+
+(μM) 
+concentrations, (μM) 
+
+Оксид графена, нафион и наночастицы 
+серебра  1,72–10,79 
+
+7,4 фосфатный 0,46 [19] 
+Graphene oxide, nafion and silver 10,79–231 
+
+Стекло-графитовый  буфер 
+nanoparticles 
+
+Glassy carbon  7,4 phosphate 
+Наночастицы палладия buffer 0,33 1–7 
+
+[20] 
+Palladium nanoparticles 6,79 1–14 
+
+Прусская голубая пленка, модифици- pH 7,38 фосфат-
+Графит-восковый 
+
+рованная наночастицами золота ный буфер 
+композитный  0,014 4,8·10−2–7,4·10−2 [21] 
+
+Prussian blue film, modified with gold pH 7,38 
+Graphite wax composite  
+
+nanoparticles phosphate buffer 
+рН 7,4 
+
+фосфатный 
+Наночастицы золота 
+
+Золотой/Gold  буфер 0,5 1–8 [22] 
+Gold nanoparticles 
+
+рН 7,4 
+phosphate buffer 
+
+Угольно-пастовый на 
+основе нанокомпозита Нанокомпозит на основе кремния и pH 7,38 фосфат-
+кремния и серебра серебра ный буфер 
+
+0,45 1,65–5 [23] 
+Carbon-paste based on Nanocomposite based on silicon and pH 7,38 
+silicon-silver silver phosphate buffer 
+nanocomposite 
+
+Многослойные графитовые нанотруб- рН 7,38 фос-
+Стекло-графитовый  ки на основе наночастиц серебра форный буфер 
+
+2 100–10000 [24] 
+Glassy carbon  Multiwalled carbon nanotubes based on рН 7,38 
+
+silver nanoparticles phosphate buffer 
+ 
+
+Как видно из табл. 1, применение электрохимиче- электрохимических исследований использовали воль-
+ских сенсоров на основе наночастиц металлов для тамперометрический анализатор ТА-2 (Томск) с 
+определения концентрации пероксида водорода поз- трехэлектродной ячейкой. В качестве индикаторного 
+воляет понизить предел ее обнаружения по сравне- электрода использовали графитовый электрод (ГЭ), 
+нию со стандартными графитовыми электродами. графитовые электроды, модифицированные наноча-
+Использование вольтамперометрии с сенсорами на стицами серебра в отсутствии высокомолекулярных 
+основе наночастиц металлов позволяет устранить стабилизаторов с использованием различных восста-
+недостатки таких методов, как спектрофотометрия и новителей: цитрата натрия (ГЭAgNPsСitr), боргидри-
+хроматография. да натрия (ГЭAgNPsBg) и смеси боргидрида и цитра-
+
+Цель исследования – разработать сенсор с повы- та натрия (ГЭAgNPsCitrBg) (сенсоры на основе нано-
+шенной чувствительностью на основе наночастиц частиц серебра). В качестве электрода сравнения и 
+серебра для контроля окружающей среды и опреде- вспомогательного электрода использовали хлоридсе-
+ления концентрации пероксида водорода в водных ребряные электроды (Ag/AgCl/KCl). Подготовку по-
+объектах.  верхности графитового электрода осуществляли по 
+
+методике [26]. Методика определения концентрации 
+Методики пероксида водорода заключается в следующем. Сна-
+Растворы пероксида водорода готовили на биди- чала в электрохимическую ячейку, заполненную 
+
+стиллированной воде непосредственно перед экспе- 10 мл 0,1 М NaOH, помещали три электрода. Вольт-
+риментальными определениями. Его массовую кон- амперную зависимость фонового электролита реги-
+центрацию определяли с использованием титримет- стрировали в режиме циклической вольтамперомет-
+рического метода перманганатометрии по стандарт- рии на сенсоре, полученном на основе наночастиц 
+ной методике [25]. Получение золей серебра осу- серебра в области развертки потенциалов от –1,0 до 
+ществляли согласно [26, 27]. Форму частиц и их раз- –1
+
++1,5 В при скорости развертки потенциалов 40 мВ·с . 
+мер определяли с помощью просвечивающей элек- Затем в электрохимическую ячейку добавляли рас-
+тронной микроскопии (ПЭМ) с использованием элек- –10
+
+твора 50 мкл 10  М пероксида водорода (Н2О2), пе-
+тронного микроскопа «JSM-5500» (Япония). Для ремешивали раствор и регистрировали вольтампер-
+
+49 
+
+
+
+Известия Томского политехнического университета. Инжиниринг георесурсов. 2020. Т. 331. № 6. 48–56 
+Перевезенцева Д.О., Горчаков Э.В. Вольтамперометрическое определение пероксида водорода c помощью сенсоров на основе ... 
+
+  
+ную зависимость Н2О2 в тех же условиях. Далее еще размерам составляет 0,5–17,5 нм с характерным раз-
+
+–10
+50 мкл раствора 10  М Н2О2 добавляли в электрохи- мером частиц 10,0–12,5 нм. Наночастицы серебра, 
+мическую ячейку, перемешивали раствор и регистри- полученные по боргидридной методике (рис. 1, в), 
+ровали вольтамперную зависимость концентрации имеют призматическую и палочкообразную форму, 
+Н2О2 в тех же условиях. По высоте его максимума соединены в цепочки, т. е. агломерированы. Диапазон 
+вычисляли концентрацию Н2О2 в растворе по методу их распределения по размерам составляет 5–65 нм с 
+«введено–найдено». Результаты эксперимента приве- характерным размером 30–45 нм. 
+дены на рис. 2. При изменении потенциала в диапазоне от –0,8 до 
+
+1,4 В на анодных ветвях циклических зависимостей 
+Результаты эксперимента 1'–3' (рис. 2) наночастиц серебра независимо от приро-
+Наночастицы серебра, полученные с использова- ды восстановителя наблюдались неразрешенные сиг-
+
+нием цитратной методики (рис. 1, а), имеют различ- налы (А1,А2) и три основных максимума (А3,А4,А5). 
+ную форму: палочкообразные, призматические, тре- Потенциал анодного максимума AgNPs-Bg-Citr (A3) 
+угольные с размерами частиц в диапазоне 10–55 нм с (зависимость 1') смещен на 110 мВ в положительную 
+их средним размером 30–35 нм. Как видно из микро- область по сравнению с потенциалами максимумов 
+фотографии (рис. 1, б), наночастицы серебра, полу- (A3) AgNPs-Citr (зависимость 2') и AgNPs-Bg (зави-
+ченные по боргидридцитратной методике, имеют симость 3') из-за их совместного присутствия [28]. 
+сферическую форму. Диапазон их распределения по 
+
+ 
+
+   
+а/а б/b в/с 
+
+Рис. 1.  Микрофотографии наночастиц серебра, полученные c использованием цитрата натрия (а), боргидрида и 
+цитата натрия (б), боргидрида натрия (в) 
+
+Fig. 1.  Micrographs of silver nanoparticles obtained using sodium citrate (a), sodium borohydride and sodium citrate (b), 
+sodium borohydride (c)  
+
+Это смещение потенциала максимума AgNPs-Bg- Ag+[Ag(OH)2]
+– = Ag2O+H2O+e–.             (2) 
+
+Citr подтверждает образование более мелких частиц и Основной максимум (А3) на анодных ветвях цик-
+коррелирует с результатами, полученными с помо- лических зависимостей 1’–3’ связан с растворением 
+щью ПЭМ, характерный размер которых составляет основного количества серебра и соответствует схеме 
+10,0–12,5 нм. реакции (3) и коррелирует с данными [27, 31]: 
+
+При изменении потенциала в диапазоне от 1,4 до –
+2Ag+2OH– = Ag2O+H2O+2e.        (3) 
+
+0,8 В на катодной ветви циклической зависимости 2'' 
+AgNPs-Citr присутствуют основная широкая волна Основные максимумы (А4, А5) на анодных ветвях 
+(С1) и два перекрывающихся максимума (С2, С3). циклических зависимостей 1’–3’ обусловлены фазо-
+
+На катодных ветвях циклических зависимостей 1'' выми переходами серебра в соответствующих степе-
+AgNPs-Bg-Citr и 3'' AgNPs-Bg наблюдаются две пере- нях окисления +1, 0, +2, +3. Схемы реакций, описы-
+крывающиеся волны (С1, С2) и максимум (С3). Потен- вающие эти переходы, представлены схемами реак-
+циалы катодных максимумов и волн AgNPs-Bg-Citr ций (4), (5) [29–31]: 
+смещены в область отрицательных потенциалов по Ag2O+2OH– = 2AgO+H2O+2e–,           (4) 
+сравнению с AgNPs-Citr и AgNPs-Bg вследствие 2AgO+2OH– = Ag2O3+H2O+2e–.               (5) 
+улучшения процесса восстановления AgNPs [28]. 
+
+Основная широкая волна (С1) наблюдается на ка-Согласно литературным данным [28, 29], два не-
+тодной ветви циклической зависимости 1'' AgNPs-Citr. 
+
+больших максимума (А1, А2) на анодных ветвях цик-
+Уширение волны обусловлено двумя процессами. 
+
+лических зависимостей 1’–3′ соответствуют процессам 
+Реакционные схемы описанных фазовых переходов 
+
+окисления серебра из состава наночастиц. Схемы реак-
+представлены уравнениями (6), (7), которые согласу-
+
+ций их окисления (1), (2) согласуются с [27, 29–31]: 
+ются с [29, 30]: 
+
+Ag+2OH– = [Ag(OH)2]
+–+e–,          (1) 
+
+Ag2O3+H2O+2e– → 2AgO+2OH–,                     (6) 
+
+50 
+
+
+
+Известия Томского политехнического университета. Инжиниринг георесурсов. 2020. Т. 331. № 6. 48–56 
+Перевезенцева Д.О., Горчаков Э.В. Вольтамперометрическое определение пероксида водорода c помощью сенсоров на основе ... 
+
+ 
+2AgO+H2O+2e– → Ag2O+2OH–.        (7) 
+
+Две перекрывающиеся волны (С2, С3) наблюдают-
+ся на катодной ветви циклической кривой 1’’ AgNPs-
+Citr. Эти максимумы описываются схемами реакций 
+(8), (9), что согласуется с [29, 31]: 
+
+Ag2O+H2O+2e– = 2Ag+2OH–,       (8) 
+
+2AgOH+2e– = 2Ag+2ОH–.                    (9) 
+
+ 
+
+ 
+Рис. 3.  Вольтамперные зависимости пероксида водоро-
+
+да в 0,1 М NaOH, v=100 мВ·с–1 на графитовом 
+сенсоре на основе наночастиц серебра, получен-
+ных с использованием восстановителей борги-
+дида и цитрата натрия – 1’, 1”; цитрата 
+натрия – 2’, 2”; боргидрида натрия – 3’,3” 
+
+Fig. 3.  Current-voltage dependences of hydrogen peroxide 
+
+in 0,1 M NaOH, v=100 mV·s–1 at a graphite sensor 
+based on silver nanoparticles using sodium 
+borohydride and citrate – 1’, 1”; sodium citrate – 2’, 
+
+ 2”; sodium borohydride – 3’, 3” 
+Рис. 2.  Вольтамперные зависимости наночастиц сереб-
+
+ра в 0,1 М NaOH, v=100 мВ·с–1 на графитовом Дальнейшее добавление H2O2 приводит к увеличе-
+сенсоре на основе наночастиц серебра, получен- нию сигнала на ГЭ-AgNPs-Citr и ГЭ-AgNPs-Bg-Citr. 
+ных с использованием восстановителей борги- Для сравнения аналитических характеристик количе-
+дида и цитрата натрия – 1’, 1”; цитрата 
+
+ственного определения H2O2 использовали данные натрия – 2’, 2”; боргидрида натрия – 3’,3”.  
+электроды.  
+
+Fig. 2.  Current-voltage dependencies of silver 
+На рис. 4 показаны вольтамперные зависимости на 
+
+nanoparticles obtained in the presence of 
+borohydride and sodium citrate – 1’, 1”; sodium сенсоре на основе наночастиц серебра, полученные с 
+citrate – 2’, 2”; sodium borohydride – 3’, 3” in 0,1 использованием восстановителя цитрата натрия: 1 – 
+
+–10
+M NaOH, v=100 mV·s–1 фоновая; 1 – добавка H2O2 с концентрацией 2∙10  М; 
+
+–10
+3 – добавка H2O2 с концентрацией 4∙10  М. 
+
+Две перекрывающиеся волны (С  
+1, С2) наблюдают-
+
+ся на катодных ветвях циклических зависимостей 2’’ 
+и 3’’ AgNPs-Bg-Citr и AgNPs-Bg, они описываются 
+схемами реакций (6), (7). 
+
+Максимум (C3) соответствует восстановлению ок-
+сида серебра (I) до элементного серебра, что описы-
+вается схемой реакции (8) и согласуется с [29–31]. 
+
+Добавление H2O2 не приводит к значительным 
+смещениям потенциалов как анодного, так и катодно-
+го максимумов AgNPs на циклических зависимостях 
+1”–3” (рис. 3). Добавление Н2О2 приводит к появле-
+нию дополнительных максимумов (С4) при Е=0,08 В 
+на катодных ветвях всех зависимостей. 
+
+Этот дополнительный максимум описывается  
+схемой реакции (10), которая согласуется с [32]: Рис. 4.  Вольтамперные зависимости пероксида водоро-
+
+HO –
+2  +ОH– = O2+H2O+2е
+
+–.    (10) да от его концентрации в 0,1 М NaOH при 
+v=0,04 B·c–1 на сенсоре на основе наночастиц се-
+
+При внесении в систему второй добавки высота ребра c использованием восстановителя цитра-
+максимумов H2O2 на ГЭ-AgNPs-Citr увеличивается в та натрия: 0 М (1), 2·10–10 М (2), 4·10–10 М (3)  
+2 раза, тогда как высота на ГЭ-AgNPs-Bg-Citr увели- Fig. 4.  Voltammeter dependences of hydrogen peroxide 
+чивается в 2,5 раза, а высота максимума H2O2 на ГЭ- based on its concentration in 0,1 M NaOH (1) at 
+AgNPs-Bg не увеличивается. Таким образом, AgNPs- v=0,04 V s–1 at sensor based on silver nanoparticles 
+Bg-Citr обладают наибольшей электрокаталитической obtained using sodium citrate: 0 M (l), 2·10–10 М 
+
+активностью в отношении H2O2, высота катодного (2) , 4·10–10 М (3)  
+
+максимума увеличивается более чем в 2,5 раза. 
+
+51 
+
+
+
+Известия Томского политехнического университета. Инжиниринг георесурсов. 2020. Т. 331. № 6. 48–56 
+Перевезенцева Д.О., Горчаков Э.В. Вольтамперометрическое определение пероксида водорода c помощью сенсоров на основе ... 
+
+  
+Установлено, что при Eк=+0,18 В наблюдается В табл. 3 представлены результаты определения 
+
+пропорциональное увеличение высоты максимума в пероксида водорода в водных объектах: вода из арте-
+–10
+
+рисутствии 2∙10  –10
+п М (зависимость 2) и 4∙10  М зианской скважины, дождевая вода, собранная в чер-
+H2O2 в ГЭ-AgNPs-Citr (зависимость 3). Дальнейшее те города Томска и за его пределами, вдали от насе-
+
+–10 –9
+увеличение концентрации H2O2 с 2∙10  до 1∙10  М ленных пунктов.  
+приводит к линейной зависимости высоты максимума 
+от его концентрации на ГЭ-AgNPs-Citr.  Таблица 3.  Определение концентации пероксида водо-
+
+Для ГЭ-AgNPs-Bg-Citr установлено, что первая рода в водных объектах 
+
+добавка пероксида водорода приводит к увеличению Table 3.  Determination of hydrogen peroxide in aqueous 
+максимума в 2,5 раза. Последующее увеличение кон- objects 
+
+центрации пероксида водорода приводило к пропор- Введено, 
+Найдено, 
+
+циональному росту высоты максимума в интервале С
+Объект исследования Н2О2, С
+
+моль·л–1 Н2О2, моль·л
+–1 Sr,(t0,95) 
+
+половины порядка. В то же время дальнейшее увели- Object of investigation Found, n=6 
+Introduced 
+
+чение концентрации не способствовало пропорцио- С
+С Н2О2, moll·l
+
+–1 
+
+Н2О2, moll·l–1 
+нальному росту высоты максимума, и концентраци- Питьевая вода из артези-
+
+онная зависимость быстро достигала предельных зна- анской скважины  
+1·10–10 (0,98±0,30)·10–10 0,306 
+
+Drinking water from an 
+чений. 
+
+artesian hole 
+Линейность и предел обнаружения H2O2 для Дождевая вода  
+
+ГЭ-AgNPs-Cir и ГЭ-AgNPs-Bg-Citr представлены в (в черте города) – (2,35±0,45)·10–6 0,191 
+табл. 2. Rainwater (within the city) 
+
+Дождевая вода  
+(вдали от города) 
+
+Таблица 2.  Пределы обнаружения пероксида водорода – (5,88±1,57)·10–7 0,267 
+Rainwater  
+
+на сенсоре, полученном на основе наноча- (away from the city) 
+стиц серебра в модельных растворах  
+
+Table 2.  Detection limits of hydrogen peroxide at sensor Из представленных табличных данных видно, что 
+based on silver nanoparticles in model в городской черте экологическая обстановка по пе-
+solutions роксиду водорода благоприятна и не превышает пре-
+
+Интервал концентра- –6
+дельно допустимые значения (5,9·10  М). 
+
+ций, лежащий в линей-
+Предел обна- ной области градуиро-
+
+Выводы 
+Золь ружения, (М), вочного графика, (М) 
+Sol Detection limit, Range of concentrations 1. Показано, что форма и размер наночастиц серебра 
+
+(M) lying in the linear region зависят от природы восстановителя. При исполь-
+of the calibration graph 
+
+(M) зовании двух восстановителей – боргидрида и 
+Цитратный/Citrate 8,7∙10–11 1·10–10–10·10–10 цитрата натрия – получают частицы сферической 
+Боргидридцитратный формы наименьшего размера – от 0,5 до 17,5 нм. 
+
+5,3·10–11 0,8·10–10–3·10–10 
+Borohydridecitrate Вместе с тем больший размер – от 10 до 55 нм – и 
+
+ различную форму имеют наночастицы серебра, 
+Как видно из табл. 2, предложенный сенсор на ос- полученные с использованием цитрата натрия. 
+
+нове наночастиц серебра, полученных с использова- Наночастицы серебра, полученные с использова-
+нием восстановителей цитрата и боргидрида натрия, нием боргидрида натрия, агломерированы в це-
+более чувствительный по отношению к H2O2 в мо- почки размером до 65 нм.  
+дельных растворах. Предел ее обнаружения равен 2. Предложен механизм электрохимического окис-
+
+–11
+5,3·10  М. Вместе с тем недостатком данного сенсо- ления и восстановления нанофаз серебра на по-
+ра является узкий диапазон определяемых концен- верхности графитового электрода в 0,1 М NaOH. 
+
+–10 -10
+траций H2O2,  в интервале 0,8·10 –3·10  М. Сенсор Механизм электроокисления нанофаз серебра не 
+на основе наночастиц серебра, полученный с исполь- зависит от природы восстановителя. Особенно-
+зованием восстановителя цитрата натрия, имеет ши- стью электровосстановления нанофаз серебра, по-
+рокий диапазон определяемых концентраций (кон- лученных в присутствии цитрата натрия, является 
+центрация пероксида водорода на графике лежит в восстановление ионов серебра из комплексных 
+
+–10 –10
+пределах 1·10 –10·10  М), но менее чувствителен, –
+
+ионов [Ag(OH)
+–11 2] .  
+
+предел обнаружения H2O2 составляет 8,7∙10 М. 3. Показано, что для наночастиц серебра, получен-
+ГЭ-AgNPs-Bg-Citr является более чувствительным, ных в присутствии двух восстановителей, наблю-
+чем ГЭ-AgNPs-Citr, хотя линейный диапазон измеря- дается сдвиг потенциала на 100 мВ для анодного и 
+емых концентраций H2O2 в ГЭ-AgNPs-Bg-Citr мень- катодного максимумов как в положительную, так 
+ше, чем диапазон в ГЭ-AgNPs-Citr. Он составляет и в отрицательную область, соответственно, отно-
+примерно половину порядка определяемой концен- сительно наночастиц серебра, полученных с ис-
+трации. Для дальнейшего определения H2O2 в водных пользованием одного восстановителя. Этот ре-
+объектах был использован сенсор на основе наноча- зультат подтверждает образование более мелких 
+стиц серебра, полученных с использованием цитрата частиц, полученных в присутствии двух восстано-
+натрия. вителей, и коррелирует с результатами исследова-
+
+52 
+
+
+
+Известия Томского политехнического университета. Инжиниринг георесурсов. 2020. Т. 331. № 6. 48–56 
+Перевезенцева Д.О., Горчаков Э.В. Вольтамперометрическое определение пероксида водорода c помощью сенсоров на основе ... 
+
+ 
+ний, полученными с использование просвечива- 5. Вольтамперометрически определено содержание 
+ющей электронной микроскопии.  пероксида водорода в водных объектах – дождевой 
+
+–6
+4. Предложен сенсор на основе наночастиц серебра, воде в черте города, составило (2,35±0,45)·10  М, 
+
+–7
+полученных с использованием цитрата натрия, дождевой воде за городом (5,88±1,57)·10  М и ар-
+
+–10
+для определения пероксида водорода в модельных тезианской воде (0,98±0,30)·10  М. Данный сен-
+растворах с широким диапазоном определяемых сор позволяет определить пероксид водорода в 
+
+–10 –10
+концентраций (1·10 –10·10  М. Данный сенсор артезианской воде в концентрации, ниже предела 
+обладает следующими преимуществами: увеличе- обнаружения стандартных спектрофотометриче-
+нием времени эксплуатации, быстротой передачи ских и хроматографических методик его опреде-
+электрона, пониженным перенапряжением элек- ления.  
+трохимической реакции, увеличением чувстви-
+
+Работа выполнена в рамках повышения конкурентоспо-
+тельности сенсора и снижением предела обнару-
+
+–11 собности Томского политехнического университета и при 
+жения пероксида водорода (8,7∙10  М). частичной финансовой поддержке гранта РФФИ №19-03-
+
+00160а2019. 
+
+СПИСОК ЛИТЕРАТУРЫ 13. Liang С.H., He В. A titration method for determining individual 
+oxidant concentration in the dual sodium persulfate and hydrogen 
+
+1. Hydrogen peroxide and sodium hypochlorite disinfectants are 
+peroxide oxidation system // Chemosphere. – 2018. – V. 198. – 
+
+more effective against Staphylococcus aureus and Pseudomonas 
+P. 297–302. 
+
+aeruginosa biofilms than quaternary ammonium compounds / 
+14. Determination of hydrogen peroxide and triacetone triperoxide 
+
+C.B. Lineback, C.A. Nkemngong, S.T. Wu, P.J. Teska, 
+(TATP) with a silver – nanoparticles based turn-on colorimetric 
+
+H.F. Oliver // Antimicrobial Resistance and Infection Control. – 
+sensor / A. Üzer, S. Durmazel, E. Ercag, R. Apak // Sensors and 
+
+2018. – V. 7. – Article number: 154. DOI: 
+Actuators B: Chemical. – 2017. – V. 247. – P. 98–107. 
+
+doi.org/10.1186/s13756-018-0447-5 
+15. Pettas I.A., Karayannis M.I. Simultaneous spectra-kinetic 
+
+2. Cho P., Reyes S., Boost M.V. Microbiocidal characterization of a 
+determination of peracetic acid and hydrogen peroxide in a 
+
+novel povidone-iodine based rigid contact lens disinfecting 
+brewery cleaning in place disinfection process // Analytica 
+
+solution // Contact Lens and Anterior Eye. – 2018. – V. 41. – 
+Chimica Acta. – 2004. – V. 522. – P. 275–280.  
+
+№ 6. – P. 542–546. 
+16. Akio Makishima. Biochemistry for materials science. Catalysts, 
+
+3. Cembrowska-Lech D., Koprowski M., Kepczyński J. Germination 
+complexes and proteins. (chapter five topics of bioluminescence 
+
+induction of dormant Avena fatua caryopses by KAR1 and GA3 
+– and chemoluminescence). – England: Elsevier, 2019. – 329 p. 
+
+involving the control of reactive oxygen species (H2O2 and O2 ) 
+17. Amouroux D., Donard O.F.X. Hydrogen peroxide determination in 
+
+and enzymatic antioxidants (superoxide dismutase and catalase) 
+estuarine and marine waters by flow injection with fluorescence 
+
+both in the embryo and the aleurone layers // Journal of Plant 
+detection // Oceanologica Acta. – 1995. – V. 18. – P. 353–361. 
+
+Physiology. – 2015. – V. 176. – Р. 169–179. 
+18. Optimization of two methods for the analysis of hydrogen 
+
+4. The commonly used bactericide bismerthiazol promotes rice 
+peroxide: high performance liquid chromatography with 
+
+defenses against herbivores / P. Zhou, X. Mo, W. Wang, X. Chen, 
+fluorescence detection and high performance liquid 
+
+Y. Lou // International Journal of Molecular Sciences. – 2018. – 
+chromatography with electrochemical detection in direct current 
+
+V. 19. – № 5. – Article number 1271. 
+mode / M. Tarvina, B. McCord, K. Mount, K. Sherlachd, 
+
+5. Advancement in research on soil aeration and oxygation / H. Lei, 
+M.L. Miller // Journal of Chromatography A. – 2010. – V. 1217. – 
+
+S. Hu, H. Pan, X. Liu, K. Li // Acta Pedologica Sinica. – 2017. – 
+№ 48. – P. 7564–7572. 
+
+V. 54 (2). – Р. 297–308. 
+19. Fabrication of a novel electrochemical sensor for determination of 
+
+6. Wang Y., Lin Y., Chen L. Organic-phase biosensors for 
+hydrogen peroxide in different fruit juice samples / N. Nasirizadeh, 
+
+monitoring phenol and hydrogen peroxide in pharmaceutical 
+Z. Shekari, A. Nazari, M. Tabatabaee // Journal of food and drug 
+
+antibacterial products // Analyst. – 1993. – V. 118. – Р. 277–280. 
+analysis. – 2016. – V. 24. – № 1. – P. 72–82. 
+
+7. Hydrogen peroxide determination in pharmaceutical formulations 
+20. Kitte S.A., Assresaaahegn B.D., Soreta T.R. Electrochemical 
+
+and cosmetics using a new catalase biosensor / L. Campanella, 
+determination of hydrogen peroxide at a glassy carbon electrode 
+
+R. Roversi, M.P. Sammartino, M. Tomassetti // Journal of 
+modified with palladium nanoparticles // Journal of the Serbian 
+
+Pharmaceutical and Biomedical Analysis. – 1998. – V. 18. –  
+Chemical Society. – 2013. – V. 78. – № 5. – P. 701–711. 
+
+№ 1–2. – P. 105–116.  
+21. Prabhu P., Babu S., Narayanan S.S. Synergetic effect of Prussian 
+
+8. A summary on cutting edge advancements in sterilization and 
+blue film with gold nanoparticle graphite–wax composite electrode 
+
+cleaning technologies in medical, food, and drug industries, and its 
+for the enzyme-free ultrasensitive hydrogen peroxide sensor // 
+
+applicability to spacecraft hardware / R. Gradini, F. Chen, R. Tan, 
+Journal of Solid State Electrochemistry. – 2014. – V. 18. – № 4. – 
+
+L. Newlin // Life Sciences in Space Research. – 2019. – V. 23. – 
+P. 883–891. 
+
+Р. 31–49. 
+22. Xu S., Peng B., Han X. A third-generation H2O2 biosensor based 
+
+9. Contribution of free radicals to chlorophenols decomposition by 
+on horseradish peroxidase-labeled Au nanoparticles self-
+
+several advanced oxidation processes / F.J. Benitez, J.B. Heredia, 
+assembled to hollow porous polymeric nanospheres // Biosensors 
+
+J.L. Acero, F.J. Rubio // Chemosphere. – 2000. – V. 41. – № 8. – 
+and Bioelectronics. – 2007. – V. 22. – P. 1807–1810. 
+
+P. 1271–1277. 
+23. Ensafi A.A., Rezaloo F., Rezaei B. Electrochemical sensor based 
+
+10. Chen J., Rulkens W.H., Bruning H. Photochemical elimination of 
+on porous silicon/silver nanocomposite for the determination of 
+
+phenols and cod in industrial wastewaters // Water Science and 
+hydrogen peroxide // Sensors and Actuators B. – 2016. – V. 231. – 
+
+Technology. – 1997. – V. 35. – № 4. – P. 231–238.  
+P. 239–244. 
+
+11. Advanced oxidation of trace organics in water by hydrogen 
+24. Afraz A., Rafati A.A., Hajianet A. Analytical sensing of hydrogen 
+
+peroxide solar photolysis / M.R. Rojas, C. Leung, D. Whitley, 
+peroxide on Ag nanoparticles–multiwalled carbon nanotube-
+
+Y. Zhu, R.G. Arnold, A.E. Saez // Industrial and Engineering 
+modified glassy carbon electrode // Journal of Solid State 
+
+Chemistry Research. – 2011. – V. 50. – № 22. – P. 12479–12487.  
+Electrochemistry. – 2017. – V. 17. – № 7. – P. 2017–2025. 
+
+12. Моделирование условий биотрансформации кислорода бакте-
+25. Klassen N.V., Marchington D., Mcgowan H.C.E. H
+
+риями-органотрофами в пероксид водорода, стимулирующий 2O2 
+determination by the I5-method and by KMnO4 titration // Anal 
+
+коррозию цинка / А.А. Калинина, С.Ю. Радостин, А.С. Маке-
+Chem. – 1994. – V. 66. – Р. 2921–2925. 
+
+дошин, Т.Н. Соколова, В.Ф. Смирнов, В.Р. Карташов // Изве-
+26. Influence of silver nanoparticles conditions synthesis on their 
+
+стия ВУЗов. Прикладная химия и биотехнология. – 2017. – 
+electrochemical properties / D. Perevezentseva, E. Gorchakov, M. 
+
+Т. 7. – № 2. – С. 80–88. 
+Petrushin, I. Hismutdinov, V. Bimatov // AIP Conference 
+
+53 
+
+
+
+Известия Томского политехнического университета. Инжиниринг георесурсов. 2020. Т. 331. № 6. 48–56 
+Перевезенцева Д.О., Горчаков Э.В. Вольтамперометрическое определение пероксида водорода c помощью сенсоров на основе ... 
+
+  
+Proceedings: Prospects of Fundamental Sciences Development Monatshefte fur Chemie/Chemical Monthly. – 1998. – V. 129. – 
+(PFSD-2016). – 2016. – V. 1772. – Article number 020005. № 11. – P. 1103–1117. 
+
+27. Electrocatalytic oxidation of hydrogen peroxide on the graphite 31. Droog J.M.M., Huisman F. Electrochemical formation and 
+electrode based on silver nanoparticles / D. Perevezentseva,  reduction of silver oxides in alkaline medium // Journal of 
+E. Gorchakov, D. Fedotova, V. Bimatov, E. Triphonova // Key Electroanalytical Chemistry and Interfacial Electrochemistry. – 
+Engineering Materials. – 2017. – V. 743. – P. 287–291. 1980. – V. 115. – P. 211–224. 
+
+28. Меретуков М.А. Золото: химия, минералогия, металлургия. – 32. Electrochemical behaviour of silver in borate buffer solutions / 
+М.: ИД «Руда и металлы», 2008. – 528 с. A.M. Zaky, F.H. Assaf, S.A. Sayed, E.L. Rehim, B.M. Mohamed // 
+
+29. Giovanni M., Pumera M. Size dependent electrochemical behavior Applied Surface Science. – 2004. – V. 221. – № 1–4. – P. 349–357.  
+of silver nanoparticles with sizes of 10, 20, 40, 80 and 107 nm // 
+Electroanalysis. – 2012. – V. 24. – № 3. – P. 615–617. Поступила 22.02.2020 г. 
+
+30. Electrochemical behaviour of a silver electrode in NaOH solution / 
+S.S.A. Abdel-Rehim, H.H. Hassan, M.A.M. Ibrahim, M.A. Amin // 
+ 
+
+Информация об авторах 
+
+Перевезенцева Д.О., кандидат химических наук, доцент отделения естественных наук Школы инженерной 
+базовой подготовки Национальный исследовательский Томский политехнический университет. 
+Горчаков Э.В., кандидат химических наук, доцент кафедры терапии и фармакологии Ставропольский государ-
+ственный аграрный университет. 
+
+ 
+  
+
+54 
+
+
+
+Perevezentseva D.O. et al. / Bulletin of the Tomsk Polytechnic University. Geo Аssets Engineering. 2020. V. 331. 6. 48–56 
+ 
+
+ 
+UDK 551.5: 544.653.22 
+
+VOLTAMMETRIC DETERMINATION OF HYDROGEN PEROXIDE USING SENSORS BASED  
+ON SILVER NANOPARTICLES IN OBJECTS OF TECHNOGENIC AND GEOLOGICAL ORIGIN 
+
+Darya O. Perevezentseva1,  
+dop@tpu.ru  
+
+Eduard V. Gorchakov2,  
+gorchakovedvard@mail.ru 
+
+1 National Research Tomsk Polytechnic University,  
+30, Lenin avenue, Tomsk, 634050, Russia. 
+
+2 Stavropol State Agrarian University,  
+12, Zootechnicheskiy street, Stavropol, 355017, Russia. 
+
+ 
+The research deals with determination of low levels of hydrogen peroxide in objects of technogenic and geological origins. 
+The aim of the work was to develop a sensitive sensor based on silver nanoparticles to detect hydrogen peroxide in water objects. 
+Objects: artesian and rainwater collected in the city and suburbs. 
+Methods: voltammetry, transmission microscopy.  
+Results. The shape, size and amount of silver nanoparticles depend on the nature of the reducing agent. When using two reducing agents of 
+borohydride and sodium citrate, the smallest spherical particles – from 0,5 to 17,5 nm, are obtained. When using sodium citrate, larger silver 
+nanoparticles – from 10 to 55 nm, in various shapes are obtained. They are as follows: rod-shaped, prismatic, triangular with a particle size 
+from 10 to 55 nm. AgNPs-Bg have a rod-like and prismatic shapes 5–65 nm in size, connected in chains, i. e. agglomerated. The mechanism 
+of electrochemical processes of silver nanophase transition on the surface of graphite electrode to 0,1 M NaOH in the presence of various 
+reducing agents is proposed. This mechanism does not depend on the nature of the reducing agent. A feature of electroreduction of silver 
+nanophase obtained in the presence of citrate potassium is the reduction of silver ions from the complex ions [Ag(OH)2]–. The authors have 
+proposed the mechanism of electrochemical transition processes of silver nanophase in the presence of various reducing agents. It was found 
+that the cathode maxima at Ес=0,08 V corresponds to hydrogen peroxide reduction. Using a sensor based on the silver nanoparticles obtained 
+in the presence of sodium citrate the dependence of the current of the maximum on hydrogen peroxide concentration was linear – in the range 
+from 0,1–1 nM, and the detection limit was 0,087 nM. The content of hydrogen peroxide in rain and artesian water was determined. The 
+proposed sesor modified by silver nanoparticles obtained in presence of sodium citrate is simple, rapid, and sensitive. This sensor has a wide 
+range of concentrations for determination of hydrogen peroxide.  
+
+ 
+Key words:  
+Hydrogen peroxide, silver nanoparticles, cyclic voltammetry, electrochemical sensor, objects of technogenic and geological origin, ecology. 
+
+ 
+
+The research was carried out within the improving the competitiveness of Tomsk Polytechnic University and at partial financial 
+support of the grant RFBR no. 19-03-00160а2019. 
+
+ 
+REFERENCES 7. Campanella L., Roversi R., Sammartino M.P., Tomassetti M. 
+
+Hydrogen peroxide determination in pharmaceutical formulations and 
+1. Lineback C.B., Nkemngong C.A., Wu S.T., Teska P.J., 
+
+cosmetics using a new catalase biosensor. Journal of Pharmaceutical 
+Oliver H.F. Hydrogen peroxide and sodium hypochlorite 
+
+and Biomedical Analysis, 1998, vol. 18, no. 1–2, рр. 105–116. 
+disinfectants are more effective against Staphylococcus aureus and 
+
+8. Gradini R., Chen F., Tan R., Newlin L.A summary on cutting edge 
+Pseudomonas aeruginosa biofilms than quaternary ammonium 
+
+advancements in sterilization and cleaning technologies in medical, 
+compounds. Antimicrobial Resistance and Infection Control, 2018, 
+
+food, and drug industries, and its applicability to spacecraft 
+vol. 7 (1), Article number 154. DOI: doi.org/10.1186/s13756-018-
+
+hardware. Life Sciences in Space Research, 2019, vol. 23, рр. 31–49. 
+0447-5 
+
+9. Benitez F.J., Heredia J.B., Acero J.L., Rubio F.J. Contribution of 
+2. Cho P., Reyes S., Boost M.V. Microbiocidal characterization of a 
+
+free radicals to chlorophenols decomposition by several advanced 
+novel povidone-iodine based rigid contact lens disinfecting solution. 
+
+oxidation processes. Chemosphere, 2000, vol. 41, no. 8,  
+Contact Lens and Anterior Eye, 2018, vol. 41, no. 6, рр. 542–546. 
+
+рр. 1271–1277. 
+3. Cembrowska-Lech D., Koprowski M., Kepczyński J. Germination 
+
+10. Chen J., Rulkens W.H., Bruning H. Photochemical elimination of 
+induction of dormant Avena fatua caryopses by KAR1 and GA3 
+
+- phenols and cod in industrial wastewaters. Water Science and 
+involving the control of reactive oxygen species (H2O2 and O2 )  
+
+Technology, 1997, vol. 35, no. 4, рр. 231–238.  
+and enzymatic antioxidants (superoxide dismutase and catalase) 
+
+11. Rojas M.R., Leung C., Whitley D., Zhu Y., Arnold R.G., 
+both in the embryo and the aleurone layers. Journal of Plant 
+
+Saez A.E. Advanced oxidation of trace organics in water by 
+Physiology, 2015, vol. 176, рр. 169–179. 
+
+hydrogen peroxide solar photolysis. Industrial and Engineering 
+4. Zhou P., Mo X., Wang W., Chen X., Lou Y. The commonly used 
+
+Chemistry Research, 2011, vol. 50, no. 22, рр. 12479–12487. 
+bactericide bismerthiazol promotes rice defenses against 
+
+12. Kalinina A.A., Radostin S.Yu., Makedoshin A.S., Sokolova T.N., 
+herbivores. International Journal of Molecular Sciences, 2018, 
+
+Smirnov V.F., Kartashov V.R. Modelirovanie usloviy 
+vol. 19, no. 5, article number 1271. 
+
+biotransformatsii kisloroda bakteriyami organotrofami v peroksid 
+5. Lei H., Hu S., Pan H., Liu X., Li K. Advancement in research on 
+
+vodoroda, stimuliruyushchiy korroziyu tsinka [Modeling the 
+soil aeration and oxygation. Acta Pedologica Sinica, 2017, 
+
+conditions of oxygen biotransformation by organotrophic bacteria 
+vol. 54 (2), рр. 297–308. 
+
+into hydrogen peroxide, which stimulates zinc corrosion]. Izvestiya 
+6. Wang Y., Lin Y., Chen L. Organic-phase biosensors for 
+
+VUZov. Prikladnaya khimiya i biotekhnologiya, 2017, vol. 7, 
+monitoring phenol and hydrogen peroxide in pharmaceutical 
+
+no. 2, рр. 80–88.  
+antibacterial products. Analyst, 1993, vol. 118, рр. 277–280. 
+
+55 
+
+
+
+Perevezentseva D.O. et al. / Bulletin of the Tomsk Polytechnic University. Geo Аssets Engineering. 2020. V. 331. 6. 48–56 
+ 
+
+  
+13. Liang С.H., He В. A titration method for determining individual 23. Ensafi A.A., Rezaloo F., Rezaei B. Electrochemical sensor based 
+
+oxidant concentration in the dual sodium persulfate and hydrogen on porous silicon/silver nanocomposite for the determination of 
+peroxide oxidation system. Chemosphere, 2018, vol. 198, рр. 297–302. hydrogen peroxide. Sensors and Actuators B, 2016, vol. 231, 
+
+14. Üzer A., Durmazel S., Ercag E., Apak R. Determination of рр. 239–244. 
+hydrogen peroxide and triacetone triperoxide (TATP) with a silver 24. Afraz A., Rafati A.A., Hajianet A. Analytical sensing of hydrogen 
+– nanoparticles based turn-on colorimetric sensor. Sensors and peroxide on Ag nanoparticles–multiwalled carbon nanotube-
+Actuators B: Chemical, 2017, vol. 247, рр. 98–107. modified glassy carbon electrode. Journal of Solid State 
+
+15. Pettas I.A., Karayannis M.I. Simultaneous spectra-kinetic Electrochemistry, 2017, vol. 17, no. 7, рр. 2017–2025.  
+determination of peracetic acid and hydrogen peroxide in a 25. Klassen N.V., Marchington D., Mcgowan H.C.E. H2O2 
+
+-
+brewery cleaning in place disinfection process. Analytica Chimica determination by the I3 method and by KMnO4 titration. Anal 
+Acta, 2004, vol. 522, рр. 275–280. Chem, 1994, vol. 66, рр. 2921–2925. 
+
+16. Akio Makishima. Biochemistry for materials science. Catalysts, 26. Perevezentseva D., Gorchakov E., Petrushin M., Hismutdinov I., 
+complexes and proteins. (chapter five topics of bioluminescence Bimatov V. Influence of silver nanoparticles conditions synthesis 
+and chemoluminescence). England, Elsevier, 2019. 329 p.  on their electrochemical properties. AIP Conference Proceedings: 
+
+17. Amouroux D., Donard O.F.X. Hydrogen peroxide determination in Prospects of Fundamental Sciences Development (PFSD-2016), 
+estuarine and marine waters by flow injection with fluorescence 2016, vol. 1772, article number 020005. 
+detection. Oceanologica Acta, 1995, vol.18, рр. 353–361. 27. Perevezentseva D., Gorchakov E., Fedotova D., Bimatov V., 
+
+18. Tarvina M., McCord B., Mount K., Sherlachd K., Miller M.L. Triphonova E. Electrocatalytic oxidation of hydrogen peroxide on 
+Optimization of two methods for the analysis of hydrogen the graphite electrode based on silver nanoparticles. Key 
+peroxide: High performance liquid chromatography with Engineering Materials, 2017, vol. 743, рр. 287–291. 
+fluorescence detection and high performance liquid 28. Meretukov M.A. Zoloto: khimiya, mineralogiya, metallurgiya 
+chromatography with electrochemical detection in direct current [Gold: chemistry, mineralogy, metallurgy]. Moscow, Ruda i 
+mode. Journal of Chromatography A, 2010, vol. 1217, no. 48, metally Publ., 2008. 528 р. 
+рр. 7564–7572. 29. Giovanni M., Pumera M. Size dependent electrochemical behavior 
+
+19. Nasirizadeh N., Shekari Z., Nazari A., Tabatabaee M. Fabrication of silver nanoparticles with sizes of 10, 20, 40, 80 and 107 nm. 
+of a novel electrochemical sensor for determination of hydrogen Electroanalysis, 2012, vol. 24, no. 3, рр. 615–617. 
+peroxide in different fruit juice samples. Journal of food and drug 30. Sayed S.A., Abdel-Rehim, Hassan H.H., Ibrahim M.A.M., 
+analysis, 2016, vol. 24, no. 1, рр. 72–82. Amin M.A. Electrochemical Behaviour of a Silver Electrode in 
+
+20. Kitte S.A., Assresaaahegn B.D., Soreta T.R. Electrochemical NaOH Solution. Monatshefte fur Chemie/Chemical Monthly, 1998, 
+determination of hydrogen peroxide at a glassy carbon electrode vol. 129, no. 11, рр. 1103–1117. 
+modified with palladium nanoparticles. Journal of the Serbian 31. Droog J.M.M., Huisman F. Electrochemical formation and 
+Chemical Society, 2013, vol. 78, no. 5, рр. 701–711.  reduction of silver oxides in alkaline medium. Journal of 
+
+21. Prabhu P., Babu S., Narayanan S.S. Synergetic effect of Prussian Electroanalytical Chemistry and Interfacial Electrochemistry, 
+blue film with gold nanoparticle graphite–wax composite electrode 1980, vol. 115, рр. 211–224. 
+for the enzyme-free ultrasensitive hydrogen peroxide sensor. Journal 32. Zaky A.M., Assaf F.H., Sayed S.A., Rehim E.L., Mohamed B.M. 
+of Solid State Electrochemistry, 2014, vol. 18, no. 4, рр. 883–891. Electrochemical behaviour of silver in borate buffer solutions. 
+
+22. Xu S., Peng B., Han X. A third-generation H2O2 biosensor based Applied Surface Science, 2004, vol. 221, no. 1–4, рр. 349–357. 
+on horseradish peroxidase-labeled Au nanoparticles self-
+assembled to hollow porous polymeric nanospheres. Biosensors Received: 22 February 2020. 
+and Bioelectronics, 2007, vol. 22, рр. 1807–1810.  
+ 
+
+Information about the authors 
+
+Darya O. Perevezentseva, Cand. Sc., associate professor, National Research Tomsk Polytechnic University. 
+
+Eduard V. Gorchakov, Cand. Sc., associate professor, Stavropol State Agrarian University. 
+
+  
+
+56

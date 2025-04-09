@@ -1,0 +1,599 @@
+﻿ШВЕЙНОЕ ПРОИЗВОДСТВО 
+ 
+
+УДК 681.021  https://doi.org/10.24412/2617-149X-2020-1-11-18 
+
+Виртуальное 3D-эскизирование в имитационном 
+проектировании и конфекционировании меховой одежды 
+
+ 
+В.С. Белгородский, М.А. Гусеваa, Е.Г. Андреева, М.И. Алибекова 
+
+ФГБОУ ВО Российский государственный университет имени А.Н. Косыгина  
+(Технологии. Дизайн. Искусство), Российская Федерация 
+
+aE-mail: guseva_marina67@mail.ru 
+
+Аннотация. В статье рассмотрены интерактивные технологии поиска композиционного решения одежды в 
+виртуальной среде графических САПР. На этапе эскизной проработки проектируемого изделия предложено 
+представлять визуальную информацию об объемно-пространственной форме объекта с помощью 3D 
+графических симуляторов, а на этапе конфекционирования добавлять к ней виртуальное отображение фактуры 
+материала. Промышленная апробация визуализации моделей меховых изделий проведена на основе 
+виртуального макетирования в графической САПР CLO3D, позволяющего в реальном времени вносить 
+изменения в конструктивно-технологическое решение модели и оперативно корректировать конфигурацию 
+плоских шаблонов деталей конструкции, исходя из интерактивных пожеланий заказчика. 
+
+ 
+Ключевые слова: меховая одежда, выделка и отделка меха, виртуальное эскизирование, макетирование и 
+
+примерка одежды. 
+
+Virtual 3D Sketching in Imitation Design and Confectioning  
+of Fur Clothes 
+
+ 
+V. Belgorodsky, M. Gusevaa, E. Andreeva, M. Alibekova 
+Kosygin State University of Russia, Russian Federation 
+
+aE-mail: guseva_marina67@mail.ru 
+
+Annotation. The article discusses interactive technologies for finding a compositional solution of clothing in a virtual 
+environment of graphic CAD systems. At the stage of sketching the designed product, it was proposed to present visual 
+information about the volumetric-spatial shape of an object using 3D graphic simulators, and at the stage of confectioning, 
+add to it a virtual display of the texture of the material. Industrial approbation of visualization of models of fur products 
+was carried out on the basis of virtual prototyping in graphic CAD CLO3D, which allows real-time changes in the design 
+and technological solution of the model and promptly adjust the configuration of flat templates of construction parts based 
+on the interactive wishes of the customers. 
+
+ 
+Key words: fur clothes, dressing and finishing of fur, virtual sketching, prototyping and fitting of clothes. 
+ 
+
+ВВЕДЕНИЕ получить желаемые эстетические (колористика, 
+Стремительное развитие меховой моды, шелковистость, блеск, гладкость) [12] и 
+
+основанное на техническом прогрессе в отрасли [1], эксплуатационные (легкость, мягкость, пластичность) 
+привело к существенному сокращению цикличности характеристики меха [13], отвечающие 
+модного периода, по сравнению с прошлым веком [2, потребительским требованиям к качеству меха [14] и 
+С. 14‒15]. Расширению ассортимента и заметному повышающие привлекательность и респектабельность 
+обновлению дизайна меховой одежды [3, 4] [15] изделий. Осведомленность потребителей в 
+способствует интеграция традиционных [5, 6] и тенденциях развития мировой меховой моды [16] и 
+инновационных технологий выделки и отделки стремление к индивидуализации образа [17] 
+пушно-меховых шкурок [7, 8]. Благодаря увеличению способствовали внедрению в производственный 
+выпуска более экономичных видов меха, волосяной процесс этапов виртуального эскизирования [18]. Для 
+покров которых, благодаря отделочным операциям, коммуникативного обсуждения с клиентами дизайна 
+достоверно имитирует свойства дорогих шкурок [9], моделей, особенностей конструктивно-
+модные меховые изделия из натурального меха стали технологического решения, зависящего от свойств 
+не только доступны более широким группам выбранного меха, востребованы современные 
+населения [10]. Современные подходы к отделке графические 3D-симуляторы, достоверно 
+волосяного покрова и кожевой ткани [11] позволяют 
+
+ _________________________________________________________________________________________________  
+  МАТЕРИАЛЫ И ТЕХНОЛОГИИ, 2020, №1 (5)                                                                                                              11 
+ 
+
+
+
+ШВЕЙНОЕ ПРОИЗВОДСТВО 
+ 
+визуализирующие внешний облик проектируемого своей фигуре, а иногда и изменять цвет или  
+объекта [19], свойства и фактуру материала [20]. текстуру используемого материала [28]. При 
+
+ персонифицированном подходе промышленного 
+ПЕРСПЕКТИВЫ ИСПОЛЬЗОВАНИЯ изготовления изделий без заметного роста 
+ГРАФИЧЕСКИХ 3D-СИМУЛЯТОРОВ  себестоимости изделия в его модельную конструкцию 
+НА ЭТАПЕ ЭСКИЗИРОВАНИЯ МЕХОВОЙ могут быть внесены изменения длины изделия и 
+ОДЕЖДЫ В САПР рукавов, формы воротника, положения и формы 
+
+На большинстве предприятиях легкой карманов, декоративной отделки и др. Анализ 
+промышленности процесс проектирования одежды практической персонификации изделий, 
+автоматизирован [21], развиваются трехмерные изготавливаемых в массовом производстве 
+технологии конструирования, позволяющие показывает, что для клиентов важное значение  
+генерировать на экране компьютера  имеет возможность заранее дистанционно визуально 
+3D-изображения одежды на виртуальной фигуре [22]. оценить заказанное изделие по виртуальному 
+Однако, современные САПР одежды чаще всего лишь представлению выбранной модели. Для этого  
+симулируют виртуальную примерку, не предоставляя полезно не только показать заказчику примерку 
+конструктору возможности получить достоверную изделия выбранного покроя и силуэта на виртуальной 
+развертку поверхности изделий с хорошим качеством фигуре, но и модернизировать виртуальный аватар  
+посадки [23]. В трехмерных модулях САПР одежды в соответствии с внешним образом клиента. 
+цифровые аналоги фигур человека представлены с Интуитивно клиент больше доверяет изображению, 
+высокой степенью достоверности благодаря хорошей которое обладает чертами, похожими на его 
+проработке рельефа поверхности тела [24] и телосложение, лицо, прическу. 
+имеющейся возможности корректировать типовые Исходя из вышеизложенного, можно 
+манекены с учетом особенностей осанки и пропорций рекомендовать предприятиям оснащать имеющиеся 
+конкретных фигур и демонстрировать типичные САПР дополнительным графическим 
+движения человека на анимированном аватаре [25]. инструментарием (3D-симуляторами) для 
+Для визуализации проектируемой одежды использования на этапе эскизирования. Современные 
+разработчики предлагают библиотеки изображений 3D-симуляторы укомплектованы базами аватаров, 
+фактуры материалов. И если трехмерные изображения которых можно трансформировать для имитации 
+базовых форм изделий малых объемов отображаются телосложения, пропорций и осанки индивидуальных 
+достаточно реалистично, то с изменением силуэта, фигур и использовать в режиме графического 
+покроя, материалов изделия виртуальные модели рендеринга для эскизирования внешней поверхности 
+теряют достоверность. Тем не менее для большинства проектируемых моделей одежды. Для отображения 
+потребителей, не знакомых со спецификой сложной фактуры меховой поверхности можно 
+проектирования одежды, уровень представления задавать параметры карты настройки так, чтобы 
+визуальной информации о предлагаемых к продаже достоверно имитировать блеск и извитость волосяного 
+изделиях воспринимается вполне приемлемым. На покрова, вариативность длины волос и их наклона. 
+настоящий момент представление клиентам Современное цифровое проектирование меховой 
+выбираемых моделей одежды на фигурах, имеющих одежды опирается на компьютерное программное 
+визуальное сходство с телосложением потребителя, обеспечение и цифровые базы данных [12, 29], 
+несет в большей степени маркетинговую нагрузку, позволяющие обеспечить качественный и быстрый 
+заинтересовывая покупателя привлекательностью подбор меха на изделие с учетом особенностей 
+сформированного образа [26] и подталкивая к покупке фактуры волосяного покрова и кожевой ткани для 
+выбранного изделия [27]. максимального использования площади каждого 
+
+Дизайнеры и конструкторы современных швейных мехового полуфабриката и снижения количества 
+предприятий обладают знаниями и компетенциями шкурок на изделие. В процессе проектирования на 
+для работы с универсальными и этапе конфекционирования мехового изделия важно 
+специализированными компьютерными программами выбрать мех, в наибольшей степени подходящий 
+САПР и других графических приложений. На  художественному замыслу дизайнера и учитывающий 
+развитие глобального рынка производителей и требования заказчика. 
+покупателей существенно влияет высокая  
+вовлеченность молодых поколений в виртуальную РЕЗУЛЬТАТЫ ЭКСПЕРИМЕНТАЛЬНОГО 
+среду, не только отражающую современные модные ИССЛЕДОВАНИЯ 
+тенденции, но и способствующую интерактивному Для промышленной апробации на меховых 
+участию потребителей в процессах выбора предприятиях модуля 3D-визуализации дизайнерских 
+подходящей одежды и даже частичного изменения работ, предназначенного для интерактивного 
+её дизайна. Клиенты все чаще заинтересованы проектирования одежды с учетом актуальных 
+заказывать не только модели одежды из пожеланий клиентов проведено виртуальное 
+представленного ассортимента конкретных симулирование примерки проектируемой модели 
+производителей, но и участвовать в процессе их одежды с помощью графической программы  
+модификации, прежде всего желая получить более CLO3D. С этой целью для визуализации фактуры 
+качественную посадку покупаемого изделия на  волосяного покрова меха в программе Adobe 
+
+ _________________________________________________________________________________________________  
+  12                                                                                                                          МАТЕРИАЛЫ И ТЕХНОЛОГИИ, 2020, №1 (5)  
+ 
+
+
+
+ШВЕЙНОЕ ПРОИЗВОДСТВО 
+ 
+
+Photoshop создан градиент с диапазоном высот до  высота волосяного покрова, варьирующаяся для 
+164 мм. Экспорт файла в формате jpg в среду CLO3D разных видов меха и обуславливающая выбор 
+позволил получить пользователю доступ к командам конструктивного и технологического решений 
+управления текстурой (Texture) изображений и выбору проектируемых моделей. В САПР CLO3D 
+длины волосяного покрова (Lenth) в окне property визуализация густоты и опушенности меховой 
+editor (рис.1). поверхности выполняется параметром Bend: чем 
+
+В соответствии с эскизом дизайнера для меньше значение параметра Bend, тем пушистее 
+изготовления изделия можно выбирать мех, имеющий визуализируется виртуальная поверхность меха. 
+визуальное сходство, но отличающийся другими Параметр Segments позволяет настраивать точность 
+свойствами. На визуальное восприятие фактуры меха изгиба волосков (табл. 1). 
+заметное влияние оказывают опушённость, густота и 
+
+ 
+
+ 
+ 
+
+Рисунок 1 ‒ Работа с фактурой материала в САПР CLO3D:  
+а – окно Texture с командами управления текстурой изображений;  
+
+б – визуализация работ с текстурой материалов 
+ 
+
+Таблица 1 ‒ Матрица управления свойствами опушенности виртуального аналога меховой 
+поверхности (фрагмент) 
+
+Параметры настройки визуализации 
+№ модели Окно визуализации 
+
+изображений 
+
+1 2 3 
+
+Bend = 0 Модель 1 
+Segments = 
+
+ 
+Bend = 0.1 Модель 2 
+Segments = 5 
+
+ 
+ _________________________________________________________________________________________________  
+  МАТЕРИАЛЫ И ТЕХНОЛОГИИ, 2020, №1 (5)                                                                                                              13 
+ 
+
+
+
+ШВЕЙНОЕ ПРОИЗВОДСТВО 
+ 
+
+Окончание таблицы 1 
+
+1 2 3 
+
+Bend = 0.1 Модель 3 
+Segments = 10 
+
+ 
+ 
+
+Виртуальное макетирование в графической САПР Преимуществом цифрового макетирования в 
+CLO3D позволяет не только оценить качество посадки графической среде 3D САПР-симуляторов является 
+проектируемой модели одежды, но и прогнозировать возможность просмотра и корректировки 
+пространственную конфигурацию модели, пластику конфигурации плоских шаблонов деталей  
+формы, выбрать параметры декора, выражаемые модельных конструкций в соответствии нанесенными 
+неравномерностью толщины оболочки виртуального на 3D-модель линиями членений (рис 3). 
+изделия (рис. 2). 
+
+ 
+
+ 
+ 
+
+Рисунок 2 ‒ Виртуальная примерочная: а – модель-аналог; б, в, г – варианты проектируемой модели 
+
+ 
+
+ 
+
+Рисунок 3 ‒ Визуализация расположения декора и геометрии плоских шаблонов деталей  
+модельной конструкции 
+
+ _________________________________________________________________________________________________  
+  14                                                                                                                          МАТЕРИАЛЫ И ТЕХНОЛОГИИ, 2020, №1 (5)  
+ 
+
+
+
+ШВЕЙНОЕ ПРОИЗВОДСТВО 
+ 
+
+ВЫВОДЫ И РЕКОМЕНДАЦИИ Интенсификация непосредственного виртуального 
+Экспериментальная визуализация проектируемых общения потребителей, лояльных к определенным 
+
+моделей из меха в 3D-графических программах торговым маркам, с их производителями напрямую 
+показала, что для успешного внедрения на зависит от скорости формирования и качества 
+промышленных предприятиях виртуальных визуализации образа моделей одежды, 
+симуляторов посадки одежды необходимо представляемых на торговых площадках в  
+формировать пополняемые базы данных виртуальных Интернете. Рендеринг изображения в модулях 
+аватаров типовых и индивидуальных фигур симуляции САПР требует значительного времени от 
+потребителей, библиотек фактур меховых специалиста, поэтому для оптимизации этого  
+поверхностей, колористического и декоративного процесса важно дальнейшее совершенствование 
+оформления изделий, конструктивно- программной среды путем аккумулирования 
+технологических проектных решений и т.д. накопленной графической информации.
+
+CПИСОК ЛИТЕРАТУРЫ 
+
+1. Анализ современного развития меховой моды / М. А. Гусева // Костюмология. – 2020. – Т. 5, № 1. –  
+С. 10.  
+
+2. Кутюшев, Ф. С. Скорняжное производство / Ф. С. Кутюшев. – М. : Легпромбытиздат, 1989. – 224 с. 
+3. Cai L. Fur fashion design / Cai L., Yu X. – Shanghai : Donghua University Press, 2009. – 249 p. 
+4. Xu T. Study on the innovative design of fur clothing / Xu T., Fang M., Li G. D. // Advanced Materials  
+
+Research. – 2011, Vol. 331, Sept. – P. 586–589. 
+5. Аронина, Ю. Н. Технология выделки и крашения меха / Ю. Н. Аронина. –  М. : Легпромбытиздат,  
+
+1986. – 144 с.  
+6. Austin, W. E. Principles and practice of fur dressing and fur dyeing / W. E. Austin. – North Charleston : 
+
+CreateSpace, 2013. – 130 p. 
+7. Гусева, М. А. Инновационный подход к проектированию меховой одежды / М. А. Гусева,  
+
+Е. Г. Андреева // Сборник научных трудов Международного научно-технического симпозиума «Современные 
+задачи инженерных наук». – М. : РГУ им. А. Н. Косыгина, 2017. – С. 42–47. 
+
+8. Новиков, М. В. Инновационные подходы к обработке кожевенного сырья и декоративной отделке 
+полуфабриката / М. В. Новиков, А. В. Щербакова, В. В. Рябко // Сборник статей Международной юбилейной 
+научно-практической конференции «Методология и практика современного товароведения: актуальные  
+вопросы и пути совершенствования». – М. : МГАВМиБ, 2014. – С. 184–193. 
+
+9. Исследование свойств шкурок серебристо-черной лисицы и искусственного меха, имитирующего её 
+окрас, для цифрового конфекционирования материалов для одежды / М. В. Новиков [и др.] // Территория новых 
+возможностей // Вестник ВГУЭС. – 2020. – Т. 12, № 2 (49). – С. 158–167.  
+
+10. Социальной значимости меха на национальном и глобальном рынках / М. А. Гусева [и др.] // Сборник 
+научных трудов Международного научно-технического симпозиума «Современные инженерные проблемы в 
+производстве товаров народного потребления». – М. : РГУ им. А. Н. Косыгина, 2019. – Ч. 1. – С. 56–62. 
+
+11. Технологии воздействия на структуру меха для управления конструкторско-технологическими 
+свойствами изделия / М. А. Гусева [и др.] // Материалы и технологии. – 2019. – № 2 (4). – С. 27–39. 
+
+12. Базовые цифровые шкалы эстетических и геометрических свойств меха : пат. RU 2019620409 /  
+М. А. Гусева, М. В. Новиков, Е. Г. Андреева, В. С. Белгородский, И. А. Петросова, Н. А. Балакирев. – Опубл. 
+15.03.2019. 
+
+13. Износостойкость волосяного покрова пушных полуфабрикатов, имеющих визуальное сходство /  
+М. В. Новиков, М. А. Гусева, Е. Г. Андреева // Сборник статей I Межрегиональной научно-практической 
+конференции «Актуальные проблемы социально-экономического развития современного общества». – Киров : 
+КГМУ, 2020. – С. 233–237.  
+
+14. Белгородский, В. С. Цифровизация показателей качества меха в системе сквозного проектирования 
+меховых изделий / В. С. Белгородский // Текстильная и лёгкая промышленность. – 2019. – №1. – С. 18–22. 
+
+15. Harpera, C. I found myself inside her fur / C. Harpera // Textile : The Journal of Cloth and culture. – 2008. – 
+Vol. 6, iss. 3. – P. 300–313. 
+
+16. Fashion marketing в современной индустрии меховой одежды / М. А. Гусева [и др.] // Текстильная и лёгкая 
+промышленность. – 2019, № 2–3. – С. 22–26. 
+
+17. Интерактивный дизайн в производстве меховой одежды / М. А. Гусева, Е. Г. Андреева,  
+М. И. Алибекова // Сборник материалов Международной научной конференции «Тенденции развития лёгкой 
+промышленности Республики Узбекистан: проблемы, анализ и решения», 2020. – С. 114–120. 
+
+18. Cубтехнологии виртуального эскизирования для дизайна и редизайна меховой одежды / М. А. Гусева  
+[и др.] // Сборник материалов XVI Международной научно-практической конференции «Кожа и мех в XXI веке: 
+технология, качество, экология, образование». – Улан-Удэ : ВСГУТУ, 2020. – С. 128–134. 
+
+19. Имитационное проектирование швейных изделий совмещением трехмерных виртуальных образов /  
+М. А. Гусева [ и др.] // Известия вузов. Технология легкой промышленности. – 2019. – Т. 44, № 2. – С. 26–33. 
+
+ _________________________________________________________________________________________________  
+  МАТЕРИАЛЫ И ТЕХНОЛОГИИ, 2020, №1 (5)                                                                                                              15 
+ 
+
+
+
+ШВЕЙНОЕ ПРОИЗВОДСТВО 
+ 
+
+20. Графический рендеринг в имитационном проектировании поверхности меховой одежды / М. А. Гусева  
+[и др.] // Сборник материалов Международной научной студенческой конференции «Инновационное развитие 
+легкой и текстильной промышленности». – М. : РГУ им. А. Н. Косыгина, 2019. – Часть 1. – С. 209–212. 
+
+21. Цифровизация сквозного проектирования меховых изделий / М. А. Гусева [и др.] // Сборник статей 
+Республиканской научно-практической конференции «Актуальные проблемы инновационных технологий и их 
+решения в условиях интеграции науки, образования, производства в полиграфии, хлопкоочистительной, 
+текстильной и легкой промышленности». – Ташкент : ТИТЛП, 2019. – Ч. 2.  – С. 409–412. 
+
+22. Volino, P. Accurate garment prototyping and simulation / P. Volino, N. Magnenat-Thalmann // Computer-Aided 
+Design and Applications. – 2005, Vol.2, iss. 5. – P. 645–654. 
+
+23. Baytar, F. An exploratory study of interaction patterns around the use of virtual apparel design and try-on 
+technology / F. Baytar, S. Ashdown // The Journal of Design, Creative Process & the Fashion Industry. – 2015, Vol.7, 
+iss.1. – P. 31–52. 
+
+24. Park, S. M. Multi purpose three dimensional body form / Sun Mi Park, Kueng Mi Choi, Yun Ja Nam, Young‐A 
+Lee // International Journal of Clothing Science and Technology. – 2011, Vol. 23, iis.1. – P. 8–24. 
+
+25. Personalized 3D mannequin reconstruction based on 3D scanning / Peng Peng Hu [et al.]  // International Journal 
+of Clothing Science and Technology. – 2018, Vol. 30, iss. 2. – P. 159–174. 
+
+26. Алибекова, М. И. Архитектоника формы в композиции костюма : монография / М. И. Алибекова,  
+С. В. Белгородский, Е. Г. Андреева. – М. : РГУ им. А. Н. Косыгина, 2020. – 221 с. 
+
+27. Гетманцева, В. В. Методы интеллектуализации процесса проектирования одежды: монография /  
+В. В. Гетманцева, Е. Г. Андреева, В. С. Белгородский. – М. : Научная библиотека, 2020. – 200 с. 
+
+28. Рогожин, А. Ю. Имитационная модель процесса формообразования поверхности одежды /  
+А. Ю. Рогожин, М. А. Гусева, Е. Г. Андреева // Дизайн и технологии. – 2018. – № 63 (105). – С. 47–49. 
+
+29. Параметризация художественно-конструктивных характеристик шкур овец и изделий из них : пат. RU 
+2019621729 / М. А. Гусева,  Е. Г. Андреева , В. С. Белгородский, И. А. Петросова, В. В. Гетманцева, М. В. Новиков, 
+Н. А. Балакирев , Ю. А. Юлдашбаев . – Опубл. 09.10.2019. 
+
+REFERENCES 
+
+1. Analysis of modern development of fur fashion / M. A. Guseva // Kostyumologiya. – 2020, T. 5, No. 1. – P. 10. 
+2. Kutyushev, F. S. Furry production / F. S. Kutyushev. – M. : Legprombytizdat, 1989 . – 224 p. 
+3. Cai L. Fur fashion design / Cai L., Yu X. – Shanghai : Donghua University Press, 2009. – 249 p. 
+4. Xu T. Study on the innovative design of fur clothing / Xu T., Fang M., Li G. D. // Advanced Materials  
+
+Research. – 2011, Vol. 331, Sept. – P. 586–589.  
+5. Aronina, Yu. N. Technology of dressing and dyeing of fur / Yu. N. Aronina. – M. : Legprombytizdat, 1986 .– 
+
+144 p. 
+6. Austin, W. E. Principles and practice of fur dressing and fur dyeing / W. E. Austin. – North Charleston : 
+
+CreateSpace, 2013. – 130 p. 
+7. Guseva, M. A. An innovative approach to the design of fur clothing / M. A. Guseva, E. G. Andreeva // Collection 
+
+of scientific papers of the International scientific and technical symposium "Modern problems of engineering". –  
+M. : RSU im. A. N. Kosygin, 2017. – p. 42–47. 
+
+8. Novikov, M. V. Innovative approaches to the processing of leather raw materials and decorative finishing of 
+semi-finished products / M. V. Novikov, A. V. Shcherbakova, V. V. Ryabko // Collection of articles of the International 
+Jubilee Scientific and Practical Conference "Methodology and Practice modern commodity science: topical issues and 
+ways of improvement". – M. : MGAVMiB, 2014. – Р. 184–193. 
+
+9. Issledovanie svojstv shkurok serebristo-chernoj lisicy i iskusstvennogo meha, imitirujushhego ejo okras, dlja 
+cifrovogo konfekcionirovanija materialov dlja odezhdy / M. V. Novikov [et al.]. – 2020. – T. 12, No. 2 (49). –  
+Р. 158–167. 
+
+10. Social'noj znachimosti meha na nacional'nom i global'nom rynkah / M. A. Guseva [et al.] // Sbornik nauchnyh 
+trudov Mezhdunarodnogo nauchno-tehnicheskogo simpoziuma "Sovremennye inzhenernyodnyesty vogue problem. – M. 
+: RGU im. A. N. Kosygina, 2019. – Ch. 1. – Р. 56–62. 
+
+11. Tehnologii vozdejstvija na strukturu meha dlja upravlenija konstruktorsko-tehnologicheskimi svojstvami 
+izdelija / M. A. Guseva [et al.] // Materialy i tehnologii. – 2019. – No. 2 (4). – Р. 27–39. 
+
+12. Basic digital scales of aesthetic and geometric properties of fur : US Pat. RU 2019620409 / M. A. Guseva,  
+M. V. Novikov, E. G. Andreeva, V. S. Belgorodsky, I. A. Petrosova, N. A. Balakirev. – Publ. 03.15.2019. 
+
+13. Wear resistance of the hair coat of semi-finished products with visual similarity / M. V. Novikov, M. A. Guseva, 
+E. G. Andreeva // Collection of articles of the I Interregional scientific-practical conference "Actual problems of socio-
+economic development of modern society." – Kirov : KSMU, 2020. – p. 233–237. 
+
+14. Belgorodsky, V. S. Digitalization of quality indicators of fur in the system of through design of fur products /  
+V. S. Belgorodsky // Textile and light industry. – 2019. – No. 1. – Р. 18–22. 
+
+15. Harpera, C. I found myself inside her fur / C. Harpera // Textile : The Journal of Cloth and culture. – 2008. – 
+Vol. 6, iss. 3. – P. 300–313. 
+
+ _________________________________________________________________________________________________  
+  16                                                                                                                          МАТЕРИАЛЫ И ТЕХНОЛОГИИ, 2020, №1 (5)  
+ 
+
+
+
+ШВЕЙНОЕ ПРОИЗВОДСТВО 
+ 
+
+16. Fashion marketing in the modern fur clothing industry / M. A. Guseva [et al.] // Textile and light industry. – 
+2019 – No. 2–3. – P. 22–26. 
+
+17. Interactive design in the production of fur clothing / M. A. Guseva, E. G. Andreeva, M. I. Alibekova // Collection 
+of materials of the International Scientific Conference "Trends in the development of light industry of the Republic of 
+Uzbekistan: problems, analysis and solutions", 2020. – Р. 114–120. 
+
+18. Subtechnologies of virtual sketching for the design and redesign of fur clothing / M. A. Guseva [et al.] // 
+Collection of materials of the XVI International Scientific and Practical Conference "Leather and Fur in the XXI Century: 
+Technology, Quality, Ecology, Education". – Ulan-Ude : VSGUTU, 2020. – p. 128–134. 
+
+19. Imitation design of garments by combining three-dimensional virtual images / M. A. Guseva [et al.] // Izvestiya 
+vuzov. Light industry technology. – 2019. – T. 44, No. 2. – P. 26–33. 
+
+20. Graphic rendering in simulation design of the surface of fur clothing / M. A. Guseva [et al.] // Collection of 
+materials of the International Scientific Student Conference "Innovative Development of Light and Textile Industry". – 
+M. : RSU im. A. N. Kosygina, 2019. – Part 1. – P. 209–212. 
+
+21. Digitalization of end-to-end design of fur products / M. A. Guseva [et al.] // Collection of articles of the 
+Republican Scientific and Practical Conference light industry ". – Tashkent : TITLP, 2019. – Part 2. – P. 409–412. 
+
+22. Volino, P. Accurate garment prototyping and simulation / P. Volino, N. Magnenat-Thalmann // Computer-Aided 
+Design and Applications. – 2005, Vol.2, iss. 5. – P. 645–654. 
+
+23. Baytar, F. An exploratory study of interaction patterns around the use of virtual apparel design and try-on 
+technology / F. Baytar, S. Ashdown // The Journal of Design, Creative Process & the Fashion Industry. – 2015, Vol.7, 
+iss.1. – P. 31–52. 
+
+24. Park, S. M. Multi purpose three dimensional body form / Sun Mi Park, Kueng Mi Choi, Yun Ja Nam, Young‐A 
+Lee // International Journal of Clothing Science and Technology. – 2011, Vol. 23, iis.1. – P. 8–24. 
+
+25. Personalized 3D mannequin reconstruction based on 3D scanning / Peng Peng Hu [et al.] // International Journal 
+of Clothing Science and Technology. – 2018, Vol. 30, iss. 2. – P. 159–174.  
+
+26. Alibekova, M. I. Architectonics of form in costume composition : monograph / M. I. Alibekova,  
+S. V. Belgorodsky, E. G. Andreeva. – M. : RSU im. A. N. Kosygina, 2020 .– 221 p. 
+
+27. Getmantseva, V. V. Methods of intellectualization of the clothing design process : monograph /  
+V. V. Getmantseva, E. G. Andreeva, V. S. Belgorodsky. – M. : Scientific Library, 2020 .– 200 p. 
+
+28. Rogozhin, A. Yu. Simulation model of the process of shaping the surface of clothes / A. Yu. Rogozhin,  
+M. A. Guseva, E. G. Andreeva // Design and Technologies. – 2018. – № 63 (105). – Р. 47–49. 
+
+29. Parametrization of artistic and constructive characteristics of sheep skins and products from them : рat. RU 
+2019621729 / M. A. Guseva, E. G. Andreeva, V. S. Belgorodsky, I. A. Petrosova, V. V. Getmantseva, M. V. Novikov, 
+N. A. Balakirev, Yu. A. Yuldashbaev . – Publ. 09.10.2019. 
+
+SPISOK LITERATURY 
+
+1. Analiz sovremennogo razvitija mehovoj mody / M. A. Guseva // Kostjumologija. – 2020. – T. 5, № 1. – S. 10.  
+2. Kutjushev, F. S. Skornjazhnoe proizvodstvo / F. S. Kutjushev. – M. : Legprombytizdat, 1989. – 224 s. 
+3. Cai L. Fur fashion design / Cai L., Yu X. – Shanghai : Donghua University Press, 2009. – 249 p. 
+4. Xu T. Study on the innovative design of fur clothing / Xu T., Fang M., Li G. D. // Advanced Materials  
+
+Research. – 2011, Vol. 331, Sept. – P. 586–589. 
+5. Aronina, Ju. N. Tehnologija vydelki i krashenija meha / Ju. N. Aronina. –  M. : Legprombytizdat, 1986. – 144 s. 
+6. Austin, W. E. Principles and practice of fur dressing and fur dyeing / W. E.  Austin. – North Charleston : 
+
+CreateSpace, 2013. – 130 p. 
+7. Guseva, M. A. Innovacionnyj podhod k proektirovaniju mehovoj odezhdy / M. A. Guseva, E. G. Andreeva // 
+
+Sbornik nauchnyh trudov Mezhdunarodnogo nauchno-tehnicheskogo simpoziuma «Sovremennye zadachi inzhenernyh 
+nauk». – M. : RGU im. A. N. Kosygina, 2017. – S. 42–47. 
+
+8. Novikov, M. V. Innovacionnye podhody k obrabotke kozhevennogo syr'ja i dekorativnoj otdelke  
+polufabrikata / M. V. Novikov, A. V. Shherbakova, V. V. Rjabko // Sbornik statej Mezhdunarodnoj jubilejnoj nauchno-
+prakticheskoj konferencii «Metodologija i praktika sovremennogo tovarovedenija: aktual'nye voprosy i puti 
+sovershenstvovanija». – M. : MGAVMiB, 2014. – S. 184–193. 
+
+9. Issledovanie svojstv shkurok serebristo-chernoj lisicy i iskusstvennogo meha, imitirujushhego ejo okras, dlja 
+cifrovogo konfekcionirovanija materialov dlja odezhdy / M. V. Novikov [i dr.] // Territorija novyh vozmozhnostej //  
+Vestnik VGUJeS. – 2020.– T. 12, № 2 (49). – S. 158–167.  
+
+10. Social'noj znachimosti meha na nacional'nom i global'nom rynkah / M. A. Guseva [i dr.] // Sbornik nauchnyh 
+trudov Mezhdunarodnogo nauchno-tehnicheskogo simpoziuma «Sovremennye inzhenernye problemy v proizvodstve 
+tovarov narodnogo potreblenija». – M. : RGU im. A. N. Kosygina, 2019. – Ch.1. – S. 56–62. 
+
+11. Tehnologii vozdejstvija na strukturu meha dlja upravlenija konstruktorsko-tehnologicheskimi svojstvami 
+izdelija / M. A. Guseva [i dr.] // Materialy i tehnologii. – 2019. – № 2 (4). – S. 27–39. 
+
+12. Bazovye cifrovye shkaly jesteticheskih i geometricheskih svojstv meha : pat. RU 2019620409 / M. A. Guseva,  
+M. V. Novikov, E. G. Andreeva, V. S. Belgorodskij, I. A. Petrosova, N. A. Balakirev. – Opubl. 15.03.2019 
+
+ _________________________________________________________________________________________________  
+  МАТЕРИАЛЫ И ТЕХНОЛОГИИ, 2020, №1 (5)                                                                                                              17 
+ 
+
+
+
+ШВЕЙНОЕ ПРОИЗВОДСТВО 
+ 
+
+13. Iznosostojkost' volosjanogo pokrova pushnyh polufabrikatov, imejushhih vizual'noe shodstvo / M. V. Novikov, 
+M. A. Guseva, E. G. Andreeva // Sbornik statej I Mezhregional'noj nauchno-prakticheskoj konferencii “Aktual'nye 
+problemy social'no-jekonomicheskogo razvitija sovremennogo obshhestva”. – Kirov : KGMU, 2020. – S. 233–237.  
+
+14. Belgorodskij, V. S. Cifrovizacija pokazatelej kachestva meha v sisteme skvoznogo proektirovanija mehovyh 
+izdelij / V. S. Belgorodskij // Tekstil'naja i ljogkaja promyshlennost'. – 2019. – №1. – S. 18–22. 
+
+15. Harpera, C. I found myself inside her fur / C. Harpera // Textile : The Journal of Cloth and culture. – 2008. – 
+Vol. 6, iss. 3. – P. 300–313. 
+
+16. Fashion marketing v sovremennoj industrii mehovoj odezhdy / M. A. Guseva [i dr.] // Tekstil'naja i ljogkaja 
+promyshlennost'. – 2019, № 2–3. – S. 22–26. 
+
+17. Interaktivnyj dizajn v proizvodstve mehovoj odezhdy / M. A. Guseva, E. G. Andreeva, M. I. Alibekova // Sbornik 
+materialov Mezhdunarodnoj nauchnoj konferencii "Tendencii razvitija ljogkoj promyshlennosti Respubliki Uzbekistan: 
+problemy, analiz i reshenija", 2020. – S. 114–120. 
+
+18. Cubtehnologii virtual'nogo jeskizirovanija dlja dizajna i redizajna mehovoj odezhdy / M. A. Guseva [ i dr.] // 
+Sbornik materialov XVI Mezhdunarodnoj nauchno-prakticheskoj konferencii "Kozha i meh v XXI veke: tehnologija, 
+kachestvo, jekologija, obrazovanie". – Ulan-Udje : VSGUTU, 2020. – S. 128–134. 
+
+19. Imitacionnoe proektirovanie shvejnyh izdelij sovmeshheniem trehmernyh virtual'nyh obrazov / M. A. Guseva [ 
+i dr.] // Izvestija vuzov. Tehnologija legkoj promyshlennosti. – 2019. – T. 44, № 2. – S. 26–33. 
+
+20. Graficheskij rendering v imitacionnom proektirovanii poverhnosti mehovoj odezhdy / M. A. Guseva [ i dr.] // 
+Sbornik materialov Mezhdunarodnoj nauchnoj studencheskoj konferencii "Innovacionnoe razvitie legkoj i tekstil'noj 
+promyshlennosti". – M. : RGU im. A. N. Kosygina, 2019. – Chast' 1. – S. 209–212. 
+
+21. Cifrovizacija skvoznogo proektirovanija mehovyh izdelij / M. A. Guseva [i dr.] // Sbornik statej Respublikanskoj 
+nauchno-prakticheskoj konferencii «Aktual'nye problemy innovacionnyh tehnologij i ih reshenija v uslovijah integracii 
+nauki, obrazovanija, proizvodstva v poligrafii, hlopkoochistitel'noj, tekstil'noj i legkoj promyshlennosti». – Tashkent : 
+TITLP, 2019. – Ch. 2.  – S. 409–412. 
+
+22. Volino, P. Accurate garment prototyping and simulation / P. Volino, N. Magnenat-Thalmann // Computer-Aided 
+Design and Applications. – 2005, Vol.2, iss. 5. – P. 645–654. 
+
+23. Baytar, F. An exploratory study of interaction patterns around the use of virtual apparel design and try-on 
+technology / F. Baytar, S. Ashdown // The Journal of Design, Creative Process & the Fashion Industry. – 2015, Vol.7, 
+iss.1. – P. 31–52. 
+
+24. Park, S. M. Multi purpose three dimensional body form / Sun Mi Park, Kueng Mi Choi, Yun Ja Nam, Young‐A 
+Lee // International Journal of Clothing Science and Technology. – 2011, Vol. 23, iis.1. – P. 8–24. 
+
+25. Personalized 3D mannequin reconstruction based on 3D scanning / Peng Peng Hu [et al.] // International Journal 
+of Clothing Science and Technology. – 2018, Vol. 30, iss. 2. – P. 159–174.  
+
+26. Alibekova, M. I. Arhitektonika formy v kompozicii kostjuma : monografija / M. I. Alibekova, S. V. Belgorodskij, 
+E. G. Andreeva. – M. : RGU im. A. N. Kosygina, 2020. – 221 s. 
+
+27. Getmanceva, V. V. Metody intellektualizacii processa proektirovanija odezhdy: monografija /  
+V. V. Getmanceva, E. G. Andreeva, V. S. Belgorodskij. – M. : Nauchnaja biblioteka, 2020. – 200 s. 
+
+28. Rogozhin, A. Ju. Imitacionnaja model' processa formoobrazovanija poverhnosti odezhdy / A. Ju. Rogozhin,  
+M. A. Guseva, E. G. Andreeva // Dizajn i tehnologii. – 2018. – № 63 (105). – S. 47–49. 
+
+29. Parametrizacija hudozhestvenno-konstruktivnyh harakteristik shkur ovec i izdelij iz nih : pat. RU 2019621729 / 
+M. A. Guseva, E. G. Andreeva, V. S. Belgorodskij, I. A. Petrosova, V. V. Getmanceva, M. V. Novikov,  
+N. A. Balakirev , Ju. A. Juldashbaev . – Opubl. 09.10.2019. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Статья поступила в редакцию 07.01.2020  
+
+ _________________________________________________________________________________________________  
+  18                                                                                                                          МАТЕРИАЛЫ И ТЕХНОЛОГИИ, 2020, №1 (5)

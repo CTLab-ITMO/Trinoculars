@@ -1,0 +1,563 @@
+﻿ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 1                       153  
+
+УДК 66.092-977 
+DOI: 10.17238/issn0536-1036.2019.1.153 
+ 
+МОДЕЛИРОВАНИЕ ТЕПЛОМАССОПЕРЕНОСА  
+
+
+В ПИРОЛИЗНОЙ ЗОНЕ  
+ 
+А.В. Сафина,  канд. техн. наук, доц. 
+Н.Ф. Тимербаев,  д-р техн. наук, проф. 
+Д.Ф. Зиатдинова, д-р техн. наук, проф. 
+Р.Г. Сафин,  д-р техн. наук, проф.  
+А.Р. Хабибуллина, ассистент 
+Казанский национальный исследовательский технологический университет, 
+ул. К. Маркса, д. 68, г. Казань, Республика Татарстан, Россия, 420015;  
+e-mail: cfaby@mail.ru, cpekgeu@gmail.com, ziatdinova2804@gmail.com, safin@kstu.ru, 
+almira-h@rambler.ru 
+ 
+
+3
+В настоящее время в стране заготавливается около 200 млн м  древесины. При этом 
+на всех стадиях процесса (от заготовки до переработки древесного сырья) образуется 
+большое количество отходов, которые не находят применения и оказывают отрица-
+тельное воздействие на окружающую среду. Одним из возможных направлений пере-
+работки таких отходов является их пиролиз. Выход продуктов пиролиза зависит от 
+внешних условий и свойств сырья. Приведено описание установки, разработанной для 
+производства активированного угля из древесной щепы. Установка выполнена в виде 
+шахты, в ней имеется зона пиролиза, работающая в периодическом режиме. В нижней 
+части пиролизной зоны расположены нагревательные элементы, прогревающие тех-
+нологическую щепу до начала интенсивных экзотермических реакций. Нагреватель-
+ным элементам тепловая энергия передается с помощью тепловой трубы, размещен-
+
+о
+ной в древесном угле после стадии активации, имеющем температуру около 800 С.  
+С использованием этой установки из древесных отходов получаются ценные продук-
+ты, пользующиеся большим спросом в промышленности, и решается экологическая 
+проблема многих деревоперерабатывающих предприятий – утилизация отвалов. На 
+основе анализа физической картины и формализации процесса пиролиза в установке 
+производства активированного угля разработана математическая модель процесса, 
+позволяющая рассчитать общее время, затраченное на переработку древесных отхо-
+дов, и основные конструктивные параметры установки.  
+ 
+Ключевые слова: математическая модель, тепломассоперенос, древесный уголь, пиро-
+лиз, активация, газовый поток. 
+
+ 
+Введение 
+
+ 
+Проблемами деревообработки на современном этапе являются низкая 
+
+эффективность использования древесного сырья, высокие энергозатраты на 
+переработку вторичных биоресурсов, связанные с отсутствием энергосбере-
+гающего оборудования и методик для его расчета. К существующим перспек-
+тивным направлениям переработки древесных отходов относится термохими-
+ческое с получением активированного угля [2, 3, 6, 7]. 
+
+                                                          
+Для цитирования: Сафина А.В., Тимербаев Н.Ф., Зиатдинова Д.Ф., Сафин Р.Г., Ха-
+бибуллина А.Р. Моделирование тепломассопереноса в пиролизной зоне // Лесн. журн. 
+2019. № 1. С. 153–160. (Изв. высш. учеб. заведений). DOI: 10.17238/issn0536-
+1036.2019.1.153 
+
+ 
+
+
+
+154                       ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 1 
+
+При термохимической переработке протекают взаимосвязанные про-
+цессы тепломассопереноса, осложненные химическими превращениями, со-
+стоящими из множества параллельно протекающих реакций, в которых эндо-
+термические процессы со стоком тепловой энергии сменяются экзотермиче-
+скими [1, 12, 13].  
+
+Вопросам пирогенетической переработки древесных материалов по-
+священы исследования отечественных и зарубежных ученых.  
+
+В связи с повышенной сложностью процессов, происходящих при тер-
+мическом разложении древесины, отсутствуют единые методы расчетов тех-
+нологических процессов и аппаратов непрерывной пирогенетической техно-
+логии переработки древесных отходов в активированный уголь.  
+
+Объекты и методы исследования 
+
+На кафедре переработки древесных материалов Казанского национально-
+го исследовательского технологического университета создана установка для 
+переработки древесных отходов в активированный уголь (см. рисунок) [1, 5]. 
+
+Установка состоит из вертикальной реторты 2, в которой за счет грави-
+тационных сил происходит движение древесных отходов через зоны предва-
+рительного нагрева 3, сушки 4, пиролиза 5, активирования 7, охлаждения 9, 10 
+с превращением отходов в активированный уголь, системы сепарации пиро-
+лизных газов, топочное устройство 22, системы газоочистки 21, рекуператив-
+ные теплообменники 8, 14. Готовый продукт охлаждается в две ступени: на 
+первой ступени тепло от активированного древесного угля отводится с помо-
+щью тепловой трубы 6 на нагрев древесных частиц в зонах пиролиза 5 и пред-
+варительного нагрева 3. 
+
+При сепарации в конденсаторах смешения 15, 23 пиролизные газы раз-
+деляются на высоко- и низкокипящие фракции. Неконденсирующиеся газы 
+сжигаются в топке 22. Тепловая энергия топочных газов расходуется на про-
+изводство перегретого пара для проведения процессов сушки древесных ча-
+стиц  и активации угля. Окислитель перед подачей в топку подогревается за 
+счет конвективного охлаждения активированного угля на второй ступени и 
+кондуктивного охлаждения топочного газа в рекуперативном теплообмен-
+нике 8. Для охлаждения хладагента в конденсаторах смешения используют 
+отработанный абсорбент из насадочной колонны 21. 
+
+Технологические зоны реторты 3, 4, 5, 7, 9, 10 разделены шиберными 
+заслонками 12, 13, 16, 19, 20 и изолированы от окружающей среды секцион-
+ными питателями 1, 11. 
+
+В разделительном аппарате 17 жижка охлаждается отработанным аб-
+сорбентом и паровая фаза пиролизных газов разделяется на смесь высоко- и 
+низкокипящих компонентов. 
+
+Сжиженные высококипящие компоненты с температурой кипения более 
+100 °С собираются в емкость 18, а обезвоженные низкокипящие компоненты 
+(температура кипения менее 100 °С) – в емкость 24. 
+
+Для запуска установки и поддержания требуемого теплового баланса 
+предусмотрена подача в топку природного газа. 
+
+В результате активирования свободная поверхность древесного угля 
+2 2
+
+увеличивается от 100...150 м /г до 600...900 м /г, что приводит к возрастанию 
+сорбционной активности готового продукта [1, 2]. 
+
+ 
+
+
+
+                          ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 1                       155  
+
+ 
+Установка для производства активированного угля 
+
+Activated carbon plant 
+
+Результаты исследования и их обсуждение 
+
+Математически процесс пиролиза в установке описан нами следующим 
+образом. 
+
+Температурное поле в технологических зонах установки определяется 
+уравнением теплопереноса [8, 10, 11], которое описывает изменение во вре-
+мени(τ) температуры материала по слоям [1, 4, 6]. Для одномерного слоя име-
+ем:  
+
+Тсл Тсл  Тсл слссл  эф   qсл , (1) 
+ h  h                                   
+
+3
+где ρсл – насыпная плотность слоя материала, кг/м ; ссл – теплоемкость насып-
+ного слоя материала, Дж/(кг·K); Тсл – температура слоя, °С; h – координата 
+
+ 
+частицы в слое, м; эф  – эффективный коэффициент теплопроводности слоя 
+
+ 
+
+
+
+156                       ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 1 
+
+2
+материала, Вт/(м·K); qсл – удельный поток тепла, Дж/м ·с, определяемый про-
+гревом материала и протекающими химическими реакциями, qсл  qп  qxp ;  
+
+2
+qп – сток тепла на прогрев материала, Дж/(м ·с); qхр – сток (приток) тепла за 
+
+2
+счет химических реакций, Дж/(м ·с) [1, 4, 6].  
+
+Решение дифференциального уравнения (1) проводится при следующих 
+краевых условиях:  
+
+Tсл 0;h Тн ;
+ 
+
+Tсл ;0 Тп . 
+
+Здесь Тн – начальная температура в слое, определяется конечной темпе-
+ратурой материала после предыдущей зоны; Тп – температура теплоподводя-
+щих поверхностей, определяется текущей температурой на границе слоя ма-
+териала.  
+
+о
+При температуре  более 180 С начинается термохимическое разложе-
+
+ние древесины с образованием угля, парогазовой смеси и убылью массы дре-
+весины. 
+
+ Изменение массы в единице объема для  каждого из перечисленных 
+компонентов можно записать в следующем виде [1, 4, 6]:  
+
+для древесины 
+др
+
+ kдрдр ; (2) 
+                                              
+
+для угля 
+у
+
+ k др др ;                                   (3) 
+             
+
+для парогазовой смеси 
+пг  1k 
+
+дрдр ,                                             (4) 
+  
+
+m m
+3 у
+
+гд  др
+е  – удельная масса древесины в пиролизной зоне, кг/м ;  у  – 
+
+др V0 V0
+
+3 m
+удельная масса угля в пиролизной зоне, кг/м ;   пг
+
+пг  – удельная масса об-
+V0
+
+3
+разовавшихся пирогазов, кг/м ; mдр, mу и mпг – масса древесины, угля и пирога-
+
+–1
+зов; kдр – константа скорости химической реакции разложения древесины, с .  
+
+Степень пиролиза определяется как  
+у
+
+  .  
+ 
+
+у  др0
+
+Изменение массы парогазовой фазы пиролизной зоны найдем по  сумме 
+массовых потоков за счет конвекции и реакций термического разложения 
+древесины [1, 4, 6]:  
+
+(пг ) (wпгпг )
+   (1)k др др ,                          (5) 
+
+ dh     
+3 3
+
+где ε – пористость частицы, м /м ,  
+
+mдр 1 др 
+ 1 .  
+
+mдр0
+
+
+
+                          ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 1                       157  
+
+Для определения скорости потока газов воспользуемся законом Дарси: 
+
+Kч P
+wпг   , (6) 
+
+пг H
+                                                  
+
+где Kч – газовая проницаемость частицы, Kч  (1)Kпг Kу ;  Kпг, Kу – газо-
+
+вая проницаемость пирогазовой смеси и угля; μпг – динамическая вязкость 
+пирогазов, Па·с.  
+
+Сток тепла при пиролизе древесины влияет на изменение температуры 
+слоя. Считаем, что температуры древесной частицы и образующихся пирога-
+зов одинаковы, а газовая и твердая фазы находятся в термодинамическом рав-
+новесии. Температура частицы при этом определяется из уравнения сохране-
+ния энергии [5]: 
+
+Тч Тч  Тч  Т  
+(с   с  )  ч
+
+у у др др ч  пгспгwпг  qxp ,  (7) 
+     
+
+ 
+где  ℓ – текущая  координата  частицы,  м; λч – коэффициент теплопровод-
+ности для частицы, Вт/(м·K); wпг  – скорость пирогазовой смеси, м/с; 
+qxp  q0 (kдрдр );  q0 – удельная теплота химической реакции, Дж/кг.  
+
+Константа скорости химической реакции определяется в соответствии с 
+законом Аррениуса: 
+
+ E 
+k  k а
+
+др др exp ,  
+0
+
+ RT 
+–1
+
+где kдр  – предэкспоненциальный множитель, с ; Еa – энергия активации, 
+0
+
+Дж/моль. 
+Запишем начальные условия для решения уравнений (2)–(5) и (7): 
+
+ 
+др    
+
+др ; у  0; пг  0; Тч Тн ,  
+0
+
+а также граничные условия для уравнения (7): 
+Тч L Тсл.  
+
+Эффективный коэффициент теплопроводности эф  в уравнении (1) за-
+
+висит от порозности и температуры слоя:  
+эф  f (,  Тсл ) , 
+
+т. е. его можно определить экспериментальным путем.  
+Коэффициент теплопроводности для частицы в уравнении (7) найдем 
+
+как сумму теплопроводностей древесины (λдр), угля (λу) и летучих веществ (λг) 
+с учетом степени пиролиза и излучения тепла через поры [3, 9]: 
+
+13,5с Т 3
+
+  0   dпор
+ч  1  др  у   г  ,  
+
+г
+2 4
+
+где с0 – коэффициент излучения абсолютно черного тела, Вт/м ·K ; dпор – раз-
+мер пор, d 5 4
+
+пор  5 10 (1)10  ;г – степень черноты газового потока.  
+
+Таким образом, разработанная нами математическая модель процесса 
+позволяет рассчитать его основные характеристики, а также параметры уста-
+новки. 
+
+ 
+
+ 
+
+
+
+158                       ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 1 
+
+Заключение 
+ 
+
+На основе анализа физической картины процесса пиролиза в установке 
+для производства древесного угля была разработана математическая модель 
+тепломассопереноса, осложненного химическими превращениями, которая 
+описывает пирогенетическое разложение древесины и может быть использо-
+вана для математического моделирования и проведения расчетов при проек-
+тировании этих установок. 
+
+ 
+СПИСОК ЛИТЕРАТУРЫ 
+
+ 
+1. Пат. 2582696 Российская Федерация, МПК С 10 В 1/04. Установка для про-
+
+изводства древесного угля / Сафин Р.Г., Тимербаев Н.Ф., Сафин Р.Р., Зиатдинова 
+Д.Ф., Хабибуллина А.Р., Ахметова Д.А., Сафина А.В., Саттарова З.Г., Степанова Т.О. 
+2014. 
+
+2. Сафин Р.Г. Актуальные проблемы технологических процессов лесозаготови-
+тельных и деревоперерабатывающих производств: учеб. пособие.  Казань: Изд-во 
+КНИТУ, 2016. 408 с. 
+
+3. Сафин Р.Г., Ахметова Д.А., Сафина А.В., Зиатдинов Р.Р., Хабибуллина А.Р. 
+Математическая модель тепломассообменных процессов, протекающих при перера-
+ботке древесных отходов // Вестн. Казан. технол. ун-та. 2015. Т. 18, № 3. С. 161–163. 
+
+4. Сафин Р.Г., Зиатдинов Р.Р., Сафина А.В., Хабибуллина А.Р. Пиролизная пе-
+реработка отходов лесопромышленного комплекса в древесный уголь // Вестн. Казан.  
+технол. ун-та.  2014. Т. 17, № 20. С. 132–134. 
+
+5. Сафин Р.Г., Степанова Т.О., Хабибуллина А.Р. Математическая модель теп-
+ломассообменных процессов, протекающих при переработке древесных отходов // 
+Актуальные направления научных исследований XXI века: теория и практика. 2015. 
+Т. 3, № 7-2(18-2). С. 413–417. 
+
+6. Сафина А.В., Тимербаев Н.Ф., Хабибуллина А.Р., Асаева Л.Ш., Калашни- 
+кова А.С. Моделирование процесса конвективного охлаждения древесного угля в пи-
+ролизной установке // Деревообраб. пром-сть. 2017. № 1. С. 33–39. 
+
+7. Тимербаев Н.Ф., Сафин Р.Г., Хисамеева А.Р., Шулаев М.В., Хузеев М.В. Раз-
+работка энергосберегающей технологии газогенерации древесных отходов // Вестн. 
+Казан. энергет. ун-та. 2012. № 1(12). С. 24–32.  
+
+8. Bridgwater A.V. Biomass Fast Pyrolysis // Thermal Science. 2004. Vol. 8,  
+no. 2. Pp. 21–49. Режим доступа: www.doiserbia.nb.rs/img/doi/0354-9836/2004/0354-
+98360402021B.pdf (дата обращения: 17.10.18). DOI: 10.2298/TSCI0402021B 
+
+9. Di Blasi C. Heat, Momentum and Mass Transport through a Shrinking Biomass 
+Particle Exposed to Thermal Radiation // Chemical Engineering Science. 1996. Vol. 51, 
+ iss. 7. Pp. 1121–1132. DOI: 10.1016/S0009-2509(96)80011-X 
+
+10. Sadrtdinov A.R., Safin R.G., Gerasimov M.K., Petrov V.I., Gilfanov K.K. The 
+Mathematical Description of the Gasification Process of Woody Biomass in Install a-
+tions with a Plasma Heat Source for Producing Synthesis Gas //  IOP Conference Series: 
+Materials Science and Engineering. 2016. Vol. 124. Pp. 1–8. DOI: 10.1088/1757-
+899X/124/1/012092 
+
+11. Safin R., Barcik Š., Tuntsev D., Safin R., Hismatov R. A Mathematical Model of 
+Thermal Decomposition of Wood in Conditions of Fluidized Bed // Acta Facultatis Xylolo-
+giae Zvolen. 2016. Vol. 58(2). Pp. 141–148.  DOI: 10.17423/afx.2016.58.2.15 
+
+12. Timerbaev N.F., Safin R.R., Safin R.G., Ziatdinova D.F. Modeling of the  
+Process of Energy-Technological Treatment of Wood Waste by Method of Direct-Flow 
+Gasification // Journal of Engineering and Applied Sciences. 2014. Vol. 9, no. 5.  
+Pp. 141–146. 
+
+
+
+                          ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 1                       159  
+
+13. Tuntsev D.V., Safin R.G., Hismatov R.G., Halitov R.A., Petrov V.I.  The Mathe-
+matical Model of Fast Pyrolysis of Wood Waste // 2015 International Conference on Me-
+chanical Engineering, Automation and Control Systems (MEACS 2015), Tomsk, December 
+1–4, 2015. Tomsk, 2015. Pp. 1–4. DOI: 10.1109/MEACS. 7414929 
+
+ 
+Поступила 17.10.18 
+
+ 
+UDC 66.092–977 
+DOI: 10.17238/issn0536-1036.2019.1.153 
+ 
+
+
+Heat and Mass Transfer Simulation in the Pyrolysis Zone  
+ 
+А.V. Safina, Candidate of Engineering Sciences, Associate Professor  
+N.F. Timerbaev, Doctor of Engineering Sciences, Professor 
+D.F. Ziatdinova, Doctor of Engineering Sciences, Professor 
+R.G. Safin, Doctor of Engineering Sciences, Professor 
+A.R. Khabibullina, Assistant 
+Kazan National Research Technological University, ul. K. Marksa, 68, Kazan, 420015, Rus-
+sian Federation; e-mail: cfaby@mail.ru, cpekgeu@gmail.com, ziatdinova2804@gmail.com, 
+safin@kstu.ru, almira-h@rambler.ru 
+ 
+
+3
+Nowadays, about 200 mln m  of timber is harvested in our country. At all stages of the pro-
+cess (from harvesting to raw wood processing) a large amount of waste that does not find 
+any usage and has negative influence on the environment is generated at the same time.  
+Pyrolysis is one of the feasible directions of such waste processing. The yield of pyrolysis 
+products depends on the external conditions and the raw materials properties. The article 
+describes a plant targeting for production of activated carbon from wood chips. The plant is 
+designed as a mine. It has a pyrolysis zone operating in periodic mode. Heating elements are 
+located in the lower part of the pyrolysis zone. They heat industrial chips prior to intense 
+exothermic reactions. Thermal energy is transferred to the heating elements by a heat pipe 
+placed in charcoal after the activation stage, which has  temperature about 800 °C. Valuable 
+products are obtained from wood waste with the use of this plant, which are in a great  
+demand in the industry. The environmental problem of many wood processing enterprises is 
+being solved; disposal of waste dumps. Mathematical model of the process has been devel-
+oped based on the analysis of the physical phenomenon and pyrolysis process formalization 
+in the activated carbon plant. The model allows calculating the total time spent on wood 
+waste processing and the main design parameters of the plant. 
+ 
+Keywords: mathematical model, heat and mass transfer, charcoal, pyrolysis, activation, gas 
+flow.  
+
+ 
+REFERENCES 
+
+ 
+1. Safin R.G., Timerbaev N.F., Safin R.R. Ziatdinova D.F., Khabibullina A.R., 
+
+Akhmetova D.A., Safina A.V., Sattarova Z.G., Stepanova T.O. Ustanovka dlya proizvodstva 
+drevesnogo uglya [Charcoal Plant]. Patent RF, no. 2582696. 2014. 
+
+2. Safin R.G. Aktual’nyye problemy tekhnologicheskikh protsessov leso-
+zagotovitel’nykh i derevopererabatyvayushchikh proizvodstv: ucheb. posobiye [Topical Is-
+
+                                                          
+For citation: Safina А.V.,  Timerbaev N.F., Ziatdinova D.F., Safin R.G., Khabibullina A.R. 
+Heat and Mass Transfer Simulation in the Pyrolysis Zone. Lesnoy Zhurnal [Forestry Jour-
+nal], 2019, no. 1, pp. 153–160. DOI: 10.17238/issn0536-1036.2019.1.153 
+
+ 
+
+
+
+160                       ISSN 0536 – 1036. ИВУЗ. «Лесной журнал». 2019. № 1 
+
+sues of technological Processes of Logging and Wood Conversion Industries: Educational 
+Textbook].  Kazan, KSTU Publ., 2016. 408 p. (In Russ.) 
+
+3. Safin R.G., Akhmetova D.A., Safina A.V., Ziatdinov R.R., Khabibullina A.R. Ma-
+tematicheskaya model’ teplomassoobmennykh protsessov, protekayushchikh pri pererabotke 
+drevesnykh otkhodov [Mathematical Model of Heat and Mass Transfer Processes Occurring 
+in Wood Waste Processing]. Vestnik Kazanskogo tekhnologicheskogo universiteta, 2015, 
+vol. 18, no. 3, pp. 161–163. 
+
+4. Safin R.G., Ziatdinov R.R., Safina A.V., Khabibullina A.R. Piroliznaya pererabot-
+ka otkhodov lesopromyshlennogo kompleksa v drevesnyy ugol’ [Pyrolysis of Forest Sector 
+Waste to Charcoal]. Vestnik Kazanskogo tekhnologicheskogo universiteta, 2014, vol. 17, no. 
+20, pp. 132–134. 
+
+5. Safin R.G., Stepanova T.O., Khabibullina A.R. Matematicheskaya model’ tep-
+lomassoobmennykh protsessov, protekayushchikh pri pererabotke drevesnykh otkhodov 
+[Mathematical Model of Heat and Mass Transfer Processes Occurring in Wood Waste Pro-
+cessing]. Aktual’nyye napravleniya nauchnykh issledovaniy XXI veka: teoriya i praktika 
+[Topical Areas of Research of the 21st Century: Theory and Practice]. 2015, vol. 3, 
+no. 7-2(18-2), pp. 413–417. 
+
+6. Safina A.V., Timerbaev N.F., Khabibullina A.R., Asayeva L.Sh., Kalashni- 
+kova A.S. Modelirovaniye protsessa konvektivnogo okhlazhdeniya drevesnogo uglya v 
+piroliznoy ustanovke [Modeling of Charcoal Convective Cooling in Pyrolysis Plant]. 
+Derevoobrabativaushaya promishlennost’ [Woodworking Industry], 2017, no. 1, pp. 33–39. 
+
+7. Timerbaev N.F., Safin R.G., Khisameyeva A.R., Shulayev M.V., Khuzeev M.V. 
+Razrabotka energosberegayushchey tekhnologii gazogeneratsii drevesnykh otkhodov [Devel-
+opment of Energy-Saving Technology of Wood Waste Gas Generation]. Vestnik Kazanskogo 
+gosudarstvennogo energeticheskogo universiteta, 2012, no. 1(12), pp. 24–32. 
+
+8. Bridgwater A.V. Biomass Fast Pyrolysis. Thermal Science, 2004, vol. 8, no. 2,  
+pp. 21–49. Available at: www.doiserbia.nb.rs/img/doi/0354-9836/2004/0354-
+98360402021B. pdf (accessed 17.10.18). DOI: 10.2298/TSCI0402021B 
+
+9. Di Blasi C. Heat, Momentum and Mass Transport through a Shrinking Biomass 
+Particle Exposed to Thermal Radiation. Chemical Engineering Science, 1996, vol. 51, iss. 7, 
+pp. 1121–1132. DOI: 10.1016/S0009-2509(96)80011-X 
+
+10. Sadrtdinov A.R., Safin R.G., Gerasimov M.K., Petrov V.I., Gilfanov K.K.  
+The Mathematical Description of the Gasification Process of Woody Biomass in In-
+stallations with a Plasma Heat Source for Producing Synthesis Gas.  IOP Conference 
+Series: Materials Science and Engineering, 2016, vol. 124, pp. 1–8. DOI: 10.1088/1757-
+899X/124/1/012092 
+
+11. Safin R., Barcik Š., Tuntsev D., Safin R., Hismatov R. A Mathematical Model of 
+Thermal Decomposition of Wood in Conditions of Fluidized Bed. Acta Facultatis Xylologi-
+ae Zvolen, 2016, vol. 58(2), pp. 141–148.  DOI: 10.17423/afx.2016.58.2.15 
+
+12. Timerbaev N.F., Safin R.R., Safin R.G., Ziatdinova D.F. Modeling of the Process 
+of Energy-Technological Treatment of Wood Waste by Method of Direct-Flow Gasification. 
+Journal of Engineering and Applied Sciences, 2014, vol. 9, no. 5, pp. 141–146. 
+
+13. Tuntsev D.V., Safin R.G., Hismatov R.G., Halitov R.A., Petrov V.I.  The Math-
+ematical Model of Fast Pyrolysis of Wood Waste. 2015 International Conference on Me-
+chanical Engineering, Automation and Control Systems (MEACS 2015). Tomsk, December 
+1–4, 2015. Tomsk, 2015, pp. 1–4. DOI: 10.1109/MEACS. 7414929 
+
+ 
+Received on October 17, 2018

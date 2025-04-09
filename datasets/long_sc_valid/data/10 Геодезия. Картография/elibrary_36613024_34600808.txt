@@ -1,0 +1,858 @@
+﻿АСТРОНОМИя, гРАВИМЕТРИя И КОСМИЧЕСКАя гЕОДЕЗИя
+
+астРономия, гРавиметРия  
+и космическая геодезия
+
+УдК 528.4+551.24 doI: 10.30533/0536-101X-2018-62-6-605-615
+
+анализ точности метода Precise Point Positioning для оценки возможности  
+его применения в геодинамических исследованиях
+
+© 2018 г. а.Ю. мельников 
+Российский университет дружбы народов, Москва, Россия
+
+ acornum@mail.ru
+
+the accuracy analysis of the Precise Point Positioning method for assessment  
+of the possibility of its application in geodynamic researches
+
+a.Yu. Melnikov 
+rudn university, Moscow, russia
+
+acornum@mail.ru
+received april 16, 2018 accepted november 1, 2018
+Keywords: assessment of accuracy, earth's surface deformation, GloNASS, GPS, Precise Point Positioning (PPP).
+
+Summary. the estimation of the accuracy and precision of daily GNSS observations results using the Precise 
+Point Positioning (PPP) method is presented. the purpose of this estimation is substantiation of possibility of 
+using the PPP method for the study of earth's surface movements and deformations using geodetic methods. 
+the estimation is based on the comparison of the daily static GNSS observations processing results by the PPP 
+method with the results of the joint processing of daily static observations at the same point in the geodetic 
+network using the traditional relative method for the double phase differences. Studied GNSS network consists 
+of 13 permanent GNSS station which forms 30 baselines. for each baseline 364 differences of coordinates 
+increments are calculated. total selection is 10920 differences. the analysis of precision and accuracy of PPP 
+in the context of previous studies was carried out. the analysis revealed that the achievable accuracy of the 
+PPP method is comparable to the accuracy of the double difference method. thus, the application of the PPP 
+method to the study of geodynamic processes can be considered permissible only when the using the daily 
+observations data and high-precision satellite ephemerides, satellite and station clocks data are involved.
+
+Citation: Melnikov a.yu. the accuracy analysis of the Precise Point Positioning method for assessment of the possibility of its application 
+in geodynamic researches. Izvestiya vuzov «Geodeziya i aerofotosyemka». Izvestia vuzov «Geodesy and Aerophotosurveying». 2018, 
+62 (6): 605–615 [In Russian]. doI: 10.30533/0536-101X-2018-62-6-605-615.
+
+Поступила 16 апреля 2018 г. Принята к печати 1 ноября 2018 г.
+ключевые слова: ГлОнАСС, деформации земной поверхности, оценка точности, GPS, Precise Point Positioning.
+
+Рассмотрена методика оценки точности результатов суточных ГнСС-наблюдений методом Precise 
+Point Positioning (РРР). Цель данной оценки — обоснование возможности применения этого метода 
+для изучения движений и деформаций земной поверхности геодезическими методами. в основу оцен-
+ки положено сравнение результатов обработки суточных ГнСС-наблюдений методом РРР с результата-
+ми совместной обработки суточных наблюдений на тех же пунктах геодезической сети относительным 
+методом по двойным фазовым разностям
+
+для цитирования: Мельников А.Ю. Анализ точности метода Precise Point Positioning для оценки возможности его применения 
+в геодинамических исследованиях // Изв. вузов «Геодезия и аэрофотосъемка». 2018. Т. 62. № 6. С. 605–615. doI: 10.30533/0536-
+101X-2018-62-6-605-615.
+
+605
+
+
+
+ИЗВЕСТИя ВыСшИХ УЧЕБНыХ ЗАВЕДЕНИй. гЕОДЕЗИя И АЭРОФОТОСъЕМКА. Т. 62. №6. 2018
+
+введение анализ опубликованных оценок точности 
+С конца 1980–90-х годов Глобальные нави- метода РРР
+
+гационные спутниковые системы (ГнСС) ста- Перед оценкой точности по измерительным 
+ли активно применять для изучения геодинами- данным были проанализированы опубликован-
+ческих процессов, среди которых – движения ные ранее работы [11–22]. Это позволило обоб-
+и деформации границ литосферных плит [1–3], щить результаты оценок точности метода РРР, 
+движения земной поверхности, связанные с полученные разными авторами. в итоге были 
+землетрясениями [4–7], и т.д. При определе- получены средние значения средних квадрати-
+нии координат пунктов опорных сетей ГнСС, ческих ошибок (СКО) разностей «истинных» 
+в том числе при изучении движений и дефор- и измеренных значений координат (внешняя 
+маций земной поверхности, используется от- сходимость), которые составили 10  мм в плане 
+носительный метод спутниковых наблюдений, и 15 мм по высоте; СКО положения точки по 
+основанный на составлении фазовых разно- результатам оценки по внутренней сходимости 
+стей. данный метод традиционно считается составили 5 и 8 мм в плане и по высоте соот-
+наиболее точным, так как фазовые разности да- ветственно. При этом сопоставлением с «ис-
+ют возможность исключить или свести к мини- тинными» значениями считались как разности 
+муму влияние ошибок, вызванных задержками точных (опорных) и вновь определяемых коор-
+при прохождении сигнала от спутника к при- динат, так и разности приращений координат, 
+емнику через ионосферу и тропосферу Земли, а полученных методом РРР и относительным 
+также случайные сдвиги шкал времени спутни- методом по двойным фазовым разностям.
+ка и приемника относительно системных шкал Интерес вызывает соотношение оценок 
+времени (СШв) ГнСС. При этом в наблюдени- внутренней и внешней сходимости, равное 
+ях участвуют два и более ГнСС-приемника и двум. Это соотношение может быть полез-
+определяется не пространственное положение ным при использовании СКО, полученных по 
+каждой точки в отдельности, а компоненты внутренней сходимости, для оценки более ре-
+пространственного базового вектора (ΔX, Δy, альной точности координатных определений. 
+ΔZ), их соединяющего. Причину данного эффекта можно объяснить 
+
+Тем не менее, технологии обработки ре- высокой степенью положительной корреляции 
+зультатов ГнСС-наблюдений непрерывно раз- между многократными определениями коор-
+виваются, позволяя совершенствовать другие динат, которая, несмотря на непрерывное со-
+методы ГнСС-наблюдений, считавшиеся ранее вершенствование технологии, до сих пор име-
+недостаточно точными для использования при ет место [23], и данная проблема до сих пор 
+изучении геодинамических процессов. Один из остается нерешенной. Ранее было показано 
+таких методов — метод Precise Point Positioning [24], что оценки точности длин базовых линий 
+(РРР), разработанный лабораторией реактив- из относительных определений по фазовым 
+ного движения нАСА, прототип которого был разностям, полученные по внутренней сходи-
+впервые описан в 1997  г. в исследовании [8], мости, в среднем в 10 раз меньше соответству-
+а более подробно изложен в работах [9, 10]. ющих оценок по отклонениям от локальных 
+настоящее исследование посвящено обобще- эталонов, что также указывает на высокую по-
+нию опубликованных и собственных оценок ложительную корреляцию измерений и в отно-
+точности метода с целью определения возмож- сительном разностном методе. 
+ности его применения при точных геодина-
+мических исследованиях. Мы анализировали сбор и обработка исходных данных
+результаты исключительно суточных наблюде- для оценки точности статических суточ-
+ний в статическом режиме, как обеспечиваю- ных определений в данном исследовании ис-
+щие наиболее высокую точность. пользованы результаты ГнСС-наблюдений на 
+
+606
+
+
+
+АСТРОНОМИя, гРАВИМЕТРИя И КОСМИЧЕСКАя гЕОДЕЗИя
+
+13 пунктах геодезической непрерывно-дей- mnmc
+ствующей сети (рис. 1) в районе землетря-
+сения Паркфилд (28 сентября 2004 г, М 6,0) pkdb cand
+за период с 01 января 2002 г. (doY 001 2002) 
+по 27 декабря 2006 г. (doY 361 2006) с ин- pomm mida
+
+tblp
+тервалом пять суток. Определения координат 
+
+rnch land
+пунктов на указанные даты методом РРР вы- carh
+полнены Геодезической лабораторией невады hunt
+(Nevada Geodetic laboratory) [http://geodesy. hogs
+unr.edu/NGlStationPages/GlobalStationlist] с 
+использованием программного обеспечения 
+GIPSY/oASIS-II Ver. 6.1.1. Полученные зна- lows masw 0 2 км
+чения геоцентрических координат пунктов 
+(Xp, yp, Zp) и их СКО по результатам внутрен- Рис. 1. схема гнсс-сети, Паркфилд
+
+Fig. 1. Parkfield GNSS network
+ней сходимости в системе IGS08 на каждую 
+эпоху наблюдений скопированы из архива временных рядов координат пунктов данной сети на 
+указанный период.
+
+Приращения координат (∆Xd, ∆yd, ∆Zd) векторов базовых линий и их СКО по результатам 
+внутренней сходимости были получены на те же даты путем совместной обработки файлов су-
+точных наблюдений, скопированных из архива SoPAC [http://sopac.ucsd.edu/]. Приращения ко-
+ординат векторов базовых линий вычислены по двойным фазовым разностям с использованием 
+программного обеспечения topcon tools Р.И. Красноперовым [25]. в обоих случаях для обработ-
+ки применялись одни и тех же файлы суточных наблюдений.
+
+методика оценки точности метода РРР по отклонениям от приращений координат,  
+полученных относительным методом гнсс-измерений
+
+Из координат пунктов сети, полученных с сайта Геодезической лаборатории невады, для 
+проведения сравнения с методом относительных наблюдений были составлены приращения ко-
+ординат векторов базовых линий путем составления разностей координат на каждую эпоху наб-
+людений, где i и j — пункты ГнСС-сети, формирующие базовую линию
+
+∆X P  P P
+i− j X j  Xi 
+
+  ∆Y P  
+ =
+
+ P  P
+ i− j Y  −
+
+
+j Yi  .  (1)
+
+∆Z P P P
+  i− j Z  j Z i
+
+для каждой базовой линии сети использованы по 364 приращения координат, полученных 
+по вторым разностям фаз двухчастотных измерений [25], и вычисленные нами разности коорди-
+нат (1). Полный объем выборки составил 10 920 разностей приращений координат. Разделение 
+горизонтальных и вертикальных компонент выполнено с помощью топоцентрической системы 
+координат (E, n, u) с условным началом примерно в центре выбранной сети, получаемой из гео-
+центрической системы координат по формуле [26]
+
+Ei   −sin L0 cos L0 0  Xi − X 0  Xi − X 0 
+ 
+
+N
+
+i  =
+
+   
+−sin B0 cos L0 −sin B0 sin L0 cosB0   Yi −Y  =
+
+
+0 R  Y −Y 
+
+i 0  ,  (2)
+Ui   cosB0 cos L0 cosB0 sin L0 sin B0   Zi − Z0   Zi − Z0 
+
+где B0 = 35,900° и L0 = –120,473° — геодезические координаты пункта lANd, находящегося в се-
+
+607
+
+
+
+ИЗВЕСТИя ВыСшИХ УЧЕБНыХ ЗАВЕДЕНИй. гЕОДЕЗИя И АЭРОФОТОСъЕМКА. Т. 62. №6. 2018
+
+редине сети (см. рис. 1); r — матрица вращения; X0, y0, Z0 — геоцентрические координаты начала 
+топоцентрической системы координат. 
+
+Топоцентрическая система координат выбрана единой для всей исследуемой сети ввиду ее 
+малых размеров (диаметр области покрытия не более 20 км).
+
+в соответствии с формулой (2) приращения геоцентрических координат (∆X, ∆y, ∆Z) могут 
+быть преобразованы в приращения топоцентрических координат (∆E, ∆n, ∆u) по формуле 
+
+∆Eij  X j − X 0  Xi − X 0  ∆Xij 
+ 
+
+∆N
+
+
+ij  = R
+ 
+ Yj −Y0 −  
+
+ R  Yi −Y
+
+
+ = R
+
+
+0  ∆Yij  ,  (3)
+∆U  ij Z j − Z 0  Z − Z  i 0 ∆Z ij
+
+а разности приращений координат — по формуле
+∆∆EP−D  ∆∆X P−D
+
+ij ij 
+ ∆∆NP−D  P−D
+
+ ij  = R
+ 
+∆∆Yij  .  (4)
+
+∆∆U P−D P−
+  ij ∆∆Z D
+
+ij 
+Априорные СКО приращений геоцентрических координат (md
+
+∆ , md
+∆y , d
+
+X m∆z )  были получены 
+Р.И. Красноперовым из обработки статических разностных измерений в программном обеспече-
+нии topcon tools; априорные СКО координат, полученные методом РРР (mp
+
+X , mp , p
+y mz ) , предостав-
+
+ляются Геодезической лабораторией невады в файлах рядов результатов обработки суточных 
+наблюдений. для их преобразования в топоцентрическую систему по правилам теории ошибок 
+были получены формулы: 
+
+ ( 2 2
+mP2  sin L0 ) (cos L0 ) 0 
+
+ m
+P 2
+
+E  X 
+ mP 2  2
+
+ N  = (sin B0 cos L0 ) (sin B0 sin L
+2 2
+
+0 ) (cosB0 ) 
+mP2 
+
+Y ;  (5)
+   
+
+m
+P2
+U  (cosB0 cos L
+
+2 2
+0 ) (cosB0 sin L0 ) (sin B 2
+
+ 0 ) mP2 
+  Z 
+
+mD  ( L 2 L 2
+ 2
+
+∆E  sin 0 ) (cos 0 ) 0 
+  m
+
+D 2
+∆X 
+
+ mD 2  2
+ ∆N  = (sin B0 cos L0 ) (sin B0 sin L
+
+2
+0 ) (cosB )2  mD 2 
+
+0
+  
+
+∆Y  .  (6)
+mD 2
+ ∆  (cosB
+
+2
+0 cos L0 ) (cosB0 sin L )2 (sin B )2 mD 2
+
+0 0  
+
+
+U ∆Z 
+
+для вычисления СКО сравниваемых измерений применена модель дисперсий (7) разностей 
+ΔΔEp‒d, ΔΔnp‒d, ΔΔup‒d. При этом учитывались веса неравноточно полученных разностей при-
+ращений координат ΔΔE, ΔΔn, ΔΔu (8):
+ DP−D = DP + DP + DD ; DP−D = DP + DP + DD ; DP−D
+
+∆ ∆∆ = DP + P + D
+∆∆E Ei E j ∆Eij ∆∆N Ni N j Nij U U DU D (
+
+i j ∆U ;  7)
+ij
+
+ 1 = 1 + 1 + 1 ; 1 = 1 + 1 + 1 ; 1 1 1 1
+PP−D PP PP PD PP−D PP PP D P−D = P + P + D .  (8)
+∆∆E Ei E j ∆Eij ∆∆N Ni N P
+
+j ∆N P U P P P
+ij ∆∆ Ui U j ∆Uij
+
+вес каждого измерения координат – методом РРР и приращений – относительным методом 
+вычислялся по формулам:
+
+2
+ P = µ 2 2
+
+P 0 ; P = µ0 ; D = µ0
+EiNiUi DP PEjN jU P ,
+
+j P E N U
+EiNiU
+
+D ∆ ij∆ ij∆ ij DD  (9)
+i E jN jU j ∆Eij∆Nij∆Uij
+
+где априорная СКО единицы веса μ0 принималась равной единице; dp и dd — квадраты априор-
+
+608
+
+
+
+АСТРОНОМИя, гРАВИМЕТРИя И КОСМИЧЕСКАя гЕОДЕЗИя
+
+ных СКО, полученных из первичной обработки средние разности не содержат статистически 
+суточных сеансов GPS-измерений методом РРР значимых односторонне действующих систе-
+и относительным методом соответственно. матических ошибок.
+
+Оценка точности осуществлялась для каж- вычислялись обобщенные оценки точно-
+дой базовой линии раздельно. Апостериорная сти координат по повторяемости результатов 
+ошибка единицы веса μ каждой из координат- РРР определений и приращений координат по 
+ных разностей определялась разностям (4) по повторяемости определения векторов базовых 
+формулам (10) с учетом весов каждого из трех линий по вторым разностям фаз. Обе оценки 
+слагаемых: выполнялись по формуле
+
+P E2 
+µ2 =  ∆∆E ∆∆  m
+
+2 
+∆∆E ;
+
+n  mâ = âí 
+í ,  (13)
+
+n
+ где mвн — СКО координат и/или приращений 
+
+ µ P∆∆N ∆∆N
+2 
+
+2
+∆∆N =  ;  (10)
+
+n координат, полученные из обработки стандарт-
+ным программным обеспечением (внутренняя 
+
+P ∆∆ 2
+
+µ =  ∆∆U U 
+2  сходимость); n — число СКО, принятое рав-
+∆∆U ,
+
+n ным 364, так как по результатам статистиче-
+где Р — веса разностей приращений координат ских тестов односторонне действующих кор-
+(4), полученные по формулам (9); n — число реляций не выявлено.
+разностей в выборке, равное 364. Замечено, что СКО, полученные при 
+
+Апостериорные СКО измерения «абсолют- определении векторов базовых линий отно-
+ных» координат РРР и приращений координат, сительным методом, зависят от расстояний 
+полученных методом относительных наблюде- между пунктами. Представленный результат 
+ний, вычислялись по формулам (11) и (12) со- демонстрирует почти строгую линейную за-
+ответственно: висимость СКО компонент векторов базовых 
+
+линий от расстояния (рис. 2). для расстояний 
+2
+
+ m2 µE ,N ,U
+E ,N ,U = ;  (11) от 2 до 14 км СКО определения компонент век-
+
+PE ,N ,U торов базовых линий изменяются от 1,2–1,4 до 
+2 5–6 мм, увеличиваясь с коэффициентом 
+
+ m2 µ
+= ∆E ,∆N ,∆U
+
+∆E ,∆N ,∆U .  (12)
+P 0,3–0,4 мм на 1 км. Отметим, что эти значения 
+∆E ,∆N ,∆U не отражают реальную точность измерений, 
+
+статистический анализ полученных оценок а представляют собой формальные, в нашем 
+Анализ содержит несколько статистиче- случае априорные оценки результатов первич-
+
+ских тестов. для средних значений разностей ной обработки разностных фазовых измере-
+приращений координат базовых линий (ΔΔE, ний программным обеспечением topcon tools. 
+ΔΔn, ΔΔu) выполнена проверка «нулевой ги- Подобному анализу подвергнуты также абсо-
+потезы» (равенства нулю выборочного сред- лютные значения средних разностей прираще-
+него) с использованием критерия Стьюдента, ний координат, вычисленных по координатам, 
+значение которого при данном размере вы- определенным методом РРР, и приращений 
+борки (n = 364) приближается к нормальному координат, вычисленных относительным ме-
+распределению. Максимальное значение кри- тодом. на рис. 3 представлены соответствую-
+терия составило t = 2,4. Критическое значение щие графики, которые уже не демонстрируют 
+для n  = 364 (число разностей) при доверитель- очевидную и статистически значимую зави-
+ной вероятности Р = 0,01 составило tкрит = 2,59 симость от расстояния. Этого же можно бы-
+[27], т.е. превысило все полученные оценки. ло ожидать и от случайных средних величин, 
+Это позволило сделать вывод, что полученные стремящихся к нулю по мере увеличения вы-
+
+609
+
+
+
+ИЗВЕСТИя ВыСшИХ УЧЕБНыХ ЗАВЕДЕНИй. гЕОДЕЗИя И АЭРОФОТОСъЕМКА. Т. 62. №6. 2018
+
+6
+5
+4 0,54+0,33 de
+
+3
+2
+1
+
+0 2 4 6 8 10 12 14
+а
+
+6
+5
+4 0,62+0,36 dN
+
+3
+2
+1
+
+0 2 4 6 8 10 12 14
+б
+
+6
+5
+4 0,61+0,38 dUp
+
+3
+2
+1
+
+0 2 4 6 8 10 12 14
+Расстояние, км
+
+в
+Рис. 2. зависимость ско компонент векторов базовых линий от расстояния:
+а, б, в — априорные СКО приращений координат по осям n, e и u соответственно
+Fig. 2. dependence of rMS of baseline vectors components on distances:
+а, б, в — a priori RMS of coordinate increments along the axes n, e and u respectively
+
+борки, тем более, что один из элементов раз- чительная линейная регрессия. Полученные по 
+ности — приращение координат, полученное формуле (12) апостериорные СКО приращений 
+по методу РРР, априори не предполагает нали- координат для разностного метода также пред-
+чия зависимости от расстояния между пункта- ставлены на графиках (рис. 5). данный случай 
+ми, так как результаты наблюдений на каждом свидетельствует об отсутствии видимой зави-
+пункте на каждую эпоху наблюдений по данно- симости полученных значений от расстояний 
+му методу обрабатываются автономно. для плановых и слабой зависимости для верти-
+
+Исследовано также изменение СКО разно- кальных компонент. Этот результат также по-
+стей измеренных координат, полученных мето- зволяет предположить преобладание ошибок 
+дом РРР, и приращений, полученных относи- РРР определений в исследуемых разностях. 
+тельным методом (рис. 4). Этот случай также Иными словами: можно предполагать наличие 
+не демонстрирует зависимости от расстояния, более высокой точности у разностных опреде-
+за исключением компоненты up. Такой резуль- лений приращений координат для данного ва-
+тат можно объяснить, в случае плановых ком- рианта наблюдаемой сети.
+понент, преобладанием вклада ошибки РРР 
+определений в общую сумму двух видов оши- сопоставление полученных оценок точности
+бок, в случае вертикальной компоненты up, Использование разработанной методики 
+наоборот, большим влиянием ошибки разност- оценки по разностям РРР и относительных изме-
+ного метода, за счет чего и сохраняется незна- рений показало меньшие значения СКО, чем да-
+
+610
+
+СКО, мм
+
+
+
+АСТРОНОМИя, гРАВИМЕТРИя И КОСМИЧЕСКАя гЕОДЕЗИя
+
+20
+15
+10
+5
+0
+
+0 2 4 6 8 10 12 14
+а
+
+20
+15
+10
+5
+0
+
+0 2 4 6 8 10 12 14
+б
+
+20
+15
+10
+5
+0
+
+0 2 4 6 8 10 12 14
+Расстояние, км
+
+в
+Рис. 3. абсолютные величины средних разностей приращений координат, полученных методом РРР и по ре-
+зультатам обработки измерений вторых разностей фаз:
+а, б, в — для разностей приращений координат по осям n, e и u соответственно
+Fig. 3. absolute values of the average differences of the coordinates increments obtained by the PPP and double 
+difference methods:
+а, б, в — for differences in coordinate increments along the n, e and u axes, respectively
+
+же в случае внутренней сходимости. Это, по всей лее надежная информация для этого отсутству-
+вероятности, говорит о некорректности учета ет, попытаемся осуществить оценку точности, 
+весов сравниваемых измерений. Очевидно, что предположив, что вклад ошибок обработки от-
+оценки по внутренней сходимости, полученные носительных наблюдений в общую разность 
+на уровне 2 мм, для РРР метода неоправданно за- ΔΔE, ΔΔn, ΔΔu пренебрегаем. 
+вышают веса автономных координатных опреде- Исходя из предположения о значительном 
+лений по отношению к оценкам относительного преобладании точности относительного метода 
+метода (3–4 мм). на существование этого эффек- над РРР определениями, т.е. о ничтожности ее 
+та также указывает отсутствие зависимости СКО вклада в общую ошибку, получим соответству-
+от расстояния (за исключением вертикальной ющие СКО РРР-измерений по формулам (14):
+компоненты), представленное на рис. 4 и 5, а так-
+же результаты анализа опубликованных исследо- M ∆ E N ∆ U
+
+E =
+σ ∆ ; M M
+2 N = σ∆∆ ; U = σ ∆ ,  (14)
+
+ваний, где показано, что внутренняя сходимость 2 2
+примерно вдвое уменьшает более достоверные где σ — стандартные отклонения разностей 
+внешние значения СКО. приращений координат.
+
+Так как внутренняя сходимость не обеспе- Соответствующие оценки составили 2,7, 
+чила достоверности соотношения весов, а бо- 2,9 и 7,5 мм для ME, Mn и Mu соответственно. 
+
+611
+
+Разность, мм
+
+
+
+ИЗВЕСТИя ВыСшИХ УЧЕБНыХ ЗАВЕДЕНИй. гЕОДЕЗИя И АЭРОФОТОСъЕМКА. Т. 62. №6. 2018
+
+20
+15
+10
+5
+0
+
+0 2 4 6 8 10 12 14
+а
+
+20
+15
+10
+5
+0
+
+0 2 4 6 8 10 12 14
+б
+
+20
+15
+10
+5
+0
+
+0 2 4 6 8 10 12 14
+Расстояние, км
+
+в
+Рис. 4. ско разностей приращений координат, полученных методом РРР и по результатам обработки измере-
+ний вторых разностей фаз:
+а, б, в — для разностей приращений координат по осям n, e и u соответственно
+Fig. 4. rMS of differences of the coordinates increments obtained by the PPP and double difference methods:
+а, б, в — for differences in coordinate increments along the n, e and u axes, respectively
+
+Сравнение полученных оценок представлено в 2. Априорные оценки точности (повторя-
+таблице. емости) РРР-определений вдвое превышают 
+
+выводы более надежные оценки по отклонениям от 
+«истинных» значений, что подтверждает пред-
+
+выполненный статистический анализ и положение о высокой степени взаимной корре-
+анализ опубликованных данных позволяет сде- ляции многократных измерений. 
+лать ряд важных выводов. 3. Априорные СКО определений по раз-
+
+1. для использованного варианта наблю- ностям фаз в решениях векторов базовых ли-
+даемой сети точности координатных РРР- ний существенно зависят от расстояний между 
+определений и метода двойных разностей фаз пунктами. Полученные линейные зависимости 
+достаточно высоки и близки. можно использовать на практике для проекти-
+
+сопоставление оценок точности РРР и разностных определений*
+СКО Координаты РРР, мм Разности координат РРР, мм Приращения координат dd, мм
+
+Априорные 2,1/1,6 2,9/2,2 3,8/2,9
+Апостериорные 1,5/1,9 2,1/2,7 4,7/6,0
+При ничтожном вкладе относительного метода 2,9/7,5 4,0/10,5 –
+
+*в числителе — горизонтальные СКО; в знаменателе — вертикальные
+
+612
+
+Разность, мм
+
+
+
+АСТРОНОМИя, гРАВИМЕТРИя И КОСМИЧЕСКАя гЕОДЕЗИя
+
+10
+
+5
+
+0
+0 2 4 6 8 10 12 14
+
+а
+
+10
+
+5
+
+0
+0 2 4 6 8 10 12 14
+
+б
+
+15
+
+10
+
+5
+
+0
+0 2 4 6 8 10 12 14
+
+Расстояние, км
+в
+
+Рис. 5. апостериорные ско приращений координат, полученные из обработки измерений вторых разностей фаз:
+а, б, в — для приращений координат по осям n, e и u соответственно
+Fig. 5. a posteriori rMS of coordinate increments obtained by double difference method:
+а, б, в — for differences in coordinate increments along the n, e and u axes, respectively
+
+рования измерений соответствующей точно- GNSS, а также обеспечение открытого досту-
+сти. па к ним. Работа выполнена при финансовой 
+
+4. Исходя из полученных данных, метод поддержке Министерства образования и на-
+РРР на современном этапе развития ГнСС- уки РФ по программе повышения конкурен-
+технологий, связанных, в том числе с уточ- тоспособности РУдн «5-100» среди ведущих 
+нением эфемеридно-временной информации, мировых научно-образовательных центров на 
+ионосферных и тропосферных моделей, пара- 2016–2020 гг.
+метров вращения Земли и т.д., по своим харак-
+теристикам достигает точности метода отно- acknowledgments. the author of the article 
+сительных определений. Таким образом, метод expresses his gratitude to all the scientists in 
+РРР может быть применен в геодинамических charge of creating and updating the web archives 
+исследованиях при условии использования of GNSS for providing open access to the products. 
+в обработке результатов суточных ГнСС- this study was financially supported by the 
+наблюдений. Ministry of education and Science of the Russian 
+
+federation according the program in improving 
+Благодарности. Автор данной статьи выра- the competitiveness of Peoples’ friendship 
+жает благодарность ученым, ответственным University of Russia (RUdN University) among 
+за создание и обновление веб-архивов данных the world’s leading research and education centers 
+
+in 2016–2020.
+
+613
+
+СКО, мм
+
+
+
+ИЗВЕСТИя ВыСшИХ УЧЕБНыХ ЗАВЕДЕНИй. гЕОДЕЗИя И АЭРОФОТОСъЕМКА. Т. 62. №6. 2018
+
+литеРатУРа ReFeRenCes
+1. Larson K.M., Freymueller J. Relavive motions of the 1. Larson K.M., Freymueller J. Relavive motions of the 
+
+Australian, Pacific and Antarctic plates estimated by the Australian, Pacific and Antarctic plates estimated by the 
+Global Positioning System // Geophys. Research letters. Global Positioning System. Geophys. Research letters. 
+1995. V. 22. № 1. Р. 37–40. 1995, 22 (1): 37–40.
+
+2. argus d.F., and M.B. heftin. Plate motion and crustal 2. argus, d.F., and heftin M.B. Plate motion and crustal 
+deformation estimated with geodetic data from the Global deformation estimated with geodetic data from the Global 
+Positioning System // Geophys. Research letters. 1995. V. Positioning System. Geophys. Research letters. 1995. 22 
+22. № 15. Р. 1973–1976.
+
+3. Feigl K.L., agnew d.C, Bock y., dong d., donnellan a., (15): 1973–1976.
+hager B.r., herring t.a., Jackson d.d., Jordan t.h., King 3. Feigl, K.L., agnew d.C, Bock y., dong d., donnellan a., 
+r.W., Larsen s., Larson K.M., Murray M.h., shen z., Webb F.h. hager B.r., herring t.a., Jackson d.d., Jordan t.h., King 
+Space geodetic measurement of crustal deformation in r.W., Larsen s., Larson K.M., Murray M.h., shen z., Webb F.h. 
+central and southern California, 1984–1992 // Journ. of Space geodetic measurement of crustal deformation in 
+Geophys. Research. 1993. V. 98. P. 21677–21712. central and southern California, 1984–1992. Journ. of 
+
+4. Blewitt, G. Advances in Global Positioning System Geophys. Research. 1993, 98: 21 677–21 712.
+technology for Geodynamics Investigations: 1978–1992, 4. Blewitt G. Advances in Global Positioning System 
+in Contributions of Space Geodesy to Geodynamics technology for Geodynamics Investigations: 1978-1992, 
+technology // Geodyn. Set. V. 25 / eds. by d.e. Smith and in Contributions of Space Geodesy to Geodynamics 
+d.l. turcotte. AGU, Washington, d.C., 1993. P. 195–213. technology. Geodyn. Set. V. 25. eds. by d.e. Smith and 
+
+5. Bock y., agnew d.C., Fang p., Genrich J.F., hager B.h., d.l. turcotte, AGU, Washington, d.C., 1993: 195–213.
+herring t.a., hudnut K.W., King r.W., Larsen s., Minster J.B., 5. Bock y., agnew d.C., Fang p., Genrich J.F., hager B.h., 
+stark K., Wdowinski s., Wyatt F.K. detection of crustal herring t.a., hudnut K.W., King r.W., Larsen s., Minster 
+deformation from the landers earthquake sequence using J.B., stark K., Wdowinski s., Wyatt F.K. detection of crustal 
+continuous geodetic measurements // Nature 1993. V. 361. deformation from the landers earthquake sequence using 
+P. 337–340. doi:10.1038/361337a0. continuous geodetic measurements. Nature. 1993, 361: 
+
+6. Williams d.p., svarc J.L., Lisowski M., prescott W.h. 
+GPS measured rates of deformation in the northern San 337–340. doi:10.1038/361337a0.
+francisco Bay Region, California, 1990–1993 // Geophys. 6. Williams d.p., svarc J.L., Lisowski M., prescott W.h. 
+Research letters. 1994. V. 21. № 14. Р. 1511–1514. GPS measured rates of deformation in the northern San 
+doi: 10.1029/94Gl01227. francisco Bay Region, California, 1990–1993. Geophys. 
+
+7. Электронный ресурс: https://pubs.usgs.gov/pp/ Research letters. 1994, 21 (14): 1511–1514. doi: 
+pp1550/pp1550a/pp1550a.pdf. 10.1029/94Gl01227.
+
+8. zumberge J.F., heflin M.B., Jefferson d.C., Watkins M.M., 7. URl: https://pubs.usgs.gov/pp/pp1550/pp1550a/
+Webb F.h. Precise point positioning for the efficient and pp1550a.pdf.
+robust analysis of GPS data from large networks // Journ. of 8. zumberge J.F., heflin M.B., Jefferson d.C., Watkins 
+Geophys. Research: Solid earth (1978–2012). 1997. V. 102. M.M., Webb F.h. Precise point positioning for the efficient 
+№ B3. P. 5005–5017. and robust analysis of GPS data from large networks. Journ. 
+
+9. Kouba J., heroux p. GPS Precise Point Positioning of Geophys. Research: Solid earth (1978–2012). 1997, 102 
+Using IGS orbit Products // GPS Solutions. 2001. V. 5. P. (B3): 5005–5017.
+12–28. doi.org/10.1007/Pl00012883. 9. Kouba J., heroux p. GPS Precise Point Positioning 
+
+10. Липатников Л.А. Совершенствование мето- Using IGS orbit Products. GPS Solutions. 2001, 5: 12–28. 
+дики точного дифференциального позиционирова- doi.org/10.1007/Pl00012883.
+ния с использованием Глобальных навигационных 10. Lipatnikov L.a. Improving the Precise differential 
+Спутниковых Систем: дис. на соиск. уч. степ. канд. Positioning method using Global Navigation Satellite 
+техн. наук. новосибирск, Сибирская государственная 
+геодезическая академия, 2014. 114 с. Systems. Phd. Novosibirsk: Siberian State University of 
+
+11. Электронный ресурс: https://doi.org/10.1007/ Geosystems and technologies, 2014: 114 р. [In Russian].
+s10291-010-0173-9. 11. URl: https://doi.org/10.1007/s10291-010-0173-9.
+
+12. Электронный ресурс: http://www.academicjournals. 12. URl: http://www.academicjournals.org/SRe  
+org/SRe doI: 10.5897/SRe10.799. doi: 10.5897/SRe10.799.
+
+13. soycan M. A quality evaluation of Precise Point 13. soycan M. A quality evaluation of Precise Point 
+Positioning within the Bernese GPS Software Version 5.0 // Positioning within the Bernese GPS Software Version 5.0. 
+Arabian Journal for Science and engineering. 2012. V. 37. Arabian Journ. for Science and engineering. 2012, 37 (1): 
+№ 1. Р. 147–162. doi 10.1007/s13369-011-0162-5. 147–162. doi: 10.1007/s13369-011-0162-5.
+
+614
+
+
+
+АСТРОНОМИя, гРАВИМЕТРИя И КОСМИЧЕСКАя гЕОДЕЗИя
+
+14. Wang G. GPS landslide Monitoring: Single Base vs. 14. Wang G. GPS landslide Monitoring: Single Base 
+Network Solutions − A case study based on the Puerto Rico vs. Network Solutions − A case study based on the Puerto 
+and Virgin Islands Permanent GPS Network // Journ. of Rico and Virgin Islands Permanent GPS Network. Journ. 
+Geodetic Science. 2011. V. 1. № 3. P. 191–203. doi: 10.2478/ of Geodetic Science. 2011, 1 (3): 191–203. doi: 10.2478/
+v10156-010-0022-3. v10156-010-0022-3.
+
+15. Электронный ресурс: https://doi.org/10.1179/17522 15. URl: https://doi.org/10.1179/175227061
+70613Y.0000000068. 3Y.0000000068.
+
+16. Kouba J., héroux p. Precise Point Positioning Using 16. Kouba J., héroux p. Precise Point Positioning Using 
+IGS orbit and Clock Products, GPS Solutions, 2001. V. 5. IGS orbit and Clock Products, GPS Solutions, 2001. 5(2): 
+№2, Р. 12–28. 12–28. 
+
+17. Kostelecky. J., dousa J., Kostelecky. J., vaclavovic p. 17. Kostelecky J., dousa J., Kostelecky J., vaclavovic p. 
+Analysis of the time series of station coordinates – a Analysis of the time series of station coordinates - a 
+comparsion of the network and PPP approach // Acta comparsion of the network and PPP approach. Acta Geodyn. 
+Geodyn. Geomater. 2015. V. 12. № 2 (178). P. 127–133. doi: Geomater. 2015, 12, 2 (178): 127–133. doi: 10.13168/
+10.13168/AGG.2015.0019. AGG.2015.0019.
+
+18. Электронный ресурс: http://dx.doi.org/10.1016/j. 18. URl: http://dx.doi.org/10.1016/j.
+measurement.2016.03.048. measurement.2016.03.048.
+
+19. abou-Galala M., rabah M., Kaloop M., zidana 19. abou-Galala M., rabah M., Kaloop M., zidana z.M. 
+z.M. Assessment of the accuracy and convergence period Assessment of the accuracy and convergence period of 
+of Precise Point Positioning // Alexandria engineering Precise Point Positioning. Alexandria engineering Journ. 
+Journ. 2017. V. 57. Is. 3. Р. 1721–1726. doi.org/10.1016/j. 2017, 57(3): 1721–1726, doi.org/10.1016/j.aej.2017.04.019.
+aej.2017.04.019. 20. Bolbol s., ali a.h., el-sayed M.s., elbeah M.n. 
+
+20. Bolbol s., ali a.h., el-sayed M.s., elbeah M.n. Performance evaluation of Precise Point Positioning (PPP) 
+Performance evaluation of Precise Point Positioning (PPP) Using CSRS-PPP online Service. American Journ. of 
+Using CSRS-PPP online Service // American Journ. of Geographic Information System. 2017, 6 (4): 156–167. doi: 
+Geographic Information System. 2017. V. 6. № 4. Р. 156– 10.5923/j.ajgis.20170604.03.
+167. doi: 10.5923/j.ajgis.20170604.03. 21. Gandolfi s., tavasci L., poluzzi L. Study on GPS-PPP 
+
+21. Gandolfi s., tavasci L., poluzzi L. Study on GPS-PPP precision for short observation sessions. GPS Solutions. 
+precision for short observation sessions // GPS Solutions. 2017, 21: 887–896. doi 10.1007/s10291-016-0575-4.
+2017. V. 21. Р. 887–896. doi 10.1007/s10291-016-0575-4. 22. URl: https://doi.org/10.1515/arsa-2017-0006.
+
+22. Электронный ресурс: https://doi.org/10.1515/ 23. völksen С. Stochastic deficiencies Using Precise 
+arsa-2017-0006. Point Positioning. Papers of the Symposium of the IAG 
+
+23. völksen С. Stochastic deficiencies Using Precise Subcommission for europe (eURef) held in Bratislava, 2–5 
+Point Positioning // Papers of the Symposium of the IAG June 2004. International Association of Geodesy. Section I – 
+Subcommission for europe (eURef) held in Bratislava, 2–5 Positioning; Subcommission for europe (eURef). 2004: 7 р.
+June 2004 / International Association of Geodesy / Section I – 24. Kaftan v., tatevian r. local control network of the 
+Positioning; Subcommission for europe (eURef). 2004. 7 p. fiducial GloNASS/GPS station. International Association 
+
+24. Kaftan v., tatevian r. local control network of the of Geodesy. Section I – Positioning; Subcommission for 
+fiducial GloNASS/GPS station / International Association europe (eURef). V. 9. Publication № 9. Conference papers 
+of Geodesy / Section I – Positioning; Subcommission for of the Symposium of the IAG Subcommission for europe 
+europe (eURef). V. 9, Publication № 9. Conference papers (eURef) held in tromsø, 22–24 June 2000: 333–337.
+of the Symposium of the IAG Subcommission for europe 25. Krasnoperov r.I. the analysis of seismotectonic 
+(eURef) held in tromsø, 22–24 June 2000. P. 333–337. earth's crust movements according to observations of Global 
+
+25. Красноперов Р.И. Анализ сейсмотектониче- Navigation Satellite Systems. Рhd. Moscow: Schmidt 
+ских движений земной коры по данным наблюдений Institute of Physics of the earth of the Russian Academy of 
+Глобальных навигационных Спутниковых Систем: дис. Sciences, 2012: 150 р. [In Russian].
+на соиск. уч. степ. канд. физ.-мат. наук. М.: Институт 26. antonovich K.M. Ispol'zovanie sputnikovyh 
+физики Земли им. О.Ю. Шмидта Российской академии radionavigacionnyh sistem v geodezii. the using of 
+наук, 2012. 150 с. radio navigation satellite systems in geodesy: V 2. fGUP 
+
+26. Антонович К.М. Использование спутниковых ра- «Kartgeocentr» 2005: 334 р. [In Russian].
+дионавигационных систем в геодезии: в 2 т. Т. 1. М.: 27. Bolshev L.n., smirnov n.v. tablicy matematicheskoj 
+ФГУП «Картгеоцентр», 2005. 334 с. statistiki. Mathematical Statistics tables. Moscow: Nauka, 
+
+27. Большев Л.Н., Смирнов Н.В. Таблицы математиче- 1983: 416 p. [In Russian].
+ской статистики. М.: наука, 1983, 416 с.
+
+615

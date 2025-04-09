@@ -1,0 +1,710 @@
+﻿ИНФОРМАЦИОННЫЕ СИСТЕМЫ И ТЕХНОЛОГИИ В БИЗНЕСЕ
+
+DOI: 10.17323/2587-814X.2020.1.32.40
+
+Сравнительный анализ теоретических 
+моделей каскадных, итеративных  
+и гибридных подходов к управлению 
+жизненным циклом ИТ-проекта
+
+Д.В. Первухин a,b  
+
+E-mail: dpervuhin@hse.ru
+
+Е.А. Исаев a  
+
+E-mail: eisaev@hse.ru
+
+Г.О. Рытиков c  
+
+E-mail: GR-yandex@yandex.ru
+
+Е.К. Филюгина a
+
+E-mail: ekfilyugina@edu.hse.ru 
+
+Д.А. Айрапетян а
+
+E-mail: hayrapetyandiana@gmail.com 
+a Национальный исследовательский университет «Высшая школа экономики»
+
+Адрес: 101000, г. Москва, ул. Мясницкая, д. 20
+b Финансовый университет при Правительстве РФ
+
+Адрес: 125993, г. Москва, Ленинградский проспект, д. 49
+c Московский политехнический университет, Высшая школа печати и медиаиндустрии
+
+Адрес: 127550, г. Москва, ул. Прянишникова, д. 2А
+
+Аннотация
+Отсутствие общего и универсального подхода к управлению ИТ-проектами позволяет сфор-
+
+мулировать задачу анализа и изучения проблемы выбора наиболее эффективной методологии 
+проектного менеджмента. На основе относительно небольшого числа работ по обобщению 
+практических кейсов на уровне теоретических представлений в данной статье в общем виде 
+показаны оценочные математические модели жизненного цикла абстрактного ИТ-проекта, 
+планируемого к реализации с помощью каскадного, итеративного и сочетающего их (гибридного) 
+подходов. На основании выделенных преимуществ и недостатков каждой из существующих 
+методологий показано, что дополнительное применение итеративных подходов на отдельных этапах 
+реализации каскадной методологии в некотором смысле улучшает процесс реализации ИТ-проекта 
+по сравнению с чисто каскадной реализацией. При этом рекурсивное применение итеративного 
+подхода на отдельных этапах реализации проекта ухудшает характеристики жизненного цикла 
+проекта и может применяться исключительно для снижения определенного класса проектных 
+рисков. По результатам исследования предложен полуэмпирический способ оценивания качества 
+планирования проекта и оценки достоверности декларируемых разработчиком характеристик 
+реализации проекта, что должно положительным образом сказаться на эффективности выбора 
+стратегии управления ИТ-проектом.
+
+БИЗНЕС-ИНФОРМАТИКА   Т. 14  № 1 – 2020 
+32
+
+
+
+ИНФОРМАЦИОННЫЕ СИСТЕМЫ И ТЕХНОЛОГИИ В БИЗНЕСЕ
+
+Ключевые слова: управление ИТ-проектом; итеративная методология; Agile; каскадная методология;  
+гибридная методология; анализ моделей.
+
+Цитирование: Первухин Д.В., Исаев Е.А., Рытиков Г.О., Филюгина Е.К., Айрапетян Д.А. Сравнительный анализ 
+теоретических моделей каскадных, итеративных и гибридных подходов к управлению жизненным циклом  
+ИТ-проекта // Бизнес-информатика. 2020. Т. 14. № 1. С. 32–40. DOI: 10.17323/2587-814X.2020.1.32.40
+
+Введение жения необходимых практических результатов за 
+счет применения итераций на ключевых этапах ре-
+
+есмотря на многолетнюю историю вопроса 
+
+Н ализации проекта [20, 21]. Вопрос о существовании 
+[1], обсуждение достоинств и недостат- оптимального соотношения применения обсуждае-
+ков каскадного и итеративного подходов мых управленческих практик в сфере ИТ рассматри-
+
+к управлению жизненным циклом ИТ-проекта вается в данной статье.
+вообще и разработке программного обеспечения в 
+частности продолжается вплоть до настоящего вре- 1. Концепция
+мени [2, 3]. Начиная с 2009 года, PMI рекомендует 
+гибридный вариант методологии управления проек- Согласно общим подходам к управлению проек-
+тами (PMBOK–4) [4], при котором для стратегиче- тами [22] при каскадном подходе выделяются ста-
+ского планирования применяется каскадная методо- дии инициализации, планирования, реализации и 
+логия WaterFall (WF) [5], а основные этапы проекта завершения проекта. При этом типичные виды мо-
+реализуются итеративно (Agile) [6]. В последние делей жизненных циклов проектов представлены 
+годы большое внимание уделяется сравнительному в работе [23] и могут быть описаны в рамках обоб-
+анализу рисков при использовании всевозможных щенной модели:
+модификаций WF [7] и Agile [8, 9], необходимости                         (1)
+адаптации гибких подходов управления проектами 
+к особенностям предметной области (банковское где  (t) – доля проектных работ, выполненных к 
+дело, медицина) [10–12], оптимизации структур- моменту времени t ; 
+ного сочетания гибкой и каскадной методологий 
+
+φ, k – параметры, определяющие частные формы 
+[13] и т.д. При этом в большинстве случаев при опи-
+
+моделей жизненного цикла; 
+сании недостатков WF авторы научных статей, книг 
+и докладов на конференциях опираются на много-  – нормировочный множитель, обеспечиваю-
+
+0
+
+численные накопленные данные по реализации или щий выполнение условия 
+
+провалу проектов, реализовывавшихся с помощью .
+каскадной методологии [14], в то время как преиму-
+щества Agile в основном демонстрируются на при- Представление (1) естественным образом позво-
+мерах успешной реализации соответствующих про- ляет описывать динамику степени завершенности 
+ектов [15–17]. проекта P от времени φ с помощью выражения
+
+Таким образом, противники гибкой методологии в 
+качестве контраргумента всегда приводят отсутствие          (2)
+репрезентативной статистики по реализациям Agile-
+проектов, некоторые специфические особенности Рассмотрим частные случаи (k = 1, 2, 3, 4), опи-
+предметной области успешного применения итера- сывающие типичные частные модели жизненного 
+тивного подхода [18] и отсутствие четкой структуры цикла проекта:
+системы и процессов управления проектом в случае 
+
+                          , (3а)
+применения модификаций итеративного подхода. 
+На практике компромиссным вариантом оказы-                          , (3б)
+ваются различные схемы гибридизации подходов, 
+позволяющие сочетать элементы четкого планиро-                          , (3в)
+вания и документирования процессов управления 
+жизненным циклом проекта [19] с возможностью                         . (3г)
+относительно эффективного и экономного дости-
+
+БИЗНЕС-ИНФОРМАТИКА   Т. 14  № 1 – 2020
+33
+
+
+
+ИНФОРМАЦИОННЫЕ СИСТЕМЫ И ТЕХНОЛОГИИ В БИЗНЕСЕ
+
+Согласно (2), им соответствуют частные модели функций в кусочно-линейном виде (например, вы-
+динамики реализации проекта: делив стадии жизненного цикла):
+
+                    , (4а)
+
+          (5)
+            , (4б)
+
+где   .
+ (4в)
+
+В этом случае при , получим упрощенную модель 
+динамики реализации проекта при каскадной пара-
+дигме планирования и управления (рисунок 2).
+
+               (4г) Степень реализации проекта
+1
+
+На рисунке 1 представлено несколько вариантов 0,8
+
+моделей жизненных циклов и соответствующих им 0,6
+моделей динамики степени завершенности проекта.
+
+Выберем для упрощения дальнейших расчетов 0,4
+
+определенный способ представления модельных 0,2
+
+0
+0                   0,2                 0,4                  0,6                 0,8                   1
+
+Доля выполненных работ а)
+Нормированная продолжительность проекта 
+
+0,4
+3а Рис. 2. Динамика степени завершенности абстрактного проекта  
+
+вида (4г) и соответствующая кусочно-линейная модель (5)  
+0,3
+
+3б представлены кружочками и отрезками прямых соответственно
+
+3в
+0,2
+
+3г 2. Преимущества и недостатки
+0,1
+
+Согласно каскадной парадигме, окончание пре-
+
+0 дыдущей и начало последующей работы перекры-
+0               0,2             0,4             0,6            0,8                1 ваются приблизительно на 25%, вследствие чего 
+
+Продолжительность достигается преимущество над эстафетной пара-
+дигмой, при которой окончание предшествующей 
+
+Степень реализации проекта б) работы совпадает с началом последующей. Степень 
+1 перекрытия во времени соседних этапов выполне-
+
+ния проекта определяет отличие каскадного пла-
+0,8 4а
+
+нирования от эстафетного и влияет на параметры 
+уравнений прямых, отрезки которых формируют 
+
+0,6 4б
+график кусочно-линейной функции, описываю-
+
+4в
+0,4 щей динамику реализации проекта в целом. Пара-
+
+метры линейных уравнений, описывающих обсуж-
+4г
+
+0,2 даемые прямые, были получены с помощью метода 
+наименьших квадратов [24].
+
+0
+0               0,2             0,4             0,6            0,8                1 Заметим, что само появление каскадного подхода к 
+
+Продолжительность управлению проектами связано с применением ите-
+ративного подхода к эстафетной парадигме планиро-
+
+Рис. 1. Варианты моделей жизненных циклов и динамики  
+степени завершенности проекта в зависимости  вания, поскольку возможность фактического пере-
+
+от нормированной продолжительности его реализации (при  = 1) крытия во времени окончания предшествующей и 
+
+БИЗНЕС-ИНФОРМАТИКА   Т. 14  № 1 – 2020 
+34
+
+
+
+ИНФОРМАЦИОННЫЕ СИСТЕМЫ И ТЕХНОЛОГИИ В БИЗНЕСЕ
+
+начала последующей работ связана с выделением ба- При простом разбиении проекта на подпроекты 
+зовой и улучшенной версий реализации каждого эта- при взятом за основу каскадном подходе время до-
+па проектной работы, вследствие чего последующая стижения 80% выполнения всего проекта даже не-
+работа может начинаться по окончании выполнения сколько увеличивается по сравнению с базовым 
+базовой компоненты предшествующей работы, а не планом реализации проекта, однако наблюдается 
+по окончании всех ее доработок и исправлений. повышение скорости выполнения проекта на на-
+
+Известным недостатком каскадного (и, тем более, чальном этапе его реализации. Т.е. разбиение проек-
+эстафетного) подхода является отсутствие возмож- та на подпроекты способствует увеличению средней 
+ности согласования с заказчиком перечня исполня- скорости выполнения проекта на начальных этапах 
+емых работ и промежуточных результатов в процессе его реализации и в целом ожидаемо выравнивает 
+выполнения проекта [25, 26]. Внедрение элементов среднюю скорость его выполнения (т.е. эффективно 
+итеративных подходов к решению отдельных групп уменьшает вероятность срыва графика выполнения 
+задач в рамках каскадного «стратегического» плана проектных работ). Возможность распараллелива-
+проекта фактически является современным стан- ния работ улучшает ситуацию радикально, однако в 
+дартом управления проектами [27, 28]. Для иллю- рамках данной статьи предполагается, что ресурсы 
+страции преимуществ такого гибридного подхода крайне ограничены и зафиксированы, вследствие 
+можно, например, разбить кусочно-линейную мо- чего, параллельное выполнение работ невозможно.
+дель прогнозируемой динамики выполнения про- Очевидно, что даже при таком модельном пред-
+екта на два/четыре последовательно выполняемых ставлении время достижения локального целевого 
+подпроекта (москольку ресурсы ограничены, в рас- показателя начальных этапов реализации проекта 
+сматриваемом модельном случае постулируется не- уменьшается на 4% и 14% при разбиениях на два и 
+возможность параллельного выполнения подпро- четыре подпроекта. Следовательно, широко при-
+ектов даже при использовании чисто итеративного меняемое разбиение проектных работ на отдельные 
+подхода). Предполагая, что в модельном случае для задачи и операции оказывается математически обо-
+любого абстрактного проекта соблюдается принцип снованным из самых общих предположений.
+Парето (за 20% времени выполняется 80% задач, а за 
+80% времени – 20% задач), оценим отличия во вре- 3. Наибольшая эффективность
+мени достижения уровня 80% выполненных работ 
+при разбиении проекта на подпроекты и перерас- Возникает вопрос о «предельно возможной по-
+пределении порядка выполнения этапов проектных лезности» применения итеративного подхода для 
+работ, реализующих элементы итеративного подхо- каскадного проекта, прогнозируемая динамика ис-
+да [29]. На рисунке 3 представлены соответствующие полнения которого описывается заданной кусоч-
+графики (кружочками представлена теоретическая но-линейной функциональной зависимостью доли 
+модель динамики степени реализуемости жизнен- успешно завершенных проектных работ от продол-
+ного цикла, а треугольниками – соответствующие жительности реализации проекта. Поскольку основ-
+кусочно-линейные модели). ным преимуществом итеративного подхода является 
+
+а) Степень реализации проекта б) Степень реализации проекта
+
+1 1
+
+0,8 0,8
+
+0,6 0,6
+
+0,4 0,4
+
+0,2 0,2
+
+0 0
+0             0,2           0,4            0,6           0,8              1 0             0,2           0,4            0,6           0,8              1
+
+Продолжительность Продолжительность
+
+Рис. 3. Динамика степени завершенности проекта, формально разделенного на (а) два и (б) четыре подпроекта 
+
+БИЗНЕС-ИНФОРМАТИКА   Т. 14  № 1 – 2020
+35
+
+
+
+ИНФОРМАЦИОННЫЕ СИСТЕМЫ И ТЕХНОЛОГИИ В БИЗНЕСЕ
+
+возможность динамического пересогласования по- Доля выполненных работ
+следовательности выполнения работ, рассмотрим 1
+модель (5) каскадного проекта, в которой откажемся 
+от требования следования этапов проекта по прин- 0,8
+
+ципу «один за другим». Очевидно, что в условиях за- 0,6
+фиксированных ресурсов предполагается, что ско-
+рость выполнения каждого этапа работ не может 0,4
+
+быть изменена, вследствие чего согласовываться с 
+0,2
+
+заказчиком может только последовательность вы-
+Продолжительность
+
+полнения работ. Также очевидно, что, с точки зрения 0
+заказчика, наиболее эффективным планом проекта 0                   0,2                  0,4             0,6                        0,8                   1
+
+             интеративный подход                    каскадный подход
+является такой, при котором 80% результата достига-                         гибридные подходы 
+ется как можно быстрее. Таким образом, единствен-
+ной эффективной стратегией перестановки работ Рис.4. Динамика степеней реализации проекта  
+
+при итеративном, гибридных и каскадном подходах  
+является перенос этапов, характеризующихся наи- к планированию и управлению проектами
+большим значением производной первого порядка 
+
+, на начальные позиции последовательности 
+последовательности работ) времени, отведенного 
+
+выполнения работ. Принимая во внимание выбран-
+на достижение цели проекта.
+
+ное в качестве примера соотношение  
+между параметрами модели (5), рассматриваемый Таким образом, наиболее эффективной стратеги-
+
+пример эффективной перестановки последователь- ей достижения целей проекта оказывается приме-
+
+ности выполнения работ примет вид: нение чисто итеративного подхода непосредствен-
+но к реализуемому проекту, а не к отдельным его 
+стадиям, выделяемым при использовании каскад-
+ной парадигмы планирования.
+
+                   (6)
+Заключение
+
+Несмотря на то, что нами были рассмотрены чисто 
+где  найдены из условия отсутствия разры- модельные задачи, и на практике в полной мере при-
+вов первого рода. менить итеративный подход для реализации кон-
+
+Итеративный подход, применяемый на этапе цептуально каскадного проекта, по всей видимости, 
+планирования к каскадной модели (5), обеспечива- невозможно (поскольку, например, этап инициали-
+ет возможность реализации нескольких вариантов зации почти наверняка окажется последним), зна-
+исполнения проекта. При условии фиксации ре- чимые преимущества и недостатки итеративного, 
+сурсов для рассматриваемых моделей не существу- гибридного и каскадного подходов были продемон-
+ет кусочно-линейных функций, обеспечивающих стрированы именно при рассмотрении математиче-
+более быстрое достижение целевого показателя в ских моделей, а не частных реализаций соответству-
+
+80% объема выполненных работ, по сравнению с ющих проектов.
+
+функцией, представленной на рисунке 4. Для под- Если отвлечься от прокрустова ложа стандартов, 
+тверждения этой гипотезы воспользуемся прие- рассматривать работы по содержанию и структури-
+мом, который применялся при демонстрации отли- ровать проект исходя из «принципа наибольшей про-
+чий гибридного и каскадного подходов. Разобьем изводной», то чем в большей степени используется 
+модельный проект (6) на два/четыре подпроекта, итеративный подход, тем более эффективным вос-
+каждый из которых реализует итеративный под- принимается заказчиком план реализации проекта.
+ход. Соответствующие зависимости представлены Наконец, есть ряд наблюдений из практики: 
+на рисунке 4. Видно, что, с точки зрения заказчи- большое количество успешных проектов (по край-
+ка, 80% эффективность реализации проекта дости- ней мере, в сфере ИТ [30]), реализуется по схеме 
+гается за 63% (при использовании чисто итератив- «сначала сделали, потом заключили договор», что, 
+ного подхода), 73% (разбиение на два подпроекта вообще говоря, в точности совпадает с рекоменда-
+с перестановкой последовательности работ) и 79% циями модели (6), несмотря на кажущееся наруше-
+(разбиение на четыре подпроекта с перестановкой ние логики процесса исполнения проекта. 
+
+БИЗНЕС-ИНФОРМАТИКА   Т. 14  № 1 – 2020 
+36
+
+
+
+ИНФОРМАЦИОННЫЕ СИСТЕМЫ И ТЕХНОЛОГИИ В БИЗНЕСЕ
+
+Литература
+
+1. Royce W.W. Managing the development of large software systems // Technical Papers of Western Electronic Show and Convention (WesCon). 
+Los Angeles, USA. 25–28 August 1970. P. 328–338.
+
+2. Morien R. A retrospective on constructing a personal narrative on agile development // Advances in Intelligent Systems and Computing. 2018. 
+Vol. 685. P. 290–304. DOI: 10.1007/978-3-319-70019-9_24.
+
+3. Jiang L., Eberlein A. Towards a framework for understanding the relationships between classical software engineering and agile methodologies 
+// Proceedings of the 2008 International Workshop on Scrutinizing Agile Practices or Shoot-Out at the Agile Corral (APOS’ 08). Leipzig, 
+Germany, 10 May 2008. P. 9–14. DOI: 10.1145/1370143.1370146. 
+
+4. Руководство к своду знаний по управлению проектами (Руководство PMBOK). Филадельфия: Project Management Institute, 2008. 
+5. Камаев В.А. Каскадные технологические подходы. М.: Высшая школа, 2008. 
+6. Wright C. Agile governance and audit: An overview for auditors and Agile teams. Cambridgeshire, UK: IT Governance Publishing, 2014. 
+7. Bierwolf R., Frijns P., Van Kemenade P. Project management in a dynamic environment: Balancing stakeholders // Proceedings of the 2017 
+
+IEEE European Technology and Engineering Management Summit (E-TEMS 2017). Munich, Germany, 17–19 October 2017. Р. 1–6. 
+8. Ramamoorthy B.T., Mayilvahanan P. Comparative study on agile scrum over traditional waterfall lifecycle projects // Journal of Advanced 
+
+Research in Dynamical and Control Systems. 2019. Vol. 11. No 4. P. 524–529.
+9. Quality metrics for hybrid software development organizations – A case study / S. Pradhan [et al.] // Proceedings of the 19th IEEE 
+
+International Conference on Software Quality, Reliability and Security (QRS-C 2019). Sofia, Bulgaria, 22–26 July 2019. P. 505–506. 
+10. Милошевич Д.З. Набор инструментов для управления проектами. М.: Академия АйТи; ДМК Пресс, 2008.
+11. Земляная Е.М. Особенности управления проектами в медицинских организациях // Сб. статей IX Международной  
+
+научно-практической конференции «Экономика, бизнес, инновации», г. Пенза, 15 августа 2019 г. С. 10–13.
+12. Hamad R.M.H., Al Fayoumi M. Scalable agile transformation process (SATP) to convert waterfall project management office into Agile 
+
+project management office // Proceedings of the 19th International Arab Conference on Information Technology (ACIT 2018). Lebanon, 
+28–30 November 2018. P. 1–8. 
+
+13. Hiekata K., Mitsuyuki T., Goto T., Moser B. Design of software development architecture comparison of waterfall and agile using reliability 
+growth model // Advances in Transdisciplinary Engineering. 2016. No 4. P. 471–480.
+
+14. Waterfall: Video distribution by cascading multiple swarms / K. Park [et al.] // IEEE Journal on Selected Areas in Communications. 2013.  
+Vol. 31. No 9. P. 165–174.
+
+15. Kniberg H. Toyota’s journey from Waterfall to Lean software development. 2016. [Электронный ресурс]: https://blog.crisp.se/2010/03/16/
+henrikkniberg/1268757660000 (дата обращения 30.11.2019). 
+
+16. Серебрякова Т.А., Серебряков В.Г., Алексин К.В. Сравнительный анализ методологий Agile и Waterfall по разработке  
+информационных систем в банковской сфере // Colloquium–Journal. 2019. № 2–5 (26). С. 7–9.
+
+17. The (Go)SMART way to agility: Managing a Scrum subproject in a waterfall environment /  O. Gφtz [et al.] // Journal of Information 
+Technology Teaching Cases. 2018. Vol. 8. No 2. P. 149–160.
+
+18. Власов А.И., Карпунин А.А., Ганев Ю.М. Системный подход к проектированию при каскадной и итеративной модели жизненного 
+цикла // Труды Международного симпозиума «Надежность и качество». Пенза, 25–31 мая 2015 г. Т. 1. С. 96–100. 
+
+19. Fitsilis P. Comparing PMBOK and Agile project management software development processes // Advances in Computer and Information 
+Sciences and Engineering. Springer, 2008. P. 378–383. DOI: 10.1007/978-1-4020-8741-7.
+
+20. Mahadevan L., Ketinger W.J., Meservy T.O. Running on hybrid: Control changes when introducing an agile methodology in a traditional 
+“waterfall” system development environment // Communications of the Association for Information Systems. 2015. No 36. P. 77–103.  
+DOI: 10.17705/1CAIS.03605. 
+
+21. Shawky D.M. Traditional vs Agile development: A comparison using chaos theory // Proceedings of the 9th International Conference  
+on Software Paradigm Trends (ICSOFT-PT 2014). Vienna, Austria, 29–31 August 2014. P. 109–114.
+
+22. Салахмир В. Методологии управления проектами: Waterfall, Agile / 2018. [Электронный ресурс]: https://salakhmir.ru/проекты-
+методологии-waterfall-agile/ (дата обращения: 28.11.2019).
+
+23. Воропаев В.И., Гельруд Ян.Д. Математические модели управления для заказчика // Управление проектами и программами. 2013. 
+№ 1. С. 18–29.
+
+24. Линник Ю.В. Метод наименьших квадратов и основы математико-статистической теории обработки наблюдений. М.: Физматлит, 
+1958.
+
+25. Каримов Р.А., Качкынбеков Н.Р. Некоторые аспекты гибкой методологии разработки программного обеспечения //  
+Международный журнал гуманитарных и естественных наук. 2018. № 3. С. 199–202.
+
+26. Nicula D., Ghimii S.S. Command and control vs self  management // IOP Conference Series: Materials Science and Engineering. 2019.  
+Vol. 514. Product Design, Robotics, Advanced Mechanical and Mechatronic Systems and Innovation Conference (PRASIC), Brasov, 
+Romania, 8–9 November 2018. P. 1–6. DOI: 10.1088/1757-899X/514/1/012039.
+
+27. Agile-waterfall hybrid product development in the manufacturing industry – Introducing guidelines for implementation of parallel use  
+of the two models / G. Schuh [et al.] // Proceedings of the 2017 IEEE International Conference on Industrial Engineering and Engineering 
+Management (IEEM). Singapore, 10–13 December 2017. P. 725–729. DOI: 10.1109/IEEM.2017.8289986. 
+
+28. Hybrid software and system development in practice: Waterfall, scrum, and beyond /  M. Kuhrmann [et al.] // Proceedings of the 2017 
+International Conference on Software and System Process (ICSSP 2017). Paris, France, 15–17 July 2017. P. 30–39. 
+
+29. Чуланова О.Л. Технология управления проектами и проектными командами на основе методологии гибкого управления  
+проектами Agile // Вестник евразийской науки. 2018. № 4. С. 1–11. 
+
+30. Первухин Д.В., Исаев Е.А., Рытиков Г.О., Филюгина Е.К., Айрапетян Д.А. Анализ положительного эффекта от внедрения ИТ 
+решения, основанный на оценке рисков // Приборы и системы. Управление, контроль, диагностика. 2019. № 7. С. 45–54.
+
+БИЗНЕС-ИНФОРМАТИКА   Т. 14  № 1 – 2020
+37
+
+
+
+INFORMATION SYSTEMS AND TECHNOLOGIES IN BUSINESS
+
+Об авторах
+
+Первухин Дмитрий Васильевич
+старший преподаватель, кафедра управления информационными системами и цифровой инфраструктурой,  
+факультет бизнеса и менеджмента, Национальный исследовательский университет «Высшая школа экономики»,  
+101000, г. Москва, ул. Мясницкая, д. 20; 
+старший преподаватель, кафедра «Бизнес-информатика»,  
+факультет прикладной математики и информационных технологий, Финансовый университет при Правительстве РФ,  
+125993, г. Москва, Ленинградский проспект, д. 49;
+E-mail: dpervuhin@hse.ru
+ORCID: 0000-0001-6500-035X
+
+Исаев Евгений Анатольевич
+кандидат технических наук; 
+профессор, кафедра управления информационными системами и цифровой инфраструктурой,  
+факультет бизнеса и менеджмента, Национальный исследовательский университет «Высшая школа экономики»,  
+101000, г. Москва, ул. Мясницкая, д. 20;
+E-mail: eisaev@hse.ru
+ORCID: 0000-0002-3703-447X
+
+Рытиков Георгий Олегович
+кандидат физико-математических наук;  
+доцент, кафедра информатики и информационных технологий, Высшая школа печати и медиаиндустрии,  
+Московский политехнический университет, 127550, г. Москва, ул. Прянишникова, д. 2А;
+E-mail: GR-yandex@yandex.ru
+ORCID: 0000-0001-5521-8662
+
+Филюгина Екатерина Константиновна
+студент образовательной программы «Бизнес-информатика», факультет бизнеса и менеджмента,  
+Национальный исследовательский университет «Высшая школа экономики»,  
+101000, г. Москва, ул. Мясницкая, д. 20;
+E-mail: ekfilyugina@edu.hse.ru 
+
+Айрапетян Диана Ареновна
+студент магистерской программы «Управление проектами», факультет бизнеса и менеджмента,  
+Национальный исследовательский университет «Высшая школа экономики»,  
+101000, г. Москва, ул. Мясницкая, д. 20;
+E-mail: hayrapetyandiana@gmail.com
+
+Theoretical comparative analysis of cascading, iterative,  
+and hybrid approaches to IT project life cycle management
+
+Dmitry V. Pervoukhin a,  b
+
+E-mail: dpervuhin@hse.ru 
+
+Eugeni A. Isaev a
+
+E-mail: eisaev@hse.ru 
+
+Georgy O. Rytikov c
+
+E-mail: GR-yandex@yandex.ru 
+
+Ekaterina K. Filyugina a
+
+E-mail: ekfilyugina@edu.hse.ru 
+
+Diana A. Hayrapetyan a
+
+E-mail: hayrapetyandiana@gmail.com
+
+BUSINESS INFORMATICS   Vol. 14  No 1 – 2020
+38
+
+
+
+INFORMATION SYSTEMS AND TECHNOLOGIES IN BUSINESS
+
+a National Research University Higher School of Economics
+Address: 20, Myasnitskaya Street, Moscow 101000, Russia 
+
+b Financial University under the Government of the Russian Federation
+Address: 49, Leningradsky Prospect, Moscow 125993, Russia 
+
+c Moscow Polytechnic University, Higher School of Press and Media Industry 
+Address: 2A, Pryanishnikov Street, Moscow 127550, Russia 
+
+Abstract
+The absence of a common and universal approach to IT project management allows us to formulate a problem to 
+
+analyze and study when choosing the most efficient project management methodology. The relatively small number 
+of scientific works summarizing practical experience of a theoretical approach allowed us to formulate a generalized 
+mathematical model for a common IT project lifecycle estimation in this work using waterfall, agile or hybrid approaches 
+for the project management. Based on the advantages and disadvantages of existing methodologies that we revealed, 
+it appears that use of agile approaches within stages of the cascade methodology approach improves the process of IT 
+project management compared to a pure cascade implementation. Moreover, the recursive application of an iterative 
+approach at certain stages of the project implementation worsens the characteristics of the project life cycle and can be 
+used only to reduce a certain class of project risks. The results of our study allow us to propose a semi-empirical method 
+for project planning estimation accuracy and attainability of the declared project implementation characteristics. All of 
+this should have a positive impact on the effectiveness of the IT project management strategy choice.
+
+Key words: IT project management; iterative methodology; Agile; waterfall; hybrid methodology; model analysis.
+
+Citation: Pervoukhin D.V., Isaev E.A., Rytikov G.O., Filyugina E.K., Hayrapetyan D.A. (2020) Theoretical comparative 
+analysis of cascading, iterative, and hybrid approaches to IT project life cycle management. Business Informatics, 
+vol. 14, no 1, pp. 32–40. DOI: 10.17323/2587-814X.2020.1.32.40 
+
+References
+
+1. Royce W.W. (1970) Managing the development of large software systems. Technical Papers of Western Electronic Show and Convention (WesCon),  
+Los Angeles, USA, 25–28 August 1970, pp. 328–338.
+
+2. Morien R. (2018) A retrospective on constructing a personal narrative on agile development. Advances in Intelligent Systems and Computing, vol. 685, 
+pp. 290–304. DOI: 10.1007/978-3-319-70019-9_24.
+
+3. Jiang L., Eberlein A. (2008) Towards a framework for understanding the relationships between classical software engineering and agile methodologies. 
+Proceedings of the 2008 International Workshop on Scrutinizing Agile Practices or Shoot-Out at the Agile Corral (APOS’ 08), Leipzig, Germany, 10 May 
+2008, pp. 9–14. DOI: 10.1145/1370143.1370146. 
+
+4. Project Management Institute (2008) Project Management Knowledge Base Guide (PMBOK Guide). Philadelphia, USA: PMI.
+5. Kamaev V.А. (2008) Cascading technological approaches. Moscow: Higher School (in Russian). 
+6. Wright C. (2014) Agile governance and audit: An overview for auditors and Agile teams. Cambridgeshire, UK: IT Governance Publishing. 
+7. Bierwolf R., Frijns P., Van Kemenade P. (2017) Project management in a dynamic environment: Balancing stakeholders. Proceedings of the 2017 IEEE 
+
+European Technology and Engineering Management Summit (E-TEMS 2017), Munich, Germany, 17–19 October 2017, pp. 1–6. 
+8. Ramamoorthy B.T., Mayilvahanan P. (2019) Comparative study on agile scrum over traditional waterfall lifecycle projects. Journal of Advanced Research  
+
+in Dynamical and Control Systems, vol. 11, no 4, pp. 524–529.
+9. Pradhan S., Nanniyur V., Melanahalli P., Palla M., Chulani S. (2019) Quality metrics for hybrid software development organizations – A case study. Proceedings 
+
+of the 19th IEEE International Conference on Software Quality, Reliability and Security (QRS-C 2019), Sofia, Bulgaria, 22–26 July 2019, pp. 505–506.
+10. Miloshevich D.Z. (2008) Project management toolkit. Moscow: AjTi; DMK Press (in Russian). 
+11. Zemlyanaya E.M. (2019) Features of project management in medical organizations. Proceedings of the IX International Scientific and Practical Conference 
+
+“Economics, Business, Innovations”, Penza, Russia, 15 August 2019, pp. 10–13 (in Russian). 
+12. Hamad R.M.H., Al Fayoumi M. (2018) Scalable agile transformation process (SATP) to convert waterfall project management office into Agile project 
+
+management office. Proceedings of the 19th International Arab Conference on Information Technology (ACIT 2018), Lebanon, 28–30 November 2018, 
+pp. 1–8.
+
+13. Hiekata K., Mitsuyuki T., Goto T., Moser B. (2016) Design of software development architecture comparison of waterfall and agile using reliability growth 
+model. Advances in Transdisciplinary Engineering, no 4, pp. 471–480.
+
+14. Park K., Kim J., Cho K., Kwon T.T., Choi Y., Pack S. (2013) Waterfall: Video distribution by cascading multiple swarms. IEEE Journal on Selected Areas  
+in Communications, vol. 31, no 9, pp. 165–174.
+
+15. Kniberg H. (2016) Toyota’s journey from Waterfall to Lean software development. Available at: https://blog.crisp.se/2010/03/16/henrik-
+kniberg/1268757660000 (accessed 30 November 2019). 
+
+16. Serebryakova T.A., Serebryakov V G., Aleksin K.V. (2019) Comparative analysis of Agile and Waterfall methodologies for developing information systems 
+in the banking sector. Colloquium–Journal, no 2–5, pp. 7–9 (in Russian).
+
+17. G tz O., Wai Y., Klein S., Ro mehl M., Basten D. (2018) The (Go)SMART way to agility: Managing a Scrum subproject in a waterfall environment. 
+Journal of Information Technology Teaching Cases, vol. 8, no 2, pp. 149–160.
+
+18. Vlasov A.I., Karpunin A.A., Ganev Yu.M. (2015) A systematic approach to design with a cascading and iterative life cycle model. Proceedings  
+of the International Symposium “Reliability and Quality”, Penza, Russia, 25–31 May 2015, vol. 1, pp. 96–100 (in Russian). 
+
+BUSINESS INFORMATICS   Vol. 14  No 1 – 2020
+39
+
+
+
+INFORMATION SYSTEMS AND TECHNOLOGIES IN BUSINESS
+
+19. Fitsilis P. (2008) Comparing PMBOK and Agile project management software development processes. Advances in Computer and Information Sciences  
+and Engineering. Springer, pp. 378–383. DOI: 10.1007/978-1-4020-8741-7.
+
+20. Mahadevan L., Ketinger W.J., Meservy T.O. (2015) Running on hybrid: Control changes when introducing an agile methodology in a traditional “ 
+waterfall” system development environment. Communications of the Association for Information Systems, no 36, pp. 77–103. DOI: 10.17705/1CAIS.03605. 
+
+21. Shawky D.M. (2014) Traditional vs Agile development: A comparison using chaos theory. Proceedings of the 9th International Conference on Software 
+Paradigm Trends (ICSOFT-PT 2014), Vienna, Austria, 29–31 August 2014, pp. 109–114.
+
+22. Salahmir V. (2018) Project management methodologies: Waterfall, Agile. Available at: https://salakhmir.ru/проекты-методологии-waterfall-agile/  
+(accessed 28 November 2019) (in Russian).
+
+23. Voropaev V.I., Gelrud Yan.D. (2013) Mathematical control models for the customer. Upravlenie Proektami i Programmami, no 1, pp. 18–29 (in Russian).
+24. Linnik Yu.V. (1958) Least squares method and the fundamentals of the mathematical and statistical theory of observation processing. Moscow: Fizmatlit  
+
+(in Russian). 
+25. Karimov R.A., Kachkynbekov N.R. (2018) Some aspects of a flexible software development methodology. Mezhdunarodnyj Zhurnal Gumanitarnyh  
+
+i Estestvennyh Nauk, no 3, pp. 199–202 (in Russian).
+26. Nicula D., Ghimii S.S. (2019) Command and control vs self  management. IOP Conference Series: Materials Science and Engineering. 2019. Vol. 514. 
+
+Product Design, Robotics, Advanced Mechanical and Mechatronic Systems and Innovation Conference (PRASIC), Brasov, Romania, 8–9 November 2018, 
+pp. 1–6. DOI: 10.1088/1757-899X/514/1/012039.
+
+27. Schuh G., Rebentisch E., Riesener M., Diels F., D lle C., Eich S. (2017) Agile-waterfall hybrid product development in the manufacturing industry –  
+Introducing guidelines for implementation of parallel use of the two models. Proceedings of the 2017 IEEE International Conference on Industrial  
+Engineering and Engineering Management (IEEM), Singapore, 10–13 December 2017, pp. 725–729. DOI: 10.1109/IEEM.2017.8289986. 
+
+28. Kuhrmann M., Diebold P., M nch J., Tell P., Garousi V., Felderer M., Trektere K., McCaffery F., Linssen O., Hanser E., Prause C.R. (2017) Hybrid 
+software and system development in practice: Waterfall, scrum, and beyond. Proceedings of the 2017 International Conference on Software and System 
+Process (ICSSP 2017), Paris, France, 15–17 July 2017, pp. 30–39. 
+
+29. Chulanova O.L. (2018) Project and project team management technology based on Agile project management methodology. Vestnik Evrazijskoj Nauki,  
+no №4, p. 1–11 (in Russian). 
+
+30. Pervoukhin D.V., Isaev E.A., Rytikov G.O., Filyugina E.K., Hayrapetyan D.A. (2019) Analysis of the positive effect of the IT solutions implementation 
+based on risk assessment. Pribory i Sistemy. Upravlenie, kontrol, diagnostika, no 7, pp. 45–54 (in Russian). 
+
+About the authors
+
+Dmitry V. Pervoukhin
+Senior Lecturer, Department of Information Systems Management and Digital Infrastructure Management,  
+School of Business Informatics, Faculty of Business and Management, National Research University Higher School of Economics,  
+20, Myasnitskaya Street, Moscow 101000, Russia;
+Senior Lecturer, Faculty of Applied Mathematics and Information Technologies,  
+Financial University under the Government of the Russian Federation,  
+49, Leningradsky Prospect, Moscow 125993, Russia;
+E-mail: dpervuhin@hse.ru
+ORCID: 0000-0001-6500-035X
+
+Eugeni A. Isaev
+Cand. Sci. (Tech.); 
+Professor, Department of Information Systems Management and Digital Infrastructure Management,  
+School of Business Informatics, Faculty of Business and Management, National Research University Higher School of Economics,  
+20, Myasnitskaya Street, Moscow 101000, Russia;
+E-mail: eisaev@hse.ru
+ORCID: 0000-0002-3703-447X
+
+Georgy O. Rytikov
+Cand. Sci. (Phys.-Math.); 
+Associate Professor, Department of Informatics and Information Technologies, Higher School of Press and Media Industry,  
+Moscow Polytechnic University,  
+2A, Pryanishnikov Street, Moscow 127550, Russia;
+E-mail: GR-yandex@yandex.ru
+ORCID: 0000-0001-5521-8662
+
+Ekaterina K. Filyugina
+Student, Business Informatics Educational Program, Faculty of Business and Management,  
+National Research University Higher School of Economics,  
+20, Myasnitskaya Street, Moscow 101000, Russia;
+E-mail: ekfilyugina@edu.hse.ru
+
+Diana A. Hayrapetyan
+Student, Project Management MSc Program, Faculty of Business and Management,  
+National Research University Higher School of Economics,  
+20, Myasnitskaya Street, Moscow 101000, Russia;
+E-mail: hayrapetyandiana@gmail.com 
+
+BUSINESS INFORMATICS   Vol. 14  No 1 – 2020
+40

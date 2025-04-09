@@ -9,7 +9,7 @@ def load_json(filename):
 
 def summarize_datasets_and_sources(data):
     dataset_counts = {}
-    ai_human_ratio = {"AI": 0, "Human": 0}
+    ai_human_ratio = {"AI": 0, "Human": 0, "AI+Par": 0}
     
     for record in data:
         dataset = record.get("dataset", "Unknown")
@@ -17,7 +17,9 @@ def summarize_datasets_and_sources(data):
         
         dataset_counts[dataset] = dataset_counts.get(dataset, 0) + 1
         
-        if "ai" in source.lower():
+        if source.lower() == "ai+par":
+            ai_human_ratio["AI+Par"] += 1
+        elif "ai" in source.lower():
             ai_human_ratio["AI"] += 1
         else:
             ai_human_ratio["Human"] += 1

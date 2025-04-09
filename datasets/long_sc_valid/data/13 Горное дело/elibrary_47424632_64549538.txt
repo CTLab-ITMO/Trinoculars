@@ -1,0 +1,460 @@
+﻿MINING SCIENCE AND TECHNOLOGY (RUSSIA) eISSN 2500-0632
+
+ГОРНЫЕ НАУКИ И ТЕХНОЛОГИИ https://mst.misis.ru/
+2021;6(4):252–258 Хакимов Ш. И., Уринов Ш. Р. Подэтажная система с искусственными целиками из твердеющей закладки...
+
+РАЗРАБОТКА МЕСТОРОЖДЕНИЙ ПОЛЕЗНЫХ ИСКОПАЕМЫХ
+Научная статья
+https://doi.org/10.17073/2500-0632-2021-4-252-258
+
+Подэтажная система с искусственными целиками из твердеющей закладки 
+для разработки жил в сложных геомеханических условиях
+
+Ш. И. Хакимов, Ш. Р. Уринов  SC  
+Навоийский государственный горный институт, г. Навои, Узбекистан
+
+ sh_urinov@mail.ru
+Аннотация
+При подземной разработке глубоких горизонтов горное давление может проявляться в любой фор-
+ме, создавая серьезную угрозу жизни работающим, нарушая нормальный ход ведения горных работ 
+и  снижая эффективность горного производства. Решение проблемы управления горным давлением 
+становится весьма актуальным для подземных рудников, ведущих разработку жильных месторожде-
+ний на глубине более 250 м. Целью работы является разработка и обоснование технологических схем, 
+обеспечивающих безопасную и эффективную отработку месторождений в сложных горно-механиче-
+ских условиях. В работе установлены факторы перераспределения и опасной концентрации напряже-
+ний в разрабатываемом рудном массиве, изучены способы управления горными массивами в сложных 
+геомеханических условиях, выявлены их достоинства и недостатки. Определено, что подэтажная си-
+стема разработки с комбинированным использованием существующих способов управления горным 
+давлением и применением самоходной техники в производственных процессах данной системы в на-
+стоящее время является одним из прогрессивных для совершенствования и расширения области ее 
+применения. На примере Зармитанской золоторудной зоны рассмотрены варианты технологических 
+схем подэтажной системы, сочетающих комбинацию разных способов управления горным давлени-
+ем, позволяющих минимизировать недостатки одного, используя преимущества других. Предложены 
+подэтажные системы разработки с искусственными опорными удерживающими целиками многоу-
+гольной формы и подэтажные системы разработки с искусственными опорными удерживающими 
+столбчатыми целиками, позволяющие снизить потери руды в междукамерных целиках, потолочинах 
+и при вторичном разубоживании. Кроме этого, искуственные целики, принимая на себя сжимающие/
+растягивающие напряжения, предотвращают их концентрацию и создают безопасные условия для от-
+работки смежных и нижележащих горизонтов. 
+Ключевые слова
+горное давление, геомеханические процессы, система разработки, структурная неоднородность, целик, 
+устойчивость массива, подэтажное обрушение, подэтажные штреки, компенсационные камеры, рудо-
+спуски 
+Для цитирования
+Хакимов Ш. И., Уринов Ш. Р. Подэтажная система с искусственными целиками из твердеющей закладки 
+для разработки жил в сложных геомеханических условиях. Горные науки и технологии. 2021;6(4):252–258. 
+https://doi.org/10.17073/2500-0632-2021-4-252-258
+
+MINERAL RESOURCES EXPLOITATION
+Research article
+
+Sublevel stoping with applying artificial hardening stowing pillars 
+for extraction of veins in complicated geotechnical conditions
+
+Sh. I. Khakimov, Sh. R. Urinov  SC  
+Navoi State Mining Institute, Navoi, Uzbekistan
+
+ sh_urinov@mail.ru
+Abstract
+In the process of underground mining of deep levels rock pressure can appear in any form, creating a serious 
+threat to the lives of miners, disrupting the normal course of mining works and reducing the efficiency of 
+mining production. The solution of the problem of rock pressure control becomes very urgent for underground 
+mines developing vein deposits at a depth of more than 250 m. The aim of the study is the development and 
+justification of mining methods to provide safe and efficient mining of deposits in complicated mining and 
+
+© Хакимов Ш. И., Уринов Ш. Р., 2021
+252
+
+
+
+MINING SCIENCE AND TECHNOLOGY (RUSSIA) eISSN 2500-0632
+
+ГОРНЫЕ НАУКИ И ТЕХНОЛОГИИ https://mst.misis.ru/
+2021;6(4):252–258 Khakimov Sh. I., Urinov Sh. R. Sublevel stoping with applying artificial hardening stowing pillars...
+
+mechanical conditions. In this paper, the factors of redistribution and dangerous concentration of stresses 
+in the mined ore mass were identified, the methods of rock mass management in complicated geotechnical 
+conditions were studied, and their advantages and disadvantages were revealed. It was determined that 
+the sublevel stoping with the combined use of existing methods of rock pressure control and applying self-
+propelled mining machinery is currently one of the most promising method finding widening application 
+scope. In the context of Zarmitan gold ore zone the options of technological schemes of the sublevel stoping 
+method were considered, providing for a combination of different methods of rock pressure control, allowing 
+to minimize the disadvantages of one method through using the advantages of other ones. We proposed 
+sublevel stoping options with artificial polygonal pillars and with artificial columnar pillars, which allowed to 
+reduce ore losses in inter-stope pillars, arch pillars, and secondary dilution. In addition, artificial pillars, taking 
+compressive/tensile stresses, prevent their concentration and create safe conditions for extraction at adjacent 
+and underlying levels.
+Keywords
+rock pressure, geomechanical processes, mining method, structural heterogeneity, pillar, stability of a rock 
+mass, sublevel caving, sublevel drifts, compensation stopes, ore chutes
+For citation
+Khakimov Sh. I., Urinov Sh. R. Sublevel stoping with applying artificial hardening stowing pillars for extraction 
+of veins in complicated geotechnical conditions. Mining Science and Technology (Russia). 2021;6(4):252–258. 
+(In Russ.) https://doi.org/10.17073/2500-0632-2021-4-252-258
+
+Введение Необходимо отметить, что применение само-
+Решение проблемы управления горным давле- ходной техники в производственных процессах под-
+
+нием является весьма актуальным для целого ряда земной добычи системой с подэтажным обрушением 
+подземных рудников и во многом сдерживается из- жильных месторождений открывает новые возможно-
+за недостаточной изученности природы и механизма сти для совершенствования систем разработки, требу-
+геомеханических процессов и явлений, возникающих ет полного изменения существующих технологических 
+с углублением горных работ в тектонически нарушен- схем подготовки (рабочих горизонтов, выемочных 
+ных массивах горных пород под влиянием многочис- единиц и шахты в целом) и выбора их параметров.
+ленных природных и техногенных факторов [1–3]. Анализ подземных горных работ рудников Зар-
+Сложная геомеханическая обстановка складывает- митанской золоторудной зоны предопределяет ре-
+ся при отработке жильных месторождений, которые шение в пользу подэтажной отбойки руды скважи-
+свойственны именно рудным месторождениям [4–6]. нами малого диаметра, включающей прогрессивную 
+Такие факторы, как структурная неоднородность, технологию и механизацию работ с самоходной тех-
+сложная геометрия формирующихся выработанных никой [15].
+пространств, наличие многочисленных и разнообраз- Новые ресурсосберегающие технологии с подэ-
+ных целиков, могут приводить к перераспределению тажным обрушением, сочетающие комбинацию раз-
+и опасной концентрации напряжений в разрабаты- ных способов управления горным давлением, по-
+ваемом рудном массиве и в итоге могут являться до- зволяющих минимизировать недостатки известных 
+полнительными причинами негативных проявлений технологий, являются одними из прогрессивных, но 
+горного давления [7–9]. малоизученных, область их безопасного и эффектив-
+
+В зависимости от степени устойчивости вмеща- ного применения не определена и требует дополни-
+ющих пород и конструктивных особенностей приме- тельных исследований.
+няемых систем разработки поддержание очистного На основе вышеизложенного для отработки запа-
+пространства производят разными способами, име- сов Зармитанской золоторудной зоны рассмотрены 
+ющими свои достоинства и недостатки, в том числе и предлагаются два варианта технологических схем 
+различные технико-экономические показатели. подэтажным обрушением с комбинированным спосо-
+
+бом управления горным массивом (рис. 1 и 2).
+Материалы и методы Отличительной особенностью первого варианта 
+
+Анализ технической литературы и практика рабо- технологической схемы (см. рис. 1) является комби-
+ты известных крупных горнорудных компаний пока- нированное использование способов поддержания 
+зывают неоспоримые и очевидные преимущества си- выработанных пространств искусственными цели-
+стем подэтажного обрушения [10–12, 13, 14] как более ками многоугольной формы, формируемыми путем 
+экономичного и прогрессивного способа разработки. закладки твердеющего материала в специально под-
+В данной системе разработки проходка подготовитель- готовленные гнезда (выработки). 
+но-нарезных выработок (подэтажные штреки, компен- Здесь возможны два варианта схем подготовки – 
+сационные камеры, рудоспуски и др.) приводит к раз- блочная и участковая. Блочную схему целесообразно 
+грузке массива с перераспределением концентраций использовать при отработке коротких по протяжен-
+напряжений внутри и за пределами выемочной еди- ности рудных тел. Выемку запасов при значительной 
+ницы. Создаются безопасные условия для отработки протяженности рудного тела целесообразно осущест-
+смежных рудных тел и нижележащих горизонтов. влять по участковой схеме. 
+
+253
+
+
+
+MINING SCIENCE AND TECHNOLOGY (RUSSIA) eISSN 2500-0632
+
+ГОРНЫЕ НАУКИ И ТЕХНОЛОГИИ https://mst.misis.ru/
+2021;6(4):252–258 Хакимов Ш. И., Уринов Ш. Р. Подэтажная система с искусственными целиками из твердеющей закладки...
+
+В блочных схемах проводят две фланговые вос- Работы по возведению искусственных целиков 
+стающие. Одна из них – рудная –используется в каче- осуществляются одновременно на всех подэтажах 
+стве компенсационной камеры, а другая – полевая – в следующем порядке: 
+в качестве рудоспуска из подэтажей. 1. Производится расширение и образование 
+
+В участковых схемах подготовки проходят две купола потолочины над подэтажным штреком до 
+восстающие на флангах и одну полевую – в центре требуемого размера путем разбуривания, заряжа-
+блока. При этом фланговые восстающие использу- ния и  взрывания комплекта шпуров по форме кли-
+ются как компенсационные камеры и для отвода на. При  этом краевые шпуры бурятся под углом не 
+отработанной струи воздуха, а центральная восста- менее 45°.
+ющая – в  качестве рудоспуска из подэтажей обоих 2. Потолочина над расширенной частью подэтажа 
+флангов – левых и правых. с выемкой образуется путем проходки наклонных вы-
+
+В участковых схемах предусматривается также работок обычным способом толщиной 2,0 м.
+проводить сбойки, соединяющие смежные подэтажи 3. У верхушки потолочины для заливки тверде-
+между собой, которые необходимы для отвода загряз- ющего материала и создания искусственного целика 
+ненного воздуха и выпуска попутной руды из подэта- путем разбуривания, заряжания и взрывания ком-
+жей. Эти сбойки в дальнейшем – при формировании плекта параллельных шпуров образуется щель.
+искусственного целика – будут камерами для залив- 4. Проводится зачистка основания части подэта-
+ки твердеющего закладочного материала. Размеры жа от посторонних предметов под искусственный це-
+и расстояния между сбойками определяются по нор- лик, осыпанная руда служит стенкой для искусствен-
+мативному пределу прочности закладочного матери- ного целика с забойной стороны.
+ала, определяемому в зависимости от горно-геологи- 5. Для образования противоположной стенки для 
+ческих и горнотехнических условий. создания искусственного целика производится от-
+
+Подготовительно-нарезные работы в обоих ва- сыпка руды с последующим выпуском руды при отра-
+риантах включают проходку восстающих, наклонного ботке нижнего подэтажа.
+участкового транспортного съезда (НТС), ортов заез- 6. Заполнение созданной выработки производит-
+дов к НТС и рудоспуску, заездов на участковый НТС и к ся твердеющей закладкой с добавлением в ее состав 
+рудоспуску в концентрационном горизонте. В каче- крупных породных заполнителей.
+стве нарезных проводятся также подэтажные штреки. Основными достоинствами этой системы яв-
+Высота подэтажей 10–15 м, в зависимости от мощно- ляются обеспечение надежной безопасности, более 
+сти рудных тел и возможности искривления скважин. прочного материала целика [2, 4], простая организа-
+
+Очистные работы при варианте разработки искус- ция очистных работ и меньшие материальные затра-
+ственными целиками многоугольной формы прово- ты по сравнению с системой разработки с закладкой 
+дятся с отставанием от верхнего подэтажа на 10–12 м. очистного пространства, сравнительно высокие каче-
+
+Рис. 1. Подэтажная система разработки с искусственными целиками многоугольной формы из твердеющей закладки:
+1 – заезд к рудоспуску; 2 – подэтажный штрек; 3 – рудоспуск; 4 – открытое выработанное пространство; 5 – отбитая руда; 
+
+6 – искусственный целик многоугольной формы; 7 – место заложения очередного целика многоугольной формы;  
+8 – неотбитая руда; 9 – перегородка из рудной насыпи; 10 – положение выработки (сосуды) для устройства целика  
+
+на этапе ее строительства; 11 – положение выработки (сосуды) на этапе формирования целика;  
+12 – положение выработки с перекрытием (рудным насыпом) перед закладкой целика; 13 – обуренные скважины
+
+Fig. 1. Sublevel stoping with artificial consolidating stowing pillars of polygonal shape:
+1 – crosscut to ore chute; 2 – sublevel drift; 3 – ore chute; 4 – open mined-out space; 5 – muck; 6 – artificial polygonal pillar;  
+
+7 – place of establishing the next pillar of polygon shape; 8 – intact ore; 9 – ore embankment partition;  
+10 – position of drift at the stage of its construction for pillar establishing; 11 – position of drift at the stage of pillar establishing; 
+
+12 – position of drift with overlapping (ore embankment) before pillar establishing; 13 – boreholes
+
+254
+
+
+
+MINING SCIENCE AND TECHNOLOGY (RUSSIA) eISSN 2500-0632
+
+ГОРНЫЕ НАУКИ И ТЕХНОЛОГИИ https://mst.misis.ru/
+2021;6(4):252–258 Khakimov Sh. I., Urinov Sh. R. Sublevel stoping with applying artificial hardening stowing pillars...
+
+ственные и количественные показатели добычи руды, Отбойку руды осуществляют с помощью ком-
+широкие возможности применения самоходных ма- плекта веерных скважин. Скважины бурят самоход-
+шин в производственных процессах и операциях ными буровыми машинами. При взрывании часть 
+очистных работ. отбитой руды остается в подошве подэтажных штре-
+
+Основные недостатки этой системы разработки: ков, а другая часть падает по выработанному про-
+жесткая связь процессов отбойки руды с операциями странству вниз. 
+сооружения целиков при подходе к линии их форми- Основными достоинствами этой системы явля-
+ровании, низкий уровень механизации при создании ются обеспечение безопасности, простая организация 
+целиков, значительные затраты труда и времени на очистных работ и возведения искусственных целиков, 
+возведении целиков. низкий уровень трудовых и материальных затрат, 
+
+При втором варианте подэтажной системы раз- по сравнению с системами разработки с закладкой 
+работки с искусственными столбчатыми целиками очистного пространства, сравнительно высокие каче-
+очистные работы и формирование целиков (рис. 2) ственные и количественные показатели добычи руды, 
+осуществляются в следующем порядке: возможность гибкого перехода от одной схемы к дру-
+
+1. Пройденные ранее сбойки, начиная с верхнего гой. Отличительной чертой данной схемы по сравне-
+подэтажа по направлению от флангов к центральной нию с первым вариантом является практическая неза-
+части участка по очереди заполняются твердеющей висимость процесса закладки от процессов нарезных 
+закладкой. Такой порядок заполнения можно осу- и очистных работ. Это позволяет вести закладочные 
+ществлять одновременно на последующих нижеле- работы одновременно с проходкой подэтажных штре-
+жащих подэтажах. Здесь необходимо отметить, что ков, продлевая при этом время затвердевания закла-
+процесс по созданию искусственного целика в рас- дочного материала и повышая прочность целика. 
+сматриваемой схеме не имеет жестких связей с други- Основные недостатки этой системы: высокий 
+ми процессами нарезных и очистных работ. Поэтому расход твердеющего материала и значительные за-
+закладочные работы можно, даже нужно, проводить траты времени и труда на возведение целиков.
+одновременно с проходкой подэтажных штреков с от- В обоих рассматриваемых вариантах доставку от-
+ставанием на одну сбойку, поскольку эффективность битой руды из каждого подэтажа до рудоспуска пред-
+твердеющей закладки зависит от времени затверде- полагается осуществлять автономно, что исключает 
+ния до монолитного бетона. необходимость создания откаточного горизонта.
+
+2. Очистные работы начинают из верхнего подэ- Все операции по возведению искусственных це-
+тажа одновременно в двух флангах по направлению ликов в изложенных технологических схемах выпол-
+к центру участка. Опережение очистных работ в верх- няются преимущественно с помощью самоходной 
+нем подэтаже от нижних и последующих подэтажей техники, имеющейся на рудниках Зармитанской зо-
+должно быть не менее 10–12 м. лоторудной зоны.
+
+Рис. 2. Подэтажная система разработки с искусственными столбчатыми целиками:
+1 – подэтажный штрек; 2 – заезд к рудоспуску; 3 – столбчатый искусственный целик; 4 – обуренные скважины 
+
+для образования компенсационной камеры; 5 – выработанное открытое пространство; 6 – отбитая руда; 7 – неотбитая руда, 
+8 – рудоспуск; 9 – перегородка из рудной насыпи; 10 – положения выработки для устройства столбчатого целика на этапе 
+
+ее формирования; 11 – положения выработки на этапе формирования столбчатого целика; 12 – положения выработки 
+с перекрытием (рудным насыпом) перед закладкой столбчатого целика
+
+Fig. 2. Sublevel stoping with artificial columnar pillars:
+1 – sublevel drift; 2 – crosscut to ore chute; 3 – artificial columnar pillar; 4 – boreholes for compensation stope formation;  
+
+5 – open mined-out space; 6 – muck; 7 – intact ore; 8 – ore chute; 9 – ore embankment partition;  
+10 – position of drift at the stage of its construction for pillar establishing; 11 – position of drift at the stage of pillar establishing; 
+
+12 – position of drift with overlapping (ore embankment) before pillar establishing
+
+255
+
+
+
+MINING SCIENCE AND TECHNOLOGY (RUSSIA) eISSN 2500-0632
+
+ГОРНЫЕ НАУКИ И ТЕХНОЛОГИИ https://mst.misis.ru/
+2021;6(4):252–258 Хакимов Ш. И., Уринов Ш. Р. Подэтажная система с искусственными целиками из твердеющей закладки...
+
+Заключение рованием отбитой руды в комбинации с искусствен-
+Таким образом, на примере Зармитанской золо- ными опорными удерживающими целиками из твер-
+
+торудной зоны для безопасной и полной отработки деющей закладки.
+запасов руды в слабоустойчивых массивах и зонах Искуственные опорные удерживающие целики 
+концентрации напряжений предлагаются варианты из твердеющей закладки обеспечивают поддержа-
+подэтажной системы разработки с искусственными ние вмещающих пород камеры в устойчивом состо-
+опорными удерживающими целиками из твердею- янии, позволяющем сократить отслоение боковых 
+щей закладки многоугольной и столбчатой формы. пород и  вторичное разубоживание, снизить дав-
+
+Безопасные условия и полнота отработки в пред- ление вмещающих пород на замагазинированную 
+лагаемых вариантах достигаются путем использо- руду и улучшить условия выпуска. Целики принима-
+вания комплекса подготовительно-нарезных выра- ют на себя сжимающие/растягивающие напряжения, 
+боток подэтажной системы разработки в качестве предотвращают их концентрации и создают безо-
+отрезных щелей для снятия и перераспределения пасные условия отработки смежных и нижележаших 
+напряжения в массиве горных пород и с магазини- горизонтов. 
+
+Список литературы
+1.  Авдеев А. Н., Сосновская Е. Л. Исследование напряженно-деформированного состояния кон-
+
+структивных элементов систем разработки сближенных крутопадающих жил. Известия Сибирского 
+отделения Секции наук о Земле РАЕН. 2015;(1):67–75. URL: http://journals.istu.edu/nzn/journals/2015/01/
+articles/07
+
+2. Potvin Y., Wesseloo J. Towards an understanding of dynamic demand on ground support. Journal of the 
+Southern African Institute of Mining and Metallurgy. 2013;113(12):913–922. URL: https://www.saimm.co.za/
+Journal/v113n12p913.pdf
+
+3.  Abin Thomas C. A, Jayalakshmi S., Jerin K. A., Kumar K. S., Sreepriya K. V. Development of self 
+compacting concrete mix and analysis of compressive strength by replacement of fines with iron ore fines. 
+International Journal of Civil Engineering and Technology. 2017;8(4):1928–1937. URL: https://iaeme.com/Home/
+article_id/IJCIET_08_04_219
+
+4. Дорджиев Д. Ю. Обеспечение устойчивости выработок в рудном массиве при разработке ударо-
+опасных урановых месторождений (на примере месторождения «Антей»). [Автореф. дис…. канд. техн. 
+наук]. Санкт-Петербург; 2011.
+
+5.  Криницын Р. В., Полховский В. И., Худяков С. В. Повышение устойчивости кровли камер 
+при отработке месторождений подземным способом. Проблемы недропользования. 2018;(1):22–28.  
+https://doi.org/10.25635/2313-1586.2018.01.022
+
+6. Барановский К. В., Рожков А. А. Обоснование технологии с самоходным оборудованием при от-
+работке нижних горизонтов Урупского медноколчеданного месторождения. Проблемы недропользова-
+ния. 2015;(3):36–43. URL: https://trud.igduran.ru/edition/6/5
+
+7. Veenstra R. L. A methodology for predicting dilution of cemented paste backfill’. In: Potvin Y. (ed.). 
+Proceedings of the International Seminar on Design Methods in Underground Mining. Perth: Australian Centre for 
+Geomechanics; 2015. Pp. 527–539. https://doi.org/10.36487/ACG_rep/1511_33_Veenstra
+
+8.  Ping Wang, Huiqiang Lia, Yan Lib. Bo Cheng Stability analysis of backfilling in subsiding area 
+and optimization of the stoping sequence. Journal of Rock Mechanics and Geotechnical Engineering. 
+2013;5(6):478–485. https://doi.org/10.1016/j.jrmge.2013.07.008
+
+9. Потапчук М. И. Геомеханическое обоснование мер безопасности при разработке жильных место-
+рождений восточного Приморье. [Автореф. дис…. канд. техн. наук]. Хабаровск; 2012. 
+
+10.  Лобанов В. С., Рахимджанов А. А., Киселенко А. С., Казаков Б. И., Вахитов Р. Р. Техноло-
+гия и  направления совершенствования отработки месторождения «Чармитан» с применением са-
+моходного оборудования на руднике Зармитан. Горный вестник Узбекистана. 2009;(4);38–40. URL:  
+http://gorniyvestnik.uz/assets/uploads/pdf/2009-oktyabr-dekabr.pdf
+
+11. Sozonov K. V. Stableness improvement of the excavations during the chamber-and-pillar development 
+of Yakovlevsky Deposit reserves. In: Litvinenko V. (ed.) Geomechanics and Geodynamics of Rock Masses: 
+Proceedings of the 2018 European Rock Mechanics Symposium. London: CRC Press; 2018. Pp. 1653–1657.
+
+12. Chilala G. C., de Assuncao J., Harris R., Stephenson R.M. Initial effects of improved drill and blast 
+practices on stope stability at Acacia’s Bulyanhulu Mine. In: Potvin Y. (ed.). Proceedings of the International 
+Seminar on Design Methods in Underground Mining. Perth: Australian Centre for Geomechanics; 2015. 
+Pp. 241–254. https://doi.org/10.36487/ACG_rep/1511_12_Chilala
+
+13.  Заиров Ш. Ш., Махмудов Д. Р., Уринов Ш. Р. Теоретические и экспериментальные исследо-
+вания взрывного разрушения горных пород при различных формах зажатой среды. Горный журнал. 
+2018;(9):46–50. https://doi.org/10.17580/gzh.2018.09.05
+
+256
+
+
+
+MINING SCIENCE AND TECHNOLOGY (RUSSIA) eISSN 2500-0632
+
+ГОРНЫЕ НАУКИ И ТЕХНОЛОГИИ https://mst.misis.ru/
+2021;6(4):252–258 Khakimov Sh. I., Urinov Sh. R. Sublevel stoping with applying artificial hardening stowing pillars...
+
+14. Заиров Ш. Ш., Уринов Ш. Р., Номдоров Р. У. Формирование устойчивости бортов при ведении 
+взрывных работ на карьерах Кызылкумского региона. Горные науки и технологии. 2020;5(3):235–252. 
+https://doi.org/10.17073/2500-0632-2020-3-235-252
+
+15. Хакимов Ш. И., Тажиев У. Р., Насриддинов А. Ш. Анализ подземной разработки крутопадающих 
+многожилных рудных тел отделяющими породными. Горный вестник Узбекистана. 2015;(3):17–19. URL: 
+http://gorniyvestnik.uz/assets/uploads/pdf/2015-iyul-sentyabr.pdf
+
+References
+1.  Avdeev A. N., Sosnovskaya E. L. Study of stress-strain state of roof, chambers and pillars of 
+
+superimposed steeply dipping veins. Proceedings of the Siberian Department of the Section of Earth 
+Sciences of the Russian Academy of Natural Sciences. URL: http://journals.istu.edu/nzn/journals/2015/01/
+articles/07
+
+2. Potvin Y., Wesseloo J. Towards an understanding of dynamic demand on ground support. Journal of the 
+Southern African Institute of Mining and Metallurgy. 2013;113(12):913–922. URL: https://www.saimm.co.za/
+Journal/v113n12p913.pdf
+
+3.  Abin Thomas C. A, Jayalakshmi S., Jerin K. A., Kumar K. S., Sreepriya K. V. Development of self 
+compacting concrete mix and analysis of compressive strength by replacement of fines with iron ore fines. 
+International Journal of Civil Engineering and Technology. 2017;8(4):1928–1937. URL: https://iaeme.com/Home/
+article_id/IJCIET_08_04_219
+
+4. Dorjiev D. Yu. Ensuring the stability of workings in an ore mass when developing rock-bump hazardous 
+uranium deposits (by the example of the Antey deposit. [Extended abstract of Cand. Sci. (Eng.) Dissertation.] St. 
+Petersburg; 2011. (In Russ.)
+
+5. Krinitsyn R. V., Polkhovsky V. I., Hudyakov S. V. Stabilization of chamber roofing by underground method 
+of deposit developing. Problemy nedropol'zovania. 2018;(1):22–28. (In Russ.). https://doi.org/10.25635/2313-
+1586.2018.01.022
+
+6.  Baranovskiy K. V., Rozhkov A. А. Grounding the technology with mobile equipment mining 
+Theurupsky Chalcopyrite Deposit lower horizons. Problemy nedropol'zovania. 2015;(3):36–43. (In Russ.). 
+URL: https://trud.igduran.ru/edition/6/5
+
+7. Veenstra R. L. A methodology for predicting dilution of cemented paste backfill’. In: Potvin Y. (ed.). 
+Proceedings of the International Seminar on Design Methods in Underground Mining. Perth: Australian Centre for 
+Geomechanics; 2015. Pp. 527–539. https://doi.org/10.36487/ACG_rep/1511_33_Veenstra
+
+8.  Ping Wang, Huiqiang Lia, Yan Lib. Bo Cheng Stability analysis of backfilling in subsiding area 
+and optimization of the stoping sequence. Journal of Rock Mechanics and Geotechnical Engineering. 
+2013;5(6):478– 485. https://doi.org/10.1016/j.jrmge.2013.07.008
+
+9. Potapchuk M. I. Geomechanical substantiation of safety measures in the development of vein deposits of 
+eastern Primorye. [Extended abstract of Cand. Sci. (Eng.) Dissertation.] Khabarovsk; 2012. Khabarovsk; 2012. 
+(In Russ.)
+
+10. Lobanov V. S., Rakhimdzhanov A. A., Kiselenko A. S., Kazakov B. I., Vakhitov R. R. Technology and 
+directions of improvement of Zarmitan deposit development using self-propelled equipment at Zarmitan 
+mine. Mining Bulletin of Uzbekistan. 2009;(4):38–40. (In Russ.). URL: http://gorniyvestnik.uz/assets/uploads/
+pdf/2009-oktyabr-dekabr.pdf
+
+11. Sozonov K. V. Stableness improvement of the excavations during the chamber-and-pillar development 
+of Yakovlevsky Deposit reserves. In: Litvinenko V. (ed.) Geomechanics and Geodynamics of Rock Masses: 
+Proceedings of the 2018 European Rock Mechanics Symposium. London: CRC Press; 2018. Pp. 1653–1657.
+
+12. Chilala G. C., de Assuncao J., Harris R., Stephenson R.M. Initial effects of improved drill and blast 
+practices on stope stability at Acacia’s Bulyanhulu Mine. In: Potvin Y. (ed.). Proceedings of the International 
+Seminar on Design Methods in Underground Mining. Perth: Australian Centre for Geomechanics; 2015. 
+Pp. 241–254. https://doi.org/10.36487/ACG_rep/1511_12_Chilala
+
+13. Zairov Sh. Sh., Makhmudov D. R., Urinov Sh. R. Theoretical and experimental research of explosive 
+rupture of rocks with muck piles of diff erent geometry. Gornyi Zhurnal. (In Russ.). 2018;(9):46–50.  
+https://doi.org/10.17580/gzh.2018.09.05
+
+14. Zairov S. S., Urinov S. R., Nomdorov R. U. Ensuring wall stability in the course of blasting at open 
+pits of Kyzyl Kum Region. Mining Science and Technology (Russia). 2020;5(3):235-252. (In Russ.). https://doi.
+org/10.17073/2500-0632-2020-3-235-252
+
+15. Khakimov Sh. I., Tazhiev U. R., Nasriddinov A. Sh. Analysis of underground development of steeply-
+dipping multi-vein ore bodies separated by rocks. Mining Bulletin of Uzbekistan. 2015;(3):17–19. (In Russ.). 
+URL: http://gorniyvestnik.uz/assets/uploads/pdf/2015-iyul-sentyabr.pdf
+
+257
+
+
+
+MINING SCIENCE AND TECHNOLOGY (RUSSIA) eISSN 2500-0632
+
+ГОРНЫЕ НАУКИ И ТЕХНОЛОГИИ https://mst.misis.ru/
+2021;6(4):252–258 Хакимов Ш. И., Уринов Ш. Р. Подэтажная система с искусственными целиками из твердеющей закладки...
+
+Информация об авторах
+Шодибой Ихматуллаевич Хакимов – к.т.н., доцент кафедры «Горное дело», Навоийский государ-
+ственный горный институт, г. Навои, Узбекистан; e-mail sh.xakimov2021@gmail.com
+Шерали Рауфович Уринов – д.т.н., профессор, профессор кафедры «Автоматизации и управления», 
+Навоийский государственный горный институт, г. Навои, Узбекистан; ORCID 0000-0002-2910-9806, 
+Scopus ID 57224523135; e-mail sh_urinov@mail.ru
+
+Information about the authors
+Shodiboy I. Khakimov – Cand. Sci. (Eng.), Associate Professor, Mining Department, Navoi State Mining 
+Institute, Navoi, Uzbekistan; e-mail sh.xakimov2021@gmail.com
+Sherali R. Urinov – Dr. Sci. (Eng.), Professor, Mining Department, Navoi State Mining Institute, Navoi, 
+Uzbekistan; ORCID 0000-0002-2910-9806, Scopus ID 57224523135; e-mail sh_urinov@mail.ru
+
+Поступила в редакцию  21.10.2021  Received 21.10.2021
+Поступила после рецензирования  25.11.2021  Revised  25.11.2021
+Принята к публикации 01.12.2021  Accepted  01.12.2021
+
+258

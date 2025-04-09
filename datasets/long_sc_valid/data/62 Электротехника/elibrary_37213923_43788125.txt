@@ -1,0 +1,500 @@
+﻿Краткие сообщения 
+ 
+УДК 621.3.011.713 DOI: 10.14529/power190112
+  
+ВЛИЯНИЕ ЧАСТОТЫ НА АМПЛИТУДЫ  
+ТОКА И МОМЕНТА СИНХРОННЫХ МАШИН 
+ 
+И.П. Попов 
+Курганский государственный университет, г. Курган, Россия 
+ 
+ 
+
+Состояние вопроса. Амплитуда ЭДС обмотки вращающей электрической машины зависит от час-
+тоты, в связи с чем может возникнуть интуитивное предположение, что амплитуды тока и вращающего 
+момента для индуктивной синхронной электрической машины (амплитуды напряжения и вращающего 
+момента для емкостной машины) также зависят от частоты. Методы исследования. В настоящей работе 
+применяются методы математического моделирования. Результаты. Справедливы следующие теоремы. 
+Теорема 1. Амплитуда тока в индуктивной нагрузке индуктивной синхронной электрической машины не 
+зависит от частоты вращения. Теорема 2. Амплитуда вращающего момента для индуктивной синхрон-
+ной электрической машины с индуктивной нагрузкой не зависит от частоты вращения. Теорема 3. Ам-
+плитуда напряжения на емкостной нагрузке емкостной синхронной электрической машины не зависит 
+от частоты вращения. Теорема 4. Амплитуда вращающего момента для емкостной синхронной электри-
+ческой машины с емкостной нагрузкой не зависит от частоты вращения. Выводы. Вопреки возможному 
+интуитивному предположению, для индуктивной синхронной электрической машины с индуктивной 
+нагрузкой амплитуды тока и вращающего момента от частоты вращения не зависят. При другом харак-
+тере нагрузки – зависят. Для емкостной синхронной электрической машины с емкостной нагрузкой ам-
+плитуды напряжения и вращающего момента от частоты вращения не зависят. 
+
+Ключевые слова: синхронная машина, индуктивная нагрузка, ток, момент, амплитуда. 
+ 
+ 
+
+Введение Задачи работы – получить доказательные на 
+Представляет интерес поведение синхронных уровне теорем результаты.  
+
+электрических машин при различном характере Актуальность исследования обусловлена ши-
+нагрузки. Для индуктивной синхронной электри- роким распространением синхронных электриче-
+ческой машины – это зависимость амплитуды тока ских машин, используемых, в частности, в качест-
+и вращающего момента от нагрузки, для емкост- ве генераторов. 
+ной синхронной электрической машины – это за-  
+висимость амплитуды напряжения и вращающего Ток и момент индуктивной  
+момента.  синхронной электрической машины  
+
+Анализ состояния вопроса. Потокосцепление при индуктивной нагрузке  
+обмотки вращающей электрической машины равно Пусть нагрузкой фазы индуктивной синхрон-
+
+  m cost . ной электрической машины [4–6] является катуш-
+ЭДС обмотки определяется выражением ка индуктивности. Далее суммарная индуктив-
+
+e d ность катушки и обмотки машины обозначается L. 
+     . 
+
+dt m sin t Число витков обмотки – n. Длина активной части 
+Амплитуда ЭДС витка – l. Индукция магнитного поля в рабочем 
+Em  m  зазоре – B. Угол поворота ротора – . Частота 
+
+вращения –   d dt . Ток – i. Число полюсов – 
+зависит от частоты, в связи с чем может возник-
+нуть интуитивное предположение, что амплитуды два. Диаметр ротора – Dr. Активные электрические 
+тока и вращающего момента для индуктивной и механические потери не учитываются.  
+синхронной электрической машины [1–3] (ампли- Для синхронной машины [7–10] с индуктив-
+туды напряжения и вращающего момента для ем- ной нагрузкой справедлива следующая теорема. 
+костной машины) также зависят от частоты.  Теорема 1. Амплитуда тока в индуктивной на-
+В действительности это происходит не всегда. грузке индуктивной синхронной электрической 
+Существенную роль в этом играет характер на- машины не зависит от частоты вращения. 
+грузки электрической машины.  Доказательство.  
+
+Цель исследования – показать, при каком ха- ЭДС одного витка обмотки в соответствии с 
+рактере нагрузки параметры синхронной электри- законом электромагнитной индукции равна  
+ческой машины не зависят от частоты.  е1  Blv sin . 
+
+102 Bulletin of the South Ural State University. Ser. Power Engineering. 
+2019, vol. 19, no. 1, pp. 102–106 
+
+
+
+Попов И.П.             Влияние частоты на амплитуды тока 
+                 и момента синхронных машин 
+
+Для n витков  Доказательство. При указанных допуще-
+еn  Blnvsin . ниях вращающий момент в соответствии с зако-
+Скорость v равна  ном Ампера (применительно к вращающей ма-
+
+шине) равен 
+v Dr d
+ . D
+
+2 dt   Blni Dr sin Bln Bln r cos D
+  r sin 
+
+2 L 2 2
+Таким образом, ЭДС идеализированной син-
+
+хронной машины равна (Bln)2 D2  
+  r sin 2.  
+
+L 8
+e  Bln Dr d
+
+ sin . 
+2 dt Амплитуда вращающего момента 
+
+При индуктивной нагрузке M (Bln)2 D2
+ r
+
+m  
+L 8
+
+u L di
+L   . 
+
+dt от частоты вращения  не зависит. Теорема доказана. 
+В соответствии с законом Кирхгофа Правомерен вопрос: а как обстоит дело при 
+e  u другом характере нагрузки синхронной электриче-
+
+L . 
+ской машины [11–14]? 
+
+Или   
+Bln Dr d sin di
+
+  L .        (1) Ток и момент при другом характере  
+2 dt dt нагрузки 
+
+Интегрирование этого выражения дает При активной нагрузке аналог уравнения (1) 
+имеет вид 
+
+i Bln D
+  r cos I0  Im cos I0.  
+
+L 2 Bln Dr d sin  Ri . 
+Начальный ток I0 можно положить равным 2 dt
+
+нулю. Амплитуда тока 
+Амплитуда тока 
+
+I Bln D
+ r
+
+I Bln Dr m   
+m   R 2
+
+L 2 от частоты вращения  зависит (линейно). 
+от частоты вращения  не зависит. Теорема дока- Вращающий момент равен 
+зана. 
+
+Лемма. Момент синхронной электрической D
+  Blni r sin B D
+
+  Bln ln r sin D
+ r sin 
+
+машины при реактивной нагрузке не равен нулю.  2 R 2 2  
+Доказательство. При реактивной нагрузке (Bln)2 D2
+
+развивается реактивная мощность  r sin 2.  
+R 8
+
+q ui U sint  I sin t  1
+   
+
+   UI sin 2t.  Амплитуда вращающего момента 
+ 2  2
+
+Она не равна нулю. M (Bln)2 D2
+ r
+
+m   
+Механическая мощность равна R 8
+p  .  от частоты вращения  зависит (линейно). 
+
+В соответствии с законом сохранения энер- При емкостной нагрузке [20] аналог уравне-
+гии механическая мощность равна электриче- ния (1) имеет вид 
+ской мощности. Из этого следует формула для t
+
+момента Bln Dr sin 1
+t   idt.  
+
+2 C
+p q UI 0
+
+     sin 2t . Дифференцирование этого выражения дает 
+  2
+
+Так же как и реактивная мощность, момент не i D
+ BlnC r 2 cost.  
+
+равен нулю. 2
+Лемма доказана. Амплитуда тока 
+Замечание 1. Речь не идет о среднем значении I  BlnC Dr 2
+
+момента за период колебаний. m  
+2
+
+Замечание 2. Из леммы необходимо следует, от частоты вращения  зависит (квадратично). 
+что механическая мощность, развиваемая маши- Вращающий момент равен 
+ной, также не равна нулю. 
+
+Теорема 2. Амплитуда вращающего момента   Blni Dr sin D
+  BlnBlnC r 2 cos D
+
+ r sin 
+для индуктивной синхронной электрической ма- 2 2 2
+
+2  
+шины с индуктивной нагрузкой не зависит от час-  (Bln)2 C Dr 2 sin 2.  
+тоты вращения. 8
+
+Вестник ЮУрГУ. Серия «Энергетика».  
+2019. Т. 19, № 1. С. 102–106 103 
+
+
+
+Краткие сообщения 
+Амплитуда вращающего момента q x
+
+2  dq  Db dx ,  
+M  (Bln)2C Dr 2
+
+m  
+8 0 0
+
+q  Dbx . 
+от частоты вращения  зависит (квадратично). 
+ С учетом последнего уравнения сила, дейст-
+
+Зависимость мощности  вующая на электрод, равна 
+от характера нагрузки 
+Для индуктивной нагрузки синхронной ма- F u
+
+ qE  q  Dbu .        (9) 
+x
+
+шины [15–18] реактивная электрическая мощность Это дуальный аналог закона Ампера для элек-
+равна трического (магнитоэлектрического) взаимодейст-
+
+2 2 вия. Здесь Е – напряженность электрического по-
+Q I 2 X I 2 L (Bln) D
+   r
+
+L   .     (2) 
+L 8 ля, u – напряжение. Электрический ток равен 
+
+Здесь I – действующее значение тока. i C du
+ .         (10) 
+
+Механическая мощность равна dt
+(Bln)2
+
+Q M D2
+r Замечание. Формулы (8) и (9) могут быть по-
+
+M     .       (3) 
+L 8 лучены из их электромагнитных аналогов путем 
+
+Разумеется, (2) и (3) совпали. простой дуально-инверсной замены величин e  i , 
+Мощность линейно зависит от частоты. B  D , l  b , i  u . 
+Для резистивной нагрузки активная электри- Теорема 3. Амплитуда напряжения на емко-
+
+ческая мощность равна стной нагрузке емкостной синхронной электриче-
+2 ской машины не зависит от частоты вращения. 
+
+P I 2R (Bln) D2
+  r 2 .       (4) Доказательство. Для вращательной маши-
+
+R 8 ны уравнение для тока с учетом (8) и (10) имеет 
+Механическая мощность равна вид 
+
+(Bln)2
+P M D2
+
+r
+M     .       (5) Db Dr d sin  C du .  
+
+R 8 2 dt dt
+Разумеется, (4) и (5) совпали. Интегрирование этого выражения дает 
+Мощность квадратично зависит от частоты. 
+
+u Db D
+  r
+
+Для емкостной нагрузки [19] реактивная элек- cosU0  Um cosU0 .   (11) 
+C 2
+
+трическая мощность равна Амплитуда напряжения 
+2
+
+Q  I 2 X 2 1 2 3
+C  I  (Bln) C Dr  .     (6) U Db Dr
+
+C 8 m          (12) 
+C 2
+
+Механическая мощность равна от частоты вращения  не зависит. Теорема дока-
+2
+
+Q  M  (Bln)2C Dr
+C 3 .       (7) зана. 
+
+8 Теорема 4. Амплитуда вращающего момента 
+Разумеется, (6) и (7) совпали. для емкостной синхронной электрической машины 
+Мощность кубично зависит от частоты. с емкостной нагрузкой не зависит от частоты вра-
+ щения. 
+Напряжение и момент емкостной  Доказательство. Вращающий момент в соот-
+синхронной электрической машины  ветствии с (9), (11) и (12) применительно к вра-
+при емкостной нагрузке  щающей машине равен 
+Дуальным аналогом индуктивной синхронной 
+
+  Dbu Dr
+электрической машины является емкостная син- sin  DbU cos D
+
+   r
+m sin   
+
+2 2
+хронная электрическая машина [20]. 2 2 2
+
+В соответствии с законом магнитоэлектриче- D Db Dr cos Dr sin D b D
+  b     r sin 2.  
+
+ской индукции (дуальный аналог закона электро- C 2 2 C 8
+магнитной индукции) ток равен Амплитуда вращающего момента 
+
+i  Dbv ,           (8) 
+M D2b2 D2
+
+где D – электрическая индукция (электрическое r
+m   
+
+смещение) в рабочем зазоре, b – ширина электро- C 8
+да, v – линейная скорость.  от частоты вращения  не зависит. Теорема дока-
+
+Выражение (8) можно преобразовать сле- зана. 
+дующим образом:  
+
+Заключение  
+dq dx
+
+ Db ,  Таким образом, вопреки возможному интуи-
+dt dt тивному предположению, для индуктивной син-
+dq  Dbdx ,  хронной электрической машины с индуктивной 
+
+104 Bulletin of the South Ural State University. Ser. Power Engineering. 
+2019, vol. 19, no. 1, pp. 102–106 
+
+
+
+Попов И.П.             Влияние частоты на амплитуды тока 
+                 и момента синхронных машин 
+нагрузкой амплитуды тока и вращающего момента пряжения и вращающего момента от частоты вра-
+от частоты вращения не зависят.  щения не зависят. 
+
+При другом характере нагрузки – зависят.  Полученные результаты рекомендуется ис-
+Для емкостной синхронной электрической пользовать при проектировании электрических 
+
+машины с емкостной нагрузкой амплитуды на- систем. 
+ 
+
+Литература/References 
+1. Bianchi N., Bolognani S., Bon D., Dai Pre M. Rotor Flux-Barrier Design for Torque Ripple Reduction 
+
+in Synchronous Reluctance and PM-Assisted Synchronous Reluctance Motors. IEEE Trans. on Ind. Appl., 2009, 
+vol. 45, no. 3, pp. 921–928. DOI: 10.1109/TIA.2009.2018960 
+
+2. Boglietti A., Cavagnino A., Pastorelli M., Vagati A. Experimental Comparison of Induction and Synchro-
+nous Reluctance Motors Performance. Conference Record of the 2005 Industry Applications Conference, Fortieth 
+IAS Annual Meeting, 2005, vol. 1, pp. 474–479. DOI: 10.1109/IAS.2005.1518350 
+
+3. Bomela X.B., Kamper M.J. Effect of Stator Chording and Rotor Skewing on Performance of Reluctance 
+Synchronous Machine. IEEE Trans. on Ind. Appl., 2002, no. 1, pp. 91–100. DOI: 10.1109/28.980362 
+
+4. Oprea C., Dziechciarz A, Martis C. Comparative Analysis of Different Synchronous Reluctance Motor Topologies. 
+International Conference on Environment and Electrical Engineering, 2015. DOI: 10.1109/EEEIC.2015.7165463 
+
+5. Fratta А., Troglia G.P., Vagati A., Villata F. Torque Ripple Evaluation of High-Performance Synchronous 
+Reluctance Machines. IEEE Trans. Ind. Appl. Mag., 1995, vol. 1, no. 4, pp. 14–22. DOI: 10.1109/2943.392459 
+
+6. Haataja J.A. Comparative Performance Study of Four Pole Induction Motors and Synchronous Reluctance 
+Motor in Variable Speed Drives. Lappeenranta University of Technology, 2003. 138 р. 
+
+7. Ho Lee J., Lee K., Hyun Cho Y., Won Yun T. Characteristics Analysis and Optimum Design of Anisotropy 
+Rotor Synchronous Reluctance Motor Using Coupled Finite Element Method and Response Surface Methodology. 
+IEEE Transactions on Magnetics, 2009, vol. 45, pp. 4696–4699. DOI: 10.1109/TMAG.2009.2024877  
+
+8. Hofmann H., Sanders S.R. High-Speed Synchronous Reluctance Machine with Minimized Rotor Loss. 
+IEEE Transactions on Industry Applications, 2000, vol. 36, no. 2, pp. 531–539. DOI: 10.1109/28.833771 
+
+9. Hortman M.B. Implementation and Evaluation of a Full-Order Observer for a Synchronous Reluctance 
+Motor. Thesis, School of Electrical and Computer Engineering Georgia Institute of Technology, 2004. 63 р. 
+
+10. Hossein A., Abolfazl V. Rotor Geometry Parameter Optimization of Synchronous Reluctance Motor 
+Using Taguchi Method. Przegląd Elektrotechniczny, 2013, pp. 197–201. 
+
+11. Hudak P., Hrabovcova V., Rafajdus P. Geometrical Dimension Induence of Multi-Barrier Rotor on Reluc-
+tance Synchronous Motor Performances. International Symposium on Power Electronics, Electrical Drives, Auto-
+mation and Motion SPEEDAM, 2006, pp. 346–351. DOI: 10.1109/SPEEDAM.2006.1649796 
+
+12. Kolehmainen J. Synchronous Reluctance Motor with Form Blocked Rotor. IEEE Transactions on Energy 
+Conversion, 2010, pp. 450–456. DOI: 10.1109/TEC.2009.2038579 
+
+13. Haataja J. A Comparative Performance Study of Four-Pole Induction Motors and Synchronous Reluc-
+tance Motors in Variable Speed Drives. Lappeenranta, 2003. 
+
+14. Kamper M.J., Van der Merwe F.S., Williamson S. Directnite Element Design Optimization of 
+the Cageless Reluctance Synchronous Machine. IEEE Transactions on Energy Conversion, 1996, vol. 11, no. 3, 
+pp. 547–555. DOI: 10.1109/60.537006 
+
+15. Lipo T.A. Synchronous Reluctance Machine, a Viable Alternative for AC Drives. E.M.P.S., 1991, vol. 19, 
+pp. 659–671. DOI: 10.1080/07313569108909556 
+
+16. Lipo T.A., Vagati A., Malesani L., Fukao T. Synchronous Reluctance Motors and Drives. A New Alterna-
+tive. IEEE IAS Annual Meeting, Tutorial Course, Electric Machines Committee, 1992, pp. 29–33. DOI: 
+10.1109/IAS.1992.244463 
+
+17. Moghaddam R.R. Synchronous Reluctance Machine (SynRM) Design. Thesis in Power Electrical Engi-
+neering, Royal Institute of Technology, 2007. 103 p. 
+
+18. Moghaddam R.R., Magnussen F., Sadarangani Ch. Theoretical and Experimental Reevaluation of Syn-
+chronous Reluctance Machine. IEEE Transactions on Industrial Electronics, 2010, vol. 57, no. 1, pp. 6–13. DOI: 
+10.1109/TIE.2009.2025286 
+
+19. Попов И.П. Емкостно-инертное устройство. Известия Санкт-Петербургского государственного 
+электротехнического университета «ЛЭТИ». 2015. Т. 2. С. 43–45. [Popov I.P. [Capacitive Inert Device]. 
+Izvestiya Sankt-Peterburgskogo gosudarstvennogo ehlektrotekhnicheskogo universiteta “LEHTI” [News of
+St. Petersburg State Electrotechnical University “LETI”], 2015, vol. 2, pp. 43–45.] 
+
+20. Попов И.П. Свободные гармонические колебания в электрических системах с однородными реак-
+тивными элементами. Электричество. 2013. № 1. С. 57–59. [Popov I.P. [Free Harmonic Oscillations in Electri-
+cal Systems with Homogeneous Reactive Elements]. Ehlektrichestvo [Electricity], 2013, no. 1, pp. 57–59.] 
+ 
+Вестник ЮУрГУ. Серия «Энергетика».  
+2019. Т. 19, № 1. С. 102–106 105 
+
+
+
+Краткие сообщения 
+Попов Игорь Павлович, старший преподаватель, Курганский государственный университет, г. Кур-
+
+ган; ip.popow@yandex.ru. 
+ 
+
+Поступила в редакцию 29 октября 2018 г. 
+ 
+__________________________________________________________________ 
+ 
+
+DOI: 10.14529/power190112 
+ 
+HOW ROTATIONAL SPEED AFFECTS AND CURRENT  
+AND TORQUE AMPLITUDES IN SYNCHRONOUS MACHINES 
+ 
+I.P. Popov, ip.popow@yandex.ru 
+Kurgan State University, Kurgan, Russian Federation 
+ 
+ 
+
+State of the art. The magnitude of winding EMF in a rotary electric machine depends on the rotational 
+speed, which gives rise to an intuitive assumption that the current and torque amplitudes for an inductive  
+synchronous electric machine (or voltage and torque amplitudes for a capacitive machine) will too. Research 
+methods. This research uses mathematical modeling. Results. The following theorems hold true. Theorem 1. 
+The current amplitude in the inductive load of an inductive synchronous electric machine does not depend on 
+the rotational speed. Theorem 2. The torque amplitude for an inductive synchronous electric machine with  
+an inductive load does not depend on the rotational speed. Theorem 3. The voltage amplitude for the capacitive 
+load of a capacitive synchronous electric machine does not depend on the rotational speed. Theorem 4. The am-
+plitude and torque for a capacitive synchronous electric machine with a capacitive load does not depend on  
+the rotational speed. Conclusions. Contrary to a possible intuitive assumption, the current and torque amplitudes 
+in an inductive synchronous electric machine with an inductive load do not depend on the rotational speed.  
+With another load type, they do. For a capacitive synchronous electric machine with a capacitive load, the volt-
+age and torque amplitude do not depend on the rotational speed. 
+
+Keywords: synchronous machine, inductive load, current, torque, amplitude. 
+ 
+ 
+
+Received 29 October 2018 
+ 
+ 
+
+ОБРАЗЕЦ ЦИТИРОВАНИЯ  FOR CITATION 
+Попов, И.П. Влияние частоты на амплитуды тока  Popov I.P. How Rotational Speed Affects and Cur-
+
+и момента синхронных машин / И.П. Попов // Вест- rent and Torque Amplitudes in Synchronous Machines. 
+ник ЮУрГУ. Серия «Энергетика». – 2019. – Т. 19,  Bulletin of the South Ural State University. Ser. Power 
+№ 1. – С. 102–106. DOI: 10.14529/power190112 Engineering, 2019, vol. 19, no. 1, pp. 102–106. (in Russ.) 
+ DOI: 10.14529/power190112 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+106 Bulletin of the South Ural State University. Ser. Power Engineering. 
+
+2019, vol. 19, no. 1, pp. 102–106

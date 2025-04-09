@@ -1,0 +1,788 @@
+﻿Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 264–276. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 264–276. 
+
+ 
+ГИДРОТЕХНИЧЕСКОЕ СТРОИТЕЛЬСТВО 
+
+Научная статья 
+УДК 627.141.1; 627.51 
+doi: 10.31774/2712-9357-2022-12-3-264-276 
+
+Организационно-технические мероприятия по обеспечению селезащиты 
+
+Олег Николаевич Гетто1, Виктор Александрович Белов2 
+1, 2Новочеркасский инженерно-мелиоративный институт имени А. К. Кортунова – 
+филиал Донского государственного аграрного университета, Новочеркасск,  
+Российская Федерация 
+1Protgts@rambler.ru 
+2Protgts@rambler.ru, https://orcid.org/0000-0001-7564-1732 
+
+Аннотация. Цель: предложить организационно-технические мероприятия по обес-
+печению эффективной селезащиты, которые базируются на производственном и научном 
+опыте отечественных и зарубежных исследований. Материалы и методы. При подготов-
+ке статьи использовались эмпирические методы, были изучены и проанализированы 
+научные публикации международных конференций, посвященных глобальному и реги-
+ональному анализу селевых потоков, моделированию, разработке методов и средств 
+организации защитных мероприятий, нормативных документов в области прогнозиро-
+вания селевых потоков и проектирования противоселевых конструкций и сооружений. 
+Результаты. В данное время организация селезащиты носит обособленный ведом-
+ственный характер или совсем отсутствует, а также не отвечает передовому опыту за-
+рубежных стран. Для обеспечения селезащиты предлагается создание единой системы, 
+целью которой является предотвращение схода селевого потока, обеспечение безопасно-
+сти людей, защита зданий, сооружений, автодорог и других строений при возникновении 
+селя. Предлагаемая организационная структура службы селезащиты включает государ-
+ственную и региональную службы. Государственная служба должна входить в состав 
+Министерства Российской Федерации по делам гражданской обороны, чрезвычайным 
+ситуациям и ликвидации последствий стихийных бедствий. Региональные службы 
+в свою очередь включают региональные центры, которые создаются на селеопасных тер-
+риториях и подчиняются непосредственно государственной службе. Определены основ-
+ные функции, задачи, организационная структура системы обеспечения селезащиты. 
+Выводы. Рекомендована организационная структура службы селезащиты, работа кото-
+рой в селеопасных районах должна выполняться на совместной базе научных исследова-
+ний и практических действий. Предложенные организационно-технические мероприятия 
+позволят более эффективно противопоставить человека природной стихии. 
+
+Ключевые слова: сель, стихийные бедствия, селевые паводки, селезащита, про-
+тивоселевые сооружения, геологический мониторинг 
+
+Для цитирования: Гетто О. Н., Белов В. А. Организационно-технические меро-
+приятия по обеспечению селезащиты // Мелиорация и гидротехника. 2022. Т. 12, № 3. 
+С. 264–276. https://doi.org/10.31774/2712-9357-2022-12-3-264-276. 
+
+HYDRAULIC ENGINEERING 
+
+Original article 
+
+Organizational and technical measures for mudflow protection security 
+
+____________________________ 
+© Гетто О. Н., Белов В. А., 2022 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 264–276. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 264–276. 
+
+ 
+Oleg N. Ghetto1, Viktor A. Belov2 
+1, 2Novocherkassk Engineering and Land Reclamation Institute named after A. K. Kortunov – 
+branch of the Don State Agrarian University, Novocherkassk, Russian Federation 
+1Protgts@rambler.ru 
+2Protgts@rambler.ru, https://orcid.org/0000-0001-7564-1732 
+
+Abstract. Purpose: to propose organizational and technical measures for effective 
+mudflow protection, which are based on the industrial and scientific experience of domestic 
+and foreign research. Materials and methods. In preparing the article, the empirical methods 
+were used, scientific publications of international conferences devoted to the global and re-
+gional analysis of mudflows, modeling, development of methods and means of organizing 
+protective measures, regulatory documents in the field of forecasting mudflows and designing 
+anti-mudflow structures and facilities were studied and analyzed. Results. At present, the or-
+ganization of mudflow protection is of a separate departmental nature or is completely absent, 
+and does not meet the best practices of foreign countries at all. To ensure mudflow protection, 
+a unified system, the purpose of which is to prevent mudflows, to ensure people's safety, to 
+protect buildings, structures, roads and other structures in case of a mudflow is proposed. The 
+proposed organizational structure of the mudflow protection service includes state and re-
+gional services. The State Service should be part of the Ministry of the Russian Federation for 
+Civil Defense, Emergency Situations and Elimination of Consequences of Natural Disasters. 
+Regional services, in turn, include regional centers that are created in mudflow-prone areas 
+and are directly subordinate to the state service. The main functions, tasks, organizational 
+structure of the mudflow protection system are determined. Conclusions. The organizational 
+structure of the mudflow protection service, the work of which in mudflow-prone areas 
+should be carried out on a joint basis of scientific research and practical actions, is recom-
+mended. The proposed organizational and technical measures will make it possible to oppose 
+a person to nature forces more effectively. 
+
+Keywords: mudflow, natural disasters, mud floods, mudflow protection, anti-mudflow 
+structures, geological monitoring 
+
+For citation: Ghetto O. N., Belov V. A. Organizational and technical measures for 
+mudflow protection security. Land Reclamation and Hydraulic Engineering. 2022;12(3): 
+264–276. (In Russ.). https://doi.org/10.31774/2712-9357-2022-12-3-264-276. 
+
+Введение. Сели широко распространены на территории Российской 
+
+Федерации. Они возникают в Кабардино-Балкарии, Северной Осетии – 
+
+Алании, Дагестане, Крыму, на Урале, Кольском полуострове, Камчатке. 
+
+Наиболее селеопасным районом России является Северный Кавказ. В пре-
+
+делах только северного склона Большого Кавказа насчитывается более 
+
+1700 селевых бассейнов общей площадью 7000 км2. Средняя их площадь 
+
+составляет 4,0 км2 при минимальной 0,20 км2 и максимальной 173,8 км2. 
+
+Кроме того, в регионе имеется много речных русел, в которых непосред-
+
+ственно формируются селевые паводки. Общая их протяженность более 
+
+3000 км [1]. 
+
+2 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 264–276. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 264–276. 
+
+ 
+В последние десятилетия из-за интенсивного освоения территорий, 
+
+связанных со строительством различных магистралей и объектов, число 
+
+селей не уменьшается, приводя к негативным последствиям в экономике и 
+
+жизни людей (рисунок 1), к решению отдельных вопросов по проблеме [2]. 
+
+ 
+Рисунок 1 – Последствия схода селя на автодороге  
+
+в районе Сулимского ручья (фото О. Н. Гетто) 
+
+Figure 1 – Consequences of mudflow on the road 
+near the Sulimsky stream (photo by O. N. Ghetto) 
+
+Изучению селевых явлений посвящено значительное число научных 
+
+трудов, предложены и внедрены десятки противоселевых сооружений. 
+
+Объем русскоязычной литературы по селевой проблеме составляет около 
+
+5500 названий. В настоящее время по проблеме селей в России работают 
+
+структуры МЧС, территориальные службы геологического мониторинга, 
+
+ВГИ, Севкавгипроводхоз, МГУ и другие учреждения. Их исследования от-
+
+стают от мирового селеведения, которое продвинулось вперед, например, 
+
+в таких вопросах, как натурные количественные измерения селей, лабора-
+
+торное моделирование потоков, проектирование защитных сооружений, 
+
+эксплуатация селезащитных сооружений [3]. 
+
+В качестве мониторинга селеопасных районов предлагаются: созда-
+
+ние единой информационно-картографической базы данных [4], современ-
+
+3 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 264–276. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 264–276. 
+
+ 
+ное дистанционное зондирование [5, 6], рекомендации по защите автомо-
+
+бильных дорог от селевых потоков [7] и др. Однако у всех них односто-
+
+ронний, не комплексный, подход к проблеме селезащиты. 
+
+В то же время никакие углубленные научно-исследовательские рабо-
+
+ты, никакие новые методы расчета, усовершенствованные конструкции и 
+
+рациональные приемы борьбы с селями, никакие высококачественные 
+
+проекты не будут плодотворно, эффективно использоваться, пока не будет 
+
+создано единое ведомство, для которого планирование, изучение, проекти-
+
+рование и осуществление всех этих работ будет единственным плановым 
+
+делом [8]. 
+
+Таким образом, целью исследований является разработка организа-
+
+ционно-технических мероприятий по обеспечению эффективной селеза-
+
+щиты, базирующихся на производственном и научном фундаментах. 
+
+Материалы и методы. При подготовке статьи использовались эмпи-
+
+рические методы. Были изучены и проанализированы научные публикации 
+
+международных конференций, посвященных глобальному и региональному 
+
+анализу селевых потоков, селевых катастроф, рисков и прогнозу селей, мо-
+
+делированию, анализу селевой опасности ледниковых озер, роли подвижек 
+
+ледников в формировании селей, разработке методов и средств организации 
+
+защитных мероприятий, сооружений, обеспечивающих безопасность жиз-
+
+недеятельности населения, экологическим исследованиям экзогенных про-
+
+цессов, разработке нормативных документов в области прогнозирования се-
+
+левых потоков и проектирования противоселевых конструкций и сооруже-
+
+ний. Отмечено, что сель – это гидрометеоролого-геологическое явление. 
+
+Поэтому в осуществлении селевого мониторинга (обследованиях, оценках и 
+
+рекомендациях) необходимо участие гидрологов и геологов, а в назначении 
+
+и разработке защитных мероприятий – гидротехников.  
+
+Результаты и обсуждение. В данное время организация селезащиты 
+
+носит обособленный ведомственный характер или совсем отсутствует. Она 
+
+4 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 264–276. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 264–276. 
+
+ 
+не отвечает передовому опыту зарубежных стран [9]. На рисунках 2 и 3 
+
+показаны примеры состояния противоселевых сооружений на склонах 
+
+Кавказских гор в районе Красной Поляны. 
+
+ 
+Рисунок 2 – Состояние ведомственного  
+
+селезащитного сооружения (фото О. Н. Гетто) 
+
+Figure 2 – The state of the departmental 
+mudflow protection structure (photo by O. N. Ghetto) 
+
+ 
+
+Рисунок 3 – Состояние бесхозяйного  
+селезащитного сооружения (фото О. Н. Гетто) 
+
+Figure 3 – The state of the ownerless 
+mudflow protection structure (photo by O. N. Ghetto) 
+
+5 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 264–276. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 264–276. 
+
+ 
+Считаем, что для обеспечения селезащиты должна быть создана еди-
+
+ная система, целью которой является предотвращение схода селевого по-
+
+тока, обеспечение безопасности людей, защита зданий, сооружений, авто-
+
+дорог при возникновении селя. 
+
+Предлагаются следующие основные функции системы обеспечения 
+
+безопасности: 
+
+- нормативное правовое регулирование и принятие государственных 
+
+мер в области защиты от селей; 
+
+- создание подразделений по предупреждению и защите от селей, ор-
+
+ганизация их деятельности; 
+
+- разработка и принятие мер по защите от селей; 
+
+- реализация прав, обязанностей и ответственности в области защиты 
+
+от селей;  
+
+- обучение населения мерам безопасности при прохождении селей; 
+
+- осуществление государственного надзора за деятельностью подраз-
+
+делений по защите от селей; 
+
+- выполнение работ и оказание услуг в области селезащиты; 
+
+- проведение аварийно-спасательных работ при прохождении селей; 
+
+- учет условий возникновения и прохождения селей.  
+
+Система обеспечения селезащиты должна содержать: 
+
+- систему предотвращения схода селевого потока; 
+
+- систему селезащиты; 
+
+- комплекс организационно-технических мероприятий по обеспече-
+
+нию селезащиты. 
+
+Предлагаемая организационная структура службы селезащиты вклю-
+
+чает государственную и региональную службы. 
+
+Государственная служба должна входить в состав Министерства Рос-
+
+сийской Федерации по делам гражданской обороны, чрезвычайным ситуа-
+
+6 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 264–276. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 264–276. 
+
+ 
+циям и ликвидации последствий стихийных бедствий (МЧС России) в каче-
+
+стве единой самостоятельной оперативной службы [10]. 
+
+Она включает в себя структурные подразделения центрального аппа-
+
+рата, осуществляющие управление деятельностью региональных служб, 
+
+инженерно-технических и научно-исследовательских учреждений и ее ко-
+
+ординацию. 
+
+Задачами службы являются [10]: 
+
+- организация разработки и принятия государственных мер в области 
+
+безопасности отрицательных склоновых процессов; 
+
+- нормативное регулирование; 
+
+- разработка и осуществление единой научно-технической политики 
+
+в области безопасности отрицательных склоновых процессов; 
+
+- лицензирование различных видов деятельности в области безопас-
+
+ности, согласование других видов деятельности организаций и отдельных 
+
+граждан на предмет получения лицензий; 
+
+- сертификация продукции в области безопасности отрицательных 
+
+склоновых процессов. 
+
+Региональные службы включают региональные центры по преду-
+
+преждению и ликвидации чрезвычайных ситуаций по субъектам Россий-
+
+ской Федерации. Они создаются на селеопасных территориях и подчиня-
+
+ются непосредственно Государственной службе МЧС. 
+
+Основными их задачами должны быть: 
+
+- организация и принятие мер по предупреждению схода селей; 
+
+- организация аварийно-спасательных работ при прохождении селей; 
+
+- устранение последствий схода селевых потоков. 
+
+Исходя из этого, предлагается следующая структура регионального 
+
+центра (рисунок 4). 
+
+Группа по предупреждению схода селей включает геологов, гидроло-
+
+7 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 264–276. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 264–276. 
+
+ 
+гов, гидротехников, агрономов и лесников. Ей должно быть отведено 
+
+наиболее важное место в организационной структуре регионального центра. 
+
+ 
+Рисунок 4 – Организационная структура регионального центра 
+
+Figure 4 – Organizational structure of the regional center 
+
+Для сокращения или устранения ущерба от селей данной группе 
+
+необходимо: 
+
+- исследовать и оценивать селеносные бассейны, выявлять степень 
+
+их опасности; 
+
+- определять возможные последствия в случае схода селевого потока 
+
+в каждом конкретном случае; 
+
+- определять объекты защиты и их значение в экономическом плане; 
+
+- обосновывать задачи и разрабатывать схему защиты, состав и ком-
+
+поновку противоселевых сооружений; 
+
+- составлять проекты сооружений с предварительной эксперимен-
+
+тальной проверкой; 
+
+- проводить научные исследования сходящих селей и работы проти-
+
+воселевых сооружений. 
+
+Группа по спасению и ликвидации последствий схода селей состоит 
+
+из спасателей, одновременно имеющих рабочие специальности и зани-
+
+8 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 264–276. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 264–276. 
+
+ 
+мающихся строительством, реконструкцией и текущим ремонтом селеза-
+
+держивающих, селепропускных, селенаправляющих, стабилизирующих и 
+
+селепредотвращающих сооружений, проведением лесомелиоративных 
+
+мероприятий. 
+
+В случае чрезвычайного происшествия группа обеспечивает безава-
+
+рийный сход селевого потока и выполняет спасательные работы. После 
+
+прохождения опасного склонового процесса проводит ликвидацию по-
+
+следствий негативных процессов селя. 
+
+Пункт связи предназначен для организационно-технических работ. 
+
+Он координирует действия групп при проведении исследований, строи-
+
+тельно-эксплуатационных, спасательных и других работ на горных скло-
+
+нах, отслеживает погодно-климатические процессы и информирует о них. 
+
+Группа материально-технического обеспечения должна гарантировать 
+
+решение экономических и материально-технических вопросов для эффек-
+
+тивной деятельности центра. 
+
+Для решения возложенных на центр задач он должен иметь научно-
+
+исследовательскую лабораторию, необходимые научные приборы, дорож-
+
+но-строительную технику, строительные материалы, спасательное обору-
+
+дование и др. 
+
+При функционировании регионального центра ведутся следующие 
+
+документы: 
+
+- задания и отчеты о научно-исследовательской работе;  
+
+- проекты выполненных и намечаемых ремонтно-строительных работ; 
+
+- положение о региональной службе; 
+
+- должностные инструкции личного состава; 
+
+- график дежурства; 
+
+- перечень техники и средств связи, порядок их эксплуатации; 
+
+- финансово-экономическая документация и т. д. 
+
+Кроме выполнения селезащиты региональные центры могут парал-
+
+9 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 264–276. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 264–276. 
+
+ 
+лельно выполнять защиту от оползней, которая зависит от правильных 
+
+действий человека на склонах [11]. 
+
+Предложенные система защиты от селей и ее организационная 
+
+структура позволят более эффективно противопоставить человека природ-
+
+ной стихии, что подтверждает и зарубежный опыт, рассмотренный в рабо-
+
+тах P. R. Tecca, Т. В. Бакарасовой, Р. В. Седых, Г. В. Гавардашвили, 
+
+Sh. Yang, А. Кривцова, В. Благовещенского и др. [12–18]. 
+
+Выводы 
+
+1 Имеющийся в России научно-практический опыт недостаточен 
+
+для эффективной селезащиты. Есть необходимость в создании единой си-
+
+стемы, целью которой является предотвращение схода селевого потока, 
+
+обеспечение безопасности людей, защита зданий, сооружений, автодорог 
+
+при возникновении селя. 
+
+2 Рекомендована организационная структура службы селезащиты, 
+
+которая включает государственную и региональные службы на базе Мини-
+
+стерства Российской Федерации по делам гражданской обороны, чрезвы-
+
+чайным ситуациям и ликвидации последствий стихийных бедствий. 
+
+3 Работа в селеопасных районах должна выполняться региональны-
+
+ми центрами на совместной базе научных исследований и практических 
+
+действий. 
+
+Список источников 
+
+1. Лурье П. М. Состояние и перспективы изучения селевой деятельности на Се-
+верном Кавказе // Труды Всероссийской конференции по селям, г. Нальчик, 26–28 окт. 
+2005 г. / Высокогор. геофиз. ин-т. М.: ЛКИ, 2008. С. 130–137. 
+
+2. Причины и последствия техногенной активизации селей в 2006–2019 гг. на 
+водосборе притока руч. Сулимовский (район пос. Красная Поляна, Западный Кавказ) / 
+С. В. Шварев, С. В. Харченко, В. Н. Голосов, М. И. Успенский // Геориск. 2020. Т. 14, 
+№ 2. С. 66–77. DOI: 10.25296/1997-8669-2020-14-2-66-76. 
+
+3. Черноморец С. С. Селевые исследования в России и странах бывшего Совет-
+ского Союза: история и перспективы // Изменения природной среды на рубеже тысяче-
+летий [Электронный ресурс]: труды междунар. электрон. конф. Тбилиси – М., 2006. 
+С. 67–75. URL: http:www.cetm.narod.ru/pdf/chernomorets.pdf (дата обращения: 02.06.2021). 
+
+4. Разумов В. В., Разумова Н. В. К проблеме создания единой информационно-
+картографической базы данных опасных природных процессов для территорий феде-
+ральных округов России // Геориск. 2016. № 2. С. 24–29. 
+
+10 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 264–276. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 264–276. 
+
+ 
+5. Сафаров М. С., Фазылов А. Р. Применение современных технологий дистан-
+
+ционного зондирования для мониторинга селеопасных районов горных территорий // 
+Геориск. 2020. Т. 14, № 2. С. 32–41. DOI: 10.25296/1997-8669-2020-14-2-32-41. 
+
+6. Ступин В. П., Пластинин Л. А., Олзоев Б. Н. Возможности материалов ди-
+станционного зондирования как информационной основы картографирования селевой 
+опасности Байкальской горной области // Геориск. 2020. Т. 14, № 2. С. 78–87. DOI: 
+10.25296/1997-8669-2020-14-2-78-87. 
+
+7. Маций С. И., Сухляева Л. А., Лесной В. А. Рекомендации по организации мо-
+ниторинга селевых процессов на автомобильных дорогах (на примере участка дороги 
+от Сулимовского ручья до с. Эсто-Садок) // Геориск. 2018. Т. 12, № 4. С. 58–64. 
+
+8. Херхелидзе И. И. Некоторые вопросы индустриального противоселевого строи-
+тельства // Гидрологические и гидротехнические основы проектирования противоселе-
+вых сооружений. Труды Закавказского НИГИ. Л.: Гидрометеоиздат, 1972. Вып. 40(46). 
+С. 6–46. 
+
+9. Белов В. А., Гетто О. Н. Сравнительный анализ организационно-технических 
+мер по защите от селевых потоков // Мелиорация как драйвер модернизации АПК в 
+условиях изменения климата: материалы междунар. науч.-практ. конф. / Новочеркас. 
+инж.-мелиоратив. ин-т Донского ГАУ. Новочеркасск: Лик, 2020. С. 167–170. 
+
+10. Методические рекомендации по организации деятельности оперативных шта-
+бов ликвидации чрезвычайных ситуаций и оперативных групп территориальных орга-
+нов МЧС России, местных гарнизонов пожарной охраны. М., 2013. 56 с. 
+
+11. Гетто О. Н. Обзор негативных склоновых процессов // Наука и молодежь. 
+Вып. 7. Инновации в современном агропромышленном комплексе: сб. науч. тр. / Ново-
+черкас. инж.-мелиоратив. ин-т Донского ГАУ. Новочеркасск, 2020. С. 42–45. 
+
+12. Tecca P. R., Genevois R., Scarso G. A. Statistical analysis of debris flows in the 
+Cortina D’ampezzo Area (Eastern Dolomites, Italy) // Геориск. 2020. № 3. С. 36–47. DOI: 
+10.25296/1997-8669-2020-14-3-36-46. 
+
+13. Бакарасова Т. В., Зиневич Ю. Н., Хажаназаров Е. К. Проектирование и строи-
+тельство селезащитных сооружений в Алматы и Алматинской области за период с 2008 
+по 2018 год // Геориск. 2018. № 4. С. 38–47. 
+
+14. Седых Р. В. Опыт защиты от селевых потоков в Австрии // Гидротехническое 
+строительство. 1969. № 2. С. 55–57. 
+
+15. Гавардашвили Г. В. Современные мероприятия по борьбе с селями и разра-
+ботка методологии для их проектирования // Геориск. 2013. № 2. С. 24–29. 
+
+16. The preliminary study of present situation of Hunshuigou debris flow prevention 
+engineering and risk assessment / Sh. Yang, J. Huang, J. Liu, H. Pan // Селевые потоки: ка-
+тастрофы, риск, прогноз, защита: материалы IV Междунар. конф. Иркутск, 2016. 
+C. 312–317. 
+
+17. Кривцов А., Морозов М. Сели и селезащита // Инженерная защита. 2014. 
+Вып. 3. С. 50–59. 
+
+18. Благовещенский В. Опыт защиты от селей в Казахстане // Инженерная защи-
+та. 2015. Вып. 11. С. 80–87. 
+
+References 
+
+1. Lurie P.M., 2008. Sostoyanie i perspektivy izucheniya selevoy deyatelʹnosti na 
+Severnom Kavkaze [The state and prospects of mudflow activity study in the Northern Cauca-
+sus]. Trudy Vserossiyskoy konferentsii po selyam, g. Nalchik, 26–28 okt. 2005 g. [Proc. of the 
+All-Russian Conference on Mudflows, Nalchik, 26–28 Oct. 2005]. High-Mountains Geophys-
+ical Institute, Moscow, LKI Publ., pp. 130-137. (In Russian).  
+
+2. Shvarev S.V., Kharchenko S.V., Golosov V.N., Uspensky M.I., 2020. Prichiny i 
+
+11 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 264–276. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 264–276. 
+
+ 
+posledstviya tekhnogennoy aktivizatsii seley v 2006–2019 gg. na vodosbore pritoka ruch’ya 
+Sulimovskiy (rayon pos. Krasnaya Polyana, Zapadnyy Kavkaz) [Causes and consequences of 
+mudflow technogenic activation in 2006–2019 in the catchment of the Sulimovsky stream 
+tributary (Krasnaya Polyana region, Western Caucasus)]. Georisk [GeoRisk], vol. 14, no. 2, 
+pp. 66-77, DOI: 10.25296/1997-8669-2020-14-2-66-76. (In Russian). 
+
+3. Chernomorets S.S., 2006. Selevye issledovaniya v Rossii i stranakh byvshego So-
+vetskogo Soyuza: istoriya i perspektivy [Debris flow research in Russia and former Soviet Un-
+ion: history and perspectives]. Izmeneniya prirodnoy sredy na rubezhe tysyacheletiy: trudy 
+mezhdunarodnoy elektronnoy konferentsii [Changes in the Natural Environment at the Turn of 
+the Millennium: Proc. of the International Electronic Conference]. Tbilisi, Moscow, pp. 67-75, 
+available: http:www.cetm.narod.ru/pdf/chernomorets.pdf [accessed 02.06.2021]. (In Russian). 
+
+4. Razumov V.V., Razumova N.V., 2016. K probleme sozdaniya edinoy informatsion-
+no-kartograficheskoy bazy dannykh opasnykh prirodnykh protsessov dlya territoriy feder-
+alʹnykh okrugov Rossii [To the problem of creating a unified information-cartographic data-
+base of hazardous natural processes for the territories of federal districts of Russia]. Georisk 
+[GeoRisk], no. 2, pp. 24-29. (In Russian). 
+
+5. Safarov M.S., Fazylov A.R., 2020. Primenenie sovremennykh tekhnologiy dis-
+tantsionnogo zondirovaniya dlya monitoringa seleopasnykh rayonov gornykh territoriy [Ap-
+plication of modern remote sensing technologies for monitoring debris flow-prone areas in 
+mountainous areas]. Georisk [GeoRisk], vol. 14, no. 2, pp. 32-41, DOI: 10.25296/1997-8669-
+2020-14-2-32-41. (In Russian). 
+
+6. Stupin V.P., Plastinin L.A., Olzoev B.N., 2020. Vozmozhnosti materialov dis-
+tantsionnogo zondirovaniya kak informatsionnoy osnovy kartografirovaniya selevoy opasnos-
+ti Baykalʹskoy gornoy oblasti [Possibilities of remote sensing data as an information basis for 
+debris flow hazard mapping in the Baikal Mountain Region]. Georisk [GeoRisk], vol. 14, 
+no. 2, pp. 78-87, DOI: 10.25296/1997-8669-2020-14-2-78-87. (In Russian).  
+
+7. Matsyy S.I., Sukhlyaeva L.A., Lesnoy V.A., 2018. Rekomendatsii po organizatsii 
+monitoringa selevykh protsessov na avtomobilʹnykh dorogakh (na primere uchastka dorogi ot 
+Sulimovskogo ruchʹya do sela Esto-Sadok) [Recommendations for organization of debris flow 
+monitoring processes on highways (a case-study of a road section from the Sulimovsky 
+stream to the Esto-Sadok village)]. Georisk [GeoRisk], vol. 12, no. 4, pp. 58-64. (In Russian). 
+
+8. Kherkhelidze I.I., 1972. Nekotorye voprosy industrialʹnogo protivoselevogo stroi-
+telʹstva [Some issues of industrial anti-mudflow construction]. Gidrologicheskie i gidrotekhnich-
+eskie osnovy proektirovaniya protivoselevykh sooruzheniy. Trudy Zakavkazskogo NIGI [Hydro-
+logical and Hydrotechnical Fundamentals of Designing Anti-Mudflow Structures. Proc. of the 
+Transcaucasian NIGI]. Leningrad, Gidrometeoizdat, iss. 40(46), pp. 6-46. (In Russian). 
+
+9. Belov V.A., Ghetto O.N., 2020. Sravnitelʹnyy analiz organizatsionno-tekhnicheskikh 
+mer po zashchite ot selevykh potokov [Comparative analysis of organizational and technical 
+measures to protect against mudflows]. Melioratsiya kak drayver modernizatsii APK v uslovi-
+yakh izmeneniya klimata: materialy mezhdunarodnoy nauchno-prakticheskoy konferentsii 
+[Reclamation as a Driver for the Modernization of Agro-Industrial Complex under Climate 
+Change: Proc. of the International Scientific-Practical Conference]. Novocherkassk Land Rec-
+lamation Engineering Institute of Don State Agrarian University, Novocherkassk, Lik Publ., 
+pp. 167-170. (In Russian). 
+
+10. Metodicheskie rekomendatsii po organizatsii deyatelʹnosti operativnykh shtabov 
+likvidatsii chrezvychaynykh situatsiy i operativnykh grupp territorialʹnykh organov MCHS 
+Rossii, mestnykh garnizonov pozharnoy okhrany [Guidelines for Organizing the Activities of 
+Operational Headquarters for Eliminating Emergency Situations and Operational Groups of 
+Territorial Bodies of the Ministry of Emergency Situations of Russia, Local Fire Guard Garri-
+sons]. Moscow, 2013, 56 p. (In Russian). 
+
+12 
+
+
+
+Мелиорация и гидротехника. 2022. Т. 12, № 3. С. 264–276. 
+Land Reclamation and Hydraulic Engineering. 2022. Vol. 12, no. 3. P. 264–276. 
+
+ 
+11. Ghetto O.N., 2020. Obzor negativnykh sklonovykh protsessov [Review of negative 
+
+slope processes]. Nauka i molodezhʹ. Vyp. 7. Innovatsii v sovremennom agropromyshlennom 
+komplekse: sbornik nauchnych trudov [Science and Youth. Iss. 7. Innovations in Modern 
+Agro-Industrial Complex: Collection of Scientific Articles]. Novocherkassk Land Reclama-
+tion Engineering Institute of Don State Agrarian University, Novocherkassk, pp. 42-45. 
+(In Russian). 
+
+12. Tecca P.R., Genevois R., Scarso G.A., 2020. Statistical analysis of debris flows in 
+the Cortina D’ampezzo Area (Eastern Dolomites, Italy). GeoRisk, no. 3, pp. 36-47, DOI: 
+10.25296/1997-8669-2020-14-3-36-46.  
+
+13. Bakarasova T.V., Zinevich Yu.N., Khazhanazarov E.K., 2018. Proektirovaniуe i 
+stroitelʹstvo selezashchitnykh sooruzheniy v Almaty i Almatinskoy oblasti za period s 2008 po 
+2018 god [Design and construction of debris flow protection structures in Almaty and Almaty 
+region in 2008-2018]. Georisk [GeoRisk], no. 4, pp. 38-47. (In Russian).  
+
+14. Sedykh R.V., 1969. Opyt zashchity ot selevykh potokov v Avstrii [Experience of 
+mudflow protection in Austria]. Gidrotekhnicheskoe stroitelʹstvo [Hydrotechnical Construc-
+tion], no. 2, pp. 55-57. (In Russian).  
+
+15. Gavardashvili G.V., 2013. Sovremennye meropriyatiya po borʹbe s selyami i raz-
+rabotka metodologii dlya ikh proektirovaniya [Modern anti-mudflows measures and devel-
+opment of their design methodology]. Georisk [GeoRisk], no. 2, pp. 24-29. (In Russian). 
+
+16. Yang Sh., Huang J., Liu J., Pan H., 2016. The preliminary study of the present situa-
+tion of Hunshuigou debris flow prevention engineering and risk assessment. Selevye potoki: ka-
+tastrofy, risk, prognoz, zashchita: materialy IV Mezhdunar. konf. [Debris Flows: Catastrophes, 
+Risk, Forecast, Protection: Proc. of the IV International Conference]. Irkutsk, pp. 312-317.  
+
+17. Krivtsov A., Morozov M., 2014. Seli i selezashchita [Mudflows and mudflow pro-
+tection]. Inzhenernaya zashchita [Engineering Protection], iss. 3, pp. 50-59. (In Russian). 
+
+18. Blagoveshchensky V., 2015. Opyt zashchity ot seley v Kazakhstane [Experience of 
+mudflow protection in Kazakhstan]. Inzhenernaya zashchita [Engineering Protection], iss. 11, 
+pp. 80-87. (In Russian). 
+
+Информация об авторах 
+О. Н. Гетто – аспирант; 
+В. А. Белов – доктор технических наук, профессор. 
+
+Information about the authors 
+O. N. Ghetto – Postgraduate Student; 
+V. A. Belov – Doctor of Technical Sciences, Professor. 
+
+Вклад авторов: все авторы сделали эквивалентный вклад в подготовку публикации. 
+Все авторы в равной степени несут ответственность при обнаружении плагиата, 
+самоплагиата и других нарушений в сфере этики научных публикаций.  
+
+Contribution of the authors: the authors contributed equally to this article.  
+All authors are equally responsible for detecting plagiarism, self-plagiarism and other ethical 
+violations in scientific publications. 
+
+Авторы заявляют об отсутствии конфликта интересов.  
+
+The authors declare no conflicts of interests. 
+
+Статья поступила в редакцию 12.05.2022; одобрена после рецензирования 11.07.2022; 
+принята к публикации 12.07.2022. 
+
+The article was submitted 12.05.2022; approved after reviewing 11.07.2022; accepted for 
+publication 12.07.2022. 
+
+13

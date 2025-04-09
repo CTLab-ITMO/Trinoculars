@@ -1,0 +1,690 @@
+﻿УДК 621.791 
+doi: 10.18323/2782-4039-2022-1-31-39 
+ 
+
+Влияние режима сварки трением с перемешиванием  
+на термическую стабильность сплава АД33 
+
+© 2022 
+1
+
+Калиненко Александр Андреевич* , аспирант 
+2
+
+Миронов Сергей Юрьевич , доктор физико-математических наук, ведущий научный сотрудник 
+3
+
+Высоцкий Игорь Васильевич , кандидат технических наук, младший научный сотрудник 
+4
+
+Малофеев Сергей Сергеевич , кандидат технических наук, научный сотрудник 
+Белгородский государственный национальный исследовательский университет, Белгород (Россия) 
+ 
+
+1
+*E-mail: kalinenko@bsu.edu.ru ORCID: https://orcid.org/0000-0001-7534-0542 
+
+2ORCID: https://orcid.org/0000-0003-2202-1518 
+3ORCID: https://orcid.org/0000-0002-4376-5535 
+4ORCID: https://orcid.org/0000-0001-9145-3723 
+
+ 
+Поступила в редакцию 27.07.2021          Принята к публикации 04.02.2022 
+
+ 
+Аннотация: Сварка трением с перемешиванием (СТП) представляет собой инновационную технологию твер-
+
+дофазного соединения металлических материалов. Она позволяет получать неразъемные соединения материалов, 
+традиционно считающихся несвариваемыми, в частности алюминиевых сплавов. К сожалению, существенным 
+недостатком СТП является относительно низкая термическая стабильность микроструктуры сварных соединений. 
+В частности, в ходе послесварочной термической обработки швов в них нередко наблюдается аномальный рост 
+зерен. Этот нежелательный феномен обычно трактуется в рамках так называемой «ячеистой» теории Хамфри,  
+в соответствии с которой аномальное поведение связано с существенным измельчением микроструктуры, а также 
+растворением частиц вторичных фаз, которые обычно имеют место в ходе СТП. Поскольку оба этих процесса су-
+щественно зависят от температуры, было сделано предположение, что термическая стабильность СТП-швов также 
+должна быть связана с термическим режимом СТП. Для проверки этой гипотезы было получено два сварных со-
+единения при различных термических условиях, а затем исследовано их микроструктурное поведение в ходе тер-
+мической обработки по режиму T6 (включавшей в себя обработку на твердый раствор и последующее искусст-
+венное старение). Для проведения микроструктурных исследований был привлечен передовой метод ориентаци-
+онной микроскопии (так называемый EBSD-анализ). В полном соответствии с исходным предположением было 
+показано, что эволюция микроструктуры в двух исследованных микроструктурных состояниях существенно раз-
+личается. В частности, установлено, что снижение температуры СТП способствует подавлению аномального рос-
+та зерен. Выдвинуто предположение, что повышенная термическая стабильность материала связана с сохранением 
+частиц вторичных фаз при низкотемпературной СТП.  
+
+Ключевые слова: сварка трением с перемешиванием; аномальный рост зерен; термически упрочняемые алю-
+миниевые сплавы. 
+
+Благодарности: Работа выполнена при финансовой поддержке Российского Научного Фонда (проект № 19-49-
+02001) с использованием оборудования Центра коллективного пользования «Технологии и Материалы НИУ "БелГУ"». 
+
+Статья подготовлена по материалам докладов участников X Международной школы «Физическое материало-
+ведение» (ШФМ-2021), Тольятти, 13–17 сентября 2021 года. 
+
+Для цитирования: Калиненко А.А., Миронов С.Ю., Высоцкий И.В., Малофеев С.С. Влияние режима сварки 
+трением с перемешиванием на термическую стабильность сплава АД33 // Frontier Materials and Technologies. 2022. 
+№ 1. С. 31–39. DOI: 10.18323/2782-4039-2022-1-31-39. 
+
+ 
+называется стороной набегания; противоположная сторо-
+
+ВВЕДЕНИЕ на именуется стороной отвода. К ключевым параметрам 
+Сварка трением с перемешиванием (СТП) представ- СТП обычно относят скорость вращения инструмента  
+
+ляет собой инновационную технологию твердофазного и скорость его горизонтального перемещения [1]. Счита-
+соединения металлических материалов (т. е. без пере- ется, что именно эти две характеристики определяют пи-
+вода их в расплав) [1]. Ее суть заключается во введении ковую температуру и скорость охлаждения и, таким обра-
+специального сварочного инструмента, вращающегося зом, обуславливают тепловую энергию процесса. 
+с очень большой угловой скоростью, в стык между Твердофазный характер СТП позволяет избежать 
+двумя свариваемыми листами и его последующего пе- образования нежелательной литой структуры в зоне 
+ремещения вдоль этого стыка. В ходе своего вращения сварного шва. В результате данный вид сварки обеспе-
+инструмент механически перемешивает свариваемый чивает получение высококачественных сварных соеди-
+материал, осуществляя таким образом сварку в твердом нений даже в материалах, которые ранее считались не-
+виде. Сочетание вращательного и трансляционного ви- пригодными для сваривания, в частности в термически 
+дов перемещения инструмента приводит к характерной упрочняемых алюминиевых сплавах [1]. Более того, 
+асимметрии СТП-процесса. В частности, сторона, на вследствие специфических особенностей данной тех-
+которой направления этих перемещений совпадают, нологии, свариваемый материал подвергается очень 
+
+F rontier Materials & Technologies. 2022. № 1 31
+
+
+
+Калиненко А.А., Миронов С.Ю., Высоцкий И.В., Малофеев С.С.   «Влияние режима сварки трением с перемешиванием…» 
+
+большим пластическим деформациям при повышенных старению при 160 °C в течение 8 ч. В результате данной 
+температурах. Это обычно ведет к формированию мел- обработки сформировалась относительно грубозерни-
+козернистой рекристаллизованной микроструктуры.  стая микроструктура с высоким содержанием нанокри-
+
+Важно отметить, что, хотя СТП осуществляется  ʺ
+сталлических частиц  -фазы, равномерно распределен-
+
+в твердофазном состоянии, температура процесса обыч- ных в интерьере зерен. Это микроструктурное состоя-
+но превышает ≈0,5 Тпл (где Тпл – гомологическая темпе- ние было обозначено как основной материал.  
+ратура плавления). В термически упрочняемых алюми- Листы основного материала толщиной 3 мм были 
+ниевых сплавах это обычно ведет к растворению частиц сварены встык вдоль направления экструзии на СТП-
+вторичных фаз и сопутствующему снижению прочно- машине AccurStir 1004. Сварочный инструмент был 
+сти материала. Одним из способов восстановления изготовлен из инструментальной стали и состоял из 
+прочностных характеристик СТП-швов является их плечиков диаметром 12,5 мм и пина высотой 2,7 мм  
+перезакалка с последующим искусственным старением. с конической метрической резьбой М5. Угол наклона 
+Однако предыдущие исследования в этой области пока- инструмента относительно нормали к поверхности сва-
+зали, что высокотемпературная обработка СТП-со- риваемых пластин составлял 2,5°. СТП осуществлялась 
+единений часто ведет к аномальному росту зерен в об- по двум режимам, соответствующим высоко- и низко-
+ласти сварного шва. Этот нежелательный феномен на- температурным условиям сварки (таблица 1). Термиче-
+блюдается как в алюминиевых сплавах различных серий, ский цикл СТП измерялся посредством термопар К-типа. 
+включая 1xxx [2; 3], 2xxx [4–6], 5xxx [7], 6xxx [8–10]  Для описания процесса СТП использовалась систе-
+и 7xxx [11–13], так и в магниевых сплавах [14–16], неко- ма координат, включавшая в себя направление сварки, 
+торых сталях [17; 18] и даже композитах с металлической поперечное направление и направление нормали к плос-
+матрицей [19]. Исходя из этого, можно предположить, что кости свариваемых листов. 
+относительно низкая термическая стабильность является С целью изучения термической стабильности мик-
+характерной для СТП-соединений в целом.  роструктуры СТП-швов, последние были подвергнуты 
+
+Несмотря на то, что феномен аномального роста зе- термической обработке по режиму T6.  
+рен известен уже на протяжении очень длительного Микроструктурные исследования проводились ме-
+времени, механизм этого интересного явления до сих тодами ориентационной микроскопии (в международ-
+пор не вполне ясен. Интенсивные исследования по- ной литературе он также известен как EBSD-анализ),  
+следних лет показали, что этот процесс развивается а также просвечивающей электронной микроскопии 
+очень неоднородно внутри зоны сварного шва. В част- (ПЭМ). Образцы для EBSD вырезались таким образом, 
+ности, первые признаки аномального роста зерен обыч- чтобы исследуемая поверхность была перпендикулярна 
+но наблюдаются в периферийных областях зоны пере- направлению сварки. Подготовка образцов осуществ-
+мешивания, в первую очередь в приповерхностном слое лялась с использованием обычных металлографических 
+[6; 20; 21]. Предполагается, что данный эффект связан  методик, т. е. предварительной механической полиров-
+с очень специфической микроструктурой, формирую- кой и финальной электрополировкой в стандартном 
+щейся в этих областях в ходе СТП [11]. электролите А2 (78 мл HClO4, 90 мл H2O, 730 мл 
+
+В работах [21–23] аномальный рост зерен в СТП-швах C2H5OH, 100 мл С6H14O2) при комнатной температуре  
+объясняется в рамках ячеистой модели Хамфри [24]. Со- и напряжении 14 В. EBSD-анализ проводился на рас-
+гласно этой теории, данный эффект является следстви- тровом электронном микроскопе FEI Quanta 600 с ис-
+ем значительного измельчения микроструктуры и рас- TM
+
+пользованием программного обеспечения TSL OIM . 
+творения частиц вторичных фаз, имеющих место в ходе Образцы для ПЭМ вырезались из центральной части 
+СТП. Поскольку интенсивность обоих процессов опре- зоны перемешивания, механически утонялись до тол-
+деляется температурой сварки, то, исходя из литератур- щины ≈100 мкм, а затем подвергались электролитиче-
+ных данных, была выдвинута гипотеза о наличии связи ской полировке на установке TenuPol-5 фирмы Struers  
+между режимами СТП и последующей склонностью ма- в растворе 30 % HNO3+70 % CH3OH при температуре 
+териала СТП-шва к аномальному росту зерен. Насколько −32 °С. Исследование микроструктуры осуществлялось 
+известно авторам, данный вопрос ранее не исследовался.  на просвечивающем электронном микроскопе JEOL 
+
+Цель работы – установление влияния режимов свар- JEM-2100 при ускоряющем напряжении 200 кВ. 
+ки трением с перемешиванием на термическую ста-  
+бильность структуры сварного соединения в ходе его 
+последующей перезакалки.  РЕЗУЛЬТАТЫ ИССЛЕДОВАНИЯ 
+
+ Влияние режима СТП на термический цикл сварки 
+приведено на рис. 1 а. Видно, что разница пиковых 
+
+МЕТОДИКА ПРОВЕДЕНИЯ ИССЛЕДОВАНИЯ температур между низко- и высокотемпературными 
+В качестве материала исследования использовался режимами составляла всего около 100 °С.  
+
+промышленный термически упрочняемый алюминиевый Однако, как следует из результатов моделирования 
+сплав АД33 (международное обозначение АА6061). равновесного фазового состава с использованием про-
+Сплав был получен методом полунепрерывного литья, граммного пакета ThermoCalc, это способствовало 
+гомогенизирован при 580 °С в течение 1 ч, а затем экс- принципиальному различию в поведении упрочняющей 
+трудирован при той же температуре до 75 % обжатия. вторичной фазы Mg2Si (рис. 1 b). В частности, в низко-
+Для выделения частиц вторичных фаз экструдирован- температурном шве имело место выделение упроч-
+ный материал был подвергнут термической обработке няющей -фазы, в то время как в высокотемпературном 
+по режиму T6, т. е. отожжен при 540 °C в течение 1 ч  сварном соединении данная фаза была близка к полно-
+с последующей закалкой в воду, а затем подвергнут му растворению. 
+
+3 2 Frontier Materials & Technologies. 2022. № 1
+
+
+
+Калиненко А.А., Миронов С.Ю., Высоцкий И.В., Малофеев С.С.   «Влияние режима сварки трением с перемешиванием…» 
+
+Таблица 1. Режимы сварки трением с перемешиванием  
+Table 1. Friction stir welding conditions  
+
+ 
+ 
+
+Режим Частота вращения инструмента, об/мин Скорость сварки, мм/мин 
+
+Низкотемпературный 500 380 
+
+Высокотемпературный 1100 125 
+
+ 
+ 
+ 
+
+  
+
+Высокотемпературный режим 
+
+Низкотемпературный режим 
+
+        
+ a b 
+
+Рис. 1. Влияние режима сварки трением с перемешиванием на термический цикл (a) 
+и зависимость удельной доли фазы Mg2Si (т. е. -фазы) от температуры,  
+
+вычисленная посредством программы ThermoCalc (b) 
+Fig. 1. The influence of friction stir welding conditions on a thermal cycle (a)  
+
+and the dependence of the specific Mg2Si phase share (i.e. -phase) on the temperature calculated by ThermoCalc software (b) 
+ 
+ 
+ 
+Панорамные EBSD-карты макроструктур низко-  Панорамные EBSD-карты макроструктур, сформи-
+
+и высокотемпературного режимов СТП представлены ровавшихся после перезакалки, представлены на рис. 5.  
+на рис. 2. В обоих случаях было выявлено образование Данные макроструктуры характеризуются преобла-
+четкой зоны перемешивания, в которой имело место данием относительно крупных зерен неправильной 
+существенное измельчение зеренной структуры. формы. Эта крупнозернистая структура имеет наиболее 
+
+Высокоразрешающие EBSD-карты микроструктур, ярко выраженный характер в высокотемпературном 
+сформировавшихся в центральной части зоны переме- шве (рис. 5 b).  
+шивания обоих швов, приведены на рис. 3. Ключевые  
+параметры микроструктур представлены в таблице 2. 
+
+В обоих исследованных случаях микроструктуры ОБСУЖДЕНИЕ РЕЗУЛЬТАТОВ 
+
+характеризовались преобладанием относительно мел-
+Взаимосвязь между режимами СТП и сформиро-
+
+ких зерен, содержащих развитую сетку субграниц 
+вавшейся микроструктурой 
+
+(рис. 3). В зависимости от конкретного режима сварки 
+средний размер зерен варьировался от 2 до 9 мкм, доля Во всех случаях в микроструктуре, сформировав-
+большеугловых границ – от 68 до 81 % (таблица 2). шейся непосредственно в ходе СТП, преобладали отно-
+
+Частицы вторичных фаз исследовались посредством сительно мелкие зерна, содержавшие развитую субзе-
+ПЭМ. Типичные микрофотографии, полученные с цен- ренную структуру. Подобные микроструктуры являют-
+тральной части зоны перемешивания, приведены на ся типичными для СТП-швов алюминиевых сплавов, и, 
+рис. 4. как общепринято считать, их формирование является 
+
+Низкотемпературный шов характеризовался нали- следствием непрерывной динамической рекристаллиза-
+чием высокой объемной доли относительно крупных ции, имеющей место в ходе СТП [1; 3]. 
+равноосных частиц (рис. 4 a). С другой стороны, в вы- В полном соответствии с ожиданиями снижение 
+сокотемпературном шве имело место практически пол- температуры СТП способствовало усилению эффекта 
+ное растворение дисперсоидов (рис. 4 b) в полном соот- измельчения микроструктуры (рис. 3, таблица 2). Кро-
+ветствии с результатами моделирования на ThermoCalc ме того, это также привело к повышению доли больше-
+(рис. 1 b). угловых границ (таблица 2). Последний эффект был, 
+
+ 
+
+F rontier Materials & Technologies. 2022. № 1 33
+
+
+
+Калиненко А.А., Миронов С.Ю., Высоцкий И.В., Малофеев С.С.   «Влияние режима сварки трением с перемешиванием…» 
+
+ 
+a 
+
+ 
+b 
+
+Рис. 2. Панорамные EBSD-карты, иллюстрирующие макроструктуру поперечного сечения сварных соединений: 
+a – низкотемпературный режим; b – высокотемпературный режим. 
+
+Система координат: НС – направление сварки; ПН – поперечное направление;  
+НН – направление нормали к плоскости свариваемых листов 
+
+Fig. 2. Panoramic EBSD maps illustrating the cross section macrostructure of a welded joint: 
+a – low-temperature mode; b – high-temperature mode. 
+
+Coordinates system: НС – welding progression; ПН – cross section; 
+НН – normal direction against the plane of welded sheets 
+
+ 
+ 
+ 
+
+         
+ a b 
+
+Рис. 3. Высокоразрешающие EBSD-карты, иллюстрирующие микроструктуру центральной части зоны перемешивания:  
+a – низкотемпературный режим; b – высокотемпературный режим.  
+
+На всех картах малоугловые границы (<15°) и большеугловые границы (≥15°)  
+обозначены белыми и черными линиями соответственно.  
+
+Система координат: НС – направление сварки; ПН – поперечное направление;  
+НН – направление нормали к плоскости свариваемых листов 
+
+Fig. 3. High-resolution EBSD maps illustrating the microstructure of a stir zone central part:  
+a – low-temperature mode; b – high-temperature mode.  
+
+In all maps, white lines denote low-angle boundaries (<15°) and black lines denote high-angle boundaries (≥15°).  
+Coordinates system: НС – welding progression; ПН – cross section;  
+
+НН – normal direction against the plane of welded sheets 
+ 
+ 
+ 
+
+Таблица 2. Микроструктурные характеристики зоны перемешивания 
+Table 2. Microstructural characteristics of a stir zone 
+
+ 
+ 
+
+Режим Средний размер зерна, мкм Доля большеугловых границ, % 
+
+Низкотемпературный 2,5±0,6 81 
+
+Высокотемпературный 8,5±3,0 68 
+
+3 4 Frontier Materials & Technologies. 2022. № 1
+
+
+
+Калиненко А.А., Миронов С.Ю., Высоцкий И.В., Малофеев С.С.   «Влияние режима сварки трением с перемешиванием…» 
+
+ 
+ 
+ 
+
+        
+
+ a b 
+
+Рис. 4. Микрофотографии просвечивающей электронной микроскопии, иллюстрирующие частицы  
+вторичных фаз в зоне перемешивания: a – низкотемпературный режим; b – высокотемпературный режим 
+
+Fig. 4. TEM-photomicrographs illustrating the second-phase particles in the stir zone:  
+a – low-temperature mode; b – high-temperature mode 
+
+ 
+ 
+ 
+ 
+
+ 
+a 
+
+ 
+b 
+
+Рис. 5. Панорамные EBSD-карты, иллюстрирующие макроструктуру поперечного сечения сварных соединений,  
+подвергнутых послесварочной термообработке по режиму T6:  
+
+a – низкотемпературный режим; b – высокотемпературный режим.  
+На всех EBSD-картах большеугловые границы обозначены черными линиями.  
+
+Система координат: НС – направление сварки; ПН – поперечное направление;  
+НН – направление нормали к плоскости свариваемых листов 
+
+Fig. 5. Panoramic EBSD maps illustrating the cross section macrostructure of welded joints  
+postweld heat treated under the T6 mode: a – low-temperature mode; b – high-temperature mode.  
+
+In all EBSD maps, black lines denote high-angle boundaries.  
+Coordinates system: НС – welding progression; ПН – cross section;  
+
+НН – normal direction against the plane of welded sheets 
+ 
+ 
+
+ 
+
+F rontier Materials & Technologies. 2022. № 1 35
+
+
+
+Калиненко А.А., Миронов С.Ю., Высоцкий И.В., Малофеев С.С.   «Влияние режима сварки трением с перемешиванием…» 
+
+вероятно, связан с активизацией процессов возврата  приведены на рис. 6. Во всех случаях сформировавшая-
+в условиях высокотемпературной деформации, которые ся микроструктура была очень неоднородной и разница 
+способствовали снижению плотности свободных дис- в размерах зерен достигала одного порядка. Важно от-
+локаций и тем самым замедляли эволюцию границ де- метить наличие «островков» исходной мелкозернистой 
+формационного происхождения.  микроструктуры (несколько примеров указаны стрел-
+
+Важным следствием снижения температуры СТП ками), которые свидетельствовали об аномальном ха-
+стало повышение объемной доли частиц вторичных рактере процесса роста зерен.  
+фаз. Исходя из результатов моделирования равновесно- Наличие относительно мелкозернистой мирострук-
+го фазового состава в ThermoCalc (рис. 2 b), можно туры в низкотемпературном СТП-соединении (рис. 6 а) 
+предположить, что данный результат был связан с рас- свидетельствует о более или менее конкурентном ха-
+творением частиц в высокотемпературном шве и их рактере процесса роста зерен. Таким образом, на основе 
+выделением в низкотемпературном шве.  данного результата можно предположить, что снижение 
+
+Как показано на рис. 5, перезакалка сварных швов температуры СТП должно способствовать подавлению 
+привела к значительному огрублению зеренной струк- аномального характера роста зерна.  
+туры. Учитывая существенную неоднородность зерен Поскольку в данной работе исследовался термиче-
+по размерам, а также их аномально крупную величину, ски упрочняемый сплав, то можно допустить, что дан-
+можно сделать вывод, что рост зерен носил аномаль- ный феномен так или иначе связан с частицами вторич-
+ный характер. Важно подчеркнуть, что финальная мик- ных фаз. Скорее всего, сохранение значительной объ-
+роструктура, сформировавшаяся в ходе перезакалки,  емной доли частиц в низкотемпературном шве в ходе 
+в значительной мере зависела от условий СТП.  СТП (рис. 4 a) обеспечивает повышенную термическую 
+
+В частности, в низкотемпературном сварном соеди- стабильность сформировавшейся микроструктуры. 
+нении финальный размер аномальных зерен был отно- Кроме аномального роста зерен в зоне перемешивания 
+сительно небольшим (рис. 5 а), в то время как в высо- существенные микроструктурные изменения также были 
+котемпературном шве зерна достигали величины около обнаружены в других областях СТП-швов. В частности,  
+3 мм (рис. 5 b). Таким образом, снижение температуры в области, непосредственно примыкающей к зоне пере-
+СТП обеспечивало формирование относительно мелко- мешивания (в международной литературе этот микро-
+зернистой структуры в ходе последующей термической структурный регион известен как зона термомеханическо-
+обработки. Иными словами, исходная гипотеза данной го влияния), было выявлено формирование относительно 
+работы полностью подтвердилась. мелкозернистой микроструктуры (рис. 5). Данный эффект 
+
+Карты EBSD, полученные из центральной части зо- был наиболее ярко выражен на стороне отвода низкотем-
+ны перемешивания исследованных СТП-соединений, пературного сварного соединения (рис. 5 а).  
+
+ 
+ 
+
+ 
+
+        
+ a b 
+
+Рис. 6. EBSD-карты, иллюстрирующие микроструктуру зоны перемешивания сварных соединений,  
+подвергнутых послесварочной термообработке по режиму T6:  
+
+a – низкотемпературный режим; b – высокотемпературный режим.  
+Стрелками обозначены «островки» исходной мелкозернистой микроструктуры.  
+Система координат: НС – направление сварки; ПН – поперечное направление;  
+
+НН – направление нормали к плоскости свариваемых листов 
+Fig. 6. EBSD maps illustrating the stir zone microstructure of welded joints  
+
+postweld heat treated under the T6 mode: a – low-temperature mode; b – high-temperature mode.  
+Arrows denote the “islands” of the initial fine-grained microstructure.  
+Coordinates system: НС – welding progression; ПН – cross section;  
+
+НН – normal direction against the plane of welded sheets 
+
+3 6 Frontier Materials & Technologies. 2022. № 1
+
+
+
+Калиненко А.А., Миронов С.Ю., Высоцкий И.В., Малофеев С.С.   «Влияние режима сварки трением с перемешиванием…» 
+
+Согласно литературным данным, в ходе СТП матери- 6. Pang Q., Zhang J.H., Huq M.J., Hu Z.L. Characteriza-
+ал в зоне термомеханического влияния подвергается от- tion of microstructure, mechanical properties and form-
+носительно небольшим деформациям при сравнительно ability for thermomechanical treatment of friction stir 
+низких температурах [1; 25]. Как следствие, динамиче- welded 2024-O alloys // Materials Science and Engi-
+ская рекристаллизация в этой микроструктурной области neering: A. 2019. Vol. 765. Article number 138303. 
+протекает не в полной мере, и, таким образом, материал DOI: 10.1016/j.msea.2019.138303.  
+характеризуется относительно высокой плотностью ос- 7. Liu F.C., Ma Z.Y., Chen L.Q. Low-temperature 
+таточных дислокаций. В этой связи можно предполо- superplasticity of Al–Mg–Sc alloy produced by friction 
+жить, что в ходе послесварочной термической обработки stir processing // Scripta Materialia. 2009. Vol. 60. № 11. 
+в зоне термомеханического влияния развивается стати- P. 968–971. DOI: 10.1016/j.scriptamat.2009.02.021.  
+ческая рекристаллизация, которая и приводит к образо- 8. Kalinenko A., Vysotskiy I., Malopheyev S., Gazizov M., 
+ванию относительно мелкозернистой микроструктуры.  Mironov S., Kaibyshev R. Suppression of abnormal 
+
+При относительно низких температурах СТП ожи- grain growth in friction-stir welded aluminum by pre-
+дается образование сравнительно высокой плотности strain rolling: Limitation of the approach // Materials 
+дислокаций, что, в свою очередь, должно приводить  Science and Engineering: A. 2022. Vol. 832. Article 
+к более бурному развитию рекристаллизационных про- number 142388. DOI: 10.1016/j.msea.2021.142388. 
+цессов в ходе последующего отжига материала. Данная 9. Baghdadi A.H., Sajuri Z., Omar M.Z., Rajabi A. Friction 
+гипотеза вполне согласуется с образованием протяжен- Stir Welding Parameters: Impact of Abnormal Grain 
+ной рекристаллизованной области в низкотемператур- Growth during Post-Weld Heat Treatment on Mechanical 
+ном шве (рис. 5 а). Properties of Al–Mg–Si Welded Joints // Metals. 2020. 
+
+ Vol. 10. № 12. P. 1–18. DOI: 10.3390/met10121607. 
+10. Kalinenko A., Vysotskiy I., Malopheyev S., Mironov S., 
+
+ОСНОВНЫЕ РЕЗУЛЬТАТЫ И ВЫВОДЫ  Kaibyshev R. New insight into the phenomenon of  
+Сварка трением с перемешиванием (СТП) приводит the abnormal grain growth in friction-stir welded alumi-
+
+к существенному измельчению микроструктуры свар- num // Materials Letters. 2021. Vol. 302. Article num-
+ных швов. Установлено, что снижение температуры ber 130407. DOI: 10.1016/j.matlet.2021.130407. 
+СТП путем варьирования таких параметров сварки, как 11. Lezaack M.B., Simar A. Avoiding abnormal grain 
+частота вращения сварочного инструмента и скорость growth in thick 7XXX aluminium alloy friction stir 
+сварки, способствует усилению эффекта измельчения welds during T6 post heat treatments // Materials Sci-
+микроструктуры. ence and Engineering: A. 2021. Vol. 807. Article num-
+
+Термическая обработка сварных соединений, полу- ber 140901. DOI: 10.1016/j.msea.2021.140901. 
+ченных посредством СТП, приводит к аномальному рос- 12. Yadav D., Bauri R., Chawake N. Fabrication of Al-Zn 
+ту зерен. Данный процесс в значительной мере зависит solid solution via friction stir processing // Materials 
+от температурных условий сварки. В частности, сниже- Characterization. 2018. Vol. 136. P. 221–228. DOI: 10. 
+ние температуры СТП способствует его подавлению. 1016/j.matchar.2017.12.022. 
+
+ 13. Hou Y.F., Liu C.Y., Zhang B., Wei L.L., Dai H.T.,  
+Ma Z.Y. Mechanical properties and corrosion resistance of 
+
+СПИСОК ЛИТЕРАТУРЫ the fine grain structure of Al–Zn–Mg–Sc alloys fabricated 
+1. Mishra R.S., Ma Z.Y. Friction stir welding and pro- by friction stir processing and post-heat treatment // Mate-
+
+cessing // Materials Science and Engineering R: Re- rials Science and Engineering: A. 2020. Vol. 785. Article 
+ports. 2005. Vol. 50. № 1-2. P. 1–78P. DOI: 10.1016/j. number 139393. DOI: 10.1016/j.msea.2020.139393. 
+mser.2005.07.001. 14. Han G., Lee K., Yoon J.-Y., Na T.-W., Ahn K., Kang M.-J., 
+
+2. Sato Y.S., Watanabe H., Kokawa H. Grain growth phe- Jun T.-S. Effect of post-weld heat treatment on mecha-
+nomena in friction stir welded 1100 Al during post-weld nical properties of local weld-affected zones in friction 
+heat treatment // Science and Technology of Welding stir welded AZ31 plates // Materials Science and Engi-
+and Joining. 2007. Vol. 12. № 4. P. 318–323. DOI: 10. neering: A. 2021. Vol. 805. Article number 140809. 
+1179/174329307X197575. DOI: 10.1016/j.msea.2021.140809. 
+
+3. Sarkari Khorrami M., Saito N., Miyashita Y. Texture 15. Morisada Y., Fujii H., Nagaoka T., Fukusumi M. Effect 
+and strain-induced abnormal grain growth in cryogenic of friction stir processing with SiC particles on micro-
+friction stir processing of severely deformed aluminum structure and hardness of AZ31 // Materials Science and 
+alloy // Materials Characterization. 2019. Vol. 151.  Engineering: A. 2006. Vol. 433. № 1-2. P. 50–54.  
+P. 378–389. DOI: 10.1016/j.matchar.2019.03.010. DOI: 10.1016/j.msea.2006.06.089. 
+
+4. Zuiko I.S., Mironov S., Betsofen S., Kaibyshev R. Sup- 16. Wang W., Han P., Peng P., Guo H., Huang L., Qiao K., 
+pression of abnormal grain growth in friction-stir welded Hai M., Yang Q., Wang H., Wang K., Wang L. Super-
+Al-Cu-Mg alloy by lowering of welding temperature // plastic deformation behavior of fine-grained AZ80 mag-
+Scripta Materialia. 2021. Vol. 196. Article number nesium alloy prepared by friction stir processing // Jour-
+113765. DOI: 10.1016/j.scriptamat.2021.113765. nal of Materials Research and Technology. 2020. Vol. 9. 
+
+5. Safarkhanian M.A., Goodarzi M., Boutorabi S.M.A. № 3. P. 5252–5263. DOI: 10.1016/j.jmrt.2020.03.052. 
+Effect of abnormal grain growth on tensile strength of 17. Sun Y., Fujii H. Effect of abnormal grain growth on micro-
+Al–Cu–Mg alloy friction stir welded joints // Journal of structure and mechanical properties of friction stir welded 
+materials science. 2009. Vol. 44. № 20. P. 5452–5458. SPCC steel plates // Materials Science and Engineering: A. 
+DOI: 10.1007/s10853-009-3735-x. 2017. Vol. 694. P. 81–92. DOI: 10.1016/j.msea.2017.04.008. 
+
+F rontier Materials & Technologies. 2022. № 1 37
+
+
+
+Калиненко А.А., Миронов С.Ю., Высоцкий И.В., Малофеев С.С.   «Влияние режима сварки трением с перемешиванием…» 
+
+18. Li Y.J., Fu R.D., Du D.X., Jing L.J., Sang D.L., Wang Y.P. 5. Safarkhanian M.A., Goodarzi M., Boutorabi S.M.A. 
+Effect of post-weld heat treatment on microstructures Effect of abnormal grain growth on tensile strength of 
+and properties of friction stir welded joint of 32Mn– Al–Cu–Mg alloy friction stir welded joints. Journal of 
+7Cr–1Mo–0·3N steel // Science and Technology of materials science, 2009, vol. 44, no. 20, pp. 5452–5458. 
+Welding and Joining. 2015. Vol. 20. № 3. P. 229–235. DOI: 10.1007/s10853-009-3735-x. 
+DOI: 10.1179/1362171815Y.0000000001. 6. Pang Q., Zhang J.H., Huq M.J., Hu Z.L. Characteriza-
+
+19. Khodabakhshi F., Simchi A., Kokabi A.H., Gerlich A.P., tion of microstructure, mechanical properties and form-
+Nosko M. Effects of post-annealing on the microstruc- ability for thermomechanical treatment of friction stir 
+ture and mechanical properties of friction stir processed welded 2024-O alloys. Materials Science and Engineer-
+Al–Mg–TiO2 nanocomposites // Materials & Design. ing: A, 2019, vol. 765, article number 138303.  
+2014. Vol. 63. P. 30–41. DOI: 10.1016/j.matdes.2014. DOI: 10.1016/j.msea.2019.138303.  
+05.065. 7. Liu F.C., Ma Z.Y., Chen L.Q. Low-temperature 
+
+20. Guo J., Lee B.Y., Du Z., Bi G., Tan M.J., Wei J. Effect superplasticity of Al–Mg–Sc alloy produced by friction stir 
+of nano-particle addition on grain structure evolution of processing. Scripta Materialia, 2009, vol. 60, no. 11,  
+friction stir-processed Al 6061 during postweld anneal- pp. 968–971. DOI: 10.1016/j.scriptamat.2009.02.021.  
+ing // JOM. 2016. Vol. 68. № 8. P. 2268–2273. DOI: 10. 8. Kalinenko A., Vysotskiy I., Malopheyev S., Gazizov M., 
+1007/s11837-016-1991-1.  Mironov S., Kaibyshev R. Suppression of abnormal 
+
+21. Attallah M.M., Salem H.G. Friction stir welding param- grain growth in friction-stir welded aluminum by pre-
+eters: a tool for controlling abnormal grain growth dur- strain rolling: Limitation of the approach. Materials Sci-
+ing subsequent heat treatment // Materials Science and ence and Engineering: A, 2022, vol. 832, article number 
+Engineering: A. 2005. Vol. 391. № 1-2. P. 51–59.  142388. DOI: 10.1016/j.msea.2021.142388. 
+DOI: 10.1016/j.msea.2004.08.059. 9. Baghdadi A.H., Sajuri Z., Omar M.Z., Rajabi A. Fric-
+
+22. Mironov S., Masaki K., Sato Y.S., Kokawa H. Relation- tion Stir Welding Parameters: Impact of Abnormal 
+ship between material flow and abnormal grain growth Grain Growth during Post-Weld Heat Treatment on 
+in friction-stir welds // Scripta Materialia. 2012. Vol. 67. Mechanical Properties of Al–Mg–Si Welded Joints. 
+№ 12. P. 983–986. DOI: 10.1016/j.scriptamat.2012. Metals, 2020, vol. 10, no. 12, pp. 1–18. DOI: 10.3390/ 
+09.002.  met10121607. 
+
+23. Hassan Kh.A.A., Norman A.F., Price D.A., Prangnell P.B. 10. Kalinenko A., Vysotskiy I., Malopheyev S., Mironov S., 
+Stability of nugget zone grain structures in high strength Kaibyshev R. New insight into the phenomenon of  
+Al-alloy friction stir welds during solution treatment // the abnormal grain growth in friction-stir welded alumi-
+Acta Materialia. 2003. Vol. 51. № 7. P. 1923–1936. num. Materials Letters, 2021, vol. 302, article number 
+DOI: 10.1016/S1359-6454(02)00598-0.  130407. DOI: 10.1016/j.matlet.2021.130407. 
+
+24. Humphreys F.J. A unified theory of recovery, recrystal- 11. Lezaack M.B., Simar A. Avoiding abnormal grain 
+lization and grain growth, based on the stability and growth in thick 7XXX aluminium alloy friction stir 
+growth of cellular microstructures—II. The effect of se- welds during T6 post heat treatments. Materials Science 
+cond-phase particles // Acta Materialia. 1997. Vol. 45. and Engineering: A, 2021, vol. 807, article number 
+№ 12. P. 5031–5039. DOI: 10.1016/S1359-6454(97) 140901. DOI: 10.1016/j.msea.2021.140901.  
+00173-0. 12. Yadav D., Bauri R., Chawake N. Fabrication of Al-Zn 
+
+25. Jacquin D., Guillemot G. A review of microstructural solid solution via friction stir processing. Materials 
+changes occurring during FSW in aluminium alloys and Characterization, 2018, vol. 136, pp. 221–228. DOI: 10. 
+their modelling // Journal of Materials Processing Tech- 1016/j.matchar.2017.12.022. 
+nology. 2021. Vol. 288. Article number 116706.  13. Hou Y.F., Liu C.Y., Zhang B., Wei L.L., Dai H.T.,  
+DOI: 10.1016/j.jmatprotec.2020.116706. Ma Z.Y. Mechanical properties and corrosion resistance 
+ of the fine grain structure of Al–Zn–Mg–Sc alloys fab-
+
+ricated by friction stir processing and post-heat treat-
+REFERENCES ment. Materials Science and Engineering: A, 2020, 
+
+1. Mishra R.S., Ma Z.Y. Friction stir welding and pro- vol. 785, article number 139393. DOI: 10.1016/j.msea. 
+cessing. Materials Science and Engineering R: Reports, 2020.139393. 
+2005, vol. 50, no. 1-2, pp. 1–78P. DOI: 10.1016/j.mser. 14. Han G., Lee K., Yoon J.-Y., Na T.-W., Ahn K., Kang M.-J., 
+2005.07.001. Jun T.-S. Effect of post-weld heat treatment on mecha-
+
+2. Sato Y.S., Watanabe H., Kokawa H. Grain growth phe- nical properties of local weld-affected zones in friction 
+nomena in friction stir welded 1100 Al during post-weld stir welded AZ31 plates. Materials Science and Engi-
+heat treatment. Science and Technology of Welding and neering: A, 2021, vol. 805, article number 140809.  
+Joining, 2007, vol. 12, no. 4, pp. 318–323. DOI: 10. DOI: 10.1016/j.msea.2021.140809. 
+1179/174329307X197575. 15. Morisada Y., Fujii H., Nagaoka T., Fukusumi M. Effect 
+
+3. Sarkari Khorrami M., Saito N., Miyashita Y. Texture of friction stir processing with SiC particles on micro-
+and strain-induced abnormal grain growth in cryogenic structure and hardness of AZ31. Materials Science and 
+friction stir processing of severely deformed aluminum Engineering: A, 2006. vol. 433, no. 1-2, pp. 50–54. 
+alloy. Materials Characterization, 2019, vol. 151, DOI: 10.1016/j.msea.2006.06.089. 
+pp. 378–389. DOI: 10.1016/j.matchar.2019.03.010. 16. Wang W., Han P., Peng P., Guo H., Huang L., Qiao K., 
+
+4. Zuiko I.S., Mironov S., Betsofen S., Kaibyshev R. Sup- Hai M., Yang Q., Wang H., Wang K., Wang L. Super-
+pression of abnormal grain growth in friction-stir weld- plastic deformation behavior of fine-grained AZ80 magne-
+ed Al-Cu-Mg alloy by lowering of welding temperature. sium alloy prepared by friction stir processing. Journal of 
+Scripta Materialia, 2021, vol. 196, article number Materials Research and Technology, 2020, vol. 9, no. 3, 
+113765. DOI: 10.1016/j.scriptamat.2021.113765. pp. 5252–5263. DOI: 10.1016/j.jmrt.2020.03.052. 
+
+3 8 Frontier Materials & Technologies. 2022. № 1
+
+
+
+Калиненко А.А., Миронов С.Ю., Высоцкий И.В., Малофеев С.С.   «Влияние режима сварки трением с перемешиванием…» 
+
+17. Sun Y., Fujii H. Effect of abnormal grain growth on during subsequent heat treatment. Materials Science 
+microstructure and mechanical properties of friction stir and Engineering: A, 2005, vol. 391, no. 1-2, pp. 51–59. 
+welded SPCC steel plates. Materials Science and Engi- DOI: 10.1016/j.msea.2004.08.059. 
+neering: A, 2017, vol. 694, pp. 81–92. DOI: 10.1016/ 22. Mironov S., Masaki K., Sato Y.S., Kokawa H. Relation-
+j.msea.2017.04.008. ship between material flow and abnormal grain growth 
+
+18. Li Y.J., Fu R.D., Du D.X., Jing L.J., Sang D.L., Wang Y.P. in friction-stir welds. Scripta Materialia, 2012, vol. 67, 
+Effect of post-weld heat treatment on microstructures no. 12, pp. 983–986. DOI: 10.1016/j.scriptamat.2012. 
+and properties of friction stir welded joint of 32Mn– 09.002.  
+7Cr–1Mo–0·3N steel. Science and Technology of Weld- 23. Hassan Kh.A.A., Norman A.F., Price D.A., Prangnell P.B. 
+ing and Joining, 2015, vol. 20, no. 3, pp. 229–235.  Stability of nugget zone grain structures in high strength 
+DOI: 10.1179/1362171815Y.0000000001. Al-alloy friction stir welds during solution treatment. 
+
+19. Khodabakhshi F., Simchi A., Kokabi A.H., Gerlich A.P., Acta Materialia, 2003, vol. 51, no. 7, pp. 1923–1936. 
+Nosko M. Effects of post-annealing on the microstruc- DOI: 10.1016/S1359-6454(02)00598-0.  
+ture and mechanical properties of friction stir processed 24. Humphreys F.J. A unified theory of recovery, recrystal-
+Al–Mg–TiO2 nanocomposites. Materials & Design, lization and grain growth, based on the stability and 
+2014, vol. 63, pp. 30–41. DOI: 10.1016/j.matdes.2014. growth of cellular microstructures—II. The effect of se-
+05.065. cond-phase particles. Acta Materialia, 1997, vol. 45,  
+
+20. Guo J., Lee B.Y., Du Z., Bi G., Tan M.J., Wei J. Effect no. 12, pp. 5031–5039. DOI: 10.1016/S1359-6454(97) 
+of nano-particle addition on grain structure evolution of 00173-0. 
+friction stir-processed Al 6061 during postweld anneal- 25. Jacquin D., Guillemot G. A review of microstructural 
+ing. JOM, 2016, vol. 68, no. 8, pp. 2268–2273. DOI: 10. changes occurring during FSW in aluminium alloys and 
+1007/s11837-016-1991-1.  their modelling. Journal of Materials Processing Tech-
+
+21. Attallah M.M., Salem H.G. Friction stir welding para- nology, 2021, vol. 288, article number 116706.  
+meters: a tool for controlling abnormal grain growth DOI: 10.1016/j.jmatprotec.2020.116706. 
+ 
+
+The influence of friction stir welding conditions  
+on thermal stability of АА6061 alloy 
+
+© 2022 
+1
+
+Aleksandr A. Kalinenko* , postgraduate student 
+2
+
+Sergey Yu. Mironov , Doctor of Sciences (Physics and Mathematics), leading researcher 
+3
+
+Igor V. Vysotskiy , PhD (Engineering), junior researcher 
+4
+
+Sergey S. Malopheyev , PhD (Engineering), researcher 
+Belgorod State National Research University, Belgorod (Russia) 
+ 
+
+1
+*E-mail: kalinenko@bsu.edu.ru ORCID: https://orcid.org/0000-0001-7534-0542 
+
+2ORCID: https://orcid.org/0000-0003-2202-1518 
+3ORCID: https://orcid.org/0000-0002-4376-5535 
+4ORCID: https://orcid.org/0000-0001-9145-3723 
+
+ 
+Received 27.07.2021                     Accepted 04.02.2022 
+
+ 
+Abstract: Friction stir welding (FSW) is an innovative technology for the solid-phase joining of metal materials. It al-
+
+lows producing permanent joints of materials conventionally considered to be nonweldable, in particular aluminum alloys. 
+However, an essential drawback of FSW is the relatively low stability of the stir zone microstructure. In particular, during 
+post-weld heat treatment, seams frequently demonstrate abnormal grain growth. Such an undesirable phenomenon is often 
+interpreted in terms of the so-called Humphrey’s cellular model, according to which the abnormal behavior is attributed to 
+the essential microstructure refinement and the dissolution of the second-phase particles occurring during FSW. Since these 
+two processes significantly depend on the temperature, the authors suggested that the thermal stability of the produced 
+FSW seams should also be associated with the FSW heat conditions. To test this hypothesis, the authors obtained two 
+welded seams at different FSW conditions and then studied their microstructural behavior during T6 mode thermal treat-
+ment (involving solution heat treatment followed by artificial aging). The authors used the advanced electron backscatter 
+diffraction technique (EBSD) to investigate microstructure. In full accordance with the initial idea, the investigation 
+showed that microstructural evolution in both studied microstructure states varied wildly. Specifically, the study identified 
+that the reduction in the FSW temperature causes the suppression of abnormal grain growth. The authors suggested that  
+the enhanced thermal stability of the material is associated with the conservation of the second-phase particles during  
+the low-temperature FSW. 
+
+Keywords: friction stir welding; abnormal grain growth; heat hardenable aluminum alloys. 
+Acknowledgments: The work was financially supported by the Russian Science Foundation, the project No. 19-49-02001. 
+
+The work was carried out with the use of the equipment of the Core Facility Center “Technologies and Materials of NRU BelSU”. 
+The paper was written on the reports of the participants of the X International School of Physical Materials Science 
+
+(SPM-2021), Togliatti, September 13–17, 2021. 
+For citation: Kalinenko A.A., Mironov S.Yu., Vysotskiy I.V., Malopheyev S.S. The influence of friction stir welding 
+
+conditions on thermal stability of АА6061 alloy. Frontier Materials and Technologies, 2022, no. 1, pp. 31–39. DOI: 10.18 
+323/2782-4039-2022-1-31-39. 
+
+F rontier Materials & Technologies. 2022. № 1 39

@@ -1,0 +1,605 @@
+﻿М  одина Ю.М., Дьяконов Г.С., Стоцкий А.Г. и др.   «Ударная вязкость титанового сплава ВТ6 с ультрамелкозернистой структурой…» 
+
+УДК 620.178.746 
+doi: 10.18323/2782-4039-2022-3-2-7-15 
+
+Ударная вязкость титанового сплава ВТ6  
+с ультрамелкозернистой структурой,  
+
+полученной методом равноканального углового прессования 
+© 2022 
+
+1
+Модина Юлия Михайловна* , кандидат технических наук, младший научный сотрудник 
+
+2
+Дьяконов Григорий Сергеевич , кандидат технических наук, научный сотрудник 
+
+3
+Стоцкий Андрей Геннадиевич , младший научный сотрудник 
+
+Мифтахов Данил Тимурович, оператор электронно-вычислительных и вычислительных машин 
+4
+
+Семенова Ирина Петровна , доктор технических наук, ведущий научный сотрудник 
+Уфимский государственный авиационный технический университет, Уфа (Россия) 
+
+1
+*E-mail: modina_yulia@mail.ru ORCID: https://orcid.org/0000-0002-7836-3990 
+
+2ORCID: https://orcid.org/0000-0001-5389-5547 
+3ORCID: https://orcid.org/0000-0002-2667-1115 
+4ORCID: https://orcid.org/0000-0002-1857-9909 
+
+Поступила в редакцию 04.05.2022    Принята к публикации 13.07.2022 
+
+Аннотация: Широкое использование двухфазных титановых сплавов в авиадвигателестроении, а также стре-
+мительное развитие данной отрасли подразумевают всё более жесткие требования к конструкционным материа-
+лам и увеличению их надежности, прочностных и эксплуатационных свойств. Формирование ультрамелкозерни-
+стого (УМЗ) состояния в металлах и сплавах методами интенсивной пластической деформации (ИПД) позволяет 
+достичь высоких прочностных показателей. Однако важным аспектом УМЗ материалов является их структурный 
+и текстурный эффект, который может привести к сильной анизотропии их свойств. В связи с этим в работе иссле-
+довано влияние микроструктурных особенностей на механические свойства и ударную вязкость сплава ВТ6 после 
+равноканального углового прессования (РКУП) и последующей деформации осадкой, имитирующей штамповку. 
+Показано, что формирование УМЗ состояния в титановом сплаве ВТ6 с размером зерен около 0,4 мкм позволяет 
+повысить предел прочности до 1250 МПа. Дополнительная осадка УМЗ сплава при Т=750 °С приводит к увеличе-
+нию зерен до 0,5–1 мкм и снижению прочности до 1090 МПа в результате процессов возврата и рекристаллизации. 
+Проведены испытания на ударную вязкость с концентратором V-типа при комнатной температуре, показано, что 
+
+2
+ударная вязкость УМЗ сплава ВТ6 составила 0,41 МДж/м . Обнаружена анизотропия ударной вязкости в УМЗ 
+сплаве ВТ6 после РКУП и дополнительной осадки ввиду металлографической и кристаллографической текстуры, 
+сформированной в результате деформационной обработки. В направлении испытания № 1 значение ударной вяз-
+
+2
+кости наименьшее и составляет 0,31 МДж/м .  
+
+Ключевые слова: титановые сплавы; ВТ6; интенсивная пластическая деформация; ультрамелкозернистая струк-
+тура; металлографическая и кристаллографическая текстура деформации; механические свойства; ударная вязкость. 
+
+Благодарности: Микроструктурные исследования и испытания на ударную вязкость выполнены за счет 
+средств гранта Российского научного фонда № 21-79-10167. Механические испытания на растяжение выполнены 
+за счет средств гранта в области науки из бюджета Республики Башкортостан для государственной поддержки 
+молодых ученых (НОЦ-ГМУ-2021). Исследовательская часть работы выполнена с использованием оборудования 
+ЦКП «Нанотех» ФГБОУ ВО «УГАТУ». 
+
+Для цитирования: Модина Ю.М., Дьяконов Г.С., Стоцкий А.Г., Мифтахов Д.Т., Семенова И.П. Ударная вяз-
+кость титанового сплава ВТ6 с ультрамелкозернистой структурой, полученной методом равноканального углового 
+прессования // Frontier Materials & Technologies. 2022. № 3. С. 7–15. DOI: 10.18323/2782-4039-2022-3-2-7-15. 
+
+При создании все более мощных газотурбинных ус-
+ВВЕДЕНИЕ тановок возникает необходимость модифицировать ма-
+Такие ответственные изделия, как лопатки компрес- териал изделий. С одной стороны, разработка новых 
+
+сора газотурбинного двигателя (ГТД), работают в дос- композиций сплавов требует больших затрат с точки 
+таточно агрессивных условиях, в частности в условиях зрения апробации сплава, проведения испытаний для 
+повышенных нагрузок в сочетании с термическим воз- аттестации его эксплуатационных свойств; с другой сто-
+действием. Эти детали изготавливают из титановых роны, используемые классические методы деформаци-
+сплавов, поскольку высокая удельная прочность в соче- онно-термических обработок (ДТО) для повышения ме-
+тании с жаропрочностью в необходимом диапазоне ханических свойств практически исчерпали свой потен-
+делают их особенно важными для авиации. Титановый циал. В отличие от стандартных ДТО, методы интенсив-
+сплав ВТ6 имеет широкое применение в авиастроении, ной пластической деформации (ИПД) показывают не-
+и его значимость как конструкционного материала для сравненно более высокие механические характеристики 
+данной отрасли остается высокой.  для многих материалов [1–3]. При ИПД наблюдается 
+
+F rontier Materials & Technologies. 2022. № 3-2 7
+
+
+
+Модина Ю.М., Дьяконов Г.С., Стоцкий А.Г. и др.   «Ударная вязкость титанового сплава ВТ6 с ультрамелкозернистой структурой…» 
+
+не просто процесс измельчения структуры, а воздейст- МЕТОДИКА ПРОВЕДЕНИЯ ИССЛЕДОВАНИЯ 
+вие на фазовые и структурные составляющие, что при- В работе использовался двухфазный титановый 
+водит к более существенному повышению механиче- сплав ВТ6, полученный в горячекатаном состоянии, 
+ских свойств [4; 5]. В этой связи ультрамелкозернистые диаметром 20 мм. Исходный сплав в горячекатаном 
+(УМЗ) и наноструктурные (НС) материалы, получае- состоянии подвергался предварительной термической 
+мые методами ИПД и с использованием методов ИПД, обработке (ТО) по следующему режиму: закалка в воду 
+вызывают большой интерес у исследователей.  при температуре 960 °C, отжиг в течение 4 ч при тем-
+
+Известно, что формирование УМЗ состояний в ме- пературе 675 °C с охлаждением на воздухе.  
+таллах и сплавах сопровождается структурно-фазовыми УМЗ состояние в заготовках ВТ6 формировали 
+преобразованиями [6; 7] и изменением кристаллогра- методом ИПД равноканальным угловым прессовани-
+фической текстуры [8–10], от которых, в свою очередь, ем (РКУП) по режиму: 4 прохода по маршруту С при 
+зависит комплекс механических свойств. Например, температуре 700 °C с углом пересечения каналов 
+текстурированный материал вызывает сильную анизо- 120° (e=2,8). Для имитации процесса формообразова-
+тропию механических свойств [11–13], что может нега- ния деталей ГТД методом штамповки УМЗ заготовки 
+тивно сказаться и на одной из важнейших характери- подвергли ДТО, включающей в себя нагрев заготов-
+стик конструкционных материалов – вязкости разруше- ки до Т=750 °C длительностью 30 мин, осадку 
+ния, которая отражает способность материала сопро- (ε=30 %) при температуре 750 °C и охлаждение заго-
+тивляться хрупкому разрушению и является структурно товки на воздухе.  
+зависимой величиной [14].  Электронно-микроскопические исследования образ-
+
+Как правило, создание готового изделия требует не- цов (рис. 1) были проведены на растровом электронном 
+скольких технологических операций. Часто одной из микроскопе (РЭМ) JEOL JSM 6390 при ускоряющем 
+последних операций, влияющей на структуру и меха- напряжении 20 кэВ и на просвечивающем электронном 
+нические свойства, является штамповка, которая про- микроскопе (ПЭМ) JEOL JEM 2100 при ускоряющем 
+ходит при относительно высоких температурах [15; 16]. напряжении 200 кВ. Механические испытания на рас-
+Процесс формообразования УМЗ материалов показыва- тяжение малых плоских образцов (рис. 1) с рабочим 
+ет более высокую технологичность за счет проявления сечением 0,5×1,0 мм и расчетной длиной 4 мм были 
+эффекта сверхпластичности и возможности понижения проведены при комнатной температуре со скоростью 
+температуры штамповки [17; 18]. В связи с этим важ- –3 –1 
+
+10  с на универсальной испытательной машине Instron 
+ной задачей является управление структурно-фазовым 5982.  
+и текстурным состоянием УМЗ материала на каждом Испытания на ударную вязкость стандартных об-
+этапе формообразования с целью сохранения комплек- разцов размером 10×10×55 мм, вырезанных в продоль-
+са повышенных механических характеристик в конеч- ном сечении заготовок после РКУП и РКУП+осадка,  
+ном изделии.  с концентратором напряжений V-типа были проведены 
+
+Цель работы – исследование ударной вязкости и проч- при комнатной температуре на копре с падающим гру-
+ности титанового сплава ВТ6 в ультрамелкозернистом зом Instron CEAST 9350 с погрешностью измерения 
+состоянии после равноканального углового прессова- 2 %. Для каждого состояния и направления испытывали 
+ния и дополнительной деформационно-термической по три образца, в результатах отражен разброс экспе-
+обработки в виде осадки. риментальных данных. 
+
+ 
+ 
+ 
+
+ 
+
+Рис. 1. Схема вырезки образцов на микроструктурные исследования (квадрат)  
+и механические испытания на растяжение (гантель) 
+
+Fig. 1. The scheme of specimen cutoff for microstructure tests (box)  
+and mechanical tension tests (dumb-bell shaped figure) 
+
+ 
+
+8 Frontier Materials & Technologies. 2022. № 3-2
+
+
+
+Модина Ю.М., Дьяконов Г.С., Стоцкий А.Г. и др.   «Ударная вязкость титанового сплава ВТ6 с ультрамелкозернистой структурой…» 
+
+РЕЗУЛЬТАТЫ ИССЛЕДОВАНИЯ YZ (рис. 2 b, 2 c). Микроструктура после РКУП харак-
+
+Сплав после термической обработки характеризовался теризовалась остаточной первичной α-фазой, окружен-
+
+крупнозернистой глобулярно-пластинчатой структурой ной смесью деформированных α- и β-фаз, размер кото-
+(рис. 2 a). Первичные α-глобули имеют средний размер рых составляет 0,4 мкм. Заметно, что в плоскости YZ 
+около 4 мкм, объемная доля первичных α-глобулей со- первичная α-фаза вытянута под углом примерно 12° по 
+ставляет ~50 %. Пластинчатая составляющая сплава пред- отношению к оси z (рис. 2 b). Большая часть пластинчатой 
+ставлена чередующимися пластинами α- и β -фазы. α+β составляющей преобразовалась в частицы равноосной 
+
+После РКУП и РКУП+осадка микроструктура спла- формы. Согласно результатам просвечивающей электрон-
+ва ВТ6 была проанализирована в поперечном сечении – ной микроскопии (ПЭМ) после РКУП деформации 
+
+ 
+ 
+ 
+
+      
+ a  b 
+
+      
+ c  d 
+
+Рис. 2. Микроструктура сплава ВТ6: 
+a – после термической обработки; b – после деформации методом РКУП, плоскость YZ;  
+
+c – после РКУП+осадка, плоскость YZ; d – РКУП+осадка, плоскость XZ.  
+Стрелкой обозначено направление развития трещины при испытаниях KCV 
+
+Fig. 2. VT6 alloy microstructure:  
+a – after heat treatment; b – after ECAP deformation, YZ plane;  
+
+c – after ECAP+upset, YZ plane; d – ECAP+upset, XZ plane.  
+An arrow indicates the direction of crack development during KCV tests 
+
+F rontier Materials & Technologies. 2022. № 3-2 9
+
+
+
+Модина Ю.М., Дьяконов Г.С., Стоцкий А.Г. и др.   «Ударная вязкость титанового сплава ВТ6 с ультрамелкозернистой структурой…» 
+
+формируется ультрамелкозернистая структура со сред- Результаты механических испытаний на растяжение 
+ним размером зерен/субзерен 0,4 мкм (рис. 3 a). Боль- титанового сплава ВТ6 в различных структурных со-
+шое количество зерен и субзерен имеют четко разли- стояниях приведены в таблице 1.  
+чимые границы. Характерная точечная дифракция ука- Предел прочности (σВ) титанового сплава ВТ6 в ис-
+зывает на преимущественно высокоугловую разориен- ходном состоянии составлял 990 МПа, формирование 
+тировку зеренной структуры (рис. 3 a). УМЗ состояния методом РКУП позволило повысить 
+
+После дополнительной деформации осадкой после значение до 1250 МПа с уменьшением пластичности до 
+РКУП размер частиц увеличился до 0,5–1 мкм (рис. 2 c,  4,5 %. Дополнительная деформация осадкой снижает 
+2 d). Зерна первичной α-фазы вытянутой формы, на- прочность до 1079 МПа в плоскости XZ и до 1089 МПа 
+блюдавшиеся в микроструктуре после РКУП, потеряли в плоскости YZ c увеличением общего (δ) и равномер-
+свою целостность и стали больше не различимы в мик- ного удлинения (δР) до 12,2 и 1,1 % соответственно, 
+роструктуре сплава после осадки. Исследование мето- однако прочностные показатели выше, чем в крупно-
+дом ПЭМ микроструктуры сплава после осадки также зернистом (КЗ) состоянии.  
+указывает на развитие процессов рекристаллизации  В таблице 2 представлены результаты испытаний на 
+и роста зерен до 1 мкм (рис. 3 b). Внутри таких зерен ударную вязкость (KCV) титанового сплава ВТ6 в раз-
+наблюдаются дислокационные скопления и вновь обра- личных структурных состояниях и направлениях испы-
+зующиеся границы фрагментов. Наличие характерных таний.  
+тяжей на картине дифракции указывает на формирова- Значение ударной вязкости титанового сплава ВТ6  
+
+2
+ние малоугловых разориентировок (рис. 3 b). в крупнозернистом состоянии составляло 0,48 МДж/м ,
+
+ 
+ 
+ 
+
+      
+ a b 
+
+Рис. 3. Микроструктура в ПЭМ титанового сплава ВТ6 после: a – РКУП; b – РКУП+осадка (поперечное сечение – yz) 
+Fig. 3. VT6 titanium alloy microstructure in TEM after: a – ECAP; b – ECAP+upset (cross section – yz) 
+
+ 
+ 
+
+ 
+ 
+
+Таблица 1. Механические свойства титанового сплава ВТ6 в различных состояниях 
+Table 1. Mechanical properties of VT6 titanium alloy in different states 
+
+ 
+
+Состояние (плоскость) σВ, МПа σ0,2, МПа δ, % δР, % 
+
+Крупнозернистое 990±20 920±20 13,0±1,0 4,5±0,5 
+
+УМЗ РКУП (YZ) 1250±25 1220±36 4,5±1,3 0,6±0,1 
+
+УМЗ (РКУП+осадка (XZ)) 1079±9 1039±15 12,2±1,5 1,1±0,3 
+
+УМЗ (РКУП+осадка (YZ)) 1089±21 1066±27 9,0±0,1 0,7±0,2 
+
+ 
+
+1 0 Frontier Materials & Technologies. 2022. № 3-2
+
+
+
+Модина Ю.М., Дьяконов Г.С., Стоцкий А.Г. и др.   «Ударная вязкость титанового сплава ВТ6 с ультрамелкозернистой структурой…» 
+
+Таблица 2. Ударная вязкость титанового сплава ВТ6 в различных состояниях 
+Table 2. Impact strength of VT6 titanium alloy in different states 
+
+ 
+
+Состояние (направление) KCV, МДж/м2 A, Дж Aз, Дж Aр, Дж 
+
+Крупнозернистое 0,48±0,02 38,4±0,9 14,4±1,0 24,0±0,8 
+
+УМЗ РКУП (YZ) 0,41±0,01 31,4±0,3 27,2±1,6 4,2±1,4 
+
+УМЗ РКУП+осадка (№ 1) 0,31±0,03 25,4±2,8 19,5±1,0 5,9±2,9 
+
+УМЗ РКУП+осадка (№ 2) 0,40±0,07 32,4±5,2 25,5±5,0 6,9±2,5 
+
+ 
+ 
+ 
+
+формирование УМЗ состояния методом РКУП снижает снижает значение прочности на ~13 % и повышает пла-
+2
+
+ударную вязкость до 0,41 МДж/м . Дополнительная стичность в 2–2,5 раза по сравнению с состоянием 
+осадка в направлении № 2 позволяет сохранить удар- РКУП, подобное изменение прочности и пластичности 
+
+2
+ную вязкость равной 0,4 МДж/м , однако в направлении сплава можно объяснить развитием процессов рекри-
+
+2
+№ 1 она снижается до 0,31 МДж/м . сталлизации. 
+
+На рис. 4 a–d представлены изломы образцов из ти- Незначительная анизотропия прочностных свойств 
+танового сплава ВТ6 в различных состояниях после заготовки после РКУП+осадка по сечениям YZ и XZ 
+испытаний на ударную вязкость, типичные для титано- может быть обусловлена металлографической и кри-
+вых сплавов: имеют плоскую область, которая пред- сталлографической текстурой. 
+ставлена волокнистой зоной с характерными для нее Видно, что для УМЗ состояний сохраняется тенден-
+ямками разрушения, и сдвиговую кромку. Во всех со- ция снижения значений KCV при увеличении прочно-
+стояниях изломы имеют матовую однородную поверх- стных характеристик [20]. Было обнаружено, что об-
+ность, что свидетельствует о макропластическом харак- разцы РКУП+осадка (№ 1) показали наименьшее зна-
+
+2
+тере разрушения.  чение KCV=0,31 МДж/м . Причиной этого может слу-
+
+Размер ямок разрушения волокнистой зоны в КЗ со- жить металлографическая и кристаллографическая тек-
+стоянии равен ~6 мкм, после РКУП – 2,4 мкм, после стура образца. Влияние кристаллографической структу-
+РКУП+осадка (YZ) – 2 мкм, после РКУП+осадка (XZ) – ры на комплекс механических свойств и механизмы раз-
+1,9 мкм (рис. 4). рушения будут более подробно рассмотрены в следую-
+
+ щих работах. Необходимо отметить, что полученное 
+2
+
+значение KCV=0,31 МДж/м  является допустимым для 
+ОБСУЖДЕНИЕ РЕЗУЛЬТАТОВ конструкционных применений в деталях ГТД (для дета-
+
+2
+При деформации методом РКУП пластинчатая со- лей из ВТ6 по ОСТ 1 900006-86 KCU≥0,35 МДж/м ). 
+
+ставляющая подверглась процессам фрагментации и гло- Разделение полной работы на ее составляющие – 
+буляризации, что привело к формированию мелких час- работу зарождения и распространения трещины – имеет 
+тиц средним размером 0,4 мкм. При этом микрострук- большое значение, поскольку именно работа распро-
+турный анализ показал металлографическую текстуру, странения трещины характеризует надежность мате-
+что свойственно материалу после деформации методом риала. Работа зарождения трещины минимальна в КЗ 
+РКУП по маршруту С. состоянии и составляет 14,4 Дж. При формировании 
+
+После РКУП заготовку подвергали нагреву и осадке УМЗ структуры она заметно возрастает, например в слу-
+при Т=750 °С. Это привело к заметному росту глобу- чае образцов РКУП Aз=27,2 Дж – почти в 2 раза больше 
+лярных частиц α- и β-фазы, их размеры возросли до по сравнению с исходным состоянием. Работа распро-
+0,5–1 мкм (рис. 2 c, 2 d). Схожая эволюция УМЗ струк- странения трещины имеет противоположную законо-
+туры при осадке была рассмотрена на примере сплава мерность: максимум – 24,0 Дж в КЗ состоянии, мини-
+ВТ8М-1 [19. мум – 4,2 Дж для РКУП. Полная работа разрушения 
+
+По результатам механических испытаний на растя- образцов РКУП и РКУП+осадка (№ 2) практически 
+жение видно, что предел прочности титанового сплава одинакова и составляет около 31 Дж, однако работа 
+ВТ6 после РКУП на 25 % больше, чем в исходном го- зарождения трещины в состоянии РКУП больше и свя-
+рячекатаном состоянии, что связано со значительным зана с более высокими прочностными свойствами по 
+измельчением зерен и увеличением плотности дислока- сравнению с РКУП+осадка. 
+ций в процессе ИПД (рис. 3 a). Однако пластичность Размер и плотность ямок волокнистой зоны на из-
+после РКУП уменьшается почти в 3 раза, поскольку для ломах образцов из титанового сплава ВТ6 в различных 
+УМЗ металлов и сплавов характерна ранняя локализа- состояниях после испытаний на ударную вязкость зави-
+ция деформации. Дополнительная обработка осадкой сит от размера зерен, особенностей микроструктуры, 
+
+F rontier Materials & Technologies. 2022. № 3-2 11
+
+
+
+Модина Ю.М., Дьяконов Г.С., Стоцкий А.Г. и др.   «Ударная вязкость титанового сплава ВТ6 с ультрамелкозернистой структурой…» 
+
+     
+ a  b 
+
+     
+ c d 
+
+     
+ e f 
+
+     
+ g h 
+
+Рис. 4. Изломы образцов титанового сплава ВТ6 в различных состояниях после испытаний на ударную вязкость: 
+a, e – КЗ; b, f – РКУП; c, g – РКУП+осадка (yz); d, h – РКУП+осадка (xz). 
+
+a–d – РЭМ, общий вид, увеличение ×10; e–h – РЭМ, микрорельеф в центральной части излома, увеличение ×3000.  
+Стрелками указано направление разрушения 
+
+Fig. 4. Fractures of VT6 titanium alloy specimens in different states after impact strength tests: 
+a, e – CG; b, f – ECAP; c, g – ECAP+upset (yz); d, h – ECAP+upset (xz). 
+
+a–d – SEM, general view, zoom ×10; e–h – SEM, micro-relief in the fracture central part, zoom ×3000.  
+Arrows indicate fracture direction 
+
+1 2 Frontier Materials & Technologies. 2022. № 3-2
+
+
+
+Модина Ю.М., Дьяконов Г.С., Стоцкий А.Г. и др.   «Ударная вязкость титанового сплава ВТ6 с ультрамелкозернистой структурой…» 
+
+которая была сформирована в процессе деформацион- Materials Science. 2006. Vol. 51. № 4. P. 427–556. 
+но-термических обработок. Видно, что в КЗ состоянии DOI: 10.1016/J.PMATSCI.2005.08.003. 
+микрорельеф состоит из крупных и глубоких ямок раз- 6. Langdon T.G., Furukawa M., Horita Z., Nemoto M. 
+мером ~6 мкм (рис. 4 a, 4 e). Ямки разрушения РКУП  Using intense plastic straining for high-strain-rate 
+и РКУП+осадка в направлении YZ немного вытянуты, superplasticity // JOM. 1998. Vol. 50. № 6. P. 41–45. 
+имеют гладкую поверхность, что связано с пластиче- DOI: 10.1007/S11837-998-0126-8. 
+ским течением (вытяжкой ямок) (рис. 4). Ямки разру- 7. Zhao Y., Liu J., Topping T.D., Lavernia E.J. Precipita-
+шения РКУП+осадка более мелкие, что свидетельству- tion and aging phenomena in an ultrafine grained Al-Zn 
+ет о меньшем размере и большей концентрации УМЗ alloy by severe plastic deformation // Journal of Alloys 
+структурных элементов, которые являются центром and Compounds. 2021. Vol. 851. Article number 
+зарождения микропор. 156931. DOI: 10.1016/j.jallcom.2020.156931. 
+
+Таким образом, формирование УМЗ состояния по- 8. Валиев Р.З., Жиляев А.П., Лэнгдон T.Дж. Объемные 
+зволяет получить высокие прочностные характеристики наноструктурные материалы: фундаментальные ос-
+конструкционных титановых сплавов при удовлетвори- новы и применения. СПб.: Эко-Вектор, 2017. 479 с. 
+тельном значении ударной вязкости, однако вопрос  9. Edalati K., Bachmaier A., Beloshenko V.A., 
+о текстурном влиянии на сопротивление разрушению Beygelzimer Y., Blank V.D., Botta W.J., Bryla K., 
+требует дальнейшего более тщательного изучения.  Cizek J., Divinski S., Enikeev N.A., Estrin Y., Faraji G. 
+
+ Nanomaterials by severe plastic deformation: review of 
+historical developments and recent advances // Materials 
+
+ОСНОВНЫЕ РЕЗУЛЬТАТЫ И ВЫВОДЫ Research Letters. 2022. Vol. 10. № 4. P. 163–256.  
+1. Показано, что в результате деформации методом DOI: 10.1080/21663831.2022.2029779. 
+
+РКУП в сплаве ВТ6 была сформирована УМЗ структу- 10. Suwas S., Ray R.K. Crystallographic texture of materi-
+ра со средним размером вторичных α- и β-фаз 0,4 мкм. als. London: Springer London, 2014. 260 p. 
+Это обеспечило повышение предела прочности сплава  11. Sitdikov V.D., Alexandrov I.V., Ganiev M.M., Fakhret-
+с 990 МПа в исходном состоянии до 1250 МПа после dinova E.I., Raab G.I. Effect of temperature on the evo-
+деформации методом РКУП. lution of structure, crystallographic texture and the ani-
+
+2. В ходе операции осадки была проведена имита- sotropy of strength properties in the Ti Grade 4 alloy 
+ция процесса формовки УМЗ заготовки. Показано, что during continuous ECAP // Reviews on Advanced Ma-
+осадка УМЗ сплава ВТ6 при Т=750 °С ведет к развитию terials Science. 2015. Vol. 41. № 1. P. 44–51. 
+процессов рекристаллизации и увеличению размеров 12. Wagner F., Ouarem A., Richeton T., Toth L.S. Improv-
+вторичных фаз до 0,5–1 мкм, что приводит к снижению ing Mechanical Properties of cp Titanium by Heat 
+предела прочности до 1090 МПа.  Treatment Optimization // Advanced Engineering Mate-
+
+3. Установлено, что ударная вязкость KCV сплава rials. 2018. Vol. 20. № 4. Article number 1700237. 
+2
+
+ВТ6 с УМЗ структурой составляет 0,41 МДж/м . Выяв- DOI: 10.1002/adem.201700237. 
+лено, что в результате деформации методом РКУП  13. Richeton T., Wagner F., Chen C., Toth L.S. Combined 
+и последующей осадки наблюдается анизотропия вели- effects of texture and grain size distribution on the ten-
+чины ударной вязкости, что может быть обусловлено sile behavior of α-titanium // Materials. 2018. Vol. 11. 
+наличием металлографической и кристаллографиче- № 7. Article number 1088. DOI: 10.3390/ma11071088. 
+ской текстуры в образцах. 14. Boyer R., Welsch G., Collings E.W. Materials Proper-
+
+ ties Handbook: Titanium Alloys. USA: ASM Interna-
+tional, 1998. 1048 p. 
+
+СПИСОК ЛИТЕРАТУРЫ  15. Moiseyev V.N. Titanium alloys in Russia: Russian Air-
+1. Mao Q., Liu Y., Zhao Y. A review on mechanical pro- craft and Aerospace Applications. Boca Raton: CRC 
+
+perties and microstructure of ultrafine grained metals Press, 2005. 216 p. 
+and alloys processed by rotary swaging // Journal of Al- 16. Ermachenko A.G., Lutfullin R.Ya., Mulyukov R.R. 
+loys and Compounds. 2022. Vol. 896. Article number Advanced Technologies of Processing Titanium Alloys 
+163122. DOI: 10.1016/j.jallcom.2021.163122. and Their Applications in Industry // Reviews on Ad-
+
+2. Vinogradov A. Mechanical properties of ultrafine- vanced Materials Science. 2011. Vol. 29. № 1. P. 68–
+grained metals: new challenges and perspectives // Ad- 82. 
+vanced Engineering Materials. 2015. Vol. 17. № 12.  17. Semenova I.P., Dyakonov G.S., Raab G.I., Grishina Y.F., 
+P. 1710–1722. DOI: 10.1002/adem.201500177. Huang Y., Langdon T.G. Features of Duplex Micro-
+
+3. Estrin Y., Vinogradov A. Fatigue behaviour of light structural Evolution and Mechanical Behavior in the Ti-
+alloys with ultrafine grain structure produced by severe tanium Alloy Processed by Equal-Channel Angular 
+plastic deformation: An overview // International Jour- Pressing // Advanced Engineering Materials. 2018.  
+nal of Fatigue. 2010. Vol. 32. № 6. P. 898–907.  Vol. 20. № 8. Article number 1700813. DOI: 10.1002/ 
+DOI: 10.1016/j.ijfatigue.2009.06.022. adem.201700813. 
+
+4. Valiev R.Z. Nanostructuring of metals by severe plastic 18. Zherebtsov S.V., Kudryavtsev E.A., Salishchev G.A., 
+deformation for advanced properties // Nature Materials. Straumal B.B., Semiatin S.L. Microstructure evolution 
+2004. Vol. 3. № 8. P. 511–516. DOI: 10.1038/ and mechanical behavior of ultrafine Ti-6Al-4V during 
+NMAT1180. low temperature superplastic deformation // Acta 
+
+5. Meyers M.A., Mishra A., Benson D.J. Mechanical Materialia. 2016. Vol. 121. P. 152–163. DOI: 10.1016/J. 
+properties of nanocrystalline materials // Progress in ACTAMAT.2016.09.003. 
+
+F rontier Materials & Technologies. 2022. № 3-2 13
+
+
+
+Модина Ю.М., Дьяконов Г.С., Стоцкий А.Г. и др.   «Ударная вязкость титанового сплава ВТ6 с ультрамелкозернистой структурой…» 
+
+19. Dyakonov G.S., Semenova I.P., Lopatin N.V., Grishi- Research Letters, 2022, vol. 10, no. 4, pp. 163–256. 
+na Y.F., Melemchuk I.A. Microstructure evolution of ti- DOI: 10.1080/21663831.2022.2029779. 
+tanium alloy VT8М-1 with globular-lamellar structure 10. Suwas S., Ray R.K. Crystallographic texture of materi-
+during deformation in temperature range of 650–800° С // als. London, Springer London Publ., 2014. 260 p. 
+Inorganic Materials: Applied Research. 2017. Vol. 8.  11. Sitdikov V.D., Alexandrov I.V., Ganiev M.M., 
+№ 1. P. 1–6. DOI: 10.1134/S2075113317010129. Fakhretdinova E.I., Raab G.I. Effect of temperature on 
+
+20. Zherebtsov S.V., Kudryavtsev E., Kostjuchenko S., the evolution of structure, crystallographic texture and 
+Malysheva S., Salishchev G. Strength and ductility- the anisotropy of strength properties in the Ti Grade 4 
+related properties of ultrafine grained two-phase titani- alloy during continuous ECAP. Reviews on Advanced 
+um alloy produced by warm multiaxial forging // Mate- Materials Science, 2015, vol. 41, no. 1, pp. 44–51. 
+rials Science and Engineering A. 2012. Vol. 536.  12. Wagner F., Ouarem A., Richeton T., Toth L.S. Improv-
+P. 190–196. DOI: 10.1016/J.MSEA.2011.12.102. ing Mechanical Properties of cp Titanium by Heat 
+
+ Treatment Optimization. Advanced Engineering Mate-
+REFERENCES rials, 2018, vol. 20, no. 4, article number 1700237. 
+
+1. Mao Q., Liu Y., Zhao Y. A review on mechanical pro- DOI: 10.1002/adem.201700237. 
+perties and microstructure of ultrafine grained metals 13. Richeton T., Wagner F., Chen C., Toth L.S. Combined 
+and alloys processed by rotary swaging. Journal of Al- effects of texture and grain size distribution on the ten-
+loys and Compounds, 2022, vol. 896, article number sile behavior of α-titanium. Materials, 2018, vol. 11,  
+163122. DOI: 10.1016/j.jallcom.2021.163122. no. 7, article number 1088. DOI: 10.3390/ma11071088. 
+
+2. Vinogradov A. Mechanical properties of ultrafine- 14. Boyer R., Welsch G., Collings E.W. Materials Proper-
+grained metals: new challenges and perspectives. Ad- ties Handbook: Titanium Alloys. USA, ASM Interna-
+vanced Engineering Materials, 2015, vol. 17, no. 12, tional Publ., 1998. 1048 p. 
+pp. 1710–1722. DOI: 10.1002/adem.201500177. 15. Moiseyev V.N. Titanium alloys in Russia: Russian Air-
+
+3. Estrin Y., Vinogradov A. Fatigue behaviour of light craft and Aerospace Applications. Boca Raton, CRC 
+alloys with ultrafine grain structure produced by severe Press Publ., 2005. 216 p. 
+plastic deformation: An overview. International Journal 16. Ermachenko A.G., Lutfullin R.Ya., Mulyukov R.R. 
+of Fatigue, 2010, vol. 32, no. 6, pp. 898–907. DOI: Advanced Technologies of Processing Titanium Alloys 
+10.1016/j.ijfatigue.2009.06.022. and Their Applications in Industry. Reviews on Ad-
+
+4. Valiev R.Z. Nanostructuring of metals by severe plastic vanced Materials Science, 2011, vol. 29, no. 1, pp. 68–
+deformation for advanced properties. Nature Materials, 82. 
+2004, vol. 3, no. 8, pp. 511–516. DOI: 10.1038/ 17. Semenova I.P., Dyakonov G.S., Raab G.I., Grishina Y.F., 
+NMAT1180. Huang Y., Langdon T.G. Features of Duplex Micro-
+
+5. Meyers M.A., Mishra A., Benson D.J. Mechanical structural Evolution and Mechanical Behavior in the Ti-
+properties of nanocrystalline materials. Progress in Ma- tanium Alloy Processed by Equal-Channel Angular 
+terials Science, 2006, vol. 51, no. 4, pp. 427–556.  Pressing. Advanced Engineering Materials, 2018,  
+DOI: 10.1016/J.PMATSCI.2005.08.003. vol. 20, no. 8, article number 1700813. DOI: 10.1002/ 
+
+6. Langdon T.G., Furukawa M., Horita Z., Nemoto M. adem.201700813. 
+Using intense plastic straining for high-strain-rate 18. Zherebtsov S.V., Kudryavtsev E.A., Salishchev G.A., 
+superplasticity. JOM, 1998, vol. 50, no. 6, pp. 41–45. Straumal B.B., Semiatin S.L. Microstructure evolution 
+DOI: 10.1007/S11837-998-0126-8. and mechanical behavior of ultrafine Ti-6Al-4V during 
+
+7. Zhao Y., Liu J., Topping T.D., Lavernia E.J. Precipita- low temperature superplastic deformation. Acta 
+tion and aging phenomena in an ultrafine grained Al-Zn Materialia, 2016, vol. 121, pp. 152–163. DOI: 10.1016/ 
+alloy by severe plastic deformation. Journal of Alloys J.ACTAMAT.2016.09.003. 
+and Compounds, 2021, vol. 851, article number 156931. 19. Dyakonov G.S., Semenova I.P., Lopatin N.V., Grishi- 
+DOI: 10.1016/j.jallcom.2020.156931. na Y.F., Melemchuk I.A. Microstructure evolution of ti-
+
+8. Valiev R.Z., Zhilyaev A.P., Lengdon T.Dzh. Obemnye tanium alloy VT8М-1 with globular-lamellar structure 
+nanostrukturnye materialy: fundamentalnye osnovy  during deformation in temperature range of 650–800° С. 
+i primeneniya [Bulk nanostructured materials: funda- Inorganic Materials: Applied Research, 2017, vol. 8, 
+mentals and applications]. Sankt Petersburg, Eko- no. 1, pp. 1–6. DOI: 10.1134/S2075113317010129. 
+Vektor Publ., 2017. 479 p. 20. Zherebtsov S.V., Kudryavtsev E., Kostjuchenko S., 
+
+9. Edalati K., Bachmaier A., Beloshenko V.A., Beygel- Malysheva S., Salishchev G. Strength and ductility-
+zimer Y., Blank V.D., Botta W.J., Bryla K., Cizek J., related properties of ultrafine grained two-phase titani-
+Divinski S., Enikeev N.A., Estrin Y., Faraji G. um alloy produced by warm multiaxial forging. Materi-
+Nanomaterials by severe plastic deformation: review of als Science and Engineering A, 2012, vol. 536, pp. 190–
+historical developments and recent advances. Materials 196. DOI: 10.1016/J.MSEA.2011.12.102. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1 4 Frontier Materials & Technologies. 2022. № 3-2
+
+
+
+Модина Ю.М., Дьяконов Г.С., Стоцкий А.Г. и др.   «Ударная вязкость титанового сплава ВТ6 с ультрамелкозернистой структурой…» 
+
+Impact strength of VT6 titanium alloy with the ultra-fine grain structure  
+produced by the equal-channel angular pressing method 
+
+© 2022 
+1
+
+Iuliia M. Modina* , PhD (Engineering), junior researcher 
+2
+
+Grigory S. Dyakonov , PhD (Engineering), researcher 
+3
+
+Andrey G. Stotskiy , junior researcher 
+Danil T. Miftakhov, operator of electronic-computer and computing machines 
+
+4
+Irina P. Semenova , Doctor of Sciences (Engineering), leading researcher 
+
+Ufa State Aviation Technical University, Ufa (Russia) 
+ 
+
+1
+*E-mail: modina_yulia@mail.ru ORCID: https://orcid.org/0000-0002-7836-3990 
+
+2ORCID: https://orcid.org/0000-0001-5389-5547 
+3ORCID: https://orcid.org/0000-0002-2667-1115 
+4ORCID: https://orcid.org/0000-0002-1857-9909 
+
+ 
+Received 04.05.2022                     Accepted 13.07.2022 
+
+ 
+Abstract: The wide use of two-phase titanium alloys in aircraft engine building, as well as the intense development of 
+
+this industry, stipulate more and more stringent requirements to structural materials and the enhancement of their reliabi-
+lity, strength and performance characteristics. The formation of an ultrafine-grained (UFG) state in metals and alloys using 
+severe plastic deformation (SPD) processing enables achieving high strength properties. However, an important aspect of 
+UFG materials is their structural and textural effects which may lead to a strong anisotropy of their properties. In this re-
+spect, the authors studied the effect of microstructural features on the mechanical properties and impact toughness of  
+the VT6 alloy after equal-channel angular pressing (ECAP) and subsequent deformation by upsetting, imitating die forg-
+ing. The study showed that the formation of a UFG structure in the VT6 titanium alloy with a grain size of about 0.4 µm 
+allows increasing the ultimate tensile strength up to 1250 MPa. The additional upsetting of the UFG alloy at T=750 °C 
+leads to grain growth up to 0.5–1 µm and a decline in strength to 1090 MPa as a result of the recovery and recrystallization 
+processes. Impact toughness tests were conducted on specimens with a V-shaped stress raiser at room temperature, show-
+
+2
+ing that the impact toughness of the UFG VT6 alloy was 0.41 MJ/m . The tests revealed the anisotropy of impact tough-
+ness in the UFG VT6 alloy after equal-channel angular pressing and additional upsetting due to the metallographic and 
+crystallographic texture formed as the result of deformation treatment. In test direction No. 1, the impact toughness value 
+
+2
+is the lowest and equals 0.31 MJ/m .  
+
+Keywords: titanium alloys; VT6; severe plastic deformation; ultra-fine grain structure; metallographic and crystallo-
+graphic deformation texture; mechanical properties; impact toughness. 
+
+Acknowledgements: Fine-structural investigations and impact strength tests were financially supported by the grant 
+No. 21-79-10167 of the Russian Science Foundation. Mechanical tensile tests were covered by the science grant from  
+the budget of the Republic of Bashkortostan for state support of young scientists (NOC-GMU-2021). The research part of 
+the work was carried out on the equipment of the Core Facility Centre “Nanotech” of FSBEI HE «USATU». 
+
+For citation: Modina Iu.M., Dyakonov G.S., Stotskiy A.G., Miftakhov D.T., Semenova I.P. Impact strength of VT6 ti-
+tanium alloy with the ultra-fine grain structure produced by the equal-channel angular pressing method. Frontier Materials 
+& Technologies, 2022, no. 3, pp. 7–15. DOI: 10.18323/2782-4039-2022-3-2-7-15. 
+
+ 
+
+F rontier Materials & Technologies. 2022. № 3-2 15

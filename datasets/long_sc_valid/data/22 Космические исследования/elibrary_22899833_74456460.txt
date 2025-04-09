@@ -1,0 +1,308 @@
+﻿СИСТЕМЫ СПУТНИКОВОЙ НАВИГАЦИИ
+
+МОДЕЛЬ ОЦЕНКИ ВЛИЯНИЯ КОРРЕЛЯЦИОННОЙ 
+ЗАВИСИМОСТИ ПОГРЕШНОСТЕЙ КООРДИНАТ НА 
+
+ТОЧНОСТЬ ОПРЕДЕЛЕНИЯ ОТНОСИТЕЛЬНОЙ ПОЗИЦИИ 
+ПРИ СОВМЕСТНОМ МАНЕВРИРОВАНИИ КОРАБЛЕЙ
+
+Гарматенко И. С,
+Военный учебно-научноый центр
+ВМФ «Военно-Морская Акадеия
+имени адмирала Флота Советского 
+Союза Н.Г. Кузнецова»
+(ВУНЦ ВМФ «ВМА»)
+
+Ключ ев ые слов а: АННОТАЦИЯ
+корреляционная зависимость, 
+погрешности координат, относительная В настоящий момент спутниковые навигационные системы (СНС) являются основным 
+позиция, совместное маневрирование, средством для обеспечения навигационной безопасности плавания. Использование 
+АИС. АИС (автоматической информационной системы) на основе СНС в режиме высокой 
+
+точности (дифференциальном режиме) позволяет определить относительную по-
+зицию, параметры движения искомых объектов с высокой точностью и обеспечить 
+совместное маневрирование кораблей. Данное преимущество АИС используется 
+для оценки опасности от столкновения.   Определение относительной позиции и па-
+раметров движения с использованием АИС при работе СНС в стандартном режиме 
+характеризуется значительной случайной погрешностью и не позволяет обеспечить 
+решение задач совместного маневрирования.
+Повышение точности определения относительной позиции с использованием АИС по 
+СНС в стандартном режиме может быть обеспечено централизованным измерениями 
+на совместно маневрирующих кораблях на один момент времени по единому созве-
+здию навигационных спутников определенной СНС, чем достигается корреляционная 
+зависимость погрешностей координат, близкая к 1. Современные приемоиндикато-
+ры позволяют осуществлять измерения по заданному оператором созвездию спут-
+ников СНС. Производство измерений по созвездию из 3-4 спутников обеспечивает 
+определение координат в течении продолжительного промежутка времени (от 3 до 8 
+часов в зависимости от широты места наблюдателя) на дистанции между совместно 
+маневрирующими кораблями до 50 км. Производство централизованных измерений 
+при определении относительной позиции может позволить обеспечить использова-
+ние АИС вне зависимости от возможности использования СНС в дифференциальном 
+режиме. Данное преимущество может быть реализовано в оценке опасности столк-
+новения. 
+Цель работы достигается разработкой модели оценки влияния корреляционной за-
+висимости погрешностей координат на точность определения относительной позиции 
+при совместном маневрировании кораблей. 
+Использование автоматизированной информационной системы (АИС) для преду-
+преждения столкновений кораблей в качестве оборудования, дополняющего ради-
+олокационную станцию (РЛС), стало возможным благодаря автоматизации обмена 
+информацией между судами и кораблями о координатах и параметрах движения 
+оцениваемых объектов, выработанных с использованием спутниковых навигацион-
+ных систем (СНС) ГЛОНАСС или GPS NAVSTAR и позволило в значительной степени 
+повысить точность расчета параметров сближения [1, 3, 5].
+
+14 НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ 5-2013
+
+
+
+SATELLITE NAVIGATIONSYSTEMS
+
+x(t),   
+ 
+
+x(t ) x ( ) x(t) 1 2
+x ( ) y(t). (1) 
+
+                    
+ 
+
+ 1, 
+ 0,  r1 
+
+ , 
+ 1  
+
+X1 r X 0 1 r 2 X
+1 1 1.                           (2) 
+
+ 
+ 
+
+ 
+a1 1 1 r2  ;    (3) 
+
+1
+
+b1 r ,                    (4) 
+1
+
+ 1  
+  
+
+r  
+1
+
+ 
+  
+
+ 
+ 
+
+X1 X0 b1 X 1 1;                 (5) 
+ Y1 Y0 b1 Y 1 1 ,                 (6) 
+
+X 1 , Y 1  
+
+ X0 , Y0  
+
+ Y,   
+   
+
+(X0=0,Y0=0), 0Y  0X 
+  (X1,Y1), X
+
+ M
+
+  
+(X ,Y ).  Y1
+
+1 + X1
+
+ 
+, D d X
+
+  1
+1
+
+  . H , DH
+
+ ( D ) M
+Y0 1 , D 1
+
+ X0 Y Y1 Y1 + Y1 Y
+M
+
+ X0,Y0
+
+ 
+x(t+ )  (t+ ),  
+
+ x(t),  ) 
+ 
+
+WWW.H-ES.RU HIGH TECH IN EARTH SPACE RESEARCH 15
+
+
+
+СИСТЕМЫ СПУТНИКОВОЙ НАВИГАЦИИ
+
+d D2 D2 2D D cos . (11) 
+
+ N 
+
+ mu  sigma. 
+ sigma  
+
+ 
+2
+
+ . 
+2
+
+ 
+(Y1 Y0b1 Y 1 1 ) (Y0 Y
+
+arctg 0 ) ;                (7) 
+(X1 X 0b1 X 1 1 ) (X 0 X 0 )
+
+ 
+2
+
+1 0 1 1 1 0 0 .                 (8) 
+2
+
+1 0 1 1 1 0 0
+
+( ) 0,015 ;    (9) 
+( ) 0,018 ,                (10) 
+
+  
+, 
+
+                      
+                     
+
+ 
+
+16 НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ 5-2013
+
+
+
+SATELLITE NAVIGATIONSYSTEMS
+
+88
+86
+
+17,6 75,8
+73,6
+
+16,2
+
+55,9
+
+10,5
+9,6
+
+5,3
+4,8
+
+1
+1
+
+ 
+ 
+
+ 
+
+8,2
+
+7,5
+
+4,1
+3,8
+
+2,5
+2,3
+
+1
+
+ 
+ 
+
+ 
+
+ 
+
+WWW.H-ES.RU HIGH TECH IN EARTH SPACE RESEARCH 17
+
+
+
+СИСТЕМЫ СПУТНИКОВОЙ НАВИГАЦИИ
+
+гидрометеорологического обеспечения боевых действий 11. Буренин А.Н., Легков К.Е. Эффективные методы управления 
+соединений кораблей ВМФ, часть 2: учеб.пособие. - СПб.: потоками в защищенных инфокоммуникационных сетях // 
+ВМА им. Кузнецова Н.Г., 2004. - 208 с. H&ES: Наукоемкие технологии в космических исследованиях 
+8. Дьяконов В.П. MathCAD в математике: справочник. М.: Те- Земли. – 2010. –№ 2. – С. 29-34.
+леком, 2007. – 960 с. 12. Буренин А.Н., Легков К.Е.  Модели процессов 
+9. Луконин В.П. Теория обработки навигационной информа- мониторинга при обеспечении оперативного контроля 
+ции: учебное пособие. - СПб.: ВУНЦ ВМФ «ВМА», 2010. - эксплуатации инфокоммуникационных сетей специального 
+295 с. назначения // H&ES: Наукоемкие технологии в космических 
+10. Михайлов С.А., Орлов Е.О. Оценка погрешностей расче- исследованиях Земли. – 2011. –№ 2. – С. 19-23.
+та параметров сближения судов по данным АИС. – Материа- 13. Буренин А.Н., Легков К.Е. К вопросу моделирования ор-
+лы Х научно-практической конференции «Практические про- ганизации информационной управляющей сети для системы 
+блемы развития радиосвязи и радионавигации в ГМЗЛБ, в управления современными инфокоммуникационными сетями 
+си-стемах АИС, СУРС и РИС». – ОНМА им Попова, 2009 г. // H&ES: Наукоемкие технологии в космических исследовани-
+– С. 45 - 47. ях Земли. – 2011. –  № 1. – С. 22-25.
+
+MODEL ASSESSMENT OF THE CORRELATION Keywords: correlation, dependence coordinates error, rel-
+INFLUENCE COORDINATES ERROR ON ative position, joint maneuvering, AIS.
+THE ACCURACY OF DETERMINING RELATIVE
+POSITION WITH THE JOINT SHIPS MANEUVERING References
+
+1. Marinich, A& Marinich, А & Procenko, I & Reznikov, V & 
+Garmatenko I., Military educational-scientific center Ustinov, Y &  Chernaev, R & Shibutdinov, A 2004, Ship auto-
+«Navy academy of N. G. Kuznecova» matic identification system, Saint-Petersburg, pp. 180.
+
+2. User navigation equipment of satellite navigation systems, 
+Abstract GLONASS & NAVSTAR «Briz-pl», 2002, Saint-Petersburg, 
+Now, global positioning systems (GPS) are the main means to pp. 73.
+ensure navigational safety of navigation. Using the AIS (auto- 3. Vagushenko, L & Vagushenko, L 2010, Support for the 
+matic information system) on the basis of GPS in high-accura- discrepancy with the courts, Odessa, pp. 229.
+cy mode (differential mode) allows you to determine the rela- 4. IMO А.917(22), 2001.
+tive position, parameters motion of objects with high precision 5. Mixailov, C & Mixailov, C & Orlov, E 2009, The method of 
+to ensure joint maneuvering ship. This advantage AIS is used calculation of parameters of convergence of vessels using the 
+for assessing the risk of collision. Determining the relative information AIS, Odessa, ONMA Popova, collection of 
+position and movement parameters using AIS when working research papers, issue 16 «Navigation», pp. 113-123.
+in standard mode, the GPS characterizes the random error 6. Nahatovich, L & Chichin, M & Sharapov, K & Yaroshenko, 
+and does not provide applying for joint maneuvering. To C 2003, Control navigation service in the conduct of combat 
+increase the accuracy of relative position of GPS using AIS in operations by the Navy, Saint-Petersburg, p.p. 116.
+standard mode can be provided with centralized measure- 7. Kabirov, R & Filonov, L & Tixonov, A 2004, Organization 
+ment of coordinates maneuvering vessels on time, on the same of navigation hydrographic and hydro-meteorological sup-
+Constellation of navigation satellites specific GPS. Then the port combat operations connections Navy, Saint-Petersburg, 
+error correlation coordinate strive to 1. Modern receivers and p.p. 208.
+indicators help to determine the coordinates set by the opera- 8. Diakonov, V 2007, MathCAD in mathematic, Moscow, 
+tor from the constellation of GPS satellites. Production of p.p.960. 
+measurements on the Constellation 3-4 satellites provides the 9. Lukonin, V 2010, Treatment theory navigational informa-
+definition of coordinates for a long period of time (from 3 to tion, Saint-Petersburg, pp. 295.
+8 hours, depending on the latitude location of the observer) 10. Mixailov, C & Orlov, E 2009, Estimation of errors of cal-
+on the distance between the joint maneuvering ships of up to culation of parameters of convergence of the courts accord-
+50 km of Centralized production of measurements of the rel- ing to the AIS. – Proceedings of the X scientific-practical 
+ative position can afford to provide AIS regardless of ability conference “Practical problems of development of radio 
+to use GPS in differential mode. This advantage can be real- communication and navigation in GSLB, AIS systems, resource 
+ized when assessing the risk of collision. and RICE”,Odessa, ONMA Popova, pp. 45 - 47.
+The aim of this work is: 11. Burenin, A & Legkov, K 2010,  ‘Effective methods of 
+- to evaluate the impact correlation of errors coordination and control over streams in protected infokommunikatsionny 
+joint maneuvering the ships, which are determined using GPS networks‘, H&ES: High technologies in space researches of 
+accuracy of determining the relative positions; Earth, vol.2, no.2, pp. 29-34.
+- to evaluate the possibility of increasing the accuracy deter- 12. Burenin, A & Legkov, K 2011,  ‘Model of monitoring 
+mining the relative position together maneuvering vessels with processes when ensuring operative control of operation of 
+the use of AIS in the centralized determination of coordinates infokommunikatsionny networks of special purpose’, H&ES: 
+on one of the GPS constellation, according to provide AIS High technologies in space researches of Earth, vol. 3, no. 2, 
+resolution to produce dynamic information about the location pp. 19-23.
+and movement parameters together maneuvering of the ship. 13. Burenin, A & Legkov, K  2011,‘ To a question of model-
+The purpose of the work is achieved through the development ing of the organization of the information managing director 
+of model evaluation of correlation of errors definition of coor- of a network for a control system of modern infokommu-
+dinates the accuracy of relative position of joint maneuvering nikatsionny networks’, H&ES: High technologies in space 
+of the ship. researches of Earth, vol. 3, no. 1, pp. 22-25.
+
+18 НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ 5-2013

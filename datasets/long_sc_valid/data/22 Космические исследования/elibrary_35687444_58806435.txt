@@ -1,0 +1,343 @@
+﻿Vol. 10. No. 4-2018, H&ES RESEARCH
+
+AVIATION, SPASE-ROCKET HARDWARE
+
+doi: 10.24411/2409-5419-2018-10093
+
+ОБ УПРАВЛЕНИИ ПЕРСПЕКТИВНЫМ КОСМИЧЕСКИМ 
+АППАРАТОМ ДИСТАНЦИОННОГО ЗОНДИРОВАНИЯ ЗЕМЛИ 
+С ИСПОЛЬЗОВАНИЕМ СИЛОВЫХ ГИРОСКОПОВ 
+ВО ВРЕМЯ ВЫПОЛНЕНИЯ СЪЕМОК
+
+ПЛАТОНОВ АННОТАЦИЯ
+Валерий Николаевич1 В настоящее время Российская Федерация наращивает группировку космических ап-
+
+паратов дистанционного зондирования Земли. В рамках этих работ, а также работ по 
+СУМАРОКОВ ряду зарубежных контрактов в России проводятся  исследования в области создания 
+Антон Владимирович2 современных автоматических систем дистанционного зондирования Земли. В резуль-
+
+тате этих исследований разрабатываются как спутники дистанционного зондирования 
+Земли на новой технологической платформе, так и задействуются возможности рос-
+сийского сегмента Международной космической станции.
+В работе рассмотрены режимы наблюдений перспективного космического аппара-
+та дистанционного зондирования Земли при проведении различных видов съемок. 
+Предполагается, что в качестве исполнительных органов используются двухстепен-
+ные силовые гироскопы. Приводятся способы расширения измерительного диапазона 
+датчика угловой скорости. В контуре управления ориентацией космического аппарата 
+выбраны параметры управления, наблюдателя и фильтра упругих колебаний, обеспе-
+чивающие заданные технические характеристики. Приводятся результаты математи-
+ческого моделирования динамики контура управления ориентацией подтверждаю-
+
+Сведения об авторах:
+1д.т.н., начальник отдела Ракетно-космической щие выполнение заданных точностных характеристик аппарата.
+корпорации «Энергия» имени С.П.Королева, 
+г. Королев, Россия, 
+valery.platonov@rsce.ru
+
+2к.ф-м.н., старший научный сотрудник 
+Ракетно-космической корпорации «Энергия» 
+имени С.П.Королева, г. Королев, Россия, КЛЮЧЕВЫЕ СЛОВА: гиродины; силовые гироскопы; кинетический момент; стабилиза-
+anon.sumarokov@rsce.ru ция; угловая скорость; прецессия.
+
+Для цитирования: Платонов В.Н., Сумароков А.В. Об управлении перспективным космическим аппаратом дистанционного зонди-
+рования Земли с использованием силовых гироскопов во время выполнения съемок // Наукоемкие технологии в космических ис-
+следованиях Земли. 2018. Т. 10. № 4. С. 19–28. doi: 10.24411/2409-5419-2018-10093
+
+19
+
+
+
+НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 10. № 4–2018
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+-
+
+-
+-
+
+-
+- -
+-
+
+- -
+
+- -
+
+-
+-
+
+-
+
+-
+-
+
+- -
+
+-
+-
+
+20
+
+
+
+Vol. 10. No. 4-2018, H&ES RESEARCH
+
+AVIATION, SPASE-ROCKET HARDWARE
+
+-
+
+-
+- -
+- -
+
+-
+
+21
+
+
+
+НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 10. № 4–2018
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+-
+- -
+-
+
+-
+- -
+-
+
+-
+
+x y z
+
+-
+-
+-
+
+-
+-
+
+- -
+-
+
+- -
+-
+- -
+
+- -
+
+-
+
+- -
+
+-
+-
+
+-
+-
+
+h - -
+- -
+
+-
+-
+
+-
+-
+
+X Z -
+-
+-
+
+-
+-
+
+22
+
+
+
+Vol. 10. No. 4-2018, H&ES RESEARCH
+
+AVIATION, SPASE-ROCKET HARDWARE
+
+-
+- -
+
+-
+- -
+-
+
+-
+- -
+
+-
+
+-
+-
+
+-
+- -
+-
+
+-
+- -
+
+23
+
+
+
+НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 10. № 4–2018
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+-
+- -
+
+-
+- -
+
+-
+-
+
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+- -
+-
+
+-
+
+24
+
+
+
+Vol. 10. No. 4-2018, H&ES RESEARCH
+
+AVIATION, SPASE-ROCKET HARDWARE
+
+25
+
+
+
+НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 10. № 4–2018
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+-
+-
+
+- -
+
+-
+-
+-
+-
+
+-
+
+- -
+- -
+
+26
+
+
+
+Vol. 10. No. 4-2018, H&ES RESEARCH
+
+AVIATION, SPASE-ROCKET HARDWARE
+
+-
+-
+
+- -
+-
+
+- -
+-
+
+- -
+-
+
+ON THE ATTITUDE CONTROL FOR NEXT-GENERATION EARTH 
+SURFACE SENSING SPACECRAFT USING ABOUT CONTROLLING 
+THE POWER GYROS WHEN PERFORMING OBSERVATION
+
+VALERY N. PLATONOV, KEYWORDS: single-gimbal control moment gyros; kinetic momen-
+Korolev, Russia, valery.platonov@rsce.ru tum; stabilization; angular rate; precession.
+
+ANTON V. SUMAROKOV,
+Korolev, Russia, anton.sumarokov@rsce.ru
+
+ABSTRAСT
+Now the Russian Federation increases group of spacecrafts of remote dynamics of a contour of management by orientation confirming im-
+sensing of Earth. Within these works, and also works on a number of plementation of the set tochnostny characteristics of the device are 
+foreign contracts in Russia researches in the field of creation of mod- given.
+ern automatic systems of remote sensing of Earth are carried out. As a 
+result of these researches are developed as satellites of remote sens- REFERENCES
+ing of Earth on a new technological platform, and possibilities of the 1. Bogachev A. V., Platonov V. N., Timakov S. N. Capabilities Analysis 
+Russian segment of the International space station will be involved. to Ensure the Accuracy Characteristics of the Prospective Spacecraft 
+In work modes of supervision of the perspective spacecraft of remote Stabilization, Designed for the Remote Sensing of the Earth. Cosmo-
+sensing of Earth are considered at carrying out different types of nautics and rocket engineering. 2013. No. 2. Pp. 83–89. (In Russian)
+shootings. It is supposed that as executive bodies two-sedate pow- 2. Platonov V. N. About accuracy of an earth remote sensing space-
+er gyroscopes are used. Ways of expansion of a measuring range of craft attitude-keeping without using data from inertial sensors. Space 
+the sensor of angular speed are given. In a contour of management technique and technologies. 2014. No. 3. Pp. 33–38. (In Russian)
+parameters of management, the observer and the filter of the elas- 3. Sumarokov A. V. Navedenie kamery vysokogo razresheniya pri vid-
+tic fluctuations, the providing set technical characteristics are chosen eos'emke poverhnosti zemli s MKS [Setting high definition camera 
+as orientation of the spacecraft. Results of mathematical modeling of when video filming the Earth's surface from the ISS]. Materials XVII 
+
+27
+
+
+
+НАУКОЕМКИЕ ТЕХНОЛОГИИ В КОСМИЧЕСКИХ ИССЛЕДОВАНИЯХ ЗЕМЛИ, Т. 10. № 4–2018
+
+АВИАЦИОННАЯ И РАКЕТНО-КОСМИЧЕСКАЯ ТЕХНИКА
+
+of conference of young scientists «Navigation and traffic control». Ed. Term Orbiting Space Stations. Acta Astronautica. 1988. Vol. 18. 91 p.
+V. G. Peshekhonova. [Proceedings of the Conference of Young Scien- 10. Tokar' E.N., Platonov V. N. Issledovanie osobyh poverhnostei sis-
+tists on Navigation and Motion Control, Ed. By V. G. Peshekhonov]. tem bezupornyh girodinov [Reseach of the Singular Surfaces for the 
+St. Petersburg: Elektropribor, 2012. Pp. 561–568. (In Russian) Systems of Usupported Gyros]. Kosmicheskie issledovaniya [Cosmic 
+4. Sumarokov A. V. On pointing of high resolution camera mounte- Research]. 1978. Vol. 16. No. 5. Pp. 675–685. (In Russian)
+don the international space station using biaxial rotating platform. 11. Kul'ba V.V., Mikrin E. A., Pavlov B. V., Platonov V. N. Teoreticheskie 
+Herald of the Bauman Moscow State Technical University. Series In- osnovy proektirovaniya informatsionno-upravlyayuschih sistem kos-
+strument Engineering. 2016. No. 5. Pp. 85–97. DOI: 10.18698/0236– micheskih apparatov [Theoretical Basis of Designing Spacecrafts In-
+3933–2016–4–85–97 (In Russian) formation and Control Systems]. Moscow: Nauka, 2006. (In Russian)
+5. Voronin F. A., Pakhmutov P. A., Sumarokov A. V. On inofrma- 12. Bryson A. E., Ho Yu. Applied optimal control: optimization, esti-
+tion-control system modernization introduced in the russian seg- mation, and control. Waltham, Mass.: Blaisdell Pub. Co., 1969. 481 p.
+ment of international space station. Herald of the Bauman Moscow 13. Branets V. N., Platonov V. N., Sumarokov A. V., Timakov S. N. Sta-
+State Technical University. Series Instrument Engineering. 2017. bilization of a wheels carrying communication satellite without an-
+No. 1. Pp. 109–122. DOI: 10.18698/0236–3933–2017–1–109–122. gle and angular velocity sensors. Journal of Computer and Systems 
+(In Russian) Sciences International. 2008. Vol. 47. No. 1. Pp. 118–128.
+6. Platonov V. N., Sumarokov A. V. Supplying for Stabilization Accu- 14. Aleksandrov V. V., Boltyanskii V. G., Lemak S. S., Parusnikov N. A.,
+racy of Next-Generation Spacecraft when Conducting Earth Surface Tihomirov V. M. Optimal'noe upravlenie dvizheniem [Optimal mo-
+Area Mapping. Cosmonautics and rocket engineering. 2017. No. 3. tion control]. Moscow: Fizmatlit, 2005. 376 p. (In Russian)
+Pp. 125–132. (In Russian) 15. Borisenko N. Yu., Sumarokov A. V. On the rapid orbital attitude
+7. Platonov V. N. Zakon upravleniya sistemoi girostabilizatorov [Con- control of manned and cargo spacecraft Soyuz MS and Progress MS. 
+trol law for the system of gyrostabilisers]. Trudy V nauchno-tehnich- Journal of Computer and Systems Sciences International. 2017. Vol. 
+eskoi konferentsii molodyh spetsialistov predpriyatiya [Proceedings 56. No. 5. Pp. 886–895.
+of the V of scientific and technical conference of young specialists of 16. Sumarokov A. V., Timakov S. N. On an adaptive control system for 
+the enterprise]. Kaliningrad MO: NPO “Energiya”. 1977. Pp. 57–69. angular motion of a communication satellite. Journal of Computer 
+(In Russian) and Systems Sciences International. 2008. Vol. 47. No. 5. Pp. 795–805.
+8. Crenshaw J. W. 2-Speed, a single gimbal control moment gyro atti-
+tude control system. AIAA Paper. 1973. No. 73–895. Pp. 1–10. INFORMATION ABOUT AUTHORS:
+9. Branets V. N., Weinberg D. M., Werestchagin V. P., Danilov-Nitusov N. N., Platonov V.N., PhD, Head of department Research and Development 
+Legostaev V. P., Platonov V. N., Semenov U. P., Semjchkin V. S., Cher- center of S.P. Korolyev Rocket and Space Public Corp. Energia;
+tok B. E., Sheremetyevsky N. N. Development Experience of the Atti- Suamrokov A.V., PhD, Seniour scientist of Research and Develop-
+tude Control System Using Single-Axis Control Moment Gyros for Long- ment center of S.P. Korolyev Rocket and Space Public Corp. Energia.
+
+For citation: Platonov V.N., Sumarokov A.V. On the attitude control for next-generation Earth surface sensing spacecraft using about con-
+trolling the power gyros when performing observation. H&ES Research. 2018. Vol. 10. No. 4. Pр. 19–28. doi: 10.24411/2409-5419-2018-10093 
+(In Russian)
+
+28
