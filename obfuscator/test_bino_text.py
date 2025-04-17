@@ -3,16 +3,12 @@ import numpy as np
 import torch
 import transformers
 from transformers import AutoModelForCausalLM, AutoTokenizer
-import matplotlib.pyplot as plt
-from IPython.display import HTML, display
 import logging
-plt.rcParams["figure.dpi"] = 300
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 DEVICE_1 = "cuda:0"
-DEVICE_2 = "cpu"
 
 torch.set_grad_enabled(False)
 
@@ -32,7 +28,7 @@ try:
 
     logger.info("Loading performer model...")
     performer_model = AutoModelForCausalLM.from_pretrained(performer_name,
-                                                         device_map={"": DEVICE_2},
+                                                         device_map={"": DEVICE_1},
                                                          trust_remote_code=True,
                                                          torch_dtype=torch.bfloat16)
 
@@ -45,26 +41,30 @@ except Exception as e:
     logger.error(f"Error loading models: {str(e)}")
     raise
 
-def generate_html(tokens, scores):
-    html = "<p>" + tokens[0]
+def generate_console_output(tokens, scores):
+    output = tokens[0]
     for token, score in zip(tokens[1:], scores.squeeze().tolist()):
-        color_value = 255 * score 
-        html += f"<span style='background-color: rgb(255, {255-color_value}, {255-color_value}); color: black;'>{token}</span>"
-    html += "</p>"
-    return html
+        # Convert score to color intensity (0-255)
+        color_value = int(255 * score)
+        # ANSI escape code for background color
+        color_code = f"\033[48;2;255;{255-color_value};{255-color_value}m"
+        # Reset color code
+        reset_code = "\033[0m"
+        output += f"{color_code}{token}{reset_code}"
+    return output
 
 # redefine to handle batch of strings
 def tokenize(batch):
     encodings = tokenizer(batch, return_tensors="pt", 
     padding="longest" if len(batch) > 1 else False, truncation=True,
-    max_length=512, return_token_type_ids=False).to(DEVICE_1)
+    max_length=10000, return_token_type_ids=False).to(DEVICE_1)
     return encodings
 
 # redefinition with cuda sync
 @torch.inference_mode()
 def get_logits(encodings):
     observer_logits = observer_model(**encodings.to(DEVICE_1)).logits
-    performer_logits = performer_model(**encodings.to(DEVICE_2)).logits
+    performer_logits = performer_model(**encodings.to(DEVICE_1)).logits
     torch.cuda.synchronize()
 
     return observer_logits, performer_logits
@@ -129,9 +129,9 @@ ppl = loss_fn(shifted_logits.transpose(1, 2).to("cpu"), shifted_labels).float()
 normalized_ppl = ppl / torch.max(ppl)
 
 tokens = [tokenizer.decode([tok], clean_up_tokenization_spaces=False) for tok in encoding.input_ids.squeeze().tolist()]
-html_output = generate_html(tokens, normalized_ppl)
-
-display(HTML(html_output))
+console_output = generate_console_output(tokens, normalized_ppl)
+print("\nPerplexity scores:")
+print(console_output)
 
 performer_probs = softmax_fn(performer_logits).view(-1, V).to("cpu")
 observer_scores = observer_logits.view(-1, V).to("cpu")
@@ -139,11 +139,13 @@ observer_scores = observer_logits.view(-1, V).to("cpu")
 xppl = loss_fn(observer_scores[:-1], performer_probs[:-1]).view(-1, S - 1).to("cpu").float()
 normalized_xppl = xppl / torch.max(xppl)
 
-html_output = generate_html(tokens, normalized_xppl)
-display(HTML(html_output))
+console_output = generate_console_output(tokens, normalized_xppl)
+print("\nCross-perplexity scores:")
+print(console_output)
 
 binocular_score = normalized_ppl / normalized_xppl
 normalized_binocular_score = binocular_score / torch.max(binocular_score)
 
-html_output = generate_html(tokens, normalized_binocular_score)
-display(HTML(html_output))
+console_output = generate_console_output(tokens, normalized_binocular_score)
+print("\nBinocular scores:")
+print(console_output)
