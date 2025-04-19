@@ -4,7 +4,7 @@ from datetime import datetime
 from bino_analyzer import analyze_text
 from character_editor import CharacterEditor
 from edit_writer import EditWriter
-from html_reporter import generate_html_report, save_text_to_file
+from html_reporter import generate_html_report, save_text_to_file, ensure_directory
 
 class TextObfuscator:
     def __init__(self, api_key=None):
@@ -48,13 +48,14 @@ class TextObfuscator:
         if "edited_text" not in analysis_result:
             print("No sections requiring edits were identified.")
             
-            html_file = generate_html_report(text_versions, timestamp=timestamp)
+            html_file = generate_html_report(text_versions, analysis_result, timestamp)
+            saved_files.append(html_file)
             
             return {
                 "original_text": text,
                 "processed_text": current_text,
                 "text_versions": text_versions,
-                "files": saved_files + [html_file]
+                "files": saved_files
             }
         
         tagged_text = analysis_result["edited_text"]
@@ -72,42 +73,10 @@ class TextObfuscator:
         
         html_file = generate_html_report(
             text_versions,
-            timestamp=timestamp
+            analysis_result,
+            timestamp
         )
         saved_files.append(html_file)
-        
-        visualization_html = f"""
-        <!DOCTYPE html>
-        <html>
-        <head>
-            <meta charset="UTF-8">
-            <title>Text Analysis Visualization - {timestamp}</title>
-            <style>
-                body {{ font-family: Arial, sans-serif; margin: 20px; }}
-                h2 {{ color: #333; }}
-                h3 {{ color: #666; margin-top: 20px; }}
-                p {{ line-height: 1.6; }}
-            </style>
-        </head>
-        <body>
-            <h2>Text Analysis Visualization</h2>
-            <p>Analysis performed on: {timestamp}</p>
-            <h3>Original Text:</h3>
-            <p>{text}</p>
-            
-            {analysis_result['ppl_html']}
-            {analysis_result['xppl_html']}
-            {analysis_result['bino_html']}
-            
-            {analysis_result.get('html_edits', '')}
-        </body>
-        </html>
-        """
-        
-        viz_file = f"analysis_visualization_{timestamp}.html"
-        with open(viz_file, 'w', encoding='utf-8') as f:
-            f.write(visualization_html)
-        saved_files.append(viz_file)
         
         return {
             "original_text": text,
@@ -128,10 +97,16 @@ class TextObfuscator:
         
         if output_file:
             try:
-                with open(output_file, 'w', encoding='utf-8') as f:
+                output_dir = os.path.dirname(result['files'][0])
+                if not os.path.dirname(output_file):
+                    full_output_path = os.path.join(output_dir, output_file)
+                else:
+                    full_output_path = output_file
+                
+                with open(full_output_path, 'w', encoding='utf-8') as f:
                     f.write(result["processed_text"])
-                print(f"Obfuscated text saved to {output_file}")
-                result["output_file"] = output_file
+                print(f"Obfuscated text saved to {full_output_path}")
+                result["output_file"] = full_output_path
             except Exception as e:
                 print(f"Error writing to file {output_file}: {str(e)}")
         
@@ -157,8 +132,9 @@ if __name__ == "__main__":
     
     if result:
         print("\nObfuscation completed successfully!")
-        print("Generated files:")
+        print(f"Output directory: {os.path.dirname(result['files'][0])}")
+        print("\nGenerated files:")
         for i, file in enumerate(result["files"]):
-            print(f"  {i+1}. {file}")
+            print(f"  {i+1}. {os.path.basename(file)}")
         if "output_file" in result:
             print(f"\nUser-specified output: {result['output_file']}")
