@@ -1,0 +1,83 @@
+import requests
+import json
+import os
+import re
+from typing import Optional, Dict, List, Tuple
+
+class EditWriter:
+    def __init__(self, api_key: Optional[str] = None, api_url: str = "https://api.deepseek.com/v1/chat/completions"):
+        self.api_key = api_key or os.environ.get("DEEPSEEK_API_KEY")
+        if not self.api_key:
+            raise ValueError("API key is not specified. Provide it when creating an instance or through the DEEPSEEK_API_KEY environment variable")
+        
+        self.api_url = api_url
+        self.headers = {
+            "Content-Type": "application/json",
+            "Authorization": f"Bearer {self.api_key}"
+        }
+    
+    def rewrite_text(self, text_to_edit: str) -> str:
+        prompt = f"""
+        Ниже приведён текст с фрагментами, требующими доработки. Каждый такой фрагмент обрамлён тегами <EDIT> и </EDIT>.  
+        Пожалуйста, верни полный текст, в котором:
+        1. Перефразированы и расчищены от ошибок только части между <EDIT> и </EDIT>.
+        2. Всё вне этих тегов сохранено дословно (включая пробелы, списки, заголовки, кавычки и т. д.).
+        3. Теги <EDIT> и </EDIT> не включай в итог вместо них вставляй отредактированный текст.
+        4. Сохрани общий тон и стиль документа.
+        
+        Текст для переработки:
+        ```
+        {text_to_edit}
+        ```
+        """
+        
+        payload = {
+            "model": "deepseek-chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": prompt
+                }
+            ],
+            "temperature": 1,
+            "max_tokens": 4096
+        }
+        
+        try:
+            response = requests.post(self.api_url, headers=self.headers, data=json.dumps(payload))
+            response.raise_for_status()
+            
+            result = response.json()
+            rewritten_text = result.get("choices", [{}])[0].get("message", {}).get("content", "")
+            
+            return rewritten_text.strip()
+            
+        except requests.exceptions.RequestException as e:
+            print(f"API request error: {e}")
+            return text_to_edit
+        except (KeyError, IndexError) as e:
+            print(f"Error processing API response: {e}")
+            return text_to_edit
+    
+    def process_text(self, text: str) -> str:
+        rewritten = self.rewrite_text(text)
+        return rewritten
+
+if __name__ == "__main__":
+    
+    text = '''### Искусственный интеллект в современном мире
+    Искусственный интеллект (ИИ) стал <EDIT>один из наиболее важных технологических достижений последних десятилетий. Он трансформирует множество областей, включая медицина, финансы, производство и транспорт.</EDIT>
+    #### Основные применения ИИ:
+    1. Медицина - <EDIT>ИИ помогает врачам диагностировать заболевания, анализировать медицинские снимки и разрабатывать планы лечения. Системы ИИ способны обрабатывать большие объёмы медицинских данных для выявления закономерностей, которые человек может пропустить.</EDIT>
+    2. Финансы - ИИ используется для выявления мошеннических транзакций, оценки кредитных рисков и автоматизации торговли.
+    3. Транспорт - <EDIT>Автономные транспортные средства, использующие алгоритмы ИИ, обещают революционизировать транспортную отрасль и сделать дороги более безопасными. Компании как Tesla, Waymo и другие инвестируют миллиарды в разработку самоуправляемых автомобилей.</EDIT>
+    #### Этические вопросы
+    Развитие ИИ поднимает важные этические вопросы, включая проблемы <EDIT>приватность данных, алгоритмическая предвзятость, автоматизация рабочих мест и потенциальная автономность систем вооружений.</EDIT>
+    В заключение, ИИ представляет собой мощный инструмент с огромным потенциалом для решения сложных проблем, но требует ответственного подхода к его развитию и применению.'''
+    
+    writer = EditWriter()
+    output_text = writer.process_text(text)
+    print("\nИсходный текст:")
+    print(text)
+    print("\nОбработанный текст:")
+    print(output_text)
