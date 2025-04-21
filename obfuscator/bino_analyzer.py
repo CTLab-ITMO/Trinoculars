@@ -11,7 +11,7 @@ DEVICE_1 = "cuda:0"
 
 torch.set_grad_enabled(False)
 
-observer_name = "deepseek-ai/deepseek-llm-7b-chat"
+observer_name = "deepseek-ai/deepseek-llm-7b-base"
 performer_name = "deepseek-ai/deepseek-coder-7b-instruct-v1.5" 
 
 try:
