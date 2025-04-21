@@ -85,23 +85,27 @@ def cross_perplexity(observer_logits, performer_logits, encoding):
     
     return xppl.to("cpu").float().numpy()
 
-def two_level_normalize(scores, threshold_percentile=95):
-    threshold = torch.quantile(scores, threshold_percentile/100)
-    mask_high = scores >= threshold
-    mask_low = scores < threshold
+def adaptive_context_normalize(scores, window_size=5, sensitivity=2.0, min_threshold=0.0, max_threshold=1.0):
+    scores_np = scores.cpu().numpy().squeeze()
+    result = torch.zeros_like(scores)
     
-    normal_scores = torch.zeros_like(scores)
-    if torch.any(mask_low):
-        min_normal = torch.min(scores[mask_low])
-        max_normal = torch.max(scores[mask_low])
-        normal_scores[mask_low] = 0.7 * (scores[mask_low] - min_normal) / (max_normal - min_normal + 1e-10)
+    for i in range(len(scores_np)):
+        start = max(0, i - window_size)
+        end = min(len(scores_np), i + window_size + 1)
+        window = scores_np[start:end]
+        
+        local_mean = window.mean()
+        local_std = window.std() + 1e-10
+        
+        z_score = (scores_np[i] - local_mean) / local_std
+        
+        normalized = 1 / (1 + np.exp(-sensitivity * z_score))
+        
+        normalized = min_threshold + normalized * (max_threshold - min_threshold)
+        
+        result[0, i] = float(normalized)
     
-    if torch.any(mask_high):
-        min_high = torch.min(scores[mask_high])
-        max_high = torch.max(scores[mask_high])
-        normal_scores[mask_high] = 0.7 + 0.3 * (scores[mask_high] - min_high) / (max_high - min_high + 1e-10)
-    
-    return normal_scores
+    return result
 
 def generate_html_output(tokens, scores, title):
     html = f"<h3>{title}</h3>\n<p>"
@@ -328,7 +332,7 @@ def analyze_text(text, add_edit_tags=False, edit_threshold=0.7):
     xppl = loss_fn(observer_scores[:-1], performer_probs[:-1]).view(-1, S - 1).to("cpu").float()
     
     binocular_score = ppl / xppl
-    normalized_binocular_score = two_level_normalize(binocular_score, threshold_percentile=95)
+    normalized_binocular_score = adaptive_context_normalize(binocular_score)
     
     ppl_html = generate_html_output(tokens, ppl, "Perplexity Scores")
     xppl_html = generate_html_output(tokens, xppl, "Cross-Perplexity Scores") 
