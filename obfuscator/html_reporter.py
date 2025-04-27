@@ -100,8 +100,11 @@ def save_text_to_file(text, prefix="text", timestamp=None):
     if timestamp is None:
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     
+    first_word = text.strip().split()[0] if text.strip() else "empty"
+    first_word = ''.join(c for c in first_word if c.isalnum())
+    first_word = first_word[:20]
     output_dir = ensure_directory(f"output_{timestamp}")
-    filename = os.path.join(output_dir, f"{prefix}_{timestamp}.txt")
+    filename = os.path.join(output_dir, f"{prefix}_{first_word}_{timestamp}.txt")
     
     with open(filename, 'w', encoding='utf-8') as f:
         f.write(text)

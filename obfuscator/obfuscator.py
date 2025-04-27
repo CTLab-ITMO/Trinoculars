@@ -85,7 +85,7 @@ class TextObfuscator:
             "files": saved_files
         }
     
-    def obfuscate_file(self, input_file, output_file=None, edit_threshold=0.7, cleanup_formatting=True):
+    def obfuscate_file(self, input_file, edit_threshold=0.7, cleanup_formatting=True):
         try:
             with open(input_file, 'r', encoding='utf-8') as f:
                 text = f.read()
@@ -94,28 +94,11 @@ class TextObfuscator:
             return None
         
         result = self.obfuscate_text(text, edit_threshold, cleanup_formatting)
-        
-        if output_file:
-            try:
-                output_dir = os.path.dirname(result['files'][0])
-                if not os.path.dirname(output_file):
-                    full_output_path = os.path.join(output_dir, output_file)
-                else:
-                    full_output_path = output_file
-                
-                with open(full_output_path, 'w', encoding='utf-8') as f:
-                    f.write(result["processed_text"])
-                print(f"Obfuscated text saved to {full_output_path}")
-                result["output_file"] = full_output_path
-            except Exception as e:
-                print(f"Error writing to file {output_file}: {str(e)}")
-        
         return result
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Text obfuscation pipeline")
     parser.add_argument("--input", "-i", help="Input file path", required=True)
-    parser.add_argument("--output", "-o", help="Output file path")
     parser.add_argument("--threshold", "-t", help="Edit threshold (0.0-1.0)", type=float, default=0.7)
     parser.add_argument("--no-cleanup", help="Skip the formatting cleanup step", action="store_true")
     parser.add_argument("--api-key", help="DeepSeek API key")
@@ -125,7 +108,6 @@ if __name__ == "__main__":
     obfuscator = TextObfuscator(api_key=args.api_key)
     result = obfuscator.obfuscate_file(
         args.input,
-        args.output,
         edit_threshold=args.threshold,
         cleanup_formatting=not args.no_cleanup
     )
@@ -136,5 +118,3 @@ if __name__ == "__main__":
         print("\nGenerated files:")
         for i, file in enumerate(result["files"]):
             print(f"  {i+1}. {os.path.basename(file)}")
-        if "output_file" in result:
-            print(f"\nUser-specified output: {result['output_file']}")
