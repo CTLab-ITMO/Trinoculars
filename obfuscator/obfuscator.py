@@ -99,6 +99,14 @@ class TextObfuscator:
         else:
             final_text = current_text
             
+        if cleanup_formatting:
+            print("Final step: Cleaning up formatting of the processed text...")
+            final_text = self.character_editor.remove_extra_characters(final_text)
+            text_versions["final_cleaned"] = final_text
+            
+            final_cleaned_file = save_text_to_file(final_text, "final_cleaned", timestamp)
+            saved_files.append(final_cleaned_file)
+            
         text_versions["final"] = final_text
         
         final_file = save_text_to_file(final_text, "final", timestamp)
