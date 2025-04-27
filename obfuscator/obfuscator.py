@@ -4,7 +4,7 @@ from datetime import datetime
 from bino_analyzer import analyze_text
 from character_editor import CharacterEditor
 from edit_writer import EditWriter
-from html_reporter import generate_html_report, save_text_to_file, ensure_directory
+from html_reporter import generate_html_report, save_text_to_file
 
 class TextObfuscator:
     def __init__(self, api_key=None, api_type="deepseek"):
@@ -47,34 +47,58 @@ class TextObfuscator:
         else:
             current_text = text
         
-        print("Step 2: Analyzing text to identify suspicious parts...")
-        analysis_result = analyze_text(current_text, add_edit_tags=True, edit_threshold=edit_threshold)
+        iteration = 0
+        max_iterations = 3
+        current_verdict = None
         
-        text_versions["with_scores"] = analysis_result["text_with_scores"]
-        scored_file = save_text_to_file(analysis_result["text_with_scores"], "scored", timestamp)
-        saved_files.append(scored_file)
-        
-        if "edited_text" not in analysis_result:
-            print("No sections requiring edits were identified.")
+        while iteration < max_iterations:
+            iteration += 1
             
-            html_file = generate_html_report(text_versions, analysis_result, timestamp)
-            saved_files.append(html_file)
+            print(f"Iteration {iteration}/{max_iterations}: Analyzing text...")
+            analysis_result = analyze_text(current_text, add_edit_tags=True, edit_threshold=edit_threshold)
+            current_verdict = analysis_result["verdict"]
             
-            return {
-                "original_text": text,
-                "processed_text": current_text,
-                "text_versions": text_versions,
-                "files": saved_files
-            }
+            if iteration == 1:
+                text_versions["with_scores"] = analysis_result["text_with_scores"]
+                scored_file = save_text_to_file(analysis_result["text_with_scores"], "scored", timestamp)
+            else:
+                text_versions[f"with_scores_{iteration}"] = analysis_result["text_with_scores"]
+                scored_file = save_text_to_file(analysis_result["text_with_scores"], f"scored_{iteration}", timestamp)
+            saved_files.append(scored_file)
+            
+            if current_verdict == "Most likely human-generated":
+                print(f"Text detected as human-generated. No further obfuscation needed.")
+                break
+            
+            if "edited_text" not in analysis_result:
+                print(f"No sections requiring edits were identified.")
+                break
+            
+            print(f"Iteration {iteration}/{max_iterations}: Text detected as AI-generated. Obfuscating...")
+            
+            tagged_text = analysis_result["edited_text"]
+            text_versions[f"tagged_{iteration}"] = tagged_text
+            
+            tagged_file = save_text_to_file(tagged_text, f"tagged_{iteration}", timestamp)
+            saved_files.append(tagged_file)
+            
+            print(f"Iteration {iteration}/{max_iterations}: Rewriting identified sections...")
+            edited_text = self.edit_writer.process_text(tagged_text)
+            text_versions[f"edited_{iteration}"] = edited_text
+            
+            edited_file = save_text_to_file(edited_text, f"edited_{iteration}", timestamp)
+            saved_files.append(edited_file)
+            
+            current_text = edited_text
+            
+            if iteration == max_iterations:
+                break
         
-        tagged_text = analysis_result["edited_text"]
-        text_versions["tagged"] = tagged_text
-        
-        tagged_file = save_text_to_file(tagged_text, "tagged", timestamp)
-        saved_files.append(tagged_file)
-        
-        print("Step 3: Rewriting identified sections...")
-        final_text = self.edit_writer.process_text(tagged_text)
+        if iteration > 0 and current_verdict == "Most likely AI-generated":
+            final_text = text_versions.get(f"edited_{iteration}", current_text)
+        else:
+            final_text = current_text
+            
         text_versions["final"] = final_text
         
         final_file = save_text_to_file(final_text, "final", timestamp)
@@ -91,7 +115,9 @@ class TextObfuscator:
             "original_text": text,
             "processed_text": final_text,
             "text_versions": text_versions,
-            "files": saved_files
+            "files": saved_files,
+            "verdict": current_verdict,
+            "iterations": iteration
         }
     
     def obfuscate_file(self, input_file, edit_threshold=0.7, cleanup_formatting=True):
@@ -125,6 +151,8 @@ if __name__ == "__main__":
     if result:
         print("\nObfuscation completed successfully!")
         print(f"Output directory: {os.path.dirname(result['files'][0])}")
+        print(f"Final verdict: {result.get('verdict', 'Unknown')}")
+        print(f"Obfuscation iterations: {result['iterations']}")
         print("\nGenerated files:")
         for i, file in enumerate(result["files"]):
             print(f"  {i+1}. {os.path.basename(file)}")

@@ -12,7 +12,9 @@ DEVICE_1 = "cuda:0"
 torch.set_grad_enabled(False)
 
 observer_name = "deepseek-ai/deepseek-llm-7b-base"
-performer_name = "deepseek-ai/deepseek-coder-7b-instruct-v1.5" 
+performer_name = "deepseek-ai/deepseek-llm-7b-chat"
+
+THRESHOLD_RU = 0.962617
 
 try:
     print("Loading tokenizers...")
@@ -333,6 +335,9 @@ def analyze_text(text, add_edit_tags=False, edit_threshold=0.7):
     
     binocular_score = ppl / xppl
     normalized_binocular_score = adaptive_context_normalize(binocular_score)
+
+    avg_score = normalized_binocular_score.mean().item()
+    verdict = "Most likely human-generated" if avg_score >= THRESHOLD_RU else "Most likely AI-generated"
     
     ppl_html = generate_html_output(tokens, ppl, "Perplexity Scores")
     xppl_html = generate_html_output(tokens, xppl, "Cross-Perplexity Scores") 
@@ -355,7 +360,9 @@ def analyze_text(text, add_edit_tags=False, edit_threshold=0.7):
         "ppl_html": ppl_html,
         "xppl_html": xppl_html,
         "bino_html": bino_html,
-        "text_with_scores": text_with_scores
+        "text_with_scores": text_with_scores,
+        "verdict": verdict,
+        "avg_score": avg_score
     }
     
     if html_edits:
