@@ -2,18 +2,30 @@ import requests
 import json
 import os
 from typing import Optional
+from google import genai
 
 class CharacterEditor:
-    def __init__(self, api_key: Optional[str] = None, api_url: str = "https://api.deepseek.com/v1/chat/completions"):
-        self.api_key = api_key or os.environ.get("DEEPSEEK_API_KEY")
-        if not self.api_key:
-            raise ValueError("API key is not specified. Provide it when creating an instance or through the DEEPSEEK_API_KEY environment variable")
+    def __init__(self, api_key: Optional[str] = None, api_url: str = "https://api.deepseek.com/v1/chat/completions", api_type: str = "deepseek"):
+        self.api_type = api_type
         
-        self.api_url = api_url
-        self.headers = {
-            "Content-Type": "application/json",
-            "Authorization": f"Bearer {self.api_key}"
-        }
+        if api_type == "deepseek":
+            self.api_key = api_key or os.environ.get("DEEPSEEK_API_KEY")
+            if not self.api_key:
+                raise ValueError("DeepSeek API key is not specified. Provide it when creating an instance or through the DEEPSEEK_API_KEY environment variable")
+            
+            self.api_url = api_url
+            self.headers = {
+                "Content-Type": "application/json",
+                "Authorization": f"Bearer {self.api_key}"
+            }
+        elif api_type == "gemini":
+            self.api_key = api_key or os.environ.get("GEMINI_API_KEY")
+            if not self.api_key:
+                raise ValueError("Gemini API key is not specified. Provide it when creating an instance or through the GEMINI_API_KEY environment variable")
+            
+            self.gemini_client = genai.Client(api_key=self.api_key)
+        else:
+            raise ValueError(f"Unsupported API type: {api_type}. Supported types are 'deepseek' and 'gemini'")
     
     def remove_extra_characters(self, text: str) -> str:
         prompt = f"""
@@ -30,6 +42,12 @@ class CharacterEditor:
         ```
         """
         
+        if self.api_type == "deepseek":
+            return self._process_with_deepseek(prompt)
+        else:
+            return self._process_with_gemini(prompt)
+    
+    def _process_with_deepseek(self, prompt: str) -> str:
         payload = {
             "model": "deepseek-chat",
             "messages": [
@@ -52,16 +70,32 @@ class CharacterEditor:
             return cleaned_text.strip()
             
         except requests.exceptions.RequestException as e:
-            print(f"API request error: {e}")
-            return text
+            print(f"DeepSeek API request error: {e}")
+            return prompt.split("```")[1].strip() if "```" in prompt else prompt
         except (KeyError, IndexError) as e:
-            print(f"Error processing API response: {e}")
-            return text
+            print(f"Error processing DeepSeek API response: {e}")
+            return prompt.split("```")[1].strip() if "```" in prompt else prompt
+    
+    def _process_with_gemini(self, prompt: str) -> str:
+        try:
+            response = self.gemini_client.models.generate_content(
+                model="gemini-2.0-flash",
+                contents=prompt
+            )
+            return response.text.strip()
+        except Exception as e:
+            print(f"Error with Gemini API: {e}")
+            return prompt.split("```")[1].strip() if "```" in prompt else prompt
 
 if __name__ == "__main__":
-    editor = CharacterEditor()
+    editor = CharacterEditor(api_type="deepseek")
     
     sample_text = "Это   текст  с  лишними     пробелами...... и другими!!!!   проблемами   форматирования."
     
     cleaned_text = editor.remove_extra_characters(sample_text)
-    print(f"Text after API processing: {cleaned_text}")
+    print(f"Text after DeepSeek API processing: {cleaned_text}")
+    
+    if os.environ.get("GEMINI_API_KEY"):
+        editor_gemini = CharacterEditor(api_type="gemini")
+        cleaned_text_gemini = editor_gemini.remove_extra_characters(sample_text)
+        print(f"Text after Gemini API processing: {cleaned_text_gemini}")

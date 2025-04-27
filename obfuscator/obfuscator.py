@@ -7,13 +7,22 @@ from edit_writer import EditWriter
 from html_reporter import generate_html_report, save_text_to_file, ensure_directory
 
 class TextObfuscator:
-    def __init__(self, api_key=None):
-        self.api_key = api_key or os.environ.get("DEEPSEEK_API_KEY")
-        if not self.api_key:
-            raise ValueError("API key is not specified. Provide it when creating an instance or through the DEEPSEEK_API_KEY environment variable")
+    def __init__(self, api_key=None, api_type="deepseek"):
+        self.api_type = api_type
         
-        self.character_editor = CharacterEditor(api_key=self.api_key)
-        self.edit_writer = EditWriter(api_key=self.api_key)
+        if api_type == "deepseek":
+            self.api_key = api_key or os.environ.get("DEEPSEEK_API_KEY")
+            if not self.api_key:
+                raise ValueError("DeepSeek API key is not specified. Provide it when creating an instance or through the DEEPSEEK_API_KEY environment variable")
+        elif api_type == "gemini":
+            self.api_key = api_key or os.environ.get("GEMINI_API_KEY")
+            if not self.api_key:
+                raise ValueError("Gemini API key is not specified. Provide it when creating an instance or through the GEMINI_API_KEY environment variable")
+        else:
+            raise ValueError(f"Unsupported API type: {api_type}. Supported types are 'deepseek' and 'gemini'")
+        
+        self.character_editor = CharacterEditor(api_key=self.api_key, api_type=self.api_type)
+        self.edit_writer = EditWriter(api_key=self.api_key, api_type=self.api_type)
     
     def obfuscate_text(self, text, edit_threshold=0.7, cleanup_formatting=True):
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -101,11 +110,12 @@ if __name__ == "__main__":
     parser.add_argument("--input", "-i", help="Input file path", required=True)
     parser.add_argument("--threshold", "-t", help="Edit threshold (0.0-1.0)", type=float, default=0.7)
     parser.add_argument("--no-cleanup", help="Skip the formatting cleanup step", action="store_true")
-    parser.add_argument("--api-key", help="DeepSeek API key")
+    parser.add_argument("--api-key", help="API key for chosen model")
+    parser.add_argument("--api-type", help="API type to use (deepseek or gemini)", choices=["deepseek", "gemini"], default="deepseek")
     
     args = parser.parse_args()
     
-    obfuscator = TextObfuscator(api_key=args.api_key)
+    obfuscator = TextObfuscator(api_key=args.api_key, api_type=args.api_type)
     result = obfuscator.obfuscate_file(
         args.input,
         edit_threshold=args.threshold,
