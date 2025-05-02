@@ -50,6 +50,7 @@ class TextObfuscator:
         iteration = 0
         max_iterations = 3
         current_verdict = None
+        verdict_history = []
         
         while iteration < max_iterations:
             iteration += 1
@@ -57,6 +58,16 @@ class TextObfuscator:
             print(f"Iteration {iteration}/{max_iterations}: Analyzing text...")
             analysis_result = analyze_text(current_text, add_edit_tags=True, edit_threshold=edit_threshold)
             current_verdict = analysis_result["verdict"]
+            avg_score = analysis_result["avg_score"]
+            
+            verdict_info = f"Iteration {iteration}\n"
+            verdict_info += f"Verdict: {current_verdict}\n"
+            verdict_info += f"Average score: {avg_score:.6f}\n"
+            verdict_info += f"Threshold: {edit_threshold:.6f}"
+            
+            verdict_file = save_text_to_file(verdict_info, f"verdict_{iteration}", timestamp)
+            saved_files.append(verdict_file)
+            verdict_history.append({"iteration": iteration, "verdict": current_verdict, "avg_score": avg_score})
             
             if "word_bino_html" in analysis_result:
                 word_bino_file = save_text_to_file(analysis_result["word_bino_html"], f"word_scores_{iteration}", timestamp)
@@ -102,6 +113,17 @@ class TextObfuscator:
             if iteration == max_iterations:
                 break
         
+        if verdict_history:
+            summary = "# History of Obfuscator Verdicts\n\n"
+            
+            for entry in verdict_history:
+                summary += f"## Iteration {entry['iteration']}\n"
+                summary += f"- Verdict: {entry['verdict']}\n"
+                summary += f"- Average score: {entry['avg_score']:.6f}\n\n"
+            
+            verdict_summary_file = save_text_to_file(summary, "verdict_summary", timestamp)
+            saved_files.append(verdict_summary_file)
+        
         if iteration > 0 and current_verdict == "Most likely AI-generated":
             final_text = text_versions.get(f"edited_{iteration}", current_text)
         else:
@@ -130,7 +152,8 @@ class TextObfuscator:
             "text_versions": text_versions,
             "files": saved_files,
             "verdict": current_verdict,
-            "iterations": iteration
+            "iterations": iteration,
+            "verdict_history": verdict_history
         }
     
     def obfuscate_file(self, input_file, edit_threshold=0.7, cleanup_formatting=True):
