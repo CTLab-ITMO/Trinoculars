@@ -63,16 +63,15 @@ def generate_html_report(text_versions=None, analysis_result=None, timestamp=Non
         stages = [
             ("original", "Original Text"),
             ("cleaned", "Text After Formatting Cleanup"),
-            ("with_scores", "Text with Binocular Scores"),
         ]
         
         for i in range(1, 4):
+            if f"with_scores_{i}" in text_versions:
+                stages.append((f"with_scores_{i}", f"Iteration {i}: Text with Scores"))
             if f"tagged_{i}" in text_versions:
                 stages.append((f"tagged_{i}", f"Iteration {i}: Text with <EDIT> Tags"))
             if f"edited_{i}" in text_versions:
                 stages.append((f"edited_{i}", f"Iteration {i}: Edited Text"))
-            if f"with_scores_{i}" in text_versions:
-                stages.append((f"with_scores_{i}", f"Iteration {i}: Text with Scores"))
         
         stages.extend([
             ("final_cleaned", "Final Cleaned Text"),
@@ -167,25 +166,24 @@ def sort_files_by_type(file_list):
         "verdict_1": 3,
         "word_scores_1": 4,
         "token_scores_1": 5,
-        "scored": 6,
+        "scored_1": 6,
         "tagged_1": 7,
         "edited_1": 8,
         "verdict_2": 9,
         "word_scores_2": 10,
         "token_scores_2": 11,
-        "scored_1": 12,
+        "scored_2": 12,
         "tagged_2": 13,
         "edited_2": 14,
         "verdict_3": 15,
         "word_scores_3": 16,
         "token_scores_3": 17,
-        "scored_2": 18,
+        "scored_3": 18,
         "tagged_3": 19,
         "edited_3": 20,
-        "scored_3": 21,
-        "verdict_summary": 22,
-        "final_cleaned": 23,
-        "final": 24
+        "verdict_summary": 21,
+        "final_cleaned": 22,
+        "final": 23
     }
     
     def get_file_order(file_path):
@@ -215,8 +213,6 @@ def get_title_from_filename(filename):
     elif name.startswith("token_scores_"):
         iteration = name.split("_")[2]
         return f"Iteration {iteration}: Token-Based Binocular Scores"
-    elif name.startswith("scored") and not name[6:].isdigit():
-        return "Text with Binocular Scores"
     elif name.startswith("scored_"):
         iteration = name.split("_")[1]
         return f"Iteration {iteration}: Text with Scores"

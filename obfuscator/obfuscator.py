@@ -77,8 +77,8 @@ class TextObfuscator:
                 saved_files.append(token_bino_file)
             
             if iteration == 1:
-                text_versions["with_scores"] = analysis_result["text_with_scores"]
-                scored_file = save_text_to_file(analysis_result["text_with_scores"], "scored", timestamp)
+                text_versions[f"with_scores_{iteration}"] = analysis_result["text_with_scores"]
+                scored_file = save_text_to_file(analysis_result["text_with_scores"], f"scored_{iteration}", timestamp)
             else:
                 text_versions[f"with_scores_{iteration}"] = analysis_result["text_with_scores"]
                 scored_file = save_text_to_file(analysis_result["text_with_scores"], f"scored_{iteration}", timestamp)
