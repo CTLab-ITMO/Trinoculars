@@ -109,6 +109,73 @@ def adaptive_context_normalize(scores, window_size=5, sensitivity=2.0, min_thres
     
     return result
 
+def split_into_words(text):
+    words = []
+    word_indices = []
+    
+    pattern = r'(\w+|\s+|[^\w\s])'
+    
+    char_index = 0
+    for match in re.finditer(pattern, text):
+        word = match.group(0)
+        start_index = match.start()
+        end_index = match.end()
+        
+        words.append(word)
+        word_indices.append((start_index, end_index))
+        
+    return words, word_indices
+
+def map_tokens_to_words(tokens, words, word_indices, text):
+    word_to_token_map = {}
+    token_index = 0
+    char_pos = 0
+    
+    for i, (word, (word_start, word_end)) in enumerate(zip(words, word_indices)):
+        word_tokens = []
+        word_token_indices = []
+        
+        while token_index < len(tokens) and char_pos < word_end:
+            token = tokens[token_index]
+            token_chars = len(token)
+            
+            word_tokens.append(token)
+            word_token_indices.append(token_index)
+            
+            char_pos += token_chars
+            token_index += 1
+        
+        word_to_token_map[i] = {
+            "word": word,
+            "token_indices": word_token_indices,
+            "tokens": word_tokens
+        }
+    
+    return word_to_token_map
+
+def aggregate_token_scores_to_words(token_scores, word_to_token_map):
+    word_scores = []
+    
+    for i in range(len(word_to_token_map)):
+        if i not in word_to_token_map:
+            word_scores.append(0.0)
+            continue
+            
+        token_indices = word_to_token_map[i]["token_indices"]
+        if not token_indices:
+            word_scores.append(0.0)
+            continue
+        
+        word_token_scores = [token_scores[j].item() for j in token_indices if j < len(token_scores)]
+        if word_token_scores:
+            word_score = sum(word_token_scores) / len(word_token_scores)
+        else:
+            word_score = 0.0
+        
+        word_scores.append(word_score)
+    
+    return word_scores
+
 def generate_html_output(tokens, scores, title):
     html = f"<h3>{title}</h3>\n<p>"
     for token, score in zip(tokens, scores.squeeze().tolist()):
@@ -117,13 +184,23 @@ def generate_html_output(tokens, scores, title):
     html += "</p>\n"
     return html
 
-def generate_edit_html(text, tokens, scores, threshold=0.7):
-    scores_list = scores.squeeze().tolist()
+def generate_word_based_html_output(words, word_scores, title):
+    html = f"<h3>{title}</h3>\n<p>"
+    for word, score in zip(words, word_scores):
+        if word.isspace():
+            html += word
+        else:
+            color_value = int(255 * score)
+            html += f"<span style='background-color: rgb(255, {255-color_value}, {255-color_value}); color: black;'>{word}</span>"
+    html += "</p>\n"
+    return html
+
+def generate_edit_html(text, words, word_scores, threshold=0.7):
     regions = []
     current_region = None
     
-    for i, (token, score) in enumerate(zip(tokens, scores_list)):
-        if score >= threshold:
+    for i, (word, score) in enumerate(zip(words, word_scores)):
+        if score >= threshold and not word.isspace():
             if current_region is None:
                 current_region = {"start": i, "end": i}
             else:
@@ -141,41 +218,45 @@ def generate_edit_html(text, tokens, scores, threshold=0.7):
         start = region["start"]
         end = region["end"]
         
-        if end - start + 1 < 2:
-            continue
-        
-        while start > 0:
-            token = tokens[start]
-            prev_token = tokens[start-1]
-            if re.search(r'[.!?;:,]$', prev_token) or re.search(r'^\n', token):
-                break
-            if '####' in prev_token:
-                break
-            if end - (start-1) + 1 > 30:
-                break
-            start -= 1
-        
-        while end < len(tokens) - 1:
-            token = tokens[end]
-            next_token = tokens[end+1]
-            if re.search(r'[.!?;:,]$', token) or re.search(r'^\n', next_token):
-                end += 1
-                break
-            if '####' in next_token:
-                break
-            if (end+1) - start + 1 > 30:
-                break
-            end += 1
-        
         token_count = end - start + 1
         if token_count < 2:
             continue
             
-        if token_count > 30:
-            for i in range(start, end + 1, 30):
-                chunk_end = min(i + 30 - 1, end)
-                if chunk_end - i + 1 >= 2:
-                    extended_regions.append({"start": i, "end": chunk_end})
+        while start > 0 and not words[start-1].strip().endswith(('.', '!', '?', ';', ':', ',')):
+            if words[start-1].isspace():
+                start -= 1
+                continue
+            if end - (start-1) + 1 > 30:
+                break
+            start -= 1
+        
+        while end < len(words) - 1 and not words[end].strip().endswith(('.', '!', '?', ';', ':', ',')):
+            if words[end+1].isspace():
+                end += 1
+                continue
+            if (end+1) - start + 1 > 30:
+                break
+            end += 1
+        
+        if words[end].strip().endswith(('.', '!', '?', ';', ':', ',')) and end < len(words) - 1:
+            end += 1
+        
+        word_count = sum(1 for w in words[start:end+1] if not w.isspace())
+        if word_count < 2:
+            continue
+            
+        if word_count > 30:
+            curr_start = start
+            word_count = 0
+            for i in range(start, end + 1):
+                if not words[i].isspace():
+                    word_count += 1
+                if word_count >= 30:
+                    extended_regions.append({"start": curr_start, "end": i})
+                    curr_start = i + 1
+                    word_count = 0
+            if curr_start <= end and word_count >= 2:
+                extended_regions.append({"start": curr_start, "end": end})
         else:
             extended_regions.append({"start": start, "end": end})
     
@@ -198,25 +279,24 @@ def generate_edit_html(text, tokens, scores, threshold=0.7):
     for region in merged_regions:
         start, end = region["start"], region["end"]
         
-        normal_text = ''.join(tokens[last_end:start])
-        edit_text = ''.join(tokens[start:end+1])
+        normal_text = ''.join(words[last_end:start])
+        edit_text = ''.join(words[start:end+1])
         
         html += f"{normal_text}<span style='background-color: #ffcccc; color: black;'>{edit_text}</span>"
         last_end = end + 1
     
-    if last_end < len(tokens):
-        html += ''.join(tokens[last_end:])
+    if last_end < len(words):
+        html += ''.join(words[last_end:])
     
     html += "</p>\n"
     return html
 
-def place_edit_tags(text, tokens, scores, threshold=0.7, min_tokens=2, max_tokens=30):
-    scores_list = scores.squeeze().tolist()
+def place_edit_tags(text, words, word_scores, threshold=0.7, min_words=2, max_words=30):
     regions = []
     current_region = None
     
-    for i, (token, score) in enumerate(zip(tokens, scores_list)):
-        if score >= threshold:
+    for i, (word, score) in enumerate(zip(words, word_scores)):
+        if score >= threshold and not word.isspace():
             if current_region is None:
                 current_region = {"start": i, "end": i}
             else:
@@ -234,41 +314,56 @@ def place_edit_tags(text, tokens, scores, threshold=0.7, min_tokens=2, max_token
         start = region["start"]
         end = region["end"]
         
-        if end - start + 1 < min_tokens:
+        word_count = sum(1 for w in words[start:end+1] if not w.isspace())
+        if word_count < min_words:
             continue
         
         while start > 0:
-            token = tokens[start]
-            prev_token = tokens[start-1]
-            if re.search(r'[.!?;:,]$', prev_token) or re.search(r'^\n', token):
+            if words[start-1].isspace():
+                start -= 1
+                continue
+                
+            if words[start-1].strip().endswith(('.', '!', '?', ';', ':', ',')):
                 break
-            if '####' in prev_token:
+                
+            non_space_count = sum(1 for w in words[start-1:end+1] if not w.isspace())
+            if non_space_count > max_words:
                 break
-            if end - (start-1) + 1 > max_tokens:
-                break
+                
             start -= 1
         
-        while end < len(tokens) - 1:
-            token = tokens[end]
-            next_token = tokens[end+1]
-            if re.search(r'[.!?;:,]$', token) or re.search(r'^\n', next_token):
+        while end < len(words) - 1:
+            if words[end+1].isspace():
+                end += 1
+                continue
+                
+            if words[end].strip().endswith(('.', '!', '?', ';', ':', ',')):
                 end += 1
                 break
-            if '####' in next_token:
+                
+            non_space_count = sum(1 for w in words[start:end+2] if not w.isspace())
+            if non_space_count > max_words:
                 break
-            if (end+1) - start + 1 > max_tokens:
-                break
+                
             end += 1
         
-        token_count = end - start + 1
-        if token_count < min_tokens:
+        non_space_count = sum(1 for w in words[start:end+1] if not w.isspace())
+        if non_space_count < min_words:
             continue
             
-        if token_count > max_tokens:
-            for i in range(start, end + 1, max_tokens):
-                chunk_end = min(i + max_tokens - 1, end)
-                if chunk_end - i + 1 >= min_tokens:
-                    extended_regions.append({"start": i, "end": chunk_end})
+        if non_space_count > max_words:
+            curr_start = start
+            word_count = 0
+            for i in range(start, end + 1):
+                if not words[i].isspace():
+                    word_count += 1
+                if word_count >= max_words:
+                    if word_count >= min_words:
+                        extended_regions.append({"start": curr_start, "end": i})
+                    curr_start = i + 1
+                    word_count = 0
+            if curr_start <= end and word_count >= min_words:
+                extended_regions.append({"start": curr_start, "end": end})
         else:
             extended_regions.append({"start": start, "end": end})
     
@@ -285,28 +380,29 @@ def place_edit_tags(text, tokens, scores, threshold=0.7, min_tokens=2, max_token
     else:
         merged_regions = []
     
-    token_text = ''.join(tokens)
-    result_text = token_text
-    
     char_positions = []
-    pos = 0
-    for token in tokens:
-        char_positions.append(pos)
-        pos += len(token)
+    for word, (start, end) in zip(words, [(i, i+len(word)) for i, word in enumerate(''.join(words))]):
+        char_positions.append(start)
+    
+    result_text = text
     
     for region in reversed(merged_regions):
-        start_pos = char_positions[region["start"]]
-        end_pos = char_positions[region["end"]] + len(tokens[region["end"]])
+        start_word_idx = region["start"]
+        end_word_idx = region["end"]
         
-        result_text = (
-            result_text[:end_pos] + 
-            "</EDIT>" + 
-            result_text[end_pos:])
-        
-        result_text = (
-            result_text[:start_pos] + 
-            "<EDIT>" + 
-            result_text[start_pos:])
+        if start_word_idx < len(words) and end_word_idx < len(words):
+            start_pos = sum(len(words[i]) for i in range(start_word_idx))
+            end_pos = start_pos + sum(len(words[i]) for i in range(start_word_idx, end_word_idx + 1))
+            
+            result_text = (
+                result_text[:end_pos] + 
+                "</EDIT>" + 
+                result_text[end_pos:])
+            
+            result_text = (
+                result_text[:start_pos] + 
+                "<EDIT>" + 
+                result_text[start_pos:])
     
     return result_text
 
@@ -335,31 +431,37 @@ def analyze_text(text, add_edit_tags=False, edit_threshold=0.7):
     
     binocular_score = ppl / xppl
     normalized_binocular_score = adaptive_context_normalize(binocular_score)
-
-    avg_score = normalized_binocular_score.mean().item()
+    
+    words, word_indices = split_into_words(text)
+    word_to_token_map = map_tokens_to_words(tokens, words, word_indices, text)
+    word_scores = aggregate_token_scores_to_words(normalized_binocular_score.squeeze(), word_to_token_map)
+    
+    avg_score = sum(score for word, score in zip(words, word_scores) if not word.isspace()) / \
+               sum(1 for word in words if not word.isspace())
+    
     verdict = "Most likely human-generated" if avg_score >= THRESHOLD_RU else "Most likely AI-generated"
     
-    ppl_html = generate_html_output(tokens, ppl, "Perplexity Scores")
-    xppl_html = generate_html_output(tokens, xppl, "Cross-Perplexity Scores") 
-    bino_html = generate_html_output(tokens, normalized_binocular_score, "Binocular Scores")
+    token_bino_html = generate_html_output(tokens, normalized_binocular_score, "Token-Based Binocular Scores")
+    word_bino_html = generate_word_based_html_output(words, word_scores, "Word-Based Binocular Scores")
+    
+    text_with_scores = ''.join(words)
     
     edited_text = None
     html_edits = None
     
     if add_edit_tags:
-        edited_text = place_edit_tags(text, tokens, normalized_binocular_score, threshold=edit_threshold)
-        html_edits = generate_edit_html(text, tokens, normalized_binocular_score, threshold=edit_threshold)
-    
-    text_with_scores = ''.join([f"{token}" for token, score in zip(tokens, normalized_binocular_score.squeeze().tolist())])
+        edited_text = place_edit_tags(text, words, word_scores, threshold=edit_threshold)
+        html_edits = generate_edit_html(text, words, word_scores, threshold=edit_threshold)
     
     result = {
         "tokens": tokens,
+        "words": words,
         "ppl_scores": ppl,
         "xppl_scores": xppl,
         "binocular_scores": normalized_binocular_score,
-        "ppl_html": ppl_html,
-        "xppl_html": xppl_html,
-        "bino_html": bino_html,
+        "word_scores": word_scores,
+        "token_bino_html": token_bino_html,
+        "word_bino_html": word_bino_html,
         "text_with_scores": text_with_scores,
         "verdict": verdict,
         "avg_score": avg_score

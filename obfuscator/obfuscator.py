@@ -58,6 +58,14 @@ class TextObfuscator:
             analysis_result = analyze_text(current_text, add_edit_tags=True, edit_threshold=edit_threshold)
             current_verdict = analysis_result["verdict"]
             
+            if "word_bino_html" in analysis_result:
+                word_bino_file = save_text_to_file(analysis_result["word_bino_html"], f"word_scores_{iteration}", timestamp)
+                saved_files.append(word_bino_file)
+            
+            if "token_bino_html" in analysis_result:
+                token_bino_file = save_text_to_file(analysis_result["token_bino_html"], f"token_scores_{iteration}", timestamp)
+                saved_files.append(token_bino_file)
+            
             if iteration == 1:
                 text_versions["with_scores"] = analysis_result["text_with_scores"]
                 scored_file = save_text_to_file(analysis_result["text_with_scores"], "scored", timestamp)

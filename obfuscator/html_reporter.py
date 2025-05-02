@@ -130,18 +130,24 @@ def sort_files_by_type(file_list):
     file_order = {
         "original": 1,
         "cleaned": 2,
-        "scored": 3,
-        "tagged_1": 4,
-        "edited_1": 5,
-        "scored_1": 6,
-        "tagged_2": 7,
-        "edited_2": 8,
-        "scored_2": 9,
-        "tagged_3": 10,
-        "edited_3": 11,
-        "scored_3": 12,
-        "final_cleaned": 13,
-        "final": 14
+        "word_scores_1": 3,
+        "token_scores_1": 4,
+        "scored": 5,
+        "tagged_1": 6,
+        "edited_1": 7,
+        "word_scores_2": 8,
+        "token_scores_2": 9,
+        "scored_1": 10,
+        "tagged_2": 11,
+        "edited_2": 12,
+        "word_scores_3": 13,
+        "token_scores_3": 14,
+        "scored_2": 15,
+        "tagged_3": 16,
+        "edited_3": 17,
+        "scored_3": 18,
+        "final_cleaned": 19,
+        "final": 20
     }
     
     def get_file_order(file_path):
@@ -160,6 +166,12 @@ def get_title_from_filename(filename):
         return "Original Text"
     elif name.startswith("cleaned"):
         return "Text After Formatting Cleanup"
+    elif name.startswith("word_scores_"):
+        iteration = name.split("_")[2]
+        return f"Iteration {iteration}: Word-Based Binocular Scores"
+    elif name.startswith("token_scores_"):
+        iteration = name.split("_")[2]
+        return f"Iteration {iteration}: Token-Based Binocular Scores"
     elif name.startswith("scored") and not name[6:].isdigit():
         return "Text with Binocular Scores"
     elif name.startswith("scored_"):
