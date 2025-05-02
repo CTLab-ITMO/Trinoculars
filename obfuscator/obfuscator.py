@@ -4,7 +4,7 @@ from datetime import datetime
 from bino_analyzer import analyze_text
 from character_editor import CharacterEditor
 from edit_writer import EditWriter
-from html_reporter import generate_html_report, save_text_to_file
+from html_reporter import generate_report_from_files, save_text_to_file
 
 class TextObfuscator:
     def __init__(self, api_key=None, api_type="deepseek"):
@@ -112,11 +112,8 @@ class TextObfuscator:
         final_file = save_text_to_file(final_text, "final", timestamp)
         saved_files.append(final_file)
         
-        html_file = generate_html_report(
-            text_versions,
-            analysis_result,
-            timestamp
-        )
+        print("Generating HTML report from all saved files...")
+        html_file = generate_report_from_files(timestamp)
         saved_files.append(html_file)
         
         return {

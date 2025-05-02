@@ -1,12 +1,14 @@
 from datetime import datetime
 import os
+import re
+import glob
 
 def ensure_directory(dir_path):
     if not os.path.exists(dir_path):
         os.makedirs(dir_path)
     return dir_path
 
-def generate_html_report(text_versions, analysis_result=None, timestamp=None):
+def generate_html_report(text_versions=None, analysis_result=None, timestamp=None, file_list=None):
     if timestamp is None:
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     
@@ -15,43 +17,71 @@ def generate_html_report(text_versions, analysis_result=None, timestamp=None):
     
     sections = ""
     
-    stages = [
-        ("original", "Original Text"),
-        ("cleaned", "Text After Formatting Cleanup"),
-        ("with_scores", "Text with Binocular Scores"),
-        ("tagged", "Text with <EDIT> Tags"),
-        ("final", "Final Obfuscated Text")
-    ]
-    
-    for key, title in stages:
-        if key in text_versions and text_versions[key]:
-            content = text_versions[key]
+    if file_list:
+        sorted_files = sort_files_by_type(file_list)
+        
+        for file_path in sorted_files:
+            base_name = os.path.basename(file_path)
+            title = get_title_from_filename(base_name)
             
-            if key == "with_scores" and analysis_result and "tokens" in analysis_result and "binocular_scores" in analysis_result:
-                highlighted_content = ""
-                tokens = analysis_result["tokens"]
-                scores = analysis_result["binocular_scores"].squeeze().tolist()
+            with open(file_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+            
+            safe_content = content.replace("<", "&lt;").replace(">", "&gt;")
+            sections += f"""
+            <div class="text-section">
+                <h3>{title} ({base_name})</h3>
+                <pre class="text-content">{safe_content}</pre>
+            </div>
+            """
+    elif text_versions:
+        stages = [
+            ("original", "Original Text"),
+            ("cleaned", "Text After Formatting Cleanup"),
+            ("with_scores", "Text with Binocular Scores"),
+        ]
+        
+        for i in range(1, 4):
+            if f"tagged_{i}" in text_versions:
+                stages.append((f"tagged_{i}", f"Iteration {i}: Text with <EDIT> Tags"))
+            if f"edited_{i}" in text_versions:
+                stages.append((f"edited_{i}", f"Iteration {i}: Edited Text"))
+            if f"with_scores_{i}" in text_versions:
+                stages.append((f"with_scores_{i}", f"Iteration {i}: Text with Scores"))
+        
+        stages.extend([
+            ("final_cleaned", "Final Cleaned Text"),
+            ("final", "Final Obfuscated Text")
+        ])
+        
+        for key, title in stages:
+            if key in text_versions and text_versions[key]:
+                content = text_versions[key]
                 
-                for token, score in zip(tokens, scores):
-                    color_value = int(255 * score)
-                    highlighted_content += f"<span style='background-color: rgb(255, {255-color_value}, {255-color_value}); color: black;'>{token}</span>"
-                
-                sections += f"""
-                <div class="text-section">
-                    <h3>{title}</h3>
-                    <div class="text-content highlighted-content">{highlighted_content}</div>
-                </div>
-                """
-            else:
-                safe_content = content.replace("<", "&lt;").replace(">", "&gt;")
-                sections += f"""
-                <div class="text-section">
-                    <h3>{title}</h3>
-                    <pre class="text-content">{safe_content}</pre>
-                </div>
-                """
+                if key.startswith("with_scores") and analysis_result and "tokens" in analysis_result and "binocular_scores" in analysis_result:
+                    highlighted_content = ""
+                    tokens = analysis_result["tokens"]
+                    scores = analysis_result["binocular_scores"].squeeze().tolist()
+                    
+                    for token, score in zip(tokens, scores):
+                        color_value = int(255 * score)
+                        highlighted_content += f"<span style='background-color: rgb(255, {255-color_value}, {255-color_value}); color: black;'>{token}</span>"
+                    
+                    sections += f"""
+                    <div class="text-section">
+                        <h3>{title}</h3>
+                        <div class="text-content highlighted-content">{highlighted_content}</div>
+                    </div>
+                    """
+                else:
+                    safe_content = content.replace("<", "&lt;").replace(">", "&gt;")
+                    sections += f"""
+                    <div class="text-section">
+                        <h3>{title}</h3>
+                        <pre class="text-content">{safe_content}</pre>
+                    </div>
+                    """
     
-    analysis_link = ""
     if analysis_result and "html_edits" in analysis_result:
         sections += f"""
         <div class="text-section">
@@ -95,6 +125,72 @@ def generate_html_report(text_versions, analysis_result=None, timestamp=None):
     
     print(f"HTML report saved to {filename}")
     return filename
+
+def sort_files_by_type(file_list):
+    file_order = {
+        "original": 1,
+        "cleaned": 2,
+        "scored": 3,
+        "tagged_1": 4,
+        "edited_1": 5,
+        "scored_1": 6,
+        "tagged_2": 7,
+        "edited_2": 8,
+        "scored_2": 9,
+        "tagged_3": 10,
+        "edited_3": 11,
+        "scored_3": 12,
+        "final_cleaned": 13,
+        "final": 14
+    }
+    
+    def get_file_order(file_path):
+        basename = os.path.basename(file_path)
+        for prefix, order in file_order.items():
+            if basename.startswith(prefix):
+                return order
+        return 999
+    
+    return sorted(file_list, key=get_file_order)
+
+def get_title_from_filename(filename):
+    name = re.sub(r'_\d{8}_\d{6}\.txt$', '', filename)
+    
+    if name.startswith("original"):
+        return "Original Text"
+    elif name.startswith("cleaned"):
+        return "Text After Formatting Cleanup"
+    elif name.startswith("scored") and not name[6:].isdigit():
+        return "Text with Binocular Scores"
+    elif name.startswith("scored_"):
+        iteration = name.split("_")[1]
+        return f"Iteration {iteration}: Text with Scores"
+    elif name.startswith("tagged_"):
+        iteration = name.split("_")[1]
+        return f"Iteration {iteration}: Text with <EDIT> Tags"
+    elif name.startswith("edited_"):
+        iteration = name.split("_")[1]
+        return f"Iteration {iteration}: Edited Text"
+    elif name.startswith("final_cleaned"):
+        return "Final Cleaned Text"
+    elif name.startswith("final"):
+        return "Final Obfuscated Text"
+    else:
+        return " ".join(word.capitalize() for word in name.split("_"))
+
+def generate_report_from_files(timestamp):
+    output_dir = f"output_{timestamp}"
+    if not os.path.exists(output_dir):
+        print(f"Output directory {output_dir} not found")
+        return None
+    
+    text_files = glob.glob(os.path.join(output_dir, "*.txt"))
+    if not text_files:
+        print(f"No text files found in {output_dir}")
+        return None
+    
+    html_file = generate_html_report(timestamp=timestamp, file_list=text_files)
+    return html_file
 
 def save_text_to_file(text, prefix="text", timestamp=None):
     if timestamp is None:
