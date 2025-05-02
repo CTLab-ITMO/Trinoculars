@@ -63,7 +63,6 @@ class TextObfuscator:
             verdict_info = f"Iteration {iteration}\n"
             verdict_info += f"Verdict: {current_verdict}\n"
             verdict_info += f"Average score: {avg_score:.6f}\n"
-            verdict_info += f"Threshold: {edit_threshold:.6f}"
             
             verdict_file = save_text_to_file(verdict_info, f"verdict_{iteration}", timestamp)
             saved_files.append(verdict_file)

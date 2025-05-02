@@ -44,6 +44,13 @@ def generate_html_report(text_versions=None, analysis_result=None, timestamp=Non
                         <div class="verdict-content">{verdict_html}</div>
                     </div>
                     """
+            elif base_name.startswith("word_scores_") or base_name.startswith("token_scores_"):
+                sections += f"""
+                <div class="text-section">
+                    <h3>{title}</h3>
+                    <div class="text-content highlighted-content">{content}</div>
+                </div>
+                """
             else:
                 safe_content = content.replace("<", "&lt;").replace(">", "&gt;")
                 sections += f"""
@@ -266,7 +273,7 @@ def format_verdict_as_html(verdict_text):
         if ':' in line:
             label, value = line.split(':', 1)
             
-            if "Вердикт" in label:
+            if "Verdict" in label:
                 if "human-generated" in value:
                     value_class = "human-generated"
                     value_text = value.strip()
@@ -276,7 +283,7 @@ def format_verdict_as_html(verdict_text):
                     
                 result += f'<div class="verdict-row"><span class="verdict-label">{label}:</span><span class="verdict-value {value_class}">{value_text}</span></div>'
             
-            elif "показатель" in label or "значение" in label:
+            elif "Average score" in label:
                 value_text = value.strip()
                 result += f'<div class="verdict-row"><span class="verdict-label">{label}:</span><span class="verdict-value score-value">{value_text}</span></div>'
             
