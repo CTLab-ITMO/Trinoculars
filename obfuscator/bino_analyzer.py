@@ -230,7 +230,7 @@ def generate_word_based_html_output(words, word_scores, title):
     html += "</p>\n"
     return html
 
-def generate_edit_html(words, word_scores, num_regions=3):
+def generate_edit_html(text, words, word_scores, num_regions=3):
     word_with_scores = [(i, word, score) for i, (word, score) in enumerate(zip(words, word_scores)) if not word.isspace()]
     word_with_scores.sort(key=lambda x: x[2], reverse=True)
     
