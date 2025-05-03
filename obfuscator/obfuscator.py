@@ -24,7 +24,7 @@ class TextObfuscator:
         self.character_editor = CharacterEditor(api_key=self.api_key, api_type=self.api_type)
         self.edit_writer = EditWriter(api_key=self.api_key, api_type=self.api_type)
     
-    def obfuscate_text(self, text, edit_threshold=0.7, cleanup_formatting=True):
+    def obfuscate_text(self, text, num_regions=3, cleanup_formatting=True):
         text_versions = {
             "original": text
         }
@@ -54,7 +54,7 @@ class TextObfuscator:
             iteration += 1
             
             print(f"Iteration {iteration}/{max_iterations}: Analyzing text...")
-            analysis_result = analyze_text(current_text, add_edit_tags=True, edit_threshold=edit_threshold)
+            analysis_result = analyze_text(current_text, add_edit_tags=True, num_regions=num_regions)
             current_verdict = analysis_result["verdict"]
             binoculars_score = analysis_result["binoculars_score"]
             
@@ -146,7 +146,7 @@ class TextObfuscator:
             "verdict_history": verdict_history
         }
     
-    def obfuscate_file(self, input_file, edit_threshold=0.7, cleanup_formatting=True):
+    def obfuscate_file(self, input_file, num_regions=3, cleanup_formatting=True):
         try:
             with open(input_file, 'r', encoding='utf-8') as f:
                 text = f.read()
@@ -154,13 +154,13 @@ class TextObfuscator:
             print(f"Error reading file {input_file}: {str(e)}")
             return None
         
-        result = self.obfuscate_text(text, edit_threshold, cleanup_formatting)
+        result = self.obfuscate_text(text, num_regions, cleanup_formatting)
         return result
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Text obfuscation pipeline")
     parser.add_argument("--input", "-i", help="Input file path", required=True)
-    parser.add_argument("--threshold", "-t", help="Edit threshold (0.0-1.0)", type=float, default=0.7)
+    parser.add_argument("--regions", "-r", help="Number of regions to edit (2-5)", type=int, default=3)
     parser.add_argument("--no-cleanup", help="Skip the formatting cleanup step", action="store_true")
     parser.add_argument("--api-key", help="API key for chosen model")
     parser.add_argument("--api-type", help="API type to use (deepseek or gemini)", choices=["deepseek", "gemini"], default="deepseek")
@@ -170,7 +170,7 @@ if __name__ == "__main__":
     obfuscator = TextObfuscator(api_key=args.api_key, api_type=args.api_type)
     result = obfuscator.obfuscate_file(
         args.input,
-        edit_threshold=args.threshold,
+        num_regions=args.regions,
         cleanup_formatting=not args.no_cleanup
     )
     

@@ -230,50 +230,71 @@ def generate_word_based_html_output(words, word_scores, title):
     html += "</p>\n"
     return html
 
-def generate_edit_html(text, words, word_scores, threshold=0.7):
+def generate_edit_html(words, word_scores, num_regions=3):
+    word_with_scores = [(i, word, score) for i, (word, score) in enumerate(zip(words, word_scores)) if not word.isspace()]
+    word_with_scores.sort(key=lambda x: x[2], reverse=True)
+    
+    high_scoring_indices = [item[0] for item in word_with_scores[:min(len(word_with_scores), num_regions*5)]]
+    high_scoring_indices.sort()
+    
     regions = []
     current_region = None
     
-    for i, (word, score) in enumerate(zip(words, word_scores)):
-        if score >= threshold and not word.isspace():
+    for i in range(len(words)):
+        if i in high_scoring_indices:
             if current_region is None:
                 current_region = {"start": i, "end": i}
             else:
                 current_region["end"] = i
         else:
-            if current_region is not None:
+            if current_region is not None and i - current_region["end"] > 3:
                 regions.append(current_region)
                 current_region = None
-                
+    
     if current_region is not None:
         regions.append(current_region)
     
-    extended_regions = []
+    region_scores = []
     for region in regions:
+        start, end = region["start"], region["end"]
+        region_words = [w for w in words[start:end+1] if not w.isspace()]
+        if region_words:
+            region_score = sum(word_scores[start:end+1]) / len(region_words)
+            region_scores.append((region, region_score))
+    
+    region_scores.sort(key=lambda x: x[1], reverse=True)
+    selected_regions = [r[0] for r in region_scores[:min(len(region_scores), num_regions)]]
+    
+    extended_regions = []
+    for region in selected_regions:
         start = region["start"]
         end = region["end"]
         
-        token_count = end - start + 1
-        if token_count < 2:
-            continue
-            
-        while start > 0 and not words[start-1].strip().endswith(('.', '!', '?', ';', ':', ',')):
+        while start > 0:
             if words[start-1].isspace():
                 start -= 1
                 continue
+                
+            if words[start-1].strip().endswith(('.', '!', '?', ';', ':', ',')):
+                break
+                
             if end - (start-1) + 1 > 30:
                 break
+                
             start -= 1
         
-        while end < len(words) - 1 and not words[end].strip().endswith(('.', '!', '?', ';', ':', ',')):
+        while end < len(words) - 1:
             if words[end+1].isspace():
                 end += 1
                 continue
+                
+            if words[end].strip().endswith(('.', '!', '?', ';', ':', ',')):
+                end += 1
+                break
+                
             if (end+1) - start + 1 > 30:
                 break
-            end += 1
-        
-        if words[end].strip().endswith(('.', '!', '?', ';', ':', ',')) and end < len(words) - 1:
+                
             end += 1
         
         word_count = sum(1 for w in words[start:end+1] if not w.isspace())
@@ -326,34 +347,47 @@ def generate_edit_html(text, words, word_scores, threshold=0.7):
     html += "</p>\n"
     return html
 
-def place_edit_tags(text, words, word_scores, threshold=0.7, min_words=2, max_words=30):
+def place_edit_tags(text, words, word_scores, min_words=2, max_words=30, num_regions=3):
+    word_with_scores = [(i, word, score) for i, (word, score) in enumerate(zip(words, word_scores)) if not word.isspace()]
+    word_with_scores.sort(key=lambda x: x[2], reverse=True)
+    
+    high_scoring_indices = [item[0] for item in word_with_scores[:min(len(word_with_scores), num_regions*5)]]
+    high_scoring_indices.sort()
+    
     regions = []
     current_region = None
     
-    for i, (word, score) in enumerate(zip(words, word_scores)):
-        if score >= threshold and not word.isspace():
+    for i in range(len(words)):
+        if i in high_scoring_indices:
             if current_region is None:
                 current_region = {"start": i, "end": i}
             else:
                 current_region["end"] = i
         else:
-            if current_region is not None:
+            if current_region is not None and i - current_region["end"] > 3:
                 regions.append(current_region)
                 current_region = None
     
     if current_region is not None:
         regions.append(current_region)
     
-    print(f"Initial regions found: {len(regions)}")
+    region_scores = []
+    for region in regions:
+        start, end = region["start"], region["end"]
+        region_words = [w for w in words[start:end+1] if not w.isspace()]
+        if region_words:
+            region_score = sum(word_scores[start:end+1]) / len(region_words)
+            region_scores.append((region, region_score))
+    
+    region_scores.sort(key=lambda x: x[1], reverse=True)
+    selected_regions = [r[0] for r in region_scores[:min(len(region_scores), num_regions)]]
+    
+    print(f"Top suspicious regions selected: {len(selected_regions)}")
     
     extended_regions = []
-    for region in regions:
+    for region in selected_regions:
         start = region["start"]
         end = region["end"]
-        
-        word_count = sum(1 for w in words[start:end+1] if not w.isspace())
-        if word_count < min_words:
-            continue
         
         while start > 0:
             if words[start-1].isspace():
@@ -445,7 +479,7 @@ def place_edit_tags(text, words, word_scores, threshold=0.7, min_words=2, max_wo
     
     return result_text
 
-def analyze_text(text, add_edit_tags=False, edit_threshold=0.7):
+def analyze_text(text, add_edit_tags=False, num_regions=3):
     encoding = tokenize([text])
     observer_logits, performer_logits = get_logits(encoding)
     
@@ -480,12 +514,9 @@ def analyze_text(text, add_edit_tags=False, edit_threshold=0.7):
     token_bino_html = generate_html_output(tokens, normalized_binocular_score, "Token-Based Binocular Scores")
     word_bino_html = generate_word_based_html_output(words, word_scores, "Word-Based Binocular Scores")
     
-    edited_text = None
-    html_edits = None
     
-    if add_edit_tags:
-        edited_text = place_edit_tags(text, words, word_scores, threshold=edit_threshold)
-        html_edits = generate_edit_html(text, words, word_scores, threshold=edit_threshold)
+    edited_text = place_edit_tags(text, words, word_scores, num_regions=num_regions)
+    html_edits = generate_edit_html(text, words, word_scores, num_regions=num_regions)
     
     result = {
         "tokens": tokens,
@@ -496,14 +527,10 @@ def analyze_text(text, add_edit_tags=False, edit_threshold=0.7):
         "word_scores": word_scores,
         "token_bino_html": token_bino_html,
         "word_bino_html": word_bino_html,
+        "html_edits": html_edits,
+        "edited_text": edited_text,
         "verdict": binoculars_verdict,
         "binoculars_score": compute_binoculars_score(text)
     }
-    
-    if html_edits:
-        result["html_edits"] = html_edits
-    
-    if edited_text:
-        result["edited_text"] = edited_text
-    
+
     return result
