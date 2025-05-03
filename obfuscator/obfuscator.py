@@ -58,15 +58,19 @@ class TextObfuscator:
             print(f"Iteration {iteration}/{max_iterations}: Analyzing text...")
             analysis_result = analyze_text(current_text, add_edit_tags=True, edit_threshold=edit_threshold)
             current_verdict = analysis_result["verdict"]
-            avg_score = analysis_result["avg_score"]
+            binoculars_score = analysis_result["binoculars_score"]
             
             verdict_info = f"Iteration {iteration}\n"
             verdict_info += f"Verdict: {current_verdict}\n"
-            verdict_info += f"Average score: {avg_score:.6f}\n"
+            verdict_info += f"Binoculars score: {binoculars_score:.6f}\n"
             
             verdict_file = save_text_to_file(verdict_info, f"verdict_{iteration}", timestamp)
             saved_files.append(verdict_file)
-            verdict_history.append({"iteration": iteration, "verdict": current_verdict, "avg_score": avg_score})
+            verdict_history.append({
+                "iteration": iteration, 
+                "verdict": current_verdict, 
+                "binoculars_score": binoculars_score
+            })
             
             if "word_bino_html" in analysis_result:
                 word_bino_file = save_text_to_file(analysis_result["word_bino_html"], f"word_scores_{iteration}", timestamp)
@@ -106,7 +110,7 @@ class TextObfuscator:
             for entry in verdict_history:
                 summary += f"## Iteration {entry['iteration']}\n"
                 summary += f"- Verdict: {entry['verdict']}\n"
-                summary += f"- Average score: {entry['avg_score']:.6f}\n\n"
+                summary += f"- Binoculars score: {entry['binoculars_score']:.6f}\n"
             
             verdict_summary_file = save_text_to_file(summary, "verdict_summary", timestamp)
             saved_files.append(verdict_summary_file)

@@ -445,7 +445,7 @@ def place_edit_tags(text, words, word_scores, threshold=0.7, min_words=2, max_wo
     
     return result_text
 
-def analyze_text(text, add_edit_tags=False, edit_threshold=0.7, mode="default"):
+def analyze_text(text, add_edit_tags=False, edit_threshold=0.7):
     encoding = tokenize([text])
     observer_logits, performer_logits = get_logits(encoding)
     
