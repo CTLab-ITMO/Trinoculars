@@ -398,9 +398,6 @@ def place_edit_tags(text, words, word_scores, threshold=0.7, min_words=2, max_wo
             start_pos = word_indices[start_word_idx][0]
             end_pos = word_indices[end_word_idx][1]
             
-            print(f"Placing EDIT tags at positions {start_pos} to {end_pos}")
-            print(f"Text fragment: '{text[start_pos:end_pos]}'")
-            
             result_text = (
                 result_text[:end_pos] + 
                 "</EDIT>" + 
