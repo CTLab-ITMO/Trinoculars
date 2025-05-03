@@ -86,16 +86,3 @@ class CharacterEditor:
         except Exception as e:
             print(f"Error with Gemini API: {e}")
             return prompt.split("```")[1].strip() if "```" in prompt else prompt
-
-if __name__ == "__main__":
-    editor = CharacterEditor(api_type="deepseek")
-    
-    sample_text = "Это   текст  с  лишними     пробелами...... и другими!!!!   проблемами   форматирования."
-    
-    cleaned_text = editor.remove_extra_characters(sample_text)
-    print(f"Text after DeepSeek API processing: {cleaned_text}")
-    
-    if os.environ.get("GEMINI_API_KEY"):
-        editor_gemini = CharacterEditor(api_type="gemini")
-        cleaned_text_gemini = editor_gemini.remove_extra_characters(sample_text)
-        print(f"Text after Gemini API processing: {cleaned_text_gemini}")
