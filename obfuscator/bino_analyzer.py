@@ -59,33 +59,68 @@ def get_logits(encodings):
 loss_fn = torch.nn.CrossEntropyLoss(reduction='none')
 softmax_fn = torch.nn.Softmax(dim=-1)
 
-def perplexity(encoding, logits):
+def binoculars_perplexity(encoding, logits):
     shifted_logits = logits[..., :-1, :].contiguous()
     shifted_labels = encoding.input_ids[..., 1:].contiguous()
-    shifted_attention_mask = encoding.attention_mask[..., 1:].contiguous()
-
-    shifted_logits = shifted_logits.to("cpu")
-    shifted_labels = shifted_labels.to("cpu")
-    shifted_attention_mask = shifted_attention_mask.to("cpu")
-
-    ppl = loss_fn(shifted_logits.transpose(1, 2), shifted_labels) * shifted_attention_mask
-    ppl = ppl.sum(1) / shifted_attention_mask.sum(1)
+    shifted_attention_mask = encoding.attention_mask[..., 1:].contiguous() if encoding.get("attention_mask") is not None else None
     
-    return ppl.float().numpy()
+    log_probs = torch.log_softmax(shifted_logits, dim=-1)
+    
+    if shifted_attention_mask is None:
+        shifted_attention_mask = torch.ones_like(shifted_labels)
+    
+    gathered_log_probs = torch.gather(log_probs, -1, shifted_labels.unsqueeze(-1)).squeeze(-1)
+    
+    masked_log_probs = gathered_log_probs * shifted_attention_mask.float()
+    
+    sum_log_probs = masked_log_probs.sum(dim=1)
+    token_count = shifted_attention_mask.sum(dim=1).float()
+    
+    avg_neg_log_probs = -sum_log_probs / token_count
+    
+    return avg_neg_log_probs.cpu().numpy()
 
-def cross_perplexity(observer_logits, performer_logits, encoding):
-    V = observer_logits.shape[-1]
-    S = observer_logits.shape[-2]
+def binoculars_entropy(observer_logits, performer_logits, encoding, pad_token_id):
 
-    performer_probs = softmax_fn(performer_logits).view(-1, V).to("cpu")
-    observer_scores = observer_logits.view(-1, V).to("cpu")
+    B = observer_logits.shape[0]
+    S = observer_logits.shape[1]
+    V = observer_logits.shape[2]
     
-    xppl = loss_fn(observer_scores, performer_probs).view(-1, S)
-    padding_mask = (encoding.input_ids != tokenizer.pad_token_id).type(torch.uint8)
+    attention_mask = (encoding.input_ids != pad_token_id).float()
     
-    xppl = (xppl * padding_mask).sum(1) / padding_mask.sum(1)
+    performer_probs = torch.softmax(performer_logits, dim=-1)
+    observer_logits = observer_logits.view(B * S, V)
+    performer_probs = performer_probs.view(B * S, V)
     
-    return xppl.to("cpu").float().numpy()
+    ce_loss = loss_fn(observer_logits, performer_probs).view(B, S)
+    
+    ce_loss = ce_loss * attention_mask
+    
+    ce_loss = ce_loss.sum(dim=1) / attention_mask.sum(dim=1)
+    
+    return ce_loss.cpu().numpy()
+
+def compute_binoculars_score(input_text):
+    batch = [input_text] if isinstance(input_text, str) else input_text
+    encodings = tokenize(batch)
+    observer_logits, performer_logits = get_logits(encodings)
+    
+    ppl = binoculars_perplexity(encodings, performer_logits)
+    x_ppl = binoculars_entropy(observer_logits, performer_logits, encodings, tokenizer.pad_token_id)
+    
+    binoculars_scores = ppl / x_ppl
+    
+    return binoculars_scores[0] if isinstance(input_text, str) else binoculars_scores
+
+def predict_binoculars(input_text, threshold=THRESHOLD_RU):
+    binoculars_scores = np.array(compute_binoculars_score(input_text))
+    
+    pred = np.where(binoculars_scores < threshold,
+                   "Most likely AI-generated",
+                   "Most likely human-generated"
+                   ).tolist()
+
+    return pred[0] if isinstance(input_text, str) else pred
 
 def adaptive_context_normalize(scores, window_size=5, sensitivity=2.0, min_threshold=0.0, max_threshold=1.0):
     scores_np = scores.cpu().numpy().squeeze()
@@ -410,7 +445,7 @@ def place_edit_tags(text, words, word_scores, threshold=0.7, min_words=2, max_wo
     
     return result_text
 
-def analyze_text(text, add_edit_tags=False, edit_threshold=0.7):
+def analyze_text(text, add_edit_tags=False, edit_threshold=0.7, mode="default"):
     encoding = tokenize([text])
     observer_logits, performer_logits = get_logits(encoding)
     
@@ -439,16 +474,11 @@ def analyze_text(text, add_edit_tags=False, edit_threshold=0.7):
     words, word_indices = split_into_words(text)
     word_to_token_map = map_tokens_to_words(tokens, words, word_indices, text)
     word_scores = aggregate_token_scores_to_words(normalized_binocular_score.squeeze(), word_to_token_map)
-    
-    avg_score = sum(score for word, score in zip(words, word_scores) if not word.isspace()) / \
-               sum(1 for word in words if not word.isspace())
-    
-    verdict = "Most likely human-generated" if avg_score >= THRESHOLD_RU else "Most likely AI-generated"
+
+    binoculars_verdict = predict_binoculars(text, THRESHOLD_RU)
     
     token_bino_html = generate_html_output(tokens, normalized_binocular_score, "Token-Based Binocular Scores")
     word_bino_html = generate_word_based_html_output(words, word_scores, "Word-Based Binocular Scores")
-    
-    text_with_scores = ''.join(words)
     
     edited_text = None
     html_edits = None
@@ -466,9 +496,8 @@ def analyze_text(text, add_edit_tags=False, edit_threshold=0.7):
         "word_scores": word_scores,
         "token_bino_html": token_bino_html,
         "word_bino_html": word_bino_html,
-        "text_with_scores": text_with_scores,
-        "verdict": verdict,
-        "avg_score": avg_score
+        "verdict": binoculars_verdict,
+        "binoculars_score": compute_binoculars_score(text)
     }
     
     if html_edits:
@@ -478,8 +507,3 @@ def analyze_text(text, add_edit_tags=False, edit_threshold=0.7):
         result["edited_text"] = edited_text
     
     return result
-
-if __name__ == "__main__":
-    sample_text = '''### Советский Союз 1922–1939: Формирование, Реформы и Их Последствия #### Введение Период с 1922 по 1939 год стал одним из наиболее трансформационных этапов в истории Советского Союза. Основание СССР, приход к власти Иосифа Виссарионовича Сталина, реализация масштабных экономических и социальных реформ, а также активная внешняя политика определили дальнейшее развитие страны. Этот период характеризуется как выдающимися достижениями в области индустриализации и науки, так и трагическими последствиями для миллионов граждан.'''
-    result = analyze_text(sample_text, add_edit_tags=True, edit_threshold=0.7)
-    print("Analysis completed.")
