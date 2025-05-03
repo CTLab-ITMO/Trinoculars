@@ -309,6 +309,8 @@ def place_edit_tags(text, words, word_scores, threshold=0.7, min_words=2, max_wo
     if current_region is not None:
         regions.append(current_region)
     
+    print(f"Initial regions found: {len(regions)}")
+    
     extended_regions = []
     for region in regions:
         start = region["start"]
@@ -367,6 +369,8 @@ def place_edit_tags(text, words, word_scores, threshold=0.7, min_words=2, max_wo
         else:
             extended_regions.append({"start": start, "end": end})
     
+    print(f"Extended regions: {len(extended_regions)}")
+    
     if extended_regions:
         extended_regions.sort(key=lambda r: r["start"])
         merged_regions = [extended_regions[0]]
@@ -380,9 +384,9 @@ def place_edit_tags(text, words, word_scores, threshold=0.7, min_words=2, max_wo
     else:
         merged_regions = []
     
-    char_positions = []
-    for word, (start, end) in zip(words, [(i, i+len(word)) for i, word in enumerate(''.join(words))]):
-        char_positions.append(start)
+    print(f"Final merged regions: {len(merged_regions)}")
+    
+    _, word_indices = split_into_words(text)
     
     result_text = text
     
@@ -390,9 +394,12 @@ def place_edit_tags(text, words, word_scores, threshold=0.7, min_words=2, max_wo
         start_word_idx = region["start"]
         end_word_idx = region["end"]
         
-        if start_word_idx < len(words) and end_word_idx < len(words):
-            start_pos = sum(len(words[i]) for i in range(start_word_idx))
-            end_pos = start_pos + sum(len(words[i]) for i in range(start_word_idx, end_word_idx + 1))
+        if start_word_idx < len(word_indices) and end_word_idx < len(word_indices):
+            start_pos = word_indices[start_word_idx][0]
+            end_pos = word_indices[end_word_idx][1]
+            
+            print(f"Placing EDIT tags at positions {start_pos} to {end_pos}")
+            print(f"Text fragment: '{text[start_pos:end_pos]}'")
             
             result_text = (
                 result_text[:end_pos] + 
