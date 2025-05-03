@@ -24,6 +24,9 @@ def generate_html_report(text_versions=None, analysis_result=None, timestamp=Non
             base_name = os.path.basename(file_path)
             title = get_title_from_filename(base_name)
             
+            if base_name.startswith("token_scores_") or base_name.startswith("scored_"):
+                continue
+            
             with open(file_path, 'r', encoding='utf-8') as f:
                 content = f.read()
             
@@ -44,7 +47,7 @@ def generate_html_report(text_versions=None, analysis_result=None, timestamp=Non
                         <div class="verdict-content">{verdict_html}</div>
                     </div>
                     """
-            elif base_name.startswith("word_scores_") or base_name.startswith("token_scores_"):
+            elif base_name.startswith("word_scores_"):
                 sections += f"""
                 <div class="text-section">
                     <h3>{title}</h3>
@@ -66,8 +69,6 @@ def generate_html_report(text_versions=None, analysis_result=None, timestamp=Non
         ]
         
         for i in range(1, 4):
-            if f"with_scores_{i}" in text_versions:
-                stages.append((f"with_scores_{i}", f"Iteration {i}: Text with Scores"))
             if f"tagged_{i}" in text_versions:
                 stages.append((f"tagged_{i}", f"Iteration {i}: Text with <EDIT> Tags"))
             if f"edited_{i}" in text_versions:
@@ -81,30 +82,13 @@ def generate_html_report(text_versions=None, analysis_result=None, timestamp=Non
         for key, title in stages:
             if key in text_versions and text_versions[key]:
                 content = text_versions[key]
-                
-                if key.startswith("with_scores") and analysis_result and "tokens" in analysis_result and "binocular_scores" in analysis_result:
-                    highlighted_content = ""
-                    tokens = analysis_result["tokens"]
-                    scores = analysis_result["binocular_scores"].squeeze().tolist()
-                    
-                    for token, score in zip(tokens, scores):
-                        color_value = int(255 * score)
-                        highlighted_content += f"<span style='background-color: rgb(255, {255-color_value}, {255-color_value}); color: black;'>{token}</span>"
-                    
-                    sections += f"""
-                    <div class="text-section">
-                        <h3>{title}</h3>
-                        <div class="text-content highlighted-content">{highlighted_content}</div>
-                    </div>
-                    """
-                else:
-                    safe_content = content.replace("<", "&lt;").replace(">", "&gt;")
-                    sections += f"""
-                    <div class="text-section">
-                        <h3>{title}</h3>
-                        <pre class="text-content">{safe_content}</pre>
-                    </div>
-                    """
+                safe_content = content.replace("<", "&lt;").replace(">", "&gt;")
+                sections += f"""
+                <div class="text-section">
+                    <h3>{title}</h3>
+                    <pre class="text-content">{safe_content}</pre>
+                </div>
+                """
     
     if analysis_result and "html_edits" in analysis_result:
         sections += f"""

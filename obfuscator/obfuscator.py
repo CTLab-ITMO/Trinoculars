@@ -72,18 +72,6 @@ class TextObfuscator:
                 word_bino_file = save_text_to_file(analysis_result["word_bino_html"], f"word_scores_{iteration}", timestamp)
                 saved_files.append(word_bino_file)
             
-            if "token_bino_html" in analysis_result:
-                token_bino_file = save_text_to_file(analysis_result["token_bino_html"], f"token_scores_{iteration}", timestamp)
-                saved_files.append(token_bino_file)
-            
-            if iteration == 1:
-                text_versions[f"with_scores_{iteration}"] = analysis_result["text_with_scores"]
-                scored_file = save_text_to_file(analysis_result["text_with_scores"], f"scored_{iteration}", timestamp)
-            else:
-                text_versions[f"with_scores_{iteration}"] = analysis_result["text_with_scores"]
-                scored_file = save_text_to_file(analysis_result["text_with_scores"], f"scored_{iteration}", timestamp)
-            saved_files.append(scored_file)
-            
             if current_verdict == "Most likely human-generated":
                 print(f"Text detected as human-generated. No further obfuscation needed.")
                 break
