@@ -227,8 +227,10 @@ def generate_report_from_files(folder_name):
     html_file = generate_html_report(file_list=text_files)
     return html_file
 
-def save_text_to_file(text, prefix="text"):
-    folder_name = get_text_folder_name(text)
+def save_text_to_file(text, prefix="text", folder_name=None):
+    if folder_name is None:
+        folder_name = get_text_folder_name(text)
+    
     output_dir = ensure_directory(f"output_{folder_name}")
     filename = os.path.join(output_dir, f"{prefix}.txt")
     

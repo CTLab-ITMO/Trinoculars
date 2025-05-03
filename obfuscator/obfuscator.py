@@ -4,7 +4,7 @@ from datetime import datetime
 from bino_analyzer import analyze_text
 from character_editor import CharacterEditor
 from edit_writer import EditWriter
-from html_reporter import generate_report_from_files, save_text_to_file
+from html_reporter import generate_report_from_files, save_text_to_file, get_text_folder_name
 
 class TextObfuscator:
     def __init__(self, api_key=None, api_type="deepseek"):
@@ -30,7 +30,9 @@ class TextObfuscator:
         }
         saved_files = []
         
-        original_file = save_text_to_file(text, "original")
+        folder_name = get_text_folder_name(text)
+        
+        original_file = save_text_to_file(text, "original", folder_name)
         saved_files.append(original_file)
         
         if cleanup_formatting:
@@ -38,7 +40,7 @@ class TextObfuscator:
             cleaned_text = self.character_editor.remove_extra_characters(text)
             text_versions["cleaned"] = cleaned_text
             
-            cleaned_file = save_text_to_file(cleaned_text, "cleaned")
+            cleaned_file = save_text_to_file(cleaned_text, "cleaned", folder_name)
             saved_files.append(cleaned_file)
             
             current_text = cleaned_text
@@ -62,7 +64,7 @@ class TextObfuscator:
             verdict_info += f"Verdict: {current_verdict}\n"
             verdict_info += f"Binoculars score: {binoculars_score:.6f}\n"
             
-            verdict_file = save_text_to_file(verdict_info, f"verdict_{iteration}")
+            verdict_file = save_text_to_file(verdict_info, f"verdict_{iteration}", folder_name)
             saved_files.append(verdict_file)
             verdict_history.append({
                 "iteration": iteration, 
@@ -71,7 +73,7 @@ class TextObfuscator:
             })
             
             if "word_bino_html" in analysis_result:
-                word_bino_file = save_text_to_file(analysis_result["word_bino_html"], f"word_scores_{iteration}")
+                word_bino_file = save_text_to_file(analysis_result["word_bino_html"], f"word_scores_{iteration}", folder_name)
                 saved_files.append(word_bino_file)
             
             if current_verdict == "Most likely human-generated":
@@ -87,14 +89,14 @@ class TextObfuscator:
             tagged_text = analysis_result["edited_text"]
             text_versions[f"tagged_{iteration}"] = tagged_text
             
-            tagged_file = save_text_to_file(tagged_text, f"tagged_{iteration}")
+            tagged_file = save_text_to_file(tagged_text, f"tagged_{iteration}", folder_name)
             saved_files.append(tagged_file)
             
             print(f"Iteration {iteration}/{max_iterations}: Rewriting identified sections...")
             edited_text = self.edit_writer.process_text(tagged_text)
             text_versions[f"edited_{iteration}"] = edited_text
             
-            edited_file = save_text_to_file(edited_text, f"edited_{iteration}")
+            edited_file = save_text_to_file(edited_text, f"edited_{iteration}", folder_name)
             saved_files.append(edited_file)
             
             current_text = edited_text
@@ -110,7 +112,7 @@ class TextObfuscator:
                 summary += f"- Verdict: {entry['verdict']}\n"
                 summary += f"- Binoculars score: {entry['binoculars_score']:.6f}\n"
             
-            verdict_summary_file = save_text_to_file(summary, "verdict_summary")
+            verdict_summary_file = save_text_to_file(summary, "verdict_summary", folder_name)
             saved_files.append(verdict_summary_file)
         
         if iteration > 0 and current_verdict == "Most likely AI-generated":
@@ -123,16 +125,15 @@ class TextObfuscator:
             final_text = self.character_editor.remove_extra_characters(final_text)
             text_versions["final_cleaned"] = final_text
             
-            final_cleaned_file = save_text_to_file(final_text, "final_cleaned")
+            final_cleaned_file = save_text_to_file(final_text, "final_cleaned", folder_name)
             saved_files.append(final_cleaned_file)
             
         text_versions["final"] = final_text
         
-        final_file = save_text_to_file(final_text, "final")
+        final_file = save_text_to_file(final_text, "final", folder_name)
         saved_files.append(final_file)
         
         print("Generating HTML report from all saved files...")
-        folder_name = os.path.basename(os.path.dirname(saved_files[0])).replace("output_", "")
         html_file = generate_report_from_files(folder_name)
         saved_files.append(html_file)
         
