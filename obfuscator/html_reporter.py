@@ -8,12 +8,19 @@ def ensure_directory(dir_path):
         os.makedirs(dir_path)
     return dir_path
 
-def generate_html_report(text_versions=None, analysis_result=None, timestamp=None, file_list=None):
-    if timestamp is None:
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+def get_text_folder_name(text):
+    words = text.strip().split()[:5]
+    folder_name = '_'.join(words)
+    folder_name = ''.join(c if c.isalnum() else '_' for c in folder_name)
+    folder_name = folder_name[:50]
+    return folder_name or "empty_text"
+
+def generate_html_report(text_versions=None, analysis_result=None, file_list=None):
+    folder_name = os.path.basename(os.path.dirname(file_list[0])) if file_list else "report"
+    folder_name = folder_name.replace("output_", "")
     
-    output_dir = ensure_directory(f"output_{timestamp}")
-    filename = os.path.join(output_dir, f"obfuscation_report_{timestamp}.html")
+    output_dir = os.path.dirname(file_list[0]) if file_list else ensure_directory(f"output_{folder_name}")
+    filename = os.path.join(output_dir, f"obfuscation_report.html")
     
     sections = ""
     
@@ -58,7 +65,7 @@ def generate_html_report(text_versions=None, analysis_result=None, timestamp=Non
                 safe_content = content.replace("<", "&lt;").replace(">", "&gt;")
                 sections += f"""
                 <div class="text-section">
-                    <h3>{title} ({base_name})</h3>
+                    <h3>{title}</h3>
                     <pre class="text-content">{safe_content}</pre>
                 </div>
                 """
@@ -103,7 +110,7 @@ def generate_html_report(text_versions=None, analysis_result=None, timestamp=Non
     <html>
     <head>
         <meta charset="UTF-8">
-        <title>Text Obfuscation Report - {timestamp}</title>
+        <title>Text Obfuscation Report</title>
         <style>
             body {{ font-family: Arial, sans-serif; margin: 20px; background-color: #f9f9f9; }}
             h2 {{ color: #333; background-color: #e7f5fe; padding: 10px; border-radius: 5px; }}
@@ -129,7 +136,6 @@ def generate_html_report(text_versions=None, analysis_result=None, timestamp=Non
     <body>
         <div class="container">
             <h2>Text Obfuscation Report</h2>
-            <p class="meta-info">Report generated on: {timestamp}</p>
             
             {sections}
         </div>
@@ -174,22 +180,22 @@ def sort_files_by_type(file_list):
     return sorted(file_list, key=get_file_order)
 
 def get_title_from_filename(filename):
-    name = re.sub(r'_\d{8}_\d{6}\.txt$', '', filename)
+    name = os.path.basename(filename).replace('.txt', '')
     
-    if name.startswith("original"):
+    if name == "original":
         return "Original Text"
-    elif name.startswith("cleaned"):
+    elif name == "cleaned":
         return "Text After Formatting Cleanup"
-    elif name.startswith("verdict_summary"):
+    elif name == "verdict_summary":
         return "History of Obfuscator Verdicts"
     elif name.startswith("verdict_"):
         iteration = name.split("_")[1]
         return f"Iteration {iteration}: Analysis Result"
     elif name.startswith("word_scores_"):
-        iteration = name.split("_")[2]
+        iteration = name.split("_")[1]
         return f"Iteration {iteration}: Word-Based Binocular Scores"
     elif name.startswith("token_scores_"):
-        iteration = name.split("_")[2]
+        iteration = name.split("_")[1]
         return f"Iteration {iteration}: Token-Based Binocular Scores"
     elif name.startswith("scored_"):
         iteration = name.split("_")[1]
@@ -200,15 +206,15 @@ def get_title_from_filename(filename):
     elif name.startswith("edited_"):
         iteration = name.split("_")[1]
         return f"Iteration {iteration}: Edited Text"
-    elif name.startswith("final_cleaned"):
+    elif name == "final_cleaned":
         return "Final Cleaned Text"
-    elif name.startswith("final"):
+    elif name == "final":
         return "Final Obfuscated Text"
     else:
         return " ".join(word.capitalize() for word in name.split("_"))
 
-def generate_report_from_files(timestamp):
-    output_dir = f"output_{timestamp}"
+def generate_report_from_files(folder_name):
+    output_dir = f"output_{folder_name}"
     if not os.path.exists(output_dir):
         print(f"Output directory {output_dir} not found")
         return None
@@ -218,18 +224,13 @@ def generate_report_from_files(timestamp):
         print(f"No text files found in {output_dir}")
         return None
     
-    html_file = generate_html_report(timestamp=timestamp, file_list=text_files)
+    html_file = generate_html_report(file_list=text_files)
     return html_file
 
-def save_text_to_file(text, prefix="text", timestamp=None):
-    if timestamp is None:
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    
-    first_word = text.strip().split()[0] if text.strip() else "empty"
-    first_word = ''.join(c for c in first_word if c.isalnum())
-    first_word = first_word[:20]
-    output_dir = ensure_directory(f"output_{timestamp}")
-    filename = os.path.join(output_dir, f"{prefix}_{first_word}_{timestamp}.txt")
+def save_text_to_file(text, prefix="text"):
+    folder_name = get_text_folder_name(text)
+    output_dir = ensure_directory(f"output_{folder_name}")
+    filename = os.path.join(output_dir, f"{prefix}.txt")
     
     with open(filename, 'w', encoding='utf-8') as f:
         f.write(text)
