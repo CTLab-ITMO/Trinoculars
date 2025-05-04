@@ -130,7 +130,7 @@ class TextObfuscator:
                     try:
                         generate_report_from_files(folder_name)
                         print(f"\nPartial HTML report created.")
-                        print(f"Output directory: output_{folder_name}")
+                        print(f"Output directory: {folder_name}")
                     except:
                         print(f"\nFailed to create HTML report.")
                 

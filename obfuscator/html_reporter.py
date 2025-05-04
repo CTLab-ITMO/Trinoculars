@@ -227,7 +227,7 @@ def get_title_from_filename(filename):
         return " ".join(word.capitalize() for word in name.split("_"))
 
 def generate_report_from_files(folder_name):
-    output_dir = f"output_{folder_name}"
+    output_dir = f"{folder_name}"
     if not os.path.exists(output_dir):
         print(f"Output directory {output_dir} not found")
         return None
