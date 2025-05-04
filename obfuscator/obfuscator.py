@@ -171,7 +171,8 @@ class TextObfuscator:
         print("Generating HTML report from all saved files...")
         try:
             html_file = generate_report_from_files(folder_name)
-            saved_files.append(html_file)
+            if html_file is not None:
+                saved_files.append(html_file)
         except Exception as e:
             print(f"\nWarning: Failed to create HTML report: {str(e)}")
         
