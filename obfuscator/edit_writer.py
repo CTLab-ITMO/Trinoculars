@@ -4,6 +4,7 @@ import os
 import re
 from typing import Optional, Dict, List, Tuple
 from google import genai
+from openai import OpenAI
 
 class EditWriter:
     def __init__(self, api_key: Optional[str] = None, api_url: str = "https://api.deepseek.com/v1/chat/completions", api_type: str = "deepseek"):
@@ -25,8 +26,14 @@ class EditWriter:
                 raise ValueError("Gemini API key is not specified. Provide it when creating an instance or through the GEMINI_API_KEY environment variable")
             
             self.gemini_client = genai.Client(api_key=self.api_key)
+        elif api_type == "openai":
+            self.api_key = api_key or os.environ.get("OPENAI_API_KEY")
+            if not self.api_key:
+                raise ValueError("OpenAI API key is not specified. Provide it when creating an instance or through the OPENAI_API_KEY environment variable")
+            
+            self.openai_client = OpenAI(api_key=self.api_key)
         else:
-            raise ValueError(f"Unsupported API type: {api_type}. Supported types are 'deepseek' and 'gemini'")
+            raise ValueError(f"Unsupported API type: {api_type}. Supported types are 'deepseek', 'gemini', and 'openai'")
     
     def rewrite_text(self, text_to_edit: str) -> str:
         prompt = f"""
@@ -50,6 +57,8 @@ class EditWriter:
         
         if self.api_type == "deepseek":
             return self._rewrite_with_deepseek(prompt)
+        elif self.api_type == "openai":
+            return self._rewrite_with_openai(prompt)
         else:
             return self._rewrite_with_gemini(prompt)
     
@@ -91,6 +100,20 @@ class EditWriter:
             return response.text.strip()
         except Exception as e:
             print(f"Error with Gemini API: {e}")
+            return re.sub(r'<\/?EDIT>', '', prompt.split("```")[1].strip())
+    
+    def _rewrite_with_openai(self, prompt: str) -> str:
+        try:
+            response = self.openai_client.chat.completions.create(
+                model="gpt-4o-mini",
+                messages=[
+                    {"role": "user", "content": prompt}
+                ],
+                temperature=1.0
+            )
+            return response.choices[0].message.content.strip()
+        except Exception as e:
+            print(f"Error with OpenAI API: {e}")
             return re.sub(r'<\/?EDIT>', '', prompt.split("```")[1].strip())
     
     def process_text(self, text: str) -> str:

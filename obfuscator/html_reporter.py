@@ -231,7 +231,7 @@ def save_text_to_file(text, prefix="text", folder_name=None):
     if folder_name is None:
         folder_name = get_text_folder_name(text)
     
-    output_dir = ensure_directory(f"output_{folder_name}")
+    output_dir = ensure_directory(f"{folder_name}")
     filename = os.path.join(output_dir, f"{prefix}.txt")
     
     with open(filename, 'w', encoding='utf-8') as f:

@@ -18,8 +18,12 @@ class TextObfuscator:
             self.api_key = api_key or os.environ.get("GEMINI_API_KEY")
             if not self.api_key:
                 raise ValueError("Gemini API key is not specified. Provide it when creating an instance or through the GEMINI_API_KEY environment variable")
+        elif api_type == "openai":
+            self.api_key = api_key or os.environ.get("OPENAI_API_KEY")
+            if not self.api_key:
+                raise ValueError("OpenAI API key is not specified. Provide it when creating an instance or through the OPENAI_API_KEY environment variable")
         else:
-            raise ValueError(f"Unsupported API type: {api_type}. Supported types are 'deepseek' and 'gemini'")
+            raise ValueError(f"Unsupported API type: {api_type}. Supported types are 'deepseek', 'gemini', and 'openai'")
         
         self.character_editor = CharacterEditor(api_key=self.api_key, api_type=self.api_type)
         self.edit_writer = EditWriter(api_key=self.api_key, api_type=self.api_type)
@@ -164,7 +168,7 @@ if __name__ == "__main__":
     parser.add_argument("--regions", "-r", help="Number of regions to edit (2-5)", type=int, default=3)
     parser.add_argument("--no-cleanup", help="Skip the formatting cleanup step", action="store_true")
     parser.add_argument("--api-key", help="API key for chosen model")
-    parser.add_argument("--api-type", help="API type to use (deepseek or gemini)", choices=["deepseek", "gemini"], default="deepseek")
+    parser.add_argument("--api-type", help="API type to use", choices=["deepseek", "gemini", "openai"], default="deepseek")
     
     args = parser.parse_args()
     
