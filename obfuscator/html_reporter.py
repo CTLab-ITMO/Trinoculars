@@ -75,7 +75,16 @@ def generate_html_report(text_versions=None, analysis_result=None, file_list=Non
             ("cleaned", "Text After Formatting Cleanup"),
         ]
         
-        for i in range(1, 4):
+        max_iteration = 0
+        for key in text_versions.keys():
+            if key.startswith(("tagged_", "edited_")):
+                try:
+                    iteration = int(key.split("_")[1])
+                    max_iteration = max(max_iteration, iteration)
+                except (ValueError, IndexError):
+                    pass
+        
+        for i in range(1, max_iteration + 1):
             if f"tagged_{i}" in text_versions:
                 stages.append((f"tagged_{i}", f"Iteration {i}: Text with <EDIT> Tags"))
             if f"edited_{i}" in text_versions:
@@ -150,32 +159,36 @@ def generate_html_report(text_versions=None, analysis_result=None, file_list=Non
     return filename
 
 def sort_files_by_type(file_list):
-    file_order = {
-        "original": 1,
-        "cleaned": 2,
-        "verdict_1": 3,
-        "word_scores_1": 4,
-        "tagged_1": 5,
-        "edited_1": 6,
-        "verdict_2": 7,
-        "word_scores_2": 8,
-        "tagged_2": 9,
-        "edited_2": 10,
-        "verdict_3": 11,
-        "word_scores_3": 12,
-        "tagged_3": 13,
-        "edited_3": 14,
-        "verdict_summary": 15,
-        "final_cleaned": 16,
-        "final": 17
+    base_order = {
+        "original": 10,
+        "cleaned": 20,
+        "verdict_summary": 9000,
+        "final_cleaned": 9010,
+        "final": 9020
     }
     
     def get_file_order(file_path):
         basename = os.path.basename(file_path)
-        for prefix, order in file_order.items():
-            if basename.startswith(prefix):
-                return order
-        return 999
+        name = basename.replace('.txt', '')
+        
+        if name in base_order:
+            return base_order[name]
+        
+        if any(name.startswith(prefix) for prefix in ["verdict_", "word_scores_", "tagged_", "edited_"]):
+            parts = name.split('_')
+            if len(parts) >= 2 and parts[1].isdigit():
+                iteration = int(parts[1])
+
+                if name.startswith("verdict_"):
+                    return (iteration * 1000) + 100
+                elif name.startswith("word_scores_"):
+                    return (iteration * 1000) + 200
+                elif name.startswith("tagged_"):
+                    return (iteration * 1000) + 300
+                elif name.startswith("edited_"):
+                    return (iteration * 1000) + 400
+        
+        return 9999
     
     return sorted(file_list, key=get_file_order)
 
