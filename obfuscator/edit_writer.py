@@ -82,14 +82,15 @@ class EditWriter:
             result = response.json()
             rewritten_text = result.get("choices", [{}])[0].get("message", {}).get("content", "")
             
+            if not rewritten_text:
+                raise ValueError("DeepSeek API returned empty response")
+                
             return rewritten_text.strip()
             
         except requests.exceptions.RequestException as e:
-            print(f"DeepSeek API request error: {e}")
-            return re.sub(r'<\/?EDIT>', '', prompt.split("```")[1].strip())
-        except (KeyError, IndexError) as e:
-            print(f"Error processing DeepSeek API response: {e}")
-            return re.sub(r'<\/?EDIT>', '', prompt.split("```")[1].strip())
+            raise RuntimeError(f"DeepSeek API request error: {e}")
+        except (KeyError, IndexError, ValueError) as e:
+            raise RuntimeError(f"Error processing DeepSeek API response: {e}")
     
     def _rewrite_with_gemini(self, prompt: str) -> str:
         try:
@@ -97,10 +98,12 @@ class EditWriter:
                 model="gemini-2.0-flash",
                 contents=prompt
             )
+            if not response or not response.text:
+                raise ValueError("Gemini API returned empty response")
+                
             return response.text.strip()
         except Exception as e:
-            print(f"Error with Gemini API: {e}")
-            return re.sub(r'<\/?EDIT>', '', prompt.split("```")[1].strip())
+            raise RuntimeError(f"Error with Gemini API: {e}")
     
     def _rewrite_with_openai(self, prompt: str) -> str:
         try:
@@ -111,11 +114,17 @@ class EditWriter:
                 ],
                 temperature=1.0
             )
+            if not response or not response.choices or not response.choices[0].message.content:
+                raise ValueError("OpenAI API returned empty response")
+                
             return response.choices[0].message.content.strip()
         except Exception as e:
-            print(f"Error with OpenAI API: {e}")
-            return re.sub(r'<\/?EDIT>', '', prompt.split("```")[1].strip())
+            raise RuntimeError(f"Error with OpenAI API: {e}")
     
     def process_text(self, text: str) -> str:
-        rewritten = self.rewrite_text(text)
-        return rewritten
+        try:
+            rewritten = self.rewrite_text(text)
+            return rewritten
+        except Exception as e:
+            print(f"\nError during text rewriting: {str(e)}")
+            raise

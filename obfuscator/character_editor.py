@@ -35,26 +35,30 @@ class CharacterEditor:
             raise ValueError(f"Unsupported API type: {api_type}. Supported types are 'deepseek', 'gemini', and 'openai'")
     
     def remove_extra_characters(self, text: str) -> str:
-        prompt = f"""
-        Внимательно прочитай предоставленный текст и удали из него все лишние элементы форматирования и служебные метки, не изменяя смысл. Выполни следующую очистку:
-        1. Форматирование: убери разметку Markdown (например, символы `**`, `_`, `~~` для оформления текста) и все HTML-теги, если они присутствуют. Текст должен остаться без **жирного**, *курсивного* или ~зачёркнутого~ оформления – только обычный текст.
-        2. Структурные метки: удали заголовки или префиксы вроде «Тема:», «Вопрос:», «Ответ:» – оставь вместо них просто текст вопроса или ответа без слов «вопрос/ответ». Также удали маркеры списков: дефисы, точки, звездочки, нумерацию перед элементами списка. Содержимое бывших списков оставь как отдельные предложения или объедини в абзацы, но без спецсимволов в начале.
-        3. Технические комментарии: убери из текста любые части вроде «Пример:», «Примечание:», «Замечание:» и похожие служебные комментарии. Также удали возможные пояснения от лица модели (например, фразы про то, какое это задание или инструкция), если они есть. Оставь только сам текст без дополнительных объяснений.
-        4. Сохранение смысла: не добавляй и не убирай смысловую информацию. Перефразируй минимально, только если нужно убрать лишние метки или форматирование. Структура и смысл предложений исходного текста должны сохраниться, просто без форматирования и служебных элементов.
-        На выходе выдай только очищенный текст на русском языке, без каких-либо дополнительных комментариев.
-        
-        Текст для очистки:
-        ```
-        {text}
-        ```
-        """
-        
-        if self.api_type == "deepseek":
-            return self._process_with_deepseek(prompt)
-        elif self.api_type == "openai":
-            return self._process_with_openai(prompt)
-        else:
-            return self._process_with_gemini(prompt)
+        try:
+            prompt = f"""
+            Внимательно прочитай предоставленный текст и удали из него все лишние элементы форматирования и служебные метки, не изменяя смысл. Выполни следующую очистку:
+            1. Форматирование: убери разметку Markdown (например, символы `**`, `_`, `~~` для оформления текста) и все HTML-теги, если они присутствуют. Текст должен остаться без **жирного**, *курсивного* или ~зачёркнутого~ оформления – только обычный текст.
+            2. Структурные метки: удали заголовки или префиксы вроде «Тема:», «Вопрос:», «Ответ:» – оставь вместо них просто текст вопроса или ответа без слов «вопрос/ответ». Также удали маркеры списков: дефисы, точки, звездочки, нумерацию перед элементами списка. Содержимое бывших списков оставь как отдельные предложения или объедини в абзацы, но без спецсимволов в начале.
+            3. Технические комментарии: убери из текста любые части вроде «Пример:», «Примечание:», «Замечание:» и похожие служебные комментарии. Также удали возможные пояснения от лица модели (например, фразы про то, какое это задание или инструкция), если они есть. Оставь только сам текст без дополнительных объяснений.
+            4. Сохранение смысла: не добавляй и не убирай смысловую информацию. Перефразируй минимально, только если нужно убрать лишние метки или форматирование. Структура и смысл предложений исходного текста должны сохраниться, просто без форматирования и служебных элементов.
+            На выходе выдай только очищенный текст на русском языке, без каких-либо дополнительных комментариев.
+            
+            Текст для очистки:
+            ```
+            {text}
+            ```
+            """
+            
+            if self.api_type == "deepseek":
+                return self._process_with_deepseek(prompt)
+            elif self.api_type == "openai":
+                return self._process_with_openai(prompt)
+            else:
+                return self._process_with_gemini(prompt)
+        except Exception as e:
+            print(f"\nError during text cleaning: {str(e)}")
+            raise
     
     def _process_with_deepseek(self, prompt: str) -> str:
         payload = {
@@ -76,14 +80,15 @@ class CharacterEditor:
             result = response.json()
             cleaned_text = result.get("choices", [{}])[0].get("message", {}).get("content", "")
             
+            if not cleaned_text:
+                raise ValueError("DeepSeek API returned empty response")
+                
             return cleaned_text.strip()
             
         except requests.exceptions.RequestException as e:
-            print(f"DeepSeek API request error: {e}")
-            return prompt.split("```")[1].strip() if "```" in prompt else prompt
-        except (KeyError, IndexError) as e:
-            print(f"Error processing DeepSeek API response: {e}")
-            return prompt.split("```")[1].strip() if "```" in prompt else prompt
+            raise RuntimeError(f"DeepSeek API request error: {e}")
+        except (KeyError, IndexError, ValueError) as e:
+            raise RuntimeError(f"Error processing DeepSeek API response: {e}")
     
     def _process_with_gemini(self, prompt: str) -> str:
         try:
@@ -91,10 +96,12 @@ class CharacterEditor:
                 model="gemini-2.0-flash",
                 contents=prompt
             )
+            if not response or not response.text:
+                raise ValueError("Gemini API returned empty response")
+                
             return response.text.strip()
         except Exception as e:
-            print(f"Error with Gemini API: {e}")
-            return prompt.split("```")[1].strip() if "```" in prompt else prompt
+            raise RuntimeError(f"Error with Gemini API: {e}")
             
     def _process_with_openai(self, prompt: str) -> str:
         try:
@@ -105,7 +112,9 @@ class CharacterEditor:
                 ],
                 temperature=0.7
             )
+            if not response or not response.choices or not response.choices[0].message.content:
+                raise ValueError("OpenAI API returned empty response")
+                
             return response.choices[0].message.content.strip()
         except Exception as e:
-            print(f"Error with OpenAI API: {e}")
-            return prompt.split("```")[1].strip() if "```" in prompt else prompt
+            raise RuntimeError(f"Error with OpenAI API: {e}")

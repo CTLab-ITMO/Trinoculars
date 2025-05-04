@@ -1,10 +1,10 @@
 import os
 import argparse
-from datetime import datetime
 from bino_analyzer import analyze_text
 from character_editor import CharacterEditor
 from edit_writer import EditWriter
 from html_reporter import generate_report_from_files, save_text_to_file, get_text_folder_name
+import sys
 
 class TextObfuscator:
     def __init__(self, api_key=None, api_type="deepseek"):
@@ -41,13 +41,17 @@ class TextObfuscator:
         
         if cleanup_formatting:
             print("Step 1: Cleaning up formatting...")
-            cleaned_text = self.character_editor.remove_extra_characters(text)
-            text_versions["cleaned"] = cleaned_text
-            
-            cleaned_file = save_text_to_file(cleaned_text, "cleaned", folder_name)
-            saved_files.append(cleaned_file)
-            
-            current_text = cleaned_text
+            try:
+                cleaned_text = self.character_editor.remove_extra_characters(text)
+                text_versions["cleaned"] = cleaned_text
+                
+                cleaned_file = save_text_to_file(cleaned_text, "cleaned", folder_name)
+                saved_files.append(cleaned_file)
+                
+                current_text = cleaned_text
+            except Exception as e:
+                print(f"\Process interrupted due to API error during text cleaning.")
+                sys.exit(1)
         else:
             current_text = text
         
@@ -60,53 +64,78 @@ class TextObfuscator:
             iteration += 1
             
             print(f"Iteration {iteration}/{max_iterations}: Analyzing text...")
-            analysis_result = analyze_text(current_text, add_edit_tags=True, num_regions=num_regions)
-            current_verdict = analysis_result["verdict"]
-            binoculars_score = analysis_result["binoculars_score"]
-            
-            verdict_info = f"Iteration {iteration}\n"
-            verdict_info += f"Verdict: {current_verdict}\n"
-            verdict_info += f"Binoculars score: {binoculars_score:.6f}\n"
-            
-            verdict_file = save_text_to_file(verdict_info, f"verdict_{iteration}", folder_name)
-            saved_files.append(verdict_file)
-            verdict_history.append({
-                "iteration": iteration, 
-                "verdict": current_verdict, 
-                "binoculars_score": binoculars_score
-            })
-            
-            if "word_bino_html" in analysis_result:
-                word_bino_file = save_text_to_file(analysis_result["word_bino_html"], f"word_scores_{iteration}", folder_name)
-                saved_files.append(word_bino_file)
-            
-            if current_verdict == "Most likely human-generated":
-                print(f"Text detected as human-generated. No further obfuscation needed.")
-                break
-            
-            if "edited_text" not in analysis_result:
-                print(f"No sections requiring edits were identified.")
-                break
-            
-            print(f"Iteration {iteration}/{max_iterations}: Text detected as AI-generated. Obfuscating...")
-            
-            tagged_text = analysis_result["edited_text"]
-            text_versions[f"tagged_{iteration}"] = tagged_text
-            
-            tagged_file = save_text_to_file(tagged_text, f"tagged_{iteration}", folder_name)
-            saved_files.append(tagged_file)
-            
-            print(f"Iteration {iteration}/{max_iterations}: Rewriting identified sections...")
-            edited_text = self.edit_writer.process_text(tagged_text)
-            text_versions[f"edited_{iteration}"] = edited_text
-            
-            edited_file = save_text_to_file(edited_text, f"edited_{iteration}", folder_name)
-            saved_files.append(edited_file)
-            
-            current_text = edited_text
-            
-            if iteration == max_iterations:
-                break
+            try:
+                analysis_result = analyze_text(current_text, add_edit_tags=True, num_regions=num_regions)
+                current_verdict = analysis_result["verdict"]
+                binoculars_score = analysis_result["binoculars_score"]
+                
+                verdict_info = f"Iteration {iteration}\n"
+                verdict_info += f"Verdict: {current_verdict}\n"
+                verdict_info += f"Binoculars score: {binoculars_score:.6f}\n"
+                
+                verdict_file = save_text_to_file(verdict_info, f"verdict_{iteration}", folder_name)
+                saved_files.append(verdict_file)
+                verdict_history.append({
+                    "iteration": iteration, 
+                    "verdict": current_verdict, 
+                    "binoculars_score": binoculars_score
+                })
+                
+                if "word_bino_html" in analysis_result:
+                    word_bino_file = save_text_to_file(analysis_result["word_bino_html"], f"word_scores_{iteration}", folder_name)
+                    saved_files.append(word_bino_file)
+                
+                if current_verdict == "Most likely human-generated":
+                    print(f"Text detected as human-generated. No further obfuscation needed.")
+                    break
+                
+                if "edited_text" not in analysis_result:
+                    print(f"No sections requiring edits were identified.")
+                    break
+                
+                print(f"Iteration {iteration}/{max_iterations}: Text detected as AI-generated. Obfuscating...")
+                
+                tagged_text = analysis_result["edited_text"]
+                text_versions[f"tagged_{iteration}"] = tagged_text
+                
+                tagged_file = save_text_to_file(tagged_text, f"tagged_{iteration}", folder_name)
+                saved_files.append(tagged_file)
+                
+                print(f"Iteration {iteration}/{max_iterations}: Rewriting identified sections...")
+                
+                edited_text = self.edit_writer.process_text(tagged_text)
+                text_versions[f"edited_{iteration}"] = edited_text
+                
+                edited_file = save_text_to_file(edited_text, f"edited_{iteration}", folder_name)
+                saved_files.append(edited_file)
+                
+                current_text = edited_text
+                
+                if iteration == max_iterations:
+                    break
+
+            except Exception as e:
+                print(f"\nProcess interrupted error: {str(e)}")
+                
+                if verdict_history:
+                    summary = "# History of Obfuscator Verdicts (Process Interrupted)\n\n"
+                    summary += f"Process was interrupted during iteration {iteration}\n\n"
+                    
+                    for entry in verdict_history:
+                        summary += f"## Iteration {entry['iteration']}\n"
+                        summary += f"- Verdict: {entry['verdict']}\n"
+                        summary += f"- Binoculars score: {entry['binoculars_score']:.6f}\n"
+                    
+                    save_text_to_file(summary, "verdict_summary", folder_name)
+                    
+                    try:
+                        generate_report_from_files(folder_name)
+                        print(f"\nPartial HTML report created.")
+                        print(f"Output directory: output_{folder_name}")
+                    except:
+                        print(f"\nFailed to create HTML report.")
+                
+                sys.exit(1)
         
         if verdict_history:
             summary = "# History of Obfuscator Verdicts\n\n"
@@ -126,11 +155,14 @@ class TextObfuscator:
             
         if cleanup_formatting:
             print("Final step: Cleaning up formatting of the processed text...")
-            final_text = self.character_editor.remove_extra_characters(final_text)
-            text_versions["final_cleaned"] = final_text
-            
-            final_cleaned_file = save_text_to_file(final_text, "final_cleaned", folder_name)
-            saved_files.append(final_cleaned_file)
+            try:
+                final_text = self.character_editor.remove_extra_characters(final_text)
+                text_versions["final_cleaned"] = final_text
+                
+                final_cleaned_file = save_text_to_file(final_text, "final_cleaned", folder_name)
+                saved_files.append(final_cleaned_file)
+            except Exception as e:
+                print(f"\nWarning: Failed to perform final formatting cleanup: {str(e)}")
             
         text_versions["final"] = final_text
         
@@ -138,8 +170,11 @@ class TextObfuscator:
         saved_files.append(final_file)
         
         print("Generating HTML report from all saved files...")
-        html_file = generate_report_from_files(folder_name)
-        saved_files.append(html_file)
+        try:
+            html_file = generate_report_from_files(folder_name)
+            saved_files.append(html_file)
+        except Exception as e:
+            print(f"\nWarning: Failed to create HTML report: {str(e)}")
         
         return {
             "original_text": text,
