@@ -28,7 +28,7 @@ class TextObfuscator:
         self.character_editor = CharacterEditor(api_key=self.api_key, api_type=self.api_type)
         self.edit_writer = EditWriter(api_key=self.api_key, api_type=self.api_type)
     
-    def obfuscate_text(self, text, num_regions=3, cleanup_formatting=True):
+    def obfuscate_text(self, text, num_regions=3, cleanup_formatting=True, max_iterations=3):
         text_versions = {
             "original": text
         }
@@ -56,7 +56,6 @@ class TextObfuscator:
             current_text = text
         
         iteration = 0
-        max_iterations = 3
         current_verdict = None
         verdict_history = []
         
@@ -186,7 +185,7 @@ class TextObfuscator:
             "verdict_history": verdict_history
         }
     
-    def obfuscate_file(self, input_file, num_regions=3, cleanup_formatting=True):
+    def obfuscate_file(self, input_file, num_regions=3, cleanup_formatting=True, max_iterations=3):
         try:
             with open(input_file, 'r', encoding='utf-8') as f:
                 text = f.read()
@@ -194,13 +193,14 @@ class TextObfuscator:
             print(f"Error reading file {input_file}: {str(e)}")
             return None
         
-        result = self.obfuscate_text(text, num_regions, cleanup_formatting)
+        result = self.obfuscate_text(text, num_regions, cleanup_formatting, max_iterations)
         return result
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Text obfuscation pipeline")
     parser.add_argument("--input", "-i", help="Input file path", required=True)
     parser.add_argument("--regions", "-r", help="Number of regions to edit (2-5)", type=int, default=3)
+    parser.add_argument("--iterations", "-n", help="Maximum number of obfuscation iterations", type=int, default=3)
     parser.add_argument("--no-cleanup", help="Skip the formatting cleanup step", action="store_true")
     parser.add_argument("--api-key", help="API key for chosen model")
     parser.add_argument("--api-type", help="API type to use", choices=["deepseek", "gemini", "openai"], default="deepseek")
@@ -211,7 +211,8 @@ if __name__ == "__main__":
     result = obfuscator.obfuscate_file(
         args.input,
         num_regions=args.regions,
-        cleanup_formatting=not args.no_cleanup
+        cleanup_formatting=not args.no_cleanup,
+        max_iterations=args.iterations
     )
     
     if result:
