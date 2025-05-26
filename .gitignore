@@ -162,13 +162,8 @@ cython_debug/
 samples/
 
 **.*ipynb
-data/train-00000-of-00007-bc5952582e004d67.parquet
-data/train-00001-of-00007-71c80017bc45f30d.parquet
-data/train-00002-of-00007-ee2d43f396e78fbc.parquet
-data/train-00003-of-00007-529931154b42b51d.parquet
-data/train-00004-of-00007-b269dc49374a2c0b.parquet
-data/train-00005-of-00007-3dce5e05ddbad789.parquet
-data/train-00006-of-00007-3d8a471ba0cf1c8d.parquet
+data/
 
 logs/
 plots/
+obfuscator/res/
